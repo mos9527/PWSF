@@ -33,14 +33,21 @@ key = name_hash(basename)
 | # | 模块 | 状态 | 文档 | 计划 |
 |---|---|---|---|---|
 | 01 | UI 文字（olang / RBX） | ✅ 提取已打通 | [01_olang_text.md](../ANALYSIS/01_olang_text.md) | [01_ui_text.md](01_ui_text.md) |
-| 02 | 字幕 | 🟡 部分 | [02_movie_subtitle.md](../ANALYSIS/02_movie_subtitle.md) | [02_subtitle.md](02_subtitle.md) |
-| 03 | CODEC（`0076531d.DAT`） | 🟢 台词已全量提取；🟡 语言归属未解决 | [03_codec.md](../ANALYSIS/03_codec.md) | [03_codec.md](03_codec.md) |
+| 02 | 字幕 | ✅ 游戏内字幕已提取；影片字幕数据不存在 | [02_movie_subtitle.md](../ANALYSIS/02_movie_subtitle.md) | [02_subtitle.md](02_subtitle.md) |
+| 03 | CODEC（`0076531d.DAT`） | ✅ 台词 + 语言归属 + 演出信息已提取 | [03_codec.md](../ANALYSIS/03_codec.md) | [03_codec.md](03_codec.md) |
 | 04 | 归档 PDT/DAT | ✅ 已打通 | [04_archive.md](../ANALYSIS/04_archive.md) | [04_archive.md](04_archive.md) |
+| 05 | 字体 XPR2/ATG | ✅ 格式打通，扩字形可行 | [05_font.md](../ANALYSIS/05_font.md) | [05_font.md](05_font.md) |
+
+> 02 现状（已实证，见 02 号文档 §6）：
+> **影片字幕**——全盘 134 容器 / 113,348 条目中 `SUBTITLE` 零命中，
+> `BKD00000.PDT` 未随包发布 → *数据不存在，非格式问题*，B 线收尾。
+> **游戏内字幕**——`v4` 已汇编核对确为 olang group 键；此前"8 个键零命中"
+> 系文档抄错十六进制所致，用汇编原值重筛 8/8 命中，
+> 4,128 行已导出到 `ANALYSIS/subtitle_ingame.tsv`。
 
 > 03 现状：容器格式已打通，2,049 条记录 / 24,438 行台词已导出到
-> `ANALYSIS/_briefing_lines.tsv`，**0 个不可解码字符**。
-> **尚缺语言归属**（语言不在记录内，只在运行时寻址表里），
-> 因此 TSV 不输出语言列。
+> `ANALYSIS/_briefing_lines.tsv`，**0 个不可解码字符**，
+> 且带 `lang` / 时间轴 / 说话人列（语言归属由 2 组 × 6 语言块解决）。
 
 > 04 曾阻塞 02 与 03，现已解除：138 个容器 / 134 个有效 / 113,348 条目 /
 > 2,042 个 payload CRC-32 全通过。
@@ -57,8 +64,8 @@ mgspw\
 ├─ MLG\disc0_rel\ADEMO|ADEMOHQ|CAMO
 ├─ EXLANG\Text\*.olang      3 个   葡萄牙语文本表（写在 es 槽）
 ├─ EXLANG\data\{Mov,hqMov}\        pt 专有影片
-├─ FONT\*.xpr                      字体
-├─ Text\*.txp                      字形贴图
+├─ FONT\*.xpr                      字体（XPR2 / ATG font，见 05）
+├─ Text\*.txp                      按键图标贴图包（按手柄类型选，非字形）
 ├─ SHADER\x64\
 └─ ms0\EU\DLC{BGM,TEX,VOICE}\*.PDT
 ```
@@ -72,5 +79,7 @@ mgspw\
 | `pwsf_archive.py` | PDT/DAT 归档解析 + payload 解密 + CRC-32 校验 |
 | `pwsf_names.py` | `entry_name_hash` / `str_hash24` / 67 项扩展名表 / 哈希反演 |
 | `pwsf_briefing.py` | BRIEFING/CODEC：逐扇区解密 + 记录头解析 + 台词导出 |
+| `pwsf_subtitle.py` | 游戏内字幕：8 个 olang group → `ANALYSIS/subtitle_ingame.tsv` |
+| `_probe_font*.py` | XPR2 容器 + ATG `FontData` 解析、字形覆盖率与图集余量 |
 | `pwsf_archive_index.py` | 全盘容器索引 → `ANALYSIS/_archive_index.tsv` |
 | `_probe_*.py` | 各阶段取证脚本（保留作为证据） |
