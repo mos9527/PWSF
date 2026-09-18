@@ -38,16 +38,25 @@ olang_register_table(a1, list, count)
 `00c7f1dc` 有 37 个 group 内部混用。
 **下一步**：从 `text_get` @ `0x1400E6990` 的调用方反查该返回值的用途。
 
-### 3. 回写（rebuild）工具
+### 3. 回写（rebuild）工具 —— ✅ 已完成
 
-**下一步**
-1. 反序列化：TSV → 重新布局字符串池（去重、NUL 结尾）
-2. 重算 `str_off` / 三表偏移 / `group_count`
-3. 重新 XOR 加密（同 key），保持 `table_id` 不变
-4. 校验：重新解析应逐字段等价于原表
+`TOOLS/pwsf_olang_build.py`，取证见 [01 号文档 §6.5](../ANALYSIS/01_olang_text.md)。
+
+- [x] 重新布局字符串池（去重、NUL 结尾），重算 `str_off` / 三表偏移
+- [x] 重新 XOR 加密（同 key），`table_id` 保持不变
+- [x] `serialize_exact()` 与原文件**字节一致**；`serialize()` 重新解析后
+      逐三元组等价（`_probe_olang3.py`，17/17）
+- [x] **端到端实机验证通过**：`_poc_text_cn.py` 改写 8 条 UI 文本 + 自动补
+      32 个字形，实机显示中文（证据图 `ANALYSIS/_text_poc_ingame.png`）
 
 ### 4. 内联标记规范化
 
 文本含 `<I=...>` 图标/按键引用（如 `<I=AIM>` `<I=DEC>`
-`<I=item_exp_IT_EQ_LOVE_CBOARD_R1>`），换行是字面 `\n`。
+`<I=item_exp_IT_EQ_LOVE_CBOARD_R1>`）。
+
+> **换行是真实 `0x0A`，不是字面 `\n`**（此前记反了）。`_probe_olang4.py`
+> 扫全部 137,358 条：含 `0x0A` 的 4,289 条，含字面反斜杠-n 的 **0 条**，
+> 另有 181 条含 `0x0D`。之前的误判源于 `_probe_dump.py` 会把真实换行
+> 转义成 `\n` 写进 TSV，光看 TSV 分辨不出来。
+
 **下一步**：枚举全部 `<I=...>` 取值并建表，确保回写时不破坏。
