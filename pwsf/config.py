@@ -120,11 +120,19 @@ def pristine(path: Path) -> Path:
 
 
 def installed_backups() -> list:
-    """Every game file an installer has replaced, newest first."""
+    """Every game file whose live copy differs from its `.orig` backup.
+
+    A backup that matches its live file is left over from a restore, not an
+    installed build, so it must not be reported as one.
+    """
     if not GAME_DIR.is_dir():
         return []
-    return sorted(GAME_DIR.rglob("*" + BACKUP_SUFFIX),
-                  key=lambda p: p.stat().st_mtime, reverse=True)
+    out = []
+    for backup in GAME_DIR.rglob("*" + BACKUP_SUFFIX):
+        live = backup.with_name(backup.name[:-len(BACKUP_SUFFIX)])
+        if live.is_file() and live.read_bytes() != backup.read_bytes():
+            out.append(backup)
+    return sorted(out, key=lambda p: p.stat().st_mtime, reverse=True)
 
 
 # ----------------------------------------------------------- game subfolders

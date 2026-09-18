@@ -321,6 +321,23 @@ python _poc_font_cn.py --restore   # 还原
 > 顺带确认：`g_font_index` 恒为 0 的结论正确——只改了 `0007ccd8.xpr`
 > （`g_font_large`）就生效了，`000ebbe8.xpr` 一个字节没动。
 
+### 9.2 「渲染为空」判不出 TTF 缺字（构建器曾会贴豆腐块）
+
+补字形前必须确认 TTF 真有那个字，否则贴进图集的是替代字形。原判据是
+「位图为空就算缺字」——**在 `msyh.ttc` 上一个都抓不到**：未映射的码点
+FreeType 回退到 `.notdef`，而微软雅黑的 `.notdef` 是个空心方框，有墨迹，
+`getbbox()` 不为 `None`。结果是方框被当成正常字形贴进图集，
+实机显示豆腐块，而构建器一句警告都不出。
+
+判据改成与该字体自己的 `.notdef` 比对：拿 **`U+FF00`**（Unicode 未分配，
+任何字体都不会映射它）渲一次，得到的就是这张字体的 `.notdef` 位图；
+之后任何渲染结果与它逐字节相同（或为空）的码点，都判为缺字并直接报错。
+实现见 `pwsf.font_build.unrenderable()`，`plan()` 与 `build_font()` 共用，
+所以校验期的判断与构建期完全一致。
+
+证据：`_probe_po4.py` 的 `font-notdef-in-ttf` 用例，用私用区 `U+E123`
+（`msyh.ttc` 必然无字形）触发；改判据前该用例静默通过，改后报 `font` 错误。
+
 ## 10. 待办
 
 - [x] ~~确认文本渲染侧的 UTF-8 → u16 解码~~ —— 见 §6.1/§6.2，实证 + 反证闭合
@@ -343,4 +360,5 @@ python _probe_font4.py    # 图集导出 PNG，确认线性存储
 python _probe_font5.py    # 往返字节一致性（容器 / FontData / 重加密）
 python _probe_font6.py    # 现役汉字的墨迹度量基准
 python _poc_font_cn.py    # 中文字形 PoC
+python _probe_po4.py      # §9.2：.notdef 判据（font-notdef-in-ttf 用例）
 ```

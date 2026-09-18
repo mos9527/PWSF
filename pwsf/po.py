@@ -101,3 +101,25 @@ def translated(path) -> dict:
         for r in e.refs:
             out[r] = e.msgstr
     return out
+
+
+def po_files(root) -> list:
+    """Every .po under `root`, sorted. The .pot template is not one of them.
+
+    The template carries all 6,260 entries with empty msgstr; including it
+    would double every count and, once someone translates in it by mistake,
+    silently contradict the chunk files.
+    """
+    return sorted(Path(root).rglob("*.po"))
+
+
+def iter_entries(root):
+    """Yield (path, PoEntry) for every real entry under `root`.
+
+    The empty-msgid header block of each file is skipped; it holds metadata,
+    not text.
+    """
+    for path in po_files(root):
+        for e in parse_po(path):
+            if e.msgid:
+                yield path, e

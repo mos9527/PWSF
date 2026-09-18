@@ -37,7 +37,7 @@ key = name_hash(basename)
 | 03 | CODEC（`0076531d.DAT`） | ✅ 台词 + 语言归属 + 演出信息已提取 | [03_codec.md](../ANALYSIS/03_codec.md) | [03_codec.md](03_codec.md) |
 | 04 | 归档 PDT/DAT | ✅ 已打通 | [04_archive.md](../ANALYSIS/04_archive.md) | [04_archive.md](04_archive.md) |
 | 05 | 字体 XPR2/ATG | ✅ 往返字节一致，中文字形 PoC **实机已验证** | [05_font.md](../ANALYSIS/05_font.md) | [05_font.md](05_font.md) |
-| 06 | 语料 .po 与编译链 | 🟢 导出已完成（6,260 条 / 16 文件），待写导入器 | — | [06_localization_pipeline.md](06_localization_pipeline.md) |
+| 06 | 语料 .po 与编译链 | 🟢 olang 侧已闭环：导出 6,259 条 → 校验 → 编译 → 安装；CODEC 回写仍受阻 | — | [06_localization_pipeline.md](06_localization_pipeline.md) |
 | 07 | 启动参数 | ✅ 已核实 | [07_launch_args.md](../ANALYSIS/07_launch_args.md) | — |
 
 > 02 现状（已实证，见 02 号文档 §6）：
@@ -92,11 +92,18 @@ mgspw\
 | `pwsf.font` | ATG `FontData` 模型 + 图集读写 + 字形装箱 |
 | `pwsf.font_build` | 码点集合 + TTF → 补齐缺失字形并重建字体 |
 | `pwsf.po` | `.po` 读取器（引用 / 注释 / 续行 / 转义） |
-| `pwsf.po_export` | 英文语料 → `PO/` 下的 `.pot` 与分块 `.po` |
+| `pwsf.po_export` | 英文语料 → `src/` 下的 `.pot` 与分块 `.po` |
+| `pwsf.slots` | `.po` 引用 ↔ 二进制槽位，校验与写回共用一套解析 |
+| `pwsf.po_lint` | 译文编译前的全部校验（06 号 §6），error 即阻断 |
+| `pwsf.po_import` | 译文 → 重建 olang + 字体 → `BUILD/` 与 `MANIFEST.tsv` |
+| `pwsf.install` | 按清单备份 / 写入 / 校验 / 还原游戏文件 |
 
 | `TOOLS/` | 作用 |
 |---|---|
 | `_probe_*.py` | 各阶段取证脚本，**保留作为证据**，文档里的数字都由它们复现 |
 | `_poc_font_cn.py` | 中文字形 PoC：构建 / 安装 / 还原 |
 | `_poc_text_cn.py` | 端到端文本 PoC：译文 → olang + 字体 → 安装 / 还原 |
+| `_probe_po3.py` | `.po` → 游戏文件全链，以 PoC 实机产物为标尺 |
+| `_probe_po4.py` | `po_lint` 的 16 个用例：每条检查各自触发、正确译文不报 |
+| `_probe_po5.py` | `install` 状态机与各拒绝路径（合成游戏目录） |
 | `pwsf_*.py` | 兼容垫片，指向 `pwsf/` 包，让既有探针零改动继续运行 |

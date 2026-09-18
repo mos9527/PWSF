@@ -1,7 +1,7 @@
-# PWSF — Peace Walker Sans Frontiers
+# Peace Walker Sans Frontiers
 
-> [!IMPORTANT]
-> AI Usage Disclaimer: Claude Opus 5, Tencent Hunyuan 4-dev, Tencent Hunyuan 3
+> [!WARNING]
+> AI 大模型使用: Claude Opus 5, Tencent Hunyuan 4-dev, Tencent Hunyuan 3
 
 METAL GEAR SOLID PEACE WALKER（Steam 版）本土化工具链。
 
@@ -9,8 +9,9 @@ METAL GEAR SOLID PEACE WALKER（Steam 版）本土化工具链。
 `research/ANALYSIS/`，逐条给出 IDA 地址；工作拆分在 `research/PLANS/`。
 所有结论都要求实证，不接受推断。
 
-当前状态：**UI 文字、游戏内字幕、CODEC 台词已全量提取；olang 与字体的写回
-链路均已实机验证**——改文本 + 自动补字形 → 装入游戏 → 正常显示中文。
+当前状态：**UI 文字、游戏内字幕、CODEC 台词已全量提取；汉化管线 olang 侧已
+闭环**——在 `.po` 里填译文 → 校验 → 编译（重建文本表 + 自动补字形）→
+备份后装入游戏 → 一键还原。CODEC 回写仍卡在字节码长度规则上。
 
 ## 目录
 
@@ -71,32 +72,43 @@ python -m pwsf.archive_index     # 全盘归档索引
 python -m pwsf.po_export                           # 英文原文 -> src/ 下 16 个 .po
 python -m pwsf.po_export --chunk 200               # 改分块粒度
 python -m pwsf.po_export --ref-langs fr,de,it,es   # 附带其他语言参考译文
+
+# 汉化管线：校验 -> 编译 -> 安装
+python -m pwsf.po_import --install   # 一条龙：体检 + 编译 + 复验 + 装进游戏
+python -m pwsf.install --restore     # 还原
+
+python -m pwsf.po_lint             # 只体检，有 error 就别编译
+python -m pwsf.po_import           # 只编译 -> research/BUILD/*.olang + *.xpr + MANIFEST.tsv
+python -m pwsf.install             # 只看状态，不写任何东西
+python -m pwsf.install --install    # 只装已编译好的产物
 ```
 
-字体与文本的写回目前由 `research/TOOLS/` 下的 PoC 脚本驱动；
-统一的 `po_import` / `lint` / `install` 还在做，见
+`po_import` 会先跑 `po_lint`，不过不编译；构建完再把产物解密回来逐槽位复验，
+**除声明要改的槽位外必须与原文逐字节相同**。`install` 靠清单里的哈希判断
+现场文件是原文、是本次构建、还是别的东西，认不出来就拒绝写入。
+设计与实测见
 [`research/PLANS/06_localization_pipeline.md`](research/PLANS/06_localization_pipeline.md)。
 
 ```powershell
-cd research\TOOLS
-python _poc_text_cn.py             # 构建 + 校验到 research/BUILD
-python _poc_text_cn.py --install   # 备份 .orig 后装入游戏
-python _poc_text_cn.py --restore   # 还原
+# 证据脚本（数字都由它们复现）
+python research\TOOLS\_probe_po3.py   # 全链，以 PoC 实机产物为标尺
+python research\TOOLS\_probe_po4.py   # 每条校验各自触发，正确译文不报
+python research\TOOLS\_probe_po5.py   # 安装状态机与拒绝路径
 ```
 
-## 下一步：管线闭环后做补丁
+## 下一步：把管线包成补丁
 
-计划 06 的 `po_import` / `po_lint` / `install` 全部落地后，接着把「装一份汉化」
-从跑脚本变成发一个补丁。给实现者的指示：
+`po_lint` / `po_import` / `install` 已落地（见计划 06 §9），下一步把
+「装一份汉化」从跑三条命令变成发一个补丁。给实现者的指示：
 
-1. 新增 `pwsf/patch.py`：`src/` 的 `.po` → lint（计划 06 §6，不过不许继续）→
-   构建 olang 与字体 → 产出 `research/BUILD/pwsf_patch/`，只包含被替换的游戏
-   文件、一份清单和校验和，不要整目录打包
-2. 清单里记原始文件的哈希与 `pwsf/` 的 git 描述；安装前比对原始哈希，
-   游戏更新导致不匹配时**拒绝安装**，不要硬写覆盖
-3. 安装与还原沿用既有约定：`config.pristine` / `config.BACKUP_SUFFIX` 的
-   `.orig` 备份、`config.installed_backups()`，别另造一套备份机制
-4. 入口为 `python -m pwsf.patch [--build|--install|--restore|--verify]`，
+1. 新增 `pwsf/patch.py`：复用 `po_import` 的构建与 `MANIFEST.tsv`，
+   打成 `research/BUILD/pwsf_patch/`，只含被替换的游戏文件 + 清单 + 校验和，
+   不要整目录打包
+2. 清单已记原始文件哈希（`orig_sha256`），`pwsf.install` 的判据照搬即可；
+   再补上 `pwsf/` 的 git 描述，好让玩家报的问题能对上版本
+3. 备份与还原**不要另造**：沿用 `config.pristine` / `config.BACKUP_SUFFIX`
+   与 `pwsf.install` 那套状态机（拒绝路径见 `_probe_po5.py`）
+4. 入口 `python -m pwsf.patch [--build|--install|--restore|--verify]`，
    PoC 脚本 `_poc_text_cn.py` 保留作证据，不再作为安装手段
 5. 面向不装 Python 的玩家再包一层（zip + 一个 `.bat`，或单文件可执行）
 6. 设计与实机结论写成 `research/PLANS/07_patch.md`，并把本节替换成实际命令
@@ -114,6 +126,10 @@ python _poc_text_cn.py --restore   # 还原
 | `pwsf.xpr` / `pwsf.font` / `pwsf.font_build` | XPR2 容器、ATG 字体、字形补齐 |
 | `pwsf.subtitle` | 游戏内字幕导出 |
 | `pwsf.po` / `pwsf.po_export` | gettext `.po` 读取与语料导出 |
+| `pwsf.slots` | `.po` 引用 ↔ 二进制槽位，校验与写回共用 |
+| `pwsf.po_lint` | 译文编译前的全部校验，error 即阻断 |
+| `pwsf.po_import` | 译文 → 重建 olang + 字体 + 清单 |
+| `pwsf.install` | 按清单备份 / 写入 / 校验 / 还原 |
 
 `research/TOOLS/pwsf_*.py` 只是指向本包的兼容垫片，让既有探针零改动运行。
 

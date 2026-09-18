@@ -18,10 +18,14 @@ addresses they were derived from.
     subtitle      in-game subtitle exporter
     po            gettext .po reader
     po_export     English corpus -> chunked .po for translation
+    slots         .po reference <-> binary slot, shared by lint and import
+    po_lint       every check a translation must pass before it is compiled
+    po_import     translated .po -> rebuilt .olang and font, with a manifest
+    install       manifest -> game directory, with backups and a way back
 """
 
 __all__ = [
     "config", "crypto", "olang", "olang_build", "briefing", "archive",
     "archive_index", "names", "xpr", "font", "font_build", "subtitle",
-    "po", "po_export",
+    "po", "po_export", "slots", "po_lint", "po_import", "install",
 ]

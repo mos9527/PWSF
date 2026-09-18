@@ -8,7 +8,8 @@ METAL GEAR SOLID PEACE WALKER (STEAM) 本土化工作
       影片字幕在 Steam 版无数据，见 `research/ANALYSIS/02_movie_subtitle.md` §6.1
 - [x] CODEC【提取】 → `research/ANALYSIS/_briefing_lines.tsv`（24,438 行）
 - [x] 写回链路实机验证：olang 文本 + 字体扩字形
-- [ ] 汉化管线闭环：`po_import` / `po_lint` / `install`，见 `research/PLANS/06`
+- [x] 汉化管线闭环：`pwsf.po_lint` / `po_import` / `install`，见 `research/PLANS/06` §9
+- [ ] 可分发补丁 `pwsf.patch`，指示见 `README.md` §下一步 → `research/PLANS/07`
 - [ ] CODEC 回写：卡在 `briefing_insn_decode` 的 `case 0x10/0x20` 长度规则
 
 # Layout
