@@ -37,7 +37,7 @@ key = name_hash(basename)
 | 03 | CODEC（`0076531d.DAT`） | ✅ 台词 + 语言归属 + 演出信息已提取 | [03_codec.md](../ANALYSIS/03_codec.md) | [03_codec.md](03_codec.md) |
 | 04 | 归档 PDT/DAT | ✅ 已打通 | [04_archive.md](../ANALYSIS/04_archive.md) | [04_archive.md](04_archive.md) |
 | 05 | 字体 XPR2/ATG | ✅ 往返字节一致，中文字形 PoC **实机已验证** | [05_font.md](../ANALYSIS/05_font.md) | [05_font.md](05_font.md) |
-| 06 | 语料 .po 与编译链 | 📝 设计阶段 | — | [06_localization_pipeline.md](06_localization_pipeline.md) |
+| 06 | 语料 .po 与编译链 | 🟢 导出已完成（6,260 条 / 16 文件），待写导入器 | — | [06_localization_pipeline.md](06_localization_pipeline.md) |
 | 07 | 启动参数 | ✅ 已核实 | [07_launch_args.md](../ANALYSIS/07_launch_args.md) | — |
 
 > 02 现状（已实证，见 02 号文档 §6）：
@@ -83,6 +83,8 @@ mgspw\
 | `pwsf_briefing.py` | BRIEFING/CODEC：逐扇区解密 + 记录头解析 + 台词导出 |
 | `pwsf_subtitle.py` | 游戏内字幕：8 个 olang group → `ANALYSIS/subtitle_ingame.tsv` |
 | `pwsf_olang_build.py` | olang 序列化器（池重排 + 去重，往返字节一致） |
+| `pwsf_po_export.py` | 英文语料 → `PO/` 下的 `.pot` 与分块 `.po` |
+| `pwsf_po.py` | `.po` 读取器（引用 / 注释 / 续行 / 转义） |
 | `pwsf_xpr.py` | XPR2 容器解包 / 重打包（大端，往返字节一致） |
 | `pwsf_font.py` | ATG `FontData` 模型 + 图集读写 + 字形装箱 |
 | `_probe_font*.py` | 字体取证：加密、目录、覆盖率、线性验证、往返、度量基准 |

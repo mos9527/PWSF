@@ -1,0 +1,2676 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF codec 1/12\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: codec\n"
+"X-PWSF-Entries: 400\n"
+
+
+#: codec/1/148/0x944b0/0
+msgid ""
+"Kaz, what kind of shape is that plant the\n"
+"\"professor\" gave us in?\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/1
+msgid ""
+"First time I laid eyes on it, I thought it was some\n"
+"kind of joke.\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/2
+msgid ""
+"It was a giant birdhouse - seagulls everywhere.\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/3
+msgid ""
+"We eventually scraped off most of the rust and\n"
+"bird crap.\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/4
+msgid ""
+"The underlying structure's intact - a little elbow\n"
+"grease and we should be in business.\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/5
+msgid ""
+"Who used to own it, anyway?\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/6
+msgid ""
+"Whatever shape it's in now, somebody sank some\n"
+"serious money into building it.\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/7
+msgid ""
+"From what I can tell, an American university built it\n"
+"as a research platform\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/8
+msgid ""
+"for ocean thermal energy conversion, \"OTEC.\"\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/9
+msgid ""
+"The name's still on some of the rusty old power\n"
+"turbines.\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/10
+msgid ""
+"I'm guessing they must have had government and\n"
+"corporate assistance to build it, too.\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/11
+msgid ""
+"But they couldn't solve the thermal efficiency\n"
+"problem, and the project was canceled.\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/12
+msgid ""
+"Then after the university abandoned it,\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/13
+msgid ""
+"a KGB front company scooped it up for next to\n"
+"nothing... At least, that's my theory.\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/14
+msgid ""
+"How'd the KGB manage to buy a plant built with\n"
+"American capital, front company or not?\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/15
+msgid ""
+"Yeah, that \"professor\" is quite the operator.\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/16
+msgid ""
+"One other thing:\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/17
+msgid ""
+"the plant's set up so that it can join up with other\n"
+"plants of the same standard.\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/18
+msgid ""
+"So they were originally planning on expanding the\n"
+"place, huh?\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/19
+msgid ""
+"Hey, let's give it a shot?\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/20
+msgid ""
+"We can get some more people together and build\n"
+"this place up into a proper home for MSF.\n"
+msgstr ""
+
+#: codec/1/148/0x944b0/21
+msgid ""
+"You're with me on this, right, Boss?\n"
+msgstr ""
+
+#: codec/1/148/0x94d00/0
+msgid ""
+"The new plant is a hex type. That gives it more\n"
+"surface area than previous types\n"
+msgstr ""
+
+#: codec/1/148/0x94d00/1
+msgid ""
+"and also makes it easier to plan expansions. We're\n"
+"gonna make this place huge.\n"
+msgstr ""
+
+#: codec/1/148/0x94d00/2
+msgid ""
+"Hex, huh. Like a beehive.\n"
+msgstr ""
+
+#: codec/1/148/0x94d00/3
+msgid ""
+"Nothing wrong with that. They say the honeycomb\n"
+"design is one of the strongest.\n"
+msgstr ""
+
+#: codec/1/148/0x94d00/4
+msgid ""
+"I hear they're even thinking of using it in tank\n"
+"armor.\n"
+msgstr ""
+
+#: codec/1/148/0x94d00/5
+msgid ""
+"Good enough for me. I'll see about finding us some\n"
+"worker bees.\n"
+msgstr ""
+
+#: codec/1/148/0x94d00/6
+msgid ""
+"Appreciate it, Boss.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/0
+msgid ""
+"Snake, you can use the Fulton Surface-to-air\n"
+"Recovery System\n"
+msgstr ""
+
+#: codec/1/149/0x95220/1
+msgid ""
+"to send prisoners and unconscious mercenaries\n"
+"you encounter back to the Mother Base.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/2
+msgid ""
+"I know you've used the Fulton before,\n"
+msgstr ""
+
+#: codec/1/149/0x95220/3
+msgid ""
+"but just to make sure I'm not missing anything,\n"
+"let's review the steps.\n"
+msgstr ""
+
+#. speaker 0x0e559953 voice v_bri_chc0020_000_0
+#. timeline 18822..18947
+#. speaker 0x0e28dce6 voice v_myo_rad_0080_000_0
+#. timeline 6534..6757
+#: codec/1/149/0x95220/4
+#: codec/1/217/0xd9190/18
+#: codec/1/218/0xda210/26
+#: codec/1/233/0xe9630/15
+#: codec/2/915/0x393270/19
+#: codec/2/916/0x394bd0/8
+msgid ""
+"OK.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/5
+msgid ""
+"First, attach a balloon to the unconscious enemy\n"
+"or captured prisoner.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/6
+msgid ""
+"Right. I hook a wire to the their waist, and on the\n"
+"other end of the wire there's a helium balloon.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/7
+msgid ""
+"Right. Then we'll send over a chopper to catch the\n"
+"floating balloon with its recovery hook and reel it\n"
+"up into its cargo hold.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/8
+msgid ""
+"And that's it.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/9
+msgid ""
+"And that's it. We finished installing the recovery\n"
+"hook on the Huey...\n"
+msgstr ""
+
+#: codec/1/149/0x95220/10
+msgid ""
+"Wait, Kaz, something doesn't make sense about this\n"
+"whole process.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/11
+msgid ""
+"Not this again...\n"
+msgstr ""
+
+#: codec/1/149/0x95220/12
+msgid ""
+"Normally, Fulton recovery is for when you're using\n"
+"fixed-wing aircraft.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/13
+msgid ""
+"With a helicopter, isn't it simpler to land and pick\n"
+"up directly?\n"
+msgstr ""
+
+#: codec/1/149/0x95220/14
+msgid ""
+"Listen, Snake, you're gonna be calling for\n"
+"recoveries repeatedly throughout your mission.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/15
+msgid ""
+"We want to keep the risk of taking enemy fire to a\n"
+"minimum.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/16
+msgid ""
+"The best way to get that done that is to do the\n"
+"recovery in a high-speed fly-by.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/17
+msgid ""
+"That's what the Fulton Surface-to-air Recovery\n"
+"System is for.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/18
+msgid ""
+"Uh huh... what's the real reason?\n"
+msgstr ""
+
+#: codec/1/149/0x95220/19
+msgid ""
+"Helicopters are cheaper.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/20
+msgid ""
+"And the repair bills will start adding up once the\n"
+"bullets start flying...\n"
+msgstr ""
+
+#: codec/1/149/0x95220/21
+msgid ""
+"Thought so. Kaz, I know we need to keep costs\n"
+"down, but...\n"
+msgstr ""
+
+#: codec/1/149/0x95220/22
+msgid ""
+"Boss, you really need to get rid of this whole Army\n"
+"mentality. We're not the Pentagon.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/23
+msgid ""
+"We don't have billions of taxpayer dollars to play\n"
+"with. And besides...\n"
+msgstr ""
+
+#: codec/1/149/0x95220/24
+msgid ""
+"Fine, fine. Just pick a reason that makes sense.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/25
+msgid ""
+"Helicopters have quicker response time. Sounds\n"
+"strange, yeah, but it works great, I promise.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/26
+msgid ""
+"You'll get used to it before long.\n"
+msgstr ""
+
+#: codec/1/149/0x95220/27
+msgid ""
+"Yeah, I hope so.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
+#. timeline 501..2089
+#: codec/1/149/0x95c80/0
+msgid ""
+"Remember why we created MSF, Snake: to provide\n"
+"military force to whoever needs it,\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
+#. timeline 2103..3162
+#: codec/1/149/0x95c80/1
+msgid ""
+"wherever they are, regardless of nation or ideology.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
+#. timeline 3190..3775
+#: codec/1/149/0x95c80/2
+msgid ""
+"Our beliefs aren't all that lofty...\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0060_000_0
+#. timeline 3775..4639
+#: codec/1/149/0x95c80/3
+msgid ""
+"We just won't be the tools of any one country.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
+#. timeline 4639..5503
+#: codec/1/149/0x95c80/4
+msgid ""
+"Exactly. We know only how to fight...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
+#. timeline 5517..6561
+#: codec/1/149/0x95c80/5
+msgid ""
+"but we refuse to live our lives at the whim of the\n"
+"state.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
+#. timeline 6575..7467
+#: codec/1/149/0x95c80/6
+msgid ""
+"The MSF seal is patterned after Pangaea,\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
+#. timeline 7481..8540
+#: codec/1/149/0x95c80/7
+msgid ""
+"the supercontinent from 250 million years ago.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
+#. timeline 8623..9348
+#: codec/1/149/0x95c80/8
+msgid ""
+"Back then, the whole world was one landmass.\n"
+msgstr ""
+
+#: codec/1/149/0x95c80/9
+msgid ""
+"One world. No gaps, no rifts.\n"
+msgstr ""
+
+#: codec/1/149/0x95c80/10
+msgid ""
+"Our strength will take us back there.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0070_000_0
+#. timeline 529..1657
+#: codec/1/150/0x96040/0
+msgid ""
+"What about you, Kaz? Any interest in expanding\n"
+"MSF?\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
+#. timeline 1685..2089
+#: codec/1/150/0x96040/1
+msgid ""
+"You'd better believe it.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
+#. timeline 2117..3385
+#: codec/1/150/0x96040/2
+msgid ""
+"I want to make us into an organization that doesn't\n"
+"take orders from any country\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
+#. timeline 3427..3859
+#: codec/1/150/0x96040/3
+msgid ""
+"- just like you were saying.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
+#. timeline 3900..4904
+#: codec/1/150/0x96040/4
+msgid ""
+"We have to be strong, strong enough to defend\n"
+"ourselves.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
+#. timeline 4931..5962
+#: codec/1/150/0x96040/5
+msgid ""
+"We need money, too - money to train soldiers to\n"
+"fight.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
+#. timeline 6018..7565
+#: codec/1/150/0x96040/6
+msgid ""
+"The way I see it, we make MSF into something\n"
+"along the lines of a new kind of business.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
+#. timeline 7606..9083
+#: codec/1/150/0x96040/7
+msgid ""
+"A contractor providing the full range of military\n"
+"services. Not just combat,\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
+#. timeline 9111..10379
+#: codec/1/150/0x96040/8
+msgid ""
+"but logistics, training, weapons, outfitting and R&D...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
+#. timeline 10407..11758
+#: codec/1/150/0x96040/9
+msgid ""
+"Combining the small footprint and exceptional\n"
+"performance of Special Forces\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
+#. timeline 11758..12831
+#: codec/1/150/0x96040/10
+msgid ""
+"with the raw military might of a full regular army.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
+#. timeline 12914..14043
+#: codec/1/150/0x96040/11
+msgid ""
+"Only with that kind of power can we break free of\n"
+"nation-states.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
+#. timeline 14057..14503
+#: codec/1/150/0x96040/12
+msgid ""
+"What I need from you, Boss,\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
+#. timeline 14531..15840
+#: codec/1/150/0x96040/13
+msgid ""
+"is to go out and find guys we can bring back here\n"
+"using Fulton recovery.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
+#. timeline 15896..16648
+#: codec/1/150/0x96040/14
+msgid ""
+"Then tell us what assignment to use them for.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
+#. timeline 16662..17150
+#: codec/1/150/0x96040/15
+msgid ""
+"I'll take care of the rest.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
+#. timeline 487..1044
+#: codec/1/150/0x96600/0
+msgid ""
+"Your old mentor, The Boss...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
+#. timeline 1058..2020
+#: codec/1/150/0x96600/1
+msgid ""
+"She was known in the West as the \"Mother of\n"
+"Special Forces,\" right?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0070_010_0
+#. timeline 2326..2758
+#: codec/1/150/0x96600/2
+msgid ""
+"Nothing but propaganda.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
+#. timeline 2772..3691
+#: codec/1/150/0x96600/3
+msgid ""
+"Actually, it's not all that far from the truth.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
+#. timeline 3719..5433
+#: codec/1/150/0x96600/4
+msgid ""
+"I heard the KGB just set up a counter-sabotage\n"
+"cell. Alpha Group, I think they call it.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
+#. timeline 5461..6575
+#: codec/1/150/0x96600/5
+msgid ""
+"There's even a rumor that West Germany created\n"
+"a counter-terrorist unit within its\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
+#. timeline 6575..7565
+#: codec/1/150/0x96600/6
+msgid ""
+"border police after the debacle at the Munich\n"
+"Olympics.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
+#. timeline 7578..8442
+#: codec/1/150/0x96600/7
+msgid ""
+"Back home in the States, they've got the illustrious\n"
+"Green Berets,\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
+#. timeline 8442..9418
+#: codec/1/150/0x96600/8
+msgid ""
+"the SEALs, and your personal creation,\n"
+"FOXHOUND...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
+#. timeline 9431..10281
+#: codec/1/150/0x96600/9
+msgid ""
+"The seeds sown by The Boss are beginning to\n"
+"sprout.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
+#. timeline 10337..11772
+#: codec/1/150/0x96600/10
+msgid ""
+"Same goes for MSF, right? In creating it, you were\n"
+"carrying on the will of The Boss.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0070_010_0
+#. timeline 12260..13625
+#: codec/1/150/0x96600/11
+msgid ""
+"She taught me how to fight, the hard way - she\n"
+"beat it into me.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
+#. timeline 13639..15144
+#: codec/1/150/0x96600/12
+msgid ""
+"And now thanks to her, we can take on missions\n"
+"other than just conventional combat.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
+#. timeline 15227..16620
+#: codec/1/150/0x96600/13
+msgid ""
+"After all, we've got the same mother as the Army's\n"
+"Special Forces.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0080_000_0
+#. timeline 515..1894
+#: codec/1/150/0x96b70/0
+msgid ""
+"You know, Snake, you're right. As long as we're\n"
+"\"soldiers without borders,\"\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0080_000_0
+#. timeline 1922..2856
+#: codec/1/150/0x96b70/1
+msgid ""
+"we're going to be a target. We need our own\n"
+"deterrent.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0080_000_0
+#. timeline 3037..4137
+#: codec/1/150/0x96b70/2
+msgid ""
+"We're going to be stepping into a lot of different\n"
+"conflicts as we roam the world.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0080_000_0
+#. timeline 4137..5642
+#: codec/1/150/0x96b70/3
+msgid ""
+"Each one unique, and with its own set of\n"
+"geography, ideologies, and politics.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0080_000_0
+#. timeline 5670..6659
+#: codec/1/150/0x96b70/4
+msgid ""
+"If we're going to intervene in those kinds of\n"
+"situations,\n"
+msgstr ""
+
+#: codec/1/150/0x96b70/5
+msgid ""
+"we need the threat of a Metal Gear.\n"
+msgstr ""
+
+#: codec/1/150/0x96b70/6
+msgid ""
+"...Unless we want to end up like Che Guevara did in\n"
+"Bolivia.\n"
+msgstr ""
+
+#: codec/1/150/0x96b70/7
+msgid ""
+"Well said. Our army without borders doesn't have a\n"
+"land to call home.\n"
+msgstr ""
+
+#: codec/1/150/0x96b70/8
+msgid ""
+"We're nomads. Wanderers.\n"
+msgstr ""
+
+#: codec/1/150/0x96b70/9
+msgid ""
+"What we need now is a sheepdog to guard our\n"
+"flock.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0020_000_0
+#. timeline 2187..2382
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0010_000_0
+#. timeline 2131..2368
+#. speaker 0x0e28dce6 voice v_bri_mis_amd0040_000_0
+#. timeline 6520..6645
+#: codec/1/150/0x96b70/10
+#: codec/1/159/0x9f870/1
+#: codec/1/161/0xa11f0/2
+#: codec/1/164/0xa47a0/2
+#: codec/1/200/0xc8b50/1
+#: codec/1/203/0xcb100/7
+#: codec/2/908/0x38c3b0/10
+msgid ""
+"Right.\n"
+msgstr ""
+
+#: codec/1/150/0x96b70/11
+msgid ""
+"Maybe it's not the way The Boss would have gone\n"
+"about it...\n"
+msgstr ""
+
+#: codec/1/150/0x96b70/12
+msgid ""
+"But there are places in this world that need us -\n"
+"and soldiers that need MSF.\n"
+msgstr ""
+
+#: codec/1/150/0x96b70/13
+msgid ""
+"And as long as we're needed, we'll keep on moving.\n"
+msgstr ""
+
+#: codec/1/150/0x96b70/14
+msgid ""
+"Ours is a journey that never ends.\n"
+msgstr ""
+
+#: codec/1/150/0x96b70/15
+msgid ""
+"We're the real Peace Walkers.\n"
+msgstr ""
+
+#: codec/1/151/0x97110/0
+msgid ""
+"Still can't believe Professor Gálvez was KGB...\n"
+msgstr ""
+
+#: codec/1/151/0x97110/1
+msgid ""
+"Well, like the \"professor\" said,\n"
+msgstr ""
+
+#: codec/1/151/0x97110/2
+msgid ""
+"Moscow's hell bent on communizing Latin America.\n"
+msgstr ""
+
+#: codec/1/151/0x97110/3
+msgid ""
+"Yeah, the Cuban intel services are all in the KGB's\n"
+"pocket.\n"
+msgstr ""
+
+#: codec/1/151/0x97110/4
+msgid ""
+"You don't think he's got some kind of ulterior\n"
+"motive?\n"
+msgstr ""
+
+#: codec/1/151/0x97110/5
+msgid ""
+"If the CIA is up to something, it's only natural that\n"
+"the KGB wants to know about it.\n"
+msgstr ""
+
+#: codec/1/151/0x97110/6
+msgid ""
+"But I doubt they're showing us their full hand.\n"
+msgstr ""
+
+#: codec/1/151/0x97110/7
+msgid ""
+"We'd better watch our backs.\n"
+msgstr ""
+
+#: codec/1/151/0x97400/0
+msgid ""
+"What do you think, Kaz? Why did Paz come all the\n"
+"way to Colombia herself?\n"
+msgstr ""
+
+#: codec/1/151/0x97400/1
+msgid ""
+"It is a long trip to make just to be Exhibit A in\n"
+"Gálvez's sales pitch...\n"
+msgstr ""
+
+#: codec/1/151/0x97400/2
+msgid ""
+"She's only 16 - still a kid. Maybe we should take\n"
+"her wish for peace at face value.\n"
+msgstr ""
+
+#: codec/1/151/0x975b0/0
+msgid ""
+"Remember that habit Paz had, Snake?\n"
+msgstr ""
+
+#: codec/1/151/0x975b0/1
+msgid ""
+"How she always had her index finger on her upper\n"
+"lip like this?\n"
+msgstr ""
+
+#: codec/1/151/0x975b0/2
+msgid ""
+"Yeah. It bugged me ever since we first met her...\n"
+"Never figured her for a snuff user.\n"
+msgstr ""
+
+#: codec/1/151/0x975b0/3
+msgid ""
+"I can't believe we never noticed.\n"
+msgstr ""
+
+#: codec/1/151/0x975b0/4
+msgid ""
+"She used the kind where you keep a pouch of leaf\n"
+"in your upper jaw\n"
+msgstr ""
+
+#: codec/1/151/0x975b0/5
+msgid ""
+"and let it absorb through your gums.\n"
+msgstr ""
+
+#: codec/1/151/0x975b0/6
+msgid ""
+"She might not have been used to it. Probably used\n"
+"her finger to keep it in place.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0100_020_1
+#. timeline 487..1490
+#: codec/1/151/0x97880/0
+msgid ""
+"How could Paz... We were going to start a band\n"
+"together...\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0100_020_1
+#. timeline 1490..2326
+#: codec/1/151/0x97880/1
+msgid ""
+"She was posing as a KGB agent, too?\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0100_020_1
+#. timeline 2326..3204
+#: codec/1/151/0x97880/2
+msgid ""
+"She must have put on the act to get close to\n"
+"Gálvez.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0100_020_1
+#. timeline 3260..3747
+#: codec/1/151/0x97880/3
+msgid ""
+"Wonder how much Coldman knew...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0100_020_1
+#. timeline 3761..4848
+#: codec/1/151/0x97880/4
+msgid ""
+"But the whole time she was working for some\n"
+"organization called \"Cipher.\"\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0100_020_1
+#. timeline 5001..5837
+#: codec/1/151/0x97880/5
+msgid ""
+"\"Cipher\"... Ring any bells, Kaz?\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0100_020_1
+#. timeline 5851..7272
+#: codec/1/151/0x97880/6
+msgid ""
+"Cipher... Cipher... it means \"code.\" Or \"zero\" in\n"
+"Arabic numerals.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0100_020_1
+#. timeline 7272..7551
+#: codec/1/151/0x97880/7
+msgid ""
+"Zero...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0100_020_1
+#. timeline 7551..7913
+#: codec/1/151/0x97880/8
+msgid ""
+"Does that mean something to you?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0100_020_1
+#. timeline 7913..8261
+#: codec/1/151/0x97880/9
+msgid ""
+"Not sure.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0100_020_1
+#. timeline 8275..9445
+#: codec/1/151/0x97880/10
+msgid ""
+"Hmm. You know, \"cipher\" and \"zero\" were basically\n"
+"the same word.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0100_020_1
+#. timeline 9473..10017
+#: codec/1/151/0x97880/11
+msgid ""
+"It's a linguistic redundancy.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0100_020_1
+#. timeline 10017..10797
+#: codec/1/151/0x97880/12
+msgid ""
+"The word stems from the Sanskrit \"shunya\"...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0100_020_1
+#. timeline 10811..11702
+#: codec/1/151/0x97880/13
+msgid ""
+"It corresponds to the Buddhist concept of\n"
+"emptiness.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0100_020_1
+#. timeline 11702..12524
+#: codec/1/151/0x97880/14
+msgid ""
+"In Buddhism, \"shunya\" means hollow.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0100_020_1
+#. timeline 12580..13778
+#: codec/1/151/0x97880/15
+msgid ""
+"It supposedly refers to something that's swollen\n"
+"and empty on the inside.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0100_020_1
+#. timeline 13778..15060
+#: codec/1/151/0x97880/16
+msgid ""
+"A big, swollen emptiness... just like outer space.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0120_000_1
+#. timeline 501..1239
+#: codec/1/152/0x984e0/0
+msgid ""
+"They say nuclear weapons are the reason we\n"
+"haven't seen\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0120_000_1
+#. timeline 1239..2145
+#: codec/1/152/0x984e0/1
+msgid ""
+"conflict on a global scale since World War II.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0120_000_1
+#. timeline 2173..3009
+#: codec/1/152/0x984e0/2
+msgid ""
+"The thought that your opponent might launch\n"
+"nukes against you\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0120_000_1
+#. timeline 3009..3831
+#: codec/1/152/0x984e0/3
+msgid ""
+"sort of makes it tough to start an armed conflict.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0120_000_1
+#. timeline 3859..4931
+#: codec/1/152/0x984e0/4
+msgid ""
+"Especially now that they've got inter-continental\n"
+"ballistic missiles.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0120_000_1
+#. timeline 4973..5349
+#: codec/1/152/0x984e0/5
+msgid ""
+"Nowhere is safe.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0120_000_1
+#. timeline 5363..6534
+#: codec/1/152/0x984e0/6
+msgid ""
+"Of course, all that has caused military expenditures\n"
+"to skyrocket...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0120_000_1
+#. timeline 6548..8066
+#: codec/1/152/0x984e0/7
+msgid ""
+"Well, the only way to ward off a preemptive strike\n"
+"is to flaunt your own nuclear stockpile.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0120_000_1
+#. timeline 8080..8958
+#: codec/1/152/0x984e0/8
+msgid ""
+"And that's caused their numbers to increase\n"
+"exponentially.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0120_000_1
+#. timeline 8972..10546
+#: codec/1/152/0x984e0/9
+msgid ""
+"Not just with regards to destructive power, but in\n"
+"terms of targeting technology, too.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0120_000_1
+#. timeline 10630..11814
+#: codec/1/152/0x984e0/10
+msgid ""
+"Now they can hit a target halfway across the\n"
+"world with pinpoint accuracy.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0120_000_1
+#. timeline 11842..13277
+#: codec/1/152/0x984e0/11
+msgid ""
+"In a way, the space race was a demonstration of\n"
+"that technological progress.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0120_000_1
+#. timeline 13277..14614
+#: codec/1/152/0x984e0/12
+msgid ""
+"And as a result of all that, we now have mutually\n"
+"assured destruction...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0120_000_1
+#. timeline 14614..15199
+#: codec/1/152/0x984e0/13
+msgid ""
+"It's the ultimate form of deterrence.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0120_000_1
+#. timeline 15199..16342
+#: codec/1/152/0x984e0/14
+msgid ""
+"No one's going to launch their nukes knowing\n"
+"they'll be obliterated in return.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0120_000_1
+#. timeline 16342..18139
+#: codec/1/152/0x984e0/15
+msgid ""
+"...I dunno. The chance of somebody hitting the\n"
+"button by mistake is never zero.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0130_000_0
+#. timeline 501..1532
+#: codec/1/152/0x98b30/0
+msgid ""
+"You're right - even with peace guaranteed by MAD,\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0130_000_0
+#. timeline 1532..2145
+#: codec/1/152/0x98b30/1
+msgid ""
+"there's always the risk of an accident.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0130_000_0
+#. timeline 2145..3399
+#: codec/1/152/0x98b30/2
+msgid ""
+"Nobody wants the world to end on account of\n"
+"some machine's malfunctioning.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0130_000_0
+#. timeline 3399..4945
+#: codec/1/152/0x98b30/3
+msgid ""
+"On the other hand, thanks to deterrence, we\n"
+"haven't had a world war since 1945.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0130_000_0
+#. timeline 4973..5795
+#: codec/1/152/0x98b30/4
+msgid ""
+"You've gotta admit, it has been pretty peaceful.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0130_000_0
+#. timeline 5921..6394
+#: codec/1/152/0x98b30/5
+msgid ""
+"Not that it matters to us.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0130_000_0
+#. timeline 6394..7718
+#: codec/1/152/0x98b30/6
+msgid ""
+"People point at the nuclear arms and space races\n"
+"and call it a Cold War.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0130_000_0
+#. timeline 7787..8930
+#: codec/1/152/0x98b30/7
+msgid ""
+"I say if they're not shooting at each other, why not\n"
+"call it world peace?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0130_000_0
+#. timeline 8930..10421
+#: codec/1/152/0x98b30/8
+msgid ""
+"Doesn't mean war is gone. Look at Korea. Look at\n"
+"Vietnam.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0130_000_0
+#. timeline 10421..11284
+#: codec/1/152/0x98b30/9
+msgid ""
+"Well, yeah, but I'm talking in relative terms here.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0130_000_0
+#. timeline 11284..12190
+#: codec/1/152/0x98b30/10
+msgid ""
+"Besides, if war died out completely we'd be SOL.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0130_000_0
+#. timeline 12190..12733
+#: codec/1/152/0x98b30/11
+msgid ""
+"...We're not warmongers.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0130_000_0
+#. timeline 12733..13764
+#: codec/1/152/0x98b30/12
+msgid ""
+"And yet we can't survive in a world that's at peace.\n"
+msgstr ""
+
+#: codec/1/152/0x98b30/13
+msgid ""
+"You've got a point...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_000_0
+#. timeline 473..1462
+#: codec/1/153/0x99020/0
+msgid ""
+"So it's been more than ten years since the Cuban\n"
+"Missile Crisis, huh?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0140_000_0
+#. timeline 1476..1992
+#: codec/1/153/0x99020/1
+msgid ""
+"I don't think we'll ever forget it.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_000_0
+#. timeline 2201..3636
+#: codec/1/153/0x99020/2
+msgid ""
+"No kidding. Those 13 days starting October 15,\n"
+"1962\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_000_0
+#. timeline 3719..4834
+#: codec/1/153/0x99020/3
+msgid ""
+"were probably the closest we ever came to all-out\n"
+"nuclear war.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_000_0
+#. timeline 4876..6422
+#: codec/1/153/0x99020/4
+msgid ""
+"The Russians deployed nuclear missiles to Cuba.\n"
+"America responded with a naval blockade.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_000_0
+#. timeline 6478..7300
+#: codec/1/153/0x99020/5
+msgid ""
+"Then Russia shot down an American spy plane...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_000_0
+#. timeline 7383..7927
+#: codec/1/153/0x99020/6
+msgid ""
+"I was still a teenager back then.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_000_0
+#. timeline 8010..9139
+#: codec/1/153/0x99020/7
+msgid ""
+"But I remember what it felt like to be one step\n"
+"away from nuclear war\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_000_0
+#. timeline 9209..9682
+#: codec/1/153/0x99020/8
+msgid ""
+"- the adults were freaking out.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0140_000_0
+#. timeline 9710..10295
+#: codec/1/153/0x99020/9
+msgid ""
+"If it wasn't for the Cuban Missile Crisis,\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0140_000_0
+#. timeline 10295..11284
+#: codec/1/153/0x99020/10
+msgid ""
+"there might never have been an Operation Snake\n"
+"Eater. And...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_000_0
+#. timeline 11284..12413
+#: codec/1/153/0x99020/11
+msgid ""
+"What's the matter, Snake? It's not like you to get\n"
+"all hypothetical.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0140_000_0
+#. timeline 12441..14266
+#: codec/1/153/0x99020/12
+msgid ""
+"Hm... I guess not. It was the reassessment after\n"
+"the Missile Crisis\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0140_000_0
+#. timeline 14266..15770
+#: codec/1/153/0x99020/13
+msgid ""
+"that paved the way for the hotline between\n"
+"Moscow and Washington, and also for Détente.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0140_000_0
+#. timeline 15854..16356
+#: codec/1/153/0x99020/14
+msgid ""
+"That's irony for you.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_010_0
+#. timeline 473..2006
+#: codec/1/153/0x995a0/0
+msgid ""
+"The Treaty of Tlatelolco was enacted to make\n"
+"Latin America into a nuclear-free zone.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_010_0
+#. timeline 2131..3608
+#: codec/1/153/0x995a0/1
+msgid ""
+"It bans the testing, use, manufacture, production,\n"
+"acquisition, storage,\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_010_0
+#. timeline 3622..4221
+#: codec/1/153/0x995a0/2
+msgid ""
+"and deployment of nuclear weapons.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_010_0
+#. timeline 4360..4876
+#: codec/1/153/0x995a0/3
+msgid ""
+"The impetus was pretty obvious:\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_010_0
+#. timeline 4917..6018
+#: codec/1/153/0x995a0/4
+msgid ""
+"the series of crises triggered by the deployment of\n"
+"nukes in Cuba.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0140_010_0
+#. timeline 6046..7648
+#: codec/1/153/0x995a0/5
+msgid ""
+"Not hard to imagine. Those 13 days had the whole\n"
+"world frozen in fear.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_010_0
+#. timeline 7676..9167
+#: codec/1/153/0x995a0/6
+msgid ""
+"Of course, the country that started it all - Cuba -\n"
+"hasn't actually ratified it yet.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0140_010_0
+#. timeline 9209..10072
+#: codec/1/153/0x995a0/7
+msgid ""
+"Still, the treaty's backed by over 20 countries.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0140_010_0
+#. timeline 10128..11103
+#: codec/1/153/0x995a0/8
+msgid ""
+"Anyone flouting it risks becoming an international\n"
+"pariah.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_010_0
+#. timeline 11145..12023
+#: codec/1/153/0x995a0/9
+msgid ""
+"True. OPANAL would investigate, no doubt.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_010_0
+#. timeline 12051..13597
+#: codec/1/153/0x995a0/10
+msgid ""
+"I heard they used Japan's Three Non-Nuclear\n"
+"Principles as their model when they drew up the\n"
+"treaty.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_010_0
+#. timeline 13695..14935
+#: codec/1/153/0x995a0/11
+msgid ""
+"I think the Treaty of Tlatelolco might have been\n"
+"their way of asking nuclear powers\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_010_0
+#. timeline 14962..15436
+#: codec/1/153/0x995a0/12
+msgid ""
+"not to use nukes against them.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_010_0
+#. timeline 15562..16606
+#: codec/1/153/0x995a0/13
+msgid ""
+"That's the biggest difference between the treaty\n"
+"and the Three Principles.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0140_010_0
+#. timeline 16676..17275
+#: codec/1/153/0x995a0/14
+msgid ""
+"I guess you could call it a fourth principle.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0160_000_0
+#. timeline 487..1128
+#: codec/1/154/0x9a230/0
+msgid ""
+"Hey Snake, mind if I ask you something?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0160_000_0
+#. timeline 1407..2117
+#: codec/1/154/0x9a230/1
+msgid ""
+"Since when did you start asking permission?\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0160_000_0
+#. timeline 2145..3803
+#: codec/1/154/0x9a230/2
+msgid ""
+"..Ha. So, you used to be part of a CIA paramilitary\n"
+"unit, right?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0160_000_0
+#. timeline 3803..3984
+#: codec/1/154/0x9a230/3
+#: codec/2/902/0x3861c0/24
+msgid ""
+"That's right.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0160_000_0
+#. timeline 3998..4569
+#: codec/1/154/0x9a230/4
+msgid ""
+"Ever do any ops in Central America?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0160_000_0
+#. timeline 4583..5935
+#: codec/1/154/0x9a230/5
+msgid ""
+"No, not personally. But there were other units who\n"
+"did all kinds of stuff.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0160_000_0
+#. timeline 5962..6910
+#: codec/1/154/0x9a230/6
+msgid ""
+"I remember the Bay of Pigs invasion back in '61.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0160_000_0
+#. timeline 6993..7467
+#: codec/1/154/0x9a230/7
+msgid ""
+"The papers had a field day with it.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0160_000_0
+#. timeline 7481..9236
+#: codec/1/154/0x9a230/8
+msgid ""
+"\"Operation Zapata\" - that was the CIA codename.\n"
+"The whole thing went south.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0160_000_0
+#. timeline 9250..10142
+#: codec/1/154/0x9a230/9
+msgid ""
+"Then there was Che Guevara being hunted down in\n"
+"Bolivia.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0160_000_0
+#. timeline 10226..10950
+#: codec/1/154/0x9a230/10
+msgid ""
+"I heard the CIA had a hand in that, too...\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0160_000_0
+#. timeline 10950..12357
+#: codec/1/154/0x9a230/11
+msgid ""
+"There were several units similar to mine. MSP,\n"
+"SOG...\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0160_000_0
+#. timeline 12427..13792
+#: codec/1/154/0x9a230/12
+msgid ""
+"They'd recruit former Special Forces, train them as\n"
+"intelligence agents, and send them on\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0160_000_0
+#. timeline 13792..14767
+#: codec/1/154/0x9a230/13
+msgid ""
+"\"deniable\" covert paramilitary operations.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0160_000_0
+#. timeline 14837..15896
+#: codec/1/154/0x9a230/14
+msgid ""
+"One of those units trained the Bolivian Army in\n"
+"counter-guerilla tactics....\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0160_000_0
+#. timeline 15924..16537
+#: codec/1/154/0x9a230/15
+msgid ""
+"...And then had them shoot El Che.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0160_000_0
+#. timeline 16551..17052
+#: codec/1/154/0x9a230/16
+msgid ""
+"So the story goes.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0170_000_0
+#. timeline 501..1657
+#: codec/1/154/0x9a7f0/0
+msgid ""
+"Around here, they say \"La CIA\", instead of \"C-I-A,\"\n"
+"huh?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0170_000_0
+#. timeline 2117..3218
+#: codec/1/154/0x9a7f0/1
+msgid ""
+"Nothing strange about it. That's how it's\n"
+"pronounced when you read it in Spanish.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0170_000_0
+#. timeline 3232..4472
+#: codec/1/154/0x9a7f0/2
+msgid ""
+"It has the feminine noun ending \"a,\" so they use\n"
+"the article \"la.\"\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0170_000_0
+#. timeline 4486..5572
+#: codec/1/154/0x9a7f0/3
+msgid ""
+"Apparently some people have even taken to using\n"
+"the term UCLA.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0170_000_0
+#. timeline 5586..6241
+#: codec/1/154/0x9a7f0/4
+msgid ""
+"That's a new one to me. What's it mean?\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0170_000_0
+#. timeline 6241..7328
+#: codec/1/154/0x9a7f0/5
+msgid ""
+"It stands for \"Unilaterally Controlled Latino Assets.\"\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0170_000_0
+#. timeline 7342..7774
+#: codec/1/154/0x9a7f0/6
+msgid ""
+"...Meaning their local agents?\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0170_000_0
+#. timeline 7787..8791
+#: codec/1/154/0x9a7f0/7
+msgid ""
+"Yeah, that's the idea. Washington uses them like\n"
+"pawns,\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0170_000_0
+#. timeline 8791..9571
+#: codec/1/154/0x9a7f0/8
+msgid ""
+"and nobody knows who they really are or what\n"
+"they're doing.\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/0
+msgid ""
+"Can you believe the CIA and the KGB were actually\n"
+"in cahoots?\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/1
+msgid ""
+"Never thought I'd see that at the station chief\n"
+"level...\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/2
+msgid ""
+"But I've heard stories of operatives in the field\n"
+"being on friendly terms.\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/3
+msgid ""
+"Seriously?\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/4
+msgid ""
+"Most espionage takes place in political hotspots, as\n"
+"you'd expect.\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/5
+msgid ""
+"But there aren't that many of those kinds of\n"
+"places. Especially in a small country.\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/6
+msgid ""
+"Hang around long enough, and you're bound to run\n"
+"into fellow spies, like it or not.\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/7
+msgid ""
+"You start saying hello, and soon enough you're\n"
+"eating dinner together...\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/8
+msgid ""
+"Strange bedfellows, huh?\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/9
+msgid ""
+"I dunno about that.\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/10
+msgid ""
+"At any rate, this kind of fiasco is what happens\n"
+"when spies get too familiar.\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/11
+msgid ""
+"Hard to believe,\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/12
+msgid ""
+"but some people will betray anyone and anything if\n"
+"it suits their interests.\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/13
+msgid ""
+"The strength of HUMINT is in its appeal to human\n"
+"emotions,\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/14
+msgid ""
+"but its weakness is in its susceptibility to those\n"
+"same emotions.\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/15
+msgid ""
+"That's why the tide in the intelligence world is\n"
+"shifting toward SIGINT.\n"
+msgstr ""
+
+#: codec/1/154/0x9ab70/16
+msgid ""
+"A network of cold, digital data, where feelings are\n"
+"irrelevant.\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/0
+msgid ""
+"Snake, you got a sec?\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/1
+#: codec/2/915/0x393270/1
+msgid ""
+"What's up?\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/2
+msgid ""
+"Prime Minister Gairy of Grenada is asking the UN\n"
+"to set up an agency\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/3
+msgid ""
+"to study the \"UFO problem.\"\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/4
+msgid ""
+"Grenada... That island in the Caribbean?\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/5
+msgid ""
+"He gave the press a bunch of photos - says they\n"
+"prove the existence of UFOs.\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/6
+msgid ""
+"One of them caught my eye.\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/7
+msgid ""
+"That's the...\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/8
+msgid ""
+"Yep... The weapon Huey called the Chrysalis.\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/9
+msgid ""
+"...Kaz, this is the photo I gave to Chico.\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/10
+msgid ""
+"He said something about selling it off as a photo\n"
+"of a UFO...\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/11
+msgid ""
+"Looks like it found its way into the pages of a\n"
+"magazine.\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/12
+msgid ""
+"But... why would the prime minister of a country\n"
+"believe tabloid trash like that?\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/13
+msgid ""
+"There's been reports all over the Americas of\n"
+"abductions and cattle mutilations, lately.\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/14
+msgid ""
+"You think they're true?\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/15
+msgid ""
+"I think the CIA might be involved.\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/16
+msgid ""
+"If they are, then Gairy could be...\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/17
+msgid ""
+"I know. If he digs too deep, he's gonna get himself\n"
+"into trouble.\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/18
+msgid ""
+"But Grenada's right next door to Cuba.\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/19
+msgid ""
+"I guess that would make it tough for the CIA to\n"
+"intervene, in a sense.\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/20
+msgid ""
+"Upsetting the domestic balance of power could\n"
+"cause it to go Red all of a sudden.\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/21
+msgid ""
+"True... Well, in any case it's not like we can do\n"
+"anything about it.\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/22
+msgid ""
+"Just wanted to let you know.\n"
+msgstr ""
+
+#: codec/1/155/0x9b1c0/23
+msgid ""
+"Gotcha. I'll be careful not to let any more photos\n"
+"leak.\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/0
+msgid ""
+"So I hear Amanda mistook you for Che Guevara,\n"
+"Snake.\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/1
+msgid ""
+"That's not too bad, huh?\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/2
+msgid ""
+"Yeah, right. I'm not even worthy of polishing his\n"
+"boots.\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/3
+msgid ""
+"Don't be so modest.\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/4
+msgid ""
+"From where I'm standing, your men see you as a\n"
+"great man.\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/5
+msgid ""
+"As great as \"the century's most complete human\n"
+"being\"?\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/6
+msgid ""
+"That's Sartre, right? Well, there's hardly been a\n"
+"more iconic figure of his times than Che.\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/7
+msgid ""
+"He was more than that. He was a true\n"
+"revolutionary, and a great warrior.\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/8
+msgid ""
+"I'm with you there. Can you believe that when he\n"
+"first went to Cuba with Fidel,\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/9
+msgid ""
+"they only had 12 guys with them?\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/10
+msgid ""
+"But they rallied. They brought in new recruits,\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/11
+msgid ""
+"won the support of the peasants, expanded their\n"
+"organization...\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/12
+msgid ""
+"And in the end, they overthrew the Batista regime...\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/13
+msgid ""
+"People flocked to them because they were honest.\n"
+"They won because they were strong.\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/14
+msgid ""
+"Those are the qualities that make men great.\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/15
+msgid ""
+"You know, we're kind of in the same boat they\n"
+"were back then.\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/16
+msgid ""
+"Here we are, a handful of mercenaries\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/17
+msgid ""
+"taking on an army backed by the United States.\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/18
+msgid ""
+"Yeah, we've got a long way to go.\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/19
+msgid ""
+"But we've got to keep on going. It's not just about\n"
+"winning in battle.\n"
+msgstr ""
+
+#: codec/1/155/0x9b990/20
+msgid ""
+"You need to think about recruiting people and\n"
+"growing this operation.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0580_000_0
+#. timeline 13527..13848
+#: codec/1/155/0x9b990/21
+#: codec/1/165/0xa5290/7
+#: codec/1/178/0xb2060/14
+#: codec/2/902/0x3861c0/40
+#: codec/2/905/0x389770/22
+msgid ""
+"Got it.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0200_010_0
+#. timeline 501..1142
+#: codec/1/156/0x9c120/0
+msgid ""
+"Hey, Snake, I've been thinking...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0200_010_0
+#. timeline 1170..2284
+#: codec/1/156/0x9c120/1
+msgid ""
+"Maybe Che couldn't find a place for himself outside\n"
+"the battlefield, either.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0200_010_0
+#. timeline 2298..2535
+#. speaker 0x0e28dce6 voice v_bri_huy0080_000_0
+#. timeline 2465..2730
+#: codec/1/156/0x9c120/2
+#: codec/1/198/0xc62d0/1
+#: codec/1/224/0xe0990/9
+#: codec/1/246/0xf6a00/2
+msgid ""
+"How so?\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0200_010_0
+#. timeline 2549..3803
+#: codec/1/156/0x9c120/3
+msgid ""
+"He led the Cuban Revolution to victory. That's\n"
+"quite an accomplishment.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0200_010_0
+#. timeline 3831..4625
+#: codec/1/156/0x9c120/4
+msgid ""
+"He could have called it quits there and nobody\n"
+"would have blamed him.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0200_010_0
+#. timeline 4653..6102
+#: codec/1/156/0x9c120/5
+msgid ""
+"But he left behind a loving family and a cabinet\n"
+"post to plunge back into the struggle.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0200_010_0
+#. timeline 6116..7091
+#: codec/1/156/0x9c120/6
+msgid ""
+"First in the Congo, then in Bolivia - where he met\n"
+"his end.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0200_010_0
+#. timeline 7105..8526
+#: codec/1/156/0x9c120/7
+msgid ""
+"You're overthinking things. Che went back to the\n"
+"battlefield because he was needed there.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0200_010_0
+#. timeline 8582..9376
+#: codec/1/156/0x9c120/8
+msgid ""
+"Read his \"Farewell Letter,\" then you'll understand.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0200_010_0
+#. timeline 9390..10351
+#: codec/1/156/0x9c120/9
+msgid ""
+"Some say he was too idealistic to fit in with a\n"
+"government.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0200_010_0
+#. timeline 10365..11103
+#: codec/1/156/0x9c120/10
+msgid ""
+"Too many scruples, most likely.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0200_010_0
+#. timeline 11117..11382
+#: codec/1/156/0x9c120/11
+msgid ""
+"Maybe so...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0200_010_0
+#. timeline 11396..12343
+#: codec/1/156/0x9c120/12
+msgid ""
+"But I still can't help thinking the reason you look\n"
+"up to Che\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0200_010_0
+#. timeline 12385..13165
+#: codec/1/156/0x9c120/13
+msgid ""
+"is because you see something of yourself in him...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0200_010_0
+#. timeline 13235..14071
+#: codec/1/156/0x9c120/14
+msgid ""
+"You left your country behind and plunged into\n"
+"battle.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0200_010_0
+#. timeline 14154..15269
+#: codec/1/156/0x9c120/15
+msgid ""
+"You wander from one battlefield to another, going\n"
+"wherever you're needed...\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0200_010_0
+#. timeline 15283..16871
+#: codec/1/156/0x9c120/16
+msgid ""
+"Che was a revolutionary as well as a warrior. He\n"
+"took up arms to fight for his beliefs.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0200_010_0
+#. timeline 16885..18919
+#: codec/1/156/0x9c120/17
+msgid ""
+"I don't do what I do for any ideology. I'm a warrior.\n"
+"Nothing more, nothing less.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0200_010_0
+#. timeline 18961..20591
+#: codec/1/156/0x9c120/18
+msgid ""
+"OK, Boss. You're right. Just wanted to see how we\n"
+"stacked up against a real hero.\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/0
+msgid ""
+"Boss, did you ever read Che Guevara's book\n"
+"\"Guerrilla Warfare\"?\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/1
+msgid ""
+"I, uh... can't remember if I got to that one or not.\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/2
+msgid ""
+"You should have, that's why I lent it to you.\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/3
+msgid ""
+"A lot of the guerrilla tactics it covers apply to\n"
+"sneaking missions, too.\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/4
+msgid ""
+"Che was one of the first people to articulate the\n"
+"theory of guerrilla warfare.\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/5
+msgid ""
+"T.E. Lawrence - \"Lawrence of Arabia\" - was another\n"
+"one.\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/6
+msgid ""
+"And Mao Zedong and his \"On Protracted War\"...\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/7
+msgid ""
+"Theory aside, Nicaragua's General Sandino\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/8
+msgid ""
+"was one of the first to put guerrilla tactics into\n"
+"practice.\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/9
+msgid ""
+"Which explains why the Sandinistas named\n"
+"themselves after him.\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/10
+msgid ""
+"If you think about it, guerrilla warfare itself has\n"
+"been around since ancient times.\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/11
+msgid ""
+"There's only so many ways a small group can\n"
+"upset a large army.\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/12
+msgid ""
+"There was a samurai in Japan who excelled in\n"
+"guerrilla warfare.\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/13
+msgid ""
+"No kidding?\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/14
+msgid ""
+"Kusunoki Masashige. He was a warrior who lived in\n"
+"the medieval era.\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/15
+msgid ""
+"He used unconventional tactics to help overthrow\n"
+"the Kamakura Shogunate.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0050_010_0
+#. timeline 2661..2953
+#: codec/1/156/0x9c850/16
+#: codec/1/244/0xf4740/2
+msgid ""
+"Like what?\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/17
+msgid ""
+"Trojan Horse-style maneuvers and decoys to\n"
+"confuse the enemy...\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/18
+msgid ""
+"The best one was when the enemy was climbing\n"
+"his castle walls\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/19
+msgid ""
+"- he dumped boiling water and human excrement\n"
+"on them...\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/20
+msgid ""
+"Sounds great. Let's put it in the MSF playbook.\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/21
+msgid ""
+"...You're not serious, are you, Boss?\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/22
+msgid ""
+"Why not? We've got plenty of crap to unload.\n"
+msgstr ""
+
+#: codec/1/156/0x9c850/23
+msgid ""
+"Uh.... yeah. I'll think about it.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0230_000_0
+#. timeline 445..1030
+#: codec/1/157/0x9d0b0/0
+msgid ""
+"What's wrong, Kaz? You sound beat.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0230_000_0
+#. timeline 1044..2020
+#: codec/1/157/0x9d0b0/1
+msgid ""
+"Yeah, the problems never seem to end around\n"
+"here...\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0230_000_0
+#. timeline 2034..3190
+#: codec/1/157/0x9d0b0/2
+msgid ""
+"You should take a break. Share a cup of mate with\n"
+"the other guys.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0230_000_0
+#. timeline 3287..3831
+#: codec/1/157/0x9d0b0/3
+msgid ""
+"It'll give you a chance to connect with them.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0230_000_0
+#. timeline 3859..4931
+#: codec/1/157/0x9d0b0/4
+msgid ""
+"I wonder if Che and his men ever sat around drank\n"
+"mate.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0230_000_0
+#. timeline 4945..6088
+#: codec/1/157/0x9d0b0/5
+msgid ""
+"I bet they did. Che was famous for his love of the\n"
+"stuff.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0230_000_0
+#. timeline 7523..8930
+#: codec/1/157/0x9d0b0/6
+msgid ""
+"Man, whoever thought of this was a genius. You\n"
+"can put it in a gourd and carry it around,\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0230_000_0
+#. timeline 8944..10142
+#: codec/1/157/0x9d0b0/7
+msgid ""
+"and there's a special straw with a filter attached\n"
+"so you can drink it anytime.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0230_000_0
+#. timeline 10156..11382
+#: codec/1/157/0x9d0b0/8
+msgid ""
+"That's not all. It's full of essential vitamins and\n"
+"minerals, too.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0230_000_0
+#. timeline 11521..12301
+#: codec/1/157/0x9d0b0/9
+msgid ""
+"Nice to have in a guerrilla war when food is short.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0230_000_0
+#. timeline 12315..13904
+#: codec/1/157/0x9d0b0/10
+msgid ""
+"Yeah, I wish I had a chance to share some with a\n"
+"blonde Parisienne when I was out hiking.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0230_000_0
+#. timeline 14043..14461
+#: codec/1/157/0x9d0b0/11
+msgid ""
+"...How do you know about that?\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0230_000_0
+#. timeline 14461..16370
+#: codec/1/157/0x9d0b0/12
+msgid ""
+"It takes a thief - or should I say it takes a snake -\n"
+"to know one, Snake.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
+#. timeline 487..1128
+#: codec/1/157/0x9d5c0/0
+msgid ""
+"The year the Cuban Revolution was won,\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
+#. timeline 1212..2256
+#: codec/1/157/0x9d5c0/1
+msgid ""
+"Che visited Japan as a member of an economic\n"
+"delegation.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
+#. timeline 2368..3037
+#: codec/1/157/0x9d5c0/2
+msgid ""
+"While he was there, he visited Hiroshima.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0240_000_0
+#. timeline 3037..3301
+#: codec/1/157/0x9d5c0/3
+msgid ""
+"Hiroshima...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
+#. timeline 3329..4137
+#: codec/1/157/0x9d5c0/4
+msgid ""
+"Since he was there to discuss economic issues,\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
+#. timeline 4207..5057
+#: codec/1/157/0x9d5c0/5
+msgid ""
+"Hiroshima wasn't part of the original itinerary.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
+#. timeline 5126..6631
+#: codec/1/157/0x9d5c0/6
+msgid ""
+"Some said the Ministry of Foreign Affairs didn't\n"
+"want to let him go. But he went anyway.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
+#. timeline 6687..7578
+#: codec/1/157/0x9d5c0/7
+msgid ""
+"He snuck out of his hotel and took an overnight\n"
+"train.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0240_000_0
+#. timeline 7829..8930
+#: codec/1/157/0x9d5c0/8
+msgid ""
+"Traveling guerrilla-style - sounds like Che, all right.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
+#. timeline 8958..10309
+#: codec/1/157/0x9d5c0/9
+msgid ""
+"He visited the Peace Memorial Museum and the\n"
+"Atomic Bomb Survivors Hospital.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
+#. timeline 10421..10992
+#: codec/1/157/0x9d5c0/10
+msgid ""
+"Apparently it gave him quite a shock.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
+#. timeline 11020..12204
+#: codec/1/157/0x9d5c0/11
+msgid ""
+"As a doctor, it must have been painful for him to\n"
+"see how the victims suffered.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0240_000_0
+#. timeline 12232..12733
+#: codec/1/157/0x9d5c0/12
+msgid ""
+"Nukes destroy everything...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
+#. timeline 12747..13123
+#: codec/1/157/0x9d5c0/13
+msgid ""
+"He was quoted as saying,\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
+#. timeline 13263..14475
+#: codec/1/157/0x9d5c0/14
+msgid ""
+"\"They put you through this, and still you do\n"
+"whatever America says?\"\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
+#. timeline 14531..15743
+#: codec/1/157/0x9d5c0/15
+msgid ""
+"...Those words really hit me hard. Especially when I\n"
+"think of my mom.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
+#. timeline 15770..17261
+#: codec/1/157/0x9d5c0/16
+msgid ""
+"He said something else, too: \"Let us all love\n"
+"Hiroshima, and its people.\"\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0240_000_0
+#. timeline 17303..18752
+#: codec/1/157/0x9d5c0/17
+msgid ""
+"I can believe it. Che never managed to numb\n"
+"himself to other people's pain.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0240_000_0
+#. timeline 18975..20089
+#: codec/1/157/0x9d5c0/18
+msgid ""
+"That's why people loved him. And why he died.\n"
+msgstr ""
+
+#: codec/1/157/0x9dc70/0
+msgid ""
+"That bandanna you're always wearing - that thing's\n"
+"a real antique.\n"
+msgstr ""
+
+#: codec/1/157/0x9dc70/1
+msgid ""
+"Ever think about getting a new one?\n"
+msgstr ""
+
+#: codec/1/157/0x9dc70/2
+msgid ""
+"This one's fine.\n"
+msgstr ""
+
+#: codec/1/157/0x9dc70/3
+msgid ""
+"Come on, we can't have our Boss wearing a\n"
+"raggedy old thing like that...\n"
+msgstr ""
+
+#: codec/1/157/0x9dc70/4
+msgid ""
+"It was a gift, OK? It wouldn't be right to get rid of\n"
+"it.\n"
+msgstr ""
+
+#: codec/1/157/0x9dc70/5
+msgid ""
+"It was? OK, then... Speaking of which,\n"
+msgstr ""
+
+#: codec/1/157/0x9dc70/6
+msgid ""
+"Che supposedly had a black scarf he used to take\n"
+"everywhere with him.\n"
+msgstr ""
+
+#: codec/1/157/0x9dc70/7
+msgid ""
+"A scarf?\n"
+msgstr ""
+
+#: codec/1/157/0x9dc70/8
+msgid ""
+"One of his comrades gave it to him when he broke\n"
+"his arm in battle.\n"
+msgstr ""
+
+#: codec/1/157/0x9dc70/9
+msgid ""
+"Che used that silk scarf as a sling...\n"
+msgstr ""
+
+#: codec/1/157/0x9dc70/10
+msgid ""
+"and the comrade who gave it to him became his\n"
+"second wife.\n"
+msgstr ""
+
+#: codec/1/157/0x9dc70/11
+msgid ""
+"Aleida, right?\n"
+msgstr ""
+
+#: codec/1/157/0x9dc70/12
+msgid ""
+"Even after his arm healed up, he never went\n"
+"anywhere without that scarf.\n"
+msgstr ""
+
+#: codec/1/157/0x9dc70/13
+msgid ""
+"What about you? You get that bandanna from\n"
+"someone special?\n"
+msgstr ""
+
+#: codec/1/157/0x9dc70/14
+msgid ""
+"No, nothing like that. It's... important to me, that's all.\n"
+msgstr ""
+
+#: codec/1/158/0x9e190/0
+msgid ""
+"You were saying Japan has a peace constitution,\n"
+"too?\n"
+msgstr ""
+
+#: codec/1/158/0x9e190/1
+msgid ""
+"Yep. Japan renounced war in Article 9 of its\n"
+"constitution.\n"
+msgstr ""
+
+#: codec/1/158/0x9e190/2
+msgid ""
+"Aspiring sincerely to an international peace based\n"
+"on justice and order...\n"
+msgstr ""
+
+#: codec/1/158/0x9e190/3
+msgid ""
+"...the Japanese people forever renounce war as a\n"
+"sovereign right of the nation\n"
+msgstr ""
+
+#: codec/1/158/0x9e190/4
+msgid ""
+"and the threat or use of force as means of\n"
+"settling international disputes.\n"
+msgstr ""
+
+#: codec/1/158/0x9e190/5
+msgid ""
+"In order to accomplish the aim of the preceding\n"
+"paragraph,\n"
+msgstr ""
+
+#: codec/1/158/0x9e190/6
+msgid ""
+"land, sea, and air forces, as well as other war\n"
+"potential, will never be maintained.\n"
+msgstr ""
+
+#: codec/1/158/0x9e190/7
+msgid ""
+"The right of belligerency of the state will not be\n"
+"recognized.\n"
+msgstr ""
+
+#: codec/1/158/0x9e190/8
+msgid ""
+"You know it by heart?\n"
+msgstr ""
+
+#: codec/1/158/0x9e190/9
+msgid ""
+"Some things you never forget.\n"
+msgstr ""
+
+#: codec/1/158/0x9e190/10
+msgid ""
+"Impressive. There were some parts I didn't quite\n"
+"get, though\n"
+msgstr ""
+
+#: codec/1/158/0x9e190/11
+msgid ""
+"- like the whole \"means of settling conflicts\" thing.\n"
+msgstr ""

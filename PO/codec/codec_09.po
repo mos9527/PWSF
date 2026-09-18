@@ -1,0 +1,2674 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF codec 9/12\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: codec\n"
+"X-PWSF-Entries: 400\n"
+
+
+#. speaker 0x0ea8e31c voice v_bri_huy0050_010_0
+#. timeline 7091..8080
+#: codec/1/244/0xf4740/7
+msgid ""
+"- the chances of having nukes used against them\n"
+"are slim.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0050_010_0
+#. timeline 8122..8958
+#: codec/1/244/0xf4740/8
+msgid ""
+"They have no reason to fear a nuclear strike.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0050_010_0
+#. timeline 9000..10476
+#: codec/1/244/0xf4740/9
+msgid ""
+"Conversely, they have no reason to hesitate to use\n"
+"nukes against their adversaries.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0050_010_0
+#. timeline 10476..11633
+#: codec/1/244/0xf4740/10
+msgid ""
+"You've got a point. All the ICBMs and strategic\n"
+"bombers in the world\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0050_010_0
+#. timeline 11633..12260
+#: codec/1/244/0xf4740/11
+msgid ""
+"amount to nothing against a terrorist group.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0050_010_0
+#. timeline 12260..13318
+#: codec/1/244/0xf4740/12
+msgid ""
+"Right! Of course, this is all still hypothetical.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0050_010_0
+#. timeline 13360..13959
+#: codec/1/244/0xf4740/13
+msgid ""
+"Countries keep their nukes under tight watch\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0050_010_0
+#. timeline 13959..15032
+#: codec/1/244/0xf4740/14
+msgid ""
+"- there's no immediate danger of terrorists getting\n"
+"their hands on them.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0050_010_0
+#. timeline 15032..16021
+#: codec/1/244/0xf4740/15
+msgid ""
+"But the day may come when the proposition of\n"
+"nuclear terrorism\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0050_010_0
+#. timeline 16021..16885
+#: codec/1/244/0xf4740/16
+msgid ""
+"makes nuclear deterrence theory a dead letter.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0050_010_0
+#. timeline 16885..18125
+#: codec/1/244/0xf4740/17
+msgid ""
+"Nuclear terrorism... Interesting.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0070_000_0
+#. timeline 431..2340
+#: codec/1/246/0xf6670/0
+msgid ""
+"The aim of the Peace Walker Project is to achieve\n"
+"robust nuclear deterrence across Central America\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0070_000_0
+#. timeline 2368..3538
+#: codec/1/246/0xf6670/1
+msgid ""
+"by deploying a new nuclear weapon system along\n"
+"the Caribbean coast.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0070_000_0
+#. timeline 3566..4430
+#: codec/1/246/0xf6670/2
+msgid ""
+"Peace Walker is also the name of the system itself.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0070_000_0
+#. timeline 4639..6213
+#: codec/1/246/0xf6670/3
+msgid ""
+"A nuclear weapon named \"Peace\"... I can just see\n"
+"the look on Kaz's face.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0070_000_0
+#. timeline 6241..7300
+#: codec/1/246/0xf6670/4
+msgid ""
+"So why exactly does this new system need legs in\n"
+"the first place?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0070_000_0
+#. timeline 7300..7704
+#: codec/1/246/0xf6670/5
+msgid ""
+"Because it's a \"Walker.\"\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0070_000_0
+#. timeline 7704..8094
+#: codec/1/246/0xf6670/6
+msgid ""
+"An unmanned weapon\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0070_000_0
+#. timeline 8094..9613
+#: codec/1/246/0xf6670/7
+msgid ""
+"moving under its own power and capable of\n"
+"launching a deterrent strike from anywhere...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0070_000_0
+#. timeline 9738..10671
+#: codec/1/246/0xf6670/8
+msgid ""
+"That's the whole idea behind Peace Walker.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_000_0
+#. timeline 459..1476
+#: codec/1/246/0xf6a00/0
+msgid ""
+"The reason Peace Walker is a mobile nuclear\n"
+"weapons system\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_000_0
+#. timeline 1476..2452
+#: codec/1/246/0xf6a00/1
+msgid ""
+"is to maximize its potential as a nuclear deterrent.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_000_0
+#. timeline 2730..3873
+#: codec/1/246/0xf6a00/3
+msgid ""
+"If need be, Peace Walker can stay constantly on\n"
+"the move\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_000_0
+#. timeline 3873..4764
+#: codec/1/246/0xf6a00/4
+msgid ""
+"so that the adversary can't pinpoint its position...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_000_0
+#. timeline 4834..5684
+#: codec/1/246/0xf6a00/5
+msgid ""
+"That allows it to avoid preemptive enemy strikes.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0080_000_0
+#. timeline 5684..6645
+#: codec/1/246/0xf6a00/6
+msgid ""
+"So you're saying it keeps the retaliation card in\n"
+"play.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_000_0
+#. timeline 6645..7397
+#: codec/1/246/0xf6a00/7
+msgid ""
+"Coldman likes to brag about it in this way...\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0080_000_0
+#. timeline 7397..8219
+#: codec/1/246/0xf6a00/8
+msgid ""
+"Like a land-based version of an SSBN.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_000_0
+#. timeline 8233..9013
+#: codec/1/246/0xf6a00/9
+msgid ""
+"And there's another reason for them to be mobile.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_000_0
+#. timeline 9097..10184
+#: codec/1/246/0xf6a00/10
+msgid ""
+"Peace Walker also has a self-destruct function.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 459..2145
+#: codec/1/247/0xf7300/0
+msgid ""
+"The biggest nuclear warhead ever actually\n"
+"detonated was the Soviet RDS-220,\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 2173..2828
+#: codec/1/247/0xf7300/1
+msgid ""
+"nicknamed \"Tsar Bomba.\"\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 2828..3914
+#: codec/1/247/0xf7300/2
+msgid ""
+"It had an estimated yield of 57 megatons\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 3942..5363
+#: codec/1/247/0xf7300/3
+msgid ""
+"- ten times as much power as all the explosives\n"
+"used throughout World War II.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 5391..6924
+#: codec/1/247/0xf7300/4
+msgid ""
+"The test took place on October 30, 1961, above\n"
+"Novaya Zemlya.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 6979..8331
+#: codec/1/247/0xf7300/5
+msgid ""
+"The explosion is believed to have created a fireball\n"
+"over two miles in diameter.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 8359..9431
+#: codec/1/247/0xf7300/6
+msgid ""
+"Can you believe that? Like a miniature sun.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 9473..10992
+#: codec/1/247/0xf7300/7
+msgid ""
+"The explosion was seen as far off as Finland - 600\n"
+"miles away\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 11006..11842
+#: codec/1/247/0xf7300/8
+msgid ""
+"- and some people even reported windows\n"
+"shattering.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 11870..12803
+#: codec/1/247/0xf7300/9
+msgid ""
+"The shockwave traveled three times around the\n"
+"earth.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0080_020_1
+#. timeline 12803..13221
+#: codec/1/247/0xf7300/10
+msgid ""
+"Three times?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 13221..14238
+#: codec/1/247/0xf7300/11
+msgid ""
+"Peace Walker is armed with a massive hydrogen\n"
+"bomb\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 14238..14976
+#: codec/1/247/0xf7300/12
+msgid ""
+"even more destructive than Tsar Bomba.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 14976..15868
+#: codec/1/247/0xf7300/13
+msgid ""
+"It can sneak into enemy territory, lie low,\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 15882..17428
+#: codec/1/247/0xf7300/14
+msgid ""
+"and - in the event of an enemy nuclear strike -\n"
+"detonate itself in retaliation.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 17526..18306
+#: codec/1/247/0xf7300/15
+msgid ""
+"And the locomotion system that lets it do that...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 18306..18780
+#: codec/1/247/0xf7300/16
+msgid ""
+"...My research...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 18780..20006
+#: codec/1/247/0xf7300/17
+msgid ""
+"...Snake, those legs were supposed to make my\n"
+"dream come true.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 20006..21413
+#: codec/1/247/0xf7300/18
+msgid ""
+"Now they're about to jump the fence of nuclear\n"
+"deterrence. You have to stop them!\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0080_020_1
+#. timeline 21413..22736
+#: codec/1/247/0xf7300/19
+msgid ""
+"I'll apply all my energy into developing weapons and\n"
+"equipment to help you do it.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0080_020_1
+#. timeline 22736..23224
+#: codec/1/247/0xf7300/20
+msgid ""
+"Sounds like a deal.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_mis_huy0035_000_0
+#. timeline 445..1490
+#: codec/1/248/0xf87b0/0
+msgid ""
+"Peace Walker is fitted with several close-range\n"
+"weapons.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_mis_huy0035_000_0
+#. timeline 1504..2758
+#: codec/1/248/0xf87b0/1
+msgid ""
+"We'd also planned for it to be able to enter enemy\n"
+"territory and self-detonate.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_mis_huy0035_000_0
+#. timeline 2814..3761
+#: codec/1/248/0xf87b0/2
+msgid ""
+"Wonderful. What exactly are we dealing with here?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_mis_huy0035_000_0
+#. timeline 3803..5154
+#: codec/1/248/0xf87b0/3
+msgid ""
+"Well, the flamethrowers, for one thing - One in the\n"
+"front, and one in the rear.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_mis_huy0035_000_0
+#. timeline 5210..6952
+#: codec/1/248/0xf87b0/4
+msgid ""
+"Then there are the S-mines. They're like cluster\n"
+"bombs. It scatters them from its leg hatches.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_mis_huy0035_000_0
+#. timeline 6979..7787
+#: codec/1/248/0xf87b0/5
+msgid ""
+"If you see those open, you'd better clear out\n"
+"quickly.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_mis_huy0035_000_0
+#. timeline 7815..9278
+#: codec/1/248/0xf87b0/6
+msgid ""
+"And finally, the rockets. These can travel quite a\n"
+"distance, so stay sharp.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_mis_huy0035_000_0
+#. timeline 9306..10323
+#: codec/1/248/0xf87b0/7
+msgid ""
+"On the other hand, it can't fire them from too\n"
+"close...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_mis_huy0035_000_0
+#. timeline 10379..11131
+#: codec/1/248/0xf87b0/8
+msgid ""
+"but then again there are those flamethrowers.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_mis_huy0035_000_0
+#. timeline 11173..12343
+#: codec/1/248/0xf87b0/9
+msgid ""
+"It can also use its legs as weapons against any\n"
+"infantry on the ground.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_mis_huy0035_000_0
+#. timeline 12357..12538
+#: codec/1/248/0xf87b0/10
+msgid ""
+"Ouch.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_mis_huy0035_000_0
+#. timeline 12552..13681
+#: codec/1/248/0xf87b0/11
+msgid ""
+"But remember, Peace Walker technically isn't\n"
+"complete.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_mis_huy0035_000_0
+#. timeline 13736..15046
+#: codec/1/248/0xf87b0/12
+msgid ""
+"With just the Reptile Pod, it can only perform\n"
+"relatively simple maneuvers.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_mis_huy0035_000_0
+#. timeline 15116..15715
+#: codec/1/248/0xf87b0/13
+msgid ""
+"They've got certain quirks too.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_mis_huy0035_000_0
+#. timeline 15770..16370
+#: codec/1/248/0xf87b0/14
+msgid ""
+"What's more, look carefully\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_mis_huy0035_000_0
+#. timeline 16370..17401
+#: codec/1/248/0xf87b0/15
+msgid ""
+"and you should be able to predict which attack is\n"
+"coming next.\n"
+msgstr ""
+
+#: codec/1/248/0xf8da0/0
+msgid ""
+"Snake! You have to stop Peace Walker from\n"
+"launching that nuke!\n"
+msgstr ""
+
+#: codec/1/248/0xf8da0/1
+msgid ""
+"Calm down. What do I need to do?\n"
+msgstr ""
+
+#: codec/1/248/0xf8da0/2
+msgid ""
+"To tell you the truth, I don't really know...\n"
+msgstr ""
+
+#: codec/1/248/0xf8da0/3
+msgid ""
+"The Mammal Pod has probably enhanced both its\n"
+"thought patterns and mobility.\n"
+msgstr ""
+
+#: codec/1/248/0xf8da0/4
+msgid ""
+"The S-mines, rockets, flamethrowers - they're all\n"
+"the same, but\n"
+msgstr ""
+
+#: codec/1/248/0xf8da0/5
+msgid ""
+"I don't know what else to say...\n"
+msgstr ""
+
+#: codec/1/248/0xf8da0/6
+msgid ""
+"You'll just have to stay sharp and watch for how it\n"
+"behaves before each of the attacks.\n"
+msgstr ""
+
+#: codec/1/248/0xf8da0/7
+msgid ""
+"I'll give it a shot. There's no time for anything else.\n"
+msgstr ""
+
+#: codec/1/248/0xf8da0/8
+msgid ""
+"Sorry I can't be more helpful. You can do it, Snake!\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0100_000_0
+#. timeline 445..1504
+#: codec/1/249/0xf9120/0
+msgid ""
+"OK, but why does Peace Walker need to walk on\n"
+"two legs?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0100_000_0
+#. timeline 1560..2117
+#: codec/1/249/0xf9120/1
+msgid ""
+"I'd think treads would be good enough.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0100_000_0
+#. timeline 2131..2633
+#: codec/1/249/0xf9120/2
+msgid ""
+"You'd be wrong.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0100_000_0
+#. timeline 2661..3845
+#: codec/1/249/0xf9120/3
+msgid ""
+"As you know, the terrain in Central America is\n"
+"rugged and complex.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0100_000_0
+#. timeline 3873..4764
+#: codec/1/249/0xf9120/4
+msgid ""
+"Especially along the Caribbean coast of Costa Rica.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0100_000_0
+#. timeline 4778..5753
+#: codec/1/249/0xf9120/5
+msgid ""
+"You've got jungles, swamps, mountains...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0100_000_0
+#. timeline 5767..7147
+#: codec/1/249/0xf9120/6
+msgid ""
+"And the only way to get across all that terrain, no\n"
+"matter how rugged, is on legs.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0100_000_0
+#. timeline 7216..8205
+#: codec/1/249/0xf9120/7
+msgid ""
+"But wouldn't it be tough to cross a swamp even on\n"
+"legs?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0100_000_0
+#. timeline 8233..8888
+#: codec/1/249/0xf9120/8
+msgid ""
+"It wasn't easy, that's for sure.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0100_000_0
+#. timeline 8930..9668
+#: codec/1/249/0xf9120/9
+msgid ""
+"The reason we picked Costa Rica as a proving\n"
+"ground\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0100_000_0
+#. timeline 9668..10644
+#: codec/1/249/0xf9120/10
+msgid ""
+"is because we can test it on every type of terrain.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0110_000_0
+#. timeline 459..2061
+#: codec/1/249/0xf9500/0
+msgid ""
+"This \"Peace Walker Project\" the CIA's talking about\n"
+"- you believed in it, huh?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 2089..3678
+#: codec/1/249/0xf9500/1
+msgid ""
+"Yeah. I believed... Actually, maybe I just wanted to\n"
+"believe.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 4026..5614
+#: codec/1/249/0xf9500/3
+msgid ""
+"Here's how Coldman explained it. Peace Walker's a\n"
+"weapon for peace,\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 5656..6548
+#: codec/1/249/0xf9500/4
+msgid ""
+"one to ensure true nuclear deterrence.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 6589..7606
+#: codec/1/249/0xf9500/5
+msgid ""
+"It'd be the anchor to bring stability to Central\n"
+"America...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 7620..9195
+#: codec/1/249/0xf9500/6
+msgid ""
+"He told me, \"The nuclear weapons system you've\n"
+"built will never be used.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 9209..10323
+#: codec/1/249/0xf9500/7
+msgid ""
+"It will forever stand vigil as an icon of peace.\"\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 10337..11647
+#: codec/1/249/0xf9500/8
+msgid ""
+"And to achieve that, he needed my bipedal\n"
+"locomotion technology...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 11772..12399
+#: codec/1/249/0xf9500/9
+msgid ""
+"To be honest, I was flattered.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0110_000_0
+#. timeline 12413..12733
+#: codec/1/249/0xf9500/10
+msgid ""
+"Flattered?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 12747..13137
+#: codec/1/249/0xf9500/11
+msgid ""
+"Wouldn't you be?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 13165..14363
+#: codec/1/249/0xf9500/12
+msgid ""
+"My colleagues in the scientific community have\n"
+"never taken me seriously.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 14391..15868
+#: codec/1/249/0xf9500/13
+msgid ""
+"They told me bipedal locomotion was a pipe dream,\n"
+"that it'd never amount to anything.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 15882..16815
+#: codec/1/249/0xf9500/14
+msgid ""
+"It was the first time anybody recognized my work...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 16885..17944
+#: codec/1/249/0xf9500/15
+msgid ""
+"How could I not be happy? And besides...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 17944..18724
+#: codec/1/249/0xf9500/16
+msgid ""
+"It was my chance to surpass my father.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 18836..20131
+#: codec/1/249/0xf9500/17
+msgid ""
+"To create nukes for peace... Or so I thought,\n"
+"anyway.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0110_000_0
+#. timeline 20131..20828
+#: codec/1/249/0xf9500/18
+msgid ""
+"But Coldman's really going through with it.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 20828..21775
+#: codec/1/249/0xf9500/19
+msgid ""
+"Yeah. Makes perfect sense, really.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_000_0
+#. timeline 21873..23684
+#: codec/1/249/0xf9500/20
+msgid ""
+"No one would give the project any notice unless\n"
+"they could prove that an unmanned system is\n"
+"capable of launching a nuke.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0110_010_0
+#. timeline 445..1100
+#: codec/1/249/0xf9c50/0
+msgid ""
+"Why is Coldman gonna launch a nuke?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0110_010_0
+#. timeline 1100..2173
+#: codec/1/249/0xf9c50/1
+msgid ""
+"If all he wants to do is prove the AI retaliation\n"
+"system works,\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0110_010_0
+#. timeline 2187..2939
+#: codec/1/249/0xf9c50/2
+msgid ""
+"he doesn't need to put a live warhead on it.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_010_0
+#. timeline 2939..4277
+#: codec/1/249/0xf9c50/3
+msgid ""
+"I agree. He could demonstrate the system by\n"
+"launching the missile alone\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_010_0
+#. timeline 4277..5349
+#: codec/1/249/0xf9c50/4
+msgid ""
+"- without a warhead. I asked him the same thing at\n"
+"first.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_010_0
+#. timeline 5363..6213
+#: codec/1/249/0xf9c50/5
+msgid ""
+"He said there was no point in using a dummy\n"
+"missile...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_010_0
+#. timeline 6283..7592
+#: codec/1/249/0xf9c50/6
+msgid ""
+"That it'd take an actual nuclear launch to deter\n"
+"potential enemies.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_010_0
+#. timeline 7592..8860
+#: codec/1/249/0xf9c50/7
+msgid ""
+"Launching the real deal gives him a leg up in\n"
+"negotiations with Langley.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0110_010_0
+#. timeline 8902..9445
+#: codec/1/249/0xf9c50/8
+msgid ""
+"That's what he's really after.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/0
+msgid ""
+"How'd you get your hands on Granin's research?\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/1
+msgid ""
+"That was also Coldman. He used his Agency\n"
+"contacts to get a hold of it.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/2
+msgid ""
+"Giving you stolen information then using it to\n"
+"blackmail you... Damn.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/3
+msgid ""
+"I knew it was Granin's work the minute I saw it.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/4
+msgid ""
+"See, I'd been corresponding with him for a while.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/5
+msgid ""
+"Corresponding?\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/6
+msgid ""
+"Letters. Between scientists doing the same kind of\n"
+"research...\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/7
+msgid ""
+"He always complained that nobody understood his\n"
+"ideas on bipedal locomotion.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/8
+msgid ""
+"Ah... So you're the \"American friend\" he was talking\n"
+"about.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/9
+msgid ""
+"Obviously he didn't write a word about the\n"
+"technology in his letters.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/10
+msgid ""
+"Except for one time.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/11
+msgid ""
+"\"If by chance anything should happen to me, I\n"
+"entrust my research to you.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/12
+msgid ""
+"Better that than handing it over to these ignorant\n"
+"so-called scientists.\"\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/13
+msgid ""
+"Sounds like him, all right.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/14
+msgid ""
+"Then one day his papers actually came.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/15
+msgid ""
+"It wasn't hard for me to imagine what had\n"
+"happened to him.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/16
+msgid ""
+"I felt it was my duty to carry on his work after\n"
+"him... And also...\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/18
+msgid ""
+"I thought maybe combining his technology with\n"
+"mine\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/19
+msgid ""
+"could be a way to bring East and West together.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/20
+msgid ""
+"Like the docking of Apollo and Soyuz.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/21
+msgid ""
+"It'll never make the history books. And it's still not\n"
+"a reason to plagiarize.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/22
+msgid ""
+"...You're right. You're absolutely right.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/23
+msgid ""
+"I never had the courage to tell the truth, that's all.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/24
+msgid ""
+"I always looked for excuses to cover it up.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/25
+msgid ""
+"Until now.\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/26
+msgid ""
+"Huh...?\n"
+msgstr ""
+
+#: codec/1/250/0xfa640/27
+msgid ""
+"You told me everything. You're no longer a coward.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/0
+msgid ""
+"Those papers the CIA gave you... Was there any\n"
+"data on the Shagohod in there?\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/1
+msgid ""
+"Shagohod?\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/2
+msgid ""
+"A nuclear tank that launches IRBMs.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/3
+msgid ""
+"It competed against Granin's system for approval.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/4
+msgid ""
+"Oh, the thing with the rockets. Designed by a guy\n"
+"named... Sokolov, right? ...Heh heh.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/5
+msgid ""
+"What's so funny?\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/6
+msgid ""
+"No, I was just remembering some of the\n"
+"\"commentary\" Granin added to the Shagohod\n"
+"papers.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/7
+msgid ""
+"You should have seen the way he bad-mouthed it.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/8
+msgid ""
+"It was too conservative, too ugly...\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/10
+msgid ""
+"He was so angry when he wrote that he smeared\n"
+"up the ink.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/11
+msgid ""
+"And you know how shoddy the paper is over there\n"
+"to begin with.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/12
+msgid ""
+"...I'll bet. That's Granin, all right.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/13
+msgid ""
+"Imagine, accelerating the launcher itself to 300\n"
+"miles an hour to extend the range of an IRBM...\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/14
+msgid ""
+"As stupid as it sounds, it's a hell of a concept.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/15
+msgid ""
+"Who but the Soviets would think of using a tank as\n"
+"the first stage of a rocket?\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/16
+msgid ""
+"I actually took a cue from the Shagohod when I\n"
+"developed the Pupa.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/17
+msgid ""
+"That hovercraft thing? You stole that one, too?\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/18
+msgid ""
+"Give me a little credit! I only borrowed the concept.\n"
+"The technology is original.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/19
+msgid ""
+"As it turned out,\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/20
+msgid ""
+"hover technology wasn't enough to handle all the\n"
+"terrain in Central America.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/21
+msgid ""
+"It relied too much on brute force.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/22
+msgid ""
+"But the Shagohod was a major threat.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/23
+msgid ""
+"That thing could corner like you wouldn't believe -\n"
+"built pretty tough, too.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/24
+msgid ""
+"You sure know a lot about it.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/25
+msgid ""
+"It almost did me in. I couldn't forget it if I tried.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/26
+msgid ""
+"Did you in? ...So you were the one who took it\n"
+"down!\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/27
+msgid ""
+"Wow! You really are amazing.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/28
+msgid ""
+"I didn't do it alone.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/29
+msgid ""
+"No, seriously, thank you.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/30
+msgid ""
+"We might not be here today if they'd begun\n"
+"mass-producing that thing.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/31
+msgid ""
+"Then again, they're hard at work now miniaturizing\n"
+"nuclear warheads.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/32
+msgid ""
+"Pretty soon they won't even need an accelerated\n"
+"launcher like the Shagohod.\n"
+msgstr ""
+
+#: codec/1/251/0xfb280/33
+msgid ""
+"Great. That means they're that much closer to\n"
+"being able to launch from anywhere in the world.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_000_0
+#. timeline 445..1574
+#: codec/1/252/0xfc530/0
+msgid ""
+"Peace Walker contains an assembly of two AI pods.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_000_0
+#. timeline 1588..2674
+#: codec/1/252/0xfc530/1
+msgid ""
+"One of them is the Mammal Pod, which Dr.\n"
+"Strangelove developed.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_000_0
+#. timeline 2688..3469
+#: codec/1/252/0xfc530/2
+msgid ""
+"The other's the Reptile Pod, which is mine.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0160_000_0
+#. timeline 3469..3845
+#: codec/1/252/0xfc530/3
+msgid ""
+"What's the difference?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_000_0
+#. timeline 3845..4848
+#: codec/1/252/0xfc530/4
+msgid ""
+"The Reptile Pod is the attitude control AI.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_000_0
+#. timeline 4904..5795
+#: codec/1/252/0xfc530/5
+msgid ""
+"If it's destroyed, Peace Walker grinds to a halt.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_000_0
+#. timeline 5823..7258
+#: codec/1/252/0xfc530/6
+msgid ""
+"The Mammal Pod is responsible for making the\n"
+"decisions regarding nuclear retaliation.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_000_0
+#. timeline 7258..9013
+#: codec/1/252/0xfc530/7
+msgid ""
+"Reflex and thought... One is the brainstem and\n"
+"cerebellum, the other the cerebrum.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0160_000_0
+#. timeline 9013..9975
+#: codec/1/252/0xfc530/8
+msgid ""
+"So the one that houses the will of The Boss...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_000_0
+#. timeline 9975..10574
+#: codec/1/252/0xfc530/9
+msgid ""
+"...Would be the Mammal Pod.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_010_0
+#. timeline 445..1212
+#: codec/1/252/0xfc8d0/0
+msgid ""
+"We call it the \"Reptile Pod\" for a reason.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_010_0
+#. timeline 1212..2605
+#: codec/1/252/0xfc8d0/1
+msgid ""
+"The parts of our brains that govern basic life and\n"
+"reflex developed ages ago,\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_010_0
+#. timeline 2619..3301
+#: codec/1/252/0xfc8d0/2
+msgid ""
+"when our ancestors were still reptiles.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0160_010_0
+#. timeline 3329..3789
+#: codec/1/252/0xfc8d0/3
+msgid ""
+"We were reptiles?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_010_0
+#. timeline 3803..4653
+#: codec/1/252/0xfc8d0/4
+msgid ""
+"Well, only at one stage of our evolution.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_010_0
+#. timeline 4736..5739
+#: codec/1/252/0xfc8d0/5
+msgid ""
+"The theory was proposed by the neuroscientist\n"
+"Paul MacLean.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_010_0
+#. timeline 5935..7453
+#: codec/1/252/0xfc8d0/7
+msgid ""
+"The reptile brain corresponds to the brainstem and\n"
+"basal ganglia in our brain.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_010_0
+#. timeline 7551..8568
+#: codec/1/252/0xfc8d0/8
+msgid ""
+"The Reptile Pod also incorporates the functions of\n"
+"the cerebellum.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0160_010_0
+#. timeline 8568..9626
+#: codec/1/252/0xfc8d0/9
+msgid ""
+"So basically, it's the deep parts of the brain.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_010_0
+#. timeline 9626..10351
+#: codec/1/252/0xfc8d0/10
+msgid ""
+"Dr. Strangelove came up with the name.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_020_0
+#. timeline 445..1323
+#: codec/1/252/0xfcc90/0
+msgid ""
+"The part of our brain that developed after we\n"
+"became mammals\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_020_0
+#. timeline 1323..2145
+#: codec/1/252/0xfcc90/1
+msgid ""
+"is responsible for high-level brain functions.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0160_020_0
+#. timeline 2145..2438
+#: codec/1/252/0xfcc90/2
+msgid ""
+"Such as?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_020_0
+#. timeline 2452..3580
+#: codec/1/252/0xfcc90/3
+msgid ""
+"Such as intelligence, judgment... even love.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0160_020_0
+#. timeline 3580..4235
+#: codec/1/252/0xfcc90/4
+msgid ""
+"That's high-level, all right.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_020_0
+#. timeline 4249..5600
+#: codec/1/252/0xfcc90/5
+msgid ""
+"Location-wise, the mammal brain is on the outside\n"
+"of the reptile brain.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_020_0
+#. timeline 5628..6311
+#: codec/1/252/0xfcc90/6
+msgid ""
+"The cerebral cortex is part of it.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_020_0
+#. timeline 6325..7509
+#: codec/1/252/0xfcc90/7
+msgid ""
+"I think it's very telling that Dr. Strangelove named\n"
+"her pod \"Mammal.\"\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0160_020_0
+#. timeline 7565..8749
+#: codec/1/252/0xfcc90/8
+msgid ""
+"It's almost like she wants it to be more than just\n"
+"an advanced AI\n"
+msgstr ""
+
+#: codec/1/252/0xfcc90/9
+msgid ""
+"- what she really wants is for it to have a mind of\n"
+"its own.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_000_0
+#. timeline 445..1825
+#: codec/1/253/0xfd020/0
+msgid ""
+"Snake, how much do you know about the U.S.\n"
+"homeland air defense network?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0170_000_0
+#. timeline 1922..2702
+#: codec/1/253/0xfd020/1
+msgid ""
+"I don't know much about what goes on up in the\n"
+"sky.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0170_000_0
+#. timeline 2800..3970
+#: codec/1/253/0xfd020/2
+msgid ""
+"What I do know is that NORAD tracks Santa Claus\n"
+"on its radar.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_000_0
+#. timeline 3970..5099
+#: codec/1/253/0xfd020/3
+msgid ""
+"Ha! Nice one. I didn't know you were a comedian,\n"
+"too!\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0170_000_0
+#. timeline 5099..5865
+#: codec/1/253/0xfd020/4
+msgid ""
+"Huh? No, I'm serious...\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0170_000_0
+#. timeline 6185..6882
+#: codec/1/253/0xfd020/5
+msgid ""
+"It's true. NORAD tracks his...\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0170_000_0
+#. timeline 7606..8721
+#: codec/1/253/0xfd020/6
+msgid ""
+"Listen to me! Every December, they set up a\n"
+"hotline and...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_000_0
+#. timeline 9585..10490
+#: codec/1/253/0xfd020/7
+msgid ""
+"OK, OK, I get it.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0170_000_0
+#. timeline 10490..11103
+#: codec/1/253/0xfd020/8
+msgid ""
+"...He's real, I tell ya.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0170_000_0
+#. timeline 11145..11939
+#: codec/1/253/0xfd020/9
+msgid ""
+"He... used to bring me presents and...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_010_0
+#. timeline 445..1476
+#: codec/1/253/0xfd370/0
+msgid ""
+"OK, Snakey. As all good little boys know,\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_010_0
+#. timeline 1476..2772
+#: codec/1/253/0xfd370/1
+msgid ""
+"keeping tabs on Santa Claus is a very important\n"
+"job for NORAD.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0170_010_0
+#. timeline 2772..3134
+#: codec/1/253/0xfd370/2
+msgid ""
+"Ugh...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_010_0
+#. timeline 3148..4527
+#: codec/1/253/0xfd370/3
+msgid ""
+"But they also have another mission - the one they\n"
+"were created for.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_010_0
+#. timeline 4555..5085
+#: codec/1/253/0xfd370/4
+msgid ""
+"And the system they set up for that...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_010_0
+#. timeline 5085..5767
+#: codec/1/253/0xfd370/5
+msgid ""
+"Has been hijacked by Coldman.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0170_010_0
+#. timeline 5767..6534
+#: codec/1/253/0xfd370/6
+msgid ""
+"...You mean Peace Walker's fake data\n"
+"transmissions?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_010_0
+#. timeline 6534..8303
+#: codec/1/253/0xfd370/7
+msgid ""
+"NORAD's early warning system is composed of DSP\n"
+"satellite-mounted infrared sensors,\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_010_0
+#. timeline 8331..9529
+#: codec/1/253/0xfd370/8
+msgid ""
+"and an array of surveillance radar stations across\n"
+"North America.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_010_0
+#. timeline 9557..10616
+#: codec/1/253/0xfd370/9
+msgid ""
+"The network sends out warnings to NORAD at\n"
+"Cheyenne Mountain,\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_010_0
+#. timeline 10616..11424
+#: codec/1/253/0xfd370/10
+msgid ""
+"where the data undergoes human evaluation.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_010_0
+#. timeline 11438..12831
+#: codec/1/253/0xfd370/11
+msgid ""
+"Peace Walker, on the other hand, has to make its\n"
+"retaliation decisions autonomously.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_010_0
+#. timeline 12859..14628
+#: codec/1/253/0xfd370/12
+msgid ""
+"So it's set up to automatically receive the same\n"
+"data as NORAD through covert channels.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_010_0
+#. timeline 14656..16397
+#: codec/1/253/0xfd370/13
+msgid ""
+"Those channels were also used on the test\n"
+"platform to telemeter the AI's decision-making.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_010_0
+#. timeline 16481..17735
+#: codec/1/253/0xfd370/14
+msgid ""
+"Peace Walker reversed the system to transmit a\n"
+"fake warning\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_010_0
+#. timeline 17735..19017
+#: codec/1/253/0xfd370/15
+msgid ""
+"about incoming nuclear missiles outside the usual\n"
+"exercise schedule.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_010_0
+#. timeline 19072..20466
+#: codec/1/253/0xfd370/16
+msgid ""
+"I mean, the system could have used better\n"
+"safeguarding, nobody's going to argue with that.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0170_010_0
+#. timeline 20493..22444
+#: codec/1/253/0xfd370/17
+msgid ""
+"But cracking the AI - that seemed unimaginable.\n"
+"And you can see what happened.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0200_000_0
+#. timeline 445..1337
+#: codec/1/253/0xfda60/0
+msgid ""
+"Hey Doc, what was that you were smoking in the\n"
+"lab?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0200_000_0
+#. timeline 1351..2006
+#: codec/1/253/0xfda60/1
+msgid ""
+"It looked like a cigarette, but it wasn't lit.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0200_000_0
+#. timeline 2284..3650
+#: codec/1/253/0xfda60/2
+msgid ""
+"It's an electronic cigarette. I designed it myself.\n"
+"Pretty neat, huh?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0200_000_0
+#. timeline 3650..4486
+#: codec/1/253/0xfda60/3
+msgid ""
+"Electronic. Cigarette.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0200_000_0
+#. timeline 4500..5976
+#: codec/1/253/0xfda60/4
+msgid ""
+"Yep. A liquid in the filter that turns into vapor, and\n"
+"you inhale the microparticles.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0200_000_0
+#. timeline 5976..6408
+#: codec/1/253/0xfda60/5
+msgid ""
+"So that was vapor.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0200_000_0
+#. timeline 6422..7634
+#: codec/1/253/0xfda60/6
+msgid ""
+"I'd actually rather be smoking normal cigarettes,\n"
+"but not in that room...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0200_000_0
+#. timeline 7648..8832
+#: codec/1/253/0xfda60/7
+msgid ""
+"The smoke would wreck the precision equipment in\n"
+"there, ruin all its wiring.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0200_000_0
+#. timeline 8860..10267
+#: codec/1/253/0xfda60/8
+msgid ""
+"But the vapor is just steam. It doesn't contain tar\n"
+"or anything like that.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0200_000_0
+#. timeline 10365..11020
+#: codec/1/253/0xfda60/9
+msgid ""
+"So I can smoke it in the lab with no worries.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0200_000_0
+#. timeline 11020..11284
+#: codec/1/253/0xfda60/10
+msgid ""
+"Nice.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0200_000_0
+#. timeline 11284..11591
+#: codec/1/253/0xfda60/11
+msgid ""
+"Want to try one?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0200_000_0
+#. timeline 11591..12246
+#: codec/1/253/0xfda60/12
+msgid ""
+"Nah, I'll stick with cigars.\n"
+msgstr ""
+
+#: codec/1/253/0xfda60/14
+msgid ""
+"I don't like imitations - the real thing's always\n"
+"better.\n"
+msgstr ""
+
+#: codec/1/253/0xfda60/15
+msgid ""
+"OK. But you know, sooner or later smoking's going\n"
+"to become\n"
+msgstr ""
+
+#: codec/1/253/0xfda60/16
+msgid ""
+"very unfashionable across the world. It hurts you\n"
+"and those around you.\n"
+msgstr ""
+
+#: codec/1/253/0xfda60/17
+msgid ""
+"Electronic cigarettes might not seem so bad then.\n"
+msgstr ""
+
+#: codec/1/253/0xfda60/18
+msgid ""
+"Yeah, when that happens, I'll think about it.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0210_000_0
+#. timeline 445..1309
+#: codec/1/254/0xfe0a0/0
+msgid ""
+"You said your dad was involved in the Manhattan\n"
+"Project, right?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0210_000_0
+#. timeline 1476..2117
+#: codec/1/254/0xfe0a0/2
+msgid ""
+"And you think that's why you can't walk?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 2117..3538
+#: codec/1/254/0xfe0a0/3
+msgid ""
+"...I dunno. Actually, you know, probably not.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 3566..4500
+#: codec/1/254/0xfe0a0/4
+msgid ""
+"So far nobody's found evidence that exposure to\n"
+"radiation\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 4500..5349
+#: codec/1/254/0xfe0a0/5
+msgid ""
+"in parents causes genetic defects in children,\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 5377..6770
+#: codec/1/254/0xfe0a0/6
+msgid ""
+"except for those exposed in the womb...\n"
+"Epidemiologically speaking, anyway.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0210_000_0
+#. timeline 6840..7774
+#: codec/1/254/0xfe0a0/7
+msgid ""
+"That's the conclusion of the Atomic Bomb Casualty\n"
+"Commission?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 7801..9139
+#: codec/1/254/0xfe0a0/8
+msgid ""
+"Right. The ABCC commenced its study immediately\n"
+"after the war.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 9153..9599
+#: codec/1/254/0xfe0a0/9
+msgid ""
+"And it's still ongoing.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0210_000_0
+#. timeline 9613..10365
+#: codec/1/254/0xfe0a0/10
+msgid ""
+"Even now, 30 years later...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 10379..11396
+#: codec/1/254/0xfe0a0/11
+msgid ""
+"The effects of radiation exposure last a long time.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 11479..12413
+#: codec/1/254/0xfe0a0/12
+msgid ""
+"I'm guessing it'll be another ten years before we\n"
+"get a real verdict on\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 12413..12956
+#: codec/1/254/0xfe0a0/13
+msgid ""
+"whether it affects genes.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 12970..14029
+#: codec/1/254/0xfe0a0/14
+msgid ""
+"Granted, it's the most massive study anybody's\n"
+"ever done.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 14099..14907
+#: codec/1/254/0xfe0a0/15
+msgid ""
+"But that's really all it is - a study.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 14935..16467
+#: codec/1/254/0xfe0a0/16
+msgid ""
+"The ABCC brought in bomb victims and ran tests\n"
+"on them, but they didn't treat them.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0210_000_0
+#. timeline 16495..17373
+#: codec/1/254/0xfe0a0/17
+msgid ""
+"Really... them too, huh...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 17401..18432
+#: codec/1/254/0xfe0a0/18
+msgid ""
+"At any rate, that's what my father made me believe\n"
+"when I was growing up...\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0210_000_0
+#. timeline 18432..19713
+#: codec/1/254/0xfe0a0/19
+msgid ""
+"Maybe it was tough for your dad to explain. Ever\n"
+"think of that?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 19713..20981
+#: codec/1/254/0xfe0a0/20
+msgid ""
+"Yeah, maybe. But this is my problem now, Snake.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 21037..22165
+#: codec/1/254/0xfe0a0/21
+msgid ""
+"I have to face the nukes head on, whether I like it\n"
+"or not.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 22221..23182
+#: codec/1/254/0xfe0a0/22
+msgid ""
+"My creations are being used for the wrong\n"
+"purposes.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 23266..24506
+#: codec/1/254/0xfe0a0/23
+msgid ""
+"The onus is on me to stop it somehow. Help me,\n"
+"Snake.\n"
+msgstr ""
+
+#: codec/1/254/0xfe8b0/0
+msgid ""
+"Hey! As long as I'm here at Mother Base, why not\n"
+"assign me to the R&D team?\n"
+msgstr ""
+
+#: codec/1/254/0xfe8b0/1
+msgid ""
+"You could use a guy like me.\n"
+msgstr ""
+
+#: codec/1/254/0xfe8b0/2
+msgid ""
+"Glad to have you on board. I'm sure Kaz is, too.\n"
+msgstr ""
+
+#: codec/1/254/0xfe8b0/3
+msgid ""
+"Once I've got the necessary materials and design\n"
+"specs together,\n"
+msgstr ""
+
+#: codec/1/254/0xfe8b0/4
+msgid ""
+"I should be able to start building you that bipedal\n"
+"weapon platform.\n"
+msgstr ""
+
+#: codec/1/254/0xfe8b0/5
+msgid ""
+"Nothing would make me happier than for my\n"
+"research to help put a stop to Peace Walker.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0230_000_0
+#. timeline 459..1393
+#: codec/1/254/0xfeb50/0
+msgid ""
+"So this Dr. Strangelove was at NASA?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0230_000_0
+#. timeline 1393..2702
+#: codec/1/254/0xfeb50/1
+msgid ""
+"Yeah. Well, actually, Strangelove left for DARPA not\n"
+"long after I joined.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0230_000_0
+#. timeline 2702..3859
+#: codec/1/254/0xfeb50/2
+msgid ""
+"And then the two of you ended up back together\n"
+"doing research in Costa Rica?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0230_000_0
+#. timeline 3942..5322
+#: codec/1/254/0xfeb50/3
+msgid ""
+"Not exactly \"together.\" We coordinated on a few\n"
+"things,\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0230_000_0
+#. timeline 5322..6255
+#: codec/1/254/0xfeb50/4
+msgid ""
+"but the research projects themselves were\n"
+"separate from each other.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0230_000_0
+#. timeline 6283..7383
+#: codec/1/254/0xfeb50/5
+msgid ""
+"We had it worked out so that Dr. Strangelove\n"
+"handled the Mammal Pod,\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0230_000_0
+#. timeline 7411..8219
+#: codec/1/254/0xfeb50/6
+msgid ""
+"Peace Walker's cerebrum, while I did the rest.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0230_000_0
+#. timeline 8219..9222
+#: codec/1/254/0xfeb50/7
+msgid ""
+"That letter - something to do with your research...?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0230_000_0
+#. timeline 9222..10170
+#: codec/1/254/0xfeb50/8
+msgid ""
+"Huh? Er, no, it's, uh...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0230_000_0
+#. timeline 10198..11382
+#: codec/1/254/0xfeb50/9
+msgid ""
+"Y-yeah, it's a report. Research findings.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0230_000_0
+#. timeline 11382..12608
+#: codec/1/254/0xfeb50/10
+msgid ""
+"Research findings? Anything in there we could use\n"
+"against Peace Walker?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0230_000_0
+#. timeline 12608..13221
+#: codec/1/254/0xfeb50/11
+msgid ""
+"N-nothing! Nothing at all!\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0230_000_0
+#. timeline 13235..14308
+#: codec/1/254/0xfeb50/12
+msgid ""
+"Just don't read it, OK? Promise me you won't!\n"
+msgstr ""
+
+#: codec/1/255/0xff000/0
+msgid ""
+"Did you give that letter to Dr. Strangelove?\n"
+msgstr ""
+
+#: codec/1/255/0xff000/1
+msgid ""
+"...Uh, no.\n"
+msgstr ""
+
+#: codec/1/255/0xff000/2
+msgid ""
+"Why not? I gave it to you for a reason. It's highly\n"
+"important information.\n"
+msgstr ""
+
+#: codec/1/255/0xff000/3
+msgid ""
+"Sorry. I didn't exactly have an opportunity to play\n"
+"postman.\n"
+msgstr ""
+
+#: codec/1/255/0xff000/4
+msgid ""
+"Well, next time you see her, make sure she gets it.\n"
+msgstr ""
+
+#: codec/1/255/0xff000/5
+msgid ""
+"Oh, yeah, sure.\n"
+msgstr ""
+
+#: codec/1/255/0xff000/6
+msgid ""
+"Better for you if she doesn't...\n"
+msgstr ""
+
+#: codec/1/255/0xff000/7
+#: codec/2/904/0x388570/1
+#: codec/2/907/0x38b170/17
+msgid ""
+"Snake!\n"
+msgstr ""
+
+#: codec/1/255/0xff000/9
+msgid ""
+"Tell me you didn't read the letter.\n"
+msgstr ""
+
+#: codec/1/255/0xff000/10
+msgid ""
+"N-no...\n"
+msgstr ""
+
+#: codec/1/255/0xff000/11
+msgid ""
+"You did!\n"
+msgstr ""
+
+#: codec/1/255/0xff000/12
+msgid ""
+"I mean...\n"
+msgstr ""
+
+#: codec/1/255/0xff000/13
+msgid ""
+"You never know what kind of information could\n"
+"affect the outcome of an operation, right?\n"
+msgstr ""
+
+#: codec/1/255/0xff000/14
+msgid ""
+"So I...\n"
+msgstr ""
+
+#: codec/1/255/0xff000/15
+msgid ""
+"So you read the letter. After I specifically told you\n"
+"not to!\n"
+msgstr ""
+
+#: codec/1/255/0xff000/16
+msgid ""
+"...What do you expect people to do when you tell\n"
+"them not to read something...?\n"
+msgstr ""
+
+#: codec/1/255/0xff000/17
+msgid ""
+"I thought I knew you, Snake! I thought I could trust\n"
+"you!!\n"
+msgstr ""
+
+#: codec/1/255/0xff000/18
+msgid ""
+"But now I see I was wrong!\n"
+msgstr ""
+
+#: codec/1/255/0xff000/19
+msgid ""
+"...Look, I'm sorry. But I just don't get what you see\n"
+"in her.\n"
+msgstr ""
+
+#: codec/1/255/0xff000/20
+msgid ""
+"Well, I wouldn't expect a barbarian who opens\n"
+msgstr ""
+
+#: codec/1/255/0xff000/21
+msgid ""
+"other people's private correspondence to\n"
+"understand.\n"
+msgstr ""
+
+#: codec/1/255/0xff000/22
+msgid ""
+"Fine, then. Deliver it yourself.\n"
+msgstr ""
+
+#: codec/1/255/0xff000/23
+msgid ""
+"Huh?! N-no, I... No way, I could never...\n"
+msgstr ""
+
+#: codec/1/255/0xff000/24
+msgid ""
+"You've got a long way to go, Huey...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
+#. timeline 445..1476
+#: codec/1/255/0xff720/0
+msgid ""
+"You ever see the movie \"2001: A Space Odyssey\"?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0190_000_0
+#. timeline 1476..1852
+#: codec/1/255/0xff720/1
+msgid ""
+"Can't say I have.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
+#. timeline 1852..3301
+#: codec/1/255/0xff720/2
+msgid ""
+"Fantastic flick... The outer space special effects\n"
+"are incredible enough,\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
+#. timeline 3301..4263
+#: codec/1/255/0xff720/3
+msgid ""
+"but the depiction of AI is what really stands out.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0190_000_0
+#. timeline 4263..4583
+#: codec/1/255/0xff720/4
+msgid ""
+"There's an AI ?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
+#. timeline 4583..6339
+#: codec/1/255/0xff720/5
+msgid ""
+"Yeah. A spacecraft pilot AI called HAL. It plays a\n"
+"major role in the story.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
+#. timeline 6339..6965
+#: codec/1/255/0xff720/6
+msgid ""
+"Dr. Strangelove loves it, too.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
+#. timeline 6965..7913
+#: codec/1/255/0xff720/7
+msgid ""
+"Did I ever tell you about the time we first met up\n"
+"in Costa Rica?\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0190_000_0
+#. timeline 7913..8164
+#: codec/1/255/0xff720/8
+msgid ""
+"No.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
+#. timeline 8164..8860
+#: codec/1/255/0xff720/9
+msgid ""
+"You know how she hates men, right?\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
+#. timeline 8874..10114
+#: codec/1/255/0xff720/10
+msgid ""
+"So we hadn't seen each other since NASA, and we\n"
+"just weren't hitting it off...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
+#. timeline 10142..11674
+#: codec/1/255/0xff720/11
+msgid ""
+"until we started talking about HAL, and then she\n"
+"started going off.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
+#. timeline 11758..12608
+#: codec/1/255/0xff720/12
+msgid ""
+"The way she talked about it was so intellectual.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
+#. timeline 12650..14266
+#: codec/1/255/0xff720/13
+msgid ""
+"The way she analyzed every plot detail, how\n"
+"passionate she was about the AI...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
+#. timeline 14308..15018
+#: codec/1/255/0xff720/14
+msgid ""
+"It made me fall for her all over again.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0190_000_0
+#. timeline 15018..15380
+#: codec/1/255/0xff720/15
+msgid ""
+"Uh huh.\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
+#. timeline 15380..16746
+#: codec/1/255/0xff720/16
+msgid ""
+"You know what? Here's to HAL, for bringing her\n"
+"and me closer together!\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
+#. timeline 16760..18459
+#: codec/1/255/0xff720/17
+msgid ""
+"You should ask her about \"2001,\" too. Then you'll\n"
+"understand just how amazing she is.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0190_000_0
+#. timeline 18459..18836
+#: codec/1/255/0xff720/18
+msgid ""
+"Amazing, huh...\n"
+msgstr ""
+
+#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
+#. timeline 18836..19880
+#: codec/1/255/0xff720/19
+msgid ""
+"HAL... Now there's a good name...\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/0
+msgid ""
+"Being an unmanned vehicle,\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/1
+msgid ""
+"the Chrysalis can perform extreme G-force\n"
+"maneuvers that standard aircraft can't.\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/2
+msgid ""
+"It'll be difficult to counter-attack once it's coming\n"
+"at you.\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/3
+msgid ""
+"I should mention that it's also equipped with a\n"
+"railgun.\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/4
+msgid ""
+"A what?\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/5
+msgid ""
+"A weapon that fires rounds using electromagnetic\n"
+"force in lieu of gunpowder.\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/6
+msgid ""
+"Wait... An electric weapon?\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/7
+msgid ""
+"Not exactly. The rounds themselves are\n"
+"conventional shells.\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/8
+msgid ""
+"It creates force by running an electric current\n"
+"through a magnetic field.\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/9
+msgid ""
+"Fleming's left-hand rule - didn't they teach you that\n"
+"at school?\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/10
+msgid ""
+"Not at mine.\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/11
+msgid ""
+"Oh. Anyway, as the railgun uses electromagnetic\n"
+"force,\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/12
+msgid ""
+"it needs to charge before firing.\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/13
+msgid ""
+"Once you see it starting to charge, take immediate\n"
+"evasive action.\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/14
+msgid ""
+"Also, as with the Pupa, destroying the AI will put\n"
+"the unit out of commission.\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/15
+msgid ""
+"Do enough damage and it'll have to land.\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/16
+msgid ""
+"Use that opportunity to get in the AI pod.\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/17
+msgid ""
+"Wait too long, and it'll start to repair itself.\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/18
+msgid ""
+"Be sure to shoot the hatch the moment it lands.\n"
+msgstr ""
+
+#: codec/1/256/0x1003f0/19
+msgid ""
+"I think I can handle that.\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/0
+msgid ""
+"During development, I had trouble figuring out how\n"
+"to handle the Cocoon's excess heat.\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/1
+msgid ""
+"I'm embarrassed to admit it, but the radiators are\n"
+"most likely its weakest points.\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/2
+msgid ""
+"They're not heavily armored, as heat wasn't\n"
+"dissipating properly.\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/3
+msgid ""
+"Where are they?\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/4
+msgid ""
+"There are multiple radiators on the upper and\n"
+"lower sections.\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/5
+msgid ""
+"Just look for the exhaust fumes.\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/6
+msgid ""
+"Only thing is, the upper radiators typically aren't\n"
+"exposed.\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/7
+msgid ""
+"You should probably shoot for the lower ones first.\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/8
+msgid ""
+"You could move under its body to access the\n"
+"lower ones,\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/9
+msgid ""
+"but the Cocoon is capable of vertical movement,\n"
+"so be careful not to get crushed.\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/10
+msgid ""
+"Watch out for missiles and hedgehogs too.\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/11
+msgid ""
+"Hedgehogs? Anti-submarine multiple spigot\n"
+"mortars?\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/12
+msgid ""
+"I adapted the technology for use as a surface\n"
+"weapon.\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/13
+msgid ""
+"Both the missiles and hedgehogs take time to load,\n"
+"though.\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/14
+msgid ""
+"It can't fire a hedgehog until the lamp comes on.\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/15
+msgid ""
+"As for the missiles, watch for the way the hatches\n"
+"move.\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/16
+msgid ""
+"That'll be my chance to get close.\n"
+msgstr ""
+
+#: codec/1/256/0x100aa0/17
+msgid ""
+"When the hatches open, out come the missiles.\n"
+msgstr ""
+
+#: codec/1/257/0x101110/0
+msgid ""
+"...Number of warheads detected by the DEW Line?\n"
+msgstr ""
+
+#: codec/1/257/0x101110/1
+msgid ""
+"Fifty-seven.\n"
+msgstr ""
+
+#: codec/1/257/0x101110/2
+msgid ""
+"Number of MIRVs included?\n"
+msgstr ""
+
+#: codec/1/257/0x101110/3
+msgid ""
+"Minimum twenty-nine, maximum thirty-five.\n"
+msgstr ""
+
+#: codec/1/257/0x101110/4
+msgid ""
+"Target region?\n"
+msgstr ""
+
+#: codec/1/257/0x101110/5
+msgid ""
+"United States. East Coast.\n"
+msgstr ""
+
+#: codec/1/257/0x101110/6
+msgid ""
+"Estimated time of reentry?\n"
+msgstr ""
+
+#: codec/1/257/0x101110/7
+msgid ""
+"Two-oh-four-eight Zulu.\n"
+msgstr ""
+
+#: codec/1/257/0x101110/8
+msgid ""
+"President's selected attack option?\n"
+msgstr ""
+
+#: codec/1/257/0x101110/9
+msgid ""
+"Unknown.\n"
+msgstr ""
+
+#: codec/1/257/0x101110/10
+msgid ""
+"The President is dead?\n"
+msgstr ""
+
+#: codec/1/257/0x101110/11
+msgid ""
+"Unknown. Communication has been lost.\n"
+msgstr ""
+
+#: codec/1/257/0x101110/12
+msgid ""
+"...I select Offutt Air Force Base as my target.\n"
+msgstr ""
+
+#: codec/1/257/0x101110/13
+msgid ""
+"Offutt...? But that's a U.S. base! What on earth do\n"
+"you mean?!\n"
+msgstr ""
+
+#: codec/1/257/0x101110/14
+msgid ""
+"Based on the projected number of incoming\n"
+"warheads,\n"
+msgstr ""
+
+#: codec/1/257/0x101110/15
+msgid ""
+"Washington D.C. is presumed destroyed.\n"
+msgstr ""
+
+#: codec/1/257/0x101110/16
+msgid ""
+"The President is most likely dead, the U.S.\n"
+"government's control lost.\n"
+msgstr ""
+
+#: codec/1/257/0x101110/17
+msgid ""
+"I realize that. So why not retaliate?!\n"
+msgstr ""
+
+#: codec/1/257/0x101110/18
+msgid ""
+"With both sides destroyed, global anarchy would\n"
+"ensue.\n"
+msgstr ""
+
+#: codec/1/257/0x101110/19
+msgid ""
+"Recovery would be... difficult.\n"
+msgstr ""
+
+#: codec/1/257/0x101110/20
+msgid ""
+"The United States' nuclear strike capability must\n"
+"therefore be neutralized\n"
+msgstr ""
+
+#: codec/1/257/0x101110/21
+msgid ""
+"in order to preserve the Communist bloc, where\n"
+"government remains largely intact.\n"
+msgstr ""
+
+#: codec/1/257/0x101110/22
+msgid ""
+"You're siding with the enemy? You can't be serious!\n"
+msgstr ""
+
+#: codec/1/257/0x101110/23
+msgid ""
+"...Tell me, how do you define enemy?\n"
+msgstr ""

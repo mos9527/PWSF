@@ -1,0 +1,3928 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF olang 3/4\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: olang\n"
+"X-PWSF-Entries: 400\n"
+
+
+#. fr: Déplacer la caméra vers la droite
+#. de: Kamera bewegen (rechts)
+#. it: Sposta visuale a destra
+#. es: Mover cámara hacia la derecha
+#: olang/009c9ea4/0x39c9f3/0xe66fd3
+msgid "Move Camera Right"
+msgstr ""
+
+#. fr: Déplacer la caméra vers le bas
+#. de: Kamera bewegen (runter)
+#. it: Sposta visuale in basso
+#. es: Mover cámara hacia abajo
+#: olang/009c9ea4/0x39c9f3/0xf84d80
+msgid "Move Camera Down"
+msgstr ""
+
+#. fr: Sélectionnez la touche à modifier.
+#. de: Wählen Sie die zu ändernde Taste aus.
+#. it: Imposta il tasto da modificare.
+#. es: Selecciona una tecla a modificar.
+#: olang/009c9ea4/0x39c9f3/0xfa7fe6
+msgid "Choose which key you would like to change."
+msgstr ""
+
+#. fr: Touche Viser Type de contrôle
+#. de: Zieltaste steuerungsart
+#. it: Tasto Puntamento Tipo controlli
+#. es: Botón de puntería Tipo de control
+#: olang/009c9ea4/0x39c9f3/0xfc037d
+msgid "Aim Button control type"
+msgstr ""
+
+#. fr: Déplacer la caméra vers la gauche
+#. de: Kamera bewegen (links)
+#. it: Sposta visuale a sinistra
+#. es: Mover cámara hacia la izquierda
+#: olang/009c9ea4/0x39c9f3/0xfc2366
+msgid "Move Camera Left"
+msgstr ""
+
+#. fr: INVITER
+#. de: EINLADEN
+#. it: INVITA
+#. es: INVITAR
+#: olang/009c9ea4/0x3c9f25/0x5ce75e
+msgid "INVITE"
+msgstr ""
+
+#. fr: INVITER :
+#. de: EINLADEN:
+#. it: INVITA:
+#. es: INVITAR:
+#: olang/009c9ea4/0x3c9f25/0xc096b6
+msgid "INVITE:"
+msgstr ""
+
+#. fr: Variante de treillis en camouflage jungle. Augmente l’index camo dans les environnements de même couleur.
+#. de: Variante der Dschungeltarnuniform. Erhöht den  Tarnindex in Umgebungen mit ähnlicher  Farbe.
+#. it: Variazione dell'uniforme mimetica da giungla. Alza l'Indice Camo negli ambienti con un colore simile.
+#. es: Variación del uniforme de selva. Mejora el índice de camuflaje en entornos del mismo color.
+#: olang/009c9ea4/0x3ca19f/0x09f7f4
+#: olang/009c9ea4/0x3ca19f/0x19f7f4
+#: olang/009c9ea4/0x3ca19f/0x29f7f4
+#: olang/009c9ea4/0x3ca19f/0x39f7f4
+#: olang/009c9ea4/0x3ca19f/0xc9f7f3
+#: olang/009c9ea4/0x3ca19f/0xd9f7f3
+#: olang/009c9ea4/0x3ca19f/0xe9f7f3
+#: olang/009c9ea4/0x3ca19f/0xf9f7f3
+#: olang/00d345a5/0x048941/0x000168
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index in environments of a similar color."
+msgstr ""
+
+#. fr: Une variante de Nu avec pantalon camouflé. Augmente l’index camo dans les environnements de couleur identique, mais de la moitié seulement d’une tenue complète.
+#. de: Variante der „Nackt“-Uniform mit Tarnhosen. Erhöht den  Tarnindex in Umgebungen mit ähnlicher  Farbe, jedoch nur halb so viel wie ein  kompletter Tarnanzug.
+#. it: Variazione del nudo con pantaloni mimetici. Alza l'Indice Camo negli ambienti con colore simile, ma solo della metà rispetto a una mimetica completa.
+#. es: Variación de Desnudo con pantalones de Camuflaje. Mejora el índice de camuflaje  en zonas delmismo color, pero solo la mitad  Que el traje entero.
+#. de: Variante der „Nackt“-Uniform mit Tarnhosen. Erhöht den  Tarnindex in Umgebungen mit ähnlicher  Farbe, jedoch nur halb so viel wie ein  kompletter Tarnanzug. 
+#: olang/009c9ea4/0x3ca19f/0x09f7f6
+#: olang/009c9ea4/0x3ca19f/0x19f7f6
+#: olang/009c9ea4/0x3ca19f/0x29f7f6
+#: olang/009c9ea4/0x3ca19f/0x39f7f6
+#: olang/009c9ea4/0x3ca19f/0x49f7f6
+#: olang/009c9ea4/0x3ca19f/0x59f7f6
+#: olang/009c9ea4/0x3ca19f/0xc9f7f7
+#: olang/009c9ea4/0x3ca19f/0xf9f7f5
+#: olang/00d345a5/0x048941/0x000184
+#: olang/00d345a5/0x048941/0x00018b
+msgid "Variation of Naked with camouflage pants. Raises camo index in environments of a similar color, but only half as much as full-body camo."
+msgstr ""
+
+#. fr: Un T-shirt doré.
+#. Ses caractéristiques de base sont
+#. les mêmes que celles du treillis.
+#. de: Ein goldenes T-Shirt,
+#. mit denselben Merkmalen, 
+#. wie bei Feldanzügen.
+#. it: Una sfrontatissima
+#. T-shirt dorata. Funziona
+#. come la mimetica
+#. Jungle Fatigues.
+#. es: Una llamativa camiseta dorada.
+#. Sus características básicas son las
+#. mismas que el uniforme de selva.
+#: olang/009c9ea4/0x3ca19f/0x19f7f8
+msgid ""
+"A gold T-shirt.\n"
+"The basic characteristics are\n"
+"the same as the Jungle Fatigues."
+msgstr ""
+
+#. fr: Un T-shirt avec un motif Love Box.
+#. Ses caractéristiques de base sont
+#. les mêmes que celles du treillis.
+#. de: Ein T-Shirt im 
+#. Zweierkarton-Design, mit 
+#. denselben Merkmalen, 
+#. wie bei Feldanzügen.
+#. it: Una T-shirt a tema
+#. scatola dell'amore. Funziona
+#. come la mimetica
+#. Jungle Fatigues.
+#. es: Una camiseta con el diseño de una
+#. caja del amor. Sus características básicas
+#. son las mismas que el uniforme de selva.
+#: olang/009c9ea4/0x3ca19f/0x29f7f8
+msgid ""
+"A T-shirt with a Love Box design.\n"
+"The basic characteristics are\n"
+"the same as the Jungle Fatigues."
+msgstr ""
+
+#. fr: Variante de treillis en camouflage jungle. Augmente l’index camo près de l’eau.
+#. de: Variante der Dschungeltarnuniform. Erhöht den  Tarnindex in der Nähe von Wasser.
+#. it: Variazione dell'uniforme mimetica da giungla. Alza l'Indice Camo vicino all'acqua.
+#. es: Variación del uniforme de selva. Mejora el camuflaje cerca del agua.
+#: olang/009c9ea4/0x3ca19f/0x49f7f4
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index near water."
+msgstr ""
+
+#. fr: Variante de treillis en camouflage jungle. Augmente l’index camo là où les constructions en bois sont nombreuses.
+#. de: Variante der Dschungeltarnuniform. Erhöht den  Tarnindex in Umgebungen mit vielen  Holzgebäuden.
+#. it: Variazione dell'uniforme mimetica da giungla. Alza l'Indice Camo negli ambienti con molti edifici in legno.
+#. es: Variación del uniforme de selva. Mejora el índice de camuflaje en entornos con edificios de madera.
+#: olang/009c9ea4/0x3ca19f/0x59f7f4
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index in environments with a lot of wooden buildings."
+msgstr ""
+
+#. fr: Variante de treillis en camouflage jungle. Augmente un peu l’index camo en environnement de jungle ou de terre.
+#. de: Variante der Dschungeltarnuniform. Erhöht den  Tarnindex leicht auf Dschungel-oder  Erduntergründen.
+#. it: Variazione dell'uniforme mimetica da giungla. Alza l'Indice Camo leggermente quando ci si trova nella giungla o su superfici terrose.
+#. es: Variación del uniforme de selva. Eleva ligeramente el índice de camuflaje en tierra o selva.
+#: olang/009c9ea4/0x3ca19f/0xc9f7f5
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index slightly when standing on jungle or dirt surfaces."
+msgstr ""
+
+#. fr: Variante de treillis en camouflage jungle. Augmente un peu le diamètre du cercle de CO-OPS.
+#. de: Variante der Dschungeltarnuniform. Vergrößert  leicht den Durchmesser der CO-OPS-Begrenzungslinie.
+#. it: Variazione dell'uniforme mimetica da giungla. Aumenta leggermente il diametro dell'anello CO-OP.
+#. es: Variación del uniforme de selva. Aumenta ligeramente el diámetro de la línea de CO-OPS.
+#: olang/009c9ea4/0x3ca19f/0xd9f7f5
+msgid "Variation of Jungle Fatigues camouflage. Slightly increases the diameter of the CO-OPS boundary line."
+msgstr ""
+
+#. fr: Une variante de Nu avec pantalon camouflé. Augmente l’index camo près de l’eau, mais de la moitié seulement d’une tenue complète.
+#. de: Variante der „Nackt“-Uniform mit Tarnhosen.  Erhöht den Tarnindex in der Nähe von  Wasser, jedoch nur halb so viel wie ein  kompletter Tarnanzug.
+#. it: Variazione del nudo con pantaloni mimetici. Alza l'Indice Camo vicino all'acqua, ma solo della metà rispetto a una mimetica completa.
+#. es: Variación de Desnudo con pantalones de camuflaje. Mejora el índice de camuflaje cerca del agua, pero solo la mitad que el traje entero.
+#: olang/009c9ea4/0x3ca19f/0xd9f7f7
+msgid "Variation of Naked with camouflage pants. Raises camo index near water, but only half as much as full-body camo."
+msgstr ""
+
+#. fr: Variante de treillis en camouflage jungle. Augmente un peu les performances de l’arme utilisée.
+#. de: Variante der Dschungeltarnuniform. Verbessert  leicht die Leistungsfähigkeit von Waffen.
+#. it: Variazione dell'uniforme mimetica da giungla. Aumenta leggermente le prestazioni delle armi da fuoco.
+#. es: Variación del uniforme de selva. Las armas funcionan un poco mejor.
+#: olang/009c9ea4/0x3ca19f/0xe9f7f5
+msgid "Variation of Jungle Fatigues camouflage. Slightly increases gun performance."
+msgstr ""
+
+#. fr: Une variante de Nu avec pantalon camouflé. Augmente l’index camo là où les bâtiments en bois sont nombreux, mais de la moitié seulement d’une tenue complète.
+#. de: Variante der „Nackt“-Uniform mit Tarnhosen.  Erhöht den Tarnindex in Umgebungen mit  vielen Holzgebäuden, jedoch nur halb so  viel wie ein kompletter Tarnanzug.
+#. it: Variazione del nudo con pantaloni mimetici. Alza l'Indice Camo negli ambienti con molti edifici in legno, ma solo  della metà rispetto a una mimetica completa.
+#. es: Variación de Desnudo con pantalones de camuflaje. Mejora el índice de camuflaje en lugares con edificios de madera, pero solo la mitad que el traje entero.
+#: olang/009c9ea4/0x3ca19f/0xe9f7f7
+msgid "Variation of Naked with camouflage pants. Raises camo index in environments with a lot of wooden buildings, but only half as much as full-body camo."
+msgstr ""
+
+#. fr: Une variante de Nu avec pantalon camouflé. Augmente l’index camo dans les milieux de terre ou de jungle, mais de la moitié seulement d’une tenue complète.
+#. de: Variante der „Nackt“-Uniform mit Tarnhosen.  Erhöht den Tarnindex im Dschungel oder auf  Erde, jedoch nur halb so viel wie ein  kompletter Tarnanzug.
+#. it: Variazione del nudo con pantaloni mimetici. Alza l'Indice Camo nella giungla o su superfici terrose, ma solo della metà rispetto a una mimetica completa.
+#. es: Variación de Desnudo con pantalones de camuflaje. Eleva ligeramente el índice de camuflaje en tierra o arena, pero solo la mitad que el traje entero.
+#: olang/009c9ea4/0x3ca19f/0xf9f7f7
+msgid "Variation of Naked with camouflage pants. Raises camo index when standing on jungle or dirt surfaces, but only half as much as full-body camo."
+msgstr ""
+
+#. fr: Le jeu est en pause.
+#. Passer la cinématique et continuer ?
+#. de: Der Vorgang ist derzeit pausiert.
+#. Zwischensequenz überspringen und fortfahren?
+#. it: Gioco in pausa.
+#. Vuoi saltare la sequenza filmata e continuare?
+#. es: El juego está pausado.
+#. ¿Saltar la escena y continuar?
+#: olang/009c9ea4/0x3ced95/0x155479
+msgid ""
+"The game is currently paused.\n"
+"Skip the cutscene and proceed?"
+msgstr ""
+
+#. fr: La révolution est un moyen et non un but en soi, je le sais.
+#. Quand la révolution aura vaincu, je veux que mon pays
+#. soit en paix. Mais pour obtenir la paix, il nous faut
+#. d’abord éliminer cette pourriture.
+#. de: Die Revolution ist das Mittel, nicht der Zweck.
+#. Ich möchte, dass der Sieg der Revolution
+#. meinem Land den Frieden bringt. 
+#. Aber dazu müssen wir erst diesen verräterischen
+#. Abschaum erledigen.
+#. it: La rivoluzione è solo un mezzo e non un fine, lo so.
+#. Quando la rivoluzione vincerà, voglio
+#. che il mio paese resti in pace.
+#. Ma per riportare la pace, dobbiamo prima
+#. eliminare quello spregevole traditore.
+#. es: Sé que la Revolución es un medio y no un fin.
+#. Cuando la Revolución triunfe, quiero que mi país viva en paz.
+#. Pero, para traer la paz, tenemos que eliminar a los traidores.
+#: olang/009c9ea4/0x413acf/0x052bda
+msgid ""
+"Revolution is a means and not an end, I know.\n"
+"When the revolution is victorious, I want my\n"
+"country to be at peace. But to bring peace,\n"
+"we have to first eliminate that traitorous scum."
+msgstr ""
+
+#. fr: Nous allons où nous devons aller,
+#. combattant non pour le pays, non pour le gouvernement,
+#. mais pour nous-mêmes.
+#. de: Wir gehen dort hin, wo man uns braucht. 
+#. Wir kämpfen nicht für Regierungen oder Länder, sondern für uns.
+#. it: Andiamo dove siamo necessari,
+#. combattendo non per un paese o un governo, ma per noi stessi.
+#. es: Iremos adónde nos necesiten.
+#. No lucharemos por un país ni por un gobierno,
+#. solo por nosotros.
+#: olang/009c9ea4/0x413acf/0x06b55b
+msgid ""
+"We go where we're needed, \n"
+"fighting not for country, not for government,\n"
+"but for ourselves.\n"
+msgstr ""
+
+#. fr: Je m’appelle Paz et je ferai tout
+#. pour protéger le nom que je porte.
+#. C’est mon unique but dans la vie.
+#. de: Ich heiße Paz und ich werde alles tun, um meinen
+#. Namensvetter zu schützen.
+#. Das ist meine einzige Aufgabe.
+#. it: Mi chiamo Paz e farò qualsiasi cosa per onorare
+#. il nome che porto.
+#. È il mio unico e solo scopo.
+#. es: Me llamo Paz y haré cuanto esté en mi mano
+#. por honrar mi nombre. Es mi único objetivo.
+#: olang/009c9ea4/0x413acf/0x21f416
+msgid ""
+"My name is Paz, and I will do anything\n"
+"to protect my namesake. \n"
+"It is my one and only purpose."
+msgstr ""
+
+#. fr: C’est pour ça que j’ai accepté de collaborer... 
+#. Mais pour que cette dissuasion soit parfaite,
+#. le monde doit voir notre force.
+#. de: Deshalb habe ich auch zugestimmt, bei der Entwicklung
+#. mitzuhelfen ...
+#. Ja. Aber um diese perfekte Abschreckung zu erzielen,
+#. müssen wir der Welt unsere Stärke demonstrieren.
+#. it: Ecco perché ho accettato di aiutarvi a svilupparlo...
+#. Ma per poter realizzare il deterrente perfetto,
+#. dobbiamo mostrare al mondo la nostra forza.
+#. es: Por eso acepté ayudar a desarrollarla. 
+#. Ya. Pero, para que la disuasión sea perfecta,
+#. el mundo debe conocer nuestro poder.
+#: olang/009c9ea4/0x413acf/0x374f9e
+msgid ""
+"That's why I agreed to help develop it... \n"
+"Mm-hmm. However, in order to achieve\n"
+"that perfect deterrent, \n"
+"we must show the world our strength."
+msgstr ""
+
+#. fr: Oui, je sais. Tout comme je sais
+#. ce que tu as fait il y a 10 ans.
+#. Vas-y, tue-moi comme tu l’as tuée.
+#. Tue-moi comme tu as tué The Boss.
+#. Tue-moi !
+#. de: Ja, ich weiß. Und ich weiß auch, was Sie vor 10 Jahren
+#. getan haben. Los, töten Sie mich, wie Sie es bei ihr
+#. gemacht haben. Töten Sie mich, wie Sie The Boss
+#. getötet haben. Töten Sie mich!
+#. it: Sì, lo so. Come so ciò che hai fatto 10 anni fa.
+#. Continua, uccidimi come hai ucciso lei.
+#. Uccidimi come hai ucciso The Boss.
+#. Uccidimi!
+#. es: Como también sé lo que hiciste hace diez años.
+#. Vamos, mátame como la mataste a ella.
+#. Mátame como a The Boss.
+#. ¡Mátame!
+#: olang/009c9ea4/0x413acf/0x91c53e
+msgid ""
+"Yes, I know. Just as I know \n"
+"what you did 10 years ago.\n"
+"Go on, kill me like you killed her.\n"
+"Kill me like you killed The Boss.\n"
+"Kill me!"
+msgstr ""
+
+#. fr: Tu as pris une mission pour prétexte
+#. afin de tuer une vraie héroïne.
+#. C’est ce que tu appelles de la loyauté ? Réponds !
+#. de: Unter dem Vorwand einer Mission haben Sie eine wahre
+#. Heldin getötet. Nennen Sie das Loyalität?
+#. Antworten Sie mir!
+#. it: Hai usato il pretesto di una missione per uccidere
+#. una vera eroina.
+#. Questa è ciò che tu chiami fedeltà?
+#. Rispondimi!
+#. es: Usaste una misión como excusa para matar a una heroína.
+#. ¿Eso es para ti la lealtad? ¡Responde!
+#: olang/009c9ea4/0x413acf/0x91c540
+msgid ""
+"You used the pretext of a mission \n"
+"to kill a true hero.\n"
+"Is that what you call loyalty? Answer me!"
+msgstr ""
+
+#. fr: Je n’aurai pas de repos tant que je n’aurai
+#. pas de réponse de la femme que j’aimais.
+#. Toi et moi, nous sommes pareils.
+#. Nous sommes des morts-vivants.
+#. de: Ich werde nicht ruhen, bevor ich die Antworten von
+#. der Frau erhalte, die ich geliebt habe.
+#. Sie und ich haben etwas gemeinsam:
+#. Wir sind die lebenden Toten.
+#. it: Non avrò pace finché non otterrò le risposte
+#. dalla donna che amavo.
+#. Noi due siamo uguali. Siamo morti che camminano.
+#. es: No descansaré mientras no obtenga respuestas
+#. de la mujer que amaba.
+#. Tú y yo somos iguales. Muertos vivientes.
+#: olang/009c9ea4/0x413acf/0x91c541
+msgid ""
+"I won't rest until I get answers \n"
+"from the woman I loved. \n"
+"You and I are the same. We are the walking dead."
+msgstr ""
+
+#. fr: Tout le monde me traite comme un gamin.
+#. Je ne le supportais plus.
+#. Je ne suis plus un gosse. J’ai douze ans !
+#. de: ... Alle behandeln mich wie ein Kind.
+#. Das habe ich nicht mehr ausgehalten. Ich bin kein Kind.
+#. Ich bin schon zwölf!
+#. it: Tutti mi trattano come un bambino.
+#. Non ne potevo più. Io non sono un bambino. Ho dodici anni!
+#. es: Todos me tratan como un niño.
+#. Y yo ya no lo soportaba. No soy un niño. ¡Tengo doce años!
+#: olang/009c9ea4/0x413acf/0xb2d965
+msgid ""
+"...Everyone treats me like a child.\n"
+"I, I, I couldn't stand it anymore. \n"
+"I'm not a kid. I'm twelve! "
+msgstr ""
+
+#. fr: Ne faire qu’un avec la forêt est l’essence même
+#. de l’observation des oiseaux.
+#. Ils ne se comportent pas normalement
+#. en sentant la présence humaine.
+#. Et cela peut nuire à l'observation.
+#. de: Eins zu werden mit dem Wald ist das A und O bei der
+#. Vogelbeobachtung – sie verhalten sich nicht natürlich,
+#. wenn sie einen Menschen in der Nähe spüren.
+#. Und das kann die Beobachtung wirklich beeinflussen.
+#. it: Diventare un tutt'uno con la foresta è l'essenza
+#. dell'osservazione degli uccelli.
+#. Non si comporterebbero in modo naturale
+#. se percepissero una presenza umana nelle vicinanze.
+#. E ciò può influenzare le tue valutazioni.
+#. es: Mezclarse con el bosque es la pura esencia de la ornitología.
+#. Las aves no se comportan de manera natural si hay un
+#. humano cerca. Y esto puede influir en las observaciones.
+#: olang/009c9ea4/0x413acf/0xb949dc
+msgid ""
+"Becoming one with the forest is the very essence of\n"
+"birdwatching, they won't behave naturally if they\n"
+"sense a human nearby. And that can really affect your\n"
+"observations."
+msgstr ""
+
+#. fr: Bien parlé. On sait comment se battre...
+#. mais on refuse que nos vies soient entre les mains d’un État.
+#. de: Genau. Wir können nichts anderes als kämpfen ...
+#. aber wir weigern uns, auf Gedeih und Verderb auf
+#. einen Staat angewiesen zu sein.
+#. it: Certamente. Noi sappiamo solo come combattere...
+#. Ma ci rifiutiamo di assecondare i capricci di un governo.
+#. es: Eso es. Solo sabemos luchar,
+#. pero nos negamos a vivir bajo el yugo del estado.
+#: olang/009c9ea4/0x413acf/0xd1f416
+msgid ""
+"Exactly. We know only how to fight... \n"
+"but we refuse to live our lives at the whim of the state."
+msgstr ""
+
+#. fr: Personne ne serait capable de porter
+#. le fardeau d'un génocide total.
+#. C’est justement ce qui a permis
+#. à notre espèce si lâche de survivre.
+#. de: Kein Einzelner könnte die Last eines totalen Völkermords tragen.
+#. Das hat unsere feige Spezies die ganze Zeit überleben lassen.
+#. it: Nessun uomo potrebbe sopportare il peso di un genocidio totale.
+#. È ciò che ha permesso alla nostra codarda specie di
+#. sopravvivere tutto questo tempo.
+#. es: Nadie podría con la carga del genocidio absoluto.
+#. Eso permitió que una especie tan cobarde
+#. sobreviviese tanto tiempo.
+#: olang/009c9ea4/0x413acf/0xd1f417
+msgid ""
+"No one man could bear the burden of total genocide. \n"
+"It's what's allowed our cowardly species to survive all this time."
+msgstr ""
+
+#. fr: Tu as tout laissé derrière toi, ton pays,
+#. ton identité, ton passé, tes idéaux... 
+#. Mais il reste une chose que tu n’as pas laissé partir.
+#. de: Sie haben alles zurückgelassen – Ihr Land,
+#. Ihre Identität, Ihre Vergangenheit, Ihre Ideale ...
+#. Aber eins haben Sie immer noch nicht losgelassen.
+#. it: Hai lasciato tutto alle spalle, il tuo paese,
+#. la tua identità, il tuo passato e gli ideali...
+#. Ma c'è ancora una cosa che non hai lasciato andare.
+#. es: Lo has dejado todo: tu país, tu identidad,
+#. tu pasado, tus ideales... Pero todavía queda algo 
+#. que no has abandonado.
+#: olang/009c9ea4/0x413acf/0xd1f418
+msgid ""
+"You've left everything behind - your country, your identity,\n"
+"your past and ideals... \n"
+"But there's still one thing you haven't let go of."
+msgstr ""
+
+#. fr: Rouge
+#. de: Rot
+#. it: Rosso
+#. es: Rojo
+#: olang/009c9ea4/0x4190e1/0x09f7f4
+msgid "Red"
+msgstr ""
+
+#. fr: Nu (kaki)
+#. de: Nackt (khaki)
+#. it: Nudo (cachi)
+#. es: Desnudo (Caqui)
+#: olang/009c9ea4/0x4190e1/0x09f7f6
+msgid "Naked (Khaki)"
+msgstr ""
+
+#. fr: Jaune
+#. de: Gelb
+#. it: Giallo
+#. es: Amarillo
+#: olang/009c9ea4/0x4190e1/0x19f7f4
+msgid "Yellow"
+msgstr ""
+
+#. fr: Nu (bleu marine)
+#. de: Nackt (dunkelblau)
+#. it: Nudo (blu marino)
+#. es: Desnudo (Azul marino)
+#: olang/009c9ea4/0x4190e1/0x19f7f6
+msgid "Naked (Navy Blue)"
+msgstr ""
+
+#. fr: Doré
+#. it: Oro
+#. es: Dorada
+#: olang/009c9ea4/0x4190e1/0x19f7f8
+msgid "Gold"
+msgstr ""
+
+#. fr: Rose
+#. de: Rosa
+#. it: Rosa
+#. es: Rosa
+#: olang/009c9ea4/0x4190e1/0x29f7f4
+msgid "Pink"
+msgstr ""
+
+#. fr: Nu (blanc)
+#. de: Nackt (weiß)
+#. it: Nudo (bianco)
+#. es: Desnudo (Blanco)
+#: olang/009c9ea4/0x4190e1/0x29f7f6
+msgid "Naked (White)"
+msgstr ""
+
+#. de: Zweierkarton
+#. it: Scatola dell'amore
+#. es: Caja del amor
+#: olang/009c9ea4/0x4190e1/0x29f7f8
+msgid "Love Box"
+msgstr ""
+
+#. fr: Vert
+#. de: Grün
+#. it: Verde
+#. es: Verde
+#: olang/009c9ea4/0x4190e1/0x39f7f4
+msgid "Green"
+msgstr ""
+
+#. fr: Nu (rouge)
+#. de: Nackt (rot)
+#. it: Nudo (rosso)
+#. es: Desnudo (Rojo)
+#: olang/009c9ea4/0x4190e1/0x39f7f6
+msgid "Naked (Red)"
+msgstr ""
+
+#. fr: Eau
+#. de: Wasser
+#. it: Acqua
+#. es: Agua
+#: olang/009c9ea4/0x4190e1/0x49f7f4
+msgid "Water"
+msgstr ""
+
+#. fr: Nu (jaune)
+#. de: Nackt (gelb)
+#. it: Nudo (giallo)
+#. es: Desnudo (Amarillo)
+#: olang/009c9ea4/0x4190e1/0x49f7f6
+msgid "Naked (Yellow)"
+msgstr ""
+
+#. fr: Écorce d'arbre
+#. de: Baumrinde
+#. it: Corteccia
+#. es: Corteza de árbol
+#: olang/009c9ea4/0x4190e1/0x59f7f4
+msgid "Tree Bark"
+msgstr ""
+
+#. fr: Nu (rose)
+#. de: Nackt (rosa)
+#. it: Nudo (rosa)
+#. es: Desnudo (Rosa)
+#: olang/009c9ea4/0x4190e1/0x59f7f6
+msgid "Naked (Pink)"
+msgstr ""
+
+#. fr: Noir
+#. de: Schwarz
+#. it: Nero
+#. es: Negro
+#: olang/009c9ea4/0x4190e1/0xc9f7f3
+msgid "Black"
+msgstr ""
+
+#. fr: Jungle et Terre
+#. fr: J+T
+#: olang/009c9ea4/0x4190e1/0xc9f7f5
+#: olang/009c9ea4/0x85a61c/0xc9f7f5
+msgid "DPM"
+msgstr ""
+
+#. fr: Nu (vert)
+#. de: Nackt (grün)
+#. it: Nudo (verde)
+#. es: Desnudo (Verde)
+#: olang/009c9ea4/0x4190e1/0xc9f7f7
+msgid "Naked (Green)"
+msgstr ""
+
+#. fr: Kaki
+#. it: Cachi
+#. es: Caqui
+#: olang/009c9ea4/0x4190e1/0xd9f7f3
+msgid "Khaki"
+msgstr ""
+
+#. fr: Camarade
+#. de: Kamerad
+#. it: Compagno
+#. es: Camarada
+#: olang/009c9ea4/0x4190e1/0xd9f7f5
+msgid "Comrade"
+msgstr ""
+
+#. fr: Nu (eau)
+#. de: Nackt (Wasser)
+#. it: Nudo (acqua)
+#. es: Desnudo (Agua)
+#: olang/009c9ea4/0x4190e1/0xd9f7f7
+msgid "Naked (Water)"
+msgstr ""
+
+#. fr: Bleu marine
+#. de: Dunkelblau
+#. it: Blu marino
+#. es: Azul marino
+#: olang/009c9ea4/0x4190e1/0xe9f7f3
+msgid "Navy Blue"
+msgstr ""
+
+#. fr: Armes et jungle
+#. de: Waffen & Dschungel
+#. it: Pistole e Giungla
+#. es: Armas y selva
+#: olang/009c9ea4/0x4190e1/0xe9f7f5
+msgid "Guns & Jungle"
+msgstr ""
+
+#. fr: Nu (écorce)
+#. de: Nackt (Baumrinde)
+#. it: Nudo (corteccia)
+#. es: Desnudo (Corteza de árbol)
+#: olang/009c9ea4/0x4190e1/0xe9f7f7
+msgid "Naked (Tree Bark)"
+msgstr ""
+
+#. fr: Blanc
+#. de: Weiß
+#. it: Bianco
+#. es: Blanco
+#: olang/009c9ea4/0x4190e1/0xf9f7f3
+msgid "White"
+msgstr ""
+
+#. fr: Nu (noir)
+#. de: Nackt (schwarz)
+#. it: Nudo (nero)
+#. es: Desnudo (Negro)
+#: olang/009c9ea4/0x4190e1/0xf9f7f5
+msgid "Naked (Black)"
+msgstr ""
+
+#. fr: Nu (J+T)
+#. de: Nackt (DPM)
+#. it: Nudo (DPM)
+#. es: Desnudo (DPM)
+#: olang/009c9ea4/0x4190e1/0xf9f7f7
+msgid "Naked (DPM)"
+msgstr ""
+
+#. fr: Sélectionne le type de commande.
+#. 
+#. TYPE TIREUR : cette configuration est similaire à celle de « MGS4 ».
+#. 
+#. TYPE ACTION : cette configuration est similaire à celle de « MPO ».
+#. 
+#. TYPE CHASSEUR : cette configuration est similaire à celle de la série MONSTER HUNTER FREEDOM<I=TM>.
+#. 
+#. TYPE PERSONNALISÉ : cette configuration peut être modifiée librement.
+#. de: Steuerungsart auswählen. 
+#. 
+#. SHOOTER: Die Konfiguration ist vergleichbar mit MGS4.
+#. 
+#. ACTION: Die Konfiguration ist vergleichbar mit MPO.
+#. 
+#. JÄGER: Die Konfiguration ist vergleichbar mit der Serie MONSTER HUNTER FREEDOM<I=TM>.
+#. 
+#. BENUTZERDEFINIERT: Die Konfiguration kann beliebig angepasst werden.
+#. it: Scegli il tipo di comandi.
+#. 
+#. TIPO SHOOTER: la configurazione è simile a quella di "MGS4".
+#. 
+#. TIPO AZIONE: la configurazione è simile a quella di "MPO".
+#. 
+#. TIPO CACCIATORE: la configurazione è simile a quella della serie MONSTER HUNTER FREEDOM<I=TM>.
+#. 
+#. TIPO PERSONALIZZATO: la configurazione è personalizzabile.
+#. es: Selecciona el esquema de control.
+#. 
+#. TIPO DISPAROS: La configuración es parecida a la de MGS4.
+#. 
+#. TIPO ACCIÓN: La configuración es parecida a la de MPO.
+#. 
+#. TIPO CAZADOR: La configuración es parecida a la de la saga MONSTER HUNTER FREEDOM<I=TM>.
+#. 
+#. TIPO PERSONALIZADO: La configuración se puede personalizar libremente.
+#: olang/009c9ea4/0x43f3a5/0x394f17
+#: olang/009c9ea4/0xa49217/0x2de9a9
+msgid ""
+"Select your control scheme. \n"
+"\n"
+"SHOOTER TYPE: The configuration is similar to that of \"MGS4.\"\n"
+"\n"
+"ACTION TYPE: The configuration is similar to that of \"MPO.\"\n"
+"\n"
+"HUNTER TYPE: The configuration is similar to that of the MONSTER HUNTER FREEDOM<I=TM> series.\n"
+"\n"
+"CUSTOM TYPE: The configuration can be freely customized."
+msgstr ""
+
+#. fr: Sensibilité des déplacements
+#. de: Bewegungsempfindlichkeit
+#. it: Sensibilità movimento
+#. es: Sensibilidad de dirección
+#: olang/009c9ea4/0x482e82/0x341a6f
+#: olang/009c9ea4/0x9dc379/0xd1ff23
+msgid "Movement Sensitivity"
+msgstr ""
+
+#. fr: INVITÉ
+#. de: Gast
+#. it: OSPITE
+#. es: Invitado
+#: olang/009c9ea4/0x482e82/0xef89e5
+#: olang/00d0c740/0x482e82/0xef89e5
+msgid "Guest"
+msgstr ""
+
+#. fr: Vérification des données sauvegardées.
+#. Ne pas quitter le jeu.
+#. de: Speicherdaten werden überprüft.
+#. Bitte das Spiel nicht beenden.
+#. it: Controllo dei dati salvati.
+#. Non chiudere il gioco.
+#. es: Comprobando los datos guardados.
+#. No cierres el juego.
+#: olang/009c9ea4/0x4a9e78/0x220a93
+msgid ""
+"Checking save data...\n"
+"Do not close the game."
+msgstr ""
+
+#. fr: Appuie sur la touche aussi vite que possible !
+#. de: Drücken Sie so schnell wie möglich die Taste!
+#. it: Premi il tasto più velocemente che puoi!
+#. es: ¡Pulsa el botón lo más rápido que puedas!
+#: olang/009c9ea4/0x529072/0x000002
+msgid "Hit the button as fast as you can!"
+msgstr ""
+
+#. fr: Nouveau modèle de fusil d'assaut léger. Associé à un fusil à pompe. La bascule se fait avec la touche <I=△>.
+#. de: Leichtes Sturmgewehr in neuem Modell. Mit Schrotflinte ausgestattet. Zum Umschalten <I=△> drücken.
+#. it: Nuovo modello di fucile d'assalto leggero. Dotato di una seconda canna. Cambia modalità con <I=△>.
+#. es: Nuevo modelo de fusil de asalto ligero con cañón de escopeta. Se cambia con <I=△>.
+#: olang/009c9ea4/0x594864/0x00004f
+#: olang/00d345a5/0x594864/0x00004f
+msgid ""
+"New-model, lightweight assault rifle. \n"
+"Outfitted with shotgun. Switch with <I=△>."
+msgstr ""
+
+#. fr: Nouveau modèle de fusil d'assaut léger. Associé à un fusil à pompe et un viseur laser. La bascule se fait avec la touche <I=△>.
+#. de: Leichtes Sturmgewehr in neuem Modell. Mit Schrotflinte und Laservisier. Zum Umschalten <I=△> drücken.
+#. it: Nuovo modello di fucile d'assalto leggero. Dotato di una seconda canna e mirino laser. Cambia modalità con <I=△>.
+#. es: Nuevo modelo de fusil de asalto ligero con cañón de escopeta y mira láser. Se cambia con <I=△>.
+#: olang/009c9ea4/0x594864/0x000051
+#: olang/00d345a5/0x594864/0x000051
+msgid "New-model, lightweight assault rifle. Outfitted with shotgun and laser sight. Switch with <I=△>."
+msgstr ""
+
+#. fr: Nouveau modèle de fusil d'assaut léger. Doté d'un lance-grenades. La bascule se fait avec la touche <I=△>. 
+#. de: Leichtes Sturmgewehr in neuem Modell. Mit Granatwerfer. Zum Umschalten <I=△> drücken.
+#. it: Nuovo modello di fucile d'assalto leggero. Dotato di lanciagranate. Cambia modalità con <I=△>.
+#. es: Nuevo modelo de fusil de asalto ligero. Cuenta con lanzagranadas. Se cambia con <I=△>.
+#: olang/009c9ea4/0x594864/0x000052
+#: olang/009c9ea4/0x594864/0x000053
+#: olang/009c9ea4/0x594864/0x000054
+#: olang/00d345a5/0x594864/0x000052
+#: olang/00d345a5/0x594864/0x000053
+#: olang/00d345a5/0x594864/0x000054
+msgid "New-model, lightweight assault rifle. Outfitted with grenade launcher. Switch with <I=△>."
+msgstr ""
+
+#. fr: Nouveau modèle de fusil d'assaut léger. Doté d'un lance-grenades et d'une visée laser. La bascule se fait avec la touche <I=△>. 
+#. de: Leichtes Sturmgewehr in neuem Modell. Mit Granatwerfer und Laservisier. Zum Umschalten <I=△> drücken.
+#. it: Nuovo modello di fucile d'assalto leggero. Dotato di lanciagranate e mirino laser. Cambia modalità con <I=△>.
+#. es: Nuevo modelo de fusil de asalto ligero. Cuenta con lanzagranadas y mira láser. Se cambia con <I=△>.
+#: olang/009c9ea4/0x594864/0x000055
+#: olang/00d345a5/0x594864/0x000055
+msgid "New-model, lightweight assault rifle. Outfitted with grenade launcher and laser sight. Switch with <I=△>."
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x000056
+msgid "M16a1_B(Grenader) "
+msgstr ""
+
+#. fr: Nouveau modèle de fusil d'assaut léger. Doté d'un lance-grenades fumigènes. La bascule se fait avec la touche <I=△>. 
+#. de: Leichtes Sturmgewehr in neuem Modell. Mit Rauchgranatwerfer. Zum Umschalten <I=△> drücken.
+#. it: Nuovo modello di fucile d'assalto leggero. Dotato di lanciagranate fumogene. Cambia modalità con <I=△>.
+#. es: Nuevo modelo de fusil de asalto ligero. Cuenta con lanzagranadas de humo. Se cambia con <I=△>.
+#: olang/009c9ea4/0x594864/0x000057
+#: olang/00d345a5/0x594864/0x000057
+msgid "New-model, lightweight assault rifle. Outfitted with smoke grenade launcher. Switch with <I=△>."
+msgstr ""
+
+#. fr: Nouveau modèle de fusil d'assaut léger. Doté d'un lance-grenades fumigènes et d'une visée laser. La bascule se fait avec la touche <I=△>. 
+#. de: Leichtes Sturmgewehr in neuem Modell. Mit Rauchgranatwerfer und Laservisier. Zum Umschalten <I=△> drücken.
+#. it: Nuovo modello di fucile d'assalto leggero. Dotato di lanciagranate fumogene e mirino laser. Cambia modalità con <I=△>.
+#. es: Nuevo modelo de fusil de asalto ligero. Cuenta con lanzagranadas de humo y mira láser. Se cambia con <I=△>.
+#: olang/009c9ea4/0x594864/0x000059
+#: olang/00d345a5/0x594864/0x000059
+msgid "New-model, lightweight assault rifle. Outfitted with smoke grenade launcher and laser sight. Switch with <I=△>."
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x00005a
+msgid "M16a1_C(Smoke Grenader)"
+msgstr ""
+
+#. fr: Une carabine compacte et légère. Dotée d'un Lance-grenades. La bascule se fait avec la touche <I=△>. 
+#. de: Kompakter und leichter Karabiner. Mit Granatwerfer. Zum Umschalten <I=△> drücken.
+#. it: Una carabina compatta e leggera. Dotata di lanciagranate. Cambia modalità con il pulsante <I=△>.
+#. es: Carabina compacta y ligera con lanzagranadas. Se cambia con <I=△>.
+#: olang/009c9ea4/0x594864/0x00005e
+#: olang/00d345a5/0x594864/0x00005e
+msgid "Compact, lightweight carbine. Outfitted with grenade launcher. Switch with the <I=△> button."
+msgstr ""
+
+#. fr: Une carabine compacte et légère. Dotée d'un fusil à pompe sous le canon. La bascule se fait avec la touche <I=△>. 
+#. de: Kompakter und leichter Karabiner. Mit Schrotflinte unter dem Lauf. Zum Umschalten <I=△> drücken.
+#. it: Una carabina compatta e leggera. Dotata di una seconda canna. Cambia modalità con <I=△>.
+#. es: Carabina compacta y ligera con cañón de escopeta. Se cambia con <I=△>.
+#: olang/009c9ea4/0x594864/0x000060
+#: olang/00d345a5/0x594864/0x000060
+msgid "Compact, lightweight carbine. Outfitted with underbarrel shotgun. Switch with <I=△>."
+msgstr ""
+
+#. fr: Une carabine compacte et légère. Dotée d'un lance-grenades fumigènes. La bascule se fait avec la touche <I=△>. 
+#. de: Kompakter und leichter Karabiner. Mit Rauchgranatwerfer. Zum Umschalten <I=△> drücken.
+#. it: Una carabina compatta e leggera. Dotata di lanciagranate fumogene. Cambia modalità con <I=△>.
+#. es: Carabina compacta y ligera con lanzagranadas de humo. Se cambia con <I=△>.
+#: olang/009c9ea4/0x594864/0x000062
+#: olang/00d345a5/0x594864/0x000062
+msgid "Compact, lightweight carbine. Outfitted with smoke grenade launcher. Switch with <I=△>."
+msgstr ""
+
+#. fr: Fusil d'assaut soviétique. Doté d'un Lance-grenades. La bascule se fait avec la touche <I=△>. 
+#. de: Sowjetisches Sturmgewehr. Mit Granatwerfer. Zum Umschalten <I=△> drücken.
+#. it: Fucile d'assalto sovietico. Dotato di lanciagranate. Cambia modalità con <I=△>.
+#. es: Fusil de asalto soviético. Cuenta con lanzagranadas. Se cambia con <I=△>.
+#: olang/009c9ea4/0x594864/0x000065
+#: olang/00d345a5/0x594864/0x000065
+msgid "Soviet assault rifle. Equipped with grenade launcher. Switch with <I=△>."
+msgstr ""
+
+#. fr: Fusil d'assaut soviétique doté d'un lance-grenades fumigènes. Basculer avec la touche <I=△>. 
+#. de: Sowjetisches Sturmgewehr. Mit Rauchgranatwerfer. Zum Umschalten <I=△> drücken.
+#. it: Fucile d'assalto sovietico. Dotato di lanciagranate fumogene. Cambia modalità con <I=△>.
+#. es: Fusil de asalto soviético con lanzagranadas de humo. Se cambia con <I=△>.
+#: olang/009c9ea4/0x594864/0x000067
+#: olang/00d345a5/0x594864/0x000067
+msgid "Soviet assault rifle. Equipped with smoke grenade launcher. Switch with <I=△>."
+msgstr ""
+
+#. fr: （不要）
+#: olang/009c9ea4/0x594864/0x0000f6
+#: olang/009c9ea4/0x594864/0x000241
+msgid "0"
+msgstr ""
+
+#. fr: 破片手榴弾。
+#. 構えボタンで構え、攻撃ボタンで投擲。
+#. de: 0
+#. it: 破片手榴弾。
+#. 構えボタンで構え、攻撃ボタンで投擲。
+#. 開発により威力が上がる。
+#. es: 0
+#. it: 0
+#: olang/009c9ea4/0x594864/0x000178
+#: olang/009c9ea4/0x594864/0x000179
+#: olang/009c9ea4/0x594864/0x00017a
+#: olang/009c9ea4/0x594864/0x00017b
+#: olang/009c9ea4/0x594864/0x00017c
+msgid ""
+"Fragmentation grenade\n"
+"Press <I=ATK> while \n"
+"holding <I=AIM> to throw. "
+msgstr ""
+
+#. fr: 閃光音響手榴弾。非殺傷武器。
+#. 構えボタンで構え、攻撃ボタンで投擲。
+#. de: 0
+#. it: 閃光音響手榴弾。非殺傷武器。
+#. 構えボタンで構え、攻撃ボタンで投擲。
+#. 敵兵を気絶させる効果がある。
+#. 開発により威力が上がり、効果範囲も広がる。
+#. es: 0
+#. it: 0
+#: olang/009c9ea4/0x594864/0x00017d
+#: olang/009c9ea4/0x594864/0x00017e
+#: olang/009c9ea4/0x594864/0x00017f
+#: olang/009c9ea4/0x594864/0x000180
+#: olang/009c9ea4/0x594864/0x000181
+msgid ""
+"Sound and flash grenades.\n"
+"Non-lethal weapons.\n"
+"Press <I=ATK> while \n"
+"holding <I=AIM> to throw. "
+msgstr ""
+
+#. fr: （不要）
+#. de: 0
+#. it: 0
+#. es: 0
+#: olang/009c9ea4/0x594864/0x000231
+#: olang/009c9ea4/0x594864/0x000232
+#: olang/009c9ea4/0x594864/0x000233
+msgid ""
+"Compact & lightweight submachine gun.\n"
+"Press <I=ATK> while \n"
+"holding <I=AIM> to fire. "
+msgstr ""
+
+#. fr: Sélectionnez les données à supprimer.
+#. de: Wählen Sie die zu löschenden Spieldaten aus.
+#. it: Seleziona i dati da eliminare.
+#. es: Elije los datos de juego a eliminar.
+#: olang/009c9ea4/0x596f30/0x08cdae
+msgid "Please select the data you wish to delete."
+msgstr ""
+
+#. fr: Charger les données de jeu ?
+#. de: Spieldaten laden?
+#. it: Caricare i dati di gioco?
+#. es: ¿Cargar los datos del juego?
+#: olang/009c9ea4/0x596f30/0x11d653
+msgid "Load game data?"
+msgstr ""
+
+#. fr: NOUVELLE SAUVEGARDE
+#. de: NUOVO SALVATAGGIO
+#. it: NEU SPEICHERN
+#. es: NUEVO GUARDADO
+#: olang/009c9ea4/0x596f30/0x170fd9
+msgid "NEW SAVE"
+msgstr ""
+
+#. fr: <I=CAN> Retour
+#. de: <I=CAN> Zurück
+#. it: <I=CAN> Indietro
+#. es: <I=CAN> Atrás
+#: olang/009c9ea4/0x596f30/0x220cab
+msgid "<I=CAN> Back"
+msgstr ""
+
+#. fr: CHARGER PARTIE
+#. de: SPIEL LADEN
+#. it: CARICA PARTITA
+#. es: CARGAR PARTIDA
+#: olang/009c9ea4/0x596f30/0x274464
+msgid "LOAD GAME"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x2a732f
+msgid "しばらくお待ちください。"
+msgstr ""
+
+#. fr: NOUVELLE PARTIE
+#. de: NEUES SPIEL
+#. it: NUOVA PARTITA
+#. es: PARTIDA NUEVA
+#: olang/009c9ea4/0x596f30/0x2a8f05
+msgid "NEW GAME"
+msgstr ""
+
+#. fr: Échec de la suppression des données de jeu.
+#. de: Spieldaten konnten nicht gelöscht werden.
+#. it: Impossibile eliminare i dati di gioco.
+#. es: Error al eliminar los datos del juego.
+#: olang/009c9ea4/0x596f30/0x305ced
+msgid "Failed to delete game data."
+msgstr ""
+
+#. fr: Échec du chargement des données de jeu.
+#. de: Spieldaten konnten nicht geladen werden.
+#. it: Impossibile caricare i dati di gioco.
+#. es: Error al cargar los datos del juego.
+#: olang/009c9ea4/0x596f30/0x58f26e
+msgid "Failed to load game data."
+msgstr ""
+
+#. fr: Retourner à l'écran-titre ?
+#. de: Zum Titelmenü zurückkehren?
+#. it: Tornare al menu dei titoli?
+#. es: ¿Regresar al menú de título?
+#: olang/009c9ea4/0x596f30/0x5dbf5f
+#: olang/009c9ea4/0x596f30/0xd95ad8
+#: olang/009c9ea4/0x596f30/0xfec2a9
+msgid "Return to the title menu?"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x65d9ca
+msgid "METAL GEAR SOLID PEACE WALKER (MASTER COLLECTION Version)"
+msgstr ""
+
+#. fr: Voulez-vous vraiment écraser les données sauvegardées ?
+#. de: Möchten Sie Ihre gespeicherten Daten wirklich überschreiben?
+#. it: Sovrascrivere i dati salvati?
+#. es: ¿Seguro que quieres sobrescribir los datos guardados?
+#: olang/009c9ea4/0x596f30/0x702a60
+msgid "Are you sure you want to overwrite saved data?"
+msgstr ""
+
+#. fr: <I=UD> Déplacer le curseur
+#. de: <I=UD> Cursor bewegen
+#. it: <I=UD> Muovi cursore
+#. es: <I=UD> Mover cursor
+#: olang/009c9ea4/0x596f30/0x771d5e
+msgid "<I=UD> Move cursor"
+msgstr ""
+
+#. fr: SUPPRIMER
+#. de: LÖSCHEN
+#. it: ELIMINA
+#. es: ELIMINAR
+#: olang/009c9ea4/0x596f30/0x771f51
+msgid "DELETE"
+msgstr ""
+
+#. fr: Données corrompues
+#. de: Beschädigte Daten
+#. it: Dati danneggiati
+#. es: Datos dañados
+#: olang/009c9ea4/0x596f30/0x822a29
+msgid "Corrupted Data"
+msgstr ""
+
+#. fr: Chargement en cours...
+#. de: Laden...
+#. it: Caricamento in corso...
+#. es: Cargando...
+#. fr: Chargement...
+#. it: Caricamento...
+#: olang/009c9ea4/0x596f30/0x8dcd05
+#: olang/00d0c740/0x413acf/0x3341a9
+msgid "Loading..."
+msgstr ""
+
+#. fr: Sauvegarde en cours...
+#. de: Speichert...
+#. it: Salvataggio in corso...
+#. es: Guardando...
+#: olang/009c9ea4/0x596f30/0x9117a6
+msgid "Saving..."
+msgstr ""
+
+#. fr: Suppression en cours...
+#. de: Löschen...
+#. it: Eliminazione in corso...
+#. es: Eliminando...
+#: olang/009c9ea4/0x596f30/0x99a4eb
+msgid "Deleting..."
+msgstr ""
+
+#. fr: Sélectionnez les données à charger.
+#. de: Wählen Sie die zu ladenden Spieldaten aus.
+#. it: Seleziona i dati da caricare.
+#. es: Elije los datos de juego a cargar.
+#: olang/009c9ea4/0x596f30/0x9e630a
+msgid "Please select the data you wish to load."
+msgstr ""
+
+#. fr: Sélectionnez les données à sauvegarder.
+#. de: Wählen Sie die zu speichernden Spieldaten aus.
+#. it: Seleziona i dati da salvare.
+#. es: Elije los datos de juego a guardar.
+#: olang/009c9ea4/0x596f30/0xa1adab
+msgid "Please select the data you wish to save."
+msgstr ""
+
+#. fr: Chargement terminé.
+#. de: Laden abgeschlossen.
+#. it: Caricamento completato.
+#. es: Datos cargados.
+#: olang/009c9ea4/0x596f30/0xa67665
+msgid "Load complete."
+msgstr ""
+
+#. fr: Échec de la sauvegarde des données de jeu.
+#. de: Spieldaten konnten nicht gespeichert werden.
+#. it: Impossibile salvare i dati di gioco.
+#. es: Error al guardar los datos del juego.
+#: olang/009c9ea4/0x596f30/0xadfa88
+msgid "Failed to save game data."
+msgstr ""
+
+#. fr: Sauvegarder les données de jeu ?
+#. de: Spieldaten speichern?
+#. it: Salvare i dati di gioco?
+#. es: ¿Guardar los datos del juego?
+#: olang/009c9ea4/0x596f30/0xb2d99d
+msgid "Save game data?"
+msgstr ""
+
+#. fr: Sauvegarde terminée.
+#. de: Speichern abgeschlossen.
+#. it: Salvataggio completato.
+#. es: Datos guardados.
+#: olang/009c9ea4/0x596f30/0xb3a0e9
+msgid "Save complete."
+msgstr ""
+
+#. fr: Voulez-vous vraiment supprimer vos données sauvegardées ?
+#. de: Möchten Sie Ihre gespeicherten Daten wirklich löschen?
+#. it: Eliminare i dati salvati?
+#. es: ¿Seguro que quieres eliminar los datos guardados?
+#: olang/009c9ea4/0x596f30/0xb540bd
+msgid "Are you sure you want to delete your saved data?"
+msgstr ""
+
+#. fr: Pas de données de sauvegarde.
+#. de: Keine gespeicherten Daten.
+#. it: Nessun dato di salvataggio.
+#. es: No hay datos guardados.
+#: olang/009c9ea4/0x596f30/0xb607f8
+msgid "No saved data."
+msgstr ""
+
+#. fr: <I=DEC> Confirmer
+#. de: <I=DEC> Bestätigen
+#. it: <I=DEC> Conferma
+#. es: <I=DEC> Confirmar
+#: olang/009c9ea4/0x596f30/0xbcdff8
+msgid "<I=DEC> Confirm"
+msgstr ""
+
+#. fr: Données sauvegardées supprimées.
+#. de: Speicherdaten gelöscht.
+#. it: Dati salvati eliminati.
+#. es: Datos guardados eliminados.
+#: olang/009c9ea4/0x596f30/0xe5e21a
+msgid "Saved data deleted."
+msgstr ""
+
+#. fr: Temps total de jeu : [total_play_time]
+#. de: Tempo di gioco totale : [total_play_time]
+#. it: Totale Spielzeit : [total_play_time]
+#. es: Tiempo total de juego : [total_play_time]
+#: olang/009c9ea4/0x596f30/0xf100ae
+msgid "Total Play Time : [total_play_time]"
+msgstr ""
+
+#. fr: Appuyer sur <I=□> pour sélectionner le soldat à assigner.
+#. de: Wählen Sie mit der <I=□> den Soldaten, der zugeteilt werden soll.
+#. it: Premi <I=□> per scegliere quale soldato assegnare.
+#. es: Pulsa <I=□> para seleccionar al soldado que quieras asignar.
+#: olang/009c9ea4/0x5d8989/0xb3e6dc
+msgid "Press <I=□> to select which soldier to assign."
+msgstr ""
+
+#. fr: Appuyez sur <I=CONF> pour sélectionner l'équipe à laquelle
+#. assigner le soldat.
+#. de: Wählen Sie <I=CONF> aus um das Team zu bestimmen,
+#. dem der Soldat zugewiesen werden soll.
+#. it: Premi <I=CONF> per scegliere a quale squadra
+#. assegnare il soldato.
+#. es: Pulsa <I=CONF> para especificar el equipo
+#. al cual asignar al soldado.
+#: olang/009c9ea4/0x5d8989/0xb3e6fc
+msgid ""
+"Press <I=CONF> to specify the team to which\n"
+"to assign the soldier."
+msgstr ""
+
+#. fr: Pivoter : <I=CAMERA> gauche/droite
+#. de: Drehen: <I=CAMERA> nach links/rechts
+#. it: Ruota: <I=CAMERA> a sinistra/destra
+#. es: Rotar: <I=CAMERA> izquierda/derecha
+#: olang/009c9ea4/0x5f753b/0x28adbe
+msgid "Rotate: <I=CAMERA> left/right"
+msgstr ""
+
+#. fr: Déplacer : <I=CAMERA> haut/bas
+#. de: Bewegen: <I=CAMERA> nach oben/unten
+#. it: Sposta: <I=CAMERA> su/giù
+#. es: Mover: <I=CAMERA> arriba/abajo
+#: olang/009c9ea4/0x5f753b/0x28adbf
+msgid "Move: <I=CAMERA> up/down"
+msgstr ""
+
+#. fr: Pivoter : <I=CAMERA>
+#. de: Drehen: <I=CAMERA>
+#. it: Ruota: <I=CAMERA>
+#. es: Rotar: <I=CAMERA>
+#: olang/009c9ea4/0x5f753b/0x48adbe
+#: olang/009c9ea4/0x5f753b/0xc992ce
+#: olang/009c9ea4/0x919326/0xc992ce
+msgid "Rotate: <I=CAMERA>"
+msgstr ""
+
+#. fr: Déplacer caméra : <I=CAMERA>
+#. de: Kamera bewegen: <I=CAMERA>
+#. it: Sposta visuale: <I=CAMERA>
+#. es: Mover cámara: <I=CAMERA>
+#: olang/009c9ea4/0x5f753b/0x88adbf
+#: olang/009c9ea4/0x5f753b/0xa8adbe
+msgid "Move Camera: <I=CAMERA>"
+msgstr ""
+
+#. fr: Déplacer : <I=CAMERA>
+#. de: Bewegen: <I=CAMERA>
+#. it: Sposta: <I=CAMERA>
+#. es: Mover: <I=CAMERA>
+#: olang/009c9ea4/0x5f753b/0xc992cf
+msgid "Move: <I=CAMERA>"
+msgstr ""
+
+#. fr: Pour déplacer ta ligne de vue,
+#. incline <I=CAMERA> vers le haut et le bas !
+#. de: Bewegen Sie <I=CAMERA> nach oben oder unten,
+#. um Ihr Blickfeld auszurichten!
+#. it: Inclina <I=CAMERA> su e giù
+#. per muovere la tua linea visiva!
+#. es: Incline <I=CAMERA> hacia arriba y hacia abajo
+#. para mover la línea de visión.
+#: olang/009c9ea4/0x629bfd/0x000001
+msgid ""
+"Use up and down on <I=CAMERA> \n"
+"to move your line of sight!"
+msgstr ""
+
+#. fr: Pour déplacer la ligne de vue,
+#. incline <I=CAMERA> vers la gauche et la droite !
+#. de: Bewegen Sie <I=CAMERA> nach rechts oder links,
+#. um Ihr Blickfeld auszurichten!
+#. it: Inclina <I=CAMERA> a sinistra e destra
+#. per muovere la tua linea visiva!
+#. es: Incline <I=CAMERA> a derecha e izquierda
+#. para mover la línea de visión.
+#: olang/009c9ea4/0x629c7d/0x000001
+msgid ""
+"Use right and left on <I=CAMERA> \n"
+"to move your line of sight!"
+msgstr ""
+
+#. fr: Boss,
+#. utilise <I=CAMERA> vers le haut et le bas
+#. pour déplacer ta ligne de vue.
+#. de: Boss,
+#. bewegen Sie <I=CAMERA> nach oben oder unten,
+#. um Ihr Blickfeld auszurichten.
+#. it: Boss,
+#. inclina <I=CAMERA> su e giù
+#. per muovere la tua linea visiva.
+#. es: Boss,
+#. incline <I=CAMERA> hacia arriba y hacia abajo 
+#. para mover la línea de visión.
+#: olang/009c9ea4/0x62a7fd/0x000000
+msgid ""
+"Boss, \n"
+"use up and down on <I=CAMERA> \n"
+"to move your line of sight."
+msgstr ""
+
+#. fr: utilise haut et bas de <I=CAMERA> pour déplacer la ligne de vue.
+#. de: drücken Sie die Oben- und Unten-<I=CAMERA>, 
+#. um Ihr Blickfeld auszurichten!
+#. it: usa <I=CAMERA> su e giù per muovere la tua linea visiva.
+#. es: utilice <I=CAMERA> arriba y hacia abajo 
+#. para mover la línea de visión.
+#: olang/009c9ea4/0x62a7fd/0x000001
+msgid ""
+"use the up and down <I=CAMERA> \n"
+"to move your line of sight.  "
+msgstr ""
+
+#. fr: Boss,
+#. utilise <I=CAMERA> vers la gauche et la droite
+#. pour déplacer ta ligne de vue.
+#. de: Boss,
+#. bewegen Sie <I=CAMERA> nach links oder rechts,
+#. um Ihr Blickfeld auszurichten!
+#. it: Boss,
+#. inclina <I=CAMERA> a sinistra e destra
+#. per muovere la tua linea visiva!
+#. es: Boss,
+#. incline <I=CAMERA> a derecha e izquierda
+#. para mover la línea de visión.
+#: olang/009c9ea4/0x62a87d/0x000000
+msgid ""
+"Boss, \n"
+"use left and right on <I=CAMERA> \n"
+"to move your line of sight!"
+msgstr ""
+
+#. fr: utilise gauche et droite de <I=CAMERA> pour déplacer la ligne de vue.
+#. de: drücken Sie die Links- und Rechts-<I=CAMERA>, um Ihr Blickfeld auszurichten!
+#. it: usa <I=CAMERA> sinistra e destra per muovere la tua linea visiva.
+#. es: utilice <I=CAMERA> la derecha e izquierda 
+#. para mover la línea de visión.
+#: olang/009c9ea4/0x62a87d/0x000001
+msgid ""
+"use the left and right <I=CAMERA> \n"
+"to move your line of sight.  "
+msgstr ""
+
+#. fr: Appuie sur <I=ACT> si tu es prêt à continuer.
+#. de: Drücken Sie <I=ACT>, wenn Sie weitermachen wollen.
+#. it: Premi <I=ACT> se sei pronto per proseguire.
+#. es: Pulsad <I=ACT> si estáis listos para continuar.
+#: olang/009c9ea4/0x62a8fd/0x000001
+#: olang/009c9ea4/0x62a97d/0x000001
+msgid "Press <I=ACT> if you're ready to move on."
+msgstr ""
+
+#. fr: Très bien, nous allons regarder une dernière fois
+#. en haut et en bas avec <I=CAMERA>.
+#. de: Gut, wir schauen mit <I=CAMERA>
+#. noch mal nach oben und unten.
+#. it: Bene, andiamo ancora una volta su e giù
+#. con <I=CAMERA>.
+#. es: Bien, miremos arriba y abajo con
+#. <I=CAMERA> una vez más.
+#: olang/009c9ea4/0x62b8fd/0x000000
+msgid ""
+"Alright, let’s try up and down on\n"
+" <I=CAMERA> one more time."
+msgstr ""
+
+#. fr: Très bien, nous allons regarder une dernière fois
+#. à gauche et à droite avec <I=CAMERA>.
+#. de: Gut, wir schauen mit <I=CAMERA>
+#. noch mal nach links und rechts. 
+#. it: Bene, andiamo ancora una volta a sinistra e destra
+#. con <I=CAMERA>.
+#. es: Bien, miremos a izquierda y derecha con
+#. <I=CAMERA> una vez más.
+#: olang/009c9ea4/0x62b97d/0x000000
+msgid ""
+"Alright, let’s try left and right on\n"
+"<I=CAMERA> one more time."
+msgstr ""
+
+#. fr: Il y a trois positions :
+#. debout, accroupi et allongé.
+#. de: Es gibt drei Haltungen:
+#. Stehen, Hocken und Liegen.
+#. it: Hai tre posture disponibili:
+#. in piedi, accovacciato e disteso.
+#. es: Hay tres posiciones:
+#. de pie, agachado y tumbado.
+#: olang/009c9ea4/0x62bb7d/0x000004
+msgid ""
+"You have three stances:\n"
+"stand, crouch, and lying down."
+msgstr ""
+
+#. fr: Pour changer de position, utilise <I=STANCE>.
+#. de: Drücken Sie <I=STANCE>, um die Haltung zu wechseln.
+#. it: Per cambiare postura usa <I=STANCE>.
+#. es: Para cambiar de posición, se utiliza <I=STANCE>.
+#: olang/009c9ea4/0x62bb7d/0x000005
+msgid "To change stances use <I=STANCE>. "
+msgstr ""
+
+#. fr: Appuie sur <I=STANCE> pour passer de la position debout à accroupi.
+#. de: Tippen Sie <I=STANCE> an, um zwischen Stehen und Hocken zu wechseln.
+#. it: Premi <I=STANCE> per alternare fra in piedi e accovacciato.
+#. es: Tocando el botón se cambia entre estar de pie y estar agachado.
+#: olang/009c9ea4/0x62bb7d/0x000006
+msgid ""
+"Tap <I=STANCE> to change \n"
+"between standing and crouching."
+msgstr ""
+
+#. fr: Tu peux te déplacer dans ces positions.
+#. de: Sie können sich in jeder Haltung bewegen.
+#. it: Puoi muoverti in entrambe le posizioni.
+#. es: Ambas posiciones permiten moverse.
+#: olang/009c9ea4/0x62bb7d/0x000007
+msgid "You can move in either stance."
+msgstr ""
+
+#. fr: Appuie sur <I=STANCE> et maintiens-la pour t’allonger.
+#. de: Halten Sie <I=STANCE> gedrückt, um sich hinzulegen.
+#. it: Premi <I=STANCE> e tienilo premuto per stare disteso a terra.
+#. es: Manteniendo pulsado <I=STANCE> se pasará a estar tumbado.
+#: olang/009c9ea4/0x62bb7d/0x000008
+msgid "Hold <I=STANCE> and keep it held to lie down."
+msgstr ""
+
+#. fr: Qu'est-ce que tu fais ?
+#. de: Was machen Sie da?
+#. it: Cosa stai facendo?
+#. es: ¿Pero qué está haciendo?
+#: olang/009c9ea4/0x62c87d/0x000000
+#: olang/009c9ea4/0x64687e/0x000000
+msgid "What are you doing? "
+msgstr ""
+
+#. fr: Sers-toi de <I=STANCE> pour changer de position !
+#. de: Drücken Sie <I=STANCE>, um Ihre Haltung zu wechseln!
+#. it: Usa <I=STANCE> per cambiare la tua posizione!
+#. es: Use <I=STANCE> para cambiar de posición.
+#: olang/009c9ea4/0x62c87d/0x000001
+msgid "Use <I=STANCE> to change your stance! "
+msgstr ""
+
+#. fr: Boss, change de position avec <I=STANCE> !
+#. de: Boss, wechseln Sie Ihre Haltung mit <I=STANCE>!
+#. it: Boss, cambia la tua posizione con <I=STANCE>!
+#. es: Boss, cambie de posición con <I=STANCE>.
+#: olang/009c9ea4/0x62c8fd/0x000000
+msgid "Boss, change your stance with <I=STANCE>!"
+msgstr ""
+
+#. fr: Bon, et maintenant ? Utilise
+#. <I=MOVE> pour te déplacer !
+#. de: Was ist?
+#. Bewegen Sie sich mit <I=MOVE>!
+#. it: Cosa c'è?
+#. Usa <I=MOVE> per spostarti!
+#. es: ¿Y ahora qué?
+#. Use <I=MOVE> para moverse.
+#: olang/009c9ea4/0x62cafd/0x000000
+msgid ""
+"What now? \n"
+"Use <I=MOVE> to move!"
+msgstr ""
+
+#. fr: Pour faire une roulade, appuie sur <I=STANCE> en courant.
+#. de: Tippen Sie zum Rollen <I=STANCE> beim Laufen an.
+#. it: Per rotolare, premi rapidamente <I=STANCE> mentre corri.
+#. es: Para rodar, toque <I=STANCE> mientras corre.
+#: olang/009c9ea4/0x62cbfd/0x000004
+#: olang/009c9ea4/0x62cbfe/0x000004
+msgid "To roll, tap <I=STANCE> while running."
+msgstr ""
+
+#. fr: Pigé ?
+#. de: Verstanden?
+#. it: Hai capito?
+#. es: ¿Entendido?
+#: olang/009c9ea4/0x62cbfd/0x000005
+msgid "You got that?"
+msgstr ""
+
+#. fr: Pigé ?
+#. de: Verstanden?
+#. it: Hai capito?
+#. es: ¿Entendido?
+#: olang/009c9ea4/0x62cbfe/0x000005
+msgid "You got that? "
+msgstr ""
+
+#. fr: Appuie sur <I=STANCE> en courant. Surtout n’oublie pas ça !
+#. de: Tippen Sie <I=STANCE> beim Laufen an. Nicht vergessen!
+#. it: Premi rapidamente <I=STANCE> mentre corri. Ricordatelo!
+#. es: Toque <I=STANCE> mientras corre. ¡No lo olvide!
+#: olang/009c9ea4/0x62cbfe/0x000006
+msgid ""
+"Tap <I=STANCE> while running. \n"
+"Don't forget it!"
+msgstr ""
+
+#. fr: Quel est le problème ?
+#. Cours avec <I=MOVE>,
+#. puis appuie sur <I=STANCE> pour faire une roulade !
+#. de: Was ist los?
+#. Laufen Sie mit <I=MOVE>
+#. und drücken Sie <I=STANCE> zum Rollen!
+#. it: Qual è il problema?!
+#. Corri con <I=MOVE>,
+#. poi premi <I=STANCE> per rotolare!
+#. es: ¿Qué pasa?
+#. ¡Corra con <I=MOVE>
+#. y pulse <I=STANCE> para rodar!
+#: olang/009c9ea4/0x62d87d/0x000000
+#: olang/009c9ea4/0x62d87e/0x000000
+msgid ""
+"What's wrong?! \n"
+"Run with <I=MOVE>, \n"
+"then press <I=STANCE> to roll!"
+msgstr ""
+
+#. fr: Cours avec <I=MOVE>,
+#. puis appuie sur <I=ATK> pour faire une roulade !
+#. de: Laufen Sie mit <I=MOVE>
+#. und drücken Sie <I=ATK> zum Rollen!
+#. it: Corri con <I=MOVE>,
+#. poi premi rapidamente <I=ATK> per rotolare!
+#. es: Corra con <I=MOVE>
+#. y pulse <I=ATK> para rodar.
+#: olang/009c9ea4/0x62d87d/0x000001
+msgid ""
+"Run with <I=MOVE>,\n"
+"then tap <I=ATK> to roll!"
+msgstr ""
+
+#. fr: Cours avec <I=MOVE>,
+#. puis appuie sur <I=STANCE> pour faire une roulade !
+#. de: Laufen Sie mit <I=MOVE>
+#. und drücken Sie <I=STANCE> zum Rollen!
+#. it: Corri con <I=MOVE>,
+#. poi premi  <I=STANCE> per rotolare!
+#. es: Corra con <I=MOVE>
+#. y pulse <I=STANCE> para rodar.
+#: olang/009c9ea4/0x62d87e/0x000001
+msgid ""
+"Run with <I=MOVE>, \n"
+"then tap <I=STANCE> to roll!"
+msgstr ""
+
+#. fr: Pour frapper un ennemi, 
+#. appuie sur <I=ATK>, sans bouger.
+#. de: Drücken Sie <I=ATK>, 
+#. wenn Sie stehen, um einen Feind zu schlagen!
+#. it: Per colpire un nemico, 
+#. premi <I=ATK> mentre stai fermo in piedi!
+#. es: Para golpear a un enemigo, 
+#. hay que pulsar <I=ATK> sin moverse.
+#: olang/009c9ea4/0x62d9fd/0x000000
+msgid ""
+"To strike an enemy, \n"
+"press <I=ATK> while standing still! "
+msgstr ""
+
+#. fr: À mon commandement, appuie plusieurs fois sur <I=ATK> et étale ton adversaire !
+#. de: Drücken Sie auf meinen Befehl mehrfach <I=ATK> und schalten Sie Ihren Gegner aus!
+#. it: Al mio ordine, premi ripetutamente <I=ATK> per stendere il tuo avversario!
+#. es: Cuando yo dé la orden, debéis pulsar <I=ATK> repetidamente para derribar al rival.
+#: olang/009c9ea4/0x62d9fd/0x000001
+msgid ""
+"On my command, press <I=ATK>\n"
+"repeatedly and take down your opponent!"
+msgstr ""
+
+#. fr: Pour frapper un ennemi, 
+#. appuie sur <I=CQC> au contact, sans bouger.
+#. de: Drücken Sie <I=CQC>, wenn Sie stehen, 
+#. um einen Feind zu schlagen!
+#. it: Per colpire un nemico, 
+#. premi <I=CQC> mentre stai fermo in piedi!
+#. es: Para golpear a un enemigo, 
+#. hay que pulsar <I=CQC> sin moverse.
+#: olang/009c9ea4/0x62d9fe/0x000000
+msgid ""
+"To strike an enemy, \n"
+"press <I=CQC> while standing still!"
+msgstr ""
+
+#. fr: À mon commandement,
+#. de: Drücken Sie auf meinen Befehl
+#. it: Al mio ordine, premi
+#. es: Cuando yo dé la orden,
+#: olang/009c9ea4/0x62d9fe/0x000001
+msgid "On my command,"
+msgstr ""
+
+#. fr: appuie plusieurs fois sur <I=CQC> 
+#. et étale ton adversaire !
+#. de: mehrfach <I=CQC> 
+#. und schalten Sie Ihren Gegner aus!
+#. it: ripetutamente <I=CQC> per stendere il tuo avversario!
+#. es: debéis pulsar <I=CQC> repetidamente 
+#. para derribar al rival.
+#: olang/009c9ea4/0x62d9fe/0x000002
+msgid ""
+"press <I=CQC> repeatedly \n"
+"and take down your opponent!"
+msgstr ""
+
+#. fr: Ça va, Boss ?
+#. de: Alles okay, Boss?
+#. it: Tutto bene, Boss?
+#. es: ¿Está bien, Boss?
+#: olang/009c9ea4/0x62dafd/0x000000
+#: olang/009c9ea4/0x62dafe/0x000000
+msgid "You alright, boss?"
+msgstr ""
+
+#. fr: Appuie sur <I=ATK>, sans bouger !
+#. de: Drücken Sie <I=ATK>, ohne sich zu bewegen!
+#. it: Premi <I=ATK> senza muoverti!
+#. es: ¡Pulse <I=ATK> sin moverse!
+#: olang/009c9ea4/0x62dafd/0x000001
+msgid "Press <I=ATK> without moving!"
+msgstr ""
+
+#. fr: Appuie sur <I=CQC> à mains nues, sans bouger !
+#. de: Drücken Sie <I=CQC>, ohne sich zu bewegen!
+#. it: Premi <I=CQC> senza muoverti!
+#. es: ¡Pulse <I=CQC> sin moverse!
+#: olang/009c9ea4/0x62dafe/0x000001
+msgid "Press <I=CQC> without moving!"
+msgstr ""
+
+#. fr: Boss, appuie sur <I=ATK>, sans bouger !
+#. de: Drücken Sie <I=ATK>, ohne sich zu bewegen, Boss.
+#. it: Premi <I=ATK> senza muoverti, Boss.
+#. es: ¡Pulse <I=ATK> sin moverse, Boss!
+#: olang/009c9ea4/0x62db7d/0x000000
+msgid "Press <I=ATK> without moving, Boss. "
+msgstr ""
+
+#. fr: Boss, appuie sur <I=CQC>, sans bouger !
+#. de: Drücken Sie <I=CQC>, ohne sich zu bewegen, Boss.
+#. it: Premi <I=CQC> senza muoverti, Boss.
+#. es: ¡Pulse <I=CQC> sin moverse, Boss!
+#: olang/009c9ea4/0x62db7e/0x000000
+msgid "Press <I=CQC> without moving, Boss. "
+msgstr ""
+
+#. fr: Pour utiliser la matraque étourdissante, appuie sur <I=AIM> et une fois prêt,
+#. de: Drücken Sie zur Verwendung des Betäubungsstabs <I=AIM>, um ihn zu ziehen.
+#. it: Per usare lo storditore elettrico, premi <I=AIM> per prepararlo,
+#. es: Para usar la vara eléctrica, hay que pulsar <I=AIM> para prepararla
+#. es: Para usar la vara eléctrica, pulse <I=AIM> para prepararla
+#: olang/009c9ea4/0x62dc7d/0x000000
+#: olang/009c9ea4/0x62dc7e/0x000000
+msgid ""
+"To use the stun rod, \n"
+"press <I=AIM> to ready it,"
+msgstr ""
+
+#. fr: appuie sur <I=ATK>.
+#. de: Drücken Sie danach <I=ATK>.
+#. it: quindi premi <I=ATK>.
+#. es: y después pulsar <I=ATK>.
+#. it: quindi premi <I=ATK> con arma.
+#. es: y pulse <I=ATK> con armas.
+#: olang/009c9ea4/0x62dc7d/0x000001
+#: olang/009c9ea4/0x62dc7e/0x000001
+msgid "then press <I=ATK>."
+msgstr ""
+
+#. fr: Hé, hé ! Maintiens <I=AIM> enfoncée !
+#. de: He! Halten Sie <I=AIM> gedrückt!
+#. it: Ehi, ehi! Tieni premuto <I=AIM>!
+#. es: ¡Mantenga pulsado <I=AIM>!
+#: olang/009c9ea4/0x64487d/0x000000
+msgid "Hey, hey! Hold down <I=AIM>!"
+msgstr ""
+
+#. fr: Hé ! Appuie sur <I=AIM> !
+#. de: He! Drücken Sie <I=AIM>!
+#. it: Ehi! Premi <I=AIM>!
+#. es: ¡Eh! ¡Pulse <I=AIM>!
+#: olang/009c9ea4/0x64487e/0x000000
+msgid "Hey! Press <I=AIM>!"
+msgstr ""
+
+#. fr: Boss, maintiens <I=AIM> enfoncée. Merci !
+#. de: Boss, bitte halten Sie <I=AIM> gedrückt!
+#. it: Boss, tieni premuto <I=AIM>!
+#. es: ¡Boss, mantenga pulsado <I=AIM>!
+#: olang/009c9ea4/0x6448fd/0x000000
+msgid "Boss, please hold down <I=AIM>!"
+msgstr ""
+
+#. fr: Boss, appuie sur <I=AIM>. Merci !
+#. de: Boss, bitte drücken Sie <I=AIM>!
+#. it: Boss, premi <I=AIM>!
+#. es: Boss, pulse <I=AIM>.
+#: olang/009c9ea4/0x6448fe/0x000000
+msgid "Boss, please press <I=AIM>!"
+msgstr ""
+
+#. fr: Quel est le problème ? Appuie sur <I=ATK> en maintenant <I=AIM> enfoncée !
+#. de: Was ist los? Drücken Sie <I=ATK>, während Sie <I=AIM> gedrückt halten!
+#. it: Qual è il problema? Premi <I=ATK> mentre tieni premuto <I=AIM>!
+#. es: ¿Qué pasa? Pulse <I=ATK> mientras mantiene pulsado <I=AIM>.
+#: olang/009c9ea4/0x644a7d/0x000000
+msgid ""
+"What's wrong? Press <I=ATK>\n"
+"while holding down <I=AIM>! "
+msgstr ""
+
+#. fr: Quel est le problème ? Appuie sur <I=ATK> après avoir appuyé sur <I=AIM> !
+#. de: Was ist los? Drücken Sie <I=ATK>, nachdem Sie <I=AIM> gedrückt haben!
+#. it: Qual è il problema? Premi <I=ATK> dopo aver premuto <I=AIM>!
+#. es: ¿Qué pasa? Pulse <I=ATK> después de pulsar <I=AIM>.
+#: olang/009c9ea4/0x644a7e/0x000000
+msgid ""
+"What's wrong? Press <I=ATK>\n"
+"after pressing <I=AIM>! "
+msgstr ""
+
+#. fr: Boss, appuie sur <I=ATK> en maintenant <I=AIM> enfoncée !
+#. de: Boss, bitte drücken Sie <I=ATK>, während Sie <I=AIM> gedrückt halten!
+#. it: Boss, premi <I=ATK> mentre tieni premuto <I=AIM>!
+#. es: Boss, pulse <I=ATK> mientras mantiene pulsado <I=AIM>.
+#: olang/009c9ea4/0x644afd/0x000000
+msgid ""
+"Boss, please press <I=ATK> \n"
+"while holding down <I=AIM>!"
+msgstr ""
+
+#. fr: Boss, appuie sur <I=ATK> après avoir appuyé sur <I=AIM> !
+#. de: Boss, bitte drücken Sie <I=ATK>, nachdem Sie <I=AIM> gedrückt haben!
+#. it: Boss, premi <I=ATK> dopo aver premuto <I=AIM>!
+#. es: Boss, pulse <I=ATK> después de pulsar <I=AIM>.
+#: olang/009c9ea4/0x644afe/0x000000
+msgid ""
+"Boss, please press <I=ATK> \n"
+"after pressing <I=AIM>! "
+msgstr ""
+
+#. fr: et appuie sur <I=ATK> 
+#. en inclinant <I=MOVE>.
+#. de: und drücken Sie <I=ATK>,
+#. während Sie <I=MOVE> bewegen.
+#. it: e premi <I=ATK>
+#. mentre inclini <I=MOVE>.
+#. es: y pulsar el <I=ATK>
+#. mientras mueve <I=MOVE>.
+#: olang/009c9ea4/0x644bfd/0x000002
+msgid ""
+"and press <I=ATK> \n"
+"while you tilt <I=MOVE>."
+msgstr ""
+
+#. fr: Appuie sur <I=CQC> 
+#. près d'un ennemi en inclinant <I=MOVE> !
+#. de: Drücken Sie in der Nähe eines Gegners <I=CQC>,
+#. während Sie <I=MOVE> bewegen!
+#. it: Premi <I=CQC> 
+#. vicino a un nemico mentre inclini <I=MOVE>!
+#. es: Pulse <I=CQC> 
+#. cerca de un rival mientras mueve <I=MOVE>.
+#: olang/009c9ea4/0x644bfe/0x000001
+msgid ""
+"and press <I=CQC> \n"
+"near an enemy as you tilt <I=MOVE>!"
+msgstr ""
+
+#. fr: Hé !
+#. Appuie sur <I=ATK>
+#. en inclinant <I=MOVE> !
+#. de: He!
+#. Drücken Sie <I=ATK>,
+#. während Sie <I=MOVE> bewegen!
+#. it: Ehi!
+#. Premi <I=ATK>
+#. mentre inclini <I=MOVE>!
+#. es: ¡Eh!
+#. ¡Pulse <I=ATK>
+#. mientras mueve <I=MOVE>!
+#: olang/009c9ea4/0x6457fd/0x000000
+msgid ""
+"Hey! \n"
+"Press <I=ATK> \n"
+"as you tilt <I=MOVE>!"
+msgstr ""
+
+#. fr: Appuie sur <I=ATK> en inclinant <I=MOVE>!
+#. de: Drücken Sie <I=ATK>, 
+#. während Sie <I=MOVE> bewegen!
+#. it: Premi <I=ATK> mentre inclini <I=MOVE>!
+#. es: Pulse <I=ATK> mientras inclina <I=MOVE>.
+#: olang/009c9ea4/0x6457fd/0x000001
+msgid "Press <I=ATK> as you tilt <I=MOVE>!"
+msgstr ""
+
+#. fr: Hé !
+#. Appuie sur <I=CQC>
+#. en inclinant <I=MOVE> !
+#. de: He!
+#. Drücken Sie <I=CQC>,
+#. während Sie <I=MOVE> bewegen!
+#. it: Ehi!
+#. Premi <I=CQC> 
+#. mentre inclini <I=MOVE>!
+#. es: ¡Eh!
+#. ¡Pulse <I=CQC>
+#. mientras mueve <I=MOVE>!
+#: olang/009c9ea4/0x6457fe/0x000000
+msgid ""
+"Hey! \n"
+"Press <I=CQC>\n"
+"as you tilt <I=MOVE>!"
+msgstr ""
+
+#. fr: Hé !
+#. de: He!
+#. it: Ehi!
+#. es: ¡Eh!
+#: olang/009c9ea4/0x6457fe/0x000001
+msgid "Hey! "
+msgstr ""
+
+#. fr: tu dois appuyer sur <I=ATK>
+#. en inclinant <I=MOVE>.
+#. de: Sie müssen <I=ATK> drücken,
+#. während Sie <I=MOVE> bewegen!
+#. it: devi premere <I=ATK>
+#. mentre inclini <I=MOVE>!
+#. es: ¡tiene que pulsar <I=ATK>
+#. mientras mueve <I=MOVE>!
+#: olang/009c9ea4/0x6458fd/0x000001
+msgid ""
+"you have to press <I=ATK> \n"
+"as you tilt <I=MOVE>!"
+msgstr ""
+
+#. fr: tu dois appuyer sur <I=CQC>
+#. en inclinant <I=MOVE> !
+#. de: Sie müssen <I=CQC> drücken,
+#. während Sie <I=MOVE> bewegen!
+#. it: devi premere <I=CQC> 
+#. mentre inclini <I=MOVE>!
+#. es: ¡tiene que pulsar <I=CQC>
+#. mientras mueve <I=MOVE>!
+#: olang/009c9ea4/0x6458fe/0x000001
+msgid ""
+"you have to press <I=CQC> \n"
+"as you tilt <I=MOVE>!"
+msgstr ""
+
+#. fr: Pour maîtriser ton adversaire,
+#. de: Um Ihren Gegner in den Würgegriff zu nehmen,
+#. it: Per bloccare il tuo avversario,
+#. es: Para reducir a un oponente,
+#: olang/009c9ea4/0x645bfd/0x000000
+msgid "To restrain your opponent, "
+msgstr ""
+
+#. fr: maintiens <I=ATK> enfoncée en étant près de lui.
+#. de: halten Sie <I=ATK> gedrückt, 
+#. wenn Sie in seiner Nähe sind.
+#. it: tieni premuto <I=ATK> mentre gli sei vicino.
+#. es: hay que mantener pulsado <I=ATK> cerca de él.
+#: olang/009c9ea4/0x645bfd/0x000001
+msgid "hold down <I=ATK> while near them. "
+msgstr ""
+
+#. fr: Pour maîtriser ton adversaire,
+#. de: Um Ihren Gegner in den Würgegriff zu nehmen,
+#. it: Per bloccare il tuo avversario,
+#. es: Para reducir a un oponente,
+#: olang/009c9ea4/0x645bfe/0x000000
+msgid "To restrain your opponent,"
+msgstr ""
+
+#. fr: maintiens <I=CQC> enfoncée en étant près de lui.
+#. de: halten Sie <I=CQC> gedrückt, 
+#. wenn Sie in seiner Nähe sind.
+#. it: tieni premuto <I=CQC> mentre gli sei vicino.
+#. es: hay que mantener pulsado <I=CQC> cerca de él.
+#: olang/009c9ea4/0x645bfe/0x000001
+msgid "hold down <I=CQC> while near them. "
+msgstr ""
+
+#. fr: À mon commandement, maîtrise ton adversaire !
+#. de: Nehmen Sie Ihren Gegner auf
+#. meinen Befehl hin in den Würgegriff.
+#. it: Blocca il tuo avversario
+#. al mio ordine.
+#. es: Reduzca a su oponente cuando yo
+#. dé la orden.
+#: olang/009c9ea4/0x645bfe/0x000002
+msgid ""
+"Restrain your opponent \n"
+"on my command. \n"
+msgstr ""
+
+#. fr: Qu'est-ce que tu fais ?
+#. de: Was machen Sie da?
+#. it: Cosa stai facendo?
+#. es: ¿Pero qué está haciendo?
+#: olang/009c9ea4/0x64687d/0x000000
+msgid "What are you doing?"
+msgstr ""
+
+#. fr: Appuie sur <I=ATK> en étant près de ton adversaire.
+#. de: Drücken Sie <I=ATK> in der Nähe Ihres Gegners!
+#. it: Premi <I=ATK> vicino al tuo avversario!
+#. es: ¡Pulse <I=ATK> cerca de su rival!
+#: olang/009c9ea4/0x64687d/0x000001
+msgid "Press <I=ATK> while near your opponent! "
+msgstr ""
+
+#. fr: Appuie sur <I=CQC> en étant près de ton adversaire.
+#. de: Drücken Sie <I=CQC> in der Nähe Ihres Gegners!
+#. it: Premi <I=CQC> vicino al tuo avversario!
+#. es: ¡Pulse <I=CQC> cerca de su rival!
+#: olang/009c9ea4/0x64687e/0x000001
+msgid "Press <I=CQC> while near your opponent! "
+msgstr ""
+
+#. fr: Boss,
+#. de: Boss,
+#. it: Boss,
+#. es: Boss,
+#: olang/009c9ea4/0x6468fd/0x000000
+#: olang/009c9ea4/0x6468fe/0x000000
+#: olang/009c9ea4/0x64ab7e/0x000000
+msgid "Boss, "
+msgstr ""
+
+#. fr: tu dois appuyer sur <I=ATK> 
+#. quand tu es près de ton adversaire !
+#. de: Sie müssen <I=ATK> in der Nähe Ihres Gegners drücken!
+#. it: devi premere <I=ATK> vicino al tuo avversario!
+#. es: hay que pulsar <I=ATK> cerca del rival.
+#: olang/009c9ea4/0x6468fd/0x000001
+msgid ""
+"you have to press <I=ATK> \n"
+"while next to your opponent! "
+msgstr ""
+
+#. fr: tu dois appuyer sur <I=CQC> 
+#. en étant près de ton adversaire !
+#. de: Sie müssen <I=CQC> in der Nähe Ihres Gegners drücken!
+#. it: devi premere <I=CQC> vicino al tuo avversario!
+#. es: hay que pulsar <I=CQC> cerca del rival.
+#: olang/009c9ea4/0x6468fe/0x000001
+msgid ""
+"you have to press <I=CQC> \n"
+"while next to your opponent!"
+msgstr ""
+
+#. fr: pousse <I=MOVE> dans une direction quand tu le tiens.
+#. de: drücken Sie <I=MOVE>
+#. in eine Richtung, wenn Sie ihn in den Würgegriff genommen haben.
+#. it: premi verso una direzione con <I=MOVE>
+#. dopo averlo bloccato.
+#. es: pulse una dirección en <I=MOVE> 
+#. cuando los tenga reducidos.
+#: olang/009c9ea4/0x646b7d/0x000001
+msgid "press a direction on <I=MOVE> when you have them restrained."
+msgstr ""
+
+#. fr: Pour interroger quelqu’un,
+#. de: Wenn Sie jemanden verhören wollen,
+#. it: Per interrogare qualcuno,
+#. es: Para interrogar a alguien,
+#: olang/009c9ea4/0x647a7d/0x000000
+#: olang/009c9ea4/0x647a7e/0x000000
+msgid "To interrogate someone,"
+msgstr ""
+
+#. fr: appuie sur <I=ATK> pour le maîtriser, puis appuie sur <I=INTERROGATE>.
+#. de: Drücken Sie <I=ATK>, um ihn in den Würgegriff zu nehmen.
+#. Drücken Sie danach <I=INTERROGATE>.
+#. it: premi <I=ATK> per bloccarlo e quindi premi <I=INTERROGATE>.
+#. es: pulse <I=ATK> para reducirlo y, a continuación, <I=INTERROGATE>.
+#: olang/009c9ea4/0x647a7d/0x000001
+#: olang/009c9ea4/0x647a7e/0x000001
+msgid ""
+"Press <I=ATK> to restrain \n"
+"them, then press <I=INTERROGATE>."
+msgstr ""
+
+#. fr: Tout va bien ? Appuie sur <I=ACT> !
+#. de: Alles okay? Drücken Sie <I=ACT>.
+#. it: Tutto OK? Premi <I=ACT>!
+#. es: ¿Está bien? ¡Pulse <I=ACT>!
+#: olang/009c9ea4/0x647bfd/0x000000
+msgid "You OK? Press <I=ACT>!"
+msgstr ""
+
+#. fr: Tout va bien ? Appuie sur <I=INTERROGATE> !
+#. de: Alles okay? Drücken Sie <I=INTERROGATE>!
+#. it: Tutto OK? Premi <I=INTERROGATE>!
+#. es: ¿Está bien? ¡Pulse <I=INTERROGATE>!
+#: olang/009c9ea4/0x647bfe/0x000000
+msgid "You OK? Press <I=INTERROGATE>!"
+msgstr ""
+
+#. fr: Boss, il faut appuyer sur <I=ACT>.
+#. de: Sie müssen <I=ACT> drücken, Boss!
+#. it: Devi premere <I=ACT>, Boss!
+#. es: ¡Hay que pulsar <I=ACT>, Boss!
+#: olang/009c9ea4/0x647c7d/0x000000
+msgid "You have to press <I=ACT>, Boss!"
+msgstr ""
+
+#. fr: Boss, il faut appuyer sur <I=INTERROGATE> !
+#. de: Boss, Sie müssen <I=INTERROGATE> drücken!
+#. it: Boss, devi premere <I=INTERROGATE>!
+#. es: ¡Hay que pulsar <I=INTERROGATE>, Boss!
+#: olang/009c9ea4/0x647c7e/0x000000
+msgid ""
+"You have to press <I=INTERROGATE>, \n"
+"Boss!"
+msgstr ""
+
+#. fr: Incline ensuite <I=MOVE>
+#. pour les projeter.
+#. de: Bewegen Sie danach <I=MOVE>,
+#. um ihn zu werfen.
+#. it: Quindi inclina <I=MOVE> 
+#. per lanciarlo.
+#. es: A continuación, mueva
+#. <I=MOVE> para lanzarlo.
+#: olang/009c9ea4/0x649a7d/0x000001
+#: olang/009c9ea4/0x649a7e/0x000001
+msgid "Then tilt <I=MOVE> to throw them."
+msgstr ""
+
+#. fr: En inclinant <I=MOVE> vers
+#. d’autres ennemis,
+#. de: Indem Sie <I=MOVE> in Richtung
+#. anderer Feinde bewegen,
+#. it: Inclinando <I=MOVE> verso 
+#. altri nemici,
+#. es: Si mueve <I=MOVE>
+#. hacia otros enemigos,
+#: olang/009c9ea4/0x649a7d/0x000002
+#: olang/009c9ea4/0x649a7e/0x000002
+msgid "By tilting <I=MOVE> toward other enemies,"
+msgstr ""
+
+#. fr: D'abord, maîtrise un ennemi en appuyant sur <I=CQC> quand tu es proche de lui.
+#. de: Nehmen Sie zuerst einen Gegner in den Würgegriff, indem Sie in seiner Nähe <I=CQC> drücken.
+#. it: Premi <I=CQC> vicino a un nemico per bloccarlo!
+#. es: Primero, reduzca a un rival pulsando el
+#. <I=CQC> sin armas cerca de él.
+#: olang/009c9ea4/0x649a7e/0x000000
+msgid "First, restrain an opponent by pressing <I=CQC> while near them."
+msgstr ""
+
+#. fr: Hé !
+#. Incline <I=MOVE> pendant que
+#. tu maîtrises l’adversaire !
+#. de: He!
+#. Bewegen Sie <I=MOVE>,
+#. während Sie den Gegner im Würgegriff haben!
+#. it: Ehi!
+#. Inclina <I=MOVE> mentre blocchi 
+#. l'avversario!
+#. es: ¡Eh!
+#. ¡Mueva <I=MOVE> mientras reduce a su oponente!
+#: olang/009c9ea4/0x649bfd/0x000000
+msgid ""
+"Hey!\n"
+"Tilt <I=MOVE> while \n"
+"restraining the opponent!"
+msgstr ""
+
+#. fr: Incline <I=MOVE> pendant que tu maîtrises l’adversaire !
+#. de: Bewegen Sie <I=MOVE>,
+#. während Sie den Gegner im Würgegriff haben!
+#. it: Inclina <I=MOVE> mentre blocchi l'avversario!
+#. es: ¡Incline <I=MOVE> mientras reduce 
+#. a su oponente!
+#: olang/009c9ea4/0x649bfd/0x000001
+msgid "Tilt <I=MOVE> while restraining the opponent! "
+msgstr ""
+
+#. fr: Boss, incline <I=MOVE> pendant que
+#. tu maîtrises l’adversaire.
+#. de: Bewegen Sie <I=MOVE>, während Sie
+#. den Gegner im Würgegriff haben, Boss!
+#. it: Inclina <I=MOVE> mentre blocchi 
+#. l'avversario, Boss!
+#. es: ¡Mueva <I=MOVE> mientras reduce
+#. a su oponente, Boss!
+#: olang/009c9ea4/0x64a7fd/0x000000
+msgid ""
+"Tilt <I=MOVE> while restraining \n"
+"the opponent, Boss!"
+msgstr ""
+
+#. fr: tu dois les éliminer l’un après l’autre.
+#. de: müssen Sie sie einen nach dem anderen ausschalten.
+#. it: dovrai affrontarli uno alla volta.
+#. es: tendréis que atacarles uno tras otro.
+#: olang/009c9ea4/0x64a97d/0x000001
+msgid ""
+"you'll have to take them on one \n"
+"after the other."
+msgstr ""
+
+#. fr: appuie de nouveau sur <I=ATK> en lançant l’ennemi.
+#. de: <I=ATK>, während Sie den aktuellen Feind werfen.
+#. it: premi un'altra volta <I=ATK> mentre lanci il nemico attuale.
+#. es: hay que volver a pulsar <I=ATK> mientras se lanza un enemigo.
+#: olang/009c9ea4/0x64a97d/0x000003
+msgid ""
+"simply press <I=ATK> again \n"
+"while throwing the current enemy.  "
+msgstr ""
+
+#. fr: Quand tu es entouré par plusieurs ennemis,
+#. de: Wenn Sie von mehreren Feinden
+#. umzingelt sind,
+#. it: Quando sei circondato
+#. da più nemici,
+#. es: Si está rodeado
+#. por varios enemigos,
+#. fr: Quand tu es entouré par plusieurs ennemis,
+#. de: Wenn Sie von mehreren Feinden
+#. umzingelt sind,
+#. es: Si está rodeado
+#. por varios enemigos,
+#: olang/009c9ea4/0x64a97e/0x000000
+#: olang/00cd740b/0x64a97e/0x000000
+msgid ""
+"When you're surrounded \n"
+"by multiple enemies,"
+msgstr ""
+
+#. fr: tu dois les éliminer l’un après l’autre.
+#. de: müssen Sie sie einen nach dem anderen ausschalten.
+#. it: dovrai affrontarli uno alla volta.
+#. es: atáquelos uno a uno.
+#: olang/009c9ea4/0x64a97e/0x000001
+msgid ""
+"you'll have to take them on one \n"
+"after the other. "
+msgstr ""
+
+#. fr: Pour ce faire,
+#. de: ausschalten.
+#. it: Per farlo,
+#. es: Para eso,
+#: olang/009c9ea4/0x64a97e/0x000002
+msgid ""
+"To do it, \n"
+msgstr ""
+
+#. fr: appuie de nouveau sur <I=CQC> en projetant un ennemi.
+#. de: <I=CQC>, während Sie den aktuellen Feind werfen.
+#. it: premi un'altra volta <I=CQC> mentre lanci il nemico attuale.
+#. es: vuelva a pulsar <I=CQC> mientras lanza a un enemigo.
+#: olang/009c9ea4/0x64a97e/0x000003
+msgid ""
+"simply press <I=CQC> again \n"
+"while throwing the current enemy."
+msgstr ""
+
+#. fr: Attends bien l’apparition de l’icône.
+#. de: Warten Sie aber, bis das Symbol
+#. angezeigt wird.
+#. it: Ricordati solo di aspettare
+#. che appaia l'icona.
+#. es: Hay que esperar a que aparezca el icono.
+#: olang/009c9ea4/0x64a97e/0x000004
+msgid ""
+"Just be sure to wait for the Icon \n"
+"to appear. \n"
+msgstr ""
+
+#. fr: Appuie sur <I=ATK> quand l’icône apparaît !
+#. de: Drücken Sie <I=ATK>, wenn das Symbol erscheint!
+#. it: Premi <I=ATK> quando appare l'icona!
+#. es: Pulse <I=ATK> cuando aparezca el icono.
+#: olang/009c9ea4/0x64aafd/0x000000
+msgid "Press <I=ATK> when the Icon appears!"
+msgstr ""
+
+#. fr: Appuie sur <I=CQC> à corps quand l’icône apparaît !
+#. de: Drücken Sie <I=CQC>, wenn das Symbol erscheint!
+#. it: Premi <I=CQC> quando appare l'icona!
+#. es: Pulse <I=CQC> cuando aparezca el icono.
+#: olang/009c9ea4/0x64aafe/0x000000
+msgid "Press <I=CQC> when the Icon appears! "
+msgstr ""
+
+#. fr: Boss, appuie sur <I=ATK> quand l’icône apparaît.
+#. de: Boss, drücken Sie <I=ATK>, wenn das Symbol erscheint!
+#. it: Boss, premi <I=ATK> quando appare l'icona!
+#. es: Boss, pulse <I=ATK> cuando aparezca el icono.
+#: olang/009c9ea4/0x64ab7d/0x000000
+msgid "Boss, press <I=ATK> when the Icon appears!"
+msgstr ""
+
+#. fr: appuie sur <I=CQC> quand l’icône apparaît !
+#. de: drücken Sie <I=CQC>, wenn das Symbol erscheint!
+#. it: premi <I=CQC> quando appare l'icona!
+#. es: pulse <I=CQC> cuando aparezca el icono.
+#: olang/009c9ea4/0x64ab7e/0x000001
+msgid "press <I=CQC> when the Icon appears! "
+msgstr ""
+
+#. fr: Recherche en cours selon les conditions définies.
+#. *Veuillez utiliser la dernière version du jeu.
+#. de: Führen Sie die Suche mit den festgelegten Bedingungen durch.
+#. *Bitte verwenden Sie die aktuellste Version des Spiels.
+#. it: Effettua una ricerca secondo i parametri selezionati.
+#. Assicurarsi che il gioco sia aggiornato alla versione più recente.
+#. es: Buscar con las condiciones seleccionadas.
+#. *Asegúrate de haber actualizado el juego a la última versión.
+#: olang/009c9ea4/0x68bb2b/0x01c78f
+msgid ""
+"Search with the conditions you have selected.\n"
+"*Make sure your game is updated to the latest version."
+msgstr ""
+
+#. fr: Recherche de MEMBRES selon les conditions définies.
+#. *Veuillez utiliser la dernière version du jeu.
+#. de: Rekrutieren Sie MITGLIEDER mit den festgelegten Bedingungen.
+#. *Bitte verwenden Sie die aktuellste Version des Spiels.
+#. it: Cerca MEMBRI idonei ai parametri di ricerca selezionati.
+#. *Assicurarsi che il gioco sia aggiornato alla versione più recente.
+#. es: Buscar miembros con las condiciones seleccionadas.
+#. *Asegúrate de haber actualizado el juego a la última versión.
+#: olang/009c9ea4/0x68bb2b/0x594dbd
+msgid ""
+"Search for MEMBERS with the conditions you have selected.\n"
+"*Make sure your game is updated to the latest version."
+msgstr ""
+
+#. fr: Tu peux utiliser les fonctionnalités en ligne pour recruter des MEMBRES CO-OPS à travers le monde.
+#. Sélectionne le type d'invitation.
+#. de: Verbinden Sie sich online, um CO-OPS-MITGLIEDER aus der ganzen Welt zu rekrutieren.
+#. Wählen Sie die Art der Einladung aus.
+#. it: Puoi reclutare i MEMBRI CO-OPS in tutto il mondo connettendoti online.
+#. Seleziona il tipo di invito.
+#. es: Puedes reclutar MIEMBROS CO-OPS de todo el mundo usando las funciones online. 
+#. Selecciona el tipo de invitación.
+#: olang/009c9ea4/0x68bb2b/0xac71d5
+msgid ""
+"You can recruit CO-OPS MEMBERS worldwide online.\n"
+"Select the type of invitation."
+msgstr ""
+
+#. fr: Le compte actuel ne peut pas être utilisé pour le multijoueur en ligne.
+#. de: Das aktuelle Konto kann nicht für Online-Multiplayer verwendet werden.
+#. it: L'account attuale non può essere utilizzato per il multigiocatore online.
+#. es: No es posible usar la cuenta de jugador actual en partidas multijugador online.
+#: olang/009c9ea4/0x68bb2b/0xf6831d
+msgid "Online multiplayer cannot be used by the current account."
+msgstr ""
+
+#. fr: Ouvrir le MANUEL EN LIGNE ?
+#. de: Das Online-Handbuch öffnen?
+#. it: Aprire il MANUALE ONLINE?
+#. es: ¿Quieres abrir el manual en línea?
+#: olang/009c9ea4/0x6b2d56/0x48e16c
+msgid "Open the ONLINE MANUAL?"
+msgstr ""
+
+#. fr: Des ogives !
+#. de: Atomwaffen!
+#. it: Le testate nucleari!
+#. es: ¡Las armas nucleares!
+#: olang/009c9ea4/0x74d55a/0x000000
+msgid "Nukes!"
+msgstr ""
+
+#. fr: Appuie sur <I=DEC> pour voir les conditions requises.
+#. de: Drücken Sie <I=DEC>, um die Bedingungen zu sehen, die erfüllt werden müssen.
+#. it: Premi <I=DEC> per vedere i requisiti da soddisfare.
+#. es: Pulsa <I=DEC> para ver las condiciones.
+#: olang/009c9ea4/0x82e3c9/0x6fd5da
+msgid "Press <I=DEC> to view the requirements that must be met."
+msgstr ""
+
+#. fr: À l'époque, dans ma vieille unité, le commandant, pendant la gymnastique matinale, avait coutume de dire : « Quand vous avez des ennuis, appuyez sur la fenêtre de menu ! »
+#. Je me demande comment il va aujourd'hui.
+#. de: In meiner alten Einheit hat der Kommandeur uns bei den Morgenübungen immer gesagt: „Wenn Sie in Schwierigkeiten sind, öffnen Sie das Menü-Fenster!“ Was wohl aus ihm geworden ist?
+#. it: Nella mia vecchia unità, durante l'allenamento mattutino il comandante era solito dirci: "Ogni volta che siete nei guai, aprite la finestra menu!!"
+#. Chissà come se la passa in questo periodo.
+#. es: En mi antigua unidad, el comandante solía decir durante los ejercicios matinales: "Si tenéis problemas, pulsad el botón Ventana del menú".
+#. Me pregunto cómo le irá.
+#: olang/009c9ea4/0x840500/0x374a51
+msgid ""
+"Back in my old unit, the commander used to tell us at morning calisthenics: \"Whenever you're in trouble, open the menu window!!\"\n"
+"Wonder how he's doing these days."
+msgstr ""
+
+#. fr: Hé Boss, tu peux me montrer comment on recharge ?
+#. Ah, c’est comme ça ! Il suffit d’appuyer sur la touche Action en étant équipé de l’arme. Merci bien, Boss !
+#. de: He, Boss, können Sie mir das Nachladen beibringen?
+#. ... Ahh, so geht das also! Einfach die Aktionstaste bei ausgerüsteter Waffe drücken! Vielen Dank, Boss!
+#. it: Ehi Boss, mi insegneresti a ricaricare?
+#. ...Ah, allora si fa così! Basta solo premere il Tasto Azione con l'arma equipaggiata! Grazie mille, Boss!
+#. es: Boss, ¿me enseñas a recargar?
+#. ¡Ah, así que es eso! ¿Solo pulsar el botón de acción con el arma equipada? ¡Muchas gracias, Boss!
+#: olang/009c9ea4/0x840500/0x374af7
+msgid ""
+"Hey Boss, can you teach me how to reload?\n"
+"...Ahh, so that's it! Just push the Action Button with the weapon equipped! Thanks a bunch, Boss!"
+msgstr ""
+
+#. fr: <I=PAUSE>: quitter le didacticiel.
+#. de: <I=PAUSE>: Tutorial beenden.
+#. it: <I=PAUSE>: fine tutorial.
+#. es: <I=PAUSE>: salir del tutorial.
+#: olang/009c9ea4/0x840ff7/0x44e180
+msgid "<I=PAUSE>: End tutorial."
+msgstr ""
+
+#. fr: ROUGE
+#. de: ROT
+#. it: ROSSO
+#. es: ROJO
+#: olang/009c9ea4/0x85a61c/0x09f7f4
+msgid "RED"
+msgstr ""
+
+#. fr: NU (KAKI)
+#. de: NKT(KHAKI)
+#. it: ND CACHI
+#. es: DES(CAQUI)
+#: olang/009c9ea4/0x85a61c/0x09f7f6
+msgid "NKD(KHAKI)"
+msgstr ""
+
+#. fr: JAUNE
+#. de: GELB
+#. it: GIALLO
+#. es: AMARILLO
+#: olang/009c9ea4/0x85a61c/0x19f7f4
+msgid "YELLOW"
+msgstr ""
+
+#. fr: NU (BLEU)
+#. de: NKT(DNKBL)
+#. it: ND BLU M.
+#. es: DES(MARIN)
+#: olang/009c9ea4/0x85a61c/0x19f7f6
+msgid "NKD(N.BLU)"
+msgstr ""
+
+#. fr: DORh
+#. it: ORO
+#. es: DORADA
+#: olang/009c9ea4/0x85a61c/0x19f7f8
+msgid "GOLD"
+msgstr ""
+
+#. fr: ROSE
+#. de: ROSA
+#. it: ROSA
+#. es: ROSA
+#: olang/009c9ea4/0x85a61c/0x29f7f4
+msgid "PINK"
+msgstr ""
+
+#. fr: NU (BLANC)
+#. de: NKT(WEISS)
+#. it: ND BIANCO
+#. es: DES(BLANC)
+#: olang/009c9ea4/0x85a61c/0x29f7f6
+msgid "NKD(WHITE)"
+msgstr ""
+
+#. de: ZWEIERKAR.
+#. it: SC. AMORE
+#. es: CAJA AMOR
+#: olang/009c9ea4/0x85a61c/0x29f7f8
+msgid "LOVE BOX"
+msgstr ""
+
+#. fr: VERT
+#. de: GRvN
+#. it: VERDE
+#. es: VERDE
+#: olang/009c9ea4/0x85a61c/0x39f7f4
+msgid "GREEN"
+msgstr ""
+
+#. fr: NU (ROUGE)
+#. de: NKT(ROT)
+#. it: ND ROSSO
+#. es: DES(ROJO)
+#: olang/009c9ea4/0x85a61c/0x39f7f6
+msgid "NKD(RED)"
+msgstr ""
+
+#. fr: EAU
+#. de: WASSER
+#. it: ACQUA
+#. es: AGUA
+#: olang/009c9ea4/0x85a61c/0x49f7f4
+msgid "WATER"
+msgstr ""
+
+#. fr: NU (JAUNE)
+#. de: NKT(GELB)
+#. it: ND GIALLO
+#. es: DES(AMA)
+#: olang/009c9ea4/0x85a61c/0x49f7f6
+msgid "NKD(YELW)"
+msgstr ""
+
+#. fr: hCORCE
+#. de: BAUMRINDE
+#. it: CORTECCIA
+#. es: COR. bRBOL
+#: olang/009c9ea4/0x85a61c/0x59f7f4
+msgid "TREE BARK"
+msgstr ""
+
+#. fr: NU (ROSE)
+#. de: NKT(ROSA)
+#. it: ND ROSA
+#. es: DES(ROSA)
+#: olang/009c9ea4/0x85a61c/0x59f7f6
+msgid "NKD(PINK)"
+msgstr ""
+
+#. fr: NOIR
+#. de: SCHWARZ
+#. it: NERO
+#. es: NEGRO
+#: olang/009c9ea4/0x85a61c/0xc9f7f3
+msgid "BLACK"
+msgstr ""
+
+#. fr: NU (VERT)
+#. de: NKT(GRvN)
+#. it: ND VERDE
+#. es: DES(VERDE)
+#: olang/009c9ea4/0x85a61c/0xc9f7f7
+msgid "NKD(GRN)"
+msgstr ""
+
+#. fr: KAKI
+#. it: CACHI
+#. es: CAQUI
+#: olang/009c9ea4/0x85a61c/0xd9f7f3
+msgid "KHAKI"
+msgstr ""
+
+#. fr: CAMARADE
+#. de: KAMERAD
+#. it: COMPAGNO
+#. es: CAMARADA
+#: olang/009c9ea4/0x85a61c/0xd9f7f5
+msgid "COMRADE"
+msgstr ""
+
+#. fr: NU (EAU)
+#. de: NKT(WASS.)
+#. it: ND ACQUA
+#. es: DES(AGUA)
+#: olang/009c9ea4/0x85a61c/0xd9f7f7
+msgid "NKD(WATR)"
+msgstr ""
+
+#. fr: BLEU MAR.
+#. de: DUNKELBLAU
+#. it: BLU MARE
+#. es: AZUL MAR.
+#: olang/009c9ea4/0x85a61c/0xe9f7f3
+msgid "NAVY BLUE"
+msgstr ""
+
+#. fr: A+J
+#. de: W&D
+#. it: P&G
+#. es: A&S
+#: olang/009c9ea4/0x85a61c/0xe9f7f5
+msgid "G&J"
+msgstr ""
+
+#. fr: NU (hC)
+#. de: NKT(BMRND)
+#. it: ND CORT.
+#. es: DES(bRBOL)
+#: olang/009c9ea4/0x85a61c/0xe9f7f7
+msgid "NKD(T.B)"
+msgstr ""
+
+#. fr: BLANC
+#. de: WEISS
+#. it: BIANCO
+#. es: BLANCO
+#: olang/009c9ea4/0x85a61c/0xf9f7f3
+msgid "WHITE"
+msgstr ""
+
+#. fr: NU (NOIR)
+#. de: NKT(SCHW.)
+#. it: ND NERO
+#. es: DES(NEGRO)
+#: olang/009c9ea4/0x85a61c/0xf9f7f5
+msgid "NKD(BLACK)"
+msgstr ""
+
+#. fr: NU (J+T)
+#. de: NKT(DPM)
+#. it: ND DPM
+#. es: DES(DPM)
+#: olang/009c9ea4/0x85a61c/0xf9f7f7
+msgid "NKD(DPM)"
+msgstr ""
+
+#. fr: Vérification du stockage...
+#. Ne quittez pas le jeu.
+#. de: Speichergerät wird überprüft ...
+#. Bitte beenden Sie das Spiel nicht.
+#. it: Controllo dello spazio disponibile in corso...
+#. Non chiudere il gioco.
+#. es: Comprobando el dispositivo de almacenamiento...
+#. No cierres el juego.
+#: olang/009c9ea4/0x8b79b6/0x220a93
+msgid ""
+"Checking storage...\n"
+"Do not close the game."
+msgstr ""
+
+#. fr: Le jeu sauvegarde automatiquement les données.
+#. Ne quittez pas le jeu en cours de sauvegarde.
+#. de: Dieses Spiel speichert an gewissen Punkten automatisch.
+#. Beenden Sie das Spiel während des Speichervorgangs nicht.
+#. it: In questo gioco, i dati vengono salvati automaticamente.
+#. Non chiudere il gioco durante il salvataggio.
+#. es: Este juego guarda los datos automáticamente. 
+#. No cierres el juego durante este proceso.
+#: olang/009c9ea4/0x8b79b6/0x3b222d
+#: olang/009c9ea4/0xa49217/0x3f129b
+msgid ""
+"This game saves data automatically.\n"
+"Do not close the game during this time."
+msgstr ""
+
+#. fr: Enregistrement en cours.
+#. Ne quittez pas le jeu.
+#. de: Inhalt wird gespeichert.
+#. Bitte beenden Sie das Spiel nicht.
+#. it: Salvataggio del contenuto.
+#. Non chiudere il gioco.
+#. es: Guardando contenido. 
+#. No cierres el juego.
+#: olang/009c9ea4/0x8b79b6/0xbba0fd
+#: olang/009c9ea4/0xa49217/0x836b27
+#: olang/009c9ea4/0xdbd1b3/0x4dfe7b
+msgid ""
+"Saving content.\n"
+"Please don't close the game."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0x00b621
+#: olang/009c9ea4/0x8caeae/0x00b721
+#: olang/009c9ea4/0x8caeae/0x00b821
+msgid ""
+"Awarded for capturing over $1 bases (Heroism increases\n"
+"$2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0x00b921
+#: olang/009c9ea4/0x8caeae/0x00ba21
+#: olang/009c9ea4/0x8caeae/0x00bb21
+msgid ""
+"Awarded for getting the target to the goal (count to 0) over\n"
+"$1 times (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir effectué plus de $1 récupérations Fulton en VS (héroïsme accru de $2).
+#. de: 
+#. Verliehen für mehr als $1 Fulton-Rettungen in VS-Spielen (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver eseguito oltre $1 recuperi Fulton in VS (aumento eroismo: $2).
+#. es: 
+#. Se concede por realizar más de $1 rescates Fulton en combates de enfrentamiento (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0x00bc21
+#: olang/009c9ea4/0x8caeae/0x00bd21
+#: olang/009c9ea4/0x8caeae/0x00d421
+msgid ""
+"\n"
+"Awarded for performing over $1 Fulton Recoveries in VS (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir achevé plus de $1missions sans avoir été repéré par l'ennemi (héroïsme accru de $2).
+#. de: 
+#. Verliehen für den Abschluss von mehr als $1 Einsätzen ohne Entdeckung durch den Feind (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver completato oltre $1 missioni senza essere avvistato dal nemico (aumento eroismo: $2).
+#. es: 
+#. Se concede por completar más de $1 misiones sin ser descubierto por el enemigo (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfcb520
+#: olang/009c9ea4/0x8caeae/0xfcb620
+#: olang/009c9ea4/0x8caeae/0xfcb720
+msgid ""
+"\n"
+"Awarded for completing over $1 missions without being spotted by the enemy (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir achevé plus de $1missions sans avoir tué personne (héroïsme accru de $2).
+#. de: 
+#. Verliehen für den Abschluss von mehr als $1 Einsätzen ohne Töten von Personen (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver completato oltre $1 missioni senza aver ucciso nessuno (aumento eroismo: $2).
+#. es: 
+#. Se concede por completar más de $1 misiones sin matar a nadie (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfcb820
+#: olang/009c9ea4/0x8caeae/0xfcb920
+#: olang/009c9ea4/0x8caeae/0xfcba20
+msgid ""
+"\n"
+"Awarded for completing over $1 missions without killing anyone (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir immobilisé plus de $1 soldats ennemis (héroïsme accru de $2).
+#. de: 
+#. Verliehen für den Überfall auf mehr als $1 feindliche Soldaten (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver fatto alzare le mani a oltre $1 soldati nemici (aumento eroismo: $2).
+#. es: 
+#. Se concede por retener a más de $1 soldados enemigos (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfcbb20
+#: olang/009c9ea4/0x8caeae/0xfcbc20
+#: olang/009c9ea4/0x8caeae/0xfcbd20
+msgid ""
+"\n"
+"Awarded for holding up over $1 enemy soldiers (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir achevé plus de $1 missions sans utiliser d'objet de récupération (héroïsme accru de $2).
+#. de: 
+#. Verliehen für den Abschluss von mehr als $1 Einsätzen ohne Heilmittel (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver completato oltre $1 missioni senza usare oggetti di recupero (aumento eroismo: $2).
+#. es: 
+#. Se concede por completar más de $1 misiones sin usar objetos de recuperación (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfcd420
+#: olang/009c9ea4/0x8caeae/0xfcd520
+#: olang/009c9ea4/0x8caeae/0xfcd620
+msgid ""
+"\n"
+"Awarded for completing over $1 missions without using recovery items (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir utilisé le CQC plus de $1 fois (héroïsme accru de $2).
+#. de: 
+#. Verliehen für die mehr als $1-malige Anwendung von CQC (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver usato oltre $1 volte il CQC (aumento eroismo: $2).
+#. es: 
+#. Se concede por usar el combate CQC más de $1 veces (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfcd720
+#: olang/009c9ea4/0x8caeae/0xfcd820
+#: olang/009c9ea4/0x8caeae/0xfcd920
+msgid ""
+"\n"
+"Awarded for using CQC over $1 times (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir accompli plus de $1 tirs dans la tête (héroïsme accru de $2).
+#. de: 
+#. Verliehen für mehr als $1 Kopfschüsse (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver effettuato oltre $1 colpi in testa (aumento eroismo: $2).
+#. es: 
+#. Se concede por realizar más de $1 disparos a la cabeza (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfcda20
+#: olang/009c9ea4/0x8caeae/0xfcdb20
+#: olang/009c9ea4/0x8caeae/0xfcdc20
+msgid ""
+"\n"
+"Awarded for completing over $1 headshots (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir dépassé un niveau total de camaraderie de $1 (héroïsme accru de $2).
+#. de: 
+#. Verliehen für das Erreichen eines Kameradschaftswerts von mehr als $1 (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver superato un livello totale di cameratismo di $1 (aumento eroismo: $2).
+#. es: 
+#. Se concede por superar un nivel de camaradería total de $1 (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfcdd20
+#: olang/009c9ea4/0x8caeae/0xfcf420
+#: olang/009c9ea4/0x8caeae/0xfcf520
+msgid ""
+"\n"
+"Awarded for exceeding a total Level of Camaraderie of $1 (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir dépassé un total combiné de sauvetages, utilisations de trousse de secours et de cris de guerre de $1 (héroïsme accru de $2).
+#. de: 
+#. Verliehen für das Erreichen von insgesamt mehr als $1 Wiederbelebungen sowie Anwendungen von Rettungskisten und Kampfruf (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver superato un totale combinato di $1 salvataggi RCP, utilizzi scatola di salvataggio e utilizzi Grido di battaglia (aumento eroismo: $2).
+#. es: 
+#. Se concede por realizar más de $1 reanimaciones, usos de botiquines o gritos de batalla (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfcf620
+#: olang/009c9ea4/0x8caeae/0xfcf720
+#: olang/009c9ea4/0x8caeae/0xfcf820
+msgid ""
+"\n"
+"Awarded for exceeding a combined total of $1 CPR\n"
+"Rescues, Rescue Box Uses, and Battle Cry uses (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour être passé en mode CO-OP plus de $1 fois (héroïsme accru de $2).
+#. de: 
+#. Verliehen für mehr als $1 CO-OP Ins (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver superato $1 CO-OP In (aumento eroismo: $2).
+#. es: 
+#. Se concede por superar $1 CO-OP Ins (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfcf920
+msgid ""
+"\n"
+"Awarded for exceeding $1 CO-OP Ins (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour être passé en mode Snake In plus de $1 fois (héroïsme accru de $2).
+#. de: 
+#. Verliehen für mehr als $1 Snake Ins (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver superato $1 Snake In (aumento eroismo: $2).
+#. es: 
+#. Se concede por superar $1 Snake Ins (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfcfa20
+msgid ""
+"\n"
+"Awarded for exceeding $1 Snake Ins (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour être passé en mode Synchros Snake plus de $1 fois (héroïsme accru de $2).
+#. de: 
+#. Verliehen für mehr als $1 Snake-Synchs (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver superato $1 Sincronizzazioni Snake (aumento eroismo: $2).
+#. es: 
+#. Se concede por realizar la Sincronización Snake $1 veces (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfcfb20
+msgid ""
+"\n"
+"Awarded for exceeding $1 Snake Syncs (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfcfc20
+msgid ""
+"Awarded for sharing weapons/items and having allies use them\n"
+"over $1 times (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfcfd20
+msgid ""
+"Awarded for being in a cardboard box with someone else for\n"
+"at least $1 hours and moving over $3m during that time\n"
+"(Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd1420
+msgid ""
+"Awarded for trading staff over $1 times (Heroism\n"
+"increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd1520
+msgid ""
+"Awarded for generously giving over $1 weapons/items to\n"
+"other players (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir accompli plus de $1% des OUTER OPS (héroïsme accru de $2).
+#. de: 
+#. Verliehen für den Abschluss von mehr als $1% der AUFTRAGS-OPS-Einsätzen (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver completato oltre il $1% delle MISSIONI ESTERNE (aumento eroismo: $2).
+#. es: 
+#. Se concede por completar más del $1% de operaciones exteriores (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfd1920
+#: olang/009c9ea4/0x8caeae/0xfd1a20
+#, c-format
+msgid ""
+"\n"
+"Awarded for completing over $1% of OUTER OPS missions (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir accompli plus de $1 missions (héroïsme accru de $2).
+#. de: 
+#. Verliehen für den Abschluss von mehr als $1 Einsätzen (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver completato oltre $1 missioni (aumento eroismo: $2).
+#. es: 
+#. Se concede por completar más de $1 misiones (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfd1c20
+msgid ""
+"\n"
+"Awarded for completing over $1 missions (Heroism increases $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd1d20
+msgid ""
+"Awarded for tagging over $1 enemies in Enemy Search\n"
+"(Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd3420
+msgid ""
+"Awarded for enduring over $1 hours in a cardboard box\n"
+"(Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd3520
+msgid "Awarded for taking over $1 photos (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir courageusement accompli $1 missions nu (héroïsme accru de $2).
+#. de: 
+#. Verliehen für den tapferen Abschluss von mehr als $1 Einsätzen im unbekleideten Zustand (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver completato nudo $1 missioni (aumento eroismo: $2).
+#. es: 
+#. Se concede por completar valientemente más de $1 misiones desnudo (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfd3620
+msgid ""
+"\n"
+"Awarded for bravely completing $1 missions naked (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd3720
+msgid ""
+"Awarded for sending over $1 CO-OPS messages (Heroism\n"
+"increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir accompli une récupération Fulton sur plus de $1 personnes (héroïsme accru de $2).
+#. de: 
+#. Verliehen für die Durchführung von Fulton-Rettungen bei mehr als $1 Personen (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver eseguito oltre $1 recuperi Fulton (aumento eroismo: $2).
+#. es: 
+#. Se concede por rescatar a más de $1 personas con el sistema Fulton (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfd3820
+#: olang/009c9ea4/0x8caeae/0xfd3920
+#: olang/009c9ea4/0x8caeae/0xfd3a20
+msgid ""
+"\n"
+"Awarded for performing Fulton Recoveries on over $1\n"
+"people (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir récupéré plus de $1 pièces de mechas (héroïsme accru de $2).
+#. de: 
+#. Verliehen für den Erhalt von mehr als $1 Mech-Teilen (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver ottenuto oltre $1 parti di mech (aumento eroismo: $2).
+#. es: 
+#. Se concede por recoger más de $1 piezas de vehículo (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfd3b20
+#: olang/009c9ea4/0x8caeae/0xfd3c20
+msgid ""
+"\n"
+"Awarded for getting over $1 mech parts (Heroism increases $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir chassé plus de $1 monstres (héroïsme accru de $2).
+#. de: 
+#. Verliehen für das Jagen von mehr als $1 Monstern (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver cacciato oltre $1 mostri (aumento eroismo: $2).
+#. es: 
+#. Se concede por cazar más de $1 monstruos (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfd5420
+#: olang/009c9ea4/0x8caeae/0xfd5520
+#: olang/009c9ea4/0x8caeae/0xfd5620
+msgid ""
+"\n"
+"Awarded for hunting over $1 monsters (Heroism increases $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir reçu plus de $1% de tous les insignes (héroïsme accru de $2).
+#. de: 
+#. Verliehen für den Erhalt von mehr als $1% aller Abzeichen (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver ricevuto oltre il $1% di tutti i distintivi (aumento eroismo: $2).
+#. es: 
+#. Se concede por recibir más del $1% de las insignias (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfd5720
+#: olang/009c9ea4/0x8caeae/0xfd5820
+#, c-format
+msgid ""
+"\n"
+"Awarded for receiving over $1% of all insignias (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir reçu plus de $1% de tous les titres (héroïsme accru de $2).
+#. de: 
+#. Verliehen für den Erhalt von mehr als $1% aller Titel (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver ricevuto il $1% di tutti i titoli (aumento eroismo: $2).
+#. es: 
+#. Se concede por recibir más del $1% de los nombres en clave (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfd5a20
+#: olang/009c9ea4/0x8caeae/0xfd5b20
+#, c-format
+msgid ""
+"\n"
+"Awarded for receiving $1% of all codenames (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir livré plus de $1 matchs en mode versus (héroïsme accru de $2).
+#. de: 
+#. Verliehen für das Spielen von mehr als $1 VS-Partien (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver giocato oltre $1 partite VS (aumento eroismo: $2).
+#. es: 
+#. Se concede por jugar más de $1 combates de enfrentamiento (el heroísmo aumenta $2). 
+#: olang/009c9ea4/0x8caeae/0xfd9b20
+#: olang/009c9ea4/0x8caeae/0xfd9c20
+#: olang/009c9ea4/0x8caeae/0xfd9d20
+msgid ""
+"\n"
+"Awarded for playing over $1 VS matches (Heroism increases by $2). "
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir gagné plus de $1 matchs (héroïsme accru de $2).
+#. de: 
+#. Verliehen für den Sieg in mehr als $1 VS-Partien (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver vinto oltre $1 partite VS (aumento eroismo: $2).
+#. es: 
+#. Se concede por ganar más de $1 combates de enfrentamiento (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfdb720
+#: olang/009c9ea4/0x8caeae/0xfdb820
+#: olang/009c9ea4/0x8caeae/0xfdb920
+msgid ""
+"\n"
+"Awarded for winning over $1 VS matches (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir gagné plus de $1 matchs selon les règles du match à mort (héroïsme accru de $2).
+#. de: 
+#. Verliehen für den Sieg in mehr als $1 Partien nach Deathmatch-(DM)-Regeln (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver vinto $1 partite con le regole Deathmatch (DM) (aumento eroismo: $2).
+#. es: 
+#. Se concede por ganar $1 combates a vida o muerte (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfdbd20
+msgid ""
+"\n"
+"Awarded for winning $1 matches under Deathmatch (DM) rules (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir gagné plus de $1 matchs selon les règles du match à mort par équipe (héroïsme accru de $2).
+#. de: 
+#. Verliehen für den Sieg in mehr als $1 Partien nach Team-Deathmatch-(TDM)-Regeln (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver vinto $1 partite con le regole Deathmatch a squadre (DMS) (aumento eroismo: $2).
+#. es: 
+#. Se concede por ganar $1 combates a vida o muerte por equipos (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfdd420
+msgid ""
+"\n"
+"Awarded for winning $1 matches under Team Deathmatch (TDM) rules (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir gagné plus de $1 matchs selon les règles de base (héroïsme accru de $2).
+#. de: 
+#. Verliehen für den Sieg in mehr als $1 Partien nach Basis-Regeln (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver vinto $1 partite con le regole Basi (BASI) (aumento eroismo: $2).
+#. es: 
+#. Se concede por ganar $1 misiones de Base (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfdd520
+msgid ""
+"\n"
+"Awarded for winning $1 matches under Base (BASE) rules (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir gagné plus de $1 matchs selon les règles de capture (héroïsme accru de $2).
+#. de: 
+#. Verliehen für den Sieg in mehr als $1 Partien nach Fang-Regeln (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver vinto $1 partite con le regole Cattura (CAT) (aumento eroismo: $2).
+#. es: 
+#. Se concede por ganar $1 misiones de Captura (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfdd620
+msgid ""
+"\n"
+"Awarded for winning $1 matches under Capture (CAP) rules (Heroism increases by $2)."
+msgstr ""
+
+#. fr: 
+#. Décoré pour avoir tué, endormi et assommé plus de $1 fois en VS (héroïsme accru de $2).
+#. de: 
+#. Verliehen für mehr als $1 Kills, K.o.s und durch Schlaf ausgeschaltete Gegner in VS-Spielen (Heroismus steigt um $2).
+#. it: 
+#. Assegnato per aver eseguito oltre $1 eliminazioni, narcotizzazioni e stordimenti in VS (aumento eroismo: $2).
+#. es: 
+#. Se concede por matar, dormir o dejar inconsciente más de $1 veces en combates de enfrentamiento (el heroísmo aumenta $2).
+#: olang/009c9ea4/0x8caeae/0xfdd720
+#: olang/009c9ea4/0x8caeae/0xfdd820
+#: olang/009c9ea4/0x8caeae/0xfdd920
+msgid ""
+"\n"
+"Awarded for performing over $1 kills, sleeps,\n"
+"and knockouts in VS (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x0a01f4
+msgid "\"MGS-PW\" Main Theme"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x1a01f4
+msgid "ZERO ALLIES!"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x2a01f4
+msgid "Outer Heaven"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x3a01f4
+msgid "KOI NO YOKUSHI-RYOKU (Acoustic Guitar Duo)"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x4a01f5
+msgid "Confession"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x4a01f7
+msgid "Destiny's Call"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x5a01f5
+msgid "Enclosure"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x5a01f7
+msgid "Beyond the Bounds"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x6a01f5
+msgid "Everything Begins"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x6a01f7
+msgid "Snake Eater"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x7a01f5
+msgid "Love Theme"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x7a01f7
+msgid "Calling to the Night"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x8a01f5
+msgid "View of Deep Snow"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x8a01f7
+msgid "Raxa"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x9a01f5
+msgid "MG20YearsHistory 1"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x9a01f7
+msgid "Inori-no-Uta"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0xaa01f5
+msgid "MG20YearsHistory 2"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0xba01f5
+msgid "MG20YearsHistory 3"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0xca01f3
+msgid "KOI NO YOKUSHI-RYOKU"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0xca01f5
+msgid "MG20YearsHistory 4"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0xda01f3
+msgid "Sneak 1"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0xda01f5
+msgid "Show Time"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0xea01f3
+msgid "Sneak 2"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0xfa01f3
+msgid "HEAVENS DIVIDE"
+msgstr ""
+
+#. fr: Verrouillage désengagé.
+#. de: Sperre gelöst.
+#. it: Blocco disattivato.
+#. es: Seguro desbloqueado.
+#: olang/009c9ea4/0x903077/0x000000
+#: olang/009c9ea4/0x903077/0x000010
+#: olang/009c9ea4/0xbc4a75/0x000000
+#: olang/009c9ea4/0xbc4a75/0x000025
+#: olang/009c9ea4/0xe34675/0x000000
+#: olang/009c9ea4/0xe34675/0x000012
+#: olang/009c9ea4/0xe9cbf5/0x000000
+#: olang/009c9ea4/0xe9cbf5/0x00000e
+msgid "Lock disengaged."
+msgstr ""
+
+#. fr: Décharge maximum.
+#. de: Schock-Maximum erreicht.
+#. it: Livello scarica al massimo.
+#. es: Descarga al máximo.
+#: olang/009c9ea4/0x903077/0x000001
+msgid "Shock output at maximum!"
+msgstr ""
+
+#. fr: Verrouillage cible.
+#. de: Ziel erfasst.
+#. it: Bersaglio agganciato.
+#. es: Objetivo fijado.
+#: olang/009c9ea4/0x903077/0x000002
+msgid "Target locked!"
+msgstr ""
+
+#. fr: Engager les unités de décharge électrique.
+#. de: Starte Schockeinheiten.
+#. it: Attivazione unità scarica.
+#. es: Activación de unidades de descarga.
+#: olang/009c9ea4/0x903077/0x000003
+msgid "Engaging shock units!"
+msgstr ""
+
+#. fr: Allumage des fusées.
+#. de: Feuere Booster ab.
+#. it: Attivazione razzi.
+#. es: Iniciando potenciadores.
+#: olang/009c9ea4/0x903077/0x000004
+msgid "Firing boosters!"
+msgstr ""
+
+#. fr: Commencer le saut.
+#. de: Führe Sprung aus.
+#. it: Inizio salto.
+#. es: Iniciando salto.
+#: olang/009c9ea4/0x903077/0x000005
+msgid "Commencing jump!"
+msgstr ""
+
+#. fr: Réengager la cible.
+#. de: Ziel wird erneut angegriffen.
+#. it: Ingaggio nuovamente il bersaglio.
+#. es: Volviendo a atacar objetivo.
+#: olang/009c9ea4/0x903077/0x000006
+msgid "Re-engaging target!"
+msgstr ""
+
+#. fr: Auto-réparation terminée. Réinitialisation en cours.
+#. de: Reparatur abgeschlossen. Reinitialisierung.
+#. it: Autoriparazione completata. Riattivazione.
+#. es: Autorreparación completa. Reiniciando.
+#: olang/009c9ea4/0x903077/0x000007
+msgid "Auto-repair complete. Reinitializing."
+msgstr ""
+
+#. fr: Il est temps pour toi de mourir !
+#. de: Es wird Zeit, zu STERBEN!
+#. it: È arrivata la tua ora!
+#. es: ¡Es hora de morir!
+#: olang/009c9ea4/0x903077/0x000011
+msgid "Time for you to DIE!"
+msgstr ""
+
+#. fr: Tu crois que je vais te laisser t'enfuir ?
+#. de: Glaubst du, du kannst entkommen?!
+#. it: Credi che ti lascerò andare?!
+#. es: ¿Crees que te dejaré huir?
+#. it: Credi che ti lascerò andare?
+#: olang/009c9ea4/0x903077/0x000012
+#: olang/009c9ea4/0xe9cbf5/0x000010
+msgid "You think I'll let you get away?!"
+msgstr ""
+
+#. fr: Meurs !
+#. de: Stirb!
+#. it: Muori!
+#. es: ¡Muere!
+#: olang/009c9ea4/0x903077/0x000013
+#: olang/009c9ea4/0xbc4a75/0x00002c
+#: olang/009c9ea4/0xe9cbf5/0x000011
+msgid "Die!"
+msgstr ""
+
+#. fr: Je t'écraserai comme un insecte !
+#. de: Ich zerquetsche dich wie ein Insekt!
+#. it: Ti schiaccerò come un insetto!
+#. es: ¡Te aplastaré como a un insecto!
+#: olang/009c9ea4/0x903077/0x000015
+msgid "I'll crush you like an insect!"
+msgstr ""
+
+#. fr: Allez.
+#. de: Dann mal los.
+#. it: Forza.
+#. es: Adelante.
+#: olang/009c9ea4/0x903077/0x000016
+#: olang/009c9ea4/0xbc4a75/0x000046
+msgid "Bring it on!"
+msgstr ""
+
+#. fr: Ce n'est pas encore fini !
+#. de: Es ist noch nicht vorbei!
+#. it: Non è ancora finita!
+#. es: ¡Esto aún no se ha acabado!
+#. fr: Ce n'est pas encore terminé !
+#: olang/009c9ea4/0x903077/0x000017
+#: olang/009c9ea4/0xbc4a75/0x000026
+#: olang/009c9ea4/0xe9cbf5/0x00000f
+msgid "It's not over yet!"
+msgstr ""
+
+#. fr: ANNULER : <I=COOPS_CANCEL>
+#. de: ABBRECHEN: <I=COOPS_CANCEL>
+#. it: ANNULLA: <I=COOPS_CANCEL>
+#. es: CANCELAR: <I=COOPS_CANCEL>
+#: olang/009c9ea4/0x995528/0x945cab
+msgid "CANCEL: <I=COOPS_CANCEL>"
+msgstr ""
+
+#. fr: Quitter sans enregistrer votre mot de passe ?
+#. de: Fortfahren, ohne das Passwort zu ändern?
+#. it: Tornare indietro? Le modifiche non verranno salvate.
+#. es: ¿Quieres salir sin guardar tu contraseña?
+#: olang/009c9ea4/0x9b86ab/0x0198da
+msgid "不修改密码就离开吗？"
+msgstr ""
+
+#. fr: Une fois saisi, votre nom de joueur ne pourra pas être modifié.
+#. de: Nach der Eingabe, kann dieser nicht mehr geändert werden.
+#. it: Una volta inserito, non potrà essere cambiato.
+#. es: Una vez introducido, no podrá cambiarse.
+#: olang/009c9ea4/0x9b86ab/0x3020bc
+msgid "玩家名一经确定便无法更改。"
+msgstr ""
+
+#. fr: Le nom est trop court.
+#. Veuillez entrer un nom de plus de %d caractères.
+#. de: Der eingegebene Name ist zu kurz.
+#. Bitte geben Sie mehr als %d Zeichen ein.
+#. it: Nome troppo corto.
+#. Inserisci almeno %d caratteri.
+#. es: Nombre demasiado corto. 
+#. Introduce %d o más caracteres.
+#: olang/009c9ea4/0x9b86ab/0x3f2c7b
+#: olang/009c9ea4/0x9b86ab/0x5f42b2
+#, c-format
+msgid ""
+"所选名称过短。\n"
+"请输入长度超过 %d 个字符的名称。"
+msgstr ""
+
+#. fr: Retourner à l'écran-titre ?
+#. de: Zum Titelmenü zurückkehren?
+#. it: Tornare al menu dei titoli?
+#. es: ¿Regresar al menú de título?
+#: olang/009c9ea4/0x9b86ab/0x4c248f
+msgid "返回标题画面吗？"
+msgstr ""
+
+#. fr: Entrez votre nom de joueur.
+#. de: Geben Sie den Spielernamen ein.
+#. it: Inserisci il nome giocatore.
+#. es: Escribe tu nombre de jugador.
+#: olang/009c9ea4/0x9b86ab/0x518104
+msgid "请输入玩家名。"
+msgstr ""
+
+#. fr: Modifiez votre mot de passe.
+#. de: Bitte ändern Sie Ihr Passwort.
+#. it: Modifica la password.
+#. es: Modifica tu contraseña.
+#: olang/009c9ea4/0x9b86ab/0x51eea1
+msgid "请修改密码。"
+msgstr ""
+
+#. fr: Ce nom contient des mots qui ne peuvent pas être utilisés dans ce jeu.
+#. de: Der eingegebene Name enthält Begriffe, die in diesem
+#. Spiel nicht verwendet werden können.
+#. it: Il nome include caratteri non utilizzabili.
+#. es: Has introducido caracteres no permitidos.
+#: olang/009c9ea4/0x9b86ab/0x75bf6e
+msgid "其中包含本游戏无法使用的字词。"
+msgstr ""
+
+#: olang/009c9ea4/0x9c12db/0xc34caa
+msgid "確認"
+msgstr ""
+
+#. fr: Sensibilité de la molette de la souris
+#. de: Empfindlichkeit des Mausrads
+#. it: Sensibilità della rotella del mouse
+#. es: Sensibilidad de la rueda de desplazamiento del ratón
+#: olang/009c9ea4/0x9dc379/0x25a1d5
+msgid "Scroll Wheel Sensitivity"
+msgstr ""
+
+#. fr: Volume général
+#. it: Volume generale
+#. es: Volumen general
+#: olang/009c9ea4/0x9dc379/0x3b53a8
+msgid "Master Volume"
+msgstr ""
+
+#. fr: Sensibilité de la caméra (souris)
+#. de: Mausempfindlichkeit bei Kamerabewegung
+#. it: Sensibilità mouse movimento visuale
+#. es: Sensibilidad del ratón al mover la cámara
+#: olang/009c9ea4/0x9dc379/0x7bfe8a
+msgid "Mouse camera sensitivity"
+msgstr ""
+
+#. fr: Mode fenêtré
+#. de: Fenstermodus
+#. it: Modalità in finestra
+#. es: Modo Ventana
+#: olang/009c9ea4/0x9dc379/0x87fa9e
+msgid "Windowed Mode"
+msgstr ""
+
+#. fr: Taille de la fenêtre
+#. de: Fenstergröße
+#. it: Dimensioni finestra
+#. es: Tamaño de ventana
+#: olang/009c9ea4/0x9dc379/0x8ae55e
+msgid "Window Size"
+msgstr ""
+
+#. fr: Sous-titres des cinématiques
+#. de: Untertitel für Zwischensequenzen
+#. it: Sottotitoli filmati
+#. es: Subtítulos de escenas
+#: olang/009c9ea4/0x9dc379/0xa4e438
+msgid "Cutscene Subtitles"
+msgstr ""
+
+#. fr: Sélection de l'écran
+#. de: Bildschirmauswahl
+#. it: Scegli monitor
+#. es: Selección de pantalla
+#: olang/009c9ea4/0x9dc379/0xb85e9e
+msgid "Select Display"
+msgstr ""
+
+#. fr: Sensibilité de la visée (souris)
+#. de: Mausempfindlichkeit beim Zielen
+#. it: Sensibilità mouse durante puntamento
+#. es: Sensibilidad del ratón al apuntar
+#: olang/009c9ea4/0x9dc379/0xd8d175
+msgid "Mouse aim sensitivity"
+msgstr ""
+
+#. fr: Type de contrôle clavier et souris
+#. de: Tastatur- und Maus-Steuerung
+#. it: Tipo di mouse e tastiera
+#. es: Tipo de controles del teclado y ratón
+#: olang/009c9ea4/0x9dc379/0xe4fc23
+msgid "Keyboard & Mouse control type"
+msgstr ""
+
+#. fr: Type de contrôle manette
+#. de: Controller-Steuerung
+#. it: Tipo di controller
+#. es: Tipo de controles del mando
+#: olang/009c9ea4/0x9dc379/0xfb08d5
+msgid "Controller control type"
+msgstr ""
+
+#. fr: Le multijoueur en ligne n'est pas accessible depuis ici.
+#. de: Sie können von hier aus nicht am Online-Multiplayer teilnehmen.
+#. it: Non puoi accedere al multigiocatore online da qui.
+#. es: No podrás participar en partidas multijugador online a partir de aquí.
+#: olang/009c9ea4/0xa21c43/0xbce4f4
+#: olang/009c9ea4/0xa21c43/0xbce4f5
+#: olang/009c9ea4/0xa21c43/0xbce4f6
+#: olang/009c9ea4/0xa21c43/0xbce4f7
+msgid "You cannot access online multiplayer from here."
+msgstr ""
+
+#. fr: Rejoindre la session multijoueur en ligne à partir de l'invitation récente ?
+#. de: Möchten Sie der gerade erhaltenen Einladung zum Online-Multiplayer folgen?
+#. it: Tornare alla sessione multigiocatore online a cui sei stato invitato in precedenza?
+#. es: ¿Quieres proseguir a la partida multijugador online de la invitación recibida?
+#: olang/009c9ea4/0xa21c43/0xbce4f8
+msgid "Proceed to online multiplayer session from recent invite?"
+msgstr ""
+
+#. fr: Rejoindre la session multijoueur en ligne précédemment tentée ?
+#. de: Möchten Sie zur Online-Multiplayer-Sitzung wechseln, die Sie gerade betreten wollten?
+#. it: Tornare alla sessione multigiocatore online a cui volevi accedere in precedenza?
+#. es: ¿Quieres proseguir a la partida multijugador online a la que intentaste acceder?
+#: olang/009c9ea4/0xa21c43/0xbce4f9
+msgid "Proceed to previously attempted online multiplayer session?"
+msgstr ""
+
+#. fr: Lancement de la session multijoueur. Retour à l’écran titre.
+#. de: Es wird zum Titelmenü zurückgekehrt, um das Multiplayer-Spiel zu starten.
+#. it: Avvio sessione multiplayer. Tornerai al menu dei titoli.
+#. es: Para empezar la partida multijugador en línea, el juego regresará al menú de título por un momento.
+#: olang/009c9ea4/0xa21c43/0xbce4fa
+#: olang/009c9ea4/0xa21c43/0xbce4fb
+msgid "Returning to title screen to commence multiplayer session."
+msgstr ""
+
+#. fr: En appuyant sur <I=PAUSE>, la fenêtre de menu s'ouvre.
+#. de: Wenn Sie die <I=PAUSE> drücken, öffnet sich das Menü-Fenster.
+#. it: Premendo <I=PAUSE> si aprirà la schermata del menu.
+#. es: Pulsa el <I=PAUSE> para abrir la ventana del menú.
+#: olang/009c9ea4/0xa270a1/0x008b10
+msgid "Pushing <I=PAUSE> will open the menu window."
+msgstr ""
+
+#. fr:  Échec de la connexion à l'HÔTE.
+#. de: Verbindung zum HOST fehlgeschlagen.
+#. it: Connessione all'HOST fallita.
+#. es: La conexión con el anfitrión ha fallado.
+#: olang/009c9ea4/0xa30793/0xff8afb
+msgid "Connection to the HOST has failed."
+msgstr ""
+
+#. fr: Tes données de sauvegarde ne te permettent pas de jouer
+#. en multijoueur en ligne. Avant de pouvoir accéder au multijoueur
+#. en ligne, tu dois avoir des données de sauvegarde d'une partie
+#. où la mission du début a été réussie.
+#. de: Mit Ihrer aktuellen Speicherdatei können Sie kein Online-Multiplayer spielen.
+#. Um Online-Multiplayer zu spielen, benötigen Sie eine Speicherdatei mit erfolgreich abgeschlossener Anfangsmission.
+#. it: Nei dati salvati usati in precedenza
+#. la missione iniziale non era stata completata.
+#. Per giocare in multigiocatore online, devi avere dei dati salvati in cui la missione iniziale è stata completata.
+#. es: Tus datos guardados no te permiten jugar al modo multijugador en línea.
+#. Antes de poder jugar al modo multijugador en línea, debes tener datos guardados de una partida en la que hayas
+#. completado la primera misión.
+#: olang/009c9ea4/0xa49217/0x5a12d1
+msgid ""
+"You do not have the type of saved data that allows you\n"
+"to play online multiplayer.\n"
+"Before you can play online multiplayer, you must have saved data\n"
+"from a game in which you cleared the opening mission."
+msgstr ""
+
+#. fr: Enlever
+#. de: Wegwerfen
+#. it: Scarta
+#. es: Desechar
+#: olang/009c9ea4/0xa69279/0x7c7241
+#: olang/009c9ea4/0xb4465d/0x3c54c6
+msgid "Discard"
+msgstr ""
+
+#. fr: Tu peux utiliser les fonctionnalités en ligne pour recruter des partenaires d'échange à travers le monde.
+#. Sélectionne le type d'invitation.
+#. de: Indem Sie sich online verbinden, können Sie Handelspartner in der ganzen Welt finden.
+#. Wählen Sie die Art der Einladung aus.
+#. it: Puoi trovare giocatori con cui eseguire scambi in tutto il mondo connettendoti online.
+#. Seleziona il tipo di invito.
+#. es: Puedes reclutar compañeros de intercambio de todo el mundo usando las funciones online. 
+#. Selecciona el tipo de invitación.
+#: olang/009c9ea4/0xb39048/0xf4816f
+msgid ""
+"You can recruit trade partners worldwide online.\n"
+"Select the type of invitation."
+msgstr ""
+
+#. fr: Supprimer carte:<I=DEC>
+#. de: Entferne Speicherplatine:<I=DEC>
+#. it: Rimuovi scheda:<I=DEC>
+#. es: Extraer placa: <I=DEC>
+#: olang/009c9ea4/0xb4becf/0x3df22b
+msgid "Remove Board:<I=DEC>"
+msgstr ""
+
+#. fr: En attente du partenaire pour l'échange…
+#. 
+#. INVITER :<I=□>
+#. de: Auf den Tauschpartner warten…
+#. 
+#. EINLADEN:<I=□>
+#. it: Attesa compagno di scambio…
+#. 
+#. INVITA:<I=□>
+#. es: Esperando al socio del intercambio...
+#. 
+#. INVITAR:<I=□>
+#: olang/009c9ea4/0xb767d9/0xc03b74
+#: olang/009c9ea4/0xb767d9/0xd9422f
+msgid ""
+"Waiting for trading partner…\n"
+"\n"
+"INVITE:<I=□>"
+msgstr ""
+
+#. fr: Ton partenaire et toi avez terminé la sélection du personnel.
+#. Après avoir confirmé le personnel à échanger, sélectionne OK.
+#. de: Sie und Ihr Partner haben Personal ausgewählt.
+#. Wählen Sie OK aus, nachdem Sie das zu tauschende Personal überprüft haben.
+#. it: Sia tu che il tuo compagno avete completato la selezione dello staff.
+#. Dopo aver completato lo staff da scambiare, seleziona OK.
+#. es: Tú y tu socio habéis terminado de seleccionar el personal.
+#. Después de confirmar el personal que quieres intercambiar, selecciona Aceptar.
+#: olang/009c9ea4/0xb767d9/0xf433ef
+msgid ""
+"Both you and your partner have completed staff selection.\n"
+"After confirming the staff to be traded, select OK."
+msgstr ""
+
+#. fr: Réinitialisation de la plateforme.
+#. de: Plattform wird reinitialisiert.
+#. it: Riattivazione piattaforma.
+#. es: Reiniciando plataforma.
+#: olang/009c9ea4/0xbc4a75/0x000001
+msgid "Reinitializing platform."
+msgstr ""
+
+#. fr: Système d'auto-défense en ligne.
+#. de: Selbstverteidigungssystem aktiv.
+#. it: Sistema di autodifesa attivato.
+#. es: Sistema de autodefensa activado.
+#: olang/009c9ea4/0xbc4a75/0x000002
+msgid "Self-defense system online."
+msgstr ""
+
+#. fr: Passage en mode auto-défense.
+#. de: Wechsle in den Selbstverteidigungsmodus.
+#. it: Passaggio a modalità autodifesa.
+#. es: Pasando a modo de autodefensa.
+#: olang/009c9ea4/0xbc4a75/0x000003
+msgid "Switching to self-defense mode."
+msgstr ""
+
+#. fr: Lance-flammes engagé.
+#. de: Flammenwerfer aktiv.
+#. it: Lanciafiamme attivato.
+#. es: Lanzallamas iniciado.
+#: olang/009c9ea4/0xbc4a75/0x000004
+msgid "Flamethrower engaged."
+msgstr ""
+
+#. fr: Lancement de mines S.
+#. de: Lege S-Minen.
+#. it: Lancio mina S.
+#. es: Lanzando minas S.
+#: olang/009c9ea4/0xbc4a75/0x000005
+msgid "Launching S mines."
+msgstr ""
+
+#. fr: Tir de lance-roquette.
+#. de: Feuere Raketenwerfer ab.
+#. it: Attivazione lanciarazzi.
+#. es: Lanzando misil.
+#: olang/009c9ea4/0xbc4a75/0x000006
+msgid "Firing rocket launcher."
+msgstr ""
+
+#. fr: Tir de missiles fouisseurs.
+#. de: Feuere Bohrerraketen ab.
+#. it: Lancio missili perforanti.
+#. es: Lanzando misiles taladradores.
+#: olang/009c9ea4/0xbc4a75/0x000007
+msgid "Firing drill missiles."
+msgstr ""
+
+#. fr: Impulsion EM au maximum.
+#. de: EM-Puls-Maximum erreicht.
+#. it: Impulso EM al massimo.
+#. es: Pulso EM al máximo.
+#: olang/009c9ea4/0xbc4a75/0x000009
+msgid "EM pulse at maximum."
+msgstr ""
+
+#. fr: Moteur de jambe en charge.
+#. de: Beinantriebsmotor wird geladen.
+#. it: Motore propulsione gamba in fase di carica.
+#. es: Cargando motor de pierna.
+#: olang/009c9ea4/0xbc4a75/0x00000a
+msgid "Leg drive motor charging."
+msgstr ""
+
+#. fr: Mode saut engagé.
+#. de: Sprungmodus aktiv.
+#. it: Attivazione modalità salto.
+#. es: Modo de salto activado.
+#: olang/009c9ea4/0xbc4a75/0x00000b
+msgid "Jump engaged."
+msgstr ""
+
+#. fr: Initialisation de la séquence de tir nucléaire.
+#. de: Initialisiere atomare Zündsequenz.
+#. it: Avvio sequenza lancio nucleare.
+#. es: Iniciando secuencia de lanzamiento nuclear.
+#: olang/009c9ea4/0xbc4a75/0x00000c
+msgid "Initializing nuclear launch sequence."
+msgstr ""
+
+#. fr: Angle de tir établi.
+#. de: Abschusswinkel eingestellt.
+#. it: Angolo di lancio impostato.
+#. es: Ángulo de lanzamiento determinado.
+#: olang/009c9ea4/0xbc4a75/0x00000d
+msgid "Launch angle set."
+msgstr ""
+
+#. fr: Ouverture du sabord de missile.
+#. de: Öffne Raketenluke.
+#. it: Apertura portello missile.
+#. es: Abriendo compuerta del misil.
+#: olang/009c9ea4/0xbc4a75/0x00000e
+msgid "Opening missile hatch."
+msgstr ""
+
+#. fr: Pré-allumage déclenché.
+#. de: Leite Zündung ein.
+#. it: Inizio pre-accensione.
+#. es: Iniciando preignición.
+#: olang/009c9ea4/0xbc4a75/0x00000f
+msgid "Commencing pre-ignition."
+msgstr ""
+
+#. de: 10 ...
+#. es: ¡10!
+#: olang/009c9ea4/0xbc4a75/0x000010
+msgid "10..."
+msgstr ""
+
+#. de: 9 ...
+#. es: ¡9!
+#: olang/009c9ea4/0xbc4a75/0x000011
+msgid "9..."
+msgstr ""
+
+#. de: 8 ...
+#. es: ¡8!
+#: olang/009c9ea4/0xbc4a75/0x000012
+msgid "8..."
+msgstr ""
+
+#. de: 7 ...
+#. es: ¡7!
+#: olang/009c9ea4/0xbc4a75/0x000013
+msgid "7..."
+msgstr ""
+
+#. de: 6 ...
+#. es: ¡6!
+#: olang/009c9ea4/0xbc4a75/0x000014
+msgid "6..."
+msgstr ""
+
+#. de: 5 ...
+#. es: ¡5!
+#: olang/009c9ea4/0xbc4a75/0x000015
+msgid "5..."
+msgstr ""
+
+#. de: 4 ...
+#. es: ¡4!
+#: olang/009c9ea4/0xbc4a75/0x000016
+msgid "4..."
+msgstr ""
+
+#. de: 3 ...
+#. es: ¡3!
+#: olang/009c9ea4/0xbc4a75/0x000017
+msgid "3..."
+msgstr ""
+
+#. de: 2 ...
+#. es: ¡2!
+#: olang/009c9ea4/0xbc4a75/0x000018
+msgid "2..."
+msgstr ""
+
+#. de: 1 ...
+#. es: ¡1!
+#: olang/009c9ea4/0xbc4a75/0x000019
+msgid "1..."
+msgstr ""
+
+#. fr: ... Lancement.
+#. de: ... Zündung.
+#. it: ...Lancio.
+#. es: Lanzamiento.
+#: olang/009c9ea4/0xbc4a75/0x00001a
+msgid "... Launch."
+msgstr ""
+
+#. fr: Trois minutes avant lancement !
+#. de: Drei Minuten bis zur Zündung!
+#. it: Tre minuti al lancio.
+#. es: ¡Tres minutos para el lanzamiento!
+#: olang/009c9ea4/0xbc4a75/0x00001b
+#: olang/009c9ea4/0xbc4a75/0x000040
+msgid "Three minutes to launch!"
+msgstr ""
+
+#. fr: Une minute avant lancement !
+#. de: Eine Minute bis zur Zündung!
+#. it: Un minuto al lancio!
+#. es: ¡Un minuto para el lanzamiento!
+#: olang/009c9ea4/0xbc4a75/0x00001c
+#: olang/009c9ea4/0xbc4a75/0x000041
+msgid "One minute to launch!"
+msgstr ""
+
+#. fr: Trente secondes avant lancement !
+#. de: Dreißig Sekunden bis zur Zündung!
+#. it: Trenta secondi al lancio!
+#. es: ¡Treinta segundos para el lanzamiento!
+#: olang/009c9ea4/0xbc4a75/0x00001d
+#: olang/009c9ea4/0xbc4a75/0x000042
+msgid "Thirty seconds to launch!"
+msgstr ""
+
+#. fr: Dégâts critiques à la jambe.
+#. de: Kritische Beinschäden.
+#. it: Rilevato danno critico alla gamba.
+#. es: Daño crítico en la pierna.
+#: olang/009c9ea4/0xbc4a75/0x00001e
+#: olang/009c9ea4/0xbc4a75/0x000043
+msgid "Leg damage critical!"
+msgstr ""
+
+#. fr: Conteneur d'arme détruit.
+#. de: Waffenbehälter zerstört.
+#. it: Compartimento armi distrutto.
+#. es: Contenedor de armas destruido.
+#: olang/009c9ea4/0xbc4a75/0x00001f
+#: olang/009c9ea4/0xbc4a75/0x000044
+msgid "Weapon container destroyed!"
+msgstr ""
+
+#. fr: Tu es plus fort...
+#. de: Du bist stärker geworden ...
+#. it: Sei più forte...
+#. es: Te has vuelto más fuerte.
+#: olang/009c9ea4/0xbc4a75/0x000020
+#: olang/009c9ea4/0xbc4a75/0x000045
+msgid "You've gotten stronger..."
+msgstr ""
+
+#. fr: Affronte-moi !
+#. de: Stelle dich!
+#. it: Affrontami!
+#. es: ¡Enfréntame!
+#: olang/009c9ea4/0xbc4a75/0x000021
+msgid "Face me!"
+msgstr ""
+
+#. fr: Système d'auto-défense en ligne !
+#. de: Selbstverteidigungssystem aktiv!
+#. it: Sistema di autodifesa attivato!
+#. es: ¡Sistema de autodefensa activado!
+#: olang/009c9ea4/0xbc4a75/0x000027
+msgid "Self-defense system online!"
+msgstr ""
+
+#. fr: Passage en mode auto-défense !
+#. de: Wechsle in den Selbstverteidigungsmodus!
+#. it: Passaggio a modalità autodifesa!
+#. es: ¡Pasando a modo de autodefensa!
+#: olang/009c9ea4/0xbc4a75/0x000028
+msgid "Switching to self-defense mode!"
+msgstr ""
+
+#. fr: Lance-flammes !
+#. de: Flammenwerfer!
+#. it: Lanciafiamme!
+#. es: ¡Lanzallamas!
+#: olang/009c9ea4/0xbc4a75/0x000029
+msgid "Flamethrower!"
+msgstr ""
+
+#. fr: Regarde si c'est à ton goût !
+#. de: Probier das mal!
+#. it: Prova con questo!
+#. es: ¡Pruébate esto, a ver si es de tu talla!
+#: olang/009c9ea4/0xbc4a75/0x00002a
+msgid "Try this on for size!"
+msgstr ""
+
+#. fr: Est-ce que tu aimes ça ?
+#. de: Wie gefällt dir das?
+#. it: Che ne dici di questo?
+#. es: ¡Espero que te guste!
+#: olang/009c9ea4/0xbc4a75/0x00002b
+msgid "How do you like this?"
+msgstr ""
+
+#. fr: Rayon empoisonné !
+#. de: Giftstrahl!
+#. it: Raggio velenoso!
+#. es: ¡Rayo de veneno!
+#: olang/009c9ea4/0xbc4a75/0x00002d
+msgid "Poison beam!"
+msgstr ""
+
+#. fr: Impulsion EM au maximum !
+#. de: EM-Puls-Maximum erreicht!
+#. it: Impulso EM al massimo!
+#. es: ¡Pulso EM al máximo!
+#: olang/009c9ea4/0xbc4a75/0x00002e
+msgid "EM pulse at maximum!"
+msgstr ""
+
+#. fr: Moteur de jambe en charge !
+#. de: Beinantriebsmotor wird geladen!
+#. it: Motore propulsione gamba in fase di carica!
+#. es: ¡Cargando motor de pierna!
+#: olang/009c9ea4/0xbc4a75/0x00002f
+msgid "Leg drive motor charging!"
+msgstr ""
+
+#. fr: Mode saut engagé !
+#. de: Sprungmodus aktiv!
+#. it: Attivazione modalità salto!
+#. es: ¡Modo de salto activado!
+#: olang/009c9ea4/0xbc4a75/0x000030
+msgid "Jump engaged!"
+msgstr ""
+
+#. fr: Initialisation de la séquence de tir nucléaire !
+#. de: Initialisiere atomare Zündsequenz!
+#. it: Avvio sequenza lancio nucleare!
+#. es: ¡Iniciando secuencia de lanzamiento nuclear!
+#: olang/009c9ea4/0xbc4a75/0x000031
+msgid "Initializing nuclear launch sequence!"
+msgstr ""
+
+#. fr: Angle de tir établi !
+#. de: Abschusswinkel eingestellt!
+#. it: Angolo di lancio impostato!
+#. es: ¡Ángulo de lanzamiento determinado!
+#: olang/009c9ea4/0xbc4a75/0x000032
+msgid "Launch angle set!"
+msgstr ""
+
+#. fr: Ouverture du sabord de missile !
+#. de: Öffne Raketenluke!
+#. it: Apertura portello missile!
+#. es: ¡Abriendo compuerta del misil!
+#: olang/009c9ea4/0xbc4a75/0x000033
+msgid "Opening missile hatch!"
+msgstr ""
+
+#. fr: Pré-allumage déclenché !
+#. de: Leite Zündung ein!
+#. it: Inizio pre-accensione!
+#. es: ¡Iniciando preignición!
+#: olang/009c9ea4/0xbc4a75/0x000034
+msgid "Commencing pre-ignition!"
+msgstr ""
+
+#. fr: 10...
+#. de: 10 ...
+#. it: 10...
+#. es: ¡10!
+#: olang/009c9ea4/0xbc4a75/0x000035
+msgid "10!"
+msgstr ""
+
+#. fr: 9...
+#. de: 9 ...
+#. it: 9...
+#. es: ¡9!
+#: olang/009c9ea4/0xbc4a75/0x000036
+msgid "9!"
+msgstr ""
+
+#. fr: 8...
+#. de: 8 ...
+#. it: 8...
+#. es: ¡8!
+#: olang/009c9ea4/0xbc4a75/0x000037
+msgid "8!"
+msgstr ""
+
+#. fr: 7...
+#. de: 7 ...
+#. it: 7...
+#. es: ¡7!
+#: olang/009c9ea4/0xbc4a75/0x000038
+msgid "7!"
+msgstr ""
+
+#. fr: 6...
+#. de: 6 ...
+#. it: 6...
+#. es: ¡6!
+#: olang/009c9ea4/0xbc4a75/0x000039
+msgid "6!"
+msgstr ""
+
+#. fr: 5...
+#. de: 5 ...
+#. it: 5...
+#. es: ¡5!
+#: olang/009c9ea4/0xbc4a75/0x00003a
+msgid "5!"
+msgstr ""
+
+#. fr: 4...
+#. de: 4 ...
+#. it: 4...
+#. es: ¡4!
+#: olang/009c9ea4/0xbc4a75/0x00003b
+msgid "4!"
+msgstr ""
