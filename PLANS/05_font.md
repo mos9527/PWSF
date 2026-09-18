@@ -1,6 +1,6 @@
 # 计划 05 · 字体扩字形
 
-状态：**格式已打通，可扩性已实证**。完整取证见
+状态：**✅ 主线完成，实机已验证**。完整取证见
 [../ANALYSIS/05_font.md](../ANALYSIS/05_font.md)。
 
 ```
@@ -24,21 +24,20 @@ FONT\000ebbe8.xpr  XPR2 / ATG font  2048x1024 A8  459 字形  用到第 748 行 
 - [x] **汉字走 `g_font_large`，小字体瓶颈不成立**：`g_font_index`
       @ `0x141061A0C` 全映像只有一处写入（`font_static_init` 里赋 0），
       `ui_get_font_handles` 发出的句柄下游三个消费者全都不读
+- [x] **图集线性存储**（非 X360 tiled），字形按 `tv1 = 1 + 68k` 行网格排布
+- [x] **写回工具链完成**：`pwsf_xpr.py` + `pwsf_font.py`，
+      容器 / FontData / 重加密三层往返均**字节一致**
+- [x] **中文字形 PoC 跑通**：53 个字形写进第 9 行，字形 643 → 696，
+      原有字形与图集区域逐字节未变；已备份 `.orig` 后装入游戏
+- [x] **实机确认通过**：玩家名界面的 `up to 15` 渲染成 `up to 一五`
+      （证据图 `ANALYSIS/_font_poc_ingame.jpg`）。顺带证明替换字体文件
+      不触发任何完整性校验，且 `g_font_index` 恒 0 的结论正确
 - [x] IDA 更进 12 处符号并保存 IDB
 
-> **字库工作没有前置阻塞了，可以直接开工。**
-> 需要 ~1,560 字位，主字体有 ~3,100 个，不用扩图集。
+> **计划 05 主线完成。** 字体侧不再阻塞本土化，
+> 后续工作转入 [计划 06](06_localization_pipeline.md)。
 
-## 未完成
-
-### A. 写回工具（唯一剩余工作）
-
-- [ ] `pwsf_xpr.py`：XPR2 解包 / 重打包（保持大端与目录偏移自洽）
-- [ ] `pwsf_font.py`：转换表与 `GLYPH_ATTR` 的读写；从 TTF 渲染 8 位灰度
-      字形并装箱进图集空白行；`version` 保持 5
-- [ ] 校验：重打包后重新解析应逐字段等价，且 `12+header+data == 文件大小`
-
-### B. 可选 / 已降级
+## 未完成（可选 / 已降级）
 
 - [ ] TX2D 头 52 字节逐字段反（`sub_140088870` 消费）——仅在要扩大图集时需要
 - [ ] 码点 `0x7490` 的特判用途（`font_glyph_metrics` 里的 1.15 倍宽格子）
@@ -48,7 +47,13 @@ FONT\000ebbe8.xpr  XPR2 / ATG font  2048x1024 A8  459 字形  用到第 748 行 
 
 ```powershell
 cd d:\PWSF\TOOLS
-python _probe_font1.py
-python _probe_font2.py
-python _probe_font3.py
+python _probe_font1.py    # .xpr/.txp 用 name_hash 加密
+python _probe_font2.py    # XPR2 目录 + FontData + 覆盖率 + 图集余量
+python _probe_font3.py    # 字体覆盖 vs 全量文本码点；反证按字节索引不成立
+python _probe_font4.py    # 图集导出 PNG，确认线性存储
+python _probe_font5.py    # 往返字节一致性（容器 / FontData / 重加密）
+python _probe_font6.py    # 现役汉字的墨迹度量基准
+python _poc_font_cn.py             # 中文字形 PoC：构建 + 校验
+python _poc_font_cn.py --install   # 备份 .orig 后装入游戏
+python _poc_font_cn.py --restore   # 还原
 ```

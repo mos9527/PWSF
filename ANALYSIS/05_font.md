@@ -245,22 +245,102 @@ font_static_init @ 0x140001370        // CRT 静态构造
 5. 图集是 8 位单通道，塞字形时直接贴灰度位图即可，无需管通道 mask
    （实测 643 个字形的 `mask` 字段全为 0）。
 
-## 8. 待办
+## 8. 图集是线性存储的（不是 X360 tiled）
+
+X360 纹理通常按 tile 交织存放，若字体图集也如此，加字形之前就得先写解交织器。
+实测**不是**：把 data 块按 4096×4096 8 位直接读成图像，得到的就是可读的字形表。
+
+![图集左上角 1:1](_font_0007ccd8_crop.png)
+
+字形按固定行网格排布：`tv1 = 1 + 68k`，`tv2 = tv1 + 67`。现役字形占 k=0..8
+（最后一行底边 y=612），空闲 k=9..59 共 **51 行**，与 §4 的估算一致。
+
+现役全角汉字的度量（`_probe_font6.py` 实测）：位图宽 58、`advance` 62、
+`off` 4，墨迹落在格内第 7~59 行（高约 52 px）、第 2~55 列。
+新字形照此对齐即可，不需要目测。
+
+## 9. 写回 PoC（已跑通）
+
+`TOOLS/pwsf_xpr.py`（容器）+ `TOOLS/pwsf_font.py`（字体模型）+
+`TOOLS/_poc_font_cn.py`（PoC）。
+
+**往返字节一致**（`_probe_font5.py`，两个字体都过）：
+
+```
+container round-trip : OK      解包再打包 == 原明文
+FontData round-trip  : OK      解析再序列化 == 原 FontData
+full rebuild         : OK      模型 flush 回包 == 原明文
+re-encrypt == on disk: OK      重加密 == 磁盘原始字节
+```
+
+> 踩过的坑：`FontData` 之后还有 132 字节尾部填充（header 到 `0x22810`，
+> 而 `FontData` 在 `0x2278C` 结束）。替换尾部资源时必须保留这段填充，
+> 否则 `header_size` 变小、往返失败。
+
+**PoC 内容**：从 `msyh.ttc` 光栅化 53 个字形写进第 9 行，其中
+
+1. 40 个常用汉字映射到**真实 Unicode 码点**（真实汉化走的就是这条路）；
+2. `〇一二三四五六七八九` 顶掉 ASCII 数字 `U+0030..U+0039` ——
+   纯粹为了在**还没有 olang 写回器**的情况下让改动在实机可见。
+
+![PoC 新增字形行](_font_poc_newrow.png)
+
+结果：字形 643 → 696，文件 16,918,556 → 16,919,404 字节（+848），
+用掉 1 行、仍剩 50 行。校验器确认新字形非空、**原有 643 个 `GLYPH_ATTR`
+与原图集区域逐字节未变**。
+
+字号标定是自动的：以「武」为基准二分像素字号使墨迹高度命中 52 px
+（得 56 px），再用同一个笔位偏移渲染全部字形，保持字间相对比例。
+
+```powershell
+python _poc_font_cn.py             # 构建 + 校验到 ..\BUILD
+python _poc_font_cn.py --install   # 备份 .orig 后装入游戏
+python _poc_font_cn.py --restore   # 还原
+```
+
+构建始终以 `.orig` 备份为输入，重复运行不会叠加字形。
+
+### 9.1 实机确认通过
+
+玩家名输入界面的 `up to 15 uppercase letters` 渲染成了 `up to 一五 ...`：
+
+![实机截图](_font_poc_ingame.jpg)
+
+这一张图同时证明了整条链的每一环：
+
+| 环节 | 被证明的事 |
+|---|---|
+| 重加密 | 游戏没有拒绝文件，`xpr_package_load` 的 `XPR2` 魔数校验通过 |
+| 容器重打包 | 改动后的 `header_size` / 目录偏移自洽 |
+| `FontData` 写回 | `version == 5` 通过，`num_glyphs` 与 `GLYPH_ATTR` 被正确解析 |
+| 转换表改写 | `U+0030`/`U+0035` 指向了新字形索引 |
+| 图集写入 | 第 9 行（y=613）的新像素被正确采样 |
+| 度量对齐 | 基线与字号和周围拉丁文混排无违和，`advance` 62 未破坏排版 |
+| 无完整性校验 | 替换字体文件不触发任何校验失败 |
+
+> 顺带确认：`g_font_index` 恒为 0 的结论正确——只改了 `0007ccd8.xpr`
+> （`g_font_large`）就生效了，`000ebbe8.xpr` 一个字节没动。
+
+## 10. 待办
 
 - [x] ~~确认文本渲染侧的 UTF-8 → u16 解码~~ —— 见 §6.1/§6.2，实证 + 反证闭合
 - [x] ~~确认汉字走哪个字体对象~~ —— 见 §6.4，`g_font_index` 恒 0，走大字体
-- [ ] 写回工具链（见 [计划 05](../PLANS/05_font.md) C 项）：`pwsf_xpr.py` 解包/重打包
-      + `pwsf_font.py` 转换表与 `GLYPH_ATTR` 读写 + 图集装箱
+- [x] ~~写回工具链~~ —— `pwsf_xpr.py` + `pwsf_font.py` 已完成，往返字节一致，
+      PoC 见 §9
 - [ ] TX2D 头 52 字节逐字段反（`sub_140088870` 消费它）——
       **仅在决定扩大图集时才需要**，当前余量够用，已降级
 - [ ] `Text/*.txp` 容器格式（仅在需要替换按键图标时才做）
 - [ ] 码点 `0x7490` 的特判是做什么用的（`font_glyph_metrics` 里 1.15 倍宽格子）
 
-## 9. 复现
+## 11. 复现
 
 ```powershell
 cd d:\PWSF\TOOLS
 python _probe_font1.py    # 确认 .xpr/.txp 用 name_hash 加密
 python _probe_font2.py    # XPR2 目录 + FontData + 覆盖率 + 图集余量
 python _probe_font3.py    # 字体覆盖 vs 全量文本码点；反证按字节索引不成立
+python _probe_font4.py    # 图集导出 PNG，确认线性存储
+python _probe_font5.py    # 往返字节一致性（容器 / FontData / 重加密）
+python _probe_font6.py    # 现役汉字的墨迹度量基准
+python _poc_font_cn.py    # 中文字形 PoC
 ```
