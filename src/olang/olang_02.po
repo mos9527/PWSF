@@ -1,0 +1,1636 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF olang 2/4\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: olang\n"
+"X-PWSF-Entries: 400\n"
+
+
+#: olang/009c9ea4/0x31a1fa/0xb6d38b
+msgid "Heroism"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d38c
+msgid "CO-OPS Weapons"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d38d
+msgid "CO-OPS Comms"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d38e
+msgid "Battle Cries & the Kotodama Effect"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d38f
+msgid "Special Items"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3a6
+msgid "Cardboard box"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3a7
+msgid "Two Men in a Box"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3a8
+msgid "Cardboard Tank"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3a9
+msgid "WALKMAN"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3aa
+#: olang/009c9ea4/0x31a1fa/0xb6dae7
+#: olang/009c9ea4/0x31a1fa/0xb6db8c
+msgid "Mission Info"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3ab
+msgid "Make Contact with the FSLN Comandante"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3ac
+msgid "Tracking Amanda"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3ad
+msgid "C4"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3ae
+msgid "How to plant C4 "
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3af
+msgid "Basilisco"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3c6
+msgid "AI Weapon Parts"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3c7
+msgid "To the Command Tower!"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3c8
+msgid "Target Practice / Puerto del Alba"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3c9
+msgid "Target Practice / Río del Jade"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3ca
+msgid "Target Practice / Aldea de los Despiertos"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3cb
+msgid "Target Practice / US Missile Base"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3cc
+msgid "Target Practice / Mining Barracks"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3cd
+msgid "Fulton Recovery Mission"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3ce
+msgid "Sweep-and-destroy"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3cf
+msgid "Hold-up"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3e6
+msgid "One-shot Mission"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3e7
+msgid "Sniping"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3e8
+msgid "Total Stealth"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3e9
+msgid "Pooyan mission"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3ea
+msgid "Key Supply Defense"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3eb
+msgid "Base Defense"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3ec
+msgid "Destroy the Transport Truck"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3ed
+msgid "Missile Interception"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3ee
+msgid "Destroy the Obstacle"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3ef
+msgid "Recovering Snake's Gear"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d6c6
+msgid "Enemy Soldier Types"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d6c7
+msgid "CIA Mercenaries"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d6c8
+msgid "Patrolmen & Guards"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d6c9
+msgid "Commandos"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d6ca
+msgid "Shock Troops"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d6cb
+msgid "Scouts"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d6cc
+msgid "Ghillie Suit Soldiers"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d6cd
+msgid "Sentries"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d6ce
+msgid "Escorts"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d6cf
+msgid "Shield Soldiers"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d6e6
+msgid "Soldier Level"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d6e7
+msgid "Battle Range"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d6e8
+msgid "Differences in Range Between Different Weapons"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d6e9
+msgid "Close Range"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d6ea
+msgid "Medium Range"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d6eb
+msgid "Long Range"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d707
+msgid "Costa Rica"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d708
+msgid "\"Costa Rica\""
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d709
+msgid "The Civil War"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d70a
+msgid "Policy Shift"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d70b
+msgid "University for Peace"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d70c
+msgid "Professor Gálvez"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d70d
+msgid "Costa Rican Coffee"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d70e
+msgid "Costa Rican Ruins"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d70f
+msgid "Costa Rica's Unarmed Neutrality"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d726
+msgid "Article 12 of the Constitution"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d727
+msgid "How it keeps the peace"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d728
+msgid "The reason the army was abolished"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d729
+msgid "Japan's peace constitution"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d72a
+msgid "Perpetual Peace"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d72b
+msgid "Costa Rica's natural environment"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d72c
+msgid "Costa Rica's tropical forests"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d72d
+msgid "Tropical rain forests"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d72e
+msgid "Tropical dry forests"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d72f
+msgid "Tropical cloud forests"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d746
+msgid "Morpho butterflies"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d747
+msgid "Biological diversity"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d748
+msgid "Costa Rican Development Corporation"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d749
+#: olang/009c9ea4/0x31a1fa/0xb6dac9
+#: olang/009c9ea4/0x31a1fa/0xb6dbef
+#: olang/009c9ea4/0x31a1fa/0xb6df0a
+msgid "About herself"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d74a
+msgid "\"Paz\""
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d74b
+msgid "The Peace Sign"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d74c
+msgid "Childhood"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d74d
+#: olang/009c9ea4/0x31a1fa/0xb6dbab
+#: olang/009c9ea4/0x31a1fa/0xb6dec8
+#: olang/009c9ea4/0x31a1fa/0xb6df0c
+#: olang/009c9ea4/0x31a1fa/0xb6dfaa
+msgid "Role in Mother Base"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d74e
+msgid "Costa Rican Coast"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d74f
+msgid "Playa del Alba"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d766
+msgid "Bosque del Alba"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d767
+msgid "Puerto del Alba"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d768
+msgid "Eastern Limón"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d769
+msgid "El Cenegal - Jungle"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d76a
+msgid "El Cenegal - Ravine"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d76b
+msgid "El Cenegal - Swamp"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d76c
+msgid "Río del Jade"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d76d
+msgid "Bananal Fruta de Oro - Sorting Shed"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d76e
+msgid "Bananal Fruta de Oro - Farm"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d76f
+msgid "Mt. Irazú Area"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d786
+msgid "Camino de Lava - Hillside"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d787
+msgid "Camino de Lava - Junction"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d788
+msgid "Aldea de los Despiertos"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d789
+msgid "Cafetal Aroma Encantado"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d78a
+msgid "El Cadalso"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d78b
+msgid "Los Cantos - Canyon"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d78c
+msgid "Los Cantos - Ridge"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d78d
+msgid "Fuerte la Ladera"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d78e
+msgid "Crater Base"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d78f
+msgid "Central Heredia"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7a6
+msgid "Selva de la Leche - Jungle"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7a7
+msgid "Selva de la Leche - Hillside"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7a8
+msgid "Catarata de la Muerte"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7a9
+msgid "Selva de la Muerte"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7aa
+msgid "Ruinas de Xochiquetzal"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7ab
+msgid "AI Lab"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7ac
+#: olang/009c9ea4/0x31a1fa/0xb6db69
+msgid "Mine Base"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7ad
+msgid "Miner's Residence"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7ae
+msgid "Mining Pit"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7af
+msgid "Nicaragua"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7c6
+msgid "History"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7c7
+msgid "The Nicaragua Canal"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7c8
+msgid "Sandino's rebellion"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7c9
+msgid "Somoza"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7ca
+msgid "Sandino's assassination"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7cb
+msgid "The Managua Earthquake"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7cc
+msgid "Rio San Juan"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7cd
+msgid "Ometepe Island"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7ce
+#: olang/009c9ea4/0x31a1fa/0xb6d7cf
+msgid "FSLN"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7e6
+msgid "General Sandino"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7e7
+msgid "The \"watermelon sellers\""
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7e8
+msgid "A revolution for peace"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7e9
+msgid "El Che"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7ea
+msgid "Enemy strength"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7eb
+msgid "Hombre Nuevo"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7ec
+msgid "Abduction"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7ed
+msgid "The CIA's strength"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7ee
+msgid "Claymore Mines"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d7ef
+msgid "Relations with the U.S."
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dac6
+msgid "Plantations"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dac7
+msgid "Drugs"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dac8
+msgid "William Walker"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6daca
+msgid "Joining the FSLN"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dacb
+msgid "Malaria"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dacc
+msgid "Mi viejo"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dacd
+msgid "Chico"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dace
+msgid "Role at Mother Base"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dacf
+msgid "Decision time"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dae6
+msgid "Taking on the Armored Vehicle"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dae8
+msgid "Rescuing Chico"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dae9
+msgid "Prison Camp"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6daea
+msgid "Chasing the Jungle Train"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6daeb
+msgid "Destroy the Tank!"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6daec
+msgid "Destroying the Barricade"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6daed
+msgid "Sneaking into the Crater Base"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6daee
+msgid "The Fort"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6daef
+msgid "Stop the \"Pupa\" AI Weapon!"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db06
+msgid "Into the Tropical Cloud Forest"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db07
+msgid "Neutralize the Attack Chopper!"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db08
+msgid "To the Research Lab"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db09
+msgid "Find the ID Card!"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db0a
+msgid "Stop the \"Chrysalis\" AI Weapon!"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db0b
+msgid "Infiltrate the Mine Base"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db0c
+msgid "Neutralize the Guards"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db0d
+msgid "Stop the \"Cocoon\" AI Weapon!"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db0e
+msgid "Sneaking into the Underground Base"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db0f
+msgid "Escape the Prison!"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db26
+msgid "Heading for Peace Walker's Hangar"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db27
+#: olang/009c9ea4/0x31a1fa/0xb6df6c
+msgid "Fighting Peace Walker"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db28
+msgid "Chasing Metal Gear"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db29
+msgid "Infiltrating the American Missile Base"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db2a
+msgid "Fighting Peace Walker (Round 2)"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db2b
+msgid "Defending the base"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db2c
+msgid "Sabotage missions"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db2d
+msgid "Destroy All Kidnappers!"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db2e
+msgid "Evading Enemy Searches"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db2f
+msgid "Geographical Info"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db46
+msgid "Supply Staging Point"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db47
+msgid "River Valley"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db48
+msgid "The Real Basilisco"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db49
+msgid "Crater Area"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db4a
+msgid "The Loch Ness Monster"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db4b
+msgid "Nahuelito"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db4c
+msgid "Ogopogo"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db4d
+msgid "Mokèlé-mbèmbé"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db4e
+msgid "Tropical Cloud Forest"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db4f
+msgid "Bigfoot"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db66
+msgid "Mono Grande"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db67
+msgid "Ruins"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db68
+msgid "Kongamato"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db6a
+msgid "UFOs"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db6b
+msgid "Abductions"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db6c
+msgid "Elbakki"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db6d
+msgid "UFO Photo"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db6e
+msgid "The Legend of Isla Del Monstruo"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db6f
+msgid "Isla Del Monstruo"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db86
+msgid "Trenya"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db87
+msgid "Felynes"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db88
+msgid "Rathalos"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db89
+msgid "Tigrex"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db8a
+msgid "Velocipreys"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db8b
+msgid "Gear REX"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db8d
+msgid "Restless Spirits"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db8e
+msgid "Ghost Photography"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6db8f
+msgid "Photography Tips"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dba7
+msgid "Amanda"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dba8
+msgid "Father"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dba9
+msgid "Quotes from Che"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbaa
+msgid "Frente Compas"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbac
+msgid "Love"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbad
+msgid "Puppy Love"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbae
+msgid "Paz's True Self"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbaf
+msgid "The Mystery of Paz's Actions"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbc6
+msgid "AI"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbc7
+msgid "What is AI?"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbc8
+msgid "How to ID an AI"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbc9
+msgid "The Turing Test"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbca
+msgid "Models for AI"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbcb
+msgid "AI and the female brain"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbcc
+msgid "The need for AI"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbcd
+msgid "Expert systems"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbce
+msgid "The future of AI"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbcf
+msgid "The \"Opposite Direction\" in AI Evolution"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbe6
+msgid "From pupa to butterfly"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbe7
+msgid "AI code names"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbe8
+msgid "\"The Ghost in the Machine\""
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbe9
+#: olang/009c9ea4/0x31a1fa/0xb6dfae
+msgid "\"2001: A Space Odyssey\""
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbea
+msgid "The Boss"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbeb
+msgid "How Strangelove met The Boss"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbec
+msgid "Why she used torture"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbed
+msgid "The Boss's white horse"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dbee
+msgid "The Boss and peace"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dec6
+msgid "The origin of \"Strangelove\""
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dec7
+msgid "Personal history"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dec9
+msgid "People"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6deca
+msgid "Huey"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6decb
+msgid "Cecile"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6decc
+msgid "Metal Gear ZEKE"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6decd
+msgid "Metal Gear ZEKE's AI"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dece
+msgid "A Different AI"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6decf
+msgid "VOCALOID"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dee6
+msgid "AI lab"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dee7
+msgid "Facility and security"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dee8
+#: olang/009c9ea4/0x31a1fa/0xb6dfab
+msgid "Dr. Strangelove"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dee9
+msgid "ID card"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6deea
+msgid "Costa Rican birds"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6deeb
+msgid "Birds in general"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6deec
+msgid "Cassette densuke"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6deed
+msgid "Quetzals"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6deee
+msgid "Mimicking animal calls"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6deef
+msgid "Hummingbirds"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df06
+msgid "Manakins"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df07
+msgid "Three-wattled Bellbird"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df08
+msgid "Clay-colored Robin"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df09
+msgid "Macaws"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df0b
+msgid "Cécile Cosima Caminades"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df0d
+msgid "France"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df0e
+msgid "Paris"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df0f
+msgid "Foreign Legion"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df26
+msgid "National Anthem"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df27
+msgid "The Umbrellas of Cherbourg"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df28
+msgid "The Day of the Jackal"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df29
+msgid "Nuclear Tests"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df2a
+msgid "Sartre"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df2b
+msgid "Picasso"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df2c
+msgid "Macaroons"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df2d
+msgid "Wine"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df2e
+msgid "May 1968"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df2f
+msgid "Cold War and the Nuclear Arms Race"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df46
+msgid "The Manhattan Project"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df47
+msgid "Hiroshima and Nagasaki"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df48
+msgid "Cuban Missile Crisis"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df49
+msgid "The Space Race and the Cold War Arms Race"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df4a
+msgid "The Cold War and Peace"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df4b
+msgid "Nuclear Deterrence"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df4c
+msgid "Nuclear Deterrence Theory"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df4d
+msgid "Nuclear Terrorism"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df4e
+msgid "Damage from a Nuclear Missile"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df4f
+msgid "Metal Gear and Nuclear Weapons"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df66
+msgid "Peace Walker"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df67
+msgid "Peace Walker Project"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df68
+msgid "Mobile Nuclear Launch Platform"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df69
+msgid "Self-destruct Function"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df6a
+msgid "Tsar Bomba"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df6b
+msgid "Peace Walker's AI"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df6d
+msgid "Peace Walker with Mammal Pod"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df6e
+msgid "The Need for Bipedal Locomotion"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df6f
+msgid "The Fake \"Peace Walker\" Project"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df86
+msgid "The Reason for Launching a Real Nuke"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df87
+msgid "Soviet Research on Bipedal Locomotion"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df88
+msgid "Granin"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df89
+msgid "\"Metal Gear\""
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df8a
+msgid "Shagohod"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df8b
+msgid "Basilisk"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df8c
+msgid "The Two AI Pods"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df8d
+msgid "Reptile Pod"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df8e
+msgid "Mammal Pod"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6df8f
+msgid "Transmitting Data to NORAD"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfa6
+msgid "An Oversight in the System"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfa8
+msgid "Electronic Cigarettes"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfa9
+msgid "Impact on Genes"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfac
+msgid "How Huey met Strangelove"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfad
+msgid "Letter to Strangelove"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfaf
+msgid "Taking Down the AI Weapons"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfc6
+msgid "Pupa"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfc7
+msgid "Chrysalis"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfc8
+msgid "Cocoon"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfc9
+msgid "Paz's Tape"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfca
+msgid "Between Two Women"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfcb
+msgid "Strangelove's Memories"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfcc
+msgid "A Chance Meeting"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfcd
+msgid "Joy"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfce
+msgid "Separation"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfcf
+msgid "Strangelove's Simulation"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfe6
+msgid "Operation Snake Eater Simulation"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfe7
+msgid "Paz's Diary"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfe8
+msgid "1st Entry"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfe9
+msgid "2nd Entry"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfea
+msgid "3rd Entry"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfeb
+msgid "4th Entry"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfec
+msgid "5th Entry"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfed
+msgid "6th Entry"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfee
+msgid "7th Entry"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6dfef
+msgid "8th Entry"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6e2c6
+msgid "9th Entry"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6e2c7
+msgid "10th Entry"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6e2c8
+msgid "The Boss's Final Mission"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6e2c9
+msgid "EVA's Debriefing"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6e2ca
+msgid "Message from EVA"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6e2cb
+msgid "Session 1"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6e2cc
+msgid "Session 2"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6e2cd
+msgid "Session 3"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6e2ce
+msgid "Session 4"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6e2cf
+msgid "Session 5"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6e2e6
+msgid "Session 6"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6e2e7
+msgid "Session 7"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6e2e8
+msgid "Secret File"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6e2e9
+msgid "The Phone Call"
+msgstr ""
+
+#: olang/009c9ea4/0x35b782/0x50e730
+#: olang/00c6a046/0x35b782/0x50e730
+msgid "Unable to create saved data. Try again?"
+msgstr ""
+
+#: olang/009c9ea4/0x35b782/0x5a8a34
+#: olang/00c6a046/0x35b782/0x5a8a34
+msgid "Unable to create system data. Try again?"
+msgstr ""
+
+#: olang/009c9ea4/0x35b782/0xf76a2a
+#: olang/00c6a046/0x35b782/0xf76a2a
+msgid "Unable to save system data. Try again?"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x0034a7
+msgid "Discard changes?"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x01118d
+msgid "Aim Button"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x03b9df
+msgid "Crouch Button"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x05ecf5
+#: olang/009c9ea4/0x39c9f3/0x8117e8
+msgid "Select which action you would like to change the controls for."
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x06b107
+#: olang/009c9ea4/0x596f30/0x381576
+msgid "CANCEL"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x0c768b
+msgid "/<I=KEY_TAB>"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x0c89f6
+msgid "Cancel：<I=PADSTA>"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x1c7f29
+msgid ""
+"The button chosen cannot be assigned.\n"
+"Please select a different button."
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x20ba8f
+msgid "Gun Turret Zoom"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x236328
+msgid "<I=KEYCAN>Back"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x252ad4
+msgid "Toggle"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x27e279
+msgid "Zoom Out"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x28be68
+msgid "Send CO–OPS Comms (Right)"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x293e49
+msgid "Zoom In"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x2942c1
+msgid "CONTROLLER SETTINGS"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x29e8b5
+msgid "Send CO–OPS Comms (Up)"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x2aa0ef
+msgid "<I=PADCAN>Back"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x2b9e79
+msgid "Tap"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x2c9fb1
+msgid "Move Forward"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x2d11eb
+msgid "Walk"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x341d94
+msgid "Edit: <I=△>"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x35c2b1
+msgid "Action List"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x35c9e4
+msgid "Press & Hold"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x3b2379
+msgid "Choose the control type you would like to start with."
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x40ddf0
+msgid "CO–OPS Comms"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x44b72d
+msgid "Secondary action"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x4bbe1e
+#: olang/009c9ea4/0x596f30/0x000a2b
+msgid "OK"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x4e898c
+msgid "<I=KEY_TAB>Delete assigned control setting"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x545919
+msgid "<I=△>Restore Defaults"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x567eaf
+msgid "Are you sure you want to restore default settings?"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x5c5fac
+msgid "Weapon Window Button"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x5d8f46
+msgid "<I=△>"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x5fd0b3
+msgid "Primary"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x5fe255
+msgid "Item Window Button"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x611bf5
+msgid "Secondary"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x679eca
+msgid "Press the button you would like to reassign."
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x68ec30
+msgid "<I=KEYDEC>Confirm"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x6b4973
+msgid "Apply changes?"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x6dba37
+msgid "Tag Enemy"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x747af2
+msgid "Edit: <I=KEY_F>"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x765000
+msgid "Move Backward"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x784aa2
+msgid "Weapon Attack Button/Aim Button"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x78a2be
+msgid "Auto Aim Switch"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x7a25e6
+msgid "Move Left"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x7b9154
+msgid "Attack Button"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x7e1b91
+msgid "Base Type"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x833173
+msgid "<I=PADDEC>Confirm"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x84fce6
+msgid "Pause/Menu"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x85ee55
+msgid "Reset Camera/Position Camera Left or Right"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x87c92e
+msgid "Reload Button"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x8cc030
+msgid "Move Camera Up"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x8fdc62
+msgid "Edit: "
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x97120d
+msgid "<I=KEY_F>"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x98416c
+msgid "Codec Call"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x9a5ff5
+msgid "Send CO–OPS Comms (Down)"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x9c6cdc
+msgid "Choose which button you would like to change."
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0x9e35db
+msgid "Send CO–OPS Comms (Left)"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0xa6bfc3
+msgid "Move Right"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0xaadcd6
+msgid "Enemy Search"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0xbaa142
+msgid "Interrogate"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0xbe8570
+msgid "NO"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0xbef41e
+#: olang/009c9ea4/0x39c9f3/0xe6b822
+msgid "Change the control type."
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0xc2810b
+msgid ""
+"The key chosen cannot be assigned.\n"
+"Please select a different key."
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0xc5feaa
+msgid "<I=KEY_TAB>Restore Defaults"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0xcdab10
+msgid "Hand-to-Hand Attack Button/Lower Weapon Button"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0xd73305
+msgid ""
+"Press the key you would like to reassign.\n"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0xd7a289
+msgid "Position Camera Left or Right"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0xdd0731
+msgid "<I=□>Delete assigned control setting"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0xdec383
+msgid "Walk control type"
+msgstr ""

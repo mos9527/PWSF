@@ -1,5 +1,8 @@
-# 构建产物（重打包后的游戏文件，体积大且可由 TOOLS 复现）
-BUILD/
+# 构建产物（重打包后的游戏文件，体积大且可由 pwsf 复现）
+research/BUILD/
+
+# 每台机器的本地路径覆盖，见 pwsf/config.py
+pwsf.local.json
 
 __pycache__/
 *.pyc

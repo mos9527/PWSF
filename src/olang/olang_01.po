@@ -1,0 +1,2949 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF olang 1/4\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: olang\n"
+"X-PWSF-Entries: 400\n"
+
+
+#: olang/0005ee2f/0xc6de03/0x02d356
+#: olang/0005ee2f/0xc6de03/0x17b115
+#: olang/0005ee2f/0xc6de03/0x262ccd
+#: olang/0005ee2f/0xc6de03/0xae4364
+msgid "Human voice"
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x069574
+msgid "Screen Display"
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x094877
+msgid ""
+"Move the screen position using the left stick.\n"
+"Change the zoom level with LT and RT.\n"
+"Press <I=DEC> to apply your changes.\n"
+"To restore the default display settings, press <I=△>."
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x1889b7
+#: olang/0005ee2f/0xc6de03/0x3726d7
+msgid "Magazines"
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x196f19
+msgid "Pupa Voices"
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x1aa0b2
+#: olang/0005ee2f/0xc6de03/0x2f7e71
+#: olang/0005ee2f/0xc6de03/0x3dfa29
+#: olang/0005ee2f/0xc6de03/0xc610c0
+msgid "Default voice"
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x27f9e4
+#: olang/0005ee2f/0xc6de03/0x7c6806
+#: olang/0005ee2f/0xc6de03/0xdba915
+msgid "Change which AI weapon voices are used in the game."
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x284a42
+msgid ""
+"Edit screen display settings.\n"
+"Adjust the display until the red lines surrounding\n"
+"the background fit the screen perfectly."
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x2cc2b4
+msgid "Edit screen display settings and change which AI weapon voices are used in the game."
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x3850a3
+#: olang/009c9ea4/0xc6de03/0x3850a3
+msgid "Basilisk Voices"
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x3a136d
+msgid "VOICE"
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x3da827
+msgid "Return to title menu"
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x3db471
+#: olang/0005ee2f/0xc6de03/0x91b2b1
+msgid "AI Weapon Voices"
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x47c178
+msgid "TEXTURES"
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x50a352
+#: olang/0005ee2f/0xc6de03/0xb7f4ae
+#: olang/00cb1fb7/0x68bb2b/0x010dcc
+msgid "All"
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x51550b
+msgid "Return to title menu."
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x562679
+msgid "Cocoon Voices"
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x77305a
+msgid "Chrysalis Voices"
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0x9e1df8
+msgid "Edit screen display settings."
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0xe12fec
+msgid "Change which magazine is used in the game."
+msgstr ""
+
+#: olang/0005ee2f/0xc6de03/0xe280fd
+msgid "Data Management"
+msgstr ""
+
+#: olang/00327f6a/0xb39048/0xc81e47
+#: olang/0060e2f2/0xd449d6/0x42ab9e
+#: olang/00cb1fb7/0x68bb2b/0x42ab9e
+#: olang/00cb1fb7/0x68bb2b/0xc81e47
+msgid ""
+"Unable to find a HOST.\n"
+"Try again after changing the search conditions or waiting for a short period of time."
+msgstr ""
+
+#: olang/00327f6a/0xb39048/0xf4816f
+msgid ""
+"You can recruit trade partners worldwide over Xbox LIVE.\n"
+"Select the type of invitation."
+msgstr ""
+
+#: olang/0043da6e/0x029324/0x2e012f
+msgid "Failed to connect."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0x024ebc
+#: olang/0043da6e/0xc3d5b4/0xd851e8
+#: olang/005184e3/0x029324/0x8a774e
+msgid "Unable to connect to Xbox LIVE."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0x043ff0
+msgid "Confirm"
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0x192971
+msgid ""
+"You cannot continue playing because a change has been made to your sign in status.\n"
+"You will now return to the title menu."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0x20abf0
+msgid "All other members have been disconnected. A single player game will begin."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0x434337
+msgid "You need to be signed into Xbox LIVE to proceed any further."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0x508f74
+msgid "Connection to Xbox LIVE has been terminated."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0x58bcd8
+msgid "You cannot play online using the current gamer profile."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0x7a57b9
+msgid "You cannot receive this invite as you are already in a room."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0x932c67
+#: olang/009c9ea4/0xc3d5b4/0x932c67
+msgid "You cannot join this game as the mode cannot be played while using the current save data."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0xa75e7b
+msgid "Unable to create room."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0xb0be5c
+msgid "You must select a storage device to save data in order to start the game."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0xb8dc0d
+msgid ""
+"The system data on the selected storage device was created by another gamer profile.\n"
+"If you continue, you will be unable to save the game during play.\n"
+"Continue?"
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0xcb23b3
+msgid "Room deleted by HOST."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0xd5a07d
+msgid "Unable to search for room."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0xe16f1d
+msgid "The network connection has been terminated. A single player game will begin."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0xf11e61
+msgid "Unable to join room."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0xf8f04e
+msgid "The save data on the selected storage device was created by another gamer profile and so cannot be loaded."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0xf98609
+msgid "Connection with HOST terminated."
+msgstr ""
+
+#: olang/0043da6e/0xc3d5b4/0xfb72a4
+msgid "You must be signed in to a gamer profile to save data in order to start the game."
+msgstr ""
+
+#: olang/005184e3/0x029324/0x4b1cfb
+msgid "Unable to sign in to Xbox LIVE."
+msgstr ""
+
+#: olang/005184e3/0x029324/0x61d95e
+msgid ""
+"An error has occurred.\n"
+"Please verify that the Date & Time settings on your Xbox 360 console are correct."
+msgstr ""
+
+#: olang/005184e3/0x1331ad/0xbbc0e2
+msgid "Please verify the Date & Time settings on your Xbox 360 console. Incorrect date settings may interfere with package deliveries."
+msgstr ""
+
+#: olang/005184e3/0x19f879/0x01fbc4
+msgid "Join a game created by another player."
+msgstr ""
+
+#: olang/005184e3/0x19f879/0x5e057c
+msgid "SELECT HOSTING CONDITIONS"
+msgstr ""
+
+#: olang/005184e3/0x19f879/0x668dca
+msgid "Create and host and a new versus game."
+msgstr ""
+
+#: olang/005184e3/0x19f879/0x75954d
+msgid "SELECT SEARCH CONDITIONS"
+msgstr ""
+
+#: olang/005184e3/0x19f879/0x84bf02
+msgid "<Add Stage>"
+msgstr ""
+
+#: olang/005184e3/0x19f879/0x92ac58
+msgid "Connect to Xbox LIVE and battle players from around the world. 2 teams of up to 3 players are allowed."
+msgstr ""
+
+#: olang/005184e3/0x19f879/0xa57bdd
+msgid ""
+"Press up or down on the directional pad to select a Channel.\n"
+"Press <I=DEC> to start hosting."
+msgstr ""
+
+#: olang/005184e3/0x19f879/0xc297b4
+#: olang/009c9ea4/0x19f879/0xc297b4
+msgid "Press the <I=DEC> button to change the password."
+msgstr ""
+
+#: olang/005184e3/0x1a3e77/0x6a33a6
+#: olang/009c9ea4/0x1a3e77/0x6a33a6
+msgid "Enlarge: <I=L2>"
+msgstr ""
+
+#: olang/005184e3/0x1a3e77/0x6a33a7
+#: olang/009c9ea4/0x1a3e77/0x6a33a7
+msgid "Reduce: <I=R2>"
+msgstr ""
+
+#: olang/005184e3/0x1a3e77/0x6a33a8
+msgid "Rotate Camera: Right stick"
+msgstr ""
+
+#: olang/005184e3/0x1a3e77/0x6a33a9
+#: olang/005184e3/0x5f753b/0x88adbe
+msgid "Switch Cameras: Directional pad left/right"
+msgstr ""
+
+#: olang/005184e3/0x20dacf/0x661129
+msgid "Save play data."
+msgstr ""
+
+#: olang/005184e3/0x20dacf/0x6c9043
+msgid "Accepted a volunteer. Volunteers increase as you play online."
+msgstr ""
+
+#: olang/005184e3/0x20dacf/0xa08aca
+#: olang/005184e3/0x43f3a5/0x47e5fe
+#: olang/005184e3/0xe6e4ed/0xb96848
+#: olang/009c9ea4/0x20dacf/0xa08aca
+#: olang/009c9ea4/0x43f3a5/0x47e5fe
+#: olang/009c9ea4/0xe6e4ed/0xb96848
+msgid "Confirm or change controls."
+msgstr ""
+
+#: olang/005184e3/0x20dacf/0xac79ca
+#: olang/005184e3/0x43f3a5/0x506452
+#: olang/005184e3/0xe6e4ed/0xb7fd8f
+#: olang/005184e3/0xfb5d7b/0x96ec94
+msgid "BUTTON CONFIG"
+msgstr ""
+
+#: olang/005184e3/0x215635/0x15aca6
+msgid ""
+"Proceed immediately to the Control Tower and stop Peace Walker from launching its nukes.\n"
+"The WALKMAN cannot be equipped."
+msgstr ""
+
+#: olang/005184e3/0x215635/0x17015a
+#: olang/009c9ea4/0x215635/0x17015a
+msgid ""
+"Snake encounters a mysterious \"visitor\" on the coast of Costa Rica.\n"
+"\n"
+"<I=CPY>CAPCOM CO., LTD."
+msgstr ""
+
+#: olang/005184e3/0x215635/0x18015a
+#: olang/009c9ea4/0x215635/0x18015a
+msgid ""
+"Snake accepts an invitation from Trenya and heads to Isla del Monstruo.\n"
+"  From <<Hunting Quests>>\n"
+"<I=CPY>CAPCOM CO., LTD."
+msgstr ""
+
+#: olang/005184e3/0x215635/0x3cb479
+#: olang/005184e3/0x215635/0xd1f145
+msgid "MSF Entrance Exam"
+msgstr ""
+
+#: olang/005184e3/0x215635/0x4a3800
+#: olang/005184e3/0x215635/0xe00d7b
+msgid "[097] Tank Battle: MBTk-70"
+msgstr ""
+
+#: olang/005184e3/0x215635/0x4a3dc0
+#: olang/005184e3/0x215635/0xf70d7b
+msgid "[098] Tank Battle: MBTk-70 Custom"
+msgstr ""
+
+#: olang/005184e3/0x215635/0x95b11d
+#: olang/005184e3/0x215635/0x9ab11d
+#: olang/009c9ea4/0x215635/0x95b11d
+#: olang/009c9ea4/0x215635/0x9ab11d
+msgid ""
+"  Mission Location: Isla del Monstruo\n"
+"<C=FF4040>Hunt the Rathalos<C=R>.\n"
+"\n"
+"<I=CPY>CAPCOM CO., LTD."
+msgstr ""
+
+#: olang/005184e3/0x215635/0xb5b11d
+#: olang/005184e3/0x215635/0xbab11d
+#: olang/009c9ea4/0x215635/0xb5b11d
+#: olang/009c9ea4/0x215635/0xbab11d
+msgid ""
+"  Mission Location: Isla del Monstruo\n"
+"<C=FF4040>Hunt the Tigrex<C=R>.\n"
+"\n"
+"<I=CPY>CAPCOM CO., LTD."
+msgstr ""
+
+#: olang/005184e3/0x215635/0xd5b11d
+#: olang/005184e3/0x215635/0xdab11d
+#: olang/009c9ea4/0x215635/0xd5b11d
+#: olang/009c9ea4/0x215635/0xdab11d
+msgid ""
+"  Mission Location: Isla del Monstruo\n"
+"<C=FF4040>Hunt the Gear REX<C=R>.\n"
+"\n"
+"<I=CPY>CAPCOM CO., LTD."
+msgstr ""
+
+#: olang/005184e3/0x291428/0x50818e
+#: olang/005184e3/0x9dc379/0xdb198e
+#: olang/005184e3/0xc99c23/0x50818e
+msgid "BACK button"
+msgstr ""
+
+#: olang/005184e3/0x2a29c5/0x000000
+#: olang/005184e3/0x2a4a05/0x000000
+#: olang/005184e3/0x2a6a45/0x000000
+#: olang/005184e3/0x2d4a85/0x000000
+#: olang/005184e3/0x3127c5/0x000000
+#: olang/005184e3/0x314805/0x000000
+#: olang/005184e3/0x316845/0x000000
+#: olang/005184e3/0x344885/0x000000
+msgid "Hey, lemme borrow that."
+msgstr ""
+
+#: olang/005184e3/0x2d0e66/0xf19383
+#: olang/005184e3/0x2d0e6b/0xf19383
+msgid "Right stick"
+msgstr ""
+
+#: olang/005184e3/0x2d0e67/0xf29383
+#: olang/005184e3/0x2d0e69/0xf29383
+msgid ""
+"Press the Action Button to confirm \n"
+"Right stick up: Look Up\n"
+"Right stick down: Look Down"
+msgstr ""
+
+#: olang/005184e3/0x2d0e68/0xf29383
+#: olang/005184e3/0x2d0e6a/0xf29383
+msgid ""
+"Press the Action Button to confirm \n"
+"Right stick up: Look Down\n"
+"Right stick down: Look Up"
+msgstr ""
+
+#: olang/005184e3/0x2d0e6c/0xf29383
+#: olang/005184e3/0x2d0e6e/0xf29383
+msgid ""
+"Press the Action Button to confirm \n"
+"Right stick left: Look Left\n"
+"Right stick right: Look Right"
+msgstr ""
+
+#: olang/005184e3/0x2d0e6d/0xf29383
+#: olang/005184e3/0x2d0e85/0xf29383
+msgid ""
+"Press the Action Button to confirm \n"
+"Right stick left: Look Right\n"
+"Right stick right: Look Left"
+msgstr ""
+
+#: olang/005184e3/0x2d0e87/0xf19383
+#: olang/005184e3/0x2d0ea5/0xf19383
+msgid "Left stick"
+msgstr ""
+
+#: olang/005184e3/0x2d0e88/0xf19383
+msgid "Left stick + (tap) Attack Button"
+msgstr ""
+
+#: olang/005184e3/0x2d0e89/0xf19383
+msgid "Left stick + Crouch Button"
+msgstr ""
+
+#: olang/005184e3/0x2d0e8d/0xf19383
+msgid "Left stick + Attack Button"
+msgstr ""
+
+#: olang/005184e3/0x2d0ea8/0xf19383
+msgid "Left stick + Hand-to-hand Attack Button"
+msgstr ""
+
+#: olang/005184e3/0x4282bf/0x000000
+#: olang/005184e3/0x4a8abf/0x000000
+#: olang/005184e3/0xb666bf/0x000000
+#: olang/005184e3/0xbe6ebf/0x000000
+msgid "Don't move!"
+msgstr ""
+
+#: olang/005184e3/0x43f3a5/0x394f17
+#: olang/0072f326/0xa49217/0x2de9a9
+msgid ""
+"Select your control scheme.  \n"
+"\n"
+"SHOOTER TYPE: The configuration is similar to that of \"MGS4.\"\n"
+"\n"
+"ACTION TYPE: The configuration is similar to that of \"MPO.\"\n"
+"\n"
+"HUNTER TYPE: The configuration is similar to that of the MONSTER HUNTER FREEDOM<I=TM> series."
+msgstr ""
+
+#: olang/005184e3/0x4686bf/0x000000
+#: olang/005184e3/0x4e8ebf/0x000000
+#: olang/005184e3/0xb262bf/0x000000
+#: olang/005184e3/0xba6abf/0x000000
+#: olang/005184e3/0xc2c774/0x000000
+#: olang/009c9ea4/0x903077/0x000014
+#: olang/009c9ea4/0xbc4a75/0x000008
+msgid "Freeze!"
+msgstr ""
+
+#: olang/005184e3/0x4882d7/0x000000
+#: olang/005184e3/0x4e86d7/0x000000
+#: olang/005184e3/0x7062d8/0x000000
+#: olang/005184e3/0x7666d8/0x000000
+#: olang/005184e3/0x7c6ad8/0x000000
+#: olang/005184e3/0x808ad7/0x000000
+#: olang/005184e3/0x826ed8/0x000000
+#: olang/005184e3/0x868ed7/0x000000
+msgid "Next!"
+msgstr ""
+
+#: olang/005184e3/0x529072/0x000002
+msgid "Hit the Y button as fast as you can!"
+msgstr ""
+
+#: olang/005184e3/0x5d8989/0xb3e6dc
+msgid "Press the X button to select which soldier to assign."
+msgstr ""
+
+#: olang/005184e3/0x5f753b/0x28adbc
+#: olang/005184e3/0x5f753b/0x48adbc
+#: olang/005184e3/0x5f753b/0x88adbc
+#: olang/005184e3/0x5f753b/0xa8adbc
+#: olang/005184e3/0x5f753b/0xc8adbc
+#: olang/009c9ea4/0x5f753b/0x28adbc
+#: olang/009c9ea4/0x5f753b/0x48adbc
+#: olang/009c9ea4/0x5f753b/0x88adbc
+#: olang/009c9ea4/0x5f753b/0xa8adbc
+#: olang/009c9ea4/0x5f753b/0xc8adbc
+msgid "Zoom In: <I=R2>"
+msgstr ""
+
+#: olang/005184e3/0x5f753b/0x28adbd
+#: olang/005184e3/0x5f753b/0x48adbd
+#: olang/005184e3/0x5f753b/0x88adbd
+#: olang/005184e3/0x5f753b/0xa8adbd
+#: olang/005184e3/0x5f753b/0xc8adbd
+#: olang/009c9ea4/0x5f753b/0x28adbd
+#: olang/009c9ea4/0x5f753b/0x48adbd
+#: olang/009c9ea4/0x5f753b/0x88adbd
+#: olang/009c9ea4/0x5f753b/0xa8adbd
+#: olang/009c9ea4/0x5f753b/0xc8adbd
+msgid "Zoom Out: <I=L2>"
+msgstr ""
+
+#: olang/005184e3/0x5f753b/0x28adbe
+msgid "Rotate: Right stick left/right"
+msgstr ""
+
+#: olang/005184e3/0x5f753b/0x28adbf
+msgid "Move: Right stick left up/down"
+msgstr ""
+
+#: olang/005184e3/0x5f753b/0x48adbe
+#: olang/005184e3/0x5f753b/0xc992ce
+msgid "Rotate: Right stick"
+msgstr ""
+
+#: olang/005184e3/0x5f753b/0x88adbf
+#: olang/005184e3/0x5f753b/0xa8adbe
+msgid "Move Camera: Right stick"
+msgstr ""
+
+#: olang/005184e3/0x5f753b/0xc992cc
+#: olang/005184e3/0x919326/0xc992cc
+#: olang/009c9ea4/0x5f753b/0xc992cc
+#: olang/009c9ea4/0x919326/0xc992cc
+msgid "Zoom In: <I=L2>"
+msgstr ""
+
+#: olang/005184e3/0x5f753b/0xc992cd
+#: olang/005184e3/0x919326/0xc992cd
+#: olang/009c9ea4/0x5f753b/0xc992cd
+#: olang/009c9ea4/0x919326/0xc992cd
+msgid "Zoom Out: <I=R2>"
+msgstr ""
+
+#: olang/005184e3/0x5f753b/0xc992cf
+msgid "Move: Right stick"
+msgstr ""
+
+#: olang/005184e3/0x62997d/0x000000
+msgid ""
+"To move your line of sight, \n"
+"use the right stick."
+msgstr ""
+
+#: olang/005184e3/0x629bfd/0x000001
+msgid ""
+"Use up and down on the Right Stick \n"
+"to move your line of sight!"
+msgstr ""
+
+#: olang/005184e3/0x629c7d/0x000001
+msgid ""
+"Use right and left on the Right Stick \n"
+"to move your line of sight!"
+msgstr ""
+
+#: olang/005184e3/0x62a8fd/0x000000
+#: olang/009c9ea4/0x62a8fd/0x000000
+msgid ""
+"You should be familiar with\n"
+"the up and down controls now."
+msgstr ""
+
+#: olang/005184e3/0x62a97d/0x000000
+#: olang/009c9ea4/0x62a97d/0x000000
+msgid ""
+"You should be familiar with\n"
+"the left and right controls now."
+msgstr ""
+
+#: olang/005184e3/0x62b8fd/0x000000
+msgid ""
+"Alright, let’s try up and down on\n"
+" the Right Stick one more time."
+msgstr ""
+
+#: olang/005184e3/0x62b97d/0x000000
+msgid ""
+"Alright, let’s try left and right on\n"
+"the Right Stick one more time."
+msgstr ""
+
+#: olang/005184e3/0x62c97d/0x000001
+msgid "Use the left stick to move around.\r"
+msgstr ""
+
+#: olang/005184e3/0x62cafd/0x000000
+msgid ""
+"What now? \n"
+"Use the left stick to move! "
+msgstr ""
+
+#: olang/005184e3/0x62cb7d/0x000000
+msgid ""
+"Boss, you can use \n"
+"the left stick to move!"
+msgstr ""
+
+#: olang/005184e3/0x62d8fd/0x000000
+msgid ""
+"Boss, roll by tapping the Attack Button\n"
+"while running with the left stick!"
+msgstr ""
+
+#: olang/005184e3/0x62d8fe/0x000000
+msgid ""
+"Boss, roll by pressing the Crouch Button\n"
+"while running with the left stick!"
+msgstr ""
+
+#: olang/005184e3/0x62db7e/0x000000
+msgid ""
+"Press the Hand-to-hand Attack Button\n"
+"without moving, Boss. "
+msgstr ""
+
+#: olang/005184e3/0x62dc7e/0x000000
+msgid ""
+"To use the stun rod, \n"
+"press the Aim Button to ready it,\r"
+msgstr ""
+
+#: olang/005184e3/0x62dc7e/0x000001
+msgid "then press the Weapon-Attack Button.\r"
+msgstr ""
+
+#: olang/005184e3/0x64487e/0x000000
+msgid "Hey! Press the Aim Button !"
+msgstr ""
+
+#: olang/005184e3/0x6448fe/0x000000
+msgid "Boss, please press the Aim Button !"
+msgstr ""
+
+#: olang/005184e3/0x644a7e/0x000000
+msgid ""
+"What's wrong? Press the Weapon-Attack Button\n"
+"after pressing the Aim Button ! "
+msgstr ""
+
+#: olang/005184e3/0x644afe/0x000000
+msgid ""
+"Boss, please press the Weapon-Attack Button \n"
+"after pressing the Aim Button !"
+msgstr ""
+
+#: olang/005184e3/0x644bfe/0x000001
+msgid ""
+"and press the Hand-to-hand Attack Button \n"
+"near an enemy as you tilt the left stick! "
+msgstr ""
+
+#: olang/005184e3/0x647bfe/0x000000
+msgid "You OK? Press RT!"
+msgstr ""
+
+#: olang/005184e3/0x647c7e/0x000000
+msgid "Boss, you have to press RT!"
+msgstr ""
+
+#: olang/005184e3/0x649a7d/0x000001
+#: olang/005184e3/0x649a7e/0x000001
+msgid ""
+"Then tilt the left stick \n"
+"to throw them.\r"
+msgstr ""
+
+#: olang/005184e3/0x649a7d/0x000002
+msgid ""
+"By tilting the left stick toward \n"
+"other enemies, \r"
+msgstr ""
+
+#: olang/005184e3/0x649a7e/0x000000
+msgid ""
+"Press the Hand-to-hand Attack Button \n"
+"near an enemy to restrain them!"
+msgstr ""
+
+#: olang/005184e3/0x649a7e/0x000002
+msgid ""
+"By tilting the left stick toward \n"
+"other enemies,  "
+msgstr ""
+
+#: olang/005184e3/0x64a7fd/0x000000
+msgid ""
+"Tilt the left stick while restraining \n"
+"the opponent, Boss!"
+msgstr ""
+
+#: olang/005184e3/0x64aafe/0x000000
+msgid ""
+"Press the Hand-to-hand Attack Button \n"
+"when the Icon appears! "
+msgstr ""
+
+#: olang/005184e3/0x6c8948/0xd71eb4
+msgid "Select a player to trade with."
+msgstr ""
+
+#: olang/005184e3/0x6ccb00/0xabe100
+msgid ""
+"Information restrictions now in place. \n"
+" Please wait. \n"
+" This section contains information from beyond your MAIN OPS progress, \n"
+" and will not be shown on your system."
+msgstr ""
+
+#: olang/005184e3/0x8082bf/0x000000
+#: olang/005184e3/0x8486c0/0x000000
+#: olang/005184e3/0x888abf/0x000000
+#: olang/005184e3/0x8c8ebf/0x000000
+#: olang/005184e3/0xf466bf/0x000000
+#: olang/005184e3/0xf86abf/0x000000
+#: olang/005184e3/0xfc6ebf/0x000000
+msgid "Talk!"
+msgstr ""
+
+#: olang/005184e3/0x840500/0x374a51
+msgid ""
+"Back in my old unit, the commander used to tell us at morning calisthenics: \"Whenever you're in trouble, hit the START button!!\"\n"
+"Wonder how he's doing these days."
+msgstr ""
+
+#: olang/005184e3/0x840ff7/0x44e180
+msgid "START button: End tutorial."
+msgstr ""
+
+#: olang/005184e3/0x8b79b6/0x220a93
+msgid ""
+"Checking storage device...\n"
+"Do not remove the storage device \n"
+"or turn off the power."
+msgstr ""
+
+#: olang/005184e3/0x8b79b6/0x2e2681
+msgid "Failed to capture screenshot.\r"
+msgstr ""
+
+#: olang/005184e3/0x8b79b6/0x3b222d
+msgid "This game saves data automatically. Do not turn off the console during this time."
+msgstr ""
+
+#: olang/005184e3/0x8b79b6/0x93a0b2
+msgid "Save data does not exist.\r"
+msgstr ""
+
+#: olang/005184e3/0x8b79b6/0xa6ed53
+#: olang/009c9ea4/0x8b79b6/0xa6ed53
+msgid "Failed to capture screenshot."
+msgstr ""
+
+#: olang/005184e3/0x8b79b6/0xbba0fd
+#: olang/0072f326/0xa49217/0x836b27
+#: olang/0072f326/0xdbd1b3/0x4dfe7b
+msgid "Saving content. Please don't turn off your console."
+msgstr ""
+
+#: olang/005184e3/0x8b79b6/0xffa130
+msgid ""
+"Insufficient free space on\r\n"
+"the storage device. This game requires \r\n"
+"at least XXMB of free space in order \n"
+"to save data."
+msgstr ""
+
+#: olang/005184e3/0x919326/0xc992ce
+msgid "Rotate: Left stick"
+msgstr ""
+
+#: olang/005184e3/0x919326/0xc992cf
+msgid "Switch Cameras: Directional pad"
+msgstr ""
+
+#: olang/005184e3/0x995528/0x945cab
+msgid "CANCEL: BACK"
+msgstr ""
+
+#: olang/005184e3/0x9b86ab/0x5f42b2
+#, c-format
+msgid ""
+"The entered text is too short.\n"
+"Please use at least %d characters."
+msgstr ""
+
+#: olang/005184e3/0x9dc379/0xd1ff23
+#: olang/00d0c740/0x482e82/0x341a6f
+msgid "Left stick sensitivity"
+msgstr ""
+
+#: olang/005184e3/0xa270a1/0x008b10
+msgid "Pushing the START button will open the menu window."
+msgstr ""
+
+#: olang/005184e3/0xb4becf/0x3df22b
+msgid "Remove Board:<I=×>"
+msgstr ""
+
+#: olang/005184e3/0xb767d9/0x2b08d5
+msgid "Host has ended the trade. Returning to the LOBBY menu."
+msgstr ""
+
+#: olang/005184e3/0xb767d9/0x62799f
+#: olang/009c9ea4/0xb767d9/0x62799f
+msgid ""
+"Waiting for trading partner…\n"
+"\n"
+" "
+msgstr ""
+
+#: olang/005184e3/0xb767d9/0xc03b74
+msgid ""
+"Waiting for trading partner…\n"
+"\n"
+"Xbox LIVE Party INVITE:<I=□>"
+msgstr ""
+
+#: olang/005184e3/0xb767d9/0xc76899
+msgid "Trade complete."
+msgstr ""
+
+#: olang/005184e3/0xb767d9/0xd9422f
+msgid ""
+"Waiting for trading partner…\n"
+"\n"
+"INVITE FRIEND:<I=□>"
+msgstr ""
+
+#: olang/005184e3/0xb767d9/0xe642d7
+msgid "An error has occurred."
+msgstr ""
+
+#: olang/005184e3/0xbd6e37/0x000000
+msgid "Lend me that."
+msgstr ""
+
+#: olang/005184e3/0xc2c780/0x000000
+#: olang/005184e3/0xf062bf/0x000000
+msgid "Start talking!"
+msgstr ""
+
+#: olang/005184e3/0xc2cb04/0x000000
+msgid "Consecutive!"
+msgstr ""
+
+#: olang/005184e3/0xc44774/0x1c9eb3
+msgid ""
+"There do not appear to be any volunteers.\n"
+"Play online to increase the number of volunteers."
+msgstr ""
+
+#: olang/005184e3/0xc99c23/0xd9d9b9
+msgid "BACK"
+msgstr ""
+
+#: olang/005184e3/0xcc177c/0xb35db6
+msgid "NEW"
+msgstr ""
+
+#: olang/005184e3/0xdb8c41/0x5b35a4
+#: olang/009c9ea4/0xdb8c41/0x5b35a4
+msgid "Manage AI weapon voice data and items used in-game in \"EXTRAS\"."
+msgstr ""
+
+#: olang/005184e3/0xdb8c41/0xfd3fd6
+msgid "<I=SEL>: Display help"
+msgstr ""
+
+#: olang/005184e3/0xe24ed2/0xf324d0
+msgid "HOLD DOWN B BUTTON."
+msgstr ""
+
+#: olang/005184e3/0xe6e4ed/0x3e6e5c
+msgid "When volunteers to MSF are located using SOLDIER SEARCH, a new mission (MSF Entrance Exam) will become available."
+msgstr ""
+
+#: olang/005184e3/0xe6e4ed/0x446cc2
+msgid ""
+"Recruit volunteers to MSF. \n"
+"Volunteer recruits are experienced veteran soldiers who will\n"
+"want to evaluate the true strength of the MSF and Snake\n"
+"before they agree to join.  Best them in battle to prove\n"
+"your clout and convince them to become your ally."
+msgstr ""
+
+#: olang/005184e3/0xe6e4ed/0x748b25
+msgid "After selecting HOST SEARCH and matching the Channel to that of the HOST (recruiter), the mission that is recruiting members will be displayed.  The current number of players and the maximum number of players appear to the right of the mission name."
+msgstr ""
+
+#: olang/005184e3/0xe6e4ed/0x7e41d7
+msgid "HOST SEARCH"
+msgstr ""
+
+#: olang/005184e3/0xe6e4ed/0x88883d
+msgid "Use the directional pad to select a Region from the map.  Press <I=DEC> to display the mission list for each Region.  After displaying the mission lists, press <I=CAN> to return to selecting a Region."
+msgstr ""
+
+#: olang/005184e3/0xe6e4ed/0x8dcc78
+msgid ""
+"Select the mission that you wish to participate in.  \n"
+"Use LT and RT to switch tabs.\n"
+"\n"
+"You can play CO-OPS missions by connecting to Xbox LIVE. To become the HOST of a CO-OPS mission, select a mission from any tab other than the CO-OPS tab.\n"
+"Other players can join from the CO-OPS tab using the HOST SEARCH function.\n"
+"The current and maximum number of players is shown to the right of the mission name."
+msgstr ""
+
+#: olang/005184e3/0xe6e4ed/0xcb251d
+msgid "MISSION INFO:"
+msgstr ""
+
+#: olang/005184e3/0xfb5d7b/0x6b92bb
+msgid "PRESS START BUTTON"
+msgstr ""
+
+#: olang/005184e3/0xfb5d7b/0x8ec58a
+msgid ""
+"Select your language.\n"
+"\n"
+"*Note: Subtitles can be toggled ON/OFF during cutscenes by pressing <I=SEL>."
+msgstr ""
+
+#: olang/005184e3/0xff8cbc/0x057609
+msgid "PRESS START"
+msgstr ""
+
+#: olang/005184e3/0xff8cbc/0x4e8250
+#: olang/009c9ea4/0xff8cbc/0x4e8250
+msgid "SPECTATOR MODE"
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x0097cb
+#: olang/0060e2f2/0xd449d6/0x8067d6
+#: olang/00cb1fb7/0x68bb2b/0x8067d6
+msgid "Friends Only"
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x05bc0b
+#: olang/00cb1fb7/0x68bb2b/0x05bc0b
+msgid "Standard"
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x0827ec
+msgid "Choose which player's gamer card to view."
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x133a31
+msgid ""
+"Voice chat with both teammates and\n"
+"enemies during a team vs. team mission."
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x22cde9
+#: olang/0060e2f2/0xd449d6/0xc2e5c4
+msgid "ALL"
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x22f903
+#: olang/0060e2f2/0xd449d6/0x2401cf
+msgid "VOICE CHAT"
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x28fff4
+#: olang/0060e2f2/0xd449d6/0xe890fe
+#: olang/00cb1fb7/0x68bb2b/0xe890fe
+msgid "Global"
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x2bf665
+msgid ""
+"Voice chat with only teammates\n"
+"during a team vs. team mission."
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x3bacb0
+msgid "Quick"
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x4ea906
+#: olang/0060e2f2/0xd449d6/0xdf0201
+msgid "TEAM ONLY"
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x664e51
+msgid "Voice Chat"
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x70f26b
+#: olang/0060e2f2/0xd449d6/0x958855
+msgid "Automatic"
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x7d0dc1
+#: olang/0060e2f2/0xd449d6/0xeb9470
+#: olang/00cb1fb7/0x68bb2b/0x7d0dc1
+msgid "Domestic"
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x83a11c
+#: olang/00cb1fb7/0x68bb2b/0x8f6fd7
+msgid ""
+"Searching.\n"
+"Press <I=CAN> to cancel the search."
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x908dce
+msgid "You can recruit VERSUS OPS MEMBERS worldwide over Xbox LIVE. Select the type of invitation."
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x92bc10
+#: olang/00cb1fb7/0x68bb2b/0x8188d5
+msgid "Select search conditions. Then select \"SEARCH\" to start looking for players."
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0x98e96f
+#: olang/0060e2f2/0xd449d6/0xc4b92e
+msgid "GAMER CARD"
+msgstr ""
+
+#: olang/0060e2f2/0xd449d6/0xc8785e
+msgid "Unable to create new game."
+msgstr ""
+
+#: olang/0066e64e/0x0c4f4e/0x0009b1
+#: olang/0066e64e/0x97a719/0x0009b1
+#: olang/0066e64e/0xef247a/0x0009b1
+msgid "Select Item"
+msgstr ""
+
+#: olang/0066e64e/0x0c4f4e/0x0009b2
+#: olang/0066e64e/0xef247a/0x0009b2
+#: olang/009c9ea4/0x39c9f3/0xe49f73
+msgid "Reset Camera"
+msgstr ""
+
+#: olang/0066e64e/0x0c4f4e/0x000a71
+#: olang/0066e64e/0x97a719/0x000a71
+#: olang/0066e64e/0xef247a/0x000a71
+msgid "Select Weapon"
+msgstr ""
+
+#: olang/0066e64e/0x0c4f4e/0x000a72
+#: olang/0066e64e/0x210062/0x7c723f
+#: olang/0066e64e/0x210062/0x7c7240
+#: olang/0066e64e/0x210062/0x7c7241
+#: olang/0066e64e/0x210062/0x7c7242
+#: olang/0066e64e/0x210062/0x7c7243
+#: olang/0066e64e/0x210062/0x7c7245
+#: olang/0066e64e/0x210062/0x7c7247
+#: olang/0066e64e/0x210062/0x7c7248
+#: olang/0066e64e/0x210063/0x7c723f
+#: olang/0066e64e/0x210063/0x7c7240
+#: olang/0066e64e/0x210063/0x7c7241
+#: olang/0066e64e/0x210063/0x7c7242
+#: olang/0066e64e/0x210063/0x7c7243
+#: olang/0066e64e/0x210063/0x7c7245
+#: olang/0066e64e/0x210063/0x7c7247
+#: olang/0066e64e/0x210063/0x7c7248
+#: olang/0066e64e/0x210063/0x8e483f
+#: olang/0066e64e/0x210063/0x8e4840
+#: olang/0066e64e/0x210063/0x8e4841
+#: olang/0066e64e/0x210064/0x7c7243
+#: olang/0066e64e/0x210064/0x7c7245
+#: olang/0066e64e/0x210064/0x7c7247
+#: olang/0066e64e/0x210064/0x7c7248
+#: olang/0066e64e/0x210064/0x8e483f
+#: olang/0066e64e/0x210064/0x8e4840
+#: olang/0066e64e/0x210064/0x8e4841
+#: olang/0066e64e/0x210064/0x8e4842
+#: olang/0066e64e/0x210065/0x7c7241
+#: olang/0066e64e/0x210065/0x7c7242
+#: olang/0066e64e/0x210065/0x7c7243
+#: olang/0066e64e/0x210065/0x7c7245
+#: olang/0066e64e/0x210065/0x8e483f
+#: olang/0066e64e/0x210065/0x8e4840
+#: olang/0066e64e/0x210065/0x8e4842
+#: olang/0066e64e/0x210066/0x7c723f
+#: olang/0066e64e/0x210066/0x7c7240
+#: olang/0066e64e/0x210066/0x7c7241
+#: olang/0066e64e/0x210066/0x7c7242
+#: olang/0066e64e/0x210066/0x7c7243
+#: olang/0066e64e/0x210066/0x7c7245
+#: olang/0066e64e/0x210066/0x8e4842
+#: olang/0066e64e/0x210067/0x7c723f
+#: olang/0066e64e/0x210067/0x7c7240
+#: olang/0066e64e/0x210067/0x7c7241
+#: olang/0066e64e/0x210067/0x7c7242
+#: olang/0066e64e/0x210067/0x7c7243
+#: olang/0066e64e/0x210067/0x7c7245
+#: olang/0066e64e/0x210067/0x7c7247
+#: olang/0066e64e/0x210067/0x7c7248
+#: olang/0066e64e/0x210067/0x8e483f
+#: olang/0066e64e/0x210067/0x8e4840
+#: olang/0066e64e/0x210067/0x8e4841
+#: olang/0066e64e/0x210067/0x8e4842
+#: olang/0066e64e/0x210068/0x7c723f
+#: olang/0066e64e/0x210068/0x7c7240
+#: olang/0066e64e/0x210068/0x7c7241
+#: olang/0066e64e/0x210068/0x7c7242
+#: olang/0066e64e/0x210068/0x7c7243
+#: olang/0066e64e/0x210068/0x7c7244
+#: olang/0066e64e/0x210068/0x7c7245
+#: olang/0066e64e/0x210068/0x7c7246
+#: olang/0066e64e/0x210068/0x7c7247
+#: olang/0066e64e/0x210068/0x7c7248
+#: olang/0066e64e/0x210068/0x8e483f
+#: olang/0066e64e/0x210068/0x8e4840
+#: olang/0066e64e/0x210068/0x8e4841
+#: olang/0066e64e/0x210068/0x8e4842
+#: olang/0066e64e/0x210068/0x8e4843
+#: olang/0066e64e/0x210068/0x8e4844
+#: olang/0066e64e/0x210068/0x8e4845
+#: olang/0066e64e/0x210069/0x7c723f
+#: olang/0066e64e/0x210069/0x7c7242
+#: olang/0066e64e/0x210069/0x7c7243
+#: olang/0066e64e/0x210069/0x7c7245
+#: olang/0066e64e/0x210069/0x7c7247
+#: olang/0066e64e/0x210069/0x7c7248
+#: olang/0066e64e/0x210069/0x8e483f
+#: olang/0066e64e/0x210069/0x8e4840
+#: olang/0066e64e/0x210069/0x8e4841
+#: olang/0066e64e/0x210069/0x8e4842
+#: olang/0066e64e/0x21006a/0x7c723f
+#: olang/0066e64e/0x21006a/0x7c7242
+#: olang/0066e64e/0x21006a/0x7c7243
+#: olang/0066e64e/0x21006a/0x7c7245
+#: olang/0066e64e/0x21006a/0x8e483f
+#: olang/0066e64e/0x21006a/0x8e4840
+#: olang/0066e64e/0x21006a/0x8e4842
+#: olang/0066e64e/0x21006b/0x7c7243
+#: olang/0066e64e/0x21006b/0x7c7245
+#: olang/0066e64e/0x21006b/0x7c7247
+#: olang/0066e64e/0x21006b/0x7c7248
+#: olang/0066e64e/0x21006b/0x8e483f
+#: olang/0066e64e/0x21006b/0x8e4840
+#: olang/0066e64e/0x21006b/0x8e4841
+#: olang/0066e64e/0x21006b/0x8e4842
+#: olang/0066e64e/0x35f472/0x7c7243
+#: olang/0066e64e/0x35f472/0x7c7245
+#: olang/0066e64e/0x35f472/0x8e4842
+#: olang/0066e64e/0x4983dd/0x7c7243
+#: olang/0066e64e/0x4983dd/0x7c7245
+#: olang/0066e64e/0x4983dd/0x8e4842
+#: olang/0066e64e/0x4983dd/0x8e4844
+#: olang/0066e64e/0x4983dd/0x8e4845
+#: olang/0066e64e/0x4ad0f0/0x7c723f
+#: olang/0066e64e/0x4ad0f0/0x7c7240
+#: olang/0066e64e/0x4ad0f0/0x7c7241
+#: olang/0066e64e/0x4ad0f0/0x7c7242
+#: olang/0066e64e/0x4ad0f0/0x7c7243
+#: olang/0066e64e/0x4ad0f0/0x7c7244
+#: olang/0066e64e/0x4ad0f0/0x7c7245
+#: olang/0066e64e/0x4ad0f0/0x7c7246
+#: olang/0066e64e/0x4ad0f0/0x7c7247
+#: olang/0066e64e/0x4ad0f0/0x7c7248
+#: olang/0066e64e/0x4ad0f0/0x8e483f
+#: olang/0066e64e/0x4ad0f0/0x8e4840
+#: olang/0066e64e/0x4ad0f0/0x8e4841
+#: olang/0066e64e/0x4ad0f0/0x8e4842
+#: olang/0066e64e/0x4ad0f0/0x8e4843
+#: olang/0066e64e/0x4ad0f0/0x8e4844
+#: olang/0066e64e/0x4ad0f0/0x8e4845
+#: olang/0066e64e/0x5389f6/0x7c7242
+#: olang/0066e64e/0x5389f6/0x7c7243
+#: olang/0066e64e/0x5389f6/0x7c7245
+#: olang/0066e64e/0x5389f6/0x8e4842
+#: olang/0066e64e/0x5389f6/0x8e4844
+#: olang/0066e64e/0x5389f6/0x8e4845
+#: olang/0066e64e/0x53f3f0/0x7c7241
+#: olang/0066e64e/0x53f3f0/0x7c7243
+#: olang/0066e64e/0x53f3f0/0x7c7245
+#: olang/0066e64e/0x53f3f0/0x8e4842
+#: olang/0066e64e/0x678b3d/0x7c7243
+#: olang/0066e64e/0x678b3d/0x7c7244
+#: olang/0066e64e/0x678b3d/0x7c7245
+#: olang/0066e64e/0x678b3d/0x7c7246
+#: olang/0066e64e/0x678b3d/0x8e483f
+#: olang/0066e64e/0x678b3d/0x8e4840
+#: olang/0066e64e/0x678b3d/0x8e4842
+#: olang/0066e64e/0x678b3d/0x8e4844
+#: olang/0066e64e/0x678b3d/0x8e4845
+#: olang/0066e64e/0x7893c2/0x7c7243
+#: olang/0066e64e/0x7893c2/0x7c7245
+#: olang/0066e64e/0x7893c2/0x8e4842
+#: olang/0066e64e/0x89e528/0x7c7243
+#: olang/0066e64e/0x89e528/0x7c7245
+#: olang/0066e64e/0x89e528/0x8e4842
+#: olang/0066e64e/0x89e528/0x8e4844
+#: olang/0066e64e/0x89e528/0x8e4845
+#: olang/0066e64e/0x89e8a0/0x7c7243
+#: olang/0066e64e/0x89e8a0/0x7c7245
+#: olang/0066e64e/0x89e8a0/0x8e4842
+#: olang/0066e64e/0x89e8a0/0x8e4844
+#: olang/0066e64e/0x89e8a0/0x8e4845
+#: olang/0066e64e/0x97a719/0x3b8f30
+#: olang/0066e64e/0xa69279/0x7c7243
+#: olang/0066e64e/0xa69279/0x7c7245
+#: olang/0066e64e/0xa69279/0x8e4842
+#: olang/0066e64e/0xa69279/0x8e4844
+#: olang/0066e64e/0xa69279/0x8e4845
+#: olang/0066e64e/0xb8862e/0x7c7241
+#: olang/0066e64e/0xb8862e/0x7c7243
+#: olang/0066e64e/0xb8862e/0x7c7245
+#: olang/0066e64e/0xb8862e/0x8e4842
+#: olang/0066e64e/0xd33fba/0x7c7241
+#: olang/0066e64e/0xd33fba/0x7c7243
+#: olang/0066e64e/0xd33fba/0x7c7245
+#: olang/0066e64e/0xd33fba/0x8e4842
+#: olang/0066e64e/0xd33fba/0x8e4844
+#: olang/0066e64e/0xd33fba/0x8e4845
+#: olang/0066e64e/0xd4462e/0x7c7241
+#: olang/0066e64e/0xd4462e/0x7c7243
+#: olang/0066e64e/0xd4462e/0x7c7245
+#: olang/0066e64e/0xd4462e/0x8e4842
+#: olang/0066e64e/0xda75f0/0x7c7241
+#: olang/0066e64e/0xda75f0/0x7c7243
+#: olang/0066e64e/0xda75f0/0x7c7245
+#: olang/0066e64e/0xda75f0/0x8e483f
+#: olang/0066e64e/0xda75f0/0x8e4840
+#: olang/0066e64e/0xda75f0/0x8e4842
+#: olang/0066e64e/0xdd6303/0x7c7241
+#: olang/0066e64e/0xdd6303/0x7c7243
+#: olang/0066e64e/0xdd6303/0x7c7245
+#: olang/0066e64e/0xdd6303/0x8e4842
+#: olang/0066e64e/0xdd6303/0x8e4844
+#: olang/0066e64e/0xdd6303/0x8e4845
+#: olang/0066e64e/0xecf67f/0x7c7243
+#: olang/0066e64e/0xecf67f/0x7c7245
+#: olang/0066e64e/0xecf67f/0x8e4842
+#: olang/0066e64e/0xecf67f/0x8e4844
+#: olang/0066e64e/0xecf67f/0x8e4845
+#: olang/009c9ea4/0x210062/0x7c723f
+#: olang/009c9ea4/0x210062/0x7c7240
+#: olang/009c9ea4/0x210062/0x7c7241
+#: olang/009c9ea4/0x210062/0x7c7242
+#: olang/009c9ea4/0x210062/0x7c7243
+#: olang/009c9ea4/0x210062/0x7c7245
+#: olang/009c9ea4/0x210062/0x7c7247
+#: olang/009c9ea4/0x210062/0x7c7248
+#: olang/009c9ea4/0x210063/0x7c723f
+#: olang/009c9ea4/0x210063/0x7c7240
+#: olang/009c9ea4/0x210063/0x7c7241
+#: olang/009c9ea4/0x210063/0x7c7242
+#: olang/009c9ea4/0x210063/0x7c7243
+#: olang/009c9ea4/0x210063/0x7c7245
+#: olang/009c9ea4/0x210063/0x7c7247
+#: olang/009c9ea4/0x210063/0x7c7248
+#: olang/009c9ea4/0x210063/0x8e483f
+#: olang/009c9ea4/0x210063/0x8e4840
+#: olang/009c9ea4/0x210063/0x8e4841
+#: olang/009c9ea4/0x210064/0x7c7243
+#: olang/009c9ea4/0x210064/0x7c7245
+#: olang/009c9ea4/0x210064/0x7c7247
+#: olang/009c9ea4/0x210064/0x7c7248
+#: olang/009c9ea4/0x210064/0x8e483f
+#: olang/009c9ea4/0x210064/0x8e4840
+#: olang/009c9ea4/0x210064/0x8e4841
+#: olang/009c9ea4/0x210064/0x8e4842
+#: olang/009c9ea4/0x210065/0x7c7241
+#: olang/009c9ea4/0x210065/0x7c7242
+#: olang/009c9ea4/0x210065/0x7c7243
+#: olang/009c9ea4/0x210065/0x7c7245
+#: olang/009c9ea4/0x210065/0x8e483f
+#: olang/009c9ea4/0x210065/0x8e4840
+#: olang/009c9ea4/0x210065/0x8e4842
+#: olang/009c9ea4/0x210066/0x7c723f
+#: olang/009c9ea4/0x210066/0x7c7240
+#: olang/009c9ea4/0x210066/0x7c7241
+#: olang/009c9ea4/0x210066/0x7c7242
+#: olang/009c9ea4/0x210066/0x7c7243
+#: olang/009c9ea4/0x210066/0x7c7245
+#: olang/009c9ea4/0x210066/0x8e4842
+#: olang/009c9ea4/0x210067/0x7c723f
+#: olang/009c9ea4/0x210067/0x7c7240
+#: olang/009c9ea4/0x210067/0x7c7241
+#: olang/009c9ea4/0x210067/0x7c7242
+#: olang/009c9ea4/0x210067/0x7c7243
+#: olang/009c9ea4/0x210067/0x7c7245
+#: olang/009c9ea4/0x210067/0x7c7247
+#: olang/009c9ea4/0x210067/0x7c7248
+#: olang/009c9ea4/0x210067/0x8e483f
+#: olang/009c9ea4/0x210067/0x8e4840
+#: olang/009c9ea4/0x210067/0x8e4841
+#: olang/009c9ea4/0x210067/0x8e4842
+#: olang/009c9ea4/0x210068/0x7c723f
+#: olang/009c9ea4/0x210068/0x7c7240
+#: olang/009c9ea4/0x210068/0x7c7241
+#: olang/009c9ea4/0x210068/0x7c7242
+#: olang/009c9ea4/0x210068/0x7c7243
+#: olang/009c9ea4/0x210068/0x7c7244
+#: olang/009c9ea4/0x210068/0x7c7245
+#: olang/009c9ea4/0x210068/0x7c7246
+#: olang/009c9ea4/0x210068/0x7c7247
+#: olang/009c9ea4/0x210068/0x7c7248
+#: olang/009c9ea4/0x210068/0x8e483f
+#: olang/009c9ea4/0x210068/0x8e4840
+#: olang/009c9ea4/0x210068/0x8e4841
+#: olang/009c9ea4/0x210068/0x8e4842
+#: olang/009c9ea4/0x210068/0x8e4844
+#: olang/009c9ea4/0x210068/0x8e4845
+#: olang/009c9ea4/0x210069/0x7c723f
+#: olang/009c9ea4/0x210069/0x7c7242
+#: olang/009c9ea4/0x210069/0x7c7243
+#: olang/009c9ea4/0x210069/0x7c7245
+#: olang/009c9ea4/0x210069/0x7c7247
+#: olang/009c9ea4/0x210069/0x7c7248
+#: olang/009c9ea4/0x210069/0x8e483f
+#: olang/009c9ea4/0x210069/0x8e4840
+#: olang/009c9ea4/0x210069/0x8e4841
+#: olang/009c9ea4/0x210069/0x8e4842
+#: olang/009c9ea4/0x21006a/0x7c723f
+#: olang/009c9ea4/0x21006a/0x7c7242
+#: olang/009c9ea4/0x21006a/0x7c7243
+#: olang/009c9ea4/0x21006a/0x7c7245
+#: olang/009c9ea4/0x21006a/0x8e483f
+#: olang/009c9ea4/0x21006a/0x8e4840
+#: olang/009c9ea4/0x21006a/0x8e4842
+#: olang/009c9ea4/0x21006b/0x7c7243
+#: olang/009c9ea4/0x21006b/0x7c7245
+#: olang/009c9ea4/0x21006b/0x7c7247
+#: olang/009c9ea4/0x21006b/0x7c7248
+#: olang/009c9ea4/0x21006b/0x8e483f
+#: olang/009c9ea4/0x21006b/0x8e4840
+#: olang/009c9ea4/0x21006b/0x8e4841
+#: olang/009c9ea4/0x21006b/0x8e4842
+#: olang/009c9ea4/0x35f472/0x7c7243
+#: olang/009c9ea4/0x35f472/0x7c7245
+#: olang/009c9ea4/0x35f472/0x8e4842
+#: olang/009c9ea4/0x4983dd/0x7c7243
+#: olang/009c9ea4/0x4983dd/0x7c7245
+#: olang/009c9ea4/0x4983dd/0x8e4842
+#: olang/009c9ea4/0x4983dd/0x8e4844
+#: olang/009c9ea4/0x4983dd/0x8e4845
+#: olang/009c9ea4/0x4ad0f0/0x7c723f
+#: olang/009c9ea4/0x4ad0f0/0x7c7240
+#: olang/009c9ea4/0x4ad0f0/0x7c7241
+#: olang/009c9ea4/0x4ad0f0/0x7c7242
+#: olang/009c9ea4/0x4ad0f0/0x7c7243
+#: olang/009c9ea4/0x4ad0f0/0x7c7244
+#: olang/009c9ea4/0x4ad0f0/0x7c7245
+#: olang/009c9ea4/0x4ad0f0/0x7c7246
+#: olang/009c9ea4/0x4ad0f0/0x7c7247
+#: olang/009c9ea4/0x4ad0f0/0x7c7248
+#: olang/009c9ea4/0x4ad0f0/0x8e483f
+#: olang/009c9ea4/0x4ad0f0/0x8e4840
+#: olang/009c9ea4/0x4ad0f0/0x8e4841
+#: olang/009c9ea4/0x4ad0f0/0x8e4842
+#: olang/009c9ea4/0x4ad0f0/0x8e4843
+#: olang/009c9ea4/0x4ad0f0/0x8e4844
+#: olang/009c9ea4/0x4ad0f0/0x8e4845
+#: olang/009c9ea4/0x5389f6/0x7c7242
+#: olang/009c9ea4/0x5389f6/0x7c7243
+#: olang/009c9ea4/0x5389f6/0x7c7245
+#: olang/009c9ea4/0x5389f6/0x8e4842
+#: olang/009c9ea4/0x5389f6/0x8e4844
+#: olang/009c9ea4/0x5389f6/0x8e4845
+#: olang/009c9ea4/0x53f3f0/0x7c7241
+#: olang/009c9ea4/0x53f3f0/0x7c7243
+#: olang/009c9ea4/0x53f3f0/0x7c7245
+#: olang/009c9ea4/0x53f3f0/0x8e4842
+#: olang/009c9ea4/0x678b3d/0x7c7243
+#: olang/009c9ea4/0x678b3d/0x7c7244
+#: olang/009c9ea4/0x678b3d/0x7c7245
+#: olang/009c9ea4/0x678b3d/0x7c7246
+#: olang/009c9ea4/0x678b3d/0x8e483f
+#: olang/009c9ea4/0x678b3d/0x8e4840
+#: olang/009c9ea4/0x678b3d/0x8e4842
+#: olang/009c9ea4/0x678b3d/0x8e4844
+#: olang/009c9ea4/0x678b3d/0x8e4845
+#: olang/009c9ea4/0x7893c2/0x7c7243
+#: olang/009c9ea4/0x7893c2/0x7c7245
+#: olang/009c9ea4/0x7893c2/0x8e4842
+#: olang/009c9ea4/0x89e528/0x7c7243
+#: olang/009c9ea4/0x89e528/0x7c7245
+#: olang/009c9ea4/0x89e528/0x8e4842
+#: olang/009c9ea4/0x89e528/0x8e4844
+#: olang/009c9ea4/0x89e528/0x8e4845
+#: olang/009c9ea4/0x89e8a0/0x7c7243
+#: olang/009c9ea4/0x89e8a0/0x7c7245
+#: olang/009c9ea4/0x89e8a0/0x8e4842
+#: olang/009c9ea4/0x89e8a0/0x8e4844
+#: olang/009c9ea4/0x89e8a0/0x8e4845
+#: olang/009c9ea4/0xa69279/0x7c7243
+#: olang/009c9ea4/0xa69279/0x7c7245
+#: olang/009c9ea4/0xa69279/0x8e4842
+#: olang/009c9ea4/0xa69279/0x8e4844
+#: olang/009c9ea4/0xa69279/0x8e4845
+#: olang/009c9ea4/0xb8862e/0x7c7241
+#: olang/009c9ea4/0xb8862e/0x7c7243
+#: olang/009c9ea4/0xb8862e/0x7c7245
+#: olang/009c9ea4/0xb8862e/0x8e4842
+#: olang/009c9ea4/0xd33fba/0x7c7241
+#: olang/009c9ea4/0xd33fba/0x7c7243
+#: olang/009c9ea4/0xd33fba/0x7c7245
+#: olang/009c9ea4/0xd33fba/0x8e4842
+#: olang/009c9ea4/0xd33fba/0x8e4844
+#: olang/009c9ea4/0xd33fba/0x8e4845
+#: olang/009c9ea4/0xd4462e/0x7c7241
+#: olang/009c9ea4/0xd4462e/0x7c7243
+#: olang/009c9ea4/0xd4462e/0x7c7245
+#: olang/009c9ea4/0xd4462e/0x8e4842
+#: olang/009c9ea4/0xda75f0/0x7c7241
+#: olang/009c9ea4/0xda75f0/0x7c7243
+#: olang/009c9ea4/0xda75f0/0x7c7245
+#: olang/009c9ea4/0xda75f0/0x8e483f
+#: olang/009c9ea4/0xda75f0/0x8e4840
+#: olang/009c9ea4/0xda75f0/0x8e4842
+#: olang/009c9ea4/0xdd6303/0x7c7241
+#: olang/009c9ea4/0xdd6303/0x7c7243
+#: olang/009c9ea4/0xdd6303/0x7c7245
+#: olang/009c9ea4/0xdd6303/0x8e4842
+#: olang/009c9ea4/0xdd6303/0x8e4844
+#: olang/009c9ea4/0xdd6303/0x8e4845
+#: olang/009c9ea4/0xecf67f/0x7c7243
+#: olang/009c9ea4/0xecf67f/0x7c7245
+#: olang/009c9ea4/0xecf67f/0x8e4842
+#: olang/009c9ea4/0xecf67f/0x8e4844
+#: olang/009c9ea4/0xecf67f/0x8e4845
+msgid "Not Used"
+msgstr ""
+
+#: olang/0066e64e/0x0c4f4e/0x000af0
+#: olang/0066e64e/0x0c4f4e/0x23472e
+#: olang/0066e64e/0x0c4f4e/0x271d14
+#: olang/0066e64e/0x0c4f4e/0x45a559
+#: olang/0066e64e/0x0c4f4e/0x5b41ee
+#: olang/0066e64e/0x97a719/0x5b41ee
+#: olang/0066e64e/0xef247a/0x000af0
+#: olang/0066e64e/0xef247a/0x23472e
+#: olang/0066e64e/0xef247a/0x271d14
+#: olang/0066e64e/0xef247a/0x45a559
+#: olang/0066e64e/0xef247a/0x5b41ee
+msgid "Shift Camera"
+msgstr ""
+
+#: olang/0066e64e/0x0c4f4e/0x3adadb
+msgid "Aim Weapon/Attack"
+msgstr ""
+
+#: olang/0066e64e/0x0c4f4e/0x3b8f30
+msgid "Melee Attack/Cancel Aim"
+msgstr ""
+
+#: olang/0066e64e/0x0c4f4e/0x5b0e99
+#: olang/0066e64e/0x97a719/0x5b0e99
+#: olang/0066e64e/0xef247a/0x5b0e99
+msgid "Display Menu"
+msgstr ""
+
+#: olang/0066e64e/0x0c4f4e/0x5b406e
+#: olang/0066e64e/0x97a719/0x5b406e
+#: olang/0066e64e/0xef247a/0x5b406e
+msgid "Move"
+msgstr ""
+
+#: olang/0066e64e/0x0c4f4e/0xa78e90
+#: olang/0066e64e/0x97a719/0x23472e
+#: olang/0066e64e/0x97a719/0xa78e90
+#: olang/0066e64e/0xef247a/0xa78e90
+msgid "Crouch/Lie"
+msgstr ""
+
+#: olang/0066e64e/0x0c4f4e/0xba164f
+msgid "Action Button/Reload"
+msgstr ""
+
+#: olang/0066e64e/0x210062/0x7c7244
+#: olang/0066e64e/0x210062/0x7c7246
+#: olang/0066e64e/0x210063/0x7c7244
+#: olang/0066e64e/0x210063/0x7c7246
+#: olang/0066e64e/0x210064/0x7c7244
+#: olang/0066e64e/0x210064/0x7c7246
+#: olang/0066e64e/0x210065/0x7c7244
+#: olang/0066e64e/0x210065/0x7c7246
+#: olang/0066e64e/0x210066/0x7c7244
+#: olang/0066e64e/0x210066/0x7c7246
+#: olang/0066e64e/0x210067/0x7c7244
+#: olang/0066e64e/0x210067/0x7c7246
+#: olang/0066e64e/0x210069/0x7c7244
+#: olang/0066e64e/0x210069/0x7c7246
+#: olang/0066e64e/0x21006a/0x7c7244
+#: olang/0066e64e/0x21006a/0x7c7246
+#: olang/0066e64e/0x21006b/0x7c7244
+#: olang/0066e64e/0x21006b/0x7c7246
+#: olang/0066e64e/0x35f472/0x7c7244
+#: olang/0066e64e/0x35f472/0x7c7246
+#: olang/0066e64e/0x4983dd/0x7c7244
+#: olang/0066e64e/0x4983dd/0x7c7246
+#: olang/0066e64e/0x5389f6/0x7c7244
+#: olang/0066e64e/0x5389f6/0x7c7246
+#: olang/0066e64e/0x53f3f0/0x7c7244
+#: olang/0066e64e/0x53f3f0/0x7c7246
+#: olang/0066e64e/0x7893c2/0x7c7244
+#: olang/0066e64e/0x7893c2/0x7c7246
+#: olang/0066e64e/0x89e528/0x7c7244
+#: olang/0066e64e/0x89e528/0x7c7246
+#: olang/0066e64e/0x89e8a0/0x7c7244
+#: olang/0066e64e/0x89e8a0/0x7c7246
+#: olang/0066e64e/0xa69279/0x7c7244
+#: olang/0066e64e/0xa69279/0x7c7246
+#: olang/0066e64e/0xb8862e/0x7c7244
+#: olang/0066e64e/0xb8862e/0x7c7246
+#: olang/0066e64e/0xd33fba/0x7c7244
+#: olang/0066e64e/0xd33fba/0x7c7246
+#: olang/0066e64e/0xd4462e/0x7c7244
+#: olang/0066e64e/0xd4462e/0x7c7246
+#: olang/0066e64e/0xda75f0/0x7c7244
+#: olang/0066e64e/0xda75f0/0x7c7246
+#: olang/0066e64e/0xdd6303/0x7c7244
+#: olang/0066e64e/0xdd6303/0x7c7246
+#: olang/0066e64e/0xecf67f/0x7c7244
+#: olang/0066e64e/0xecf67f/0x7c7246
+#: olang/009c9ea4/0x210062/0x7c7244
+#: olang/009c9ea4/0x210062/0x7c7246
+#: olang/009c9ea4/0x210063/0x7c7244
+#: olang/009c9ea4/0x210063/0x7c7246
+#: olang/009c9ea4/0x210064/0x7c7244
+#: olang/009c9ea4/0x210064/0x7c7246
+#: olang/009c9ea4/0x210065/0x7c7244
+#: olang/009c9ea4/0x210065/0x7c7246
+#: olang/009c9ea4/0x210066/0x7c7244
+#: olang/009c9ea4/0x210066/0x7c7246
+#: olang/009c9ea4/0x210067/0x7c7244
+#: olang/009c9ea4/0x210067/0x7c7246
+#: olang/009c9ea4/0x210069/0x7c7244
+#: olang/009c9ea4/0x210069/0x7c7246
+#: olang/009c9ea4/0x21006a/0x7c7244
+#: olang/009c9ea4/0x21006a/0x7c7246
+#: olang/009c9ea4/0x21006b/0x7c7244
+#: olang/009c9ea4/0x21006b/0x7c7246
+#: olang/009c9ea4/0x35f472/0x7c7244
+#: olang/009c9ea4/0x35f472/0x7c7246
+#: olang/009c9ea4/0x4983dd/0x7c7244
+#: olang/009c9ea4/0x4983dd/0x7c7246
+#: olang/009c9ea4/0x5389f6/0x7c7244
+#: olang/009c9ea4/0x5389f6/0x7c7246
+#: olang/009c9ea4/0x53f3f0/0x7c7244
+#: olang/009c9ea4/0x53f3f0/0x7c7246
+#: olang/009c9ea4/0x7893c2/0x7c7244
+#: olang/009c9ea4/0x7893c2/0x7c7246
+#: olang/009c9ea4/0x89e528/0x7c7244
+#: olang/009c9ea4/0x89e528/0x7c7246
+#: olang/009c9ea4/0x89e8a0/0x7c7244
+#: olang/009c9ea4/0x89e8a0/0x7c7246
+#: olang/009c9ea4/0xa69279/0x7c7244
+#: olang/009c9ea4/0xa69279/0x7c7246
+#: olang/009c9ea4/0xb8862e/0x7c7244
+#: olang/009c9ea4/0xb8862e/0x7c7246
+#: olang/009c9ea4/0xd33fba/0x7c7244
+#: olang/009c9ea4/0xd33fba/0x7c7246
+#: olang/009c9ea4/0xd4462e/0x7c7244
+#: olang/009c9ea4/0xd4462e/0x7c7246
+#: olang/009c9ea4/0xda75f0/0x7c7244
+#: olang/009c9ea4/0xda75f0/0x7c7246
+#: olang/009c9ea4/0xdd6303/0x7c7244
+#: olang/009c9ea4/0xdd6303/0x7c7246
+#: olang/009c9ea4/0xecf67f/0x7c7244
+#: olang/009c9ea4/0xecf67f/0x7c7246
+msgid "Change Tab"
+msgstr ""
+
+#: olang/0066e64e/0x210062/0x8e483f
+#: olang/0066e64e/0x210062/0x8e4840
+#: olang/0066e64e/0x210062/0x8e4841
+#: olang/009c9ea4/0x210062/0x8e483f
+#: olang/009c9ea4/0x210062/0x8e4840
+#: olang/009c9ea4/0x210062/0x8e4841
+msgid "Change Floor (on maps with more than 1 story)"
+msgstr ""
+
+#: olang/0066e64e/0x210062/0x8e4842
+#: olang/0066e64e/0x210063/0x8e4842
+#: olang/009c9ea4/0x210062/0x8e4842
+#: olang/009c9ea4/0x210063/0x8e4842
+msgid "Scroll"
+msgstr ""
+
+#: olang/0066e64e/0x210062/0x8e4843
+#: olang/0066e64e/0x210063/0x8e4843
+#: olang/0066e64e/0x210064/0x8e4843
+#: olang/0066e64e/0x210065/0x8e4843
+#: olang/0066e64e/0x210066/0x8e4843
+#: olang/0066e64e/0x210067/0x8e4843
+#: olang/0066e64e/0x210069/0x8e4843
+#: olang/0066e64e/0x21006a/0x8e4843
+#: olang/0066e64e/0x21006b/0x8e4843
+msgid "Display Key Help"
+msgstr ""
+
+#: olang/0066e64e/0x210062/0x8e4844
+#: olang/0066e64e/0x210062/0x8e4845
+#: olang/0066e64e/0x210063/0x8e4844
+#: olang/0066e64e/0x210063/0x8e4845
+#: olang/0066e64e/0x210064/0x8e4844
+#: olang/0066e64e/0x210064/0x8e4845
+#: olang/0066e64e/0x210065/0x8e4844
+#: olang/0066e64e/0x210065/0x8e4845
+#: olang/0066e64e/0x210066/0x8e4844
+#: olang/0066e64e/0x210066/0x8e4845
+#: olang/0066e64e/0x210067/0x8e4844
+#: olang/0066e64e/0x210067/0x8e4845
+#: olang/0066e64e/0x210069/0x8e4844
+#: olang/0066e64e/0x210069/0x8e4845
+#: olang/0066e64e/0x21006a/0x8e4844
+#: olang/0066e64e/0x21006a/0x8e4845
+#: olang/0066e64e/0x21006b/0x8e4844
+#: olang/0066e64e/0x21006b/0x8e4845
+#: olang/009c9ea4/0x210062/0x8e4844
+#: olang/009c9ea4/0x210062/0x8e4845
+#: olang/009c9ea4/0x210063/0x8e4844
+#: olang/009c9ea4/0x210063/0x8e4845
+#: olang/009c9ea4/0x210064/0x8e4844
+#: olang/009c9ea4/0x210064/0x8e4845
+#: olang/009c9ea4/0x210065/0x8e4844
+#: olang/009c9ea4/0x210065/0x8e4845
+#: olang/009c9ea4/0x210066/0x8e4844
+#: olang/009c9ea4/0x210066/0x8e4845
+#: olang/009c9ea4/0x210067/0x8e4844
+#: olang/009c9ea4/0x210067/0x8e4845
+#: olang/009c9ea4/0x210069/0x8e4844
+#: olang/009c9ea4/0x210069/0x8e4845
+#: olang/009c9ea4/0x21006a/0x8e4844
+#: olang/009c9ea4/0x21006a/0x8e4845
+#: olang/009c9ea4/0x21006b/0x8e4844
+#: olang/009c9ea4/0x21006b/0x8e4845
+msgid "Close Menu"
+msgstr ""
+
+#: olang/0066e64e/0x210064/0x7c723f
+#: olang/0066e64e/0x210064/0x7c7240
+#: olang/0066e64e/0x210064/0x7c7241
+#: olang/0066e64e/0x210064/0x7c7242
+#: olang/009c9ea4/0x210064/0x7c723f
+#: olang/009c9ea4/0x210064/0x7c7240
+#: olang/009c9ea4/0x210064/0x7c7241
+#: olang/009c9ea4/0x210064/0x7c7242
+msgid "Group Select / CO-OPS Comm. Select"
+msgstr ""
+
+#: olang/0066e64e/0x210065/0x7c723f
+#: olang/0066e64e/0x210065/0x7c7247
+#: olang/0066e64e/0x210065/0x7c7248
+#: olang/0066e64e/0x210065/0x8e4841
+#: olang/0066e64e/0x5389f6/0x7c723f
+#: olang/0066e64e/0x53f3f0/0x7c723f
+#: olang/0066e64e/0x678b3d/0x7c723f
+#: olang/0066e64e/0x7893c2/0x7c723f
+#: olang/0066e64e/0xa69279/0x7c723f
+#: olang/0066e64e/0xb8862e/0x7c723f
+#: olang/0066e64e/0xd33fba/0x7c723f
+#: olang/0066e64e/0xd4462e/0x7c723f
+#: olang/0066e64e/0xda75f0/0x7c723f
+#: olang/0066e64e/0xdd6303/0x7c723f
+#: olang/0066e64e/0xecf67f/0x7c723f
+#: olang/009c9ea4/0x210065/0x7c723f
+#: olang/009c9ea4/0x210065/0x7c7247
+#: olang/009c9ea4/0x210065/0x7c7248
+#: olang/009c9ea4/0x210065/0x8e4841
+#: olang/009c9ea4/0x5389f6/0x7c723f
+#: olang/009c9ea4/0x53f3f0/0x7c723f
+#: olang/009c9ea4/0x678b3d/0x7c723f
+#: olang/009c9ea4/0x7893c2/0x7c723f
+#: olang/009c9ea4/0xa69279/0x7c723f
+#: olang/009c9ea4/0xb8862e/0x7c723f
+#: olang/009c9ea4/0xd33fba/0x7c723f
+#: olang/009c9ea4/0xd4462e/0x7c723f
+#: olang/009c9ea4/0xda75f0/0x7c723f
+#: olang/009c9ea4/0xdd6303/0x7c723f
+#: olang/009c9ea4/0xecf67f/0x7c723f
+msgid "Select"
+msgstr ""
+
+#: olang/0066e64e/0x210065/0x7c7240
+#: olang/0066e64e/0xecf67f/0x7c7241
+#: olang/009c9ea4/0x210065/0x7c7240
+#: olang/00d0c740/0x482e82/0x381576
+msgid "Cancel"
+msgstr ""
+
+#: olang/0066e64e/0x210066/0x7c7247
+#: olang/0066e64e/0x210066/0x7c7248
+#: olang/009c9ea4/0x210066/0x7c7247
+#: olang/009c9ea4/0x210066/0x7c7248
+msgid "Item Select"
+msgstr ""
+
+#: olang/0066e64e/0x210066/0x8e483f
+#: olang/0066e64e/0x210066/0x8e4840
+#: olang/009c9ea4/0x210066/0x8e483f
+#: olang/009c9ea4/0x210066/0x8e4840
+msgid "Setting Select"
+msgstr ""
+
+#: olang/0066e64e/0x210066/0x8e4841
+#: olang/009c9ea4/0x210066/0x8e4841
+msgid "Item Select / Setting Select "
+msgstr ""
+
+#: olang/0066e64e/0x210069/0x7c7240
+#: olang/0066e64e/0x21006a/0x7c7240
+#: olang/0066e64e/0x4983dd/0x7c7242
+#: olang/009c9ea4/0x210069/0x7c7240
+#: olang/009c9ea4/0x21006a/0x7c7240
+#: olang/009c9ea4/0x4983dd/0x7c7242
+msgid "Play"
+msgstr ""
+
+#: olang/0066e64e/0x210069/0x7c7241
+#: olang/0066e64e/0x21006a/0x7c7241
+#: olang/009c9ea4/0x210069/0x7c7241
+#: olang/009c9ea4/0x21006a/0x7c7241
+msgid "Stop"
+msgstr ""
+
+#: olang/0066e64e/0x21006a/0x7c7247
+#: olang/0066e64e/0x21006b/0x7c7242
+#: olang/009c9ea4/0x21006a/0x7c7247
+#: olang/009c9ea4/0x21006b/0x7c7242
+msgid "Previous Track (while playing)"
+msgstr ""
+
+#: olang/0066e64e/0x21006a/0x7c7248
+#: olang/0066e64e/0x21006b/0x7c723f
+#: olang/009c9ea4/0x21006a/0x7c7248
+#: olang/009c9ea4/0x21006b/0x7c723f
+msgid "Next Track (while playing)"
+msgstr ""
+
+#: olang/0066e64e/0x21006a/0x8e4841
+#: olang/009c9ea4/0x21006a/0x8e4841
+msgid "Previous Track (while playing) / Next Track (while playing)"
+msgstr ""
+
+#: olang/0066e64e/0x21006b/0x7c7240
+#: olang/009c9ea4/0x21006b/0x7c7240
+msgid "Press to Play/Stop - Hold to Enter ZAPPIN Mode"
+msgstr ""
+
+#: olang/0066e64e/0x21006b/0x7c7241
+#: olang/009c9ea4/0x21006b/0x7c7241
+msgid "Toggle Shuffle Mode"
+msgstr ""
+
+#: olang/0066e64e/0x35f472/0x7c723f
+#: olang/009c9ea4/0x35f472/0x7c723f
+msgid "Select / Skill Details"
+msgstr ""
+
+#: olang/0066e64e/0x35f472/0x7c7240
+#: olang/009c9ea4/0x35f472/0x7c7240
+msgid "Back / Cancel Entire Selection"
+msgstr ""
+
+#: olang/0066e64e/0x35f472/0x7c7241
+#: olang/0066e64e/0x7893c2/0x7c7241
+#: olang/009c9ea4/0x35f472/0x7c7241
+#: olang/009c9ea4/0x7893c2/0x7c7241
+msgid "Select / Cancel Selection"
+msgstr ""
+
+#: olang/0066e64e/0x35f472/0x7c7242
+#: olang/0066e64e/0x53f3f0/0x7c7242
+#: olang/0066e64e/0x7893c2/0x7c7242
+#: olang/0066e64e/0x89e528/0x7c7242
+#: olang/0066e64e/0x89e8a0/0x7c7242
+#: olang/0066e64e/0xa69279/0x7c7242
+#: olang/0066e64e/0xb8862e/0x7c7242
+#: olang/0066e64e/0xd33fba/0x7c7242
+#: olang/0066e64e/0xd4462e/0x7c7242
+#: olang/0066e64e/0xda75f0/0x7c7242
+#: olang/009c9ea4/0x35f472/0x7c7242
+#: olang/009c9ea4/0x53f3f0/0x7c7242
+#: olang/009c9ea4/0x7893c2/0x7c7242
+#: olang/009c9ea4/0x89e528/0x7c7242
+#: olang/009c9ea4/0x89e8a0/0x7c7242
+#: olang/009c9ea4/0xa69279/0x7c7242
+#: olang/009c9ea4/0xb8862e/0x7c7242
+#: olang/009c9ea4/0xd33fba/0x7c7242
+#: olang/009c9ea4/0xd4462e/0x7c7242
+#: olang/009c9ea4/0xda75f0/0x7c7242
+msgid "Details Screen / Model Viewer"
+msgstr ""
+
+#: olang/0066e64e/0x35f472/0x7c7247
+#: olang/0066e64e/0x35f472/0x7c7248
+#: olang/0066e64e/0x53f3f0/0x7c7247
+#: olang/0066e64e/0x53f3f0/0x7c7248
+#: olang/0066e64e/0x7893c2/0x7c7247
+#: olang/0066e64e/0x7893c2/0x7c7248
+#: olang/009c9ea4/0x35f472/0x7c7247
+#: olang/009c9ea4/0x35f472/0x7c7248
+#: olang/009c9ea4/0x53f3f0/0x7c7247
+#: olang/009c9ea4/0x53f3f0/0x7c7248
+#: olang/009c9ea4/0x7893c2/0x7c7247
+#: olang/009c9ea4/0x7893c2/0x7c7248
+msgid "Move Cursor / Change Staff"
+msgstr ""
+
+#: olang/0066e64e/0x35f472/0x8e483f
+#: olang/0066e64e/0x35f472/0x8e4840
+#: olang/0066e64e/0x53f3f0/0x8e483f
+#: olang/0066e64e/0x53f3f0/0x8e4840
+#: olang/0066e64e/0x7893c2/0x8e483f
+#: olang/0066e64e/0x7893c2/0x8e4840
+#: olang/009c9ea4/0x35f472/0x8e483f
+#: olang/009c9ea4/0x35f472/0x8e4840
+#: olang/009c9ea4/0x53f3f0/0x8e483f
+#: olang/009c9ea4/0x53f3f0/0x8e4840
+#: olang/009c9ea4/0x7893c2/0x8e483f
+#: olang/009c9ea4/0x7893c2/0x8e4840
+msgid "Move Cursor / Change List Mode"
+msgstr ""
+
+#: olang/0066e64e/0x35f472/0x8e4841
+#: olang/009c9ea4/0x35f472/0x8e4841
+msgid "Move Cursor / Change Staff/ Change List Mode"
+msgstr ""
+
+#: olang/0066e64e/0x35f472/0x8e4843
+#: olang/0066e64e/0x4983dd/0x8e4843
+#: olang/0066e64e/0x5389f6/0x8e4843
+#: olang/0066e64e/0x53f3f0/0x8e4843
+#: olang/0066e64e/0x678b3d/0x8e4843
+#: olang/0066e64e/0x7893c2/0x8e4843
+#: olang/0066e64e/0x89e528/0x8e4843
+#: olang/0066e64e/0x89e8a0/0x8e4843
+#: olang/0066e64e/0xa69279/0x8e4843
+#: olang/0066e64e/0xb8862e/0x8e4843
+#: olang/0066e64e/0xd33fba/0x8e4843
+#: olang/0066e64e/0xd4462e/0x8e4843
+#: olang/0066e64e/0xda75f0/0x8e4843
+#: olang/0066e64e/0xdd6303/0x8e4843
+#: olang/0066e64e/0xecf67f/0x8e4843
+#: olang/009c9ea4/0x35f472/0x8e4843
+#: olang/009c9ea4/0x4983dd/0x8e4843
+#: olang/009c9ea4/0x5389f6/0x8e4843
+#: olang/009c9ea4/0x53f3f0/0x8e4843
+#: olang/009c9ea4/0x678b3d/0x8e4843
+#: olang/009c9ea4/0x7893c2/0x8e4843
+#: olang/009c9ea4/0x89e528/0x8e4843
+#: olang/009c9ea4/0x89e8a0/0x8e4843
+#: olang/009c9ea4/0xa69279/0x8e4843
+#: olang/009c9ea4/0xb8862e/0x8e4843
+#: olang/009c9ea4/0xd33fba/0x8e4843
+#: olang/009c9ea4/0xd4462e/0x8e4843
+#: olang/009c9ea4/0xda75f0/0x8e4843
+#: olang/009c9ea4/0xdd6303/0x8e4843
+#: olang/009c9ea4/0xecf67f/0x8e4843
+msgid "Help"
+msgstr ""
+
+#: olang/0066e64e/0x35f472/0x8e4844
+#: olang/0066e64e/0x35f472/0x8e4845
+#: olang/0066e64e/0x53f3f0/0x8e4844
+#: olang/0066e64e/0x53f3f0/0x8e4845
+#: olang/0066e64e/0x7893c2/0x8e4844
+#: olang/0066e64e/0x7893c2/0x8e4845
+#: olang/0066e64e/0xb8862e/0x8e4844
+#: olang/0066e64e/0xb8862e/0x8e4845
+#: olang/0066e64e/0xd4462e/0x8e4844
+#: olang/0066e64e/0xd4462e/0x8e4845
+#: olang/0066e64e/0xda75f0/0x8e4844
+#: olang/0066e64e/0xda75f0/0x8e4845
+#: olang/009c9ea4/0x35f472/0x8e4844
+#: olang/009c9ea4/0x35f472/0x8e4845
+#: olang/009c9ea4/0x53f3f0/0x8e4844
+#: olang/009c9ea4/0x53f3f0/0x8e4845
+#: olang/009c9ea4/0x7893c2/0x8e4844
+#: olang/009c9ea4/0x7893c2/0x8e4845
+#: olang/009c9ea4/0xb8862e/0x8e4844
+#: olang/009c9ea4/0xb8862e/0x8e4845
+#: olang/009c9ea4/0xd4462e/0x8e4844
+#: olang/009c9ea4/0xd4462e/0x8e4845
+#: olang/009c9ea4/0xda75f0/0x8e4844
+#: olang/009c9ea4/0xda75f0/0x8e4845
+msgid "Sort Mode"
+msgstr ""
+
+#: olang/0066e64e/0x4983dd/0x7c723f
+#: olang/009c9ea4/0x4983dd/0x7c723f
+msgid "Select / Open"
+msgstr ""
+
+#: olang/0066e64e/0x4983dd/0x7c7240
+#: olang/0066e64e/0x5389f6/0x7c7240
+#: olang/0066e64e/0xecf67f/0x7c7240
+#: olang/009c9ea4/0x4983dd/0x7c7240
+#: olang/009c9ea4/0x5389f6/0x7c7240
+#: olang/009c9ea4/0xecf67f/0x7c7240
+msgid "Back / Cancel"
+msgstr ""
+
+#: olang/0066e64e/0x4983dd/0x7c7241
+#: olang/009c9ea4/0x4983dd/0x7c7241
+msgid "Delete / Reset"
+msgstr ""
+
+#: olang/0066e64e/0x4983dd/0x7c7247
+#: olang/0066e64e/0x4983dd/0x7c7248
+#: olang/0066e64e/0x4983dd/0x8e483f
+#: olang/0066e64e/0x4983dd/0x8e4840
+#: olang/0066e64e/0x4983dd/0x8e4841
+#: olang/0066e64e/0x5389f6/0x7c7247
+#: olang/0066e64e/0x5389f6/0x7c7248
+#: olang/0066e64e/0x5389f6/0x8e483f
+#: olang/0066e64e/0x5389f6/0x8e4840
+#: olang/0066e64e/0x5389f6/0x8e4841
+#: olang/0066e64e/0x678b3d/0x7c7247
+#: olang/0066e64e/0x678b3d/0x7c7248
+#: olang/0066e64e/0x678b3d/0x8e4841
+#: olang/0066e64e/0x89e528/0x7c7247
+#: olang/0066e64e/0x89e528/0x7c7248
+#: olang/0066e64e/0x89e528/0x8e483f
+#: olang/0066e64e/0x89e528/0x8e4840
+#: olang/0066e64e/0x89e528/0x8e4841
+#: olang/0066e64e/0x89e8a0/0x7c7247
+#: olang/0066e64e/0x89e8a0/0x7c7248
+#: olang/0066e64e/0x89e8a0/0x8e483f
+#: olang/0066e64e/0x89e8a0/0x8e4840
+#: olang/0066e64e/0x89e8a0/0x8e4841
+#: olang/0066e64e/0xa69279/0x7c7247
+#: olang/0066e64e/0xa69279/0x7c7248
+#: olang/0066e64e/0xa69279/0x8e483f
+#: olang/0066e64e/0xa69279/0x8e4840
+#: olang/0066e64e/0xa69279/0x8e4841
+#: olang/0066e64e/0xb8862e/0x7c7247
+#: olang/0066e64e/0xb8862e/0x7c7248
+#: olang/0066e64e/0xd33fba/0x7c7247
+#: olang/0066e64e/0xd33fba/0x7c7248
+#: olang/0066e64e/0xd33fba/0x8e483f
+#: olang/0066e64e/0xd33fba/0x8e4840
+#: olang/0066e64e/0xd33fba/0x8e4841
+#: olang/0066e64e/0xd4462e/0x7c7247
+#: olang/0066e64e/0xd4462e/0x7c7248
+#: olang/0066e64e/0xda75f0/0x7c7247
+#: olang/0066e64e/0xda75f0/0x7c7248
+#: olang/0066e64e/0xda75f0/0x8e4841
+#: olang/0066e64e/0xdd6303/0x7c7247
+#: olang/0066e64e/0xdd6303/0x7c7248
+#: olang/0066e64e/0xdd6303/0x8e483f
+#: olang/0066e64e/0xdd6303/0x8e4840
+#: olang/0066e64e/0xdd6303/0x8e4841
+#: olang/0066e64e/0xecf67f/0x7c7247
+#: olang/0066e64e/0xecf67f/0x7c7248
+#: olang/0066e64e/0xecf67f/0x8e483f
+#: olang/0066e64e/0xecf67f/0x8e4840
+#: olang/0066e64e/0xecf67f/0x8e4841
+#: olang/009c9ea4/0x4983dd/0x7c7247
+#: olang/009c9ea4/0x4983dd/0x7c7248
+#: olang/009c9ea4/0x4983dd/0x8e483f
+#: olang/009c9ea4/0x4983dd/0x8e4840
+#: olang/009c9ea4/0x4983dd/0x8e4841
+#: olang/009c9ea4/0x5389f6/0x7c7247
+#: olang/009c9ea4/0x5389f6/0x7c7248
+#: olang/009c9ea4/0x5389f6/0x8e483f
+#: olang/009c9ea4/0x5389f6/0x8e4840
+#: olang/009c9ea4/0x5389f6/0x8e4841
+#: olang/009c9ea4/0x678b3d/0x7c7247
+#: olang/009c9ea4/0x678b3d/0x7c7248
+#: olang/009c9ea4/0x678b3d/0x8e4841
+#: olang/009c9ea4/0x89e528/0x7c7247
+#: olang/009c9ea4/0x89e528/0x7c7248
+#: olang/009c9ea4/0x89e528/0x8e483f
+#: olang/009c9ea4/0x89e528/0x8e4840
+#: olang/009c9ea4/0x89e528/0x8e4841
+#: olang/009c9ea4/0x89e8a0/0x7c7247
+#: olang/009c9ea4/0x89e8a0/0x7c7248
+#: olang/009c9ea4/0x89e8a0/0x8e483f
+#: olang/009c9ea4/0x89e8a0/0x8e4840
+#: olang/009c9ea4/0x89e8a0/0x8e4841
+#: olang/009c9ea4/0xa69279/0x7c7247
+#: olang/009c9ea4/0xa69279/0x7c7248
+#: olang/009c9ea4/0xa69279/0x8e483f
+#: olang/009c9ea4/0xa69279/0x8e4840
+#: olang/009c9ea4/0xa69279/0x8e4841
+#: olang/009c9ea4/0xb8862e/0x7c7247
+#: olang/009c9ea4/0xb8862e/0x7c7248
+#: olang/009c9ea4/0xd33fba/0x7c7247
+#: olang/009c9ea4/0xd33fba/0x7c7248
+#: olang/009c9ea4/0xd33fba/0x8e483f
+#: olang/009c9ea4/0xd33fba/0x8e4840
+#: olang/009c9ea4/0xd33fba/0x8e4841
+#: olang/009c9ea4/0xd4462e/0x7c7247
+#: olang/009c9ea4/0xd4462e/0x7c7248
+#: olang/009c9ea4/0xda75f0/0x7c7247
+#: olang/009c9ea4/0xda75f0/0x7c7248
+#: olang/009c9ea4/0xda75f0/0x8e4841
+#: olang/009c9ea4/0xdd6303/0x7c7247
+#: olang/009c9ea4/0xdd6303/0x7c7248
+#: olang/009c9ea4/0xdd6303/0x8e483f
+#: olang/009c9ea4/0xdd6303/0x8e4840
+#: olang/009c9ea4/0xdd6303/0x8e4841
+#: olang/009c9ea4/0xecf67f/0x7c7247
+#: olang/009c9ea4/0xecf67f/0x7c7248
+#: olang/009c9ea4/0xecf67f/0x8e483f
+#: olang/009c9ea4/0xecf67f/0x8e4840
+#: olang/009c9ea4/0xecf67f/0x8e4841
+msgid "Move Cursor"
+msgstr ""
+
+#: olang/0066e64e/0x5389f6/0x7c7241
+#: olang/009c9ea4/0x5389f6/0x7c7241
+msgid "Unassign"
+msgstr ""
+
+#: olang/0066e64e/0x53f3f0/0x7c7240
+#: olang/0066e64e/0x678b3d/0x7c7240
+#: olang/0066e64e/0x89e528/0x7c7240
+#: olang/0066e64e/0x89e8a0/0x7c7240
+#: olang/0066e64e/0xa69279/0x7c7240
+#: olang/0066e64e/0xb8862e/0x7c7240
+#: olang/0066e64e/0xd33fba/0x7c7240
+#: olang/0066e64e/0xd4462e/0x7c7240
+#: olang/0066e64e/0xda75f0/0x7c7240
+#: olang/0066e64e/0xdd6303/0x7c7240
+#: olang/009c9ea4/0x53f3f0/0x7c7240
+#: olang/009c9ea4/0x678b3d/0x7c7240
+#: olang/009c9ea4/0x89e528/0x7c7240
+#: olang/009c9ea4/0x89e8a0/0x7c7240
+#: olang/009c9ea4/0xa69279/0x7c7240
+#: olang/009c9ea4/0xb8862e/0x7c7240
+#: olang/009c9ea4/0xd33fba/0x7c7240
+#: olang/009c9ea4/0xd4462e/0x7c7240
+#: olang/009c9ea4/0xda75f0/0x7c7240
+#: olang/009c9ea4/0xdd6303/0x7c7240
+msgid "Back"
+msgstr ""
+
+#: olang/0066e64e/0x53f3f0/0x8e4841
+#: olang/0066e64e/0x7893c2/0x8e4841
+#: olang/009c9ea4/0x53f3f0/0x8e4841
+#: olang/009c9ea4/0x7893c2/0x8e4841
+msgid "Move Cursor / Change Staff / Change List Mode"
+msgstr ""
+
+#: olang/0066e64e/0x678b3d/0x7c7241
+#: olang/009c9ea4/0x678b3d/0x7c7241
+msgid "Select / Cancel / Remove Equipment / Discard"
+msgstr ""
+
+#: olang/0066e64e/0x678b3d/0x7c7242
+#: olang/0066e64e/0xdd6303/0x7c7242
+#: olang/009c9ea4/0x678b3d/0x7c7242
+#: olang/009c9ea4/0xdd6303/0x7c7242
+msgid "Model Viewer"
+msgstr ""
+
+#: olang/0066e64e/0x7893c2/0x7c7240
+#: olang/009c9ea4/0x7893c2/0x7c7240
+msgid "Back / Cancel / Reset Selection State"
+msgstr ""
+
+#: olang/0066e64e/0x89e528/0x7c723f
+#: olang/0066e64e/0x89e8a0/0x7c723f
+#: olang/009c9ea4/0x89e528/0x7c723f
+#: olang/009c9ea4/0x89e8a0/0x7c723f
+msgid "Conditions / Develop / Details"
+msgstr ""
+
+#: olang/0066e64e/0x89e528/0x7c7241
+#: olang/0066e64e/0x89e8a0/0x7c7241
+#: olang/009c9ea4/0x89e528/0x7c7241
+#: olang/009c9ea4/0x89e8a0/0x7c7241
+msgid "Jump (only on \"DEVELOPMENT STATUS\" and \"NEW\" tabs)"
+msgstr ""
+
+#: olang/0066e64e/0x97a719/0x0009b2
+#: olang/0066e64e/0xef247a/0x000a72
+msgid "Aim Weapon"
+msgstr ""
+
+#: olang/0066e64e/0x97a719/0x000a72
+#: olang/0066e64e/0xef247a/0x3b8f30
+msgid "Attack"
+msgstr ""
+
+#: olang/0066e64e/0x97a719/0x000af0
+#: olang/0066e64e/0x97a719/0x3adadb
+#: olang/0066e64e/0xef247a/0x3adadb
+#: olang/009c9ea4/0x39c9f3/0x6bb2d6
+msgid "Action Button"
+msgstr ""
+
+#: olang/0066e64e/0x97a719/0x271d14
+#: olang/0066e64e/0x97a719/0x45a559
+msgid "Zoom"
+msgstr ""
+
+#: olang/0066e64e/0x97a719/0xba164f
+#: olang/0066e64e/0xef247a/0xba164f
+msgid "Reload"
+msgstr ""
+
+#: olang/0066e64e/0xa69279/0x7c7241
+#: olang/009c9ea4/0xbc86b6/0x3c54c6
+#: olang/009c9ea4/0xecf67f/0x7c7241
+msgid "Delete"
+msgstr ""
+
+#: olang/0066e64e/0xb8862e/0x8e483f
+#: olang/0066e64e/0xb8862e/0x8e4840
+#: olang/0066e64e/0xd4462e/0x8e483f
+#: olang/0066e64e/0xd4462e/0x8e4840
+#: olang/009c9ea4/0xb8862e/0x8e483f
+#: olang/009c9ea4/0xb8862e/0x8e4840
+#: olang/009c9ea4/0xd4462e/0x8e483f
+#: olang/009c9ea4/0xd4462e/0x8e4840
+msgid "Change Rank"
+msgstr ""
+
+#: olang/0066e64e/0xb8862e/0x8e4841
+#: olang/0066e64e/0xd4462e/0x8e4841
+#: olang/009c9ea4/0xb8862e/0x8e4841
+#: olang/009c9ea4/0xd4462e/0x8e4841
+msgid "Move Cursor / Change Rank"
+msgstr ""
+
+#: olang/0066e64e/0xecf67f/0x7c7242
+#: olang/009c9ea4/0xecf67f/0x7c7242
+msgid "Codename Selection Screen"
+msgstr ""
+
+#: olang/0072f326/0x34cd5c/0x0dbab6
+#: olang/0072f326/0xa49217/0xdc6ef3
+#: olang/009c9ea4/0xa49217/0xdc6ef3
+msgid "METAL GEAR SOLID PEACE WALKER HD EDITION"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x0b32fa
+msgid "Try again"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x0bc73e
+msgid "Join the game you were invited to?"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x0d9f69
+msgid "If you start playing now, your game data will not be saved. Do you want to begin playing?"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x11e974
+msgid "Unable to load saved data. Try again?"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x185ec9
+#: olang/009c9ea4/0xa49217/0x185ec9
+msgid "Yes"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x19875a
+msgid "Load completed."
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x348ed6
+msgid "The storage device has been removed. You will need to select a storage device in order to create saved data. Connect a useable storage device and try again?"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x350f34
+msgid ""
+"The selected storage device already contains saved data. If you select a new game, your existing game data will be deleted.\n"
+"Start a new game?"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x3f129b
+msgid ""
+"This game possesses an auto-save feature.\n"
+"Do not turn the console off while data is being saved."
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x422618
+#: olang/009c9ea4/0xa49217/0x422618
+msgid "Configuring game data."
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x468f9a
+msgid "Select storage device"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x4af71f
+#: olang/009c9ea4/0xa49217/0x4af71f
+msgid "Continue without saving progress"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x5a12d1
+msgid "You do not have the type of saved data that allows you to play online. Before you can play online, you must have saved data from a game in which you cleared the opening mission. You will now start a standard game."
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x5ba6f0
+msgid "Cannot play online without loading save data. Try again?"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x66f18e
+#: olang/0072f326/0xdbd1b3/0x62a9e3
+#: olang/009c9ea4/0x35b782/0xece603
+#: olang/009c9ea4/0xa49217/0x66f18e
+#: olang/009c9ea4/0xdbd1b3/0x62a9e3
+#: olang/00c6a046/0x35b782/0xece603
+msgid "Unable to save game data. Try again?"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x67152e
+msgid "Your console is not connected to a useable storage device.  You will need to select a storage device in order to save game progress.  Do you want to select one now?"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x6f6d2e
+msgid "Save data cannot be found. Save data with online play enabled is needed to play online. You cannot receive the invite."
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x71044e
+#: olang/009c9ea4/0xa49217/0x71044e
+msgid "MGS PEACE WALKER HD"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x77c49d
+#: olang/009c9ea4/0xa49217/0x77c49d
+msgid "Create saved data"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x78c7a5
+msgid "Continue without loading"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x802a26
+#: olang/009c9ea4/0xa49217/0x802a26
+msgid ""
+"Game data has been corrupted.\n"
+"Delete existing data and create new system data?"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x81acfe
+msgid ""
+"Your saved data has been corrupted.\n"
+"Unable to load saved data."
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x872e48
+msgid "You will now start a standard game without joining the game you were invited to."
+msgstr ""
+
+#: olang/0072f326/0xa49217/0x9fcd91
+msgid "Sign in"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0xafe32f
+msgid "No saved data was found in the selected storage device. Do you want to create new saved data?"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0xb04128
+msgid "Unable to create saved data due to insufficient available memory in the selected storage device. To create saved data, you need to have at least [lack_strage_save_capacity] KB of free space available. Connect a storage device with sufficient available memory and try again?"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0xb081ab
+msgid "The storage device has been removed. You will need to select a storage device in order to load saved data. Try again?"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0xb0c19d
+#: olang/009c9ea4/0xa49217/0xb0c19d
+msgid "No"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0xbdeecf
+msgid "Save data could not be found. You cannot play online without first loading save data."
+msgstr ""
+
+#: olang/0072f326/0xa49217/0xc436da
+msgid "Unable to create game data due to insufficient available memory in the selected storage device. To create game data, you need to have at least [lack_strage_system_capacity] KB of free space available. Connect a storage device with the necessary free space and try again?"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0xdf5ad6
+msgid "You will need to select a storage device in order to save game data. Select a storage device?"
+msgstr ""
+
+#: olang/0072f326/0xa49217/0xe53e6d
+msgid "Loading saved data. Do not turn off the console or remove the storage device."
+msgstr ""
+
+#: olang/0072f326/0xa49217/0xe67360
+msgid "You are not signed into your gamer profile.  In order to save progress, you will need to be signed in. Do you want to sign in now?"
+msgstr ""
+
+#: olang/0072f326/0xdbd1b3/0x79ab74
+msgid "The selected storage device already contains METAL GEAR SOLID PEACE WALKER HD EDITION system data. Do you want to overwrite this data?"
+msgstr ""
+
+#: olang/0072f326/0xdbd1b3/0x8d4014
+msgid "The selected storage device already contains METAL GEAR SOLID PEACE WALKER HD EDITION saved data. Do you want to overwrite this data?"
+msgstr ""
+
+#: olang/0072f326/0xdbd1b3/0xba9d90
+msgid "Your console is not connected to a useable storage device. Do you want to select one now?"
+msgstr ""
+
+#: olang/0072f326/0xdbd1b3/0xfbb2f1
+msgid "Overwrite"
+msgstr ""
+
+#: olang/009c9ea4/0x017f53/0x000133
+msgid ""
+"A weekly pulp magazine filled to the brim with outlandish and absurd sci-fi/horror stories.  Roughly half of the stories are about men fighting Martians and are written by amateurs.  Not to be taken too seriously.  Lurid and sexually suggestive themes are a given.\n"
+msgstr ""
+
+#: olang/009c9ea4/0x017f53/0x000134
+#: olang/00d345a5/0x017f53/0x000134
+msgid "A monthly pulp magazine that features mature content aimed at literary types. The real-life travel logs submitted by soldiers from around the world are a must read.  Also boasts an ample supply of scantily-clad pin-ups."
+msgstr ""
+
+#: olang/009c9ea4/0x017f53/0x000135
+msgid "A quarterly men's lifestyle magazine aimed at discriminating adults. Features include articles on news, politics, and special interests such as the ever-popular \"bonsai\" corner.  Naturally, it also features its fare share of \"adult content.\""
+msgstr ""
+
+#: olang/009c9ea4/0x048941/0x000054
+msgid ""
+"Jigsaw made of steel wire. \n"
+"Alternate pressing <I=SAW_L> and <I=SAW_R> to use."
+msgstr ""
+
+#: olang/009c9ea4/0x048941/0x000081
+msgid ""
+"Shield made from bulletproof material. \n"
+"Press <I=AIM> to use. \n"
+"The direction protected varies according to weapon equipped."
+msgstr ""
+
+#: olang/009c9ea4/0x048941/0x000086
+#: olang/00d345a5/0x048941/0x000086
+msgid "Shield made from bulletproof material (colored). Press the Aim Button to use. The direction protected varies according to weapon equipped."
+msgstr ""
+
+#: olang/009c9ea4/0x048941/0x0001af
+msgid "Original t-shirt design. Identical in basic characteristics to Jungle Fatigues. "
+msgstr ""
+
+#: olang/009c9ea4/0x0765b1/0x000000
+msgid "Next we'll work on your movement."
+msgstr ""
+
+#: olang/009c9ea4/0x0765b1/0x000001
+#: olang/009c9ea4/0x62c97d/0x000001
+msgid "Use <I=MOVE> to move around."
+msgstr ""
+
+#: olang/009c9ea4/0x0765b1/0x000002
+msgid "Use <I=WALK> to walk slowly."
+msgstr ""
+
+#: olang/009c9ea4/0x0765b1/0x000003
+msgid ""
+"Decide which to use \n"
+"based on your situation."
+msgstr ""
+
+#: olang/009c9ea4/0x0765b1/0x000004
+msgid ""
+"Remember that your footsteps are louder\n"
+"when running, making you easier to discover."
+msgstr ""
+
+#: olang/009c9ea4/0x0765b1/0x000005
+msgid "Be careful!"
+msgstr ""
+
+#: olang/009c9ea4/0x0765d1/0x000000
+#: olang/009c9ea4/0x62cb7d/0x000000
+msgid ""
+"Boss, you can use \n"
+"<I=MOVE> to move!"
+msgstr ""
+
+#: olang/009c9ea4/0x076bed/0x000000
+#: olang/009c9ea4/0x62997d/0x000000
+msgid ""
+"To move your line of sight, \n"
+"use <I=CAMERA>."
+msgstr ""
+
+#: olang/009c9ea4/0x076bed/0x000001
+msgid ""
+"Now, when I give you an order, \n"
+"look in that direction."
+msgstr ""
+
+#: olang/009c9ea4/0x076de5/0x000000
+msgid ""
+"Alright, let’s try up and down with\n"
+"<I=CAMERA> one more time."
+msgstr ""
+
+#: olang/009c9ea4/0x076ded/0x000000
+msgid ""
+"Alright, let’s try left and right with\n"
+"<I=CAMERA> one more time."
+msgstr ""
+
+#: olang/009c9ea4/0x077dd9/0x000000
+msgid "To do this,"
+msgstr ""
+
+#: olang/009c9ea4/0x077dd9/0x000001
+#: olang/009c9ea4/0x644bfd/0x000001
+msgid "position yourself near your opponent"
+msgstr ""
+
+#: olang/009c9ea4/0x077dd9/0x000002
+msgid ""
+"and press <I=ATK> \n"
+"while you press <I=MOVE>."
+msgstr ""
+
+#: olang/009c9ea4/0x077dd9/0x000003
+#: olang/009c9ea4/0x644bfd/0x000003
+#: olang/009c9ea4/0x644bfe/0x000002
+msgid ""
+"Be sure to press <I=ATK> \n"
+"when the icon appears."
+msgstr ""
+
+#: olang/009c9ea4/0x077dd9/0x000004
+msgid ""
+"Now, wait for my command \n"
+"and throw your opponent."
+msgstr ""
+
+#: olang/009c9ea4/0x077ea9/0x000000
+#: olang/009c9ea4/0x6458fd/0x000000
+#: olang/009c9ea4/0x6458fe/0x000000
+msgid "Boss,"
+msgstr ""
+
+#: olang/009c9ea4/0x077ea9/0x000001
+msgid ""
+"you have to press <I=ATK> \n"
+"as you press <I=MOVE>!"
+msgstr ""
+
+#: olang/009c9ea4/0x077fd1/0x000000
+#: olang/009c9ea4/0x646b7d/0x000000
+msgid "To throw an enemy to the ground,"
+msgstr ""
+
+#: olang/009c9ea4/0x077fd1/0x000001
+msgid "press <I=MOVE> when you have them restrained."
+msgstr ""
+
+#: olang/009c9ea4/0x0782c1/0x000000
+#: olang/009c9ea4/0x649a7d/0x000000
+msgid ""
+"First restrain an opponent by pressing \n"
+"<I=ATK> near them."
+msgstr ""
+
+#: olang/009c9ea4/0x0782c1/0x000001
+msgid "Then press <I=MOVE> to throw them."
+msgstr ""
+
+#: olang/009c9ea4/0x0782c1/0x000002
+msgid "By pressing <I=MOVE> toward other enemies,"
+msgstr ""
+
+#: olang/009c9ea4/0x0782c1/0x000003
+msgid ""
+"you can send your captive flying \n"
+"straight into them! "
+msgstr ""
+
+#: olang/009c9ea4/0x0782c1/0x000004
+msgid ""
+"On my command, \n"
+"restrain and then throw your opponent. "
+msgstr ""
+
+#: olang/009c9ea4/0x078399/0x000000
+msgid ""
+"Press <I=MOVE> while restraining \n"
+"the opponent, Boss!"
+msgstr ""
+
+#: olang/009c9ea4/0x0864ad/0x00004e
+msgid "On the battlefield, showers are few and far between. And on that important mission, body odor can be a distraction not only to yourself, but to your brothers in arms. That's where this body fragrance comes in, providing a mild aroma that relaxes both body and soul, allowing you and your comrades to focus on the mission at hand."
+msgstr ""
+
+#: olang/009c9ea4/0x101ab9/0x1f530a
+msgid "Remember whether the camera is in First Person View when the L1 button is released."
+msgstr ""
+
+#: olang/009c9ea4/0x1331ad/0xae7f04
+msgid "COMRADE'S ALLIES"
+msgstr ""
+
+#: olang/009c9ea4/0x1331ad/0xb8a0c0
+msgid "COMRADES"
+msgstr ""
+
+#: olang/009c9ea4/0x1331ad/0xbbc0e2
+msgid "Please verify the Date & Time settings on your device. Incorrect date settings may interfere with package deliveries."
+msgstr ""
+
+#: olang/009c9ea4/0x1766a9/0x000000
+#: olang/009c9ea4/0x62d8fd/0x000000
+#: olang/009c9ea4/0x62d8fe/0x000000
+msgid ""
+"Boss, roll by pressing <I=STANCE>\n"
+"while running with <I=MOVE>!"
+msgstr ""
+
+#: olang/009c9ea4/0x17ba49/0x8f9a09
+msgid "Select where to attach custom parts."
+msgstr ""
+
+#: olang/009c9ea4/0x19f879/0x8f3a58
+msgid ""
+"VERSUS OPS is a competitive game mode that allows\n"
+"up to 6 players to engage in battle against each other.\n"
+"\n"
+"There are 4 game types (rules) available:\n"
+"\n"
+" DEATH MATCH\n"
+" TEAM DEATH MATCH\n"
+" CAPTURE MISSION\n"
+" BASE MISSION\n"
+"\n"
+"--------\n"
+"\n"
+"Please note that VERSUS OPS play may differ from\n"
+"MAIN OPS in the following ways:\n"
+"\n"
+" - Weapon and equipment power and effects may vary.\n"
+" - CO-OP Ring radius and effects may vary.\n"
+" - Camaraderie and Heroism effects may vary.\n"
+" - Certain staff skills may have no effect.\n"
+" - Certain weapons may be prohibited.\n"
+" - Certain types of equipment may be prohibited.\n"
+" - CO-OPS COMM. effects may vary.\n"
+" - LIFE and PSYCHE do not recover,\n"
+"    even if you stay still.\n"
+"\n"
+"--------\n"
+"\n"
+"CPR\n"
+"\n"
+"As with other OPS, VERSUS OPS allow you to use\n"
+"CPR to revive teammates that are near death, but\n"
+"there are some important differences, which are\n"
+"noted below:\n"
+"\n"
+" - The number of chest compressions necessary\n"
+"    for revival differs.\n"
+" - Teammates die if they are not revived within\n"
+"    10 seconds.\n"
+" - If you want to get back into the action quickly and\n"
+"    can't wait for a teammate to revive you,\n"
+"     tap <I=ACT> repeatedly to shorten the time."
+msgstr ""
+
+#: olang/009c9ea4/0x19f879/0x92ac58
+msgid "Connect with and battle other players. 2 teams of up to 3 players are allowed."
+msgstr ""
+
+#: olang/009c9ea4/0x19fb4c/0xcc1298
+msgid "DISCARD"
+msgstr ""
+
+#: olang/009c9ea4/0x1a3e77/0x6a33a8
+msgid "Rotate Camera: <I=CAMERA>"
+msgstr ""
+
+#: olang/009c9ea4/0x1a3e77/0x6a33a9
+#: olang/009c9ea4/0x5f753b/0x88adbe
+#: olang/009c9ea4/0x919326/0xc992cf
+msgid "Switch Cameras: <I=LR>"
+msgstr ""
+
+#: olang/009c9ea4/0x1a3e77/0xace08d
+msgid "P. UNIT- SCRAP"
+msgstr ""
+
+#: olang/009c9ea4/0x1bca3f/0x000134
+#: olang/009c9ea4/0xae0b2a/0x000134
+#: olang/00d345a5/0x1bca3f/0x000134
+#: olang/00d345a5/0xae0b2a/0x000134
+msgid "LIQUID M."
+msgstr ""
+
+#: olang/009c9ea4/0x1bed50/0x1787c8
+#: olang/009c9ea4/0x291428/0x2b250c
+#: olang/009c9ea4/0x5f753b/0xad4e91
+#: olang/009c9ea4/0xc99c23/0x291428
+msgid "CONTROLS HELP"
+msgstr ""
+
+#: olang/009c9ea4/0x20dacf/0x0dd20a
+#: olang/009c9ea4/0x482e82/0x5c60d3
+msgid "BACK TO MAIN MENU"
+msgstr ""
+
+#: olang/009c9ea4/0x20dacf/0x40edf8
+msgid "View the online manual."
+msgstr ""
+
+#: olang/009c9ea4/0x20dacf/0x4dcf0e
+msgid "Return to the main menu."
+msgstr ""
+
+#: olang/009c9ea4/0x20dacf/0xac79ca
+#: olang/009c9ea4/0x39c9f3/0x4a509a
+#: olang/009c9ea4/0x43f3a5/0x506452
+#: olang/009c9ea4/0xe6e4ed/0xb7fd8f
+#: olang/009c9ea4/0xfb5d7b/0x96ec94
+msgid "KEY CONFIG"
+msgstr ""
+
+#: olang/009c9ea4/0x20dacf/0xc286c8
+msgid "When you receive a box from someone you don't know, you can return the favor by finding the box's original sender under the COMRADE'S ALLIES tab."
+msgstr ""
+
+#: olang/009c9ea4/0x20dacf/0xc93e8a
+msgid "Exit game and return to main menu?"
+msgstr ""
+
+#: olang/009c9ea4/0x20dacf/0xffddf8
+#: olang/009c9ea4/0x2c4b0f/0x48e16c
+#: olang/009c9ea4/0xa49217/0x236883
+msgid "ONLINE MANUAL"
+msgstr ""
+
+#: olang/009c9ea4/0x210062/0x8e4843
+#: olang/009c9ea4/0x210063/0x8e4843
+#: olang/009c9ea4/0x210064/0x8e4843
+#: olang/009c9ea4/0x210065/0x8e4843
+#: olang/009c9ea4/0x210066/0x8e4843
+#: olang/009c9ea4/0x210067/0x8e4843
+#: olang/009c9ea4/0x210068/0x8e4843
+#: olang/009c9ea4/0x210069/0x8e4843
+#: olang/009c9ea4/0x21006a/0x8e4843
+#: olang/009c9ea4/0x21006b/0x8e4843
+#: olang/009c9ea4/0x5f413d/0x6a9054
+#: olang/009c9ea4/0x5f413e/0x6a9054
+#: olang/009c9ea4/0x5f413f/0x6a9054
+#: olang/009c9ea4/0x5f4140/0x6a9054
+#: olang/009c9ea4/0x5f4141/0x6a9054
+#: olang/009c9ea4/0x5f4142/0x6a9054
+#: olang/009c9ea4/0x5f4143/0x6a9054
+#: olang/009c9ea4/0x5f4144/0x6a9054
+#: olang/009c9ea4/0x5f4145/0x6a9054
+#: olang/009c9ea4/0x5f4146/0x6a9054
+msgid "Display Controls Help"
+msgstr ""
+
+#: olang/009c9ea4/0x21535e/0x11f53b
+msgid "Auto"
+msgstr ""
+
+#: olang/009c9ea4/0x21535e/0x1ce3b0
+msgid "2560x1440"
+msgstr ""
+
+#: olang/009c9ea4/0x21535e/0x1e9ffa
+msgid "Custom Type"
+msgstr ""
+
+#: olang/009c9ea4/0x21535e/0x2ad3c3
+msgid "Borderless Window"
+msgstr ""
+
+#: olang/009c9ea4/0x21535e/0x60a1f7
+msgid "1920x1080"
+msgstr ""
+
+#: olang/009c9ea4/0x21535e/0x7190a1
+msgid "Full Screen"
+msgstr ""
+
+#: olang/009c9ea4/0x21535e/0x817549
+msgid "Standard Type"
+msgstr ""
+
+#: olang/009c9ea4/0x21535e/0x9b02d0
+msgid "3840x2160"
+msgstr ""
+
+#: olang/009c9ea4/0x21535e/0x9b0549
+msgid "1280x720"
+msgstr ""
+
+#: olang/009c9ea4/0x21535e/0xb81ae9
+msgid "Windowed"
+msgstr ""
+
+#: olang/009c9ea4/0x21535e/0xc82c1d
+msgid "Display [monitor_number]"
+msgstr ""
+
+#: olang/009c9ea4/0x215635/0x3b1b1f
+msgid ""
+"<C=FF4040>Shoot down enemy missiles<C=R> launched at the MSF Mother Base. \n"
+"<C=FF4040>Allowing Mother Base to be hit by 10 missiles will result in instant mission failure<C=R>.\n"
+"Chaff Grenades are not allowed.\n"
+" # of Targets: 30"
+msgstr ""
+
+#: olang/009c9ea4/0x215635/0x55aca6
+msgid ""
+"Zadornov has escaped from Mother Base. Find him and bring him back.\n"
+" Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
+msgstr ""
+
+#: olang/009c9ea4/0x215635/0x75aca6
+msgid ""
+"Zadornov has escaped from Mother Base once again. Find him and bring him back.\n"
+" Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
+msgstr ""
+
+#: olang/009c9ea4/0x215635/0x75aca9
+msgid ""
+"You guessed it - Zadornov has escaped from Mother Base again. Find him and bring him back.\n"
+" Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
+msgstr ""
+
+#: olang/009c9ea4/0x215635/0x95aca6
+msgid ""
+"Zadornov has escaped from Mother Base yet again. Find him and bring him back.\n"
+" Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
+msgstr ""
+
+#: olang/009c9ea4/0x215635/0x95aca9
+msgid ""
+"Believe it or not, Zadornov has escaped from Mother Base again. Find him and bring him back.\n"
+" Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
+msgstr ""
+
+#: olang/009c9ea4/0x215635/0xb5aca9
+msgid ""
+"Zadornov has escaped from Mother Base again. Find him and bring him back.\n"
+" Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
+msgstr ""
+
+#: olang/009c9ea4/0x227683/0x7383ce
+#: olang/009c9ea4/0x227683/0xe8c00e
+#: olang/00d9bfd4/0x227683/0x187156
+#: olang/00d9bfd4/0x227683/0x1fc51a
+msgid "Mute: <I=OPTION_MUTE>"
+msgstr ""
+
+#: olang/009c9ea4/0x227683/0xe8c0d4
+msgid "Mute"
+msgstr ""
+
+#: olang/009c9ea4/0x227683/0xf77e9e
+msgid "A connection error has occurred."
+msgstr ""
+
+#: olang/009c9ea4/0x22af99/0x0001af
+#: olang/009c9ea4/0x4e7980/0x0001af
+#: olang/009c9ea4/0x954c25/0x0001af
+msgid "MUSIC PLAYER"
+msgstr ""
+
+#: olang/009c9ea4/0x291428/0x50818e
+#: olang/009c9ea4/0xc99c23/0x50818e
+#: olang/009c9ea4/0xc99c23/0xd9d9b9
+msgid "<I=SEL>"
+msgstr ""
+
+#: olang/009c9ea4/0x291428/0xd9d9b9
+msgid "<I=STA>"
+msgstr ""
+
+#: olang/009c9ea4/0x2d0e67/0xf29383
+#: olang/009c9ea4/0x2d0e69/0xf29383
+msgid ""
+"Press the Action Button to confirm \n"
+"<I=CAMERA> up: Look Up\n"
+"<I=CAMERA> down: Look Down"
+msgstr ""
+
+#: olang/009c9ea4/0x2d0e68/0xf29383
+#: olang/009c9ea4/0x2d0e6a/0xf29383
+msgid ""
+"Press the Action Button to confirm \n"
+"<I=CAMERA> up: Look Down\n"
+"<I=CAMERA> down: Look Up"
+msgstr ""
+
+#: olang/009c9ea4/0x2d0e6c/0xf29383
+#: olang/009c9ea4/0x2d0e6e/0xf29383
+msgid ""
+"Press <I=ACT> to confirm \n"
+"<I=CAMERA> left: Look Left\n"
+"<I=CAMERA> right: Look Right"
+msgstr ""
+
+#: olang/009c9ea4/0x2d0e6d/0xf29383
+#: olang/009c9ea4/0x2d0e85/0xf29383
+msgid ""
+"Press <I=ACT> to confirm \n"
+"<I=CAMERA> left: Look Right\n"
+"<I=CAMERA> right: Look Left"
+msgstr ""
+
+#: olang/009c9ea4/0x2d3090/0x000134
+#: olang/00d345a5/0x2d3090/0x000134
+msgid "Liquid Magazine"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d32b
+msgid "Peace Constitutions"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d32c
+msgid "Peace Constitution of Japan"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d32d
+msgid "Article 9 and the JSDF"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d32e
+msgid "The U.S-Japan Security Treaty"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d32f
+msgid "The Nuclear Umbrella"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d346
+msgid "The Three Non-Nuclear Principles"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d347
+msgid "The JSDF"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d348
+msgid "Why Miller quit the JSDF"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d349
+#: olang/009c9ea4/0x31a1fa/0xb6dba6
+#: olang/009c9ea4/0x31a1fa/0xb6dfa7
+msgid "About himself"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d34a
+msgid "Roles within the Mother Base"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d34b
+msgid "Upbringing"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d34c
+msgid "How Miller met Snake"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d34d
+msgid "The Fundamentals of Stealth"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d34e
+msgid "Sneaking Mission"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d34f
+msgid "Effective Use of Fulton Recovery"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d366
+msgid "Body Checks"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d367
+msgid "Weight Carried"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d368
+msgid "Aim Tremors"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d369
+msgid "Dressing for the Mission"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d36a
+msgid "Jungle Fatigues"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d36b
+msgid "Sneaking Suit"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d36c
+msgid "Battle Dress"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d36d
+msgid "Naked"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d36e
+#: olang/009c9ea4/0x31a1fa/0xb6d36f
+msgid "CO-OPS"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d386
+msgid "CO-OP Ring"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d387
+msgid "Snake Formation"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d388
+msgid "CPR"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d389
+msgid "Camaraderie"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d38a
+msgid "Snake Sync"
+msgstr ""

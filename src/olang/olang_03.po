@@ -1,0 +1,2017 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF olang 3/4\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: olang\n"
+"X-PWSF-Entries: 400\n"
+
+
+#: olang/009c9ea4/0x39c9f3/0xe66fd3
+msgid "Move Camera Right"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0xf84d80
+msgid "Move Camera Down"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0xfa7fe6
+msgid "Choose which key you would like to change."
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0xfc037d
+msgid "Aim Button control type"
+msgstr ""
+
+#: olang/009c9ea4/0x39c9f3/0xfc2366
+msgid "Move Camera Left"
+msgstr ""
+
+#: olang/009c9ea4/0x3c9f25/0x5ce75e
+msgid "INVITE"
+msgstr ""
+
+#: olang/009c9ea4/0x3c9f25/0xc096b6
+msgid "INVITE:"
+msgstr ""
+
+#: olang/009c9ea4/0x3ca19f/0x09f7f4
+#: olang/009c9ea4/0x3ca19f/0x19f7f4
+#: olang/009c9ea4/0x3ca19f/0x29f7f4
+#: olang/009c9ea4/0x3ca19f/0x39f7f4
+#: olang/009c9ea4/0x3ca19f/0xc9f7f3
+#: olang/009c9ea4/0x3ca19f/0xd9f7f3
+#: olang/009c9ea4/0x3ca19f/0xe9f7f3
+#: olang/009c9ea4/0x3ca19f/0xf9f7f3
+#: olang/00d345a5/0x048941/0x000168
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index in environments of a similar color."
+msgstr ""
+
+#: olang/009c9ea4/0x3ca19f/0x09f7f6
+#: olang/009c9ea4/0x3ca19f/0x19f7f6
+#: olang/009c9ea4/0x3ca19f/0x29f7f6
+#: olang/009c9ea4/0x3ca19f/0x39f7f6
+#: olang/009c9ea4/0x3ca19f/0x49f7f6
+#: olang/009c9ea4/0x3ca19f/0x59f7f6
+#: olang/009c9ea4/0x3ca19f/0xc9f7f7
+#: olang/009c9ea4/0x3ca19f/0xf9f7f5
+#: olang/00d345a5/0x048941/0x000184
+#: olang/00d345a5/0x048941/0x00018b
+msgid "Variation of Naked with camouflage pants. Raises camo index in environments of a similar color, but only half as much as full-body camo."
+msgstr ""
+
+#: olang/009c9ea4/0x3ca19f/0x19f7f8
+msgid ""
+"A gold T-shirt.\n"
+"The basic characteristics are\n"
+"the same as the Jungle Fatigues."
+msgstr ""
+
+#: olang/009c9ea4/0x3ca19f/0x29f7f8
+msgid ""
+"A T-shirt with a Love Box design.\n"
+"The basic characteristics are\n"
+"the same as the Jungle Fatigues."
+msgstr ""
+
+#: olang/009c9ea4/0x3ca19f/0x49f7f4
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index near water."
+msgstr ""
+
+#: olang/009c9ea4/0x3ca19f/0x59f7f4
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index in environments with a lot of wooden buildings."
+msgstr ""
+
+#: olang/009c9ea4/0x3ca19f/0xc9f7f5
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index slightly when standing on jungle or dirt surfaces."
+msgstr ""
+
+#: olang/009c9ea4/0x3ca19f/0xd9f7f5
+msgid "Variation of Jungle Fatigues camouflage. Slightly increases the diameter of the CO-OPS boundary line."
+msgstr ""
+
+#: olang/009c9ea4/0x3ca19f/0xd9f7f7
+msgid "Variation of Naked with camouflage pants. Raises camo index near water, but only half as much as full-body camo."
+msgstr ""
+
+#: olang/009c9ea4/0x3ca19f/0xe9f7f5
+msgid "Variation of Jungle Fatigues camouflage. Slightly increases gun performance."
+msgstr ""
+
+#: olang/009c9ea4/0x3ca19f/0xe9f7f7
+msgid "Variation of Naked with camouflage pants. Raises camo index in environments with a lot of wooden buildings, but only half as much as full-body camo."
+msgstr ""
+
+#: olang/009c9ea4/0x3ca19f/0xf9f7f7
+msgid "Variation of Naked with camouflage pants. Raises camo index when standing on jungle or dirt surfaces, but only half as much as full-body camo."
+msgstr ""
+
+#: olang/009c9ea4/0x3ced95/0x155479
+msgid ""
+"The game is currently paused.\n"
+"Skip the cutscene and proceed?"
+msgstr ""
+
+#: olang/009c9ea4/0x413acf/0x052bda
+msgid ""
+"Revolution is a means and not an end, I know.\n"
+"When the revolution is victorious, I want my\n"
+"country to be at peace. But to bring peace,\n"
+"we have to first eliminate that traitorous scum."
+msgstr ""
+
+#: olang/009c9ea4/0x413acf/0x06b55b
+msgid ""
+"We go where we're needed, \n"
+"fighting not for country, not for government,\n"
+"but for ourselves.\n"
+msgstr ""
+
+#: olang/009c9ea4/0x413acf/0x21f416
+msgid ""
+"My name is Paz, and I will do anything\n"
+"to protect my namesake. \n"
+"It is my one and only purpose."
+msgstr ""
+
+#: olang/009c9ea4/0x413acf/0x374f9e
+msgid ""
+"That's why I agreed to help develop it... \n"
+"Mm-hmm. However, in order to achieve\n"
+"that perfect deterrent, \n"
+"we must show the world our strength."
+msgstr ""
+
+#: olang/009c9ea4/0x413acf/0x91c53e
+msgid ""
+"Yes, I know. Just as I know \n"
+"what you did 10 years ago.\n"
+"Go on, kill me like you killed her.\n"
+"Kill me like you killed The Boss.\n"
+"Kill me!"
+msgstr ""
+
+#: olang/009c9ea4/0x413acf/0x91c540
+msgid ""
+"You used the pretext of a mission \n"
+"to kill a true hero.\n"
+"Is that what you call loyalty? Answer me!"
+msgstr ""
+
+#: olang/009c9ea4/0x413acf/0x91c541
+msgid ""
+"I won't rest until I get answers \n"
+"from the woman I loved. \n"
+"You and I are the same. We are the walking dead."
+msgstr ""
+
+#: olang/009c9ea4/0x413acf/0xb2d965
+msgid ""
+"...Everyone treats me like a child.\n"
+"I, I, I couldn't stand it anymore. \n"
+"I'm not a kid. I'm twelve! "
+msgstr ""
+
+#: olang/009c9ea4/0x413acf/0xb949dc
+msgid ""
+"Becoming one with the forest is the very essence of\n"
+"birdwatching, they won't behave naturally if they\n"
+"sense a human nearby. And that can really affect your\n"
+"observations."
+msgstr ""
+
+#: olang/009c9ea4/0x413acf/0xd1f416
+msgid ""
+"Exactly. We know only how to fight... \n"
+"but we refuse to live our lives at the whim of the state."
+msgstr ""
+
+#: olang/009c9ea4/0x413acf/0xd1f417
+msgid ""
+"No one man could bear the burden of total genocide. \n"
+"It's what's allowed our cowardly species to survive all this time."
+msgstr ""
+
+#: olang/009c9ea4/0x413acf/0xd1f418
+msgid ""
+"You've left everything behind - your country, your identity,\n"
+"your past and ideals... \n"
+"But there's still one thing you haven't let go of."
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0x09f7f4
+msgid "Red"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0x09f7f6
+msgid "Naked (Khaki)"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0x19f7f4
+msgid "Yellow"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0x19f7f6
+msgid "Naked (Navy Blue)"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0x19f7f8
+msgid "Gold"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0x29f7f4
+msgid "Pink"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0x29f7f6
+msgid "Naked (White)"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0x29f7f8
+msgid "Love Box"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0x39f7f4
+msgid "Green"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0x39f7f6
+msgid "Naked (Red)"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0x49f7f4
+msgid "Water"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0x49f7f6
+msgid "Naked (Yellow)"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0x59f7f4
+msgid "Tree Bark"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0x59f7f6
+msgid "Naked (Pink)"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0xc9f7f3
+msgid "Black"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0xc9f7f5
+#: olang/009c9ea4/0x85a61c/0xc9f7f5
+msgid "DPM"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0xc9f7f7
+msgid "Naked (Green)"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0xd9f7f3
+msgid "Khaki"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0xd9f7f5
+msgid "Comrade"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0xd9f7f7
+msgid "Naked (Water)"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0xe9f7f3
+msgid "Navy Blue"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0xe9f7f5
+msgid "Guns & Jungle"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0xe9f7f7
+msgid "Naked (Tree Bark)"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0xf9f7f3
+msgid "White"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0xf9f7f5
+msgid "Naked (Black)"
+msgstr ""
+
+#: olang/009c9ea4/0x4190e1/0xf9f7f7
+msgid "Naked (DPM)"
+msgstr ""
+
+#: olang/009c9ea4/0x43f3a5/0x394f17
+#: olang/009c9ea4/0xa49217/0x2de9a9
+msgid ""
+"Select your control scheme. \n"
+"\n"
+"SHOOTER TYPE: The configuration is similar to that of \"MGS4.\"\n"
+"\n"
+"ACTION TYPE: The configuration is similar to that of \"MPO.\"\n"
+"\n"
+"HUNTER TYPE: The configuration is similar to that of the MONSTER HUNTER FREEDOM<I=TM> series.\n"
+"\n"
+"CUSTOM TYPE: The configuration can be freely customized."
+msgstr ""
+
+#: olang/009c9ea4/0x482e82/0x341a6f
+#: olang/009c9ea4/0x9dc379/0xd1ff23
+msgid "Movement Sensitivity"
+msgstr ""
+
+#: olang/009c9ea4/0x482e82/0xef89e5
+#: olang/00d0c740/0x482e82/0xef89e5
+msgid "Guest"
+msgstr ""
+
+#: olang/009c9ea4/0x4a9e78/0x220a93
+msgid ""
+"Checking save data...\n"
+"Do not close the game."
+msgstr ""
+
+#: olang/009c9ea4/0x529072/0x000002
+msgid "Hit the button as fast as you can!"
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x00004f
+#: olang/00d345a5/0x594864/0x00004f
+msgid ""
+"New-model, lightweight assault rifle. \n"
+"Outfitted with shotgun. Switch with <I=△>."
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x000051
+#: olang/00d345a5/0x594864/0x000051
+msgid "New-model, lightweight assault rifle. Outfitted with shotgun and laser sight. Switch with <I=△>."
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x000052
+#: olang/009c9ea4/0x594864/0x000053
+#: olang/009c9ea4/0x594864/0x000054
+#: olang/00d345a5/0x594864/0x000052
+#: olang/00d345a5/0x594864/0x000053
+#: olang/00d345a5/0x594864/0x000054
+msgid "New-model, lightweight assault rifle. Outfitted with grenade launcher. Switch with <I=△>."
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x000055
+#: olang/00d345a5/0x594864/0x000055
+msgid "New-model, lightweight assault rifle. Outfitted with grenade launcher and laser sight. Switch with <I=△>."
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x000056
+msgid "M16a1_B(Grenader) "
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x000057
+#: olang/00d345a5/0x594864/0x000057
+msgid "New-model, lightweight assault rifle. Outfitted with smoke grenade launcher. Switch with <I=△>."
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x000059
+#: olang/00d345a5/0x594864/0x000059
+msgid "New-model, lightweight assault rifle. Outfitted with smoke grenade launcher and laser sight. Switch with <I=△>."
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x00005a
+msgid "M16a1_C(Smoke Grenader)"
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x00005e
+#: olang/00d345a5/0x594864/0x00005e
+msgid "Compact, lightweight carbine. Outfitted with grenade launcher. Switch with the <I=△> button."
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x000060
+#: olang/00d345a5/0x594864/0x000060
+msgid "Compact, lightweight carbine. Outfitted with underbarrel shotgun. Switch with <I=△>."
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x000062
+#: olang/00d345a5/0x594864/0x000062
+msgid "Compact, lightweight carbine. Outfitted with smoke grenade launcher. Switch with <I=△>."
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x000065
+#: olang/00d345a5/0x594864/0x000065
+msgid "Soviet assault rifle. Equipped with grenade launcher. Switch with <I=△>."
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x000067
+#: olang/00d345a5/0x594864/0x000067
+msgid "Soviet assault rifle. Equipped with smoke grenade launcher. Switch with <I=△>."
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x0000f6
+#: olang/009c9ea4/0x594864/0x000241
+msgid "0"
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x000178
+#: olang/009c9ea4/0x594864/0x000179
+#: olang/009c9ea4/0x594864/0x00017a
+#: olang/009c9ea4/0x594864/0x00017b
+#: olang/009c9ea4/0x594864/0x00017c
+msgid ""
+"Fragmentation grenade\n"
+"Press <I=ATK> while \n"
+"holding <I=AIM> to throw. "
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x00017d
+#: olang/009c9ea4/0x594864/0x00017e
+#: olang/009c9ea4/0x594864/0x00017f
+#: olang/009c9ea4/0x594864/0x000180
+#: olang/009c9ea4/0x594864/0x000181
+msgid ""
+"Sound and flash grenades.\n"
+"Non-lethal weapons.\n"
+"Press <I=ATK> while \n"
+"holding <I=AIM> to throw. "
+msgstr ""
+
+#: olang/009c9ea4/0x594864/0x000231
+#: olang/009c9ea4/0x594864/0x000232
+#: olang/009c9ea4/0x594864/0x000233
+msgid ""
+"Compact & lightweight submachine gun.\n"
+"Press <I=ATK> while \n"
+"holding <I=AIM> to fire. "
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x08cdae
+msgid "Please select the data you wish to delete."
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x11d653
+msgid "Load game data?"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x170fd9
+msgid "NEW SAVE"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x220cab
+msgid "<I=CAN> Back"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x274464
+msgid "LOAD GAME"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x2a732f
+msgid "しばらくお待ちください。"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x2a8f05
+msgid "NEW GAME"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x305ced
+msgid "Failed to delete game data."
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x58f26e
+msgid "Failed to load game data."
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x5dbf5f
+#: olang/009c9ea4/0x596f30/0xd95ad8
+#: olang/009c9ea4/0x596f30/0xfec2a9
+#: olang/009c9ea4/0x9b86ab/0x4c248f
+msgid "Return to the title menu?"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x65d9ca
+msgid "METAL GEAR SOLID PEACE WALKER (MASTER COLLECTION Version)"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x702a60
+msgid "Are you sure you want to overwrite saved data?"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x771d5e
+msgid "<I=UD> Move cursor"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x771f51
+msgid "DELETE"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x822a29
+msgid "Corrupted Data"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x8dcd05
+#: olang/00d0c740/0x413acf/0x3341a9
+msgid "Loading..."
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x9117a6
+msgid "Saving..."
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x99a4eb
+msgid "Deleting..."
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0x9e630a
+msgid "Please select the data you wish to load."
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0xa1adab
+msgid "Please select the data you wish to save."
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0xa67665
+msgid "Load complete."
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0xadfa88
+msgid "Failed to save game data."
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0xb2d99d
+msgid "Save game data?"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0xb3a0e9
+msgid "Save complete."
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0xb540bd
+msgid "Are you sure you want to delete your saved data?"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0xb607f8
+msgid "No saved data."
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0xbcdff8
+msgid "<I=DEC> Confirm"
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0xe5e21a
+msgid "Saved data deleted."
+msgstr ""
+
+#: olang/009c9ea4/0x596f30/0xf100ae
+msgid "Total Play Time : [total_play_time]"
+msgstr ""
+
+#: olang/009c9ea4/0x5d8989/0xb3e6dc
+msgid "Press <I=□> to select which soldier to assign."
+msgstr ""
+
+#: olang/009c9ea4/0x5d8989/0xb3e6fc
+msgid ""
+"Press <I=CONF> to specify the team to which\n"
+"to assign the soldier."
+msgstr ""
+
+#: olang/009c9ea4/0x5f753b/0x28adbe
+msgid "Rotate: <I=CAMERA> left/right"
+msgstr ""
+
+#: olang/009c9ea4/0x5f753b/0x28adbf
+msgid "Move: <I=CAMERA> up/down"
+msgstr ""
+
+#: olang/009c9ea4/0x5f753b/0x48adbe
+#: olang/009c9ea4/0x5f753b/0xc992ce
+#: olang/009c9ea4/0x919326/0xc992ce
+msgid "Rotate: <I=CAMERA>"
+msgstr ""
+
+#: olang/009c9ea4/0x5f753b/0x88adbf
+#: olang/009c9ea4/0x5f753b/0xa8adbe
+msgid "Move Camera: <I=CAMERA>"
+msgstr ""
+
+#: olang/009c9ea4/0x5f753b/0xc992cf
+msgid "Move: <I=CAMERA>"
+msgstr ""
+
+#: olang/009c9ea4/0x629bfd/0x000001
+msgid ""
+"Use up and down on <I=CAMERA> \n"
+"to move your line of sight!"
+msgstr ""
+
+#: olang/009c9ea4/0x629c7d/0x000001
+msgid ""
+"Use right and left on <I=CAMERA> \n"
+"to move your line of sight!"
+msgstr ""
+
+#: olang/009c9ea4/0x62a7fd/0x000000
+msgid ""
+"Boss, \n"
+"use up and down on <I=CAMERA> \n"
+"to move your line of sight."
+msgstr ""
+
+#: olang/009c9ea4/0x62a7fd/0x000001
+msgid ""
+"use the up and down <I=CAMERA> \n"
+"to move your line of sight.  "
+msgstr ""
+
+#: olang/009c9ea4/0x62a87d/0x000000
+msgid ""
+"Boss, \n"
+"use left and right on <I=CAMERA> \n"
+"to move your line of sight!"
+msgstr ""
+
+#: olang/009c9ea4/0x62a87d/0x000001
+msgid ""
+"use the left and right <I=CAMERA> \n"
+"to move your line of sight.  "
+msgstr ""
+
+#: olang/009c9ea4/0x62a8fd/0x000001
+#: olang/009c9ea4/0x62a97d/0x000001
+msgid "Press <I=ACT> if you're ready to move on."
+msgstr ""
+
+#: olang/009c9ea4/0x62b8fd/0x000000
+msgid ""
+"Alright, let’s try up and down on\n"
+" <I=CAMERA> one more time."
+msgstr ""
+
+#: olang/009c9ea4/0x62b97d/0x000000
+msgid ""
+"Alright, let’s try left and right on\n"
+"<I=CAMERA> one more time."
+msgstr ""
+
+#: olang/009c9ea4/0x62bb7d/0x000004
+msgid ""
+"You have three stances:\n"
+"stand, crouch, and lying down."
+msgstr ""
+
+#: olang/009c9ea4/0x62bb7d/0x000005
+msgid "To change stances use <I=STANCE>. "
+msgstr ""
+
+#: olang/009c9ea4/0x62bb7d/0x000006
+msgid ""
+"Tap <I=STANCE> to change \n"
+"between standing and crouching."
+msgstr ""
+
+#: olang/009c9ea4/0x62bb7d/0x000007
+msgid "You can move in either stance."
+msgstr ""
+
+#: olang/009c9ea4/0x62bb7d/0x000008
+msgid "Hold <I=STANCE> and keep it held to lie down."
+msgstr ""
+
+#: olang/009c9ea4/0x62c87d/0x000000
+#: olang/009c9ea4/0x64687e/0x000000
+msgid "What are you doing? "
+msgstr ""
+
+#: olang/009c9ea4/0x62c87d/0x000001
+msgid "Use <I=STANCE> to change your stance! "
+msgstr ""
+
+#: olang/009c9ea4/0x62c8fd/0x000000
+msgid "Boss, change your stance with <I=STANCE>!"
+msgstr ""
+
+#: olang/009c9ea4/0x62cafd/0x000000
+msgid ""
+"What now? \n"
+"Use <I=MOVE> to move!"
+msgstr ""
+
+#: olang/009c9ea4/0x62cbfd/0x000004
+#: olang/009c9ea4/0x62cbfe/0x000004
+msgid "To roll, tap <I=STANCE> while running."
+msgstr ""
+
+#: olang/009c9ea4/0x62cbfd/0x000005
+msgid "You got that?"
+msgstr ""
+
+#: olang/009c9ea4/0x62cbfe/0x000005
+msgid "You got that? "
+msgstr ""
+
+#: olang/009c9ea4/0x62cbfe/0x000006
+msgid ""
+"Tap <I=STANCE> while running. \n"
+"Don't forget it!"
+msgstr ""
+
+#: olang/009c9ea4/0x62d87d/0x000000
+#: olang/009c9ea4/0x62d87e/0x000000
+msgid ""
+"What's wrong?! \n"
+"Run with <I=MOVE>, \n"
+"then press <I=STANCE> to roll!"
+msgstr ""
+
+#: olang/009c9ea4/0x62d87d/0x000001
+msgid ""
+"Run with <I=MOVE>,\n"
+"then tap <I=ATK> to roll!"
+msgstr ""
+
+#: olang/009c9ea4/0x62d87e/0x000001
+msgid ""
+"Run with <I=MOVE>, \n"
+"then tap <I=STANCE> to roll!"
+msgstr ""
+
+#: olang/009c9ea4/0x62d9fd/0x000000
+msgid ""
+"To strike an enemy, \n"
+"press <I=ATK> while standing still! "
+msgstr ""
+
+#: olang/009c9ea4/0x62d9fd/0x000001
+msgid ""
+"On my command, press <I=ATK>\n"
+"repeatedly and take down your opponent!"
+msgstr ""
+
+#: olang/009c9ea4/0x62d9fe/0x000000
+msgid ""
+"To strike an enemy, \n"
+"press <I=CQC> while standing still!"
+msgstr ""
+
+#: olang/009c9ea4/0x62d9fe/0x000001
+msgid "On my command,"
+msgstr ""
+
+#: olang/009c9ea4/0x62d9fe/0x000002
+msgid ""
+"press <I=CQC> repeatedly \n"
+"and take down your opponent!"
+msgstr ""
+
+#: olang/009c9ea4/0x62dafd/0x000000
+#: olang/009c9ea4/0x62dafe/0x000000
+msgid "You alright, boss?"
+msgstr ""
+
+#: olang/009c9ea4/0x62dafd/0x000001
+msgid "Press <I=ATK> without moving!"
+msgstr ""
+
+#: olang/009c9ea4/0x62dafe/0x000001
+msgid "Press <I=CQC> without moving!"
+msgstr ""
+
+#: olang/009c9ea4/0x62db7d/0x000000
+msgid "Press <I=ATK> without moving, Boss. "
+msgstr ""
+
+#: olang/009c9ea4/0x62db7e/0x000000
+msgid "Press <I=CQC> without moving, Boss. "
+msgstr ""
+
+#: olang/009c9ea4/0x62dc7d/0x000000
+#: olang/009c9ea4/0x62dc7e/0x000000
+msgid ""
+"To use the stun rod, \n"
+"press <I=AIM> to ready it,"
+msgstr ""
+
+#: olang/009c9ea4/0x62dc7d/0x000001
+#: olang/009c9ea4/0x62dc7e/0x000001
+msgid "then press <I=ATK>."
+msgstr ""
+
+#: olang/009c9ea4/0x64487d/0x000000
+msgid "Hey, hey! Hold down <I=AIM>!"
+msgstr ""
+
+#: olang/009c9ea4/0x64487e/0x000000
+msgid "Hey! Press <I=AIM>!"
+msgstr ""
+
+#: olang/009c9ea4/0x6448fd/0x000000
+msgid "Boss, please hold down <I=AIM>!"
+msgstr ""
+
+#: olang/009c9ea4/0x6448fe/0x000000
+msgid "Boss, please press <I=AIM>!"
+msgstr ""
+
+#: olang/009c9ea4/0x644a7d/0x000000
+msgid ""
+"What's wrong? Press <I=ATK>\n"
+"while holding down <I=AIM>! "
+msgstr ""
+
+#: olang/009c9ea4/0x644a7e/0x000000
+msgid ""
+"What's wrong? Press <I=ATK>\n"
+"after pressing <I=AIM>! "
+msgstr ""
+
+#: olang/009c9ea4/0x644afd/0x000000
+msgid ""
+"Boss, please press <I=ATK> \n"
+"while holding down <I=AIM>!"
+msgstr ""
+
+#: olang/009c9ea4/0x644afe/0x000000
+msgid ""
+"Boss, please press <I=ATK> \n"
+"after pressing <I=AIM>! "
+msgstr ""
+
+#: olang/009c9ea4/0x644bfd/0x000002
+msgid ""
+"and press <I=ATK> \n"
+"while you tilt <I=MOVE>."
+msgstr ""
+
+#: olang/009c9ea4/0x644bfe/0x000001
+msgid ""
+"and press <I=CQC> \n"
+"near an enemy as you tilt <I=MOVE>!"
+msgstr ""
+
+#: olang/009c9ea4/0x6457fd/0x000000
+msgid ""
+"Hey! \n"
+"Press <I=ATK> \n"
+"as you tilt <I=MOVE>!"
+msgstr ""
+
+#: olang/009c9ea4/0x6457fd/0x000001
+msgid "Press <I=ATK> as you tilt <I=MOVE>!"
+msgstr ""
+
+#: olang/009c9ea4/0x6457fe/0x000000
+msgid ""
+"Hey! \n"
+"Press <I=CQC>\n"
+"as you tilt <I=MOVE>!"
+msgstr ""
+
+#: olang/009c9ea4/0x6457fe/0x000001
+msgid "Hey! "
+msgstr ""
+
+#: olang/009c9ea4/0x6458fd/0x000001
+msgid ""
+"you have to press <I=ATK> \n"
+"as you tilt <I=MOVE>!"
+msgstr ""
+
+#: olang/009c9ea4/0x6458fe/0x000001
+msgid ""
+"you have to press <I=CQC> \n"
+"as you tilt <I=MOVE>!"
+msgstr ""
+
+#: olang/009c9ea4/0x645bfd/0x000000
+msgid "To restrain your opponent, "
+msgstr ""
+
+#: olang/009c9ea4/0x645bfd/0x000001
+msgid "hold down <I=ATK> while near them. "
+msgstr ""
+
+#: olang/009c9ea4/0x645bfe/0x000000
+msgid "To restrain your opponent,"
+msgstr ""
+
+#: olang/009c9ea4/0x645bfe/0x000001
+msgid "hold down <I=CQC> while near them. "
+msgstr ""
+
+#: olang/009c9ea4/0x645bfe/0x000002
+msgid ""
+"Restrain your opponent \n"
+"on my command. \n"
+msgstr ""
+
+#: olang/009c9ea4/0x64687d/0x000000
+msgid "What are you doing?"
+msgstr ""
+
+#: olang/009c9ea4/0x64687d/0x000001
+msgid "Press <I=ATK> while near your opponent! "
+msgstr ""
+
+#: olang/009c9ea4/0x64687e/0x000001
+msgid "Press <I=CQC> while near your opponent! "
+msgstr ""
+
+#: olang/009c9ea4/0x6468fd/0x000000
+#: olang/009c9ea4/0x6468fe/0x000000
+#: olang/009c9ea4/0x64ab7e/0x000000
+msgid "Boss, "
+msgstr ""
+
+#: olang/009c9ea4/0x6468fd/0x000001
+msgid ""
+"you have to press <I=ATK> \n"
+"while next to your opponent! "
+msgstr ""
+
+#: olang/009c9ea4/0x6468fe/0x000001
+msgid ""
+"you have to press <I=CQC> \n"
+"while next to your opponent!"
+msgstr ""
+
+#: olang/009c9ea4/0x646b7d/0x000001
+msgid "press a direction on <I=MOVE> when you have them restrained."
+msgstr ""
+
+#: olang/009c9ea4/0x647a7d/0x000000
+#: olang/009c9ea4/0x647a7e/0x000000
+msgid "To interrogate someone,"
+msgstr ""
+
+#: olang/009c9ea4/0x647a7d/0x000001
+#: olang/009c9ea4/0x647a7e/0x000001
+msgid ""
+"Press <I=ATK> to restrain \n"
+"them, then press <I=INTERROGATE>."
+msgstr ""
+
+#: olang/009c9ea4/0x647bfd/0x000000
+msgid "You OK? Press <I=ACT>!"
+msgstr ""
+
+#: olang/009c9ea4/0x647bfe/0x000000
+msgid "You OK? Press <I=INTERROGATE>!"
+msgstr ""
+
+#: olang/009c9ea4/0x647c7d/0x000000
+msgid "You have to press <I=ACT>, Boss!"
+msgstr ""
+
+#: olang/009c9ea4/0x647c7e/0x000000
+msgid ""
+"You have to press <I=INTERROGATE>, \n"
+"Boss!"
+msgstr ""
+
+#: olang/009c9ea4/0x649a7d/0x000001
+#: olang/009c9ea4/0x649a7e/0x000001
+msgid "Then tilt <I=MOVE> to throw them."
+msgstr ""
+
+#: olang/009c9ea4/0x649a7d/0x000002
+#: olang/009c9ea4/0x649a7e/0x000002
+msgid "By tilting <I=MOVE> toward other enemies,"
+msgstr ""
+
+#: olang/009c9ea4/0x649a7e/0x000000
+msgid "First, restrain an opponent by pressing <I=CQC> while near them."
+msgstr ""
+
+#: olang/009c9ea4/0x649bfd/0x000000
+msgid ""
+"Hey!\n"
+"Tilt <I=MOVE> while \n"
+"restraining the opponent!"
+msgstr ""
+
+#: olang/009c9ea4/0x649bfd/0x000001
+msgid "Tilt <I=MOVE> while restraining the opponent! "
+msgstr ""
+
+#: olang/009c9ea4/0x64a7fd/0x000000
+msgid ""
+"Tilt <I=MOVE> while restraining \n"
+"the opponent, Boss!"
+msgstr ""
+
+#: olang/009c9ea4/0x64a97d/0x000001
+msgid ""
+"you'll have to take them on one \n"
+"after the other."
+msgstr ""
+
+#: olang/009c9ea4/0x64a97d/0x000003
+msgid ""
+"simply press <I=ATK> again \n"
+"while throwing the current enemy.  "
+msgstr ""
+
+#: olang/009c9ea4/0x64a97e/0x000000
+#: olang/00cd740b/0x64a97e/0x000000
+msgid ""
+"When you're surrounded \n"
+"by multiple enemies,"
+msgstr ""
+
+#: olang/009c9ea4/0x64a97e/0x000001
+msgid ""
+"you'll have to take them on one \n"
+"after the other. "
+msgstr ""
+
+#: olang/009c9ea4/0x64a97e/0x000002
+msgid ""
+"To do it, \n"
+msgstr ""
+
+#: olang/009c9ea4/0x64a97e/0x000003
+msgid ""
+"simply press <I=CQC> again \n"
+"while throwing the current enemy."
+msgstr ""
+
+#: olang/009c9ea4/0x64a97e/0x000004
+msgid ""
+"Just be sure to wait for the Icon \n"
+"to appear. \n"
+msgstr ""
+
+#: olang/009c9ea4/0x64aafd/0x000000
+msgid "Press <I=ATK> when the Icon appears!"
+msgstr ""
+
+#: olang/009c9ea4/0x64aafe/0x000000
+msgid "Press <I=CQC> when the Icon appears! "
+msgstr ""
+
+#: olang/009c9ea4/0x64ab7d/0x000000
+msgid "Boss, press <I=ATK> when the Icon appears!"
+msgstr ""
+
+#: olang/009c9ea4/0x64ab7e/0x000001
+msgid "press <I=CQC> when the Icon appears! "
+msgstr ""
+
+#: olang/009c9ea4/0x68bb2b/0x01c78f
+msgid ""
+"Search with the conditions you have selected.\n"
+"*Make sure your game is updated to the latest version."
+msgstr ""
+
+#: olang/009c9ea4/0x68bb2b/0x594dbd
+msgid ""
+"Search for MEMBERS with the conditions you have selected.\n"
+"*Make sure your game is updated to the latest version."
+msgstr ""
+
+#: olang/009c9ea4/0x68bb2b/0xac71d5
+msgid ""
+"You can recruit CO-OPS MEMBERS worldwide online.\n"
+"Select the type of invitation."
+msgstr ""
+
+#: olang/009c9ea4/0x68bb2b/0xf6831d
+msgid "Online multiplayer cannot be used by the current account."
+msgstr ""
+
+#: olang/009c9ea4/0x6b2d56/0x48e16c
+msgid "Open the ONLINE MANUAL?"
+msgstr ""
+
+#: olang/009c9ea4/0x74d55a/0x000000
+msgid "Nukes!"
+msgstr ""
+
+#: olang/009c9ea4/0x82e3c9/0x6fd5da
+msgid "Press <I=DEC> to view the requirements that must be met."
+msgstr ""
+
+#: olang/009c9ea4/0x840500/0x374a51
+msgid ""
+"Back in my old unit, the commander used to tell us at morning calisthenics: \"Whenever you're in trouble, open the menu window!!\"\n"
+"Wonder how he's doing these days."
+msgstr ""
+
+#: olang/009c9ea4/0x840500/0x374af7
+msgid ""
+"Hey Boss, can you teach me how to reload?\n"
+"...Ahh, so that's it! Just push the Action Button with the weapon equipped! Thanks a bunch, Boss!"
+msgstr ""
+
+#: olang/009c9ea4/0x840ff7/0x44e180
+msgid "<I=PAUSE>: End tutorial."
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0x09f7f4
+msgid "RED"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0x09f7f6
+msgid "NKD(KHAKI)"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0x19f7f4
+msgid "YELLOW"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0x19f7f6
+msgid "NKD(N.BLU)"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0x19f7f8
+msgid "GOLD"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0x29f7f4
+msgid "PINK"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0x29f7f6
+msgid "NKD(WHITE)"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0x29f7f8
+msgid "LOVE BOX"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0x39f7f4
+msgid "GREEN"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0x39f7f6
+msgid "NKD(RED)"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0x49f7f4
+msgid "WATER"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0x49f7f6
+msgid "NKD(YELW)"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0x59f7f4
+msgid "TREE BARK"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0x59f7f6
+msgid "NKD(PINK)"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0xc9f7f3
+msgid "BLACK"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0xc9f7f7
+msgid "NKD(GRN)"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0xd9f7f3
+msgid "KHAKI"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0xd9f7f5
+msgid "COMRADE"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0xd9f7f7
+msgid "NKD(WATR)"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0xe9f7f3
+msgid "NAVY BLUE"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0xe9f7f5
+msgid "G&J"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0xe9f7f7
+msgid "NKD(T.B)"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0xf9f7f3
+msgid "WHITE"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0xf9f7f5
+msgid "NKD(BLACK)"
+msgstr ""
+
+#: olang/009c9ea4/0x85a61c/0xf9f7f7
+msgid "NKD(DPM)"
+msgstr ""
+
+#: olang/009c9ea4/0x8b79b6/0x220a93
+msgid ""
+"Checking storage...\n"
+"Do not close the game."
+msgstr ""
+
+#: olang/009c9ea4/0x8b79b6/0x3b222d
+#: olang/009c9ea4/0xa49217/0x3f129b
+msgid ""
+"This game saves data automatically.\n"
+"Do not close the game during this time."
+msgstr ""
+
+#: olang/009c9ea4/0x8b79b6/0xbba0fd
+#: olang/009c9ea4/0xa49217/0x836b27
+#: olang/009c9ea4/0xdbd1b3/0x4dfe7b
+msgid ""
+"Saving content.\n"
+"Please don't close the game."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0x00b621
+#: olang/009c9ea4/0x8caeae/0x00b721
+#: olang/009c9ea4/0x8caeae/0x00b821
+msgid ""
+"Awarded for capturing over $1 bases (Heroism increases\n"
+"$2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0x00b921
+#: olang/009c9ea4/0x8caeae/0x00ba21
+#: olang/009c9ea4/0x8caeae/0x00bb21
+msgid ""
+"Awarded for getting the target to the goal (count to 0) over\n"
+"$1 times (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0x00bc21
+#: olang/009c9ea4/0x8caeae/0x00bd21
+#: olang/009c9ea4/0x8caeae/0x00d421
+msgid ""
+"\n"
+"Awarded for performing over $1 Fulton Recoveries in VS (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfcb520
+#: olang/009c9ea4/0x8caeae/0xfcb620
+#: olang/009c9ea4/0x8caeae/0xfcb720
+msgid ""
+"\n"
+"Awarded for completing over $1 missions without being spotted by the enemy (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfcb820
+#: olang/009c9ea4/0x8caeae/0xfcb920
+#: olang/009c9ea4/0x8caeae/0xfcba20
+msgid ""
+"\n"
+"Awarded for completing over $1 missions without killing anyone (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfcbb20
+#: olang/009c9ea4/0x8caeae/0xfcbc20
+#: olang/009c9ea4/0x8caeae/0xfcbd20
+msgid ""
+"\n"
+"Awarded for holding up over $1 enemy soldiers (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfcd420
+#: olang/009c9ea4/0x8caeae/0xfcd520
+#: olang/009c9ea4/0x8caeae/0xfcd620
+msgid ""
+"\n"
+"Awarded for completing over $1 missions without using recovery items (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfcd720
+#: olang/009c9ea4/0x8caeae/0xfcd820
+#: olang/009c9ea4/0x8caeae/0xfcd920
+msgid ""
+"\n"
+"Awarded for using CQC over $1 times (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfcda20
+#: olang/009c9ea4/0x8caeae/0xfcdb20
+#: olang/009c9ea4/0x8caeae/0xfcdc20
+msgid ""
+"\n"
+"Awarded for completing over $1 headshots (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfcdd20
+#: olang/009c9ea4/0x8caeae/0xfcf420
+#: olang/009c9ea4/0x8caeae/0xfcf520
+msgid ""
+"\n"
+"Awarded for exceeding a total Level of Camaraderie of $1 (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfcf620
+#: olang/009c9ea4/0x8caeae/0xfcf720
+#: olang/009c9ea4/0x8caeae/0xfcf820
+msgid ""
+"\n"
+"Awarded for exceeding a combined total of $1 CPR\n"
+"Rescues, Rescue Box Uses, and Battle Cry uses (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfcf920
+msgid ""
+"\n"
+"Awarded for exceeding $1 CO-OP Ins (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfcfa20
+msgid ""
+"\n"
+"Awarded for exceeding $1 Snake Ins (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfcfb20
+msgid ""
+"\n"
+"Awarded for exceeding $1 Snake Syncs (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfcfc20
+msgid ""
+"Awarded for sharing weapons/items and having allies use them\n"
+"over $1 times (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfcfd20
+msgid ""
+"Awarded for being in a cardboard box with someone else for\n"
+"at least $1 hours and moving over $3m during that time\n"
+"(Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd1420
+msgid ""
+"Awarded for trading staff over $1 times (Heroism\n"
+"increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd1520
+msgid ""
+"Awarded for generously giving over $1 weapons/items to\n"
+"other players (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd1920
+#: olang/009c9ea4/0x8caeae/0xfd1a20
+#, c-format
+msgid ""
+"\n"
+"Awarded for completing over $1% of OUTER OPS missions (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd1c20
+msgid ""
+"\n"
+"Awarded for completing over $1 missions (Heroism increases $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd1d20
+msgid ""
+"Awarded for tagging over $1 enemies in Enemy Search\n"
+"(Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd3420
+msgid ""
+"Awarded for enduring over $1 hours in a cardboard box\n"
+"(Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd3520
+msgid "Awarded for taking over $1 photos (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd3620
+msgid ""
+"\n"
+"Awarded for bravely completing $1 missions naked (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd3720
+msgid ""
+"Awarded for sending over $1 CO-OPS messages (Heroism\n"
+"increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd3820
+#: olang/009c9ea4/0x8caeae/0xfd3920
+#: olang/009c9ea4/0x8caeae/0xfd3a20
+msgid ""
+"\n"
+"Awarded for performing Fulton Recoveries on over $1\n"
+"people (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd3b20
+#: olang/009c9ea4/0x8caeae/0xfd3c20
+msgid ""
+"\n"
+"Awarded for getting over $1 mech parts (Heroism increases $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd5420
+#: olang/009c9ea4/0x8caeae/0xfd5520
+#: olang/009c9ea4/0x8caeae/0xfd5620
+msgid ""
+"\n"
+"Awarded for hunting over $1 monsters (Heroism increases $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd5720
+#: olang/009c9ea4/0x8caeae/0xfd5820
+#, c-format
+msgid ""
+"\n"
+"Awarded for receiving over $1% of all insignias (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd5a20
+#: olang/009c9ea4/0x8caeae/0xfd5b20
+#, c-format
+msgid ""
+"\n"
+"Awarded for receiving $1% of all codenames (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfd9b20
+#: olang/009c9ea4/0x8caeae/0xfd9c20
+#: olang/009c9ea4/0x8caeae/0xfd9d20
+msgid ""
+"\n"
+"Awarded for playing over $1 VS matches (Heroism increases by $2). "
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfdb720
+#: olang/009c9ea4/0x8caeae/0xfdb820
+#: olang/009c9ea4/0x8caeae/0xfdb920
+msgid ""
+"\n"
+"Awarded for winning over $1 VS matches (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfdbd20
+msgid ""
+"\n"
+"Awarded for winning $1 matches under Deathmatch (DM) rules (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfdd420
+msgid ""
+"\n"
+"Awarded for winning $1 matches under Team Deathmatch (TDM) rules (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfdd520
+msgid ""
+"\n"
+"Awarded for winning $1 matches under Base (BASE) rules (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfdd620
+msgid ""
+"\n"
+"Awarded for winning $1 matches under Capture (CAP) rules (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8caeae/0xfdd720
+#: olang/009c9ea4/0x8caeae/0xfdd820
+#: olang/009c9ea4/0x8caeae/0xfdd920
+msgid ""
+"\n"
+"Awarded for performing over $1 kills, sleeps,\n"
+"and knockouts in VS (Heroism increases by $2)."
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x0a01f4
+msgid "\"MGS-PW\" Main Theme"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x1a01f4
+msgid "ZERO ALLIES!"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x2a01f4
+msgid "Outer Heaven"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x3a01f4
+msgid "KOI NO YOKUSHI-RYOKU (Acoustic Guitar Duo)"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x4a01f5
+msgid "Confession"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x4a01f7
+msgid "Destiny's Call"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x5a01f5
+msgid "Enclosure"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x5a01f7
+msgid "Beyond the Bounds"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x6a01f5
+msgid "Everything Begins"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x6a01f7
+msgid "Snake Eater"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x7a01f5
+msgid "Love Theme"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x7a01f7
+msgid "Calling to the Night"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x8a01f5
+msgid "View of Deep Snow"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x8a01f7
+msgid "Raxa"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x9a01f5
+msgid "MG20YearsHistory 1"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0x9a01f7
+msgid "Inori-no-Uta"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0xaa01f5
+msgid "MG20YearsHistory 2"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0xba01f5
+msgid "MG20YearsHistory 3"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0xca01f3
+msgid "KOI NO YOKUSHI-RYOKU"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0xca01f5
+msgid "MG20YearsHistory 4"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0xda01f3
+msgid "Sneak 1"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0xda01f5
+msgid "Show Time"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0xea01f3
+msgid "Sneak 2"
+msgstr ""
+
+#: olang/009c9ea4/0x8e8ce0/0xfa01f3
+msgid "HEAVENS DIVIDE"
+msgstr ""
+
+#: olang/009c9ea4/0x903077/0x000000
+#: olang/009c9ea4/0x903077/0x000010
+#: olang/009c9ea4/0xbc4a75/0x000000
+#: olang/009c9ea4/0xbc4a75/0x000025
+#: olang/009c9ea4/0xe34675/0x000000
+#: olang/009c9ea4/0xe34675/0x000012
+#: olang/009c9ea4/0xe9cbf5/0x000000
+#: olang/009c9ea4/0xe9cbf5/0x00000e
+msgid "Lock disengaged."
+msgstr ""
+
+#: olang/009c9ea4/0x903077/0x000001
+msgid "Shock output at maximum!"
+msgstr ""
+
+#: olang/009c9ea4/0x903077/0x000002
+msgid "Target locked!"
+msgstr ""
+
+#: olang/009c9ea4/0x903077/0x000003
+msgid "Engaging shock units!"
+msgstr ""
+
+#: olang/009c9ea4/0x903077/0x000004
+msgid "Firing boosters!"
+msgstr ""
+
+#: olang/009c9ea4/0x903077/0x000005
+msgid "Commencing jump!"
+msgstr ""
+
+#: olang/009c9ea4/0x903077/0x000006
+msgid "Re-engaging target!"
+msgstr ""
+
+#: olang/009c9ea4/0x903077/0x000007
+msgid "Auto-repair complete. Reinitializing."
+msgstr ""
+
+#: olang/009c9ea4/0x903077/0x000011
+msgid "Time for you to DIE!"
+msgstr ""
+
+#: olang/009c9ea4/0x903077/0x000012
+#: olang/009c9ea4/0xe9cbf5/0x000010
+msgid "You think I'll let you get away?!"
+msgstr ""
+
+#: olang/009c9ea4/0x903077/0x000013
+#: olang/009c9ea4/0xbc4a75/0x00002c
+#: olang/009c9ea4/0xe9cbf5/0x000011
+msgid "Die!"
+msgstr ""
+
+#: olang/009c9ea4/0x903077/0x000015
+msgid "I'll crush you like an insect!"
+msgstr ""
+
+#: olang/009c9ea4/0x903077/0x000016
+#: olang/009c9ea4/0xbc4a75/0x000046
+msgid "Bring it on!"
+msgstr ""
+
+#: olang/009c9ea4/0x903077/0x000017
+#: olang/009c9ea4/0xbc4a75/0x000026
+#: olang/009c9ea4/0xe9cbf5/0x00000f
+msgid "It's not over yet!"
+msgstr ""
+
+#: olang/009c9ea4/0x995528/0x945cab
+msgid "CANCEL: <I=COOPS_CANCEL>"
+msgstr ""
+
+#: olang/009c9ea4/0x9b86ab/0x0198da
+msgid "Leave without changing your password?"
+msgstr ""
+
+#: olang/009c9ea4/0x9b86ab/0x3020bc
+msgid "Once entered, your player name cannot be changed."
+msgstr ""
+
+#: olang/009c9ea4/0x9b86ab/0x3f2c7b
+#: olang/009c9ea4/0x9b86ab/0x5f42b2
+#, c-format
+msgid ""
+"Selected name is too short.\n"
+"Please enter a name longer than %d character(s)."
+msgstr ""
+
+#: olang/009c9ea4/0x9b86ab/0x518104
+msgid "Enter your player name."
+msgstr ""
+
+#: olang/009c9ea4/0x9b86ab/0x51eea1
+msgid "Please change your password."
+msgstr ""
+
+#: olang/009c9ea4/0x9b86ab/0x75bf6e
+msgid "This contains language that cannot be used in this game."
+msgstr ""
+
+#: olang/009c9ea4/0x9c12db/0xc34caa
+msgid "確認"
+msgstr ""
+
+#: olang/009c9ea4/0x9dc379/0x25a1d5
+msgid "Scroll Wheel Sensitivity"
+msgstr ""
+
+#: olang/009c9ea4/0x9dc379/0x3b53a8
+msgid "Master Volume"
+msgstr ""
+
+#: olang/009c9ea4/0x9dc379/0x7bfe8a
+msgid "Mouse camera sensitivity"
+msgstr ""
+
+#: olang/009c9ea4/0x9dc379/0x87fa9e
+msgid "Windowed Mode"
+msgstr ""
+
+#: olang/009c9ea4/0x9dc379/0x8ae55e
+msgid "Window Size"
+msgstr ""
+
+#: olang/009c9ea4/0x9dc379/0xa4e438
+msgid "Cutscene Subtitles"
+msgstr ""
+
+#: olang/009c9ea4/0x9dc379/0xb85e9e
+msgid "Select Display"
+msgstr ""
+
+#: olang/009c9ea4/0x9dc379/0xd8d175
+msgid "Mouse aim sensitivity"
+msgstr ""
+
+#: olang/009c9ea4/0x9dc379/0xe4fc23
+msgid "Keyboard & Mouse control type"
+msgstr ""
+
+#: olang/009c9ea4/0x9dc379/0xfb08d5
+msgid "Controller control type"
+msgstr ""
+
+#: olang/009c9ea4/0xa21c43/0xbce4f4
+#: olang/009c9ea4/0xa21c43/0xbce4f5
+#: olang/009c9ea4/0xa21c43/0xbce4f6
+#: olang/009c9ea4/0xa21c43/0xbce4f7
+msgid "You cannot access online multiplayer from here."
+msgstr ""
+
+#: olang/009c9ea4/0xa21c43/0xbce4f8
+msgid "Proceed to online multiplayer session from recent invite?"
+msgstr ""
+
+#: olang/009c9ea4/0xa21c43/0xbce4f9
+msgid "Proceed to previously attempted online multiplayer session?"
+msgstr ""
+
+#: olang/009c9ea4/0xa21c43/0xbce4fa
+#: olang/009c9ea4/0xa21c43/0xbce4fb
+msgid "Returning to title screen to commence multiplayer session."
+msgstr ""
+
+#: olang/009c9ea4/0xa270a1/0x008b10
+msgid "Pushing <I=PAUSE> will open the menu window."
+msgstr ""
+
+#: olang/009c9ea4/0xa30793/0xff8afb
+msgid "Connection to the HOST has failed."
+msgstr ""
+
+#: olang/009c9ea4/0xa49217/0x5a12d1
+msgid ""
+"You do not have the type of saved data that allows you\n"
+"to play online multiplayer.\n"
+"Before you can play online multiplayer, you must have saved data\n"
+"from a game in which you cleared the opening mission."
+msgstr ""
+
+#: olang/009c9ea4/0xa69279/0x7c7241
+#: olang/009c9ea4/0xb4465d/0x3c54c6
+msgid "Discard"
+msgstr ""
+
+#: olang/009c9ea4/0xb39048/0xf4816f
+msgid ""
+"You can recruit trade partners worldwide online.\n"
+"Select the type of invitation."
+msgstr ""
+
+#: olang/009c9ea4/0xb4becf/0x3df22b
+msgid "Remove Board:<I=DEC>"
+msgstr ""
+
+#: olang/009c9ea4/0xb767d9/0xc03b74
+#: olang/009c9ea4/0xb767d9/0xd9422f
+msgid ""
+"Waiting for trading partner…\n"
+"\n"
+"INVITE:<I=□>"
+msgstr ""
+
+#: olang/009c9ea4/0xb767d9/0xf433ef
+msgid ""
+"Both you and your partner have completed staff selection.\n"
+"After confirming the staff to be traded, select OK."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000001
+msgid "Reinitializing platform."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000002
+msgid "Self-defense system online."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000003
+msgid "Switching to self-defense mode."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000004
+msgid "Flamethrower engaged."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000005
+msgid "Launching S mines."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000006
+msgid "Firing rocket launcher."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000007
+msgid "Firing drill missiles."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000009
+msgid "EM pulse at maximum."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00000a
+msgid "Leg drive motor charging."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00000b
+msgid "Jump engaged."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00000c
+msgid "Initializing nuclear launch sequence."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00000d
+msgid "Launch angle set."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00000e
+msgid "Opening missile hatch."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00000f
+msgid "Commencing pre-ignition."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000010
+msgid "10..."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000011
+msgid "9..."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000012
+msgid "8..."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000013
+msgid "7..."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000014
+msgid "6..."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000015
+msgid "5..."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000016
+msgid "4..."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000017
+msgid "3..."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000018
+msgid "2..."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000019
+msgid "1..."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00001a
+msgid "... Launch."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00001b
+#: olang/009c9ea4/0xbc4a75/0x000040
+msgid "Three minutes to launch!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00001c
+#: olang/009c9ea4/0xbc4a75/0x000041
+msgid "One minute to launch!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00001d
+#: olang/009c9ea4/0xbc4a75/0x000042
+msgid "Thirty seconds to launch!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00001e
+#: olang/009c9ea4/0xbc4a75/0x000043
+msgid "Leg damage critical!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00001f
+#: olang/009c9ea4/0xbc4a75/0x000044
+msgid "Weapon container destroyed!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000020
+#: olang/009c9ea4/0xbc4a75/0x000045
+msgid "You've gotten stronger..."
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000021
+msgid "Face me!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000027
+msgid "Self-defense system online!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000028
+msgid "Switching to self-defense mode!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000029
+msgid "Flamethrower!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00002a
+msgid "Try this on for size!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00002b
+msgid "How do you like this?"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00002d
+msgid "Poison beam!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00002e
+msgid "EM pulse at maximum!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00002f
+msgid "Leg drive motor charging!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000030
+msgid "Jump engaged!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000031
+msgid "Initializing nuclear launch sequence!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000032
+msgid "Launch angle set!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000033
+msgid "Opening missile hatch!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000034
+msgid "Commencing pre-ignition!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000035
+msgid "10!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000036
+msgid "9!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000037
+msgid "8!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000038
+msgid "7!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x000039
+msgid "6!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00003a
+msgid "5!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00003b
+msgid "4!"
+msgstr ""
+
+#: olang/009c9ea4/0xbc4a75/0x00003c
+msgid "3!"
+msgstr ""
