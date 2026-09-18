@@ -38,6 +38,7 @@ key = name_hash(basename)
 | 04 | 归档 PDT/DAT | ✅ 已打通 | [04_archive.md](../ANALYSIS/04_archive.md) | [04_archive.md](04_archive.md) |
 | 05 | 字体 XPR2/ATG | ✅ 往返字节一致，中文字形 PoC **实机已验证** | [05_font.md](../ANALYSIS/05_font.md) | [05_font.md](05_font.md) |
 | 06 | 语料 .po 与编译链 | 📝 设计阶段 | — | [06_localization_pipeline.md](06_localization_pipeline.md) |
+| 07 | 启动参数 | ✅ 已核实 | [07_launch_args.md](../ANALYSIS/07_launch_args.md) | — |
 
 > 02 现状（已实证，见 02 号文档 §6）：
 > **影片字幕**——全盘 134 容器 / 113,348 条目中 `SUBTITLE` 零命中，
@@ -81,9 +82,12 @@ mgspw\
 | `pwsf_names.py` | `entry_name_hash` / `str_hash24` / 67 项扩展名表 / 哈希反演 |
 | `pwsf_briefing.py` | BRIEFING/CODEC：逐扇区解密 + 记录头解析 + 台词导出 |
 | `pwsf_subtitle.py` | 游戏内字幕：8 个 olang group → `ANALYSIS/subtitle_ingame.tsv` |
+| `pwsf_olang_build.py` | olang 序列化器（池重排 + 去重，往返字节一致） |
 | `pwsf_xpr.py` | XPR2 容器解包 / 重打包（大端，往返字节一致） |
 | `pwsf_font.py` | ATG `FontData` 模型 + 图集读写 + 字形装箱 |
 | `_probe_font*.py` | 字体取证：加密、目录、覆盖率、线性验证、往返、度量基准 |
+| `pwsf_font_build.py` | 码点集合 + TTF → 补齐缺失字形并重建字体 |
 | `_poc_font_cn.py` | 中文字形 PoC：构建 / 安装 / 还原 |
+| `_poc_text_cn.py` | 端到端文本 PoC：译文 → olang + 字体 → 安装 / 还原 |
 | `pwsf_archive_index.py` | 全盘容器索引 → `ANALYSIS/_archive_index.tsv` |
 | `_probe_*.py` | 各阶段取证脚本（保留作为证据） |
