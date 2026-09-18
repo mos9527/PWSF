@@ -39,10 +39,13 @@ key = name_hash(basename)
 | 05 | 字体 XPR2/ATG | ✅ 往返字节一致，中文字形 PoC **实机已验证** | [05_font.md](../ANALYSIS/05_font.md) | [05_font.md](05_font.md) |
 | 06 | 语料 .po 与编译链 | 🟢 olang 侧已闭环：导出 6,259 条 → 校验 → 编译 → 安装；CODEC 回写仍受阻 | — | [06_localization_pipeline.md](06_localization_pipeline.md) |
 | 07 | 启动参数 | ✅ 已核实 | [07_launch_args.md](../ANALYSIS/07_launch_args.md) | — |
+| 08 | 过场（漫画）文字 | 🔴 未提取；已排除其余全部容器，卡在 `SLOT.DAT` 载荷编码 | [08_cutscene_text.md](../ANALYSIS/08_cutscene_text.md) | — |
 
 > 02 现状（已实证，见 02 号文档 §6）：
 > **影片字幕**——全盘 134 容器 / 113,348 条目中 `SUBTITLE` 零命中，
-> `BKD00000.PDT` 未随包发布 → *数据不存在，非格式问题*，B 线收尾。
+> `BKD00000.PDT` 未随包发布 → 这条**通路**没有数据。
+> 但 2026-09-18 的截图证明过场字幕实机在显示，所以「数据不存在」这句话
+> 范围过宽，已由 02 号 §6.4 收窄，后续在 08 号跟进。
 > **游戏内字幕**——`v4` 已汇编核对确为 olang group 键；此前"8 个键零命中"
 > 系文档抄错十六进制所致，用汇编原值重筛 8/8 命中，
 > 4,128 行已导出到 `ANALYSIS/subtitle_ingame.tsv`。

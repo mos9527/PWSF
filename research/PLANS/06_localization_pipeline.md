@@ -129,7 +129,7 @@ Steam 版 6 个槽：`en fr de it ja es`。已实证 EXLANG 把葡语写进 `es`
 | `pwsf.po_export` | 语料 → `.pot` / 分块 `.po`（英文原文 + 参考译文 + 语义注释） | ✅ |
 | `pwsf.po` | `.po` 读取器（引用 / 注释 / 多行续行 / 转义） | ✅ |
 | `pwsf.olang_build` | olang 序列化 + 加密 | ✅ |
-| `pwsf.font_build` | 码点集合 + TTF → 补齐字形并重建字体；`plan()` 供校验预检 | ✅ |
+| `pwsf.font_build` | 码点集合 + TTF → 补齐字形（`build_font`）或整表重建（`rebuild_font`，`--rebuild-font`，05 号 §12）；`plan()` 供校验预检 | ✅ |
 | `pwsf.slots` | `.po` 引用 ↔ 二进制槽位，lint 与 import 共用同一套解析 | ✅ |
 | `pwsf.po_lint` | §6 的全部校验 | ✅ |
 | `pwsf.po_import` | `.po` → 重建 olang + 字体 → `BUILD/` + `MANIFEST.tsv` | ✅ |

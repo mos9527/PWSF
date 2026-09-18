@@ -17,15 +17,23 @@ length (PLANS/06 §5, evidence in olang_build's docstring).
 Sources are read through `config.pristine()`, so building on top of an already
 installed build still starts from the original English (PLANS/06 §8.1).
 
-CODEC translations are collected and reported but not delivered: re-emitting
-the bytecode is still blocked on `briefing_insn_decode` case 0x10/0x20
-(ANALYSIS/03 §2).  They stay in the .po and cost nothing to carry.
+CODEC translations are collected and reported but not delivered: there is no
+`briefing_build` yet.  The old note blamed `briefing_insn_decode` case
+0x10/0x20 -- that was the wrong target.  The bytecode never has to be
+re-emitted at all: no translatable text lives in it (ANALYSIS/03 §9.1).  What
+blocks write-back is that a record may not change size, because `off3 ==
+off0 - 4` in every one of the 2049 records and the gap to the next record is
+only 0-15 bytes, while record offsets are addressed from outside through the
+request word.  The fix is a size-preserving in-place rewrite of the string
+pool and its offset table (ANALYSIS/03 §9.3), not a bytecode emitter.
+They stay in the .po and cost nothing to carry.
 
 Usage:
     python -m pwsf.po_import                 # lint, build, verify into BUILD/
     python -m pwsf.po_import --install       # ... and install it, in one go
     python -m pwsf.po_import --lang es       # write a different language slot
     python -m pwsf.po_import --skip-font     # text only, keep the shipped font
+    python -m pwsf.po_import --rebuild-font  # re-lay the whole atlas out
 
 `--install` hands the finished manifest to `pwsf.install`, so it inherits that
 module's refusals: it will not write over a game file it cannot account for,
@@ -37,7 +45,8 @@ import hashlib
 from pathlib import Path
 
 from . import config, po_lint, slots
-from .font_build import build_font, verify_coverage
+from .font_build import (build_font, rebuild_font, verify_coverage,
+                         verify_rebuild)
 from .olang import parse, string_at
 from .olang_build import OlangBuilder
 
@@ -133,10 +142,17 @@ def verify_table(stem: str, built: Path, written: list, lang: int) -> list:
 
 # -------------------------------------------------------------------- font
 
-def build_atlas(codepoints: set, outdir: Path, verbose: bool = True) -> tuple:
+def build_atlas(codepoints: set, outdir: Path, verbose: bool = True,
+                rebuild: bool = False) -> tuple:
     stem = config.FONT_LARGE
     src = config.pristine(config.FONT_DIR / f"{stem}.xpr")
     dst = outdir / f"{stem}.xpr"
+    if rebuild:
+        report = rebuild_font(codepoints, src, dst, config.FONT_TTF,
+                              verbose=verbose)
+        problems = [f"font: {p}" for p in verify_rebuild(dst, src, report)]
+        return dst, report, problems
+
     report = build_font(codepoints, src, dst, config.FONT_TTF, verbose=verbose)
     bad = verify_coverage(dst, codepoints)
     problems = ["font: no glyph for " + " ".join(f"U+{c:04X} {chr(c)}"
@@ -165,6 +181,11 @@ def main() -> None:
                     help="build even if the corpus does not pass po_lint")
     ap.add_argument("--skip-font", action="store_true",
                     help="do not rebuild the font atlas")
+    ap.add_argument("--rebuild-font", action="store_true",
+                    help="lay the whole atlas out again instead of filling "
+                         "its free rows: more room, and the shipped "
+                         "ideographs get repainted from the same face as the "
+                         "new ones (ANALYSIS/05_font.md §12)")
     ap.add_argument("--install", action="store_true",
                     help="install the build straight after verifying it "
                          "(see pwsf.install)")
@@ -176,7 +197,8 @@ def main() -> None:
     lang = po_lint.lang_key(args.lang)
 
     rep = po_lint.lint(args.po_dir, lang, args.allow_ruby_drop,
-                       check_font=not args.skip_font)
+                       check_font=not args.skip_font,
+                       rebuild_font=args.rebuild_font)
     po_lint.print_report(rep)
     if rep.errors and not args.skip_lint:
         raise SystemExit("\nlint failed, nothing built (--skip-lint to override)")
@@ -200,12 +222,16 @@ def main() -> None:
 
     if not args.skip_font:
         print(f"\n{len(codepoints)} distinct code points in the translations")
-        built, _report, font_problems = build_atlas(codepoints, args.outdir)
+        built, _report, font_problems = build_atlas(codepoints, args.outdir,
+                                                    rebuild=args.rebuild_font)
         problems += font_problems
         rows.append(manifest_row(built, config.FONT_DIR / built.name, "font",
                                  config.pristine(config.FONT_DIR / built.name)))
         if not font_problems:
-            print("  coverage verified: every code point has a non-blank glyph")
+            print("  verified: " + ("shipped metrics and inherited pixels "
+                                    "unchanged, everything mapped non-blank"
+                                    if args.rebuild_font else
+                                    "every code point has a non-blank glyph"))
 
     if problems:
         print(f"\n{len(problems)} VERIFICATION FAILURE(S):")

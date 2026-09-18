@@ -10,7 +10,8 @@ METAL GEAR SOLID PEACE WALKER（Steam 版）本土化工具链。
 所有结论都要求实证，不接受推断。
 
 当前状态：**UI 文字、游戏内字幕、CODEC 台词已全量提取；汉化管线 olang 侧已
-闭环**——在 `.po` 里填译文 → 校验 → 编译（重建文本表 + 自动补字形）→
+闭环**——在 `.po` 里填译文 → 校验 → 编译（重建文本表 + 自动补字形，
+`--rebuild-font` 可整表重建字库）→
 备份后装入游戏 → 一键还原。CODEC 回写仍卡在字节码长度规则上。
 
 ## 目录
@@ -123,7 +124,7 @@ python research\TOOLS\_probe_po5.py   # 安装状态机与拒绝路径
 | `pwsf.briefing` | CODEC / BRIEFING 容器与字节码遍历 |
 | `pwsf.archive` / `pwsf.archive_index` | PDT / DAT 归档，payload 解密 + CRC-32 |
 | `pwsf.names` | `entry_name_hash` / `str_hash24` / 扩展名表 |
-| `pwsf.xpr` / `pwsf.font` / `pwsf.font_build` | XPR2 容器、ATG 字体、字形补齐 |
+| `pwsf.xpr` / `pwsf.font` / `pwsf.font_build` | XPR2 容器、ATG 字体、字形补齐与整表重建 |
 | `pwsf.subtitle` | 游戏内字幕导出 |
 | `pwsf.po` / `pwsf.po_export` | gettext `.po` 读取与语料导出 |
 | `pwsf.slots` | `.po` 引用 ↔ 二进制槽位，校验与写回共用 |

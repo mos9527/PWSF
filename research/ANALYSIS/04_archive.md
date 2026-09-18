@@ -251,16 +251,23 @@ ctx+100，`subtitle_slot_name` @ `0x1401B9DF0`），然后
 
 2. **mode 0x40 的 payload 解扰未验证**
    需要 `pkg+0xC4`（状态）与 `pkg+0xC8`（增量）的初值，二者不在
-   `archive_index_load` 中赋值。当前 `decrypt_payload()` 对该模式抛
+   `archive_index_load` 中赋值——`sub_140123DB0` 把派生值写进的是**栈上**的
+   `v27`/`v28`（`0x140123A4A`），随后只用于头/索引/名字表三段，
+   **没有**落到 `pkg+196/200`，所以初值另有出处（2026-09-18 复核）。
+   当前 `decrypt_payload()` 对该模式抛
    `NotImplementedError`。受影响的只有 `009645fa.PDT`（其余 133 个有效容器
    都是 mode 0x100 或 lo==0）。报告里该容器 `crc_ok` 列为 `-`。
+   该容器的明文名是 `STAGEDAT.PDT`，见 [08_cutscene_text.md](08_cutscene_text.md) §3。
 
 3. **`002aba34.DAT`（544 MB）与 `0076531d.DAT`（4 MB）不是本格式**
    两者都走 `buffer_xor_decrypt` 一次性路径（后者是 BRIEFING 数据，见
    `03_codec.md`）。它们能被"解析"出 count（20437 / 32020），但
    `verify()` 全部失败（`hdr+0x20` 不符、BST 子指针越界）——**这是预期的拒绝**。
-   `002aba34.DAT` 的 544 MB 主归档格式待反（线索：`bigdat_load_and_verify`
-   @ `0x1400A6290`）。
+   `002aba34.DAT` 的明文名是 `SLOT.DAT`，索引在同名的 `002aba34.KEY`
+   （= `SLOT.KEY`）里，**索引已打通、载荷未打通**，见
+   [08_cutscene_text.md](08_cutscene_text.md) §4–§5
+   （线索函数 `slotdat_load_and_verify` @ `0x1400A6290`，
+   2026-09-18 由 `bigdat_load_and_verify` 改名）。
 
 4. **`archive_index_load` 里的 `if (n > 96) goto fail`**
    134 个有效容器中有 5 个 n 超过 96（219 / 557 / 608 / 2304）。说明这些

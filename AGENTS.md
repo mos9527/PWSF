@@ -11,6 +11,8 @@ METAL GEAR SOLID PEACE WALKER (STEAM) 本土化工作
 - [x] 汉化管线闭环：`pwsf.po_lint` / `po_import` / `install`，见 `research/PLANS/06` §9
 - [ ] 可分发补丁 `pwsf.patch`，指示见 `README.md` §下一步 → `research/PLANS/07`
 - [ ] CODEC 回写：卡在 `briefing_insn_decode` 的 `case 0x10/0x20` 长度规则
+- [ ] 过场（漫画）文字【提取】：其余容器已逐个排除，卡在 `SLOT.DAT`
+ （`002aba34.DAT`）的载荷编码，见 `research/ANALYSIS/08_cutscene_text.md`
 
 # Layout
 ```

@@ -106,7 +106,7 @@ def _markup(rep: Report, where: str, msgid: str, msgstr: str,
 
 
 def lint(po_dir=None, lang: int = config.LANG_EN, allow_ruby_drop: bool = False,
-         check_font: bool = True) -> Report:
+         check_font: bool = True, rebuild_font: bool = False) -> Report:
     po_dir = po_dir or config.PO_DIR
     rep = Report()
     sources = slots.sources()
@@ -176,27 +176,29 @@ def lint(po_dir=None, lang: int = config.LANG_EN, allow_ruby_drop: bool = False,
     if counts["codec_slots"]:
         rep.add(WARN, "codec", "-",
                 f"{counts['codec_slots']} CODEC slot(s) translated but not "
-                f"deliverable yet: bytecode write-back is blocked on "
-                f"briefing_insn_decode case 0x10/0x20 (ANALYSIS/03 §2)")
+                f"deliverable yet: no briefing_build yet. Not blocked on the "
+                f"bytecode -- no translatable text lives there -- but on "
+                f"keeping every record the same size (ANALYSIS/03 §9)")
 
     codepoints = {ord(c) for r, t in rep.translations.items()
                   if not r.startswith(slots.CODEC + "/") for c in t}
     counts["codepoints"] = len(codepoints)
     rep.stats = counts
     if check_font and codepoints:
-        _lint_font(rep, codepoints)
+        _lint_font(rep, codepoints, rebuild_font)
     return rep
 
 
-def _lint_font(rep: Report, codepoints: set) -> None:
+def _lint_font(rep: Report, codepoints: set, rebuild: bool = False) -> None:
     src = config.pristine(config.FONT_DIR / f"{config.FONT_LARGE}.xpr")
     if not src.is_file():
         rep.add(ERROR, "font", "-", f"font package not found: {src}")
         return
-    p = font_build.plan(codepoints, src, config.FONT_TTF)
+    p = font_build.plan(codepoints, src, config.FONT_TTF, rebuild)
     rep.stats["font"] = {k: v for k, v in p.items()
                          if k not in ("missing", "over", "blank")}
     rep.stats["font"]["missing"] = len(p["missing"])
+    rep.stats["font"]["rebuild"] = rebuild
 
     if p["over"]:
         rep.add(ERROR, "font", "-",
@@ -211,7 +213,8 @@ def _lint_font(rep: Report, codepoints: set) -> None:
     if p["rows_needed"] > p["free_rows"]:
         rep.add(ERROR, "font", "-",
                 f"{len(p['missing'])} new glyphs need {p['rows_needed']} atlas "
-                f"rows, only {p['free_rows']} are free")
+                f"rows, " + (f"the atlas only holds {p['free_rows']}"
+                             if rebuild else f"only {p['free_rows']} are free"))
 
 
 def print_report(rep: Report, limit: int = 20) -> None:
@@ -224,7 +227,9 @@ def print_report(rep: Report, limit: int = 20) -> None:
         f = s["font"]
         print(f"font: {f['covered']}/{f['wanted']} code points already in "
               f"{config.FONT_LARGE}, {f['missing']} to add "
-              f"({f['rows_needed']} of {f['free_rows']} free rows)")
+              + (f"({f['rows_needed']} of {f['free_rows']} atlas rows, "
+                 f"full rebuild)" if f["rebuild"] else
+                 f"({f['rows_needed']} of {f['free_rows']} free rows)"))
 
     for severity in (ERROR, WARN):
         group = [p for p in rep.problems if p.severity == severity]
@@ -247,13 +252,17 @@ def main() -> None:
                     help="demote dropped <R=...> ruby annotations to a warning")
     ap.add_argument("--no-font", action="store_true",
                     help="skip the code point coverage check")
+    ap.add_argument("--rebuild-font", action="store_true",
+                    help="check against a full atlas rebuild (60 rows) "
+                         "instead of the free rows of the shipped layout")
     ap.add_argument("--limit", type=int, default=20,
                     help="problems printed per severity (default 20)")
     args = ap.parse_args()
     config.require_game()
 
     lang = lang_key(args.lang)
-    rep = lint(args.po_dir, lang, args.allow_ruby_drop, not args.no_font)
+    rep = lint(args.po_dir, lang, args.allow_ruby_drop, not args.no_font,
+               args.rebuild_font)
     print_report(rep, args.limit)
     if rep.errors:
         raise SystemExit(1)

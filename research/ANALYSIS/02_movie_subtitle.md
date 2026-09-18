@@ -343,6 +343,21 @@ DLC"一致。Steam 版发布的是槽 1 的四个包（`171ae461` / `181ae463` /
 `mode / pack / slot / group / line / lang / src / text`。
 脚本内置断言：每组 entry 键必须构成 `0 .. a1[31]-1` 的连续区间，否则报错退出。
 
+### 6.4 §6.1 的范围收窄（2026-09-18，**旧结论保留**）
+
+§6.1 说「影片字幕在 Steam 版不可提取，因为数据不存在」。
+**它证明的东西比这句话窄**：证到的是"归档里没有 `SUBTITLE` 条目、
+`MMV00000.PDT` / `BKD00000.PDT` 未随包发布"，这部分仍然成立。
+
+推翻依据：2026-09-18 的实机截图里，漫画过场底部**确实显示着字幕**
+（`They're willing to give us an offshore plant`），气泡里还有一整句
+英文台词。所以「过场字幕数据不存在」是错的——数据在，只是不走
+`subtitle_load_resources` @ `0x14026BDE0` 的 `SUBTITLE` 通路。
+
+这句话既不在 olang（137,358 行）也不在 BRIEFING.DAT（24,438 行）里。
+逐容器排除后唯一剩下的去处是 `002aba34.DAT`（= `SLOT.DAT`），
+详见 [08_cutscene_text.md](08_cutscene_text.md)。
+
 ### 6.3 本轮 IDA 符号更进（IDB 已保存）
 
 | 地址 | 旧名 | 新名 |

@@ -84,27 +84,44 @@ class PwsfFont:
                              f"{len(pkg.data)} bytes of data")
         self.atlas = Image.frombytes("L", (self.width, self.height), bytes(pkg.data))
 
+        # row pitch, measured off the shipped glyphs rather than assumed, and
+        # kept because reset() throws the glyphs that define it away
+        self._cell = max(g.tv2 - g.tv1 for g in self.glyphs) + 1
+
     # ---------------------------------------------------------------- layout
 
     @property
     def cell(self) -> int:
-        """Row pitch, derived from the shipped glyphs rather than assumed."""
-        return max(g.tv2 - g.tv1 for g in self.glyphs) + 1
+        return self._cell
+
+    @property
+    def cell_height(self) -> float:
+        """metrics[0]: the row count sub_140043BC0 blits, as a float."""
+        return struct.unpack(">f", struct.pack(">I", self.metrics[0]))[0]
 
     def used_rows(self) -> int:
         """Number of occupied rows on the tv1 = 1 + cell*k grid."""
-        return max((g.tv2 - 1) // self.cell for g in self.glyphs) + 1
+        return max(((g.tv2 - 1) // self.cell for g in self.glyphs), default=-1) + 1
 
     def free_rows(self) -> int:
-        first_free_top = 1 + self.cell * self.used_rows()
-        return max(0, (self.height - first_free_top) // self.cell)
+        return max(0, self.rows() - self.used_rows())
 
     def row_top(self, k: int) -> int:
         return 1 + self.cell * k
 
     # ---------------------------------------------------------------- edit
 
-    def add_glyph(self, bitmap: Image.Image, advance: int, cursor: list) -> int:
+    def rows(self) -> int:
+        """How many rows of the grid the atlas can hold at all.
+
+        A row needs `cell - 1` readable pixels below its top (the blit in
+        sub_140043BC0 copies trunc(metrics[0]) = cell - 1 rows from tv1), so
+        the last usable top is height - cell.
+        """
+        return (self.height - 1) // self.cell
+
+    def add_glyph(self, bitmap: Image.Image, advance: int, cursor: list,
+                  off: int = 0) -> int:
         """Blit `bitmap` into free atlas space and append a GLYPH_ATTR.
 
         `cursor` is a mutable [row, x] pair so a batch of calls packs densely.
@@ -116,7 +133,7 @@ class PwsfFont:
         row, x = cursor
         if x + w > self.width:
             row, x = row + 1, 0
-        if row >= self.height // self.cell:
+        if row >= self.rows():
             raise ValueError("atlas full")
         top = self.row_top(row)
         if top + self.cell > self.height:
@@ -124,9 +141,20 @@ class PwsfFont:
 
         self.atlas.paste(bitmap, (x, top))
         self.glyphs.append(Glyph(tu1=x, tv1=top, tu2=x + w, tv2=top + self.cell - 1,
-                                 off=0, width=w, advance=advance))
+                                 off=off, width=w, advance=advance))
         cursor[0], cursor[1] = row, x + w + 1
         return len(self.glyphs) - 1
+
+    def reset(self) -> None:
+        """Throw away every glyph, mapping and pixel, keeping the container.
+
+        For a full rebuild (ANALYSIS/05_font.md §12): the atlas dimensions and
+        the TX2D fetch constant that describes them stay exactly as shipped,
+        only the contents become ours.
+        """
+        self.atlas = Image.new("L", (self.width, self.height))
+        self.glyphs = []
+        self.translator = [0] * (self.max_glyph + 1)
 
     def map_char(self, codepoint: int, glyph_index: int) -> None:
         if codepoint > self.max_glyph:
