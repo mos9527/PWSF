@@ -20,9 +20,14 @@ pip install pillow
 ## 使用
 
 ```powershell
+python -m pwsf.config --init
 python -m pwsf.po_import --install
 ```
 
 还原：`python -m pwsf.install --restore`
 
 其余见 [`AGENTS.md`](AGENTS.md)
+
+## Credit
+- 简中字库来自 [lxgw/975 圆体](https://github.com/lxgw/975Yuan)
+

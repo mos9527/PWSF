@@ -10,11 +10,14 @@ Nothing here raises on import, so `import pwsf.crypto` still works on a machine
 without the game installed.  Call `require_game()` at the start of anything that
 actually needs to read game files.
 
+The font face ships with the repo (`font/`), so a build is reproducible and
+needs no OS-installed CJK face; system faces are only a fallback.
+
 pwsf.local.json example:
 
     {
       "game_dir": "D:/Games/MGS_PW/mgspw",
-      "font_ttf": "C:/Windows/Fonts/simhei.ttf"
+      "font_ttf": "font/LXGW975YuanSC-500W.ttf"
     }
 
 `python -m pwsf.config --init` writes such a file pre-filled with whatever is
@@ -22,6 +25,7 @@ resolved right now, so editing it is the only step left.
 """
 
 import argparse
+import glob
 import json
 import os
 import re
@@ -45,8 +49,16 @@ _LOCAL = _local()
 
 
 def _setting(env: str, key: str, default=None):
+    """An override, as an absolute path.  Relative ones are repo-relative.
+
+    That keeps `pwsf.local.json` portable: `font/LXGW975YuanSC-500W.ttf` means
+    the same file whoever writes it, whatever the current directory is.
+    """
     value = os.environ.get(env) or _LOCAL.get(key)
-    return Path(value) if value else default
+    if not value:
+        return default
+    p = Path(value)
+    return p if p.is_absolute() else REPO_ROOT / p
 
 
 # ----------------------------------------------------------------- game dir
@@ -61,7 +73,14 @@ def _steam_libraries() -> list:
         base = os.environ.get(env)
         if base:
             roots.append(Path(base) / "Steam")
-    roots.append(Path("C:/Steam"))
+    if os.name == "nt":
+        roots.append(Path("C:/Steam"))
+    else:
+        # Steam on macOS/Linux keeps its library in the user's home
+        home = Path.home()
+        roots += [home / ".steam" / "steam",
+                  home / ".local" / "share" / "Steam",
+                  home / "Library" / "Application Support" / "Steam"]
 
     libraries = list(roots)
     for root in roots:
@@ -85,8 +104,12 @@ def _detect_game_dir():
     return None
 
 
+_FALLBACK_GAME_DIR = (
+    Path(r"C:\Program Files (x86)\Steam\steamapps\common\MGS_PW\mgspw")
+    if os.name == "nt" else Path.home() / ".steam" / "steam" / GAME_SUBPATH)
+
 GAME_DIR = _setting("PWSF_GAME_DIR", "game_dir") or _detect_game_dir() \
-    or Path(r"C:\Program Files (x86)\Steam\steamapps\common\MGS_PW\mgspw")
+    or _FALLBACK_GAME_DIR
 
 EXE_NAME = "METAL GEAR SOLID PEACE WALKER.exe"
 
@@ -164,7 +187,47 @@ CUTSCENE_TSV = ANALYSIS_DIR / "_cutscene_lines.tsv"
 
 # --------------------------------------------------------------- font build
 
-FONT_TTF = _setting("PWSF_FONT_TTF", "font_ttf", Path(r"C:\Windows\Fonts\msyh.ttc"))
+BUNDLED_FONT_DIR = REPO_ROOT / "font"
+BUNDLED_FONT_TTF = BUNDLED_FONT_DIR / "LXGW975YuanSC-500W.ttf"
+
+# OS-installed CJK faces, probed only when the checkout does not carry `font/`.
+# Ordered per platform; the first one that exists wins.
+_SYSTEM_FONTS = (
+    Path(r"C:\Windows\Fonts\msyh.ttc"),
+    Path("/System/Library/Fonts/PingFang.ttc"),
+    Path("/System/Library/Fonts/STHeiti Medium.ttc"),
+    Path("/Library/Fonts/Arial Unicode.ttf"),
+)
+# Linux font packages name their files differently in every distro, so scan.
+_SYSTEM_FONT_GLOBS = (
+    "/usr/share/fonts/**/NotoSansCJK*.tt[cf]",
+    "/usr/share/fonts/**/NotoSansCJK*.otf",
+    "/usr/share/fonts/**/NotoSansSC*.tt[cf]",
+    "/usr/share/fonts/**/SourceHanSans*.otf",
+    "/usr/share/fonts/**/wqy-zenhei.tt[cf]",
+)
+
+
+def _detect_font_ttf():
+    """The face the repo ships, else any CJK face this machine has.
+
+    The bundled one comes first on every platform: it is the only way a build
+    is byte-identical across machines, and it removes the "install a Chinese
+    font first" step on macOS/Linux where there is no msyh.ttc.
+    """
+    if BUNDLED_FONT_TTF.is_file():
+        return BUNDLED_FONT_TTF
+    for candidate in _SYSTEM_FONTS:
+        if candidate.is_file():
+            return candidate
+    for pattern in _SYSTEM_FONT_GLOBS:
+        for hit in sorted(glob.glob(pattern, recursive=True)):
+            return Path(hit)
+    return None
+
+
+FONT_TTF = (_setting("PWSF_FONT_TTF", "font_ttf")
+            or _detect_font_ttf() or BUNDLED_FONT_TTF)
 FONT_LARGE = "0007ccd8"    # 4096x4096, the only font glyph lookup ever uses
 FONT_SMALL = "000ebbe8"    # loaded but never indexed (g_font_index is always 0)
 
@@ -185,9 +248,12 @@ PO_CHUNK = int(os.environ.get("PWSF_PO_CHUNK") or _LOCAL.get("po_chunk") or 400)
 
 def default_local() -> dict:
     """Every overridable setting, holding the value resolved on this machine."""
+    # the bundled face is written repo-relative so the file stays portable
+    font = ("font/" + FONT_TTF.name) if FONT_TTF.parent == BUNDLED_FONT_DIR \
+        else FONT_TTF.as_posix()
     return {
         "game_dir": GAME_DIR.as_posix(),
-        "font_ttf": FONT_TTF.as_posix(),
+        "font_ttf": font,
         "po_dir": PO_DIR.as_posix(),
         "out_dir": BUILD_DIR.as_posix(),
         "po_chunk": PO_CHUNK,
