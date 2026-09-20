@@ -1,8 +1,10 @@
 r"""Compile the translated .po files back into game files.
 
     src/**/*.po --> po_lint --> olang rebuild --> re-encrypt --> BUILD/*.olang
+                            \-> CODEC 0076531d.DAT: pools rewritten in place
+                            \-> SLOT.DAT rebuilt
                             \-> code points --> font rebuild --> BUILD/*.xpr
-                                                             \-> BUILD/MANIFEST.tsv
+                                             \-> BUILD/MANIFEST.tsv
 
 Nothing is written unless `po_lint` comes back clean, and nothing that is
 written is trusted: every rebuilt table is decrypted again and compared against
@@ -17,16 +19,18 @@ length (PLANS/06 §5, evidence in olang_build's docstring).
 Sources are read through `config.pristine()`, so building on top of an already
 installed build still starts from the original English (PLANS/06 §8.1).
 
-CODEC translations are collected and reported but not delivered: there is no
-`briefing_build` yet.  The old note blamed `briefing_insn_decode` case
-0x10/0x20 -- that was the wrong target.  The bytecode never has to be
-re-emitted at all: no translatable text lives in it (ANALYSIS/03 §9.1).  What
-blocks write-back is that a record may not change size, because `off3 ==
-off0 - 4` in every one of the 2049 records and the gap to the next record is
-only 0-15 bytes, while record offsets are addressed from outside through the
-request word.  The fix is a size-preserving in-place rewrite of the string
-pool and its offset table (ANALYSIS/03 §9.3), not a bytecode emitter.
-They stay in the .po and cost nothing to carry.
+CODEC translations are written in place: a record may not change size, because
+`off3 == off0 - 4` in all 2049 records, the gap to the next record is only
+0-15 bytes, and record offsets are addressed from outside through the request
+word (ANALYSIS/03 §9.2).  So `briefing_build` rewrites the string pool and the
+u32 offset table and leaves everything else -- headers, bytecode, padding,
+every other record -- alone.  No translatable text lives in the bytecode, so
+the old `briefing_insn_decode` case 0x10/0x20 blocker was the wrong target.
+
+That makes the pool budget a hard limit: the two English blocks hold 555 free
+bytes over 358 records, so a translation longer than the English it replaces
+does not fit.  `briefing_build` reports those records and leaves them in
+English; `po_lint` reports them first, as errors, at lint time.
 
 Usage:
     python -m pwsf.po_import                 # lint, build, verify into BUILD/
@@ -51,6 +55,7 @@ from .font_build import (build_font, rebuild_font, verify_coverage,
                          verify_rebuild)
 from .olang import parse, string_at
 from .olang_build import OlangBuilder
+from . import briefing_build
 from . import slotdat as S
 from . import slotdat_build
 
@@ -72,6 +77,20 @@ def by_table(translations: dict) -> dict:
         out.setdefault(parsed.table, []).append((parsed, text))
     return {k: sorted(v, key=lambda it: (it[0].group, it[0].entry))
             for k, v in sorted(out.items())}
+
+
+def by_codec(translations: dict) -> dict:
+    """CODEC translations, keyed by reference.
+
+    Grouping by record is `briefing_build`'s job: it is the same call the
+    build and the verification make, so all three agree on what a reference
+    means.
+    """
+    out = {}
+    for ref, text in translations.items():
+        if ref.startswith(slots.CODEC + "/"):
+            out[ref] = text
+    return out
 
 
 def by_slot(translations: dict) -> dict:
@@ -200,6 +219,10 @@ def main() -> None:
                     help="build even if the corpus does not pass po_lint")
     ap.add_argument("--skip-font", action="store_true",
                     help="do not rebuild the font atlas")
+    ap.add_argument("--codec-skip-overflow", action="store_true",
+                    help="a CODEC record whose pool cannot hold the "
+                         "translation is left in English instead of failing "
+                         "the build (records cannot move, ANALYSIS/03 §9.3)")
     # rebuilding is the default: filling only the free rows leaves the shipped
     # Japanese glyphs in place, so translated Chinese renders half in the
     # shipped face and half in ours -- the mixed atlas seen on 2026-09-20
@@ -239,14 +262,41 @@ def main() -> None:
         raise SystemExit("\nnothing translated yet, nothing to build")
 
     tables = by_table(rep.translations)
+    codec_items = by_codec(rep.translations)
     slot_items = by_slot(rep.translations)
-    if not tables and not slot_items:
-        raise SystemExit("\nonly CODEC slots are translated, and CODEC "
-                         "write-back is still blocked; nothing to build")
+    if not tables and not slot_items and not codec_items:
+        raise SystemExit("\nnothing to build: no olang / SLOT / CODEC slot is "
+                         "translated")
 
     args.outdir.mkdir(parents=True, exist_ok=True)
     print(f"\nbuilding into {args.outdir} ({config.LANG_KEYS[lang]} slot)")
-    rows, problems, codepoints = [], [], set()
+    rows, problems, codepoints, notes = [], [], set(), []
+
+    if codec_items and lang != config.LANG_EN:
+        problems.append(
+            f"{len(codec_items)} CODEC slot(s) "
+            f"translated, but CODEC write-back only targets the English "
+            f"block: a reference names the English record it came from, and "
+            f"the {config.LANG_KEYS[lang]} copy sits in a record whose offset "
+            f"the corpus does not carry")
+        codec_items = {}
+
+    if codec_items:
+        print(f"\nCODEC: {len(codec_items)} line(s) in "
+              f"{len(briefing_build.by_record(codec_items))} record(s) -- "
+              f"rewriting the string pools in place")
+        dat, st = briefing_build.rebuild(codec_items, lang, args.outdir)
+        problems += briefing_build.verify(dat, codec_items, lang)
+        codepoints |= {ord(c) for t in codec_items.values() for c in t}
+        for g, off, need, budget in st.overflow:
+            msg = (f"codec record {off:#x} (group {g}): the translations need "
+                   f"{need} pool bytes, the record only has {budget}; records "
+                   f"cannot move, so shorten one of its lines "
+                   f"(ANALYSIS/03 §9.3)")
+            (notes if args.codec_skip_overflow else problems).append(msg)
+        rows.append(manifest_row(dat, config.BRIEFING_DAT, "codec",
+                                 briefing_build.source_path()))
+        print(f"  {st}")
 
     if slot_items:
         print(f"\nSLOT.DAT: {len(slot_items)} string(s) -- rebuilding the "
@@ -292,6 +342,8 @@ def main() -> None:
         for p in problems[:15]:
             print("  " + p)
         raise SystemExit(1)
+    for n in notes:
+        print(f"  note: {n}")
 
     (args.outdir / MANIFEST).write_text(
         "\n".join([MANIFEST_HEADER] + rows) + "\n", encoding="utf-8")

@@ -1,8 +1,8 @@
 ﻿# 计划 06 · 语料整理（.po）与编译工具链
 
-状态：**olang 侧闭环已实现**——`po_lint` / `po_import` / `install` 三件都在
-`pwsf/` 里，`.po` 填了译文即可编译并装进游戏，见 §10。
-CODEC 侧仍受阻（§5）。
+状态：**olang / SLOT.DAT / CODEC 三侧闭环均已实现**——`po_lint` /
+`po_import` / `install` 三件都在 `pwsf/` 里，`.po` 填了译文即可编译并装进
+游戏，见 §10。CODEC 侧见 §5，**待实机验证**。
 
 ---
 
@@ -75,22 +75,26 @@ Steam 版 6 个槽：`en fr de it ja es`。已实证 EXLANG 把葡语写进 `es`
 ## 5. 编译回写链
 
 ```
-.po ──┬─> olang 序列化器 ─> 重新 XOR 加密 ─> MLG/Text/*.olang     [计划 01 待办 3]
-      ├─> CODEC 字节码回写                                        [受阻，见下]
+.po ──┬─> olang 序列化器 ─> 重新 XOR 加密 ─> MLG/Text/*.olang     [计划 01]
+      ├─> SLOT.DAT 重建（重排池 + 重压 + 重建容器）               [计划 08]
+      ├─> CODEC 文本池原地重写 ─> 0076531d.DAT                     [已实现]
       └─> 码点汇总 ─────> 字库构建器 ─> FONT/0007ccd8.xpr         [计划 05]
 ```
 
 **olang 侧**：字符串池是偏移寻址（`key[].str_off`），译文变长只需重排池子，
 不存在定长槽限制。重算三表偏移与 `group_count`，`table_id` 保持不变。
 
-**CODEC 侧受阻**：台词内嵌在字节码流里，而 `briefing_insn_decode` 的
-`case 0x10 / 0x20` 长度规则未反（03 号 §2），重新发射指令有把脚本写跑飞的
-风险。两条备选：
+**CODEC 侧（已实现，`pwsf.briefing_build`）**：~~台词内嵌在字节码流里，
+卡在 `case 0x10 / 0x20`~~ —— 这个旧判断是错的。台词 100% 只住在文本池里，
+字节码用行号索引引用它（03 号 §9.1），所以回写根本不碰字节码：重写池 +
+重建 u32 偏移表即可。真正的约束是**记录尺寸不能变**（`off3 == off0 - 4`，
+记录按文件偏移被运行时寻址），故：
 
-1. 先反完那两个 case，再做真回写；
-2. 只对 CODEC 走 detour（hook 取字符串处），文本侧仍由 `.po` 统一管理。
-
-> 即便 CODEC 最终走 detour，`.po` 管线也不变——只是后端换一个投递方式。
+* 产物与原文**等长**，改动只落在被翻译记录的 `[偏移表, 池末端)` 区间；
+* 池预算是硬上限：两个 en 块 358 条记录只剩 555 字节余量，装不下的记录由
+  `po_lint` 的 `codec-budget` 点名，默认拒绝构建；
+* 用原文走一遍写回 = 恒等变换（2049/2049 逐字节还原，含重新加密，
+  `_probe_bri53.py` [E3][H]）。
 
 ## 6. 校验器（编译前必须全过）
 
@@ -106,6 +110,9 @@ Steam 版 6 个槽：`en fr de it ja es`。已实证 EXLANG 把葡语写进 `es`
       表示未翻译，该槽位保持英文
 - [x] 控制字符（`control`）：`\0` 会在字符串池里把后面截断
 - [x] 同一槽位不得被两条不同译文认领（`conflict`）
+- [x] **CODEC 池预算**（`codec-budget`）：一条记录的译文总长不得超过该记录
+      的文本池（`off3 - off2`）——记录不能搬家，装不下就是装不下。
+      装不下的记录被点名，默认拒绝构建，`--codec-skip-overflow` 让它留在英文
 - [x] **码点全部落在字库能力内**（`font`）：超过 `cMaxGlyph U+FF5E` 的码点
       无法进转换表；TTF 里没有该字形的会变豆腐块，见 05 号 §9.2
 - [x] olang 往返等价 + 写回定位正确 —— 由 `po_import` 在构建后复验：
@@ -131,10 +138,10 @@ Steam 版 6 个槽：`en fr de it ja es`。已实证 EXLANG 把葡语写进 `es`
 | `pwsf.olang_build` | olang 序列化 + 加密 | ✅ |
 | `pwsf.font_build` | 码点集合 + TTF → 补齐字形（`build_font`）或整表重建（`rebuild_font`，`--rebuild-font`，05 号 §12）；`plan()` 供校验预检 | ✅ |
 | `pwsf.slots` | `.po` 引用 ↔ 二进制槽位，lint 与 import 共用同一套解析 | ✅ |
-| `pwsf.po_lint` | §6 的全部校验 | ✅ |
-| `pwsf.po_import` | `.po` → 重建 olang + 字体 → `BUILD/` + `MANIFEST.tsv` | ✅ |
+| `pwsf.po_lint` | §6 的全部校验（含 `codec-budget`） | ✅ |
+| `pwsf.po_import` | `.po` → 重建 olang + SLOT.DAT + CODEC + 字体 → `BUILD/` + `MANIFEST.tsv` | ✅ |
 | `pwsf.install` | 按清单备份、写入、校验、还原 | ✅ |
-| CODEC 回写 | 字节码重新发射 | ⬜ 受阻，§5 |
+| CODEC 回写 | ~~字节码重新发射~~ → 文本池原地重写（`pwsf.briefing_build`） | ✅ 待实机验证 |
 
 ## 8. 导出实测（已完成）
 

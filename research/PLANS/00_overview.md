@@ -46,7 +46,7 @@ packfile_derive_xor_key @ 0x140123DB0 派生 —— 见 08 号 §5.5。
 | 03 | CODEC（`0076531d.DAT`） | ✅ 台词 + 语言归属 + 演出信息已提取 | [03_codec.md](../ANALYSIS/03_codec.md) | [03_codec.md](03_codec.md) |
 | 04 | 归档 PDT/DAT | ✅ 已打通 | [04_archive.md](../ANALYSIS/04_archive.md) | [04_archive.md](04_archive.md) |
 | 05 | 字体 XPR2/ATG | ✅ 往返字节一致，中文字形 PoC **实机已验证** | [05_font.md](../ANALYSIS/05_font.md) | [05_font.md](05_font.md) |
-| 06 | 语料 .po 与编译链 | 🟢 olang 侧已闭环：导出 6,259 条 → 校验 → 编译 → 安装；CODEC 回写仍受阻 | — | [06_localization_pipeline.md](06_localization_pipeline.md) |
+| 06 | 语料 .po 与编译链 | 🟢 三条语料全部闭环：olang / SLOT.DAT / CODEC 均可 导出 → 校验 → 编译 → 安装；CODEC 待实机验证 | — | [06_localization_pipeline.md](06_localization_pipeline.md) |
 | 07 | 启动参数 | ✅ 已核实 | [07_launch_args.md](../ANALYSIS/07_launch_args.md) | — |
 | 08 | 过场（漫画）文字 | 🟢 已闭环：两层 XOR 已破 → 内嵌 144 张 olang 表（过场 43 张 / 英文 1,928 行）→ `slotdat_build` 写回已通；**待实机验证** | [08_cutscene_text.md](../ANALYSIS/08_cutscene_text.md) | [08_cutscene_writeback.md](08_cutscene_writeback.md) |
 

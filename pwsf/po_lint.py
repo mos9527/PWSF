@@ -18,8 +18,12 @@ as a write-back address.  If the corpus is re-exported and a slot's English
 text changed, the translation attached to it is stale and must not be written.
 
 Warnings do not block: line-count changes are usually a deliberate re-break,
-and CODEC references cannot be delivered yet (write-back is blocked on
-ANALYSIS/03 §2), but neither makes the olang build wrong.
+and dropping a <R=...> ruby annotation is a style choice, but neither makes
+the build wrong.
+
+CODEC is deliverable now (`pwsf.briefing_build`), with one hard rule of its
+own: a record's string pool cannot grow, so a translation longer than the
+English it replaces is an error, checked here as `codec-budget`.
 """
 
 import argparse
@@ -27,7 +31,7 @@ import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
-from . import config, font_build, po, slots
+from . import briefing_build, config, font_build, po, slots
 
 ICON_RE = re.compile(r"<I=[^>]*>")
 RUBY_RE = re.compile(r"<R=[^>]*>")
@@ -173,15 +177,23 @@ def lint(po_dir=None, lang: int = config.LANG_EN, allow_ruby_drop: bool = False,
                             f"into; that slot only ships some of the six "
                             f"languages")
 
-    if counts["codec_slots"]:
-        rep.add(WARN, "codec", "-",
-                f"{counts['codec_slots']} CODEC slot(s) translated but not "
-                f"deliverable yet: no briefing_build yet. Not blocked on the "
-                f"bytecode -- no translatable text lives there -- but on "
-                f"keeping every record the same size (ANALYSIS/03 §9)")
+    if counts["codec_slots"] and lang != config.LANG_EN:
+        rep.add(ERROR, "target", "-",
+                f"{counts['codec_slots']} CODEC slot(s) translated, but CODEC "
+                f"write-back only targets the English block: a reference names "
+                f"the English record it came from, and the "
+                f"{config.LANG_KEYS[lang]} copy sits in a record the corpus "
+                f"does not carry")
+    elif counts["codec_slots"]:
+        # a CODEC record cannot grow (ANALYSIS/03 §9.2), so this is an error
+        # and not a warning: there is no build that can carry it
+        for g, off, need, budget in briefing_build.overflows(rep.translations):
+            rep.add(ERROR, "codec-budget", "-",
+                    f"codec record {off:#x} (group {g}): the translations need "
+                    f"{need} pool bytes, the record only has {budget}. Records "
+                    f"cannot move, so shorten one of its lines")
 
-    codepoints = {ord(c) for r, t in rep.translations.items()
-                  if not r.startswith(slots.CODEC + "/") for c in t}
+    codepoints = {ord(c) for t in rep.translations.values() for c in t}
     counts["codepoints"] = len(codepoints)
     rep.stats = counts
     if check_font and codepoints:

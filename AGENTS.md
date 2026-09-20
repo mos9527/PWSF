@@ -10,7 +10,15 @@ METAL GEAR SOLID PEACE WALKER (STEAM) 本土化工作
 - [x] 写回链路实机验证：olang 文本 + 字体扩字形
 - [x] 汉化管线闭环：`pwsf.po_lint` / `po_import` / `install`，见 `research/PLANS/06` §9
 - [ ] 可分发补丁 `pwsf.patch`，指示见 `README.md` §下一步 → `research/PLANS/07`
-- [ ] CODEC 回写：卡在 `briefing_insn_decode` 的 `case 0x10/0x20` 长度规则
+- [x] CODEC 回写：`pwsf.briefing_build` —— ~~卡在 `briefing_insn_decode` 的
+      `case 0x10/0x20` 长度规则~~ 旧卡点**已推翻**（`ANALYSIS/03_codec.md` §9）：
+      可译文本根本不在字节码里。实际做法 = 原地重写文本池 + 重建 u32 偏移表，
+      记录尺寸与偏移一字不变（记录由另一个脚本文件的 TOPIC→req 表按文件偏移
+      寻址，搬不了家）。已接进 `po_lint` / `po_import`，产物 `0076531d.DAT`。
+      硬约束：池预算几乎用满（两个 en 块 358 条记录只剩 555 字节），
+      译文必须比英文短，超了由 `po_lint` 的 `codec-budget` 点名（§9.4）
+- [ ] CODEC 实机验证：`python -m pwsf.po_import --install` 装一份改过的
+      `0076531d.DAT`，进 CODEC 通话核对中文台词与语音（§9.5）
 - [x] 过场（漫画）文字【提取】：`SLOT.DAT` 两层 XOR（MT + LCG）已破，2,137
  条记录全量解压；内嵌 144 张 `.olang` 表（其中 43 张是过场，英文 1,928 行）
  → `_cutscene_lines.tsv` / `_slot_olang_lines.tsv`，见
@@ -55,7 +63,10 @@ research/
 - 汉化管线 olang 与过场两侧都已闭环：在 `.po` 里填译文 → 校验 → 编译
   （重建文本表 / 重建 `SLOT.DAT`（544 MB）+ 自动补字形，`--rebuild-font`
   可整表重建字库）→ 备份后装入游戏 → 一键还原
-- CODEC 回写仍卡在字节码长度规则上（能提取，不能写回）
+- CODEC 已闭环：2049 条记录 / 24,438 行全量导出，`briefing_build` 原地重写
+  文本池写回 `0076531d.DAT`（产物与原文等长，改动仅限目标记录的池区间）。
+  唯一硬约束是池预算：两个 en 块只剩 555 字节余量，译文必须比英文短
+  （`ANALYSIS/03_codec.md` §9）
 
 过场文字不在磁盘那 17 个 `.olang` 里，而是塞在 `MLG/disc0_rel/002aba34.DAT`
 （`SLOT.DAT`）内嵌的 144 张 olang 表中 —— 详见
@@ -77,9 +88,14 @@ src/         翻译工作区，42 个分块 .po（olang 4 + codec 12 + slot 26�
 ```json
 {
   "game_dir": "D:/Games/MGS_PW/mgspw",
-  "font_ttf": "C:/Windows/Fonts/simhei.ttf"
+  "font_ttf": "font/LXGW975YuanSC-500W.ttf"
 }
 ```
+
+字体默认用仓库自带的 `font/LXGW975YuanSC-500W.ttf`，跨平台一致、不依赖系统
+中文字体；只有在 `font/` 缺失时才回退到系统字体（Windows `msyh.ttc`、
+macOS `PingFang.ttc`、Linux 扫描 Noto/WenQuanYi）。相对路径一律按仓库根解析，
+所以 `pwsf.local.json` 可以带着相对路径在机器之间搬。
 
 ```powershell
 python -m pwsf.config                  # 查看当前解析结果
@@ -132,13 +148,15 @@ python -m pwsf.install --install    # 只装已编译好的产物
 python research\TOOLS\_probe_po3.py   # 全链，以 PoC 实机产物为标尺
 python research\TOOLS\_probe_po4.py   # 每条校验各自触发，正确译文不报
 python research\TOOLS\_probe_po5.py   # 安装状态机与拒绝路径
+python research\TOOLS\_probe_bri53.py # CODEC 池预算 + 写回是恒等变换
+python research\TOOLS\_probe_bri54.py # CODEC 回写端到端（含 lint 拦截）
 ```
 
 # Translation workflow
 ```
 src/
   olang/olang_01..04.po   UI 文字 + 游戏内字幕    1,513 条   能写回
-  codec/codec_01..12.po   CODEC / 简报台词        4,746 条   只能看，写回没做
+  codec/codec_01..12.po   CODEC / 简报台词        4,746 条   能写回（池预算紧，见下）
   slot/slot_01..26.po     SLOT.DAT 内嵌文本      10,073 条   能写回（过场 1,858 条）
   MANIFEST.tsv            分块索引
 ```
@@ -203,6 +221,7 @@ python -m pwsf.install --restore
 | `pwsf.crypto` | `name_hash`、游戏定制播种的 MT19937、`buffer_xor_decrypt` |
 | `pwsf.olang` / `pwsf.olang_build` | RBX 文本表读 / 写（往返字节一致） |
 | `pwsf.briefing` | CODEC / BRIEFING 容器与字节码遍历 |
+| `pwsf.briefing_build` | CODEC 写回：文本池原地重写 + 偏移表重建 + 复验 |
 | `pwsf.archive` / `pwsf.archive_index` | PDT / DAT 归档，payload 解密 + CRC-32 |
 | `pwsf.names` | `entry_name_hash` / `str_hash24` / 扩展名表 |
 | `pwsf.xpr` / `pwsf.font` / `pwsf.font_build` | XPR2 容器、ATG 字体、字形补齐与整表重建 |

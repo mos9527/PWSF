@@ -149,11 +149,12 @@ def olang_sources(lang: int = config.LANG_EN) -> dict:
 def codec_sources() -> dict:
     """reference -> English line, out of the extracted BRIEFING corpus.
 
-    The TSV is the source of record here because there is no `briefing_build`
-    yet.  The old note blamed the `case 0x10 / 0x20` length rules; those are
-    solved now (ANALYSIS/03 §5.1.2) and were never the blocker -- no
-    translatable text lives in the bytecode.  What write-back has to respect
-    is that a record may not change size (ANALYSIS/03 §9).
+    The TSV is the source of record because re-scanning the container would
+    mean decrypting and walking it for every lint run.  The old note blamed
+    the `case 0x10 / 0x20` length rules; those are solved now (ANALYSIS/03
+    §5.1.2) and were never the blocker -- no translatable text lives in the
+    bytecode.  What write-back has to respect is that a record may not change
+    size (ANALYSIS/03 §9), which `briefing_build` enforces as a pool budget.
     """
     rows = config.BRIEFING_TSV.read_text(encoding="utf-8").splitlines()
     col = {n: i for i, n in enumerate(rows[0].split("\t"))}
