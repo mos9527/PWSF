@@ -11,262 +11,262 @@ msgstr ""
 
 #: slot/0x00cbf8c0/0x77999c/0x0727ae
 msgid "<I=CAN>: CANCEL"
-msgstr ""
+msgstr "<I=CAN>：取消"
 
 #: slot/0x00cbf8c0/0x77999c/0x072a66
 msgid ""
 "The host has kicked you.\n"
 "Ending game."
-msgstr ""
+msgstr "你已被主机踢出。\n正在结束游戏。"
 
 #: slot/0x00cbf8c0/0x77999c/0x0f848d
 msgid ""
 "Maximum number of players reached.\n"
 "Failed to connect to host."
-msgstr ""
+msgstr "玩家人数已达上限。\n连接主机失败。"
 
 #: slot/0x00cbf8c0/0x77999c/0x100da0
 msgid "Ending mission."
-msgstr ""
+msgstr "正在结束任务。"
 
 #: slot/0x00cbf8c0/0x77999c/0x1551cb
 msgid ""
 "Disconnected from the network.\n"
 "Ending game."
-msgstr ""
+msgstr "已断开网络。\n结束游戏。"
 
 #: slot/0x00cbf8c0/0x77999c/0x162c8d
 msgid ""
 "Soldier data has been corrupted.\n"
 "Ending game."
-msgstr ""
+msgstr "士兵数据损坏。\n结束游戏。"
 
 #: slot/0x00cbf8c0/0x77999c/0x29e03a
 msgid ""
 "You have been kicked for idling more than 10 minutes.\n"
 "Ending game."
-msgstr ""
+msgstr "因闲置超过10分钟，你已被踢出。\n正在结束游戏。"
 
 #: slot/0x00cbf8c0/0x77999c/0x3561fa
 msgid "The host has ended the mission"
-msgstr ""
+msgstr "主机已结束任务"
 
 #: slot/0x00cbf8c0/0x77999c/0x38551c
 msgid "Failed to join game."
-msgstr ""
+msgstr "加入游戏失败"
 
 #: slot/0x00cbf8c0/0x77999c/0x39d0fb
 msgid "Create game"
-msgstr ""
+msgstr "创建游戏"
 
 #: slot/0x00cbf8c0/0x77999c/0x39ec29
 msgid ""
 "Join the selected host's game?\n"
 "<I=DEC>: YES  <I=CAN>: NO"
-msgstr ""
+msgstr "加入所选主机的游戏？\n<I=DEC>：是  <I=CAN>：否"
 
 #: slot/0x00cbf8c0/0x77999c/0x3b9c23
 msgid "Send game"
-msgstr ""
+msgstr "发送游戏"
 
 #: slot/0x00cbf8c0/0x77999c/0x3f9049
 msgid "The host is restarting the game."
-msgstr ""
+msgstr "主机正在重启游戏。"
 
 #: slot/0x00cbf8c0/0x77999c/0x3fdf05
 msgid ""
 "A communications error has occurred.\n"
 "Ending game."
-msgstr ""
+msgstr "发生通信错误。\n正在结束游戏。"
 
 #: slot/0x00cbf8c0/0x77999c/0x479c41
 msgid "Start game"
-msgstr ""
+msgstr "开始"
 
 #: slot/0x00cbf8c0/0x77999c/0x4b2ea9
 msgid "Failed to connect to host."
-msgstr ""
+msgstr "连接主机失败。"
 
 #: slot/0x00cbf8c0/0x77999c/0x5daf44
 msgid ""
 "Disconnected from the server.\n"
 "Ending game."
-msgstr ""
+msgstr "已断开服务器。\n结束游戏。"
 
 #: slot/0x00cbf8c0/0x77999c/0x641021
 #: slot/0x00cbf8c0/0x77999c/0xb4f5dd
 msgid "Error"
-msgstr ""
+msgstr "错误"
 
 #: slot/0x00cbf8c0/0x77999c/0x657f2f
 msgid "Leaving this game."
-msgstr ""
+msgstr "离开游戏。"
 
 #: slot/0x00cbf8c0/0x77999c/0x6d6c49
 msgid ""
 "Password is not long enough.\n"
 "Password must be between 3 to 15 characters."
-msgstr ""
+msgstr "密码长度不足。\n密码须为3至15个字符。"
 
 #: slot/0x00cbf8c0/0x77999c/0x6e09db
 msgid ""
 "Password is incorrect.\n"
 "Failed to connect to host."
-msgstr ""
+msgstr "密码不正确。\n连接主机失败。"
 
 #: slot/0x00cbf8c0/0x77999c/0x7c321d
 msgid ""
 "Game rules and map have not been set.\n"
 "Please set game's rules and map."
-msgstr ""
+msgstr "游戏规则与地图尚未设置。\n请设置游戏规则与地图。"
 
 #: slot/0x00cbf8c0/0x77999c/0x7cb086
 msgid "Error code"
-msgstr ""
+msgstr "错误码"
 
 #: slot/0x00cbf8c0/0x77999c/0x7d0050
 msgid "Join game"
-msgstr ""
+msgstr "加入"
 
 #: slot/0x00cbf8c0/0x77999c/0x824d35
 msgid "The game started by the host has ended."
-msgstr ""
+msgstr "主机开始的游戏已结束。"
 
 #: slot/0x00cbf8c0/0x77999c/0x842308
 msgid "Failed to create game."
-msgstr ""
+msgstr "创建游戏失败。"
 
 #: slot/0x00cbf8c0/0x77999c/0x8655b5
 #: slot/0x00cbf8c0/0x77999c/0xabbe60
 msgid "Unable to locate host."
-msgstr ""
+msgstr "找不到主机。"
 
 #: slot/0x00cbf8c0/0x77999c/0x8abb98
 msgid "Failed to connect to the network."
-msgstr ""
+msgstr "连接网络失败。"
 
 #: slot/0x00cbf8c0/0x77999c/0x8ccd59
 msgid "The host has ended the game."
-msgstr ""
+msgstr "主机已结束游戏。"
 
 #: slot/0x00cbf8c0/0x77999c/0x9524c7
 msgid "Restarting game."
-msgstr ""
+msgstr "重启中。"
 
 #: slot/0x00cbf8c0/0x77999c/0x970dce
 msgid "Searching for host..."
-msgstr ""
+msgstr "正在搜索主机..."
 
 #: slot/0x00cbf8c0/0x77999c/0x99f3a6
 msgid ""
 "You have been kicked for killing at least 3 team members.\n"
 "Ending game."
-msgstr ""
+msgstr "因击杀至少3名队友，你已被踢出。\n正在结束游戏。"
 
 #: slot/0x00cbf8c0/0x77999c/0xa1a5e6
 msgid ""
 "Select a host to join.\n"
 "<I=DEC>: OK  <I=CAN>: BACK  <I=△>: REFRESH LIST"
-msgstr ""
+msgstr "选择要加入的主机。\n<I=DEC>：确定  <I=CAN>：返回  <I=△>：刷新列表"
 
 #: slot/0x00cbf8c0/0x77999c/0xa43fcd
 msgid "PROCEEDING TO NEXT STAGE"
-msgstr ""
+msgstr "正在进入下一阶段"
 
 #: slot/0x00cbf8c0/0x77999c/0xaa14a4
 msgid ""
 "Game rules and map have not been set.\n"
 "Please set games rules and map."
-msgstr ""
+msgstr "游戏规则和地图未设置。\n请先设置。"
 
 #: slot/0x00cbf8c0/0x77999c/0xad3b5b
 msgid "The host is restarting the mission."
-msgstr ""
+msgstr "主机正在重启任务。"
 
 #: slot/0x00cbf8c0/0x77999c/0xb25190
 msgid "This host's game is already full."
-msgstr ""
+msgstr "该主机的游戏人数已满。"
 
 #: slot/0x00cbf8c0/0x77999c/0xbbc34f
 msgid "Ending game."
-msgstr ""
+msgstr "正在结束游戏。"
 
 #: slot/0x00cbf8c0/0x77999c/0xbcb085
 msgid ""
 "An error has occurred.\n"
 "Unable to connect to host."
-msgstr ""
+msgstr "发生错误。\n无法连接主机。"
 
 #: slot/0x00cbf8c0/0x77999c/0xc546a4
 msgid ""
 "The disc for METAL GEAR SOLID PEACE WALKER is not inserted properly.\n"
 "Ending game."
-msgstr ""
+msgstr "METAL GEAR SOLID PEACE WALKER 光盘未正确插入。\n正在结束游戏。"
 
 #: slot/0x00cbf8c0/0x77999c/0xc5b5f0
 msgid "No errors"
-msgstr ""
+msgstr "无错误"
 
 #: slot/0x00cbf8c0/0x77999c/0xc932e3
 msgid ""
 "Host name is not long enough.\n"
 "Host names must be between 3 to 15 characters."
-msgstr ""
+msgstr "主机名太短。\n主机名须为3至15个字符。"
 
 #: slot/0x00cbf8c0/0x77999c/0xcbfa50
 msgid "Restarting mission."
-msgstr ""
+msgstr "重启任务。"
 
 #: slot/0x00cbf8c0/0x77999c/0xcd3891
 msgid ""
 "Wireless connection has been lost. \n"
 "The WLAN/WIRELESS switch is OFF."
-msgstr ""
+msgstr "无线连接已断开。\nWLAN/WIRELESS 开关处于 OFF。"
 
 #: slot/0x00cbf8c0/0x77999c/0xd57e5c
 msgid "Connection to the host has been lost.  Ending game."
-msgstr ""
+msgstr "与主机的连接已断开。正在结束游戏。"
 
 #: slot/0x00cbf8c0/0x77999c/0xea30db
 msgid "Processing host connection..."
-msgstr ""
+msgstr "正在处理主机连接..."
 
 #: slot/0x00cbf8c0/0x77999c/0xeccf17
 msgid "Waiting for players to join game..."
-msgstr ""
+msgstr "正在等待玩家加入游戏..."
 
 #: slot/0x00cbf8c0/0x77999c/0xf07597
 msgid "Error number"
-msgstr ""
+msgstr "错误编号"
 
 #: slot/0x00cbf8c0/0x77999c/0xf4c33d
 msgid "Leaving mission."
-msgstr ""
+msgstr "离开任务。"
 
 #: slot/0x00cdd1c4/0xc6e14e/0x06dfc8
 msgid "FILE LIBRARY $1 $2"
-msgstr ""
+msgstr "文件库 $1 $2"
 
 #: slot/0x00cdd1c4/0xc6e14e/0x12884a
 msgid "Data Files"
-msgstr ""
+msgstr "数据"
 
 #: slot/0x00cdd1c4/0xc6e14e/0x2891d4
 msgid "EVA"
-msgstr ""
+msgstr "EVA"
 
 #: slot/0x00cdd1c4/0xc6e14e/0x28bb4d
 #: slot/0x00dd0ea8/0x31a1fa/0xb6d2e9
 msgid "Paz"
-msgstr ""
+msgstr "帕兹"
 
 #: slot/0x00cdd1c4/0xc6e14e/0x2dfd93
 msgid "SAVE:   QUIT WITHOUT SAVING:"
-msgstr ""
+msgstr "保存：   退出不保存："
 
 #: slot/0x00cdd1c4/0xc6e14e/0x5cb77e
 msgid "ABOUT THIS MISSION $1 $2"
-msgstr ""
+msgstr "关于此任务 $1 $2"
 
 #: slot/0x00cdd1c4/0xc6e14e/0x6cfda1
 msgid ": "
@@ -278,121 +278,121 @@ msgstr ""
 
 #: slot/0x00cdd1c4/0xc6e14e/0x7c8ccb
 msgid "Zadornov"
-msgstr ""
+msgstr "扎多"
 
 #: slot/0x00cdd1c4/0xc6e14e/0x81a65d
 msgid "FEMALE 1"
-msgstr ""
+msgstr "女声1"
 
 #: slot/0x00cdd1c4/0xc6e14e/0x81a65e
 msgid "FEMALE 2"
-msgstr ""
+msgstr "女声2"
 
 #: slot/0x00cdd1c4/0xc6e14e/0x84e8ab
 msgid "The Boss AI"
-msgstr ""
+msgstr "THE BOSS AI"
 
 #: slot/0x00cdd1c4/0xc6e14e/0x9f57bb
 msgid "Snake and Miller"
-msgstr ""
+msgstr "SNAKE与米勒"
 
 #: slot/0x00cdd1c4/0xc6e14e/0xb5b581
 msgid "SKIP: "
-msgstr ""
+msgstr "跳过："
 
 #: slot/0x00cdd1c4/0xc6e14e/0xdcc628
 msgid "Cécile"
-msgstr ""
+msgstr "塞西尔"
 
 #: slot/0x00ce245a/0x0a7cd6/0x000000
 #: slot/0x00ce245c/0x0a7cd6/0x000002
 #: slot/0x00db94df/0xae802f/0x000000
 msgid "Self-defense system online."
-msgstr ""
+msgstr "自卫系统启动。"
 
 #: slot/0x00ce245a/0x0a7cd6/0x000001
 #: slot/0x00ce245c/0x0a7cd6/0x000004
 msgid "Flamethrower engaged."
-msgstr ""
+msgstr "火焰喷射器启动。"
 
 #: slot/0x00ce245a/0x0a7cd6/0x000003
 #: slot/0x00ce245c/0x0a7cd6/0x000006
 msgid "Firing rocket launcher."
-msgstr ""
+msgstr "发射火箭筒。"
 
 #: slot/0x00ce245a/0x0a7cd6/0x000004
 msgid "Balancer malfunction detected."
-msgstr ""
+msgstr "检测到平衡器故障。"
 
 #: slot/0x00ce245a/0x0a7cd6/0x000005
 #: slot/0x00ce245c/0x0a7cd6/0x00000a
 msgid "Leg drive motor charging."
-msgstr ""
+msgstr "腿驱电机充能中"
 
 #: slot/0x00ce245a/0x0a7cd6/0x000006
 #: slot/0x00ce245c/0x0a7cd6/0x00001e
 #: slot/0x00ce245c/0x0a7cd6/0x000040
 #: slot/0x00ce245c/0x0a7cd6/0x000062
 msgid "Leg damage critical."
-msgstr ""
+msgstr "腿部损伤严重"
 
 #: slot/0x00ce245a/0x0a7cd6/0x000007
 #: slot/0x00ce245c/0x0a7cd6/0x00001f
 #: slot/0x00ce245c/0x0a7cd6/0x000041
 #: slot/0x00ce245c/0x0a7cd6/0x000063
 msgid "Weapon container destroyed."
-msgstr ""
+msgstr "武器集装箱已摧毁。"
 
 #: slot/0x00ce245a/0x0a7cd6/0x000008
 #: slot/0x00ce245c/0x0a7cd6/0x000020
 msgid "You've gotten stronger..."
-msgstr ""
+msgstr "你变强了……"
 
 #: slot/0x00ce245a/0x0a7cd6/0x00000a
 #: slot/0x00ce245c/0x0a7cd6/0x000021
 msgid "Face me!"
-msgstr ""
+msgstr "来与我一战！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000001
 msgid "Reinitializing platform."
-msgstr ""
+msgstr "平台重初始化中"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000003
 #: slot/0x00db94df/0xc4febe/0x000001
 msgid "Switching to self-defense mode."
-msgstr ""
+msgstr "切换至自卫模式。"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000007
 msgid "Firing drill missiles."
-msgstr ""
+msgstr "发射钻头导弹。"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000009
 msgid "EM pulse at maximum."
-msgstr ""
+msgstr "电磁脉冲已满"
 
 #: slot/0x00ce245c/0x0a7cd6/0x00000b
 msgid "Jump engaged."
-msgstr ""
+msgstr "跳跃启动"
 
 #: slot/0x00ce245c/0x0a7cd6/0x00000c
 #: slot/0x00ce245c/0x0a7cd6/0x00002e
 msgid "Initializing nuclear launch sequence."
-msgstr ""
+msgstr "初始化核弹发射程序。"
 
 #: slot/0x00ce245c/0x0a7cd6/0x00000d
 #: slot/0x00ce245c/0x0a7cd6/0x00002f
 msgid "Launch angle set."
-msgstr ""
+msgstr "发射角已设"
 
 #: slot/0x00ce245c/0x0a7cd6/0x00000e
 #: slot/0x00ce245c/0x0a7cd6/0x000030
 msgid "Opening missile hatch."
-msgstr ""
+msgstr "打开导弹舱门。"
 
 #: slot/0x00ce245c/0x0a7cd6/0x00000f
 #: slot/0x00ce245c/0x0a7cd6/0x000031
 msgid "Commencing pre-ignition."
-msgstr ""
+msgstr "开始预点火。"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000010
 #: slot/0x00ce245c/0x0a7cd6/0x000032
@@ -447,108 +447,108 @@ msgstr ""
 #: slot/0x00ce245c/0x0a7cd6/0x00001a
 #: slot/0x00ce245c/0x0a7cd6/0x00003c
 msgid "... Launch."
-msgstr ""
+msgstr "…发射"
 
 #: slot/0x00ce245c/0x0a7cd6/0x00001b
 #: slot/0x00ce245c/0x0a7cd6/0x00003d
 msgid "Three minutes to launch."
-msgstr ""
+msgstr "距发射三分钟。"
 
 #: slot/0x00ce245c/0x0a7cd6/0x00001c
 #: slot/0x00ce245c/0x0a7cd6/0x00003e
 msgid "One minute to launch."
-msgstr ""
+msgstr "距发射一分钟。"
 
 #: slot/0x00ce245c/0x0a7cd6/0x00001d
 #: slot/0x00ce245c/0x0a7cd6/0x00003f
 msgid "Thirty seconds to launch."
-msgstr ""
+msgstr "距发射三十秒。"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000023
 msgid "Reinitializing platform!"
-msgstr ""
+msgstr "重新初始化平台！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000024
 #: slot/0x00ce245c/0x0a7cd6/0x000046
 msgid "Self-defense system online!"
-msgstr ""
+msgstr "自卫系统上线！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000025
 #: slot/0x00ce245c/0x0a7cd6/0x000047
 msgid "Switching to self-defense mode!"
-msgstr ""
+msgstr "切换至自卫模式！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000026
 msgid "Flamethrower engaged!"
-msgstr ""
+msgstr "火焰喷射器启动！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000027
 msgid "Launching S mines!"
-msgstr ""
+msgstr "发射S地雷！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000028
 msgid "Firing rocket launcher!"
-msgstr ""
+msgstr "发射火箭筒！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000029
 msgid "Firing drill missiles!"
-msgstr ""
+msgstr "发射钻头导弹！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x00002b
 #: slot/0x00ce245c/0x0a7cd6/0x00004d
 msgid "EM pulse at maximum!"
-msgstr ""
+msgstr "电磁脉冲最大输出！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x00002c
 #: slot/0x00ce245c/0x0a7cd6/0x00004e
 msgid "Leg drive motor charging!"
-msgstr ""
+msgstr "腿部电机充能！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x00002d
 #: slot/0x00ce245c/0x0a7cd6/0x00004f
 msgid "Jump engaged!"
-msgstr ""
+msgstr "跳跃启动"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000042
 #: slot/0x00ce245c/0x0a7cd6/0x000064
 msgid "It can't be."
-msgstr ""
+msgstr "不可能。"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000043
 msgid "Bring it on. "
-msgstr ""
+msgstr "放马过来"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000048
 msgid "Flamethrower!"
-msgstr ""
+msgstr "喷火器！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000049
 msgid "Try this on for size!"
-msgstr ""
+msgstr "尝尝这个！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x00004a
 msgid "How do you like this?"
-msgstr ""
+msgstr "这招如何？"
 
 #: slot/0x00ce245c/0x0a7cd6/0x00004c
 msgid "Poison beam!"
-msgstr ""
+msgstr "毒光束！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000050
 msgid "Initializing nuclear launch sequence!"
-msgstr ""
+msgstr "启动核弹发射程序！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000051
 msgid "Launch angle set!"
-msgstr ""
+msgstr "发射角度设定完毕！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000052
 msgid "Opening missile hatch!"
-msgstr ""
+msgstr "打开导弹舱门！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000053
 msgid "Commencing pre-ignition!"
-msgstr ""
+msgstr "开始点火准备！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000054
 msgid "10!"
@@ -592,286 +592,286 @@ msgstr ""
 
 #: slot/0x00ce245c/0x0a7cd6/0x00005e
 msgid "Launch!"
-msgstr ""
+msgstr "发射！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x00005f
 msgid "Three minutes to launch!"
-msgstr ""
+msgstr "距发射三分钟！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000060
 msgid "One minute to launch!"
-msgstr ""
+msgstr "距发射一分钟！"
 
 #: slot/0x00ce245c/0x0a7cd6/0x000061
 msgid "Thirty seconds to launch!"
-msgstr ""
+msgstr "距发射三十秒！"
 
 #: slot/0x00d2a877/0x037878/0x000000
 msgid "Why...? Are your secrets really worth your life?"
-msgstr ""
+msgstr "为什么……？你的秘密真值得你搭上性命吗？"
 
 #: slot/0x00d2a877/0x03787c/0x000000
 msgid "You're LYING, Snake! SNA-A-AKE!"
-msgstr ""
+msgstr "你在撒谎，SNAKE！SNA-A-AKE！"
 
 #: slot/0x00d2a877/0x084041/0x000000
 msgid ""
 "What happened, Snake?!\n"
 "Snake!"
-msgstr ""
+msgstr "怎么了，SNAKE？！\nSNAKE！"
 
 #: slot/0x00d2a877/0x084045/0x000000
 msgid ""
 "Snake! Come in, Snake!\n"
 "Snake!"
-msgstr ""
+msgstr "SNAKE！回答，SNAKE！\nSNAKE！"
 
 #: slot/0x00d2a877/0x084049/0x000000
 msgid ""
 "Are you all right?! Snake?!\n"
 "Snake!"
-msgstr ""
+msgstr "你没事吧？！SNAKE？！\nSNAKE！"
 
 #: slot/0x00d2a877/0x08404d/0x000000
 msgid ""
 "What's wrong, Boss?\n"
 "Respond! Boss!"
-msgstr ""
+msgstr "怎么了，BOSS？\n回答！BOSS！"
 
 #: slot/0x00d2a877/0x084051/0x000000
 msgid ""
 "What's going on, Snake?! Report!\n"
 "What's your situation?! Snake!"
-msgstr ""
+msgstr "怎么回事，SNAKE？！报告！\n你那边情况如何？！SNAKE！"
 
 #: slot/0x00d2a877/0x084052/0x000000
 msgid "What's going on, Snake?! Report! What's your situation?! Snaaaaaaake!"
-msgstr ""
+msgstr "怎么回事，SNAKE？！报告！你那边情况如何？！Snaaaaaaake！"
 
 #: slot/0x00d2a877/0x084055/0x000000
 msgid ""
 "Stop kidding around, Snake!\n"
 "You can't let it end here! Snake!"
-msgstr ""
+msgstr "别开玩笑了，SNAKE！\n不能就这么结束！SNAKE！"
 
 #: slot/0x00d2a877/0x084059/0x000000
 msgid "What's wrong? What happened?! Report your status! Report!"
-msgstr ""
+msgstr "怎么了？出什么事了？！报告情况！报告！"
 
 #: slot/0x00d2a877/0x08405d/0x000000
 msgid "Hey! What's going on?! Report! Report, damnit!"
-msgstr ""
+msgstr "喂！怎么回事？！报告！快报告！"
 
 #: slot/0x00d2a877/0x084061/0x000000
 msgid "Damn, they got us good. Are you all right? Respond!"
-msgstr ""
+msgstr "该死，我们中招了。你没事吧？回答！"
 
 #: slot/0x00d2a877/0x084065/0x000000
 #: slot/0x00d2a877/0x084066/0x000000
 msgid "What's wrong? Why aren't you responding?! Requesting status report!"
-msgstr ""
+msgstr "怎么了？为什么不回答？！请求情况报告！"
 
 #: slot/0x00d2a877/0x0840c1/0x000000
 msgid ""
 "It's over, Snake. Your buddy fell in.\n"
 "The mission is off!"
-msgstr ""
+msgstr "结束了，SNAKE。你的同伴掉下去了。\n任务取消！"
 
 #: slot/0x00d2a877/0x0840c5/0x000000
 msgid ""
 "Abort the mission, Snake!\n"
 "Your buddy fell in!"
-msgstr ""
+msgstr "中止任务，SNAKE！\n你的同伴掉下去了！"
 
 #: slot/0x00d2a877/0x0840c5/0x000001
 msgid "How could you let him die?!"
-msgstr ""
+msgstr "你怎么能让他死了？！"
 
 #: slot/0x00d2a877/0x0840c9/0x000000
 msgid ""
 "Hold it, Snake. Your man's been incapacitated.\n"
 "The mission's canceled."
-msgstr ""
+msgstr "住手，SNAKE。你的人已失去战斗力。\n任务取消。"
 
 #: slot/0x00d2a877/0x0840c9/0x000001
 msgid "Too bad..."
-msgstr ""
+msgstr "真糟糕……"
 
 #: slot/0x00d2a877/0x0840cd/0x000000
 msgid ""
 "I'm getting no response\n"
 "from your partner, Snake."
-msgstr ""
+msgstr "你的搭档没有回应，\nSNAKE。"
 
 #: slot/0x00d2a877/0x0840cd/0x000001
 msgid ""
 "I'm calling off the mission.\n"
 "Return to base..."
-msgstr ""
+msgstr "我取消任务。\n回基地吧……"
 
 #: slot/0x00d2a877/0x0840d1/0x000000
 msgid "Damnit, man! Your partner fell in. We have to abort!"
-msgstr ""
+msgstr "该死！你的搭档倒下了。必须中止！"
 
 #: slot/0x00d2a877/0x0840d5/0x000000
 msgid "We lost someone! This operation is over. Return to base!"
-msgstr ""
+msgstr "我们损失了人手！行动结束。回基地！"
 
 #: slot/0x00d2a877/0x0840d9/0x000000
 msgid "Abort the mission. We have a man down. Just come back..."
-msgstr ""
+msgstr "中止任务。有人倒下了。回来吧……"
 
 #: slot/0x00d2a877/0x0840da/0x000000
 msgid "Abort the mission. We have a man down."
-msgstr ""
+msgstr "中止任务。有人倒下了。"
 
 #: slot/0x00d2a877/0x0840dd/0x000000
 msgid "I can't reach your partner. I'm calling off the mission. Return immediately!"
-msgstr ""
+msgstr "联系不上你的搭档。我取消任务。立刻返回！"
 
 #: slot/0x00d2a877/0x0f2371/0x000000
 msgid "Miller (Robin Atkin Downes)"
-msgstr ""
+msgstr "米勒(Robin Atkin Downes)"
 
 #: slot/0x00d2a877/0x483fc9/0x000000
 msgid "The unconscious soldier is coming to."
-msgstr ""
+msgstr "昏迷的士兵醒过来了。"
 
 #: slot/0x00d2a877/0x483fc9/0x000001
 msgid "You won't be able to recover anything now. Return to base."
-msgstr ""
+msgstr "现在什么都回收不了了。回基地吧。"
 
 #: slot/0x00d2a877/0x483fcd/0x000000
 msgid "The prisoner's been moved to another location. We can't rescue him now."
-msgstr ""
+msgstr "囚犯已被转移到别处。现在救不了他。"
 
 #: slot/0x00d2a877/0x483fcd/0x000001
 msgid "Come on back."
-msgstr ""
+msgstr "回来吧。"
 
 #: slot/0x00d2a877/0x483fd1/0x000000
 msgid "Call off the operation! "
-msgstr ""
+msgstr "取消行动！"
 
 #: slot/0x00d2a877/0x483fd1/0x000001
 msgid "Your orders were to recover that scout without killing him!"
-msgstr ""
+msgstr "你的命令是活捉那名侦察兵！"
 
 #: slot/0x00d2a877/0x483fd5/0x000000
 msgid "All the bases have been overrun. "
-msgstr ""
+msgstr "所有基地都已失守。"
 
 #: slot/0x00d2a877/0x483fd5/0x000001
 msgid "That's a pretty epic failure on our part."
-msgstr ""
+msgstr "我们这次败得可真彻底。"
 
 #: slot/0x00d2a877/0x483fdd/0x000000
 msgid ""
 "Abort mission - they stole an item.\n"
 "And you had it, too... Damnit!"
-msgstr ""
+msgstr "中止任务——他们偷走了一件物品。\n而且本来在你手上……该死！"
 
 #: slot/0x00d2a877/0x483fe1/0x000000
 msgid "All of the items we secured have been stolen."
-msgstr ""
+msgstr "我们拿到的所有物品都被偷了。"
 
 #: slot/0x00d2a877/0x483fe1/0x000001
 msgid "The operation's a failure."
-msgstr ""
+msgstr "行动失败。"
 
 #: slot/0x00d2a877/0x483fe5/0x000000
 msgid "Enemy soldiers captured the prisoner. The mission's a failure."
-msgstr ""
+msgstr "敌兵抓走了囚犯。任务失败。"
 
 #: slot/0x00d2a877/0x483fe5/0x000001
 msgid "Let's hope he can find his own way out of there."
-msgstr ""
+msgstr "但愿他能自己找到出路。"
 
 #: slot/0x00d2a877/0x484045/0x000000
 msgid "Time's up! "
-msgstr ""
+msgstr "时间到"
 
 #: slot/0x00d2a877/0x484045/0x000001
 msgid "I'm calling off the operation - retreat for now."
-msgstr ""
+msgstr "我取消行动——暂时撤退。"
 
 #: slot/0x00d2a877/0x48404a/0x000000
 msgid "Out of ammo, huh?"
-msgstr ""
+msgstr "没弹药了？"
 
 #: slot/0x00d2a877/0x48404a/0x000001
 msgid "Abort mission. Come on back."
-msgstr ""
+msgstr "任务中止。回来吧。"
 
 #: slot/0x00d2a877/0x48404d/0x000000
 msgid "Out of ammo, huh? "
-msgstr ""
+msgstr "没弹药了？"
 
 #: slot/0x00d2a877/0x48404d/0x000001
 msgid "Guess it was too much, even for you... "
-msgstr ""
+msgstr "看来对你来说也太勉强了…"
 
 #: slot/0x00d2a877/0x48404d/0x000002
 msgid "We'll put the operation on hold."
-msgstr ""
+msgstr "行动先搁置。"
 
 #: slot/0x00d2a877/0x484051/0x000000
 msgid "Looks like you're out of ammo."
-msgstr ""
+msgstr "看来你没弹药了。"
 
 #: slot/0x00d2a877/0x484051/0x000001
 msgid "Maybe I underestimated... Anyway, back to base."
-msgstr ""
+msgstr "也许是我低估了…总之，回基地。"
 
 #: slot/0x00d2a877/0x4840e5/0x000000
 msgid "Aaaaaaaaaah!"
-msgstr ""
+msgstr "啊啊啊啊啊！"
 
 #: slot/0x00d2a877/0x484141/0x000000
 msgid "Everyone, get those fires out! Dammit - we'll never catch up! Argh!"
-msgstr ""
+msgstr "快灭火！该死，追不上了！呃啊！"
 
 #: slot/0x00d2a877/0x484145/0x000000
 msgid "Mom... Is that you, Mom...? Aarrgh!!"
-msgstr ""
+msgstr "妈妈…是你吗，妈妈…？啊啊啊！！"
 
 #: slot/0x00d2a877/0x484149/0x000000
 msgid "What are you doing? I told you to keep him alive!"
-msgstr ""
+msgstr "你在干什么？我说了要留活口！"
 
 #: slot/0x00d2a877/0x48414d/0x000000
 msgid "They spotted you? Training is over - come on back."
-msgstr ""
+msgstr "被发现了？训练结束——回来吧。"
 
 #: slot/0x00d2a877/0x4841d9/0x000000
 msgid "No! They got the researcher - mission failed!"
-msgstr ""
+msgstr "不！研究员被抓，任务失败！"
 
 #: slot/0x00d2a877/0x486feb/0x000000
 msgid "Time's up. You failed the mission."
-msgstr ""
+msgstr "时间到。任务失败。"
 
 #: slot/0x00d2a877/0x487047/0x000000
 msgid "You're out of time... Mission incomplete..."
-msgstr ""
+msgstr "时间不够了…任务未完成…"
 
 #: slot/0x00d2a877/0x48704b/0x000000
 msgid "Forget it, you'll never make it in time. The mission's over."
-msgstr ""
+msgstr "算了，你赶不上了。任务结束。"
 
 #: slot/0x00d2a877/0x48d0eb/0x000000
 msgid ""
 "Snake... Peace Walker launched the nuke.\n"
 "It's all over."
-msgstr ""
+msgstr "SNAKE…和平行者发射了核弹。\n全完了。"
 
 #: slot/0x00d2a877/0x48d147/0x000000
 msgid "Snake... The nuke was launched."
-msgstr ""
+msgstr "SNAKE…核弹发射了。"
 
 #: slot/0x00d2a877/0x48d147/0x000001
 msgid "Those bastards from the Pentagon just plunged the world into a nuclear apocalypse!"
-msgstr ""
+msgstr "五角大楼那帮混蛋把世界推入了核浩劫！"
 
 #: slot/0x00d2a877/0x48d14b/0x000000
 #: slot/0x00d2a877/0x48d14c/0x000000
@@ -880,404 +880,404 @@ msgstr ""
 #: slot/0x00d2a877/0x48d14f/0x000000
 #: slot/0x00d2a877/0x48d150/0x000000
 msgid "The mission's a failure. Return to base!"
-msgstr ""
+msgstr "任务失败。返回基地！"
 
 #: slot/0x00d2a877/0x584def/0x000000
 msgid "Snake, what happened?! Say something! Snaaaaaaake!"
-msgstr ""
+msgstr "SNAKE，怎么了？！说话！SNAAAAAAKE！"
 
 #: slot/0x00d2a877/0x584df3/0x000000
 msgid "This can't be happening... Tell me you're OK, Snake! Snaaaake!"
-msgstr ""
+msgstr "这不可能…告诉我你没事，SNAKE！SNAAAKE！"
 
 #: slot/0x00d2a877/0x584df7/0x000000
 msgid "Get up, Snake! Without you, Costa Rica's finished! Snaaake!"
-msgstr ""
+msgstr "起来，SNAKE！没有你，哥斯达黎加就完了！SNAAAKE！"
 
 #: slot/0x00d2a877/0x584dfb/0x000000
 msgid "What happened?! Say something!"
-msgstr ""
+msgstr "怎么了？！说话！"
 
 #: slot/0x00d2a877/0x584dff/0x000000
 msgid "No, don't tell me... I don't want to see anyone else die!"
-msgstr ""
+msgstr "不，别告诉我…我不想再看到有人死了！"
 
 #: slot/0x00d2a877/0x584e03/0x000000
 msgid "Please, get up! Costa Rica needs you!"
-msgstr ""
+msgstr "求你了，起来！哥斯达黎加需要你！"
 
 #: slot/0x00d2a877/0x5f2371/0x000000
 msgid "Paz (Tara Strong)"
-msgstr ""
+msgstr "帕兹（Tara Strong）"
 
 #: slot/0x00d2a877/0x6df642/0x000000
 msgid "What happened, Snake?! Snaaaaaaaake!"
-msgstr ""
+msgstr "怎么了，SNAKE？！SNAAAAAAKE！"
 
 #: slot/0x00d2a877/0x6df646/0x000000
 msgid "This cannot be... Snake!"
-msgstr ""
+msgstr "这不可能……SNAKE！"
 
 #: slot/0x00d2a877/0x6df646/0x000001
 msgid "There is so much more I wanted to learn from you... Snaaaaaake!"
-msgstr ""
+msgstr "我还想从你身上学好多东西……SNAAAAAAKE！"
 
 #: slot/0x00d2a877/0x6df64a/0x000000
 msgid "Get up, Snake, please! I cannot lose another comandante! Snaaaaaake!"
-msgstr ""
+msgstr "起来，SNAKE，求你了！我不能再失去一个指挥官了！SNAAAAAAKE！"
 
 #: slot/0x00d2a877/0x6df64e/0x000000
 msgid "Snake, no! You were... you were so close!"
-msgstr ""
+msgstr "SNAKE，不要！你……你明明就差一点了！"
 
 #: slot/0x00d2a877/0x6df652/0x000000
 msgid "What happened?! Can you hear me? Say something!"
-msgstr ""
+msgstr "怎么了？！能听见我吗？说句话！"
 
 #: slot/0x00d2a877/0x6df6ae/0x000000
 msgid "What is going on? Are you injured? Please, come in!"
-msgstr ""
+msgstr "发生什么了？你受伤了吗？请回答！"
 
 #: slot/0x00d2a877/0x6df6b2/0x000000
 msgid "No! Talk to me! We still have to liberate Nicaragua together!"
-msgstr ""
+msgstr "不！跟我说话！我们还要一起解放尼加拉瓜！"
 
 #: slot/0x00d2a877/0x6df6b6/0x000000
 msgid "Snake, return to base! We have to abort."
-msgstr ""
+msgstr "SNAKE，回基地！必须中止。"
 
 #: slot/0x00d2a877/0x6df6b6/0x000001
 msgid "Your partner has taken a fall!"
-msgstr ""
+msgstr "你的搭档倒下了！"
 
 #: slot/0x00d2a877/0x6df6ba/0x000000
 msgid "Snake, we are aborting the operation! "
-msgstr ""
+msgstr "SNAKE，我们中止行动！"
 
 #: slot/0x00d2a877/0x6df6ba/0x000001
 msgid "Your partner took a fall... How could you take your eyes off our compas?! "
-msgstr ""
+msgstr "你的搭档倒下了……你怎么能不看住同伴？！"
 
 #: slot/0x00d2a877/0x6df6ba/0x000002
 msgid "You are supposed to be the Boss!"
-msgstr ""
+msgstr "你可是BOSS啊！"
 
 #: slot/0x00d2a877/0x6df6be/0x000000
 msgid "Return to base! We're aborting. "
-msgstr ""
+msgstr "回基地！中止行动。"
 
 #: slot/0x00d2a877/0x6df6be/0x000001
 msgid "Unfortunately, your partner took a fall..."
-msgstr ""
+msgstr "很遗憾，你的搭档倒下了……"
 
 #: slot/0x00d2a877/0x6df6c2/0x000000
 msgid "The operation is aborted. Your partner has taken a fall. "
-msgstr ""
+msgstr "行动中止。你的搭档倒下了。"
 
 #: slot/0x00d2a877/0x6df6c2/0x000001
 msgid "Why did this have to happen...?"
-msgstr ""
+msgstr "为什么会这样……？"
 
 #: slot/0x00d2a877/0x74cb70/0x000000
 msgid "Amanda (Grey DeLisle)"
-msgstr ""
+msgstr "阿曼达（Grey DeLisle）"
 
 #: slot/0x00d2a877/0x89095a/0x000000
 msgid "Snake! What happened?! Snaaaaaake!"
-msgstr ""
+msgstr "SNAKE！怎么了？！SNAAAAAAKE！"
 
 #: slot/0x00d2a877/0x89095e/0x000000
 msgid "What is going on?  Snake, Answer me! Snaaake!"
-msgstr ""
+msgstr "怎么了？SNAKE，回答我！SNAAAKE！"
 
 #: slot/0x00d2a877/0x890962/0x000000
 msgid "The birds are weeping... What happened?  Snake?  "
-msgstr ""
+msgstr "鸟儿在哭泣……怎么了？SNAKE？"
 
 #: slot/0x00d2a877/0x890962/0x000001
 msgid "Say something!"
-msgstr ""
+msgstr "说句话！"
 
 #: slot/0x00d2a877/0x890966/0x000000
 msgid "Snake, get up, please! "
-msgstr ""
+msgstr "SNAKE，起来，求你了！"
 
 #: slot/0x00d2a877/0x890966/0x000001
 msgid "Here, I'll do a quetzal for you! Kyoooh, kyoooh..."
-msgstr ""
+msgstr "来，我给你学个凤尾绿咬鹃！叽——叽——……"
 
 #: slot/0x00d2a877/0x89096a/0x000000
 msgid "Hey, what happened?! Please, answer me!"
-msgstr ""
+msgstr "喂，怎么了？！回答我！"
 
 #: slot/0x00d2a877/0x89096e/0x000000
 msgid "Talk to me! Are you there?  Oh, what happened?"
-msgstr ""
+msgstr "说话！你在吗？哦，怎么了？"
 
 #: slot/0x00d2a877/0x890972/0x000000
 msgid "Have you... taken to the skies yourself now?"
-msgstr ""
+msgstr "你……现在也自己飞上天了吗？"
 
 #: slot/0x00d2a877/0x8909ce/0x000000
 msgid "What do we do, Snake?! Your friend has fallen! Come back immediately!"
-msgstr ""
+msgstr "怎么办，SNAKE？！你的同伴倒下了！马上回来！"
 
 #: slot/0x00d2a877/0x8909d2/0x000000
 msgid "Come back, Snake! Your friend has fallen... If only man had wings..."
-msgstr ""
+msgstr "回来，SNAKE！同伴倒下了……人有翅膀多好……"
 
 #: slot/0x00d2a877/0x8909d6/0x000000
 msgid "Hurry back! Your friend has fallen! Oh mon Dieu..."
-msgstr ""
+msgstr "快回来！同伴倒下了！哦天哪……"
 
 #: slot/0x00d2a877/0x8909da/0x000000
 msgid "I cannot believe this... Your friend has fallen... Come back!"
-msgstr ""
+msgstr "不敢相信……同伴倒下了……回来！"
 
 #: slot/0x00d2a877/0x8b7462/0x000000
 msgid "Snake, what happened?! Answer me! Snaaaaake!"
-msgstr ""
+msgstr "SNAKE，出什么事了？！回答我！SNAAAAKE！"
 
 #: slot/0x00d2a877/0x8b7466/0x000000
 msgid "Snake! What's going on? We still gotta look for UMAs together! Snaaaaake!"
-msgstr ""
+msgstr "SNAKE！怎么了？我们还得一起找未知生物呢！SNAAAAKE！"
 
 #: slot/0x00d2a877/0x8b746a/0x000000
 msgid "Come on, Snake! You can't just leave us like this! Snaaaaaaake!"
-msgstr ""
+msgstr "别这样，SNAKE！不能丢下我们！SNAAAAAAKE！"
 
 #: slot/0x00d2a877/0x8b746e/0x000000
 msgid "What the heck happened?! Talk to me! Please!"
-msgstr ""
+msgstr "怎么了？！说话啊！求你！"
 
 #: slot/0x00d2a877/0x8b7472/0x000000
 msgid "What's going on?! Can you still hear me? Come in!"
-msgstr ""
+msgstr "怎么了？！还听得到我吗？请回答！"
 
 #: slot/0x00d2a877/0x8b7476/0x000000
 msgid "We were going to go back to Nicaragua together!"
-msgstr ""
+msgstr "我们本来说好一起回尼加拉瓜的！"
 
 #: slot/0x00d2a877/0x8b7476/0x000001
 msgid "Say something! No...!"
-msgstr ""
+msgstr "说句话啊！不……！"
 
 #: slot/0x00d2a877/0x8b747a/0x000000
 msgid "Return to base, Snake! The mission's aborted. Your partner took a fall..."
-msgstr ""
+msgstr "返回基地，SNAKE！任务中止。你的搭档倒下了……"
 
 #: slot/0x00d2a877/0x8b747e/0x000000
 msgid "Your partner took a fall... Better come back, Snake."
-msgstr ""
+msgstr "你的搭档倒下了……最好回来，SNAKE。"
 
 #: slot/0x00d2a877/0x8b747e/0x000001
 msgid "Why weren't you watching them?!"
-msgstr ""
+msgstr "你怎么没看好他们？！"
 
 #: slot/0x00d2a877/0x8b7482/0x000000
 msgid "No! It can't be over yet!"
-msgstr ""
+msgstr "不！不能就这么结束！"
 
 #: slot/0x00d2a877/0x8b74de/0x000000
 msgid "Return to base! A compa fell! We gotta reorganize things."
-msgstr ""
+msgstr "回基地！同伴倒下了！得重整。"
 
 #: slot/0x00d2a877/0x8feb70/0x000000
 msgid "Cécile (Cathrine Taber)"
-msgstr ""
+msgstr "塞西尔（Cathrine Taber）"
 
 #: slot/0x00d2a877/0x924770/0x000000
 msgid "Chico (Antony Del Rio)"
-msgstr ""
+msgstr "奇科（Antony Del Rio）"
 
 #: slot/0x00d2a877/0x953f71/0x000000
 msgid "Snake (David Hayter)"
-msgstr ""
+msgstr "SNAKE（David Hayter）"
 
 #: slot/0x00d2a877/0xa10742/0x000000
 msgid "What's going on? What happened, Snake? Acknowledge! SNA-A-AKE!!"
-msgstr ""
+msgstr "怎么了？出什么事，SNAKE？回答！SNA-A-AKE！！"
 
 #: slot/0x00d2a877/0xa10746/0x000000
 msgid "Don't quit on me now, Snake! You call yourself her disciple?!"
-msgstr ""
+msgstr "别放弃，SNAKE！你自称她弟子？！"
 
 #: slot/0x00d2a877/0xa1074a/0x000000
 msgid "You disappoint me, Snake... It seems I misjudged you..."
-msgstr ""
+msgstr "你真让我失望，SNAKE……看来是我看错你了……"
 
 #: slot/0x00d2a877/0xa1074e/0x000000
 msgid "What's happened? Give me a status report! Acknowledge!"
-msgstr ""
+msgstr "发生了什么？给我状况报告！回答！"
 
 #: slot/0x00d2a877/0xa10752/0x000000
 msgid "Respond, soldier! At least give me a status report... or is it too late..."
-msgstr ""
+msgstr "回答，士兵！至少报个状况……还是已经太迟……"
 
 #: slot/0x00d2a877/0xa10756/0x000000
 msgid "No... This can't be the right outcome..."
-msgstr ""
+msgstr "不……这不该是正确结果……"
 
 #: slot/0x00d2a877/0xa1075a/0x000000
 msgid "Return to base, Snake! Your teammate's had a fall. The mission is aborted!!"
-msgstr ""
+msgstr "回基地，SNAKE！你的队友倒下了。任务中止！！"
 
 #: slot/0x00d2a877/0xa1075e/0x000000
 msgid "Return to base, your teammate's fallen! Where were you?"
-msgstr ""
+msgstr "回基地，你的队友倒下了！你当时在哪？"
 
 #: slot/0x00d2a877/0xa1075e/0x000001
 msgid "SHE would never have abandoned her comrades like that!"
-msgstr ""
+msgstr "她绝不会那样抛弃同伴！"
 
 #: slot/0x00d2a877/0xa10762/0x000000
 msgid "Your companion has fallen. Return to base and regroup!"
-msgstr ""
+msgstr "你的同伴倒下了。回基地重整旗鼓！"
 
 #: slot/0x00d2a877/0xa107be/0x000000
 msgid "Mission aborted, your companion's fallen. Humans are such fragile creatures..."
-msgstr ""
+msgstr "任务中止，你的同伴倒下了。人类真是脆弱的生物……"
 
 #: slot/0x00d2a877/0xa7eb70/0x000000
 msgid "Strangelove (Vanessa Marshall)"
-msgstr ""
+msgstr "斯特兰奇洛夫（Vanessa Marshall）"
 
 #: slot/0x00d2a877/0xae66e6/0x000000
 #: slot/0x00d2a877/0xae66e6/0x000001
 msgid "The End!"
-msgstr ""
+msgstr "终焉"
 
 #: slot/0x00d2a877/0xc2cb14/0x000000
 msgid "Paz, wait! PA-A-AZ!"
-msgstr ""
+msgstr "帕兹，等等！帕——兹！"
 
 #: slot/0x00d2a877/0xc2cb70/0x000000
 msgid "Paz, I'm sorry! Don't walk away! PA-A-AZ!"
-msgstr ""
+msgstr "帕兹，对不起！别走！帕兹！"
 
 #: slot/0x00d2a877/0xc2cb74/0x000000
 msgid "Hey, Kaz, come back! KA-A-AZ!"
-msgstr ""
+msgstr "嘿，卡兹，回来！卡——兹！"
 
 #: slot/0x00d2a877/0xc2cb78/0x000000
 msgid "Kaz, I'm sorry! I didn't mean it! C'mon! KA-A-AZ!"
-msgstr ""
+msgstr "卡兹，对不起！我不是那个意思！别走！卡——兹！"
 
 #: slot/0x00d2a877/0xcbb801/0x1ad08a
 msgid "SELECT MISSION"
-msgstr ""
+msgstr "SELECT 任务"
 
 #: slot/0x00d2a877/0xcbb801/0x4a4f2c
 msgid "When count reaches 0, game will continue automatically."
-msgstr ""
+msgstr "计数归零后，游戏将自动继续。"
 
 #: slot/0x00d2a877/0xcbb801/0x75081c
 msgid "Waiting for the host."
-msgstr ""
+msgstr "正在等待主机。"
 
 #: slot/0x00d2a877/0xcbb801/0x8cb632
 msgid "GAME OVER"
-msgstr ""
+msgstr "游戏结束"
 
 #: slot/0x00d2a877/0xcbb801/0xcfe5d3
 msgid "Waiting for other players."
-msgstr ""
+msgstr "等待其他玩家。"
 
 #: slot/0x00d2a877/0xe24d3a/0x000000
 msgid "Snake, what happened? Answer me! SNA-A-AKE!!"
-msgstr ""
+msgstr "SNAKE，怎么了？回答我！SNAKE！！"
 
 #: slot/0x00d2a877/0xe24d3e/0x000000
 msgid "Snake, you OK?! C'mon, shake it off! SNA-A-AKE!!"
-msgstr ""
+msgstr "SNAKE，没事吧？！振作点！SNAKE！！"
 
 #: slot/0x00d2a877/0xe24d42/0x000000
 msgid "Don't die on me, Snake! Who's gonna stop Peace Walker now?!"
-msgstr ""
+msgstr "别死啊，SNAKE！还有谁能阻止和平行者？！"
 
 #: slot/0x00d2a877/0xe24d42/0x000001
 msgid "SNA-A-AKE!"
-msgstr ""
+msgstr "SNAKE！"
 
 #: slot/0x00d2a877/0xe24d46/0x000000
 msgid "Snake! Get up, Snake!"
-msgstr ""
+msgstr "SNAKE！起来，SNAKE！"
 
 #: slot/0x00d2a877/0xe24d46/0x000001
 msgid "Don't quit...at least deliver the letter..."
-msgstr ""
+msgstr "别放弃……至少把信送到……"
 
 #: slot/0x00d2a877/0xe24d4a/0x000000
 msgid "What happened? Are you OK?"
-msgstr ""
+msgstr "怎么了？还好吗？"
 
 #: slot/0x00d2a877/0xe24d4a/0x000001
 msgid "Your circuit's still live! Answer me!"
-msgstr ""
+msgstr "你的回路还通着！回答我！"
 
 #: slot/0x00d2a877/0xe24d4e/0x000000
 msgid "What's going on? Respond!"
-msgstr ""
+msgstr "怎么了？快回话！"
 
 #: slot/0x00d2a877/0xe24d4e/0x000001
 msgid "You want the world to be nuked into oblivion...?!"
-msgstr ""
+msgstr "你想让世界被核平吗……？！"
 
 #: slot/0x00d2a877/0xe24d52/0x000000
 msgid "By my own creation... Please forgive me..."
-msgstr ""
+msgstr "毁于我的造物……原谅我……"
 
 #: slot/0x00d2a877/0xe91f70/0x000000
 msgid "Huey (Christopher Randolph)"
-msgstr ""
+msgstr "休伊（C. Randolph）"
 
 #: slot/0x00d982f6/0xb910e6/0x089cab
 msgid "Metamaterials Technology"
-msgstr ""
+msgstr "超材料技术"
 
 #: slot/0x00d982f6/0xb910e6/0x0ba09d
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the R&D Team, lowers GMP required to develop machine guns."
-msgstr ""
+msgstr "对母基地的效果\n  • 编入研发班时，降低开发机枪所需的GMP。"
 
 #: slot/0x00d982f6/0xb910e6/0x11092d
 msgid "Counselor"
-msgstr ""
+msgstr "心理咨询师"
 
 #: slot/0x00d982f6/0xb910e6/0x17d849
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the Medical Team, increases Sickbay staff's sickness treatment speed."
-msgstr ""
+msgstr "对母基地的效果\n  • 编入医疗班时，提升医务室人员的疾病治疗速度。"
 
 #: slot/0x00d982f6/0xb910e6/0x19ba8d
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the R&D Team, lowers GMP required to develop handguns."
-msgstr ""
+msgstr "对母基地的效果\n  • 编入研发班时，降低开发手枪所需的GMP。"
 
 #: slot/0x00d982f6/0xb910e6/0x205445
 msgid "Channeler"
-msgstr ""
+msgstr "通灵者"
 
 #: slot/0x00d982f6/0xb910e6/0x21629e
 msgid "SWAT"
-msgstr ""
+msgstr "特警"
 
 #: slot/0x00d982f6/0xb910e6/0x295a7b
 msgid "Bird Watcher"
-msgstr ""
+msgstr "观鸟者"
 
 #: slot/0x00d982f6/0xb910e6/0x31bd5b
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the R&D Team, lowers GMP required to develop shotguns."
-msgstr ""
+msgstr "对母基地的效果\n  • 编入研发班时，降低开发霰弹枪所需的GMP。"
 
 #: slot/0x00d982f6/0xb910e6/0x332e1c
 msgid "Pro Wrestling Maniac"
-msgstr ""
+msgstr "职业摔角狂"
 
 #: slot/0x00d982f6/0xb910e6/0x3d3adf
 msgid ""
@@ -1285,27 +1285,27 @@ msgid ""
 "  • Compliments allies when they neutralize enemies.\n"
 "  • PSYCHE rises for the soldier who was complimented.\n"
 "  • Be aware that players cannot achieve an S rank with the use of a Battle Cry.\n"
-msgstr ""
+msgstr "对任务的效果\n  • 队友制伏敌人时进行称赞。\n  • 被称赞的士兵精神上升。\n  • 注意，使用战吼无法获得S评价。\n"
 
 #: slot/0x00d982f6/0xb910e6/0x40258e
 msgid "Gunsmith (Handguns)"
-msgstr ""
+msgstr "枪械师（手枪）"
 
 #: slot/0x00d982f6/0xb910e6/0x421d75
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the Mess Hall Team, increases morale of all MSF staff."
-msgstr ""
+msgstr "对母基地的效果\n  • 编入食堂班时，提升全体MSF成员的士气。"
 
 #: slot/0x00d982f6/0xb910e6/0x427b3d
 msgid "Gung Ho"
-msgstr ""
+msgstr "干劲十足"
 
 #: slot/0x00d982f6/0xb910e6/0x42b778
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the Mess Hall Team, Rank 5 Rations can be developed."
-msgstr ""
+msgstr "对母基地的效果\n  • 编入食堂班时，可开发5级口粮。"
 
 #: slot/0x00d982f6/0xb910e6/0x468f1b
 #: slot/0x00d982f6/0xb910e6/0x93ce61
@@ -1315,7 +1315,7 @@ msgid ""
 "\n"
 "Effect on Missions\n"
 "  • Increases natural recovery rate of LIFE gauge."
-msgstr ""
+msgstr "对母基地的效果\n  • 编入医疗班时，提升医务室人员的疾病与伤势治疗速度。\n\n对任务的效果\n  • 提升生命值的自然恢复速度。"
 
 #: slot/0x00d982f6/0xb910e6/0x47a443
 msgid ""
@@ -1323,59 +1323,59 @@ msgid ""
 "  • Chance of neutralizing enemy requests for backup increases.\n"
 "  • Effects are amplified in proportion to number of people with this skill.\n"
 "  • Support Rank is increased when requesting support from Mother Base."
-msgstr ""
+msgstr "对任务的效果\n  • 敌人呼叫增援时将其制伏的几率上升。\n  • 效果随拥有此技能的人数增加而增强。\n  • 向母基地请求支援时，支援等级上升。"
 
 #: slot/0x00d982f6/0xb910e6/0x49a92b
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the Mess Hall Team, Rank 3 Rations can be developed."
-msgstr ""
+msgstr "对母基地的效果\n  • 编入食堂班时，可开发3级口粮。"
 
 #: slot/0x00d982f6/0xb910e6/0x4a51f8
 msgid ""
 "Effect on Missions\n"
 "  • Location of all items and prisoners is displayed on detailed map."
-msgstr ""
+msgstr "对任务的效果\n  • 所有道具与俘虏的位置会显示在详细地图上。"
 
 #: slot/0x00d982f6/0xb910e6/0x4a6c2b
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the Mess Hall Team, Rank 4 Rations can be developed."
-msgstr ""
+msgstr "对母基地的效果\n  • 加入食堂班时，可开发4级口粮。"
 
 #: slot/0x00d982f6/0xb910e6/0x50bf92
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the Medical Team, increases Sickbay staff's PTSD treatment speed."
-msgstr ""
+msgstr "对母基地的效果\n  • 加入医疗班时，提升医务室人员的PTSD治疗速度。"
 
 #: slot/0x00d982f6/0xb910e6/0x551732
 msgid "Rescue"
-msgstr ""
+msgstr "救援"
 
 #: slot/0x00d982f6/0xb910e6/0x551e28
 msgid "Five-Star Chef"
-msgstr ""
+msgstr "五星主厨"
 
 #: slot/0x00d982f6/0xb910e6/0x572982
 msgid "Voice Actor"
-msgstr ""
+msgstr "声优"
 
 #: slot/0x00d982f6/0xb910e6/0x58285c
 msgid "Gunsmith (Shotguns)"
-msgstr ""
+msgstr "枪械师（霰弹枪）"
 
 #: slot/0x00d982f6/0xb910e6/0x5c33c8
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the R&D Team, lowers GMP required to develop assault rifles."
-msgstr ""
+msgstr "对母基地的效果\n  • 加入研发班时，降低开发突击步枪所需GMP。"
 
 #: slot/0x00d982f6/0xb910e6/0x5c3860
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the R&D Team, lowers GMP required to develop sniper rifles."
-msgstr ""
+msgstr "对母基地的效果\n  • 加入研发班时，降低开发狙击步枪所需GMP。"
 
 #: slot/0x00d982f6/0xb910e6/0x611903
 msgid ""
@@ -1385,13 +1385,13 @@ msgid ""
 "  • Allows player to take down enemy soldiers by rolling.\n"
 "  • Shortens time required to sync with allies.\n"
 "  • Effectiveness of all actions excluding Rolling and Snake Sync are amplified in proportion to number of people with same skill."
-msgstr ""
+msgstr "对任务的效果\n  • 提升CQC造成的伤害。\n  • 提升攻击敌人手部或脚部时的伤害。\n  • 可用翻滚击倒敌兵。\n  • 缩短与同伴同步所需时间。\n  • 除翻滚与SNAKE同步外，所有动作效果随同技能人数增加而增强。"
 
 #: slot/0x00d982f6/0xb910e6/0x62ccb8
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the R&D Team, M134 Gatling Gun can be developed."
-msgstr ""
+msgstr "对母基地的效果\n  • 加入研发班时，可开发M134加特林机枪。"
 
 #: slot/0x00d982f6/0xb910e6/0x62ee98
 msgid ""
@@ -1399,79 +1399,79 @@ msgid ""
 "  • Easily targeted by enemies.\n"
 "  • When targetted by enemies, PSYCHE and defense increase.\n"
 "  • Using a shield has the same guard effect as Snake Formation."
-msgstr ""
+msgstr "对任务的效果\n  • 容易被敌人锁定。\n  • 被敌人锁定时，精神与防御力提升。\n  • 使用盾牌时具有与SNAKE阵型相同的防御效果。"
 
 #: slot/0x00d982f6/0xb910e6/0x676664
 msgid "M134 Design"
-msgstr ""
+msgstr "M134图纸"
 
 #: slot/0x00d982f6/0xb910e6/0x679626
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the Combat Unit, the Guerrillas' morale will rise."
-msgstr ""
+msgstr "对母基地的效果\n  • 加入战斗班时，游击队士气提升。"
 
 #: slot/0x00d982f6/0xb910e6/0x681f10
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the R&D Team, Tanegashima Musket can be developed."
-msgstr ""
+msgstr "对母基地的效果\n  • 加入研发班时，可开发种子岛火绳枪。"
 
 #: slot/0x00d982f6/0xb910e6/0x6df46d
 msgid ""
 "Effect on Missions\n"
 "  • Raises the chance of increasing damage against large-scale weapons and mechs.\n"
 "  • Speed of placing objects becomes faster."
-msgstr ""
+msgstr "对任务的效果\n  • 提升对大型武器与机甲造成伤害的几率。\n  • 加快设置物品的速度。"
 
 #: slot/0x00d982f6/0xb910e6/0x6f6e64
 msgid ""
 "Effect on Mother Base\n"
 "  • AI can be installed on Metal Gear ZEKE."
-msgstr ""
+msgstr "对母基地的效果\n  • 可为合金装备·吉克安装AI。"
 
 #: slot/0x00d982f6/0xb910e6/0x7293c5
 msgid "EM Weapons Design"
-msgstr ""
+msgstr "EM武器设计图"
 
 #: slot/0x00d982f6/0xb910e6/0x746d4f
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the R&D Team, lowers GMP required to develop submachine guns."
-msgstr ""
+msgstr "对母基地的效果\n  • 加入研发班时，降低开发冲锋枪所需GMP。"
 
 #: slot/0x00d982f6/0xb910e6/0x751b18
 msgid ""
 "Effect on Missions\n"
 "  • Increases natural recovery rate of PSYCHE gauge.\n"
 "  • Increases effect of some Battle Cries."
-msgstr ""
+msgstr "对任务的效果\n  • 提升精神槽的自然恢复速度。\n  • 提升部分战吼的效果。"
 
 #: slot/0x00d982f6/0xb910e6/0x77fa64
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of R&D Team, a development division for bipedal weapons will be established."
-msgstr ""
+msgstr "对母基地的效果\n  • 加入研发班时，将设立双足武器开发部门。"
 
 #: slot/0x00d982f6/0xb910e6/0x78a1bc
 msgid "AI Development Technology"
-msgstr ""
+msgstr "AI开发技术"
 
 #: slot/0x00d982f6/0xb910e6/0x7a85c0
 msgid "Japanese Patriot"
-msgstr ""
+msgstr "日本爱国者"
 
 #: slot/0x00d982f6/0xb910e6/0x812dbc
 msgid "Bipedal Weapons Design"
-msgstr ""
+msgstr "双足武器设计图"
 
 #: slot/0x00d982f6/0xb910e6/0x829ec9
 msgid "Gunsmith (Assault Rifles)"
-msgstr ""
+msgstr "枪械师(突击步枪)"
 
 #: slot/0x00d982f6/0xb910e6/0x82a361
 msgid "Gunsmith (Sniper Rifles)"
-msgstr ""
+msgstr "枪械师(狙击枪)"
 
 #: slot/0x00d982f6/0xb910e6/0x87b70d
 msgid ""
@@ -1482,65 +1482,65 @@ msgid ""
 "  • Increases running speed for a set time when allies are near death.\n"
 "  • Decreases button presses required for CPR to save allies.\n"
 "  • LIFE gauge recovers more than usual when saving allies with CPR."
-msgstr ""
+msgstr "对母基地的效果\n  • 编入医疗班时，医务室的治疗速度提升。\n\n对任务的效果\n  • 队友濒死时，一定时间内移动速度提升。\n  • 心肺复苏所需的按键次数减少。\n  • 用心肺复苏救起队友时，生命值恢复量增加。"
 
 #: slot/0x00d982f6/0xb910e6/0x880975
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the R&D Team, Stealth Mat and Stealth Camo can be developed."
-msgstr ""
+msgstr "对母基地的效果\n  • 编入研发班时，可开发隐身垫与隐身迷彩。"
 
 #: slot/0x00d982f6/0xb910e6/0x88c201
 msgid ""
 "Effect on Mother Base\n"
 "  • Increases morale of all staff on assigned team."
-msgstr ""
+msgstr "对母基地的效果\n  • 提升所属班全体成员的士气。"
 
 #: slot/0x00d982f6/0xb910e6/0x8c79bb
 msgid "Optical Technology"
-msgstr ""
+msgstr "光学技术"
 
 #: slot/0x00d982f6/0xb910e6/0x8e0127
 msgid "FSLN Comandante"
-msgstr ""
+msgstr "FSLN 指挥官"
 
 #: slot/0x00d982f6/0xb910e6/0x945f6e
 msgid "Engineering"
-msgstr ""
+msgstr "工程"
 
 #: slot/0x00d982f6/0xb910e6/0x947a45
 msgid "Radio Technology"
-msgstr ""
+msgstr "无线电技术"
 
 #: slot/0x00d982f6/0xb910e6/0x96370c
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the R&D Team, Patriot can be developed."
-msgstr ""
+msgstr "对母基地的效果\n  • 编入研发班时，可开发爱国者。"
 
 #: slot/0x00d982f6/0xb910e6/0x9d01b9
 msgid "Pharmacist"
-msgstr ""
+msgstr "药剂师"
 
 #: slot/0x00d982f6/0xb910e6/0x9e984e
 msgid "Expert Pharmacist"
-msgstr ""
+msgstr "药剂师专家"
 
 #: slot/0x00d982f6/0xb910e6/0xa34799
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the R&D Team, PTRD1941 and PTRS1941 can be developed."
-msgstr ""
+msgstr "对母基地的效果\n  • 编入研发班时，可开发 PTRD1941 与 PTRS1941。"
 
 #: slot/0x00d982f6/0xb910e6/0xa533a0
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the R&D Team, EM Wave Gun, Electromagnetic Net, and Railgun can be developed."
-msgstr ""
+msgstr "对母基地的效果\n  • 编入研发班时，可开发电磁波枪、电磁网与轨道炮。"
 
 #: slot/0x00d982f6/0xb910e6/0xaf2d02
 msgid "Mother Base Deputy Commander"
-msgstr ""
+msgstr "母基地副司令"
 
 #: slot/0x00d982f6/0xb910e6/0xb29ae6
 msgid ""
@@ -1551,15 +1551,15 @@ msgid ""
 "  • Recovery from unconsiousness is faster.\n"
 "  • Snake Syncing becomes faster when syncing with another teammate with the same skill.\n"
 "  • Increases effect of some Battle Cries."
-msgstr ""
+msgstr "对任务的效果\n  • 提升 CQC 造成的伤害。\n  • 用 CQC 击倒士兵时，可使其掉落全部携带物品。\n  • 自身精神受损时防御力提升。\n  • 从昏迷中恢复更快。\n  • 与拥有相同技能的队友同步时，SNAKE 同步更快。\n  • 提升部分战吼的效果。"
 
 #: slot/0x00d982f6/0xb910e6/0xb7a536
 msgid "Gunsmith (Machine Guns)"
-msgstr ""
+msgstr "枪械师（机枪）"
 
 #: slot/0x00d982f6/0xb910e6/0xb9d1ac
 msgid "Surgeon"
-msgstr ""
+msgstr "外科"
 
 #: slot/0x00d982f6/0xb910e6/0xbc61e2
 msgid ""
@@ -1568,49 +1568,49 @@ msgid ""
 "  • Raises the chance to increase damage when firing weapons.\n"
 "  • Increases natural recovery rate of LIFE gauge.\n"
 "  • Effects are amplified in proportion to number of people with this skill."
-msgstr ""
+msgstr "对任务的效果\n  • 提升 CQC 造成的伤害。\n  • 提高射击时伤害增加的几率。\n  • 提升生命值的自然恢复速度。\n  • 效果随拥有此技能的人数增加而增强。"
 
 #: slot/0x00d982f6/0xb910e6/0xbd884d
 msgid "Green Beret"
-msgstr ""
+msgstr "贝雷帽"
 
 #: slot/0x00d982f6/0xb910e6/0xbf1996
 msgid ""
 "Effect on Mother Base\n"
 "  • When part of the R&D Team, weapons with laser sights can be developed."
-msgstr ""
+msgstr "对母基地的效果\n  • 编入研发班时，可开发带激光瞄准器的武器。"
 
 #: slot/0x00d982f6/0xb910e6/0xc14351
 msgid "Gunsmith (Submachine Guns)"
-msgstr ""
+msgstr "枪械师（冲锋枪）"
 
 #: slot/0x00d982f6/0xb910e6/0xc2aa68
 msgid ""
 "Effect on Missions\n"
 "  • Tracking enemy soldiers in center of screen while using Binoculars will have the same effect as Enemy Search."
-msgstr ""
+msgstr "对任务的效果\n  • 使用望远镜将敌方士兵置于画面中央时，效果等同于敌兵搜索。"
 
 #: slot/0x00d982f6/0xb910e6/0xc3f401
 msgid ""
 "Effect on Missions\n"
 "  • Increases effect of some Battle Cries."
-msgstr ""
+msgstr "对任务的效果\n  • 提升部分战吼的效果。"
 
 #: slot/0x00d982f6/0xb910e6/0xca3c60
 msgid "Three-Star Chef"
-msgstr ""
+msgstr "三星主厨"
 
 #: slot/0x00d982f6/0xb910e6/0xcaff60
 msgid "Four-Star Chef"
-msgstr ""
+msgstr "四星主厨"
 
 #: slot/0x00d982f6/0xb910e6/0xd552f5
 msgid "Home Cooking"
-msgstr ""
+msgstr "家常菜"
 
 #: slot/0x00d982f6/0xb910e6/0xd821e3
 msgid "Physician "
-msgstr ""
+msgstr "医生"
 
 #: slot/0x00d982f6/0xb910e6/0xe3cf5f
 msgid ""
@@ -1619,38 +1619,38 @@ msgid ""
 "\n"
 "Effect on Missions\n"
 "  • Increases natural recovery rate of LIFE gauge."
-msgstr ""
+msgstr "对母基地的效果\n  • 编入医疗班时，加快医务室伤员的治疗速度。\n\n对任务的效果\n  • 提升生命值的自然恢复速度。"
 
 #: slot/0x00d982f6/0xb910e6/0xe93f78
 msgid "Sidekick"
-msgstr ""
+msgstr "搭档"
 
 #: slot/0x00d982f6/0xb910e6/0xf01d9b
 msgid "Anti-tank Rifle Design"
-msgstr ""
+msgstr "反坦克枪设计图"
 
 #: slot/0x00d9af4c/0x1bed50/0x011e70
 msgid "EQP"
-msgstr ""
+msgstr "装备"
 
 #: slot/0x00d9af4c/0x1bed50/0x0125f0
 #: slot/0x00d9af4c/0x1bed50/0x30dd0f
 msgid "GMP"
-msgstr ""
+msgstr "GMP"
 
 #: slot/0x00d9af4c/0x1bed50/0x244624
 #: slot/0x00d9af4c/0x1bed50/0x730f12
 msgid "FOOD"
-msgstr ""
+msgstr "食"
 
 #: slot/0x00d9af4c/0x1bed50/0x2ab570
 msgid "SKIP"
-msgstr ""
+msgstr "跳"
 
 #: slot/0x00d9af4c/0x1bed50/0xb3e5a2
 #: slot/0x00d9af4c/0x5f753b/0x65d9ca
 msgid "MODEL VIEWER"
-msgstr ""
+msgstr "模型鉴赏"
 
 #: slot/0x00d9af4c/0x1bed50/0xd46323
 msgid ""
@@ -1658,14 +1658,14 @@ msgid ""
 "You will no longer be able to develop and produce weapons/items or repair mechs. Are you sure you want to proceed? \n"
 "\n"
 "(This can be resolved by assigning staff to the Combat Unit to raise GMP.)"
-msgstr ""
+msgstr "GMP（资金）不足。\n将无法开发、生产武器/道具或修理机甲。确定要继续吗？\n\n（可通过将人员编入战斗班来提升GMP解决。）"
 
 #: slot/0x00d9af4c/0x5f753b/0x25075b
 msgid ""
 "(不要)好奇心旺盛で負けず嫌い、そしてちょっぴり\n"
 "えばりんぼな、アヒルの女の子（でも泣き虫）。\n"
 "泳ぎが得意で、カエルのケロタンと仲良し。"
-msgstr ""
+msgstr "(不要)好奇心旺盛、不服输，还有点\n爱逞强的鸭子女孩（不过很爱哭）。\n擅长游泳，和青蛙凯罗炭是好朋友。"
 
 #: slot/0x00d9af4c/0x5f753b/0x28adbc
 #: slot/0x00d9af4c/0x5f753b/0x48adbc
@@ -1673,7 +1673,7 @@ msgstr ""
 #: slot/0x00d9af4c/0x5f753b/0xa8adbc
 #: slot/0x00d9af4c/0x5f753b/0xc8adbc
 msgid "Zoom In: R button"
-msgstr ""
+msgstr "放大：R键"
 
 #: slot/0x00d9af4c/0x5f753b/0x28adbd
 #: slot/0x00d9af4c/0x5f753b/0x48adbd
@@ -1681,15 +1681,15 @@ msgstr ""
 #: slot/0x00d9af4c/0x5f753b/0xa8adbd
 #: slot/0x00d9af4c/0x5f753b/0xc8adbd
 msgid "Zoom Out: L button"
-msgstr ""
+msgstr "缩小：L键"
 
 #: slot/0x00d9af4c/0x5f753b/0x28adbe
 msgid "Rotate: Analog stick left/right"
-msgstr ""
+msgstr "旋转：左摇杆左右"
 
 #: slot/0x00d9af4c/0x5f753b/0x28adbf
 msgid "Move: Analog stick up/down"
-msgstr ""
+msgstr "移动：左摇杆上下"
 
 #: slot/0x00d9af4c/0x5f753b/0x28adc0
 #: slot/0x00d9af4c/0x5f753b/0x48adbf
@@ -1698,7 +1698,7 @@ msgstr ""
 #: slot/0x00d9af4c/0x5f753b/0xa8adbf
 #: slot/0x00d9af4c/0x5f753b/0xc8adbe
 msgid "Text Off: <I=DEC>"
-msgstr ""
+msgstr "关字：<I=DEC>"
 
 #: slot/0x00d9af4c/0x5f753b/0x2b82dd
 msgid ""
@@ -1716,46 +1716,46 @@ msgid ""
 "カスタムパーツが豊富で、ユーザーの好みに合わせた\n"
 "カスタムがしやすい。\n"
 "装弾数は7発。"
-msgstr ""
+msgstr "(不要)制式名称“M1911A1”。通称“柯尔特政府型”。\n发射.45ACP大口径弹的大型自动手枪，\n以高威力著称。\n\n1911年被美军制式采用的军用手枪\n“M1911”的改良版本。\n\n以往的“M1911”由美国枪械设计师\n约翰·M·勃朗宁设计，枪械厂商\n柯尔特公司开发。\n\n改装零件丰富，便于按用户喜好\n进行改装。\n装弹数7发。"
 
 #: slot/0x00d9af4c/0x5f753b/0x48adbe
 msgid "Rotate: Analog stick"
-msgstr ""
+msgstr "旋转：摇杆"
 
 #: slot/0x00d9af4c/0x5f753b/0x88adbf
 #: slot/0x00d9af4c/0x5f753b/0xa8adbe
 msgid "Move Camera: Analog stick"
-msgstr ""
+msgstr "移动镜头：摇杆"
 
 #: slot/0x00d9af4c/0x5f753b/0x918a32
 msgid "(不要)紹介文"
-msgstr ""
+msgstr "(不要)介绍文"
 
 #: slot/0x00d9b1f3/0x1331ad/0x034099
 msgid "YEAR"
-msgstr ""
+msgstr "年"
 
 #: slot/0x00d9b1f3/0x1331ad/0x0b103f
 msgid "CREATE NEW GIFT"
-msgstr ""
+msgstr "创建新礼物"
 
 #: slot/0x00d9b1f3/0x1331ad/0x0be64e
 msgid "(NO ITEM SELECTED)"
-msgstr ""
+msgstr "（未选择道具）"
 
 #: slot/0x00d9b1f3/0x1331ad/0x12534a
 #, c-format
 msgid "PRESET ITEMS: %d"
-msgstr ""
+msgstr "预设道具%d"
 
 #: slot/0x00d9b1f3/0x1331ad/0x19f787
 #: slot/0x00d9b1f3/0x1331ad/0x2e4e44
 msgid "INBOX"
-msgstr ""
+msgstr "收件箱"
 
 #: slot/0x00d9b1f3/0x1331ad/0x1aa286
 msgid "(NO RECIPIENT SELECTED)"
-msgstr ""
+msgstr "（未选收件人）"
 
 #: slot/0x00d9b1f3/0x1331ad/0x1d1d59
 msgid "TODAY:$1"
@@ -1763,111 +1763,111 @@ msgstr ""
 
 #: slot/0x00d9b1f3/0x1331ad/0x1db87e
 msgid "Select a box to view."
-msgstr ""
+msgstr "选择要查看的箱子。"
 
 #: slot/0x00d9b1f3/0x1331ad/0x2268a4
 #: slot/0x00d9b1f3/0x1331ad/0xfed078
 msgid "MUSIC"
-msgstr ""
+msgstr "乐"
 
 #: slot/0x00d9b1f3/0x1331ad/0x22f48a
 msgid "Specify the date the reciepient recieves the box."
-msgstr ""
+msgstr "指定收件人收到箱子的日期。"
 
 #: slot/0x00d9b1f3/0x1331ad/0x2856c4
 msgid "Open boxes sent by other players."
-msgstr ""
+msgstr "打开其他玩家寄来的箱子。"
 
 #: slot/0x00d9b1f3/0x1331ad/0x37c59a
 msgid "DAY"
-msgstr ""
+msgstr "日期"
 
 #: slot/0x00d9b1f3/0x1331ad/0x4378d6
 msgid "Select a date within 1 year of today."
-msgstr ""
+msgstr "选今天起一年内日期。"
 
 #: slot/0x00d9b1f3/0x1331ad/0x486a84
 msgid "(NO MUSIC SELECTED)"
-msgstr ""
+msgstr "（未选音乐）"
 
 #: slot/0x00d9b1f3/0x1331ad/0x487dc3
 msgid "Outbox is full."
-msgstr ""
+msgstr "发件箱已满。"
 
 #: slot/0x00d9b1f3/0x1331ad/0x49b594
 msgid "Select the type of gift."
-msgstr ""
+msgstr "选择礼物类型。"
 
 #: slot/0x00d9b1f3/0x1331ad/0x4a70b1
 msgid "Items"
-msgstr ""
+msgstr "物"
 
 #: slot/0x00d9b1f3/0x1331ad/0x4c203e
 msgid ""
 "Package weapons and items in cardboard boxes\n"
 "and send them to other players."
-msgstr ""
+msgstr "将武器和物品装入纸箱\n寄给其他玩家。"
 
 #: slot/0x00d9b1f3/0x1331ad/0x5a4d58
 msgid "ADDRESS"
-msgstr ""
+msgstr "地址"
 
 #: slot/0x00d9b1f3/0x1331ad/0x5e5500
 msgid "Open this box."
-msgstr ""
+msgstr "打开此箱子。"
 
 #: slot/0x00d9b1f3/0x1331ad/0x5f6986
 msgid "The contents of this gift will be deleted. OK?"
-msgstr ""
+msgstr "此礼物的内容将被删除。确定？"
 
 #: slot/0x00d9b1f3/0x1331ad/0x602a16
 msgid "Are you sure you want to send the box with these contents?"
-msgstr ""
+msgstr "确定要寄出装有这些内容的箱子吗？"
 
 #: slot/0x00d9b1f3/0x1331ad/0x615b11
 msgid "Specify weapons and items to put in the box."
-msgstr ""
+msgstr "指定要放入箱子的武器和物品。"
 
 #: slot/0x00d9b1f3/0x1331ad/0x618acd
 #: slot/0x00d9b1f3/0x1331ad/0xae4815
 msgid "CONTENTS"
-msgstr ""
+msgstr "内容"
 
 #: slot/0x00d9b1f3/0x1331ad/0x639999
 msgid "Select a box to open."
-msgstr ""
+msgstr "选择要打开的箱子。"
 
 #: slot/0x00d9b1f3/0x1331ad/0x63ba35
 msgid "Send and receive weapons and items in cardboard boxes to other players."
-msgstr ""
+msgstr "用纸箱与其他玩家互寄武器和物品。"
 
 #: slot/0x00d9b1f3/0x1331ad/0x662028
 msgid "Send the box to the selected recipient."
-msgstr ""
+msgstr "将箱子寄给选定的收件人。"
 
 #: slot/0x00d9b1f3/0x1331ad/0x662038
 msgid "View a list of boxes sent previously."
-msgstr ""
+msgstr "查看之前寄出的箱子列表。"
 
 #: slot/0x00d9b1f3/0x1331ad/0x664fe4
 msgid "SEND"
-msgstr ""
+msgstr "寄"
 
 #: slot/0x00d9b1f3/0x1331ad/0x664ff4
 #: slot/0x00d9b1f3/0x1331ad/0x98510e
 msgid "OUTBOX"
-msgstr ""
+msgstr "发件箱"
 
 #: slot/0x00d9b1f3/0x1331ad/0x715774
 msgid ""
 "Ready to send. \n"
 "Added to Outbox."
-msgstr ""
+msgstr "可寄送。\n已入发件箱。"
 
 #: slot/0x00d9b1f3/0x1331ad/0x7c4d40
 msgid "Specify a recipient."
-msgstr ""
+msgstr "指定收件人。"
 
 #: slot/0x00d9b1f3/0x1331ad/0x8a2d2e
 msgid "$1 (FRI)"
-msgstr ""
+msgstr "$1(友)"

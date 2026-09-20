@@ -13,47 +13,47 @@ msgstr ""
 msgid ""
 "Select any Channel by using the up button or down button.\r\n"
 "Press <I=DEC> to recruit CO-OPS players."
-msgstr ""
+msgstr "用上下键选择频道。\r\n按<I=DEC>招募合作任务玩家。"
 
 #: slot/0x001df209/0xe6e4ed/0xab9bf2
 msgid "Displays all missions."
-msgstr ""
+msgstr "显示所有任务。"
 
 #: slot/0x001df209/0xe6e4ed/0xabe508
 msgid "Select a mission from the EXTRA OPS list."
-msgstr ""
+msgstr "从额外任务列表中选择任务。"
 
 #: slot/0x001df209/0xe6e4ed/0xb825f0
 msgid ""
 "The WLAN/WIRELESS switch has been turned OFF,\n"
 "resulting in the termination of communication.\n"
 "Returning to MISSION SELECTOR. "
-msgstr ""
+msgstr "WLAN/无线开关已关闭，\n通信已中断。\n返回任务选择。"
 
 #: slot/0x001df209/0xe6e4ed/0xb96848
 msgid "Confirm or change the control settings."
-msgstr ""
+msgstr "确认或更改操作设置。"
 
 #: slot/0x001df209/0xe6e4ed/0xc38a04
 #: slot/0x001df209/0xe6e4ed/0xf4c853
 msgid "STARTING RECRUITMENT..."
-msgstr ""
+msgstr "正在开始招募..."
 
 #: slot/0x001df209/0xe6e4ed/0xc464af
 msgid ""
 "Starting the mission.  \n"
 "Please wait..."
-msgstr ""
+msgstr "正在开始任务。  \n请稍候..."
 
 #: slot/0x001df209/0xe6e4ed/0xc4f310
 msgid "AREA SELECT: "
-msgstr ""
+msgstr "区域选择："
 
 #: slot/0x001df209/0xe6e4ed/0xc9a3e0
 msgid ""
 "For a SINGLE PLAYER game, select SINGLE.\n"
 "To recruit other players and play CO-OPS, select HOST."
-msgstr ""
+msgstr "单人游戏请选择单人。\n招募其他玩家进行合作任务请选择主机。"
 
 #: slot/0x001df209/0xe6e4ed/0xca66c7
 #: slot/0x005a5b84/0x9c12db/0x14bb3b
@@ -71,14 +71,14 @@ msgstr "否"
 
 #: slot/0x001df209/0xe6e4ed/0xcb251d
 msgid "MISSION INFO:  "
-msgstr ""
+msgstr "任务信息："
 
 #: slot/0x001df209/0xe6e4ed/0xce0403
 msgid ""
 "Recruitment of other players has started.\n"
 "Please inform hopeful participants of the correct Channel.\n"
 "If other players select this mission from the CO-OPS tab, this will be displayed in CO-OPS INFO at the bottom-right."
-msgstr ""
+msgstr "已开始招募其他玩家。\n请告知有意参加的玩家正确的频道。\n若其他玩家从合作任务标签选择此任务，将显示在右下角的合作任务信息中。"
 
 #: slot/0x001df209/0xe6e4ed/0xd53f61
 #: slot/0x005a5b84/0x9c12db/0x0e0ddc
@@ -89,27 +89,27 @@ msgstr ""
 #: slot/0x00d9af4c/0x1bed50/0x381576
 #: slot/0x00efed13/0x5f4143/0x916e3e
 msgid "CANCEL"
-msgstr ""
+msgstr "取消"
 
 #: slot/0x001df209/0xe6e4ed/0xd8e1ad
 msgid "Participation in CO-OPS has been denied."
-msgstr ""
+msgstr "参加合作任务已被拒绝。"
 
 #: slot/0x001df209/0xe6e4ed/0xe2ebfe
 msgid "MAIN OPS"
-msgstr ""
+msgstr "主线"
 
 #: slot/0x001df209/0xe6e4ed/0xea998c
 msgid "Change equipment and handle other preparations for participation.  CO-OPS participants will be displayed at the bottom-right of the screen.   Select START MISSION when ready."
-msgstr ""
+msgstr "更换装备并做好其他参加准备。合作任务参加者将显示在画面右下角。准备好后选择开始任务。"
 
 #: slot/0x001df209/0xe6e4ed/0xeadbbf
 msgid "Caribbean Coast, Costa Rica"
-msgstr ""
+msgstr "哥斯达黎加，加勒比海岸"
 
 #: slot/0x001df209/0xe6e4ed/0xeadbc0
 msgid "Eastern Limón, Costa Rica"
-msgstr ""
+msgstr "哥斯达黎加，利蒙东部"
 
 #: slot/0x001df209/0xe6e4ed/0xeef458
 msgid ""
@@ -117,41 +117,41 @@ msgid ""
 "\n"
 "Any missions in the selected channel that are currently recruiting players will be displayed in the CO-OPS tab.\n"
 "Select a mission from the CO-OPS tab to participate."
-msgstr ""
+msgstr "连接成功。\n\n所选频道中正在招募玩家的任务将显示在合作任务标签中。\n从合作任务标签选择任务参加。"
 
 #: slot/0x001df209/0xe6e4ed/0xf756da
 #: slot/0x0099cb1e/0xb1b785/0x29e0fc
 msgid "Barranquilla Coast, Colombia"
-msgstr ""
+msgstr "哥伦比亚，巴兰基亚海岸"
 
 #: slot/0x001df209/0xe6e4ed/0xf756dc
 msgid "Volcán Irazú, Costa Rica"
-msgstr ""
+msgstr "哥斯达黎加，伊拉苏火山"
 
 #: slot/0x001df209/0xe6e4ed/0xf756dd
 msgid "Central Heredia, Costa Rica"
-msgstr ""
+msgstr "哥斯达黎加，埃雷迪亚中部"
 
 #: slot/0x001df209/0xe6e4ed/0xf756de
 msgid "Mine Base, Costa Rica"
-msgstr ""
+msgstr "哥斯达黎加，矿井基地"
 
 #: slot/0x001df209/0xe6e4ed/0xf756df
 #: slot/0x0099cb1e/0xb1b7a3/0x29e0fc
 msgid "U.S. Missile Base, Nicaragua"
-msgstr ""
+msgstr "尼加拉瓜，美军导弹基地"
 
 #: slot/0x001df209/0xe6e4ed/0xf756e0
 msgid "Mother Base"
-msgstr ""
+msgstr "母基地"
 
 #: slot/0x001df209/0xe6e4ed/0xf82512
 msgid "SOLDIER SEARCH"
-msgstr ""
+msgstr "士兵搜索"
 
 #: slot/0x002088cc/0x2ba8a7/0x000000
 msgid "Right on time. Excellent."
-msgstr ""
+msgstr "真准时。很好。"
 
 #: slot/0x002088cc/0x2ba8a7/0x000001
 msgid ""
@@ -161,7 +161,7 @@ msgstr ""
 
 #: slot/0x002088cc/0x2ba8a7/0x000002
 msgid "I trust your dreams were pleasant...Big Boss?"
-msgstr ""
+msgstr "想必你做了个好梦……BIG BOSS？"
 
 #. comic cutscene
 #: slot/0x002088cc/0x2ba8a7/0x000003
@@ -171,19 +171,19 @@ msgstr ""
 #: slot/0x00dff0a5/0xa84a6a/0x000056
 #: slot/0x00dff0a5/0xa84a6a/0x000066
 msgid "What are you talking about?"
-msgstr ""
+msgstr "你在说什么？"
 
 #: slot/0x002088cc/0x2ba8a7/0x000004
 msgid "Please, drop the act. I know all about you, Boss."
-msgstr ""
+msgstr "别装了。我对你的事了如指掌，BOSS。"
 
 #: slot/0x002088cc/0x2ba8a7/0x000005
 msgid "Or would you prefer I called you... Naked Snake?"
-msgstr ""
+msgstr "还是说，你更希望我叫你……NAKED SNAKE？"
 
 #: slot/0x002088cc/0x2ba8a7/0x000006
 msgid "Sounds like you've got the right guy."
-msgstr ""
+msgstr "看来你找对人了。"
 
 #. comic cutscene
 #: slot/0x002088cc/0x2ba8a7/0x000007
@@ -191,49 +191,49 @@ msgstr ""
 #: slot/0x003afd0d/0xb27d78/0x000002
 #: slot/0x003afd2d/0x597e7d/0x000007
 msgid "Who are you?"
-msgstr ""
+msgstr "你是谁？"
 
 #: slot/0x002088cc/0x2ba8a7/0x000008
 msgid ""
 "My name is Lt. Cunningham.\n"
 "Until four weeks ago, I was with the CIA."
-msgstr ""
+msgstr "我叫坎宁安中尉。\n四周前，我还在中情局。"
 
 #: slot/0x002088cc/0x2ba8a7/0x000009
 msgid "Cunningham...? FOX Unit's interrogation specialist?"
-msgstr ""
+msgstr "坎宁安……？FOX部队的审讯专家？"
 
 #: slot/0x002088cc/0x2ba8a7/0x00000a
 msgid "Ah, so you have heard of me. I'm honored, Snake."
-msgstr ""
+msgstr "哦，你听说过我。荣幸之至，SNAKE。"
 
 #: slot/0x002088cc/0x2ba8a7/0x00000b
 msgid ""
 "And those guys who attacked me --\n"
 "they were FOX, too?"
-msgstr ""
+msgstr "那些袭击我的人——\n他们也是FOX的人吗？"
 
 #: slot/0x002088cc/0x2ba8a7/0x00000c
 msgid "Yeah... Although, we'll leave it at that, for now."
-msgstr ""
+msgstr "没错……不过，这事暂时就说到这。"
 
 #: slot/0x002088cc/0x2ba8a7/0x00000d
 msgid "What do you want from me? I'm retired from FOX."
-msgstr ""
+msgstr "你想从我这里得到什么？我已经从FOX退役了。"
 
 #: slot/0x002088cc/0x2ba8a7/0x00000e
 msgid ""
 "I'm guessing this isn't a social call or you\n"
 "wouldn't have brought the goons."
-msgstr ""
+msgstr "我猜这不是一次社交拜访，否则你\n不会带上那些打手。"
 
 #: slot/0x002088cc/0x2ba8a7/0x00000f
 msgid "Retired?"
-msgstr ""
+msgstr "退役？"
 
 #: slot/0x002088cc/0x2ba8a7/0x000010
 msgid "Yeah, I suppose you are, to the outside world."
-msgstr ""
+msgstr "是啊，对外界来说你确实退了。"
 
 #: slot/0x00218ea9/0xe24ed2/0x175039
 msgid "(TPS-L2)"
@@ -242,19 +242,19 @@ msgstr ""
 #: slot/0x00218ea9/0xe24ed2/0x5d396e
 #: slot/0x00d9b1f3/0x1331ad/0x1f3cf4
 msgid "PLAY"
-msgstr ""
+msgstr "播放"
 
 #: slot/0x00218ea9/0xe24ed2/0x99be67
 msgid "STOP"
-msgstr ""
+msgstr "停止"
 
 #: slot/0x00218ea9/0xe24ed2/0x9fb6d5
 msgid "PLAY LIST"
-msgstr ""
+msgstr "列表"
 
 #: slot/0x00218ea9/0xe24ed2/0xbfcd35
 msgid "SHUFFLE"
-msgstr ""
+msgstr "随机"
 
 #: slot/0x00218ea9/0xe24ed2/0xea0754
 msgid "(WM-2)"
@@ -270,19 +270,19 @@ msgstr ""
 
 #: slot/0x00218ea9/0xe24ed2/0xf324d0
 msgid "HOLD <I=○> BUTTON DOWN"
-msgstr ""
+msgstr "按住<I=○>键"
 
 #: slot/0x0022b9c8/0xc44774/0x094d7e
 msgid "An error has occurred.  The connection has failed."
-msgstr ""
+msgstr "发生错误。连接失败。"
 
 #: slot/0x0022b9c8/0xc44774/0x12c80f
 msgid "The search was canceled because the WLAN/WIRELESS switch was turned off."
-msgstr ""
+msgstr "搜索已取消，因为WLAN/无线开关已关闭。"
 
 #: slot/0x0022b9c8/0xc44774/0x191132
 msgid "The search was canceled because the system entered sleep mode."
-msgstr ""
+msgstr "搜索已取消，因为系统进入了休眠模式。"
 
 #: slot/0x0022b9c8/0xc44774/0x1c9eb3
 msgid ""
@@ -290,52 +290,52 @@ msgid ""
 "\n"
 "There do not appear to be any volunteers nearby.\n"
 "Please try again somewhere else."
-msgstr ""
+msgstr "无法定位接入点。\n\n附近似乎没有志愿者。\n请前往其他地方重试。"
 
 #: slot/0x0022b9c8/0xc44774/0x1e9b99
 msgid "Unable to join the host because the WLAN/WIRELESS switch has been turned off."
-msgstr ""
+msgstr "无法加入主机，因为WLAN/无线开关已关闭。"
 
 #: slot/0x0022b9c8/0xc44774/0x268f77
 msgid "A connection error has occurred."
-msgstr ""
+msgstr "发生连接错误。"
 
 #: slot/0x0022b9c8/0xc44774/0x29ae3f
 msgid "Unable to create host because of a connection error."
-msgstr ""
+msgstr "因连接错误，无法创建主机。"
 
 #: slot/0x0022b9c8/0xc44774/0x2c7fe9
 msgid "OFFLINE"
-msgstr ""
+msgstr "离线"
 
 #: slot/0x0022b9c8/0xc44774/0x33b9a9
 msgid "Weapons are required on this mission."
-msgstr ""
+msgstr "此任务必须携带武器。"
 
 #: slot/0x0022b9c8/0xc44774/0x3f0fd6
 msgid ""
 "This mission requires:\n"
 "$1."
-msgstr ""
+msgstr "此任务需要：\n$1。"
 
 #: slot/0x0022b9c8/0xc44774/0x44c1a6
 msgid "Snake is not available."
-msgstr ""
+msgstr "SNAKE不可用。"
 
 #: slot/0x0022b9c8/0xc44774/0x4538b3
 msgid ""
 "A uniform that cannot be used in battle has been selected\n"
 "\n"
 "$1"
-msgstr ""
+msgstr "已选择战斗中无法使用的制服\n\n$1"
 
 #: slot/0x0022b9c8/0xc44774/0x4b117c
 msgid "Unable to start connection because the system entered sleep mode."
-msgstr ""
+msgstr "因系统进入睡眠模式，无法开始连接。"
 
 #: slot/0x0022b9c8/0xc44774/0x578e75
 msgid "Unable to join the host because of a connection error."
-msgstr ""
+msgstr "因连接错误，无法加入主机。"
 
 #: slot/0x0022b9c8/0xc44774/0x5a6acf
 msgid ""
@@ -345,16 +345,16 @@ msgid ""
 "$2\n"
 "$3\n"
 "$4"
-msgstr ""
+msgstr "此任务无法使用以下装备：\n\n$1\n$2\n$3\n$4"
 
 #: slot/0x0022b9c8/0xc44774/0x5afad2
 msgid "Lethal weapons are required on this mission."
-msgstr ""
+msgstr "此任务必须携带致命武器。"
 
 #: slot/0x0022b9c8/0xc44774/0x61f444
 #: slot/0x0022b9c8/0xc44774/0xb45145
 msgid "The connection has been terminated because the WLAN/WIRELESS switch was turned off."
-msgstr ""
+msgstr "因WLAN/无线开关已关闭，连接已中断。"
 
 #: slot/0x0022b9c8/0xc44774/0x645811
 #: slot/0x0022b9c8/0xc44774/0x6d2c97
@@ -362,13 +362,13 @@ msgid ""
 "Connection failed.\n"
 "The WLAN/WIRELESS switch is not turned on.\n"
 "Please change the switch to the ON position and try again."
-msgstr ""
+msgstr "连接失败。\nWLAN/无线开关未开启。\n请将开关拨到ON后重试。"
 
 #: slot/0x0022b9c8/0xc44774/0x65a23d
 #: slot/0x0022b9c8/0xc44774/0x8e4e0b
 #: slot/0x0022b9c8/0xc44774/0xfe97db
 msgid "The connection was interrupted because the system entered sleep mode."
-msgstr ""
+msgstr "因系统进入睡眠模式，连接已中断。"
 
 #: slot/0x0022b9c8/0xc44774/0x693748
 msgid ""
@@ -380,7 +380,7 @@ msgid ""
 "$4\n"
 "\n"
 "To continue anyway, select OK."
-msgstr ""
+msgstr "此任务无法使用以下装备：\n\n$1\n$2\n$3\n$4\n\n仍要继续，请选择确定。"
 
 #: slot/0x0022b9c8/0xc44774/0x693868
 msgid ""
@@ -390,389 +390,389 @@ msgid ""
 "$2\n"
 "$3\n"
 "$4"
-msgstr ""
+msgstr "无法使用以下装备：\n\n$1\n$2\n$3\n$4"
 
 #: slot/0x0022b9c8/0xc44774/0x6ce686
 msgid "Snake is not available on this mission."
-msgstr ""
+msgstr "此任务中SNAKE不可用。"
 
 #: slot/0x0022b9c8/0xc44774/0x75d179
 msgid "No weapons / items can be equipped on this mission."
-msgstr ""
+msgstr "此任务无法装备任何武器/物品。"
 
 #: slot/0x0022b9c8/0xc44774/0x82c55f
 msgid "Other"
-msgstr ""
+msgstr "其他"
 
 #: slot/0x0022b9c8/0xc44774/0x938273
 msgid "Unable to join the host because the system entered sleep mode."
-msgstr ""
+msgstr "因系统进入睡眠模式，无法加入主机。"
 
 #: slot/0x0022b9c8/0xc44774/0xa45893
 msgid "ONLINE"
-msgstr ""
+msgstr "在线"
 
 #: slot/0x0022b9c8/0xc44774/0xa6d60e
 msgid "Snake is the only character available on this mission."
-msgstr ""
+msgstr "此任务仅可使用SNAKE。"
 
 #: slot/0x0022b9c8/0xc44774/0xc2a3dd
 msgid "The connection with the host was interrupted."
-msgstr ""
+msgstr "与主机的连接已中断。"
 
 #: slot/0x0022b9c8/0xc44774/0xd74d33
 msgid "The search was canceled because of a connection error."
-msgstr ""
+msgstr "因连接错误，搜索已取消。"
 
 #: slot/0x0022e834/0x5e83f2/0x000000
 msgid "(Quiet!)"
-msgstr ""
+msgstr "（安静！）"
 
 #: slot/0x002362b8/0x19f879/0x01fbc4
 msgid ""
 "Join a game created by another player. \n"
 "Select soldiers to deploy from staff assigned to the Combat Unit."
-msgstr ""
+msgstr "加入其他玩家创建的游戏。\n从战斗班成员中选择出击士兵。"
 
 #: slot/0x002362b8/0x19f879/0x043e43
 msgid "Set the time spent in the BRIEFING MENU before a battle."
-msgstr ""
+msgstr "设置战斗前在简报菜单中的等待时间。"
 
 #: slot/0x002362b8/0x19f879/0x07d590
 msgid "Deathmatch: Tickets"
-msgstr ""
+msgstr "死斗：票数"
 
 #: slot/0x002362b8/0x19f879/0x0a57d1
 msgid "Check detailed settings."
-msgstr ""
+msgstr "查看详细设置。"
 
 #: slot/0x002362b8/0x19f879/0x0d0e80
 #: slot/0x0068bf67/0x7c7faa/0x769f6b
 msgid "EDIT"
-msgstr ""
+msgstr "编辑"
 
 #: slot/0x002362b8/0x19f879/0x0d1046
 msgid "ENTER PASSWORD"
-msgstr ""
+msgstr "输入密码"
 
 #: slot/0x002362b8/0x19f879/0x0d345a
 msgid "VR MODE (Training Mode)"
-msgstr ""
+msgstr "VR模式(训练)"
 
 #: slot/0x002362b8/0x19f879/0x13ba80
 msgid "Join the game on the current host."
-msgstr ""
+msgstr "加入当前主机的游戏。"
 
 #: slot/0x002362b8/0x19f879/0x13c90e
 msgid "When disabled, players' attacks will not harm teammates."
-msgstr ""
+msgstr "禁用后，玩家攻击不会伤害队友。"
 
 #: slot/0x002362b8/0x19f879/0x146e0b
 msgid "Set the number of tickets for Team Deathmatches."
-msgstr ""
+msgstr "设置团队死斗的票数。"
 
 #: slot/0x002362b8/0x19f879/0x17d2d7
 msgid "Check versus rules and map settings."
-msgstr ""
+msgstr "查看对战规则与地图设置。"
 
 #: slot/0x002362b8/0x19f879/0x1b22e1
 msgid " min"
-msgstr ""
+msgstr "分"
 
 #: slot/0x002362b8/0x19f879/0x1c280f
 msgid "Set password."
-msgstr ""
+msgstr "设密码"
 
 #: slot/0x002362b8/0x19f879/0x1d6be9
 msgid "Set whether or not players can use Snake."
-msgstr ""
+msgstr "设置玩家是否可使用SNAKE。"
 
 #: slot/0x002362b8/0x19f879/0x1d749e
 msgid "Detailed Rule Settings: Set game rules."
-msgstr ""
+msgstr "详细规则：设游戏规则"
 
 #: slot/0x002362b8/0x19f879/0x1ecb74
 msgid "Team Kill Kick"
-msgstr ""
+msgstr "击杀队友踢出"
 
 #: slot/0x002362b8/0x19f879/0x1f0b39
 msgid "Select a host."
-msgstr ""
+msgstr "选主机"
 
 #: slot/0x002362b8/0x19f879/0x1f4227
 msgid "VERSUS OPS HELP"
-msgstr ""
+msgstr "对战帮助"
 
 #: slot/0x002362b8/0x19f879/0x2092d6
 msgid "TOP MENU"
-msgstr ""
+msgstr "主菜单"
 
 #: slot/0x002362b8/0x19f879/0x2291c7
 msgid "Press <I=DEC> to enable/disable the password."
-msgstr ""
+msgstr "按<I=DEC>启用/禁用密码。"
 
 #: slot/0x002362b8/0x19f879/0x265341
 msgid ""
 "This is a list of hosts that were found.\n"
 "Select the host you want to join."
-msgstr ""
+msgstr "这是找到的主机列表。\n选择你想加入的主机。"
 
 #: slot/0x002362b8/0x19f879/0x2a372a
 msgid "Set versus game rules and stages."
-msgstr ""
+msgstr "设置对战规则与关卡。"
 
 #: slot/0x002362b8/0x19f879/0x2d35d2
 msgid "Dedicated Host"
-msgstr ""
+msgstr "专用主机"
 
 #: slot/0x002362b8/0x19f879/0x2de59b
 msgid "Set the maximum number of simultaneous players."
-msgstr ""
+msgstr "设置同时游玩人数上限。"
 
 #: slot/0x002362b8/0x19f879/0x2e7af8
 msgid "Team Auto-Balancing"
-msgstr ""
+msgstr "队伍自动平衡"
 
 #: slot/0x002362b8/0x19f879/0x322e8c
 msgid "Set the round time for Base Missions."
-msgstr ""
+msgstr "设置基地任务回合时间。"
 
 #: slot/0x002362b8/0x19f879/0x327810
 #: slot/0x002362b8/0x19f879/0x494630
 msgid "ST."
-msgstr ""
+msgstr "ST."
 
 #: slot/0x002362b8/0x19f879/0x338df7
 msgid "99 min"
-msgstr ""
+msgstr "99分"
 
 #: slot/0x002362b8/0x19f879/0x34a358
 #: slot/0x002362b8/0x19f879/0x3d36db
 msgid "STAGE SETTINGS"
-msgstr ""
+msgstr "场地设置"
 
 #: slot/0x002362b8/0x19f879/0x357f4a
 msgid "WEAPON RESTRICTION SETTINGS"
-msgstr ""
+msgstr "武器限制设置"
 
 #: slot/0x002362b8/0x19f879/0x397af1
 msgid "Set the number of rounds for Base Missions."
-msgstr ""
+msgstr "设置基地任务回合数。"
 
 #: slot/0x002362b8/0x19f879/0x3a4e9a
 msgid "Snake Availability"
-msgstr ""
+msgstr "SNAKE可用性"
 
 #: slot/0x002362b8/0x19f879/0x3a9955
 msgid "CHECK RULE OPTIONS"
-msgstr ""
+msgstr "查看规则选项"
 
 #: slot/0x002362b8/0x19f879/0x3a9bd5
 msgid "DETAILED RULE SETTINGS"
-msgstr ""
+msgstr "详细规则设置"
 
 #: slot/0x002362b8/0x19f879/0x3b7023
 msgid "DEATHMATCH SETTINGS"
-msgstr ""
+msgstr "死斗设置"
 
 #: slot/0x002362b8/0x19f879/0x3fb3c6
 msgid "Max Players"
-msgstr ""
+msgstr "人数"
 
 #: slot/0x002362b8/0x19f879/0x405ece
 msgid ""
 "When enabled, teams are assigned automatically.\n"
 "When disabled, teams can be selected manually."
-msgstr ""
+msgstr "启用时自动分配队伍。\n禁用时可手动选择队伍。"
 
 #: slot/0x002362b8/0x19f879/0x435e66
 #: slot/0x002362b8/0x19f879/0x6ad4f0
 msgid "DETAILED SETTINGS"
-msgstr ""
+msgstr "详细设置"
 
 #: slot/0x002362b8/0x19f879/0x44a731
 #: slot/0x0083b291/0x77a106/0xc2385b
 #: slot/0x0083b291/0xff8cbc/0x35225b
 msgid "MAP"
-msgstr ""
+msgstr "地图"
 
 #: slot/0x002362b8/0x19f879/0x45ed15
 msgid "Connecting..."
-msgstr ""
+msgstr "连接中..."
 
 #: slot/0x002362b8/0x19f879/0x466bf1
 msgid "1 min"
-msgstr ""
+msgstr "1分"
 
 #: slot/0x002362b8/0x19f879/0x467b73
 msgid ""
 "Use the up/down buttons to select a channel.\n"
 "Press <I=DEC> button to start searching for a host."
-msgstr ""
+msgstr "用上下键选择频道。\n按<I=DEC>键开始搜索主机。"
 
 #: slot/0x002362b8/0x19f879/0x46ebf1
 msgid "2 min"
-msgstr ""
+msgstr "2分"
 
 #: slot/0x002362b8/0x19f879/0x476bf1
 msgid "3 min"
-msgstr ""
+msgstr "3分"
 
 #: slot/0x002362b8/0x19f879/0x478c77
 msgid "Set the number of rounds for Capture Missions."
-msgstr ""
+msgstr "设置捕获任务回合数。"
 
 #: slot/0x002362b8/0x19f879/0x486bf1
 msgid "5 min"
-msgstr ""
+msgstr "5分"
 
 #: slot/0x002362b8/0x19f879/0x4b5317
 #: slot/0x00b96275/0x947b26/0xb577cd
 #: slot/0x00d9b1f3/0x1331ad/0xb577cd
 msgid "DELETE"
-msgstr ""
+msgstr "删除"
 
 #: slot/0x002362b8/0x19f879/0x4cf5de
 msgid "Available"
-msgstr ""
+msgstr "可用"
 
 #: slot/0x002362b8/0x19f879/0x4cfc89
 msgid "Set the number of rounds for Deathmatches."
-msgstr ""
+msgstr "设置死斗模式的回合数。"
 
 #: slot/0x002362b8/0x19f879/0x4e336d
 msgid "Team Deathmatch: Tickets"
-msgstr ""
+msgstr "团队死斗：票数"
 
 #: slot/0x002362b8/0x19f879/0x4f59ce
 msgid "Check detailed game settings."
-msgstr ""
+msgstr "查看详细游戏设置。"
 
 #: slot/0x002362b8/0x19f879/0x55cae2
 msgid "Base Mission: Round Time"
-msgstr ""
+msgstr "基地任务：回合"
 
 #: slot/0x002362b8/0x19f879/0x563b59
 msgid "Start a game with the current settings."
-msgstr ""
+msgstr "以当前设置开始游戏。"
 
 #: slot/0x002362b8/0x19f879/0x564258
 msgid "Delete this stage."
-msgstr ""
+msgstr "删除此关卡。"
 
 #: slot/0x002362b8/0x19f879/0x577a88
 msgid "Unable to join.  Host channel is currently full."
-msgstr ""
+msgstr "无法加入。主机频道已满。"
 
 #: slot/0x002362b8/0x19f879/0x584af7
 msgid "SELECT HOST"
-msgstr ""
+msgstr "SELECT 主机"
 
 #: slot/0x002362b8/0x19f879/0x5a5a9b
 msgid "Check settings for the stage."
-msgstr ""
+msgstr "查看关卡设置。"
 
 #: slot/0x002362b8/0x19f879/0x5d155e
 msgid "Capture Mission: Rounds"
-msgstr ""
+msgstr "夺取任务：回合"
 
 #: slot/0x002362b8/0x19f879/0x5d49f4
 msgid "HOST NAME"
-msgstr ""
+msgstr "主机名称"
 
 #: slot/0x002362b8/0x19f879/0x5e057c
 msgid "SELECT HOST CHANNEL"
-msgstr ""
+msgstr "SELECT 主机频道"
 
 #: slot/0x002362b8/0x19f879/0x6035de
 msgid "Start search."
-msgstr ""
+msgstr "开始搜索"
 
 #: slot/0x002362b8/0x19f879/0x61aa94
 #: slot/0x0083b291/0xff8cbc/0x6da6dd
 #: slot/0x0083b291/0xff8cbc/0xa71b2b
 msgid "RULES"
-msgstr ""
+msgstr "规则"
 
 #: slot/0x002362b8/0x19f879/0x61f1c3
 msgid "CHECK RULES / MAP LIST"
-msgstr ""
+msgstr "规则／地图列表"
 
 #: slot/0x002362b8/0x19f879/0x620320
 #: slot/0x002362b8/0x19f879/0x7612df
 #: slot/0x002362b8/0x19f879/0xb86086
 msgid "SET PASSWORD"
-msgstr ""
+msgstr "设置密码"
 
 #: slot/0x002362b8/0x19f879/0x6455c3
 msgid "MODE"
-msgstr ""
+msgstr "模式"
 
 #: slot/0x002362b8/0x19f879/0x6458a2
 msgid "Change character selection/equipment."
-msgstr ""
+msgstr "更换角色选择／装备。"
 
 #: slot/0x002362b8/0x19f879/0x65c7f8
 msgid "Unavailable"
-msgstr ""
+msgstr "不可用"
 
 #: slot/0x002362b8/0x19f879/0x666f79
 msgid "Friendly Fire"
-msgstr ""
+msgstr "友军伤害"
 
 #: slot/0x002362b8/0x19f879/0x668dca
 msgid ""
 "Create and host and a new versus game.\n"
 "Select soldiers to deploy from staff assigned to the Combat Unit."
-msgstr ""
+msgstr "创建并主持新的对战游戏。\n从战斗班成员中选择出击士兵。"
 
 #: slot/0x002362b8/0x19f879/0x66b19b
 msgid "Versus Options Check Menu"
-msgstr ""
+msgstr "对战选项查看菜单"
 
 #: slot/0x002362b8/0x19f879/0x68291f
 msgid "Assault Rifles"
-msgstr ""
+msgstr "突击步枪"
 
 #: slot/0x002362b8/0x19f879/0x683f39
 msgid "Grenade Launchers"
-msgstr ""
+msgstr "榴弹发射器"
 
 #: slot/0x002362b8/0x19f879/0x68439b
 msgid "Handguns"
-msgstr ""
+msgstr "手枪"
 
 #: slot/0x002362b8/0x19f879/0x685714
 msgid "Machine Guns"
-msgstr ""
+msgstr "机枪"
 
 #: slot/0x002362b8/0x19f879/0x685919
 msgid "Missile Launchers"
-msgstr ""
+msgstr "导弹发射器"
 
 #: slot/0x002362b8/0x19f879/0x687031
 msgid "Shields"
-msgstr ""
+msgstr "盾牌"
 
 #: slot/0x002362b8/0x19f879/0x687054
 msgid "Submachine Guns"
-msgstr ""
+msgstr "冲锋枪"
 
 #: slot/0x002362b8/0x19f879/0x68707f
 msgid "Sniper Rifles"
-msgstr ""
+msgstr "狙击步枪"
 
 #: slot/0x002362b8/0x19f879/0x687134
 msgid "Shotguns"
-msgstr ""
+msgstr "霰弹"
 
 #: slot/0x002362b8/0x19f879/0x6873bf
 msgid "Throwing Weapons"
-msgstr ""
+msgstr "投掷武器"
 
 #: slot/0x002362b8/0x19f879/0x6874fd
 msgid "Placeable Weapons"
-msgstr ""
+msgstr "设置型武器"
 
 #: slot/0x002362b8/0x19f879/0x689f83
 msgid "10"
@@ -812,39 +812,39 @@ msgstr ""
 
 #: slot/0x002362b8/0x19f879/0x69714b
 msgid "Check stage settings, rules, and map"
-msgstr ""
+msgstr "查看关卡设置、规则和地图"
 
 #: slot/0x002362b8/0x19f879/0x6dff37
 msgid "CAPTURE TARGET SETTINGS"
-msgstr ""
+msgstr "占领目标设置"
 
 #: slot/0x002362b8/0x19f879/0x6e4394
 msgid "TEAM DEATHMATCH SETTINGS"
-msgstr ""
+msgstr "团队死斗设置"
 
 #: slot/0x002362b8/0x19f879/0x6ef38f
 msgid "CREATE RULES / MAP LIST"
-msgstr ""
+msgstr "创建规则/地图"
 
 #: slot/0x002362b8/0x19f879/0x6f3ccf
 msgid "Set the possession time for Capture Missions."
-msgstr ""
+msgstr "设置占领任务的占领时间。"
 
 #: slot/0x002362b8/0x19f879/0x731a0e
 msgid "Enter the password"
-msgstr ""
+msgstr "输入密码"
 
 #: slot/0x002362b8/0x19f879/0x742267
 msgid "START GAME"
-msgstr ""
+msgstr "开始"
 
 #: slot/0x002362b8/0x19f879/0x75954d
 msgid "SELECT CHANNEL TO SEARCH"
-msgstr ""
+msgstr "选择要搜索的频道"
 
 #: slot/0x002362b8/0x19f879/0x7f3e3e
 msgid "Set a password to join your game."
-msgstr ""
+msgstr "设置加入游戏的密码。"
 
 #: slot/0x002362b8/0x19f879/0x827550
 msgid ""
@@ -854,39 +854,39 @@ msgstr ""
 
 #: slot/0x002362b8/0x19f879/0x8454e2
 msgid "The password is incorrect."
-msgstr ""
+msgstr "密码错误。"
 
 #: slot/0x002362b8/0x19f879/0x84bf02
 msgid "<Add Stage>"
-msgstr ""
+msgstr "<添加关卡>"
 
 #: slot/0x002362b8/0x19f879/0x84c5b6
 msgid "Capture Mission: Possession Time"
-msgstr ""
+msgstr "占领任务：占领时间"
 
 #: slot/0x002362b8/0x19f879/0x85a8d0
 msgid "Deathmatch: Rounds"
-msgstr ""
+msgstr "死斗：回合数"
 
 #: slot/0x002362b8/0x19f879/0x85d65f
 msgid "HOST MENU"
-msgstr ""
+msgstr "主机"
 
 #: slot/0x002362b8/0x19f879/0x892148
 msgid "Select a character and change equipment."
-msgstr ""
+msgstr "选择角色并更换装备。"
 
 #: slot/0x002362b8/0x19f879/0x8b3ec0
 msgid "GENERAL SETTINGS"
-msgstr ""
+msgstr "通用设置"
 
 #: slot/0x002362b8/0x19f879/0x8ce2c9
 msgid "When disabled, headshots are treated as normal damage."
-msgstr ""
+msgstr "关闭时，爆头视为普通伤害。"
 
 #: slot/0x002362b8/0x19f879/0x8f02b6
 msgid "Briefing Time"
-msgstr ""
+msgstr "简报时间"
 
 #: slot/0x002362b8/0x19f879/0x8f3a58
 msgid ""
@@ -931,23 +931,23 @@ msgid ""
 " - If you want to get back into the action quickly and\n"
 "    can't wait for a teammate to revive you, tap the\n"
 "    Action Button repeatedly to shorten the time."
-msgstr ""
+msgstr "VERSUS OPS是竞争性游戏模式，最多允许\n6名玩家互相战斗。\n\n有4种游戏类型（规则）可用：\n\n 死亡竞赛\n 团队死亡竞赛\n 占领任务\n 基地任务\n\n--------\n\n请注意，VERSUS OPS的游玩方式可能在\n以下方面与MAIN OPS不同：\n\n - 武器和装备的威力与效果可能不同。\n - CO-OP Ring的半径与效果可能不同。\n - Camaraderie和Heroism效果可能不同。\n - 某些员工技能可能无效。\n - 某些武器可能被禁用。\n - 某些类型的装备可能被禁用。\n - CO-OPS COMM.效果可能不同。\n - LIFE和PSYCHE不会恢复，\n    即使你原地不动。\n\n--------\n\nCPR\n\n与其他OPS一样，VERSUS OPS允许你使用\nCPR来复活濒死的队友，但\n有一些重要区别，\n如下所示：\n\n - 复活所需的胸外按压\n    次数不同。\n - 如果队友未在\n    10秒内被复活，就会死亡。\n - 如果你想快速重返战斗，\n    无法等待队友复活你，请反复点击\n    动作按钮来缩短时间。"
 
 #: slot/0x002362b8/0x19f879/0x9188c1
 msgid "Select a map to play in this stage."
-msgstr ""
+msgstr "选择本阶段使用的地图。"
 
 #: slot/0x002362b8/0x19f879/0x92ac58
 msgid "Challenge nearby players to a VS match using an Ad Hoc connection.  2 teams of up to 3 players are allowed."
-msgstr ""
+msgstr "通过Ad Hoc连接向附近玩家发起对战。最多2队，每队3人。"
 
 #: slot/0x002362b8/0x19f879/0x95b119
 msgid "EDIT MENU:"
-msgstr ""
+msgstr "编辑菜单："
 
 #: slot/0x002362b8/0x19f879/0x98ed16
 msgid "When enabled, players that are idle for 10 minutes will be kicked."
-msgstr ""
+msgstr "开启后，闲置10分钟的玩家将被踢出。"
 
 #: slot/0x002362b8/0x19f879/0x9b44fa
 #: slot/0x00eeea4a/0x3d5436/0xdc6a24
@@ -996,53 +996,53 @@ msgstr ""
 
 #: slot/0x002362b8/0x19f879/0x9cede3
 msgid "Joining game... "
-msgstr ""
+msgstr "加入中..."
 
 #: slot/0x002362b8/0x19f879/0x9ebc3f
 msgid "Enable"
-msgstr ""
+msgstr "开启"
 
 #: slot/0x002362b8/0x19f879/0xa179df
 msgid "Quit and return to Mother Base?"
-msgstr ""
+msgstr "退出并返回母基地？"
 
 #: slot/0x002362b8/0x19f879/0xa2618e
 msgid "Set round time for Deathmatches."
-msgstr ""
+msgstr "设置死斗回合时间。"
 
 #: slot/0x002362b8/0x19f879/0xa34ae0
 msgid "Select a channel"
-msgstr ""
+msgstr "选择频道"
 
 #: slot/0x002362b8/0x19f879/0xa4ea91
 msgid "Channel selection:"
-msgstr ""
+msgstr "频道选择："
 
 #: slot/0x002362b8/0x19f879/0xa5788e
 msgid "CLIENT MENU"
-msgstr ""
+msgstr "客户端菜单"
 
 #: slot/0x002362b8/0x19f879/0xa57bdd
 msgid ""
 "Use the up/down buttons to select a channel.\n"
 "Press <I=DEC> to start hosting."
-msgstr ""
+msgstr "用上下键选择频道。\n按<I=DEC>开始创建房间。"
 
 #: slot/0x002362b8/0x19f879/0xa57c30
 msgid "Capture Mission: Round Time"
-msgstr ""
+msgstr "夺取任务：回合时间"
 
 #: slot/0x002362b8/0x19f879/0xa68da4
 msgid "Team Deathmatch: Round Time"
-msgstr ""
+msgstr "团队死斗:回合时间"
 
 #: slot/0x002362b8/0x19f879/0xa69f8f
 msgid "GAME MODE"
-msgstr ""
+msgstr "游戏模式"
 
 #: slot/0x002362b8/0x19f879/0xaf0df6
 msgid "10 min"
-msgstr ""
+msgstr "10分"
 
 #: slot/0x002362b8/0x19f879/0xb4bef7
 #: slot/0x0074a6ca/0xcc177c/0x609ff4
@@ -1051,465 +1051,465 @@ msgstr ""
 #: slot/0x0097f0b2/0xcd1d58/0x714d48
 #: slot/0x00d9af4c/0x1bed50/0x251dd0
 msgid "HELP"
-msgstr ""
+msgstr "帮助"
 
 #: slot/0x002362b8/0x19f879/0xb7a88d
 msgid "Change Password"
-msgstr ""
+msgstr "更改密码"
 
 #: slot/0x002362b8/0x19f879/0xb7ea75
 msgid "Deathmatch: Round Time"
-msgstr ""
+msgstr "死斗:回合时间"
 
 #: slot/0x002362b8/0x19f879/0xbb8801
 msgid "VR"
-msgstr ""
+msgstr "VR"
 
 #: slot/0x002362b8/0x19f879/0xbf6792
 msgid "CONTROL BASE SETTINGS "
-msgstr ""
+msgstr "控制基地设置"
 
 #: slot/0x002362b8/0x19f879/0xc297b4
 msgid "Press <I=DEC> to change the password using an onscreen keyboard."
-msgstr ""
+msgstr "按<I=DEC>用屏幕键盘更改密码。"
 
 #: slot/0x002362b8/0x19f879/0xc48fb1
 msgid "Important information on versus battles."
-msgstr ""
+msgstr "对战重要信息。"
 
 #: slot/0x002362b8/0x19f879/0xc7fb79
 msgid "Password: Disabled"
-msgstr ""
+msgstr "密码：禁用"
 
 #: slot/0x002362b8/0x19f879/0xc906ad
 msgid "HOST a new VS game.  Select soldiers to deploy from staff assigned to the Combat Unit."
-msgstr ""
+msgstr "创建新对战场。从战斗班成员中选人出战。"
 
 #: slot/0x002362b8/0x19f879/0xc92b14
 msgid "Check rule settings"
-msgstr ""
+msgstr "查看规则设置"
 
 #: slot/0x002362b8/0x19f879/0xca63aa
 msgid "VR (Training Mode)"
-msgstr ""
+msgstr "VR(训练模式)"
 
 #: slot/0x002362b8/0x19f879/0xcb3e60
 msgid "Attack or defend the bases on the map."
-msgstr ""
+msgstr "攻击或防守地图上的基地。"
 
 #: slot/0x002362b8/0x19f879/0xcbc65d
 msgid "Stage Settings Menu: Edit rules and maps."
-msgstr ""
+msgstr "关卡设置：编辑规则与地图。"
 
 #: slot/0x002362b8/0x19f879/0xcbd2fb
 msgid "Set whether or not assault rifles can be used."
-msgstr ""
+msgstr "设置是否允许使用突击步枪。"
 
 #: slot/0x002362b8/0x19f879/0xcbe915
 msgid "Set whether or not grenade launchers can be used."
-msgstr ""
+msgstr "设置是否允许使用榴弹发射器。"
 
 #: slot/0x002362b8/0x19f879/0xcbed77
 msgid "Set whether or not handguns can be used."
-msgstr ""
+msgstr "设置是否允许使用手枪。"
 
 #: slot/0x002362b8/0x19f879/0xcc00f0
 msgid "Set whether or not machine guns can be used."
-msgstr ""
+msgstr "设置是否允许使用机枪。"
 
 #: slot/0x002362b8/0x19f879/0xcc02f5
 msgid "Set whether or not missile launchers can be used."
-msgstr ""
+msgstr "设置是否允许使用导弹发射器。"
 
 #: slot/0x002362b8/0x19f879/0xcc1a0d
 msgid "Set whether or not shields can be used."
-msgstr ""
+msgstr "设置是否允许使用盾牌。"
 
 #: slot/0x002362b8/0x19f879/0xcc1a30
 msgid "Set whether or not submachine guns can be used."
-msgstr ""
+msgstr "设置是否允许使用冲锋枪。"
 
 #: slot/0x002362b8/0x19f879/0xcc1a5b
 msgid "Set whether or not sniper rifles can be used."
-msgstr ""
+msgstr "设置是否允许使用狙击步枪。"
 
 #: slot/0x002362b8/0x19f879/0xcc1b10
 msgid "Set whether or not shotguns can be used."
-msgstr ""
+msgstr "设置是否允许使用霰弹枪。"
 
 #: slot/0x002362b8/0x19f879/0xcc1d9b
 msgid "Set whether or not throwing weapons can be used."
-msgstr ""
+msgstr "设置是否允许使用投掷武器。"
 
 #: slot/0x002362b8/0x19f879/0xcc1ed9
 msgid "Set whether or not placeable weapons can be used."
-msgstr ""
+msgstr "设置是否允许使用放置型武器。"
 
 #: slot/0x002362b8/0x19f879/0xcf0df6
 msgid "30 min"
-msgstr ""
+msgstr "30分"
 
 #: slot/0x002362b8/0x19f879/0xd41ca2
 msgid "Change password settings for versus games."
-msgstr ""
+msgstr "更改对战的密码设置。"
 
 #: slot/0x002362b8/0x19f879/0xd4a760
 msgid ""
 "Select \"YES\" if you will not be playing and want to\n"
 "be a dedicated server for other players."
-msgstr ""
+msgstr "若不参战、只想为其他玩家做专用主机，\n请选“是”。"
 
 #: slot/0x002362b8/0x19f879/0xd7ccaf
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 #: slot/0x002362b8/0x19f879/0xdd513b
 msgid "Edit the settings for this stage."
-msgstr ""
+msgstr "编辑此关卡的设置。"
 
 #: slot/0x002362b8/0x19f879/0xde5ded
 msgid "Capture the quetzal."
-msgstr ""
+msgstr "捕获凤尾绿咬鹃。"
 
 #: slot/0x002362b8/0x19f879/0xdea24a
 msgid "Team battle between the red team and the blue team."
-msgstr ""
+msgstr "红队与蓝队的团队战。"
 
 #: slot/0x002362b8/0x19f879/0xded2f0
 msgid "INSERT"
-msgstr ""
+msgstr "插入"
 
 #: slot/0x002362b8/0x19f879/0xdedb69
 msgid ""
 "Set stage.\n"
 "Select <Add Stage> to add a stage."
-msgstr ""
+msgstr "设置关卡。\n选择<添加关卡>来添加关卡。"
 
 #: slot/0x002362b8/0x19f879/0xe0a617
 msgid "Set detailed game settings."
-msgstr ""
+msgstr "设置详细的游戏设定。"
 
 #: slot/0x002362b8/0x19f879/0xe372ea
 msgid "Start the game."
-msgstr ""
+msgstr "开始游戏。"
 
 #: slot/0x002362b8/0x19f879/0xe5713a
 #: slot/0x007b474a/0xbf29c8/0x061918
 msgid "Headshots"
-msgstr ""
+msgstr "爆头"
 
 #: slot/0x002362b8/0x19f879/0xe79502
 msgid "Set the number of rounds for team Deathmatches."
-msgstr ""
+msgstr "设置团队死斗的回合数。"
 
 #: slot/0x002362b8/0x19f879/0xe9c231
 msgid "Insert a new stage at this point."
-msgstr ""
+msgstr "在此处插入新关卡。"
 
 #: slot/0x002362b8/0x19f879/0xea0ca4
 msgid "Set a password that is at least $1 characters long."
-msgstr ""
+msgstr "设置至少$1个字符的密码。"
 
 #: slot/0x002362b8/0x19f879/0xea97d3
 msgid "Base Mission: Rounds"
-msgstr ""
+msgstr "基地任务：回合数"
 
 #: slot/0x002362b8/0x19f879/0xed4513
 msgid "Password: Enabled"
-msgstr ""
+msgstr "密码：启用"
 
 #: slot/0x002362b8/0x19f879/0xee3baa
 msgid ""
 "VERSUS OPS\n"
-msgstr ""
+msgstr "对战任务\n"
 
 #: slot/0x002362b8/0x19f879/0xeef318
 msgid "Free-for-all battle with no teams."
-msgstr ""
+msgstr "无队伍的混战。"
 
 #: slot/0x002362b8/0x19f879/0xf17540
 msgid "HOST GAME"
-msgstr ""
+msgstr "创建游戏"
 
 #: slot/0x002362b8/0x19f879/0xf17b87
 msgid "Idle Kick"
-msgstr ""
+msgstr "挂机踢出"
 
 #: slot/0x002362b8/0x19f879/0xf45f4d
 msgid "Set the round time for Capture Missions."
-msgstr ""
+msgstr "设置夺取任务的回合时间。"
 
 #: slot/0x002362b8/0x19f879/0xf570c1
 msgid "Set the round time for Team Deathmatches."
-msgstr ""
+msgstr "设置团队死斗的回合时间。"
 
 #: slot/0x002362b8/0x19f879/0xf60764
 msgid "Set the number of tickets for Deathmatches."
-msgstr ""
+msgstr "设置死斗的票数。"
 
 #: slot/0x002362b8/0x19f879/0xf6e0ef
 msgid "Disable"
-msgstr ""
+msgstr "禁用"
 
 #: slot/0x002362b8/0x19f879/0xf70e0a
 msgid "JOIN GAME"
-msgstr ""
+msgstr "加入游戏"
 
 #: slot/0x002362b8/0x19f879/0xfd1de9
 msgid "Team Deathmatch: Rounds"
-msgstr ""
+msgstr "团队死斗：回合"
 
 #: slot/0x0024c900/0x6c8948/0x0a0b3b
 msgid "Searching hosts..."
-msgstr ""
+msgstr "搜索主机..."
 
 #: slot/0x0024c900/0x6c8948/0x194fb7
 msgid "Connection with trading partner was lost."
-msgstr ""
+msgstr "与交易对象的连接已断开。"
 
 #: slot/0x0024c900/0x6c8948/0x1acb4f
 msgid "USERNAME"
-msgstr ""
+msgstr "用户名"
 
 #: slot/0x0024c900/0x6c8948/0x20450b
 msgid ""
 "No staff in the Trade Waiting Room.\n"
 "Returning to Mother Base."
-msgstr ""
+msgstr "交易待命室中没有士兵。\n返回母基地。"
 
 #: slot/0x0024c900/0x6c8948/0x2c3126
 msgid "Trade staff with this player. "
-msgstr ""
+msgstr "与该玩家交易士兵。"
 
 #: slot/0x0024c900/0x6c8948/0x36e94e
 msgid ""
 "The WLAN/WIRELESS switch is not turned on.\n"
 "Turn it on and select OK.\n"
 "Select Cancel to return to Mother Base."
-msgstr ""
+msgstr "WLAN/WIRELESS 开关未打开。\n请打开后选择 OK。\n选择取消返回母基地。"
 
 #: slot/0x0024c900/0x6c8948/0x375974
 msgid "Are you sure you want to trade staff with this player?"
-msgstr ""
+msgstr "确定要与该玩家交换士兵吗？"
 
 #: slot/0x0024c900/0x6c8948/0x41dad4
 msgid "The WLAN/WIRELESS switch is not turned on."
-msgstr ""
+msgstr "WLAN/WIRELESS 开关未打开。"
 
 #: slot/0x0024c900/0x6c8948/0x54cef4
 #: slot/0x0024c900/0xb767d9/0x597586
 msgid "Are you sure you want to return to the TRADE menu?"
-msgstr ""
+msgstr "确定要返回 TRADE 菜单吗？"
 
 #: slot/0x0024c900/0x6c8948/0x5f03f5
 msgid "TRADE LOBBY"
-msgstr ""
+msgstr "TRADE LOBBY"
 
 #: slot/0x0024c900/0x6c8948/0x7183c7
 msgid "Search existing hosts."
-msgstr ""
+msgstr "搜索现有主机。"
 
 #: slot/0x0024c900/0x6c8948/0x85c256
 #: slot/0x0024c900/0x6c8948/0xf2450a
 msgid "Select a channel."
-msgstr ""
+msgstr "选择频道。"
 
 #: slot/0x0024c900/0x6c8948/0x92ca64
 msgid "Are you sure you want to return to Mother Base?"
-msgstr ""
+msgstr "确定要返回母基地吗？"
 
 #: slot/0x0024c900/0x6c8948/0x9b5f15
 msgid "Requesting connection to host..."
-msgstr ""
+msgstr "正在请求连接主机..."
 
 #: slot/0x0024c900/0x6c8948/0xbb77b0
 msgid "Serve as host and trade staff."
-msgstr ""
+msgstr "作为主机交换士兵。"
 
 #: slot/0x0024c900/0x6c8948/0xcb9fd5
 msgid "Connection with host was lost."
-msgstr ""
+msgstr "与主机的连接已断开。"
 
 #: slot/0x0024c900/0x6c8948/0xd71eb4
 msgid "Select a player to trade with. You can change channels in HOST SEARCH."
-msgstr ""
+msgstr "选择要交换的玩家。可在 HOST SEARCH 中切换频道。"
 
 #: slot/0x0024c900/0x6c8948/0xdec424
 msgid "  HOST SEARCH"
-msgstr ""
+msgstr "HOST SEARCH"
 
 #: slot/0x0024c900/0x6c8948/0xe03d5f
 msgid "CREATE HOST"
-msgstr ""
+msgstr "CREATE HOST"
 
 #: slot/0x0024c900/0x6c8948/0xef1b6e
 msgid ""
 "The system entered sleep mode.\n"
 "Returning to TRADE menu."
-msgstr ""
+msgstr "系统已进入休眠模式。\n返回 TRADE 菜单。"
 
 #: slot/0x0024c900/0xb767d9/0x10a2d6
 msgid "Staff to Receive"
-msgstr ""
+msgstr "接收的士兵"
 
 #: slot/0x0024c900/0xb767d9/0x16bbbe
 msgid "Trade complete."
-msgstr ""
+msgstr "交换完成。"
 
 #: slot/0x0024c900/0xb767d9/0x208043
 msgid "This is the final confirmation screen. Review the conditions of the trade and press <I=DEC> to confirm."
-msgstr ""
+msgstr "这是最终确认画面。请确认交换条件后按 <I=DEC> 确定。"
 
 #: slot/0x0024c900/0xb767d9/0x2b08d5
 msgid "Host has ended the trade. Returning to the LOBBY menu."
-msgstr ""
+msgstr "主机已结束交换。返回 LOBBY 菜单。"
 
 #: slot/0x0024c900/0xb767d9/0x319f91
 msgid "Now trading..."
-msgstr ""
+msgstr "交换中..."
 
 #: slot/0x0024c900/0xb767d9/0x3d49ca
 msgid "（不要）Your List"
-msgstr ""
+msgstr "你的列表"
 
 #: slot/0x0024c900/0xb767d9/0x3d49d0
 msgid "（不要）Partner's List"
-msgstr ""
+msgstr "对方的列表"
 
 #: slot/0x0024c900/0xb767d9/0x4b1615
 msgid "Preparing to trade..."
-msgstr ""
+msgstr "正在准备交换..."
 
 #: slot/0x0024c900/0xb767d9/0x4e6e3d
 msgid "Confirming staff to be traded..."
-msgstr ""
+msgstr "正在确认交换士兵..."
 
 #: slot/0x0024c900/0xb767d9/0x50476b
 msgid "Select the staff you want."
-msgstr ""
+msgstr "选择士兵。"
 
 #: slot/0x0024c900/0xb767d9/0x54282d
 msgid "Selecting staff..."
-msgstr ""
+msgstr "选兵中..."
 
 #: slot/0x0024c900/0xb767d9/0x589ae1
 #: slot/0x0024c900/0xb767d9/0xe0f520
 msgid "Executing trade..."
-msgstr ""
+msgstr "交易中..."
 
 #: slot/0x0024c900/0xb767d9/0x5903de
 msgid "Staff to Give"
-msgstr ""
+msgstr "交出士兵"
 
 #: slot/0x0024c900/0xb767d9/0x5e167e
 msgid ""
 "This member has already been received at the same time and with the same CO-OPS teammate.\n"
 "Due to the staff member already existing in your Mother Base, you are unable to trade.\n"
 "Please select a different staff member."
-msgstr ""
+msgstr "该成员已与同一合作任务队友同时领取过。\n由于该士兵已存在于你的母基地，无法进行交易。\n请选择其他士兵。"
 
 #: slot/0x0024c900/0xb767d9/0x62799f
 msgid "Waiting for trading partner..."
-msgstr ""
+msgstr "正在等待交易对象..."
 
 #: slot/0x0024c900/0xb767d9/0x65d9ca
 msgid "EXECUTE TRADE"
-msgstr ""
+msgstr "执行交易"
 
 #: slot/0x0024c900/0xb767d9/0x77199a
 msgid "Here is a list of selected staff. Proceed by pressing <I=DEC>."
-msgstr ""
+msgstr "以下是已选士兵列表。按<I=DEC>继续。"
 
 #: slot/0x0024c900/0xb767d9/0x7b1cf7
 msgid "Neither you nor your partner has selected any staff."
-msgstr ""
+msgstr "你和对方都未选择任何士兵。"
 
 #: slot/0x0024c900/0xb767d9/0x7ede22
 msgid "Trade finished. Waiting for partner to complete processing..."
-msgstr ""
+msgstr "交易完成。正在等待对方处理完毕..."
 
 #: slot/0x0024c900/0xb767d9/0x80d74e
 msgid "These staff members cannot be traded because their difference in ability is too great.  Please select staff whose highest abilities are of the same rank."
-msgstr ""
+msgstr "这些士兵能力差距过大，无法交易。请选择最高能力等级相同的士兵。"
 
 #: slot/0x0024c900/0xb767d9/0x86d9a7
 msgid "Trade finished."
-msgstr ""
+msgstr "交易完成。"
 
 #: slot/0x0024c900/0xb767d9/0x89b9b4
 msgid "This will complete staff selection. Are you sure you want to proceed?"
-msgstr ""
+msgstr "将完成士兵选择。确定要继续吗？"
 
 #: slot/0x0024c900/0xb767d9/0x91e92a
 msgid "This will cancel the trade with your current partner and return you to the LOBBY screen. Are you sure you want to proceed?"
-msgstr ""
+msgstr "将取消与当前对象的交易并返回大厅画面。确定要继续吗？"
 
 #: slot/0x0024c900/0xb767d9/0x91f6a5
 msgid "Staff confirmation complete."
-msgstr ""
+msgstr "士兵确认完毕。"
 
 #: slot/0x0024c900/0xb767d9/0xbb1650
 msgid "Selection complete."
-msgstr ""
+msgstr "选择完毕。"
 
 #: slot/0x0024c900/0xb767d9/0xbf3442
 msgid "Waiting for partner to accept..."
-msgstr ""
+msgstr "正在等待对方接受..."
 
 #: slot/0x0024c900/0xb767d9/0xc76899
 msgid "Trade complete. Returning to the TRADE menu."
-msgstr ""
+msgstr "交易完成。正在返回交易菜单。"
 
 #: slot/0x0024c900/0xb767d9/0xc831c6
 msgid "This will cancel the trade with your current partner and return you to the TRADE menu. Are you sure you want to proceed?"
-msgstr ""
+msgstr "将取消与当前对象的交易并返回交易菜单。确定要继续吗？"
 
 #: slot/0x0024c900/0xb767d9/0xd1399a
 msgid "Beginning trade. You can cancel by pressing <I=CAN>."
-msgstr ""
+msgstr "开始交易。按<I=CAN>可取消。"
 
 #: slot/0x0024c900/0xb767d9/0xdc7c67
 msgid "Waiting for partner to select..."
-msgstr ""
+msgstr "正在等待对方选择..."
 
 #: slot/0x0024c900/0xb767d9/0xe642d7
 msgid "An error has occurred. Returning to the LOBBY menu."
-msgstr ""
+msgstr "发生错误。正在返回大厅菜单。"
 
 #: slot/0x0024c900/0xb767d9/0xe6532f
 msgid "Are you sure you want to execute this trade?"
-msgstr ""
+msgstr "确定要执行此交易吗？"
 
 #: slot/0x0024c900/0xb767d9/0xe6d1ea
 msgid "Trading partner has canceled the trade."
-msgstr ""
+msgstr "交易对象已取消交易。"
 
 #: slot/0x0024c900/0xb767d9/0xf433ef
 msgid ""
 "Both you and your partner have completed staff selection.\n"
 "After confirming the staff to be traded, select OK."
-msgstr ""
+msgstr "你和对方均已完成士兵选择。\n确认要交易的士兵后，选择确定。"
 
 #: slot/0x0024c900/0xb767d9/0xf4dd7e
 msgid "Waiting for partner..."
-msgstr ""
+msgstr "正在等待对方..."
 
 #: slot/0x0024c900/0xb767d9/0xfc62ef
 msgid "Trading partner has canceled."
-msgstr ""
+msgstr "交易对象已取消。"
 
 #: slot/0x0024c900/0xb767d9/0xfcd419
 msgid "Waiting for partner to select staff..."
-msgstr ""
+msgstr "等待对象选择人员…"
 
 #: slot/0x00272813/0x2d0e66/0xf19383
 #: slot/0x00272813/0x2d0e6b/0xf19383
 msgid "Camera Button"
-msgstr ""
+msgstr "镜头键"
 
 #: slot/0x00272813/0x2d0e66/0xf29383
 msgid "Use these controls for Up/Down camera movement"
-msgstr ""
+msgstr "用这些操作上下移动镜头"
 
 #: slot/0x00272813/0x2d0e67/0xf19383
 #: slot/0x00272813/0x2d0e68/0xf19383
@@ -1523,110 +1523,110 @@ msgstr ""
 #: slot/0x00f1b9c2/0x188473/0xd0903a
 #: slot/0x00f1b9c2/0x188473/0xe7407f
 msgid "Action Button"
-msgstr ""
+msgstr "动作键"
 
 #: slot/0x00272813/0x2d0e67/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "<I=△> button: Look Up \n"
 "<I=×> button: Look Down"
-msgstr ""
+msgstr "按动作键确认\n<I=△>键：上看\n<I=×>键：下看"
 
 #: slot/0x00272813/0x2d0e68/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "<I=△> button: Look Down \n"
 "<I=×> button: Look Up"
-msgstr ""
+msgstr "按动作键确认\n<I=△>键：下看\n<I=×>键：上看"
 
 #: slot/0x00272813/0x2d0e69/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "Up button: Look Up\n"
 "Down button: Look Down"
-msgstr ""
+msgstr "按动作键确认\n上键：上看\n下键：下看"
 
 #: slot/0x00272813/0x2d0e6a/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "Up button: Look Down\n"
 "Down button: Look Up"
-msgstr ""
+msgstr "按动作键确认\n上键：下看\n下键：上看"
 
 #: slot/0x00272813/0x2d0e6b/0xf29383
 msgid "Use these controls for Left/Right camera movement"
-msgstr ""
+msgstr "用这些操作左右移动镜头"
 
 #: slot/0x00272813/0x2d0e6c/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "<I=□> button: Look Left \n"
 "<I=○> button: Look Right"
-msgstr ""
+msgstr "按动作键确认\n<I=□>键：左看\n<I=○>键：右看"
 
 #: slot/0x00272813/0x2d0e6d/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "<I=□> button: Look Right \n"
 "<I=○> button: Look Left"
-msgstr ""
+msgstr "按动作键确认\n<I=□>键：右看\n<I=○>键：左看"
 
 #: slot/0x00272813/0x2d0e6e/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "Left button: Look Left \n"
 "Right button: Look Right"
-msgstr ""
+msgstr "按动作键确认\n左键：左看\n右键：右看"
 
 #: slot/0x00272813/0x2d0e85/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "Left button: Look Right \n"
 "Right button: Look Left"
-msgstr ""
+msgstr "按动作键确认\n左键：右看\n右键：左看"
 
 #: slot/0x00272813/0x2d0e86/0xf19383
 msgid "Crouch Button"
-msgstr ""
+msgstr "蹲伏键"
 
 #: slot/0x00272813/0x2d0e87/0xf19383
 #: slot/0x00272813/0x2d0ea5/0xf19383
 #: slot/0x005a5b84/0x9c12db/0x697e47
 msgid "analog stick"
-msgstr ""
+msgstr "摇杆"
 
 #: slot/0x00272813/0x2d0e88/0xf19383
 msgid "analog stick + (tap) Attack Button"
-msgstr ""
+msgstr "摇杆 + (轻按)攻击键"
 
 #: slot/0x00272813/0x2d0e88/0xf29383
 #: slot/0x00272813/0x2d0e89/0xf29383
 msgid ""
 "When the enemy is far away \n"
 "and you are running"
-msgstr ""
+msgstr "当敌人距离较远\n且你在奔跑时"
 
 #: slot/0x00272813/0x2d0e89/0xf19383
 msgid "analog stick + Crouch Button"
-msgstr ""
+msgstr "摇杆 + 蹲伏键"
 
 #: slot/0x00272813/0x2d0e8a/0xf19383
 #: slot/0x00272813/0x2d0e8e/0xf19383
 #: slot/0x00272813/0x2d0ea6/0xf19383
 msgid "Attack Button"
-msgstr ""
+msgstr "攻击键"
 
 #: slot/0x00272813/0x2d0e8b/0xf19383
 msgid "Aim Button + Attack Button"
-msgstr ""
+msgstr "瞄准键 + 攻击键"
 
 #: slot/0x00272813/0x2d0e8c/0xf19383
 msgid "Aim Button (<I=△>) + Attack Button (<I=△>)"
-msgstr ""
+msgstr "瞄准键(<I=△>) + 攻击键(<I=△>)"
 
 #: slot/0x00272813/0x2d0e8d/0xf19383
 msgid "Analog stick + Attack Button"
-msgstr ""
+msgstr "摇杆 + 攻击键"
 
 #: slot/0x00272813/0x2d0e8d/0xf29383
 #: slot/0x00272813/0x2d0e8e/0xf29383
@@ -1635,191 +1635,191 @@ msgstr ""
 msgid ""
 "When the enemy is nearby, \n"
 "and the icon appears"
-msgstr ""
+msgstr "当敌人在附近，\n且图标出现时"
 
 #: slot/0x00272813/0x2d0ea5/0xf29383
 msgid "When restraining the enemy"
-msgstr ""
+msgstr "制服敌人时"
 
 #: slot/0x00272813/0x2d0ea6/0xf29383
 #: slot/0x00272813/0x2d0eab/0xf29383
 msgid "When throwing the enemy"
-msgstr ""
+msgstr "投掷敌人时"
 
 #: slot/0x00272813/0x2d0ea8/0xf19383
 msgid "Analog stick + Hand-to-Hand Attack Button (<I=□>)"
-msgstr ""
+msgstr "摇杆 + 徒手攻击键（<I=□>）"
 
 #: slot/0x00272813/0x2d0ea9/0xf19383
 #: slot/0x00272813/0x2d0eaa/0xf19383
 #: slot/0x00272813/0x2d0eab/0xf19383
 msgid "Hand-to-Hand Attack Button (<I=□>)"
-msgstr ""
+msgstr "徒手攻击键（<I=□>）"
 
 #: slot/0x002b7c21/0x014c8f/0x09e2e4
 msgid "YOU LOSE"
-msgstr ""
+msgstr "败"
 
 #: slot/0x002b7c21/0x014c8f/0x09e53f
 msgid "TIME PENALTY -$1sec"
-msgstr ""
+msgstr "时间惩罚 -$1秒"
 
 #: slot/0x002b7c21/0x014c8f/0x635f42
 msgid "TIME EXTENSION +$1sec"
-msgstr ""
+msgstr "时间延长 +$1秒"
 
 #: slot/0x002b7c21/0x014c8f/0xf87b0f
 msgid "YOU WIN"
-msgstr ""
+msgstr "胜"
 
 #: slot/0x002dccc3/0x0f92df/0x969098
 msgid "A custom Mi-24A. It has been field-upgraded to increase its overall offensive and defensive power."
-msgstr ""
+msgstr "定制的Mi-24A。经战场改装，整体攻防能力提升。"
 
 #: slot/0x002dccc3/0x2d87ab/0x9d6343
 msgid ""
 "A prototype next-generation tank developed as a joint project between the U.S. and West Germany, the two leading tank manufacturers in the West; this is the West German version. The KPz 70's armament is impressive: in addition to its 120mm smoothbore gun, it is armed with a 20mm anti-aircraft gun. Moreover, it is fully loaded with all the latest technology, including a night-vision device, an automatic reloading system, and spaced armor.\n"
 "\n"
 "Paired with infantry escorts, this tank is a formidable foe in battle. Focus your efforts on getting rid of those escorts!"
-msgstr ""
+msgstr "美国与西德联合研发的下一代坦克原型，两国是西方领先的坦克制造国；此为西德版。KPz 70火力惊人：除120毫米滑膛炮外，还装有20毫米高射炮。此外，它满载最新技术，包括夜视装置、自动装填系统和间隔装甲。\n\n配合步兵护卫，此坦克在战斗中极为难缠。集中火力先解决护卫！"
 
 #: slot/0x002dccc3/0x3f92df/0xc69098
 msgid "A custom Mi-24D. It has been field-upgraded to increase its overall offensive and defensive power."
-msgstr ""
+msgstr "定制的Mi-24D。经战场改装，整体攻防能力提升。"
 
 #: slot/0x002dccc3/0x576286/0x1ae163
 msgid ""
 "A revamped, more heavily armed version of the T-72. The addition of a side skirt and experimental explosive reactive armor (ERA) to the front strengthens the tank's defenses. It is equipped with a smoke disperser that works by mixing fuel into the exhaust, a commonly seen feature on Soviet military vehicles.\n"
 "\n"
 "Punching through this tank's beefed-up defenses will require a suitably powerful arsenal centered on heavy weaponry. Keep this in mind when choosing your gear."
-msgstr ""
+msgstr "T-72的强化重武装版。加装侧裙板与车首实验性爆炸反应装甲（ERA），防御力增强。它装有将燃料混入废气工作的发烟装置，这是苏联军车的常见配置。\n\n要击穿此坦克强化的防御，需以重武器为核心配备足够火力。选择装备时请谨记。"
 
 #: slot/0x002dccc3/0x57629a/0x1ae177
 msgid ""
 "The Soviet Union's state-of-the-art main battle tank. Its design is a deft balance of offense, defense, and mobility. In particular, its main 125mm smoothbore gun is as powerful as anything the West has to offer. It looks set to become a staple of conventional land forces in the Eastern Bloc.\n"
 "\n"
 "The tank is powerful enough by itself, but when accompanied by infantry escorts, it becomes almost unstoppable. Be sure to have enough anti-infantry weaponry on hand to take out those escorts before you get overwhelmed."
-msgstr ""
+msgstr "苏联最先进的主战坦克。其设计巧妙平衡了火力、防御与机动性。尤其125毫米滑膛炮威力不逊于西方任何同类。它有望成为东欧集团常规陆军的支柱。\n\n此坦克本身已足够强大，若配步兵护卫则几乎无法阻挡。务必备足反步兵武器，在被压制前先解决护卫。"
 
 #: slot/0x002dccc3/0x5b5ed6/0xe25c8f
 msgid "A custom AH56A-B. It has been field-upgraded to increase its overall offensive and defensive power."
-msgstr ""
+msgstr "定制的AH56A-B。经战场改装，整体攻防能力提升。"
 
 #: slot/0x002dccc3/0x635ed6/0xea5c8f
 msgid "A custom AH56A-R. It has been field-upgraded to increase its overall offensive and defensive power."
-msgstr ""
+msgstr "定制的AH56A-R。经战场改装，整体攻防能力提升。"
 
 #: slot/0x002dccc3/0x664ed9/0x61c1e7
 msgid ""
 "A prototype next-generation tank developed as a joint project between the U.S. and West Germany, the two leading tank manufacturers in the West; this is the American version. It aims to achieve a substantial increase in firepower with its 152mm gun launcher, a revolutionary new weapon system that fires both traditional cannon shells and missiles. Its design also places a heavy emphasis on defense, with added fireproof bulkheads and a blowout section on the ammo chamber.\n"
 "\n"
 "How well you fare in combat against this tank will depend on how well you can neutralize these inherent advantages."
-msgstr ""
+msgstr "美国与西德联合研发的下一代坦克原型，两国是西方领先的坦克制造国；此为美国版。它采用152毫米炮射导弹发射器，这一革命性新武器系统可发射传统炮弹与导弹，力求大幅提升火力。其设计也高度重视防御，增设防火隔舱与弹药舱泄爆段。\n\n能否制伏此坦克，取决于你能否化解这些固有优势。"
 
 #: slot/0x002dccc3/0x6c1ab5/0x678dc3
 msgid ""
 "A prototype attack helicopter and product of the Advanced Aerial Fire Support System (AAFSS) concept. It is a compound helicopter equipped with a thrusting propeller that allows it to travel at up to 360 kph, record-shattering speed for a craft of its type.\n"
 "\n"
 "Armed with devastatingly powerful freefall bombs, guaranteed to cause heavy damage to anything unfortunate enough to get hit. Make sure you don't get caught underneath when it passes overhead!"
-msgstr ""
+msgstr "先进空中火力支援系统（AAFSS）概念下的攻击直升机原型。它是装有推进螺旋桨的复合直升机，最高时速达360公里，创下同类机型纪录。\n\n装备威力惊人的自由落体炸弹，被击中者必受重创。它飞过头顶时，千万别被砸中！"
 
 #: slot/0x002dccc3/0x6c1ac5/0x678dd3
 msgid ""
 "An anti-tank variation of the AH56. While its basic specs are the same, its main weapons have been replaced with anti-tank missiles capable of striking at longer ranges.\n"
 "\n"
 "Essentially an extremely powerful flying tank. If you've got anti-air missiles, now's the time to use them!"
-msgstr ""
+msgstr "AH56的反坦克型。基本规格相同，但主武器换为可远距离打击的反坦克导弹。\n\n本质上是极其强大的飞行坦克。若有反空导弹，现在就用！"
 
 #: slot/0x002dccc3/0x7a9411/0x46cbff
 msgid "A custom T-72A. It has been field-upgraded to increase its overall offensive and defensive power."
-msgstr ""
+msgstr "定制的T-72A。经战场改装，整体攻防能力提升。"
 
 #: slot/0x002dccc3/0x933bc7/0x5f73b5
 msgid "A custom LAV-Type C. It has been field-upgraded to increase its overall offensive and defensive power."
-msgstr ""
+msgstr "定制的LAV-Type C。经战场改装，整体攻防能力提升。"
 
 #: slot/0x002dccc3/0xa74f5f/0x172af8
 msgid ""
 "An attack helicopter created by expanding an existing general-purpose chopper and fitting it with heavier weaponry. It was developed as a multi-purpose gunship capable of performing a variety of missions, from troop transport to air-to-ground strikes.\n"
 "\n"
 "This is the first model of the Mi-24A, and it has a somewhat generic flavor to it, with a large payload of ground troops. You'll need plenty of anti-infantry gear and anti-air capable weapons to take it on."
-msgstr ""
+msgstr "由现有通用直升机扩大并加装重武器而成的攻击直升机。它被研发为多用途炮艇机，可执行从运兵到对地打击等多种任务。\n\n这是Mi-24A的首款型号，略显通用，可搭载大量地面部队。对付它需备足反步兵装备与反空武器。"
 
 #: slot/0x002dccc3/0xa74f62/0x172afb
 msgid ""
 "An advanced variant of the Mi-24A attack helicopter. Its distinctive tandem cockpit and huge size have earned it the nickname \"Crocodile\" among Soviet troops. It is truly the embodiment of the \"gunship,\" excelling in both firepower and defense.\n"
 "\n"
 "Without a sufficiently powerful, anti-air capable weapon such as a rocket launcher, your chances of winning are slim to none. Choose your weapons accordingly, but don't forget to prepare for infantry combat as well."
-msgstr ""
+msgstr "Mi-24A攻击直升机的进阶型。其独特的纵列座舱与庞大体积为它赢得苏军绰号“鳄鱼”。它堪称“炮艇机”的化身，火力与防御俱佳。\n\n若无火箭筒等足够强大的反空武器，胜算微乎其微。据此选武器，但也别忘了准备步兵战。"
 
 #: slot/0x002dccc3/0xb7c6b6/0x3ec470
 msgid "A custom BTR-60 PA. It has been field-upgraded to increase its overall offensive and defensive power."
-msgstr ""
+msgstr "定制的BTR-60 PA。经战场改装，整体攻防能力提升。"
 
 #: slot/0x002dccc3/0xb846b6/0x3f4470
 msgid "A custom BTR-60 PB. It has been field-upgraded to increase its overall offensive and defensive power."
-msgstr ""
+msgstr "定制的BTR-60 PB。经战场改装，整体攻防能力提升。"
 
 #: slot/0x002dccc3/0xba9412/0x86cc00
 msgid "A custom T-72U. It has been field-upgraded to increase its overall offensive and defensive power."
-msgstr ""
+msgstr "定制的T-72U。经战场改装，整体攻防能力提升。"
 
 #: slot/0x002dccc3/0xc7f663/0x4ef41d
 msgid "A custom KPz 70. It has been field-upgraded to increase its overall offensive and defensive power."
-msgstr ""
+msgstr "定制的KPz 70。经战场改装，整体攻防能力提升。"
 
 #: slot/0x002dccc3/0xd33bc7/0x9f73b5
 msgid "A custom LAV-Type G. It has been field-upgraded to increase its overall offensive and defensive power."
-msgstr ""
+msgstr "定制的LAV-Type G。经战地改装，提升了整体攻防能力。"
 
 #: slot/0x002dccc3/0xe1dde7/0xa55cc4
 msgid ""
 "A heavily armed version of the LAV. Its main gun has been upgraded to 76mm to boost its solo combat capabilities. At the same time, it boasts plenty of carrying capacity, making it a well-rounded threat. Don't treat it like just another armored vehicle, or you'll be sorry.\n"
 "\n"
 "Carrying some powerful - preferably explosive - weapons with you would be a good idea."
-msgstr ""
+msgstr "重武装型LAV。主炮升级为76mm，强化了单兵作战能力。同时载员量充足，综合威胁极高。别把它当普通装甲车，否则会吃亏。\n\n建议携带强力武器，最好是爆炸类。"
 
 #: slot/0x002dccc3/0xe1ddeb/0xa55cc8
 msgid ""
 "An experimental assault personnel carrier, believed to have been provided to CIA mercenary forces in secret as part of its field test cycle. Its twin screws give it excellent mobility on both land and water. The \"G\" variant sacrifices heavier armament in favor of greater troop carrying capacity.\n"
 "\n"
 "You can expect to engage in some heavy infantry fighting when facing this vehicle. Choose your gear carefully!"
-msgstr ""
+msgstr "实验型突击运兵车，据信是CIA秘密提供给雇佣兵部队进行实战测试的。双螺旋桨使其在陆地和水上都有出色机动性。G型牺牲重火力换取更大载员量。\n\n遭遇此车时预计会有激烈步兵战。谨慎选择装备！"
 
 #: slot/0x002dccc3/0xedefe7/0x5c51a7
 msgid ""
 "The main armored personnel carrier of the Soviet Union. Not only does it have an eight-wheeled drive system for easy road mobility, it also comes equipped with water jets for over-water transport. A 7.62mm machine gun provides standard-level firepower, and when loaded with a full contingent of infantry it can really shine in combat.\n"
 "\n"
 "Finding a way to deal with the infantry should be the core of any battle strategy against this vehicle."
-msgstr ""
+msgstr "苏联主力装甲运兵车。不仅有八轮驱动便于公路机动，还配有水上推进器可渡水。7.62mm机枪提供标准火力，满载步兵时战斗力尤为突出。\n\n对付此车的核心战术是设法解决其步兵。"
 
 #: slot/0x002dccc3/0xedefe8/0x5c51a8
 msgid ""
 "A more heavily armed version of the BTR-60 PA. Its primary weapon has been upgraded to a much more powerful 25mm machine gun. When supplemented by a deployable infantry escort, this built-in firepower makes it a well-balanced and dangerous foe in combat.\n"
 "\n"
 "A well-stocked arsenal of anti-vehicle weaponry will be key to getting the job done."
-msgstr ""
+msgstr "BTR-60 PA的重武装型。主武器升级为威力更强的25mm机枪。配合可部署的步兵护卫，这种内置火力使其成为均衡而危险的敌人。\n\n备足反装甲武器是取胜关键。"
 
 #: slot/0x002dccc3/0xf9d123/0x80cedd
 msgid "A custom MBTk-70. It has been field-upgraded to increase its overall offensive and defensive power."
-msgstr ""
+msgstr "定制的MBTk-70。经战地改装，提升了整体攻防能力。"
 
 #: slot/0x002e0fee/0x1a3e77/0x002d8b
 msgid ""
 "Metal Gear ZEKE is not complete.\n"
 "All MAIN PARTS must be set."
-msgstr ""
+msgstr "合金装备·吉克尚未完成。\n必须设置所有主要部件。"
 
 #: slot/0x002e0fee/0x1a3e77/0x00f276
 msgid "View the memory boards in the AI pod. Collect additional boards to improve your AI's capabilities.  There are 4 types of boards: \"Mobility\" affects movement, \"Sense\"affects search capability, \"Attack\" affects offensive capability, and \"Control\" affects response time."
-msgstr ""
+msgstr "查看AI舱内的记忆板。收集更多记忆板可提升AI能力。记忆板分4类：机动影响移动，感知影响搜索能力，攻击影响攻击能力，控制影响反应时间。"
 
 #: slot/0x002e0fee/0x1a3e77/0x032e73
 #: slot/0x0056a63d/0x22af99/0x00016c
 #: slot/0x0083b291/0x77a106/0xc24ccf
 #: slot/0x00b4d9c8/0x4e7980/0x00016c
 msgid "RED"
-msgstr ""
+msgstr "红"
 
 #: slot/0x002e0fee/0x1a3e77/0x0871b1
 msgid "Ctl-Pupa-001Fe"

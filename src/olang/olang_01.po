@@ -65,262 +65,262 @@ msgstr "蛇怪语音"
 
 #: olang/0005ee2f/0xc6de03/0x3a136d
 msgid "VOICE"
-msgstr ""
+msgstr "语音"
 
 #: olang/0005ee2f/0xc6de03/0x3da827
 msgid "Return to title menu"
-msgstr ""
+msgstr "返回标题菜单"
 
 #: olang/0005ee2f/0xc6de03/0x3db471 olang/0005ee2f/0xc6de03/0x91b2b1
 msgid "AI Weapon Voices"
-msgstr ""
+msgstr "AI 兵器语音"
 
 #: olang/0005ee2f/0xc6de03/0x47c178
 msgid "TEXTURES"
-msgstr ""
+msgstr "贴图"
 
 #: olang/0005ee2f/0xc6de03/0x50a352 olang/0005ee2f/0xc6de03/0xb7f4ae
 #: olang/00cb1fb7/0x68bb2b/0x010dcc
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 #: olang/0005ee2f/0xc6de03/0x51550b
 msgid "Return to title menu."
-msgstr ""
+msgstr "返回标题菜单。"
 
 #: olang/0005ee2f/0xc6de03/0x562679
 msgid "Cocoon Voices"
-msgstr ""
+msgstr "茧语音"
 
 #: olang/0005ee2f/0xc6de03/0x77305a
 msgid "Chrysalis Voices"
-msgstr ""
+msgstr "蝶蛹语音"
 
 #: olang/0005ee2f/0xc6de03/0x9e1df8
 msgid "Edit screen display settings."
-msgstr ""
+msgstr "编辑画面显示设置。"
 
 #: olang/0005ee2f/0xc6de03/0xe12fec
 msgid "Change which magazine is used in the game."
-msgstr ""
+msgstr "更改游戏中使用的杂志。"
 
 #: olang/0005ee2f/0xc6de03/0xe280fd
 msgid "Data Management"
-msgstr ""
+msgstr "数据管理"
 
 #: olang/00327f6a/0xb39048/0xc81e47 olang/0060e2f2/0xd449d6/0x42ab9e
 #: olang/00cb1fb7/0x68bb2b/0x42ab9e olang/00cb1fb7/0x68bb2b/0xc81e47
 msgid ""
 "Unable to find a HOST.\n"
 "Try again after changing the search conditions or waiting for a short period of time."
-msgstr ""
+msgstr "未找到主机。\n请更改搜索条件或稍后再试。"
 
 #: olang/00327f6a/0xb39048/0xf4816f
 msgid ""
 "You can recruit trade partners worldwide over Xbox LIVE.\n"
 "Select the type of invitation."
-msgstr ""
+msgstr "可通过 Xbox LIVE 招募全球贸易伙伴。\n请选择邀请类型。"
 
 #: olang/0043da6e/0x029324/0x2e012f
 msgid "Failed to connect."
-msgstr ""
+msgstr "连接失败。"
 
 #: olang/0043da6e/0xc3d5b4/0x024ebc olang/0043da6e/0xc3d5b4/0xd851e8
 #: olang/005184e3/0x029324/0x8a774e
 msgid "Unable to connect to Xbox LIVE."
-msgstr ""
+msgstr "无法连接 Xbox LIVE。"
 
 #: olang/0043da6e/0xc3d5b4/0x043ff0
 msgid "Confirm"
-msgstr ""
+msgstr "确认"
 
 #: olang/0043da6e/0xc3d5b4/0x192971
 msgid ""
 "You cannot continue playing because a change has been made to your sign in status.\n"
 "You will now return to the title menu."
-msgstr ""
+msgstr "登录状态已变更，无法继续游戏。\n即将返回标题菜单。"
 
 #: olang/0043da6e/0xc3d5b4/0x20abf0
 msgid "All other members have been disconnected. A single player game will begin."
-msgstr ""
+msgstr "其他成员已全部断开。将开始单人游戏。"
 
 #: olang/0043da6e/0xc3d5b4/0x434337
 msgid "You need to be signed into Xbox LIVE to proceed any further."
-msgstr ""
+msgstr "需登录 Xbox LIVE 才能继续。"
 
 #: olang/0043da6e/0xc3d5b4/0x508f74
 msgid "Connection to Xbox LIVE has been terminated."
-msgstr ""
+msgstr "与 Xbox LIVE 的连接已断开。"
 
 #: olang/0043da6e/0xc3d5b4/0x58bcd8
 msgid "You cannot play online using the current gamer profile."
-msgstr ""
+msgstr "当前玩家档案无法进行在线游戏。"
 
 #: olang/0043da6e/0xc3d5b4/0x7a57b9
 msgid "You cannot receive this invite as you are already in a room."
-msgstr ""
+msgstr "你已在房间中，无法接收此邀请。"
 
 #: olang/0043da6e/0xc3d5b4/0x932c67 olang/009c9ea4/0xc3d5b4/0x932c67
 msgid "You cannot join this game as the mode cannot be played while using the current save data."
-msgstr ""
+msgstr "当前存档数据无法进行该模式，无法加入此游戏。"
 
 #: olang/0043da6e/0xc3d5b4/0xa75e7b
 msgid "Unable to create room."
-msgstr ""
+msgstr "无法创建房间。"
 
 #: olang/0043da6e/0xc3d5b4/0xb0be5c
 msgid "You must select a storage device to save data in order to start the game."
-msgstr ""
+msgstr "需选择存储设备以保存数据才能开始游戏。"
 
 #: olang/0043da6e/0xc3d5b4/0xb8dc0d
 msgid ""
 "The system data on the selected storage device was created by another gamer profile.\n"
 "If you continue, you will be unable to save the game during play.\n"
 "Continue?"
-msgstr ""
+msgstr "所选存储设备上的系统数据由其他玩家设定档创建。\n若继续，游戏过程中将无法保存。\n是否继续？"
 
 #: olang/0043da6e/0xc3d5b4/0xcb23b3
 msgid "Room deleted by HOST."
-msgstr ""
+msgstr "房间已被主机删除。"
 
 #: olang/0043da6e/0xc3d5b4/0xd5a07d
 msgid "Unable to search for room."
-msgstr ""
+msgstr "无法搜索房间。"
 
 #: olang/0043da6e/0xc3d5b4/0xe16f1d
 msgid "The network connection has been terminated. A single player game will begin."
-msgstr ""
+msgstr "网络连接已中断。将开始单人游戏。"
 
 #: olang/0043da6e/0xc3d5b4/0xf11e61
 msgid "Unable to join room."
-msgstr ""
+msgstr "无法进房。"
 
 #: olang/0043da6e/0xc3d5b4/0xf8f04e
 msgid "The save data on the selected storage device was created by another gamer profile and so cannot be loaded."
-msgstr ""
+msgstr "所选存储设备上的存档由其他玩家设定档创建，无法读取。"
 
 #: olang/0043da6e/0xc3d5b4/0xf98609
 msgid "Connection with HOST terminated."
-msgstr ""
+msgstr "与主机的连接已中断。"
 
 #: olang/0043da6e/0xc3d5b4/0xfb72a4
 msgid "You must be signed in to a gamer profile to save data in order to start the game."
-msgstr ""
+msgstr "需登录玩家设定档才能保存数据并开始游戏。"
 
 #: olang/005184e3/0x029324/0x4b1cfb
 msgid "Unable to sign in to Xbox LIVE."
-msgstr ""
+msgstr "无法登录 Xbox LIVE。"
 
 #: olang/005184e3/0x029324/0x61d95e
 msgid ""
 "An error has occurred.\n"
 "Please verify that the Date & Time settings on your Xbox 360 console are correct."
-msgstr ""
+msgstr "发生错误。\n请确认 Xbox 360 主机的日期与时间设置是否正确。"
 
 #: olang/005184e3/0x1331ad/0xbbc0e2
 msgid "Please verify the Date & Time settings on your Xbox 360 console. Incorrect date settings may interfere with package deliveries."
-msgstr ""
+msgstr "请确认 Xbox 360 主机的日期与时间设置。日期设置错误可能影响包裹送达。"
 
 #: olang/005184e3/0x19f879/0x01fbc4
 msgid "Join a game created by another player."
-msgstr ""
+msgstr "加入其他玩家创建的游戏。"
 
 #: olang/005184e3/0x19f879/0x5e057c
 msgid "SELECT HOSTING CONDITIONS"
-msgstr ""
+msgstr "选择主机条件"
 
 #: olang/005184e3/0x19f879/0x668dca
 msgid "Create and host and a new versus game."
-msgstr ""
+msgstr "创建并主持新的对战游戏。"
 
 #: olang/005184e3/0x19f879/0x75954d
 msgid "SELECT SEARCH CONDITIONS"
-msgstr ""
+msgstr "选择搜索条件"
 
 #: olang/005184e3/0x19f879/0x84bf02
 msgid "<Add Stage>"
-msgstr ""
+msgstr "<添加关卡>"
 
 #: olang/005184e3/0x19f879/0x92ac58
 msgid "Connect to Xbox LIVE and battle players from around the world. 2 teams of up to 3 players are allowed."
-msgstr ""
+msgstr "连接Xbox LIVE，与全球玩家对战。每队最多3人，共2队。"
 
 #: olang/005184e3/0x19f879/0xa57bdd
 msgid ""
 "Press up or down on the directional pad to select a Channel.\n"
 "Press <I=DEC> to start hosting."
-msgstr ""
+msgstr "按方向键上下选择频道。\n按<I=DEC>开始创建。"
 
 #: olang/005184e3/0x19f879/0xc297b4 olang/009c9ea4/0x19f879/0xc297b4
 msgid "Press the <I=DEC> button to change the password."
-msgstr ""
+msgstr "按<I=DEC>键更改密码。"
 
 #: olang/005184e3/0x1a3e77/0x6a33a6 olang/009c9ea4/0x1a3e77/0x6a33a6
 msgid "Enlarge: <I=L2>"
-msgstr ""
+msgstr "放大：<I=L2>"
 
 #: olang/005184e3/0x1a3e77/0x6a33a7 olang/009c9ea4/0x1a3e77/0x6a33a7
 msgid "Reduce: <I=R2>"
-msgstr ""
+msgstr "缩小<I=R2>"
 
 #: olang/005184e3/0x1a3e77/0x6a33a8
 msgid "Rotate Camera: Right stick"
-msgstr ""
+msgstr "旋转镜头：右摇杆"
 
 #: olang/005184e3/0x1a3e77/0x6a33a9 olang/005184e3/0x5f753b/0x88adbe
 msgid "Switch Cameras: Directional pad left/right"
-msgstr ""
+msgstr "切换镜头：方向键左右"
 
 #: olang/005184e3/0x20dacf/0x661129
 msgid "Save play data."
-msgstr ""
+msgstr "保存游戏数据。"
 
 #: olang/005184e3/0x20dacf/0x6c9043
 msgid "Accepted a volunteer. Volunteers increase as you play online."
-msgstr ""
+msgstr "已接受一名志愿者。在线游玩可增加志愿者。"
 
 #: olang/005184e3/0x20dacf/0xa08aca olang/005184e3/0x43f3a5/0x47e5fe
 #: olang/005184e3/0xe6e4ed/0xb96848 olang/009c9ea4/0x20dacf/0xa08aca
 #: olang/009c9ea4/0x43f3a5/0x47e5fe olang/009c9ea4/0xe6e4ed/0xb96848
 msgid "Confirm or change controls."
-msgstr ""
+msgstr "确认或更改操作。"
 
 #: olang/005184e3/0x20dacf/0xac79ca olang/005184e3/0x43f3a5/0x506452
 #: olang/005184e3/0xe6e4ed/0xb7fd8f olang/005184e3/0xfb5d7b/0x96ec94
 msgid "BUTTON CONFIG"
-msgstr ""
+msgstr "按键设置"
 
 #: olang/005184e3/0x215635/0x15aca6
 msgid ""
 "Proceed immediately to the Control Tower and stop Peace Walker from launching its nukes.\n"
 "The WALKMAN cannot be equipped."
-msgstr ""
+msgstr "立即前往管制塔，阻止和平行者发射核弹。\n无法装备WALKMAN。"
 
 #: olang/005184e3/0x215635/0x17015a olang/009c9ea4/0x215635/0x17015a
 msgid ""
 "Snake encounters a mysterious \"visitor\" on the coast of Costa Rica.\n"
 "\n"
 "<I=CPY>CAPCOM CO., LTD."
-msgstr ""
+msgstr "SNAKE在哥斯达黎加海岸遇到神秘的“访客”。\n\n<I=CPY>CAPCOM CO., LTD."
 
 #: olang/005184e3/0x215635/0x18015a olang/009c9ea4/0x215635/0x18015a
 msgid ""
 "Snake accepts an invitation from Trenya and heads to Isla del Monstruo.\n"
 "  From <<Hunting Quests>>\n"
 "<I=CPY>CAPCOM CO., LTD."
-msgstr ""
+msgstr "SNAKE接受Trenya的邀请，前往怪物岛。\n  来自《狩猎任务》\n<I=CPY>CAPCOM CO., LTD."
 
 #: olang/005184e3/0x215635/0x3cb479 olang/005184e3/0x215635/0xd1f145
 msgid "MSF Entrance Exam"
-msgstr ""
+msgstr "MSF入队考试"
 
 #: olang/005184e3/0x215635/0x4a3800 olang/005184e3/0x215635/0xe00d7b
 msgid "[097] Tank Battle: MBTk-70"
-msgstr ""
+msgstr "[097] 坦克战：MBTk-70"
 
 #: olang/005184e3/0x215635/0x4a3dc0 olang/005184e3/0x215635/0xf70d7b
 msgid "[098] Tank Battle: MBTk-70 Custom"
-msgstr ""
+msgstr "[098] 坦克战：MBTk-70 Custom"
 
 #: olang/005184e3/0x215635/0x95b11d olang/005184e3/0x215635/0x9ab11d
 #: olang/009c9ea4/0x215635/0x95b11d olang/009c9ea4/0x215635/0x9ab11d
@@ -329,7 +329,7 @@ msgid ""
 "<C=FF4040>Hunt the Rathalos<C=R>.\n"
 "\n"
 "<I=CPY>CAPCOM CO., LTD."
-msgstr ""
+msgstr "任务地点：怪物岛\n<C=FF4040>狩猎火龙<C=R>。\n\n<I=CPY>CAPCOM CO., LTD."
 
 #: olang/005184e3/0x215635/0xb5b11d olang/005184e3/0x215635/0xbab11d
 #: olang/009c9ea4/0x215635/0xb5b11d olang/009c9ea4/0x215635/0xbab11d
@@ -338,7 +338,7 @@ msgid ""
 "<C=FF4040>Hunt the Tigrex<C=R>.\n"
 "\n"
 "<I=CPY>CAPCOM CO., LTD."
-msgstr ""
+msgstr "任务地点：怪物岛\n<C=FF4040>狩猎轰龙<C=R>。\n\n<I=CPY>CAPCOM CO., LTD."
 
 #: olang/005184e3/0x215635/0xd5b11d olang/005184e3/0x215635/0xdab11d
 #: olang/009c9ea4/0x215635/0xd5b11d olang/009c9ea4/0x215635/0xdab11d
@@ -347,76 +347,76 @@ msgid ""
 "<C=FF4040>Hunt the Gear REX<C=R>.\n"
 "\n"
 "<I=CPY>CAPCOM CO., LTD."
-msgstr ""
+msgstr "任务地点：怪物岛\n<C=FF4040>狩猎霸王<C=R>。\n\n<I=CPY>CAPCOM CO., LTD."
 
 #: olang/005184e3/0x291428/0x50818e olang/005184e3/0x9dc379/0xdb198e
 #: olang/005184e3/0xc99c23/0x50818e
 msgid "BACK button"
-msgstr ""
+msgstr "BACK键"
 
 #: olang/005184e3/0x2a29c5/0x000000 olang/005184e3/0x2a4a05/0x000000
 #: olang/005184e3/0x2a6a45/0x000000 olang/005184e3/0x2d4a85/0x000000
 #: olang/005184e3/0x3127c5/0x000000 olang/005184e3/0x314805/0x000000
 #: olang/005184e3/0x316845/0x000000 olang/005184e3/0x344885/0x000000
 msgid "Hey, lemme borrow that."
-msgstr ""
+msgstr "喂，借我用下。"
 
 #: olang/005184e3/0x2d0e66/0xf19383 olang/005184e3/0x2d0e6b/0xf19383
 msgid "Right stick"
-msgstr ""
+msgstr "右摇杆"
 
 #: olang/005184e3/0x2d0e67/0xf29383 olang/005184e3/0x2d0e69/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "Right stick up: Look Up\n"
 "Right stick down: Look Down"
-msgstr ""
+msgstr "按动作键确认 \n右摇杆上：向上看\n右摇杆下：向下看"
 
 #: olang/005184e3/0x2d0e68/0xf29383 olang/005184e3/0x2d0e6a/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "Right stick up: Look Down\n"
 "Right stick down: Look Up"
-msgstr ""
+msgstr "按动作键确认 \n右摇杆上：向下看\n右摇杆下：向上看"
 
 #: olang/005184e3/0x2d0e6c/0xf29383 olang/005184e3/0x2d0e6e/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "Right stick left: Look Left\n"
 "Right stick right: Look Right"
-msgstr ""
+msgstr "按动作键确认 \n右摇杆左：向左看\n右摇杆右：向右看"
 
 #: olang/005184e3/0x2d0e6d/0xf29383 olang/005184e3/0x2d0e85/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "Right stick left: Look Right\n"
 "Right stick right: Look Left"
-msgstr ""
+msgstr "按动作键确认 \n右摇杆左：向右看\n右摇杆右：向左看"
 
 #: olang/005184e3/0x2d0e87/0xf19383 olang/005184e3/0x2d0ea5/0xf19383
 msgid "Left stick"
-msgstr ""
+msgstr "左摇杆"
 
 #: olang/005184e3/0x2d0e88/0xf19383
 msgid "Left stick + (tap) Attack Button"
-msgstr ""
+msgstr "左摇杆 + (轻按) 攻击键"
 
 #: olang/005184e3/0x2d0e89/0xf19383
 msgid "Left stick + Crouch Button"
-msgstr ""
+msgstr "左摇杆 + 蹲伏键"
 
 #: olang/005184e3/0x2d0e8d/0xf19383
 msgid "Left stick + Attack Button"
-msgstr ""
+msgstr "左摇杆 + 攻击键"
 
 #: olang/005184e3/0x2d0ea8/0xf19383
 msgid "Left stick + Hand-to-hand Attack Button"
-msgstr ""
+msgstr "左摇杆 + 徒手攻击键"
 
 #: olang/005184e3/0x4282bf/0x000000 olang/005184e3/0x4a8abf/0x000000
 #: olang/005184e3/0xb666bf/0x000000 olang/005184e3/0xbe6ebf/0x000000
 msgid "Don't move!"
-msgstr ""
+msgstr "别动！"
 
 #: olang/005184e3/0x43f3a5/0x394f17 olang/0072f326/0xa49217/0x2de9a9
 msgid ""
@@ -427,29 +427,29 @@ msgid ""
 "ACTION TYPE: The configuration is similar to that of \"MPO.\"\n"
 "\n"
 "HUNTER TYPE: The configuration is similar to that of the MONSTER HUNTER FREEDOM<I=TM> series."
-msgstr ""
+msgstr "选择操作方式。  \n\n射击型：与《MGS4》相近。\n\n动作型：与《MPO》相近。\n\n猎人型：与《怪物猎人 自由<I=TM>》系列相近。"
 
 #: olang/005184e3/0x4686bf/0x000000 olang/005184e3/0x4e8ebf/0x000000
 #: olang/005184e3/0xb262bf/0x000000 olang/005184e3/0xba6abf/0x000000
 #: olang/005184e3/0xc2c774/0x000000 olang/009c9ea4/0x903077/0x000014
 #: olang/009c9ea4/0xbc4a75/0x000008
 msgid "Freeze!"
-msgstr ""
+msgstr "不许动！"
 
 #: olang/005184e3/0x4882d7/0x000000 olang/005184e3/0x4e86d7/0x000000
 #: olang/005184e3/0x7062d8/0x000000 olang/005184e3/0x7666d8/0x000000
 #: olang/005184e3/0x7c6ad8/0x000000 olang/005184e3/0x808ad7/0x000000
 #: olang/005184e3/0x826ed8/0x000000 olang/005184e3/0x868ed7/0x000000
 msgid "Next!"
-msgstr ""
+msgstr "下一个！"
 
 #: olang/005184e3/0x529072/0x000002
 msgid "Hit the Y button as fast as you can!"
-msgstr ""
+msgstr "尽快连按 Y 键！"
 
 #: olang/005184e3/0x5d8989/0xb3e6dc
 msgid "Press the X button to select which soldier to assign."
-msgstr ""
+msgstr "按 X 键选择要派遣的士兵。"
 
 #: olang/005184e3/0x5f753b/0x28adbc olang/005184e3/0x5f753b/0x48adbc
 #: olang/005184e3/0x5f753b/0x88adbc olang/005184e3/0x5f753b/0xa8adbc
@@ -457,7 +457,7 @@ msgstr ""
 #: olang/009c9ea4/0x5f753b/0x48adbc olang/009c9ea4/0x5f753b/0x88adbc
 #: olang/009c9ea4/0x5f753b/0xa8adbc olang/009c9ea4/0x5f753b/0xc8adbc
 msgid "Zoom In: <I=R2>"
-msgstr ""
+msgstr "放大：<I=R2>"
 
 #: olang/005184e3/0x5f753b/0x28adbd olang/005184e3/0x5f753b/0x48adbd
 #: olang/005184e3/0x5f753b/0x88adbd olang/005184e3/0x5f753b/0xa8adbd
@@ -465,107 +465,107 @@ msgstr ""
 #: olang/009c9ea4/0x5f753b/0x48adbd olang/009c9ea4/0x5f753b/0x88adbd
 #: olang/009c9ea4/0x5f753b/0xa8adbd olang/009c9ea4/0x5f753b/0xc8adbd
 msgid "Zoom Out: <I=L2>"
-msgstr ""
+msgstr "缩小：<I=L2>"
 
 #: olang/005184e3/0x5f753b/0x28adbe
 msgid "Rotate: Right stick left/right"
-msgstr ""
+msgstr "旋转：右摇杆左/右"
 
 #: olang/005184e3/0x5f753b/0x28adbf
 msgid "Move: Right stick left up/down"
-msgstr ""
+msgstr "移动：右摇杆上/下"
 
 #: olang/005184e3/0x5f753b/0x48adbe olang/005184e3/0x5f753b/0xc992ce
 msgid "Rotate: Right stick"
-msgstr ""
+msgstr "旋转：右摇杆"
 
 #: olang/005184e3/0x5f753b/0x88adbf olang/005184e3/0x5f753b/0xa8adbe
 msgid "Move Camera: Right stick"
-msgstr ""
+msgstr "移动镜头：右摇杆"
 
 #: olang/005184e3/0x5f753b/0xc992cc olang/005184e3/0x919326/0xc992cc
 #: olang/009c9ea4/0x5f753b/0xc992cc olang/009c9ea4/0x919326/0xc992cc
 msgid "Zoom In: <I=L2>"
-msgstr ""
+msgstr "放大：<I=L2>"
 
 #: olang/005184e3/0x5f753b/0xc992cd olang/005184e3/0x919326/0xc992cd
 #: olang/009c9ea4/0x5f753b/0xc992cd olang/009c9ea4/0x919326/0xc992cd
 msgid "Zoom Out: <I=R2>"
-msgstr ""
+msgstr "缩小：<I=R2>"
 
 #: olang/005184e3/0x5f753b/0xc992cf
 msgid "Move: Right stick"
-msgstr ""
+msgstr "移动：右摇杆"
 
 #: olang/005184e3/0x62997d/0x000000
 msgid ""
 "To move your line of sight, \n"
 "use the right stick."
-msgstr ""
+msgstr "要移动视线，\n请使用右摇杆。"
 
 #: olang/005184e3/0x629bfd/0x000001
 msgid ""
 "Use up and down on the Right Stick \n"
 "to move your line of sight!"
-msgstr ""
+msgstr "用右摇杆上下\n移动视线！"
 
 #: olang/005184e3/0x629c7d/0x000001
 msgid ""
 "Use right and left on the Right Stick \n"
 "to move your line of sight!"
-msgstr ""
+msgstr "用右摇杆的左和右\n来移动你的视线！"
 
 #: olang/005184e3/0x62a8fd/0x000000 olang/009c9ea4/0x62a8fd/0x000000
 msgid ""
 "You should be familiar with\n"
 "the up and down controls now."
-msgstr ""
+msgstr "你现在应该已经熟悉\n上下操作了。"
 
 #: olang/005184e3/0x62a97d/0x000000 olang/009c9ea4/0x62a97d/0x000000
 msgid ""
 "You should be familiar with\n"
 "the left and right controls now."
-msgstr ""
+msgstr "你现在应该已经熟悉\n左右操作了。"
 
 #: olang/005184e3/0x62b8fd/0x000000
 msgid ""
 "Alright, let’s try up and down on\n"
 " the Right Stick one more time."
-msgstr ""
+msgstr "好，让我们再试一次\n右摇杆的上下操作。"
 
 #: olang/005184e3/0x62b97d/0x000000
 msgid ""
 "Alright, let’s try left and right on\n"
 "the Right Stick one more time."
-msgstr ""
+msgstr "好，让我们再试一次\n右摇杆的左右操作。"
 
 #: olang/005184e3/0x62c97d/0x000001
 msgid "Use the left stick to move around.\r"
-msgstr ""
+msgstr "用左摇杆移动。"
 
 #: olang/005184e3/0x62cafd/0x000000
 msgid ""
 "What now? \n"
 "Use the left stick to move! "
-msgstr ""
+msgstr "怎么了？\n用左摇杆移动！"
 
 #: olang/005184e3/0x62cb7d/0x000000
 msgid ""
 "Boss, you can use \n"
 "the left stick to move!"
-msgstr ""
+msgstr "老大，你可以用\n左摇杆来移动！"
 
 #: olang/005184e3/0x62d8fd/0x000000
 msgid ""
 "Boss, roll by tapping the Attack Button\n"
 "while running with the left stick!"
-msgstr ""
+msgstr "老大，用左摇杆奔跑时\n按攻击键来翻滚！"
 
 #: olang/005184e3/0x62d8fe/0x000000
 msgid ""
 "Boss, roll by pressing the Crouch Button\n"
 "while running with the left stick!"
-msgstr ""
+msgstr "老大，用左摇杆奔跑时\n按蹲下键来翻滚！"
 
 #: olang/005184e3/0x62db7e/0x000000
 msgid ""
@@ -577,85 +577,85 @@ msgstr ""
 msgid ""
 "To use the stun rod, \n"
 "press the Aim Button to ready it,\r"
-msgstr ""
+msgstr "要使用电击棒，\n按瞄准键准备好，"
 
 #: olang/005184e3/0x62dc7e/0x000001
 msgid "then press the Weapon-Attack Button.\r"
-msgstr ""
+msgstr "再按武器攻击键。"
 
 #: olang/005184e3/0x64487e/0x000000
 msgid "Hey! Press the Aim Button !"
-msgstr ""
+msgstr "喂！按瞄准键！"
 
 #: olang/005184e3/0x6448fe/0x000000
 msgid "Boss, please press the Aim Button !"
-msgstr ""
+msgstr "BOSS，请按瞄准键！"
 
 #: olang/005184e3/0x644a7e/0x000000
 msgid ""
 "What's wrong? Press the Weapon-Attack Button\n"
 "after pressing the Aim Button ! "
-msgstr ""
+msgstr "怎么了？按瞄准键后\n再按武器攻击键！"
 
 #: olang/005184e3/0x644afe/0x000000
 msgid ""
 "Boss, please press the Weapon-Attack Button \n"
 "after pressing the Aim Button !"
-msgstr ""
+msgstr "老大，请按瞄准键后\n再按武器攻击键！"
 
 #: olang/005184e3/0x644bfe/0x000001
 msgid ""
 "and press the Hand-to-hand Attack Button \n"
 "near an enemy as you tilt the left stick! "
-msgstr ""
+msgstr "在敌人附近按徒手攻击键\n同时倾斜左摇杆！"
 
 #: olang/005184e3/0x647bfe/0x000000
 msgid "You OK? Press RT!"
-msgstr ""
+msgstr "没事吧？按RT！"
 
 #: olang/005184e3/0x647c7e/0x000000
 msgid "Boss, you have to press RT!"
-msgstr ""
+msgstr "BOSS，得按RT！"
 
 #: olang/005184e3/0x649a7d/0x000001 olang/005184e3/0x649a7e/0x000001
 msgid ""
 "Then tilt the left stick \n"
 "to throw them.\r"
-msgstr ""
+msgstr "然后倾斜左摇杆\n把他们扔出去。"
 
 #: olang/005184e3/0x649a7d/0x000002
 msgid ""
 "By tilting the left stick toward \n"
 "other enemies, \r"
-msgstr ""
+msgstr "通过向左摇杆朝\n其他敌人方向倾斜，"
 
 #: olang/005184e3/0x649a7e/0x000000
 msgid ""
 "Press the Hand-to-hand Attack Button \n"
 "near an enemy to restrain them!"
-msgstr ""
+msgstr "在敌人附近按徒手攻击键\n来制服他们！"
 
 #: olang/005184e3/0x649a7e/0x000002
 msgid ""
 "By tilting the left stick toward \n"
 "other enemies,  "
-msgstr ""
+msgstr "通过向左摇杆朝\n其他敌人方向倾斜，"
 
 #: olang/005184e3/0x64a7fd/0x000000
 msgid ""
 "Tilt the left stick while restraining \n"
 "the opponent, Boss!"
-msgstr ""
+msgstr "老大，制服对手时\n倾斜左摇杆！"
 
 #: olang/005184e3/0x64aafe/0x000000
 msgid ""
 "Press the Hand-to-hand Attack Button \n"
 "when the Icon appears! "
-msgstr ""
+msgstr "图标出现时\n按徒手攻击键！"
 
 #: olang/005184e3/0x6c8948/0xd71eb4
 msgid "Select a player to trade with."
-msgstr ""
+msgstr "选择交易对象。"
 
 #: olang/005184e3/0x6ccb00/0xabe100
 msgid ""
@@ -663,52 +663,52 @@ msgid ""
 " Please wait. \n"
 " This section contains information from beyond your MAIN OPS progress, \n"
 " and will not be shown on your system."
-msgstr ""
+msgstr "信息受限。\n请稍候。\n此部分内容超出你的主线任务进度，\n不会在你的系统上显示。"
 
 #: olang/005184e3/0x8082bf/0x000000 olang/005184e3/0x8486c0/0x000000
 #: olang/005184e3/0x888abf/0x000000 olang/005184e3/0x8c8ebf/0x000000
 #: olang/005184e3/0xf466bf/0x000000 olang/005184e3/0xf86abf/0x000000
 #: olang/005184e3/0xfc6ebf/0x000000
 msgid "Talk!"
-msgstr ""
+msgstr "对话！"
 
 #: olang/005184e3/0x840500/0x374a51
 msgid ""
 "Back in my old unit, the commander used to tell us at morning calisthenics: \"Whenever you're in trouble, hit the START button!!\"\n"
 "Wonder how he's doing these days."
-msgstr ""
+msgstr "在我老部队，指挥官晨练时常说：“遇到麻烦就按START键！！”\n不知他现在怎样了。"
 
 #: olang/005184e3/0x840ff7/0x44e180
 msgid "START button: End tutorial."
-msgstr ""
+msgstr "START 键：结束教程。"
 
 #: olang/005184e3/0x8b79b6/0x220a93
 msgid ""
 "Checking storage device...\n"
 "Do not remove the storage device \n"
 "or turn off the power."
-msgstr ""
+msgstr "正在检查存储设备……\n请勿拔出存储设备\n或关闭电源。"
 
 #: olang/005184e3/0x8b79b6/0x2e2681
 msgid "Failed to capture screenshot.\r"
-msgstr ""
+msgstr "截图失败。"
 
 #: olang/005184e3/0x8b79b6/0x3b222d
 msgid "This game saves data automatically. Do not turn off the console during this time."
-msgstr ""
+msgstr "本游戏会自动保存数据。此时请勿关闭主机。"
 
 #: olang/005184e3/0x8b79b6/0x93a0b2
 msgid "Save data does not exist.\r"
-msgstr ""
+msgstr "不存在存档数据。"
 
 #: olang/005184e3/0x8b79b6/0xa6ed53 olang/009c9ea4/0x8b79b6/0xa6ed53
 msgid "Failed to capture screenshot."
-msgstr ""
+msgstr "截图失败。"
 
 #: olang/005184e3/0x8b79b6/0xbba0fd olang/0072f326/0xa49217/0x836b27
 #: olang/0072f326/0xdbd1b3/0x4dfe7b
 msgid "Saving content. Please don't turn off your console."
-msgstr ""
+msgstr "正在保存内容。请勿关闭主机。"
 
 #: olang/005184e3/0x8b79b6/0xffa130
 msgid ""
@@ -716,42 +716,42 @@ msgid ""
 "the storage device. This game requires \r\n"
 "at least XXMB of free space in order \n"
 "to save data."
-msgstr ""
+msgstr "存储设备可用空间不足。\r\n本游戏至少需要\r\nXXMB 可用空间\r\n才能保存数据。"
 
 #: olang/005184e3/0x919326/0xc992ce
 msgid "Rotate: Left stick"
-msgstr ""
+msgstr "旋转：左摇杆"
 
 #: olang/005184e3/0x919326/0xc992cf
 msgid "Switch Cameras: Directional pad"
-msgstr ""
+msgstr "切换视角：方向键"
 
 #: olang/005184e3/0x995528/0x945cab
 msgid "CANCEL: BACK"
-msgstr ""
+msgstr "取消：返回"
 
 #: olang/005184e3/0x9b86ab/0x5f42b2
 #, c-format
 msgid ""
 "The entered text is too short.\n"
 "Please use at least %d characters."
-msgstr ""
+msgstr "输入文字过短。\n请至少输入 %d 个字符。"
 
 #: olang/005184e3/0x9dc379/0xd1ff23 olang/00d0c740/0x482e82/0x341a6f
 msgid "Left stick sensitivity"
-msgstr ""
+msgstr "左摇杆灵敏度"
 
 #: olang/005184e3/0xa270a1/0x008b10
 msgid "Pushing the START button will open the menu window."
-msgstr ""
+msgstr "按 START 键将打开菜单窗口。"
 
 #: olang/005184e3/0xb4becf/0x3df22b
 msgid "Remove Board:<I=×>"
-msgstr ""
+msgstr "移除板：<I=×>"
 
 #: olang/005184e3/0xb767d9/0x2b08d5
 msgid "Host has ended the trade. Returning to the LOBBY menu."
-msgstr ""
+msgstr "主机已结束交易。返回大厅菜单。"
 
 #: olang/005184e3/0xb767d9/0x62799f olang/009c9ea4/0xb767d9/0x62799f
 msgid ""
@@ -765,64 +765,64 @@ msgid ""
 "Waiting for trading partner…\n"
 "\n"
 "Xbox LIVE Party INVITE:<I=□>"
-msgstr ""
+msgstr "等待交易对象……\n\nXbox LIVE 派对邀请：<I=□>"
 
 #: olang/005184e3/0xb767d9/0xc76899
 msgid "Trade complete."
-msgstr ""
+msgstr "交易完成。"
 
 #: olang/005184e3/0xb767d9/0xd9422f
 msgid ""
 "Waiting for trading partner…\n"
 "\n"
 "INVITE FRIEND:<I=□>"
-msgstr ""
+msgstr "等待交易对象……\n\n邀好友：<I=□>"
 
 #: olang/005184e3/0xb767d9/0xe642d7
 msgid "An error has occurred."
-msgstr ""
+msgstr "发生错误。"
 
 #: olang/005184e3/0xbd6e37/0x000000
 msgid "Lend me that."
-msgstr ""
+msgstr "借我用。"
 
 #: olang/005184e3/0xc2c780/0x000000 olang/005184e3/0xf062bf/0x000000
 msgid "Start talking!"
-msgstr ""
+msgstr "快说！"
 
 #: olang/005184e3/0xc2cb04/0x000000
 msgid "Consecutive!"
-msgstr ""
+msgstr "连续！"
 
 #: olang/005184e3/0xc44774/0x1c9eb3
 msgid ""
 "There do not appear to be any volunteers.\n"
 "Play online to increase the number of volunteers."
-msgstr ""
+msgstr "似乎没有志愿者。\n在线游玩可增加志愿者数量。"
 
 #: olang/005184e3/0xc99c23/0xd9d9b9
 msgid "BACK"
-msgstr ""
+msgstr "返回"
 
 #: olang/005184e3/0xcc177c/0xb35db6
 msgid "NEW"
-msgstr ""
+msgstr "新建"
 
 #: olang/005184e3/0xdb8c41/0x5b35a4 olang/009c9ea4/0xdb8c41/0x5b35a4
 msgid "Manage AI weapon voice data and items used in-game in \"EXTRAS\"."
-msgstr ""
+msgstr "在“EXTRAS”里管理AI兵器语音和游戏道具。"
 
 #: olang/005184e3/0xdb8c41/0xfd3fd6
 msgid "<I=SEL>: Display help"
-msgstr ""
+msgstr "<I=SEL>：显示帮助"
 
 #: olang/005184e3/0xe24ed2/0xf324d0
 msgid "HOLD DOWN B BUTTON."
-msgstr ""
+msgstr "按住B键。"
 
 #: olang/005184e3/0xe6e4ed/0x3e6e5c
 msgid "When volunteers to MSF are located using SOLDIER SEARCH, a new mission (MSF Entrance Exam) will become available."
-msgstr ""
+msgstr "用士兵搜寻找到MSF志愿者后，将解锁新任务（MSF入队考试）。"
 
 #: olang/005184e3/0xe6e4ed/0x446cc2
 msgid ""
@@ -831,19 +831,19 @@ msgid ""
 "want to evaluate the true strength of the MSF and Snake\n"
 "before they agree to join.  Best them in battle to prove\n"
 "your clout and convince them to become your ally."
-msgstr ""
+msgstr "为MSF招募志愿者。\n志愿者都是经验丰富的老兵，\n他们会先评估MSF和SNAKE的真正实力，\n才会同意加入。在战斗中击败他们，\n证明你的实力，让他们成为你的同伴。"
 
 #: olang/005184e3/0xe6e4ed/0x748b25
 msgid "After selecting HOST SEARCH and matching the Channel to that of the HOST (recruiter), the mission that is recruiting members will be displayed.  The current number of players and the maximum number of players appear to the right of the mission name."
-msgstr ""
+msgstr "选择主机搜寻并将频道与主机（招募者）匹配后，会显示正在招募成员的任务。任务名右侧显示当前人数和人数上限。"
 
 #: olang/005184e3/0xe6e4ed/0x7e41d7
 msgid "HOST SEARCH"
-msgstr ""
+msgstr "主机搜寻"
 
 #: olang/005184e3/0xe6e4ed/0x88883d
 msgid "Use the directional pad to select a Region from the map.  Press <I=DEC> to display the mission list for each Region.  After displaying the mission lists, press <I=CAN> to return to selecting a Region."
-msgstr ""
+msgstr "用方向键在地图上选择地区。按<I=DEC>显示各地区任务列表。显示任务列表后，按<I=CAN>返回选择地区。"
 
 #: olang/005184e3/0xe6e4ed/0x8dcc78
 msgid ""
@@ -853,126 +853,126 @@ msgid ""
 "You can play CO-OPS missions by connecting to Xbox LIVE. To become the HOST of a CO-OPS mission, select a mission from any tab other than the CO-OPS tab.\n"
 "Other players can join from the CO-OPS tab using the HOST SEARCH function.\n"
 "The current and maximum number of players is shown to the right of the mission name."
-msgstr ""
+msgstr "选择你想参加的任务。\n用LT和RT切换标签。\n\n连接Xbox LIVE即可游玩合作任务。要成为合作任务的主机，请从合作任务以外的标签中选择任务。\n其他玩家可通过合作任务标签的主机搜寻功能加入。\n任务名右侧显示当前人数和人数上限。"
 
 #: olang/005184e3/0xe6e4ed/0xcb251d
 msgid "MISSION INFO:"
-msgstr ""
+msgstr "任务信息"
 
 #: olang/005184e3/0xfb5d7b/0x6b92bb
 msgid "PRESS START BUTTON"
-msgstr ""
+msgstr "按START键"
 
 #: olang/005184e3/0xfb5d7b/0x8ec58a
 msgid ""
 "Select your language.\n"
 "\n"
 "*Note: Subtitles can be toggled ON/OFF during cutscenes by pressing <I=SEL>."
-msgstr ""
+msgstr "选择你的语言。\n\n*注意：过场动画中按<I=SEL>可开关字幕。"
 
 #: olang/005184e3/0xff8cbc/0x057609
 msgid "PRESS START"
-msgstr ""
+msgstr "按START键"
 
 #: olang/005184e3/0xff8cbc/0x4e8250 olang/009c9ea4/0xff8cbc/0x4e8250
 msgid "SPECTATOR MODE"
-msgstr ""
+msgstr "观战模式"
 
 #: olang/0060e2f2/0xd449d6/0x0097cb olang/0060e2f2/0xd449d6/0x8067d6
 #: olang/00cb1fb7/0x68bb2b/0x8067d6
 msgid "Friends Only"
-msgstr ""
+msgstr "仅限好友"
 
 #: olang/0060e2f2/0xd449d6/0x05bc0b olang/00cb1fb7/0x68bb2b/0x05bc0b
 msgid "Standard"
-msgstr ""
+msgstr "标准"
 
 #: olang/0060e2f2/0xd449d6/0x0827ec
 msgid "Choose which player's gamer card to view."
-msgstr ""
+msgstr "选择查看哪位玩家的玩家卡。"
 
 #: olang/0060e2f2/0xd449d6/0x133a31
 msgid ""
 "Voice chat with both teammates and\n"
 "enemies during a team vs. team mission."
-msgstr ""
+msgstr "队伍对战任务中，可与队友和\n敌人进行语音聊天。"
 
 #: olang/0060e2f2/0xd449d6/0x22cde9 olang/0060e2f2/0xd449d6/0xc2e5c4
 msgid "ALL"
-msgstr ""
+msgstr "全部"
 
 #: olang/0060e2f2/0xd449d6/0x22f903 olang/0060e2f2/0xd449d6/0x2401cf
 msgid "VOICE CHAT"
-msgstr ""
+msgstr "语音"
 
 #: olang/0060e2f2/0xd449d6/0x28fff4 olang/0060e2f2/0xd449d6/0xe890fe
 #: olang/00cb1fb7/0x68bb2b/0xe890fe
 msgid "Global"
-msgstr ""
+msgstr "全球"
 
 #: olang/0060e2f2/0xd449d6/0x2bf665
 msgid ""
 "Voice chat with only teammates\n"
 "during a team vs. team mission."
-msgstr ""
+msgstr "仅与队友语音聊天\n在对战任务中。"
 
 #: olang/0060e2f2/0xd449d6/0x3bacb0
 msgid "Quick"
-msgstr ""
+msgstr "快"
 
 #: olang/0060e2f2/0xd449d6/0x4ea906 olang/0060e2f2/0xd449d6/0xdf0201
 msgid "TEAM ONLY"
-msgstr ""
+msgstr "仅限小队"
 
 #: olang/0060e2f2/0xd449d6/0x664e51
 msgid "Voice Chat"
-msgstr ""
+msgstr "语音"
 
 #: olang/0060e2f2/0xd449d6/0x70f26b olang/0060e2f2/0xd449d6/0x958855
 msgid "Automatic"
-msgstr ""
+msgstr "自动"
 
 #: olang/0060e2f2/0xd449d6/0x7d0dc1 olang/0060e2f2/0xd449d6/0xeb9470
 #: olang/00cb1fb7/0x68bb2b/0x7d0dc1
 msgid "Domestic"
-msgstr ""
+msgstr "国内"
 
 #: olang/0060e2f2/0xd449d6/0x83a11c olang/00cb1fb7/0x68bb2b/0x8f6fd7
 msgid ""
 "Searching.\n"
 "Press <I=CAN> to cancel the search."
-msgstr ""
+msgstr "搜索中。\n按 <I=CAN> 取消搜索。"
 
 #: olang/0060e2f2/0xd449d6/0x908dce
 msgid "You can recruit VERSUS OPS MEMBERS worldwide over Xbox LIVE. Select the type of invitation."
-msgstr ""
+msgstr "可通过 Xbox LIVE 在全球招募对战任务成员。请选择邀请类型。"
 
 #: olang/0060e2f2/0xd449d6/0x92bc10 olang/00cb1fb7/0x68bb2b/0x8188d5
 msgid "Select search conditions. Then select \"SEARCH\" to start looking for players."
-msgstr ""
+msgstr "选择搜索条件。然后选择“搜索”开始寻找玩家。"
 
 #: olang/0060e2f2/0xd449d6/0x98e96f olang/0060e2f2/0xd449d6/0xc4b92e
 msgid "GAMER CARD"
-msgstr ""
+msgstr "玩家卡"
 
 #: olang/0060e2f2/0xd449d6/0xc8785e
 msgid "Unable to create new game."
-msgstr ""
+msgstr "无法创建新游戏。"
 
 #: olang/0066e64e/0x0c4f4e/0x0009b1 olang/0066e64e/0x97a719/0x0009b1
 #: olang/0066e64e/0xef247a/0x0009b1
 msgid "Select Item"
-msgstr ""
+msgstr "选道具"
 
 #: olang/0066e64e/0x0c4f4e/0x0009b2 olang/0066e64e/0xef247a/0x0009b2
 #: olang/009c9ea4/0x39c9f3/0xe49f73
 msgid "Reset Camera"
-msgstr ""
+msgstr "重置镜头"
 
 #: olang/0066e64e/0x0c4f4e/0x000a71 olang/0066e64e/0x97a719/0x000a71
 #: olang/0066e64e/0xef247a/0x000a71
 msgid "Select Weapon"
-msgstr ""
+msgstr "选择武器"
 
 #: olang/0066e64e/0x0c4f4e/0x000a72 olang/0066e64e/0x210062/0x7c723f
 #: olang/0066e64e/0x210062/0x7c7240 olang/0066e64e/0x210062/0x7c7241
@@ -1164,7 +1164,7 @@ msgstr ""
 #: olang/009c9ea4/0xecf67f/0x8e4842 olang/009c9ea4/0xecf67f/0x8e4844
 #: olang/009c9ea4/0xecf67f/0x8e4845
 msgid "Not Used"
-msgstr ""
+msgstr "未用"
 
 #: olang/0066e64e/0x0c4f4e/0x000af0 olang/0066e64e/0x0c4f4e/0x23472e
 #: olang/0066e64e/0x0c4f4e/0x271d14 olang/0066e64e/0x0c4f4e/0x45a559
@@ -1173,34 +1173,34 @@ msgstr ""
 #: olang/0066e64e/0xef247a/0x271d14 olang/0066e64e/0xef247a/0x45a559
 #: olang/0066e64e/0xef247a/0x5b41ee
 msgid "Shift Camera"
-msgstr ""
+msgstr "切换镜头"
 
 #: olang/0066e64e/0x0c4f4e/0x3adadb
 msgid "Aim Weapon/Attack"
-msgstr ""
+msgstr "瞄准/攻击"
 
 #: olang/0066e64e/0x0c4f4e/0x3b8f30
 msgid "Melee Attack/Cancel Aim"
-msgstr ""
+msgstr "近战/取消瞄准"
 
 #: olang/0066e64e/0x0c4f4e/0x5b0e99 olang/0066e64e/0x97a719/0x5b0e99
 #: olang/0066e64e/0xef247a/0x5b0e99
 msgid "Display Menu"
-msgstr ""
+msgstr "显示菜单"
 
 #: olang/0066e64e/0x0c4f4e/0x5b406e olang/0066e64e/0x97a719/0x5b406e
 #: olang/0066e64e/0xef247a/0x5b406e
 msgid "Move"
-msgstr ""
+msgstr "移"
 
 #: olang/0066e64e/0x0c4f4e/0xa78e90 olang/0066e64e/0x97a719/0x23472e
 #: olang/0066e64e/0x97a719/0xa78e90 olang/0066e64e/0xef247a/0xa78e90
 msgid "Crouch/Lie"
-msgstr ""
+msgstr "蹲/卧"
 
 #: olang/0066e64e/0x0c4f4e/0xba164f
 msgid "Action Button/Reload"
-msgstr ""
+msgstr "动作键/装弹"
 
 #: olang/0066e64e/0x210062/0x7c7244 olang/0066e64e/0x210062/0x7c7246
 #: olang/0066e64e/0x210063/0x7c7244 olang/0066e64e/0x210063/0x7c7246
@@ -1249,18 +1249,18 @@ msgstr ""
 #: olang/009c9ea4/0xdd6303/0x7c7244 olang/009c9ea4/0xdd6303/0x7c7246
 #: olang/009c9ea4/0xecf67f/0x7c7244 olang/009c9ea4/0xecf67f/0x7c7246
 msgid "Change Tab"
-msgstr ""
+msgstr "切标签"
 
 #: olang/0066e64e/0x210062/0x8e483f olang/0066e64e/0x210062/0x8e4840
 #: olang/0066e64e/0x210062/0x8e4841 olang/009c9ea4/0x210062/0x8e483f
 #: olang/009c9ea4/0x210062/0x8e4840 olang/009c9ea4/0x210062/0x8e4841
 msgid "Change Floor (on maps with more than 1 story)"
-msgstr ""
+msgstr "切换楼层（多层地图）"
 
 #: olang/0066e64e/0x210062/0x8e4842 olang/0066e64e/0x210063/0x8e4842
 #: olang/009c9ea4/0x210062/0x8e4842 olang/009c9ea4/0x210063/0x8e4842
 msgid "Scroll"
-msgstr ""
+msgstr "滚动"
 
 #: olang/0066e64e/0x210062/0x8e4843 olang/0066e64e/0x210063/0x8e4843
 #: olang/0066e64e/0x210064/0x8e4843 olang/0066e64e/0x210065/0x8e4843
@@ -1268,7 +1268,7 @@ msgstr ""
 #: olang/0066e64e/0x210069/0x8e4843 olang/0066e64e/0x21006a/0x8e4843
 #: olang/0066e64e/0x21006b/0x8e4843
 msgid "Display Key Help"
-msgstr ""
+msgstr "显示按键帮助"
 
 #: olang/0066e64e/0x210062/0x8e4844 olang/0066e64e/0x210062/0x8e4845
 #: olang/0066e64e/0x210063/0x8e4844 olang/0066e64e/0x210063/0x8e4845
@@ -1289,14 +1289,14 @@ msgstr ""
 #: olang/009c9ea4/0x21006a/0x8e4844 olang/009c9ea4/0x21006a/0x8e4845
 #: olang/009c9ea4/0x21006b/0x8e4844 olang/009c9ea4/0x21006b/0x8e4845
 msgid "Close Menu"
-msgstr ""
+msgstr "关菜单"
 
 #: olang/0066e64e/0x210064/0x7c723f olang/0066e64e/0x210064/0x7c7240
 #: olang/0066e64e/0x210064/0x7c7241 olang/0066e64e/0x210064/0x7c7242
 #: olang/009c9ea4/0x210064/0x7c723f olang/009c9ea4/0x210064/0x7c7240
 #: olang/009c9ea4/0x210064/0x7c7241 olang/009c9ea4/0x210064/0x7c7242
 msgid "Group Select / CO-OPS Comm. Select"
-msgstr ""
+msgstr "组选择／合作通讯选择"
 
 #: olang/0066e64e/0x210065/0x7c723f olang/0066e64e/0x210065/0x7c7247
 #: olang/0066e64e/0x210065/0x7c7248 olang/0066e64e/0x210065/0x8e4841
@@ -1314,72 +1314,72 @@ msgstr ""
 #: olang/009c9ea4/0xd4462e/0x7c723f olang/009c9ea4/0xda75f0/0x7c723f
 #: olang/009c9ea4/0xdd6303/0x7c723f olang/009c9ea4/0xecf67f/0x7c723f
 msgid "Select"
-msgstr ""
+msgstr "选择"
 
 #: olang/0066e64e/0x210065/0x7c7240 olang/0066e64e/0xecf67f/0x7c7241
 #: olang/009c9ea4/0x210065/0x7c7240 olang/00d0c740/0x482e82/0x381576
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: olang/0066e64e/0x210066/0x7c7247 olang/0066e64e/0x210066/0x7c7248
 #: olang/009c9ea4/0x210066/0x7c7247 olang/009c9ea4/0x210066/0x7c7248
 msgid "Item Select"
-msgstr ""
+msgstr "选道具"
 
 #: olang/0066e64e/0x210066/0x8e483f olang/0066e64e/0x210066/0x8e4840
 #: olang/009c9ea4/0x210066/0x8e483f olang/009c9ea4/0x210066/0x8e4840
 msgid "Setting Select"
-msgstr ""
+msgstr "设置选择"
 
 #: olang/0066e64e/0x210066/0x8e4841 olang/009c9ea4/0x210066/0x8e4841
 msgid "Item Select / Setting Select "
-msgstr ""
+msgstr "道具选择／设置选择"
 
 #: olang/0066e64e/0x210069/0x7c7240 olang/0066e64e/0x21006a/0x7c7240
 #: olang/0066e64e/0x4983dd/0x7c7242 olang/009c9ea4/0x210069/0x7c7240
 #: olang/009c9ea4/0x21006a/0x7c7240 olang/009c9ea4/0x4983dd/0x7c7242
 msgid "Play"
-msgstr ""
+msgstr "播放"
 
 #: olang/0066e64e/0x210069/0x7c7241 olang/0066e64e/0x21006a/0x7c7241
 #: olang/009c9ea4/0x210069/0x7c7241 olang/009c9ea4/0x21006a/0x7c7241
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 #: olang/0066e64e/0x21006a/0x7c7247 olang/0066e64e/0x21006b/0x7c7242
 #: olang/009c9ea4/0x21006a/0x7c7247 olang/009c9ea4/0x21006b/0x7c7242
 msgid "Previous Track (while playing)"
-msgstr ""
+msgstr "上一曲（播放中）"
 
 #: olang/0066e64e/0x21006a/0x7c7248 olang/0066e64e/0x21006b/0x7c723f
 #: olang/009c9ea4/0x21006a/0x7c7248 olang/009c9ea4/0x21006b/0x7c723f
 msgid "Next Track (while playing)"
-msgstr ""
+msgstr "下一曲（播放中）"
 
 #: olang/0066e64e/0x21006a/0x8e4841 olang/009c9ea4/0x21006a/0x8e4841
 msgid "Previous Track (while playing) / Next Track (while playing)"
-msgstr ""
+msgstr "上一曲（播放中）／下一曲（播放中）"
 
 #: olang/0066e64e/0x21006b/0x7c7240 olang/009c9ea4/0x21006b/0x7c7240
 msgid "Press to Play/Stop - Hold to Enter ZAPPIN Mode"
-msgstr ""
+msgstr "按下播放／停止，长按进入 ZAPPIN 模式"
 
 #: olang/0066e64e/0x21006b/0x7c7241 olang/009c9ea4/0x21006b/0x7c7241
 msgid "Toggle Shuffle Mode"
-msgstr ""
+msgstr "切换随机播放"
 
 #: olang/0066e64e/0x35f472/0x7c723f olang/009c9ea4/0x35f472/0x7c723f
 msgid "Select / Skill Details"
-msgstr ""
+msgstr "选择／技能详情"
 
 #: olang/0066e64e/0x35f472/0x7c7240 olang/009c9ea4/0x35f472/0x7c7240
 msgid "Back / Cancel Entire Selection"
-msgstr ""
+msgstr "返回／取消全部选择"
 
 #: olang/0066e64e/0x35f472/0x7c7241 olang/0066e64e/0x7893c2/0x7c7241
 #: olang/009c9ea4/0x35f472/0x7c7241 olang/009c9ea4/0x7893c2/0x7c7241
 msgid "Select / Cancel Selection"
-msgstr ""
+msgstr "选择／取消选择"
 
 #: olang/0066e64e/0x35f472/0x7c7242 olang/0066e64e/0x53f3f0/0x7c7242
 #: olang/0066e64e/0x7893c2/0x7c7242 olang/0066e64e/0x89e528/0x7c7242
@@ -1392,7 +1392,7 @@ msgstr ""
 #: olang/009c9ea4/0xb8862e/0x7c7242 olang/009c9ea4/0xd33fba/0x7c7242
 #: olang/009c9ea4/0xd4462e/0x7c7242 olang/009c9ea4/0xda75f0/0x7c7242
 msgid "Details Screen / Model Viewer"
-msgstr ""
+msgstr "详情画面／模型查看"
 
 #: olang/0066e64e/0x35f472/0x7c7247 olang/0066e64e/0x35f472/0x7c7248
 #: olang/0066e64e/0x53f3f0/0x7c7247 olang/0066e64e/0x53f3f0/0x7c7248
@@ -1401,7 +1401,7 @@ msgstr ""
 #: olang/009c9ea4/0x53f3f0/0x7c7247 olang/009c9ea4/0x53f3f0/0x7c7248
 #: olang/009c9ea4/0x7893c2/0x7c7247 olang/009c9ea4/0x7893c2/0x7c7248
 msgid "Move Cursor / Change Staff"
-msgstr ""
+msgstr "移动光标／换士兵"
 
 #: olang/0066e64e/0x35f472/0x8e483f olang/0066e64e/0x35f472/0x8e4840
 #: olang/0066e64e/0x53f3f0/0x8e483f olang/0066e64e/0x53f3f0/0x8e4840
@@ -1410,11 +1410,11 @@ msgstr ""
 #: olang/009c9ea4/0x53f3f0/0x8e483f olang/009c9ea4/0x53f3f0/0x8e4840
 #: olang/009c9ea4/0x7893c2/0x8e483f olang/009c9ea4/0x7893c2/0x8e4840
 msgid "Move Cursor / Change List Mode"
-msgstr ""
+msgstr "移动光标／切换列表模式"
 
 #: olang/0066e64e/0x35f472/0x8e4841 olang/009c9ea4/0x35f472/0x8e4841
 msgid "Move Cursor / Change Staff/ Change List Mode"
-msgstr ""
+msgstr "移动光标／换士兵／切列表模式"
 
 #: olang/0066e64e/0x35f472/0x8e4843 olang/0066e64e/0x4983dd/0x8e4843
 #: olang/0066e64e/0x5389f6/0x8e4843 olang/0066e64e/0x53f3f0/0x8e4843
@@ -1432,7 +1432,7 @@ msgstr ""
 #: olang/009c9ea4/0xd4462e/0x8e4843 olang/009c9ea4/0xda75f0/0x8e4843
 #: olang/009c9ea4/0xdd6303/0x8e4843 olang/009c9ea4/0xecf67f/0x8e4843
 msgid "Help"
-msgstr ""
+msgstr "帮助"
 
 #: olang/0066e64e/0x35f472/0x8e4844 olang/0066e64e/0x35f472/0x8e4845
 #: olang/0066e64e/0x53f3f0/0x8e4844 olang/0066e64e/0x53f3f0/0x8e4845
@@ -1447,21 +1447,21 @@ msgstr ""
 #: olang/009c9ea4/0xd4462e/0x8e4844 olang/009c9ea4/0xd4462e/0x8e4845
 #: olang/009c9ea4/0xda75f0/0x8e4844 olang/009c9ea4/0xda75f0/0x8e4845
 msgid "Sort Mode"
-msgstr ""
+msgstr "排序"
 
 #: olang/0066e64e/0x4983dd/0x7c723f olang/009c9ea4/0x4983dd/0x7c723f
 msgid "Select / Open"
-msgstr ""
+msgstr "选择 / 打开"
 
 #: olang/0066e64e/0x4983dd/0x7c7240 olang/0066e64e/0x5389f6/0x7c7240
 #: olang/0066e64e/0xecf67f/0x7c7240 olang/009c9ea4/0x4983dd/0x7c7240
 #: olang/009c9ea4/0x5389f6/0x7c7240 olang/009c9ea4/0xecf67f/0x7c7240
 msgid "Back / Cancel"
-msgstr ""
+msgstr "返回 / 取消"
 
 #: olang/0066e64e/0x4983dd/0x7c7241 olang/009c9ea4/0x4983dd/0x7c7241
 msgid "Delete / Reset"
-msgstr ""
+msgstr "删除/重置"
 
 #: olang/0066e64e/0x4983dd/0x7c7247 olang/0066e64e/0x4983dd/0x7c7248
 #: olang/0066e64e/0x4983dd/0x8e483f olang/0066e64e/0x4983dd/0x8e4840
@@ -1514,11 +1514,11 @@ msgstr ""
 #: olang/009c9ea4/0xecf67f/0x7c7248 olang/009c9ea4/0xecf67f/0x8e483f
 #: olang/009c9ea4/0xecf67f/0x8e4840 olang/009c9ea4/0xecf67f/0x8e4841
 msgid "Move Cursor"
-msgstr ""
+msgstr "移光标"
 
 #: olang/0066e64e/0x5389f6/0x7c7241 olang/009c9ea4/0x5389f6/0x7c7241
 msgid "Unassign"
-msgstr ""
+msgstr "取消指派"
 
 #: olang/0066e64e/0x53f3f0/0x7c7240 olang/0066e64e/0x678b3d/0x7c7240
 #: olang/0066e64e/0x89e528/0x7c7240 olang/0066e64e/0x89e8a0/0x7c7240
@@ -1531,122 +1531,122 @@ msgstr ""
 #: olang/009c9ea4/0xd33fba/0x7c7240 olang/009c9ea4/0xd4462e/0x7c7240
 #: olang/009c9ea4/0xda75f0/0x7c7240 olang/009c9ea4/0xdd6303/0x7c7240
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #: olang/0066e64e/0x53f3f0/0x8e4841 olang/0066e64e/0x7893c2/0x8e4841
 #: olang/009c9ea4/0x53f3f0/0x8e4841 olang/009c9ea4/0x7893c2/0x8e4841
 msgid "Move Cursor / Change Staff / Change List Mode"
-msgstr ""
+msgstr "移光标/换士兵/切列表模式"
 
 #: olang/0066e64e/0x678b3d/0x7c7241 olang/009c9ea4/0x678b3d/0x7c7241
 msgid "Select / Cancel / Remove Equipment / Discard"
-msgstr ""
+msgstr "选择 / 取消 / 卸下装备 / 丢弃"
 
 #: olang/0066e64e/0x678b3d/0x7c7242 olang/0066e64e/0xdd6303/0x7c7242
 #: olang/009c9ea4/0x678b3d/0x7c7242 olang/009c9ea4/0xdd6303/0x7c7242
 msgid "Model Viewer"
-msgstr ""
+msgstr "模型查看器"
 
 #: olang/0066e64e/0x7893c2/0x7c7240 olang/009c9ea4/0x7893c2/0x7c7240
 msgid "Back / Cancel / Reset Selection State"
-msgstr ""
+msgstr "返回 / 取消 / 重置选择状态"
 
 #: olang/0066e64e/0x89e528/0x7c723f olang/0066e64e/0x89e8a0/0x7c723f
 #: olang/009c9ea4/0x89e528/0x7c723f olang/009c9ea4/0x89e8a0/0x7c723f
 msgid "Conditions / Develop / Details"
-msgstr ""
+msgstr "状态 / 开发 / 详情"
 
 #: olang/0066e64e/0x89e528/0x7c7241 olang/0066e64e/0x89e8a0/0x7c7241
 #: olang/009c9ea4/0x89e528/0x7c7241 olang/009c9ea4/0x89e8a0/0x7c7241
 msgid "Jump (only on \"DEVELOPMENT STATUS\" and \"NEW\" tabs)"
-msgstr ""
+msgstr "跳转（仅限“开发状态”和“新建”标签）"
 
 #: olang/0066e64e/0x97a719/0x0009b2 olang/0066e64e/0xef247a/0x000a72
 msgid "Aim Weapon"
-msgstr ""
+msgstr "瞄准"
 
 #: olang/0066e64e/0x97a719/0x000a72 olang/0066e64e/0xef247a/0x3b8f30
 msgid "Attack"
-msgstr ""
+msgstr "攻击"
 
 #: olang/0066e64e/0x97a719/0x000af0 olang/0066e64e/0x97a719/0x3adadb
 #: olang/0066e64e/0xef247a/0x3adadb olang/009c9ea4/0x39c9f3/0x6bb2d6
 msgid "Action Button"
-msgstr ""
+msgstr "动作键"
 
 #: olang/0066e64e/0x97a719/0x271d14 olang/0066e64e/0x97a719/0x45a559
 msgid "Zoom"
-msgstr ""
+msgstr "缩放"
 
 #: olang/0066e64e/0x97a719/0xba164f olang/0066e64e/0xef247a/0xba164f
 msgid "Reload"
-msgstr ""
+msgstr "装弹"
 
 #: olang/0066e64e/0xa69279/0x7c7241 olang/009c9ea4/0xbc86b6/0x3c54c6
 #: olang/009c9ea4/0xecf67f/0x7c7241
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #: olang/0066e64e/0xb8862e/0x8e483f olang/0066e64e/0xb8862e/0x8e4840
 #: olang/0066e64e/0xd4462e/0x8e483f olang/0066e64e/0xd4462e/0x8e4840
 #: olang/009c9ea4/0xb8862e/0x8e483f olang/009c9ea4/0xb8862e/0x8e4840
 #: olang/009c9ea4/0xd4462e/0x8e483f olang/009c9ea4/0xd4462e/0x8e4840
 msgid "Change Rank"
-msgstr ""
+msgstr "改等级"
 
 #: olang/0066e64e/0xb8862e/0x8e4841 olang/0066e64e/0xd4462e/0x8e4841
 #: olang/009c9ea4/0xb8862e/0x8e4841 olang/009c9ea4/0xd4462e/0x8e4841
 msgid "Move Cursor / Change Rank"
-msgstr ""
+msgstr "移光标/改等级"
 
 #: olang/0066e64e/0xecf67f/0x7c7242 olang/009c9ea4/0xecf67f/0x7c7242
 msgid "Codename Selection Screen"
-msgstr ""
+msgstr "代号选择画面"
 
 #: olang/0072f326/0x34cd5c/0x0dbab6 olang/0072f326/0xa49217/0xdc6ef3
 #: olang/009c9ea4/0xa49217/0xdc6ef3
 msgid "METAL GEAR SOLID PEACE WALKER HD EDITION"
-msgstr ""
+msgstr "METAL GEAR SOLID PEACE WALKER HD EDITION"
 
 #: olang/0072f326/0xa49217/0x0b32fa
 msgid "Try again"
-msgstr ""
+msgstr "重试"
 
 #: olang/0072f326/0xa49217/0x0bc73e
 msgid "Join the game you were invited to?"
-msgstr ""
+msgstr "要加入受邀的游戏吗？"
 
 #: olang/0072f326/0xa49217/0x0d9f69
 msgid "If you start playing now, your game data will not be saved. Do you want to begin playing?"
-msgstr ""
+msgstr "现在开始游戏，存档将不会保存。要开始吗？"
 
 #: olang/0072f326/0xa49217/0x11e974
 msgid "Unable to load saved data. Try again?"
-msgstr ""
+msgstr "无法读取存档。重试？"
 
 #: olang/0072f326/0xa49217/0x185ec9 olang/009c9ea4/0xa49217/0x185ec9
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #: olang/0072f326/0xa49217/0x19875a
 msgid "Load completed."
-msgstr ""
+msgstr "读取完成。"
 
 #: olang/0072f326/0xa49217/0x348ed6
 msgid "The storage device has been removed. You will need to select a storage device in order to create saved data. Connect a useable storage device and try again?"
-msgstr ""
+msgstr "存储设备已移除。需选择存储设备才能创建存档。请连接可用存储设备后重试？"
 
 #: olang/0072f326/0xa49217/0x350f34
 msgid ""
 "The selected storage device already contains saved data. If you select a new game, your existing game data will be deleted.\n"
 "Start a new game?"
-msgstr ""
+msgstr "所选存储设备已有存档。选择新游戏将删除现有存档。\n开始新游戏？"
 
 #: olang/0072f326/0xa49217/0x3f129b
 msgid ""
 "This game possesses an auto-save feature.\n"
 "Do not turn the console off while data is being saved."
-msgstr ""
+msgstr "本游戏有自动保存功能。\n保存时请勿关闭主机。"
 
 #: olang/0072f326/0xa49217/0x422618 olang/009c9ea4/0xa49217/0x422618
 msgid "Configuring game data."
@@ -1654,280 +1654,280 @@ msgstr "配置游戏数据中。"
 
 #: olang/0072f326/0xa49217/0x468f9a
 msgid "Select storage device"
-msgstr ""
+msgstr "选择存储设备"
 
 #: olang/0072f326/0xa49217/0x4af71f olang/009c9ea4/0xa49217/0x4af71f
 msgid "Continue without saving progress"
-msgstr ""
+msgstr "不保存进度继续"
 
 #: olang/0072f326/0xa49217/0x5a12d1
 msgid "You do not have the type of saved data that allows you to play online. Before you can play online, you must have saved data from a game in which you cleared the opening mission. You will now start a standard game."
-msgstr ""
+msgstr "你没有可联机的存档。需有通关序章任务的存档才能联机。现在将开始普通游戏。"
 
 #: olang/0072f326/0xa49217/0x5ba6f0
 msgid "Cannot play online without loading save data. Try again?"
-msgstr ""
+msgstr "未读取存档无法联机。重试？"
 
 #: olang/0072f326/0xa49217/0x66f18e olang/0072f326/0xdbd1b3/0x62a9e3
 #: olang/009c9ea4/0x35b782/0xece603 olang/009c9ea4/0xa49217/0x66f18e
 #: olang/009c9ea4/0xdbd1b3/0x62a9e3 olang/00c6a046/0x35b782/0xece603
 msgid "Unable to save game data. Try again?"
-msgstr ""
+msgstr "无法保存游戏数据。重试？"
 
 #: olang/0072f326/0xa49217/0x67152e
 msgid "Your console is not connected to a useable storage device.  You will need to select a storage device in order to save game progress.  Do you want to select one now?"
-msgstr ""
+msgstr "主机未连接可用存储设备。需选择存储设备才能保存进度。现在选择？"
 
 #: olang/0072f326/0xa49217/0x6f6d2e
 msgid "Save data cannot be found. Save data with online play enabled is needed to play online. You cannot receive the invite."
-msgstr ""
+msgstr "未找到存档。联机需启用联机的存档。无法接收邀请。"
 
 #: olang/0072f326/0xa49217/0x71044e olang/009c9ea4/0xa49217/0x71044e
 msgid "MGS PEACE WALKER HD"
-msgstr ""
+msgstr "MGS 和平行者 HD"
 
 #: olang/0072f326/0xa49217/0x77c49d olang/009c9ea4/0xa49217/0x77c49d
 msgid "Create saved data"
-msgstr ""
+msgstr "创建存档"
 
 #: olang/0072f326/0xa49217/0x78c7a5
 msgid "Continue without loading"
-msgstr ""
+msgstr "不读取继续"
 
 #: olang/0072f326/0xa49217/0x802a26 olang/009c9ea4/0xa49217/0x802a26
 msgid ""
 "Game data has been corrupted.\n"
 "Delete existing data and create new system data?"
-msgstr ""
+msgstr "游戏数据已损坏。\n删除现有数据并创建新系统数据？"
 
 #: olang/0072f326/0xa49217/0x81acfe
 msgid ""
 "Your saved data has been corrupted.\n"
 "Unable to load saved data."
-msgstr ""
+msgstr "存档已损坏。\n无法读取存档。"
 
 #: olang/0072f326/0xa49217/0x872e48
 msgid "You will now start a standard game without joining the game you were invited to."
-msgstr ""
+msgstr "现在将不加入受邀游戏，开始普通游戏。"
 
 #: olang/0072f326/0xa49217/0x9fcd91
 msgid "Sign in"
-msgstr ""
+msgstr "登录"
 
 #: olang/0072f326/0xa49217/0xafe32f
 msgid "No saved data was found in the selected storage device. Do you want to create new saved data?"
-msgstr ""
+msgstr "所选存储设备中未找到存档。要创建新存档吗？"
 
 #: olang/0072f326/0xa49217/0xb04128
 msgid "Unable to create saved data due to insufficient available memory in the selected storage device. To create saved data, you need to have at least [lack_strage_save_capacity] KB of free space available. Connect a storage device with sufficient available memory and try again?"
-msgstr ""
+msgstr "所选存储设备空间不足，无法创建存档。创建存档至少需要 [lack_strage_save_capacity] KB 可用空间。请连接空间充足的存储设备后重试？"
 
 #: olang/0072f326/0xa49217/0xb081ab
 msgid "The storage device has been removed. You will need to select a storage device in order to load saved data. Try again?"
-msgstr ""
+msgstr "存储设备已移除。需选择存储设备才能读取存档。重试？"
 
 #: olang/0072f326/0xa49217/0xb0c19d olang/009c9ea4/0xa49217/0xb0c19d
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #: olang/0072f326/0xa49217/0xbdeecf
 msgid "Save data could not be found. You cannot play online without first loading save data."
-msgstr ""
+msgstr "未找到存档。不读取存档无法进行在线游戏。"
 
 #: olang/0072f326/0xa49217/0xc436da
 msgid "Unable to create game data due to insufficient available memory in the selected storage device. To create game data, you need to have at least [lack_strage_system_capacity] KB of free space available. Connect a storage device with the necessary free space and try again?"
-msgstr ""
+msgstr "所选存储设备空间不足，无法创建游戏数据。需要至少 [lack_strage_system_capacity] KB 可用空间。请连接空间足够的存储设备后重试。"
 
 #: olang/0072f326/0xa49217/0xdf5ad6
 msgid "You will need to select a storage device in order to save game data. Select a storage device?"
-msgstr ""
+msgstr "保存游戏数据需要选择存储设备。是否选择？"
 
 #: olang/0072f326/0xa49217/0xe53e6d
 msgid "Loading saved data. Do not turn off the console or remove the storage device."
-msgstr ""
+msgstr "正在读取存档。请勿关闭主机或拔出存储设备。"
 
 #: olang/0072f326/0xa49217/0xe67360
 msgid "You are not signed into your gamer profile.  In order to save progress, you will need to be signed in. Do you want to sign in now?"
-msgstr ""
+msgstr "你尚未登录玩家档案。要保存进度需先登录。是否现在登录？"
 
 #: olang/0072f326/0xdbd1b3/0x79ab74
 msgid "The selected storage device already contains METAL GEAR SOLID PEACE WALKER HD EDITION system data. Do you want to overwrite this data?"
-msgstr ""
+msgstr "所选存储设备已有 METAL GEAR SOLID PEACE WALKER HD EDITION 系统数据。是否覆盖？"
 
 #: olang/0072f326/0xdbd1b3/0x8d4014
 msgid "The selected storage device already contains METAL GEAR SOLID PEACE WALKER HD EDITION saved data. Do you want to overwrite this data?"
-msgstr ""
+msgstr "所选存储设备已有 METAL GEAR SOLID PEACE WALKER HD EDITION 存档。是否覆盖？"
 
 #: olang/0072f326/0xdbd1b3/0xba9d90
 msgid "Your console is not connected to a useable storage device. Do you want to select one now?"
-msgstr ""
+msgstr "主机未连接可用存储设备。是否现在选择？"
 
 #: olang/0072f326/0xdbd1b3/0xfbb2f1
 msgid "Overwrite"
-msgstr ""
+msgstr "覆盖"
 
 #: olang/009c9ea4/0x017f53/0x000133
 msgid "A weekly pulp magazine filled to the brim with outlandish and absurd sci-fi/horror stories.  Roughly half of the stories are about men fighting Martians and are written by amateurs.  Not to be taken too seriously.  Lurid and sexually suggestive themes are a given.\n"
-msgstr ""
+msgstr "满是离奇荒诞科幻恐怖故事的周刊廉价杂志。约半数是业余作者写的火星人战斗故事。不必太当真。低俗与性暗示内容自然少不了。\n"
 
 #: olang/009c9ea4/0x017f53/0x000134 olang/00d345a5/0x017f53/0x000134
 msgid "A monthly pulp magazine that features mature content aimed at literary types. The real-life travel logs submitted by soldiers from around the world are a must read.  Also boasts an ample supply of scantily-clad pin-ups."
-msgstr ""
+msgstr "面向文学爱好者的成人向月刊廉价杂志。士兵们从世界各地寄来的真实旅行日志值得一读。也有大量衣着暴露的写真。"
 
 #: olang/009c9ea4/0x017f53/0x000135
 msgid "A quarterly men's lifestyle magazine aimed at discriminating adults. Features include articles on news, politics, and special interests such as the ever-popular \"bonsai\" corner.  Naturally, it also features its fare share of \"adult content.\""
-msgstr ""
+msgstr "面向有品位成年人的季刊男性生活杂志。内容包括新闻、政治，以及备受欢迎的“盆栽”专栏等。当然也少不了“成人内容”。"
 
 #: olang/009c9ea4/0x048941/0x000054
 msgid ""
 "Jigsaw made of steel wire. \n"
 "Alternate pressing <I=SAW_L> and <I=SAW_R> to use."
-msgstr ""
+msgstr "钢丝拼图。\n交替按 <I=SAW_L> 和 <I=SAW_R> 使用。"
 
 #: olang/009c9ea4/0x048941/0x000081
 msgid ""
 "Shield made from bulletproof material. \n"
 "Press <I=AIM> to use. \n"
 "The direction protected varies according to weapon equipped."
-msgstr ""
+msgstr "防弹材料制成的盾。\n按 <I=AIM> 使用。\n防护方向随装备武器变化。"
 
 #: olang/009c9ea4/0x048941/0x000086 olang/00d345a5/0x048941/0x000086
 msgid "Shield made from bulletproof material (colored). Press the Aim Button to use. The direction protected varies according to weapon equipped."
-msgstr ""
+msgstr "防弹材料制成的彩色盾。按瞄准键使用。防护方向随装备武器变化。"
 
 #: olang/009c9ea4/0x048941/0x0001af
 msgid "Original t-shirt design. Identical in basic characteristics to Jungle Fatigues. "
-msgstr ""
+msgstr "原创T恤设计。基本性能与丛林迷彩服相同。"
 
 #: olang/009c9ea4/0x0765b1/0x000000
 msgid "Next we'll work on your movement."
-msgstr ""
+msgstr "接下来练习移动。"
 
 #: olang/009c9ea4/0x0765b1/0x000001 olang/009c9ea4/0x62c97d/0x000001
 msgid "Use <I=MOVE> to move around."
-msgstr ""
+msgstr "用 <I=MOVE> 移动。"
 
 #: olang/009c9ea4/0x0765b1/0x000002
 msgid "Use <I=WALK> to walk slowly."
-msgstr ""
+msgstr "用 <I=WALK> 慢步走。"
 
 #: olang/009c9ea4/0x0765b1/0x000003
 msgid ""
 "Decide which to use \n"
 "based on your situation."
-msgstr ""
+msgstr "根据情况\n灵活选用。"
 
 #: olang/009c9ea4/0x0765b1/0x000004
 msgid ""
 "Remember that your footsteps are louder\n"
 "when running, making you easier to discover."
-msgstr ""
+msgstr "记住，跑步时脚步声更大，\n更容易被发现。"
 
 #: olang/009c9ea4/0x0765b1/0x000005
 msgid "Be careful!"
-msgstr ""
+msgstr "小心！"
 
 #: olang/009c9ea4/0x0765d1/0x000000 olang/009c9ea4/0x62cb7d/0x000000
 msgid ""
 "Boss, you can use \n"
 "<I=MOVE> to move!"
-msgstr ""
+msgstr "BOSS，按 <I=MOVE> \n就能移动！"
 
 #: olang/009c9ea4/0x076bed/0x000000 olang/009c9ea4/0x62997d/0x000000
 msgid ""
 "To move your line of sight, \n"
 "use <I=CAMERA>."
-msgstr ""
+msgstr "要移动视线，\n用 <I=CAMERA>。"
 
 #: olang/009c9ea4/0x076bed/0x000001
 msgid ""
 "Now, when I give you an order, \n"
 "look in that direction."
-msgstr ""
+msgstr "我下令时，\n就朝那个方向看。"
 
 #: olang/009c9ea4/0x076de5/0x000000
 msgid ""
 "Alright, let’s try up and down with\n"
 "<I=CAMERA> one more time."
-msgstr ""
+msgstr "好，再用<I=CAMERA>试一次\n上下。"
 
 #: olang/009c9ea4/0x076ded/0x000000
 msgid ""
 "Alright, let’s try left and right with\n"
 "<I=CAMERA> one more time."
-msgstr ""
+msgstr "好，再用<I=CAMERA>试一次\n左右。"
 
 #: olang/009c9ea4/0x077dd9/0x000000
 msgid "To do this,"
-msgstr ""
+msgstr "为此，"
 
 #: olang/009c9ea4/0x077dd9/0x000001 olang/009c9ea4/0x644bfd/0x000001
 msgid "position yourself near your opponent"
-msgstr ""
+msgstr "先靠近对手"
 
 #: olang/009c9ea4/0x077dd9/0x000002
 msgid ""
 "and press <I=ATK> \n"
 "while you press <I=MOVE>."
-msgstr ""
+msgstr "然后按住<I=MOVE>时\n按<I=ATK>。"
 
 #: olang/009c9ea4/0x077dd9/0x000003 olang/009c9ea4/0x644bfd/0x000003
 #: olang/009c9ea4/0x644bfe/0x000002
 msgid ""
 "Be sure to press <I=ATK> \n"
 "when the icon appears."
-msgstr ""
+msgstr "图标出现时\n一定要按<I=ATK>。"
 
 #: olang/009c9ea4/0x077dd9/0x000004
 msgid ""
 "Now, wait for my command \n"
 "and throw your opponent."
-msgstr ""
+msgstr "现在等我的指令，\n把对手摔出去。"
 
 #: olang/009c9ea4/0x077ea9/0x000000 olang/009c9ea4/0x6458fd/0x000000
 #: olang/009c9ea4/0x6458fe/0x000000
 msgid "Boss,"
-msgstr ""
+msgstr "BOSS，"
 
 #: olang/009c9ea4/0x077ea9/0x000001
 msgid ""
 "you have to press <I=ATK> \n"
 "as you press <I=MOVE>!"
-msgstr ""
+msgstr "按住<I=MOVE>时\n要按<I=ATK>！"
 
 #: olang/009c9ea4/0x077fd1/0x000000 olang/009c9ea4/0x646b7d/0x000000
 msgid "To throw an enemy to the ground,"
-msgstr ""
+msgstr "要把敌人摔到地上，"
 
 #: olang/009c9ea4/0x077fd1/0x000001
 msgid "press <I=MOVE> when you have them restrained."
-msgstr ""
+msgstr "制住对方后按<I=MOVE>。"
 
 #: olang/009c9ea4/0x0782c1/0x000000 olang/009c9ea4/0x649a7d/0x000000
 msgid ""
 "First restrain an opponent by pressing \n"
 "<I=ATK> near them."
-msgstr ""
+msgstr "先靠近对手按<I=ATK>\n将其制住。"
 
 #: olang/009c9ea4/0x0782c1/0x000001
 msgid "Then press <I=MOVE> to throw them."
-msgstr ""
+msgstr "然后按<I=MOVE>摔出。"
 
 #: olang/009c9ea4/0x0782c1/0x000002
 msgid "By pressing <I=MOVE> toward other enemies,"
-msgstr ""
+msgstr "朝其他敌人方向按<I=MOVE>，"
 
 #: olang/009c9ea4/0x0782c1/0x000003
 msgid ""
 "you can send your captive flying \n"
 "straight into them! "
-msgstr ""
+msgstr "就能把抓住的敌人\n直接砸向他们！"
 
 #: olang/009c9ea4/0x0782c1/0x000004
 msgid ""
 "On my command, \n"
 "restrain and then throw your opponent. "
-msgstr ""
+msgstr "听我指令，\n制住对手再摔出去。"
 
 #: olang/009c9ea4/0x078399/0x000000
 msgid ""
@@ -1937,34 +1937,34 @@ msgstr ""
 
 #: olang/009c9ea4/0x0864ad/0x00004e
 msgid "On the battlefield, showers are few and far between. And on that important mission, body odor can be a distraction not only to yourself, but to your brothers in arms. That's where this body fragrance comes in, providing a mild aroma that relaxes both body and soul, allowing you and your comrades to focus on the mission at hand."
-msgstr ""
+msgstr "战场上洗澡机会少之又少。执行重要任务时，体味不仅会让自己分心，也会影响战友。这款香体露气味清淡，能放松身心，让你和同伴专心执行眼前的任务。"
 
 #: olang/009c9ea4/0x101ab9/0x1f530a
 msgid "Remember whether the camera is in First Person View when the L1 button is released."
-msgstr ""
+msgstr "记住松开L1键时镜头是否处于第一人称视角。"
 
 #: olang/009c9ea4/0x1331ad/0xae7f04
 msgid "COMRADE'S ALLIES"
-msgstr ""
+msgstr "战友的盟友"
 
 #: olang/009c9ea4/0x1331ad/0xb8a0c0
 msgid "COMRADES"
-msgstr ""
+msgstr "战友"
 
 #: olang/009c9ea4/0x1331ad/0xbbc0e2
 msgid "Please verify the Date & Time settings on your device. Incorrect date settings may interfere with package deliveries."
-msgstr ""
+msgstr "请检查设备的日期与时间设置。日期设置错误可能影响包裹送达。"
 
 #: olang/009c9ea4/0x1766a9/0x000000 olang/009c9ea4/0x62d8fd/0x000000
 #: olang/009c9ea4/0x62d8fe/0x000000
 msgid ""
 "Boss, roll by pressing <I=STANCE>\n"
 "while running with <I=MOVE>!"
-msgstr ""
+msgstr "BOSS，用<I=MOVE>奔跑时\n按<I=STANCE>翻滚！"
 
 #: olang/009c9ea4/0x17ba49/0x8f9a09
 msgid "Select where to attach custom parts."
-msgstr ""
+msgstr "选择自定义部件位置。"
 
 #: olang/009c9ea4/0x19f879/0x8f3a58
 msgid ""
@@ -2009,69 +2009,69 @@ msgid ""
 " - If you want to get back into the action quickly and\n"
 "    can't wait for a teammate to revive you,\n"
 "     tap <I=ACT> repeatedly to shorten the time."
-msgstr ""
+msgstr "VERSUS OPS是一种竞技游戏模式，最多允许\n6名玩家相互交战。\n\n有4种游戏类型（规则）可供选择：\n\n 死亡竞赛\n 团队死亡竞赛\n 夺取任务\n 基地任务\n\n--------\n\n请注意，VERSUS OPS的玩法可能在以下方面\n与MAIN OPS不同：\n\n - 武器和装备的威力及效果可能不同。\n - CO-OP Ring的半径和效果可能不同。\n - Camaraderie和Heroism的效果可能不同。\n - 某些员工技能可能无效。\n - 某些武器可能被禁用。\n - 某些类型的装备可能被禁用。\n - CO-OPS COMM.的效果可能不同。\n - LIFE和PSYCHE不会恢复，\n    即使你保持静止。\n\n--------\n\nCPR\n\n与其他OPS一样，VERSUS OPS允许你使用\nCPR来复活濒死的队友，但\n有一些重要区别，具体\n如下：\n\n - 复活所需的胸外按压次数\n    不同。\n - 如果队友在10秒内未被复活，\n    他们就会死亡。\n - 如果你想快速重返战斗，\n    等不及队友来复活你，\n     反复点击<I=ACT>可缩短时间。"
 
 #: olang/009c9ea4/0x19f879/0x92ac58
 msgid "Connect with and battle other players. 2 teams of up to 3 players are allowed."
-msgstr ""
+msgstr "与其他玩家连接并对战。最多可组成2队，每队3人。"
 
 #: olang/009c9ea4/0x19fb4c/0xcc1298
 msgid "DISCARD"
-msgstr ""
+msgstr "丢弃"
 
 #: olang/009c9ea4/0x1a3e77/0x6a33a8
 msgid "Rotate Camera: <I=CAMERA>"
-msgstr ""
+msgstr "旋转镜头：<I=CAMERA>"
 
 #: olang/009c9ea4/0x1a3e77/0x6a33a9 olang/009c9ea4/0x5f753b/0x88adbe
 #: olang/009c9ea4/0x919326/0xc992cf
 msgid "Switch Cameras: <I=LR>"
-msgstr ""
+msgstr "切换镜头：<I=LR>"
 
 #: olang/009c9ea4/0x1a3e77/0xace08d
 msgid "P. UNIT- SCRAP"
-msgstr ""
+msgstr "P. UNIT- SCRAP"
 
 #: olang/009c9ea4/0x1bca3f/0x000134 olang/009c9ea4/0xae0b2a/0x000134
 #: olang/00d345a5/0x1bca3f/0x000134 olang/00d345a5/0xae0b2a/0x000134
 msgid "LIQUID M."
-msgstr ""
+msgstr "LIQUID M."
 
 #: olang/009c9ea4/0x1bed50/0x1787c8 olang/009c9ea4/0x291428/0x2b250c
 #: olang/009c9ea4/0x5f753b/0xad4e91 olang/009c9ea4/0xc99c23/0x291428
 msgid "CONTROLS HELP"
-msgstr ""
+msgstr "操作帮助"
 
 #: olang/009c9ea4/0x20dacf/0x0dd20a olang/009c9ea4/0x482e82/0x5c60d3
 msgid "BACK TO MAIN MENU"
-msgstr ""
+msgstr "返回主菜单"
 
 #: olang/009c9ea4/0x20dacf/0x40edf8
 msgid "View the online manual."
-msgstr ""
+msgstr "看在线说明书。"
 
 #: olang/009c9ea4/0x20dacf/0x4dcf0e
 msgid "Return to the main menu."
-msgstr ""
+msgstr "返回主菜单。"
 
 #: olang/009c9ea4/0x20dacf/0xac79ca olang/009c9ea4/0x39c9f3/0x4a509a
 #: olang/009c9ea4/0x43f3a5/0x506452 olang/009c9ea4/0xe6e4ed/0xb7fd8f
 #: olang/009c9ea4/0xfb5d7b/0x96ec94
 msgid "KEY CONFIG"
-msgstr ""
+msgstr "按键设置"
 
 #: olang/009c9ea4/0x20dacf/0xc286c8
 msgid "When you receive a box from someone you don't know, you can return the favor by finding the box's original sender under the COMRADE'S ALLIES tab."
-msgstr ""
+msgstr "收到陌生人送的箱子时，可在战友盟友标签下找到箱子的原寄送者来还礼。"
 
 #: olang/009c9ea4/0x20dacf/0xc93e8a
 msgid "Exit game and return to main menu?"
-msgstr ""
+msgstr "退出游戏并返回主菜单？"
 
 #: olang/009c9ea4/0x20dacf/0xffddf8 olang/009c9ea4/0x2c4b0f/0x48e16c
 #: olang/009c9ea4/0xa49217/0x236883
 msgid "ONLINE MANUAL"
-msgstr ""
+msgstr "在线手册"
 
 #: olang/009c9ea4/0x210062/0x8e4843 olang/009c9ea4/0x210063/0x8e4843
 #: olang/009c9ea4/0x210064/0x8e4843 olang/009c9ea4/0x210065/0x8e4843
@@ -2084,11 +2084,11 @@ msgstr ""
 #: olang/009c9ea4/0x5f4143/0x6a9054 olang/009c9ea4/0x5f4144/0x6a9054
 #: olang/009c9ea4/0x5f4145/0x6a9054 olang/009c9ea4/0x5f4146/0x6a9054
 msgid "Display Controls Help"
-msgstr ""
+msgstr "显示操作帮助"
 
 #: olang/009c9ea4/0x21535e/0x11f53b
 msgid "Auto"
-msgstr ""
+msgstr "自动"
 
 #: olang/009c9ea4/0x21535e/0x1ce3b0
 msgid "2560x1440"
@@ -2096,11 +2096,11 @@ msgstr ""
 
 #: olang/009c9ea4/0x21535e/0x1e9ffa
 msgid "Custom Type"
-msgstr ""
+msgstr "自定义"
 
 #: olang/009c9ea4/0x21535e/0x2ad3c3
 msgid "Borderless Window"
-msgstr ""
+msgstr "无边框窗口"
 
 #: olang/009c9ea4/0x21535e/0x60a1f7
 msgid "1920x1080"
@@ -2108,11 +2108,11 @@ msgstr ""
 
 #: olang/009c9ea4/0x21535e/0x7190a1
 msgid "Full Screen"
-msgstr ""
+msgstr "全屏"
 
 #: olang/009c9ea4/0x21535e/0x817549
 msgid "Standard Type"
-msgstr ""
+msgstr "标准类型"
 
 #: olang/009c9ea4/0x21535e/0x9b02d0
 msgid "3840x2160"
@@ -2124,11 +2124,11 @@ msgstr ""
 
 #: olang/009c9ea4/0x21535e/0xb81ae9
 msgid "Windowed"
-msgstr ""
+msgstr "窗口"
 
 #: olang/009c9ea4/0x21535e/0xc82c1d
 msgid "Display [monitor_number]"
-msgstr ""
+msgstr "显示[monitor_number]"
 
 #: olang/009c9ea4/0x215635/0x3b1b1f
 msgid ""
@@ -2136,216 +2136,216 @@ msgid ""
 "<C=FF4040>Allowing Mother Base to be hit by 10 missiles will result in instant mission failure<C=R>.\n"
 "Chaff Grenades are not allowed.\n"
 " # of Targets: 30"
-msgstr ""
+msgstr "<C=FF4040>击落<C=R>射向MSF母基地的敌方导弹。\n<C=FF4040>母基地被10枚导弹击中即任务失败<C=R>。\n不可使用干扰弹。\n 目标数：30"
 
 #: olang/009c9ea4/0x215635/0x55aca6
 msgid ""
 "Zadornov has escaped from Mother Base. Find him and bring him back.\n"
 " Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
-msgstr ""
+msgstr "扎多尔诺夫已从母基地逃走。找到他并带回来。\n 所需物品：<C=FF4040>富尔顿回收系统<C=R>"
 
 #: olang/009c9ea4/0x215635/0x75aca6
 msgid ""
 "Zadornov has escaped from Mother Base once again. Find him and bring him back.\n"
 " Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
-msgstr ""
+msgstr "扎多尔诺夫又从母基地逃走了。找到他并带回来。\n所需物品：<C=FF4040>富尔顿回收系统<C=R>"
 
 #: olang/009c9ea4/0x215635/0x75aca9
 msgid ""
 "You guessed it - Zadornov has escaped from Mother Base again. Find him and bring him back.\n"
 " Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
-msgstr ""
+msgstr "你猜对了——扎多尔诺夫又从母基地逃走了。找到他并带回来。\n所需物品：<C=FF4040>富尔顿回收系统<C=R>"
 
 #: olang/009c9ea4/0x215635/0x95aca6
 msgid ""
 "Zadornov has escaped from Mother Base yet again. Find him and bring him back.\n"
 " Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
-msgstr ""
+msgstr "扎多尔诺夫再次从母基地逃走了。找到他并带回来。\n所需物品：<C=FF4040>富尔顿回收系统<C=R>"
 
 #: olang/009c9ea4/0x215635/0x95aca9
 msgid ""
 "Believe it or not, Zadornov has escaped from Mother Base again. Find him and bring him back.\n"
 " Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
-msgstr ""
+msgstr "信不信由你，扎多尔诺夫又从母基地逃走了。找到他并带回来。\n所需物品：<C=FF4040>富尔顿回收系统<C=R>"
 
 #: olang/009c9ea4/0x215635/0xb5aca9
 msgid ""
 "Zadornov has escaped from Mother Base again. Find him and bring him back.\n"
 " Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
-msgstr ""
+msgstr "扎多尔诺夫又从母基地逃走了。找到他并带回来。\n所需物品：<C=FF4040>富尔顿回收系统<C=R>"
 
 #: olang/009c9ea4/0x227683/0x7383ce olang/009c9ea4/0x227683/0xe8c00e
 #: olang/00d9bfd4/0x227683/0x187156 olang/00d9bfd4/0x227683/0x1fc51a
 msgid "Mute: <I=OPTION_MUTE>"
-msgstr ""
+msgstr "静音：<I=OPTION_MUTE>"
 
 #: olang/009c9ea4/0x227683/0xe8c0d4
 msgid "Mute"
-msgstr ""
+msgstr "静音"
 
 #: olang/009c9ea4/0x227683/0xf77e9e
 msgid "A connection error has occurred."
-msgstr ""
+msgstr "发生连接错误。"
 
 #: olang/009c9ea4/0x22af99/0x0001af olang/009c9ea4/0x4e7980/0x0001af
 #: olang/009c9ea4/0x954c25/0x0001af
 msgid "MUSIC PLAYER"
-msgstr ""
+msgstr "音乐播放器"
 
 #: olang/009c9ea4/0x291428/0x50818e olang/009c9ea4/0xc99c23/0x50818e
 #: olang/009c9ea4/0xc99c23/0xd9d9b9
 msgid "<I=SEL>"
-msgstr ""
+msgstr "<I=SEL>"
 
 #: olang/009c9ea4/0x291428/0xd9d9b9
 msgid "<I=STA>"
-msgstr ""
+msgstr "<I=STA>"
 
 #: olang/009c9ea4/0x2d0e67/0xf29383 olang/009c9ea4/0x2d0e69/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "<I=CAMERA> up: Look Up\n"
 "<I=CAMERA> down: Look Down"
-msgstr ""
+msgstr "按动作键确认 \n<I=CAMERA>上：向上看\n<I=CAMERA>下：向下看"
 
 #: olang/009c9ea4/0x2d0e68/0xf29383 olang/009c9ea4/0x2d0e6a/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "<I=CAMERA> up: Look Down\n"
 "<I=CAMERA> down: Look Up"
-msgstr ""
+msgstr "按动作键确认 \n<I=CAMERA>上：向下看\n<I=CAMERA>下：向上看"
 
 #: olang/009c9ea4/0x2d0e6c/0xf29383 olang/009c9ea4/0x2d0e6e/0xf29383
 msgid ""
 "Press <I=ACT> to confirm \n"
 "<I=CAMERA> left: Look Left\n"
 "<I=CAMERA> right: Look Right"
-msgstr ""
+msgstr "按<I=ACT>确认 \n<I=CAMERA>左：向左看\n<I=CAMERA>右：向右看"
 
 #: olang/009c9ea4/0x2d0e6d/0xf29383 olang/009c9ea4/0x2d0e85/0xf29383
 msgid ""
 "Press <I=ACT> to confirm \n"
 "<I=CAMERA> left: Look Right\n"
 "<I=CAMERA> right: Look Left"
-msgstr ""
+msgstr "按<I=ACT>确认 \n<I=CAMERA>左：向右看\n<I=CAMERA>右：向左看"
 
 #: olang/009c9ea4/0x2d3090/0x000134 olang/00d345a5/0x2d3090/0x000134
 msgid "Liquid Magazine"
-msgstr ""
+msgstr "利奎德杂志"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d32b
 msgid "Peace Constitutions"
-msgstr ""
+msgstr "和平宪法"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d32c
 msgid "Peace Constitution of Japan"
-msgstr ""
+msgstr "日本和平宪法"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d32d
 msgid "Article 9 and the JSDF"
-msgstr ""
+msgstr "第九条与自卫队"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d32e
 msgid "The U.S-Japan Security Treaty"
-msgstr ""
+msgstr "美日安保条约"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d32f
 msgid "The Nuclear Umbrella"
-msgstr ""
+msgstr "核保护伞"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d346
 msgid "The Three Non-Nuclear Principles"
-msgstr ""
+msgstr "无核三原则"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d347
 msgid "The JSDF"
-msgstr ""
+msgstr "日本自卫队"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d348
 msgid "Why Miller quit the JSDF"
-msgstr ""
+msgstr "米勒为何退出日本自卫队"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d349 olang/009c9ea4/0x31a1fa/0xb6dba6
 #: olang/009c9ea4/0x31a1fa/0xb6dfa7
 msgid "About himself"
-msgstr ""
+msgstr "关于自己"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d34a
 msgid "Roles within the Mother Base"
-msgstr ""
+msgstr "母基地中的职责"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d34b
 msgid "Upbringing"
-msgstr ""
+msgstr "成长"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d34c
 msgid "How Miller met Snake"
-msgstr ""
+msgstr "米勒遇SNAKE"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d34d
 msgid "The Fundamentals of Stealth"
-msgstr ""
+msgstr "潜行基础"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d34e
 msgid "Sneaking Mission"
-msgstr ""
+msgstr "潜入任务"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d34f
 msgid "Effective Use of Fulton Recovery"
-msgstr ""
+msgstr "富尔顿回收的运用"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d366
 msgid "Body Checks"
-msgstr ""
+msgstr "搜身"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d367
 msgid "Weight Carried"
-msgstr ""
+msgstr "负重"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d368
 msgid "Aim Tremors"
-msgstr ""
+msgstr "瞄准抖"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d369
 msgid "Dressing for the Mission"
-msgstr ""
+msgstr "按任务着装"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d36a
 msgid "Jungle Fatigues"
-msgstr ""
+msgstr "丛林迷彩服"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d36b
 msgid "Sneaking Suit"
-msgstr ""
+msgstr "潜行服"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d36c
 msgid "Battle Dress"
-msgstr ""
+msgstr "战斗服"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d36d
 msgid "Naked"
-msgstr ""
+msgstr "裸装"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d36e olang/009c9ea4/0x31a1fa/0xb6d36f
 msgid "CO-OPS"
-msgstr ""
+msgstr "合作任务"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d386
 msgid "CO-OP Ring"
-msgstr ""
+msgstr "合作圈"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d387
 msgid "Snake Formation"
-msgstr ""
+msgstr "SNAKE阵型"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d388
 msgid "CPR"
-msgstr ""
+msgstr "心肺复苏"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d389
 msgid "Camaraderie"
-msgstr ""
+msgstr "羁绊"
 
 #: olang/009c9ea4/0x31a1fa/0xb6d38a
 msgid "Snake Sync"
-msgstr ""
+msgstr "SNAKE同步"

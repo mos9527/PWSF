@@ -40,6 +40,25 @@ FORMAT_RE = re.compile(r"%[-+ #0]*[0-9]*(?:\.[0-9]+)?(?:hh|h|ll|l|L|z|j|t)?"
                        r"[diuoxXfFeEgGaAcsp%]")
 ALLOWED_CONTROL = {"\n", "\r", "\t"}
 
+
+def _find_formats(s: str) -> list:
+    """printf specifiers in `s`, skipping plain-text percent signs.
+
+    The flag class `[-+ #0]` admits a space, which is real printf (`% d`) but
+    also swallows English prose: `100% of all weapons developed.` matches as
+    `% o`, and the translation `已开发全部武器100%。` then "loses" a specifier
+    it never had. A space flag is only trusted when the conversion character
+    is not followed by more word characters -- `% d` is a specifier, `% of`
+    is a percent sign in front of a word.
+    """
+    out = []
+    for m in FORMAT_RE.finditer(s):
+        spec = m.group(0)
+        if " " in spec[1:] and m.end() < len(s) and s[m.end()].isalnum():
+            continue
+        out.append(spec)
+    return out
+
 ERROR = "error"
 WARN = "warn"
 
@@ -89,8 +108,9 @@ def _control_chars(s: str) -> list:
 
 def _markup(rep: Report, where: str, msgid: str, msgstr: str,
             allow_ruby_drop: bool) -> None:
-    for code, rx in (("icon", ICON_RE), ("format", FORMAT_RE)):
-        src, dst = sorted(rx.findall(msgid)), sorted(rx.findall(msgstr))
+    for code, src, dst in (("icon", ICON_RE.findall(msgid), ICON_RE.findall(msgstr)),
+                           ("format", _find_formats(msgid), _find_formats(msgstr))):
+        src, dst = sorted(src), sorted(dst)
         if src != dst:
             rep.add(ERROR, code, where,
                     f"source has {src or 'none'}, translation has {dst or 'none'}")

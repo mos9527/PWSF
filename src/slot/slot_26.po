@@ -11,103 +11,103 @@ msgstr ""
 
 #: slot/0x00eeea4a/0x3d5434/0xdb6a25
 msgid "It's no good."
-msgstr ""
+msgstr "不行。"
 
 #: slot/0x00eeea4a/0x3d5434/0xdb6a26
 msgid "Sorry 'bout that."
-msgstr ""
+msgstr "抱歉。"
 
 #: slot/0x00eeea4a/0x3d5434/0xdb6a27
 msgid "Please!"
-msgstr ""
+msgstr "求！"
 
 #: slot/0x00eeea4a/0x3d5434/0xdb6a28
 msgid "Yes!"
-msgstr ""
+msgstr "好"
 
 #: slot/0x00eeea4a/0x3d5434/0xdb6a2a
 msgid "I agree!"
-msgstr ""
+msgstr "同意"
 
 #: slot/0x00eeea4a/0x3d5434/0xdb6a2b
 msgid "I disagree!"
-msgstr ""
+msgstr "反对！"
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea24
 msgid "The rules are:"
-msgstr ""
+msgstr "规则："
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea25
 msgid "The map is:"
-msgstr ""
+msgstr "地图："
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea26
 msgid "The number of rounds:"
-msgstr ""
+msgstr "回合数："
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea27
 msgid "The round time is:"
-msgstr ""
+msgstr "回合时间："
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea28
 msgid "The number of tickets:"
-msgstr ""
+msgstr "票数："
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea29
 msgid "Limited weapons are:"
-msgstr ""
+msgstr "限制武器："
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea2a
 msgid "Friendly Fire is:"
-msgstr ""
+msgstr "友军伤害："
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea2b
 msgid "Team Kill Kick is:"
-msgstr ""
+msgstr "误杀踢出："
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea2c
 msgid "Idle Kick is:"
-msgstr ""
+msgstr "挂机踢："
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea43
 msgid "Auto Team Balance is:"
-msgstr ""
+msgstr "自动平衡队伍："
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea44
 msgid "Capture Keep Time is:"
-msgstr ""
+msgstr "占领保持时间："
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea45
 msgid "Deathmatch"
-msgstr ""
+msgstr "死斗"
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea46
 msgid "Team Deathmatch"
-msgstr ""
+msgstr "团队死斗"
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea47
 msgid "Capture Mission"
-msgstr ""
+msgstr "占领任务"
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea48
 msgid "Base Mission"
-msgstr ""
+msgstr "基地任务"
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea4a
 msgid "VR Mode"
-msgstr ""
+msgstr "VR模"
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea4b
 msgid "First Battle"
-msgstr ""
+msgstr "首次战斗"
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea4c
 msgid "Mock Battle"
-msgstr ""
+msgstr "模拟战"
 
 #: slot/0x00eeea4a/0x3d5435/0xdbea63
 msgid "Real Battle"
-msgstr ""
+msgstr "实战"
 
 #: slot/0x00eeea4a/0x3d5436/0xdc6a43
 msgid "0"
@@ -115,40 +115,40 @@ msgstr ""
 
 #: slot/0x00eeea4a/0xa2600e/0xf5466e
 msgid "Greetings"
-msgstr ""
+msgstr "问候"
 
 #: slot/0x00eeea4a/0xa2600e/0xf5466f
 msgid "About the Game"
-msgstr ""
+msgstr "游戏说明"
 
 #: slot/0x00eeea4a/0xa2600e/0xf54670
 msgid "Hails"
-msgstr ""
+msgstr "呼叫"
 
 #: slot/0x00eeea4a/0xa2600e/0xf54671
 msgid "Short Messages"
-msgstr ""
+msgstr "简短讯息"
 
 #: slot/0x00eeea4a/0xa2600e/0xf54672
 msgid "Exclamations"
-msgstr ""
+msgstr "感叹"
 
 #: slot/0x00eeea4a/0xa2600e/0xf54673
 msgid "Responses"
-msgstr ""
+msgstr "回应"
 
 #: slot/0x00eeea4a/0xa2600e/0xf54674
 msgid "Rules"
-msgstr ""
+msgstr "规则"
 
 #: slot/0x00eeea4a/0xa2600e/0xf54675
 msgid "Numbers"
-msgstr ""
+msgstr "数字"
 
 #: slot/0x00efed13/0x5f413d/0x38def1
 #: slot/0x00efed13/0x5f413d/0x4c3b24
 msgid "Change Floor (on maps with more than 1 story)"
-msgstr ""
+msgstr "切换楼层（多层地图）"
 
 #: slot/0x00efed13/0x5f413d/0x6a9054
 #: slot/0x00efed13/0x5f413e/0x6a9054
@@ -160,7 +160,7 @@ msgstr ""
 #: slot/0x00efed13/0x5f4145/0x6a9054
 #: slot/0x00efed13/0x5f4146/0x6a9054
 msgid "Display Key Help"
-msgstr ""
+msgstr "显示键位"
 
 #: slot/0x00efed13/0x5f413d/0x7edc00
 #: slot/0x00efed13/0x5f413e/0x7edc00
@@ -172,78 +172,78 @@ msgstr ""
 #: slot/0x00efed13/0x5f4145/0x7edc00
 #: slot/0x00efed13/0x5f4146/0x7edc00
 msgid "Close Menu"
-msgstr ""
+msgstr "关菜单"
 
 #: slot/0x00efed13/0x5f413d/0x95dc1e
 #: slot/0x00efed13/0x5f413e/0x95dc1e
 msgid "Scroll"
-msgstr ""
+msgstr "滚动"
 
 #: slot/0x00efed13/0x5f413f/0x1b7151
 #: slot/0x00efed13/0x5f413f/0x3c54c6
 #: slot/0x00efed13/0x5f413f/0x5bd34d
 #: slot/0x00efed13/0x5f413f/0x916e3e
 msgid "Group Select / CO-OPS Comm. Select"
-msgstr ""
+msgstr "组选／合作通讯选"
 
 #: slot/0x00efed13/0x5f4141/0x38def1
 #: slot/0x00efed13/0x5f4141/0x4c3b24
 msgid "Setting Select"
-msgstr ""
+msgstr "设置选择"
 
 #: slot/0x00efed13/0x5f4141/0x52db1b
 #: slot/0x00efed13/0x5f4141/0x539262
 msgid "Item Select"
-msgstr ""
+msgstr "选道具"
 
 #: slot/0x00efed13/0x5f4143/0x169d43
 #: slot/0x00efed13/0x5f4143/0x969d41
 msgid "CHANGE TAB"
-msgstr ""
+msgstr "切标签"
 
 #: slot/0x00efed13/0x5f4143/0x1b7151
 msgid "PLAY/STOP (SOUND ONLY)"
-msgstr ""
+msgstr "播放／停止（仅声音）"
 
 #: slot/0x00efed13/0x5f4143/0x3c54c6
 msgid "SELECTION CHANGE"
-msgstr ""
+msgstr "切换选择"
 
 #: slot/0x00efed13/0x5f4143/0x52db1b
 #: slot/0x00efed13/0x5f4143/0x539262
 msgid "MOVE CURSOR/MULTIPLE SELECTION"
-msgstr ""
+msgstr "移动光标／多选"
 
 #: slot/0x00efed13/0x5f4143/0x6a9054
 msgid "DISPLAY KEY HELP"
-msgstr ""
+msgstr "显示键位"
 
 #: slot/0x00efed13/0x5f4143/0x7edc00
 msgid "CLOSE MENU"
-msgstr ""
+msgstr "关菜单"
 
 #: slot/0x00efed13/0x5f4144/0x3c54c6
 #: slot/0x00efed13/0x5f4145/0x3c54c6
 msgid "Stop"
-msgstr ""
+msgstr "停"
 
 #: slot/0x00efed13/0x5f4145/0x52db1b
 #: slot/0x00efed13/0x5f4146/0x916e3e
 msgid "Next Track (while playing)"
-msgstr ""
+msgstr "下一曲（播放中）"
 
 #: slot/0x00efed13/0x5f4145/0x539262
 #: slot/0x00efed13/0x5f4146/0x1b7151
 msgid "Previous Track (while playing)"
-msgstr ""
+msgstr "上一曲（播放中）"
 
 #: slot/0x00efed13/0x5f4146/0x3c54c6
 msgid "Toggle Shuffle Mode"
-msgstr ""
+msgstr "切换随机播放"
 
 #: slot/0x00efed13/0x5f4146/0x5bd34d
 msgid "Press to Play/Stop - Hold to Enter ZAPPIN Mode"
-msgstr ""
+msgstr "按下播放/停止 - 按住进入ZAPPIN模式"
 
 #: slot/0x00f1b9c2/0x188473/0x313564
 #: slot/0x00f1b9c2/0x188473/0x3806c3
@@ -261,79 +261,79 @@ msgstr ""
 #: slot/0x00f1b9c2/0x188473/0xe7207f
 #: slot/0x00f1b9c2/0x188473/0xf1203b
 msgid "(None)"
-msgstr ""
+msgstr "（无）"
 
 #: slot/0x00f1b9c2/0x188473/0x3406c3
 #: slot/0x00f1b9c2/0x188473/0x83e0cd
 msgid "Select Item"
-msgstr ""
+msgstr "选道具"
 
 #: slot/0x00f1b9c2/0x188473/0x4e02ed
 #: slot/0x00f1b9c2/0x188473/0xf1403b
 #: slot/0x00f1b9c2/0x188473/0xf1903b
 msgid "Crouch/Lie"
-msgstr ""
+msgstr "蹲/趴"
 
 #: slot/0x00f1b9c2/0x188473/0x714acd
 #: slot/0x00f1b9c2/0x188473/0xb14ace
 #: slot/0x00f1b9c2/0x188473/0xf14acc
 msgid "Display Menu"
-msgstr ""
+msgstr "显示菜单"
 
 #: slot/0x00f1b9c2/0x188473/0x83e0b1
 #: slot/0x00f1b9c2/0x188473/0x89e0b9
 msgid "Aim Weapon"
-msgstr ""
+msgstr "瞄准"
 
 #: slot/0x00f1b9c2/0x188473/0x83e0b9
 msgid "Reset Camera"
-msgstr ""
+msgstr "重置镜头"
 
 #: slot/0x00f1b9c2/0x188473/0x89e0cd
 msgid "Select Weapon/Precise Shot"
-msgstr ""
+msgstr "选择武器/精准射击"
 
 #: slot/0x00f1b9c2/0x188473/0x970645
 #: slot/0x00f1b9c2/0x188473/0xa10645
 #: slot/0x00f1b9c2/0x188473/0xdcbefc
 msgid "Shift Camera"
-msgstr ""
+msgstr "移动镜头"
 
 #: slot/0x00f1b9c2/0x188473/0xb13563
 msgid "Select Weapon"
-msgstr ""
+msgstr "选择武器"
 
 #: slot/0x00f1b9c2/0x188473/0xd0403a
 msgid "Select Weapon/Item"
-msgstr ""
+msgstr "选武器/道具"
 
 #: slot/0x00f1b9c2/0x188473/0xd3907b
 msgid "Melee Attack/Cancel Aim"
-msgstr ""
+msgstr "近攻/取消瞄准"
 
 #: slot/0x00f1b9c2/0x188473/0xe7907f
 msgid "Aim Weapon/Attack"
-msgstr ""
+msgstr "瞄准/攻击"
 
 #: slot/0x00f1b9c2/0x43f3a5/0x0891fc
 msgid ""
 "CONFIRM: <I=DEC> PLAY VOICE: <I=△>\n"
 "CANCEL: <I=CAN>"
-msgstr ""
+msgstr "确认: <I=DEC> 播放语音: <I=△>\n取消: <I=CAN>"
 
 #: slot/0x00f1b9c2/0x43f3a5/0x144483
 msgid "（不要）〇×：終了"
-msgstr ""
+msgstr "（不要）〇×：结束"
 
 #: slot/0x00f1b9c2/0x43f3a5/0x173982
 msgid ""
 "CONFIRM: <I=DEC>\n"
 "CANCEL: <I=CAN>"
-msgstr ""
+msgstr "确认: <I=DEC>\n取消: <I=CAN>"
 
 #: slot/0x00f1b9c2/0x43f3a5/0x2e8695
 msgid "Adjust controls settings."
-msgstr ""
+msgstr "调整操作设置。"
 
 #: slot/0x00f1b9c2/0x43f3a5/0x394f17
 msgid ""
@@ -346,20 +346,20 @@ msgid ""
 "HUNTER TYPE: Control the camera with your left hand.\n"
 "The configuration is similar to that of\n"
 "the MONSTER HUNTER FREEDOM<I=TM> series."
-msgstr ""
+msgstr "选择操作方式。  \n\n射击型:  用右手控制镜头。配置与《MGS4》类似。\n\n动作型:  用左手控制镜头。配置与《MPO》类似。\n\n猎人型: 用左手控制镜头。\n配置与\nMONSTER HUNTER FREEDOM<I=TM>系列类似。"
 
 #: slot/0x00f1b9c2/0x43f3a5/0x47e5fe
 msgid "Confirm or change controls."
-msgstr ""
+msgstr "确认或更改操作。"
 
 #: slot/0x00f1b9c2/0x43f3a5/0x7c421f
 msgid "(DUMMY)"
-msgstr ""
+msgstr "（占位）"
 
 #: slot/0x00f1b9c2/0x43f3a5/0x853ebb
 msgid "There is no Memory<I=BL>Stick<I=TM> inserted."
-msgstr ""
+msgstr "未插入Memory<I=BL>Stick<I=TM>。"
 
 #: slot/0x00f1b9c2/0x43f3a5/0xf2d20b
 msgid "An error occurred while reading the Memory<I=BL>Stick<I=TM>.  Downloaded data will not be saved."
-msgstr ""
+msgstr "读取Memory<I=BL>Stick<I=TM>时发生错误。已下载的数据将不会被保存。"

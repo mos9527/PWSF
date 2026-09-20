@@ -17,7 +17,7 @@ msgid ""
 "  Time Penalty: 1 min. for triggering an alert\n"
 "  Items Needed: <C=FF4040>Fulton Recovery System<C=R>\n"
 "  # of Targets: 11"
-msgstr ""
+msgstr "<C=FF4040>使用富尔顿回收系统回收所有潜伏在中埃雷迪亚云雾林中的敌方侦察兵<C=R>。\n<C=FF4040>杀死哪怕一名敌兵都会导致任务立即失败<C=R>。\n  时间限制：16:00\n  时间惩罚：触发警报加1分钟\n  所需物品：<C=FF4040>富尔顿回收系统<C=R>\n  目标数：11"
 
 #: slot/0x00514128/0x215635/0xa11b22
 msgid ""
@@ -25,22 +25,22 @@ msgid ""
 "<C=FF4040>Exit the Shooting Range to end<C=R>.\n"
 "Support supply markers and support strike markers are not allowed.\n"
 "  # of Targets: Unlimited"
-msgstr ""
+msgstr "<C=FF4040>在母基地射击场进行打靶练习<C=R>。弹药无限。\n<C=FF4040>离开射击场即结束<C=R>。\n不允许使用支援补给标记和支援打击标记。\n  目标数：无限"
 
 #: slot/0x00514128/0x215635/0xa21b1e
 msgid "ABOUT SBM027"
-msgstr ""
+msgstr "关于SBM027"
 
 #: slot/0x00514128/0x215635/0xa21b22
 msgid ""
 "<C=FF4040>Shoot as many targets as you can<C=R> in Mother Base's Shooting Range.\n"
 "  Time Limit: 3:00\n"
 "  # of Targets: Unlimited"
-msgstr ""
+msgstr "<C=FF4040>在母基地射击场尽可能多地射击目标<C=R>。\n  时间限制：3:00\n  目标数：无限"
 
 #: slot/0x00514128/0x215635/0xa31b1e
 msgid "ABOUT SBM028"
-msgstr ""
+msgstr "关于SBM028"
 
 #: slot/0x00514128/0x215635/0xa41b1e
 msgid ""
@@ -48,97 +48,97 @@ msgid ""
 "  Time Limit: 3:00\n"
 "  Items Needed: <C=FF4040>Fulton Recovery Device<C=R>\n"
 "  # of Targets: 3"
-msgstr ""
+msgstr "<C=FF4040>从矿井基地的拷问室救出俘虏<C=R>。\n  时间限制：3:00\n  所需物品：<C=FF4040>富尔顿回收装置<C=R>\n  目标数：3"
 
 #: slot/0x00514128/0x215635/0xa7f464
 #: slot/0x00514128/0x215635/0xd19ef2
 msgid "Opening / Investigate the Supply Facility"
-msgstr ""
+msgstr "开场／调查补给设施"
 
 #: slot/0x00514128/0x215635/0xa7fc64
 #: slot/0x00514128/0x215635/0xf19ef2
 msgid "Contact the Sandinista Comandante"
-msgstr ""
+msgstr "联系桑地诺派指挥官"
 
 #: slot/0x00514128/0x215635/0xa82c64
 #: slot/0x00514128/0x215635/0xb19ef3
 msgid "Destroy the Barricade"
-msgstr ""
+msgstr "摧毁路障"
 
 #: slot/0x00514128/0x215635/0xa83464
 #: slot/0x00514128/0x215635/0xd19ef3
 msgid "Infiltrate the Crater Base"
-msgstr ""
+msgstr "潜入火山口基地"
 
 #: slot/0x00514128/0x215635/0xa8ec64
 #: slot/0x00514128/0x215635/0xb19ef6
 msgid "Pupa Battle"
-msgstr ""
+msgstr "蛹战"
 
 #: slot/0x00514128/0x215635/0xa8f464
 #: slot/0x00514128/0x215635/0xd19ef6
 msgid "Travel to the Cloud Forest"
-msgstr ""
+msgstr "前往云雾林"
 
 #: slot/0x00514128/0x215635/0xa8fc64
 #: slot/0x00514128/0x215635/0xf19ef6
 msgid "Attack Chopper Battle: Mi-24A"
-msgstr ""
+msgstr "武装直升机战：Mi-24A"
 
 #: slot/0x00514128/0x215635/0xa92c64
 #: slot/0x00514128/0x215635/0xb19ef7
 msgid "Cocoon Battle"
-msgstr ""
+msgstr "茧战"
 
 #: slot/0x00514128/0x215635/0xa93464
 #: slot/0x00514128/0x215635/0xd19ef7
 msgid "Infiltrate the Underground Base"
-msgstr ""
+msgstr "潜入地下基地"
 
 #: slot/0x00514128/0x215635/0xa9ec64
 #: slot/0x00514128/0x215635/0xb19efa
 msgid "Torture Chamber Escape"
-msgstr ""
+msgstr "逃离拷问室"
 
 #: slot/0x00514128/0x215635/0xa9f464
 #: slot/0x00514128/0x215635/0xd19efa
 msgid "Head for Peace Walker's Hangar"
-msgstr ""
+msgstr "前往和平行者的机库"
 
 #: slot/0x00514128/0x215635/0xa9fc64
 #: slot/0x00514128/0x215635/0xf19efa
 msgid "Peace Walker Battle"
-msgstr ""
+msgstr "和平行者战"
 
 #: slot/0x00514128/0x215635/0xaa2c64
 #: slot/0x00514128/0x215635/0xb19efb
 msgid "Zadornov Search Mission 3"
-msgstr ""
+msgstr "扎多尔诺夫搜索3"
 
 #: slot/0x00514128/0x215635/0xaa3464
 #: slot/0x00514128/0x215635/0xd19efb
 msgid "Zadornov Search Mission 4"
-msgstr ""
+msgstr "扎多尔诺夫搜索4"
 
 #: slot/0x00514128/0x215635/0xaaec64
 #: slot/0x00514128/0x215635/0xb19efe
 msgid "Zadornov Search Mission 6"
-msgstr ""
+msgstr "扎多尔诺夫搜索6"
 
 #: slot/0x00514128/0x215635/0xaaf464
 #: slot/0x00514128/0x215635/0xd19efe
 msgid "Zadornov Search Mission 5"
-msgstr ""
+msgstr "扎多尔诺夫搜索5"
 
 #: slot/0x00514128/0x215635/0xaafc64
 #: slot/0x00514128/0x215635/0xf19efe
 msgid "Zadornov Search Mission 2"
-msgstr ""
+msgstr "扎多尔诺夫搜索2"
 
 #: slot/0x00514128/0x215635/0xabec64
 #: slot/0x00514128/0x215635/0xb19f02
 msgid "ZEKE Battle"
-msgstr ""
+msgstr "吉克战"
 
 #: slot/0x00514128/0x215635/0xabf464
 #: slot/0x00514128/0x215635/0xd19f02
@@ -155,29 +155,29 @@ msgid ""
 "November 4, 1974, Barranquilla Coast, Colombia\n"
 "MSF's \"Soldiers Without Borders\" headquarters.\n"
 "  From \"Opening / Investigate the Supply Facility\""
-msgstr ""
+msgstr "1974年11月4日，哥伦比亚巴兰基亚海岸\nMSF“无国界士兵”总部。\n  出自“开场／调查补给设施”"
 
 #: slot/0x00514128/0x215635/0xb50159
 msgid ""
 "Snake hears his name called during training at MSF's \"Soldiers Without Borders\" headquarters in Colombia.\n"
 "  From \"Opening / Investigate the Supply Facility\""
-msgstr ""
+msgstr "SNAKE在哥伦比亚MSF“无国界士兵”总部训练时听到有人叫他的名字。\n  出自“序幕／调查补给设施”"
 
 #: slot/0x00514128/0x215635/0xb5ac9d
 msgid "Delve into the swampy jungles of Eastern Limón and make your way to the Sandinista hideout, where you will make contact with their Comandante."
-msgstr ""
+msgstr "深入利蒙东部的沼泽丛林，前往桑地诺派藏身处，与他们的指挥官取得联系。"
 
 #: slot/0x00514128/0x215635/0xb5aca1
 msgid "Neutralize the enemy attack chopper."
-msgstr ""
+msgstr "制伏敌方攻击直升机。"
 
 #: slot/0x00514128/0x215635/0xb5aca5
 msgid "Stop Peace Walker!"
-msgstr ""
+msgstr "阻止和平行者！"
 
 #: slot/0x00514128/0x215635/0xb5aca9
 msgid "Zadornov has escaped from Mother Base again. Find him and bring him back. "
-msgstr ""
+msgstr "扎多尔诺夫又从母基地逃走了。找到他并把他带回来。"
 
 #: slot/0x00514128/0x215635/0xb5b11d
 #: slot/0x00514128/0x215635/0xbab11d
@@ -186,60 +186,60 @@ msgid ""
 "<C=FF4040>Hunt the Tigrex<C=R>.\n"
 "\n"
 "<I=CPY>CAPCOM CO., LTD."
-msgstr ""
+msgstr "任务地点：怪物岛\n<C=FF4040>狩猎轰龙<C=R>。\n\n<I=CPY>CAPCOM CO., LTD."
 
 #: slot/0x00514128/0x215635/0xb60159
 msgid ""
 "Galvez introduces himself as a \"professor\" from Costa Rica and presents his request to Snake.\n"
 "  From \"Opening / Investigate the Supply Facility\""
-msgstr ""
+msgstr "加尔维斯自称是来自哥斯达黎加的“教授”，向SNAKE提出请求。\n  出自“序幕／调查补给设施”"
 
 #: slot/0x00514128/0x215635/0xb70159
 msgid ""
 "Snake infiltrates the inner coastal facility where Paz was imprisoned to investigate the U.S. mercenary base.\n"
 "  From \"Opening / Investigate the Supply Facility\""
-msgstr ""
+msgstr "SNAKE潜入帕兹曾被关押的沿岸内部设施，调查美军雇佣兵基地。\n  出自“序幕／调查补给设施”"
 
 #: slot/0x00514128/0x215635/0xb80159
 msgid ""
 "In order to gather information about the local area, Snake heads to a boathouse to make contact with the FSLN Comandante.\n"
 "  From \"Contact the Sandinista Comandante\""
-msgstr ""
+msgstr "为收集当地情报，SNAKE前往船屋与FSLN指挥官接触。\n  出自“接触桑地诺派指挥官”"
 
 #: slot/0x00514128/0x215635/0xb90159
 msgid ""
 "Snake makes it to the Banana Plantation in pursuit of Amanda.\n"
 "  From \"Pursue Amanda\""
-msgstr ""
+msgstr "SNAKE追至香蕉园寻找阿曼达。\n  出自“追踪阿曼达”"
 
 #: slot/0x00514128/0x215635/0xba0159
 msgid ""
 "After battling with the armored vehicle, Snake notices Amanda's presence up ahead.\n"
 "  From \"Armored Vehicle Battle: LAV-Type G\""
-msgstr ""
+msgstr "与装甲车交战后，SNAKE发现阿曼达就在前方。\n  出自“装甲车战：LAV-Type G”"
 
 #: slot/0x00514128/0x215635/0xbb0159
 msgid ""
 "Snake finds Amanda's little brother, Chico, in the Irazú Prison Facility.\n"
 "  From \"Resuce Chico\""
-msgstr ""
+msgstr "SNAKE在伊拉苏收容设施找到阿曼达的弟弟奇科。\n  出自“营救奇科”"
 
 #: slot/0x00514128/0x215635/0xbb1b1e
 msgid ""
 "<C=FF4040>Defend all targets and defeat the enemy force<C=R> in the Mine Base.\n"
 "<C=FF4040>Allowing all supplies to be destroyed will result in instant mission failure<C=R>.\n"
 "  # of Targets: 30 (number of soldiers)"
-msgstr ""
+msgstr "<C=FF4040>守住所有目标并击退敌军<C=R>，地点在矿井基地。\n<C=FF4040>所有补给被摧毁将立即导致任务失败<C=R>。\n  目标数：30（士兵数）"
 
 #: slot/0x00514128/0x215635/0xbc0159
 msgid ""
 "Utilizing the information provided by Chico, Snake makes his way to the railroad transport route.\n"
 "  From \"Pursue the Jungle Train\""
-msgstr ""
+msgstr "利用奇科提供的情报，SNAKE前往铁路运输路线。\n  出自“追踪丛林列车”"
 
 #: slot/0x00514128/0x215635/0xbc1b1e
 msgid "ABOUT SBM031"
-msgstr ""
+msgstr "关于 SBM031"
 
 #: slot/0x00514128/0x215635/0xbc1b26
 #: slot/0x00514128/0x215635/0xbd1b26
@@ -251,13 +251,13 @@ msgid ""
 "  Mission Location: El Cadalso\n"
 "<C=FF4040>Neutralize the enemy armored vehicle<C=R>.\n"
 "Destroy the vehicle or neutralize the enemy soldiers to complete the mission."
-msgstr ""
+msgstr "任务地点：绞刑台\n<C=FF4040>制伏敌方装甲车<C=R>。\n摧毁车辆或制伏敌方士兵即可完成任务。"
 
 #: slot/0x00514128/0x215635/0xbd0159
 msgid ""
 "Snake pursues the nuclear warheads transported from the coast and infiltrates the Crater Base.\n"
 "  From \"Infiltrate the Crater Base\""
-msgstr ""
+msgstr "SNAKE追踪从海岸运出的核弹头，潜入火山口基地。\n  出自“潜入火山口基地”"
 
 #: slot/0x00514128/0x215635/0xbd1b1e
 msgid ""
@@ -266,7 +266,7 @@ msgid ""
 "Bases change color when captured.\n"
 "<C=FF4040>Allowing all bases to be captured will result in instant mission failure<C=R>.\n"
 "  # of Targets: 20 (number of soldiers)"
-msgstr ""
+msgstr "<C=FF4040>守住基地<C=R>，击退进攻黄金果香蕉园分拣棚的敌军。\n敌兵在基地内停留一定时间后，基地将被敌方占领。\n基地被占领后颜色会改变。\n<C=FF4040>所有基地被占领将立即导致任务失败<C=R>。\n  目标数：20（士兵数）"
 
 #: slot/0x00514128/0x215635/0xbe1b1e
 msgid ""
@@ -275,24 +275,24 @@ msgid ""
 "Bases change color when captured.\n"
 "<C=FF4040>Allowing all bases to be captured will result in instant mission failure<C=R>.\n"
 "  # of Targets: 20 (number of soldiers)"
-msgstr ""
+msgstr "<C=FF4040>守住基地<C=R>，击退进攻觉醒者村的敌军。\n敌兵在基地内停留一定时间后，基地将被敌方占领。\n基地被占领后颜色会改变。\n<C=FF4040>所有基地被占领将立即导致任务失败<C=R>。\n  目标数：20（士兵数）"
 
 #: slot/0x00514128/0x215635/0xbf1b1e
 msgid ""
 "Defend the items in the Miners' Residence from the attacking enemy mercenaries and eliminate the attackers.  The mission is a failure once 2 items have been retrieved by the enemy.\n"
 "  # of Targets: 10 (number of enemies)"
-msgstr ""
+msgstr "守住矿工住处的物资，击退来袭的敌方雇佣兵并将其消灭。敌方夺走2件物资即任务失败。\n  目标数：10（敌人数）"
 
 #: slot/0x00514128/0x215635/0xc01b1e
 msgid "ABOUT SBM035"
-msgstr ""
+msgstr "关于 SBM035"
 
 #: slot/0x00514128/0x215635/0xc11b1e
 msgid ""
 "<C=FF4040>Defend all targets and defeat the enemy force<C=R> at the Cafetal Aroma Encantado Coffee Plantation.\n"
 "<C=FF4040>Allowing all supplies to be destroyed will result in instant mission failure<C=R>.\n"
 "  # of Targets: 20 (number of soldiers)"
-msgstr ""
+msgstr "<C=FF4040>守住所有目标并击退敌军<C=R>，地点在咖啡芳香种植园。\n<C=FF4040>所有补给被摧毁将立即导致任务失败<C=R>。\n  目标数：20（士兵数）"
 
 #: slot/0x00514128/0x215635/0xc21b1e
 msgid ""
@@ -300,7 +300,7 @@ msgid ""
 "<C=FF4040>Allowing the POW to die will result in instant mission failure<C=R>.\n"
 "No Fulton Recovery allowed.\n"
 "  # of Targets: 30 (number of soldiers)"
-msgstr ""
+msgstr "<C=FF4040>保护战俘<C=R>，击退来袭矿井基地的敌军。\n<C=FF4040>战俘死亡将立即导致任务失败<C=R>。\n禁止使用富尔顿回收。\n  目标数：30（士兵数）"
 
 #: slot/0x00514128/0x215635/0xc21b26
 #: slot/0x00514128/0x215635/0xc31b26
@@ -308,7 +308,7 @@ msgid ""
 "  Mission Location: El Cadalso\n"
 "Neutralize the enemy armored vehicle. \n"
 "Destroy the vehicle or neutralize the enemy soldiers to complete the mission.    "
-msgstr ""
+msgstr "任务地点：绞刑台\n制伏敌方装甲车。\n摧毁车辆或制伏敌方士兵即可完成任务。"
 
 #: slot/0x00514128/0x215635/0xc31b1e
 msgid ""
@@ -316,11 +316,11 @@ msgid ""
 "<C=FF4040>Allowing even a single enemy to breach your defense will result in instant mission failure<C=R>.\n"
 "<C=FF4040>MSF SOLDIERS ONLY<C=R>.\n"
 "  # of Targets: 40"
-msgstr ""
+msgstr "<C=FF4040>阻止敌军推进<C=R>，地点在AI兵器机库，同时SNAKE与和平行者战斗。\n<C=FF4040>哪怕只让一名敌人突破防线也将立即导致任务失败<C=R>。\n<C=FF4040>仅 MSF 士兵<C=R>。\n  目标数：40"
 
 #: slot/0x00514128/0x215635/0xc41b1e
 msgid "ABOUT SBM039"
-msgstr ""
+msgstr "关于SBM039"
 
 #: slot/0x00514128/0x215635/0xc41b26
 #: slot/0x00514128/0x215635/0xdb1b26
@@ -333,53 +333,53 @@ msgid ""
 "  Mission Location: Catarata de la Muerte\n"
 "<C=FF4040>Neutralize the enemy chopper<C=R>.\n"
 "Destroy the chopper or neutralize the enemy soldiers to complete the mission."
-msgstr ""
+msgstr "任务地点：死亡瀑布\n<C=FF4040>制伏敌方直升机<C=R>。\n摧毁直升机或制伏敌兵即可完成任务。"
 
 #: slot/0x00514128/0x215635/0xc7f465
 #: slot/0x00514128/0x215635/0xd1a372
 msgid "[121] <<Hunting Quest: Rathalos>>"
-msgstr ""
+msgstr "[121] <<狩猎任务：火龙>>"
 
 #: slot/0x00514128/0x215635/0xc7f5a5
 #: slot/0x00514128/0x215635/0xd6a372
 msgid "[122] <<Hunting Quest: Rathalos / Twilight>>"
-msgstr ""
+msgstr "[122] <<狩猎任务：火龙／黄昏>>"
 
 #: slot/0x00514128/0x215635/0xc7fc65
 #: slot/0x00514128/0x215635/0xf1a372
 msgid "[123] <<Hunting Quest: Tigrex>>"
-msgstr ""
+msgstr "[123] <<狩猎任务：轰龙>>"
 
 #: slot/0x00514128/0x215635/0xc7fda5
 #: slot/0x00514128/0x215635/0xf6a372
 msgid "[124] <<Hunting Quest: Tigrex / Twilight>>"
-msgstr ""
+msgstr "[124] <<狩猎任务：轰龙／黄昏>>"
 
 #: slot/0x00514128/0x215635/0xd40159
 msgid ""
 "Snake destroys the unmanned Pupa weapon and makes contact with a certain \"Doctor.\"\n"
 "  From \"Pupa Battle\""
-msgstr ""
+msgstr "SNAKE摧毁无人兵器蛹，并与某位“博士”取得联系。\n  出自“蛹战”"
 
 #: slot/0x00514128/0x215635/0xd50159
 msgid ""
 "Snake follows the directions from Huey and delves deep into the Cloud Forest in search of the AI Research Lab.\n"
 "  From \"Travel to the Cloud Forest\""
-msgstr ""
+msgstr "SNAKE依照休伊的指引深入云雾林，寻找AI研究所。\n  出自“前往云雾林”"
 
 #: slot/0x00514128/0x215635/0xd5ac9d
 msgid "Track and locate Amanda, the Sandinista leader and obtain intel on the enemy's bases and the route used to transport the nuclear material."
-msgstr ""
+msgstr "追踪并找到桑地诺派首领阿曼达，获取敌方基地及核材料运输路线的相关情报。"
 
 #: slot/0x00514128/0x215635/0xd5aca1
 msgid ""
 "Head North to Dr. Strangelove's lab, disguised as a Mayan Ruin.\n"
 "  Item Needed: <C=FF4040>ID Card (H)<C=R>"
-msgstr ""
+msgstr "北上前往伪装成玛雅遗迹的斯特兰奇洛夫博士研究所。\n  所需物品：<C=FF4040>ID卡(H)<C=R>"
 
 #: slot/0x00514128/0x215635/0xd5aca5
 msgid "m0230/Pursue Peace Walker"
-msgstr ""
+msgstr "m0230/追踪和平行者"
 
 #: slot/0x00514128/0x215635/0xd5b11d
 #: slot/0x00514128/0x215635/0xdab11d
@@ -388,93 +388,93 @@ msgid ""
 "<C=FF4040>Hunt the Gear REX<C=R>.\n"
 "\n"
 "<I=CPY>CAPCOM CO., LTD."
-msgstr ""
+msgstr "任务地点：怪物岛\n<C=FF4040>狩猎霸王<C=R>。\n\n<I=CPY>CAPCOM CO., LTD."
 
 #: slot/0x00514128/0x215635/0xd60159
 msgid ""
 "Snake is on his way to the Lab through the Cloud Forest when... \n"
 "  From \"Travel to the Cloud Forest\""
-msgstr ""
+msgstr "SNAKE正穿过云雾林前往研究所，此时……\n  出自“前往云雾林”"
 
 #: slot/0x00514128/0x215635/0xd6fbf9
 #: slot/0x00514128/0x215635/0xeff3ae
 msgid "[01] Soldiers Without Borders"
-msgstr ""
+msgstr "[01] 无国界士兵"
 
 #: slot/0x00514128/0x215635/0xd6fc39
 #: slot/0x00514128/0x215635/0xf0f3ae
 msgid "[02] Paz's Request"
-msgstr ""
+msgstr "[02] 帕兹请求"
 
 #: slot/0x00514128/0x215635/0xd6fc79
 #: slot/0x00514128/0x215635/0xf1f3ae
 msgid "[03] Motive"
-msgstr ""
+msgstr "[03] 动机"
 
 #: slot/0x00514128/0x215635/0xd6fcb9
 #: slot/0x00514128/0x215635/0xf2f3ae
 msgid "[04] The Supply Facility"
-msgstr ""
+msgstr "[04] 补给设施"
 
 #: slot/0x00514128/0x215635/0xd6fcf9
 #: slot/0x00514128/0x215635/0xf3f3ae
 msgid "[05] To the Hideout"
-msgstr ""
+msgstr "[05] 去藏身处"
 
 #: slot/0x00514128/0x215635/0xd6fd39
 #: slot/0x00514128/0x215635/0xf4f3ae
 msgid "[06] Armored Vehicle Battle: LAV-Type G Encounter"
-msgstr ""
+msgstr "[06] 装甲车战：遭遇LAV-Type G"
 
 #: slot/0x00514128/0x215635/0xd6fd79
 #: slot/0x00514128/0x215635/0xf5f3ae
 msgid "[07] Reunited"
-msgstr ""
+msgstr "[07] 重逢"
 
 #: slot/0x00514128/0x215635/0xd6fdb9
 #: slot/0x00514128/0x215635/0xf6f3ae
 msgid "[08] The Abducted Child"
-msgstr ""
+msgstr "[08] 被掳走的孩子"
 
 #: slot/0x00514128/0x215635/0xd6fdf9
 #: slot/0x00514128/0x215635/0xf7f3ae
 msgid "[09] The Train Terminal"
-msgstr ""
+msgstr "[09] 列车终点站"
 
 #: slot/0x00514128/0x215635/0xd6fe39
 #: slot/0x00514128/0x215635/0xf8f3ae
 msgid "[10] The Destination of the Nuclear Warheads"
-msgstr ""
+msgstr "[10] 核弹头的去向"
 
 #: slot/0x00514128/0x215635/0xd70159
 msgid ""
 "Snake penetrates deep into the Cloud Forest. What lies ahead where the hummingbirds beckon...?\n"
 "  From \"Head for the Lab\""
-msgstr ""
+msgstr "SNAKE深入云雾林。蜂鸟指引的前方究竟有什么……？\n  出自“前往研究所”"
 
 #: slot/0x00514128/0x215635/0xd80159
 msgid ""
 "On a mission to destroy the nearly complete AI, Snake has obtained an ID card and enters Dr. Strangelove's Lab.\n"
 "  From \"Locate the ID Card\""
-msgstr ""
+msgstr "为摧毁即将完成的AI，SNAKE取得ID卡，进入斯特兰奇洛夫博士的研究所。\n  出自“寻找ID卡”"
 
 #: slot/0x00514128/0x215635/0xd90159
 msgid ""
 "Snake loses his consciousness inside the Mammal Pod.\n"
 "  From \"Locate the ID Card\""
-msgstr ""
+msgstr "SNAKE在哺乳舱内失去意识。\n  出自“找到ID卡”"
 
 #: slot/0x00514128/0x215635/0xda0159
 msgid ""
 "In order to put a stop to the Peace Walker Project, Snake proceeds to the enemy's Mine Base to prevent the assembly of the Mammal Pod and Peace Walker.\n"
 "  From \"Travel to the Mine Base\""
-msgstr ""
+msgstr "为阻止和平行者计划，SNAKE前往敌方矿井基地，阻止哺乳舱与和平行者的组装。\n  出自“前往矿井基地”"
 
 #: slot/0x00514128/0x215635/0xdb0159
 msgid ""
 "An unmanned weapon appears in the Mining Pit preventing entrance into the base.\n"
 "  From \"Eliminate the Guards\""
-msgstr ""
+msgstr "采掘坑出现无人兵器，阻止进入基地。\n  出自“消灭守卫”"
 
 #: slot/0x00514128/0x215635/0xdb1b1e
 msgid ""
@@ -482,13 +482,13 @@ msgid ""
 "  Time Limit: 3:00\n"
 "  Weapons Needed: C4 Charges\n"
 "  # of Targets: 1"
-msgstr ""
+msgstr "炸毁敌方基地内的指定目标。目标只能用C4摧毁。\n  时间限制：3:00\n  所需武器：C4炸药\n  目标数：1"
 
 #: slot/0x00514128/0x215635/0xdc0159
 msgid ""
 "Snake reaches the lowest level of the Underground Base and heads for the Hangar.\n"
 "  From \"Infiltrate the Underground Base\""
-msgstr ""
+msgstr "SNAKE抵达地下基地最底层，前往机库。\n  出自“潜入地下基地”"
 
 #: slot/0x00514128/0x215635/0xdc1b1e
 msgid ""
@@ -496,7 +496,7 @@ msgid ""
 "  Time Limit: 3:00\n"
 "  Weapons Needed: C4 Charges\n"
 "  # of Targets: 1"
-msgstr ""
+msgstr "炸毁黎明港补给设施内的指定目标。目标只能用C4摧毁。\n  时间限制：3:00\n  所需武器：C4炸药\n  目标数：1"
 
 #: slot/0x00514128/0x215635/0xdd0159
 #: slot/0x00514128/0x215635/0xf40159
@@ -504,7 +504,7 @@ msgstr ""
 msgid ""
 "Dr. Strangelove demands the truth from Snake.\n"
 "  From \"Torture Chamber Escape\""
-msgstr ""
+msgstr "斯特兰奇洛夫博士向SNAKE逼问真相。\n  出自“逃离拷问室”"
 
 #: slot/0x00514128/0x215635/0xdd1b1e
 msgid ""
@@ -514,7 +514,7 @@ msgid ""
 "  Time Penalty: 30 sec. for triggering an alert\n"
 "  Weapons Needed: <C=FF4040>C4 Charges<C=R>\n"
 "  # of Targets: 1"
-msgstr ""
+msgstr "<C=FF4040>炸毁翡翠河沿岸敌方基地内的指定目标<C=R>。<C=FF4040>目标只能用C4炸药摧毁<C=R>。\n<C=FF4040>仅单人<C=R>。\n  时间限制：5:00\n  时间惩罚：触发警报加30秒\n  所需武器：<C=FF4040>C4炸药<C=R>\n  目标数：1"
 
 #: slot/0x00514128/0x215635/0xde1b1e
 msgid ""
@@ -524,7 +524,7 @@ msgid ""
 "  Time Penalty: 1 min. for triggering an alert\n"
 "  Weapons Needed: <C=FF4040>C4 Charges<C=R>\n"
 "  # of Targets: 1"
-msgstr ""
+msgstr "<C=FF4040>炸毁Cafetal Aroma Encantado咖啡种植园的指定目标<C=R>。<C=FF4040>目标只能用C4炸药摧毁<C=R>。\n<C=FF4040>仅单人<C=R>。\n  时间限制：13:00\n  时间惩罚：触发警报加1分钟\n  所需武器：<C=FF4040>C4炸药<C=R>\n  目标数：1"
 
 #: slot/0x00514128/0x215635/0xdf1b1e
 msgid ""
@@ -532,11 +532,11 @@ msgid ""
 "  Time Limit: 3:00\n"
 "  Weapons Needed: C4 Charges\n"
 "  # of Targets: 1"
-msgstr ""
+msgstr "炸毁黄金果香蕉园内的指定目标。目标只能用C4摧毁。\n  时间限制：3:00\n  所需武器：C4炸药\n  目标数：1"
 
 #: slot/0x00514128/0x215635/0xe01b1e
 msgid "ABOUT SBM045"
-msgstr ""
+msgstr "关于SBM045"
 
 #: slot/0x00514128/0x215635/0xe11b1e
 msgid ""
@@ -546,14 +546,14 @@ msgid ""
 "  Time Penalty: 30 sec. for triggering an alert\n"
 "  Weapons Needed: <C=FF4040>C4 Charges<C=R>\n"
 "  # of Targets: 1"
-msgstr ""
+msgstr "<C=FF4040>炸毁尼加拉瓜美军导弹基地后门的指定目标<C=R>。<C=FF4040>目标只能用C4炸药摧毁<C=R>。\n<C=FF4040>仅单人<C=R>。\n  时间限制：6:00\n  时间惩罚：触发警报加30秒\n  所需武器：<C=FF4040>C4炸药<C=R>\n  目标数：1"
 
 #: slot/0x00514128/0x215635/0xe11b26
 msgid ""
 "  Mission Location: Crater Base\n"
 "<C=FF4040>Neutralize the Pupa Type II<C=R>.\n"
 "Destroy the Pupa or shutdown the onboard AI to complete the mission."
-msgstr ""
+msgstr "任务地点：火山口基地\n<C=FF4040>制伏蛹Type II<C=R>。\n摧毁蛹或关闭其搭载的AI即可完成任务。"
 
 #: slot/0x00514128/0x215635/0xe21b1e
 msgid ""
@@ -561,14 +561,14 @@ msgid ""
 "  Time Limit: 5:00\n"
 "  Weapons Needed: C4 Charges\n"
 "  # of Targets: 2"
-msgstr ""
+msgstr "炸毁Cafetal Aroma Encantado咖啡种植园内所有货运卡车（目标）。卡车只能用C4摧毁。\n  时间限制：5:00\n  所需武器：C4炸药\n  目标数：2"
 
 #: slot/0x00514128/0x215635/0xe21b26
 msgid ""
 "  Mission Location: AI Laboratory\n"
 "<C=FF4040>Neutralize the Chrysalis Type II<C=R>.\n"
 "Destroy the Chrysalis or shutdown the onboard AI to complete the mission."
-msgstr ""
+msgstr "任务地点：AI实验室\n<C=FF4040>制伏蝶蛹Type II<C=R>。\n摧毁蝶蛹或关闭其搭载的AI即可完成任务。"
 
 #: slot/0x00514128/0x215635/0xe31b1e
 msgid ""
@@ -576,131 +576,131 @@ msgid ""
 "<C=FF4040>Allowing even one truck to pass will result in instant mission failure<C=R>.\n"
 "<C=FF4040>SINGLE PLAYER ONLY<C=R>.\n"
 "  # of Targets: 25"
-msgstr ""
+msgstr "<C=FF4040>炸毁所有经过伊拉苏火山洛斯坎托斯地区的货运卡车<C=R>，确保货物无法通过。\n<C=FF4040>哪怕放过一辆卡车也会立即导致任务失败<C=R>。\n<C=FF4040>仅单人<C=R>。\n  目标数：25"
 
 #: slot/0x00514128/0x215635/0xe31b26
 msgid ""
 "  Mission Location: Mining Pit\n"
 "<C=FF4040>Neutralize the Cocoon Type II<C=R>.\n"
 "Destroy the Cocoon or shutdown the onboard AI to complete the mission."
-msgstr ""
+msgstr "任务地点：采掘坑\n<C=FF4040>制伏茧Type II<C=R>。\n摧毁茧或关闭其搭载的AI即可完成任务。"
 
 #: slot/0x00514128/0x215635/0xe41b1e
 msgid ""
 "<C=FF4040>Neutralize all enemy mercenaries<C=R> at the Back Gate of the U.S. Missile Base in Nicaragua. Non-lethal methods such as knocking enemies unconscious or putting them to sleep are acceptable.\n"
 "  Time Limit: 6:00\n"
 "  # of Targets: 21"
-msgstr ""
+msgstr "<C=FF4040>制伏尼加拉瓜美军导弹基地后门的所有敌方雇佣兵<C=R>。击晕或催眠等非致命手段均可。\n  时间限制：6:00\n  目标数：21"
 
 #: slot/0x00514128/0x215635/0xe41b26
 msgid "ABOUT SBM249"
-msgstr ""
+msgstr "关于SBM249"
 
 #: slot/0x00514128/0x215635/0xf5ac9d
 msgid "Neutralize the attacking enemy armored vehicle and make contact with Amanda."
-msgstr ""
+msgstr "制伏来袭的敌方装甲车，并与阿曼达取得联系。"
 
 #: slot/0x00514128/0x215635/0xf5aca1
 msgid ""
 "Locate the soldier carrying the ID card and steal it.\n"
 "* Make sure to leave room in your item menu to hold\n"
 "   the ID card."
-msgstr ""
+msgstr "找到携带ID卡的士兵并偷取。\n* 请确保物品栏留有空位以存放\n   ID卡。"
 
 #: slot/0x00514128/0x215635/0xf5aca5
 msgid "Peace Walker must be stopped before it can launch its nukes.  Infiltrate the U.S. Missile Base on the Southeastern shore of Lago Cocibolca and head for the Communications Tower."
-msgstr ""
+msgstr "必须在和平行者发射核弹前阻止它。潜入科西博尔卡湖东南岸的美军导弹基地，前往通信塔。"
 
 #: slot/0x00514128/0x215635/0xf5b11d
 msgid ""
 "  Mission Location: Crater Base, Volcán Irazú\n"
 "<C=FF4040>Gear REX<C=R> has appeared in the Crater of Volcán Irazú. \n"
 "<C=FF4040>Hunt it<C=R>."
-msgstr ""
+msgstr "任务地点：伊拉苏火山火山口基地\n<C=FF4040>霸王<C=R>出现在伊拉苏火山火山口。\n<C=FF4040>将其猎杀<C=R>。"
 
 #: slot/0x00514128/0x215635/0xf60159
 msgid ""
 "Snake escapes from his prison cell and rushes back to Peace Walker's hangar.\n"
 "  From \"Head for Peace Walker's Hangar\""
-msgstr ""
+msgstr "SNAKE逃出牢房，赶回和平行者的机库。\n  出自“前往和平行者的机库”"
 
 #: slot/0x00514128/0x215635/0xf70159
 msgid ""
 "Peace Walker has awoken once again and is on the move...\n"
 "  From \"Peace Walker Battle\""
-msgstr ""
+msgstr "和平行者再次苏醒并开始行动……\n  出自“和平行者之战”"
 
 #: slot/0x00514128/0x215635/0xf80159
 msgid ""
 "Chasing after Peace Walker, Snake crosses Costa Rica's northern border into Nicaragua.\n"
 "  From \"Infiltrate the U.S. Missile Base\""
-msgstr ""
+msgstr "追踪和平行者，SNAKE越过哥斯达黎加北部边境进入尼加拉瓜。\n  出自“潜入美军导弹基地”"
 
 #: slot/0x00514128/0x215635/0xf90159
 msgid ""
 "Snake infiltrates the U.S. Missile base and reaches the Communications Tower.\n"
 "  From \"Infiltrate the U.S. Missile Base\""
-msgstr ""
+msgstr "SNAKE潜入美军导弹基地，抵达通信塔。\n  出自“潜入美军导弹基地”"
 
 #: slot/0x00514128/0x215635/0xfa0159
 msgid ""
 "Snake reaches the top level of the Control Tower as the Peace Walker Project enters its final phase.\n"
 "  From \"Head to the Control Tower\""
-msgstr ""
+msgstr "和平行者计划进入最终阶段，SNAKE登上管制塔顶层。\n  出自“前往管制塔”"
 
 #: slot/0x00514128/0x215635/0xfb0159
 msgid ""
 "Snake prevents Peace Walker's nuclear launch, however...\n"
 "  From \"Peace Walker Battle 2\""
-msgstr ""
+msgstr "SNAKE阻止了和平行者的核发射，然而……\n  出自“和平行者战斗2”"
 
 #: slot/0x00514128/0x215635/0xfb1b1e
 msgid ""
 "<C=FF4040>Neutralize all enemy mercenaries<C=R> in the Los Cantos area of Volcán Irazú. Non-lethal methods such as knocking enemies unconscious or putting them to sleep are acceptable.\n"
 "  Time Limit: 7:00\n"
 "  # of Targets: 10"
-msgstr ""
+msgstr "<C=FF4040>制伏伊拉苏火山的洛斯坎托斯地区所有敌方雇佣兵<C=R>。可采取击晕或催眠等非致命手段。\n  时间限制：7:00\n  目标数：10"
 
 #: slot/0x00514128/0x215635/0xfb1b26
 msgid ""
 "  Mission Location: U.S. Missile Base\n"
 "<C=FF4040>Neutralize Peace Walker Type II<C=R>.\n"
 "Destroy Peace Walker or shutdown the onboard AI to complete the mission."
-msgstr ""
+msgstr "任务地点：美军导弹基地\n<C=FF4040>制伏和平行者II型<C=R>。\n摧毁和平行者或关闭其搭载的AI即可完成任务。"
 
 #: slot/0x00514128/0x215635/0xfc0159
 msgid ""
 "Upon entering the Mammal Pod, Snake tries to stop the transmission.\n"
 "  From \"Peace Walker Battle 2\""
-msgstr ""
+msgstr "进入哺乳舱后，SNAKE试图阻止传输。\n  出自“和平行者战斗2”"
 
 #: slot/0x00514128/0x215635/0xfc1b1e
 msgid ""
 "<C=FF4040>Neutralize all enemy mercenaries<C=R> assaulting Fuerte La Ladera in Volcán Irazú. Non-lethal methods such as knocking enemies unconscious or putting them to sleep are acceptable.\n"
 "  Time Limit: 8:00\n"
 "  # of Targets: 15"
-msgstr ""
+msgstr "<C=FF4040>制伏伊拉苏火山拉德拉堡所有来袭的敌方雇佣兵<C=R>。可采取击晕或催眠等非致命手段。\n  时间限制：8:00\n  目标数：15"
 
 #: slot/0x00514128/0x215635/0xfc1b26
 msgid "ABOUT SBM251"
-msgstr ""
+msgstr "关于SBM251"
 
 #: slot/0x00514128/0x215635/0xfd0159
 msgid ""
 "Peace Walker falls silent as all-out nuclear war continues to draw near.\n"
 "  From \"Peace Walker Battle 3\""
-msgstr ""
+msgstr "全面核战争日益逼近，和平行者陷入沉默。\n  出自“和平行者战斗3”"
 
 #: slot/0x00514128/0x215635/0xfd1b1e
 msgid ""
 "Neutralize all enemy mercenaries at the Bananal Fruta de Oro Banana Plantation. Non-lethal methods such as knocking enemies unconscious or putting them to sleep are acceptable. \n"
 "  Time Limit: 10:00\n"
 "  # of Targets: 27"
-msgstr ""
+msgstr "制伏黄金果香蕉园的所有敌方雇佣兵。可采取击晕或催眠等非致命手段。\n  时间限制：10:00\n  目标数：27"
 
 #: slot/0x00514128/0x215635/0xfd1b26
 msgid "ABOUT SBM252"
-msgstr ""
+msgstr "关于SBM252"
 
 #: slot/0x00514128/0x215635/0xfe1b1e
 msgid ""
@@ -708,185 +708,185 @@ msgid ""
 "  Time Limit: 13:00\n"
 "  Time Penalty: 1 min. for triggering an alert\n"
 "  # of Targets: 10"
-msgstr ""
+msgstr "<C=FF4040>制伏芳香咖啡种植园的所有敌方雇佣兵<C=R>。可采取击晕、挟持或催眠等非致命手段。\n  时间限制：13:00\n  时间惩罚：触发警报加1分钟\n  目标数：10"
 
 #: slot/0x00514128/0x215635/0xfe1b26
 msgid "ABOUT SBM253"
-msgstr ""
+msgstr "关于SBM253"
 
 #: slot/0x00514128/0x215635/0xff1b1e
 msgid ""
 "<C=FF4040>Eliminate all kidnappers<C=R> patrolling the Cloud Forest of Central Heredia.\n"
 "  Time Limit: 4:00\n"
 "  # of Targets: 40"
-msgstr ""
+msgstr "<C=FF4040>消灭埃雷迪亚中部云雾林巡逻的所有绑架犯<C=R>。\n  时间限制：4:00\n  目标数：40"
 
 #: slot/0x00514128/0x215635/0xff1b26
 msgid "ABOUT SBM254"
-msgstr ""
+msgstr "关于SBM254"
 
 #: slot/0x0052801a/0x0a7cd6/0x000003
 msgid "I'll crush you flat!"
-msgstr ""
+msgstr "碾碎你！"
 
 #: slot/0x0052801a/0x0a7cd6/0x000004
 msgid "Soon you will witness true Hell."
-msgstr ""
+msgstr "你很快见识真地狱。"
 
 #: slot/0x0052801a/0x0a7cd6/0x000005
 msgid "You've got no one to blame but yourself."
-msgstr ""
+msgstr "只能怪你自己。"
 
 #: slot/0x0052801a/0x0a7cd6/0x000006
 msgid "Time to wrap this up."
-msgstr ""
+msgstr "该做个了结了。"
 
 #: slot/0x0052801a/0x0a7cd6/0x000007
 msgid "We don't need peace!"
-msgstr ""
+msgstr "不要和平！"
 
 #: slot/0x0052801a/0x0a7cd6/0x000008
 #: slot/0x00dff09b/0xaf8d11/0x00008b
 msgid "Venceremos!"
-msgstr ""
+msgstr "必胜！"
 
 #: slot/0x0052801a/0x0a7cd6/0x000009
 msgid "Don't do that!"
-msgstr ""
+msgstr "别这样！"
 
 #: slot/0x0052801a/0x0a7cd6/0x00000a
 #: slot/0x00ce245a/0x0a7cd6/0x000009
 msgid "Impossible!"
-msgstr ""
+msgstr "不可能"
 
 #: slot/0x0052801a/0x0a7cd6/0x00000b
 #: slot/0x00dff0a5/0xa84a6a/0x000065
 msgid "Haidaraaa!"
-msgstr ""
+msgstr "嗨呀啦啦！"
 
 #: slot/0x0052801a/0x0a7cd6/0x00000c
 msgid "Run all you want!"
-msgstr ""
+msgstr "尽管跑吧！"
 
 #: slot/0x0052801a/0x0a7cd6/0x00000d
 msgid "This'll only hurt a little!"
-msgstr ""
+msgstr "只会疼一下！"
 
 #: slot/0x0052801a/0x0a7cd6/0x00000e
 msgid "Electric shock!"
-msgstr ""
+msgstr "电击！"
 
 #: slot/0x0052801a/0x0a7cd6/0x00000f
 msgid "You're finished!"
-msgstr ""
+msgstr "你完了！"
 
 #: slot/0x0052801a/0x0a7cd6/0x000010
 msgid "Poison Beam!"
-msgstr ""
+msgstr "毒束！"
 
 #: slot/0x0052801a/0x0a7cd6/0x000013
 msgid "How?!"
-msgstr ""
+msgstr "怎么可能？！"
 
 #: slot/0x0052801a/0x0a7cd6/0x000014
 msgid "ZEKE!"
-msgstr ""
+msgstr "吉克！"
 
 #: slot/0x0052801a/0x0a7cd6/0x000015
 msgid "Damn you, Snake!"
-msgstr ""
+msgstr "可恶，SNAKE！"
 
 #: slot/0x0052801a/0x0a7cd6/0x000017
 msgid "What are you trying to do?"
-msgstr ""
+msgstr "你想干什么？"
 
 #: slot/0x0052801a/0x0a7cd6/0x000018
 #: slot/0x00a57090/0x12908e/0x00001f
 msgid "Take this!"
-msgstr ""
+msgstr "接招！"
 
 #: slot/0x0052801a/0x0a7cd6/0x00001b
 msgid "Stomp attack."
-msgstr ""
+msgstr "踩踏攻击"
 
 #: slot/0x0052801a/0x0a7cd6/0x00001d
 msgid "Railgun fully charged."
-msgstr ""
+msgstr "电磁炮充能完毕"
 
 #: slot/0x0052801a/0x0a7cd6/0x00001e
 msgid "Changing battle position."
-msgstr ""
+msgstr "切换战斗位置。"
 
 #: slot/0x0052801a/0x0a7cd6/0x00001f
 msgid "Boost."
-msgstr ""
+msgstr "加速。"
 
 #: slot/0x0052801a/0x0a7cd6/0x000020
 msgid "Launching missiles."
-msgstr ""
+msgstr "发射导弹。"
 
 #: slot/0x0052801a/0x0a7cd6/0x000021
 msgid "Changing target."
-msgstr ""
+msgstr "切换目标。"
 
 #: slot/0x0052801a/0x0a7cd6/0x000022
 msgid "Error detected."
-msgstr ""
+msgstr "检测到错误。"
 
 #: slot/0x0052801a/0x0a7cd6/0x000023
 #: slot/0x00ce245a/0x0a7cd6/0x000002
 #: slot/0x00ce245c/0x0a7cd6/0x000005
 msgid "Launching S mines."
-msgstr ""
+msgstr "发射S地雷。"
 
 #: slot/0x0052801a/0x0a7cd6/0x000027
 msgid "Launching guided missiles."
-msgstr ""
+msgstr "发射制导导弹。"
 
 #: slot/0x0052801a/0x0a7cd6/0x00002b
 msgid "Voltage at maximum."
-msgstr ""
+msgstr "电压已达最大"
 
 #: slot/0x0052801a/0x0a7cd6/0x000031
 msgid "Poison beam."
-msgstr ""
+msgstr "毒束。"
 
 #: slot/0x0052801a/0x0a7cd6/0x000035
 msgid "Pod damage detected."
-msgstr ""
+msgstr "舱体受损"
 
 #: slot/0x0052801a/0x0a7cd6/0x000036
 msgid "Leg damage detected."
-msgstr ""
+msgstr "腿部受损"
 
 #: slot/0x0052801a/0x0a7cd6/0x000037
 msgid "Cranial damage detected."
-msgstr ""
+msgstr "检测到头部损伤。"
 
 #: slot/0x0052801a/0x0a7cd6/0x00003c
 msgid "Booster damage detected."
-msgstr ""
+msgstr "推进器受损"
 
 #: slot/0x0052801a/0x0a7cd6/0x00003d
 msgid "Damage detected."
-msgstr ""
+msgstr "有损伤。"
 
 #: slot/0x0052801a/0x0a7cd6/0x00003e
 msgid "System malfunction detected."
-msgstr ""
+msgstr "检测到系统故障。"
 
 #: slot/0x0052801a/0x0a7cd6/0x000042
 msgid "ZEKE has been terminated."
-msgstr ""
+msgstr "吉克已被摧毁。"
 
 #: slot/0x0052801a/0x0a7cd6/0x000043
 msgid "Battle simulation complete."
-msgstr ""
+msgstr "战斗模拟完成。"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000001
 #: slot/0x00c48887/0xae0b2a/0x000001
 msgid "STUN ROD"
-msgstr ""
+msgstr "电棍"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000002
 #: slot/0x0052e4f8/0x1bca3f/0x000003
@@ -910,7 +910,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x000009
 #: slot/0x00c48887/0xae0b2a/0x00000a
 msgid "EZ GUN(LR)"
-msgstr ""
+msgstr "EZ枪(LR)"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00000b
 #: slot/0x0052e4f8/0x1bca3f/0x00000c
@@ -921,7 +921,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x00000d
 #: slot/0x00c48887/0xae0b2a/0x00000e
 msgid "EZ GUN(PR)"
-msgstr ""
+msgstr "EZ枪(PR)"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00000f
 #: slot/0x0052e4f8/0x1bca3f/0x000010
@@ -954,7 +954,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x000014
 #: slot/0x00c48887/0xae0b2a/0x000028
 msgid "PM"
-msgstr ""
+msgstr "PM"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000015
 #: slot/0x0052e4f8/0x1bca3f/0x000016
@@ -982,7 +982,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x00001a
 #: slot/0x00c48887/0xae0b2a/0x00001b
 msgid "K.PISTOL"
-msgstr ""
+msgstr "K.手枪"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00001c
 #: slot/0x0052e4f8/0x1bca3f/0x00001d
@@ -1009,7 +1009,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x000117
 #: slot/0x00c48887/0xae0b2a/0x000149
 msgid "SUPPLY MK."
-msgstr ""
+msgstr "补给弹"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000022
 #: slot/0x0052e4f8/0x1bca3f/0x000023
@@ -1024,12 +1024,12 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x000118
 #: slot/0x00c48887/0xae0b2a/0x00014a
 msgid "STRIKE MK."
-msgstr ""
+msgstr "打击弹"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000025
 #: slot/0x00c48887/0xae0b2a/0x000025
 msgid "BANANA"
-msgstr ""
+msgstr "香蕉"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000029
 #: slot/0x0052e4f8/0x1bca3f/0x00002a
@@ -1042,7 +1042,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x00002c
 #: slot/0x00c48887/0xae0b2a/0x00002d
 msgid "TWIN BRL."
-msgstr ""
+msgstr "双管"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00002e
 #: slot/0x0052e4f8/0x1bca3f/0x00002f
@@ -1051,7 +1051,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x00002f
 #: slot/0x00c48887/0xae0b2a/0x000030
 msgid "TWIN B.(R)"
-msgstr ""
+msgstr "双管(R)"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000031
 #: slot/0x0052e4f8/0x1bca3f/0x000032
@@ -1118,7 +1118,7 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x00003a
 #: slot/0x00c48887/0xae0b2a/0x00003a
 msgid "CAW"
-msgstr ""
+msgstr "CAW"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00003d
 #: slot/0x0052e4f8/0x1bca3f/0x00003e
@@ -1252,7 +1252,7 @@ msgstr ""
 #: slot/0x0052e4f8/0x1bca3f/0x00005b
 #: slot/0x00c48887/0xae0b2a/0x00005b
 msgid "PATRIOT"
-msgstr ""
+msgstr "爱国者"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00005c
 #: slot/0x0052e4f8/0x1bca3f/0x00005d
@@ -1341,7 +1341,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x00006c
 #: slot/0x00c48887/0xae0b2a/0x00006d
 msgid "RPK"
-msgstr ""
+msgstr "RPK"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00006e
 #: slot/0x0052e4f8/0x1bca3f/0x00006f
@@ -1365,13 +1365,13 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x000235
 #: slot/0x00c48887/0xae0b2a/0x000236
 msgid "FAL"
-msgstr ""
+msgstr "FAL"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000071
 #: slot/0x0052e4f8/0x2d3090/0x000071
 #: slot/0x00c48887/0xae0b2a/0x000071
 msgid "SUG"
-msgstr ""
+msgstr "SUG"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000072
 #: slot/0x0052e4f8/0x2d3090/0x000072
@@ -1382,7 +1382,7 @@ msgstr ""
 #: slot/0x0052e4f8/0x1bca3f/0x000073
 #: slot/0x00c48887/0xae0b2a/0x000073
 msgid "MUSKET"
-msgstr ""
+msgstr "火枪"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000089
 #: slot/0x0052e4f8/0x1bca3f/0x00009c
@@ -1469,7 +1469,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x00023e
 #: slot/0x00c48887/0xae0b2a/0x00023f
 msgid "PKM"
-msgstr ""
+msgstr "PKM"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000095
 #: slot/0x0052e4f8/0x2d3090/0x000095
@@ -1484,7 +1484,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x000097
 #: slot/0x00c48887/0xae0b2a/0x000098
 msgid "MG3 (AP)"
-msgstr ""
+msgstr "MG3 (AP)"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000099
 #: slot/0x00c48887/0xae0b2a/0x000099
@@ -1494,12 +1494,12 @@ msgstr ""
 #: slot/0x0052e4f8/0x1bca3f/0x00009a
 #: slot/0x00c48887/0xae0b2a/0x00009a
 msgid "EMW GUN"
-msgstr ""
+msgstr "EMW枪"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00009b
 #: slot/0x00c48887/0xae0b2a/0x00009b
 msgid "DSHK"
-msgstr ""
+msgstr "DSHK"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00009f
 #: slot/0x0052e4f8/0x1bca3f/0x0000a0
@@ -1515,7 +1515,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x0000a1
 #: slot/0x00c48887/0xae0b2a/0x0000a2
 msgid "M1C (PR)"
-msgstr ""
+msgstr "M1C (PR)"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0000a3
 #: slot/0x0052e4f8/0x1bca3f/0x0000a4
@@ -1563,7 +1563,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x0000ae
 #: slot/0x00c48887/0xae0b2a/0x0000af
 msgid "M.NAGANT"
-msgstr ""
+msgstr "M.NAGANT"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0000b0
 #: slot/0x0052e4f8/0x1bca3f/0x0000b1
@@ -1574,17 +1574,17 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x0000b1
 #: slot/0x00c48887/0xae0b2a/0x0000cb
 msgid "SVD"
-msgstr ""
+msgstr "SVD"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0000b2
 #: slot/0x00c48887/0xae0b2a/0x0000b2
 msgid "SVD(HC)"
-msgstr ""
+msgstr "SVD(HC)"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0000b3
 #: slot/0x00c48887/0xae0b2a/0x0000b3
 msgid "SVD(NV)"
-msgstr ""
+msgstr "SVD(NV)"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0000b4
 #: slot/0x0052e4f8/0x1bca3f/0x0000b5
@@ -1616,7 +1616,7 @@ msgstr ""
 #: slot/0x0052e4f8/0x1bca3f/0x0000bd
 #: slot/0x00c48887/0xae0b2a/0x0000bd
 msgid "RG DYNAMO"
-msgstr ""
+msgstr "RG DYNAMO"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0000cc
 #: slot/0x0052e4f8/0x1bca3f/0x0000cd
@@ -1643,7 +1643,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x000240
 #: slot/0x00c48887/0xae0b2a/0x000241
 msgid "LAW"
-msgstr ""
+msgstr "LAW"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0000d0
 #: slot/0x0052e4f8/0x1bca3f/0x0000d1
@@ -1711,7 +1711,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x0000dc
 #: slot/0x00c48887/0xae0b2a/0x0000dd
 msgid "C.GUSTAV"
-msgstr ""
+msgstr "C.GUSTAV"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0000de
 #: slot/0x0052e4f8/0x1bca3f/0x0000df
@@ -1720,7 +1720,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x0000df
 #: slot/0x00c48887/0xae0b2a/0x0000e0
 msgid "C.GSTV(MP)"
-msgstr ""
+msgstr "C.GSTV(MP)"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0000e1
 #: slot/0x0052e4f8/0x1bca3f/0x0000e2
@@ -1729,7 +1729,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x0000e2
 #: slot/0x00c48887/0xae0b2a/0x0000e3
 msgid "C.GSTV(FR)"
-msgstr ""
+msgstr "C.GSTV(FR)"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0000e4
 #: slot/0x0052e4f8/0x2d3090/0x0000e4
@@ -1744,12 +1744,12 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x0000e6
 #: slot/0x00c48887/0xae0b2a/0x0000e7
 msgid "STLTH GUN"
-msgstr ""
+msgstr "STLTH GUN"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0000e8
 #: slot/0x00c48887/0xae0b2a/0x0000e8
 msgid "SLING POST"
-msgstr ""
+msgstr "SLING POST"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0000e9
 #: slot/0x0052e4f8/0x1bca3f/0x0000ea
@@ -1758,7 +1758,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x0000ea
 #: slot/0x00c48887/0xae0b2a/0x0000eb
 msgid "SLING BAND"
-msgstr ""
+msgstr "SLING BAND"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0000f8
 #: slot/0x0052e4f8/0x1bca3f/0x0000f9
@@ -1771,7 +1771,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x0000fb
 #: slot/0x00c48887/0xae0b2a/0x0000fc
 msgid "GRENADE"
-msgstr ""
+msgstr "GRENADE"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0000fd
 #: slot/0x0052e4f8/0x1bca3f/0x0000fe
@@ -1784,7 +1784,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x000100
 #: slot/0x00c48887/0xae0b2a/0x000101
 msgid "STUN G."
-msgstr ""
+msgstr "STUN G."
 
 #: slot/0x0052e4f8/0x1bca3f/0x000102
 #: slot/0x0052e4f8/0x1bca3f/0x000103
@@ -1797,7 +1797,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x000105
 #: slot/0x00c48887/0xae0b2a/0x000106
 msgid "CHAFF G."
-msgstr ""
+msgstr "CHAFF G."
 
 #: slot/0x0052e4f8/0x1bca3f/0x000107
 #: slot/0x0052e4f8/0x1bca3f/0x000108
@@ -1810,32 +1810,32 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x00010a
 #: slot/0x00c48887/0xae0b2a/0x00010b
 msgid "SMOKE G."
-msgstr ""
+msgstr "SMOKE G."
 
 #: slot/0x0052e4f8/0x1bca3f/0x00010c
 #: slot/0x00c48887/0xae0b2a/0x00010c
 msgid "SMK G.(R)"
-msgstr ""
+msgstr "SMK G.(R)"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00010d
 #: slot/0x00c48887/0xae0b2a/0x00010d
 msgid "SMK G.(B)"
-msgstr ""
+msgstr "SMK G.(B)"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00010e
 #: slot/0x00c48887/0xae0b2a/0x00010e
 msgid "SMK G.(G)"
-msgstr ""
+msgstr "SMK G.(G)"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00010f
 #: slot/0x00c48887/0xae0b2a/0x00010f
 msgid "SMK G.(Y)"
-msgstr ""
+msgstr "SMK G.(Y)"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000110
 #: slot/0x00c48887/0xae0b2a/0x000110
 msgid "SMK G.(BK)"
-msgstr ""
+msgstr "SMK G.(BK)"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000111
 #: slot/0x0052e4f8/0x1bca3f/0x000112
@@ -1848,17 +1848,17 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x000114
 #: slot/0x00c48887/0xae0b2a/0x000115
 msgid "SLEEP G."
-msgstr ""
+msgstr "SLEEP G."
 
 #: slot/0x0052e4f8/0x1bca3f/0x000116
 #: slot/0x00c48887/0xae0b2a/0x000116
 msgid "EMPTY MAG."
-msgstr ""
+msgstr "EMPTY MAG."
 
 #: slot/0x0052e4f8/0x1bca3f/0x000119
 #: slot/0x00c48887/0xae0b2a/0x000119
 msgid "EM NET"
-msgstr ""
+msgstr "EM NET"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00011a
 #: slot/0x0052e4f8/0x1bca3f/0x00011b
@@ -1890,7 +1890,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x000122
 #: slot/0x00c48887/0xae0b2a/0x000123
 msgid "CLAYMORE"
-msgstr ""
+msgstr "CLAYMORE"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000124
 #: slot/0x0052e4f8/0x1bca3f/0x000125
@@ -1903,7 +1903,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x000127
 #: slot/0x00c48887/0xae0b2a/0x000128
 msgid "MAGAZINE"
-msgstr ""
+msgstr "杂志"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000129
 #: slot/0x0052e4f8/0x1bca3f/0x00012a
@@ -1945,27 +1945,27 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x000131
 #: slot/0x00c48887/0xae0b2a/0x000132
 msgid "COOKBOOK"
-msgstr ""
+msgstr "菜谱"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000133
 #: slot/0x00c48887/0xae0b2a/0x000133
 msgid "SOLID M."
-msgstr ""
+msgstr "固蛇"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000134
 #: slot/0x00c48887/0xae0b2a/0x000134
 msgid "LIQUID M."
-msgstr ""
+msgstr "液蛇"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000135
 #: slot/0x00c48887/0xae0b2a/0x000135
 msgid "SOLIDUS M."
-msgstr ""
+msgstr "索利达斯"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000136
 #: slot/0x00c48887/0xae0b2a/0x000136
 msgid "SUPER M."
-msgstr ""
+msgstr "超级M"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000137
 #: slot/0x0052e4f8/0x1bca3f/0x000248
@@ -1978,7 +1978,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x00024a
 #: slot/0x00c48887/0xae0b2a/0x00024b
 msgid "HOBBY MAG."
-msgstr ""
+msgstr "兴趣志"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000138
 #: slot/0x0052e4f8/0x1bca3f/0x000139
@@ -1991,7 +1991,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x00013b
 #: slot/0x00c48887/0xae0b2a/0x00013c
 msgid "AT MINE"
-msgstr ""
+msgstr "反坦克雷"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00013d
 #: slot/0x0052e4f8/0x1bca3f/0x00013e
@@ -2004,7 +2004,7 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x000140
 #: slot/0x00c48887/0xae0b2a/0x000141
 msgid "DECOY"
-msgstr ""
+msgstr "诱饵"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000142
 #: slot/0x0052e4f8/0x1bca3f/0x000143
@@ -2017,12 +2017,12 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x000145
 #: slot/0x00c48887/0xae0b2a/0x000146
 msgid "AERIAL M."
-msgstr ""
+msgstr "空投杂志"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000148
 #: slot/0x00c48887/0xae0b2a/0x000148
 msgid "FULTON M."
-msgstr ""
+msgstr "富尔顿杂志"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00014b
 #: slot/0x0052e4f8/0x1bca3f/0x00014c
@@ -2035,112 +2035,112 @@ msgstr ""
 #: slot/0x00c48887/0xae0b2a/0x00014e
 #: slot/0x00c48887/0xae0b2a/0x00014f
 msgid "NOTHING"
-msgstr ""
+msgstr "无"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000190
 #: slot/0x00c48887/0xae0b2a/0x000190
 msgid "12.7MM MG"
-msgstr ""
+msgstr "12.7MM机枪"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000191
 #: slot/0x00c48887/0xae0b2a/0x000191
 msgid "7.62MM MG"
-msgstr ""
+msgstr "7.62MM机枪"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000192
 #: slot/0x00c48887/0xae0b2a/0x000192
 msgid "14.5MM MG"
-msgstr ""
+msgstr "14.5MM机枪"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000193
 #: slot/0x00c48887/0xae0b2a/0x000193
 msgid "25MM MG"
-msgstr ""
+msgstr "25MM机枪"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000194
 #: slot/0x00c48887/0xae0b2a/0x000194
 msgid "20MM AAG"
-msgstr ""
+msgstr "20MM高射炮"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0001ca
 #: slot/0x00c48887/0xae0b2a/0x0001ca
 msgid "152MM GL"
-msgstr ""
+msgstr "152MM榴弹"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0001cb
 #: slot/0x00c48887/0xae0b2a/0x0001cb
 msgid "120MM SG"
-msgstr ""
+msgstr "120MM霰弹"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0001cc
 #: slot/0x00c48887/0xae0b2a/0x0001cc
 msgid "125MM SG"
-msgstr ""
+msgstr "125MM霰弹"
 
 #: slot/0x0052e4f8/0x1bca3f/0x0001cd
 #: slot/0x00c48887/0xae0b2a/0x0001cd
 msgid "76MM RG"
-msgstr ""
+msgstr "76MM火箭炮"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000206
 #: slot/0x00c48887/0xae0b2a/0x000206
 msgid "GUN POD"
-msgstr ""
+msgstr "枪荚"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000207
 #: slot/0x00c48887/0xae0b2a/0x000207
 msgid "AT MISSILE"
-msgstr ""
+msgstr "反坦克导弹"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000208
 #: slot/0x00c48887/0xae0b2a/0x000208
 msgid "ROCKET LC"
-msgstr ""
+msgstr "火箭发射器"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00020b
 #: slot/0x00c48887/0xae0b2a/0x00020b
 msgid "MACHINEGUN"
-msgstr ""
+msgstr "机枪"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00020c
 #: slot/0x00c48887/0xae0b2a/0x00020c
 msgid "E.CHARGE"
-msgstr ""
+msgstr "蓄力"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000211
 #: slot/0x00c48887/0xae0b2a/0x000211
 msgid "CANNON"
-msgstr ""
+msgstr "炮"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000217
 #: slot/0x00c48887/0xae0b2a/0x000217
 msgid "PETRIF.ATK"
-msgstr ""
+msgstr "石化攻"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000225
 #: slot/0x00c48887/0xae0b2a/0x000225
 msgid "IRN BOMB"
-msgstr ""
+msgstr "铁弹"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000226
 #: slot/0x00c48887/0xae0b2a/0x000226
 msgid "30MM MG"
-msgstr ""
+msgstr "30MM机枪"
 
 #: slot/0x0052e4f8/0x1bca3f/0x000227
 #: slot/0x00c48887/0xae0b2a/0x000227
 msgid "30MM CG"
-msgstr ""
+msgstr "30MM机炮"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00024c
 #: slot/0x00c48887/0xae0b2a/0x00024c
 msgid "CT GUN(SM)"
-msgstr ""
+msgstr "麻醉枪(小)"
 
 #: slot/0x0052e4f8/0x1bca3f/0x00024d
 #: slot/0x00c48887/0xae0b2a/0x00024d
 msgid "CT GUN(ST)"
-msgstr ""
+msgstr "麻醉枪(标)"
 
 #: slot/0x0052e4f8/0x2d3090/0x000002
 #: slot/0x0052e4f8/0x2d3090/0x000003
@@ -2148,48 +2148,48 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x000005
 #: slot/0x0052e4f8/0x2d3090/0x000006
 msgid "Mk.22 Mod.0 (Hush Puppy)"
-msgstr ""
+msgstr "Mk.22 Mod.0 (哈巴狗)"
 
 #: slot/0x0052e4f8/0x2d3090/0x000007
 #: slot/0x0052e4f8/0x2d3090/0x000008
 #: slot/0x0052e4f8/0x2d3090/0x000009
 #: slot/0x0052e4f8/0x2d3090/0x00000a
 msgid "EZ GUN (Life Recovery)"
-msgstr ""
+msgstr "EZ枪(生命恢复)"
 
 #: slot/0x0052e4f8/0x2d3090/0x00000b
 #: slot/0x0052e4f8/0x2d3090/0x00000c
 #: slot/0x0052e4f8/0x2d3090/0x00000d
 #: slot/0x0052e4f8/0x2d3090/0x00000e
 msgid "EZ GUN (Psyche Recovery)"
-msgstr ""
+msgstr "EZ枪(精神恢复)"
 
 #: slot/0x0052e4f8/0x2d3090/0x000011
 #: slot/0x0052e4f8/0x2d3090/0x000012
 #: slot/0x0052e4f8/0x2d3090/0x000013
 msgid "M1911A1 Custom"
-msgstr ""
+msgstr "M1911A1定制"
 
 #: slot/0x0052e4f8/0x2d3090/0x00001a
 #: slot/0x0052e4f8/0x2d3090/0x00001b
 msgid "Kampfpistole (Combat Pistol)"
-msgstr ""
+msgstr "战斗手枪"
 
 #: slot/0x0052e4f8/0x2d3090/0x00001f
 #: slot/0x0052e4f8/0x2d3090/0x000020
 #: slot/0x0052e4f8/0x2d3090/0x000021
 msgid "Support Supply Marker"
-msgstr ""
+msgstr "支援补给标记"
 
 #: slot/0x0052e4f8/0x2d3090/0x000022
 #: slot/0x0052e4f8/0x2d3090/0x000023
 #: slot/0x0052e4f8/0x2d3090/0x000024
 msgid "Support Strike Marker"
-msgstr ""
+msgstr "支援攻击标记"
 
 #: slot/0x0052e4f8/0x2d3090/0x000025
 msgid "Banana"
-msgstr ""
+msgstr "香蕉"
 
 #: slot/0x0052e4f8/0x2d3090/0x000029
 #: slot/0x0052e4f8/0x2d3090/0x00002a
@@ -2197,29 +2197,29 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x00002c
 #: slot/0x0052e4f8/0x2d3090/0x00002d
 msgid "Twin Barrel Shotgun"
-msgstr ""
+msgstr "双管霰弹枪"
 
 #: slot/0x0052e4f8/0x2d3090/0x00002e
 #: slot/0x0052e4f8/0x2d3090/0x00002f
 #: slot/0x0052e4f8/0x2d3090/0x000030
 msgid "Twin Barrel Shotgun (Rubber Slug)"
-msgstr ""
+msgstr "双管霰弹枪(橡胶弹)"
 
 #: slot/0x0052e4f8/0x2d3090/0x000035
 msgid "M37 (Long Barrel)"
-msgstr ""
+msgstr "M37(长枪管)"
 
 #: slot/0x0052e4f8/0x2d3090/0x000036
 msgid "M37 (Accurized Model)"
-msgstr ""
+msgstr "M37(精准型)"
 
 #: slot/0x0052e4f8/0x2d3090/0x000041
 msgid "M10 (w/ Suppressor)"
-msgstr ""
+msgstr "M10(带消音器)"
 
 #: slot/0x0052e4f8/0x2d3090/0x000042
 msgid "M10 (w/ Barrel Jacket)"
-msgstr ""
+msgstr "M10(带枪管护套)"
 
 #: slot/0x0052e4f8/0x2d3090/0x000046
 #: slot/0x0052e4f8/0x2d3090/0x000047
@@ -2239,98 +2239,98 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x000051
 #: slot/0x0052e4f8/0x2d3090/0x000052
 msgid "M16A1 (w/ Shotgun)"
-msgstr ""
+msgstr "M16A1(霰弹)"
 
 #: slot/0x0052e4f8/0x2d3090/0x000053
 #: slot/0x0052e4f8/0x2d3090/0x000054
 #: slot/0x0052e4f8/0x2d3090/0x000055
 #: slot/0x0052e4f8/0x2d3090/0x000056
 msgid "M16A1 (w/ Grenade Launcher)"
-msgstr ""
+msgstr "M16A1(带榴弹发射器)"
 
 #: slot/0x0052e4f8/0x2d3090/0x000057
 #: slot/0x0052e4f8/0x2d3090/0x000058
 #: slot/0x0052e4f8/0x2d3090/0x000059
 #: slot/0x0052e4f8/0x2d3090/0x00005a
 msgid "M16A1 (w/ Smoke Grenade Launcher)"
-msgstr ""
+msgstr "M16A1(带烟雾弹发射器)"
 
 #: slot/0x0052e4f8/0x2d3090/0x00005b
 #: slot/0x00d982f6/0xb910e6/0x9f6a64
 msgid "Patriot"
-msgstr ""
+msgstr "爱国者"
 
 #: slot/0x0052e4f8/0x2d3090/0x00005e
 #: slot/0x0052e4f8/0x2d3090/0x00005f
 msgid "M653 (w/ Grenade Launcher)"
-msgstr ""
+msgstr "M653（榴弹发射器）"
 
 #: slot/0x0052e4f8/0x2d3090/0x000060
 #: slot/0x0052e4f8/0x2d3090/0x000061
 msgid "M653 (w/ Shotgun)"
-msgstr ""
+msgstr "M653（霰弹）"
 
 #: slot/0x0052e4f8/0x2d3090/0x000062
 #: slot/0x0052e4f8/0x2d3090/0x000063
 msgid "M653 (w/ Smoke Grenade Launcher)"
-msgstr ""
+msgstr "M653（烟雾弹发射器）"
 
 #: slot/0x0052e4f8/0x2d3090/0x000065
 #: slot/0x0052e4f8/0x2d3090/0x000066
 msgid "RK47 (w/ Grenade Launcher)"
-msgstr ""
+msgstr "RK47（榴弹发射器）"
 
 #: slot/0x0052e4f8/0x2d3090/0x000067
 #: slot/0x0052e4f8/0x2d3090/0x000068
 msgid "RK47 (w/ Smoke Grenade Launcher)"
-msgstr ""
+msgstr "RK47（烟雾弹发射器）"
 
 #: slot/0x0052e4f8/0x2d3090/0x000073
 msgid "Tanegashima Musket"
-msgstr ""
+msgstr "种子岛火枪"
 
 #: slot/0x0052e4f8/0x2d3090/0x00008a
 msgid "M60 (Armor Piercing)"
-msgstr ""
+msgstr "M60（穿甲弹）"
 
 #: slot/0x0052e4f8/0x2d3090/0x00008b
 #: slot/0x0052e4f8/0x2d3090/0x00008c
 msgid "M60 (Short Barrel)"
-msgstr ""
+msgstr "M60（短枪管）"
 
 #: slot/0x0052e4f8/0x2d3090/0x000096
 #: slot/0x0052e4f8/0x2d3090/0x000097
 #: slot/0x0052e4f8/0x2d3090/0x000098
 msgid "MG3 (Armor Piercing)"
-msgstr ""
+msgstr "MG3（穿甲弹）"
 
 #: slot/0x0052e4f8/0x2d3090/0x000099
 msgid "M134 Gatling Gun"
-msgstr ""
+msgstr "M134加特林"
 
 #: slot/0x0052e4f8/0x2d3090/0x00009a
 #: slot/0x0056a63d/0x954c25/0x00012c
 msgid "EM Wave Gun"
-msgstr ""
+msgstr "电磁波枪"
 
 #: slot/0x0052e4f8/0x2d3090/0x00009b
 msgid "DShK Heavy Machine Gun"
-msgstr ""
+msgstr "DShK重机枪"
 
 #: slot/0x0052e4f8/0x2d3090/0x0000a1
 #: slot/0x0052e4f8/0x2d3090/0x0000a2
 msgid "M1C (Psyche Recovery)"
-msgstr ""
+msgstr "M1C（精神恢复）"
 
 #: slot/0x0052e4f8/0x2d3090/0x0000a7
 #: slot/0x0052e4f8/0x2d3090/0x0000a8
 msgid "M700 (Bull Barrel)"
-msgstr ""
+msgstr "M700（重型枪管）"
 
 #: slot/0x0052e4f8/0x2d3090/0x0000a9
 #: slot/0x0052e4f8/0x2d3090/0x0000aa
 msgid "M700 (Life Recovery)"
-msgstr ""
+msgstr "M700（生命恢复）"
 
 #: slot/0x0052e4f8/0x2d3090/0x0000ab
 #: slot/0x0052e4f8/0x2d3090/0x0000ac
@@ -2338,58 +2338,58 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x0000ae
 #: slot/0x0052e4f8/0x2d3090/0x0000af
 msgid "Mosin-Nagant"
-msgstr ""
+msgstr "莫辛-纳甘"
 
 #: slot/0x0052e4f8/0x2d3090/0x0000b2
 msgid "SVD (High Capacity)"
-msgstr ""
+msgstr "SVD（大容量）"
 
 #: slot/0x0052e4f8/0x2d3090/0x0000b3
 msgid "SVD (Night Vision)"
-msgstr ""
+msgstr "SVD（夜视）"
 
 #: slot/0x0052e4f8/0x2d3090/0x0000bd
 msgid "Railgun Dynamo"
-msgstr ""
+msgstr "电磁炮发电机"
 
 #: slot/0x0052e4f8/0x2d3090/0x0000cb
 msgid "SVD Dragnov"
-msgstr ""
+msgstr "SVD德拉贡诺夫"
 
 #: slot/0x0052e4f8/0x2d3090/0x0000da
 #: slot/0x0052e4f8/0x2d3090/0x0000db
 #: slot/0x0052e4f8/0x2d3090/0x0000dc
 #: slot/0x0052e4f8/0x2d3090/0x0000dd
 msgid "Carl Gustav M2"
-msgstr ""
+msgstr "卡尔·古斯塔夫M2"
 
 #: slot/0x0052e4f8/0x2d3090/0x0000de
 #: slot/0x0052e4f8/0x2d3090/0x0000df
 #: slot/0x0052e4f8/0x2d3090/0x0000e0
 msgid "Carl Gustav M2 (Multi Purpose)"
-msgstr ""
+msgstr "卡尔·古斯塔夫M2（多用途）"
 
 #: slot/0x0052e4f8/0x2d3090/0x0000e1
 #: slot/0x0052e4f8/0x2d3090/0x0000e2
 #: slot/0x0052e4f8/0x2d3090/0x0000e3
 msgid "Carl Gustav M2 (Fulton Recovery)"
-msgstr ""
+msgstr "卡尔·古斯塔夫M2（富尔顿回收）"
 
 #: slot/0x0052e4f8/0x2d3090/0x0000e5
 #: slot/0x0052e4f8/0x2d3090/0x0000e6
 #: slot/0x0052e4f8/0x2d3090/0x0000e7
 msgid "Stealth Gun"
-msgstr ""
+msgstr "隐身枪"
 
 #: slot/0x0052e4f8/0x2d3090/0x0000e8
 msgid "Human Slingshot Post"
-msgstr ""
+msgstr "人体弹弓柱"
 
 #: slot/0x0052e4f8/0x2d3090/0x0000e9
 #: slot/0x0052e4f8/0x2d3090/0x0000ea
 #: slot/0x0052e4f8/0x2d3090/0x0000eb
 msgid "Human Slingshot Band"
-msgstr ""
+msgstr "人体弹弓皮筋"
 
 #: slot/0x0052e4f8/0x2d3090/0x0000f8
 #: slot/0x0052e4f8/0x2d3090/0x0000f9
@@ -2397,7 +2397,7 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x0000fb
 #: slot/0x0052e4f8/0x2d3090/0x0000fc
 msgid "Grenade"
-msgstr ""
+msgstr "手雷"
 
 #: slot/0x0052e4f8/0x2d3090/0x0000fd
 #: slot/0x0052e4f8/0x2d3090/0x0000fe
@@ -2405,7 +2405,7 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x000100
 #: slot/0x0052e4f8/0x2d3090/0x000101
 msgid "Stun Grenade"
-msgstr ""
+msgstr "眩晕雷"
 
 #: slot/0x0052e4f8/0x2d3090/0x000102
 #: slot/0x0052e4f8/0x2d3090/0x000103
@@ -2413,7 +2413,7 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x000105
 #: slot/0x0052e4f8/0x2d3090/0x000106
 msgid "Chaff Grenade"
-msgstr ""
+msgstr "干扰雷"
 
 #: slot/0x0052e4f8/0x2d3090/0x000107
 #: slot/0x0052e4f8/0x2d3090/0x000108
@@ -2421,27 +2421,27 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x00010a
 #: slot/0x0052e4f8/0x2d3090/0x00010b
 msgid "Smoke Grenade"
-msgstr ""
+msgstr "烟雾雷"
 
 #: slot/0x0052e4f8/0x2d3090/0x00010c
 msgid "Smoke Grenade (Red)"
-msgstr ""
+msgstr "烟雾雷（红）"
 
 #: slot/0x0052e4f8/0x2d3090/0x00010d
 msgid "Smoke Grenade (Blue)"
-msgstr ""
+msgstr "烟雾雷（蓝）"
 
 #: slot/0x0052e4f8/0x2d3090/0x00010e
 msgid "Smoke Grenade (Green)"
-msgstr ""
+msgstr "烟雾雷（绿）"
 
 #: slot/0x0052e4f8/0x2d3090/0x00010f
 msgid "Smoke Grenade (Yellow)"
-msgstr ""
+msgstr "烟雾雷（黄）"
 
 #: slot/0x0052e4f8/0x2d3090/0x000110
 msgid "Smoke Grenade (Black)"
-msgstr ""
+msgstr "烟雾雷（黑）"
 
 #: slot/0x0052e4f8/0x2d3090/0x000111
 #: slot/0x0052e4f8/0x2d3090/0x000112
@@ -2449,23 +2449,23 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x000114
 #: slot/0x0052e4f8/0x2d3090/0x000115
 msgid "Sleep Gas Grenade"
-msgstr ""
+msgstr "催眠瓦斯雷"
 
 #: slot/0x0052e4f8/0x2d3090/0x000116
 msgid "Empty Magazine"
-msgstr ""
+msgstr "空杂志"
 
 #: slot/0x0052e4f8/0x2d3090/0x000117
 msgid "Support Supply Marker (Thrown)"
-msgstr ""
+msgstr "支援补给标记（投掷）"
 
 #: slot/0x0052e4f8/0x2d3090/0x000118
 msgid "Support Strike Marker (Thrown)"
-msgstr ""
+msgstr "支援攻击标记（投掷）"
 
 #: slot/0x0052e4f8/0x2d3090/0x000119
 msgid "Electromagnetic Net"
-msgstr ""
+msgstr "电磁网"
 
 #: slot/0x0052e4f8/0x2d3090/0x00011f
 #: slot/0x0052e4f8/0x2d3090/0x000120
@@ -2473,7 +2473,7 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x000122
 #: slot/0x0052e4f8/0x2d3090/0x000123
 msgid "Claymore"
-msgstr ""
+msgstr "阔剑地雷"
 
 #: slot/0x0052e4f8/0x2d3090/0x000124
 #: slot/0x0052e4f8/0x2d3090/0x000125
@@ -2481,7 +2481,7 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x000127
 #: slot/0x0052e4f8/0x2d3090/0x000128
 msgid "Magazine"
-msgstr ""
+msgstr "杂志"
 
 #: slot/0x0052e4f8/0x2d3090/0x00012e
 #: slot/0x0052e4f8/0x2d3090/0x00012f
@@ -2489,23 +2489,23 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x000131
 #: slot/0x0052e4f8/0x2d3090/0x000132
 msgid "Cookbook"
-msgstr ""
+msgstr "菜谱"
 
 #: slot/0x0052e4f8/0x2d3090/0x000133
 msgid "Solid Magazine"
-msgstr ""
+msgstr "索利德志"
 
 #: slot/0x0052e4f8/0x2d3090/0x000134
 msgid "Liquid Magazine"
-msgstr ""
+msgstr "利奎德杂志"
 
 #: slot/0x0052e4f8/0x2d3090/0x000135
 msgid "Solidus Magazine"
-msgstr ""
+msgstr "索利达志"
 
 #: slot/0x0052e4f8/0x2d3090/0x000136
 msgid "Super Magazine"
-msgstr ""
+msgstr "超级杂志"
 
 #: slot/0x0052e4f8/0x2d3090/0x000137
 #: slot/0x0052e4f8/0x2d3090/0x000248
@@ -2513,7 +2513,7 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x00024a
 #: slot/0x0052e4f8/0x2d3090/0x00024b
 msgid "Hobby Magazine"
-msgstr ""
+msgstr "兴趣杂志"
 
 #: slot/0x0052e4f8/0x2d3090/0x000138
 #: slot/0x0052e4f8/0x2d3090/0x000139
@@ -2521,7 +2521,7 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x00013b
 #: slot/0x0052e4f8/0x2d3090/0x00013c
 msgid "Anti-tank Mine"
-msgstr ""
+msgstr "反坦克雷"
 
 #: slot/0x0052e4f8/0x2d3090/0x00013d
 #: slot/0x0052e4f8/0x2d3090/0x00013e
@@ -2530,7 +2530,7 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x000141
 #: slot/0x00d982f6/0xb910e6/0x895999
 msgid "Decoy"
-msgstr ""
+msgstr "饵"
 
 #: slot/0x0052e4f8/0x2d3090/0x000142
 #: slot/0x0052e4f8/0x2d3090/0x000143
@@ -2538,19 +2538,19 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x000145
 #: slot/0x0052e4f8/0x2d3090/0x000146
 msgid "Aerial Mine"
-msgstr ""
+msgstr "空雷"
 
 #: slot/0x0052e4f8/0x2d3090/0x000148
 msgid "Fulton Sleep Gas Mine"
-msgstr ""
+msgstr "富尔顿睡气雷"
 
 #: slot/0x0052e4f8/0x2d3090/0x000149
 msgid "Support Supply Marker (Set)"
-msgstr ""
+msgstr "支援补给标记(已设)"
 
 #: slot/0x0052e4f8/0x2d3090/0x00014a
 msgid "Support Strike Marker (Set)"
-msgstr ""
+msgstr "支援攻击标记(已设)"
 
 #: slot/0x0052e4f8/0x2d3090/0x00014b
 #: slot/0x0052e4f8/0x2d3090/0x00014c
@@ -2559,7 +2559,7 @@ msgstr ""
 #: slot/0x0052e4f8/0x2d3090/0x00014f
 #: slot/0x00a57090/0x12908e/0x00007c
 msgid "Nothing here..."
-msgstr ""
+msgstr "这里什么都没有……"
 
 #: slot/0x0052e4f8/0x2d3090/0x000190
 #: slot/0x0052e4f8/0x2d3090/0x000191
@@ -2993,122 +2993,122 @@ msgstr ""
 #: slot/0x00edcb1e/0x017f53/0x000226
 #: slot/0x00edcb1e/0x017f53/0x000227
 msgid "（不要）"
-msgstr ""
+msgstr "（不要）"
 
 #: slot/0x0052e4f8/0x594864/0x000001
 msgid "Non-lethal, high-voltage electric shock weapon. Press and hold <I=ATK> to use. Its strength increases the more it is used."
-msgstr ""
+msgstr "非致命高压电击武器。按住<I=ATK>使用。使用次数越多威力越强。"
 
 #: slot/0x0052e4f8/0x594864/0x000002
 msgid "Non-lethal tranquilizer pistol. Rounds take effect after a period of time. While equipped with a suppressor, it is of low durability and wears out relatively fast."
-msgstr ""
+msgstr "非致命麻醉手枪。子弹需一段时间才生效。带消音器，耐久度低，损耗较快。"
 
 #: slot/0x0052e4f8/0x594864/0x000003
 #: slot/0x0052e4f8/0x594864/0x000004
 #: slot/0x0052e4f8/0x594864/0x000005
 #: slot/0x0052e4f8/0x594864/0x000006
 msgid "Non-lethal tranquilizer pistol. Rounds take effect after a period of time. Suppressor durability has been increased through R&D. "
-msgstr ""
+msgstr "非致命麻醉手枪。子弹需一段时间才生效。经研发消音器耐久度提升。"
 
 #: slot/0x0052e4f8/0x594864/0x000007
 msgid "Special, non-lethal pistol with built-in suppressor made to fire LIFE Recovery Rounds. Its prototype status results in low LIFE recovery."
-msgstr ""
+msgstr "内置消音器的特殊非致命手枪，发射生命值回复弹。因是试制品，回复量较低。"
 
 #: slot/0x0052e4f8/0x594864/0x000008
 #: slot/0x0052e4f8/0x594864/0x000009
 #: slot/0x0052e4f8/0x594864/0x00000a
 msgid "Special non-lethal pistol with built-in suppressor made to fire LIFE Recovery Rounds. Modified to offer increased LIFE recovery."
-msgstr ""
+msgstr "内置消音器的特殊非致命手枪，发射生命值回复弹。经改造回复量提升。"
 
 #: slot/0x0052e4f8/0x594864/0x00000b
 msgid "Special non-lethal pistol with built-in suppressor made to fire PSYCHE Recovery Rounds. Its prototype status results in low PSYCHE recovery."
-msgstr ""
+msgstr "内置消音器的特殊非致命手枪，发射精神回复弹。因是试制品，回复量较低。"
 
 #: slot/0x0052e4f8/0x594864/0x00000c
 #: slot/0x0052e4f8/0x594864/0x00000d
 #: slot/0x0052e4f8/0x594864/0x00000e
 msgid "Special non-lethal pistol with built-in suppressor made to fire PSYCHE Recovery Rounds. Modified to offer increased PSYCHE recovery."
-msgstr ""
+msgstr "内置消音器的特殊非致命手枪，发射精神回复弹。经改造回复量提升。"
 
 #: slot/0x0052e4f8/0x594864/0x00000f
 msgid "Large-caliber combat pistol. Powerful enough to temporarily incapacitate even heavily armored soldiers."
-msgstr ""
+msgstr "大口径战斗手枪。威力足以让重甲士兵暂时失去行动力。"
 
 #: slot/0x0052e4f8/0x594864/0x000010
 msgid "Large-caliber combat pistol. Powerful enough to temporarily incapacitate even heavily armored soldiers. Equipped with suppressor."
-msgstr ""
+msgstr "大口径战斗手枪。威力足以让重甲士兵暂时失去行动力。带消音器。"
 
 #: slot/0x0052e4f8/0x594864/0x000011
 msgid "Large-caliber combat pistol. Upgraded custom model of the M1911A1 featuring greater accuracy and damage."
-msgstr ""
+msgstr "大口径战斗手枪。M1911A1的升级定制版，精度与伤害更高。"
 
 #: slot/0x0052e4f8/0x594864/0x000012
 #: slot/0x0052e4f8/0x594864/0x000013
 msgid "Large-caliber combat pistol. Upgraded custom model of the M1911A1 featuring greater accuracy and damage. Equipped with suppressor."
-msgstr ""
+msgstr "大口径战斗手枪。M1911A1的升级定制版，精度与伤害更高。带消音器。"
 
 #: slot/0x0052e4f8/0x594864/0x000014
 msgid "Medium-caliber combat pistol. Compact and easy to carry, so it won't impede your sneaking."
-msgstr ""
+msgstr "中口径战斗手枪。小巧易携，不影响潜行。"
 
 #: slot/0x0052e4f8/0x594864/0x000015
 #: slot/0x0052e4f8/0x594864/0x000016
 msgid "Medium-caliber combat pistol. Compact and easy to carry, so it won't impede your sneaking. Equipped with suppressor that does not wear with use."
-msgstr ""
+msgstr "中口径战斗手枪。小巧易携，不影响潜行。消音器不会随使用损耗。"
 
 #: slot/0x0052e4f8/0x594864/0x000017
 msgid "Highly reliable combat revolver. While its massive power will knock enemies off their feet, it has considerable recoil."
-msgstr ""
+msgstr "高可靠性战斗左轮。巨大威力可将敌人击倒，但后坐力也很大。"
 
 #: slot/0x0052e4f8/0x594864/0x000018
 msgid "Highly reliable combat revolver. While its massive power will knock enemies off their feet, it has considerable recoil. The longer barrel increases accuracy."
-msgstr ""
+msgstr "高可靠性战斗左轮。巨大威力可将敌人击倒，但后坐力也很大。加长枪管提升精度。"
 
 #: slot/0x0052e4f8/0x594864/0x000019
 msgid "Highly reliable combat revolver. While its massive power will knock enemies off their feet, it has considerable recoil. The laser sight enables easier targeting."
-msgstr ""
+msgstr "高可靠性战斗左轮。巨大威力可将敌人击倒，但后坐力也很大。激光瞄准器便于瞄准。"
 
 #: slot/0x0052e4f8/0x594864/0x00001a
 msgid "Hand cannon that fires grenades. Though small and single-shot, it can hold its own against armored vehicles."
-msgstr ""
+msgstr "发射榴弹的手炮。虽小巧且单发，仍可对抗装甲车。"
 
 #: slot/0x0052e4f8/0x594864/0x00001b
 msgid "Hand cannon that fires grenades. Though small and single-shot, it can hold its own against armored vehicles. The rifle stock increases accuracy."
-msgstr ""
+msgstr "发射榴弹的手炮。虽小巧且单发，仍可对抗装甲车。枪托提升精度。"
 
 #: slot/0x0052e4f8/0x594864/0x00001c
 msgid "Large-frame machine pistol. Good for temporarily incapacitating soldiers. Can be modified through R&D into a full-auto model."
-msgstr ""
+msgstr "大型冲锋手枪。可暂时使士兵失去战斗力。可通过研发改造为全自动型号。"
 
 #: slot/0x0052e4f8/0x594864/0x00001d
 msgid "Large-frame machine pistol. Full-auto model. Firepower is greatly increased, but so is the recoil. In addition, the shorter barrel reduces accuracy."
-msgstr ""
+msgstr "大型冲锋手枪。全自动型号。火力大幅提升，但后坐力也随之增大。此外，枪管较短导致精度下降。"
 
 #: slot/0x0052e4f8/0x594864/0x00001e
 msgid "Large-frame machine pistol. Full-auto model. Firepower is greatly increased, but so is the recoil. Increased magazine capacity."
-msgstr ""
+msgstr "大型冲锋手枪。全自动型号。火力大幅提升，但后坐力也随之增大。弹匣容量增加。"
 
 #: slot/0x0052e4f8/0x594864/0x00001f
 msgid "Support supply request marker. Fired and set like a weapon. Once set, press <I=HHA> to receive ammo and items. Heroism decreases with overuse."
-msgstr ""
+msgstr "支援补给请求标记。像武器一样发射并设置。设置后按<I=HHA>可接收弹药和物品。过度使用会降低英雄度。"
 
 #: slot/0x0052e4f8/0x594864/0x000020
 #: slot/0x0052e4f8/0x594864/0x000021
 msgid "Support supply request marker.  Heroism decreases with overuse.  Modified to carry additional rounds."
-msgstr ""
+msgstr "支援补给请求标记。过度使用会降低英雄度。已改造以携带更多弹药。"
 
 #: slot/0x0052e4f8/0x594864/0x000022
 msgid "Support strike request marker. Fired and set like a weapon. Once set, press <I=HHA> to execute strike. Heroism decreases with overuse."
-msgstr ""
+msgstr "支援打击请求标记。像武器一样发射并设置。设置后按<I=HHA>可执行打击。过度使用会降低英雄度。"
 
 #: slot/0x0052e4f8/0x594864/0x000023
 #: slot/0x0052e4f8/0x594864/0x000024
 msgid "Support strike request marker.  Heroism decreases with overuse.  Modified to carry additional rounds."
-msgstr ""
+msgstr "支援打击请求标记。过度使用会降低英雄度。已改造以携带更多弹药。"
 
 #: slot/0x0052e4f8/0x594864/0x000025
 msgid "Delicious and nutritious fruit. Product of Costa Rica."
-msgstr ""
+msgstr "美味又营养的水果。哥斯达黎加产。"
 
 #: slot/0x0052e4f8/0x594864/0x000026
 #: slot/0x0052e4f8/0x594864/0x000027
@@ -3116,41 +3116,41 @@ msgid ""
 "Large-bore combat pistol.\n"
 "Press the Attack Button while \n"
 "holding the Aim Button to fire."
-msgstr ""
+msgstr "大口径战斗手枪。\n按住瞄准键时按\n攻击键即可射击。"
 
 #: slot/0x0052e4f8/0x594864/0x000029
 msgid "Double-barreled shotgun. Though powerful, it lacks range and only holds two rounds."
-msgstr ""
+msgstr "双管霰弹枪。威力虽大，但射程不足，且只能装两发。"
 
 #: slot/0x0052e4f8/0x594864/0x00002a
 msgid "Double-barreled shotgun. The sawed-off barrel makes it easier to handle. Reload speed can be increased through R&D."
-msgstr ""
+msgstr "双管霰弹枪。锯短枪管使其更易操作。可通过研发提升装填速度。"
 
 #: slot/0x0052e4f8/0x594864/0x00002b
 #: slot/0x0052e4f8/0x594864/0x00002c
 #: slot/0x0052e4f8/0x594864/0x00002d
 msgid "Double-barreled shotgun. The sawed-off barrel makes it easier to handle. Reload speed has been increased."
-msgstr ""
+msgstr "双管霰弹枪。锯短枪管使其更易操作。装填速度已提升。"
 
 #: slot/0x0052e4f8/0x594864/0x00002e
 #: slot/0x0052e4f8/0x594864/0x00002f
 #: slot/0x0052e4f8/0x594864/0x000030
 msgid "Double-barreled shotgun that fires rubber slugs. Non-lethal. The sawed-off barrel makes it easier to handle. Reload speed can be increased through R&D."
-msgstr ""
+msgstr "发射橡胶弹的双管霰弹枪。非致命。锯短枪管使其更易操作。可通过研发提升装填速度。"
 
 #: slot/0x0052e4f8/0x594864/0x000031
 msgid "Lightweight pump-action shotgun. Can fire four rounds in rapid succession."
-msgstr ""
+msgstr "轻型泵动霰弹枪。可快速连续射击四发。"
 
 #: slot/0x0052e4f8/0x594864/0x000032
 msgid "Lightweight pump-action shotgun. Modified to hold seven rounds. Firepower is also greatly increased."
-msgstr ""
+msgstr "轻型泵动霰弹枪。已改造为可装七发。火力也大幅提升。"
 
 #: slot/0x0052e4f8/0x594864/0x000033
 #: slot/0x0052e4f8/0x594864/0x000034
 msgid "Lightweight pump-action shotgun. Equipped with suppressor in addition to its increased capacity. Overall power is also greater."
-msgstr ""
+msgstr "轻型泵动霰弹枪。除容量增加外还配备了消音器。整体威力也更强。"
 
 #: slot/0x0052e4f8/0x594864/0x000035
 msgid "Lightweight pump-action shotgun. Its longer barrel decreases spread, allowing shots to connect from greater distances. The rifle stock also increases accuracy."
-msgstr ""
+msgstr "轻型泵动霰弹枪。较长的枪管减小了散布，可从更远距离命中目标。枪托也提升了精度。"

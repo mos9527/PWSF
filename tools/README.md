@@ -29,10 +29,20 @@ python tools/translate.py --group olang --workers 6
 python tools/translate.py --group slot  --workers 6
 python tools/translate.py --group codec --workers 6   # 最严：有字节预算
 
+# 3.5 codec 有字节预算，翻完基本必然要压一轮
+python research\TOOLS\_probe_codec_budget.py              # 行级账目，超在哪一行
+python research\TOOLS\_probe_codec_budget.py --shrink-all # 把比英文长的译文压回去
+python research\TOOLS\_probe_codec_budget.py --fix        # 压完仍超的记录，记录级精修
+
 # 4. 回到 pwsf 管线验收
 python -m pwsf.po_lint
 python -m pwsf.po_import --install
 ```
+
+`codec-budget` 是硬 error（记录不能搬家，`ANALYSIS/03` §9.2），不压到
+`po_lint` 通过就编译不了。判据很朴素：只要每行译文都比对应英文短，
+`need` 就必然 ≤ 英文用量 ≤ `budget`，所以 `--shrink-all` 是根治，
+`--fix` 只是给压不动的记录补刀（模型压不到的最后几十字节要人工改）。
 
 ## translate.py
 
@@ -60,8 +70,13 @@ python -m pwsf.po_import --install
 
 已填 `msgstr` 的条目自动跳过，随时中断随时续跑；失败明细进 `tools/translate.log`。
 
-> 一个文件只由一个进程写：**不要**同时开两个 `translate.py` 跑同一批文件，
-> 否则后写的会覆盖前一批（行号缓存会失效）。按 `--group` 分开跑即可。
+> 一个文件只由一个进程写：**不要**同时开两个 `translate.py` 跑同一批文件。
+> 进程内同一文件的多个批次是安全的（按文件串行 + 每次重读磁盘最新内容，
+> 见 `poio.commit`），但两个进程之间没这层保护。按 `--group` 分开跑即可。
+>
+> 历史 bug：写回曾拿启动时的行快照当基底整文件重写，同文件多批并发会
+> 互相覆盖，表现为 diff 位置每轮都变且不累积。2026-09 修掉，改成
+> `poio.commit` 重读 + per-file lock。
 
 ## 术语表 terms.tsv
 

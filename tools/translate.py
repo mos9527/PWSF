@@ -189,7 +189,27 @@ def collect(args):
 CACHE = {}
 EOL = {}
 LOCK = threading.Lock()
+FILE_LOCKS = {}
 STATS = {"ok": 0, "fail": 0, "skip": 0, "long": 0, "shrunk": 0, "repaired": 0}
+
+
+def commit_batch(path, mapping):
+    """把一个批次的译文落盘。
+
+    两个约束：
+    1. 基底必须是磁盘最新内容（`poio.commit` 内部重读）。`CACHE` 里那一份是
+       启动时快照，拿它重写会让同文件其它批次的译文被覆盖。
+    2. 同一文件串行提交：读-改-写不是原子操作，两个线程同时来会丢一半。
+    """
+    if not mapping:
+        return
+    with LOCK:
+        fl = FILE_LOCKS.get(path)
+        if fl is None:
+            fl = FILE_LOCKS[path] = threading.Lock()
+    with fl:
+        _, lines = poio.commit(path, mapping, EOL[path])
+        CACHE[path] = lines
 
 
 def log_error(path, msgid, reason):
@@ -457,10 +477,7 @@ def main():
             mapping = {}
             for e, val in ok.items():
                 mapping[e.msgstr_line] = val
-            if mapping:
-                with LOCK:
-                    poio.write(batch[0][0], CACHE[batch[0][0]], mapping,
-                               EOL[batch[0][0]])
+            commit_batch(batch[0][0], mapping)
             STATS["ok"] += len(ok)
             for (path, e, _), reason in bad:
                 STATS["fail"] += 1

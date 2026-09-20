@@ -11,31 +11,31 @@ msgstr ""
 
 #: olang/009c9ea4/0x39c9f3/0xe66fd3
 msgid "Move Camera Right"
-msgstr ""
+msgstr "镜头右移"
 
 #: olang/009c9ea4/0x39c9f3/0xf84d80
 msgid "Move Camera Down"
-msgstr ""
+msgstr "镜头下移"
 
 #: olang/009c9ea4/0x39c9f3/0xfa7fe6
 msgid "Choose which key you would like to change."
-msgstr ""
+msgstr "选择要更改的按键。"
 
 #: olang/009c9ea4/0x39c9f3/0xfc037d
 msgid "Aim Button control type"
-msgstr ""
+msgstr "瞄准键操作类型"
 
 #: olang/009c9ea4/0x39c9f3/0xfc2366
 msgid "Move Camera Left"
-msgstr ""
+msgstr "镜头左移"
 
 #: olang/009c9ea4/0x3c9f25/0x5ce75e
 msgid "INVITE"
-msgstr ""
+msgstr "邀请"
 
 #: olang/009c9ea4/0x3c9f25/0xc096b6
 msgid "INVITE:"
-msgstr ""
+msgstr "邀请："
 
 #: olang/009c9ea4/0x3ca19f/0x09f7f4
 #: olang/009c9ea4/0x3ca19f/0x19f7f4
@@ -47,7 +47,7 @@ msgstr ""
 #: olang/009c9ea4/0x3ca19f/0xf9f7f3
 #: olang/00d345a5/0x048941/0x000168
 msgid "Variation of Jungle Fatigues camouflage. Raises camo index in environments of a similar color."
-msgstr ""
+msgstr "丛林迷彩服变种。在相近颜色的环境中提升迷彩指数。"
 
 #: olang/009c9ea4/0x3ca19f/0x09f7f6
 #: olang/009c9ea4/0x3ca19f/0x19f7f6
@@ -60,53 +60,53 @@ msgstr ""
 #: olang/00d345a5/0x048941/0x000184
 #: olang/00d345a5/0x048941/0x00018b
 msgid "Variation of Naked with camouflage pants. Raises camo index in environments of a similar color, but only half as much as full-body camo."
-msgstr ""
+msgstr "裸装加迷彩裤。在相近颜色的环境中提升迷彩指数，但效果仅为全身迷彩的一半。"
 
 #: olang/009c9ea4/0x3ca19f/0x19f7f8
 msgid ""
 "A gold T-shirt.\n"
 "The basic characteristics are\n"
 "the same as the Jungle Fatigues."
-msgstr ""
+msgstr "金色T恤。\n基本性能与\n丛林迷彩服相同。"
 
 #: olang/009c9ea4/0x3ca19f/0x29f7f8
 msgid ""
 "A T-shirt with a Love Box design.\n"
 "The basic characteristics are\n"
 "the same as the Jungle Fatigues."
-msgstr ""
+msgstr "爱之箱图案T恤。\n基本性能与\n丛林迷彩服相同。"
 
 #: olang/009c9ea4/0x3ca19f/0x49f7f4
 msgid "Variation of Jungle Fatigues camouflage. Raises camo index near water."
-msgstr ""
+msgstr "丛林迷彩服变种。在水边提升迷彩指数。"
 
 #: olang/009c9ea4/0x3ca19f/0x59f7f4
 msgid "Variation of Jungle Fatigues camouflage. Raises camo index in environments with a lot of wooden buildings."
-msgstr ""
+msgstr "丛林迷彩服变种。在木质建筑多的环境中提升迷彩指数。"
 
 #: olang/009c9ea4/0x3ca19f/0xc9f7f5
 msgid "Variation of Jungle Fatigues camouflage. Raises camo index slightly when standing on jungle or dirt surfaces."
-msgstr ""
+msgstr "丛林迷彩服变种。站在丛林或泥土地面时略微提升迷彩指数。"
 
 #: olang/009c9ea4/0x3ca19f/0xd9f7f5
 msgid "Variation of Jungle Fatigues camouflage. Slightly increases the diameter of the CO-OPS boundary line."
-msgstr ""
+msgstr "丛林迷彩服变种。略微扩大合作任务边界线直径。"
 
 #: olang/009c9ea4/0x3ca19f/0xd9f7f7
 msgid "Variation of Naked with camouflage pants. Raises camo index near water, but only half as much as full-body camo."
-msgstr ""
+msgstr "裸装加迷彩裤。在水边提升迷彩指数，但效果仅为全身迷彩的一半。"
 
 #: olang/009c9ea4/0x3ca19f/0xe9f7f5
 msgid "Variation of Jungle Fatigues camouflage. Slightly increases gun performance."
-msgstr ""
+msgstr "丛林迷彩服变种。略微提升枪械性能。"
 
 #: olang/009c9ea4/0x3ca19f/0xe9f7f7
 msgid "Variation of Naked with camouflage pants. Raises camo index in environments with a lot of wooden buildings, but only half as much as full-body camo."
-msgstr ""
+msgstr "裸装加迷彩裤。在木质建筑多的环境中提升迷彩指数，但效果仅为全身迷彩的一半。"
 
 #: olang/009c9ea4/0x3ca19f/0xf9f7f7
 msgid "Variation of Naked with camouflage pants. Raises camo index when standing on jungle or dirt surfaces, but only half as much as full-body camo."
-msgstr ""
+msgstr "裸装加迷彩裤。站在丛林或泥土地面时提升迷彩指数，但效果仅为全身迷彩的一半。"
 
 #: olang/009c9ea4/0x3ced95/0x155479
 msgid ""
@@ -122,21 +122,21 @@ msgid ""
 "When the revolution is victorious, I want my\n"
 "country to be at peace. But to bring peace,\n"
 "we have to first eliminate that traitorous scum."
-msgstr ""
+msgstr "我知道，革命是手段而非目的。\n革命胜利后，我希望我的\n祖国安宁。但要带来和平，\n必须先消灭那些叛徒渣滓。"
 
 #: olang/009c9ea4/0x413acf/0x06b55b
 msgid ""
 "We go where we're needed, \n"
 "fighting not for country, not for government,\n"
 "but for ourselves.\n"
-msgstr ""
+msgstr "我们奔赴需要我们的地方，\n不为国家，不为政府，\n只为自己。\n"
 
 #: olang/009c9ea4/0x413acf/0x21f416
 msgid ""
 "My name is Paz, and I will do anything\n"
 "to protect my namesake. \n"
 "It is my one and only purpose."
-msgstr ""
+msgstr "我叫帕兹，我会不惜一切\n守护我的同名之物。\n这是我唯一的目的。"
 
 #: olang/009c9ea4/0x413acf/0x374f9e
 msgid ""
@@ -144,7 +144,7 @@ msgid ""
 "Mm-hmm. However, in order to achieve\n"
 "that perfect deterrent, \n"
 "we must show the world our strength."
-msgstr ""
+msgstr "所以我同意协助开发它……\n嗯嗯。但是，要实现\n那种完美的威慑力，\n我们必须向世界展示实力。"
 
 #: olang/009c9ea4/0x413acf/0x91c53e
 msgid ""
@@ -153,28 +153,28 @@ msgid ""
 "Go on, kill me like you killed her.\n"
 "Kill me like you killed The Boss.\n"
 "Kill me!"
-msgstr ""
+msgstr "是的，我知道。就像我知道\n你10年前做了什么。\n来吧，像杀她那样杀了我。\n像杀THE BOSS那样杀了我。\n杀了我！"
 
 #: olang/009c9ea4/0x413acf/0x91c540
 msgid ""
 "You used the pretext of a mission \n"
 "to kill a true hero.\n"
 "Is that what you call loyalty? Answer me!"
-msgstr ""
+msgstr "你借任务之名\n杀害了一位真正的英雄。\n这就是你所谓的忠诚？回答我！"
 
 #: olang/009c9ea4/0x413acf/0x91c541
 msgid ""
 "I won't rest until I get answers \n"
 "from the woman I loved. \n"
 "You and I are the same. We are the walking dead."
-msgstr ""
+msgstr "得不到答案\n我绝不罢休 为了我爱过的女人\n你我一样 都是行尸走肉"
 
 #: olang/009c9ea4/0x413acf/0xb2d965
 msgid ""
 "...Everyone treats me like a child.\n"
 "I, I, I couldn't stand it anymore. \n"
 "I'm not a kid. I'm twelve! "
-msgstr ""
+msgstr "……大家都把我当小孩。\n我、我受不了了。\n我不是小鬼。我十二岁！"
 
 #: olang/009c9ea4/0x413acf/0xb949dc
 msgid ""
@@ -188,125 +188,125 @@ msgstr ""
 msgid ""
 "Exactly. We know only how to fight... \n"
 "but we refuse to live our lives at the whim of the state."
-msgstr ""
+msgstr "没错。我们只会战斗……\n但绝不愿任国家摆布地活着。"
 
 #: olang/009c9ea4/0x413acf/0xd1f417
 msgid ""
 "No one man could bear the burden of total genocide. \n"
 "It's what's allowed our cowardly species to survive all this time."
-msgstr ""
+msgstr "没人能背负种族灭绝的全部罪孽。\n正因如此 我们懦弱的种族才活到今天。"
 
 #: olang/009c9ea4/0x413acf/0xd1f418
 msgid ""
 "You've left everything behind - your country, your identity,\n"
 "your past and ideals... \n"
 "But there's still one thing you haven't let go of."
-msgstr ""
+msgstr "你抛下了一切——祖国、身份、\n过去和理想……\n但有一样东西你还没放下。"
 
 #: olang/009c9ea4/0x4190e1/0x09f7f4
 msgid "Red"
-msgstr ""
+msgstr "红色"
 
 #: olang/009c9ea4/0x4190e1/0x09f7f6
 msgid "Naked (Khaki)"
-msgstr ""
+msgstr "裸装（卡其）"
 
 #: olang/009c9ea4/0x4190e1/0x19f7f4
 msgid "Yellow"
-msgstr ""
+msgstr "黄色"
 
 #: olang/009c9ea4/0x4190e1/0x19f7f6
 msgid "Naked (Navy Blue)"
-msgstr ""
+msgstr "裸装(藏青)"
 
 #: olang/009c9ea4/0x4190e1/0x19f7f8
 msgid "Gold"
-msgstr ""
+msgstr "金"
 
 #: olang/009c9ea4/0x4190e1/0x29f7f4
 msgid "Pink"
-msgstr ""
+msgstr "粉"
 
 #: olang/009c9ea4/0x4190e1/0x29f7f6
 msgid "Naked (White)"
-msgstr ""
+msgstr "裸装(白)"
 
 #: olang/009c9ea4/0x4190e1/0x29f7f8
 msgid "Love Box"
-msgstr ""
+msgstr "爱箱"
 
 #: olang/009c9ea4/0x4190e1/0x39f7f4
 msgid "Green"
-msgstr ""
+msgstr "绿"
 
 #: olang/009c9ea4/0x4190e1/0x39f7f6
 msgid "Naked (Red)"
-msgstr ""
+msgstr "裸装（红色）"
 
 #: olang/009c9ea4/0x4190e1/0x49f7f4
 msgid "Water"
-msgstr ""
+msgstr "水"
 
 #: olang/009c9ea4/0x4190e1/0x49f7f6
 msgid "Naked (Yellow)"
-msgstr ""
+msgstr "裸装(黄)"
 
 #: olang/009c9ea4/0x4190e1/0x59f7f4
 msgid "Tree Bark"
-msgstr ""
+msgstr "树皮"
 
 #: olang/009c9ea4/0x4190e1/0x59f7f6
 msgid "Naked (Pink)"
-msgstr ""
+msgstr "裸装(粉)"
 
 #: olang/009c9ea4/0x4190e1/0xc9f7f3
 msgid "Black"
-msgstr ""
+msgstr "黑"
 
 #: olang/009c9ea4/0x4190e1/0xc9f7f5
 #: olang/009c9ea4/0x85a61c/0xc9f7f5
 msgid "DPM"
-msgstr ""
+msgstr "迷彩"
 
 #: olang/009c9ea4/0x4190e1/0xc9f7f7
 msgid "Naked (Green)"
-msgstr ""
+msgstr "裸装(绿)"
 
 #: olang/009c9ea4/0x4190e1/0xd9f7f3
 msgid "Khaki"
-msgstr ""
+msgstr "卡其"
 
 #: olang/009c9ea4/0x4190e1/0xd9f7f5
 msgid "Comrade"
-msgstr ""
+msgstr "同志"
 
 #: olang/009c9ea4/0x4190e1/0xd9f7f7
 msgid "Naked (Water)"
-msgstr ""
+msgstr "裸装(水)"
 
 #: olang/009c9ea4/0x4190e1/0xe9f7f3
 msgid "Navy Blue"
-msgstr ""
+msgstr "藏青"
 
 #: olang/009c9ea4/0x4190e1/0xe9f7f5
 msgid "Guns & Jungle"
-msgstr ""
+msgstr "枪与丛林"
 
 #: olang/009c9ea4/0x4190e1/0xe9f7f7
 msgid "Naked (Tree Bark)"
-msgstr ""
+msgstr "裸装(树皮)"
 
 #: olang/009c9ea4/0x4190e1/0xf9f7f3
 msgid "White"
-msgstr ""
+msgstr "白"
 
 #: olang/009c9ea4/0x4190e1/0xf9f7f5
 msgid "Naked (Black)"
-msgstr ""
+msgstr "裸装(黑)"
 
 #: olang/009c9ea4/0x4190e1/0xf9f7f7
 msgid "Naked (DPM)"
-msgstr ""
+msgstr "裸装（迷彩）"
 
 #: olang/009c9ea4/0x43f3a5/0x394f17
 #: olang/009c9ea4/0xa49217/0x2de9a9
@@ -320,39 +320,39 @@ msgid ""
 "HUNTER TYPE: The configuration is similar to that of the MONSTER HUNTER FREEDOM<I=TM> series.\n"
 "\n"
 "CUSTOM TYPE: The configuration can be freely customized."
-msgstr ""
+msgstr "选择你的操作方式。\n\n射击型：配置与《MGS4》相似。\n\n动作型：配置与《MPO》相似。\n\n猎人型：配置与《怪物猎人 自由<I=TM>》系列相似。\n\n自定义型：可自由自定义配置。"
 
 #: olang/009c9ea4/0x482e82/0x341a6f
 #: olang/009c9ea4/0x9dc379/0xd1ff23
 msgid "Movement Sensitivity"
-msgstr ""
+msgstr "移动灵敏度"
 
 #: olang/009c9ea4/0x482e82/0xef89e5
 #: olang/00d0c740/0x482e82/0xef89e5
 msgid "Guest"
-msgstr ""
+msgstr "客"
 
 #: olang/009c9ea4/0x4a9e78/0x220a93
 msgid ""
 "Checking save data...\n"
 "Do not close the game."
-msgstr ""
+msgstr "检查存档中……\n请勿关闭游戏。"
 
 #: olang/009c9ea4/0x529072/0x000002
 msgid "Hit the button as fast as you can!"
-msgstr ""
+msgstr "快速连按按键！"
 
 #: olang/009c9ea4/0x594864/0x00004f
 #: olang/00d345a5/0x594864/0x00004f
 msgid ""
 "New-model, lightweight assault rifle. \n"
 "Outfitted with shotgun. Switch with <I=△>."
-msgstr ""
+msgstr "新型轻量突击步枪。\n配备霰弹枪。用<I=△>切换。"
 
 #: olang/009c9ea4/0x594864/0x000051
 #: olang/00d345a5/0x594864/0x000051
 msgid "New-model, lightweight assault rifle. Outfitted with shotgun and laser sight. Switch with <I=△>."
-msgstr ""
+msgstr "新型轻量突击步枪。配备霰弹枪与激光瞄准器。用<I=△>切换。"
 
 #: olang/009c9ea4/0x594864/0x000052
 #: olang/009c9ea4/0x594864/0x000053
@@ -361,55 +361,55 @@ msgstr ""
 #: olang/00d345a5/0x594864/0x000053
 #: olang/00d345a5/0x594864/0x000054
 msgid "New-model, lightweight assault rifle. Outfitted with grenade launcher. Switch with <I=△>."
-msgstr ""
+msgstr "新型轻量突击步枪。配备榴弹发射器。用<I=△>切换。"
 
 #: olang/009c9ea4/0x594864/0x000055
 #: olang/00d345a5/0x594864/0x000055
 msgid "New-model, lightweight assault rifle. Outfitted with grenade launcher and laser sight. Switch with <I=△>."
-msgstr ""
+msgstr "新型轻量突击步枪。配备榴弹发射器与激光瞄准器。用<I=△>切换。"
 
 #: olang/009c9ea4/0x594864/0x000056
 msgid "M16a1_B(Grenader) "
-msgstr ""
+msgstr "M16A1B（榴弹）"
 
 #: olang/009c9ea4/0x594864/0x000057
 #: olang/00d345a5/0x594864/0x000057
 msgid "New-model, lightweight assault rifle. Outfitted with smoke grenade launcher. Switch with <I=△>."
-msgstr ""
+msgstr "新型轻量突击步枪。配备烟雾弹发射器。用<I=△>切换。"
 
 #: olang/009c9ea4/0x594864/0x000059
 #: olang/00d345a5/0x594864/0x000059
 msgid "New-model, lightweight assault rifle. Outfitted with smoke grenade launcher and laser sight. Switch with <I=△>."
-msgstr ""
+msgstr "新型轻量突击步枪。配备烟雾弹发射器与激光瞄准器。用<I=△>切换。"
 
 #: olang/009c9ea4/0x594864/0x00005a
 msgid "M16a1_C(Smoke Grenader)"
-msgstr ""
+msgstr "M16a1_C(Smoke Grenader)"
 
 #: olang/009c9ea4/0x594864/0x00005e
 #: olang/00d345a5/0x594864/0x00005e
 msgid "Compact, lightweight carbine. Outfitted with grenade launcher. Switch with the <I=△> button."
-msgstr ""
+msgstr "紧凑轻量卡宾枪。配备榴弹发射器。用<I=△>键切换。"
 
 #: olang/009c9ea4/0x594864/0x000060
 #: olang/00d345a5/0x594864/0x000060
 msgid "Compact, lightweight carbine. Outfitted with underbarrel shotgun. Switch with <I=△>."
-msgstr ""
+msgstr "紧凑轻量卡宾枪。配备下挂霰弹枪。用<I=△>切换。"
 
 #: olang/009c9ea4/0x594864/0x000062
 #: olang/00d345a5/0x594864/0x000062
 msgid "Compact, lightweight carbine. Outfitted with smoke grenade launcher. Switch with <I=△>."
-msgstr ""
+msgstr "紧凑轻量卡宾枪。配备烟雾弹发射器。用<I=△>切换。"
 
 #: olang/009c9ea4/0x594864/0x000065
 #: olang/00d345a5/0x594864/0x000065
 msgid "Soviet assault rifle. Equipped with grenade launcher. Switch with <I=△>."
-msgstr ""
+msgstr "苏联突击步枪。配备榴弹发射器。用<I=△>切换。"
 
 #: olang/009c9ea4/0x594864/0x000067
 #: olang/00d345a5/0x594864/0x000067
 msgid "Soviet assault rifle. Equipped with smoke grenade launcher. Switch with <I=△>."
-msgstr ""
+msgstr "苏联突击步枪。配备烟雾弹发射器。用<I=△>切换。"
 
 #: olang/009c9ea4/0x594864/0x0000f6
 #: olang/009c9ea4/0x594864/0x000241
@@ -437,7 +437,7 @@ msgid ""
 "Non-lethal weapons.\n"
 "Press <I=ATK> while \n"
 "holding <I=AIM> to throw. "
-msgstr ""
+msgstr "声光手雷。\n非致命武器。\n按住<I=AIM>时\n按<I=ATK>投掷。"
 
 #: olang/009c9ea4/0x594864/0x000231
 #: olang/009c9ea4/0x594864/0x000232
@@ -446,11 +446,11 @@ msgid ""
 "Compact & lightweight submachine gun.\n"
 "Press <I=ATK> while \n"
 "holding <I=AIM> to fire. "
-msgstr ""
+msgstr "紧凑轻便的冲锋枪。\n按住<I=AIM>时\n按<I=ATK>开火。"
 
 #: olang/009c9ea4/0x596f30/0x08cdae
 msgid "Please select the data you wish to delete."
-msgstr ""
+msgstr "请选择要删除的数据。"
 
 #: olang/009c9ea4/0x596f30/0x11d653
 msgid "Load game data?"
@@ -458,11 +458,11 @@ msgstr "加载此存档？"
 
 #: olang/009c9ea4/0x596f30/0x170fd9
 msgid "NEW SAVE"
-msgstr ""
+msgstr "新建存档"
 
 #: olang/009c9ea4/0x596f30/0x220cab
 msgid "<I=CAN> Back"
-msgstr ""
+msgstr "<I=CAN> 返回"
 
 #: olang/009c9ea4/0x596f30/0x274464
 msgid "LOAD GAME"
@@ -470,15 +470,15 @@ msgstr "读取存档"
 
 #: olang/009c9ea4/0x596f30/0x2a732f
 msgid "しばらくお待ちください。"
-msgstr ""
+msgstr "请稍候。"
 
 #: olang/009c9ea4/0x596f30/0x2a8f05
 msgid "NEW GAME"
-msgstr ""
+msgstr "新游戏"
 
 #: olang/009c9ea4/0x596f30/0x305ced
 msgid "Failed to delete game data."
-msgstr ""
+msgstr "删除游戏数据失败。"
 
 #: olang/009c9ea4/0x596f30/0x58f26e
 msgid "Failed to load game data."
@@ -493,36 +493,36 @@ msgstr "返回标题画面吗？"
 
 #: olang/009c9ea4/0x596f30/0x65d9ca
 msgid "METAL GEAR SOLID PEACE WALKER (MASTER COLLECTION Version)"
-msgstr ""
+msgstr "METAL GEAR SOLID PEACE WALKER (MASTER COLLECTION Version)"
 
 #: olang/009c9ea4/0x596f30/0x702a60
 msgid "Are you sure you want to overwrite saved data?"
-msgstr ""
+msgstr "确定要覆盖存档数据吗？"
 
 #: olang/009c9ea4/0x596f30/0x771d5e
 msgid "<I=UD> Move cursor"
-msgstr ""
+msgstr "<I=UD> 移光标"
 
 #: olang/009c9ea4/0x596f30/0x771f51
 msgid "DELETE"
-msgstr ""
+msgstr "删除"
 
 #: olang/009c9ea4/0x596f30/0x822a29
 msgid "Corrupted Data"
-msgstr ""
+msgstr "数据损坏"
 
 #: olang/009c9ea4/0x596f30/0x8dcd05
 #: olang/00d0c740/0x413acf/0x3341a9
 msgid "Loading..."
-msgstr ""
+msgstr "载入中"
 
 #: olang/009c9ea4/0x596f30/0x9117a6
 msgid "Saving..."
-msgstr ""
+msgstr "保存中……"
 
 #: olang/009c9ea4/0x596f30/0x99a4eb
 msgid "Deleting..."
-msgstr ""
+msgstr "删除中"
 
 #: olang/009c9ea4/0x596f30/0x9e630a
 msgid "Please select the data you wish to load."
@@ -566,157 +566,157 @@ msgstr "存档数据已删除。"
 
 #: olang/009c9ea4/0x596f30/0xf100ae
 msgid "Total Play Time : [total_play_time]"
-msgstr ""
+msgstr "总游戏时间：[total_play_time]"
 
 #: olang/009c9ea4/0x5d8989/0xb3e6dc
 msgid "Press <I=□> to select which soldier to assign."
-msgstr ""
+msgstr "按<I=□>选择要分配的士兵。"
 
 #: olang/009c9ea4/0x5d8989/0xb3e6fc
 msgid ""
 "Press <I=CONF> to specify the team to which\n"
 "to assign the soldier."
-msgstr ""
+msgstr "按<I=CONF>指定要\n分配该士兵的小队。"
 
 #: olang/009c9ea4/0x5f753b/0x28adbe
 msgid "Rotate: <I=CAMERA> left/right"
-msgstr ""
+msgstr "旋转：<I=CAMERA> 左右"
 
 #: olang/009c9ea4/0x5f753b/0x28adbf
 msgid "Move: <I=CAMERA> up/down"
-msgstr ""
+msgstr "移动<I=CAMERA>上下"
 
 #: olang/009c9ea4/0x5f753b/0x48adbe
 #: olang/009c9ea4/0x5f753b/0xc992ce
 #: olang/009c9ea4/0x919326/0xc992ce
 msgid "Rotate: <I=CAMERA>"
-msgstr ""
+msgstr "旋转<I=CAMERA>"
 
 #: olang/009c9ea4/0x5f753b/0x88adbf
 #: olang/009c9ea4/0x5f753b/0xa8adbe
 msgid "Move Camera: <I=CAMERA>"
-msgstr ""
+msgstr "移动镜头<I=CAMERA>"
 
 #: olang/009c9ea4/0x5f753b/0xc992cf
 msgid "Move: <I=CAMERA>"
-msgstr ""
+msgstr "移动：<I=CAMERA>"
 
 #: olang/009c9ea4/0x629bfd/0x000001
 msgid ""
 "Use up and down on <I=CAMERA> \n"
 "to move your line of sight!"
-msgstr ""
+msgstr "使用<I=CAMERA>的上下方向键\n来移动你的视线！"
 
 #: olang/009c9ea4/0x629c7d/0x000001
 msgid ""
 "Use right and left on <I=CAMERA> \n"
 "to move your line of sight!"
-msgstr ""
+msgstr "用<I=CAMERA>左右键\n移动视线！"
 
 #: olang/009c9ea4/0x62a7fd/0x000000
 msgid ""
 "Boss, \n"
 "use up and down on <I=CAMERA> \n"
 "to move your line of sight."
-msgstr ""
+msgstr "Boss，\n用<I=CAMERA>上下键\n移动视线。"
 
 #: olang/009c9ea4/0x62a7fd/0x000001
 msgid ""
 "use the up and down <I=CAMERA> \n"
 "to move your line of sight.  "
-msgstr ""
+msgstr "用<I=CAMERA>上下键\n移动视线。"
 
 #: olang/009c9ea4/0x62a87d/0x000000
 msgid ""
 "Boss, \n"
 "use left and right on <I=CAMERA> \n"
 "to move your line of sight!"
-msgstr ""
+msgstr "Boss，\n用<I=CAMERA>左右键\n移动视线！"
 
 #: olang/009c9ea4/0x62a87d/0x000001
 msgid ""
 "use the left and right <I=CAMERA> \n"
 "to move your line of sight.  "
-msgstr ""
+msgstr "用<I=CAMERA>左右键\n移动视线。"
 
 #: olang/009c9ea4/0x62a8fd/0x000001
 #: olang/009c9ea4/0x62a97d/0x000001
 msgid "Press <I=ACT> if you're ready to move on."
-msgstr ""
+msgstr "准备好前进就按<I=ACT>。"
 
 #: olang/009c9ea4/0x62b8fd/0x000000
 msgid ""
 "Alright, let’s try up and down on\n"
 " <I=CAMERA> one more time."
-msgstr ""
+msgstr "好，再用<I=CAMERA>上下键\n试一次。"
 
 #: olang/009c9ea4/0x62b97d/0x000000
 msgid ""
 "Alright, let’s try left and right on\n"
 "<I=CAMERA> one more time."
-msgstr ""
+msgstr "好，再用<I=CAMERA>左右键\n试一次。"
 
 #: olang/009c9ea4/0x62bb7d/0x000004
 msgid ""
 "You have three stances:\n"
 "stand, crouch, and lying down."
-msgstr ""
+msgstr "有三种姿势：\n站、蹲、卧。"
 
 #: olang/009c9ea4/0x62bb7d/0x000005
 msgid "To change stances use <I=STANCE>. "
-msgstr ""
+msgstr "用<I=STANCE>切换姿势。"
 
 #: olang/009c9ea4/0x62bb7d/0x000006
 msgid ""
 "Tap <I=STANCE> to change \n"
 "between standing and crouching."
-msgstr ""
+msgstr "轻按<I=STANCE>在\n站姿和蹲姿间切换。"
 
 #: olang/009c9ea4/0x62bb7d/0x000007
 msgid "You can move in either stance."
-msgstr ""
+msgstr "两种姿势都能移动。"
 
 #: olang/009c9ea4/0x62bb7d/0x000008
 msgid "Hold <I=STANCE> and keep it held to lie down."
-msgstr ""
+msgstr "按住<I=STANCE>不放即可卧倒。"
 
 #: olang/009c9ea4/0x62c87d/0x000000
 #: olang/009c9ea4/0x64687e/0x000000
 msgid "What are you doing? "
-msgstr ""
+msgstr "你在干什么？"
 
 #: olang/009c9ea4/0x62c87d/0x000001
 msgid "Use <I=STANCE> to change your stance! "
-msgstr ""
+msgstr "用<I=STANCE>切换姿势！"
 
 #: olang/009c9ea4/0x62c8fd/0x000000
 msgid "Boss, change your stance with <I=STANCE>!"
-msgstr ""
+msgstr "Boss，用<I=STANCE>切换姿势！"
 
 #: olang/009c9ea4/0x62cafd/0x000000
 msgid ""
 "What now? \n"
 "Use <I=MOVE> to move!"
-msgstr ""
+msgstr "怎么了？\n用<I=MOVE>移动！"
 
 #: olang/009c9ea4/0x62cbfd/0x000004
 #: olang/009c9ea4/0x62cbfe/0x000004
 msgid "To roll, tap <I=STANCE> while running."
-msgstr ""
+msgstr "奔跑中轻按<I=STANCE>翻滚。"
 
 #: olang/009c9ea4/0x62cbfd/0x000005
 msgid "You got that?"
-msgstr ""
+msgstr "懂了？"
 
 #: olang/009c9ea4/0x62cbfe/0x000005
 msgid "You got that? "
-msgstr ""
+msgstr "懂了？"
 
 #: olang/009c9ea4/0x62cbfe/0x000006
 msgid ""
 "Tap <I=STANCE> while running. \n"
 "Don't forget it!"
-msgstr ""
+msgstr "奔跑中轻按<I=STANCE>。\n别忘了！"
 
 #: olang/009c9ea4/0x62d87d/0x000000
 #: olang/009c9ea4/0x62d87e/0x000000
@@ -724,277 +724,277 @@ msgid ""
 "What's wrong?! \n"
 "Run with <I=MOVE>, \n"
 "then press <I=STANCE> to roll!"
-msgstr ""
+msgstr "怎么了？！\n用<I=MOVE>奔跑，\n再按<I=STANCE>翻滚！"
 
 #: olang/009c9ea4/0x62d87d/0x000001
 msgid ""
 "Run with <I=MOVE>,\n"
 "then tap <I=ATK> to roll!"
-msgstr ""
+msgstr "用<I=MOVE>跑，\n再按<I=ATK>翻滚！"
 
 #: olang/009c9ea4/0x62d87e/0x000001
 msgid ""
 "Run with <I=MOVE>, \n"
 "then tap <I=STANCE> to roll!"
-msgstr ""
+msgstr "用<I=MOVE>跑，\n再按<I=STANCE>翻滚！"
 
 #: olang/009c9ea4/0x62d9fd/0x000000
 msgid ""
 "To strike an enemy, \n"
 "press <I=ATK> while standing still! "
-msgstr ""
+msgstr "要攻击敌人，\n站住不动时按<I=ATK>！"
 
 #: olang/009c9ea4/0x62d9fd/0x000001
 msgid ""
 "On my command, press <I=ATK>\n"
 "repeatedly and take down your opponent!"
-msgstr ""
+msgstr "听我口令，连按<I=ATK>\n放倒对手！"
 
 #: olang/009c9ea4/0x62d9fe/0x000000
 msgid ""
 "To strike an enemy, \n"
 "press <I=CQC> while standing still!"
-msgstr ""
+msgstr "站立不动时按<I=CQC>\n攻击敌人！"
 
 #: olang/009c9ea4/0x62d9fe/0x000001
 msgid "On my command,"
-msgstr ""
+msgstr "听令，"
 
 #: olang/009c9ea4/0x62d9fe/0x000002
 msgid ""
 "press <I=CQC> repeatedly \n"
 "and take down your opponent!"
-msgstr ""
+msgstr "连按<I=CQC>\n放倒对手！"
 
 #: olang/009c9ea4/0x62dafd/0x000000
 #: olang/009c9ea4/0x62dafe/0x000000
 msgid "You alright, boss?"
-msgstr ""
+msgstr "你没事吧，BOSS？"
 
 #: olang/009c9ea4/0x62dafd/0x000001
 msgid "Press <I=ATK> without moving!"
-msgstr ""
+msgstr "别动，按<I=ATK>！"
 
 #: olang/009c9ea4/0x62dafe/0x000001
 msgid "Press <I=CQC> without moving!"
-msgstr ""
+msgstr "别动，按<I=CQC>！"
 
 #: olang/009c9ea4/0x62db7d/0x000000
 msgid "Press <I=ATK> without moving, Boss. "
-msgstr ""
+msgstr "别动，按<I=ATK>，BOSS。"
 
 #: olang/009c9ea4/0x62db7e/0x000000
 msgid "Press <I=CQC> without moving, Boss. "
-msgstr ""
+msgstr "别动，按<I=CQC>，BOSS。"
 
 #: olang/009c9ea4/0x62dc7d/0x000000
 #: olang/009c9ea4/0x62dc7e/0x000000
 msgid ""
 "To use the stun rod, \n"
 "press <I=AIM> to ready it,"
-msgstr ""
+msgstr "用电击棒时，\n按<I=AIM>举棒，"
 
 #: olang/009c9ea4/0x62dc7d/0x000001
 #: olang/009c9ea4/0x62dc7e/0x000001
 msgid "then press <I=ATK>."
-msgstr ""
+msgstr "再按<I=ATK>。"
 
 #: olang/009c9ea4/0x64487d/0x000000
 msgid "Hey, hey! Hold down <I=AIM>!"
-msgstr ""
+msgstr "喂喂！按住<I=AIM>！"
 
 #: olang/009c9ea4/0x64487e/0x000000
 msgid "Hey! Press <I=AIM>!"
-msgstr ""
+msgstr "喂！按<I=AIM>！"
 
 #: olang/009c9ea4/0x6448fd/0x000000
 msgid "Boss, please hold down <I=AIM>!"
-msgstr ""
+msgstr "BOSS，请按住<I=AIM>！"
 
 #: olang/009c9ea4/0x6448fe/0x000000
 msgid "Boss, please press <I=AIM>!"
-msgstr ""
+msgstr "BOSS，请按<I=AIM>！"
 
 #: olang/009c9ea4/0x644a7d/0x000000
 msgid ""
 "What's wrong? Press <I=ATK>\n"
 "while holding down <I=AIM>! "
-msgstr ""
+msgstr "怎么了？按住<I=AIM>\n再按<I=ATK>！"
 
 #: olang/009c9ea4/0x644a7e/0x000000
 msgid ""
 "What's wrong? Press <I=ATK>\n"
 "after pressing <I=AIM>! "
-msgstr ""
+msgstr "怎么了？按<I=AIM>\n再按<I=ATK>！"
 
 #: olang/009c9ea4/0x644afd/0x000000
 msgid ""
 "Boss, please press <I=ATK> \n"
 "while holding down <I=AIM>!"
-msgstr ""
+msgstr "BOSS，请按住<I=AIM>\n再按<I=ATK>！"
 
 #: olang/009c9ea4/0x644afe/0x000000
 msgid ""
 "Boss, please press <I=ATK> \n"
 "after pressing <I=AIM>! "
-msgstr ""
+msgstr "BOSS，请按<I=AIM>\n再按<I=ATK>！"
 
 #: olang/009c9ea4/0x644bfd/0x000002
 msgid ""
 "and press <I=ATK> \n"
 "while you tilt <I=MOVE>."
-msgstr ""
+msgstr "再推<I=MOVE>\n按<I=ATK>。"
 
 #: olang/009c9ea4/0x644bfe/0x000001
 msgid ""
 "and press <I=CQC> \n"
 "near an enemy as you tilt <I=MOVE>!"
-msgstr ""
+msgstr "推<I=MOVE>靠近敌人\n按<I=CQC>！"
 
 #: olang/009c9ea4/0x6457fd/0x000000
 msgid ""
 "Hey! \n"
 "Press <I=ATK> \n"
 "as you tilt <I=MOVE>!"
-msgstr ""
+msgstr "喂！\n推<I=MOVE>\n按<I=ATK>！"
 
 #: olang/009c9ea4/0x6457fd/0x000001
 msgid "Press <I=ATK> as you tilt <I=MOVE>!"
-msgstr ""
+msgstr "推<I=MOVE>按<I=ATK>！"
 
 #: olang/009c9ea4/0x6457fe/0x000000
 msgid ""
 "Hey! \n"
 "Press <I=CQC>\n"
 "as you tilt <I=MOVE>!"
-msgstr ""
+msgstr "喂！\n推<I=MOVE>\n按<I=CQC>！"
 
 #: olang/009c9ea4/0x6457fe/0x000001
 msgid "Hey! "
-msgstr ""
+msgstr "喂！"
 
 #: olang/009c9ea4/0x6458fd/0x000001
 msgid ""
 "you have to press <I=ATK> \n"
 "as you tilt <I=MOVE>!"
-msgstr ""
+msgstr "倾斜<I=MOVE>时\n要按<I=ATK>！"
 
 #: olang/009c9ea4/0x6458fe/0x000001
 msgid ""
 "you have to press <I=CQC> \n"
 "as you tilt <I=MOVE>!"
-msgstr ""
+msgstr "倾斜<I=MOVE>时\n要按<I=CQC>！"
 
 #: olang/009c9ea4/0x645bfd/0x000000
 msgid "To restrain your opponent, "
-msgstr ""
+msgstr "要制服对手，"
 
 #: olang/009c9ea4/0x645bfd/0x000001
 msgid "hold down <I=ATK> while near them. "
-msgstr ""
+msgstr "靠近时按住<I=ATK>。"
 
 #: olang/009c9ea4/0x645bfe/0x000000
 msgid "To restrain your opponent,"
-msgstr ""
+msgstr "要制服对手，"
 
 #: olang/009c9ea4/0x645bfe/0x000001
 msgid "hold down <I=CQC> while near them. "
-msgstr ""
+msgstr "靠近时按住<I=CQC>。"
 
 #: olang/009c9ea4/0x645bfe/0x000002
 msgid ""
 "Restrain your opponent \n"
 "on my command. \n"
-msgstr ""
+msgstr "听我口令\n制服对手。\n"
 
 #: olang/009c9ea4/0x64687d/0x000000
 msgid "What are you doing?"
-msgstr ""
+msgstr "你在干什么？"
 
 #: olang/009c9ea4/0x64687d/0x000001
 msgid "Press <I=ATK> while near your opponent! "
-msgstr ""
+msgstr "靠近对手时按<I=ATK>！"
 
 #: olang/009c9ea4/0x64687e/0x000001
 msgid "Press <I=CQC> while near your opponent! "
-msgstr ""
+msgstr "靠近对手时按<I=CQC>！"
 
 #: olang/009c9ea4/0x6468fd/0x000000
 #: olang/009c9ea4/0x6468fe/0x000000
 #: olang/009c9ea4/0x64ab7e/0x000000
 msgid "Boss, "
-msgstr ""
+msgstr "BOSS，"
 
 #: olang/009c9ea4/0x6468fd/0x000001
 msgid ""
 "you have to press <I=ATK> \n"
 "while next to your opponent! "
-msgstr ""
+msgstr "在对手旁边时\n要按<I=ATK>！"
 
 #: olang/009c9ea4/0x6468fe/0x000001
 msgid ""
 "you have to press <I=CQC> \n"
 "while next to your opponent!"
-msgstr ""
+msgstr "在对手旁边时\n要按<I=CQC>！"
 
 #: olang/009c9ea4/0x646b7d/0x000001
 msgid "press a direction on <I=MOVE> when you have them restrained."
-msgstr ""
+msgstr "制服后按<I=MOVE>选方向。"
 
 #: olang/009c9ea4/0x647a7d/0x000000
 #: olang/009c9ea4/0x647a7e/0x000000
 msgid "To interrogate someone,"
-msgstr ""
+msgstr "要审问对方，"
 
 #: olang/009c9ea4/0x647a7d/0x000001
 #: olang/009c9ea4/0x647a7e/0x000001
 msgid ""
 "Press <I=ATK> to restrain \n"
 "them, then press <I=INTERROGATE>."
-msgstr ""
+msgstr "按<I=ATK>制服，\n再按<I=INTERROGATE>。"
 
 #: olang/009c9ea4/0x647bfd/0x000000
 msgid "You OK? Press <I=ACT>!"
-msgstr ""
+msgstr "没事吧？按<I=ACT>！"
 
 #: olang/009c9ea4/0x647bfe/0x000000
 msgid "You OK? Press <I=INTERROGATE>!"
-msgstr ""
+msgstr "没事吧？按<I=INTERROGATE>！"
 
 #: olang/009c9ea4/0x647c7d/0x000000
 msgid "You have to press <I=ACT>, Boss!"
-msgstr ""
+msgstr "BOSS，要按<I=ACT>！"
 
 #: olang/009c9ea4/0x647c7e/0x000000
 msgid ""
 "You have to press <I=INTERROGATE>, \n"
 "Boss!"
-msgstr ""
+msgstr "BOSS，\n要按<I=INTERROGATE>！"
 
 #: olang/009c9ea4/0x649a7d/0x000001
 #: olang/009c9ea4/0x649a7e/0x000001
 msgid "Then tilt <I=MOVE> to throw them."
-msgstr ""
+msgstr "再倾斜<I=MOVE>扔出去。"
 
 #: olang/009c9ea4/0x649a7d/0x000002
 #: olang/009c9ea4/0x649a7e/0x000002
 msgid "By tilting <I=MOVE> toward other enemies,"
-msgstr ""
+msgstr "把<I=MOVE>倾向其他敌人，"
 
 #: olang/009c9ea4/0x649a7e/0x000000
 msgid "First, restrain an opponent by pressing <I=CQC> while near them."
-msgstr ""
+msgstr "先靠近对手按<I=CQC>制服。"
 
 #: olang/009c9ea4/0x649bfd/0x000000
 msgid ""
 "Hey!\n"
 "Tilt <I=MOVE> while \n"
 "restraining the opponent!"
-msgstr ""
+msgstr "喂！\n制服对手时\n倾斜<I=MOVE>！"
 
 #: olang/009c9ea4/0x649bfd/0x000001
 msgid "Tilt <I=MOVE> while restraining the opponent! "
-msgstr ""
+msgstr "制服对手时倾斜<I=MOVE>！"
 
 #: olang/009c9ea4/0x64a7fd/0x000000
 msgid ""
@@ -1006,215 +1006,215 @@ msgstr ""
 msgid ""
 "you'll have to take them on one \n"
 "after the other."
-msgstr ""
+msgstr "你必须一个接一个地\n对付他们。"
 
 #: olang/009c9ea4/0x64a97d/0x000003
 msgid ""
 "simply press <I=ATK> again \n"
 "while throwing the current enemy.  "
-msgstr ""
+msgstr "在投掷当前敌人时\n再次按下 <I=ATK>。"
 
 #: olang/009c9ea4/0x64a97e/0x000000
 #: olang/00cd740b/0x64a97e/0x000000
 msgid ""
 "When you're surrounded \n"
 "by multiple enemies,"
-msgstr ""
+msgstr "当你被多个敌人\n包围时，"
 
 #: olang/009c9ea4/0x64a97e/0x000001
 msgid ""
 "you'll have to take them on one \n"
 "after the other. "
-msgstr ""
+msgstr "你必须一个接一个地\n对付他们。"
 
 #: olang/009c9ea4/0x64a97e/0x000002
 msgid ""
 "To do it, \n"
-msgstr ""
+msgstr "为此，\n"
 
 #: olang/009c9ea4/0x64a97e/0x000003
 msgid ""
 "simply press <I=CQC> again \n"
 "while throwing the current enemy."
-msgstr ""
+msgstr "在投掷当前敌人时\n再次按下 <I=CQC>。"
 
 #: olang/009c9ea4/0x64a97e/0x000004
 msgid ""
 "Just be sure to wait for the Icon \n"
 "to appear. \n"
-msgstr ""
+msgstr "只要确保等待图标\n出现即可。\n"
 
 #: olang/009c9ea4/0x64aafd/0x000000
 msgid "Press <I=ATK> when the Icon appears!"
-msgstr ""
+msgstr "图标出现时按<I=ATK>！"
 
 #: olang/009c9ea4/0x64aafe/0x000000
 msgid "Press <I=CQC> when the Icon appears! "
-msgstr ""
+msgstr "图标出现时按<I=CQC>！"
 
 #: olang/009c9ea4/0x64ab7d/0x000000
 msgid "Boss, press <I=ATK> when the Icon appears!"
-msgstr ""
+msgstr "BOSS，图标出现时按<I=ATK>！"
 
 #: olang/009c9ea4/0x64ab7e/0x000001
 msgid "press <I=CQC> when the Icon appears! "
-msgstr ""
+msgstr "图标出现时按<I=CQC>！"
 
 #: olang/009c9ea4/0x68bb2b/0x01c78f
 msgid ""
 "Search with the conditions you have selected.\n"
 "*Make sure your game is updated to the latest version."
-msgstr ""
+msgstr "按所选条件搜索。\n*请确保游戏已更新至最新版本。"
 
 #: olang/009c9ea4/0x68bb2b/0x594dbd
 msgid ""
 "Search for MEMBERS with the conditions you have selected.\n"
 "*Make sure your game is updated to the latest version."
-msgstr ""
+msgstr "按所选条件搜索成员。\n*请确保游戏已更新至最新版本。"
 
 #: olang/009c9ea4/0x68bb2b/0xac71d5
 msgid ""
 "You can recruit CO-OPS MEMBERS worldwide online.\n"
 "Select the type of invitation."
-msgstr ""
+msgstr "你可以在线招募全球合作任务成员。\n选择邀请类型。"
 
 #: olang/009c9ea4/0x68bb2b/0xf6831d
 msgid "Online multiplayer cannot be used by the current account."
-msgstr ""
+msgstr "当前账号无法使用在线多人游戏。"
 
 #: olang/009c9ea4/0x6b2d56/0x48e16c
 msgid "Open the ONLINE MANUAL?"
-msgstr ""
+msgstr "打开在线手册？"
 
 #: olang/009c9ea4/0x74d55a/0x000000
 msgid "Nukes!"
-msgstr ""
+msgstr "核弹！"
 
 #: olang/009c9ea4/0x82e3c9/0x6fd5da
 msgid "Press <I=DEC> to view the requirements that must be met."
-msgstr ""
+msgstr "按<I=DEC>查看必须满足的条件。"
 
 #: olang/009c9ea4/0x840500/0x374a51
 msgid ""
 "Back in my old unit, the commander used to tell us at morning calisthenics: \"Whenever you're in trouble, open the menu window!!\"\n"
 "Wonder how he's doing these days."
-msgstr ""
+msgstr "以前在部队时，指挥官晨练总说：“遇到麻烦就打开菜单窗口！！”\n不知他现在怎么样了。"
 
 #: olang/009c9ea4/0x840500/0x374af7
 msgid ""
 "Hey Boss, can you teach me how to reload?\n"
 "...Ahh, so that's it! Just push the Action Button with the weapon equipped! Thanks a bunch, Boss!"
-msgstr ""
+msgstr "嘿BOSS，能教我怎么换弹吗？\n……啊，原来如此！装备武器时按动作键就行！多谢BOSS！"
 
 #: olang/009c9ea4/0x840ff7/0x44e180
 msgid "<I=PAUSE>: End tutorial."
-msgstr ""
+msgstr "<I=PAUSE>：结束教程。"
 
 #: olang/009c9ea4/0x85a61c/0x09f7f4
 msgid "RED"
-msgstr ""
+msgstr "红"
 
 #: olang/009c9ea4/0x85a61c/0x09f7f6
 msgid "NKD(KHAKI)"
-msgstr ""
+msgstr "裸装（卡其）"
 
 #: olang/009c9ea4/0x85a61c/0x19f7f4
 msgid "YELLOW"
-msgstr ""
+msgstr "黄"
 
 #: olang/009c9ea4/0x85a61c/0x19f7f6
 msgid "NKD(N.BLU)"
-msgstr ""
+msgstr "裸装(深蓝)"
 
 #: olang/009c9ea4/0x85a61c/0x19f7f8
 msgid "GOLD"
-msgstr ""
+msgstr "金"
 
 #: olang/009c9ea4/0x85a61c/0x29f7f4
 msgid "PINK"
-msgstr ""
+msgstr "粉"
 
 #: olang/009c9ea4/0x85a61c/0x29f7f6
 msgid "NKD(WHITE)"
-msgstr ""
+msgstr "裸(白)"
 
 #: olang/009c9ea4/0x85a61c/0x29f7f8
 msgid "LOVE BOX"
-msgstr ""
+msgstr "爱箱"
 
 #: olang/009c9ea4/0x85a61c/0x39f7f4
 msgid "GREEN"
-msgstr ""
+msgstr "绿"
 
 #: olang/009c9ea4/0x85a61c/0x39f7f6
 msgid "NKD(RED)"
-msgstr ""
+msgstr "裸装(红)"
 
 #: olang/009c9ea4/0x85a61c/0x49f7f4
 msgid "WATER"
-msgstr ""
+msgstr "水"
 
 #: olang/009c9ea4/0x85a61c/0x49f7f6
 msgid "NKD(YELW)"
-msgstr ""
+msgstr "裸(黄)"
 
 #: olang/009c9ea4/0x85a61c/0x59f7f4
 msgid "TREE BARK"
-msgstr ""
+msgstr "树皮"
 
 #: olang/009c9ea4/0x85a61c/0x59f7f6
 msgid "NKD(PINK)"
-msgstr ""
+msgstr "裸(粉)"
 
 #: olang/009c9ea4/0x85a61c/0xc9f7f3
 msgid "BLACK"
-msgstr ""
+msgstr "黑"
 
 #: olang/009c9ea4/0x85a61c/0xc9f7f7
 msgid "NKD(GRN)"
-msgstr ""
+msgstr "裸装(绿)"
 
 #: olang/009c9ea4/0x85a61c/0xd9f7f3
 msgid "KHAKI"
-msgstr ""
+msgstr "卡其"
 
 #: olang/009c9ea4/0x85a61c/0xd9f7f5
 msgid "COMRADE"
-msgstr ""
+msgstr "战友"
 
 #: olang/009c9ea4/0x85a61c/0xd9f7f7
 msgid "NKD(WATR)"
-msgstr ""
+msgstr "裸(水)"
 
 #: olang/009c9ea4/0x85a61c/0xe9f7f3
 msgid "NAVY BLUE"
-msgstr ""
+msgstr "藏青"
 
 #: olang/009c9ea4/0x85a61c/0xe9f7f5
 msgid "G&J"
-msgstr ""
+msgstr "G&J"
 
 #: olang/009c9ea4/0x85a61c/0xe9f7f7
 msgid "NKD(T.B)"
-msgstr ""
+msgstr "裸装(树皮)"
 
 #: olang/009c9ea4/0x85a61c/0xf9f7f3
 msgid "WHITE"
-msgstr ""
+msgstr "白"
 
 #: olang/009c9ea4/0x85a61c/0xf9f7f5
 msgid "NKD(BLACK)"
-msgstr ""
+msgstr "裸(黑)"
 
 #: olang/009c9ea4/0x85a61c/0xf9f7f7
 msgid "NKD(DPM)"
-msgstr ""
+msgstr "裸装(迷彩)"
 
 #: olang/009c9ea4/0x8b79b6/0x220a93
 msgid ""
 "Checking storage...\n"
 "Do not close the game."
-msgstr ""
+msgstr "检查存储中...\n勿关游戏。"
 
 #: olang/009c9ea4/0x8b79b6/0x3b222d
 #: olang/009c9ea4/0xa49217/0x3f129b
@@ -1231,7 +1231,7 @@ msgstr ""
 msgid ""
 "Saving content.\n"
 "Please don't close the game."
-msgstr ""
+msgstr "正在保存内容。\n请勿关闭游戏。"
 
 #: olang/009c9ea4/0x8caeae/0x00b621
 #: olang/009c9ea4/0x8caeae/0x00b721
@@ -1239,7 +1239,7 @@ msgstr ""
 msgid ""
 "Awarded for capturing over $1 bases (Heroism increases\n"
 "$2)."
-msgstr ""
+msgstr "占领超过$1座基地的奖励(英雄度增加\n$2)。"
 
 #: olang/009c9ea4/0x8caeae/0x00b921
 #: olang/009c9ea4/0x8caeae/0x00ba21
@@ -1247,7 +1247,7 @@ msgstr ""
 msgid ""
 "Awarded for getting the target to the goal (count to 0) over\n"
 "$1 times (Heroism increases by $2)."
-msgstr ""
+msgstr "将目标带到终点（计数归零）超过$1次\n（英雄度增加$2）。"
 
 #: olang/009c9ea4/0x8caeae/0x00bc21
 #: olang/009c9ea4/0x8caeae/0x00bd21
@@ -1344,26 +1344,26 @@ msgstr ""
 msgid ""
 "Awarded for sharing weapons/items and having allies use them\n"
 "over $1 times (Heroism increases by $2)."
-msgstr ""
+msgstr "分享武器/道具并由同伴使用超过$1次\n（英雄度增加$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfcfd20
 msgid ""
 "Awarded for being in a cardboard box with someone else for\n"
 "at least $1 hours and moving over $3m during that time\n"
 "(Heroism increases by $2)."
-msgstr ""
+msgstr "与其他人一起待在纸箱中至少$1小时，\n并在该时间内移动超过$3米后获得\n（英雄值增加$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfd1420
 msgid ""
 "Awarded for trading staff over $1 times (Heroism\n"
 "increases by $2)."
-msgstr ""
+msgstr "交换队员超过$1次（英雄度\n增加$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfd1520
 msgid ""
 "Awarded for generously giving over $1 weapons/items to\n"
 "other players (Heroism increases by $2)."
-msgstr ""
+msgstr "慷慨赠予其他玩家武器/道具超过$1件\n（英雄度增加$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfd1920
 #: olang/009c9ea4/0x8caeae/0xfd1a20
@@ -1383,17 +1383,17 @@ msgstr ""
 msgid ""
 "Awarded for tagging over $1 enemies in Enemy Search\n"
 "(Heroism increases by $2)."
-msgstr ""
+msgstr "在敌人搜索中标记敌人超过$1人\n（英雄度增加$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfd3420
 msgid ""
 "Awarded for enduring over $1 hours in a cardboard box\n"
 "(Heroism increases by $2)."
-msgstr ""
+msgstr "在纸箱中忍耐超过$1小时\n（英雄度增加$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfd3520
 msgid "Awarded for taking over $1 photos (Heroism increases by $2)."
-msgstr ""
+msgstr "拍摄照片超过$1张（英雄度增加$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfd3620
 msgid ""
@@ -1405,7 +1405,7 @@ msgstr ""
 msgid ""
 "Awarded for sending over $1 CO-OPS messages (Heroism\n"
 "increases by $2)."
-msgstr ""
+msgstr "发送合作任务讯息超过$1条（英雄度\n增加$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfd3820
 #: olang/009c9ea4/0x8caeae/0xfd3920
@@ -1498,99 +1498,99 @@ msgstr ""
 
 #: olang/009c9ea4/0x8e8ce0/0x0a01f4
 msgid "\"MGS-PW\" Main Theme"
-msgstr ""
+msgstr "《MGS-PW》主题"
 
 #: olang/009c9ea4/0x8e8ce0/0x1a01f4
 msgid "ZERO ALLIES!"
-msgstr ""
+msgstr "零友军！"
 
 #: olang/009c9ea4/0x8e8ce0/0x2a01f4
 msgid "Outer Heaven"
-msgstr ""
+msgstr "世外天堂"
 
 #: olang/009c9ea4/0x8e8ce0/0x3a01f4
 msgid "KOI NO YOKUSHI-RYOKU (Acoustic Guitar Duo)"
-msgstr ""
+msgstr "恋の抑止力（木吉他二重奏）"
 
 #: olang/009c9ea4/0x8e8ce0/0x4a01f5
 msgid "Confession"
-msgstr ""
+msgstr "告白"
 
 #: olang/009c9ea4/0x8e8ce0/0x4a01f7
 msgid "Destiny's Call"
-msgstr ""
+msgstr "命运召唤"
 
 #: olang/009c9ea4/0x8e8ce0/0x5a01f5
 msgid "Enclosure"
-msgstr ""
+msgstr "围困"
 
 #: olang/009c9ea4/0x8e8ce0/0x5a01f7
 msgid "Beyond the Bounds"
-msgstr ""
+msgstr "超越界限"
 
 #: olang/009c9ea4/0x8e8ce0/0x6a01f5
 msgid "Everything Begins"
-msgstr ""
+msgstr "一切开始"
 
 #: olang/009c9ea4/0x8e8ce0/0x6a01f7
 msgid "Snake Eater"
-msgstr ""
+msgstr "食蛇者"
 
 #: olang/009c9ea4/0x8e8ce0/0x7a01f5
 msgid "Love Theme"
-msgstr ""
+msgstr "爱主题"
 
 #: olang/009c9ea4/0x8e8ce0/0x7a01f7
 msgid "Calling to the Night"
-msgstr ""
+msgstr "夜之呼唤"
 
 #: olang/009c9ea4/0x8e8ce0/0x8a01f5
 msgid "View of Deep Snow"
-msgstr ""
+msgstr "深雪之景"
 
 #: olang/009c9ea4/0x8e8ce0/0x8a01f7
 msgid "Raxa"
-msgstr ""
+msgstr "Raxa"
 
 #: olang/009c9ea4/0x8e8ce0/0x9a01f5
 msgid "MG20YearsHistory 1"
-msgstr ""
+msgstr "MG20年历史 1"
 
 #: olang/009c9ea4/0x8e8ce0/0x9a01f7
 msgid "Inori-no-Uta"
-msgstr ""
+msgstr "祈り之歌"
 
 #: olang/009c9ea4/0x8e8ce0/0xaa01f5
 msgid "MG20YearsHistory 2"
-msgstr ""
+msgstr "MG20年历史 2"
 
 #: olang/009c9ea4/0x8e8ce0/0xba01f5
 msgid "MG20YearsHistory 3"
-msgstr ""
+msgstr "MG20年历史 3"
 
 #: olang/009c9ea4/0x8e8ce0/0xca01f3
 msgid "KOI NO YOKUSHI-RYOKU"
-msgstr ""
+msgstr "恋爱欲测力"
 
 #: olang/009c9ea4/0x8e8ce0/0xca01f5
 msgid "MG20YearsHistory 4"
-msgstr ""
+msgstr "MG20年历史 4"
 
 #: olang/009c9ea4/0x8e8ce0/0xda01f3
 msgid "Sneak 1"
-msgstr ""
+msgstr "潜行 1"
 
 #: olang/009c9ea4/0x8e8ce0/0xda01f5
 msgid "Show Time"
-msgstr ""
+msgstr "开演"
 
 #: olang/009c9ea4/0x8e8ce0/0xea01f3
 msgid "Sneak 2"
-msgstr ""
+msgstr "潜行 2"
 
 #: olang/009c9ea4/0x8e8ce0/0xfa01f3
 msgid "HEAVENS DIVIDE"
-msgstr ""
+msgstr "HEAVENS DIVIDE"
 
 #: olang/009c9ea4/0x903077/0x000000
 #: olang/009c9ea4/0x903077/0x000010
@@ -1601,69 +1601,69 @@ msgstr ""
 #: olang/009c9ea4/0xe9cbf5/0x000000
 #: olang/009c9ea4/0xe9cbf5/0x00000e
 msgid "Lock disengaged."
-msgstr ""
+msgstr "锁定解除。"
 
 #: olang/009c9ea4/0x903077/0x000001
 msgid "Shock output at maximum!"
-msgstr ""
+msgstr "电击输出最大！"
 
 #: olang/009c9ea4/0x903077/0x000002
 msgid "Target locked!"
-msgstr ""
+msgstr "锁定！"
 
 #: olang/009c9ea4/0x903077/0x000003
 msgid "Engaging shock units!"
-msgstr ""
+msgstr "启动电击装置！"
 
 #: olang/009c9ea4/0x903077/0x000004
 msgid "Firing boosters!"
-msgstr ""
+msgstr "推进器！"
 
 #: olang/009c9ea4/0x903077/0x000005
 msgid "Commencing jump!"
-msgstr ""
+msgstr "开始跳跃！"
 
 #: olang/009c9ea4/0x903077/0x000006
 msgid "Re-engaging target!"
-msgstr ""
+msgstr "再锁定！"
 
 #: olang/009c9ea4/0x903077/0x000007
 msgid "Auto-repair complete. Reinitializing."
-msgstr ""
+msgstr "自动修复完成。重新启动。"
 
 #: olang/009c9ea4/0x903077/0x000011
 msgid "Time for you to DIE!"
-msgstr ""
+msgstr "你该死！"
 
 #: olang/009c9ea4/0x903077/0x000012
 #: olang/009c9ea4/0xe9cbf5/0x000010
 msgid "You think I'll let you get away?!"
-msgstr ""
+msgstr "你以为我会放你走？！"
 
 #: olang/009c9ea4/0x903077/0x000013
 #: olang/009c9ea4/0xbc4a75/0x00002c
 #: olang/009c9ea4/0xe9cbf5/0x000011
 msgid "Die!"
-msgstr ""
+msgstr "死吧！"
 
 #: olang/009c9ea4/0x903077/0x000015
 msgid "I'll crush you like an insect!"
-msgstr ""
+msgstr "我要把你碾成虫子！"
 
 #: olang/009c9ea4/0x903077/0x000016
 #: olang/009c9ea4/0xbc4a75/0x000046
 msgid "Bring it on!"
-msgstr ""
+msgstr "来吧！"
 
 #: olang/009c9ea4/0x903077/0x000017
 #: olang/009c9ea4/0xbc4a75/0x000026
 #: olang/009c9ea4/0xe9cbf5/0x00000f
 msgid "It's not over yet!"
-msgstr ""
+msgstr "还没结束！"
 
 #: olang/009c9ea4/0x995528/0x945cab
 msgid "CANCEL: <I=COOPS_CANCEL>"
-msgstr ""
+msgstr "取消<I=COOPS_CANCEL>"
 
 #: olang/009c9ea4/0x9b86ab/0x0198da
 msgid "Leave without changing your password?"
@@ -1697,75 +1697,75 @@ msgstr "其中包含本游戏无法使用的字词。"
 
 #: olang/009c9ea4/0x9c12db/0xc34caa
 msgid "確認"
-msgstr ""
+msgstr "确认"
 
 #: olang/009c9ea4/0x9dc379/0x25a1d5
 msgid "Scroll Wheel Sensitivity"
-msgstr ""
+msgstr "滚轮灵敏度"
 
 #: olang/009c9ea4/0x9dc379/0x3b53a8
 msgid "Master Volume"
-msgstr ""
+msgstr "主音量"
 
 #: olang/009c9ea4/0x9dc379/0x7bfe8a
 msgid "Mouse camera sensitivity"
-msgstr ""
+msgstr "鼠标镜头灵敏度"
 
 #: olang/009c9ea4/0x9dc379/0x87fa9e
 msgid "Windowed Mode"
-msgstr ""
+msgstr "窗口模式"
 
 #: olang/009c9ea4/0x9dc379/0x8ae55e
 msgid "Window Size"
-msgstr ""
+msgstr "窗口大小"
 
 #: olang/009c9ea4/0x9dc379/0xa4e438
 msgid "Cutscene Subtitles"
-msgstr ""
+msgstr "过场字幕"
 
 #: olang/009c9ea4/0x9dc379/0xb85e9e
 msgid "Select Display"
-msgstr ""
+msgstr "选择显示"
 
 #: olang/009c9ea4/0x9dc379/0xd8d175
 msgid "Mouse aim sensitivity"
-msgstr ""
+msgstr "鼠标瞄准灵敏度"
 
 #: olang/009c9ea4/0x9dc379/0xe4fc23
 msgid "Keyboard & Mouse control type"
-msgstr ""
+msgstr "键鼠操作类型"
 
 #: olang/009c9ea4/0x9dc379/0xfb08d5
 msgid "Controller control type"
-msgstr ""
+msgstr "手柄操作类型"
 
 #: olang/009c9ea4/0xa21c43/0xbce4f4
 #: olang/009c9ea4/0xa21c43/0xbce4f5
 #: olang/009c9ea4/0xa21c43/0xbce4f6
 #: olang/009c9ea4/0xa21c43/0xbce4f7
 msgid "You cannot access online multiplayer from here."
-msgstr ""
+msgstr "无法从此处进入在线多人模式。"
 
 #: olang/009c9ea4/0xa21c43/0xbce4f8
 msgid "Proceed to online multiplayer session from recent invite?"
-msgstr ""
+msgstr "是否进入最近邀请的在线多人游戏？"
 
 #: olang/009c9ea4/0xa21c43/0xbce4f9
 msgid "Proceed to previously attempted online multiplayer session?"
-msgstr ""
+msgstr "是否进入上次尝试的在线多人游戏？"
 
 #: olang/009c9ea4/0xa21c43/0xbce4fa
 #: olang/009c9ea4/0xa21c43/0xbce4fb
 msgid "Returning to title screen to commence multiplayer session."
-msgstr ""
+msgstr "返回标题画面以开始多人游戏。"
 
 #: olang/009c9ea4/0xa270a1/0x008b10
 msgid "Pushing <I=PAUSE> will open the menu window."
-msgstr ""
+msgstr "按 <I=PAUSE> 打开菜单窗口。"
 
 #: olang/009c9ea4/0xa30793/0xff8afb
 msgid "Connection to the HOST has failed."
-msgstr ""
+msgstr "连接主机失败。"
 
 #: olang/009c9ea4/0xa49217/0x5a12d1
 msgid ""
@@ -1773,22 +1773,22 @@ msgid ""
 "to play online multiplayer.\n"
 "Before you can play online multiplayer, you must have saved data\n"
 "from a game in which you cleared the opening mission."
-msgstr ""
+msgstr "您没有可以游玩在线多人模式的\n保存数据。\n在游玩在线多人模式之前，您必须先拥有\n已通关开场任务的游戏保存数据。"
 
 #: olang/009c9ea4/0xa69279/0x7c7241
 #: olang/009c9ea4/0xb4465d/0x3c54c6
 msgid "Discard"
-msgstr ""
+msgstr "丢弃"
 
 #: olang/009c9ea4/0xb39048/0xf4816f
 msgid ""
 "You can recruit trade partners worldwide online.\n"
 "Select the type of invitation."
-msgstr ""
+msgstr "你可以在线招募全球贸易伙伴。\n选择邀请类型。"
 
 #: olang/009c9ea4/0xb4becf/0x3df22b
 msgid "Remove Board:<I=DEC>"
-msgstr ""
+msgstr "移除面板:<I=DEC>"
 
 #: olang/009c9ea4/0xb767d9/0xc03b74
 #: olang/009c9ea4/0xb767d9/0xd9422f
@@ -1796,69 +1796,69 @@ msgid ""
 "Waiting for trading partner…\n"
 "\n"
 "INVITE:<I=□>"
-msgstr ""
+msgstr "等待贸易伙伴……\n\n邀请:<I=□>"
 
 #: olang/009c9ea4/0xb767d9/0xf433ef
 msgid ""
 "Both you and your partner have completed staff selection.\n"
 "After confirming the staff to be traded, select OK."
-msgstr ""
+msgstr "你和伙伴均已完成人员选择。\n确认要交易的人员后，选择确定。"
 
 #: olang/009c9ea4/0xbc4a75/0x000001
 msgid "Reinitializing platform."
-msgstr ""
+msgstr "重初始化平台。"
 
 #: olang/009c9ea4/0xbc4a75/0x000002
 msgid "Self-defense system online."
-msgstr ""
+msgstr "自卫系统已上线。"
 
 #: olang/009c9ea4/0xbc4a75/0x000003
 msgid "Switching to self-defense mode."
-msgstr ""
+msgstr "切换至自卫模式。"
 
 #: olang/009c9ea4/0xbc4a75/0x000004
 msgid "Flamethrower engaged."
-msgstr ""
+msgstr "火焰喷射器启动。"
 
 #: olang/009c9ea4/0xbc4a75/0x000005
 msgid "Launching S mines."
-msgstr ""
+msgstr "发射S地雷。"
 
 #: olang/009c9ea4/0xbc4a75/0x000006
 msgid "Firing rocket launcher."
-msgstr ""
+msgstr "发射火箭筒。"
 
 #: olang/009c9ea4/0xbc4a75/0x000007
 msgid "Firing drill missiles."
-msgstr ""
+msgstr "发射钻头导弹。"
 
 #: olang/009c9ea4/0xbc4a75/0x000009
 msgid "EM pulse at maximum."
-msgstr ""
+msgstr "电磁脉冲满。"
 
 #: olang/009c9ea4/0xbc4a75/0x00000a
 msgid "Leg drive motor charging."
-msgstr ""
+msgstr "腿部电机充能。"
 
 #: olang/009c9ea4/0xbc4a75/0x00000b
 msgid "Jump engaged."
-msgstr ""
+msgstr "跳跃启动。"
 
 #: olang/009c9ea4/0xbc4a75/0x00000c
 msgid "Initializing nuclear launch sequence."
-msgstr ""
+msgstr "初始化核弹发射程序。"
 
 #: olang/009c9ea4/0xbc4a75/0x00000d
 msgid "Launch angle set."
-msgstr ""
+msgstr "发射角度已设定。"
 
 #: olang/009c9ea4/0xbc4a75/0x00000e
 msgid "Opening missile hatch."
-msgstr ""
+msgstr "打开导弹舱门。"
 
 #: olang/009c9ea4/0xbc4a75/0x00000f
 msgid "Commencing pre-ignition."
-msgstr ""
+msgstr "开始预点火。"
 
 #: olang/009c9ea4/0xbc4a75/0x000010
 msgid "10..."
@@ -1902,93 +1902,93 @@ msgstr ""
 
 #: olang/009c9ea4/0xbc4a75/0x00001a
 msgid "... Launch."
-msgstr ""
+msgstr "……发射。"
 
 #: olang/009c9ea4/0xbc4a75/0x00001b
 #: olang/009c9ea4/0xbc4a75/0x000040
 msgid "Three minutes to launch!"
-msgstr ""
+msgstr "距发射三分钟！"
 
 #: olang/009c9ea4/0xbc4a75/0x00001c
 #: olang/009c9ea4/0xbc4a75/0x000041
 msgid "One minute to launch!"
-msgstr ""
+msgstr "距发射一分钟！"
 
 #: olang/009c9ea4/0xbc4a75/0x00001d
 #: olang/009c9ea4/0xbc4a75/0x000042
 msgid "Thirty seconds to launch!"
-msgstr ""
+msgstr "距发射三十秒！"
 
 #: olang/009c9ea4/0xbc4a75/0x00001e
 #: olang/009c9ea4/0xbc4a75/0x000043
 msgid "Leg damage critical!"
-msgstr ""
+msgstr "腿部损伤重！"
 
 #: olang/009c9ea4/0xbc4a75/0x00001f
 #: olang/009c9ea4/0xbc4a75/0x000044
 msgid "Weapon container destroyed!"
-msgstr ""
+msgstr "武器集装箱被摧毁！"
 
 #: olang/009c9ea4/0xbc4a75/0x000020
 #: olang/009c9ea4/0xbc4a75/0x000045
 msgid "You've gotten stronger..."
-msgstr ""
+msgstr "你变强了……"
 
 #: olang/009c9ea4/0xbc4a75/0x000021
 msgid "Face me!"
-msgstr ""
+msgstr "来战！"
 
 #: olang/009c9ea4/0xbc4a75/0x000027
 msgid "Self-defense system online!"
-msgstr ""
+msgstr "自卫系统上线！"
 
 #: olang/009c9ea4/0xbc4a75/0x000028
 msgid "Switching to self-defense mode!"
-msgstr ""
+msgstr "切换至自卫模式！"
 
 #: olang/009c9ea4/0xbc4a75/0x000029
 msgid "Flamethrower!"
-msgstr ""
+msgstr "喷火器！"
 
 #: olang/009c9ea4/0xbc4a75/0x00002a
 msgid "Try this on for size!"
-msgstr ""
+msgstr "尝尝这个！"
 
 #: olang/009c9ea4/0xbc4a75/0x00002b
 msgid "How do you like this?"
-msgstr ""
+msgstr "这招如何？"
 
 #: olang/009c9ea4/0xbc4a75/0x00002d
 msgid "Poison beam!"
-msgstr ""
+msgstr "毒光束！"
 
 #: olang/009c9ea4/0xbc4a75/0x00002e
 msgid "EM pulse at maximum!"
-msgstr ""
+msgstr "电磁脉冲满！"
 
 #: olang/009c9ea4/0xbc4a75/0x00002f
 msgid "Leg drive motor charging!"
-msgstr ""
+msgstr "腿驱电机充能！"
 
 #: olang/009c9ea4/0xbc4a75/0x000030
 msgid "Jump engaged!"
-msgstr ""
+msgstr "跳跃启动"
 
 #: olang/009c9ea4/0xbc4a75/0x000031
 msgid "Initializing nuclear launch sequence!"
-msgstr ""
+msgstr "初始化核弹发射序列！"
 
 #: olang/009c9ea4/0xbc4a75/0x000032
 msgid "Launch angle set!"
-msgstr ""
+msgstr "发射角度设定！"
 
 #: olang/009c9ea4/0xbc4a75/0x000033
 msgid "Opening missile hatch!"
-msgstr ""
+msgstr "打开导弹舱口！"
 
 #: olang/009c9ea4/0xbc4a75/0x000034
 msgid "Commencing pre-ignition!"
-msgstr ""
+msgstr "开始预点火！"
 
 #: olang/009c9ea4/0xbc4a75/0x000035
 msgid "10!"

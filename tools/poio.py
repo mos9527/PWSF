@@ -104,10 +104,25 @@ def eol_of(path):
 
 
 def write(path, lines, mapping, eol="\n"):
-    """把 {行号: 译文} 写回 msgstr 行，其余内容逐字节不变。返回改动条数。"""
+    """把 {行号: 译文} 写回 msgstr 行，其余内容逐字节不变。返回 (改动条数, 新行列表)。
+
+    注意：调用方必须保证 `lines` 是磁盘上的最新内容，否则会把别人刚写进去的
+    译文覆盖掉（见 `commit`）。
+    """
     out = list(lines)
     for lineno, text in mapping.items():
         out[lineno] = f'msgstr "{escape(text)}"'
     with open(path, "w", encoding="utf-8", newline="") as f:
         f.write(eol.join(out) + eol)
-    return len(mapping)
+    return len(mapping), out
+
+
+def commit(path, mapping, eol="\n"):
+    """重读文件 -> 按 mapping 改 msgstr 行 -> 写回。返回 (改动条数, 新行列表)。
+
+    必须重读而不是沿用调用方缓存的行快照：同一文件的不同批次通常并发提交，
+    拿旧快照当基底会让后写的批次抹掉先写的。写回只替换行、不增删行，
+    所以行号在整个过程中是稳定的。
+    """
+    _, lines = parse(path)
+    return write(path, lines, mapping, eol)
