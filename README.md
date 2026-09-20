@@ -20,6 +20,8 @@ pip install pillow
 
 ## 使用
 
+从 Release 获取：[传送门](https://github.com/mos9527/PWSF/releases)
+
 从源码装（开发用）：
 
 ```powershell
