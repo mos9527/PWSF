@@ -13,58 +13,58 @@ msgstr ""
 msgid ""
 "Kaz, what kind of shape is that plant the\n"
 "\"professor\" gave us in?\n"
-msgstr ""
+msgstr "卡兹，那\"教授\"给我们的平台\n状况如何？\n"
 
 #: codec/1/148/0x944b0/1
 msgid ""
 "First time I laid eyes on it, I thought it was some\n"
 "kind of joke.\n"
-msgstr ""
+msgstr "第一眼看到时，我还以为是\n开玩笑。\n"
 
 #: codec/1/148/0x944b0/2
 msgid ""
 "It was a giant birdhouse - seagulls everywhere.\n"
-msgstr ""
+msgstr "像个巨型鸟屋——到处都是海鸥。\n"
 
 #: codec/1/148/0x944b0/3
 msgid ""
 "We eventually scraped off most of the rust and\n"
 "bird crap.\n"
-msgstr ""
+msgstr "后来我们刮掉了大部分锈迹和\n鸟粪。\n"
 
 #: codec/1/148/0x944b0/4
 msgid ""
 "The underlying structure's intact - a little elbow\n"
 "grease and we should be in business.\n"
-msgstr ""
+msgstr "主体结构完好——稍加整修\n就能用。\n"
 
 #: codec/1/148/0x944b0/5
 msgid ""
 "Who used to own it, anyway?\n"
-msgstr ""
+msgstr "话说这以前是谁的？\n"
 
 #: codec/1/148/0x944b0/6
 msgid ""
 "Whatever shape it's in now, somebody sank some\n"
 "serious money into building it.\n"
-msgstr ""
+msgstr "不管现在啥样，当初造它\n可花了不少钱。\n"
 
 #: codec/1/148/0x944b0/7
 msgid ""
 "From what I can tell, an American university built it\n"
 "as a research platform\n"
-msgstr ""
+msgstr "据我所知，是美国一所大学建的\n研究平台，\n"
 
 #: codec/1/148/0x944b0/8
 msgid ""
 "for ocean thermal energy conversion, \"OTEC.\"\n"
-msgstr ""
+msgstr "用于海洋热能转换，即\"OTEC\"。\n"
 
 #: codec/1/148/0x944b0/9
 msgid ""
 "The name's still on some of the rusty old power\n"
 "turbines.\n"
-msgstr ""
+msgstr "锈蚀的旧涡轮机上\n还留着名字。\n"
 
 #: codec/1/148/0x944b0/10
 msgid ""
@@ -81,7 +81,7 @@ msgstr ""
 #: codec/1/148/0x944b0/12
 msgid ""
 "Then after the university abandoned it,\n"
-msgstr ""
+msgstr "大学放弃后，\n"
 
 #: codec/1/148/0x944b0/13
 msgid ""
@@ -98,12 +98,12 @@ msgstr ""
 #: codec/1/148/0x944b0/15
 msgid ""
 "Yeah, that \"professor\" is quite the operator.\n"
-msgstr ""
+msgstr "是啊，那\"教授\"挺有手段。\n"
 
 #: codec/1/148/0x944b0/16
 msgid ""
 "One other thing:\n"
-msgstr ""
+msgstr "另外：\n"
 
 #: codec/1/148/0x944b0/17
 msgid ""
@@ -120,7 +120,7 @@ msgstr ""
 #: codec/1/148/0x944b0/19
 msgid ""
 "Hey, let's give it a shot?\n"
-msgstr ""
+msgstr "嘿，咱们试试吧？\n"
 
 #: codec/1/148/0x944b0/20
 msgid ""
@@ -330,17 +330,17 @@ msgstr ""
 msgid ""
 "Helicopters have quicker response time. Sounds\n"
 "strange, yeah, but it works great, I promise.\n"
-msgstr ""
+msgstr "直升机的响应时间更快。听起来\n很奇怪，是吧，但效果很好，我保证。\n"
 
 #: codec/1/149/0x95220/26
 msgid ""
 "You'll get used to it before long.\n"
-msgstr ""
+msgstr "你很快就会习惯的。\n"
 
 #: codec/1/149/0x95220/27
 msgid ""
 "Yeah, I hope so.\n"
-msgstr ""
+msgstr "嗯，希望如此。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
 #. timeline 501..2089
@@ -348,35 +348,35 @@ msgstr ""
 msgid ""
 "Remember why we created MSF, Snake: to provide\n"
 "military force to whoever needs it,\n"
-msgstr ""
+msgstr "记住我们创建MSF的初衷，SNAKE：为需要的人提供\n军事力量，\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
 #. timeline 2103..3162
 #: codec/1/149/0x95c80/1
 msgid ""
 "wherever they are, regardless of nation or ideology.\n"
-msgstr ""
+msgstr "无论他们在哪，不分国家与意识形态。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
 #. timeline 3190..3775
 #: codec/1/149/0x95c80/2
 msgid ""
 "Our beliefs aren't all that lofty...\n"
-msgstr ""
+msgstr "我们的信念没那么崇高……\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0060_000_0
 #. timeline 3775..4639
 #: codec/1/149/0x95c80/3
 msgid ""
 "We just won't be the tools of any one country.\n"
-msgstr ""
+msgstr "只是绝不做任何一国的工具。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
 #. timeline 4639..5503
 #: codec/1/149/0x95c80/4
 msgid ""
 "Exactly. We know only how to fight...\n"
-msgstr ""
+msgstr "没错。我们只会打仗……\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
 #. timeline 5517..6561
@@ -384,38 +384,38 @@ msgstr ""
 msgid ""
 "but we refuse to live our lives at the whim of the\n"
 "state.\n"
-msgstr ""
+msgstr "但我们拒绝让我们的生活受制于\n国家。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
 #. timeline 6575..7467
 #: codec/1/149/0x95c80/6
 msgid ""
 "The MSF seal is patterned after Pangaea,\n"
-msgstr ""
+msgstr "MSF的徽章以盘古大陆为原型，\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
 #. timeline 7481..8540
 #: codec/1/149/0x95c80/7
 msgid ""
 "the supercontinent from 250 million years ago.\n"
-msgstr ""
+msgstr "那是两亿五千万年前的超大陆。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
 #. timeline 8623..9348
 #: codec/1/149/0x95c80/8
 msgid ""
 "Back then, the whole world was one landmass.\n"
-msgstr ""
+msgstr "那时整个世界是一块陆地。\n"
 
 #: codec/1/149/0x95c80/9
 msgid ""
 "One world. No gaps, no rifts.\n"
-msgstr ""
+msgstr "一个世界。没有隔阂，没有裂痕。\n"
 
 #: codec/1/149/0x95c80/10
 msgid ""
 "Our strength will take us back there.\n"
-msgstr ""
+msgstr "力量会带我们回去。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0070_000_0
 #. timeline 529..1657
@@ -423,14 +423,14 @@ msgstr ""
 msgid ""
 "What about you, Kaz? Any interest in expanding\n"
 "MSF?\n"
-msgstr ""
+msgstr "你呢，Kaz？有兴趣扩张\nMSF吗？\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
 #. timeline 1685..2089
 #: codec/1/150/0x96040/1
 msgid ""
 "You'd better believe it.\n"
-msgstr ""
+msgstr "那还用说。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
 #. timeline 2117..3385
@@ -438,14 +438,14 @@ msgstr ""
 msgid ""
 "I want to make us into an organization that doesn't\n"
 "take orders from any country\n"
-msgstr ""
+msgstr "我想把我们打造成一个不\n听命于任何国家的组织\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
 #. timeline 3427..3859
 #: codec/1/150/0x96040/3
 msgid ""
 "- just like you were saying.\n"
-msgstr ""
+msgstr "就像你说的。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
 #. timeline 3900..4904
@@ -453,7 +453,7 @@ msgstr ""
 msgid ""
 "We have to be strong, strong enough to defend\n"
 "ourselves.\n"
-msgstr ""
+msgstr "我们必须强大，强大到足以保卫\n自己。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
 #. timeline 4931..5962
@@ -461,7 +461,7 @@ msgstr ""
 msgid ""
 "We need money, too - money to train soldiers to\n"
 "fight.\n"
-msgstr ""
+msgstr "我们也需要钱——用来训练士兵\n作战的钱。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0070_000_0
 #. timeline 6018..7565

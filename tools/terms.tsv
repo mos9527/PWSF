@@ -1,0 +1,246 @@
+en	zh	cat	note
+Snake	SNAKE	char	主角自称/他人称呼，全篇统一
+Naked Snake	NAKED SNAKE	char	MGS3 时期的称呼
+Big Boss	BIG BOSS	char	结局后的称号
+The Boss	THE BOSS	char	仅指 Snake 的师父；普通"头目/BOSS"语境另译
+Boss	BOSS	char	泛指时按语境（首领/BOSS），指 The Boss 时用"头目"
+Kaz	卡兹	char	Kazuhira Miller 的昵称
+Miller	米勒	char	姓氏
+Kazuhira	卡兹希拉	char	全名 Kazuhira Miller = 卡兹希拉·米勒
+Paz	帕兹	char	Paz Ortega Andrade
+Chico	奇科	char
+Amanda	阿曼达	char	Amanda Valenciano Libre
+Huey	休伊	char	Huey Emmerich
+Strangelove	斯特兰奇洛夫	char	Dr. Strangelove，可与"博士"连用
+Coldman	科尔德曼	char	Hot Coldman
+Gálvez	加尔维斯	char	Ramón Gálvez Mena；注意带重音符
+Galvez	加尔维斯	char	无重音符的变体
+Ramón	拉蒙	char
+Cécile	塞西尔	char	Cécile Cosima Caminades；注意带重音符
+Cecile	塞西尔	char	无重音符的变体
+Cosima	科西玛	char
+Caminades	卡米纳德斯	char
+Zadornov	扎多尔诺夫	char
+Vladimir	弗拉基米尔	char
+Zero	ZERO	char	Cipher
+Eva	EVA	char
+Sigint	SIGINT	char	MGS3 角色，音译
+Sokolov	索科洛夫	char
+Granin	格拉宁	char
+Volgin	沃尔金	char
+The End	终焉	char	Cobra Unit 成员；普通"结束"语境不要套用
+Cobra	眼镜蛇	char	Cobra Unit = 眼镜蛇部队
+MSF	MSF	org	组织缩写，一律保留
+Militaires Sans Frontières	无国界军队	org	MSF 全称
+Mother Base	母基地	org
+Outer Heaven	世外天堂	org
+FOX	FOX	org	一律保留，不译"狐狸"
+Cipher	Cipher	org	组织名，保留不译
+CIA	CIA	org	一律保留缩写
+KGB	克格勃	org
+FSLN	FSLN	org	桑地诺民族解放阵线，缩写保留
+Sandinista	桑地诺派	org	形容词/成员
+Sandinistas	桑地诺派	org	复数
+Frente	Frente	org	FSLN 的简称，保留
+Guardia	国民警卫队	org	Guardia Nacional
+NORAD	北美防空司令部	org
+JSDF	日本自卫队	org
+Red Army	红军	org
+Special Forces	特种部队	org
+United States	美国	place
+US	美国	place	单独出现且与国家相关时
+USSR	苏联	place
+Soviet Union	苏联	place
+Soviet	苏联的	place
+Soviets	苏联人	place
+Costa Rica	哥斯达黎加	place
+Costa Rican	哥斯达黎加的	place
+Nicaragua	尼加拉瓜	place
+Nicaraguan	尼加拉瓜的	place
+Colombia	哥伦比亚	place
+Bolivia	玻利维亚	place
+Cuba	古巴	place
+Cuban	古巴的	place
+Japan	日本	place
+Japanese	日本的	place
+Latin America	拉丁美洲	place
+Central America	中美洲	place
+Caribbean	加勒比	place
+Washington	华盛顿	place
+Moscow	莫斯科	place
+Langley	兰利	place	CIA 总部所在地
+Paris	巴黎	place
+Isla del Monstruo	怪物岛	place	西语地名，意译	ci=1
+Puerto del Alba	黎明港	place
+Bosque del Alba	黎明森林	place
+Bananal Fruta de Oro	黄金果香蕉园	place
+Aldea Los Despiertos	觉醒者村	place
+El Cadalso	绞刑台	place
+Ruinas de Xochiquetzal	索奇克察尔遗迹	place
+Lago Cocibolca	科西博尔卡湖	place
+Irazú	伊拉苏	place	火山名
+Iraz	伊拉苏	place	无重音符的变体
+Cloud Forest	云雾林	place		ci=1
+Heredia	埃雷迪亚	place
+Los Cantos	洛斯坎托斯	place
+Mine Base	矿井基地	place
+Crater Base	火山口基地	place
+Mining Pit	采掘坑	place
+Control Tower	管制塔	place		ci=1
+Prison Facility	收容设施	place		ci=1
+Supply Facility	补给设施	place		ci=1
+Brig	禁闭室	place
+Sickbay	医务室	place		ci=1
+Mess Hall	食堂	place		ci=1
+Waiting Room	待命室	place
+Metal Gear	合金装备	mech	系列统一译名	ci=1
+Metal Gear ZEKE	合金装备·吉克	mech		ci=1
+ZEKE	吉克	mech	单独出现时
+Gear REX	霸王	mech	Metal Gear REX 的官方译名	ci=1
+Peace Walker	和平行者	mech	机体/计划名；整作标题同此
+Peace Walker Project	和平行者计划	mech
+Cocoon	茧	mech	AI 兵器
+Chrysalis	蝶蛹	mech	AI 兵器
+Pupa	蛹	mech	AI 兵器
+Mammal Pod	哺乳舱	mech
+AI Weapon	AI 兵器	mech		ci=1
+Fulton Recovery System	富尔顿回收系统	sys		ci=1
+Fulton Recovery	富尔顿回收	sys		ci=1
+Fulton	富尔顿	sys	形容词/简称
+CQC	CQC	sys	近身格斗术，缩写保留
+Codec	CODEC	sys	一律大写
+EXTRA OPS	额外任务	sys
+MAIN OPS	主线任务	sys
+CO-OPS	合作任务	sys
+CO-OP	合作	sys
+VERSUS OPS	对战任务	sys
+OUTER OPS	外线任务	sys
+OPS	任务	sys	单独出现时
+Heroism	英雄度	sys	数值名	ci=1
+GMP	GMP	sys	货币，保留
+Design Specs	开发规格	sys		ci=1
+Intel Team	情报班	sys
+Combat Unit	战斗班	sys		ci=1
+Medical Team	医疗班	sys
+Mess Hall Team	食堂班	sys
+Staff	士兵	sys	指人员编制时；其他语境按"职员/工作人员"
+Sickbay	医务室	sys		ci=1
+Time Penalty	时间惩罚	sys
+Time Bonus	时间奖励	sys
+Perfect Stealth	完全潜行	sys
+Neutralize	制伏	sys	MGS 术语，不译"消灭/杀死"	ci=1
+Eliminate	消灭	sys	与 Neutralize 区分	ci=1
+Support Strike Marker	支援攻击标记	sys
+Support Supply Marker	支援补给标记	sys
+Battle Cry	战吼	sys
+Battle Cries	战吼	sys		ci=1
+Base Defense	基地防卫	sys
+VOCALOID	VOCALOID	other	保留
+Rathalos	火龙	other	怪物猎人联动
+Tigrex	轰龙	other	怪物猎人联动
+Trenya	Trenya	other	联动角色，保留
+Quetzalcoatl	羽蛇神	other		ci=1
+UMAs	未知生物	other	UMA = Unidentified Mysterious Animal
+UMA	未知生物	other
+HAL	HAL	other	AI 名，保留
+PSYCHE	精神	ui		ci=1
+Camera Buttons	镜头键	ui
+Attack Button	攻击键	ui
+Aim Button	瞄准键	ui
+Crouch Button	蹲伏键	ui
+Action Button	动作键	ui
+Hand-to-hand Attack Button	徒手攻击键	ui		ci=1
+Left Stick	左摇杆	ui		ci=1
+Right Stick	右摇杆	ui		ci=1
+Stick	摇杆	ui	泛指时	ci=1
+D-Pad	方向键	ui
+Trigger	扳机键	ui
+Start	START 键	ui
+Select	SELECT 键	ui
+Triangle	△	ui
+Circle	○	ui
+Cross	×	ui
+Square	□	ui
+Single Player	单人	ui
+Single Player Only	仅单人	ui
+SNAKE ONLY	仅斯内克可用	ui
+MSF SOLDIERS ONLY	仅 MSF 士兵	ui
+Rank S	S 级	ui
+Rank A	A 级	ui
+Rank B	B 级	ui
+Rank C	C 级	ui
+Xbox LIVE	Xbox LIVE	ui	保留
+PlayStation	PlayStation	ui	保留
+PSP	PSP	ui	保留
+CAPCOM	CAPCOM	other	保留
+D Team	D 班	sys	基地班组之一
+AI	AI	other	一律保留
+American	美国的	other	泛指国民时用"美国人"
+America	美国	place
+Entry	条目	ui
+Tank Battle	坦克战	other
+Attack Chopper Battle	武装直升机战	other
+Armored Vehicle Battle	装甲车战	other
+AI Weapon Battle	AI 兵器战	other
+Items Needed	所需物品	ui
+Weapons Needed	所需武器	ui
+BRIEFING FILES	简报文件	ui
+DATA FILES	数据文件	ui
+Cold War	冷战	other		ci=1
+AUTO AIM	自动瞄准	ui		ci=1
+CANCEL	取消	ui
+Cancel	取消	ui		ci=1
+Confirm	确认	ui		ci=1
+Delete	删除	ui		ci=1
+Apply	应用	ui
+Icon	图标	ui		ci=1
+Channel	频道	ui
+Memory	存储	ui	指存档/记忆卡时；"回忆"语境另译
+Dr	博士	char
+LIFE	生命值	ui
+CAMERA	镜头	ui		ci=1
+HOST	主机	ui		ci=1
+VS	对战	ui		ci=1
+ATK	攻击	ui		ci=1
+STA	体力	ui
+NKD	裸装	ui
+SGL	单发	ui
+GL	榴弹	ui
+DPM	迷彩	ui
+REG	登录	ui
+SEL	选择	ui
+C4	C4	weapon	保留
+ID	ID	ui	保留
+OK	确定	ui	按钮/菜单；台词里译"好的"
+Jungle Fatigues	丛林迷彩服	item
+SINGLE PLAYER ONLY	仅单人	ui
+Missions	任务	sys		ci=1
+Target	目标	sys		ci=1
+Targets	目标	sys		ci=1
+Basilisk	蛇怪	mech	AI 兵器
+Magazine	杂志	item	基地里可摆放的杂志，用来吸引敌人注意
+Magazines	杂志	item
+Empty Magazine	空杂志	item
+Solid Magazine	索利德杂志	item	恶搞 Solid Snake 的彩蛋，保留"索利德"
+Liquid Magazine	利奎德杂志	item	恶搞 Liquid Snake 的彩蛋，保留"利奎德"
+Solid Snake	索利德·斯内克	char
+Liquid Snake	利奎德·斯内克	char
+pulp magazine	廉价杂志	item
+Solidus Magazine	索利达斯杂志	item	恶搞 Solidus Snake 的彩蛋
+Super Magazine	超级杂志	item
+Hobby Magazine	兴趣杂志	item
+Magazine Capacity	杂志容量	item	基地可摆放杂志的数量
+Magazine Layout	杂志版面	item
+Magazine Data	杂志数据	item
+Solidus Snake	索利达斯·斯内克	char
+Río del Jade	翡翠河	place	西语地名
+Jade	玉	other	Río del Jade 的 Jade；台词里也指矿物
+Somoza	索摩查	char	尼加拉瓜独裁者 Anastasio Somoza García
+Anastasio	阿纳斯塔西奥	char
+los sapos	蟾蜍	other	西语蔑称，指 Somoza 一党
+Vietnam War	越南战争	other
+Second World War	第二次世界大战	other
+West German	西德	other
+WIRELESS	无线	ui
+CPR	心肺复苏	other
+French	法国的	other

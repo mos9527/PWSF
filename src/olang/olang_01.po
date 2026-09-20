@@ -16,11 +16,11 @@ msgstr ""
 #: olang/0005ee2f/0xc6de03/0x02d356 olang/0005ee2f/0xc6de03/0x17b115
 #: olang/0005ee2f/0xc6de03/0x262ccd olang/0005ee2f/0xc6de03/0xae4364
 msgid "Human voice"
-msgstr ""
+msgstr "人声"
 
 #: olang/0005ee2f/0xc6de03/0x069574
 msgid "Screen Display"
-msgstr ""
+msgstr "画面显示"
 
 #: olang/0005ee2f/0xc6de03/0x094877
 msgid ""
@@ -28,40 +28,40 @@ msgid ""
 "Change the zoom level with LT and RT.\n"
 "Press <I=DEC> to apply your changes.\n"
 "To restore the default display settings, press <I=△>."
-msgstr ""
+msgstr "用左摇杆移动画面位置。\n用LT和RT调整缩放。\n按<I=DEC>应用更改。\n按<I=△>恢复默认显示设置。"
 
 #: olang/0005ee2f/0xc6de03/0x1889b7 olang/0005ee2f/0xc6de03/0x3726d7
 msgid "Magazines"
-msgstr ""
+msgstr "杂志"
 
 #: olang/0005ee2f/0xc6de03/0x196f19
 msgid "Pupa Voices"
-msgstr ""
+msgstr "蛹语音"
 
 #: olang/0005ee2f/0xc6de03/0x1aa0b2 olang/0005ee2f/0xc6de03/0x2f7e71
 #: olang/0005ee2f/0xc6de03/0x3dfa29 olang/0005ee2f/0xc6de03/0xc610c0
 msgid "Default voice"
-msgstr ""
+msgstr "默认语音"
 
 #: olang/0005ee2f/0xc6de03/0x27f9e4 olang/0005ee2f/0xc6de03/0x7c6806
 #: olang/0005ee2f/0xc6de03/0xdba915
 msgid "Change which AI weapon voices are used in the game."
-msgstr ""
+msgstr "更改游戏中使用的AI武器语音。"
 
 #: olang/0005ee2f/0xc6de03/0x284a42
 msgid ""
 "Edit screen display settings.\n"
 "Adjust the display until the red lines surrounding\n"
 "the background fit the screen perfectly."
-msgstr ""
+msgstr "编辑画面显示设置。\n调整显示，使背景四周的红线\n与屏幕完全重合。"
 
 #: olang/0005ee2f/0xc6de03/0x2cc2b4
 msgid "Edit screen display settings and change which AI weapon voices are used in the game."
-msgstr ""
+msgstr "编辑画面显示设置及游戏中的AI武器语音。"
 
 #: olang/0005ee2f/0xc6de03/0x3850a3 olang/009c9ea4/0xc6de03/0x3850a3
 msgid "Basilisk Voices"
-msgstr ""
+msgstr "蛇怪语音"
 
 #: olang/0005ee2f/0xc6de03/0x3a136d
 msgid "VOICE"
