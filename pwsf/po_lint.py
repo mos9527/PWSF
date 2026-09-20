@@ -252,9 +252,15 @@ def main() -> None:
                     help="demote dropped <R=...> ruby annotations to a warning")
     ap.add_argument("--no-font", action="store_true",
                     help="skip the code point coverage check")
-    ap.add_argument("--rebuild-font", action="store_true",
-                    help="check against a full atlas rebuild (60 rows) "
-                         "instead of the free rows of the shipped layout")
+    # matches po_import: the pipeline rebuilds the atlas by default, so the
+    # lint has to plan for the same mode (PLANS/06 §9.2)
+    ap.add_argument("--rebuild-font", dest="rebuild_font", action="store_true",
+                    default=True,
+                    help="check against a full atlas rebuild (60 rows); "
+                         "this is what po_import does (default)")
+    ap.add_argument("--add-font", dest="rebuild_font", action="store_false",
+                    help="check against only filling the free rows of the "
+                         "shipped layout")
     ap.add_argument("--limit", type=int, default=20,
                     help="problems printed per severity (default 20)")
     args = ap.parse_args()

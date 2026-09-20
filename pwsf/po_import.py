@@ -33,7 +33,9 @@ Usage:
     python -m pwsf.po_import --install       # ... and install it, in one go
     python -m pwsf.po_import --lang es       # write a different language slot
     python -m pwsf.po_import --skip-font     # text only, keep the shipped font
-    python -m pwsf.po_import --rebuild-font  # re-lay the whole atlas out
+    python -m pwsf.po_import --add-font      # fill the shipped atlas's free
+                                             # rows instead of rebuilding it
+                                             # (the CJK glyphs stay Japanese)
 
 `--install` hands the finished manifest to `pwsf.install`, so it inherits that
 module's refusals: it will not write over a game file it cannot account for,
@@ -198,11 +200,20 @@ def main() -> None:
                     help="build even if the corpus does not pass po_lint")
     ap.add_argument("--skip-font", action="store_true",
                     help="do not rebuild the font atlas")
-    ap.add_argument("--rebuild-font", action="store_true",
+    # rebuilding is the default: filling only the free rows leaves the shipped
+    # Japanese glyphs in place, so translated Chinese renders half in the
+    # shipped face and half in ours -- the mixed atlas seen on 2026-09-20
+    # (PLANS/06 §9.2)
+    ap.add_argument("--rebuild-font", dest="rebuild_font", action="store_true",
+                    default=True,
                     help="lay the whole atlas out again instead of filling "
                          "its free rows: more room, and the shipped "
                          "ideographs get repainted from the same face as the "
-                         "new ones (ANALYSIS/05_font.md §12)")
+                         "new ones (default; ANALYSIS/05_font.md §12)")
+    ap.add_argument("--add-font", dest="rebuild_font", action="store_false",
+                    help="only fill the free rows of the shipped layout, "
+                         "keeping every shipped glyph's pixels (gives the "
+                         "mixed-typeface atlas back)")
     ap.add_argument("--install", action="store_true",
                     help="install the build straight after verifying it "
                          "(see pwsf.install)")
@@ -243,8 +254,16 @@ def main() -> None:
         dat, key, stats = slotdat_build.rebuild(slot_items, lang, args.outdir)
         problems += slotdat_build.verify(dat, key, slot_items, lang)
         codepoints |= {ord(c) for t in slot_items.values() for c in t}
-        rows.append(manifest_row(dat, S.dat_path(), "slotdat", S.dat_path()))
-        rows.append(manifest_row(key, S.key_path(), "slotdat", S.key_path()))
+        # dest must be the LIVE game path, never S.dat_path(): that goes
+        # through config.pristine, so once a .orig backup exists the manifest
+        # would name the backup as the install target and install would
+        # overwrite it with the build (that is how 002aba34.DAT.orig got
+        # clobbered on 2026-09-20; the original survived only as .orig.orig).
+        disc0 = config.DISC0_DIR
+        rows.append(manifest_row(dat, disc0 / f"{S.STEM}.DAT", "slotdat",
+                                 S.dat_path()))
+        rows.append(manifest_row(key, disc0 / f"{S.STEM}.KEY", "slotdat",
+                                 S.key_path()))
         print(f"  {stats['patched']} record(s) repacked, {stats['strings']} "
               f"string(s) written")
 

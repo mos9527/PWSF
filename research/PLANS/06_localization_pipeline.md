@@ -220,6 +220,44 @@ lint     6,259 条 / 7,620 引用 / 7 条已译 -> 11 个 olang 槽 / 57 个码�
 备份不是原文或无备份而现场文件陌生时拒绝写入（`--force` 才能越过）。
 理由是 `*.orig` 是全部提取路径的英文来源（§8.1），备份错了会污染语料。
 
+### 9.1 事故记录：manifest 的 dest 走了 pristine，原版备份被译版覆盖（已修复）
+
+2026-09-20 带 `--rebuild-font` 重跑管线时发现渲染混排（追问出另一件事，
+见 §9.2），重装后状态机被击穿：`002aba34.DAT.orig`（真原版备份位）被写成了
+译版，真原版只剩 `.orig.orig` 一份。根因有两处，同一家族——
+**凡是途经 `config.pristine` 的路径被当成了"活体游戏路径"用**：
+
+1. `po_import` 把 `S.dat_path()`（pristine）填进 MANIFEST 的 dest 列。
+   首装时游戏目录还没有 `.orig`，pristine 恰好返回活体路径，所以
+   `_probe_po5.py` 的合成目录测不出来；一旦 `.orig` 存在，dest 就变成
+   备份本身，install 便把译版盖到了备份上。
+2. `slotdat_build.rebuild` 用 `src_dat.name`（pristine）命名 BUILD 产物，
+   于是 BUILD 里出现 `002aba34.DAT.orig`，并随 manifest 扩散。
+
+修复（当次）：
+`po_import` 的 slotdat dest 改为 `config.DISC0_DIR / f"{S.STEM}.DAT"`，
+`slotdat_build` 产物改用 `{S.STEM}.DAT` 命名；磁盘上把 `.orig.orig`
+移回 `.orig`（sha 核对为原版 `a54d031b…`），BUILD 重复产物已清。
+教训：`config.pristine` 只许出现在**读**路径，任何写/登记路径必须用活体名。
+
+### 9.2 字库混排：追加模式不覆盖旧字形，CJK 要用 `--rebuild-font`
+
+实机截图（2026-09-20）里中文渲染"很怪"：译文里的汉字凡是被原版翻译表
+映射过的（亡/人/使/体……共 323 个），走的仍是日文原版字形，和旁边雅黑的
+新增字形混排。证据：BUILD 字库 643 个旧 glyph 位置逐字节未动
+（`build_font` 追加模式的定义），148 个新字形排在第 9–11 行。
+
+裁决依据 `_probe_font10_repaint.py`（`repaint_plan` 按段判，一个溢出
+整段保留）：msyh.ttc 校准 56px 后**只有 CJK 段全段装得下**（323 字全部
+放进原 58px 框），ASCII（54/91 溢出）、Latin-1（34/56）、假名（53/140）、
+fullwidth（1/17）必须保留原版像素——强行重绘会溢进邻字。中文译文用不到
+假名，所以 `--rebuild-font` 后汉字全部同面，混排消失。重建后 791 字形
+10 行（追加模式要 12 行），`verify_rebuild` 全过。
+
+因为漏一次开关就会静默退回混排，重建已改成**默认**行为（`po_import` /
+`po_lint` 一致），要追加模式显式传 `--add-font`。所以日常迭代就是
+`python -m pwsf.po_import --install`，不用记开关。
+
 ## 10. 顺序
 
 1. ~~字库 PoC~~ ✅ 计划 05，实机已验证

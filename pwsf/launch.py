@@ -6,7 +6,9 @@ Two things live here.
    MUST be the game directory -- the font is looked up as "." (README) -- and
    the launch arguments from ANALYSIS/07_launch_args.md are supplied so the
    game does not fall back to the Japanese branch, whose assets the Steam
-   release never shipped.
+   release never shipped.  The defaults are the command line the shipped
+   launcher uses; `-launcherroot` is derived from `pwsf.config` (the path is
+   the only machine-dependent part) and `-- -lan fr` etc. replace them.
 
 2. `--install-shim` replaces `<install>\launcher\launcher.exe` with
    `pwsf/shim/launcher_shim.c` compiled by `cl`.  The shipped launcher is a
@@ -38,10 +40,12 @@ from . import config
 STEAM_APP_ID = 2492660
 
 GAME_EXE = "METAL GEAR SOLID PEACE WALKER.exe"
-# ANALYSIS/07_launch_args.md: -lan must be spelled right or the game silently
-# picks the Japanese branch, which is not shipped on Steam.
-DEFAULT_ARGS = ["-lan", "en", "-region", "eu",
-                "-selfregion", "EU", "-ctrltype", "XS"]
+# The command line the shipped launcher hands the game, captured verbatim
+# (ANALYSIS/07_launch_args.md §0).  -lan must be spelled right or the game
+# silently picks the Japanese branch, which is not shipped on Steam.
+DEFAULT_ARGS = ["-region", "eu", "-lan", "en", "-selfregion", "EU",
+                "-resolution", "1", "-upscale", "3", "-movie", "1",
+                "-launcherpath", "launcher.exe", "-ctrltype", "PS5"]
 
 SHIM_SRC = Path(__file__).parent / "shim" / "launcher_shim.c"
 SHIM_NAME = "launcher_shim.exe"
@@ -62,6 +66,21 @@ def launcher_dir() -> Path:
 
 def game_exe() -> Path:
     return config.GAME_DIR / GAME_EXE
+
+
+def default_args() -> list:
+    """DEFAULT_ARGS plus `-launcherroot <install>/launcher`, resolved here.
+
+    Only that one option depends on where the game is installed, so it is
+    derived from config rather than baked into a constant -- an ini written on
+    one machine must not carry another machine's path.
+
+    Safe to pass: the install root `font_load_xpr` builds `<root>\\FONT\\..`
+    from is g_launcher_config[6] at +0x30, which `launcher_parse_commandline`
+    hard-codes to "." and never derives from -launcherroot (+0x58, qword 11);
+    see ANALYSIS/07_launch_args.md §1.
+    """
+    return DEFAULT_ARGS + ["-launcherroot", str(launcher_dir())]
 
 
 def find_vsdevcmd():
@@ -137,12 +156,18 @@ def build_shim(outdir: Path) -> Path:
 
 
 def write_ini(path: Path, args: list) -> None:
-    """UTF-16 so non-ASCII install paths survive GetPrivateProfileStringW."""
+    """UTF-16 so non-ASCII install paths survive GetPrivateProfileStringW.
+
+    The args line is quoted with `list2cmdline`: -launcherroot is a path
+    that normally contains spaces, and the shim passes the line to
+    CreateProcessW verbatim, so it has to use the same quoting the C runtime
+    parses back.
+    """
     body = ("; written by pwsf.launch --install-shim\r\n"
             "[launch]\r\n"
             "dir=..\\mgspw\r\n"
             f"exe={GAME_EXE}\r\n"
-            f"args={' '.join(args)}\r\n")
+            f"args={subprocess.list2cmdline(args)}\r\n")
     path.write_text(body, encoding="utf-16")
 
 
@@ -227,14 +252,14 @@ def main() -> None:
         build_shim(config.BUILD_DIR)
         return
     if args.install_shim:
-        install_shim(args.gameargs or DEFAULT_ARGS)
+        install_shim(args.gameargs or default_args())
         return
 
     if args.steam:
         launch_via_steam(dry_run=args.dry_run)
         return
 
-    launch(args.gameargs or DEFAULT_ARGS, args.wait, args.dry_run)
+    launch(args.gameargs or default_args(), args.wait, args.dry_run)
 
 
 if __name__ == "__main__":

@@ -159,7 +159,11 @@ def rebuild(translations: dict, lang: int = None, outdir: Path = None,
     patch = make_patch(by_table, lang)
 
     src_dat, src_key = S.dat_path(), S.key_path()
-    out_dat, out_key = outdir / src_dat.name, outdir / src_key.name
+    # name the outputs after STEM, not after src_dat.name: the source goes
+    # through config.pristine, so once a .orig backup exists the build would
+    # be written to BUILD/002aba34.DAT.orig and the manifest would carry that
+    # name with it (seen 2026-09-20)
+    out_dat, out_key = outdir / f"{S.STEM}.DAT", outdir / f"{S.STEM}.KEY"
 
     new_records = []
     stats = dict(records=len(recs), patched=0, strings=0)

@@ -14,7 +14,15 @@
  *     [launch]
  *     dir=..\mgspw                              ; relative to this .exe
  *     exe=METAL GEAR SOLID PEACE WALKER.exe
- *     args=-lan en -region eu -selfregion EU -ctrltype XS
+ *     args=-region eu -lan en -selfregion EU -resolution 1 -upscale 3
+ *          -movie 1 -launcherpath launcher.exe -ctrltype PS5
+ *          -launcherroot "<dir of this .exe>"
+ *
+ * `args` is one line handed to CreateProcessW verbatim, so a value that
+ * contains spaces has to keep its double quotes (pwsf.launch writes the line
+ * with subprocess.list2cmdline).  The default -launcherroot is this .exe's
+ * own directory, i.e. <install>\launcher -- the same thing the shipped
+ * launcher passes, so the shim needs no machine-specific constant.
  */
 
 #define UNICODE
@@ -26,10 +34,13 @@
 
 #define CCH 4096
 
-static const wchar_t *DEF_DIR  = L"..\\mgspw";
-static const wchar_t *DEF_EXE  = L"METAL GEAR SOLID PEACE WALKER.exe";
-static const wchar_t *DEF_ARGS = L"-lan en -region eu -selfregion EU "
-                                 L"-ctrltype XS";
+static const wchar_t *DEF_DIR = L"..\\mgspw";
+static const wchar_t *DEF_EXE = L"METAL GEAR SOLID PEACE WALKER.exe";
+/* %ls is filled with this .exe's directory -> -launcherroot */
+static const wchar_t *DEF_ARGS =
+    L"-region eu -lan en -selfregion EU -resolution 1 -upscale 3 "
+    L"-movie 1 -launcherpath launcher.exe -ctrltype PS5 "
+    L"-launcherroot \"%ls\"";
 
 /* not named logf: that is an intrinsic in math.h and cl rejects the shadow */
 static void shim_log(const wchar_t *path, const wchar_t *fmt, ...)
@@ -50,6 +61,7 @@ int WINAPI wWinMain(HINSTANCE hInst, HINSTANCE hPrev, PWSTR cmdline_in,
 {
     wchar_t self[CCH], ini[CCH], reldir[CCH], exe[CCH], args[CCH];
     wchar_t combined[CCH], gamedir[CCH], cmdline[CCH], logpath[CCH];
+    wchar_t defargs[CCH];
 
     (void)hInst;
     (void)hPrev;
@@ -65,9 +77,12 @@ int WINAPI wWinMain(HINSTANCE hInst, HINSTANCE hPrev, PWSTR cmdline_in,
     swprintf_s(ini, CCH, L"%ls\\pwsf_launch.ini", self);
     swprintf_s(logpath, CCH, L"%ls\\pwsf_launch.log", self);
 
+    /* DEF_ARGS still needs our own directory for -launcherroot */
+    swprintf_s(defargs, CCH, DEF_ARGS, self);
+
     GetPrivateProfileStringW(L"launch", L"dir", DEF_DIR, reldir, CCH, ini);
     GetPrivateProfileStringW(L"launch", L"exe", DEF_EXE, exe, CCH, ini);
-    GetPrivateProfileStringW(L"launch", L"args", DEF_ARGS, args, CCH, ini);
+    GetPrivateProfileStringW(L"launch", L"args", defargs, args, CCH, ini);
 
     /* the working directory matters: the game looks its font up as ".".
        `dir` is normally relative to this .exe ("..\mgspw"); an absolute one
