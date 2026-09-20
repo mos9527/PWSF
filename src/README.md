@@ -1,16 +1,25 @@
 ﻿# PWSF 翻译工作区
 
-原文一律取**英文**。文件由 `pwsf.po_export` 生成，
-可随时重新生成（会覆盖未提交的译文，先提交再重跑）。
+原文一律取**英文**。文件由 `pwsf.po_export` 生成，可随时重新生成。
+重新导出会**按 `msgid` 回填已有译文**（`--fresh` 可关），但会删掉不再存在的
+条目引用 —— 先提交再重跑更稳妥。
 
 ```
-pwsf.pot           全量模板，6,259 条，仅供参考/对照，不要在这里翻
-olang/olang_NN.po  UI 文字 + 游戏内字幕   4 个文件 / 1,513 条
-codec/codec_NN.po  CODEC 无线电台词      12 个文件 / 4,746 条
+olang/olang_NN.po  UI 文字 + 游戏内字幕    4 个文件 /  1,513 条   能写回
+codec/codec_NN.po  CODEC / 简报台词       12 个文件 /  4,746 条   只能看
+slot/slot_NN.po    SLOT.DAT 内嵌文本      26 个文件 / 10,073 条   能写回
 MANIFEST.tsv       分块索引（条目数 / 覆盖槽位数 / 原文字符数）
 ```
 
-一个文件约 400 条，可以一人认领一个文件并行推进。
+合计 16,332 条。一个文件约 400 条，可以一人认领一个文件并行推进。
+
+`slot/` 里带 `#. comic cutscene` 注释的那 1,858 条是**过场（漫画）台词**，
+主体在 `slot_05`–`slot_10`；其余是同一批内嵌文本里的 UI 说明文。
+它们的文本不在磁盘那 17 个 `.olang` 里，而是塞在 `MLG/disc0_rel/002aba34.DAT`
+中，详见 [`research/ANALYSIS/08_cutscene_text.md`](../research/ANALYSIS/08_cutscene_text.md)。
+
+> 以前这里有份 `pwsf.pot`，现在默认不再生成 —— 它只是所有语料合并成的空
+> 模板，`po_lint` / `po_import` 都不读它，在里面翻译不生效。需要时 `--pot`。
 
 ## 怎么翻
 

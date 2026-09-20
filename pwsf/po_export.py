@@ -14,17 +14,25 @@ slot that shares the same English text; every slot is still listed as a `#:`
 reference so the importer knows where to write back and the translator can see
 the context.  Use --no-merge to get one entry per slot instead.
 
-Output layout:
+Output layout (these are the files you translate in):
 
-    PO/pwsf.pot            template, all entries, untranslated
     PO/olang/olang_NN.po   UI + in-game subtitles, chunked
     PO/codec/codec_NN.po   CODEC / BRIEFING dialogue, chunked
+    PO/slot/slot_NN.po     olang tables embedded in SLOT.DAT, chunked
     PO/MANIFEST.tsv        chunk index with entry and character counts
+
+    PO/pwsf.pot            only with --pot: every corpus merged into one file
+                           with empty msgstr, for import into a translation
+                           platform.  Off by default because it duplicates
+                           every entry above, and neither po_lint nor
+                           po_import reads it -- translating in it does
+                           nothing.
 
 Reference syntax, parseable back to a binary slot:
 
     olang/<table_id>/<group>/<entry>
     codec/<group>/<sector>/<off>/<line>
+    slot/<table_id>/<group>/<entry>
 
 Newlines are REAL 0x0A in the source data (_probe_olang4.py), and .po escapes
 them as \n in the usual way, so a translator sees and types normal line breaks.
@@ -300,6 +308,13 @@ def main() -> None:
                          "ANALYSIS/08 §8.1)")
     ap.add_argument("--fresh", action="store_true",
                     help="do not carry over msgstr from the existing .po files")
+    ap.add_argument("--pot", action="store_true",
+                    help="also write pwsf.pot, everything merged into one "
+                         "file with empty msgstr, for import into a "
+                         "translation platform. Off by default: it duplicates "
+                         "every entry in the chunked files, and neither "
+                         "po_lint nor po_import reads it -- translating in it "
+                         "has no effect")
     args = ap.parse_args()
     config.require_game()
 
@@ -338,14 +353,16 @@ def main() -> None:
             print(f"  {fn.relative_to(args.outdir)}  {len(part):>4} entries, "
                   f"{refs:>4} slots, {chars:>6} chars")
 
-    pot = args.outdir / "pwsf.pot"
-    write_po(pot, all_entries, "template", "+".join(n for n, _ in corpora))
+    if args.pot:
+        pot = args.outdir / "pwsf.pot"
+        write_po(pot, all_entries, "template", "+".join(n for n, _ in corpora))
+        print(f"template {pot} ({len(all_entries)} entries) -- not read by "
+              f"po_lint / po_import")
     (args.outdir / "MANIFEST.tsv").write_text("\n".join(manifest) + "\n",
                                               encoding="utf-8")
 
     total_refs = sum(len(e["refs"]) for e in all_entries)
     total_chars = sum(len(e["msgid"]) for e in all_entries)
-    print(f"\ntemplate {pot} ({len(all_entries)} entries)")
     print(f"total: {len(all_entries)} entries covering {total_refs} slots, "
           f"{total_chars} source characters")
 
