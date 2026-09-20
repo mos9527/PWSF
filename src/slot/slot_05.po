@@ -1430,6 +1430,8 @@ msgid ""
 "They've got a supply port north of Puerto\n"
 "Limon, a town en la costa del mar Caribe."
 msgstr ""
+"他们在利蒙港以北有一处补给港，\n"
+"那是加勒比海沿岸的一座小镇。"
 
 #. comic cutscene
 #: slot/0x003af52d/0x625e80/0x000001
@@ -1437,16 +1439,18 @@ msgid ""
 "A few days ago, Paz stumbled upon that \n"
 "facility while searching for a lost friend. "
 msgstr ""
+"几天前，帕斯为了寻找失踪的朋友，\n"
+"偶然撞见了那处设施。"
 
 #. comic cutscene
 #: slot/0x003af52d/0x625e80/0x000002
 msgid "She was captured."
-msgstr ""
+msgstr "她被抓了。"
 
 #. comic cutscene
 #: slot/0x003af52d/0x625e80/0x000003
 msgid "She's only a child... sixteen years old. "
-msgstr ""
+msgstr "她只是个孩子……才十六岁。"
 
 #. comic cutscene
 #: slot/0x003af52d/0x625e80/0x000004
@@ -1454,11 +1458,13 @@ msgid ""
 "They did... terrible things to her. \n"
 "But somehow she managed to escape. "
 msgstr ""
+"他们对她……做了很可怕的事。\n"
+"可她还是想办法逃了出来。"
 
 #. comic cutscene
 #: slot/0x003af52d/0x625e80/0x000005
 msgid "My God..."
-msgstr ""
+msgstr "我的天……"
 
 #. comic cutscene
 #: slot/0x003af52d/0x625e80/0x000006
@@ -1466,6 +1472,8 @@ msgid ""
 "She's huerfana. \n"
 "Her mother died when she was small,"
 msgstr ""
+"她是个孤儿。\n"
+"母亲在她很小的时候就去世了，"
 
 #. comic cutscene
 #: slot/0x003af52d/0x625e80/0x000007
@@ -1473,11 +1481,13 @@ msgid ""
 "and she lost her grandparents \n"
 "in the civil war."
 msgstr ""
+"祖父母也\n"
+"在内战中离开了她。"
 
 #. comic cutscene
 #: slot/0x003af52d/0x625e80/0x000008
 msgid "She hates war with a passion like no other. "
-msgstr ""
+msgstr "她对战争的憎恨，比任何人都强烈。"
 
 #. comic cutscene
 #: slot/0x003af52d/0x7a8b99/0x000000
@@ -1485,31 +1495,33 @@ msgid ""
 "This is my student.\n"
 "She came to me to study peace. "
 msgstr ""
+"这是我的学生。\n"
+"她来我这里学习和平。"
 
 #. comic cutscene
 #: slot/0x003af52d/0x7a8b99/0x000001
 msgid "Her name is Paz. Paz Ortega."
-msgstr ""
+msgstr "她叫帕斯。帕斯·奥特加。"
 
 #. comic cutscene
 #: slot/0x003af52d/0x7a8b99/0x000002
 msgid "Paz...? \"Peace?\""
-msgstr ""
+msgstr "帕斯……？“和平”吗？"
 
 #. comic cutscene
 #: slot/0x003af52d/0x7a8b99/0x000003
 msgid "No kidding? That's my name, too."
-msgstr ""
+msgstr "不开玩笑？我的名字也是这个意思。"
 
 #. comic cutscene
 #: slot/0x003af52d/0x7a8b99/0x000004
 msgid "Kazuhira... it's Japanese for \"peace.\" "
-msgstr ""
+msgstr "Kazuhira……在日语里就是“和平”的意思。"
 
 #. comic cutscene
 #: slot/0x003af52d/0x7a8b99/0x000005
 msgid "Pleased to meet you, Paz. Call me Kaz. "
-msgstr ""
+msgstr "很高兴认识你，帕斯。叫我卡兹就好。"
 
 #. comic cutscene
 #: slot/0x003af52d/0x825e31/0x000000

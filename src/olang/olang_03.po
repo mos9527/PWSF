@@ -113,6 +113,8 @@ msgid ""
 "The game is currently paused.\n"
 "Skip the cutscene and proceed?"
 msgstr ""
+"游戏当前已暂停。\n"
+"要跳过这段过场吗？"
 
 #: olang/009c9ea4/0x413acf/0x052bda
 msgid ""
@@ -464,7 +466,7 @@ msgstr ""
 
 #: olang/009c9ea4/0x596f30/0x274464
 msgid "LOAD GAME"
-msgstr ""
+msgstr "读取存档"
 
 #: olang/009c9ea4/0x596f30/0x2a732f
 msgid "しばらくお待ちください。"
