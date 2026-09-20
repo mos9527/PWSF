@@ -15,9 +15,11 @@ METAL GEAR SOLID PEACE WALKER (STEAM) 本土化工作
  条记录全量解压；内嵌 144 张 `.olang` 表（其中 43 张是过场，英文 1,928 行）
  → `_cutscene_lines.tsv` / `_slot_olang_lines.tsv`，见
  `research/ANALYSIS/08_cutscene_text.md` §5.5 / §7
-- [ ] 过场文字【写回】：语料已进 .po（默认开），`pwsf.slotdat_build` 未实现；
- 方案 = 重排池 + 重压 + 重建容器（实测文件反而小 36 KB），
+- [x] 过场文字【写回】：`pwsf.slotdat_build`（重排池 + 重压 + 重建容器），
+ 已接进 `po_import`；端到端实测文件 +0 字节、2,137 条记录全部读回校验通过，
  见 `research/PLANS/08_cutscene_writeback.md`
+- [ ] 实机验证：把重建后的 `SLOT.DAT`/`SLOT.KEY` 装进游戏跑一次过场
+ （`python -m pwsf.install --install`），确认漫画气泡与底部字幕都出中文
 
 # Layout
 ```

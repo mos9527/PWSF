@@ -236,24 +236,30 @@ def res_kept(entry) -> bool:
 
 # --------------------------------------------------------- embedded olang text
 
-def pools(rec: SlotRecord, ks: bytes, path: Path = None) -> list:
-    """[(entry_id, offset, blob)] of a record's live resource entries.
+def slot_pools(data: bytes) -> list:
+    """[(entry_index, entry_id, offset, blob)] of an inflated slot's pools.
 
-    Entries carry no length; an entry runs up to the next one's offset.  The
+    Entries carry no length; a pool runs up to the next pool's offset.  The
     `0x7f000000` / `0` ids are sentinels (they are exactly what
     slotdat_find_res_entry's filter skips) and are dropped.
     """
-    data = inflate(decrypt(read_block(rec, path), ks))
     count, entries, area = res_table(data)
-    live = sorted((e for e in entries if e[0] and (e[0] >> 24) != 0x7F),
-                  key=lambda e: e[2] & 0x3FFFFFFF)
-    bounds = [e[2] & 0x3FFFFFFF for e in live]
+    live = [i for i in range(count)
+            if entries[i][0] and (entries[i][0] >> 24) != 0x7F]
+    live.sort(key=lambda i: entries[i][2] & 0x3FFFFFFF)
+    bounds = [entries[i][2] & 0x3FFFFFFF for i in live]
     ends = bounds[1:] + [max(len(data) - area, 0)]
     out = []
-    for e, off, stop in zip(live, bounds, ends):
-        out.append((e[0], off,
+    for i, off, stop in zip(live, bounds, ends):
+        out.append((i, entries[i][0], off,
                     data[area + off:area + max(stop, off)]))
     return out
+
+
+def pools(rec: SlotRecord, ks: bytes, path: Path = None) -> list:
+    """[(entry_id, offset, blob)] of a record's live resource entries."""
+    data = inflate(decrypt(read_block(rec, path), ks))
+    return [(eid, off, blob) for _i, eid, off, blob in slot_pools(data)]
 
 
 @dataclass(frozen=True)

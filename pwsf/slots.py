@@ -175,9 +175,6 @@ def slot_sources(lang: int = config.LANG_EN) -> dict:
     container: the TSV is the extraction product and holds the same rows plus
     the record/pool location of every copy.
 
-    NOT part of `sources()` yet -- po_import has no SLOT.DAT write-back
-    (`slotdat_build`), so exporting these into a .po would create entries the
-    pipeline cannot install.  po_export exposes them behind --slot.
     """
     path = config.SLOT_OLANG_TSV
     if not path.is_file():
@@ -198,7 +195,8 @@ def slot_sources(lang: int = config.LANG_EN) -> dict:
 
 @functools.lru_cache(maxsize=1)
 def sources() -> dict:
-    """Every exportable slot, both corpora, keyed by reference."""
+    """Every exportable slot, all three corpora, keyed by reference."""
     out = olang_sources()
     out.update(codec_sources())
+    out.update(slot_sources())
     return out

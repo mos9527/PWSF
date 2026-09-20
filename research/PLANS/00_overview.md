@@ -48,7 +48,7 @@ packfile_derive_xor_key @ 0x140123DB0 派生 —— 见 08 号 §5.5。
 | 05 | 字体 XPR2/ATG | ✅ 往返字节一致，中文字形 PoC **实机已验证** | [05_font.md](../ANALYSIS/05_font.md) | [05_font.md](05_font.md) |
 | 06 | 语料 .po 与编译链 | 🟢 olang 侧已闭环：导出 6,259 条 → 校验 → 编译 → 安装；CODEC 回写仍受阻 | — | [06_localization_pipeline.md](06_localization_pipeline.md) |
 | 07 | 启动参数 | ✅ 已核实 | [07_launch_args.md](../ANALYSIS/07_launch_args.md) | — |
-| 08 | 过场（漫画）文字 | 🟢 已提取：`SLOT.DAT` 两层 XOR 已破，内嵌 144 张 olang 表 → 过场 43 张 / 英文 1,928 行；写回**方案已定未实现** | [08_cutscene_text.md](../ANALYSIS/08_cutscene_text.md) | [08_cutscene_writeback.md](08_cutscene_writeback.md) |
+| 08 | 过场（漫画）文字 | 🟢 已闭环：两层 XOR 已破 → 内嵌 144 张 olang 表（过场 43 张 / 英文 1,928 行）→ `slotdat_build` 写回已通；**待实机验证** | [08_cutscene_text.md](../ANALYSIS/08_cutscene_text.md) | [08_cutscene_writeback.md](08_cutscene_writeback.md) |
 
 > 02 现状（已实证，见 02 号文档 §6）：
 > **影片字幕**——全盘 134 容器 / 113,348 条目中 `SUBTITLE` 零命中，
@@ -107,6 +107,7 @@ mgspw\
 | `pwsf.po_export` | 英文语料 → `src/` 下的 `.pot` 与分块 `.po` |
 | `pwsf.slots` | `.po` 引用 ↔ 二进制槽位，校验与写回共用一套解析 |
 | `pwsf.slotdat` | `SLOT.DAT` / `SLOT.KEY`：索引、两层 XOR 密钥流、记录解压（08 号 §5） |
+| `pwsf.slotdat_build` | 内嵌 olang 的写回：重排池 + 重压 + 重建整个容器（08 号 §8.1） |
 | `pwsf.po_lint` | 译文编译前的全部校验（06 号 §6），error 即阻断 |
 | `pwsf.po_import` | 译文 → 重建 olang + 字体 → `BUILD/` 与 `MANIFEST.tsv` |
 | `pwsf.install` | 按清单备份 / 写入 / 校验 / 还原游戏文件 |

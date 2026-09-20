@@ -49,6 +49,8 @@ from .font_build import (build_font, rebuild_font, verify_coverage,
                          verify_rebuild)
 from .olang import parse, string_at
 from .olang_build import OlangBuilder
+from . import slotdat as S
+from . import slotdat_build
 
 MANIFEST = "MANIFEST.tsv"
 MANIFEST_HEADER = "dest\tbuilt\tkind\tsize\tsha256\torig_sha256"
@@ -68,6 +70,21 @@ def by_table(translations: dict) -> dict:
         out.setdefault(parsed.table, []).append((parsed, text))
     return {k: sorted(v, key=lambda it: (it[0].group, it[0].entry))
             for k, v in sorted(out.items())}
+
+
+def by_slot(translations: dict) -> dict:
+    """SLOT.DAT translations: {(table_id, group, entry): text}.
+
+    These live in the olang tables embedded in SLOT.DAT (ANALYSIS/08 §7) and
+    need a whole-container rebuild, not a per-file rewrite.
+    """
+    out = {}
+    for ref, text in translations.items():
+        parsed = slots.parse_ref(ref)
+        if parsed.kind != slots.SLOT:
+            continue
+        out[(parsed.table, parsed.group, parsed.entry)] = text
+    return out
 
 
 # ------------------------------------------------------------------- olang
@@ -206,13 +223,26 @@ def main() -> None:
         raise SystemExit("\nnothing translated yet, nothing to build")
 
     tables = by_table(rep.translations)
-    if not tables:
+    slot_items = by_slot(rep.translations)
+    if not tables and not slot_items:
         raise SystemExit("\nonly CODEC slots are translated, and CODEC "
                          "write-back is still blocked; nothing to build")
 
     args.outdir.mkdir(parents=True, exist_ok=True)
     print(f"\nbuilding into {args.outdir} ({config.LANG_KEYS[lang]} slot)")
     rows, problems, codepoints = [], [], set()
+
+    if slot_items:
+        print(f"\nSLOT.DAT: {len(slot_items)} string(s) -- rebuilding the "
+              f"container (this re-reads all 2,137 records twice)")
+        dat, key, stats = slotdat_build.rebuild(slot_items, lang, args.outdir)
+        problems += slotdat_build.verify(dat, key, slot_items, lang)
+        codepoints |= {ord(c) for t in slot_items.values() for c in t}
+        rows.append(manifest_row(dat, S.dat_path(), "slotdat", S.dat_path()))
+        rows.append(manifest_row(key, S.key_path(), "slotdat", S.key_path()))
+        print(f"  {stats['patched']} record(s) repacked, {stats['strings']} "
+              f"string(s) written")
+
     for stem, items in tables.items():
         built, written = build_table(stem, items, lang, args.outdir)
         problems += verify_table(stem, built, written, lang)
