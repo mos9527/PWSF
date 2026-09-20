@@ -85,6 +85,7 @@ python -m pwsf.po_export --fresh                   # 不保留已有译文（默
 
 # 汉化管线：校验 -> 编译 -> 安装
 python -m pwsf.po_import --install   # 一条龙：体检 + 编译 + 复验 + 装进游戏
+python -m pwsf.po_import --install --launch  # ... 再顺手通过 Steam 开游戏
 python -m pwsf.install --restore     # 还原
 
 python -m pwsf.launch --dry-run     # 看启动命令（不真的跑）
@@ -142,7 +143,8 @@ python -m pwsf.install --install
 python -m pwsf.install --restore
 ```
 
-第 3、4 步可以合并成 `python -m pwsf.po_import --install`。
+第 3、4 步可以合并成 `python -m pwsf.po_import --install`；
+想装完立刻开游戏就再加 `--launch`（走 Steam，见下节）。
 
 只译了几条也能跑：未填 `msgstr` 的槽位保持英文，可以边翻边看。
 
@@ -198,15 +200,20 @@ python -m pwsf.install --restore
 ## 启动游戏
 
 ```powershell
-python -m pwsf.launch            # 直接启动
-python -m pwsf.launch --dry-run  # 只打印命令
-python -m pwsf.launch --wait     # 挂到游戏退出
-python -m pwsf.launch -- -lan fr # 换参数（-- 之后原样传给游戏）
+python -m pwsf.launch             # 直接启动
+python -m pwsf.launch --steam     # 走 Steam（steam://run/2492660）
+python -m pwsf.launch --dry-run   # 只打印命令
+python -m pwsf.launch --wait      # 挂到游戏退出
+python -m pwsf.launch -- -lan fr  # 换参数（-- 之后原样传给游戏）
 ```
 
 两个坑它替你绕掉了：**工作目录必须是游戏目录**（字体按 `"."` 查找），
 且 `-lan` 必须给、必须拼对（`en fr gr it sp pt`），否则会静默落到日语分支
-——而日语资源在 Steam 版并未发布。完整参数说明见
+——而日语资源在 Steam 版并未发布。
+
+`--steam` 与直接启动的区别：走 Steam 的话 overlay、云存档、手柄配置都在，
+且跑的是 `launcher.exe`（装了 shim 就是 shim）；没装 Steam 或想绕开它时
+用默认方式。完整参数说明见
 [`research/ANALYSIS/07_launch_args.md`](research/ANALYSIS/07_launch_args.md)。
 
 ### 跳过 Steam 启动器

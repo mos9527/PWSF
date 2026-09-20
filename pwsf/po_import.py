@@ -209,6 +209,11 @@ def main() -> None:
     ap.add_argument("--force", action="store_true",
                     help="with --install, overwrite game files whose content "
                          "is not recognised (the original may be lost)")
+    ap.add_argument("--launch", action="store_true",
+                    help="when everything is in place, start the game through "
+                         "Steam (steam://run/<appid>) -- goes via Steam so the "
+                         "overlay and cloud saves apply, and it runs "
+                         "launcher.exe, i.e. the shim if one is installed")
     args = ap.parse_args()
     config.require_game()
     lang = po_lint.lang_key(args.lang)
@@ -284,6 +289,10 @@ def main() -> None:
     print(f"\ninstalling into {config.GAME_DIR}")
     install.install(install.read_manifest(args.outdir), args.force)
     print("restore with: python -m pwsf.install --restore")
+
+    if args.launch:
+        from .launch import launch_via_steam
+        launch_via_steam()
 
 
 if __name__ == "__main__":

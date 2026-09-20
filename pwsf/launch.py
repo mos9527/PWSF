@@ -26,12 +26,16 @@ Two things live here.
 """
 
 import argparse
+import os
 import shutil
 import subprocess
 import sys
 from pathlib import Path
 
 from . import config
+
+# METAL GEAR SOLID PEACE WALKER on Steam
+STEAM_APP_ID = 2492660
 
 GAME_EXE = "METAL GEAR SOLID PEACE WALKER.exe"
 # ANALYSIS/07_launch_args.md: -lan must be spelled right or the game silently
@@ -82,6 +86,22 @@ def launch(args: list, wait: bool = False, dry_run: bool = False) -> int:
     if not wait:
         return 0
     return proc.wait()
+
+
+def launch_via_steam(appid: int = STEAM_APP_ID, dry_run: bool = False) -> None:
+    """Start the game through Steam: `steam://run/<appid>`.
+
+    Unlike `launch()` this goes through Steam, so the overlay, cloud saves
+    and controller configuration apply, and Steam is started if it is not
+    running.  Steam in turn runs launcher.exe -- which is the shim if one is
+    installed, so this stays useful after --install-shim.
+    """
+    url = f"steam://run/{appid}"
+    if dry_run:
+        print(url)
+        return
+    print(f"starting {url}")
+    os.startfile(url)          # ShellExecute; starts Steam when needed
 
 
 # ---------------------------------------------------------------------- shim
@@ -188,6 +208,9 @@ def main() -> None:
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--wait", action="store_true",
                     help="stay attached until the game exits")
+    ap.add_argument("--steam", action="store_true",
+                    help=f"start through Steam (steam://run/{STEAM_APP_ID}) "
+                         f"instead of running the exe directly")
     ap.add_argument("--status", action="store_true")
     ap.add_argument("--build-shim", action="store_true")
     ap.add_argument("--install-shim", action="store_true")
@@ -205,6 +228,10 @@ def main() -> None:
         return
     if args.install_shim:
         install_shim(args.gameargs or DEFAULT_ARGS)
+        return
+
+    if args.steam:
+        launch_via_steam(dry_run=args.dry_run)
         return
 
     launch(args.gameargs or DEFAULT_ARGS, args.wait, args.dry_run)
