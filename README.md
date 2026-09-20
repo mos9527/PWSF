@@ -87,6 +87,9 @@ python -m pwsf.po_export --fresh                   # 不保留已有译文（默
 python -m pwsf.po_import --install   # 一条龙：体检 + 编译 + 复验 + 装进游戏
 python -m pwsf.install --restore     # 还原
 
+python -m pwsf.launch --dry-run     # 看启动命令（不真的跑）
+python -m pwsf.launch --status      # 启动器状态：原厂 / shim
+
 python -m pwsf.po_lint             # 只体检，有 error 就别编译
 python -m pwsf.po_import           # 只编译 -> research/BUILD/*.olang + *.xpr + MANIFEST.tsv
 python -m pwsf.install             # 只看状态，不写任何东西
@@ -188,21 +191,46 @@ python -m pwsf.install --restore
 | `pwsf.slotdat` / `pwsf.slotdat_build` | `SLOT.DAT`（过场文字所在）：两层 XOR 解密 / 重建整个容器 |
 | `pwsf.po_import` | 译文 → 重建 olang + SLOT.DAT + 字体 + 清单 |
 | `pwsf.install` | 按清单备份 / 写入 / 校验 / 还原 |
+| `pwsf.launch` | 启动游戏；`--install-shim` 用自编 shim 顶替 Steam 启动器 |
 
 `research/TOOLS/pwsf_*.py` 只是指向本包的兼容垫片，让既有探针零改动运行。
 
-## 直接启动游戏（绕过启动器）
-
-**工作目录必须是游戏目录**，否则字体加载失败（安装根目录默认是 `"."`）。
+## 启动游戏
 
 ```powershell
-cd "C:\Program Files (x86)\Steam\steamapps\common\MGS_PW\mgspw"
-& ".\METAL GEAR SOLID PEACE WALKER.exe" -lan en -region eu -selfregion EU -ctrltype XS
+python -m pwsf.launch            # 直接启动
+python -m pwsf.launch --dry-run  # 只打印命令
+python -m pwsf.launch --wait     # 挂到游戏退出
+python -m pwsf.launch -- -lan fr # 换参数（-- 之后原样传给游戏）
 ```
 
-`-lan` 必须给且拼对（`en fr gr it sp pt`），否则会静默落到日语分支，
-而日语资源在 Steam 版并未发布。完整参数说明见
+两个坑它替你绕掉了：**工作目录必须是游戏目录**（字体按 `"."` 查找），
+且 `-lan` 必须给、必须拼对（`en fr gr it sp pt`），否则会静默落到日语分支
+——而日语资源在 Steam 版并未发布。完整参数说明见
 [`research/ANALYSIS/07_launch_args.md`](research/ANALYSIS/07_launch_args.md)。
+
+### 跳过 Steam 启动器
+
+Steam 点「开始游戏」跑的是 `launcher\launcher.exe`（一个 Unity IL2CPP
+前端）。可以把它换成我们自己编的小 shim，直接起游戏：
+
+```powershell
+python -m pwsf.launch --install-shim   # 编译 + 备份 launcher.exe.orig + 替换
+python -m pwsf.launch --status         # 当前是原厂启动器还是 shim
+python -m pwsf.launch --restore-shim   # 还原
+python -m pwsf.launch --build-shim     # 只编译到 research/BUILD/
+```
+
+- 需要 Visual Studio 的 `cl`（自动探测 `VsDevCmd.bat`）
+- 源码 `pwsf/shim/launcher_shim.c`，**不反编译原启动器**，只是「切目录 →
+  起游戏 → 等它退出」，等退出是为了让 Steam 一直显示「运行中」
+- 编出来是 `/subsystem:windows`，不会闪控制台窗口
+- 行为由 `launcher\pwsf_launch.ini` 控制（`dir` / `exe` / `args`），
+  改启动参数改 ini 就行，不用重新编译
+- 备份与还原沿用全局约定：`launcher.exe.orig` + `--restore-shim`
+
+shim 的功能验证（`_probe_cl.py` 与 shim 源码里的说明）：以 `cmd.exe` 代替
+游戏跑一遍，检查读 ini、切工作目录、CreateProcess、等待并回传退出码。
 
 ## 从哪读起
 
