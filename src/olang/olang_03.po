@@ -452,7 +452,7 @@ msgstr ""
 
 #: olang/009c9ea4/0x596f30/0x11d653
 msgid "Load game data?"
-msgstr ""
+msgstr "加载此存档？"
 
 #: olang/009c9ea4/0x596f30/0x170fd9
 msgid "NEW SAVE"
@@ -480,7 +480,7 @@ msgstr ""
 
 #: olang/009c9ea4/0x596f30/0x58f26e
 msgid "Failed to load game data."
-msgstr ""
+msgstr "存档读取失败。"
 
 #: olang/009c9ea4/0x596f30/0x5dbf5f
 #: olang/009c9ea4/0x596f30/0xd95ad8
@@ -524,43 +524,43 @@ msgstr ""
 
 #: olang/009c9ea4/0x596f30/0x9e630a
 msgid "Please select the data you wish to load."
-msgstr ""
+msgstr "选择您想要【加载】的存档。"
 
 #: olang/009c9ea4/0x596f30/0xa1adab
 msgid "Please select the data you wish to save."
-msgstr ""
+msgstr "选择您想要【保存】的存档。"
 
 #: olang/009c9ea4/0x596f30/0xa67665
 msgid "Load complete."
-msgstr ""
+msgstr "加载成功。"
 
 #: olang/009c9ea4/0x596f30/0xadfa88
 msgid "Failed to save game data."
-msgstr ""
+msgstr "存档失败。"
 
 #: olang/009c9ea4/0x596f30/0xb2d99d
 msgid "Save game data?"
-msgstr ""
+msgstr "要存档吗？"
 
 #: olang/009c9ea4/0x596f30/0xb3a0e9
 msgid "Save complete."
-msgstr ""
+msgstr "存档成功。"
 
 #: olang/009c9ea4/0x596f30/0xb540bd
 msgid "Are you sure you want to delete your saved data?"
-msgstr ""
+msgstr "确定删除存档数据？"
 
 #: olang/009c9ea4/0x596f30/0xb607f8
 msgid "No saved data."
-msgstr ""
+msgstr "无存档。"
 
 #: olang/009c9ea4/0x596f30/0xbcdff8
 msgid "<I=DEC> Confirm"
-msgstr ""
+msgstr "<I=DEC> 确认"
 
 #: olang/009c9ea4/0x596f30/0xe5e21a
 msgid "Saved data deleted."
-msgstr ""
+msgstr "存档数据已删除。"
 
 #: olang/009c9ea4/0x596f30/0xf100ae
 msgid "Total Play Time : [total_play_time]"
@@ -1220,6 +1220,8 @@ msgid ""
 "This game saves data automatically.\n"
 "Do not close the game during this time."
 msgstr ""
+"游戏会自动保存数据\n"
+"届时，请不要关闭游戏"
 
 #: olang/009c9ea4/0x8b79b6/0xbba0fd
 #: olang/009c9ea4/0xa49217/0x836b27

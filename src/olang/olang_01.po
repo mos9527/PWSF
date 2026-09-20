@@ -1,18 +1,20 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PWSF olang 1/4\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-PWSF-Source: olang\n"
 "X-PWSF-Entries: 400\n"
+"X-Generator: Poedit 3.9\n"
 
-
-#: olang/0005ee2f/0xc6de03/0x02d356
-#: olang/0005ee2f/0xc6de03/0x17b115
-#: olang/0005ee2f/0xc6de03/0x262ccd
-#: olang/0005ee2f/0xc6de03/0xae4364
+#: olang/0005ee2f/0xc6de03/0x02d356 olang/0005ee2f/0xc6de03/0x17b115
+#: olang/0005ee2f/0xc6de03/0x262ccd olang/0005ee2f/0xc6de03/0xae4364
 msgid "Human voice"
 msgstr ""
 
@@ -28,8 +30,7 @@ msgid ""
 "To restore the default display settings, press <I=△>."
 msgstr ""
 
-#: olang/0005ee2f/0xc6de03/0x1889b7
-#: olang/0005ee2f/0xc6de03/0x3726d7
+#: olang/0005ee2f/0xc6de03/0x1889b7 olang/0005ee2f/0xc6de03/0x3726d7
 msgid "Magazines"
 msgstr ""
 
@@ -37,15 +38,12 @@ msgstr ""
 msgid "Pupa Voices"
 msgstr ""
 
-#: olang/0005ee2f/0xc6de03/0x1aa0b2
-#: olang/0005ee2f/0xc6de03/0x2f7e71
-#: olang/0005ee2f/0xc6de03/0x3dfa29
-#: olang/0005ee2f/0xc6de03/0xc610c0
+#: olang/0005ee2f/0xc6de03/0x1aa0b2 olang/0005ee2f/0xc6de03/0x2f7e71
+#: olang/0005ee2f/0xc6de03/0x3dfa29 olang/0005ee2f/0xc6de03/0xc610c0
 msgid "Default voice"
 msgstr ""
 
-#: olang/0005ee2f/0xc6de03/0x27f9e4
-#: olang/0005ee2f/0xc6de03/0x7c6806
+#: olang/0005ee2f/0xc6de03/0x27f9e4 olang/0005ee2f/0xc6de03/0x7c6806
 #: olang/0005ee2f/0xc6de03/0xdba915
 msgid "Change which AI weapon voices are used in the game."
 msgstr ""
@@ -61,8 +59,7 @@ msgstr ""
 msgid "Edit screen display settings and change which AI weapon voices are used in the game."
 msgstr ""
 
-#: olang/0005ee2f/0xc6de03/0x3850a3
-#: olang/009c9ea4/0xc6de03/0x3850a3
+#: olang/0005ee2f/0xc6de03/0x3850a3 olang/009c9ea4/0xc6de03/0x3850a3
 msgid "Basilisk Voices"
 msgstr ""
 
@@ -74,8 +71,7 @@ msgstr ""
 msgid "Return to title menu"
 msgstr ""
 
-#: olang/0005ee2f/0xc6de03/0x3db471
-#: olang/0005ee2f/0xc6de03/0x91b2b1
+#: olang/0005ee2f/0xc6de03/0x3db471 olang/0005ee2f/0xc6de03/0x91b2b1
 msgid "AI Weapon Voices"
 msgstr ""
 
@@ -83,8 +79,7 @@ msgstr ""
 msgid "TEXTURES"
 msgstr ""
 
-#: olang/0005ee2f/0xc6de03/0x50a352
-#: olang/0005ee2f/0xc6de03/0xb7f4ae
+#: olang/0005ee2f/0xc6de03/0x50a352 olang/0005ee2f/0xc6de03/0xb7f4ae
 #: olang/00cb1fb7/0x68bb2b/0x010dcc
 msgid "All"
 msgstr ""
@@ -113,10 +108,8 @@ msgstr ""
 msgid "Data Management"
 msgstr ""
 
-#: olang/00327f6a/0xb39048/0xc81e47
-#: olang/0060e2f2/0xd449d6/0x42ab9e
-#: olang/00cb1fb7/0x68bb2b/0x42ab9e
-#: olang/00cb1fb7/0x68bb2b/0xc81e47
+#: olang/00327f6a/0xb39048/0xc81e47 olang/0060e2f2/0xd449d6/0x42ab9e
+#: olang/00cb1fb7/0x68bb2b/0x42ab9e olang/00cb1fb7/0x68bb2b/0xc81e47
 msgid ""
 "Unable to find a HOST.\n"
 "Try again after changing the search conditions or waiting for a short period of time."
@@ -132,8 +125,7 @@ msgstr ""
 msgid "Failed to connect."
 msgstr ""
 
-#: olang/0043da6e/0xc3d5b4/0x024ebc
-#: olang/0043da6e/0xc3d5b4/0xd851e8
+#: olang/0043da6e/0xc3d5b4/0x024ebc olang/0043da6e/0xc3d5b4/0xd851e8
 #: olang/005184e3/0x029324/0x8a774e
 msgid "Unable to connect to Xbox LIVE."
 msgstr ""
@@ -168,8 +160,7 @@ msgstr ""
 msgid "You cannot receive this invite as you are already in a room."
 msgstr ""
 
-#: olang/0043da6e/0xc3d5b4/0x932c67
-#: olang/009c9ea4/0xc3d5b4/0x932c67
+#: olang/0043da6e/0xc3d5b4/0x932c67 olang/009c9ea4/0xc3d5b4/0x932c67
 msgid "You cannot join this game as the mode cannot be played while using the current save data."
 msgstr ""
 
@@ -260,18 +251,15 @@ msgid ""
 "Press <I=DEC> to start hosting."
 msgstr ""
 
-#: olang/005184e3/0x19f879/0xc297b4
-#: olang/009c9ea4/0x19f879/0xc297b4
+#: olang/005184e3/0x19f879/0xc297b4 olang/009c9ea4/0x19f879/0xc297b4
 msgid "Press the <I=DEC> button to change the password."
 msgstr ""
 
-#: olang/005184e3/0x1a3e77/0x6a33a6
-#: olang/009c9ea4/0x1a3e77/0x6a33a6
+#: olang/005184e3/0x1a3e77/0x6a33a6 olang/009c9ea4/0x1a3e77/0x6a33a6
 msgid "Enlarge: <I=L2>"
 msgstr ""
 
-#: olang/005184e3/0x1a3e77/0x6a33a7
-#: olang/009c9ea4/0x1a3e77/0x6a33a7
+#: olang/005184e3/0x1a3e77/0x6a33a7 olang/009c9ea4/0x1a3e77/0x6a33a7
 msgid "Reduce: <I=R2>"
 msgstr ""
 
@@ -279,8 +267,7 @@ msgstr ""
 msgid "Rotate Camera: Right stick"
 msgstr ""
 
-#: olang/005184e3/0x1a3e77/0x6a33a9
-#: olang/005184e3/0x5f753b/0x88adbe
+#: olang/005184e3/0x1a3e77/0x6a33a9 olang/005184e3/0x5f753b/0x88adbe
 msgid "Switch Cameras: Directional pad left/right"
 msgstr ""
 
@@ -292,19 +279,14 @@ msgstr ""
 msgid "Accepted a volunteer. Volunteers increase as you play online."
 msgstr ""
 
-#: olang/005184e3/0x20dacf/0xa08aca
-#: olang/005184e3/0x43f3a5/0x47e5fe
-#: olang/005184e3/0xe6e4ed/0xb96848
-#: olang/009c9ea4/0x20dacf/0xa08aca
-#: olang/009c9ea4/0x43f3a5/0x47e5fe
-#: olang/009c9ea4/0xe6e4ed/0xb96848
+#: olang/005184e3/0x20dacf/0xa08aca olang/005184e3/0x43f3a5/0x47e5fe
+#: olang/005184e3/0xe6e4ed/0xb96848 olang/009c9ea4/0x20dacf/0xa08aca
+#: olang/009c9ea4/0x43f3a5/0x47e5fe olang/009c9ea4/0xe6e4ed/0xb96848
 msgid "Confirm or change controls."
 msgstr ""
 
-#: olang/005184e3/0x20dacf/0xac79ca
-#: olang/005184e3/0x43f3a5/0x506452
-#: olang/005184e3/0xe6e4ed/0xb7fd8f
-#: olang/005184e3/0xfb5d7b/0x96ec94
+#: olang/005184e3/0x20dacf/0xac79ca olang/005184e3/0x43f3a5/0x506452
+#: olang/005184e3/0xe6e4ed/0xb7fd8f olang/005184e3/0xfb5d7b/0x96ec94
 msgid "BUTTON CONFIG"
 msgstr ""
 
@@ -314,41 +296,34 @@ msgid ""
 "The WALKMAN cannot be equipped."
 msgstr ""
 
-#: olang/005184e3/0x215635/0x17015a
-#: olang/009c9ea4/0x215635/0x17015a
+#: olang/005184e3/0x215635/0x17015a olang/009c9ea4/0x215635/0x17015a
 msgid ""
 "Snake encounters a mysterious \"visitor\" on the coast of Costa Rica.\n"
 "\n"
 "<I=CPY>CAPCOM CO., LTD."
 msgstr ""
 
-#: olang/005184e3/0x215635/0x18015a
-#: olang/009c9ea4/0x215635/0x18015a
+#: olang/005184e3/0x215635/0x18015a olang/009c9ea4/0x215635/0x18015a
 msgid ""
 "Snake accepts an invitation from Trenya and heads to Isla del Monstruo.\n"
 "  From <<Hunting Quests>>\n"
 "<I=CPY>CAPCOM CO., LTD."
 msgstr ""
 
-#: olang/005184e3/0x215635/0x3cb479
-#: olang/005184e3/0x215635/0xd1f145
+#: olang/005184e3/0x215635/0x3cb479 olang/005184e3/0x215635/0xd1f145
 msgid "MSF Entrance Exam"
 msgstr ""
 
-#: olang/005184e3/0x215635/0x4a3800
-#: olang/005184e3/0x215635/0xe00d7b
+#: olang/005184e3/0x215635/0x4a3800 olang/005184e3/0x215635/0xe00d7b
 msgid "[097] Tank Battle: MBTk-70"
 msgstr ""
 
-#: olang/005184e3/0x215635/0x4a3dc0
-#: olang/005184e3/0x215635/0xf70d7b
+#: olang/005184e3/0x215635/0x4a3dc0 olang/005184e3/0x215635/0xf70d7b
 msgid "[098] Tank Battle: MBTk-70 Custom"
 msgstr ""
 
-#: olang/005184e3/0x215635/0x95b11d
-#: olang/005184e3/0x215635/0x9ab11d
-#: olang/009c9ea4/0x215635/0x95b11d
-#: olang/009c9ea4/0x215635/0x9ab11d
+#: olang/005184e3/0x215635/0x95b11d olang/005184e3/0x215635/0x9ab11d
+#: olang/009c9ea4/0x215635/0x95b11d olang/009c9ea4/0x215635/0x9ab11d
 msgid ""
 "  Mission Location: Isla del Monstruo\n"
 "<C=FF4040>Hunt the Rathalos<C=R>.\n"
@@ -356,10 +331,8 @@ msgid ""
 "<I=CPY>CAPCOM CO., LTD."
 msgstr ""
 
-#: olang/005184e3/0x215635/0xb5b11d
-#: olang/005184e3/0x215635/0xbab11d
-#: olang/009c9ea4/0x215635/0xb5b11d
-#: olang/009c9ea4/0x215635/0xbab11d
+#: olang/005184e3/0x215635/0xb5b11d olang/005184e3/0x215635/0xbab11d
+#: olang/009c9ea4/0x215635/0xb5b11d olang/009c9ea4/0x215635/0xbab11d
 msgid ""
 "  Mission Location: Isla del Monstruo\n"
 "<C=FF4040>Hunt the Tigrex<C=R>.\n"
@@ -367,10 +340,8 @@ msgid ""
 "<I=CPY>CAPCOM CO., LTD."
 msgstr ""
 
-#: olang/005184e3/0x215635/0xd5b11d
-#: olang/005184e3/0x215635/0xdab11d
-#: olang/009c9ea4/0x215635/0xd5b11d
-#: olang/009c9ea4/0x215635/0xdab11d
+#: olang/005184e3/0x215635/0xd5b11d olang/005184e3/0x215635/0xdab11d
+#: olang/009c9ea4/0x215635/0xd5b11d olang/009c9ea4/0x215635/0xdab11d
 msgid ""
 "  Mission Location: Isla del Monstruo\n"
 "<C=FF4040>Hunt the Gear REX<C=R>.\n"
@@ -378,62 +349,51 @@ msgid ""
 "<I=CPY>CAPCOM CO., LTD."
 msgstr ""
 
-#: olang/005184e3/0x291428/0x50818e
-#: olang/005184e3/0x9dc379/0xdb198e
+#: olang/005184e3/0x291428/0x50818e olang/005184e3/0x9dc379/0xdb198e
 #: olang/005184e3/0xc99c23/0x50818e
 msgid "BACK button"
 msgstr ""
 
-#: olang/005184e3/0x2a29c5/0x000000
-#: olang/005184e3/0x2a4a05/0x000000
-#: olang/005184e3/0x2a6a45/0x000000
-#: olang/005184e3/0x2d4a85/0x000000
-#: olang/005184e3/0x3127c5/0x000000
-#: olang/005184e3/0x314805/0x000000
-#: olang/005184e3/0x316845/0x000000
-#: olang/005184e3/0x344885/0x000000
+#: olang/005184e3/0x2a29c5/0x000000 olang/005184e3/0x2a4a05/0x000000
+#: olang/005184e3/0x2a6a45/0x000000 olang/005184e3/0x2d4a85/0x000000
+#: olang/005184e3/0x3127c5/0x000000 olang/005184e3/0x314805/0x000000
+#: olang/005184e3/0x316845/0x000000 olang/005184e3/0x344885/0x000000
 msgid "Hey, lemme borrow that."
 msgstr ""
 
-#: olang/005184e3/0x2d0e66/0xf19383
-#: olang/005184e3/0x2d0e6b/0xf19383
+#: olang/005184e3/0x2d0e66/0xf19383 olang/005184e3/0x2d0e6b/0xf19383
 msgid "Right stick"
 msgstr ""
 
-#: olang/005184e3/0x2d0e67/0xf29383
-#: olang/005184e3/0x2d0e69/0xf29383
+#: olang/005184e3/0x2d0e67/0xf29383 olang/005184e3/0x2d0e69/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "Right stick up: Look Up\n"
 "Right stick down: Look Down"
 msgstr ""
 
-#: olang/005184e3/0x2d0e68/0xf29383
-#: olang/005184e3/0x2d0e6a/0xf29383
+#: olang/005184e3/0x2d0e68/0xf29383 olang/005184e3/0x2d0e6a/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "Right stick up: Look Down\n"
 "Right stick down: Look Up"
 msgstr ""
 
-#: olang/005184e3/0x2d0e6c/0xf29383
-#: olang/005184e3/0x2d0e6e/0xf29383
+#: olang/005184e3/0x2d0e6c/0xf29383 olang/005184e3/0x2d0e6e/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "Right stick left: Look Left\n"
 "Right stick right: Look Right"
 msgstr ""
 
-#: olang/005184e3/0x2d0e6d/0xf29383
-#: olang/005184e3/0x2d0e85/0xf29383
+#: olang/005184e3/0x2d0e6d/0xf29383 olang/005184e3/0x2d0e85/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "Right stick left: Look Right\n"
 "Right stick right: Look Left"
 msgstr ""
 
-#: olang/005184e3/0x2d0e87/0xf19383
-#: olang/005184e3/0x2d0ea5/0xf19383
+#: olang/005184e3/0x2d0e87/0xf19383 olang/005184e3/0x2d0ea5/0xf19383
 msgid "Left stick"
 msgstr ""
 
@@ -453,15 +413,12 @@ msgstr ""
 msgid "Left stick + Hand-to-hand Attack Button"
 msgstr ""
 
-#: olang/005184e3/0x4282bf/0x000000
-#: olang/005184e3/0x4a8abf/0x000000
-#: olang/005184e3/0xb666bf/0x000000
-#: olang/005184e3/0xbe6ebf/0x000000
+#: olang/005184e3/0x4282bf/0x000000 olang/005184e3/0x4a8abf/0x000000
+#: olang/005184e3/0xb666bf/0x000000 olang/005184e3/0xbe6ebf/0x000000
 msgid "Don't move!"
 msgstr ""
 
-#: olang/005184e3/0x43f3a5/0x394f17
-#: olang/0072f326/0xa49217/0x2de9a9
+#: olang/005184e3/0x43f3a5/0x394f17 olang/0072f326/0xa49217/0x2de9a9
 msgid ""
 "Select your control scheme.  \n"
 "\n"
@@ -472,24 +429,17 @@ msgid ""
 "HUNTER TYPE: The configuration is similar to that of the MONSTER HUNTER FREEDOM<I=TM> series."
 msgstr ""
 
-#: olang/005184e3/0x4686bf/0x000000
-#: olang/005184e3/0x4e8ebf/0x000000
-#: olang/005184e3/0xb262bf/0x000000
-#: olang/005184e3/0xba6abf/0x000000
-#: olang/005184e3/0xc2c774/0x000000
-#: olang/009c9ea4/0x903077/0x000014
+#: olang/005184e3/0x4686bf/0x000000 olang/005184e3/0x4e8ebf/0x000000
+#: olang/005184e3/0xb262bf/0x000000 olang/005184e3/0xba6abf/0x000000
+#: olang/005184e3/0xc2c774/0x000000 olang/009c9ea4/0x903077/0x000014
 #: olang/009c9ea4/0xbc4a75/0x000008
 msgid "Freeze!"
 msgstr ""
 
-#: olang/005184e3/0x4882d7/0x000000
-#: olang/005184e3/0x4e86d7/0x000000
-#: olang/005184e3/0x7062d8/0x000000
-#: olang/005184e3/0x7666d8/0x000000
-#: olang/005184e3/0x7c6ad8/0x000000
-#: olang/005184e3/0x808ad7/0x000000
-#: olang/005184e3/0x826ed8/0x000000
-#: olang/005184e3/0x868ed7/0x000000
+#: olang/005184e3/0x4882d7/0x000000 olang/005184e3/0x4e86d7/0x000000
+#: olang/005184e3/0x7062d8/0x000000 olang/005184e3/0x7666d8/0x000000
+#: olang/005184e3/0x7c6ad8/0x000000 olang/005184e3/0x808ad7/0x000000
+#: olang/005184e3/0x826ed8/0x000000 olang/005184e3/0x868ed7/0x000000
 msgid "Next!"
 msgstr ""
 
@@ -501,29 +451,19 @@ msgstr ""
 msgid "Press the X button to select which soldier to assign."
 msgstr ""
 
-#: olang/005184e3/0x5f753b/0x28adbc
-#: olang/005184e3/0x5f753b/0x48adbc
-#: olang/005184e3/0x5f753b/0x88adbc
-#: olang/005184e3/0x5f753b/0xa8adbc
-#: olang/005184e3/0x5f753b/0xc8adbc
-#: olang/009c9ea4/0x5f753b/0x28adbc
-#: olang/009c9ea4/0x5f753b/0x48adbc
-#: olang/009c9ea4/0x5f753b/0x88adbc
-#: olang/009c9ea4/0x5f753b/0xa8adbc
-#: olang/009c9ea4/0x5f753b/0xc8adbc
+#: olang/005184e3/0x5f753b/0x28adbc olang/005184e3/0x5f753b/0x48adbc
+#: olang/005184e3/0x5f753b/0x88adbc olang/005184e3/0x5f753b/0xa8adbc
+#: olang/005184e3/0x5f753b/0xc8adbc olang/009c9ea4/0x5f753b/0x28adbc
+#: olang/009c9ea4/0x5f753b/0x48adbc olang/009c9ea4/0x5f753b/0x88adbc
+#: olang/009c9ea4/0x5f753b/0xa8adbc olang/009c9ea4/0x5f753b/0xc8adbc
 msgid "Zoom In: <I=R2>"
 msgstr ""
 
-#: olang/005184e3/0x5f753b/0x28adbd
-#: olang/005184e3/0x5f753b/0x48adbd
-#: olang/005184e3/0x5f753b/0x88adbd
-#: olang/005184e3/0x5f753b/0xa8adbd
-#: olang/005184e3/0x5f753b/0xc8adbd
-#: olang/009c9ea4/0x5f753b/0x28adbd
-#: olang/009c9ea4/0x5f753b/0x48adbd
-#: olang/009c9ea4/0x5f753b/0x88adbd
-#: olang/009c9ea4/0x5f753b/0xa8adbd
-#: olang/009c9ea4/0x5f753b/0xc8adbd
+#: olang/005184e3/0x5f753b/0x28adbd olang/005184e3/0x5f753b/0x48adbd
+#: olang/005184e3/0x5f753b/0x88adbd olang/005184e3/0x5f753b/0xa8adbd
+#: olang/005184e3/0x5f753b/0xc8adbd olang/009c9ea4/0x5f753b/0x28adbd
+#: olang/009c9ea4/0x5f753b/0x48adbd olang/009c9ea4/0x5f753b/0x88adbd
+#: olang/009c9ea4/0x5f753b/0xa8adbd olang/009c9ea4/0x5f753b/0xc8adbd
 msgid "Zoom Out: <I=L2>"
 msgstr ""
 
@@ -535,27 +475,21 @@ msgstr ""
 msgid "Move: Right stick left up/down"
 msgstr ""
 
-#: olang/005184e3/0x5f753b/0x48adbe
-#: olang/005184e3/0x5f753b/0xc992ce
+#: olang/005184e3/0x5f753b/0x48adbe olang/005184e3/0x5f753b/0xc992ce
 msgid "Rotate: Right stick"
 msgstr ""
 
-#: olang/005184e3/0x5f753b/0x88adbf
-#: olang/005184e3/0x5f753b/0xa8adbe
+#: olang/005184e3/0x5f753b/0x88adbf olang/005184e3/0x5f753b/0xa8adbe
 msgid "Move Camera: Right stick"
 msgstr ""
 
-#: olang/005184e3/0x5f753b/0xc992cc
-#: olang/005184e3/0x919326/0xc992cc
-#: olang/009c9ea4/0x5f753b/0xc992cc
-#: olang/009c9ea4/0x919326/0xc992cc
+#: olang/005184e3/0x5f753b/0xc992cc olang/005184e3/0x919326/0xc992cc
+#: olang/009c9ea4/0x5f753b/0xc992cc olang/009c9ea4/0x919326/0xc992cc
 msgid "Zoom In: <I=L2>"
 msgstr ""
 
-#: olang/005184e3/0x5f753b/0xc992cd
-#: olang/005184e3/0x919326/0xc992cd
-#: olang/009c9ea4/0x5f753b/0xc992cd
-#: olang/009c9ea4/0x919326/0xc992cd
+#: olang/005184e3/0x5f753b/0xc992cd olang/005184e3/0x919326/0xc992cd
+#: olang/009c9ea4/0x5f753b/0xc992cd olang/009c9ea4/0x919326/0xc992cd
 msgid "Zoom Out: <I=R2>"
 msgstr ""
 
@@ -581,15 +515,13 @@ msgid ""
 "to move your line of sight!"
 msgstr ""
 
-#: olang/005184e3/0x62a8fd/0x000000
-#: olang/009c9ea4/0x62a8fd/0x000000
+#: olang/005184e3/0x62a8fd/0x000000 olang/009c9ea4/0x62a8fd/0x000000
 msgid ""
 "You should be familiar with\n"
 "the up and down controls now."
 msgstr ""
 
-#: olang/005184e3/0x62a97d/0x000000
-#: olang/009c9ea4/0x62a97d/0x000000
+#: olang/005184e3/0x62a97d/0x000000 olang/009c9ea4/0x62a97d/0x000000
 msgid ""
 "You should be familiar with\n"
 "the left and right controls now."
@@ -685,8 +617,7 @@ msgstr ""
 msgid "Boss, you have to press RT!"
 msgstr ""
 
-#: olang/005184e3/0x649a7d/0x000001
-#: olang/005184e3/0x649a7e/0x000001
+#: olang/005184e3/0x649a7d/0x000001 olang/005184e3/0x649a7e/0x000001
 msgid ""
 "Then tilt the left stick \n"
 "to throw them.\r"
@@ -734,12 +665,9 @@ msgid ""
 " and will not be shown on your system."
 msgstr ""
 
-#: olang/005184e3/0x8082bf/0x000000
-#: olang/005184e3/0x8486c0/0x000000
-#: olang/005184e3/0x888abf/0x000000
-#: olang/005184e3/0x8c8ebf/0x000000
-#: olang/005184e3/0xf466bf/0x000000
-#: olang/005184e3/0xf86abf/0x000000
+#: olang/005184e3/0x8082bf/0x000000 olang/005184e3/0x8486c0/0x000000
+#: olang/005184e3/0x888abf/0x000000 olang/005184e3/0x8c8ebf/0x000000
+#: olang/005184e3/0xf466bf/0x000000 olang/005184e3/0xf86abf/0x000000
 #: olang/005184e3/0xfc6ebf/0x000000
 msgid "Talk!"
 msgstr ""
@@ -773,13 +701,11 @@ msgstr ""
 msgid "Save data does not exist.\r"
 msgstr ""
 
-#: olang/005184e3/0x8b79b6/0xa6ed53
-#: olang/009c9ea4/0x8b79b6/0xa6ed53
+#: olang/005184e3/0x8b79b6/0xa6ed53 olang/009c9ea4/0x8b79b6/0xa6ed53
 msgid "Failed to capture screenshot."
 msgstr ""
 
-#: olang/005184e3/0x8b79b6/0xbba0fd
-#: olang/0072f326/0xa49217/0x836b27
+#: olang/005184e3/0x8b79b6/0xbba0fd olang/0072f326/0xa49217/0x836b27
 #: olang/0072f326/0xdbd1b3/0x4dfe7b
 msgid "Saving content. Please don't turn off your console."
 msgstr ""
@@ -811,8 +737,7 @@ msgid ""
 "Please use at least %d characters."
 msgstr ""
 
-#: olang/005184e3/0x9dc379/0xd1ff23
-#: olang/00d0c740/0x482e82/0x341a6f
+#: olang/005184e3/0x9dc379/0xd1ff23 olang/00d0c740/0x482e82/0x341a6f
 msgid "Left stick sensitivity"
 msgstr ""
 
@@ -828,8 +753,7 @@ msgstr ""
 msgid "Host has ended the trade. Returning to the LOBBY menu."
 msgstr ""
 
-#: olang/005184e3/0xb767d9/0x62799f
-#: olang/009c9ea4/0xb767d9/0x62799f
+#: olang/005184e3/0xb767d9/0x62799f olang/009c9ea4/0xb767d9/0x62799f
 msgid ""
 "Waiting for trading partner…\n"
 "\n"
@@ -862,8 +786,7 @@ msgstr ""
 msgid "Lend me that."
 msgstr ""
 
-#: olang/005184e3/0xc2c780/0x000000
-#: olang/005184e3/0xf062bf/0x000000
+#: olang/005184e3/0xc2c780/0x000000 olang/005184e3/0xf062bf/0x000000
 msgid "Start talking!"
 msgstr ""
 
@@ -885,8 +808,7 @@ msgstr ""
 msgid "NEW"
 msgstr ""
 
-#: olang/005184e3/0xdb8c41/0x5b35a4
-#: olang/009c9ea4/0xdb8c41/0x5b35a4
+#: olang/005184e3/0xdb8c41/0x5b35a4 olang/009c9ea4/0xdb8c41/0x5b35a4
 msgid "Manage AI weapon voice data and items used in-game in \"EXTRAS\"."
 msgstr ""
 
@@ -952,19 +874,16 @@ msgstr ""
 msgid "PRESS START"
 msgstr ""
 
-#: olang/005184e3/0xff8cbc/0x4e8250
-#: olang/009c9ea4/0xff8cbc/0x4e8250
+#: olang/005184e3/0xff8cbc/0x4e8250 olang/009c9ea4/0xff8cbc/0x4e8250
 msgid "SPECTATOR MODE"
 msgstr ""
 
-#: olang/0060e2f2/0xd449d6/0x0097cb
-#: olang/0060e2f2/0xd449d6/0x8067d6
+#: olang/0060e2f2/0xd449d6/0x0097cb olang/0060e2f2/0xd449d6/0x8067d6
 #: olang/00cb1fb7/0x68bb2b/0x8067d6
 msgid "Friends Only"
 msgstr ""
 
-#: olang/0060e2f2/0xd449d6/0x05bc0b
-#: olang/00cb1fb7/0x68bb2b/0x05bc0b
+#: olang/0060e2f2/0xd449d6/0x05bc0b olang/00cb1fb7/0x68bb2b/0x05bc0b
 msgid "Standard"
 msgstr ""
 
@@ -978,18 +897,15 @@ msgid ""
 "enemies during a team vs. team mission."
 msgstr ""
 
-#: olang/0060e2f2/0xd449d6/0x22cde9
-#: olang/0060e2f2/0xd449d6/0xc2e5c4
+#: olang/0060e2f2/0xd449d6/0x22cde9 olang/0060e2f2/0xd449d6/0xc2e5c4
 msgid "ALL"
 msgstr ""
 
-#: olang/0060e2f2/0xd449d6/0x22f903
-#: olang/0060e2f2/0xd449d6/0x2401cf
+#: olang/0060e2f2/0xd449d6/0x22f903 olang/0060e2f2/0xd449d6/0x2401cf
 msgid "VOICE CHAT"
 msgstr ""
 
-#: olang/0060e2f2/0xd449d6/0x28fff4
-#: olang/0060e2f2/0xd449d6/0xe890fe
+#: olang/0060e2f2/0xd449d6/0x28fff4 olang/0060e2f2/0xd449d6/0xe890fe
 #: olang/00cb1fb7/0x68bb2b/0xe890fe
 msgid "Global"
 msgstr ""
@@ -1004,8 +920,7 @@ msgstr ""
 msgid "Quick"
 msgstr ""
 
-#: olang/0060e2f2/0xd449d6/0x4ea906
-#: olang/0060e2f2/0xd449d6/0xdf0201
+#: olang/0060e2f2/0xd449d6/0x4ea906 olang/0060e2f2/0xd449d6/0xdf0201
 msgid "TEAM ONLY"
 msgstr ""
 
@@ -1013,19 +928,16 @@ msgstr ""
 msgid "Voice Chat"
 msgstr ""
 
-#: olang/0060e2f2/0xd449d6/0x70f26b
-#: olang/0060e2f2/0xd449d6/0x958855
+#: olang/0060e2f2/0xd449d6/0x70f26b olang/0060e2f2/0xd449d6/0x958855
 msgid "Automatic"
 msgstr ""
 
-#: olang/0060e2f2/0xd449d6/0x7d0dc1
-#: olang/0060e2f2/0xd449d6/0xeb9470
+#: olang/0060e2f2/0xd449d6/0x7d0dc1 olang/0060e2f2/0xd449d6/0xeb9470
 #: olang/00cb1fb7/0x68bb2b/0x7d0dc1
 msgid "Domestic"
 msgstr ""
 
-#: olang/0060e2f2/0xd449d6/0x83a11c
-#: olang/00cb1fb7/0x68bb2b/0x8f6fd7
+#: olang/0060e2f2/0xd449d6/0x83a11c olang/00cb1fb7/0x68bb2b/0x8f6fd7
 msgid ""
 "Searching.\n"
 "Press <I=CAN> to cancel the search."
@@ -1035,13 +947,11 @@ msgstr ""
 msgid "You can recruit VERSUS OPS MEMBERS worldwide over Xbox LIVE. Select the type of invitation."
 msgstr ""
 
-#: olang/0060e2f2/0xd449d6/0x92bc10
-#: olang/00cb1fb7/0x68bb2b/0x8188d5
+#: olang/0060e2f2/0xd449d6/0x92bc10 olang/00cb1fb7/0x68bb2b/0x8188d5
 msgid "Select search conditions. Then select \"SEARCH\" to start looking for players."
 msgstr ""
 
-#: olang/0060e2f2/0xd449d6/0x98e96f
-#: olang/0060e2f2/0xd449d6/0xc4b92e
+#: olang/0060e2f2/0xd449d6/0x98e96f olang/0060e2f2/0xd449d6/0xc4b92e
 msgid "GAMER CARD"
 msgstr ""
 
@@ -1049,414 +959,218 @@ msgstr ""
 msgid "Unable to create new game."
 msgstr ""
 
-#: olang/0066e64e/0x0c4f4e/0x0009b1
-#: olang/0066e64e/0x97a719/0x0009b1
+#: olang/0066e64e/0x0c4f4e/0x0009b1 olang/0066e64e/0x97a719/0x0009b1
 #: olang/0066e64e/0xef247a/0x0009b1
 msgid "Select Item"
 msgstr ""
 
-#: olang/0066e64e/0x0c4f4e/0x0009b2
-#: olang/0066e64e/0xef247a/0x0009b2
+#: olang/0066e64e/0x0c4f4e/0x0009b2 olang/0066e64e/0xef247a/0x0009b2
 #: olang/009c9ea4/0x39c9f3/0xe49f73
 msgid "Reset Camera"
 msgstr ""
 
-#: olang/0066e64e/0x0c4f4e/0x000a71
-#: olang/0066e64e/0x97a719/0x000a71
+#: olang/0066e64e/0x0c4f4e/0x000a71 olang/0066e64e/0x97a719/0x000a71
 #: olang/0066e64e/0xef247a/0x000a71
 msgid "Select Weapon"
 msgstr ""
 
-#: olang/0066e64e/0x0c4f4e/0x000a72
-#: olang/0066e64e/0x210062/0x7c723f
-#: olang/0066e64e/0x210062/0x7c7240
-#: olang/0066e64e/0x210062/0x7c7241
-#: olang/0066e64e/0x210062/0x7c7242
-#: olang/0066e64e/0x210062/0x7c7243
-#: olang/0066e64e/0x210062/0x7c7245
-#: olang/0066e64e/0x210062/0x7c7247
-#: olang/0066e64e/0x210062/0x7c7248
-#: olang/0066e64e/0x210063/0x7c723f
-#: olang/0066e64e/0x210063/0x7c7240
-#: olang/0066e64e/0x210063/0x7c7241
-#: olang/0066e64e/0x210063/0x7c7242
-#: olang/0066e64e/0x210063/0x7c7243
-#: olang/0066e64e/0x210063/0x7c7245
-#: olang/0066e64e/0x210063/0x7c7247
-#: olang/0066e64e/0x210063/0x7c7248
-#: olang/0066e64e/0x210063/0x8e483f
-#: olang/0066e64e/0x210063/0x8e4840
-#: olang/0066e64e/0x210063/0x8e4841
-#: olang/0066e64e/0x210064/0x7c7243
-#: olang/0066e64e/0x210064/0x7c7245
-#: olang/0066e64e/0x210064/0x7c7247
-#: olang/0066e64e/0x210064/0x7c7248
-#: olang/0066e64e/0x210064/0x8e483f
-#: olang/0066e64e/0x210064/0x8e4840
-#: olang/0066e64e/0x210064/0x8e4841
-#: olang/0066e64e/0x210064/0x8e4842
-#: olang/0066e64e/0x210065/0x7c7241
-#: olang/0066e64e/0x210065/0x7c7242
-#: olang/0066e64e/0x210065/0x7c7243
-#: olang/0066e64e/0x210065/0x7c7245
-#: olang/0066e64e/0x210065/0x8e483f
-#: olang/0066e64e/0x210065/0x8e4840
-#: olang/0066e64e/0x210065/0x8e4842
-#: olang/0066e64e/0x210066/0x7c723f
-#: olang/0066e64e/0x210066/0x7c7240
-#: olang/0066e64e/0x210066/0x7c7241
-#: olang/0066e64e/0x210066/0x7c7242
-#: olang/0066e64e/0x210066/0x7c7243
-#: olang/0066e64e/0x210066/0x7c7245
-#: olang/0066e64e/0x210066/0x8e4842
-#: olang/0066e64e/0x210067/0x7c723f
-#: olang/0066e64e/0x210067/0x7c7240
-#: olang/0066e64e/0x210067/0x7c7241
-#: olang/0066e64e/0x210067/0x7c7242
-#: olang/0066e64e/0x210067/0x7c7243
-#: olang/0066e64e/0x210067/0x7c7245
-#: olang/0066e64e/0x210067/0x7c7247
-#: olang/0066e64e/0x210067/0x7c7248
-#: olang/0066e64e/0x210067/0x8e483f
-#: olang/0066e64e/0x210067/0x8e4840
-#: olang/0066e64e/0x210067/0x8e4841
-#: olang/0066e64e/0x210067/0x8e4842
-#: olang/0066e64e/0x210068/0x7c723f
-#: olang/0066e64e/0x210068/0x7c7240
-#: olang/0066e64e/0x210068/0x7c7241
-#: olang/0066e64e/0x210068/0x7c7242
-#: olang/0066e64e/0x210068/0x7c7243
-#: olang/0066e64e/0x210068/0x7c7244
-#: olang/0066e64e/0x210068/0x7c7245
-#: olang/0066e64e/0x210068/0x7c7246
-#: olang/0066e64e/0x210068/0x7c7247
-#: olang/0066e64e/0x210068/0x7c7248
-#: olang/0066e64e/0x210068/0x8e483f
-#: olang/0066e64e/0x210068/0x8e4840
-#: olang/0066e64e/0x210068/0x8e4841
-#: olang/0066e64e/0x210068/0x8e4842
-#: olang/0066e64e/0x210068/0x8e4843
-#: olang/0066e64e/0x210068/0x8e4844
-#: olang/0066e64e/0x210068/0x8e4845
-#: olang/0066e64e/0x210069/0x7c723f
-#: olang/0066e64e/0x210069/0x7c7242
-#: olang/0066e64e/0x210069/0x7c7243
-#: olang/0066e64e/0x210069/0x7c7245
-#: olang/0066e64e/0x210069/0x7c7247
-#: olang/0066e64e/0x210069/0x7c7248
-#: olang/0066e64e/0x210069/0x8e483f
-#: olang/0066e64e/0x210069/0x8e4840
-#: olang/0066e64e/0x210069/0x8e4841
-#: olang/0066e64e/0x210069/0x8e4842
-#: olang/0066e64e/0x21006a/0x7c723f
-#: olang/0066e64e/0x21006a/0x7c7242
-#: olang/0066e64e/0x21006a/0x7c7243
-#: olang/0066e64e/0x21006a/0x7c7245
-#: olang/0066e64e/0x21006a/0x8e483f
-#: olang/0066e64e/0x21006a/0x8e4840
-#: olang/0066e64e/0x21006a/0x8e4842
-#: olang/0066e64e/0x21006b/0x7c7243
-#: olang/0066e64e/0x21006b/0x7c7245
-#: olang/0066e64e/0x21006b/0x7c7247
-#: olang/0066e64e/0x21006b/0x7c7248
-#: olang/0066e64e/0x21006b/0x8e483f
-#: olang/0066e64e/0x21006b/0x8e4840
-#: olang/0066e64e/0x21006b/0x8e4841
-#: olang/0066e64e/0x21006b/0x8e4842
-#: olang/0066e64e/0x35f472/0x7c7243
-#: olang/0066e64e/0x35f472/0x7c7245
-#: olang/0066e64e/0x35f472/0x8e4842
-#: olang/0066e64e/0x4983dd/0x7c7243
-#: olang/0066e64e/0x4983dd/0x7c7245
-#: olang/0066e64e/0x4983dd/0x8e4842
-#: olang/0066e64e/0x4983dd/0x8e4844
-#: olang/0066e64e/0x4983dd/0x8e4845
-#: olang/0066e64e/0x4ad0f0/0x7c723f
-#: olang/0066e64e/0x4ad0f0/0x7c7240
-#: olang/0066e64e/0x4ad0f0/0x7c7241
-#: olang/0066e64e/0x4ad0f0/0x7c7242
-#: olang/0066e64e/0x4ad0f0/0x7c7243
-#: olang/0066e64e/0x4ad0f0/0x7c7244
-#: olang/0066e64e/0x4ad0f0/0x7c7245
-#: olang/0066e64e/0x4ad0f0/0x7c7246
-#: olang/0066e64e/0x4ad0f0/0x7c7247
-#: olang/0066e64e/0x4ad0f0/0x7c7248
-#: olang/0066e64e/0x4ad0f0/0x8e483f
-#: olang/0066e64e/0x4ad0f0/0x8e4840
-#: olang/0066e64e/0x4ad0f0/0x8e4841
-#: olang/0066e64e/0x4ad0f0/0x8e4842
-#: olang/0066e64e/0x4ad0f0/0x8e4843
-#: olang/0066e64e/0x4ad0f0/0x8e4844
-#: olang/0066e64e/0x4ad0f0/0x8e4845
-#: olang/0066e64e/0x5389f6/0x7c7242
-#: olang/0066e64e/0x5389f6/0x7c7243
-#: olang/0066e64e/0x5389f6/0x7c7245
-#: olang/0066e64e/0x5389f6/0x8e4842
-#: olang/0066e64e/0x5389f6/0x8e4844
-#: olang/0066e64e/0x5389f6/0x8e4845
-#: olang/0066e64e/0x53f3f0/0x7c7241
-#: olang/0066e64e/0x53f3f0/0x7c7243
-#: olang/0066e64e/0x53f3f0/0x7c7245
-#: olang/0066e64e/0x53f3f0/0x8e4842
-#: olang/0066e64e/0x678b3d/0x7c7243
-#: olang/0066e64e/0x678b3d/0x7c7244
-#: olang/0066e64e/0x678b3d/0x7c7245
-#: olang/0066e64e/0x678b3d/0x7c7246
-#: olang/0066e64e/0x678b3d/0x8e483f
-#: olang/0066e64e/0x678b3d/0x8e4840
-#: olang/0066e64e/0x678b3d/0x8e4842
-#: olang/0066e64e/0x678b3d/0x8e4844
-#: olang/0066e64e/0x678b3d/0x8e4845
-#: olang/0066e64e/0x7893c2/0x7c7243
-#: olang/0066e64e/0x7893c2/0x7c7245
-#: olang/0066e64e/0x7893c2/0x8e4842
-#: olang/0066e64e/0x89e528/0x7c7243
-#: olang/0066e64e/0x89e528/0x7c7245
-#: olang/0066e64e/0x89e528/0x8e4842
-#: olang/0066e64e/0x89e528/0x8e4844
-#: olang/0066e64e/0x89e528/0x8e4845
-#: olang/0066e64e/0x89e8a0/0x7c7243
-#: olang/0066e64e/0x89e8a0/0x7c7245
-#: olang/0066e64e/0x89e8a0/0x8e4842
-#: olang/0066e64e/0x89e8a0/0x8e4844
-#: olang/0066e64e/0x89e8a0/0x8e4845
-#: olang/0066e64e/0x97a719/0x3b8f30
-#: olang/0066e64e/0xa69279/0x7c7243
-#: olang/0066e64e/0xa69279/0x7c7245
-#: olang/0066e64e/0xa69279/0x8e4842
-#: olang/0066e64e/0xa69279/0x8e4844
-#: olang/0066e64e/0xa69279/0x8e4845
-#: olang/0066e64e/0xb8862e/0x7c7241
-#: olang/0066e64e/0xb8862e/0x7c7243
-#: olang/0066e64e/0xb8862e/0x7c7245
-#: olang/0066e64e/0xb8862e/0x8e4842
-#: olang/0066e64e/0xd33fba/0x7c7241
-#: olang/0066e64e/0xd33fba/0x7c7243
-#: olang/0066e64e/0xd33fba/0x7c7245
-#: olang/0066e64e/0xd33fba/0x8e4842
-#: olang/0066e64e/0xd33fba/0x8e4844
-#: olang/0066e64e/0xd33fba/0x8e4845
-#: olang/0066e64e/0xd4462e/0x7c7241
-#: olang/0066e64e/0xd4462e/0x7c7243
-#: olang/0066e64e/0xd4462e/0x7c7245
-#: olang/0066e64e/0xd4462e/0x8e4842
-#: olang/0066e64e/0xda75f0/0x7c7241
-#: olang/0066e64e/0xda75f0/0x7c7243
-#: olang/0066e64e/0xda75f0/0x7c7245
-#: olang/0066e64e/0xda75f0/0x8e483f
-#: olang/0066e64e/0xda75f0/0x8e4840
-#: olang/0066e64e/0xda75f0/0x8e4842
-#: olang/0066e64e/0xdd6303/0x7c7241
-#: olang/0066e64e/0xdd6303/0x7c7243
-#: olang/0066e64e/0xdd6303/0x7c7245
-#: olang/0066e64e/0xdd6303/0x8e4842
-#: olang/0066e64e/0xdd6303/0x8e4844
-#: olang/0066e64e/0xdd6303/0x8e4845
-#: olang/0066e64e/0xecf67f/0x7c7243
-#: olang/0066e64e/0xecf67f/0x7c7245
-#: olang/0066e64e/0xecf67f/0x8e4842
-#: olang/0066e64e/0xecf67f/0x8e4844
-#: olang/0066e64e/0xecf67f/0x8e4845
-#: olang/009c9ea4/0x210062/0x7c723f
-#: olang/009c9ea4/0x210062/0x7c7240
-#: olang/009c9ea4/0x210062/0x7c7241
-#: olang/009c9ea4/0x210062/0x7c7242
-#: olang/009c9ea4/0x210062/0x7c7243
-#: olang/009c9ea4/0x210062/0x7c7245
-#: olang/009c9ea4/0x210062/0x7c7247
-#: olang/009c9ea4/0x210062/0x7c7248
-#: olang/009c9ea4/0x210063/0x7c723f
-#: olang/009c9ea4/0x210063/0x7c7240
-#: olang/009c9ea4/0x210063/0x7c7241
-#: olang/009c9ea4/0x210063/0x7c7242
-#: olang/009c9ea4/0x210063/0x7c7243
-#: olang/009c9ea4/0x210063/0x7c7245
-#: olang/009c9ea4/0x210063/0x7c7247
-#: olang/009c9ea4/0x210063/0x7c7248
-#: olang/009c9ea4/0x210063/0x8e483f
-#: olang/009c9ea4/0x210063/0x8e4840
-#: olang/009c9ea4/0x210063/0x8e4841
-#: olang/009c9ea4/0x210064/0x7c7243
-#: olang/009c9ea4/0x210064/0x7c7245
-#: olang/009c9ea4/0x210064/0x7c7247
-#: olang/009c9ea4/0x210064/0x7c7248
-#: olang/009c9ea4/0x210064/0x8e483f
-#: olang/009c9ea4/0x210064/0x8e4840
-#: olang/009c9ea4/0x210064/0x8e4841
-#: olang/009c9ea4/0x210064/0x8e4842
-#: olang/009c9ea4/0x210065/0x7c7241
-#: olang/009c9ea4/0x210065/0x7c7242
-#: olang/009c9ea4/0x210065/0x7c7243
-#: olang/009c9ea4/0x210065/0x7c7245
-#: olang/009c9ea4/0x210065/0x8e483f
-#: olang/009c9ea4/0x210065/0x8e4840
-#: olang/009c9ea4/0x210065/0x8e4842
-#: olang/009c9ea4/0x210066/0x7c723f
-#: olang/009c9ea4/0x210066/0x7c7240
-#: olang/009c9ea4/0x210066/0x7c7241
-#: olang/009c9ea4/0x210066/0x7c7242
-#: olang/009c9ea4/0x210066/0x7c7243
-#: olang/009c9ea4/0x210066/0x7c7245
-#: olang/009c9ea4/0x210066/0x8e4842
-#: olang/009c9ea4/0x210067/0x7c723f
-#: olang/009c9ea4/0x210067/0x7c7240
-#: olang/009c9ea4/0x210067/0x7c7241
-#: olang/009c9ea4/0x210067/0x7c7242
-#: olang/009c9ea4/0x210067/0x7c7243
-#: olang/009c9ea4/0x210067/0x7c7245
-#: olang/009c9ea4/0x210067/0x7c7247
-#: olang/009c9ea4/0x210067/0x7c7248
-#: olang/009c9ea4/0x210067/0x8e483f
-#: olang/009c9ea4/0x210067/0x8e4840
-#: olang/009c9ea4/0x210067/0x8e4841
-#: olang/009c9ea4/0x210067/0x8e4842
-#: olang/009c9ea4/0x210068/0x7c723f
-#: olang/009c9ea4/0x210068/0x7c7240
-#: olang/009c9ea4/0x210068/0x7c7241
-#: olang/009c9ea4/0x210068/0x7c7242
-#: olang/009c9ea4/0x210068/0x7c7243
-#: olang/009c9ea4/0x210068/0x7c7244
-#: olang/009c9ea4/0x210068/0x7c7245
-#: olang/009c9ea4/0x210068/0x7c7246
-#: olang/009c9ea4/0x210068/0x7c7247
-#: olang/009c9ea4/0x210068/0x7c7248
-#: olang/009c9ea4/0x210068/0x8e483f
-#: olang/009c9ea4/0x210068/0x8e4840
-#: olang/009c9ea4/0x210068/0x8e4841
-#: olang/009c9ea4/0x210068/0x8e4842
-#: olang/009c9ea4/0x210068/0x8e4844
-#: olang/009c9ea4/0x210068/0x8e4845
-#: olang/009c9ea4/0x210069/0x7c723f
-#: olang/009c9ea4/0x210069/0x7c7242
-#: olang/009c9ea4/0x210069/0x7c7243
-#: olang/009c9ea4/0x210069/0x7c7245
-#: olang/009c9ea4/0x210069/0x7c7247
-#: olang/009c9ea4/0x210069/0x7c7248
-#: olang/009c9ea4/0x210069/0x8e483f
-#: olang/009c9ea4/0x210069/0x8e4840
-#: olang/009c9ea4/0x210069/0x8e4841
-#: olang/009c9ea4/0x210069/0x8e4842
-#: olang/009c9ea4/0x21006a/0x7c723f
-#: olang/009c9ea4/0x21006a/0x7c7242
-#: olang/009c9ea4/0x21006a/0x7c7243
-#: olang/009c9ea4/0x21006a/0x7c7245
-#: olang/009c9ea4/0x21006a/0x8e483f
-#: olang/009c9ea4/0x21006a/0x8e4840
-#: olang/009c9ea4/0x21006a/0x8e4842
-#: olang/009c9ea4/0x21006b/0x7c7243
-#: olang/009c9ea4/0x21006b/0x7c7245
-#: olang/009c9ea4/0x21006b/0x7c7247
-#: olang/009c9ea4/0x21006b/0x7c7248
-#: olang/009c9ea4/0x21006b/0x8e483f
-#: olang/009c9ea4/0x21006b/0x8e4840
-#: olang/009c9ea4/0x21006b/0x8e4841
-#: olang/009c9ea4/0x21006b/0x8e4842
-#: olang/009c9ea4/0x35f472/0x7c7243
-#: olang/009c9ea4/0x35f472/0x7c7245
-#: olang/009c9ea4/0x35f472/0x8e4842
-#: olang/009c9ea4/0x4983dd/0x7c7243
-#: olang/009c9ea4/0x4983dd/0x7c7245
-#: olang/009c9ea4/0x4983dd/0x8e4842
-#: olang/009c9ea4/0x4983dd/0x8e4844
-#: olang/009c9ea4/0x4983dd/0x8e4845
-#: olang/009c9ea4/0x4ad0f0/0x7c723f
-#: olang/009c9ea4/0x4ad0f0/0x7c7240
-#: olang/009c9ea4/0x4ad0f0/0x7c7241
-#: olang/009c9ea4/0x4ad0f0/0x7c7242
-#: olang/009c9ea4/0x4ad0f0/0x7c7243
-#: olang/009c9ea4/0x4ad0f0/0x7c7244
-#: olang/009c9ea4/0x4ad0f0/0x7c7245
-#: olang/009c9ea4/0x4ad0f0/0x7c7246
-#: olang/009c9ea4/0x4ad0f0/0x7c7247
-#: olang/009c9ea4/0x4ad0f0/0x7c7248
-#: olang/009c9ea4/0x4ad0f0/0x8e483f
-#: olang/009c9ea4/0x4ad0f0/0x8e4840
-#: olang/009c9ea4/0x4ad0f0/0x8e4841
-#: olang/009c9ea4/0x4ad0f0/0x8e4842
-#: olang/009c9ea4/0x4ad0f0/0x8e4843
-#: olang/009c9ea4/0x4ad0f0/0x8e4844
-#: olang/009c9ea4/0x4ad0f0/0x8e4845
-#: olang/009c9ea4/0x5389f6/0x7c7242
-#: olang/009c9ea4/0x5389f6/0x7c7243
-#: olang/009c9ea4/0x5389f6/0x7c7245
-#: olang/009c9ea4/0x5389f6/0x8e4842
-#: olang/009c9ea4/0x5389f6/0x8e4844
-#: olang/009c9ea4/0x5389f6/0x8e4845
-#: olang/009c9ea4/0x53f3f0/0x7c7241
-#: olang/009c9ea4/0x53f3f0/0x7c7243
-#: olang/009c9ea4/0x53f3f0/0x7c7245
-#: olang/009c9ea4/0x53f3f0/0x8e4842
-#: olang/009c9ea4/0x678b3d/0x7c7243
-#: olang/009c9ea4/0x678b3d/0x7c7244
-#: olang/009c9ea4/0x678b3d/0x7c7245
-#: olang/009c9ea4/0x678b3d/0x7c7246
-#: olang/009c9ea4/0x678b3d/0x8e483f
-#: olang/009c9ea4/0x678b3d/0x8e4840
-#: olang/009c9ea4/0x678b3d/0x8e4842
-#: olang/009c9ea4/0x678b3d/0x8e4844
-#: olang/009c9ea4/0x678b3d/0x8e4845
-#: olang/009c9ea4/0x7893c2/0x7c7243
-#: olang/009c9ea4/0x7893c2/0x7c7245
-#: olang/009c9ea4/0x7893c2/0x8e4842
-#: olang/009c9ea4/0x89e528/0x7c7243
-#: olang/009c9ea4/0x89e528/0x7c7245
-#: olang/009c9ea4/0x89e528/0x8e4842
-#: olang/009c9ea4/0x89e528/0x8e4844
-#: olang/009c9ea4/0x89e528/0x8e4845
-#: olang/009c9ea4/0x89e8a0/0x7c7243
-#: olang/009c9ea4/0x89e8a0/0x7c7245
-#: olang/009c9ea4/0x89e8a0/0x8e4842
-#: olang/009c9ea4/0x89e8a0/0x8e4844
-#: olang/009c9ea4/0x89e8a0/0x8e4845
-#: olang/009c9ea4/0xa69279/0x7c7243
-#: olang/009c9ea4/0xa69279/0x7c7245
-#: olang/009c9ea4/0xa69279/0x8e4842
-#: olang/009c9ea4/0xa69279/0x8e4844
-#: olang/009c9ea4/0xa69279/0x8e4845
-#: olang/009c9ea4/0xb8862e/0x7c7241
-#: olang/009c9ea4/0xb8862e/0x7c7243
-#: olang/009c9ea4/0xb8862e/0x7c7245
-#: olang/009c9ea4/0xb8862e/0x8e4842
-#: olang/009c9ea4/0xd33fba/0x7c7241
-#: olang/009c9ea4/0xd33fba/0x7c7243
-#: olang/009c9ea4/0xd33fba/0x7c7245
-#: olang/009c9ea4/0xd33fba/0x8e4842
-#: olang/009c9ea4/0xd33fba/0x8e4844
-#: olang/009c9ea4/0xd33fba/0x8e4845
-#: olang/009c9ea4/0xd4462e/0x7c7241
-#: olang/009c9ea4/0xd4462e/0x7c7243
-#: olang/009c9ea4/0xd4462e/0x7c7245
-#: olang/009c9ea4/0xd4462e/0x8e4842
-#: olang/009c9ea4/0xda75f0/0x7c7241
-#: olang/009c9ea4/0xda75f0/0x7c7243
-#: olang/009c9ea4/0xda75f0/0x7c7245
-#: olang/009c9ea4/0xda75f0/0x8e483f
-#: olang/009c9ea4/0xda75f0/0x8e4840
-#: olang/009c9ea4/0xda75f0/0x8e4842
-#: olang/009c9ea4/0xdd6303/0x7c7241
-#: olang/009c9ea4/0xdd6303/0x7c7243
-#: olang/009c9ea4/0xdd6303/0x7c7245
-#: olang/009c9ea4/0xdd6303/0x8e4842
-#: olang/009c9ea4/0xdd6303/0x8e4844
-#: olang/009c9ea4/0xdd6303/0x8e4845
-#: olang/009c9ea4/0xecf67f/0x7c7243
-#: olang/009c9ea4/0xecf67f/0x7c7245
-#: olang/009c9ea4/0xecf67f/0x8e4842
-#: olang/009c9ea4/0xecf67f/0x8e4844
+#: olang/0066e64e/0x0c4f4e/0x000a72 olang/0066e64e/0x210062/0x7c723f
+#: olang/0066e64e/0x210062/0x7c7240 olang/0066e64e/0x210062/0x7c7241
+#: olang/0066e64e/0x210062/0x7c7242 olang/0066e64e/0x210062/0x7c7243
+#: olang/0066e64e/0x210062/0x7c7245 olang/0066e64e/0x210062/0x7c7247
+#: olang/0066e64e/0x210062/0x7c7248 olang/0066e64e/0x210063/0x7c723f
+#: olang/0066e64e/0x210063/0x7c7240 olang/0066e64e/0x210063/0x7c7241
+#: olang/0066e64e/0x210063/0x7c7242 olang/0066e64e/0x210063/0x7c7243
+#: olang/0066e64e/0x210063/0x7c7245 olang/0066e64e/0x210063/0x7c7247
+#: olang/0066e64e/0x210063/0x7c7248 olang/0066e64e/0x210063/0x8e483f
+#: olang/0066e64e/0x210063/0x8e4840 olang/0066e64e/0x210063/0x8e4841
+#: olang/0066e64e/0x210064/0x7c7243 olang/0066e64e/0x210064/0x7c7245
+#: olang/0066e64e/0x210064/0x7c7247 olang/0066e64e/0x210064/0x7c7248
+#: olang/0066e64e/0x210064/0x8e483f olang/0066e64e/0x210064/0x8e4840
+#: olang/0066e64e/0x210064/0x8e4841 olang/0066e64e/0x210064/0x8e4842
+#: olang/0066e64e/0x210065/0x7c7241 olang/0066e64e/0x210065/0x7c7242
+#: olang/0066e64e/0x210065/0x7c7243 olang/0066e64e/0x210065/0x7c7245
+#: olang/0066e64e/0x210065/0x8e483f olang/0066e64e/0x210065/0x8e4840
+#: olang/0066e64e/0x210065/0x8e4842 olang/0066e64e/0x210066/0x7c723f
+#: olang/0066e64e/0x210066/0x7c7240 olang/0066e64e/0x210066/0x7c7241
+#: olang/0066e64e/0x210066/0x7c7242 olang/0066e64e/0x210066/0x7c7243
+#: olang/0066e64e/0x210066/0x7c7245 olang/0066e64e/0x210066/0x8e4842
+#: olang/0066e64e/0x210067/0x7c723f olang/0066e64e/0x210067/0x7c7240
+#: olang/0066e64e/0x210067/0x7c7241 olang/0066e64e/0x210067/0x7c7242
+#: olang/0066e64e/0x210067/0x7c7243 olang/0066e64e/0x210067/0x7c7245
+#: olang/0066e64e/0x210067/0x7c7247 olang/0066e64e/0x210067/0x7c7248
+#: olang/0066e64e/0x210067/0x8e483f olang/0066e64e/0x210067/0x8e4840
+#: olang/0066e64e/0x210067/0x8e4841 olang/0066e64e/0x210067/0x8e4842
+#: olang/0066e64e/0x210068/0x7c723f olang/0066e64e/0x210068/0x7c7240
+#: olang/0066e64e/0x210068/0x7c7241 olang/0066e64e/0x210068/0x7c7242
+#: olang/0066e64e/0x210068/0x7c7243 olang/0066e64e/0x210068/0x7c7244
+#: olang/0066e64e/0x210068/0x7c7245 olang/0066e64e/0x210068/0x7c7246
+#: olang/0066e64e/0x210068/0x7c7247 olang/0066e64e/0x210068/0x7c7248
+#: olang/0066e64e/0x210068/0x8e483f olang/0066e64e/0x210068/0x8e4840
+#: olang/0066e64e/0x210068/0x8e4841 olang/0066e64e/0x210068/0x8e4842
+#: olang/0066e64e/0x210068/0x8e4843 olang/0066e64e/0x210068/0x8e4844
+#: olang/0066e64e/0x210068/0x8e4845 olang/0066e64e/0x210069/0x7c723f
+#: olang/0066e64e/0x210069/0x7c7242 olang/0066e64e/0x210069/0x7c7243
+#: olang/0066e64e/0x210069/0x7c7245 olang/0066e64e/0x210069/0x7c7247
+#: olang/0066e64e/0x210069/0x7c7248 olang/0066e64e/0x210069/0x8e483f
+#: olang/0066e64e/0x210069/0x8e4840 olang/0066e64e/0x210069/0x8e4841
+#: olang/0066e64e/0x210069/0x8e4842 olang/0066e64e/0x21006a/0x7c723f
+#: olang/0066e64e/0x21006a/0x7c7242 olang/0066e64e/0x21006a/0x7c7243
+#: olang/0066e64e/0x21006a/0x7c7245 olang/0066e64e/0x21006a/0x8e483f
+#: olang/0066e64e/0x21006a/0x8e4840 olang/0066e64e/0x21006a/0x8e4842
+#: olang/0066e64e/0x21006b/0x7c7243 olang/0066e64e/0x21006b/0x7c7245
+#: olang/0066e64e/0x21006b/0x7c7247 olang/0066e64e/0x21006b/0x7c7248
+#: olang/0066e64e/0x21006b/0x8e483f olang/0066e64e/0x21006b/0x8e4840
+#: olang/0066e64e/0x21006b/0x8e4841 olang/0066e64e/0x21006b/0x8e4842
+#: olang/0066e64e/0x35f472/0x7c7243 olang/0066e64e/0x35f472/0x7c7245
+#: olang/0066e64e/0x35f472/0x8e4842 olang/0066e64e/0x4983dd/0x7c7243
+#: olang/0066e64e/0x4983dd/0x7c7245 olang/0066e64e/0x4983dd/0x8e4842
+#: olang/0066e64e/0x4983dd/0x8e4844 olang/0066e64e/0x4983dd/0x8e4845
+#: olang/0066e64e/0x4ad0f0/0x7c723f olang/0066e64e/0x4ad0f0/0x7c7240
+#: olang/0066e64e/0x4ad0f0/0x7c7241 olang/0066e64e/0x4ad0f0/0x7c7242
+#: olang/0066e64e/0x4ad0f0/0x7c7243 olang/0066e64e/0x4ad0f0/0x7c7244
+#: olang/0066e64e/0x4ad0f0/0x7c7245 olang/0066e64e/0x4ad0f0/0x7c7246
+#: olang/0066e64e/0x4ad0f0/0x7c7247 olang/0066e64e/0x4ad0f0/0x7c7248
+#: olang/0066e64e/0x4ad0f0/0x8e483f olang/0066e64e/0x4ad0f0/0x8e4840
+#: olang/0066e64e/0x4ad0f0/0x8e4841 olang/0066e64e/0x4ad0f0/0x8e4842
+#: olang/0066e64e/0x4ad0f0/0x8e4843 olang/0066e64e/0x4ad0f0/0x8e4844
+#: olang/0066e64e/0x4ad0f0/0x8e4845 olang/0066e64e/0x5389f6/0x7c7242
+#: olang/0066e64e/0x5389f6/0x7c7243 olang/0066e64e/0x5389f6/0x7c7245
+#: olang/0066e64e/0x5389f6/0x8e4842 olang/0066e64e/0x5389f6/0x8e4844
+#: olang/0066e64e/0x5389f6/0x8e4845 olang/0066e64e/0x53f3f0/0x7c7241
+#: olang/0066e64e/0x53f3f0/0x7c7243 olang/0066e64e/0x53f3f0/0x7c7245
+#: olang/0066e64e/0x53f3f0/0x8e4842 olang/0066e64e/0x678b3d/0x7c7243
+#: olang/0066e64e/0x678b3d/0x7c7244 olang/0066e64e/0x678b3d/0x7c7245
+#: olang/0066e64e/0x678b3d/0x7c7246 olang/0066e64e/0x678b3d/0x8e483f
+#: olang/0066e64e/0x678b3d/0x8e4840 olang/0066e64e/0x678b3d/0x8e4842
+#: olang/0066e64e/0x678b3d/0x8e4844 olang/0066e64e/0x678b3d/0x8e4845
+#: olang/0066e64e/0x7893c2/0x7c7243 olang/0066e64e/0x7893c2/0x7c7245
+#: olang/0066e64e/0x7893c2/0x8e4842 olang/0066e64e/0x89e528/0x7c7243
+#: olang/0066e64e/0x89e528/0x7c7245 olang/0066e64e/0x89e528/0x8e4842
+#: olang/0066e64e/0x89e528/0x8e4844 olang/0066e64e/0x89e528/0x8e4845
+#: olang/0066e64e/0x89e8a0/0x7c7243 olang/0066e64e/0x89e8a0/0x7c7245
+#: olang/0066e64e/0x89e8a0/0x8e4842 olang/0066e64e/0x89e8a0/0x8e4844
+#: olang/0066e64e/0x89e8a0/0x8e4845 olang/0066e64e/0x97a719/0x3b8f30
+#: olang/0066e64e/0xa69279/0x7c7243 olang/0066e64e/0xa69279/0x7c7245
+#: olang/0066e64e/0xa69279/0x8e4842 olang/0066e64e/0xa69279/0x8e4844
+#: olang/0066e64e/0xa69279/0x8e4845 olang/0066e64e/0xb8862e/0x7c7241
+#: olang/0066e64e/0xb8862e/0x7c7243 olang/0066e64e/0xb8862e/0x7c7245
+#: olang/0066e64e/0xb8862e/0x8e4842 olang/0066e64e/0xd33fba/0x7c7241
+#: olang/0066e64e/0xd33fba/0x7c7243 olang/0066e64e/0xd33fba/0x7c7245
+#: olang/0066e64e/0xd33fba/0x8e4842 olang/0066e64e/0xd33fba/0x8e4844
+#: olang/0066e64e/0xd33fba/0x8e4845 olang/0066e64e/0xd4462e/0x7c7241
+#: olang/0066e64e/0xd4462e/0x7c7243 olang/0066e64e/0xd4462e/0x7c7245
+#: olang/0066e64e/0xd4462e/0x8e4842 olang/0066e64e/0xda75f0/0x7c7241
+#: olang/0066e64e/0xda75f0/0x7c7243 olang/0066e64e/0xda75f0/0x7c7245
+#: olang/0066e64e/0xda75f0/0x8e483f olang/0066e64e/0xda75f0/0x8e4840
+#: olang/0066e64e/0xda75f0/0x8e4842 olang/0066e64e/0xdd6303/0x7c7241
+#: olang/0066e64e/0xdd6303/0x7c7243 olang/0066e64e/0xdd6303/0x7c7245
+#: olang/0066e64e/0xdd6303/0x8e4842 olang/0066e64e/0xdd6303/0x8e4844
+#: olang/0066e64e/0xdd6303/0x8e4845 olang/0066e64e/0xecf67f/0x7c7243
+#: olang/0066e64e/0xecf67f/0x7c7245 olang/0066e64e/0xecf67f/0x8e4842
+#: olang/0066e64e/0xecf67f/0x8e4844 olang/0066e64e/0xecf67f/0x8e4845
+#: olang/009c9ea4/0x210062/0x7c723f olang/009c9ea4/0x210062/0x7c7240
+#: olang/009c9ea4/0x210062/0x7c7241 olang/009c9ea4/0x210062/0x7c7242
+#: olang/009c9ea4/0x210062/0x7c7243 olang/009c9ea4/0x210062/0x7c7245
+#: olang/009c9ea4/0x210062/0x7c7247 olang/009c9ea4/0x210062/0x7c7248
+#: olang/009c9ea4/0x210063/0x7c723f olang/009c9ea4/0x210063/0x7c7240
+#: olang/009c9ea4/0x210063/0x7c7241 olang/009c9ea4/0x210063/0x7c7242
+#: olang/009c9ea4/0x210063/0x7c7243 olang/009c9ea4/0x210063/0x7c7245
+#: olang/009c9ea4/0x210063/0x7c7247 olang/009c9ea4/0x210063/0x7c7248
+#: olang/009c9ea4/0x210063/0x8e483f olang/009c9ea4/0x210063/0x8e4840
+#: olang/009c9ea4/0x210063/0x8e4841 olang/009c9ea4/0x210064/0x7c7243
+#: olang/009c9ea4/0x210064/0x7c7245 olang/009c9ea4/0x210064/0x7c7247
+#: olang/009c9ea4/0x210064/0x7c7248 olang/009c9ea4/0x210064/0x8e483f
+#: olang/009c9ea4/0x210064/0x8e4840 olang/009c9ea4/0x210064/0x8e4841
+#: olang/009c9ea4/0x210064/0x8e4842 olang/009c9ea4/0x210065/0x7c7241
+#: olang/009c9ea4/0x210065/0x7c7242 olang/009c9ea4/0x210065/0x7c7243
+#: olang/009c9ea4/0x210065/0x7c7245 olang/009c9ea4/0x210065/0x8e483f
+#: olang/009c9ea4/0x210065/0x8e4840 olang/009c9ea4/0x210065/0x8e4842
+#: olang/009c9ea4/0x210066/0x7c723f olang/009c9ea4/0x210066/0x7c7240
+#: olang/009c9ea4/0x210066/0x7c7241 olang/009c9ea4/0x210066/0x7c7242
+#: olang/009c9ea4/0x210066/0x7c7243 olang/009c9ea4/0x210066/0x7c7245
+#: olang/009c9ea4/0x210066/0x8e4842 olang/009c9ea4/0x210067/0x7c723f
+#: olang/009c9ea4/0x210067/0x7c7240 olang/009c9ea4/0x210067/0x7c7241
+#: olang/009c9ea4/0x210067/0x7c7242 olang/009c9ea4/0x210067/0x7c7243
+#: olang/009c9ea4/0x210067/0x7c7245 olang/009c9ea4/0x210067/0x7c7247
+#: olang/009c9ea4/0x210067/0x7c7248 olang/009c9ea4/0x210067/0x8e483f
+#: olang/009c9ea4/0x210067/0x8e4840 olang/009c9ea4/0x210067/0x8e4841
+#: olang/009c9ea4/0x210067/0x8e4842 olang/009c9ea4/0x210068/0x7c723f
+#: olang/009c9ea4/0x210068/0x7c7240 olang/009c9ea4/0x210068/0x7c7241
+#: olang/009c9ea4/0x210068/0x7c7242 olang/009c9ea4/0x210068/0x7c7243
+#: olang/009c9ea4/0x210068/0x7c7244 olang/009c9ea4/0x210068/0x7c7245
+#: olang/009c9ea4/0x210068/0x7c7246 olang/009c9ea4/0x210068/0x7c7247
+#: olang/009c9ea4/0x210068/0x7c7248 olang/009c9ea4/0x210068/0x8e483f
+#: olang/009c9ea4/0x210068/0x8e4840 olang/009c9ea4/0x210068/0x8e4841
+#: olang/009c9ea4/0x210068/0x8e4842 olang/009c9ea4/0x210068/0x8e4844
+#: olang/009c9ea4/0x210068/0x8e4845 olang/009c9ea4/0x210069/0x7c723f
+#: olang/009c9ea4/0x210069/0x7c7242 olang/009c9ea4/0x210069/0x7c7243
+#: olang/009c9ea4/0x210069/0x7c7245 olang/009c9ea4/0x210069/0x7c7247
+#: olang/009c9ea4/0x210069/0x7c7248 olang/009c9ea4/0x210069/0x8e483f
+#: olang/009c9ea4/0x210069/0x8e4840 olang/009c9ea4/0x210069/0x8e4841
+#: olang/009c9ea4/0x210069/0x8e4842 olang/009c9ea4/0x21006a/0x7c723f
+#: olang/009c9ea4/0x21006a/0x7c7242 olang/009c9ea4/0x21006a/0x7c7243
+#: olang/009c9ea4/0x21006a/0x7c7245 olang/009c9ea4/0x21006a/0x8e483f
+#: olang/009c9ea4/0x21006a/0x8e4840 olang/009c9ea4/0x21006a/0x8e4842
+#: olang/009c9ea4/0x21006b/0x7c7243 olang/009c9ea4/0x21006b/0x7c7245
+#: olang/009c9ea4/0x21006b/0x7c7247 olang/009c9ea4/0x21006b/0x7c7248
+#: olang/009c9ea4/0x21006b/0x8e483f olang/009c9ea4/0x21006b/0x8e4840
+#: olang/009c9ea4/0x21006b/0x8e4841 olang/009c9ea4/0x21006b/0x8e4842
+#: olang/009c9ea4/0x35f472/0x7c7243 olang/009c9ea4/0x35f472/0x7c7245
+#: olang/009c9ea4/0x35f472/0x8e4842 olang/009c9ea4/0x4983dd/0x7c7243
+#: olang/009c9ea4/0x4983dd/0x7c7245 olang/009c9ea4/0x4983dd/0x8e4842
+#: olang/009c9ea4/0x4983dd/0x8e4844 olang/009c9ea4/0x4983dd/0x8e4845
+#: olang/009c9ea4/0x4ad0f0/0x7c723f olang/009c9ea4/0x4ad0f0/0x7c7240
+#: olang/009c9ea4/0x4ad0f0/0x7c7241 olang/009c9ea4/0x4ad0f0/0x7c7242
+#: olang/009c9ea4/0x4ad0f0/0x7c7243 olang/009c9ea4/0x4ad0f0/0x7c7244
+#: olang/009c9ea4/0x4ad0f0/0x7c7245 olang/009c9ea4/0x4ad0f0/0x7c7246
+#: olang/009c9ea4/0x4ad0f0/0x7c7247 olang/009c9ea4/0x4ad0f0/0x7c7248
+#: olang/009c9ea4/0x4ad0f0/0x8e483f olang/009c9ea4/0x4ad0f0/0x8e4840
+#: olang/009c9ea4/0x4ad0f0/0x8e4841 olang/009c9ea4/0x4ad0f0/0x8e4842
+#: olang/009c9ea4/0x4ad0f0/0x8e4843 olang/009c9ea4/0x4ad0f0/0x8e4844
+#: olang/009c9ea4/0x4ad0f0/0x8e4845 olang/009c9ea4/0x5389f6/0x7c7242
+#: olang/009c9ea4/0x5389f6/0x7c7243 olang/009c9ea4/0x5389f6/0x7c7245
+#: olang/009c9ea4/0x5389f6/0x8e4842 olang/009c9ea4/0x5389f6/0x8e4844
+#: olang/009c9ea4/0x5389f6/0x8e4845 olang/009c9ea4/0x53f3f0/0x7c7241
+#: olang/009c9ea4/0x53f3f0/0x7c7243 olang/009c9ea4/0x53f3f0/0x7c7245
+#: olang/009c9ea4/0x53f3f0/0x8e4842 olang/009c9ea4/0x678b3d/0x7c7243
+#: olang/009c9ea4/0x678b3d/0x7c7244 olang/009c9ea4/0x678b3d/0x7c7245
+#: olang/009c9ea4/0x678b3d/0x7c7246 olang/009c9ea4/0x678b3d/0x8e483f
+#: olang/009c9ea4/0x678b3d/0x8e4840 olang/009c9ea4/0x678b3d/0x8e4842
+#: olang/009c9ea4/0x678b3d/0x8e4844 olang/009c9ea4/0x678b3d/0x8e4845
+#: olang/009c9ea4/0x7893c2/0x7c7243 olang/009c9ea4/0x7893c2/0x7c7245
+#: olang/009c9ea4/0x7893c2/0x8e4842 olang/009c9ea4/0x89e528/0x7c7243
+#: olang/009c9ea4/0x89e528/0x7c7245 olang/009c9ea4/0x89e528/0x8e4842
+#: olang/009c9ea4/0x89e528/0x8e4844 olang/009c9ea4/0x89e528/0x8e4845
+#: olang/009c9ea4/0x89e8a0/0x7c7243 olang/009c9ea4/0x89e8a0/0x7c7245
+#: olang/009c9ea4/0x89e8a0/0x8e4842 olang/009c9ea4/0x89e8a0/0x8e4844
+#: olang/009c9ea4/0x89e8a0/0x8e4845 olang/009c9ea4/0xa69279/0x7c7243
+#: olang/009c9ea4/0xa69279/0x7c7245 olang/009c9ea4/0xa69279/0x8e4842
+#: olang/009c9ea4/0xa69279/0x8e4844 olang/009c9ea4/0xa69279/0x8e4845
+#: olang/009c9ea4/0xb8862e/0x7c7241 olang/009c9ea4/0xb8862e/0x7c7243
+#: olang/009c9ea4/0xb8862e/0x7c7245 olang/009c9ea4/0xb8862e/0x8e4842
+#: olang/009c9ea4/0xd33fba/0x7c7241 olang/009c9ea4/0xd33fba/0x7c7243
+#: olang/009c9ea4/0xd33fba/0x7c7245 olang/009c9ea4/0xd33fba/0x8e4842
+#: olang/009c9ea4/0xd33fba/0x8e4844 olang/009c9ea4/0xd33fba/0x8e4845
+#: olang/009c9ea4/0xd4462e/0x7c7241 olang/009c9ea4/0xd4462e/0x7c7243
+#: olang/009c9ea4/0xd4462e/0x7c7245 olang/009c9ea4/0xd4462e/0x8e4842
+#: olang/009c9ea4/0xda75f0/0x7c7241 olang/009c9ea4/0xda75f0/0x7c7243
+#: olang/009c9ea4/0xda75f0/0x7c7245 olang/009c9ea4/0xda75f0/0x8e483f
+#: olang/009c9ea4/0xda75f0/0x8e4840 olang/009c9ea4/0xda75f0/0x8e4842
+#: olang/009c9ea4/0xdd6303/0x7c7241 olang/009c9ea4/0xdd6303/0x7c7243
+#: olang/009c9ea4/0xdd6303/0x7c7245 olang/009c9ea4/0xdd6303/0x8e4842
+#: olang/009c9ea4/0xdd6303/0x8e4844 olang/009c9ea4/0xdd6303/0x8e4845
+#: olang/009c9ea4/0xecf67f/0x7c7243 olang/009c9ea4/0xecf67f/0x7c7245
+#: olang/009c9ea4/0xecf67f/0x8e4842 olang/009c9ea4/0xecf67f/0x8e4844
 #: olang/009c9ea4/0xecf67f/0x8e4845
 msgid "Not Used"
 msgstr ""
 
-#: olang/0066e64e/0x0c4f4e/0x000af0
-#: olang/0066e64e/0x0c4f4e/0x23472e
-#: olang/0066e64e/0x0c4f4e/0x271d14
-#: olang/0066e64e/0x0c4f4e/0x45a559
-#: olang/0066e64e/0x0c4f4e/0x5b41ee
-#: olang/0066e64e/0x97a719/0x5b41ee
-#: olang/0066e64e/0xef247a/0x000af0
-#: olang/0066e64e/0xef247a/0x23472e
-#: olang/0066e64e/0xef247a/0x271d14
-#: olang/0066e64e/0xef247a/0x45a559
+#: olang/0066e64e/0x0c4f4e/0x000af0 olang/0066e64e/0x0c4f4e/0x23472e
+#: olang/0066e64e/0x0c4f4e/0x271d14 olang/0066e64e/0x0c4f4e/0x45a559
+#: olang/0066e64e/0x0c4f4e/0x5b41ee olang/0066e64e/0x97a719/0x5b41ee
+#: olang/0066e64e/0xef247a/0x000af0 olang/0066e64e/0xef247a/0x23472e
+#: olang/0066e64e/0xef247a/0x271d14 olang/0066e64e/0xef247a/0x45a559
 #: olang/0066e64e/0xef247a/0x5b41ee
 msgid "Shift Camera"
 msgstr ""
@@ -1469,22 +1183,18 @@ msgstr ""
 msgid "Melee Attack/Cancel Aim"
 msgstr ""
 
-#: olang/0066e64e/0x0c4f4e/0x5b0e99
-#: olang/0066e64e/0x97a719/0x5b0e99
+#: olang/0066e64e/0x0c4f4e/0x5b0e99 olang/0066e64e/0x97a719/0x5b0e99
 #: olang/0066e64e/0xef247a/0x5b0e99
 msgid "Display Menu"
 msgstr ""
 
-#: olang/0066e64e/0x0c4f4e/0x5b406e
-#: olang/0066e64e/0x97a719/0x5b406e
+#: olang/0066e64e/0x0c4f4e/0x5b406e olang/0066e64e/0x97a719/0x5b406e
 #: olang/0066e64e/0xef247a/0x5b406e
 msgid "Move"
 msgstr ""
 
-#: olang/0066e64e/0x0c4f4e/0xa78e90
-#: olang/0066e64e/0x97a719/0x23472e
-#: olang/0066e64e/0x97a719/0xa78e90
-#: olang/0066e64e/0xef247a/0xa78e90
+#: olang/0066e64e/0x0c4f4e/0xa78e90 olang/0066e64e/0x97a719/0x23472e
+#: olang/0066e64e/0x97a719/0xa78e90 olang/0066e64e/0xef247a/0xa78e90
 msgid "Crouch/Lie"
 msgstr ""
 
@@ -1492,664 +1202,408 @@ msgstr ""
 msgid "Action Button/Reload"
 msgstr ""
 
-#: olang/0066e64e/0x210062/0x7c7244
-#: olang/0066e64e/0x210062/0x7c7246
-#: olang/0066e64e/0x210063/0x7c7244
-#: olang/0066e64e/0x210063/0x7c7246
-#: olang/0066e64e/0x210064/0x7c7244
-#: olang/0066e64e/0x210064/0x7c7246
-#: olang/0066e64e/0x210065/0x7c7244
-#: olang/0066e64e/0x210065/0x7c7246
-#: olang/0066e64e/0x210066/0x7c7244
-#: olang/0066e64e/0x210066/0x7c7246
-#: olang/0066e64e/0x210067/0x7c7244
-#: olang/0066e64e/0x210067/0x7c7246
-#: olang/0066e64e/0x210069/0x7c7244
-#: olang/0066e64e/0x210069/0x7c7246
-#: olang/0066e64e/0x21006a/0x7c7244
-#: olang/0066e64e/0x21006a/0x7c7246
-#: olang/0066e64e/0x21006b/0x7c7244
-#: olang/0066e64e/0x21006b/0x7c7246
-#: olang/0066e64e/0x35f472/0x7c7244
-#: olang/0066e64e/0x35f472/0x7c7246
-#: olang/0066e64e/0x4983dd/0x7c7244
-#: olang/0066e64e/0x4983dd/0x7c7246
-#: olang/0066e64e/0x5389f6/0x7c7244
-#: olang/0066e64e/0x5389f6/0x7c7246
-#: olang/0066e64e/0x53f3f0/0x7c7244
-#: olang/0066e64e/0x53f3f0/0x7c7246
-#: olang/0066e64e/0x7893c2/0x7c7244
-#: olang/0066e64e/0x7893c2/0x7c7246
-#: olang/0066e64e/0x89e528/0x7c7244
-#: olang/0066e64e/0x89e528/0x7c7246
-#: olang/0066e64e/0x89e8a0/0x7c7244
-#: olang/0066e64e/0x89e8a0/0x7c7246
-#: olang/0066e64e/0xa69279/0x7c7244
-#: olang/0066e64e/0xa69279/0x7c7246
-#: olang/0066e64e/0xb8862e/0x7c7244
-#: olang/0066e64e/0xb8862e/0x7c7246
-#: olang/0066e64e/0xd33fba/0x7c7244
-#: olang/0066e64e/0xd33fba/0x7c7246
-#: olang/0066e64e/0xd4462e/0x7c7244
-#: olang/0066e64e/0xd4462e/0x7c7246
-#: olang/0066e64e/0xda75f0/0x7c7244
-#: olang/0066e64e/0xda75f0/0x7c7246
-#: olang/0066e64e/0xdd6303/0x7c7244
-#: olang/0066e64e/0xdd6303/0x7c7246
-#: olang/0066e64e/0xecf67f/0x7c7244
-#: olang/0066e64e/0xecf67f/0x7c7246
-#: olang/009c9ea4/0x210062/0x7c7244
-#: olang/009c9ea4/0x210062/0x7c7246
-#: olang/009c9ea4/0x210063/0x7c7244
-#: olang/009c9ea4/0x210063/0x7c7246
-#: olang/009c9ea4/0x210064/0x7c7244
-#: olang/009c9ea4/0x210064/0x7c7246
-#: olang/009c9ea4/0x210065/0x7c7244
-#: olang/009c9ea4/0x210065/0x7c7246
-#: olang/009c9ea4/0x210066/0x7c7244
-#: olang/009c9ea4/0x210066/0x7c7246
-#: olang/009c9ea4/0x210067/0x7c7244
-#: olang/009c9ea4/0x210067/0x7c7246
-#: olang/009c9ea4/0x210069/0x7c7244
-#: olang/009c9ea4/0x210069/0x7c7246
-#: olang/009c9ea4/0x21006a/0x7c7244
-#: olang/009c9ea4/0x21006a/0x7c7246
-#: olang/009c9ea4/0x21006b/0x7c7244
-#: olang/009c9ea4/0x21006b/0x7c7246
-#: olang/009c9ea4/0x35f472/0x7c7244
-#: olang/009c9ea4/0x35f472/0x7c7246
-#: olang/009c9ea4/0x4983dd/0x7c7244
-#: olang/009c9ea4/0x4983dd/0x7c7246
-#: olang/009c9ea4/0x5389f6/0x7c7244
-#: olang/009c9ea4/0x5389f6/0x7c7246
-#: olang/009c9ea4/0x53f3f0/0x7c7244
-#: olang/009c9ea4/0x53f3f0/0x7c7246
-#: olang/009c9ea4/0x7893c2/0x7c7244
-#: olang/009c9ea4/0x7893c2/0x7c7246
-#: olang/009c9ea4/0x89e528/0x7c7244
-#: olang/009c9ea4/0x89e528/0x7c7246
-#: olang/009c9ea4/0x89e8a0/0x7c7244
-#: olang/009c9ea4/0x89e8a0/0x7c7246
-#: olang/009c9ea4/0xa69279/0x7c7244
-#: olang/009c9ea4/0xa69279/0x7c7246
-#: olang/009c9ea4/0xb8862e/0x7c7244
-#: olang/009c9ea4/0xb8862e/0x7c7246
-#: olang/009c9ea4/0xd33fba/0x7c7244
-#: olang/009c9ea4/0xd33fba/0x7c7246
-#: olang/009c9ea4/0xd4462e/0x7c7244
-#: olang/009c9ea4/0xd4462e/0x7c7246
-#: olang/009c9ea4/0xda75f0/0x7c7244
-#: olang/009c9ea4/0xda75f0/0x7c7246
-#: olang/009c9ea4/0xdd6303/0x7c7244
-#: olang/009c9ea4/0xdd6303/0x7c7246
-#: olang/009c9ea4/0xecf67f/0x7c7244
-#: olang/009c9ea4/0xecf67f/0x7c7246
+#: olang/0066e64e/0x210062/0x7c7244 olang/0066e64e/0x210062/0x7c7246
+#: olang/0066e64e/0x210063/0x7c7244 olang/0066e64e/0x210063/0x7c7246
+#: olang/0066e64e/0x210064/0x7c7244 olang/0066e64e/0x210064/0x7c7246
+#: olang/0066e64e/0x210065/0x7c7244 olang/0066e64e/0x210065/0x7c7246
+#: olang/0066e64e/0x210066/0x7c7244 olang/0066e64e/0x210066/0x7c7246
+#: olang/0066e64e/0x210067/0x7c7244 olang/0066e64e/0x210067/0x7c7246
+#: olang/0066e64e/0x210069/0x7c7244 olang/0066e64e/0x210069/0x7c7246
+#: olang/0066e64e/0x21006a/0x7c7244 olang/0066e64e/0x21006a/0x7c7246
+#: olang/0066e64e/0x21006b/0x7c7244 olang/0066e64e/0x21006b/0x7c7246
+#: olang/0066e64e/0x35f472/0x7c7244 olang/0066e64e/0x35f472/0x7c7246
+#: olang/0066e64e/0x4983dd/0x7c7244 olang/0066e64e/0x4983dd/0x7c7246
+#: olang/0066e64e/0x5389f6/0x7c7244 olang/0066e64e/0x5389f6/0x7c7246
+#: olang/0066e64e/0x53f3f0/0x7c7244 olang/0066e64e/0x53f3f0/0x7c7246
+#: olang/0066e64e/0x7893c2/0x7c7244 olang/0066e64e/0x7893c2/0x7c7246
+#: olang/0066e64e/0x89e528/0x7c7244 olang/0066e64e/0x89e528/0x7c7246
+#: olang/0066e64e/0x89e8a0/0x7c7244 olang/0066e64e/0x89e8a0/0x7c7246
+#: olang/0066e64e/0xa69279/0x7c7244 olang/0066e64e/0xa69279/0x7c7246
+#: olang/0066e64e/0xb8862e/0x7c7244 olang/0066e64e/0xb8862e/0x7c7246
+#: olang/0066e64e/0xd33fba/0x7c7244 olang/0066e64e/0xd33fba/0x7c7246
+#: olang/0066e64e/0xd4462e/0x7c7244 olang/0066e64e/0xd4462e/0x7c7246
+#: olang/0066e64e/0xda75f0/0x7c7244 olang/0066e64e/0xda75f0/0x7c7246
+#: olang/0066e64e/0xdd6303/0x7c7244 olang/0066e64e/0xdd6303/0x7c7246
+#: olang/0066e64e/0xecf67f/0x7c7244 olang/0066e64e/0xecf67f/0x7c7246
+#: olang/009c9ea4/0x210062/0x7c7244 olang/009c9ea4/0x210062/0x7c7246
+#: olang/009c9ea4/0x210063/0x7c7244 olang/009c9ea4/0x210063/0x7c7246
+#: olang/009c9ea4/0x210064/0x7c7244 olang/009c9ea4/0x210064/0x7c7246
+#: olang/009c9ea4/0x210065/0x7c7244 olang/009c9ea4/0x210065/0x7c7246
+#: olang/009c9ea4/0x210066/0x7c7244 olang/009c9ea4/0x210066/0x7c7246
+#: olang/009c9ea4/0x210067/0x7c7244 olang/009c9ea4/0x210067/0x7c7246
+#: olang/009c9ea4/0x210069/0x7c7244 olang/009c9ea4/0x210069/0x7c7246
+#: olang/009c9ea4/0x21006a/0x7c7244 olang/009c9ea4/0x21006a/0x7c7246
+#: olang/009c9ea4/0x21006b/0x7c7244 olang/009c9ea4/0x21006b/0x7c7246
+#: olang/009c9ea4/0x35f472/0x7c7244 olang/009c9ea4/0x35f472/0x7c7246
+#: olang/009c9ea4/0x4983dd/0x7c7244 olang/009c9ea4/0x4983dd/0x7c7246
+#: olang/009c9ea4/0x5389f6/0x7c7244 olang/009c9ea4/0x5389f6/0x7c7246
+#: olang/009c9ea4/0x53f3f0/0x7c7244 olang/009c9ea4/0x53f3f0/0x7c7246
+#: olang/009c9ea4/0x7893c2/0x7c7244 olang/009c9ea4/0x7893c2/0x7c7246
+#: olang/009c9ea4/0x89e528/0x7c7244 olang/009c9ea4/0x89e528/0x7c7246
+#: olang/009c9ea4/0x89e8a0/0x7c7244 olang/009c9ea4/0x89e8a0/0x7c7246
+#: olang/009c9ea4/0xa69279/0x7c7244 olang/009c9ea4/0xa69279/0x7c7246
+#: olang/009c9ea4/0xb8862e/0x7c7244 olang/009c9ea4/0xb8862e/0x7c7246
+#: olang/009c9ea4/0xd33fba/0x7c7244 olang/009c9ea4/0xd33fba/0x7c7246
+#: olang/009c9ea4/0xd4462e/0x7c7244 olang/009c9ea4/0xd4462e/0x7c7246
+#: olang/009c9ea4/0xda75f0/0x7c7244 olang/009c9ea4/0xda75f0/0x7c7246
+#: olang/009c9ea4/0xdd6303/0x7c7244 olang/009c9ea4/0xdd6303/0x7c7246
+#: olang/009c9ea4/0xecf67f/0x7c7244 olang/009c9ea4/0xecf67f/0x7c7246
 msgid "Change Tab"
 msgstr ""
 
-#: olang/0066e64e/0x210062/0x8e483f
-#: olang/0066e64e/0x210062/0x8e4840
-#: olang/0066e64e/0x210062/0x8e4841
-#: olang/009c9ea4/0x210062/0x8e483f
-#: olang/009c9ea4/0x210062/0x8e4840
-#: olang/009c9ea4/0x210062/0x8e4841
+#: olang/0066e64e/0x210062/0x8e483f olang/0066e64e/0x210062/0x8e4840
+#: olang/0066e64e/0x210062/0x8e4841 olang/009c9ea4/0x210062/0x8e483f
+#: olang/009c9ea4/0x210062/0x8e4840 olang/009c9ea4/0x210062/0x8e4841
 msgid "Change Floor (on maps with more than 1 story)"
 msgstr ""
 
-#: olang/0066e64e/0x210062/0x8e4842
-#: olang/0066e64e/0x210063/0x8e4842
-#: olang/009c9ea4/0x210062/0x8e4842
-#: olang/009c9ea4/0x210063/0x8e4842
+#: olang/0066e64e/0x210062/0x8e4842 olang/0066e64e/0x210063/0x8e4842
+#: olang/009c9ea4/0x210062/0x8e4842 olang/009c9ea4/0x210063/0x8e4842
 msgid "Scroll"
 msgstr ""
 
-#: olang/0066e64e/0x210062/0x8e4843
-#: olang/0066e64e/0x210063/0x8e4843
-#: olang/0066e64e/0x210064/0x8e4843
-#: olang/0066e64e/0x210065/0x8e4843
-#: olang/0066e64e/0x210066/0x8e4843
-#: olang/0066e64e/0x210067/0x8e4843
-#: olang/0066e64e/0x210069/0x8e4843
-#: olang/0066e64e/0x21006a/0x8e4843
+#: olang/0066e64e/0x210062/0x8e4843 olang/0066e64e/0x210063/0x8e4843
+#: olang/0066e64e/0x210064/0x8e4843 olang/0066e64e/0x210065/0x8e4843
+#: olang/0066e64e/0x210066/0x8e4843 olang/0066e64e/0x210067/0x8e4843
+#: olang/0066e64e/0x210069/0x8e4843 olang/0066e64e/0x21006a/0x8e4843
 #: olang/0066e64e/0x21006b/0x8e4843
 msgid "Display Key Help"
 msgstr ""
 
-#: olang/0066e64e/0x210062/0x8e4844
-#: olang/0066e64e/0x210062/0x8e4845
-#: olang/0066e64e/0x210063/0x8e4844
-#: olang/0066e64e/0x210063/0x8e4845
-#: olang/0066e64e/0x210064/0x8e4844
-#: olang/0066e64e/0x210064/0x8e4845
-#: olang/0066e64e/0x210065/0x8e4844
-#: olang/0066e64e/0x210065/0x8e4845
-#: olang/0066e64e/0x210066/0x8e4844
-#: olang/0066e64e/0x210066/0x8e4845
-#: olang/0066e64e/0x210067/0x8e4844
-#: olang/0066e64e/0x210067/0x8e4845
-#: olang/0066e64e/0x210069/0x8e4844
-#: olang/0066e64e/0x210069/0x8e4845
-#: olang/0066e64e/0x21006a/0x8e4844
-#: olang/0066e64e/0x21006a/0x8e4845
-#: olang/0066e64e/0x21006b/0x8e4844
-#: olang/0066e64e/0x21006b/0x8e4845
-#: olang/009c9ea4/0x210062/0x8e4844
-#: olang/009c9ea4/0x210062/0x8e4845
-#: olang/009c9ea4/0x210063/0x8e4844
-#: olang/009c9ea4/0x210063/0x8e4845
-#: olang/009c9ea4/0x210064/0x8e4844
-#: olang/009c9ea4/0x210064/0x8e4845
-#: olang/009c9ea4/0x210065/0x8e4844
-#: olang/009c9ea4/0x210065/0x8e4845
-#: olang/009c9ea4/0x210066/0x8e4844
-#: olang/009c9ea4/0x210066/0x8e4845
-#: olang/009c9ea4/0x210067/0x8e4844
-#: olang/009c9ea4/0x210067/0x8e4845
-#: olang/009c9ea4/0x210069/0x8e4844
-#: olang/009c9ea4/0x210069/0x8e4845
-#: olang/009c9ea4/0x21006a/0x8e4844
-#: olang/009c9ea4/0x21006a/0x8e4845
-#: olang/009c9ea4/0x21006b/0x8e4844
-#: olang/009c9ea4/0x21006b/0x8e4845
+#: olang/0066e64e/0x210062/0x8e4844 olang/0066e64e/0x210062/0x8e4845
+#: olang/0066e64e/0x210063/0x8e4844 olang/0066e64e/0x210063/0x8e4845
+#: olang/0066e64e/0x210064/0x8e4844 olang/0066e64e/0x210064/0x8e4845
+#: olang/0066e64e/0x210065/0x8e4844 olang/0066e64e/0x210065/0x8e4845
+#: olang/0066e64e/0x210066/0x8e4844 olang/0066e64e/0x210066/0x8e4845
+#: olang/0066e64e/0x210067/0x8e4844 olang/0066e64e/0x210067/0x8e4845
+#: olang/0066e64e/0x210069/0x8e4844 olang/0066e64e/0x210069/0x8e4845
+#: olang/0066e64e/0x21006a/0x8e4844 olang/0066e64e/0x21006a/0x8e4845
+#: olang/0066e64e/0x21006b/0x8e4844 olang/0066e64e/0x21006b/0x8e4845
+#: olang/009c9ea4/0x210062/0x8e4844 olang/009c9ea4/0x210062/0x8e4845
+#: olang/009c9ea4/0x210063/0x8e4844 olang/009c9ea4/0x210063/0x8e4845
+#: olang/009c9ea4/0x210064/0x8e4844 olang/009c9ea4/0x210064/0x8e4845
+#: olang/009c9ea4/0x210065/0x8e4844 olang/009c9ea4/0x210065/0x8e4845
+#: olang/009c9ea4/0x210066/0x8e4844 olang/009c9ea4/0x210066/0x8e4845
+#: olang/009c9ea4/0x210067/0x8e4844 olang/009c9ea4/0x210067/0x8e4845
+#: olang/009c9ea4/0x210069/0x8e4844 olang/009c9ea4/0x210069/0x8e4845
+#: olang/009c9ea4/0x21006a/0x8e4844 olang/009c9ea4/0x21006a/0x8e4845
+#: olang/009c9ea4/0x21006b/0x8e4844 olang/009c9ea4/0x21006b/0x8e4845
 msgid "Close Menu"
 msgstr ""
 
-#: olang/0066e64e/0x210064/0x7c723f
-#: olang/0066e64e/0x210064/0x7c7240
-#: olang/0066e64e/0x210064/0x7c7241
-#: olang/0066e64e/0x210064/0x7c7242
-#: olang/009c9ea4/0x210064/0x7c723f
-#: olang/009c9ea4/0x210064/0x7c7240
-#: olang/009c9ea4/0x210064/0x7c7241
-#: olang/009c9ea4/0x210064/0x7c7242
+#: olang/0066e64e/0x210064/0x7c723f olang/0066e64e/0x210064/0x7c7240
+#: olang/0066e64e/0x210064/0x7c7241 olang/0066e64e/0x210064/0x7c7242
+#: olang/009c9ea4/0x210064/0x7c723f olang/009c9ea4/0x210064/0x7c7240
+#: olang/009c9ea4/0x210064/0x7c7241 olang/009c9ea4/0x210064/0x7c7242
 msgid "Group Select / CO-OPS Comm. Select"
 msgstr ""
 
-#: olang/0066e64e/0x210065/0x7c723f
-#: olang/0066e64e/0x210065/0x7c7247
-#: olang/0066e64e/0x210065/0x7c7248
-#: olang/0066e64e/0x210065/0x8e4841
-#: olang/0066e64e/0x5389f6/0x7c723f
-#: olang/0066e64e/0x53f3f0/0x7c723f
-#: olang/0066e64e/0x678b3d/0x7c723f
-#: olang/0066e64e/0x7893c2/0x7c723f
-#: olang/0066e64e/0xa69279/0x7c723f
-#: olang/0066e64e/0xb8862e/0x7c723f
-#: olang/0066e64e/0xd33fba/0x7c723f
-#: olang/0066e64e/0xd4462e/0x7c723f
-#: olang/0066e64e/0xda75f0/0x7c723f
-#: olang/0066e64e/0xdd6303/0x7c723f
-#: olang/0066e64e/0xecf67f/0x7c723f
-#: olang/009c9ea4/0x210065/0x7c723f
-#: olang/009c9ea4/0x210065/0x7c7247
-#: olang/009c9ea4/0x210065/0x7c7248
-#: olang/009c9ea4/0x210065/0x8e4841
-#: olang/009c9ea4/0x5389f6/0x7c723f
-#: olang/009c9ea4/0x53f3f0/0x7c723f
-#: olang/009c9ea4/0x678b3d/0x7c723f
-#: olang/009c9ea4/0x7893c2/0x7c723f
-#: olang/009c9ea4/0xa69279/0x7c723f
-#: olang/009c9ea4/0xb8862e/0x7c723f
-#: olang/009c9ea4/0xd33fba/0x7c723f
-#: olang/009c9ea4/0xd4462e/0x7c723f
-#: olang/009c9ea4/0xda75f0/0x7c723f
-#: olang/009c9ea4/0xdd6303/0x7c723f
-#: olang/009c9ea4/0xecf67f/0x7c723f
+#: olang/0066e64e/0x210065/0x7c723f olang/0066e64e/0x210065/0x7c7247
+#: olang/0066e64e/0x210065/0x7c7248 olang/0066e64e/0x210065/0x8e4841
+#: olang/0066e64e/0x5389f6/0x7c723f olang/0066e64e/0x53f3f0/0x7c723f
+#: olang/0066e64e/0x678b3d/0x7c723f olang/0066e64e/0x7893c2/0x7c723f
+#: olang/0066e64e/0xa69279/0x7c723f olang/0066e64e/0xb8862e/0x7c723f
+#: olang/0066e64e/0xd33fba/0x7c723f olang/0066e64e/0xd4462e/0x7c723f
+#: olang/0066e64e/0xda75f0/0x7c723f olang/0066e64e/0xdd6303/0x7c723f
+#: olang/0066e64e/0xecf67f/0x7c723f olang/009c9ea4/0x210065/0x7c723f
+#: olang/009c9ea4/0x210065/0x7c7247 olang/009c9ea4/0x210065/0x7c7248
+#: olang/009c9ea4/0x210065/0x8e4841 olang/009c9ea4/0x5389f6/0x7c723f
+#: olang/009c9ea4/0x53f3f0/0x7c723f olang/009c9ea4/0x678b3d/0x7c723f
+#: olang/009c9ea4/0x7893c2/0x7c723f olang/009c9ea4/0xa69279/0x7c723f
+#: olang/009c9ea4/0xb8862e/0x7c723f olang/009c9ea4/0xd33fba/0x7c723f
+#: olang/009c9ea4/0xd4462e/0x7c723f olang/009c9ea4/0xda75f0/0x7c723f
+#: olang/009c9ea4/0xdd6303/0x7c723f olang/009c9ea4/0xecf67f/0x7c723f
 msgid "Select"
 msgstr ""
 
-#: olang/0066e64e/0x210065/0x7c7240
-#: olang/0066e64e/0xecf67f/0x7c7241
-#: olang/009c9ea4/0x210065/0x7c7240
-#: olang/00d0c740/0x482e82/0x381576
+#: olang/0066e64e/0x210065/0x7c7240 olang/0066e64e/0xecf67f/0x7c7241
+#: olang/009c9ea4/0x210065/0x7c7240 olang/00d0c740/0x482e82/0x381576
 msgid "Cancel"
 msgstr ""
 
-#: olang/0066e64e/0x210066/0x7c7247
-#: olang/0066e64e/0x210066/0x7c7248
-#: olang/009c9ea4/0x210066/0x7c7247
-#: olang/009c9ea4/0x210066/0x7c7248
+#: olang/0066e64e/0x210066/0x7c7247 olang/0066e64e/0x210066/0x7c7248
+#: olang/009c9ea4/0x210066/0x7c7247 olang/009c9ea4/0x210066/0x7c7248
 msgid "Item Select"
 msgstr ""
 
-#: olang/0066e64e/0x210066/0x8e483f
-#: olang/0066e64e/0x210066/0x8e4840
-#: olang/009c9ea4/0x210066/0x8e483f
-#: olang/009c9ea4/0x210066/0x8e4840
+#: olang/0066e64e/0x210066/0x8e483f olang/0066e64e/0x210066/0x8e4840
+#: olang/009c9ea4/0x210066/0x8e483f olang/009c9ea4/0x210066/0x8e4840
 msgid "Setting Select"
 msgstr ""
 
-#: olang/0066e64e/0x210066/0x8e4841
-#: olang/009c9ea4/0x210066/0x8e4841
+#: olang/0066e64e/0x210066/0x8e4841 olang/009c9ea4/0x210066/0x8e4841
 msgid "Item Select / Setting Select "
 msgstr ""
 
-#: olang/0066e64e/0x210069/0x7c7240
-#: olang/0066e64e/0x21006a/0x7c7240
-#: olang/0066e64e/0x4983dd/0x7c7242
-#: olang/009c9ea4/0x210069/0x7c7240
-#: olang/009c9ea4/0x21006a/0x7c7240
-#: olang/009c9ea4/0x4983dd/0x7c7242
+#: olang/0066e64e/0x210069/0x7c7240 olang/0066e64e/0x21006a/0x7c7240
+#: olang/0066e64e/0x4983dd/0x7c7242 olang/009c9ea4/0x210069/0x7c7240
+#: olang/009c9ea4/0x21006a/0x7c7240 olang/009c9ea4/0x4983dd/0x7c7242
 msgid "Play"
 msgstr ""
 
-#: olang/0066e64e/0x210069/0x7c7241
-#: olang/0066e64e/0x21006a/0x7c7241
-#: olang/009c9ea4/0x210069/0x7c7241
-#: olang/009c9ea4/0x21006a/0x7c7241
+#: olang/0066e64e/0x210069/0x7c7241 olang/0066e64e/0x21006a/0x7c7241
+#: olang/009c9ea4/0x210069/0x7c7241 olang/009c9ea4/0x21006a/0x7c7241
 msgid "Stop"
 msgstr ""
 
-#: olang/0066e64e/0x21006a/0x7c7247
-#: olang/0066e64e/0x21006b/0x7c7242
-#: olang/009c9ea4/0x21006a/0x7c7247
-#: olang/009c9ea4/0x21006b/0x7c7242
+#: olang/0066e64e/0x21006a/0x7c7247 olang/0066e64e/0x21006b/0x7c7242
+#: olang/009c9ea4/0x21006a/0x7c7247 olang/009c9ea4/0x21006b/0x7c7242
 msgid "Previous Track (while playing)"
 msgstr ""
 
-#: olang/0066e64e/0x21006a/0x7c7248
-#: olang/0066e64e/0x21006b/0x7c723f
-#: olang/009c9ea4/0x21006a/0x7c7248
-#: olang/009c9ea4/0x21006b/0x7c723f
+#: olang/0066e64e/0x21006a/0x7c7248 olang/0066e64e/0x21006b/0x7c723f
+#: olang/009c9ea4/0x21006a/0x7c7248 olang/009c9ea4/0x21006b/0x7c723f
 msgid "Next Track (while playing)"
 msgstr ""
 
-#: olang/0066e64e/0x21006a/0x8e4841
-#: olang/009c9ea4/0x21006a/0x8e4841
+#: olang/0066e64e/0x21006a/0x8e4841 olang/009c9ea4/0x21006a/0x8e4841
 msgid "Previous Track (while playing) / Next Track (while playing)"
 msgstr ""
 
-#: olang/0066e64e/0x21006b/0x7c7240
-#: olang/009c9ea4/0x21006b/0x7c7240
+#: olang/0066e64e/0x21006b/0x7c7240 olang/009c9ea4/0x21006b/0x7c7240
 msgid "Press to Play/Stop - Hold to Enter ZAPPIN Mode"
 msgstr ""
 
-#: olang/0066e64e/0x21006b/0x7c7241
-#: olang/009c9ea4/0x21006b/0x7c7241
+#: olang/0066e64e/0x21006b/0x7c7241 olang/009c9ea4/0x21006b/0x7c7241
 msgid "Toggle Shuffle Mode"
 msgstr ""
 
-#: olang/0066e64e/0x35f472/0x7c723f
-#: olang/009c9ea4/0x35f472/0x7c723f
+#: olang/0066e64e/0x35f472/0x7c723f olang/009c9ea4/0x35f472/0x7c723f
 msgid "Select / Skill Details"
 msgstr ""
 
-#: olang/0066e64e/0x35f472/0x7c7240
-#: olang/009c9ea4/0x35f472/0x7c7240
+#: olang/0066e64e/0x35f472/0x7c7240 olang/009c9ea4/0x35f472/0x7c7240
 msgid "Back / Cancel Entire Selection"
 msgstr ""
 
-#: olang/0066e64e/0x35f472/0x7c7241
-#: olang/0066e64e/0x7893c2/0x7c7241
-#: olang/009c9ea4/0x35f472/0x7c7241
-#: olang/009c9ea4/0x7893c2/0x7c7241
+#: olang/0066e64e/0x35f472/0x7c7241 olang/0066e64e/0x7893c2/0x7c7241
+#: olang/009c9ea4/0x35f472/0x7c7241 olang/009c9ea4/0x7893c2/0x7c7241
 msgid "Select / Cancel Selection"
 msgstr ""
 
-#: olang/0066e64e/0x35f472/0x7c7242
-#: olang/0066e64e/0x53f3f0/0x7c7242
-#: olang/0066e64e/0x7893c2/0x7c7242
-#: olang/0066e64e/0x89e528/0x7c7242
-#: olang/0066e64e/0x89e8a0/0x7c7242
-#: olang/0066e64e/0xa69279/0x7c7242
-#: olang/0066e64e/0xb8862e/0x7c7242
-#: olang/0066e64e/0xd33fba/0x7c7242
-#: olang/0066e64e/0xd4462e/0x7c7242
-#: olang/0066e64e/0xda75f0/0x7c7242
-#: olang/009c9ea4/0x35f472/0x7c7242
-#: olang/009c9ea4/0x53f3f0/0x7c7242
-#: olang/009c9ea4/0x7893c2/0x7c7242
-#: olang/009c9ea4/0x89e528/0x7c7242
-#: olang/009c9ea4/0x89e8a0/0x7c7242
-#: olang/009c9ea4/0xa69279/0x7c7242
-#: olang/009c9ea4/0xb8862e/0x7c7242
-#: olang/009c9ea4/0xd33fba/0x7c7242
-#: olang/009c9ea4/0xd4462e/0x7c7242
-#: olang/009c9ea4/0xda75f0/0x7c7242
+#: olang/0066e64e/0x35f472/0x7c7242 olang/0066e64e/0x53f3f0/0x7c7242
+#: olang/0066e64e/0x7893c2/0x7c7242 olang/0066e64e/0x89e528/0x7c7242
+#: olang/0066e64e/0x89e8a0/0x7c7242 olang/0066e64e/0xa69279/0x7c7242
+#: olang/0066e64e/0xb8862e/0x7c7242 olang/0066e64e/0xd33fba/0x7c7242
+#: olang/0066e64e/0xd4462e/0x7c7242 olang/0066e64e/0xda75f0/0x7c7242
+#: olang/009c9ea4/0x35f472/0x7c7242 olang/009c9ea4/0x53f3f0/0x7c7242
+#: olang/009c9ea4/0x7893c2/0x7c7242 olang/009c9ea4/0x89e528/0x7c7242
+#: olang/009c9ea4/0x89e8a0/0x7c7242 olang/009c9ea4/0xa69279/0x7c7242
+#: olang/009c9ea4/0xb8862e/0x7c7242 olang/009c9ea4/0xd33fba/0x7c7242
+#: olang/009c9ea4/0xd4462e/0x7c7242 olang/009c9ea4/0xda75f0/0x7c7242
 msgid "Details Screen / Model Viewer"
 msgstr ""
 
-#: olang/0066e64e/0x35f472/0x7c7247
-#: olang/0066e64e/0x35f472/0x7c7248
-#: olang/0066e64e/0x53f3f0/0x7c7247
-#: olang/0066e64e/0x53f3f0/0x7c7248
-#: olang/0066e64e/0x7893c2/0x7c7247
-#: olang/0066e64e/0x7893c2/0x7c7248
-#: olang/009c9ea4/0x35f472/0x7c7247
-#: olang/009c9ea4/0x35f472/0x7c7248
-#: olang/009c9ea4/0x53f3f0/0x7c7247
-#: olang/009c9ea4/0x53f3f0/0x7c7248
-#: olang/009c9ea4/0x7893c2/0x7c7247
-#: olang/009c9ea4/0x7893c2/0x7c7248
+#: olang/0066e64e/0x35f472/0x7c7247 olang/0066e64e/0x35f472/0x7c7248
+#: olang/0066e64e/0x53f3f0/0x7c7247 olang/0066e64e/0x53f3f0/0x7c7248
+#: olang/0066e64e/0x7893c2/0x7c7247 olang/0066e64e/0x7893c2/0x7c7248
+#: olang/009c9ea4/0x35f472/0x7c7247 olang/009c9ea4/0x35f472/0x7c7248
+#: olang/009c9ea4/0x53f3f0/0x7c7247 olang/009c9ea4/0x53f3f0/0x7c7248
+#: olang/009c9ea4/0x7893c2/0x7c7247 olang/009c9ea4/0x7893c2/0x7c7248
 msgid "Move Cursor / Change Staff"
 msgstr ""
 
-#: olang/0066e64e/0x35f472/0x8e483f
-#: olang/0066e64e/0x35f472/0x8e4840
-#: olang/0066e64e/0x53f3f0/0x8e483f
-#: olang/0066e64e/0x53f3f0/0x8e4840
-#: olang/0066e64e/0x7893c2/0x8e483f
-#: olang/0066e64e/0x7893c2/0x8e4840
-#: olang/009c9ea4/0x35f472/0x8e483f
-#: olang/009c9ea4/0x35f472/0x8e4840
-#: olang/009c9ea4/0x53f3f0/0x8e483f
-#: olang/009c9ea4/0x53f3f0/0x8e4840
-#: olang/009c9ea4/0x7893c2/0x8e483f
-#: olang/009c9ea4/0x7893c2/0x8e4840
+#: olang/0066e64e/0x35f472/0x8e483f olang/0066e64e/0x35f472/0x8e4840
+#: olang/0066e64e/0x53f3f0/0x8e483f olang/0066e64e/0x53f3f0/0x8e4840
+#: olang/0066e64e/0x7893c2/0x8e483f olang/0066e64e/0x7893c2/0x8e4840
+#: olang/009c9ea4/0x35f472/0x8e483f olang/009c9ea4/0x35f472/0x8e4840
+#: olang/009c9ea4/0x53f3f0/0x8e483f olang/009c9ea4/0x53f3f0/0x8e4840
+#: olang/009c9ea4/0x7893c2/0x8e483f olang/009c9ea4/0x7893c2/0x8e4840
 msgid "Move Cursor / Change List Mode"
 msgstr ""
 
-#: olang/0066e64e/0x35f472/0x8e4841
-#: olang/009c9ea4/0x35f472/0x8e4841
+#: olang/0066e64e/0x35f472/0x8e4841 olang/009c9ea4/0x35f472/0x8e4841
 msgid "Move Cursor / Change Staff/ Change List Mode"
 msgstr ""
 
-#: olang/0066e64e/0x35f472/0x8e4843
-#: olang/0066e64e/0x4983dd/0x8e4843
-#: olang/0066e64e/0x5389f6/0x8e4843
-#: olang/0066e64e/0x53f3f0/0x8e4843
-#: olang/0066e64e/0x678b3d/0x8e4843
-#: olang/0066e64e/0x7893c2/0x8e4843
-#: olang/0066e64e/0x89e528/0x8e4843
-#: olang/0066e64e/0x89e8a0/0x8e4843
-#: olang/0066e64e/0xa69279/0x8e4843
-#: olang/0066e64e/0xb8862e/0x8e4843
-#: olang/0066e64e/0xd33fba/0x8e4843
-#: olang/0066e64e/0xd4462e/0x8e4843
-#: olang/0066e64e/0xda75f0/0x8e4843
-#: olang/0066e64e/0xdd6303/0x8e4843
-#: olang/0066e64e/0xecf67f/0x8e4843
-#: olang/009c9ea4/0x35f472/0x8e4843
-#: olang/009c9ea4/0x4983dd/0x8e4843
-#: olang/009c9ea4/0x5389f6/0x8e4843
-#: olang/009c9ea4/0x53f3f0/0x8e4843
-#: olang/009c9ea4/0x678b3d/0x8e4843
-#: olang/009c9ea4/0x7893c2/0x8e4843
-#: olang/009c9ea4/0x89e528/0x8e4843
-#: olang/009c9ea4/0x89e8a0/0x8e4843
-#: olang/009c9ea4/0xa69279/0x8e4843
-#: olang/009c9ea4/0xb8862e/0x8e4843
-#: olang/009c9ea4/0xd33fba/0x8e4843
-#: olang/009c9ea4/0xd4462e/0x8e4843
-#: olang/009c9ea4/0xda75f0/0x8e4843
-#: olang/009c9ea4/0xdd6303/0x8e4843
-#: olang/009c9ea4/0xecf67f/0x8e4843
+#: olang/0066e64e/0x35f472/0x8e4843 olang/0066e64e/0x4983dd/0x8e4843
+#: olang/0066e64e/0x5389f6/0x8e4843 olang/0066e64e/0x53f3f0/0x8e4843
+#: olang/0066e64e/0x678b3d/0x8e4843 olang/0066e64e/0x7893c2/0x8e4843
+#: olang/0066e64e/0x89e528/0x8e4843 olang/0066e64e/0x89e8a0/0x8e4843
+#: olang/0066e64e/0xa69279/0x8e4843 olang/0066e64e/0xb8862e/0x8e4843
+#: olang/0066e64e/0xd33fba/0x8e4843 olang/0066e64e/0xd4462e/0x8e4843
+#: olang/0066e64e/0xda75f0/0x8e4843 olang/0066e64e/0xdd6303/0x8e4843
+#: olang/0066e64e/0xecf67f/0x8e4843 olang/009c9ea4/0x35f472/0x8e4843
+#: olang/009c9ea4/0x4983dd/0x8e4843 olang/009c9ea4/0x5389f6/0x8e4843
+#: olang/009c9ea4/0x53f3f0/0x8e4843 olang/009c9ea4/0x678b3d/0x8e4843
+#: olang/009c9ea4/0x7893c2/0x8e4843 olang/009c9ea4/0x89e528/0x8e4843
+#: olang/009c9ea4/0x89e8a0/0x8e4843 olang/009c9ea4/0xa69279/0x8e4843
+#: olang/009c9ea4/0xb8862e/0x8e4843 olang/009c9ea4/0xd33fba/0x8e4843
+#: olang/009c9ea4/0xd4462e/0x8e4843 olang/009c9ea4/0xda75f0/0x8e4843
+#: olang/009c9ea4/0xdd6303/0x8e4843 olang/009c9ea4/0xecf67f/0x8e4843
 msgid "Help"
 msgstr ""
 
-#: olang/0066e64e/0x35f472/0x8e4844
-#: olang/0066e64e/0x35f472/0x8e4845
-#: olang/0066e64e/0x53f3f0/0x8e4844
-#: olang/0066e64e/0x53f3f0/0x8e4845
-#: olang/0066e64e/0x7893c2/0x8e4844
-#: olang/0066e64e/0x7893c2/0x8e4845
-#: olang/0066e64e/0xb8862e/0x8e4844
-#: olang/0066e64e/0xb8862e/0x8e4845
-#: olang/0066e64e/0xd4462e/0x8e4844
-#: olang/0066e64e/0xd4462e/0x8e4845
-#: olang/0066e64e/0xda75f0/0x8e4844
-#: olang/0066e64e/0xda75f0/0x8e4845
-#: olang/009c9ea4/0x35f472/0x8e4844
-#: olang/009c9ea4/0x35f472/0x8e4845
-#: olang/009c9ea4/0x53f3f0/0x8e4844
-#: olang/009c9ea4/0x53f3f0/0x8e4845
-#: olang/009c9ea4/0x7893c2/0x8e4844
-#: olang/009c9ea4/0x7893c2/0x8e4845
-#: olang/009c9ea4/0xb8862e/0x8e4844
-#: olang/009c9ea4/0xb8862e/0x8e4845
-#: olang/009c9ea4/0xd4462e/0x8e4844
-#: olang/009c9ea4/0xd4462e/0x8e4845
-#: olang/009c9ea4/0xda75f0/0x8e4844
-#: olang/009c9ea4/0xda75f0/0x8e4845
+#: olang/0066e64e/0x35f472/0x8e4844 olang/0066e64e/0x35f472/0x8e4845
+#: olang/0066e64e/0x53f3f0/0x8e4844 olang/0066e64e/0x53f3f0/0x8e4845
+#: olang/0066e64e/0x7893c2/0x8e4844 olang/0066e64e/0x7893c2/0x8e4845
+#: olang/0066e64e/0xb8862e/0x8e4844 olang/0066e64e/0xb8862e/0x8e4845
+#: olang/0066e64e/0xd4462e/0x8e4844 olang/0066e64e/0xd4462e/0x8e4845
+#: olang/0066e64e/0xda75f0/0x8e4844 olang/0066e64e/0xda75f0/0x8e4845
+#: olang/009c9ea4/0x35f472/0x8e4844 olang/009c9ea4/0x35f472/0x8e4845
+#: olang/009c9ea4/0x53f3f0/0x8e4844 olang/009c9ea4/0x53f3f0/0x8e4845
+#: olang/009c9ea4/0x7893c2/0x8e4844 olang/009c9ea4/0x7893c2/0x8e4845
+#: olang/009c9ea4/0xb8862e/0x8e4844 olang/009c9ea4/0xb8862e/0x8e4845
+#: olang/009c9ea4/0xd4462e/0x8e4844 olang/009c9ea4/0xd4462e/0x8e4845
+#: olang/009c9ea4/0xda75f0/0x8e4844 olang/009c9ea4/0xda75f0/0x8e4845
 msgid "Sort Mode"
 msgstr ""
 
-#: olang/0066e64e/0x4983dd/0x7c723f
-#: olang/009c9ea4/0x4983dd/0x7c723f
+#: olang/0066e64e/0x4983dd/0x7c723f olang/009c9ea4/0x4983dd/0x7c723f
 msgid "Select / Open"
 msgstr ""
 
-#: olang/0066e64e/0x4983dd/0x7c7240
-#: olang/0066e64e/0x5389f6/0x7c7240
-#: olang/0066e64e/0xecf67f/0x7c7240
-#: olang/009c9ea4/0x4983dd/0x7c7240
-#: olang/009c9ea4/0x5389f6/0x7c7240
-#: olang/009c9ea4/0xecf67f/0x7c7240
+#: olang/0066e64e/0x4983dd/0x7c7240 olang/0066e64e/0x5389f6/0x7c7240
+#: olang/0066e64e/0xecf67f/0x7c7240 olang/009c9ea4/0x4983dd/0x7c7240
+#: olang/009c9ea4/0x5389f6/0x7c7240 olang/009c9ea4/0xecf67f/0x7c7240
 msgid "Back / Cancel"
 msgstr ""
 
-#: olang/0066e64e/0x4983dd/0x7c7241
-#: olang/009c9ea4/0x4983dd/0x7c7241
+#: olang/0066e64e/0x4983dd/0x7c7241 olang/009c9ea4/0x4983dd/0x7c7241
 msgid "Delete / Reset"
 msgstr ""
 
-#: olang/0066e64e/0x4983dd/0x7c7247
-#: olang/0066e64e/0x4983dd/0x7c7248
-#: olang/0066e64e/0x4983dd/0x8e483f
-#: olang/0066e64e/0x4983dd/0x8e4840
-#: olang/0066e64e/0x4983dd/0x8e4841
-#: olang/0066e64e/0x5389f6/0x7c7247
-#: olang/0066e64e/0x5389f6/0x7c7248
-#: olang/0066e64e/0x5389f6/0x8e483f
-#: olang/0066e64e/0x5389f6/0x8e4840
-#: olang/0066e64e/0x5389f6/0x8e4841
-#: olang/0066e64e/0x678b3d/0x7c7247
-#: olang/0066e64e/0x678b3d/0x7c7248
-#: olang/0066e64e/0x678b3d/0x8e4841
-#: olang/0066e64e/0x89e528/0x7c7247
-#: olang/0066e64e/0x89e528/0x7c7248
-#: olang/0066e64e/0x89e528/0x8e483f
-#: olang/0066e64e/0x89e528/0x8e4840
-#: olang/0066e64e/0x89e528/0x8e4841
-#: olang/0066e64e/0x89e8a0/0x7c7247
-#: olang/0066e64e/0x89e8a0/0x7c7248
-#: olang/0066e64e/0x89e8a0/0x8e483f
-#: olang/0066e64e/0x89e8a0/0x8e4840
-#: olang/0066e64e/0x89e8a0/0x8e4841
-#: olang/0066e64e/0xa69279/0x7c7247
-#: olang/0066e64e/0xa69279/0x7c7248
-#: olang/0066e64e/0xa69279/0x8e483f
-#: olang/0066e64e/0xa69279/0x8e4840
-#: olang/0066e64e/0xa69279/0x8e4841
-#: olang/0066e64e/0xb8862e/0x7c7247
-#: olang/0066e64e/0xb8862e/0x7c7248
-#: olang/0066e64e/0xd33fba/0x7c7247
-#: olang/0066e64e/0xd33fba/0x7c7248
-#: olang/0066e64e/0xd33fba/0x8e483f
-#: olang/0066e64e/0xd33fba/0x8e4840
-#: olang/0066e64e/0xd33fba/0x8e4841
-#: olang/0066e64e/0xd4462e/0x7c7247
-#: olang/0066e64e/0xd4462e/0x7c7248
-#: olang/0066e64e/0xda75f0/0x7c7247
-#: olang/0066e64e/0xda75f0/0x7c7248
-#: olang/0066e64e/0xda75f0/0x8e4841
-#: olang/0066e64e/0xdd6303/0x7c7247
-#: olang/0066e64e/0xdd6303/0x7c7248
-#: olang/0066e64e/0xdd6303/0x8e483f
-#: olang/0066e64e/0xdd6303/0x8e4840
-#: olang/0066e64e/0xdd6303/0x8e4841
-#: olang/0066e64e/0xecf67f/0x7c7247
-#: olang/0066e64e/0xecf67f/0x7c7248
-#: olang/0066e64e/0xecf67f/0x8e483f
-#: olang/0066e64e/0xecf67f/0x8e4840
-#: olang/0066e64e/0xecf67f/0x8e4841
-#: olang/009c9ea4/0x4983dd/0x7c7247
-#: olang/009c9ea4/0x4983dd/0x7c7248
-#: olang/009c9ea4/0x4983dd/0x8e483f
-#: olang/009c9ea4/0x4983dd/0x8e4840
-#: olang/009c9ea4/0x4983dd/0x8e4841
-#: olang/009c9ea4/0x5389f6/0x7c7247
-#: olang/009c9ea4/0x5389f6/0x7c7248
-#: olang/009c9ea4/0x5389f6/0x8e483f
-#: olang/009c9ea4/0x5389f6/0x8e4840
-#: olang/009c9ea4/0x5389f6/0x8e4841
-#: olang/009c9ea4/0x678b3d/0x7c7247
-#: olang/009c9ea4/0x678b3d/0x7c7248
-#: olang/009c9ea4/0x678b3d/0x8e4841
-#: olang/009c9ea4/0x89e528/0x7c7247
-#: olang/009c9ea4/0x89e528/0x7c7248
-#: olang/009c9ea4/0x89e528/0x8e483f
-#: olang/009c9ea4/0x89e528/0x8e4840
-#: olang/009c9ea4/0x89e528/0x8e4841
-#: olang/009c9ea4/0x89e8a0/0x7c7247
-#: olang/009c9ea4/0x89e8a0/0x7c7248
-#: olang/009c9ea4/0x89e8a0/0x8e483f
-#: olang/009c9ea4/0x89e8a0/0x8e4840
-#: olang/009c9ea4/0x89e8a0/0x8e4841
-#: olang/009c9ea4/0xa69279/0x7c7247
-#: olang/009c9ea4/0xa69279/0x7c7248
-#: olang/009c9ea4/0xa69279/0x8e483f
-#: olang/009c9ea4/0xa69279/0x8e4840
-#: olang/009c9ea4/0xa69279/0x8e4841
-#: olang/009c9ea4/0xb8862e/0x7c7247
-#: olang/009c9ea4/0xb8862e/0x7c7248
-#: olang/009c9ea4/0xd33fba/0x7c7247
-#: olang/009c9ea4/0xd33fba/0x7c7248
-#: olang/009c9ea4/0xd33fba/0x8e483f
-#: olang/009c9ea4/0xd33fba/0x8e4840
-#: olang/009c9ea4/0xd33fba/0x8e4841
-#: olang/009c9ea4/0xd4462e/0x7c7247
-#: olang/009c9ea4/0xd4462e/0x7c7248
-#: olang/009c9ea4/0xda75f0/0x7c7247
-#: olang/009c9ea4/0xda75f0/0x7c7248
-#: olang/009c9ea4/0xda75f0/0x8e4841
-#: olang/009c9ea4/0xdd6303/0x7c7247
-#: olang/009c9ea4/0xdd6303/0x7c7248
-#: olang/009c9ea4/0xdd6303/0x8e483f
-#: olang/009c9ea4/0xdd6303/0x8e4840
-#: olang/009c9ea4/0xdd6303/0x8e4841
-#: olang/009c9ea4/0xecf67f/0x7c7247
-#: olang/009c9ea4/0xecf67f/0x7c7248
-#: olang/009c9ea4/0xecf67f/0x8e483f
-#: olang/009c9ea4/0xecf67f/0x8e4840
-#: olang/009c9ea4/0xecf67f/0x8e4841
+#: olang/0066e64e/0x4983dd/0x7c7247 olang/0066e64e/0x4983dd/0x7c7248
+#: olang/0066e64e/0x4983dd/0x8e483f olang/0066e64e/0x4983dd/0x8e4840
+#: olang/0066e64e/0x4983dd/0x8e4841 olang/0066e64e/0x5389f6/0x7c7247
+#: olang/0066e64e/0x5389f6/0x7c7248 olang/0066e64e/0x5389f6/0x8e483f
+#: olang/0066e64e/0x5389f6/0x8e4840 olang/0066e64e/0x5389f6/0x8e4841
+#: olang/0066e64e/0x678b3d/0x7c7247 olang/0066e64e/0x678b3d/0x7c7248
+#: olang/0066e64e/0x678b3d/0x8e4841 olang/0066e64e/0x89e528/0x7c7247
+#: olang/0066e64e/0x89e528/0x7c7248 olang/0066e64e/0x89e528/0x8e483f
+#: olang/0066e64e/0x89e528/0x8e4840 olang/0066e64e/0x89e528/0x8e4841
+#: olang/0066e64e/0x89e8a0/0x7c7247 olang/0066e64e/0x89e8a0/0x7c7248
+#: olang/0066e64e/0x89e8a0/0x8e483f olang/0066e64e/0x89e8a0/0x8e4840
+#: olang/0066e64e/0x89e8a0/0x8e4841 olang/0066e64e/0xa69279/0x7c7247
+#: olang/0066e64e/0xa69279/0x7c7248 olang/0066e64e/0xa69279/0x8e483f
+#: olang/0066e64e/0xa69279/0x8e4840 olang/0066e64e/0xa69279/0x8e4841
+#: olang/0066e64e/0xb8862e/0x7c7247 olang/0066e64e/0xb8862e/0x7c7248
+#: olang/0066e64e/0xd33fba/0x7c7247 olang/0066e64e/0xd33fba/0x7c7248
+#: olang/0066e64e/0xd33fba/0x8e483f olang/0066e64e/0xd33fba/0x8e4840
+#: olang/0066e64e/0xd33fba/0x8e4841 olang/0066e64e/0xd4462e/0x7c7247
+#: olang/0066e64e/0xd4462e/0x7c7248 olang/0066e64e/0xda75f0/0x7c7247
+#: olang/0066e64e/0xda75f0/0x7c7248 olang/0066e64e/0xda75f0/0x8e4841
+#: olang/0066e64e/0xdd6303/0x7c7247 olang/0066e64e/0xdd6303/0x7c7248
+#: olang/0066e64e/0xdd6303/0x8e483f olang/0066e64e/0xdd6303/0x8e4840
+#: olang/0066e64e/0xdd6303/0x8e4841 olang/0066e64e/0xecf67f/0x7c7247
+#: olang/0066e64e/0xecf67f/0x7c7248 olang/0066e64e/0xecf67f/0x8e483f
+#: olang/0066e64e/0xecf67f/0x8e4840 olang/0066e64e/0xecf67f/0x8e4841
+#: olang/009c9ea4/0x4983dd/0x7c7247 olang/009c9ea4/0x4983dd/0x7c7248
+#: olang/009c9ea4/0x4983dd/0x8e483f olang/009c9ea4/0x4983dd/0x8e4840
+#: olang/009c9ea4/0x4983dd/0x8e4841 olang/009c9ea4/0x5389f6/0x7c7247
+#: olang/009c9ea4/0x5389f6/0x7c7248 olang/009c9ea4/0x5389f6/0x8e483f
+#: olang/009c9ea4/0x5389f6/0x8e4840 olang/009c9ea4/0x5389f6/0x8e4841
+#: olang/009c9ea4/0x678b3d/0x7c7247 olang/009c9ea4/0x678b3d/0x7c7248
+#: olang/009c9ea4/0x678b3d/0x8e4841 olang/009c9ea4/0x89e528/0x7c7247
+#: olang/009c9ea4/0x89e528/0x7c7248 olang/009c9ea4/0x89e528/0x8e483f
+#: olang/009c9ea4/0x89e528/0x8e4840 olang/009c9ea4/0x89e528/0x8e4841
+#: olang/009c9ea4/0x89e8a0/0x7c7247 olang/009c9ea4/0x89e8a0/0x7c7248
+#: olang/009c9ea4/0x89e8a0/0x8e483f olang/009c9ea4/0x89e8a0/0x8e4840
+#: olang/009c9ea4/0x89e8a0/0x8e4841 olang/009c9ea4/0xa69279/0x7c7247
+#: olang/009c9ea4/0xa69279/0x7c7248 olang/009c9ea4/0xa69279/0x8e483f
+#: olang/009c9ea4/0xa69279/0x8e4840 olang/009c9ea4/0xa69279/0x8e4841
+#: olang/009c9ea4/0xb8862e/0x7c7247 olang/009c9ea4/0xb8862e/0x7c7248
+#: olang/009c9ea4/0xd33fba/0x7c7247 olang/009c9ea4/0xd33fba/0x7c7248
+#: olang/009c9ea4/0xd33fba/0x8e483f olang/009c9ea4/0xd33fba/0x8e4840
+#: olang/009c9ea4/0xd33fba/0x8e4841 olang/009c9ea4/0xd4462e/0x7c7247
+#: olang/009c9ea4/0xd4462e/0x7c7248 olang/009c9ea4/0xda75f0/0x7c7247
+#: olang/009c9ea4/0xda75f0/0x7c7248 olang/009c9ea4/0xda75f0/0x8e4841
+#: olang/009c9ea4/0xdd6303/0x7c7247 olang/009c9ea4/0xdd6303/0x7c7248
+#: olang/009c9ea4/0xdd6303/0x8e483f olang/009c9ea4/0xdd6303/0x8e4840
+#: olang/009c9ea4/0xdd6303/0x8e4841 olang/009c9ea4/0xecf67f/0x7c7247
+#: olang/009c9ea4/0xecf67f/0x7c7248 olang/009c9ea4/0xecf67f/0x8e483f
+#: olang/009c9ea4/0xecf67f/0x8e4840 olang/009c9ea4/0xecf67f/0x8e4841
 msgid "Move Cursor"
 msgstr ""
 
-#: olang/0066e64e/0x5389f6/0x7c7241
-#: olang/009c9ea4/0x5389f6/0x7c7241
+#: olang/0066e64e/0x5389f6/0x7c7241 olang/009c9ea4/0x5389f6/0x7c7241
 msgid "Unassign"
 msgstr ""
 
-#: olang/0066e64e/0x53f3f0/0x7c7240
-#: olang/0066e64e/0x678b3d/0x7c7240
-#: olang/0066e64e/0x89e528/0x7c7240
-#: olang/0066e64e/0x89e8a0/0x7c7240
-#: olang/0066e64e/0xa69279/0x7c7240
-#: olang/0066e64e/0xb8862e/0x7c7240
-#: olang/0066e64e/0xd33fba/0x7c7240
-#: olang/0066e64e/0xd4462e/0x7c7240
-#: olang/0066e64e/0xda75f0/0x7c7240
-#: olang/0066e64e/0xdd6303/0x7c7240
-#: olang/009c9ea4/0x53f3f0/0x7c7240
-#: olang/009c9ea4/0x678b3d/0x7c7240
-#: olang/009c9ea4/0x89e528/0x7c7240
-#: olang/009c9ea4/0x89e8a0/0x7c7240
-#: olang/009c9ea4/0xa69279/0x7c7240
-#: olang/009c9ea4/0xb8862e/0x7c7240
-#: olang/009c9ea4/0xd33fba/0x7c7240
-#: olang/009c9ea4/0xd4462e/0x7c7240
-#: olang/009c9ea4/0xda75f0/0x7c7240
-#: olang/009c9ea4/0xdd6303/0x7c7240
+#: olang/0066e64e/0x53f3f0/0x7c7240 olang/0066e64e/0x678b3d/0x7c7240
+#: olang/0066e64e/0x89e528/0x7c7240 olang/0066e64e/0x89e8a0/0x7c7240
+#: olang/0066e64e/0xa69279/0x7c7240 olang/0066e64e/0xb8862e/0x7c7240
+#: olang/0066e64e/0xd33fba/0x7c7240 olang/0066e64e/0xd4462e/0x7c7240
+#: olang/0066e64e/0xda75f0/0x7c7240 olang/0066e64e/0xdd6303/0x7c7240
+#: olang/009c9ea4/0x53f3f0/0x7c7240 olang/009c9ea4/0x678b3d/0x7c7240
+#: olang/009c9ea4/0x89e528/0x7c7240 olang/009c9ea4/0x89e8a0/0x7c7240
+#: olang/009c9ea4/0xa69279/0x7c7240 olang/009c9ea4/0xb8862e/0x7c7240
+#: olang/009c9ea4/0xd33fba/0x7c7240 olang/009c9ea4/0xd4462e/0x7c7240
+#: olang/009c9ea4/0xda75f0/0x7c7240 olang/009c9ea4/0xdd6303/0x7c7240
 msgid "Back"
 msgstr ""
 
-#: olang/0066e64e/0x53f3f0/0x8e4841
-#: olang/0066e64e/0x7893c2/0x8e4841
-#: olang/009c9ea4/0x53f3f0/0x8e4841
-#: olang/009c9ea4/0x7893c2/0x8e4841
+#: olang/0066e64e/0x53f3f0/0x8e4841 olang/0066e64e/0x7893c2/0x8e4841
+#: olang/009c9ea4/0x53f3f0/0x8e4841 olang/009c9ea4/0x7893c2/0x8e4841
 msgid "Move Cursor / Change Staff / Change List Mode"
 msgstr ""
 
-#: olang/0066e64e/0x678b3d/0x7c7241
-#: olang/009c9ea4/0x678b3d/0x7c7241
+#: olang/0066e64e/0x678b3d/0x7c7241 olang/009c9ea4/0x678b3d/0x7c7241
 msgid "Select / Cancel / Remove Equipment / Discard"
 msgstr ""
 
-#: olang/0066e64e/0x678b3d/0x7c7242
-#: olang/0066e64e/0xdd6303/0x7c7242
-#: olang/009c9ea4/0x678b3d/0x7c7242
-#: olang/009c9ea4/0xdd6303/0x7c7242
+#: olang/0066e64e/0x678b3d/0x7c7242 olang/0066e64e/0xdd6303/0x7c7242
+#: olang/009c9ea4/0x678b3d/0x7c7242 olang/009c9ea4/0xdd6303/0x7c7242
 msgid "Model Viewer"
 msgstr ""
 
-#: olang/0066e64e/0x7893c2/0x7c7240
-#: olang/009c9ea4/0x7893c2/0x7c7240
+#: olang/0066e64e/0x7893c2/0x7c7240 olang/009c9ea4/0x7893c2/0x7c7240
 msgid "Back / Cancel / Reset Selection State"
 msgstr ""
 
-#: olang/0066e64e/0x89e528/0x7c723f
-#: olang/0066e64e/0x89e8a0/0x7c723f
-#: olang/009c9ea4/0x89e528/0x7c723f
-#: olang/009c9ea4/0x89e8a0/0x7c723f
+#: olang/0066e64e/0x89e528/0x7c723f olang/0066e64e/0x89e8a0/0x7c723f
+#: olang/009c9ea4/0x89e528/0x7c723f olang/009c9ea4/0x89e8a0/0x7c723f
 msgid "Conditions / Develop / Details"
 msgstr ""
 
-#: olang/0066e64e/0x89e528/0x7c7241
-#: olang/0066e64e/0x89e8a0/0x7c7241
-#: olang/009c9ea4/0x89e528/0x7c7241
-#: olang/009c9ea4/0x89e8a0/0x7c7241
+#: olang/0066e64e/0x89e528/0x7c7241 olang/0066e64e/0x89e8a0/0x7c7241
+#: olang/009c9ea4/0x89e528/0x7c7241 olang/009c9ea4/0x89e8a0/0x7c7241
 msgid "Jump (only on \"DEVELOPMENT STATUS\" and \"NEW\" tabs)"
 msgstr ""
 
-#: olang/0066e64e/0x97a719/0x0009b2
-#: olang/0066e64e/0xef247a/0x000a72
+#: olang/0066e64e/0x97a719/0x0009b2 olang/0066e64e/0xef247a/0x000a72
 msgid "Aim Weapon"
 msgstr ""
 
-#: olang/0066e64e/0x97a719/0x000a72
-#: olang/0066e64e/0xef247a/0x3b8f30
+#: olang/0066e64e/0x97a719/0x000a72 olang/0066e64e/0xef247a/0x3b8f30
 msgid "Attack"
 msgstr ""
 
-#: olang/0066e64e/0x97a719/0x000af0
-#: olang/0066e64e/0x97a719/0x3adadb
-#: olang/0066e64e/0xef247a/0x3adadb
-#: olang/009c9ea4/0x39c9f3/0x6bb2d6
+#: olang/0066e64e/0x97a719/0x000af0 olang/0066e64e/0x97a719/0x3adadb
+#: olang/0066e64e/0xef247a/0x3adadb olang/009c9ea4/0x39c9f3/0x6bb2d6
 msgid "Action Button"
 msgstr ""
 
-#: olang/0066e64e/0x97a719/0x271d14
-#: olang/0066e64e/0x97a719/0x45a559
+#: olang/0066e64e/0x97a719/0x271d14 olang/0066e64e/0x97a719/0x45a559
 msgid "Zoom"
 msgstr ""
 
-#: olang/0066e64e/0x97a719/0xba164f
-#: olang/0066e64e/0xef247a/0xba164f
+#: olang/0066e64e/0x97a719/0xba164f olang/0066e64e/0xef247a/0xba164f
 msgid "Reload"
 msgstr ""
 
-#: olang/0066e64e/0xa69279/0x7c7241
-#: olang/009c9ea4/0xbc86b6/0x3c54c6
+#: olang/0066e64e/0xa69279/0x7c7241 olang/009c9ea4/0xbc86b6/0x3c54c6
 #: olang/009c9ea4/0xecf67f/0x7c7241
 msgid "Delete"
 msgstr ""
 
-#: olang/0066e64e/0xb8862e/0x8e483f
-#: olang/0066e64e/0xb8862e/0x8e4840
-#: olang/0066e64e/0xd4462e/0x8e483f
-#: olang/0066e64e/0xd4462e/0x8e4840
-#: olang/009c9ea4/0xb8862e/0x8e483f
-#: olang/009c9ea4/0xb8862e/0x8e4840
-#: olang/009c9ea4/0xd4462e/0x8e483f
-#: olang/009c9ea4/0xd4462e/0x8e4840
+#: olang/0066e64e/0xb8862e/0x8e483f olang/0066e64e/0xb8862e/0x8e4840
+#: olang/0066e64e/0xd4462e/0x8e483f olang/0066e64e/0xd4462e/0x8e4840
+#: olang/009c9ea4/0xb8862e/0x8e483f olang/009c9ea4/0xb8862e/0x8e4840
+#: olang/009c9ea4/0xd4462e/0x8e483f olang/009c9ea4/0xd4462e/0x8e4840
 msgid "Change Rank"
 msgstr ""
 
-#: olang/0066e64e/0xb8862e/0x8e4841
-#: olang/0066e64e/0xd4462e/0x8e4841
-#: olang/009c9ea4/0xb8862e/0x8e4841
-#: olang/009c9ea4/0xd4462e/0x8e4841
+#: olang/0066e64e/0xb8862e/0x8e4841 olang/0066e64e/0xd4462e/0x8e4841
+#: olang/009c9ea4/0xb8862e/0x8e4841 olang/009c9ea4/0xd4462e/0x8e4841
 msgid "Move Cursor / Change Rank"
 msgstr ""
 
-#: olang/0066e64e/0xecf67f/0x7c7242
-#: olang/009c9ea4/0xecf67f/0x7c7242
+#: olang/0066e64e/0xecf67f/0x7c7242 olang/009c9ea4/0xecf67f/0x7c7242
 msgid "Codename Selection Screen"
 msgstr ""
 
-#: olang/0072f326/0x34cd5c/0x0dbab6
-#: olang/0072f326/0xa49217/0xdc6ef3
+#: olang/0072f326/0x34cd5c/0x0dbab6 olang/0072f326/0xa49217/0xdc6ef3
 #: olang/009c9ea4/0xa49217/0xdc6ef3
 msgid "METAL GEAR SOLID PEACE WALKER HD EDITION"
 msgstr ""
@@ -2170,8 +1624,7 @@ msgstr ""
 msgid "Unable to load saved data. Try again?"
 msgstr ""
 
-#: olang/0072f326/0xa49217/0x185ec9
-#: olang/009c9ea4/0xa49217/0x185ec9
+#: olang/0072f326/0xa49217/0x185ec9 olang/009c9ea4/0xa49217/0x185ec9
 msgid "Yes"
 msgstr ""
 
@@ -2195,17 +1648,15 @@ msgid ""
 "Do not turn the console off while data is being saved."
 msgstr ""
 
-#: olang/0072f326/0xa49217/0x422618
-#: olang/009c9ea4/0xa49217/0x422618
+#: olang/0072f326/0xa49217/0x422618 olang/009c9ea4/0xa49217/0x422618
 msgid "Configuring game data."
-msgstr ""
+msgstr "配置游戏数据中。"
 
 #: olang/0072f326/0xa49217/0x468f9a
 msgid "Select storage device"
 msgstr ""
 
-#: olang/0072f326/0xa49217/0x4af71f
-#: olang/009c9ea4/0xa49217/0x4af71f
+#: olang/0072f326/0xa49217/0x4af71f olang/009c9ea4/0xa49217/0x4af71f
 msgid "Continue without saving progress"
 msgstr ""
 
@@ -2217,12 +1668,9 @@ msgstr ""
 msgid "Cannot play online without loading save data. Try again?"
 msgstr ""
 
-#: olang/0072f326/0xa49217/0x66f18e
-#: olang/0072f326/0xdbd1b3/0x62a9e3
-#: olang/009c9ea4/0x35b782/0xece603
-#: olang/009c9ea4/0xa49217/0x66f18e
-#: olang/009c9ea4/0xdbd1b3/0x62a9e3
-#: olang/00c6a046/0x35b782/0xece603
+#: olang/0072f326/0xa49217/0x66f18e olang/0072f326/0xdbd1b3/0x62a9e3
+#: olang/009c9ea4/0x35b782/0xece603 olang/009c9ea4/0xa49217/0x66f18e
+#: olang/009c9ea4/0xdbd1b3/0x62a9e3 olang/00c6a046/0x35b782/0xece603
 msgid "Unable to save game data. Try again?"
 msgstr ""
 
@@ -2234,13 +1682,11 @@ msgstr ""
 msgid "Save data cannot be found. Save data with online play enabled is needed to play online. You cannot receive the invite."
 msgstr ""
 
-#: olang/0072f326/0xa49217/0x71044e
-#: olang/009c9ea4/0xa49217/0x71044e
+#: olang/0072f326/0xa49217/0x71044e olang/009c9ea4/0xa49217/0x71044e
 msgid "MGS PEACE WALKER HD"
 msgstr ""
 
-#: olang/0072f326/0xa49217/0x77c49d
-#: olang/009c9ea4/0xa49217/0x77c49d
+#: olang/0072f326/0xa49217/0x77c49d olang/009c9ea4/0xa49217/0x77c49d
 msgid "Create saved data"
 msgstr ""
 
@@ -2248,8 +1694,7 @@ msgstr ""
 msgid "Continue without loading"
 msgstr ""
 
-#: olang/0072f326/0xa49217/0x802a26
-#: olang/009c9ea4/0xa49217/0x802a26
+#: olang/0072f326/0xa49217/0x802a26 olang/009c9ea4/0xa49217/0x802a26
 msgid ""
 "Game data has been corrupted.\n"
 "Delete existing data and create new system data?"
@@ -2281,8 +1726,7 @@ msgstr ""
 msgid "The storage device has been removed. You will need to select a storage device in order to load saved data. Try again?"
 msgstr ""
 
-#: olang/0072f326/0xa49217/0xb0c19d
-#: olang/009c9ea4/0xa49217/0xb0c19d
+#: olang/0072f326/0xa49217/0xb0c19d olang/009c9ea4/0xa49217/0xb0c19d
 msgid "No"
 msgstr ""
 
@@ -2323,12 +1767,10 @@ msgid "Overwrite"
 msgstr ""
 
 #: olang/009c9ea4/0x017f53/0x000133
-msgid ""
-"A weekly pulp magazine filled to the brim with outlandish and absurd sci-fi/horror stories.  Roughly half of the stories are about men fighting Martians and are written by amateurs.  Not to be taken too seriously.  Lurid and sexually suggestive themes are a given.\n"
+msgid "A weekly pulp magazine filled to the brim with outlandish and absurd sci-fi/horror stories.  Roughly half of the stories are about men fighting Martians and are written by amateurs.  Not to be taken too seriously.  Lurid and sexually suggestive themes are a given.\n"
 msgstr ""
 
-#: olang/009c9ea4/0x017f53/0x000134
-#: olang/00d345a5/0x017f53/0x000134
+#: olang/009c9ea4/0x017f53/0x000134 olang/00d345a5/0x017f53/0x000134
 msgid "A monthly pulp magazine that features mature content aimed at literary types. The real-life travel logs submitted by soldiers from around the world are a must read.  Also boasts an ample supply of scantily-clad pin-ups."
 msgstr ""
 
@@ -2349,8 +1791,7 @@ msgid ""
 "The direction protected varies according to weapon equipped."
 msgstr ""
 
-#: olang/009c9ea4/0x048941/0x000086
-#: olang/00d345a5/0x048941/0x000086
+#: olang/009c9ea4/0x048941/0x000086 olang/00d345a5/0x048941/0x000086
 msgid "Shield made from bulletproof material (colored). Press the Aim Button to use. The direction protected varies according to weapon equipped."
 msgstr ""
 
@@ -2362,8 +1803,7 @@ msgstr ""
 msgid "Next we'll work on your movement."
 msgstr ""
 
-#: olang/009c9ea4/0x0765b1/0x000001
-#: olang/009c9ea4/0x62c97d/0x000001
+#: olang/009c9ea4/0x0765b1/0x000001 olang/009c9ea4/0x62c97d/0x000001
 msgid "Use <I=MOVE> to move around."
 msgstr ""
 
@@ -2387,15 +1827,13 @@ msgstr ""
 msgid "Be careful!"
 msgstr ""
 
-#: olang/009c9ea4/0x0765d1/0x000000
-#: olang/009c9ea4/0x62cb7d/0x000000
+#: olang/009c9ea4/0x0765d1/0x000000 olang/009c9ea4/0x62cb7d/0x000000
 msgid ""
 "Boss, you can use \n"
 "<I=MOVE> to move!"
 msgstr ""
 
-#: olang/009c9ea4/0x076bed/0x000000
-#: olang/009c9ea4/0x62997d/0x000000
+#: olang/009c9ea4/0x076bed/0x000000 olang/009c9ea4/0x62997d/0x000000
 msgid ""
 "To move your line of sight, \n"
 "use <I=CAMERA>."
@@ -2423,8 +1861,7 @@ msgstr ""
 msgid "To do this,"
 msgstr ""
 
-#: olang/009c9ea4/0x077dd9/0x000001
-#: olang/009c9ea4/0x644bfd/0x000001
+#: olang/009c9ea4/0x077dd9/0x000001 olang/009c9ea4/0x644bfd/0x000001
 msgid "position yourself near your opponent"
 msgstr ""
 
@@ -2434,8 +1871,7 @@ msgid ""
 "while you press <I=MOVE>."
 msgstr ""
 
-#: olang/009c9ea4/0x077dd9/0x000003
-#: olang/009c9ea4/0x644bfd/0x000003
+#: olang/009c9ea4/0x077dd9/0x000003 olang/009c9ea4/0x644bfd/0x000003
 #: olang/009c9ea4/0x644bfe/0x000002
 msgid ""
 "Be sure to press <I=ATK> \n"
@@ -2448,8 +1884,7 @@ msgid ""
 "and throw your opponent."
 msgstr ""
 
-#: olang/009c9ea4/0x077ea9/0x000000
-#: olang/009c9ea4/0x6458fd/0x000000
+#: olang/009c9ea4/0x077ea9/0x000000 olang/009c9ea4/0x6458fd/0x000000
 #: olang/009c9ea4/0x6458fe/0x000000
 msgid "Boss,"
 msgstr ""
@@ -2460,8 +1895,7 @@ msgid ""
 "as you press <I=MOVE>!"
 msgstr ""
 
-#: olang/009c9ea4/0x077fd1/0x000000
-#: olang/009c9ea4/0x646b7d/0x000000
+#: olang/009c9ea4/0x077fd1/0x000000 olang/009c9ea4/0x646b7d/0x000000
 msgid "To throw an enemy to the ground,"
 msgstr ""
 
@@ -2469,8 +1903,7 @@ msgstr ""
 msgid "press <I=MOVE> when you have them restrained."
 msgstr ""
 
-#: olang/009c9ea4/0x0782c1/0x000000
-#: olang/009c9ea4/0x649a7d/0x000000
+#: olang/009c9ea4/0x0782c1/0x000000 olang/009c9ea4/0x649a7d/0x000000
 msgid ""
 "First restrain an opponent by pressing \n"
 "<I=ATK> near them."
@@ -2522,8 +1955,7 @@ msgstr ""
 msgid "Please verify the Date & Time settings on your device. Incorrect date settings may interfere with package deliveries."
 msgstr ""
 
-#: olang/009c9ea4/0x1766a9/0x000000
-#: olang/009c9ea4/0x62d8fd/0x000000
+#: olang/009c9ea4/0x1766a9/0x000000 olang/009c9ea4/0x62d8fd/0x000000
 #: olang/009c9ea4/0x62d8fe/0x000000
 msgid ""
 "Boss, roll by pressing <I=STANCE>\n"
@@ -2591,8 +2023,7 @@ msgstr ""
 msgid "Rotate Camera: <I=CAMERA>"
 msgstr ""
 
-#: olang/009c9ea4/0x1a3e77/0x6a33a9
-#: olang/009c9ea4/0x5f753b/0x88adbe
+#: olang/009c9ea4/0x1a3e77/0x6a33a9 olang/009c9ea4/0x5f753b/0x88adbe
 #: olang/009c9ea4/0x919326/0xc992cf
 msgid "Switch Cameras: <I=LR>"
 msgstr ""
@@ -2601,22 +2032,17 @@ msgstr ""
 msgid "P. UNIT- SCRAP"
 msgstr ""
 
-#: olang/009c9ea4/0x1bca3f/0x000134
-#: olang/009c9ea4/0xae0b2a/0x000134
-#: olang/00d345a5/0x1bca3f/0x000134
-#: olang/00d345a5/0xae0b2a/0x000134
+#: olang/009c9ea4/0x1bca3f/0x000134 olang/009c9ea4/0xae0b2a/0x000134
+#: olang/00d345a5/0x1bca3f/0x000134 olang/00d345a5/0xae0b2a/0x000134
 msgid "LIQUID M."
 msgstr ""
 
-#: olang/009c9ea4/0x1bed50/0x1787c8
-#: olang/009c9ea4/0x291428/0x2b250c
-#: olang/009c9ea4/0x5f753b/0xad4e91
-#: olang/009c9ea4/0xc99c23/0x291428
+#: olang/009c9ea4/0x1bed50/0x1787c8 olang/009c9ea4/0x291428/0x2b250c
+#: olang/009c9ea4/0x5f753b/0xad4e91 olang/009c9ea4/0xc99c23/0x291428
 msgid "CONTROLS HELP"
 msgstr ""
 
-#: olang/009c9ea4/0x20dacf/0x0dd20a
-#: olang/009c9ea4/0x482e82/0x5c60d3
+#: olang/009c9ea4/0x20dacf/0x0dd20a olang/009c9ea4/0x482e82/0x5c60d3
 msgid "BACK TO MAIN MENU"
 msgstr ""
 
@@ -2628,10 +2054,8 @@ msgstr ""
 msgid "Return to the main menu."
 msgstr ""
 
-#: olang/009c9ea4/0x20dacf/0xac79ca
-#: olang/009c9ea4/0x39c9f3/0x4a509a
-#: olang/009c9ea4/0x43f3a5/0x506452
-#: olang/009c9ea4/0xe6e4ed/0xb7fd8f
+#: olang/009c9ea4/0x20dacf/0xac79ca olang/009c9ea4/0x39c9f3/0x4a509a
+#: olang/009c9ea4/0x43f3a5/0x506452 olang/009c9ea4/0xe6e4ed/0xb7fd8f
 #: olang/009c9ea4/0xfb5d7b/0x96ec94
 msgid "KEY CONFIG"
 msgstr ""
@@ -2644,32 +2068,21 @@ msgstr ""
 msgid "Exit game and return to main menu?"
 msgstr ""
 
-#: olang/009c9ea4/0x20dacf/0xffddf8
-#: olang/009c9ea4/0x2c4b0f/0x48e16c
+#: olang/009c9ea4/0x20dacf/0xffddf8 olang/009c9ea4/0x2c4b0f/0x48e16c
 #: olang/009c9ea4/0xa49217/0x236883
 msgid "ONLINE MANUAL"
 msgstr ""
 
-#: olang/009c9ea4/0x210062/0x8e4843
-#: olang/009c9ea4/0x210063/0x8e4843
-#: olang/009c9ea4/0x210064/0x8e4843
-#: olang/009c9ea4/0x210065/0x8e4843
-#: olang/009c9ea4/0x210066/0x8e4843
-#: olang/009c9ea4/0x210067/0x8e4843
-#: olang/009c9ea4/0x210068/0x8e4843
-#: olang/009c9ea4/0x210069/0x8e4843
-#: olang/009c9ea4/0x21006a/0x8e4843
-#: olang/009c9ea4/0x21006b/0x8e4843
-#: olang/009c9ea4/0x5f413d/0x6a9054
-#: olang/009c9ea4/0x5f413e/0x6a9054
-#: olang/009c9ea4/0x5f413f/0x6a9054
-#: olang/009c9ea4/0x5f4140/0x6a9054
-#: olang/009c9ea4/0x5f4141/0x6a9054
-#: olang/009c9ea4/0x5f4142/0x6a9054
-#: olang/009c9ea4/0x5f4143/0x6a9054
-#: olang/009c9ea4/0x5f4144/0x6a9054
-#: olang/009c9ea4/0x5f4145/0x6a9054
-#: olang/009c9ea4/0x5f4146/0x6a9054
+#: olang/009c9ea4/0x210062/0x8e4843 olang/009c9ea4/0x210063/0x8e4843
+#: olang/009c9ea4/0x210064/0x8e4843 olang/009c9ea4/0x210065/0x8e4843
+#: olang/009c9ea4/0x210066/0x8e4843 olang/009c9ea4/0x210067/0x8e4843
+#: olang/009c9ea4/0x210068/0x8e4843 olang/009c9ea4/0x210069/0x8e4843
+#: olang/009c9ea4/0x21006a/0x8e4843 olang/009c9ea4/0x21006b/0x8e4843
+#: olang/009c9ea4/0x5f413d/0x6a9054 olang/009c9ea4/0x5f413e/0x6a9054
+#: olang/009c9ea4/0x5f413f/0x6a9054 olang/009c9ea4/0x5f4140/0x6a9054
+#: olang/009c9ea4/0x5f4141/0x6a9054 olang/009c9ea4/0x5f4142/0x6a9054
+#: olang/009c9ea4/0x5f4143/0x6a9054 olang/009c9ea4/0x5f4144/0x6a9054
+#: olang/009c9ea4/0x5f4145/0x6a9054 olang/009c9ea4/0x5f4146/0x6a9054
 msgid "Display Controls Help"
 msgstr ""
 
@@ -2761,10 +2174,8 @@ msgid ""
 " Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
 msgstr ""
 
-#: olang/009c9ea4/0x227683/0x7383ce
-#: olang/009c9ea4/0x227683/0xe8c00e
-#: olang/00d9bfd4/0x227683/0x187156
-#: olang/00d9bfd4/0x227683/0x1fc51a
+#: olang/009c9ea4/0x227683/0x7383ce olang/009c9ea4/0x227683/0xe8c00e
+#: olang/00d9bfd4/0x227683/0x187156 olang/00d9bfd4/0x227683/0x1fc51a
 msgid "Mute: <I=OPTION_MUTE>"
 msgstr ""
 
@@ -2776,14 +2187,12 @@ msgstr ""
 msgid "A connection error has occurred."
 msgstr ""
 
-#: olang/009c9ea4/0x22af99/0x0001af
-#: olang/009c9ea4/0x4e7980/0x0001af
+#: olang/009c9ea4/0x22af99/0x0001af olang/009c9ea4/0x4e7980/0x0001af
 #: olang/009c9ea4/0x954c25/0x0001af
 msgid "MUSIC PLAYER"
 msgstr ""
 
-#: olang/009c9ea4/0x291428/0x50818e
-#: olang/009c9ea4/0xc99c23/0x50818e
+#: olang/009c9ea4/0x291428/0x50818e olang/009c9ea4/0xc99c23/0x50818e
 #: olang/009c9ea4/0xc99c23/0xd9d9b9
 msgid "<I=SEL>"
 msgstr ""
@@ -2792,40 +2201,35 @@ msgstr ""
 msgid "<I=STA>"
 msgstr ""
 
-#: olang/009c9ea4/0x2d0e67/0xf29383
-#: olang/009c9ea4/0x2d0e69/0xf29383
+#: olang/009c9ea4/0x2d0e67/0xf29383 olang/009c9ea4/0x2d0e69/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "<I=CAMERA> up: Look Up\n"
 "<I=CAMERA> down: Look Down"
 msgstr ""
 
-#: olang/009c9ea4/0x2d0e68/0xf29383
-#: olang/009c9ea4/0x2d0e6a/0xf29383
+#: olang/009c9ea4/0x2d0e68/0xf29383 olang/009c9ea4/0x2d0e6a/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "<I=CAMERA> up: Look Down\n"
 "<I=CAMERA> down: Look Up"
 msgstr ""
 
-#: olang/009c9ea4/0x2d0e6c/0xf29383
-#: olang/009c9ea4/0x2d0e6e/0xf29383
+#: olang/009c9ea4/0x2d0e6c/0xf29383 olang/009c9ea4/0x2d0e6e/0xf29383
 msgid ""
 "Press <I=ACT> to confirm \n"
 "<I=CAMERA> left: Look Left\n"
 "<I=CAMERA> right: Look Right"
 msgstr ""
 
-#: olang/009c9ea4/0x2d0e6d/0xf29383
-#: olang/009c9ea4/0x2d0e85/0xf29383
+#: olang/009c9ea4/0x2d0e6d/0xf29383 olang/009c9ea4/0x2d0e85/0xf29383
 msgid ""
 "Press <I=ACT> to confirm \n"
 "<I=CAMERA> left: Look Right\n"
 "<I=CAMERA> right: Look Left"
 msgstr ""
 
-#: olang/009c9ea4/0x2d3090/0x000134
-#: olang/00d345a5/0x2d3090/0x000134
+#: olang/009c9ea4/0x2d3090/0x000134 olang/00d345a5/0x2d3090/0x000134
 msgid "Liquid Magazine"
 msgstr ""
 
@@ -2861,8 +2265,7 @@ msgstr ""
 msgid "Why Miller quit the JSDF"
 msgstr ""
 
-#: olang/009c9ea4/0x31a1fa/0xb6d349
-#: olang/009c9ea4/0x31a1fa/0xb6dba6
+#: olang/009c9ea4/0x31a1fa/0xb6d349 olang/009c9ea4/0x31a1fa/0xb6dba6
 #: olang/009c9ea4/0x31a1fa/0xb6dfa7
 msgid "About himself"
 msgstr ""
@@ -2923,8 +2326,7 @@ msgstr ""
 msgid "Naked"
 msgstr ""
 
-#: olang/009c9ea4/0x31a1fa/0xb6d36e
-#: olang/009c9ea4/0x31a1fa/0xb6d36f
+#: olang/009c9ea4/0x31a1fa/0xb6d36e olang/009c9ea4/0x31a1fa/0xb6d36f
 msgid "CO-OPS"
 msgstr ""
 
