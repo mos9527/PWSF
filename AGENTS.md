@@ -18,7 +18,7 @@ METAL GEAR SOLID PEACE WALKER (STEAM) 本土化工作
       寻址，搬不了家）。已接进 `po_lint` / `po_import`，产物 `0076531d.DAT`。
       硬约束：池预算几乎用满（两个 en 块 358 条记录只剩 555 字节），
       译文必须比英文短，超了由 `po_lint` 的 `codec-budget` 点名（§9.4）
-- [ ] CODEC 实机验证：`python -m pwsf.po_import --install` 装一份改过的
+- [x] CODEC 实机验证：`python -m pwsf.po_import --install` 装一份改过的
       `0076531d.DAT`，进 CODEC 通话核对中文台词与语音（§9.5）
 - [x] 过场（漫画）文字【提取】：`SLOT.DAT` 两层 XOR（MT + LCG）已破，2,137
  条记录全量解压；内嵌 144 张 `.olang` 表（其中 43 张是过场，英文 1,928 行）
@@ -27,7 +27,7 @@ METAL GEAR SOLID PEACE WALKER (STEAM) 本土化工作
 - [x] 过场文字【写回】：`pwsf.slotdat_build`（重排池 + 重压 + 重建容器），
  已接进 `po_import`；端到端实测文件 +0 字节、2,137 条记录全部读回校验通过，
  见 `research/PLANS/08_cutscene_writeback.md`
-- [ ] 实机验证：把重建后的 `SLOT.DAT`/`SLOT.KEY` 装进游戏跑一次过场
+- [x] 实机验证：把重建后的 `SLOT.DAT`/`SLOT.KEY` 装进游戏跑一次过场
  （`python -m pwsf.install --install`），确认漫画气泡与底部字幕都出中文
 
 # Layout
