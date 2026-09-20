@@ -9,7 +9,8 @@ METAL GEAR SOLID PEACE WALKER (STEAM) 本土化工作
 - [x] CODEC【提取】 → `research/ANALYSIS/_briefing_lines.tsv`（24,438 行）
 - [x] 写回链路实机验证：olang 文本 + 字体扩字形
 - [x] 汉化管线闭环：`pwsf.po_lint` / `po_import` / `install`，见 `research/PLANS/06` §9
-- [ ] 可分发补丁 `pwsf.patch`，指示见 `README.md` §下一步 → `research/PLANS/07`
+- [x] 可分发补丁 `pwsf.patch`：整文件打包 + 两个静态 `.bat`（install/restore），
+      不校验游戏原版哈希，见 `research/PLANS/07` 与 `README.md` §给别人装
 - [x] CODEC 回写：`pwsf.briefing_build` —— ~~卡在 `briefing_insn_decode` 的
       `case 0x10/0x20` 长度规则~~ 旧卡点**已推翻**（`ANALYSIS/03_codec.md` §9）：
       可译文本根本不在字节码里。实际做法 = 原地重写文本池 + 重建 u32 偏移表，
@@ -204,21 +205,24 @@ python -m pwsf.install --restore
 
 细节与硬性规则（`<I=...>`、格式符、换行）见 `src/README.md`。
 
-# Next: 把管线包成补丁
-`po_lint` / `po_import` / `install` 已落地（见计划 06 §9），下一步把
-「装一份汉化」从跑三条命令变成发一个补丁。给实现者的指示：
+# 补丁打包（已实现，见 `research/PLANS/07` 与 `README.md` §给别人装）
+`po_lint` / `po_import` / `install` 已落地（见计划 06 §9），「装一份汉化」
+已从跑命令变成发补丁：
 
-1. 新增 `pwsf/patch.py`：复用 `po_import` 的构建与 `MANIFEST.tsv`，
-   打成 `research/BUILD/pwsf_patch/`，只含被替换的游戏文件 + 清单 + 校验和，
-   不要整目录打包
-2. 清单已记原始文件哈希（`orig_sha256`），`pwsf.install` 的判据照搬即可；
-   再补上 `pwsf/` 的 git 描述，好让玩家报的问题能对上版本
-3. 备份与还原**不要另造**：沿用 `config.pristine` / `config.BACKUP_SUFFIX`
-   与 `pwsf.install` 那套状态机（拒绝路径见 `_probe_po5.py`）
-4. 入口 `python -m pwsf.patch [--build|--install|--restore|--verify]`，
-   PoC 脚本 `_poc_text_cn.py` 保留作证据，不再作为安装手段
-5. 面向不装 Python 的玩家再包一层（zip + 一个 `.bat`，或单文件可执行）
-6. 设计与实机结论写成 `research/PLANS/07_patch.md`
+1. `pwsf/patch.py` 复用 `po_import` 的构建与 `MANIFEST.tsv`，打成
+   `research/BUILD/pwsf_patch/`：只含被替换的游戏文件 + 清单 + `files.tsv`
+   （`dest,payload` 两列，给 `.bat` 解析）+ 食用说明 + 两个静态 `.bat`。
+2. 整文件打包，不做 delta：`_probe_patch1.py` 实测 SLOT.DAT 改 17.4%（544MB
+   散在 109 处）、字体重建改 51%（17MB / 3408 处），且都嵌套加密/压缩，
+   delta 既不小也不好做。
+3. **不校验游戏原版哈希**：安装器只做「无 `.orig` 先备份 + 覆盖」，玩家
+   自己确认 Steam 游戏是最新原版（验证完整性）。理由与取舍见 PLANS/07。
+   开发侧 `pwsf.install` 仍保留 `verify_game=True` 的严格状态机。
+4. 备份与还原沿用 `config.BACKUP_SUFFIX`（`*.orig`）与 `pwsf.install`
+   那套（`pwsf.install --restore` 与成品补丁的 `restore.bat` 互为可逆）。
+5. 入口 `python -m pwsf.patch [--build [--zip] | --install | --restore]`；
+   PoC `_poc_text_cn.py` 保留作证据，不再作为安装手段。
+6. 静态 `.bat` 放 `tools/build/`，打包时 `shutil.copy2` 进包，不再内嵌生成。
 
 # Packages
 | 模块 | 作用 |

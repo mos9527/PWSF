@@ -6,9 +6,9 @@
 > AI 大模型使用: Claude Opus 5, Tencent Hunyuan 4-dev, Tencent Hunyuan 3
 
 > [!TIP]
-> 翻译工作起步初期，有意者欢迎 PR 参与工作。
+> 翻译工作初版同样使用大模型生成（见 `tools/`），有意人工校对，润色者欢迎 PR/提交 Issue 参与工作。
 
-METAL GEAR SOLID PEACE WALKER（Steam 版）本土化工具链
+METAL GEAR SOLID PEACE WALKER（Steam 版）翻译工作
 
 ## 安装依赖
 
@@ -20,12 +20,23 @@ pip install pillow
 
 ## 使用
 
+从源码装（开发用）：
+
 ```powershell
 python -m pwsf.config --init
 python -m pwsf.po_import --install
 ```
 
 还原：`python -m pwsf.install --restore`
+
+## 补丁构建
+
+`python -m pwsf.patch --build` 可生成补丁包。
+
+```text
+install.bat "游戏目录\mgspw"     # 装之前先确认 Steam 游戏是最新原版
+restore.bat "游戏目录\mgspw"     # 还原 *.orig 备份
+```
 
 其余见 [`AGENTS.md`](AGENTS.md)
 

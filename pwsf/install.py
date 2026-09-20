@@ -90,34 +90,48 @@ def status(items: list) -> None:
         print(f"  {state:9} {rel} ({it.kind}, {it.size} bytes{note})")
 
 
-def install(items: list, force: bool = False) -> None:
+def install(items: list, force: bool = False, verify_game: bool = True) -> None:
+    """Write a build into the game.
+
+    verify_game=True (dev default): refuse to clobber a file that is neither
+    the recorded original nor this build, unless --force.  This keeps `.orig`
+    backups trustworthy as a re-extraction source.
+
+    verify_game=False (shipped patch): the player is assumed to have confirmed
+    the game is the latest clean Steam build, so we just back up (if no `.orig`
+    yet) and overwrite.  No hash gate -- see AGENTS.md / PLANS/07.
+    """
     for it in items:
         rel = it.dest.relative_to(config.GAME_DIR)
-        state = it.state()
-        if state == LIVE_MISSING:
-            raise SystemExit(f"{rel} does not exist in the game directory")
-        if state == LIVE_BUILT:
-            print(f"  unchanged {rel} (this build is already installed)")
-            continue
-
-        if it.backup.is_file():
-            if sha256(it.backup) != it.orig_sha and not force:
+        if verify_game:
+            state = it.state()
+            if state == LIVE_MISSING:
+                raise SystemExit(f"{rel} does not exist in the game directory")
+            if state == LIVE_BUILT:
+                print(f"  unchanged {rel} (this build is already installed)")
+                continue
+            if it.backup.is_file():
+                if sha256(it.backup) != it.orig_sha and not force:
+                    raise SystemExit(
+                        f"{rel}: the existing {config.BACKUP_SUFFIX} backup is "
+                        f"not the original this build was made from. Restore "
+                        f"first, or re-run po_import, or pass --force.")
+            elif state == LIVE_ORIGINAL:
+                shutil.copy2(it.dest, it.backup)
+                print(f"  backed up {rel} -> {it.backup.name}")
+            elif not force:
                 raise SystemExit(
-                    f"{rel}: the existing {config.BACKUP_SUFFIX} backup is not "
-                    f"the original this build was made from. Restore first, or "
-                    f"re-run po_import, or pass --force.")
-        elif state == LIVE_ORIGINAL:
-            shutil.copy2(it.dest, it.backup)
-            print(f"  backed up {rel} -> {it.backup.name}")
-        elif not force:
-            raise SystemExit(
-                f"{rel}: live file is neither the original this build was made "
-                f"from nor this build, and there is no backup to fall back on. "
-                f"Reinstall the game file, or pass --force to overwrite it "
-                f"(the original would then be unrecoverable).")
+                    f"{rel}: live file is neither the original this build was "
+                    f"made from nor this build, and there is no backup to fall "
+                    f"back on. Reinstall the game file, or pass --force to "
+                    f"overwrite it (the original would then be unrecoverable).")
+        else:
+            if not it.backup.is_file() and it.dest.is_file():
+                shutil.copy2(it.dest, it.backup)
+                print(f"  backed up {rel} -> {it.backup.name}")
 
         shutil.copy2(it.built, it.dest)
-        if sha256(it.dest) != it.sha:
+        if verify_game and sha256(it.dest) != it.sha:
             raise SystemExit(f"{rel}: copied file does not match the build hash")
         print(f"  installed {rel} ({it.kind})")
 
