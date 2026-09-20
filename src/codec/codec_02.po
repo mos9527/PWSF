@@ -72,7 +72,7 @@ msgstr "卡兹，你以前在日本自卫队待过，\n对吧？\n"
 msgid ""
 "I thought that Article 9 you were talking about\n"
 "earlier\n"
-msgstr ""
+msgstr "我之前听你说的那个第9条\n来着\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0300_010_0
 #. timeline 2117..2772
@@ -148,7 +148,7 @@ msgstr "美国承诺会报复任何国家\n"
 msgid ""
 "that launches a nuclear strike against an allied\n"
 "country...\n"
-msgstr ""
+msgstr "那会对盟国发动核打击的\n国家……\n"
 
 #: codec/1/159/0x9f870/4
 msgid ""
@@ -647,7 +647,7 @@ msgid ""
 "I want you to avoid killing enemy soldiers as much\n"
 "as possible and send them back using Fulton\n"
 "recovery.\n"
-msgstr ""
+msgstr "我希望你尽量避免杀死敌方士兵\n尽可能用富尔顿回收\n把他们送回来。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0650_000_0
 #. timeline 5224..6032
@@ -788,7 +788,7 @@ msgstr "瞄准会逐渐更精准。\n"
 msgid ""
 "As we develop better weapons at Mother Base,\n"
 "though,\n"
-msgstr ""
+msgstr "母基地造出好武器后，\n不过，\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0050_000_0
 #. timeline 7732..8986
@@ -818,7 +818,7 @@ msgstr "不妨投点资源搞研发。\n"
 msgid ""
 "I'll keep it in mind. Then again, the more you use a\n"
 "weapon,\n"
-msgstr ""
+msgstr "记下了。话说你越用一件\n武器，\n"
 
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0050_000_0
 #. timeline 11744..12301
@@ -1641,7 +1641,7 @@ msgstr "当通讯中断时，你会被\n逐个击破。\n"
 #: codec/1/169/0xa9240/5
 msgid ""
 "Now, about CO-OPS Comms.\n"
-msgstr "现在说说合作通讯。\n"
+msgstr "说说合作通讯。\n"
 
 #: codec/1/169/0xa9240/6
 msgid ""
@@ -1683,7 +1683,7 @@ msgstr "发送不同讯息。\n"
 #: codec/1/169/0xa9240/13
 msgid ""
 "Easy enough.\n"
-msgstr "挺简单。\n"
+msgstr "简单。\n"
 
 #: codec/1/169/0xa9240/14
 msgid ""
@@ -1711,7 +1711,7 @@ msgstr "这样应该会更快更轻松。\n"
 #: codec/1/169/0xa9240/18
 msgid ""
 "Just go to \"Key Config\".\n"
-msgstr "进入\"按键配置\"即可。\n"
+msgstr "进\"按键配置\"。\n"
 
 #: codec/1/169/0xa9240/19
 msgid ""
@@ -1747,7 +1747,7 @@ msgstr "很遗憾，英文里没有直接对应的\n说法……\n"
 msgid ""
 "But to keep it simple, let's call it a sort of \"Battle\n"
 "Cry.\"\n"
-msgstr ""
+msgstr "但简单来说，我们就叫它一种“战\n吼”吧。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0130_010_1
 #. timeline 4527..5029
@@ -1777,7 +1777,7 @@ msgstr "\"言\"是词语，\"灵\"是灵魂。\n"
 msgid ""
 "It signifies that words have power that affect our\n"
 "reality...\n"
-msgstr ""
+msgstr "它意味着言语拥有影响我们\n现实的力量……\n"
 
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0130_010_1
 #. timeline 9306..10128
@@ -1831,7 +1831,7 @@ msgstr "合作通讯也一样。\n"
 msgid ""
 "Offering praise to somebody could make them run\n"
 "faster than usual.\n"
-msgstr ""
+msgstr "对某人给予赞扬可能会让他们跑得\n比平时更快。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0130_010_1
 #. timeline 17373..18822
@@ -1875,7 +1875,7 @@ msgstr "靠近有队友的纸箱时，\n会出现图标。\n"
 #: codec/1/170/0xaa690/3
 msgid ""
 "Then press <I=ACT>.\n"
-msgstr "然后按<I=ACT>。\n"
+msgstr "再按<I=ACT>。\n"
 
 #: codec/1/170/0xaa690/4
 msgid ""
@@ -1948,7 +1948,7 @@ msgstr "等等。卡兹，谁搞出这玩意的？！\n"
 #: codec/1/170/0xaaa10/6
 msgid ""
 "I'm sorry, Boss. He meant well, I swear.\n"
-msgstr "抱歉，BOSS。他真是好意，我发誓。\n"
+msgstr "抱歉，BOSS。他真是好意。\n"
 
 #: codec/1/170/0xaaa10/7
 msgid ""
@@ -2015,13 +2015,13 @@ msgstr "帕兹？！\n"
 msgid ""
 "I hate tanks, but this one I think I could get used\n"
 "to.\n"
-msgstr ""
+msgstr "我讨厌坦克，但这辆我能慢慢\n习惯。\n"
 
 #: codec/1/170/0xaaa10/19
 msgid ""
 "I love that it's a zero emissions vehicle - it will not\n"
 "hurt the forests of Costa Rica.\n"
-msgstr ""
+msgstr "我喜欢它是零排放车辆——不会\n伤害哥斯达黎加的森林。\n"
 
 #: codec/1/170/0xaaa10/20
 #: codec/2/912/0x3904c0/1
@@ -2033,7 +2033,7 @@ msgstr "什么？！\n"
 msgid ""
 "Nice work, Kaz. I see I made the right choice\n"
 "making you second in command.\n"
-msgstr ""
+msgstr "干得好，卡兹。看来我选你当\n副手没选错。\n"
 
 #: codec/1/170/0xaaa10/22
 msgid ""
@@ -2044,7 +2044,7 @@ msgstr "可是我……我有什么问题吗？！\n"
 msgid ""
 "Snake, about that cassette player Gálvez was\n"
 "carrying...\n"
-msgstr ""
+msgstr "SNAKE，加尔维斯带的那个\n磁带播放器……\n"
 
 #: codec/1/171/0xab160/1
 msgid ""
@@ -2060,7 +2060,7 @@ msgstr "那不是苏联仿制品。\n"
 msgid ""
 "It was the real deal - a prototype developed by a\n"
 "Japanese company.\n"
-msgstr ""
+msgstr "那是真货——一家日本公司\n开发的试制品。\n"
 
 #: codec/1/171/0xab160/4
 msgid ""
@@ -2071,7 +2071,7 @@ msgstr "别逗了！\n"
 msgid ""
 "It's true. It had the Sony logo on it. The product\n"
 "name is \"WALKMAN.\"\n"
-msgstr ""
+msgstr "没错。上面有索尼的标志。产品名\n叫“WALKMAN”。\n"
 
 #: codec/1/171/0xab160/6
 msgid ""
@@ -2082,7 +2082,7 @@ msgstr "WALKMAN……\n"
 msgid ""
 "It's a revolutionary new concept. Music you can\n"
 "listen to on the go.\n"
-msgstr ""
+msgstr "这是革命性的新概念。随时随地\n听音乐。\n"
 
 #: codec/1/171/0xab160/8
 msgid ""
@@ -2098,13 +2098,13 @@ msgstr "我听了听，\n"
 msgid ""
 "and you wouldn't believe how good the sound\n"
 "quality is for something so tiny.\n"
-msgstr ""
+msgstr "这么小的东西，音质好得\n难以置信。\n"
 
 #: codec/1/171/0xab160/11
 msgid ""
 "And in stereo, too. Think of the technology that\n"
 "must have gone into it.\n"
-msgstr ""
+msgstr "还是立体声。想想得用上\n多少技术。\n"
 
 #: codec/1/171/0xab160/12
 msgid ""
@@ -2115,25 +2115,25 @@ msgstr "那磁带也一样惊人。\n"
 msgid ""
 "The treble range is clearly superior to any other\n"
 "cassette ever made. Stylish, too.\n"
-msgstr ""
+msgstr "高音明显胜过以往任何磁带。\n还很时髦。\n"
 
 #: codec/1/171/0xab160/14
 msgid ""
 "How'd Gálvez get his hands on a model that's not\n"
 "even out yet?\n"
-msgstr ""
+msgstr "加尔维斯怎么弄到还没上市的\n型号的？\n"
 
 #: codec/1/171/0xab160/15
 msgid ""
 "Beats me. It's not the kind of thing I'd expect some\n"
 "stodgy Soviet to be into.\n"
-msgstr ""
+msgstr "不知道。这不像古板苏联人\n会喜欢的东西。\n"
 
 #: codec/1/171/0xab160/16
 msgid ""
 "Me neither. Tell you what, though, it's a fine piece\n"
 "of work.\n"
-msgstr ""
+msgstr "我也一样。不过说真的，这活儿\n干得漂亮。\n"
 
 #: codec/1/171/0xab160/17
 msgid ""

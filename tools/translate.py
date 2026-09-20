@@ -72,12 +72,26 @@ SYSTEM = """你是《合金装备：和平行者》(Metal Gear Solid: Peace Walk
 
 # ---------------------------------------------------------------- 校验
 
-def fix_tail(src, dst):
-    """模型常把原文末尾的换行吞掉（CODEC 每条都以 \\n 结尾）。
-    只补尾部，不碰中间的分行。"""
+def fix_newlines(src, dst):
+    """补回模型弄丢的首尾换行。
+
+    两种是确定性的，本地补即可，不必麻烦模型：
+    * 结尾换行被吞（CODEC 每条都以 \\n 结尾，最常见）；
+    * 前导空行被删（排版用的 \\n\\n\\n... 开头，模型当成空白丢掉）。
+    中间的分行丢了没法本地定位，只能靠 repair。
+    """
     while src.endswith("\n") and not dst.endswith("\n") \
             and src.count("\n") > dst.count("\n"):
         dst += "\n"
+    lead_src = len(src) - len(src.lstrip("\n"))
+    lead_dst = len(dst) - len(dst.lstrip("\n"))
+    if lead_src > lead_dst and src.count("\n") > dst.count("\n"):
+        dst = "\n" * (lead_src - lead_dst) + dst
+    # PSP/Xbox 时代的 UI 文本用 \r\n 分行，模型一律只给 \n。行数对上了就把
+    # \r 补回去，否则游戏里那一行会连在一起。
+    if "\r\n" in src and "\r\n" not in dst \
+            and src.count("\n") == dst.count("\n"):
+        dst = dst.replace("\n", "\r\n")
     return dst
 
 
@@ -140,9 +154,43 @@ def call_api(payload, args, session):
     return None, last
 
 
+def sanitize_json(t: str) -> str:
+    """把 JSON 字符串值里的裸控制字符转义掉。
+
+    模型经常不转义译文里的换行，直接输出物理换行 —— JSON 不允许字符串值
+    里出现裸控制字符，整批译文就都判成不可解析（`unparsable`）白白丢掉。
+    这里按引号状态机只动字符串**内部**的控制字符，结构位置的空白照旧。
+    """
+    out, in_str, esc = [], False, False
+    for ch in t:
+        if in_str:
+            if esc:
+                out.append(ch)
+                esc = False
+            elif ch == "\\":
+                out.append(ch)
+                esc = True
+            elif ch == '"':
+                in_str = False
+                out.append(ch)
+            elif ch == "\n":
+                out.append("\\n")
+            elif ch == "\r":
+                out.append("\\r")
+            elif ch == "\t":
+                out.append("\\t")
+            else:
+                out.append(ch)
+            continue
+        if ch == '"':
+            in_str = True
+        out.append(ch)
+    return "".join(out)
+
+
 def parse_reply(text):
     """模型偶发会加 ```json 围栏或前后寒暄，这里都剥掉。"""
-    t = text.strip()
+    t = sanitize_json(text.strip())
     t = re.sub(r"^```(?:json)?\s*", "", t)
     t = re.sub(r"\s*```$", "", t)
     i, j = t.find("{"), t.rfind("}")
@@ -261,17 +309,21 @@ def run_batch(batch, args, terms, session):
         return {}, [(b, f"api: {err}") for b in batch]
     reply = parse_reply(raw)
     if reply is None:
-        return {}, [(b, f"unparsable: {raw[:200]}") for b in batch]
+        return {}, [(b, f"unparsable: {raw[:600]}") for b in batch]
 
     ok, bad = {}, []
     for idx, (path, e, _) in enumerate(batch, 1):
         val = reply.get(str(idx))
         if isinstance(val, dict):
             val = val.get("zh") or val.get("translation") or val.get("msgstr")
+        if isinstance(val, list):
+            val = "\n".join(str(x) for x in val)   # 行数组自带结构，别 strip
+        elif isinstance(val, str):
+            val = val.strip()
         if not isinstance(val, str):
             bad.append(((path, e, group), "missing"))
             continue
-        val = fix_tail(e.msgid, val.strip())
+        val = fix_newlines(e.msgid, val)
         reason = check(e.msgid, val)
         if reason:
             bad.append(((path, e, group), reason))
@@ -282,6 +334,9 @@ def run_batch(batch, args, terms, session):
     if args.repair and bad and not args.dry_run:
         fixed, bad = repair(bad, args, session)
         ok.update(fixed)
+        if bad:
+            fixed, bad = repair_by_line(bad, args, session)
+            ok.update(fixed)
 
     for path, e, _ in batch:
         val = ok.get(e)
@@ -295,9 +350,12 @@ def run_batch(batch, args, terms, session):
 REPAIR_SYSTEM = """你是本地化审校。下列译文被判不合格，游戏里会显示错乱。
 
 逐条按要求重译：
-- `nl` 是原文换行数，译文必须恰好这么多个换行，位置也要对应（含结尾那个）。
+- `lines` 是原文按换行切开的每一行。带 `lines` 的条目，输出值必须是**行数
+  相同的 JSON 数组**，一行一个元素，不要用带 \\n 的字符串 —— 数组长度对了，
+  换行位置就一定对（含结尾那个空行，它对应一个空字符串元素）。
+- 没有 `lines` 的条目（单行）照常输出字符串。
 - `<I=XX>` 与 `%d` 之类占位符原样保留。
-- 只输出 JSON：{"编号": "重译后的译文"}。"""
+- 只输出 JSON：{"编号": [...] 或 "重译后的译文"}。"""
 
 
 def repair(bad, args, session):
@@ -305,7 +363,7 @@ def repair(bad, args, session):
     items, order = {}, []
     for i, ((_path, e, _g), reason) in enumerate(bad, 1):
         items[str(i)] = {"en": e.msgid, "nl": e.msgid.count("\n"),
-                         "bad": reason}
+                         "lines": e.msgid.split("\n"), "bad": reason}
         order.append((str(i), e, reason))
     payload = {
         "model": args.model,
@@ -331,14 +389,86 @@ def repair(bad, args, session):
         val = reply.get(k)
         if isinstance(val, dict):
             val = val.get("zh")
+        if isinstance(val, list):
+            val = "\n".join(str(x) for x in val)   # 行数组 = 换行位置对齐
+        elif isinstance(val, str):
+            val = val.strip()
         if not isinstance(val, str):
             still.append(((_path_of(e, bad), e, ""), reason))
             continue
-        val = fix_tail(e.msgid, val.strip())
+        val = fix_newlines(e.msgid, val)
         if check(e.msgid, val):
             still.append(((_path_of(e, bad), e, ""), f"repair-failed {reason}"))
             continue
         ok[e] = val
+        STATS["repaired"] += 1
+    return ok, still
+
+
+SPLIT_SYSTEM = """你是本地化审校。下面按行给出《合金装备：和平行者》的游戏文本，
+一行一条编号。
+
+逐条译成中文：每行独立成句，不要合并相邻行，不要自己加换行或引号。
+`<I=XX>` 与 `%d` 之类占位符原样保留。空白行就原样返回空白。
+只输出 JSON：{"编号": "该行的中文"}，编号与输入一一对应，一条都不能漏。"""
+
+
+def repair_by_line(bad, args, session):
+    """最后一级修复：按行拆开逐行重译，拼回去行数必然对齐。
+
+    模型顽固地把两行台词并成一行（`newline 2->1`），连"输出行数组"都拦不住。
+    逐行翻译就不存在吞换行这回事：N 行进去 N 行出来，\n 一 join 就对上了。
+    """
+    items, per = {}, {}
+    n = 0
+    for i, ((_path, e, _g), _reason) in enumerate(bad, 1):
+        for line in e.msgid.split("\n"):
+            n += 1
+            items[str(n)] = line
+            per.setdefault(i, []).append(str(n))
+
+    payload = {
+        "model": args.model,
+        "temperature": 0.3,
+        "max_tokens": args.max_tokens,
+        "messages": [{"role": "system", "content": SPLIT_SYSTEM},
+                     {"role": "user", "content": json.dumps(items, ensure_ascii=False)}],
+    }
+    if args.reasoning != "omit":
+        payload["reasoning"] = {"effort": args.reasoning}
+    if not args.thinking:
+        payload["enable_thinking"] = False
+
+    raw, err = call_api(payload, args, session)
+    if raw is None:
+        return {}, bad
+    reply = parse_reply(raw)
+    if not reply:
+        return {}, bad
+
+    ok, still = {}, []
+    for i, ((path, e, group), reason) in enumerate(bad, 1):
+        keys = per.get(i, [])
+        vals = []
+        for k, line in zip(keys, e.msgid.split("\n")):
+            v = reply.get(k)
+            if isinstance(v, list):
+                v = " ".join(str(x) for x in v)
+            if isinstance(v, str) and v.strip():
+                vals.append(v.strip())
+            elif not line.strip():
+                vals.append(line)          # 空行原样保留
+            else:
+                vals = None
+                break
+        if not vals:
+            still.append(((path, e, group), f"split-failed {reason}"))
+            continue
+        joined = fix_newlines(e.msgid, "\n".join(vals))
+        if check(e.msgid, joined):
+            still.append(((path, e, group), f"split-failed {reason}"))
+            continue
+        ok[e] = joined
         STATS["repaired"] += 1
     return ok, still
 
@@ -392,7 +522,7 @@ def shrink(ok, args, session):
             val = val.get("zh")
         if not isinstance(val, str):
             continue
-        val = fix_tail(e.msgid, val.strip())
+        val = fix_newlines(e.msgid, val.strip())
         if check(e.msgid, val):
             continue
         if byte_len(val) < byte_len(e.msgid):
@@ -429,7 +559,8 @@ def main():
     ap.add_argument("--retries", type=int, default=2)
     ap.add_argument("--timeout", type=int, default=120)
     ap.add_argument("--temperature", type=float, default=0.3)
-    ap.add_argument("--max-tokens", type=int, default=4000)
+    ap.add_argument("--max-tokens", type=int, default=8000,
+                    help="回复上限；整批被截断会整批判为不可解析")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 

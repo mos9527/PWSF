@@ -244,7 +244,7 @@ msgstr "就这样。我们在休伊上装好了\n回收钩……\n"
 msgid ""
 "Wait, Kaz, something doesn't make sense about this\n"
 "whole process.\n"
-msgstr ""
+msgstr "等等，Kaz，这整个流程\n有点说不通。\n"
 
 #: codec/1/149/0x95220/11
 msgid ""
@@ -261,7 +261,7 @@ msgstr "通常，富尔顿回收系统是用于\n固定翼飞机的。\n"
 msgid ""
 "With a helicopter, isn't it simpler to land and pick\n"
 "up directly?\n"
-msgstr ""
+msgstr "有直升机的话，直接降落接人\n不是更简单吗？\n"
 
 #: codec/1/149/0x95220/14
 msgid ""
@@ -551,7 +551,7 @@ msgstr "你的老导师，THE BOSS……\n"
 msgid ""
 "She was known in the West as the \"Mother of\n"
 "Special Forces,\" right?\n"
-msgstr ""
+msgstr "她在西方被称为“特种部队\n之母”，对吧？\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0070_010_0
 #. timeline 2326..2758
@@ -573,7 +573,7 @@ msgstr "其实，这离事实并不远。\n"
 msgid ""
 "I heard the KGB just set up a counter-sabotage\n"
 "cell. Alpha Group, I think they call it.\n"
-msgstr ""
+msgstr "我听说KGB刚成立了一个反破坏\n小组。好像叫阿尔法小组。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
 #. timeline 5461..6575
@@ -581,7 +581,7 @@ msgstr ""
 msgid ""
 "There's even a rumor that West Germany created\n"
 "a counter-terrorist unit within its\n"
-msgstr ""
+msgstr "甚至有传言说西德组建了\n一支反恐部队，\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
 #. timeline 6575..7565
@@ -589,7 +589,7 @@ msgstr ""
 msgid ""
 "border police after the debacle at the Munich\n"
 "Olympics.\n"
-msgstr ""
+msgstr "奥运会惨案后，在其边境警察中\n组建了一支反恐部队。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
 #. timeline 7578..8442
@@ -597,7 +597,7 @@ msgstr ""
 msgid ""
 "Back home in the States, they've got the illustrious\n"
 "Green Berets,\n"
-msgstr ""
+msgstr "回到美国国内，他们有著名的\n绿色贝雷帽，\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
 #. timeline 8442..9418
@@ -605,7 +605,7 @@ msgstr ""
 msgid ""
 "the SEALs, and your personal creation,\n"
 "FOXHOUND...\n"
-msgstr ""
+msgstr "海豹突击队，还有你亲手创建的\nFOXHOUND……\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
 #. timeline 9431..10281
@@ -613,7 +613,7 @@ msgstr ""
 msgid ""
 "The seeds sown by The Boss are beginning to\n"
 "sprout.\n"
-msgstr ""
+msgstr "The Boss播下的种子开始\n发芽了。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
 #. timeline 10337..11772
@@ -621,7 +621,7 @@ msgstr ""
 msgid ""
 "Same goes for MSF, right? In creating it, you were\n"
 "carrying on the will of The Boss.\n"
-msgstr ""
+msgstr "MSF也是一样，对吧？创建它，就是在\n继承The Boss的遗志。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0070_010_0
 #. timeline 12260..13625
@@ -629,7 +629,7 @@ msgstr ""
 msgid ""
 "She taught me how to fight, the hard way - she\n"
 "beat it into me.\n"
-msgstr ""
+msgstr "她教我怎么战斗，用的是最狠的方式——\n硬生生打出来的。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
 #. timeline 13639..15144
@@ -637,7 +637,7 @@ msgstr ""
 msgid ""
 "And now thanks to her, we can take on missions\n"
 "other than just conventional combat.\n"
-msgstr ""
+msgstr "而现在多亏了她，我们能执行\n常规战斗之外的任务了。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0070_010_0
 #. timeline 15227..16620
@@ -645,7 +645,7 @@ msgstr ""
 msgid ""
 "After all, we've got the same mother as the Army's\n"
 "Special Forces.\n"
-msgstr ""
+msgstr "毕竟，我们和陆军特种部队\n有着同一个母亲。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0080_000_0
 #. timeline 515..1894
@@ -653,7 +653,7 @@ msgstr ""
 msgid ""
 "You know, Snake, you're right. As long as we're\n"
 "\"soldiers without borders,\"\n"
-msgstr ""
+msgstr "你知道，Snake，你说得对。只要我们是\n“无国界的士兵”，\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0080_000_0
 #. timeline 1922..2856
@@ -661,7 +661,7 @@ msgstr ""
 msgid ""
 "we're going to be a target. We need our own\n"
 "deterrent.\n"
-msgstr ""
+msgstr "我们就会成为目标。我们需要自己的\n威慑力量。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0080_000_0
 #. timeline 3037..4137
@@ -669,7 +669,7 @@ msgstr ""
 msgid ""
 "We're going to be stepping into a lot of different\n"
 "conflicts as we roam the world.\n"
-msgstr ""
+msgstr "我们在世界各地游走时，会卷入许多不同的\n冲突。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0080_000_0
 #. timeline 4137..5642
@@ -677,7 +677,7 @@ msgstr ""
 msgid ""
 "Each one unique, and with its own set of\n"
 "geography, ideologies, and politics.\n"
-msgstr ""
+msgstr "每一场都独一无二，有着自己的\n地理、意识形态和政治。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0080_000_0
 #. timeline 5670..6659
@@ -685,7 +685,7 @@ msgstr ""
 msgid ""
 "If we're going to intervene in those kinds of\n"
 "situations,\n"
-msgstr ""
+msgstr "如果我们要介入那类\n局势，\n"
 
 #: codec/1/150/0x96b70/5
 msgid ""
@@ -696,13 +696,13 @@ msgstr "我们需要合金装备威慑。\n"
 msgid ""
 "...Unless we want to end up like Che Guevara did in\n"
 "Bolivia.\n"
-msgstr ""
+msgstr "除非想落得像切·格瓦拉在\n玻利维亚的下场。\n"
 
 #: codec/1/150/0x96b70/7
 msgid ""
 "Well said. Our army without borders doesn't have a\n"
 "land to call home.\n"
-msgstr ""
+msgstr "说得好。我们这支无国界的军队没有\n可称为家园的土地。\n"
 
 #: codec/1/150/0x96b70/8
 msgid ""
@@ -713,7 +713,7 @@ msgstr "我们是游牧者。流浪者。\n"
 msgid ""
 "What we need now is a sheepdog to guard our\n"
 "flock.\n"
-msgstr ""
+msgstr "现在需要一只牧羊犬守护我们的\n羊群。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0020_000_0
 #. timeline 2187..2382
@@ -736,7 +736,7 @@ msgstr "没错。\n"
 msgid ""
 "Maybe it's not the way The Boss would have gone\n"
 "about it...\n"
-msgstr ""
+msgstr "也许这不是The Boss会采取的\n方式……\n"
 
 #: codec/1/150/0x96b70/12
 msgid ""
@@ -1459,7 +1459,7 @@ msgstr "你什么时候学会先请示了？\n"
 msgid ""
 "..Ha. So, you used to be part of a CIA paramilitary\n"
 "unit, right?\n"
-msgstr ""
+msgstr "……哈。你以前是CIA准军事\n部队的，对吧？\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0160_000_0
 #. timeline 3803..3984
@@ -1482,7 +1482,7 @@ msgstr "在中美洲执行过任务吗？\n"
 msgid ""
 "No, not personally. But there were other units who\n"
 "did all kinds of stuff.\n"
-msgstr ""
+msgstr "不，不是我本人。但还有其他部队\n干过各种各样的事。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0160_000_0
 #. timeline 5962..6910
@@ -1504,7 +1504,7 @@ msgstr "报纸可没少拿它做文章。\n"
 msgid ""
 "\"Operation Zapata\" - that was the CIA codename.\n"
 "The whole thing went south.\n"
-msgstr ""
+msgstr "“萨帕塔行动”——那是CIA的代号。\n整件事都搞砸了。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0160_000_0
 #. timeline 9250..10142
@@ -1512,7 +1512,7 @@ msgstr ""
 msgid ""
 "Then there was Che Guevara being hunted down in\n"
 "Bolivia.\n"
-msgstr ""
+msgstr "后来切·格瓦拉在\n玻利维亚被追杀。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0160_000_0
 #. timeline 10226..10950
@@ -1527,7 +1527,7 @@ msgstr "听说CIA也掺和了那事……\n"
 msgid ""
 "There were several units similar to mine. MSP,\n"
 "SOG...\n"
-msgstr ""
+msgstr "有几支部队和我类似。MSP、\nSOG……\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0160_000_0
 #. timeline 12427..13792
@@ -1535,7 +1535,7 @@ msgstr ""
 msgid ""
 "They'd recruit former Special Forces, train them as\n"
 "intelligence agents, and send them on\n"
-msgstr ""
+msgstr "他们招募退役特种部队，训练成\n情报特工，再派去\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0160_000_0
 #. timeline 13792..14767
@@ -1550,7 +1550,7 @@ msgstr "\"可否认\"的准军事秘密行动。\n"
 msgid ""
 "One of those units trained the Bolivian Army in\n"
 "counter-guerilla tactics....\n"
-msgstr ""
+msgstr "其中一支部队训练了玻利维亚军\n打游击战……\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0160_000_0
 #. timeline 15924..16537
@@ -1572,7 +1572,7 @@ msgstr "传闻如此。\n"
 msgid ""
 "Around here, they say \"La CIA\", instead of \"C-I-A,\"\n"
 "huh?\n"
-msgstr ""
+msgstr "这地方的人管CIA叫\"La CIA\"，\n对吧？\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0170_000_0
 #. timeline 2117..3218
@@ -1580,7 +1580,7 @@ msgstr ""
 msgid ""
 "Nothing strange about it. That's how it's\n"
 "pronounced when you read it in Spanish.\n"
-msgstr ""
+msgstr "不奇怪。西班牙语里\n就是这么读的。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0170_000_0
 #. timeline 3232..4472
@@ -1588,7 +1588,7 @@ msgstr ""
 msgid ""
 "It has the feminine noun ending \"a,\" so they use\n"
 "the article \"la.\"\n"
-msgstr ""
+msgstr "词尾是阴性名词的\"a\"，所以\n加冠词\"la\"。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0170_000_0
 #. timeline 4486..5572
@@ -1596,7 +1596,7 @@ msgstr ""
 msgid ""
 "Apparently some people have even taken to using\n"
 "the term UCLA.\n"
-msgstr ""
+msgstr "Apparently some people have even taken to using\nthe term UCLA.\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0170_000_0
 #. timeline 5586..6241
@@ -1625,7 +1625,7 @@ msgstr "……指当地特工？\n"
 msgid ""
 "Yeah, that's the idea. Washington uses them like\n"
 "pawns,\n"
-msgstr ""
+msgstr "对，就这样。华盛顿拿他们当\n棋子，\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0170_000_0
 #. timeline 8791..9571
@@ -1633,7 +1633,7 @@ msgstr ""
 msgid ""
 "and nobody knows who they really are or what\n"
 "they're doing.\n"
-msgstr ""
+msgstr "没人知道他们是谁、\n在干什么。\n"
 
 #: codec/1/154/0x9ab70/0
 msgid ""
@@ -1790,25 +1790,25 @@ msgstr "……卡兹，我给奇科的照片。\n"
 msgid ""
 "He said something about selling it off as a photo\n"
 "of a UFO...\n"
-msgstr ""
+msgstr "他说要把它当UFO照片\n卖掉……\n"
 
 #: codec/1/155/0x9b1c0/11
 msgid ""
 "Looks like it found its way into the pages of a\n"
 "magazine.\n"
-msgstr ""
+msgstr "看来它登上了某本\n杂志。\n"
 
 #: codec/1/155/0x9b1c0/12
 msgid ""
 "But... why would the prime minister of a country\n"
 "believe tabloid trash like that?\n"
-msgstr ""
+msgstr "可是……一国总理怎么会\n信那种小报垃圾？\n"
 
 #: codec/1/155/0x9b1c0/13
 msgid ""
 "There's been reports all over the Americas of\n"
 "abductions and cattle mutilations, lately.\n"
-msgstr ""
+msgstr "最近全美洲都有\n绑架和牲畜残杀的报告。\n"
 
 #: codec/1/155/0x9b1c0/14
 msgid ""
@@ -1829,7 +1829,7 @@ msgstr "如果是，那盖里可能……\n"
 msgid ""
 "I know. If he digs too deep, he's gonna get himself\n"
 "into trouble.\n"
-msgstr ""
+msgstr "我知道。他查太深会\n惹上麻烦的。\n"
 
 #: codec/1/155/0x9b1c0/18
 msgid ""
@@ -1840,19 +1840,19 @@ msgstr "但格林纳达紧挨着古巴。\n"
 msgid ""
 "I guess that would make it tough for the CIA to\n"
 "intervene, in a sense.\n"
-msgstr ""
+msgstr "那样一来CIA反倒\n不好插手了。\n"
 
 #: codec/1/155/0x9b1c0/20
 msgid ""
 "Upsetting the domestic balance of power could\n"
 "cause it to go Red all of a sudden.\n"
-msgstr ""
+msgstr "打破国内力量平衡，\n可能突然就赤化了。\n"
 
 #: codec/1/155/0x9b1c0/21
 msgid ""
 "True... Well, in any case it's not like we can do\n"
 "anything about it.\n"
-msgstr ""
+msgstr "是啊……反正我们也\n无能为力。\n"
 
 #: codec/1/155/0x9b1c0/22
 msgid ""
@@ -1863,13 +1863,13 @@ msgstr "只是跟你说一声。\n"
 msgid ""
 "Gotcha. I'll be careful not to let any more photos\n"
 "leak.\n"
-msgstr ""
+msgstr "明白。我会小心，不再让\n照片外泄。\n"
 
 #: codec/1/155/0x9b990/0
 msgid ""
 "So I hear Amanda mistook you for Che Guevara,\n"
 "Snake.\n"
-msgstr ""
+msgstr "听说阿曼达把你当成切·格瓦拉了，\nSNAKE。\n"
 
 #: codec/1/155/0x9b990/1
 msgid ""
@@ -1880,7 +1880,7 @@ msgstr "那也不赖吧？\n"
 msgid ""
 "Yeah, right. I'm not even worthy of polishing his\n"
 "boots.\n"
-msgstr ""
+msgstr "哪有。我连给他擦鞋\n都不配。\n"
 
 #: codec/1/155/0x9b990/3
 msgid ""
@@ -1891,25 +1891,25 @@ msgstr "别这么谦虚。\n"
 msgid ""
 "From where I'm standing, your men see you as a\n"
 "great man.\n"
-msgstr ""
+msgstr "在我看来，你的部下都视你为\n伟人。\n"
 
 #: codec/1/155/0x9b990/5
 msgid ""
 "As great as \"the century's most complete human\n"
 "being\"?\n"
-msgstr ""
+msgstr "像\"世纪最完整的人\"\n那么伟大？\n"
 
 #: codec/1/155/0x9b990/6
 msgid ""
 "That's Sartre, right? Well, there's hardly been a\n"
 "more iconic figure of his times than Che.\n"
-msgstr ""
+msgstr "那是萨特说的吧？可切几乎是他那时代\n最具标志性的人物。\n"
 
 #: codec/1/155/0x9b990/7
 msgid ""
 "He was more than that. He was a true\n"
 "revolutionary, and a great warrior.\n"
-msgstr ""
+msgstr "不止如此。他是真正的\n革命者，伟大的战士。\n"
 
 #: codec/1/155/0x9b990/8
 msgid ""
@@ -2050,7 +2050,7 @@ msgstr "但他抛下了充满爱的家庭和内阁\n职位，重新投身于斗�
 msgid ""
 "First in the Congo, then in Bolivia - where he met\n"
 "his end.\n"
-msgstr "先是在刚果，然后在玻利维亚——他在那里\n走到了生命的尽头。\n"
+msgstr "先在刚果，后到玻利维亚，他死在\n那里。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0200_010_0
 #. timeline 7105..8526
@@ -2142,7 +2142,7 @@ msgstr "我做事不为任何意识形态。我是战士。\n仅此而已。\n"
 msgid ""
 "OK, Boss. You're right. Just wanted to see how we\n"
 "stacked up against a real hero.\n"
-msgstr "好吧，老大。你说得对。我只是想看看我们\n和真正的英雄比起来怎么样。\n"
+msgstr "好吧，老大。你说得对。只想看看我们\n和真英雄比如何。\n"
 
 #: codec/1/156/0x9c850/0
 msgid ""
@@ -2259,7 +2259,7 @@ msgstr "最精彩的一次是敌人正在爬\n他的城墙时\n"
 msgid ""
 "- he dumped boiling water and human excrement\n"
 "on them...\n"
-msgstr ""
+msgstr "- 他将沸水和人类排泄物倾倒\n在他们身上...\n"
 
 #: codec/1/156/0x9c850/20
 msgid ""
@@ -2438,7 +2438,7 @@ msgstr "有人说外交部不想放他走。\n但他还是去了。\n"
 msgid ""
 "He snuck out of his hotel and took an overnight\n"
 "train.\n"
-msgstr ""
+msgstr "他偷偷溜出酒店，乘坐了一夜\n火车。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0240_000_0
 #. timeline 7829..8930

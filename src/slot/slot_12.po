@@ -203,7 +203,7 @@ msgid ""
 "   you START MISSION. Other weapons are not\n"
 "   allowed.\n"
 "* This is a mission. Do not play with your food!"
-msgstr ""
+msgstr "<C=FF4040>在Puerto del Alba地区挟持所有敌方雇佣兵<C=R>。\n<C=FF4040>击杀、击晕或麻醉敌人将导致任务立即失败<C=R>。\n<C=FF4040>触发警报也将导致任务立即失败<C=R>。\n  分配武器：<C=FF4040>香蕉<C=R>\n  目标数量：7\n* 开始任务时香蕉将自动装备。\n   不允许使用其他武器。\n\n* 这是任务。别拿你的食物玩！"
 
 #: slot/0x00514128/0x215635/0x021b27
 msgid ""
@@ -223,7 +223,7 @@ msgid ""
 "   you START MISSION. Other weapons are not\n"
 "   allowed.\n"
 "* This is a mission. Do not play with your food!"
-msgstr ""
+msgstr "<C=FF4040>在矿山基地地下通道挟持所有敌方雇佣兵<C=R>。\n<C=FF4040>击杀、击晕或麻醉敌人将导致任务立即失败<C=R>。\n<C=FF4040>触发警报也将导致任务立即失败<C=R>。\n  分配武器：<C=FF4040>香蕉<C=R>\n  目标数量：9\n* 开始任务时香蕉将自动装备。\n   不允许使用其他武器。\n\n* 这是任务。别拿你的食物玩！"
 
 #: slot/0x00514128/0x215635/0x031b27
 msgid "ABOUT SBM258"
@@ -728,7 +728,7 @@ msgid ""
 "   you START MISSION. Other weapons are not\n"
 "   allowed.\n"
 "* This is a mission. Do not play with your food!"
-msgstr ""
+msgstr "<C=FF4040>在Bananal Fruta de Oro的分拣棚挟持所有敌方雇佣兵<C=R>。\n<C=FF4040>击杀、击晕或麻醉敌人将导致任务立即失败<C=R>。\n<C=FF4040>触发警报也将导致任务立即失败<C=R>。\n  分配武器：<C=FF4040>香蕉<C=R>\n  目标数量：6\n* 开始任务时香蕉将自动装备。\n   不允许使用其他武器。\n\n* 这是任务。别拿你的食物玩！"
 
 #: slot/0x00514128/0x215635/0x3f0d74
 #: slot/0x00514128/0x215635/0x484fc0
@@ -1841,7 +1841,7 @@ msgid ""
 "<C=FF4040>SNAKE ONLY<C=R>.\n"
 "* When in CO-OPS, the mission ends after one\n"
 "   player dies."
-msgstr ""
+msgstr "逃离拷问室。\n<C=FF4040>仅限斯内克<C=R>。\n* 在合作模式中，一名玩家死亡后\n   任务即告结束。"
 
 #: slot/0x00514128/0x215635/0x75aca6
 msgid "Zadornov has escaped from Mother Base once again. Find him and bring him back."
@@ -2242,7 +2242,7 @@ msgid ""
 "    soldier other than the disguised researcher\n"
 "  Items Needed: <C=FF4040>Fulton Recovery System<C=R>\n"
 "  # of Targets: 1"
-msgstr ""
+msgstr "<C=FF4040>救回被关押在Central Heredia云雾森林的研究员<C=R>。\n这名研究员<C=FF4040>伪装成敌方雇佣兵<C=R>以躲避侦查。\n<C=FF4040>跟丢研究员或将其杀死将导致任务立即失败<C=R>。\n<C=FF4040>仅限单人游戏<C=R>。\n  时间限制：7:00\n  时间惩罚：触发警报扣30秒 / 玩家对\n    伪装研究员以外的任何士兵使用富尔顿回收\n    时扣30秒\n  所需物品：<C=FF4040>富尔顿回收系统<C=R>\n  目标数量：1"
 
 #: slot/0x00514128/0x215635/0x9f1b22
 msgid ""

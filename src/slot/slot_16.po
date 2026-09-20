@@ -639,7 +639,7 @@ msgid ""
 "Insufficient free space on the \r\n"
 "Memory<I=BL>Stick<I=TM>.\n"
 "This game requires at least 544KB of free space in order to save data."
-msgstr ""
+msgstr "存储卡上的可用空间不足，\r\nMemory<I=BL>Stick<I=TM>。\r\n本游戏至少需要544KB的可用空间才能保存数据。"
 
 #: slot/0x005caf77/0x8b79b6/0x1329fc
 msgid "Corrupted installed data has been deleted."
@@ -691,7 +691,7 @@ msgid ""
 "the PSP<I=TM> system when \n"
 "the Memory<I=BL>Stick<I=TM> access \n"
 "indicator is flashing."
-msgstr ""
+msgstr "本游戏会在某些时间点自动保存数据。\r\n请勿在Memory<I=BL>Stick<I=TM>的\r\n存取指示灯闪烁时取出\r\nMemory<I=BL>Stick<I=TM>或关闭\r\nPSP<I=TM>主机电源。\r\n存取指示灯闪烁时。"
 
 #: slot/0x005caf77/0x8b79b6/0x437cf5
 msgid ""
@@ -739,7 +739,7 @@ msgid ""
 "without a Memory<I=BL>Stick<I=TM>. Please insert\r\n"
 "a Memory<I=BL>Stick<I=TM> with at least 33MB\r\n"
 "of free space."
-msgstr ""
+msgstr "Memory<I=BL>Stick<I=TM>未正确插入。\r\n没有Memory<I=BL>Stick<I=TM>将无法游玩本游戏。\r\n请插入至少有33MB可用空间的\r\nMemory<I=BL>Stick<I=TM>。\r\n可用空间。"
 
 #: slot/0x005caf77/0x8b79b6/0x70268a
 msgid ""
@@ -773,7 +773,7 @@ msgid ""
 "or delete save data from \r\n"
 "the current Memory<I=BL>Stick<I=TM> \r\n"
 "so less than 3 exist."
-msgstr ""
+msgstr "无法创建新的保存数据。\r\n保存数据文件数量已达\r\n上限（3个）。\r\n请换用保存数据少于3个的\r\nMemory<I=BL>Stick<I=TM>，\r\n或从当前的\r\nMemory<I=BL>Stick<I=TM>中删除保存数据，\r\n使保存数据少于3个。"
 
 #: slot/0x005caf77/0x8b79b6/0x8911d9
 msgid ""

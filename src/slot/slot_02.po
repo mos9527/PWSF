@@ -1210,7 +1210,7 @@ msgid ""
 "New weapons and items can now be developed\n"
 "because the level of the R&D Team increased\n"
 "due to staff assignment."
-msgstr ""
+msgstr "由于人员分配，研发团队等级提升，\n现在可以开发新的武器和道具了。\n"
 
 #: slot/0x0015c941/0x5d8989/0xb3e3bc
 msgid "Soldiers can also be assigned individually."
@@ -1236,7 +1236,7 @@ msgstr "按 □ 键选择要分配的士兵。"
 msgid ""
 "Press the OK Button to specify the team to which\n"
 "to assign the soldier."
-msgstr ""
+msgstr "按确定按钮指定要分配士兵的\n小队。"
 
 #: slot/0x0015c941/0x5d8989/0xb3e7bc
 msgid "#Medical Team"
@@ -1955,7 +1955,7 @@ msgid ""
 "want to evaluate the true strength of the MSF and Snake\n"
 "before they agree to join.  Best them in battle to prove\n"
 "your clout and convince them to become your ally."
-msgstr ""
+msgstr "使用无线局域网接入点（AP）为MSF招募志愿者。\n志愿新兵都是经验丰富的老兵，他们\n想评估MSF和Snake的真正实力，\n然后才会同意加入。在战斗中击败他们，以证明\nyour clout and convince them to become your ally."
 
 #: slot/0x001df209/0xe6e4ed/0x45ed15
 msgid "NOW CONNECTING..."

@@ -2031,7 +2031,7 @@ msgid ""
 "The system has been locked after three incorrect passcode\n"
 "entries.\n"
 "Please wait at least 24 hours before trying again."
-msgstr ""
+msgstr "连续三次输入错误密码后，系统已锁定。\n请至少等待24小时后再重试。\n"
 
 #: slot/0x00cba83b/0x029324/0xf1f6fc
 msgid "Online services are not available because of the parental control settings on your PlayStation<I=REG>Network account."

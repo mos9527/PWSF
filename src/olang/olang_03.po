@@ -182,7 +182,7 @@ msgid ""
 "birdwatching, they won't behave naturally if they\n"
 "sense a human nearby. And that can really affect your\n"
 "observations."
-msgstr ""
+msgstr "融入森林正是观鸟的精髓所在，\n如果它们察觉到附近有人，就不会表现出自然的行为。\n而这会严重影响你的\n观察。"
 
 #: olang/009c9ea4/0x413acf/0xd1f416
 msgid ""
@@ -425,7 +425,7 @@ msgid ""
 "Fragmentation grenade\n"
 "Press <I=ATK> while \n"
 "holding <I=AIM> to throw. "
-msgstr ""
+msgstr "破片手雷\n按住<I=AIM>时\n按<I=ATK>投掷。"
 
 #: olang/009c9ea4/0x594864/0x00017d
 #: olang/009c9ea4/0x594864/0x00017e
@@ -1000,7 +1000,7 @@ msgstr "制服对手时倾斜<I=MOVE>！"
 msgid ""
 "Tilt <I=MOVE> while restraining \n"
 "the opponent, Boss!"
-msgstr ""
+msgstr "按住<I=MOVE>并推方向，\n压制敌人，BOSS！"
 
 #: olang/009c9ea4/0x64a97d/0x000001
 msgid ""
@@ -1255,7 +1255,7 @@ msgstr "将目标带到终点（计数归零）超过$1次\n（英雄度增加$2
 msgid ""
 "\n"
 "Awarded for performing over $1 Fulton Recoveries in VS (Heroism increases by $2)."
-msgstr ""
+msgstr "在VS中完成$1次以上富尔顿回收\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfcb520
 #: olang/009c9ea4/0x8caeae/0xfcb620
@@ -1263,7 +1263,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for completing over $1 missions without being spotted by the enemy (Heroism increases by $2)."
-msgstr ""
+msgstr "不被敌人发现完成任务$1次以上\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfcb820
 #: olang/009c9ea4/0x8caeae/0xfcb920
@@ -1271,7 +1271,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for completing over $1 missions without killing anyone (Heroism increases by $2)."
-msgstr ""
+msgstr "不杀任何人完成任务$1次以上\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfcbb20
 #: olang/009c9ea4/0x8caeae/0xfcbc20
@@ -1279,7 +1279,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for holding up over $1 enemy soldiers (Heroism increases by $2)."
-msgstr ""
+msgstr "举枪威胁敌兵$1次以上\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfcd420
 #: olang/009c9ea4/0x8caeae/0xfcd520
@@ -1287,7 +1287,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for completing over $1 missions without using recovery items (Heroism increases by $2)."
-msgstr ""
+msgstr "不使用回复道具完成任务$1次以上\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfcd720
 #: olang/009c9ea4/0x8caeae/0xfcd820
@@ -1295,7 +1295,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for using CQC over $1 times (Heroism increases by $2)."
-msgstr ""
+msgstr "使用CQC$1次以上\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfcda20
 #: olang/009c9ea4/0x8caeae/0xfcdb20
@@ -1303,7 +1303,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for completing over $1 headshots (Heroism increases by $2)."
-msgstr ""
+msgstr "完成$1次以上爆头\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfcdd20
 #: olang/009c9ea4/0x8caeae/0xfcf420
@@ -1311,7 +1311,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for exceeding a total Level of Camaraderie of $1 (Heroism increases by $2)."
-msgstr ""
+msgstr "羁绊总等级超过$1\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfcf620
 #: olang/009c9ea4/0x8caeae/0xfcf720
@@ -1320,25 +1320,25 @@ msgid ""
 "\n"
 "Awarded for exceeding a combined total of $1 CPR\n"
 "Rescues, Rescue Box Uses, and Battle Cry uses (Heroism increases by $2)."
-msgstr ""
+msgstr "\n心肺复苏、救援箱、战吼\n合计使用超过$1次（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfcf920
 msgid ""
 "\n"
 "Awarded for exceeding $1 CO-OP Ins (Heroism increases by $2)."
-msgstr ""
+msgstr "合作呼叫超过$1次\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfcfa20
 msgid ""
 "\n"
 "Awarded for exceeding $1 Snake Ins (Heroism increases by $2)."
-msgstr ""
+msgstr "SNAKE呼叫超过$1次\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfcfb20
 msgid ""
 "\n"
 "Awarded for exceeding $1 Snake Syncs (Heroism increases by $2)."
-msgstr ""
+msgstr "SNAKE同步超过$1次\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfcfc20
 msgid ""
@@ -1371,13 +1371,13 @@ msgstr "慷慨赠予其他玩家武器/道具超过$1件\n（英雄度增加$2�
 msgid ""
 "\n"
 "Awarded for completing over $1% of OUTER OPS missions (Heroism increases by $2)."
-msgstr ""
+msgstr "完成外线任务超过$1%\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfd1c20
 msgid ""
 "\n"
 "Awarded for completing over $1 missions (Heroism increases $2)."
-msgstr ""
+msgstr "完成任务超过$1次\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfd1d20
 msgid ""
@@ -1399,7 +1399,7 @@ msgstr "拍摄照片超过$1张（英雄度增加$2）。"
 msgid ""
 "\n"
 "Awarded for bravely completing $1 missions naked (Heroism increases by $2)."
-msgstr ""
+msgstr "赤手空拳完成任务$1次\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfd3720
 msgid ""
@@ -1414,14 +1414,14 @@ msgid ""
 "\n"
 "Awarded for performing Fulton Recoveries on over $1\n"
 "people (Heroism increases by $2)."
-msgstr ""
+msgstr "\n富尔顿回收超过$1人\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfd3b20
 #: olang/009c9ea4/0x8caeae/0xfd3c20
 msgid ""
 "\n"
 "Awarded for getting over $1 mech parts (Heroism increases $2)."
-msgstr ""
+msgstr "获得机体零件$1个以上\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfd5420
 #: olang/009c9ea4/0x8caeae/0xfd5520
@@ -1429,7 +1429,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for hunting over $1 monsters (Heroism increases $2)."
-msgstr ""
+msgstr "狩猎怪物$1只以上\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfd5720
 #: olang/009c9ea4/0x8caeae/0xfd5820
@@ -1437,7 +1437,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for receiving over $1% of all insignias (Heroism increases by $2)."
-msgstr ""
+msgstr "获得全部勋章$1%以上\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfd5a20
 #: olang/009c9ea4/0x8caeae/0xfd5b20
@@ -1445,7 +1445,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for receiving $1% of all codenames (Heroism increases by $2)."
-msgstr ""
+msgstr "获得全部代号$1%\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfd9b20
 #: olang/009c9ea4/0x8caeae/0xfd9c20
@@ -1453,7 +1453,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for playing over $1 VS matches (Heroism increases by $2). "
-msgstr ""
+msgstr "进行VS对战$1场以上\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfdb720
 #: olang/009c9ea4/0x8caeae/0xfdb820
@@ -1461,31 +1461,31 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for winning over $1 VS matches (Heroism increases by $2)."
-msgstr ""
+msgstr "赢得VS对战$1场以上\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfdbd20
 msgid ""
 "\n"
 "Awarded for winning $1 matches under Deathmatch (DM) rules (Heroism increases by $2)."
-msgstr ""
+msgstr "在死斗（DM）规则下获胜$1场\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfdd420
 msgid ""
 "\n"
 "Awarded for winning $1 matches under Team Deathmatch (TDM) rules (Heroism increases by $2)."
-msgstr ""
+msgstr "在团队死斗（TDM）规则下获胜$1场\n（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfdd520
 msgid ""
 "\n"
 "Awarded for winning $1 matches under Base (BASE) rules (Heroism increases by $2)."
-msgstr ""
+msgstr "\n在基地规则下赢得$1场比赛的奖励（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfdd620
 msgid ""
 "\n"
 "Awarded for winning $1 matches under Capture (CAP) rules (Heroism increases by $2)."
-msgstr ""
+msgstr "\n在占领规则下赢得$1场比赛的奖励（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8caeae/0xfdd720
 #: olang/009c9ea4/0x8caeae/0xfdd820
@@ -1494,7 +1494,7 @@ msgid ""
 "\n"
 "Awarded for performing over $1 kills, sleeps,\n"
 "and knockouts in VS (Heroism increases by $2)."
-msgstr ""
+msgstr "\n在VS中完成$1次击杀、睡眠和击晕\n奖励（英雄度+$2）。"
 
 #: olang/009c9ea4/0x8e8ce0/0x0a01f4
 msgid "\"MGS-PW\" Main Theme"

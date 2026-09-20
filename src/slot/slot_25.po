@@ -149,7 +149,7 @@ msgstr "虎鲸"
 msgid ""
 "\n"
 "Title given to heroes who battle it out to the end using all sorts of weapons and favor cooperation with allies to take down enemies with non-lethal force."
-msgstr ""
+msgstr "\n授予使用各种武器奋战到底、偏好与友军合作以非致命手段击倒敌人的英雄的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x1a9995
 msgid ""
@@ -157,90 +157,90 @@ msgid ""
 "Title given to soldiers who mainly use medium-range\n"
 "weapons and favor cooperating with allies to eliminate\n"
 "enemies with lethal force."
-msgstr ""
+msgstr "\n授予主要使用中距离\n武器、偏好与友军合作以致命手段\n消灭敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x1c4cb7
 msgid ""
 "\n"
 "Title given to soldiers who mainly use short-range weapons and favor taking down enemies with non-lethal force."
-msgstr ""
+msgstr "\n授予主要使用近距离武器、偏好以非致命手段击倒敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x2091ad
 msgid ""
 "\n"
 "Title given to soldiers who mainly use long-range weapons and favor cooperation with allies to take down enemies with non-lethal force."
-msgstr ""
+msgstr "\n授予主要使用远距离武器、偏好与友军合作以非致命手段击倒敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x2101dd
 msgid ""
 "\n"
 "Title given to soldiers who mainly use weapons with\n"
 "explosive power and favor cooperating with allies to take down enemies with non-lethal force."
-msgstr ""
+msgstr "\n授予主要使用爆炸性\n武器、偏好与友军合作以非致命手段击倒敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x27b9af
 msgid ""
 "\n"
 "Title given to soldiers who mainly use short-range\n"
 "weapons and favor eliminating enemies with lethal force."
-msgstr ""
+msgstr "\n授予主要使用近距离\n武器、偏好以致命手段消灭敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x35962d
 msgid ""
 "\n"
 "Title given to soldiers who mainly use medium-range\n"
 "weapons and favor eliminating enemies with lethal force."
-msgstr ""
+msgstr "\n授予主要使用中距离\n武器、偏好以致命手段消灭敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x395de0
 msgid ""
 "\n"
 "Title given to soldiers who mainly use short-range weapons and favor cooperation with allies to eliminate enemies with lethal force."
-msgstr ""
+msgstr "\n授予主要使用近距离武器、偏好与友军合作以致命手段消灭敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x3fa427
 msgid ""
 "\n"
 "Title given to soldiers who mainly use long-range weapons and favor taking down enemies with non-lethal force."
-msgstr ""
+msgstr "\n授予主要使用远距离武器、偏好以非致命手段击倒敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x405dec
 msgid ""
 "\n"
 "Title given to soldiers who mainly use stun rods and favor taking down enemies with non-lethal force."
-msgstr ""
+msgstr "\n授予主要使用电击棒、偏好以非致命手段击倒敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x468fec
 msgid ""
 "\n"
 "Title given to soldiers who mainly use medium-range\n"
 "weapons and favor cooperation with allies to take down enemies with non-lethal force."
-msgstr ""
+msgstr "\n授予主要使用中距离\n武器、偏好与友军合作以非致命手段击倒敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x49aeb0
 msgid ""
 "\n"
 "Title given to soldiers who mainly use long-range weapons and favor cooperating with allies to eliminate enemies with lethal force."
-msgstr ""
+msgstr "\n授予主要使用远距离武器、偏好与友军合作以致命手段消灭敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x4cea48
 msgid ""
 "\n"
 "Title given to heroes who battle it out to the end using all sorts of weapons and cooperating with allies to eliminate enemies with lethal force."
-msgstr ""
+msgstr "\n授予使用各种武器奋战到底、与友军合作以致命手段消灭敌人的英雄的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x5f15ad
 msgid ""
 "\n"
 "Title given to heroes who battle it out to the end using all sorts of weapons to eliminate enemies with lethal force."
-msgstr ""
+msgstr "\n授予使用各种武器奋战到底、以致命手段消灭敌人的英雄的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x685ddd
 msgid ""
 "\n"
 "Title given to soldiers who mainly use short-range weapons and favor cooperation with allies to take down enemies with\n"
 "non-lethal force."
-msgstr ""
+msgstr "\n授予主要使用近距离武器、偏好与友军合作以非致命手段击倒敌人的\n士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x6eaead
 msgid ""
@@ -248,25 +248,25 @@ msgid ""
 "Title given to soldiers who mainly use weapons with\n"
 "explosive power and favor cooperating with allies to\n"
 "eliminate enemies with lethal force."
-msgstr ""
+msgstr "\n授予主要使用爆炸性\n武器、偏好与友军合作以\n致命手段消灭敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x7f91de
 msgid ""
 "\n"
 "Title given to soldiers who mainly use long-range weapons and favor eliminating enemies with lethal force."
-msgstr ""
+msgstr "\n授予主要使用远距离武器、偏好以致命手段消灭敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x86b08b
 msgid ""
 "\n"
 "Title given to soldiers who mainly use stun rods and favor cooperation with allies to take down enemies with non-lethal force."
-msgstr ""
+msgstr "\n授予主要使用电击棒、偏好与友军合作以非致命手段击倒敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0x8c5df1
 msgid ""
 "\n"
 "Title given to heroes who battle it out to the end using all sorts of weapons to take down enemies with non-lethal force."
-msgstr ""
+msgstr "\n授予使用各种武器奋战到底、以非致命手段击倒敌人的英雄的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0xa60212
 msgid ""
@@ -274,21 +274,21 @@ msgid ""
 "Title given to soldiers who mainly use CQC and favor\n"
 "cooperation with allies to take down enemies with\n"
 "non-lethal force."
-msgstr ""
+msgstr "\n授予主要使用CQC、偏好\n与友军合作以非致命手段\n击倒敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0xc68eeb
 msgid ""
 "\n"
 "Title given to soldiers who mainly use CQC and favor\n"
 "taking down enemies with non-lethal force."
-msgstr ""
+msgstr "\n授予主要使用CQC、偏好\n以非致命手段击倒敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0xc85de3
 msgid ""
 "\n"
 "Title given to soldiers who mainly use medium-range\n"
 "weapons and favor taking down enemies with non-lethal force."
-msgstr ""
+msgstr "\n授予主要使用中距离\n武器、偏好以非致命手段击倒敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0xd4d5b6
 msgid ""
@@ -296,14 +296,14 @@ msgid ""
 "Title given to soldiers who mainly use weapons with\n"
 "explosive power and favor taking down enemies with\n"
 "non-lethal force."
-msgstr ""
+msgstr "\n授予主要使用爆炸性\n武器、偏好以非致命手段\n击倒敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x62cf73/0xf5959f
 msgid ""
 "\n"
 "Title given to soldiers who mainly use weapons with\n"
 "explosive power and favor eliminating enemies with lethal force."
-msgstr ""
+msgstr "\n授予主要使用爆炸性\n武器、偏好以致命手段消灭敌人的士兵的称号。"
 
 #: slot/0x00e6ef4c/0x8caeae/0x00b421
 #: slot/0x00e6ef4c/0x8caeae/0x00b521
@@ -311,7 +311,7 @@ msgstr ""
 msgid ""
 "Awarded for scoring $1 or more headshots in a row in VS\n"
 "(Heroism increases by $2)."
-msgstr ""
+msgstr "在VS中连续爆头$1次或以上获得奖励\n（英雄值增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0x00b621
 #: slot/0x00e6ef4c/0x8caeae/0x00b721
@@ -335,7 +335,7 @@ msgstr "将目标送至终点（计数归零）$1次以上授予\n（英雄度�
 msgid ""
 "\n"
 "Awarded for performing over $1 Fulton Recoveries in VS (Heroism increases by $2)."
-msgstr ""
+msgstr "\n在 VS 中完成超过 $1 次富尔顿回收获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfcb520
 #: slot/0x00e6ef4c/0x8caeae/0xfcb620
@@ -343,7 +343,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for completing over $1 missions without being spotted by the enemy (Heroism increases by $2)."
-msgstr ""
+msgstr "\n在未被敌人发现的情况下完成超过 $1 个任务获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfcb820
 #: slot/0x00e6ef4c/0x8caeae/0xfcb920
@@ -351,7 +351,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for completing over $1 missions without killing anyone (Heroism increases by $2)."
-msgstr ""
+msgstr "\n未杀任何人完成超 $1 个任务（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfcbb20
 #: slot/0x00e6ef4c/0x8caeae/0xfcbc20
@@ -359,7 +359,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for holding up over $1 enemy soldiers (Heroism increases by $2)."
-msgstr ""
+msgstr "\n挟持超过 $1 名敌兵获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfcd420
 #: slot/0x00e6ef4c/0x8caeae/0xfcd520
@@ -367,7 +367,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for completing over $1 missions without using recovery items (Heroism increases by $2)."
-msgstr ""
+msgstr "\n在未使用恢复道具的情况下完成超过 $1 个任务获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfcd720
 #: slot/0x00e6ef4c/0x8caeae/0xfcd820
@@ -375,7 +375,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for using CQC over $1 times (Heroism increases by $2)."
-msgstr ""
+msgstr "\n使用 CQC 超过 $1 次获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfcda20
 #: slot/0x00e6ef4c/0x8caeae/0xfcdb20
@@ -383,7 +383,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for completing over $1 headshots (Heroism increases by $2)."
-msgstr ""
+msgstr "\n完成超过 $1 次爆头获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfcdd20
 #: slot/0x00e6ef4c/0x8caeae/0xfcf420
@@ -391,7 +391,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for exceeding a total Level of Camaraderie of $1 (Heroism increases by $2)."
-msgstr ""
+msgstr "\n羁绊总等级超过 $1 获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfcf620
 #: slot/0x00e6ef4c/0x8caeae/0xfcf720
@@ -400,25 +400,25 @@ msgid ""
 "\n"
 "Awarded for exceeding a combined total of $1 CPR\n"
 "Rescues, Rescue Box Uses, and Battle Cry uses (Heroism increases by $2)."
-msgstr ""
+msgstr "\n心肺复苏、救生箱使用与战吼使用合计超过 $1\n次获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfcf920
 msgid ""
 "\n"
 "Awarded for exceeding $1 CO-OP Ins (Heroism increases by $2)."
-msgstr ""
+msgstr "\n合作次数超过 $1 次获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfcfa20
 msgid ""
 "\n"
 "Awarded for exceeding $1 Snake Ins (Heroism increases by $2)."
-msgstr ""
+msgstr "\nSNAKE 参与超 $1 次（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfcfb20
 msgid ""
 "\n"
 "Awarded for exceeding $1 Snake Syncs (Heroism increases by $2)."
-msgstr ""
+msgstr "\nSNAKE 同步超 $1 次（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfcfc20
 msgid ""
@@ -431,13 +431,13 @@ msgid ""
 "Awarded for being in a cardboard box with someone else for\n"
 "at least $1 hours and moving over $3m during that time\n"
 "(Heroism increases by $2)."
-msgstr ""
+msgstr "与他人同处纸箱内\n至少$1小时且期间移动超过$3米\n（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd1420
 msgid ""
 "Awarded for trading staff over $1 times (Heroism\n"
 "increases by $2)."
-msgstr ""
+msgstr "交换队员超过$1次（英雄度\n增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd1520
 msgid ""
@@ -449,19 +449,19 @@ msgstr "以慷慨赠予其他玩家超过 $1 件武器/物品获得\n（英雄�
 msgid ""
 "\n"
 "Awarded for completing all missions in both SINGLE and CO-OPS (Heroism increases by $2)."
-msgstr ""
+msgstr "\n在单人及合作任务中完成所有任务获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd1720
 msgid ""
 "\n"
 "Awarded for completing all missions with Rank A or better in both SINGLE and CO-OPS (Heroism increases by $2)."
-msgstr ""
+msgstr "\n在单人及合作任务中以 A 级以上完成所有任务获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd1820
 msgid ""
 "\n"
 "Awarded for completing all missions with Rank S in both SINGLE and CO-OPS (Heroism increases by $2)."
-msgstr ""
+msgstr "\n在单人及合作任务中以 S 级完成所有任务获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd1920
 #: slot/0x00e6ef4c/0x8caeae/0xfd1a20
@@ -469,19 +469,19 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for completing over $1% of OUTER OPS missions (Heroism increases by $2)."
-msgstr ""
+msgstr "\n完成超过 $1% 的外线任务获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd1b20
 msgid ""
 "\n"
 "Awarded for completing all OUTER OPS missions (Heroism increases by $2)."
-msgstr ""
+msgstr "\n完成所有外线任务获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd1c20
 msgid ""
 "\n"
 "Awarded for completing over $1 missions (Heroism increases $2)."
-msgstr ""
+msgstr "\n完成超过 $1 个任务获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd1d20
 msgid ""
@@ -503,7 +503,7 @@ msgstr "拍摄超 $1 张照片获得（英雄度加 $2）。"
 msgid ""
 "\n"
 "Awarded for bravely completing $1 missions naked (Heroism increases by $2)."
-msgstr ""
+msgstr "\n勇敢地裸装完成 $1 个任务获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd3720
 msgid ""
@@ -518,20 +518,20 @@ msgid ""
 "\n"
 "Awarded for performing Fulton Recoveries on over $1\n"
 "people (Heroism increases by $2)."
-msgstr ""
+msgstr "\n对超过 $1 人进行富尔顿回收获得\n（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd3b20
 #: slot/0x00e6ef4c/0x8caeae/0xfd3c20
 msgid ""
 "\n"
 "Awarded for getting over $1 mech parts (Heroism increases $2)."
-msgstr ""
+msgstr "\n获得超 $1 个机体部件（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd3d20
 msgid ""
 "\n"
 "Awarded for getting $1 or more mech parts (Heroism increases $2)."
-msgstr ""
+msgstr "\n获得 $1 个以上机体部件获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd5420
 #: slot/0x00e6ef4c/0x8caeae/0xfd5520
@@ -539,7 +539,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for hunting over $1 monsters (Heroism increases $2)."
-msgstr ""
+msgstr "\n狩猎超过 $1 只怪物获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd5720
 #: slot/0x00e6ef4c/0x8caeae/0xfd5820
@@ -547,13 +547,13 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for receiving over $1% of all insignias (Heroism increases by $2)."
-msgstr ""
+msgstr "\n获得超过 $1% 的全部勋章获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd5920
 msgid ""
 "\n"
 "Awarded for receiving all insignias (Heroism increases by $2)."
-msgstr ""
+msgstr "\n获得全部勋章获得（英雄度增加 $2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd5a20
 #: slot/0x00e6ef4c/0x8caeae/0xfd5b20
@@ -561,122 +561,122 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for receiving $1% of all codenames (Heroism increases by $2)."
-msgstr ""
+msgstr "\n获得全部代号中的$1%时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd5c20
 msgid ""
 "\n"
 "Awarded for receiving all codenames (Heroism increases by $2)."
-msgstr ""
+msgstr "\n获得全部代号时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd5d20
 msgid ""
 "\n"
 "Awarded for forming an all-female MSF team (Heroism increases by $2)."
-msgstr ""
+msgstr "\n组建全女性MSF小队时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd7420
 msgid ""
 "\n"
 "Awarded for developing all items (Heroism increases by $2)."
-msgstr ""
+msgstr "\n开发出全部道具时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd7520
 msgid ""
 "\n"
 "Awarded for developing all weapons (Heroism increases by $2)."
-msgstr ""
+msgstr "\n开发出全部武器时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd7620
 msgid ""
 "\n"
 "Awarded for capturing all mechs (Heroism increases by $2)."
-msgstr ""
+msgstr "\n捕获全部机甲时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd7720
 msgid ""
 "\n"
 "Awarded for attaining the maximum level for all handguns (Heroism increases by $2)."
-msgstr ""
+msgstr "\n所有手枪达到最高等级时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd7820
 msgid ""
 "\n"
 "Awarded for attaining the maximum level for all submachine guns (Heroism increases by $2)."
-msgstr ""
+msgstr "\n所有冲锋枪达到最高等级时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd7920
 msgid ""
 "\n"
 "Awarded for attaining the maximum level for all shotguns (Heroism increases by $2)."
-msgstr ""
+msgstr "\n所有霰弹枪达到最高等级时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd7a20
 msgid ""
 "\n"
 "Awarded for attaining the maximum level for all assault rifles (Heroism increases by $2)."
-msgstr ""
+msgstr "\n所有突击步枪达到最高等级时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd7b20
 msgid ""
 "\n"
 "Awarded for attaining the maximum level for all sniper rifles (Heroism increases by $2)."
-msgstr ""
+msgstr "\n所有狙击步枪达到最高等级时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd7c20
 msgid ""
 "\n"
 "Awarded for attaining the maximum level for all machine guns (Heroism increases by $2)."
-msgstr ""
+msgstr "\n所有机枪达到最高等级时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd7d20
 msgid ""
 "\n"
 "Awarded for attaining the maximum level for all missile and rocket weapons (Heroism increases by $2)."
-msgstr ""
+msgstr "\n所有导弹及火箭武器达到最高等级时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd9420
 msgid ""
 "\n"
 "Awarded for attaining the maximum level for all throwing weapons (Heroism increases by $2)."
-msgstr ""
+msgstr "\n所有投掷武器达到最高等级时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd9520
 msgid ""
 "\n"
 "Awarded for attaining the maximum level for all placeable weapons (Heroism increases by $2)."
-msgstr ""
+msgstr "\n所有设置型武器达到最高等级时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd9620
 msgid ""
 "\n"
 "Awarded for attaining the maximum level for the stun rod (Heroism increases by $2)."
-msgstr ""
+msgstr "\n电击棒达到最高等级时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd9720
 msgid ""
 "\n"
 "Awarded for attaining the maximum level for all weapons (Heroism increases by $2)."
-msgstr ""
+msgstr "\n所有武器达到最高等级时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd9820
 msgid ""
 "\n"
 "Awarded for improving Mother Base to the final stage of development (Heroism increases by $2). "
-msgstr ""
+msgstr "\n母基地发展至最终阶段时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd9920
 msgid ""
 "\n"
 "Awarded for pursuing all development at Mother Base to the final stage (Heroism increases by $2)."
-msgstr ""
+msgstr "\n母基地全部开发推进至最终阶段时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd9a20
 msgid ""
 "\n"
 "Awarded for first battle in a versus game (Heroism\n"
 "increases by $2)."
-msgstr ""
+msgstr "\n首次参加对战比赛时授予（英雄度\n增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfd9b20
 #: slot/0x00e6ef4c/0x8caeae/0xfd9c20
@@ -684,7 +684,7 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for playing over $1 VS matches (Heroism increases by $2). "
-msgstr ""
+msgstr "\n进行$1场以上VS比赛时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfdb720
 #: slot/0x00e6ef4c/0x8caeae/0xfdb820
@@ -692,31 +692,31 @@ msgstr ""
 msgid ""
 "\n"
 "Awarded for winning over $1 VS matches (Heroism increases by $2)."
-msgstr ""
+msgstr "\n赢得$1场以上VS比赛时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfdbd20
 msgid ""
 "\n"
 "Awarded for winning $1 matches under Deathmatch (DM) rules (Heroism increases by $2)."
-msgstr ""
+msgstr "\n在死斗（DM）规则下赢得$1场比赛时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfdd420
 msgid ""
 "\n"
 "Awarded for winning $1 matches under Team Deathmatch (TDM) rules (Heroism increases by $2)."
-msgstr ""
+msgstr "\n在团队死斗（TDM）规则下赢得$1场比赛时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfdd520
 msgid ""
 "\n"
 "Awarded for winning $1 matches under Base (BASE) rules (Heroism increases by $2)."
-msgstr ""
+msgstr "\n在基地（BASE）规则下赢得$1场比赛时授予（英雄度增加$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfdd620
 msgid ""
 "\n"
 "Awarded for winning $1 matches under Capture (CAP) rules (Heroism increases by $2)."
-msgstr ""
+msgstr "\n在捕获(CAP)规则下赢得$1场比赛的奖励(英雄度增加$2)。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfdd720
 #: slot/0x00e6ef4c/0x8caeae/0xfdd820
@@ -725,7 +725,7 @@ msgid ""
 "\n"
 "Awarded for performing over $1 kills, sleeps,\n"
 "and knockouts in VS (Heroism increases by $2)."
-msgstr ""
+msgstr "\n对战完成超$1次击杀、催眠和击晕\n可获奖励（英雄度+$2）。"
 
 #: slot/0x00e6ef4c/0x8caeae/0xfdda20
 #: slot/0x00e6ef4c/0x8caeae/0xfddb20
@@ -2094,7 +2094,7 @@ msgid ""
 "The LAW rocket packs quite a punch for such a small package; a single shot can take an entire pack of enemies in one fell swoop.\n"
 "\n"
 "When using the LAW, keep an eye on your remaining stock, as each launcher is good for only one use."
-msgstr ""
+msgstr "一种一次性火箭筒，为步兵提供攻击轻型装甲车和碉堡等硬目标的手段。它轻便小巧，士兵可同时携带数具而不影响行动。\n\nLAW火箭弹虽小威力却大，一发即可将整群敌人一举消灭。\n\n使用时请留意剩余数量，每具发射器仅可使用一次。"
 
 #: slot/0x00edcb1e/0x017f53/0x0000d0
 #: slot/0x00edcb1e/0x017f53/0x0000d1
@@ -2103,7 +2103,7 @@ msgid ""
 "A rocket launcher loaded with four rockets that can be fired one after another, allowing the user to deliver massive firepower in a hurry. \n"
 "\n"
 "On the down side, its weight and bulk make it quite awkward to handle. As such, it is probably best used to provide supporting fire from a distance. "
-msgstr ""
+msgstr "一种装填四发火箭弹、可连续发射的火箭筒，能让使用者迅速倾泻强大火力。\n\n缺点是重量和体积使其操作相当笨拙。因此最好用于远距离支援射击。"
 
 #: slot/0x00edcb1e/0x017f53/0x0000d3
 msgid ""
@@ -2112,7 +2112,7 @@ msgid ""
 "The RPG2 is a high-risk, high-return weapon: the grenades tend to miss moving targets, but their sheer power ensures they do considerable damage when they do hit their mark.\n"
 "\n"
 "Reload time is also reasonable, so the grenades can be fired in relatively rapid succession. Definitely worth a look if you've got a steady aim."
-msgstr ""
+msgstr "一种单兵便携式火箭推进榴弹发射器，仿制纳粹德军使用的\"铁拳\"反坦克武器。\n\nRPG2是一款高风险高回报的武器：榴弹容易打偏移动目标，但威力巨大，一旦命中便能造成可观伤害。\n\n装填时间也较为合理，可相对快速地连续发射。若你瞄准稳定，绝对值得一试。"
 
 #: slot/0x00edcb1e/0x017f53/0x0000d4
 #: slot/0x00edcb1e/0x017f53/0x0000d5
@@ -2122,7 +2122,7 @@ msgid ""
 "\n"
 "The grenades contain a more powerful warhead than those of the RPG2, but suffer from the same low accuracy. The secret to getting the most out of the RPG7 in battle is to get up close and personal with the enemy and aim your shots carefully.\n"
 "\n"
-msgstr ""
+msgstr "RPG2的后继型号，作为苏联及其卫星国步兵的主力反坦克武器被大量生产和部署。不用说，它对人员和坦克都极为有效。\n\n其弹头比RPG2的威力更强，但同样存在精度低的问题。在战斗中充分发挥RPG7威力的秘诀就是贴近敌人并仔细瞄准射击。\n\n"
 
 #: slot/0x00edcb1e/0x017f53/0x0000d7
 msgid ""
@@ -2131,7 +2131,7 @@ msgid ""
 "While not necessarily all it could be performance-wise, it does provide infantry with excellent anti-air capabilities and is now widely used in the U.S. and throughout the free world.\n"
 "\n"
 "The missiles use a passive infrared guidance system, making them the perfect weapon to counter airstrikes by attack choppers. If you're going to be facing enemy aircraft in a mission, you can't go wrong with the FIM-43."
-msgstr ""
+msgstr "一种单兵便携式一次性地对空导弹发射器。\n\n虽然性能未必尽善尽美，但它为步兵提供了出色的防空能力，如今在美国及整个自由世界广泛使用。\n\n导弹采用被动红外制导系统，是应对攻击直升机空袭的绝佳武器。若任务中会遭遇敌机，FIM-43绝不会让你失望。"
 
 #: slot/0x00edcb1e/0x017f53/0x0000d8
 #: slot/0x00edcb1e/0x017f53/0x0000d9
@@ -2142,7 +2142,7 @@ msgid ""
 "\n"
 "Players who find themselves struggling to cope with enemy air attacks are strongly advised to bring a XFIM-92A or two along.\n"
 "\n"
-msgstr ""
+msgstr "一种便携式地对空导弹系统，作为FIM-43的后继型号开发。发射器为一次性使用，只能发射一发。\n\n这是一种非常易于使用的防空武器。导弹配备了改进的制导系统，采用红外和紫外双模导引头。增强的导引头冷却系统还缩短了发射前的锁定时间，从而能够更快地应对与敌人的突发交战。\n\n如果玩家觉得难以应对敌方空袭，强烈建议携带一两个XFIM-92A。\n\n"
 
 #: slot/0x00edcb1e/0x017f53/0x0000da
 #: slot/0x00edcb1e/0x017f53/0x0000db
@@ -2154,7 +2154,7 @@ msgid ""
 "The Carl Gustav M2 is distinguished by its high initial muzzle velocity, which gives its projectiles a lower, straighter trajectory and improves its accuracy compared to other rocket launchers.\n"
 "\n"
 "On the down side, it is structured such that reloading can be a chore, making it unsuitable for repeat fire. Thus, the most effective way to use this weapon is to aim carefully and ensure the target is destroyed in one shot."
-msgstr ""
+msgstr "一种单兵便携式无后坐力炮，发射威力强大的84毫米炮弹。它采用克虏伯发射系统，将推进气体从炮尾排出以消除后坐力。\n\n卡尔·古斯塔夫M2以高初速著称，弹道更低更直，精度优于其他火箭发射器。\n\n缺点是装填结构繁琐，不适合连续射击。因此最有效的用法是仔细瞄准，确保一击摧毁目标。"
 
 #: slot/0x00edcb1e/0x017f53/0x0000de
 #: slot/0x00edcb1e/0x017f53/0x0000df
@@ -2165,7 +2165,7 @@ msgid ""
 "The Carl Gustav M2 is distinguished by its high initial muzzle velocity, which gives its projectiles a lower, straighter trajectory and improves its accuracy compared to other rocket launchers.\n"
 "\n"
 "This model has been modified to launch multipurpose HEAT rounds. The controlled fragments are distributed in an improved pattern, expanding the area of effect but decreasing the damage dealt to each individual target. As a result, it is best used for wiping out large crowds of enemy infantry."
-msgstr ""
+msgstr "一种单兵便携式无后坐力炮，发射威力强大的84毫米炮弹。它采用克虏伯发射系统，将推进气体从炮尾排出以消除后坐力。\n\n卡尔·古斯塔夫M2以高初速著称，弹道更低更直，精度优于其他火箭发射器。\n\n此型号经过改装，可发射多用途破甲弹。受控破片分布更佳，扩大了作用范围但降低了对单个目标的伤害。因此最适合用来消灭大群敌方步兵。"
 
 #: slot/0x00edcb1e/0x017f53/0x0000e1
 #: slot/0x00edcb1e/0x017f53/0x0000e2
@@ -2175,7 +2175,7 @@ msgid ""
 "The Carl Gustav M2 is distinguished by its high initial muzzle velocity, which gives its projectiles a lower, straighter trajectory and improves its accuracy compared to other rocket launchers.\n"
 "\n"
 "This model has been modified to launch shells filled with sleeping gas as well as Fulton recovery balloons, allowing the user to perform Fulton recoveries from a relatively safe distance. Good for players who want to recruit new teammates but don't want to come out and face the enemy themselves. "
-msgstr ""
+msgstr "一种单兵便携式无后坐力炮，发射威力强大的84毫米炮弹。它采用克虏伯发射系统，将推进气体从炮尾排出以消除后坐力。\n卡尔·古斯塔夫M2以高初速著称，弹道更低更直，精度优于其他火箭发射器。\n\n此型号经过改装，可发射填充催眠瓦斯和富尔顿回收气球的炮弹，让使用者能在相对安全的距离进行富尔顿回收。适合想招募新队友却不愿亲自面对敌人的玩家。"
 
 #: slot/0x00edcb1e/0x017f53/0x0000e4
 msgid ""
@@ -2185,7 +2185,7 @@ msgid ""
 "\n"
 "If you think the enemy is going to be tough to take down, don't think twice about taking the M47 along with you.\n"
 "\n"
-msgstr ""
+msgstr "一种最先进的便携式反坦克导弹，最近才在美国军队中服役。发射器为一次性使用，只能发射一发。\n\nM47采用光学有线制导系统，具有出色的寻的能力。其弹头也是同类中最强大的之一，几乎能将任何目标炸成碎片。\n\n如果你觉得敌人难以对付，别犹豫，带上M47吧。\n\n"
 
 #: slot/0x00edcb1e/0x017f53/0x0000e5
 #: slot/0x00edcb1e/0x017f53/0x0000e6
@@ -2194,11 +2194,11 @@ msgid ""
 "A unique weapon that effectively renders the target optically invisible. The result of the combined efforts of the entire Mother Base R&D Team.\n"
 "\n"
 "Because of its large size, it cannot be operated without the assistance of CO-OPS teammates, so be careful not to take it along on solo missions."
-msgstr ""
+msgstr "一种独特武器，能有效使目标光学隐形。这是母基地研发团队全体努力的成果。\n\n由于体积庞大，没有合作任务队友协助便无法操作，因此注意不要单独执行任务时携带。"
 
 #: slot/0x00edcb1e/0x017f53/0x0000e8
 msgid "One of the structural elements of the human slingshot, the ultimate CO-OP weapon. With enough mechanical strength to withstand the rigors of the giant rubber band that comes with it, it also makes a fine club for beating down the enemy."
-msgstr ""
+msgstr "人体弹弓的结构部件之一，终极合作武器。其机械强度足以承受随附巨型橡皮筋的拉力，也可当作上好的棍棒痛击敌人。"
 
 #: slot/0x00edcb1e/0x017f53/0x0000e9
 #: slot/0x00edcb1e/0x017f53/0x0000ea
@@ -2207,7 +2207,7 @@ msgid ""
 "One of the structural elements of the human slingshot, the ultimate CO-OP weapon. This rubber band is incredibly powerful and can launch a brawny 200-pound soldier a considerable distance.\n"
 "\n"
 "The power of the launch depends on how rapidly the button is tapped. Players with weak thumbs may want to practice their button mashing skills before attempting to use this weapon."
-msgstr ""
+msgstr "人类弹弓的结构部件之一，终极CO-OP武器。这条橡皮筋威力惊人，能将一名体重200磅的壮汉士兵弹射到相当远的距离。\n\n弹射的力度取决于按键的速度。拇指无力的玩家在尝试使用这件武器前，或许应该先练习一下连打技巧。"
 
 #: slot/0x00edcb1e/0x017f53/0x0000f8
 #: slot/0x00edcb1e/0x017f53/0x0000f9
@@ -2220,7 +2220,7 @@ msgid ""
 "Exceptionally powerful versus human targets - most enemy soldiers will go down in a single blast.\n"
 "\n"
 "Getting a grenade to land where you want it to takes some practice, so be sure to get some practice throws in when you can spare the time."
-msgstr ""
+msgstr "一种标准破片手榴弹。它通过爆炸的冲击力和散射的弹片造成伤害。\n\n对人类目标威力极强——大多数敌方士兵会被一次爆炸击倒。\n\n让手榴弹落在你想要的位置需要一些练习，所以有空的时候一定要练练投掷。"
 
 #: slot/0x00edcb1e/0x017f53/0x0000fd
 #: slot/0x00edcb1e/0x017f53/0x0000fe
@@ -2231,7 +2231,7 @@ msgid ""
 "A non-lethal weapon filled with a magnesium-based explosive. When it detonates, it emits a blinding flash of light, an ear-splitting bang, and an intense shockwave that combine to knock targets unconscious.\n"
 "\n"
 "Keep in mind, however, that those same effects also work on the user. Make sure you're safely behind cover or facing the other way when the grenade goes off."
-msgstr ""
+msgstr "一种非致命武器，内装镁基炸药。引爆时会发出刺眼的闪光、震耳欲聋的巨响和强烈的冲击波，共同作用使目标昏迷。\n\n但请记住，这些效果对使用者同样有效。手榴弹爆炸时，确保你安全地躲在掩体后或背对爆炸方向。"
 
 #: slot/0x00edcb1e/0x017f53/0x000102
 #: slot/0x00edcb1e/0x017f53/0x000103
@@ -2239,7 +2239,7 @@ msgstr ""
 #: slot/0x00edcb1e/0x017f53/0x000105
 #: slot/0x00edcb1e/0x017f53/0x000106
 msgid "A non-lethal weapon that scatters a cloud of metal strips when detonated, scrambling nearby electronic devices. When surrounded by unmanned weapons, a chaff grenade can turn the tables in an instant. The chaff can also temporarily block the user's own radio and sensor signals, so these grenades are best saved for when the time is right."
-msgstr ""
+msgstr "一种非致命武器，引爆时会散布一团金属条，干扰附近的电子设备。当被无人武器包围时，箔条手榴弹可以瞬间扭转局势。箔条还会暂时阻断使用者自身的无线电和传感器信号，因此这些手榴弹最好留到合适的时机使用。"
 
 #: slot/0x00edcb1e/0x017f53/0x000107
 #: slot/0x00edcb1e/0x017f53/0x000108
@@ -2247,7 +2247,7 @@ msgstr ""
 #: slot/0x00edcb1e/0x017f53/0x00010a
 #: slot/0x00edcb1e/0x017f53/0x00010b
 msgid "A grenade that releases smoke when ignited. It does no physical damage. The smoke clouds the enemy's vision, which can be a godsend when the user needs to get out of sight quickly. Remember that the smoke makes it just as difficult for the user to see."
-msgstr ""
+msgstr "一种点燃后释放烟雾的手榴弹。它不造成物理伤害。烟雾会遮蔽敌人的视线，当使用者需要迅速脱离视线时，这可能是天赐之物。请记住，烟雾同样会让使用者难以看清。"
 
 #: slot/0x00edcb1e/0x017f53/0x00010c
 #: slot/0x00edcb1e/0x017f53/0x00010d
@@ -2255,7 +2255,7 @@ msgstr ""
 #: slot/0x00edcb1e/0x017f53/0x00010f
 #: slot/0x00edcb1e/0x017f53/0x000110
 msgid "A smoke grenade that releases colored smoke. Works exactly the same way as a regular smoke grenade. Available in a variety of colors for your convenience."
-msgstr ""
+msgstr "一种释放彩色烟雾的烟雾弹。作用方式与普通烟雾弹完全相同。为方便起见，提供多种颜色可选。"
 
 #: slot/0x00edcb1e/0x017f53/0x000111
 #: slot/0x00edcb1e/0x017f53/0x000112
@@ -2266,28 +2266,28 @@ msgid ""
 "A non-lethal grenade that releases sleeping gas when it detonates. Anyone who inhales the gas will fall asleep within a certain amount of time. Throwing multiple grenades will increase the potency of the gas and make targets fall asleep faster.\n"
 "\n"
 "Of course, the gas also affects the user, so make sure to throw the grenade a safe distance away."
-msgstr ""
+msgstr "一种非致命手榴弹，引爆时释放催眠气体。任何吸入气体的人都会在一定时间内入睡。投掷多枚手榴弹会增加气体的效力，使目标更快入睡。\n\n当然，气体也会影响使用者，所以确保将手榴弹投掷到安全距离外。"
 
 #: slot/0x00edcb1e/0x017f53/0x000116
 msgid ""
 "An empty ammo magazine. It is useless as a weapon, but it can be thrown to make a noise and thereby distract the enemy.\n"
 "\n"
 "Added to your inventory each time you reload a gun."
-msgstr ""
+msgstr "一个空弹匣。作为武器它毫无用处，但可以投掷出去发出声响，从而分散敌人的注意力。\n\n每次给枪械装弹时都会添加到你的物品栏中。"
 
 #: slot/0x00edcb1e/0x017f53/0x000117
 msgid ""
 "A marker for requesting support supplies from Mother Base. The marker indicates the location where the supplies are to be dropped. To use it, throw it the same way you would throw a grenade.\n"
 "\n"
 "Useful in missions where supplies are difficult to procure on site."
-msgstr ""
+msgstr "一种用于向Mother Base请求支援补给的标记。该标记指示补给投放的位置。使用方法与投掷手榴弹相同。\n\n在难以就地获取补给的任务中非常有用。"
 
 #: slot/0x00edcb1e/0x017f53/0x000118
 msgid ""
 "A marker for requesting support strikes from Mother Base. The marker indicates the location of the attack. To use it, throw it the same way you would throw a grenade.\n"
 "\n"
 "Use it to gain the upper hand in combat by taking advantage of Mother Base's firepower."
-msgstr ""
+msgstr "从母基地请求支援打击的标记。标记处即为攻击落点。用法与投掷手雷相同。\n\n善用母基地的火力，在战斗中占据上风。"
 
 #: slot/0x00edcb1e/0x017f53/0x000119
 msgid ""
@@ -2296,7 +2296,7 @@ msgid ""
 "When activated, it generates a powerful magnetic field several teslas in magnitude, freezing enemy war machines in their tracks.\n"
 "\n"
 "While being able to capture enemy weapons without damaging them is great, each net can only be used once and they are too difficult to produce in large quantities, so be sure not to waste them. Make each one count."
-msgstr ""
+msgstr "用于捕获大型敌方战争机器的高功率电磁网。\n\n启动后会产生数特斯拉级的强磁场，让敌方战争机器动弹不得。\n\n能在不损伤敌方武器的前提下将其捕获固然好，但每张网只能用一次，且难以量产，切勿浪费。务必一击必中。"
 
 #: slot/0x00edcb1e/0x017f53/0x00011a
 #: slot/0x00edcb1e/0x017f53/0x00011b
@@ -2309,7 +2309,7 @@ msgid ""
 "It has 1.34 times the destructive power of TNT and can be molded into virtually any shape.\n"
 "\n"
 "C4 is the most basic demolition tool in your arsenal. You're sure to find plenty of uses for it."
-msgstr ""
+msgstr "军用级塑性炸药，美军及全球多国军队均有装备。\n\n威力是TNT的1.34倍，可塑成任意形状。\n\nC4是你武器库中最基础的爆破工具，用途广泛。"
 
 #: slot/0x00edcb1e/0x017f53/0x00011f
 #: slot/0x00edcb1e/0x017f53/0x000120
@@ -2320,7 +2320,7 @@ msgid ""
 "An anti-personnel mine that focuses its blast in a specific direction. Upon detonation, it sprays 700 steel balls across a 60-degree arc, Although developed for anti-personnel use, it is also effective against vehicles.\n"
 "\n"
 "The Claymore is extremely powerful and simple to use, but be very careful not to set it off yourself. The results could be too horrible to watch."
-msgstr ""
+msgstr "将爆炸威力集中于特定方向的杀伤人员地雷。引爆后会向60度扇面喷射700颗钢珠，虽为杀伤人员而开发，对车辆同样有效。\n\n阔剑威力极强、使用简单，但千万小心别引爆到自己。那场面可不堪入目。"
 
 #: slot/0x00edcb1e/0x017f53/0x000124
 #: slot/0x00edcb1e/0x017f53/0x000125

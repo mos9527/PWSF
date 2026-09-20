@@ -157,7 +157,7 @@ msgstr "真准时。很好。"
 msgid ""
 "It's been exactly twelve hours since we\n"
 "administered the drug."
-msgstr ""
+msgstr "距离我们\n给药已经整整十二个小时了。"
 
 #: slot/0x002088cc/0x2ba8a7/0x000002
 msgid "I trust your dreams were pleasant...Big Boss?"
@@ -850,7 +850,7 @@ msgstr "设置加入游戏的密码。"
 msgid ""
 "When enabled, players that have killed a\n"
 "teammate three or more times will be kicked."
-msgstr ""
+msgstr "启用后，击杀队友\n三次或以上的玩家将被踢出。"
 
 #: slot/0x002362b8/0x19f879/0x8454e2
 msgid "The password is incorrect."

@@ -115,11 +115,21 @@ def build_table(stem: str, items: list, lang: int, outdir: Path,
     """Rebuild one .olang with `items` written into the `lang` slot."""
     builder = slots.builder(stem)
     written = []
+    identical = 0
     for ref, text in items:
         try:
-            builder.set_text(ref.group, ref.entry, lang, text)
+            before = builder.get_text(ref.group, ref.entry, lang)
         except KeyError as exc:
             raise SystemExit(f"{stem}: {exc}") from None
+        # A translation equal to the original changes no byte: writing it is a
+        # no-op, and counting it in `written` would make `verify_table`'s
+        # "changed == len(written)" compare against a number the file cannot
+        # show. Machine translation does hand back the English for proper nouns
+        # and for lines it gave up on, so this is common, not exceptional.
+        if before == text:
+            identical += 1
+            continue
+        builder.set_text(ref.group, ref.entry, lang, text)
         written.append((ref, text))
 
     dst = outdir / f"{stem}.olang"
@@ -128,6 +138,9 @@ def build_table(stem: str, items: list, lang: int, outdir: Path,
     if verbose:
         print(f"  {dst.name}  {len(written)} slot(s) rewritten, "
               f"{dst.stat().st_size} bytes (original {src.stat().st_size})")
+        if identical:
+            print(f"    {identical} slot(s) skipped: the translation is the "
+                  f"original text verbatim")
     return dst, written
 
 
