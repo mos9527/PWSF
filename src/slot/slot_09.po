@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PWSF slot 9/26\n"
+"Project-Id-Version: PWSF slot 9/24\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -8,1307 +8,6 @@ msgstr ""
 "X-PWSF-Source: slot\n"
 "X-PWSF-Entries: 400\n"
 
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000007
-msgid "Peace Walker is a weapon of peace, after all. "
-msgstr "和平行者本就是和平的武器。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000008
-msgid "First, we'll enter data for an imaginary Soviet nuclear strike on the U.S. homeland..."
-msgstr "首先，输入苏联对美国本土发动核打击的假想数据……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000009
-msgid "After assessing the data as a threat,"
-msgstr "在将该数据判定为威胁后，"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00000a
-msgid ""
-"Peace Walker will automatically \n"
-"enter retaliation mode,"
-msgstr "和平行者会自动\n进入报复模式，"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00000b
-msgid ""
-"selecting the optimal target \n"
-"from a pre-defined list... "
-msgstr "从预设列表中\n选出最优目标……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00000c
-msgid ""
-"For this scenario, we have \n"
-"reverse engineered the false data "
-msgstr "为此，我们已对\n虚假数据做了逆向处理，"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00000d
-msgid ""
-"so that she'll inevitably end up choosing\n"
-"the Caribbean Sea as her target."
-msgstr "确保她最终必然选择\n加勒比海作为目标。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00000e
-msgid "You're really gonna do it, aren't you?"
-msgstr "你真要这么做吗？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00000f
-msgid ""
-"Know this: Peace Walker's retaliation will be\n"
-"the first and last of the Cold War."
-msgstr "记住：和平行者的报复将是\n冷战的首次，也是最后一次。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000010
-msgid ""
-"It is the only way we will ever come close \n"
-"to achieving true peace..."
-msgstr "这是我们唯一能接近\n真正和平的途径……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000011
-msgid "All that is left is to enter the code."
-msgstr "剩下的就是输入密码了。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000012
-#: slot/0x0052801a/0x0a7cd6/0x000012
-#: slot/0x00eeea4a/0x3d5434/0xdb6a29
-msgid "No!"
-msgstr "住手！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000013
-msgid "Stand down, Big Boss."
-msgstr "退下，BIG BOSS。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000014
-msgid "You're late."
-msgstr "你来晚了。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000015
-msgid "...Professor?"
-msgstr "……教授？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000016
-msgid "Professor..."
-msgstr "教授……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000017
-msgid ""
-"Yes, well... Taking over the base \n"
-"took longer than expected."
-msgstr "是啊……接管基地\n比预想的费时。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000019
-msgid ""
-"I brought the technology, \n"
-"you provided the money and land. "
-msgstr "我出技术，\n你出资金和土地。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00001a
-msgid ""
-"Tsentr alone could never have accomplished\n"
-"so much in so little time."
-msgstr "单靠中心组织绝不可能\n这么快取得如此成果。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00001b
-msgid "Zadornov, you backstabbing son of a...!"
-msgstr "扎多尔诺夫，你这背信弃义的狗东西……！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00001c
-msgid ""
-"\"Backstabbing?\" Correct me if I'm wrong,\n"
-"but were we not enemies all along?"
-msgstr "“叛徒？”我没记错的话，\n我们不一直是敌人吗？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00001d
-msgid ""
-"Do you really think my comrades were working\n"
-"for the Company?"
-msgstr "你真以为我的同志们\n是在为那家公司卖命？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00001e
-msgid ""
-"Do you truly think we'd faithfully serve a pack\n"
-"of depraved capitalist dogs?"
-msgstr "你真以为我们会忠心侍奉\n一群堕落的资本主义走狗？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00001f
-msgid "What are you going to do?"
-msgstr "你想干什么？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000020
-msgid "Launch a nuke... Target: Cuba."
-msgstr "发射核弹……目标：古巴。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000021
-msgid ""
-"Have you lost your mind?!\n"
-"What would you possibly gain?"
-msgstr "你疯了吗？！\n你到底想得到什么？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000022
-msgid "We won't be the ones launching it."
-msgstr "发射的人不会是我们。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000023
-msgid "You, the Americans, will attack our ally, Cuba."
-msgstr "你们美国人会打我们盟友古巴。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000024
-msgid "WHAT?!"
-msgstr "什么？！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000025
-msgid "Think, Coldman. We're on an American base, "
-msgstr "想想吧，科尔德曼。我们在美国的基地里，"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000026
-msgid ""
-"eagerly endorsed and supplied by \n"
-"a pro-American regime."
-msgstr "由亲美政权\n热切支持并提供。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000027
-msgid "What's the international community to think?"
-msgstr "国际社会会怎么想？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000028
-msgid "The world will burn with anti-American sentiment! "
-msgstr "全世界都会燃起反美情绪！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000029
-msgid ""
-"Communism will spread across \n"
-"Latin America unchecked."
-msgstr "共产主义将肆无忌惮地\n席卷拉丁美洲。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00002a
-msgid ""
-"Let the age of deterrence be undone\n"
-"by the deterrent itself... "
-msgstr "让威慑的时代被威慑本身\n所终结……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00002b
-msgid "such is the Kremlin's plan."
-msgstr "这就是克里姆林宫的计划。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00002c
-msgid "You son of a bitch..."
-msgstr "你这混蛋……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00002d
-msgid "Paz, come here..."
-msgstr "帕兹，过来……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00002e
-msgid "Shoot him."
-msgstr "杀了他。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00002f
-msgid "Professor Gálvez...?"
-msgstr "加尔维斯教授……？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000030
-msgid "Hm... I am Vladimir Zadornov, "
-msgstr "哼……我是弗拉基米尔·扎多尔诺夫，"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000031
-msgid ""
-"and Vladimir means \"ruler of peace.\"\n"
-"Now do as you're told, Paz."
-msgstr "弗拉基米尔意为“和平的统治者”。\n照我说的做，帕兹。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000032
-msgid "Don't do it..."
-msgstr "别动手…"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000033
-msgid ""
-"Remember what they did to you \n"
-"at their base on the coast..."
-msgstr "想想他们在海岸基地\n对你做了什么……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000034
-msgid ""
-"For what Coldman's done... \n"
-"he deserves nothing less than death."
-msgstr "科尔德曼的所作所为……\n他死不足惜。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000035
-msgid "Paz... I... I'm sorry..."
-msgstr "帕兹…对不起…"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000036
-msgid "I can't..."
-msgstr "我做不到……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000037
-msgid "Truly a child of peace... "
-msgstr "真是和平之子…"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000038
-msgid "No, wait!"
-msgstr "不，等等！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000039
-msgid ""
-"Only fitting that retribution be delivered\n"
-"by a \"dead hand.\""
-msgstr "由“死手”来执行报应，\n再合适不过了。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00003a
-msgid "You...you missed on purpose..."
-msgstr "你……故意打偏……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00003b
-msgid ""
-"Your part in this isn't done.\n"
-"I need you to enter the code."
-msgstr "你的任务还没完。\n我需要你输入密码。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00003c
-msgid ""
-"Doctor, the target is now Cuba.\n"
-"Please make the necessary modifications."
-msgstr "博士，目标现在是古巴。\n请做必要的修改。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00003d
-msgid "And don't even think of resisting. "
-msgstr "别想着反抗。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00003e
-msgid ""
-"I'll crush you, but only after \n"
-"I crush your \"beloved,\" first."
-msgstr "我会碾碎你，但前提是\n先碾碎你的“挚爱”。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00003f
-msgid "No, not that..."
-msgstr "不，不是那个……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000040
-msgid "Cuba is now the retaliation target."
-msgstr "古巴现在是报复目标。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000041
-msgid "...Very well."
-msgstr "……好吧。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000042
-msgid "Good. It is done. As for you, Big Boss..."
-msgstr "很好。完成了。至于你，BIG BOSS……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000043
-msgid "I've been watching you all along. "
-msgstr "我一直在注视着你。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000044
-msgid "You've performed beyond even my highest expectations - a true comandante."
-msgstr "你的表现甚至超出了我最高的期望——真正的指挥官。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000046
-msgid "Why do you think I summoned you to Costa Rica, "
-msgstr "你以为我为什么把你召到哥斯达黎加，"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000047
-msgid "had you make contact with the Sandinistas?"
-msgstr "让你去接触桑地诺派？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000048
-msgid ""
-"A true intelligence operative \n"
-"never gets his hands dirty. "
-msgstr "真正的情报人员\n从不弄脏自己的手。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000049
-msgid ""
-"Need a revolution?\n"
-"Manipulate the locals into doing it for you."
-msgstr "需要革命？\n操纵当地人替你做。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00004a
-msgid "You mean... Amanda?! And the Sandinistas...!"
-msgstr "你是说……阿曼达？！还有桑地诺派……！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00004b
-msgid ""
-"You've done well.\n"
-"You took a ragtag band of guerillas - children - "
-msgstr "你干得不错。\n你把一群游击队员，孩子，"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00004c
-msgid ""
-"and shaped them into a full-fledged, \n"
-"formidable army."
-msgstr "打造成了一支成熟、\n令人生畏的军队。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00004d
-msgid ""
-"And now, you'll truly become \"our century's\n"
-"most complete human being\"!"
-msgstr "而现在，你将真正成为“我们世纪\n最完整的人”！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00004e
-msgid "...Che Guevara?"
-msgstr "……切·格瓦拉？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00004f
-msgid ""
-"None other. A hero who, gunned down \n"
-"by the CIA, becomes a legendary icon."
-msgstr "正是。一位被CIA枪杀，\n成为传奇图标的英雄。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000050
-msgid ""
-"The Sandinistas will rise up in revenge,\n"
-"overthrowing the pro-American regime "
-msgstr "桑地诺派将奋起复仇，\n推翻亲美国的政权，"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000051
-msgid "and wresting Nicaragua from U.S. hands. "
-msgstr "从美国手中夺回尼加拉瓜。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000052
-msgid ""
-"And the nuclear strike on Cuba, naturally,\n"
-"will be the last straw."
-msgstr "而对古巴的核打击，自然，\n将是最后一根稻草。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000053
-msgid "Mammal Pod data entry is complete."
-msgstr "哺乳舱数据输入完成。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000054
-msgid "Dead at age 39... Just like El Che."
-msgstr "39岁就死了……跟切一样。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000055
-msgid "...Ironic, isn't it?"
-msgstr "……真讽刺。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000056
-msgid "In the end, a legend is merely fiction. "
-msgstr "到头来，传奇不过是虚构。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000057
-msgid ""
-"You'll die as The Boss did and become, \n"
-"as did she, an eternal fraud."
-msgstr "你会像THE BOSS那样死去，\n和她一样，成永恒骗局。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000058
-msgid "¡Venceremos!"
-msgstr "必胜！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000059
-#: slot/0x0048f045/0x0a7cd6/0x00001c
-#: slot/0x0083c375/0x4686bf/0x000000
-#: slot/0x0083c375/0x4e8ebf/0x000000
-#: slot/0x0083c375/0xb262bf/0x000000
-#: slot/0x0083c375/0xba6abf/0x000000
-#: slot/0x0083c375/0xc2c774/0x000000
-#: slot/0x00ce245c/0x0a7cd6/0x000008
-#: slot/0x00ce245c/0x0a7cd6/0x00002a
-msgid "Freeze!"
-msgstr "不许动！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00005a
-msgid "You dare point your gun at a comrade?!"
-msgstr "你敢拿枪指着同志？！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00005b
-msgid ""
-"We will not be pawns of the KGB.\n"
-"We will win our own victory!"
-msgstr "我们不做克格勃棋子。\n要赢自己的胜利！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00005c
-msgid "¡Hasta la victoria siempre!"
-msgstr "直到永远胜利！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00005e
-msgid "We're home! Look, we're back in Nica!"
-msgstr "回家了！看，回到尼加了！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00005f
-msgid "We did it, Amand- I mean, comandante!"
-msgstr "做到了，阿曼达，指挥官！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000060
-msgid "Boss, you hurt...?"
-msgstr "BOSS，你受伤了……？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000061
-msgid "I'm fine."
-msgstr "我没事。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000062
-#: slot/0x003b054d/0x33d29e/0x000064
-#: slot/0x003b054d/0x33d29e/0x000065
-#: slot/0x003b054d/0x33d29e/0x000066
-#: slot/0x003b054d/0x33d29e/0x000067
-#: slot/0x003b054d/0x33d29e/0x000068
-#: slot/0x003b054d/0x33d29e/0x000069
-#: slot/0x00dff0a5/0xa84a6a/0x00007d
-msgid "Vic Boss!"
-msgstr "VIC BOSS!"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000063
-msgid "Vic Boss..."
-msgstr "Vic Boss……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00006a
-msgid "You're a regular Joan of Arc."
-msgstr "你简直是圣女贞德。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00006b
-msgid "Nonsense, you're the hero here."
-msgstr "胡说，你才是英雄。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00006c
-msgid "You saved my life. You're the heroes, here."
-msgstr "你救了我的命。你们才是英雄。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00006d
-msgid "Heh. I never figured you for a softie, Snake."
-msgstr "呵。没想到你也心软，SNAKE。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00006e
-msgid "Thanks. It's good to see you."
-msgstr "谢谢。见到你真好。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00006f
-msgid "Paz can stay with us until she's back on her feet."
-msgstr "帕兹可以留下养伤，直到康复。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000070
-msgid "And the \"professor\"?"
-msgstr "那“教授”呢？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000071
-msgid "We'll find him a nice, comfy cell."
-msgstr "给他找个舒服牢房。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000072
-msgid ""
-"Coldman's lost a lot of blood. \n"
-"He may not make it..."
-msgstr "科尔德曼失血过多。\n他可能撑不住……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000073
-msgid "Where's Amanda?"
-msgstr "阿曼达呢？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000074
-msgid "Back with her compas. She'll catch up later."
-msgstr "带罗盘回来了。她随后赶上。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000075
-msgid "How about you, Snake...?"
-msgstr "你呢，SNAKE……？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000076
-msgid "I'm not done yet."
-msgstr "我还没完。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000077
-msgid "The AI?"
-msgstr "AI？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000078
-msgid "I have to finish this."
-msgstr "我得做个了结。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000079
-msgid "That Boss is a fake. I'm gonna bury it."
-msgstr "那BOSS是假的。我要埋了它。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00007a
-msgid "We'll save the champagne until you get back."
-msgstr "香槟留到你回来再开。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00007b
-msgid "May as well celebrate peace... while it lasts."
-msgstr "不如趁和平还在……庆祝一下。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00007c
-msgid ""
-"I didn't bring her back to life \n"
-"because I was forced to."
-msgstr "我让她复活\n不是因为我被迫这么做。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00007d
-msgid ""
-"I wanted to know how she really felt...\n"
-"how it really ended."
-msgstr "我想知道她真正的感受……\n真正的结局。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00007e
-msgid "The Boss is dead."
-msgstr "BOSS死了。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00007f
-msgid "No, she's alive."
-msgstr "不，她还活着。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000080
-msgid "Some truths are better left buried."
-msgstr "有些真相还是埋着好。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000081
-msgid ""
-"You don't mean that. Be honest.\n"
-"You want to know, too, don't you?"
-msgstr "你不是真心的。老实说吧。\n你也想知道，对吧？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000082
-msgid ""
-"Whether what you saw and heard \n"
-"at the end was the truth?"
-msgstr "你在最后看到和听到的\n究竟是不是真相？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000083
-msgid "She'll tell us. I know she will."
-msgstr "她会说的。我知道。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000084
-msgid "Thank you for stopping them."
-msgstr "谢谢你阻止了他们。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000085
-msgid "And... I'm sorry."
-msgstr "还有……对不起。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000086
-msgid "I can't imagine how it hurt."
-msgstr "我无法想象多痛。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000087
-msgid "...I'll live."
-msgstr "……我死不了。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000088
-msgid "I'm used to shock therapy. "
-msgstr "我习惯电击疗法了。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000089
-msgid "You are? Well... that's very kind of you to say."
-msgstr "是吗？嗯……你这么说真是太好了。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00008a
-msgid "Let's go meet her, shall we? Get in..."
-msgstr "去见她吧，好吗？上车……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00008b
-msgid "...Boss."
-msgstr "……BOSS。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00008c
-msgid ""
-"Don't pick up a gun \n"
-"unless you know how to use it."
-msgstr "不懂怎么用枪\n就别捡枪。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00008d
-msgid ""
-"Aiming a weapon alone \n"
-"doesn't make it a deterrent."
-msgstr "光靠瞄准武器\n并不能构成威慑。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00008e
-msgid "You're the angel of peace. Leave the guns to us."
-msgstr "你是和平天使。枪交给我们。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00008f
-msgid "That was our agreement, remember?"
-msgstr "这是约定，记得吧？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000090
-msgid ""
-"The army's leaving Costa Rica now.\n"
-"The mission is complete."
-msgstr "军队现在撤离哥斯达黎加。\n任务完成。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000091
-msgid "Paz?"
-msgstr "帕兹？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000092
-msgid "...Thank you."
-msgstr "……谢谢你。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000093
-msgid "...What's that noise?"
-msgstr "……那是什么声音？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000094
-msgid "What'd he do...?!"
-msgstr "他干了什么……？！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000095
-msgid "I should have killed you when I had the chance!"
-msgstr "我当初就该杀了你！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000096
-msgid "...NORAD's nightmare is about to begin."
-msgstr "……北美防空司令部的噩梦要开始了。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000098
-msgid ""
-"Peace Walker... determines retaliation targets...\n"
-"based on enemy nuclear strike data..."
-msgstr "和平行者……根据敌方核打击数据……\n确定报复目标……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x000099
-msgid ""
-"That data... can be sent... \n"
-"to third parties, as well..."
-msgstr "那些数据……也能……\n发送给第三方……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00009a
-msgid ""
-"We got big problems, Snake.\n"
-"Coldman's activated the nuclear launch switch!"
-msgstr "出大事了，SNAKE。\n科尔德曼启动了核发射开关！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00009b
-msgid "What?! And the target's Cuba?"
-msgstr "什么？！目标是古巴？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00009c
-msgid ""
-"Yeah. But that's not it.\n"
-"The son of a bitch has screwed us all over."
-msgstr "对。但不止如此。\n那混蛋把我们全坑了。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00009d
-msgid "When Peace Walker was activated,"
-msgstr "和平行者启动后，"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00009e
-msgid "it started transmitting the false data set"
-msgstr "就开始把伪造数据"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x00009f
-msgid "to NORAD."
-msgstr "发送给北美防空司令部。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000a0
-msgid ""
-"It's using a spread spectrum MLF\n"
-" (multilength frequency) signal... "
-msgstr "它用的是扩频MLF\n（多频）信号……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000a1
-msgid ""
-"It can't be blacked out even by EMP\n"
-"(electromagnetic pulse)."
-msgstr "连EMP\n（电磁脉冲）都无法屏蔽。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000a2
-msgid "There's no way to tell the difference "
-msgstr "根本无法分辨"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000a3
-msgid ""
-"between false data and \n"
-"the real thing on a radar screen."
-msgstr "雷达屏幕上的伪造数据\n和真实数据。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000a4
-msgid ""
-"NORAD will have no idea it's all a ruse \n"
-"generated by Peace Walker."
-msgstr "北美防空不知道\n这全是和平行者的假象。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000a5
-msgid "They'll think it's a real Soviet attack."
-msgstr "他们会以为是苏联真打来了。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000a6
-msgid ""
-"They'll pass on the data to the National Military\n"
-"Command Center... "
-msgstr "他们会把数据传给国家军事\n指挥中心……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000a7
-msgid ""
-"And Washington will have to choose \n"
-"whether or not to retaliate."
-msgstr "华盛顿将不得不决定\n是否进行报复。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000a8
-msgid ""
-"This could get ugly! Unless we stop it,\n"
-"we're looking at a retaliatory chain-reaction! "
-msgstr "这会变得很糟！除非我们阻止它，\n否则将引发报复连锁反应！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000aa
-msgid ""
-"No need to panic. \n"
-"The nightmare will end soon enough."
-msgstr "不必恐慌。\n噩梦很快就会结束。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000ac
-msgid "Coldman's aim "
-msgstr "科尔德曼的目的"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000ad
-msgid ""
-"is for the bureaucrats in Washington to see\n"
-"the importance of a machine"
-msgstr "是让华盛顿的官僚们看到\n一种机器的重要性"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000ae
-msgid "like Peace Walker."
-msgstr "比如和平行者。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000af
-msgid ""
-"...He's trying to prove that humans \n"
-"don't possess the will to launch nukes."
-msgstr "……他想证明人类\n没有发射核弹的意志。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000b0
-msgid ""
-"Everything will be fine. They'll never retaliate.\n"
-"They're only human..."
-msgstr "一切都会没事。他们不会报复。\n他们只是人类……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000b1
-msgid "Kaz, where's the President?"
-msgstr "卡兹，总统在哪？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000b2
-msgid ""
-"...Last I heard he was in the middle of SALT II\n"
-"negotiations in Vladivostok."
-msgstr "……我最后听说他在海参崴\n参加第二阶段限武谈判。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000b3
-msgid "With the president gone, "
-msgstr "总统不在，"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000b4
-msgid "nuclear launch authority passes to the next person in the chain of succession."
-msgstr "核发射权就移交给继任顺序中的下一个人。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000b5
-msgid ""
-"The Vice President's gone, too,\n"
-"so after him comes the Speaker..."
-msgstr "副总统也不在，\n所以接下来是众议院议长……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000b6
-msgid "...President, Vice President... "
-msgstr "……总统、副总统……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000b7
-msgid ""
-"Not one among them has \n"
-"the courage to push the button. "
-msgstr "他们中没有一个人\n有勇气按下按钮。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000b8
-msgid ""
-"No one willing to enter history \n"
-"as the Great Destroyer."
-msgstr "没人愿意以伟大毁灭者的身份\n载入史册。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000b9
-msgid ""
-"In the end, it's not their lives that \n"
-"people value most... it's their reputations!"
-msgstr "说到底，人们最看重的不是自己的命……\n而是自己的名声！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000ba
-msgid ""
-"The bureaucrats in Washington \n"
-"may not be able to retaliate. "
-msgstr "华盛顿的官僚们\n也许无法进行报复。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000bb
-msgid "Peace Walker, on the other hand..."
-msgstr "但和平行者就不同了……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000bc
-msgid "She's loyal to the mission above all. "
-msgstr "她忠于任务高于一切。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000bd
-msgid ""
-"And she's well aware that \n"
-"guaranteed retaliation is essential"
-msgstr "而且她很清楚，\n确保报复能力至关重要，"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000be
-msgid "for nuclear deterrence to work."
-msgstr "核威慑才能奏效。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000bf
-msgid "Peace Walker is the perfect deterrent."
-msgstr "和平行者是完美的威慑。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000c0
-msgid "Cuba would not have been my choice of targets... "
-msgstr "古巴不会是我的目标选择……"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000c1
-msgid ""
-"but you can't make peace \n"
-"without breaking a few eggs."
-msgstr "但想实现和平\n总得打破几个鸡蛋。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000c2
-msgid ""
-"Now that Peace Walker has the false data...\n"
-"retaliation is inevitable."
-msgstr "如今和平行者已掌握假数据...\n报复已不可避免。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000c3
-msgid "Are you insane? "
-msgstr "你疯了吗？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000c4
-msgid ""
-"You think it'll end there?!\n"
-"You're about to unleash all-out nuclear war!"
-msgstr "你以为这样就完了？！\n你这是要引发全面核战争！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000c5
-msgid "Somebody find out what's going on at NORAD!"
-msgstr "快查北美防空司令部怎么回事！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000c6
-msgid ""
-"Mammal's got a connection to NORAD.\n"
-"We could monitor it with the right equipment."
-msgstr "Mammal和北美防空司令部有连接。\n有合适的设备就能监听。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000c7
-msgid "I've got you covered."
-msgstr "交给我吧。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000c8
-msgid "I've got NORAD on the line."
-msgstr "北美防空司令部接通了。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000c9
-msgid "Sir, we're tracking unidentified targets."
-msgstr "长官，我们追踪到不明目标。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000ca
-msgid "Current apogee 20 degrees. Estimated time of reentry is two-two-five-zero Zulu."
-msgstr "当前远地点20度。预计再入时间22点50分祖鲁时间。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000cb
-msgid "Have you contacted the President?"
-msgstr "联系上总统了吗？"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000cc
-msgid "Coverall is not responding."
-msgstr "Coverall没有回应。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000cd
-msgid ""
-"Warning system checks out.\n"
-"No corresponding natural signatures. "
-msgstr "预警系统检查无误。\n无对应自然信号。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000ce
-msgid "Data is assessed as reliable."
-msgstr "数据评估为可靠。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000cf
-msgid ""
-"Cut the data transmission! We can't say for sure\n"
-"Washington isn't going to retaliate!"
-msgstr "切断数据传输！我们无法确定\n华盛顿不会反击！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000d0
-msgid ""
-"The only one who knows... \n"
-"the abort code... is me..."
-msgstr "唯一知道...\n中止密码的...只有我..."
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000d1
-msgid "I die... and no one can turn it off..."
-msgstr "我一死...就没人能关了..."
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000d2
-msgid ""
-"Even if they do strike back... \n"
-"I'll already... be dead..."
-msgstr "就算他们真的反击...\n我早就...死了..."
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000d3
-msgid ""
-"I can only pray... that my theory... \n"
-"my peace... is proven right..."
-msgstr "我只能祈祷...我的理论...\n我的和平...是正确的..."
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000d4
-msgid "Pea..."
-msgstr "和..."
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000d5
-msgid "...ce"
-msgstr "...平"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000d6
-msgid "...Go to DEFCON 3."
-msgstr "...进入三级战备状态。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000d7
-msgid "Get SAC on the phone."
-msgstr "接通战略空军司令部。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000d8
-msgid ""
-"This is Crystal Palace.\n"
-"Standby for an emergency meeting."
-msgstr "这里是水晶宫。\n准备召开紧急会议。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000d9
-msgid "...They're at DEFCON 3."
-msgstr "...他们进入三级战备了。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000da
-msgid ""
-"The false data and the nukes are \n"
-"both coming from the same source... "
-msgstr "假数据和核弹\n来自同一个源头..."
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000db
-msgid "we have to stop Peace Walker!"
-msgstr "必须阻止和平行者！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000dc
-msgid "The only way is to destroy her."
-msgstr "只能摧毁她。"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000dd
-msgid "She's entered launch mode. Peace Walker's rendered her judgment. The target is Cuba!"
-msgstr "她已进入发射模式。和平行者已做出判断。目标是古巴！"
-
-#. comic cutscene
-#: slot/0x003b054d/0x33d29e/0x0000de
-msgid "Snake, don't let it launch the nuke!"
-msgstr "SNAKE，别让它发射核弹！"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x000000
-msgid ""
-"It stopped moving... Snake, you did it.\n"
-"You stopped the launch!"
-msgstr "它停止移动了……SNAKE，你做到了。\n你阻止了发射！"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x000001
-msgid "Huey, how's NORAD?!"
-msgstr "休伊，北美防空司令部那边怎么样？！"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x000002
-msgid "Not good... "
-msgstr "不太好……"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x000003
-msgid "BMEWS continues to track the targets on radar."
-msgstr "BMEWS仍在雷达追踪目标。"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x000004
-msgid ""
-"DSP satellite status is green.\n"
-"Still assessing as reliable."
-msgstr "国防支援卫星状态正常。\n仍判定为可靠。"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x000005
-msgid ""
-"Chairman of the Joint Chiefs, \n"
-"a representative of the Secretary of Defense, "
-msgstr "参谋长联席会议主席、\n国防部长代表，"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x000006
-msgid "and Congress have arrived at NMCC."
-msgstr "国会已抵达NMCC。"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x000007
-msgid ""
-"You've only damaged the drive system...\n"
-"The data uplink's still intact..."
-msgstr "你只破坏了驱动系统……\n数据上行链路仍然完好……"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x000008
-msgid ""
-"We've got 1,500 Soviet ICBMs \n"
-"crossing the North Pole. "
-msgstr "1500枚苏联洲际导弹\n正穿越北极。"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x000009
-msgid ""
-"Target region is confirmed as the west coast\n"
-"of the United States."
-msgstr "目标区域确认为美国西海岸\n。"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x00000a
-msgid "Go to DEFCON 2. Prepare to launch ICBMs."
-msgstr "进入二级戒备。准备发射洲际弹道导弹。"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x00000b
-msgid "How do I make it stop?!"
-msgstr "怎么让它停？！"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x00000c
-msgid "Peace Walker is a fully autonomous system."
-msgstr "和平行者是完全自主的系统。"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x00000d
-msgid "Unlike the other machines you've fought, "
-msgstr "与你打过的其他机器不同，"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x00000e
-msgid ""
-"its command authorities are all located inside\n"
-"its cerebrum, the Mammal Pod."
-msgstr "它的指挥权限全部位于\n其大脑——哺乳舱内部。"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x00000f
-msgid "We've got to stop the Mammal Pod...!"
-msgstr "我们必须阻止哺乳舱……！"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x000010
-msgid ""
-"I don't have the abort code either.\n"
-"Coldman was the only one..."
-msgstr "我也没有中止代码。\n只有科尔德曼有……"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x000011
-msgid "Snake, destroy the AI inside the Mammal Pod!"
-msgstr "SNAKE，摧毁哺乳舱里的AI！"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x000012
-msgid "The inner barrier protecting the Mammal Pod "
-msgstr "保护哺乳舱的内层屏障"
-
-#. comic cutscene
-#: slot/0x003b058d/0x39a076/0x000013
-msgid "is designed to be as strong as a bomb shelter."
-msgstr "被设计得如同防空洞一般坚固。"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x000014
@@ -1330,14 +29,18 @@ msgstr "你在开玩笑吗？"
 msgid ""
 "No! I'm telling you, that armor was designed\n"
 "to withstand a nuclear war!"
-msgstr "不！我告诉你，那装甲是设计来\n抵御核战争的！"
+msgstr ""
+"不！我告诉你，那装甲是设计来\n"
+"抵御核战争的！"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x000018
 msgid ""
 "We can't get through to the President.\n"
 "The decision is on us."
-msgstr "联系不上总统。\n只能我们自己决定了。"
+msgstr ""
+"联系不上总统。\n"
+"只能我们自己决定了。"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x000019
@@ -1349,7 +52,9 @@ msgstr "你认真的？"
 msgid ""
 "There's no way I'm gonna \n"
 "wipe out the human race."
-msgstr "我绝不可能\n毁灭人类。"
+msgstr ""
+"我绝不可能\n"
+"毁灭人类。"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x00001b
@@ -1361,14 +66,18 @@ msgstr "这该由总统决定！"
 msgid ""
 "There's no time for that. \n"
 "We need a decision, now."
-msgstr "没时间了。\n必须马上决定。"
+msgstr ""
+"没时间了。\n"
+"必须马上决定。"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x00001d
 msgid ""
 "Huey, get the Pentagon on the line!\n"
 "We have to tell them the nukes aren't real!"
-msgstr "休伊，接通五角大楼！\n得告诉他们核弹是假的！"
+msgstr ""
+"休伊，接通五角大楼！\n"
+"得告诉他们核弹是假的！"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x00001e
@@ -1385,7 +94,9 @@ msgstr "别管继任顺序了。"
 msgid ""
 "If we're all going to hell, \n"
 "let's take those bastards with us!"
-msgstr "既然都要下地狱，\n就拉那些混蛋一起陪葬！"
+msgstr ""
+"既然都要下地狱，\n"
+"就拉那些混蛋一起陪葬！"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x000021
@@ -1422,21 +133,27 @@ msgstr "压力？"
 msgid ""
 "Sink it in the lake. \n"
 "With that much water pressure, "
-msgstr "把它沉进湖里。\n那么大的水压，"
+msgstr ""
+"把它沉进湖里。\n"
+"那么大的水压，"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x000028
 msgid ""
 "even the tiniest crack should be \n"
 "enough to flood the innards."
-msgstr "哪怕最细小的裂缝\n也足以让内部进水。"
+msgstr ""
+"哪怕最细小的裂缝\n"
+"也足以让内部进水。"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x000029
 msgid ""
 "The AI pod is a mass of \n"
 "highly sensitive electronics. "
-msgstr "AI 舱体是大量\n高精密电子元件。"
+msgstr ""
+"AI 舱体是大量\n"
+"高精密电子元件。"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x00002a
@@ -1528,7 +245,9 @@ msgstr "取消报复性打击，立刻！"
 msgid ""
 "The radar blips you're seeing are all fakes.\n"
 "No one's launched any nukes."
-msgstr "你看到的雷达光点全是假的。\n没人发射任何核弹。"
+msgstr ""
+"你看到的雷达光点全是假的。\n"
+"没人发射任何核弹。"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x00003d
@@ -1540,21 +259,27 @@ msgstr "你咋知道？"
 msgid ""
 "The launch data is fake, \n"
 "part of an experiment that leaked. "
-msgstr "发射数据是假的，\n是一次实验泄露出来的。"
+msgstr ""
+"发射数据是假的，\n"
+"是一次实验泄露出来的。"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x00003f
 msgid ""
 "You weren't supposed to receive it.\n"
 "Your radar is showing missiles that don't exist."
-msgstr "本不该传到你们那里。\n你们雷达上的导弹根本不存在。"
+msgstr ""
+"本不该传到你们那里。\n"
+"你们雷达上的导弹根本不存在。"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x000040
 msgid ""
 "If you're lying, then we've got \n"
 "10 minutes 'til we're toast. "
-msgstr "你要是撒谎，我们\n十分钟后就完蛋了。"
+msgstr ""
+"你要是撒谎，我们\n"
+"十分钟后就完蛋了。"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x000041
@@ -1586,14 +311,18 @@ msgstr "他死了。名字可以给你。"
 msgid ""
 "We need more than the authentication code\n"
 "you gave the switchboard."
-msgstr "我们需要的不只是你给总机的那串验证码\n。"
+msgstr ""
+"我们需要的不只是你给总机的那串验证码\n"
+"。"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x000047
 msgid ""
 " We need proof you're actually Big Boss.\n"
 "Do you have any?"
-msgstr "我们需要证据证明你真是BIG BOSS。\n你有吗？"
+msgstr ""
+"我们需要证据证明你真是BIG BOSS。\n"
+"你有吗？"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x000048
@@ -1630,14 +359,18 @@ msgstr "等等！让他说完。你刚才说？"
 msgid ""
 "At the ceremony, the DCI tried to shake my hand.\n"
 "I refused."
-msgstr "典礼上，DCI想跟我握手。\n我拒绝了。"
+msgstr ""
+"典礼上，DCI想跟我握手。\n"
+"我拒绝了。"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x00004f
 msgid ""
 "What happened in that room is \n"
 "classified - top secret."
-msgstr "那间屋子里发生的事是\n最高机密。"
+msgstr ""
+"那间屋子里发生的事是\n"
+"最高机密。"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x000050
@@ -1664,7 +397,9 @@ msgstr "因为我知道我的忠诚属于谁。"
 msgid ""
 "Everybody, listen to me!\n"
 "Those Soviet missiles are fakes!"
-msgstr "各位，听我说！\n那些苏联导弹是假的！"
+msgstr ""
+"各位，听我说！\n"
+"那些苏联导弹是假的！"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x000055
@@ -1696,14 +431,18 @@ msgstr "因为当时我是陆军参谋长，"
 msgid ""
 "and I was standing right next to the DCI\n"
 "when it happened. I saw everything."
-msgstr "事发时我就站在DCI旁边。\n我全看见了。"
+msgstr ""
+"事发时我就站在DCI旁边。\n"
+"我全看见了。"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x00005b
 msgid ""
 "You saved us all, Big Boss.\n"
 "We'll stand down the alert."
-msgstr "你救了我们，BIG BOSS。\n我们解除警报。"
+msgstr ""
+"你救了我们，BIG BOSS。\n"
+"我们解除警报。"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x00005d
@@ -1750,7 +489,9 @@ msgstr "她在呼唤你……"
 msgid ""
 "Destroy the Mammal Pod \n"
 "and the data will stop flowing!"
-msgstr "摧毁哺乳舱\n数据就会停止传输！"
+msgstr ""
+"摧毁哺乳舱\n"
+"数据就会停止传输！"
 
 #. comic cutscene
 #: slot/0x003b058d/0x39a076/0x000068
@@ -1792,7 +533,9 @@ msgstr "清醒点，老兄！"
 msgid ""
 "The fate of the world... \n"
 "the fate of Earth is at stake here!"
-msgstr "世界的命运……\n地球的命运在此一举！"
+msgstr ""
+"世界的命运……\n"
+"地球的命运在此一举！"
 
 #. comic cutscene
 #: slot/0x003b05ad/0x82ca49/0x000000
@@ -1834,7 +577,9 @@ msgstr "剩余六分钟。"
 msgid ""
 "...Wait. Authority rests with me now.\n"
 "I'm ordering a retaliation."
-msgstr "……等等。现在指挥权在我手上。\n我下令反击。"
+msgstr ""
+"……等等。现在指挥权在我手上。\n"
+"我下令反击。"
 
 #. comic cutscene
 #: slot/0x003b05ad/0xa2a033/0x000002
@@ -1846,7 +591,9 @@ msgstr "不，别！会害死大家！"
 msgid ""
 "Who gives a damn?!\n"
 "I'm not gonna sit here and die like a dog!"
-msgstr "谁管？！\n我才不坐这等死！"
+msgstr ""
+"谁管？！\n"
+"我才不坐这等死！"
 
 #. comic cutscene
 #: slot/0x003b05ad/0xa2a033/0x000004
@@ -1863,7 +610,9 @@ msgstr "毁我国家，我就拉他们一起陪葬！"
 msgid ""
 "You see now, Chairman?\n"
 "Deterrence is just a fool's dream."
-msgstr "看到了吧，议长？\n威慑是蠢人梦。"
+msgstr ""
+"看到了吧，议长？\n"
+"威慑是蠢人梦。"
 
 #. comic cutscene
 #: slot/0x003b05ad/0xa2a033/0x000007
@@ -1875,7 +624,9 @@ msgstr "为什么？！为什么停不下来？！"
 msgid ""
 "Sometimes the body continues to live\n"
 "even after the brain is damaged."
-msgstr "有时大脑受损后\n身体仍会继续存活。"
+msgstr ""
+"有时大脑受损后\n"
+"身体仍会继续存活。"
 
 #. comic cutscene
 #: slot/0x003b05ad/0xa2a033/0x000009
@@ -1959,35 +710,45 @@ msgstr "这是功能代偿。"
 msgid ""
 "When the human brain is damaged,\n"
 "sometimes it recovers over time."
-msgstr "人脑受损后，\n有时会随着时间恢复。"
+msgstr ""
+"人脑受损后，\n"
+"有时会随着时间恢复。"
 
 #. comic cutscene
 #: slot/0x003b05b2/0x39a064/0x00000c
 msgid ""
 "Other parts of the brain take over the functions\n"
 "of the damaged parts."
-msgstr "大脑其他部分会接管\n受损部分的功能。"
+msgstr ""
+"大脑其他部分会接管\n"
+"受损部分的功能。"
 
 #. comic cutscene
 #: slot/0x003b05b2/0x39a064/0x00000d
 msgid ""
 "Mammal and Reptile were patterned after\n"
 "different parts of the human brain."
-msgstr "哺乳类和爬虫类分别仿照\n人脑的不同部分。"
+msgstr ""
+"哺乳类和爬虫类分别仿照\n"
+"人脑的不同部分。"
 
 #. comic cutscene
 #: slot/0x003b05b2/0x39a064/0x00000e
 msgid ""
 "When those parts were assembled \n"
 "together into one, "
-msgstr "当这些部分被组装\n到一起时，"
+msgstr ""
+"当这些部分被组装\n"
+"到一起时，"
 
 #. comic cutscene
 #: slot/0x003b05b2/0x39a064/0x00000f
 msgid ""
 "they must've become capable \n"
 "of functional compensation..."
-msgstr "它们一定变得能够\n进行功能代偿……"
+msgstr ""
+"它们一定变得能够\n"
+"进行功能代偿……"
 
 #. comic cutscene
 #: slot/0x003b05b2/0x39a064/0x000010
@@ -2009,7 +770,9 @@ msgstr "这歌？"
 msgid ""
 "It's clearly not thinking rationally...\n"
 "It's not using its head... "
-msgstr "它显然不是在理性思考……\n它没有用脑子……"
+msgstr ""
+"它显然不是在理性思考……\n"
+"它没有用脑子……"
 
 #. comic cutscene
 #: slot/0x003b05b2/0x39a064/0x000014
@@ -2031,7 +794,9 @@ msgstr "THE BOSS的清白得到了证明……"
 msgid ""
 "Do you hear it, Snake? \n"
 "Do you hear The Boss' song?"
-msgstr "你听到了吗，SNAKE？\n你听到THE BOSS的歌了吗？"
+msgstr ""
+"你听到了吗，SNAKE？\n"
+"你听到THE BOSS的歌了吗？"
 
 #. comic cutscene
 #: slot/0x003b05b2/0x39a064/0x000018
@@ -2078,7 +843,9 @@ msgstr "你的意志必将延续。"
 msgid ""
 "That's what you wanted... so much that \n"
 "you gave up everything you had..."
-msgstr "那是你想要的……你甚至为此\n舍弃了你拥有的一切……"
+msgstr ""
+"那是你想要的……你甚至为此\n"
+"舍弃了你拥有的一切……"
 
 #. comic cutscene
 #: slot/0x003b05b2/0x39a064/0x000021
@@ -2110,28 +877,36 @@ msgstr "期盼那名为和平的幻象。"
 msgid ""
 "Once upon a time, there were two young men\n"
 "who idolized a hero called The Boss. "
-msgstr "从前，有两个年轻人\n崇拜着一位名叫THE BOSS的英雄。"
+msgstr ""
+"从前，有两个年轻人\n"
+"崇拜着一位名叫THE BOSS的英雄。"
 
 #. comic cutscene
 #: slot/0x003b05ed/0x52eb7f/0x000001
 msgid ""
 "One day, they suddenly lost \n"
 "the point of origin - the cipher -"
-msgstr "有一天，他们突然失去了\n原点，那密码，"
+msgstr ""
+"有一天，他们突然失去了\n"
+"原点，那密码，"
 
 #. comic cutscene
 #: slot/0x003b05ed/0x52eb7f/0x000002
 msgid ""
 "that was like a mother to them.\n"
 "Unable to come to terms with their sorrow,"
-msgstr "对他们而言如同母亲一般。\n无法接受这份悲伤，"
+msgstr ""
+"对他们而言如同母亲一般。\n"
+"无法接受这份悲伤，"
 
 #. comic cutscene
 #: slot/0x003b05ed/0x52eb7f/0x000003
 msgid ""
 "they each decided to carry \n"
 "on the will of their hero."
-msgstr "他们各自决定\n继承英雄的意志。"
+msgstr ""
+"他们各自决定\n"
+"继承英雄的意志。"
 
 #. comic cutscene
 #: slot/0x003b05ed/0x52eb7f/0x000004
@@ -2143,7 +918,9 @@ msgstr "但他们对含义无法达成一致。"
 msgid ""
 "In the end, they became bitter enemies,\n"
 "and the zero from which they both started"
-msgstr "最终，他们成了死敌，\n而他们共同出发的那个零"
+msgstr ""
+"最终，他们成了死敌，\n"
+"而他们共同出发的那个零"
 
 #. comic cutscene
 #: slot/0x003b05ed/0x52eb7f/0x000006
@@ -2155,14 +932,18 @@ msgstr "被一分为二。"
 msgid ""
 "...And you have been on the wrong \n"
 "path ever since."
-msgstr "...而你从此走上了错误的\n道路。"
+msgstr ""
+"...而你从此走上了错误的\n"
+"道路。"
 
 #. comic cutscene
 #: slot/0x003b05ed/0x52eb7f/0x000008
 msgid ""
 "There's no \"happily ever after\" \n"
 "waiting for you in the end. Unless... "
-msgstr "最终等待你的，不会是\n\"幸福结局\"。除非..."
+msgstr ""
+"最终等待你的，不会是\n"
+"\"幸福结局\"。除非..."
 
 #. comic cutscene
 #: slot/0x003b05ed/0x52eb7f/0x000009
@@ -2179,7 +960,9 @@ msgstr "一支没有国界的军队，家在何方？"
 msgid ""
 "A state without borders, of course...\n"
 "a world without borders. "
-msgstr "无国界的国家，当然...\n无国界的世界。"
+msgstr ""
+"无国界的国家，当然...\n"
+"无国界的世界。"
 
 #. comic cutscene
 #: slot/0x003b05ed/0x52eb7f/0x00000c
@@ -2196,7 +979,9 @@ msgstr "冷战秩序即将崩溃。"
 msgid ""
 "The age of electronic intelligence is \n"
 "about to begin. "
-msgstr "电子情报的时代\n即将开始。"
+msgstr ""
+"电子情报的时代\n"
+"即将开始。"
 
 #. comic cutscene
 #: slot/0x003b05ed/0x52eb7f/0x00000f
@@ -2218,14 +1003,18 @@ msgstr "NRO（国家侦察局），"
 msgid ""
 "DIA (Defense Intelligence Agency), \n"
 "et cetera, et cetera..."
-msgstr "DIA（国防情报局），\n等等，等等..."
+msgstr ""
+"DIA（国防情报局），\n"
+"等等，等等..."
 
 #. comic cutscene
 #: slot/0x003b05ed/0x52eb7f/0x000013
 msgid ""
 "The intelligence community \n"
 "that has long bickered amongst itself "
-msgstr "长期以来内斗不休的\n情报界"
+msgstr ""
+"长期以来内斗不休的\n"
+"情报界"
 
 #. comic cutscene
 #: slot/0x003b05ed/0x52eb7f/0x000014
@@ -2242,7 +1031,9 @@ msgstr "Cipher将收集所有情报，"
 msgid ""
 "watching over the world \n"
 "and guiding the will of its people,"
-msgstr "监视世界\n并引导民众的意志，"
+msgstr ""
+"监视世界\n"
+"并引导民众的意志，"
 
 #. comic cutscene
 #: slot/0x003b05ed/0x52eb7f/0x000017
@@ -2259,7 +1050,9 @@ msgstr "将无人能与之抗衡！"
 msgid ""
 "For the first time, \n"
 "the world will be ruled by a single will!"
-msgstr "世界将首次\n被单一意志所统治！"
+msgstr ""
+"世界将首次\n"
+"被单一意志所统治！"
 
 #. comic cutscene
 #: slot/0x003b05ed/0x52eb7f/0x00001a
@@ -2271,7 +1064,9 @@ msgstr "在新秩序建立之前，"
 msgid ""
 "you and your army will be \n"
 "the force that protects it."
-msgstr "你和你的军队将是\n守护它的力量。"
+msgstr ""
+"你和你的军队将是\n"
+"守护它的力量。"
 
 #. comic cutscene
 #: slot/0x003b05ed/0x52eb7f/0x00001c
@@ -2287,3 +1082,1234 @@ msgstr "以你的魅力和军事才能"
 #: slot/0x003b05ed/0x52eb7f/0x00001e
 msgid "with your charisma and military prowess."
 msgstr "蒙蔽旧秩序的双眼。"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x00001f
+msgid ""
+"Accept our offer, and we wil allow you \n"
+"to retain control of MSF and ZEKE."
+msgstr ""
+"接受我们的提议，我们就允许你\n"
+"继续掌控MSF和吉克。"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000020
+msgid "That's... an offer?"
+msgstr "这……也算提议？"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000021
+msgid ""
+"The Boss threw down her gun, \n"
+"and with it her life's calling."
+msgstr ""
+"THE BOSS扔下枪，\n"
+"也扔下一生使命。"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000022
+msgid ""
+"You - her disciple - have never been \n"
+"able to do that. You are too afraid to let go."
+msgstr ""
+"你——她的弟子——从来都\n"
+"做不到。你太害怕放手。"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000023
+msgid "I was made to fight. I am a gun."
+msgstr "我生来就是为了战斗。我是一把枪。"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000024
+msgid ""
+"Is that so?! Then what do you call this?\n"
+"Is it a gun, too?"
+msgstr ""
+"是吗？！那你管这叫什么？\n"
+"它也是枪吗？"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000025
+msgid ""
+"You are a lousy liar! Admit it - this thing is \n"
+"a monstrosity, a product of your own fear!"
+msgstr ""
+"你撒谎真差！承认吧，这东西\n"
+"是怪物，是你恐惧的产物！"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000026
+msgid ""
+"But not Cipher! \n"
+"Cipher thought of something different. "
+msgstr ""
+"但Cipher不一样！\n"
+"Cipher想出了不同的办法。"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000027
+msgid "Cipher's going to control guns."
+msgstr "Cipher要控制枪。"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000028
+msgid "Control guns?"
+msgstr "控制枪？"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000029
+msgid "That is right. Not deter, control. It is the ultimate approach to the illusion of peace..."
+msgstr "没错。不是威慑，是控制。这是通往和平幻象的终极手段……"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x00002a
+msgid "Control power? You're gonna be disappointed."
+msgstr "控制力量？你会失望的。"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x00002b
+msgid "Then we are done! Thank you for playing! "
+msgstr "那就到此为止！感谢游玩！"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x00002c
+msgid ""
+"Better luck next time. The offer is rescinded! \n"
+"And now, the ultimatum."
+msgstr ""
+"下次好运。提议作废！\n"
+"现在，是最后通牒。"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x00002d
+msgid "ZEKE is already in nuclear strike mode."
+msgstr "吉克已进入核打击模式。"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x00002f
+msgid ""
+"I'm taking the weapon you built and using it\n"
+"to launch a nuclear strike"
+msgstr ""
+"我要用你造的武器\n"
+"发动核打击"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000030
+msgid "on the east coast of the United States!"
+msgstr "目标是美国东海岸！"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000031
+msgid "You're insane! What are you after?!"
+msgstr "你疯了！你到底想要什么？！"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000032
+msgid "But wait, here is your consolation prize:"
+msgstr "不过等等，这是你的安慰奖："
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000033
+msgid ""
+"We are about to show the world just \n"
+"how dangerous a gang of outlaws"
+msgstr ""
+"我们即将向世界展示\n"
+"一群亡命之徒"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000034
+msgid " - an army without borders - can be!"
+msgstr "——一支无国界的军队——能有多危险！"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000035
+msgid ""
+"You and your men will become pariahs,\n"
+"and you will be wiped off the face of the earth."
+msgstr ""
+"你和你的手下将成为贱民，\n"
+"被从地球上抹去。"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000036
+msgid ""
+"Rather than heroes, you will be seen \n"
+"as a well-armed, extremist cult"
+msgstr ""
+"你们不会被当英雄，\n"
+"而是武装精良的极端教派"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000037
+msgid ""
+"prone to indiscriminate outbursts \n"
+"of nuclear aggression."
+msgstr ""
+"动辄发动不分青红皂白的\n"
+"核侵略。"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000038
+msgid "You will give rise to a new world order, "
+msgstr "你们将催生新世界秩序，"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000039
+msgid ""
+"an age of deterrence defined by its fear of\n"
+"extremist cult influence."
+msgstr ""
+"一个恐惧极端教派影响力的\n"
+"威慑时代。"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x00003a
+msgid "Do you like the picture I am painting, Big Boss?!"
+msgstr "喜欢我画的这幅图吗，BIG BOSS？！"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x00003b
+msgid ""
+"When all is said and done, \n"
+"peace is nothing but a fantasy! "
+msgstr ""
+"说到底，\n"
+"和平不过是幻想！"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x00003c
+msgid "A game's a game! You either win or you lose!"
+msgstr "游戏就是游戏！不是赢就是输！"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x00003d
+msgid "All you can do is fight!"
+msgstr "你只能战斗！"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x00003e
+#: slot/0x00db94df/0x3564e1/0x000000
+msgid "Stop me if you can!"
+msgstr "有本事就来阻止我！"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x00003f
+msgid "The peace sign is the \"V\" of victory!"
+msgstr "和平手势就是胜利的\"V\"！"
+
+#. comic cutscene
+#: slot/0x003b05ed/0x52eb7f/0x000040
+msgid "Say PEACE!"
+msgstr "说\"和平\"！"
+
+#. comic cutscene
+#: slot/0x003b060d/0x39a173/0x000000
+msgid "It is no use, ZEKE is out of my control. "
+msgstr "没用，吉克不受我控了。"
+
+#. comic cutscene
+#: slot/0x003b060d/0x39a173/0x000001
+msgid "This is where it ends."
+msgstr "到此为止了。"
+
+#. comic cutscene
+#: slot/0x003b060d/0x39a173/0x000002
+msgid "Listen to me, Big Boss... "
+msgstr "听我说，BIG BOSS……"
+
+#. comic cutscene
+#: slot/0x003b060d/0x39a173/0x000003
+msgid ""
+"As long as your army is needed,\n"
+"the world will never know true peace."
+msgstr ""
+"只要还需要你的军队，\n"
+"世界就永无真正和平。"
+
+#. comic cutscene
+#: slot/0x003b060d/0x39a173/0x000004
+msgid ""
+"The peace you will know will be fleeting - illusory.\n"
+"They will use you, disgrace you, "
+msgstr ""
+"你所知的和平转瞬即逝——虚幻不实。\n"
+"他们会利用你，羞辱你，"
+
+#. comic cutscene
+#: slot/0x003b060d/0x39a173/0x000005
+msgid ""
+"and then, finally, discard you \n"
+"like they would a cancer to society."
+msgstr ""
+"最后，像丢弃社会的毒瘤一样\n"
+"将你抛弃。"
+
+#. comic cutscene
+#: slot/0x003b060d/0x39a173/0x000006
+msgid "This is the path you have chosen!"
+msgstr "这就是你选择的道路！"
+
+#. comic cutscene
+#: slot/0x003b060d/0x39a173/0x000007
+msgid "Paz..."
+msgstr "帕兹……"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x000000
+msgid "How's it going?"
+msgstr "怎么样？"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x000001
+msgid "How's ZEKE look?"
+msgstr "吉克怎样？"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x000002
+msgid ""
+"The attitude control AI had a backup,\n"
+"so... it should be able to walk."
+msgstr ""
+"姿态控制AI有备份，\n"
+"所以……应该能走。"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x000003
+msgid "Really... That's good."
+msgstr "是吗……那太好了。"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x000004
+msgid "Beyond that, it's up to the creator..."
+msgstr "此外就看创造者了……"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x000005
+msgid "Stop!"
+msgstr "站住！"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x000006
+msgid "Don't come any closer, doctor."
+msgstr "别再靠近了，博士。"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x000007
+msgid "There's something I've been meaning to ask you..."
+msgstr "有件事我一直想问你……"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x000008
+msgid "Do you..."
+msgstr "你……"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x000009
+msgid "do you despise me?"
+msgstr "你讨厌我吗？"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x00000a
+msgid "Doctor, are you asking me out?"
+msgstr "医生，你是在约我吗？"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x00000b
+msgid "No no, not at all..."
+msgstr "不不，完全不是……"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x00000c
+msgid "No?"
+msgstr "不是吗？"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x00000d
+msgid "Pity..."
+msgstr "真遗憾……"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x00000e
+msgid ""
+"Because I've just had \n"
+"my heart broken by someone else."
+msgstr ""
+"因为我刚被别人\n"
+"伤了心。"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x000010
+msgid "I only like those who can stand on their own."
+msgstr "我只喜欢能独立自主的人。"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x000011
+msgid "If you fancy me, then come walk with me."
+msgstr "要是你中意我，就跟我来吧。"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x000012
+msgid "Who knows what miracles might happen?"
+msgstr "谁知道会发生什么奇迹呢？"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x000013
+msgid "Love is blind, after all."
+msgstr "毕竟爱情盲目。"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x000014
+msgid "Take your time... "
+msgstr "慢慢来……"
+
+#. comic cutscene
+#: slot/0x003b0612/0x79a1a9/0x000015
+msgid "I'll be waiting..."
+msgstr "我会等你的……"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x000000
+msgid "Meow! Don't point that funky weapon at me-ow!"
+msgstr "喵！别拿那怪武器指着我喵！"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x000001
+msgid "A talking cat...?"
+msgstr "会说话的猫……？"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x000002
+msgid ""
+"Hey, you wouldn't happen to be a hunter, \n"
+"would you?"
+msgstr ""
+"嘿，你该不会正好是个猎人吧，\n"
+"对吧？"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x000003
+msgid "Me, I'm Trenya. Purr-eased to meet you."
+msgstr "我叫Trenya，幸会喵。"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x000004
+msgid "Trenya?"
+msgstr "Trenya？"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x000005
+msgid "That's what I said. If you're a hunter,"
+msgstr "没错。如果你是猎人，"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x000006
+msgid ""
+"I can take you to an island \n"
+"where there're lots of rare creatures."
+msgstr ""
+"我能带你去一座\n"
+"有很多稀有生物的岛。"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x000007
+msgid "I bet you'd get a kick out of hunting them, meow."
+msgstr "我打赌你一定会猎得很过瘾，喵。"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x000008
+msgid "Creatures...? Even rarer than a talking cat?"
+msgstr "生物？比会说话的猫还稀有？"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x000009
+msgid ""
+"Nothing gets by you...\n"
+"But, no! There're even bigger ones on the island. "
+msgstr ""
+"瞒不过你……\n"
+"不过不对！岛上还有更大的家伙。"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x00000a
+msgid "Huge monsters, meow!"
+msgstr "大怪物，喵！"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x00000b
+msgid "Monsters?!"
+msgstr "怪物？"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x00000c
+msgid "A hunter like you can't possibly pass this up!"
+msgstr "你这样的猎人绝不会错过！"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x00000d
+msgid "Sorry, kitty, but I'm no hunter."
+msgstr "抱歉，小猫，我不是猎人。"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x00000e
+msgid "Whaa?! Oh, man... "
+msgstr "啥？！天哪……"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x00000f
+msgid ""
+"I saw that killer look in your eye and thought \n"
+"you were special somehow, meow."
+msgstr ""
+"我看到你眼中的杀意，还以为 \n"
+"你有多特别呢，喵。"
+
+#. comic cutscene
+#: slot/0x003b090d/0x32ad74/0x000010
+msgid "...Not exactly ordinary yourself."
+msgstr "……你也不普通。"
+
+#. comic cutscene
+#: slot/0x003b090d/0x82ad76/0x000000
+msgid ""
+"Sigh... Over hill and over dale, \n"
+"through rain and snow"
+msgstr ""
+"唉……翻山越岭，\n"
+"风雨无阻"
+
+#. comic cutscene
+#: slot/0x003b090d/0x82ad76/0x000001
+msgid ""
+"I come all the way out here \n"
+"from Pokke Farm to find work,"
+msgstr ""
+"我从波凯农场大老远跑来\n"
+"找活干，"
+
+#. comic cutscene
+#: slot/0x003b090d/0x82ad76/0x000002
+msgid "and not a single customer so far... "
+msgstr "结果到现在一个客人也没有……"
+
+#. comic cutscene
+#: slot/0x003b090d/0x82ad76/0x000003
+msgid "Not to be rude, but I've got things to do."
+msgstr "不是失礼，但我还有事忙。"
+
+#. comic cutscene
+#: slot/0x003b090d/0x82ad76/0x000004
+msgid ""
+"So if you need someone to go monster hunting\n"
+"with you, find someone else."
+msgstr ""
+"所以你要是想找人陪你猎怪，\n"
+"另请高明吧。"
+
+#. comic cutscene
+#: slot/0x003b090d/0x82ad76/0x000005
+msgid "Wait! At least listen to my sales pitch, meow!"
+msgstr "等等！至少听听我的推销嘛，喵！"
+
+#. comic cutscene
+#: slot/0x003b090d/0x82ad76/0x000006
+msgid "...Fine..."
+msgstr "……好吧……"
+
+#. comic cutscene
+#: slot/0x003b090d/0xa2ad77/0x000000
+msgid "On that island, there are undiscovered monsters that drop amazing stuff when you beat 'em."
+msgstr "那座岛上有没被发现的怪物，打倒它们能掉超棒的东西。"
+
+#. comic cutscene
+#: slot/0x003b090d/0xa2ad77/0x000001
+msgid "Stuff that's sure to be purr-ty handy... "
+msgstr "那些东西肯定超好用……"
+
+#. comic cutscene
+#: slot/0x003b090d/0xa2ad77/0x000002
+msgid "If you decide you want to have a look for yourself, select \"Hunting Quest\" from the Mission Select screen, meow."
+msgstr "如果你决定想亲自去看看，在任务选择画面选“狩猎任务”，喵。"
+
+#. comic cutscene
+#: slot/0x003b090d/0xa2ad77/0x000003
+msgid "I'll come and ferry you over."
+msgstr "我会来接你过去。"
+
+#. comic cutscene
+#: slot/0x003b090d/0xb2ad90/0x000000
+msgid "Sounds purrrfect!"
+msgstr "太完美了！"
+
+#. comic cutscene
+#: slot/0x003b090d/0xb2ad90/0x000001
+msgid ""
+"Now you're speaking my language, meow!\n"
+"You and me are gonna get along great. "
+msgstr ""
+"这才对嘛，喵！\n"
+"咱俩肯定合得来。"
+
+#. comic cutscene
+#: slot/0x003b090d/0xb2ad90/0x000002
+msgid ""
+" So, anytime you want to go on a Hunting Quest,\n"
+"just give me a holler."
+msgstr ""
+"所以，你想去狩猎任务的时候，\n"
+"喊我一声就行。"
+
+#. comic cutscene
+#: slot/0x003b090d/0xb2ad90/0x000003
+msgid "Ta ta for meow!"
+msgstr "喵喵再见！"
+
+#. comic cutscene
+#: slot/0x003b092d/0x32adf2/0x000000
+msgid "Sorry to keep you waiting, meow."
+msgstr "抱歉让你久等了，喵。"
+
+#. comic cutscene
+#: slot/0x003b092d/0x32adf2/0x000001
+msgid "It's about time. Let's go, Trenya! "
+msgstr "时候到了。走吧，Trenya！"
+
+#: slot/0x003b3a9a/0x5b8888/0xa62240
+msgid "Camera Controls: Up/Down"
+msgstr "镜头操作：上/下"
+
+#: slot/0x003b3a9a/0x5b8889/0xa62240
+msgid "Camera Control Settings: Up/Down"
+msgstr "镜头操作设置：上/下"
+
+#: slot/0x003b3a9a/0x5b888a/0xa62240
+msgid "Camera Controls: Left/Right "
+msgstr "镜头操作：左/右"
+
+#: slot/0x003b3a9a/0x5b888b/0xa62240
+msgid "Camera Control Settings: Left/Right"
+msgstr "镜头操作设置：左/右"
+
+#: slot/0x003b3a9a/0x5b888c/0xa62240
+msgid "Change Stance: Stand, Crouch, Lie Down"
+msgstr "切换姿态：站、蹲、卧"
+
+#: slot/0x003b3a9a/0x5b888d/0xa62240
+msgid "Movement"
+msgstr "移动"
+
+#: slot/0x003b3a9a/0x5b888e/0xa62240
+msgid "Rolling"
+msgstr "翻滚"
+
+#: slot/0x003b3a9a/0x5b888f/0xa62240
+msgid "Physical Attack"
+msgstr "近身攻击"
+
+#: slot/0x003b3a9a/0x5b8890/0xa62240
+#: slot/0x0052e4f8/0x2d3090/0x000001
+msgid "Stun Rod"
+msgstr "电棒"
+
+#: slot/0x003b3a9a/0x5b88a7/0xa62240
+msgid "CQC: Throw"
+msgstr "CQC：摔"
+
+#: slot/0x003b3a9a/0x5b88a8/0xa62240
+msgid "CQC: Restraint"
+msgstr "CQC：拘束"
+
+#: slot/0x003b3a9a/0x5b88a9/0xa62240
+msgid "CQC: Restraint, Chokehold"
+msgstr "CQC：拘束、锁喉"
+
+#: slot/0x003b3a9a/0x5b88aa/0xa62240
+msgid "CQC: Restraint, Interrogation"
+msgstr "CQC：拘束、审问"
+
+#: slot/0x003b3a9a/0x5b88ab/0xa62240
+msgid "CQC: Restraint, Throw"
+msgstr "CQC：拘束、投摔"
+
+#: slot/0x003b3a9a/0x5b88ac/0xa62240
+msgid "CQC: Restraint, Throw toward enemies"
+msgstr "CQC：拘束、摔向敌人"
+
+#: slot/0x003b3a9a/0x5b88ad/0xa62240
+msgid "Consecutive CQC"
+msgstr "连续CQC"
+
+#: slot/0x003b3a9a/0x5b88ae/0xa62240
+msgid "Free Control Time"
+msgstr "自由操作时间"
+
+#: slot/0x00401dd3/0x77d931/0x010f45
+#: slot/0x00401dd3/0x77d931/0x017195
+#: slot/0x00401dd3/0x77d931/0x45ebd6
+#: slot/0x00401dd3/0x77d931/0xc65a37
+#: slot/0x00401dd3/0x77d931/0xf6927d
+#: slot/0x00401dd3/0x77d931/0xf6927e
+msgid "NORMAL"
+msgstr "普通"
+
+#: slot/0x00401dd3/0x77d931/0x012238
+#: slot/0x00401dd3/0x77d931/0x23caae
+#: slot/0x00401dd3/0x77d931/0x6d1812
+#: slot/0x00401dd3/0x77d931/0x6d1813
+#: slot/0x00401dd3/0x77d931/0x6d1814
+#: slot/0x00401dd3/0x77d931/0x88e636
+#: slot/0x00401dd3/0x77d931/0x88e637
+#: slot/0x00401dd3/0x77d931/0x88e638
+#: slot/0x00401dd3/0x77d931/0x88e639
+#: slot/0x00401dd3/0x77d931/0xc65a38
+msgid "FOX UNIT Member"
+msgstr "FOX部队成员"
+
+#: slot/0x00401dd3/0x77d931/0x01487a
+msgid "High School Student"
+msgstr "高中生"
+
+#: slot/0x00401dd3/0x77d931/0x05ce7e
+#: slot/0x00401dd3/0x77d931/0x39fe49
+#: slot/0x00401dd3/0x77d931/0x39fe4a
+msgid "UNIQLO Trooper"
+msgstr "UNIQLO士兵"
+
+#: slot/0x00401dd3/0x77d931/0x070244
+msgid "Researcher"
+msgstr "研究员"
+
+#: slot/0x00401dd3/0x77d931/0x0b58fc
+msgid "Game Designer"
+msgstr "游戏设计"
+
+#: slot/0x00401dd3/0x77d931/0x0bd2aa
+msgid "Nurse"
+msgstr "护士"
+
+#: slot/0x00401dd3/0x77d931/0x0df26d
+msgid "Industrial Spy"
+msgstr "商业间谍"
+
+#: slot/0x00401dd3/0x77d931/0x12dabf
+msgid "Doctor"
+msgstr "医生"
+
+#: slot/0x00401dd3/0x77d931/0x152f61
+msgid "(不要)AIヘリ"
+msgstr "(不要)AI直升机"
+
+#: slot/0x00401dd3/0x77d931/0x16c8ac
+msgid "Nutritionist"
+msgstr "营养师"
+
+#: slot/0x00401dd3/0x77d931/0x1b1ee3
+msgid "(不要)AIタンク"
+msgstr "(不要)AI坦克"
+
+#: slot/0x00401dd3/0x77d931/0x1bbfec
+msgid "Spy"
+msgstr "间谍"
+
+#: slot/0x00401dd3/0x77d931/0x22c62b
+msgid "Cook"
+msgstr "厨师"
+
+#: slot/0x00401dd3/0x77d931/0x255cf9
+msgid "Bipedal Weapon Developer"
+msgstr "双足兵器开发者"
+
+#: slot/0x00401dd3/0x77d931/0x2ac619
+msgid "Music Trooper"
+msgstr "音乐兵"
+
+#: slot/0x00401dd3/0x77d931/0x37618c
+msgid "KGB Agent"
+msgstr "特工"
+
+#: slot/0x00401dd3/0x77d931/0x53ac8e
+#: slot/0x0056a63d/0x954c25/0x0001bc
+msgid "Mechanic"
+msgstr "技工"
+
+#: slot/0x00401dd3/0x77d931/0x548c8c
+#: slot/0x0056a63d/0x954c25/0x0001b6
+msgid "Scout"
+msgstr "侦察兵"
+
+#: slot/0x00401dd3/0x77d931/0x552cb3
+msgid "Child Soldier"
+msgstr "童子兵"
+
+#: slot/0x00401dd3/0x77d931/0x580daa
+msgid "Big Boss"
+msgstr "BIG BOSS"
+
+#: slot/0x00401dd3/0x77d931/0x59abf5
+msgid "(不要)中ボスヘリ"
+msgstr "(不要)中ボスヘリ"
+
+#: slot/0x00401dd3/0x77d931/0x5f9b77
+msgid "(不要)中ボス戦車"
+msgstr "(不要)中ボス戦車"
+
+#: slot/0x00401dd3/0x77d931/0x62b8dd
+msgid "(不要)中ボス装甲車"
+msgstr "(不要)中ボス装甲車"
+
+#: slot/0x00401dd3/0x77d931/0x6747b0
+msgid "AI Researcher"
+msgstr "AI研究员"
+
+#: slot/0x00401dd3/0x77d931/0x6a46b2
+msgid "Elite Commando"
+msgstr "精英突击"
+
+#: slot/0x00401dd3/0x77d931/0x6ade44
+msgid "Veteran Voice Actor"
+msgstr "资深配音演员"
+
+#: slot/0x00401dd3/0x77d931/0x6b0d2f
+#: slot/0x0056a63d/0x954c25/0x0001b8
+msgid "Commando"
+msgstr "突击"
+
+#: slot/0x00401dd3/0x77d931/0x6bd5c0
+msgid "Sharpshooter"
+msgstr "狙击手"
+
+#: slot/0x00401dd3/0x77d931/0x72ae4f
+msgid "Ornithologist"
+msgstr "鸟类学家"
+
+#: slot/0x00401dd3/0x77d931/0x74af6c
+msgid "New Voice Actor"
+msgstr "新配音员"
+
+#: slot/0x00401dd3/0x77d931/0x7b8236
+#: slot/0x00b4d9c8/0x4e7980/0x00019a
+msgid "UT(N425A)"
+msgstr ""
+
+#: slot/0x00401dd3/0x77d931/0x7b8237
+#: slot/0x00b4d9c8/0x4e7980/0x00019b
+msgid "UT(N425B)"
+msgstr ""
+
+#: slot/0x00401dd3/0x77d931/0x7b8238
+#: slot/0x00b4d9c8/0x4e7980/0x00019c
+msgid "UT(N425C)"
+msgstr ""
+
+#: slot/0x00401dd3/0x77d931/0x7b8239
+msgid "UT(N425D - NAVY BLUE)"
+msgstr "UT(N425D - NAVY BLUE)"
+
+#: slot/0x00401dd3/0x77d931/0x7b823a
+msgid "UT(N425E - WHITE)"
+msgstr "UT(N425E - WHITE)"
+
+#: slot/0x00401dd3/0x77d931/0x7b823b
+msgid "UT(N425E - BLACK)"
+msgstr "UT(N425E - BLACK)"
+
+#: slot/0x00401dd3/0x77d931/0x7b823c
+#: slot/0x00b4d9c8/0x4e7980/0x0001a0
+msgid "UT(N425F)"
+msgstr ""
+
+#: slot/0x00401dd3/0x77d931/0x7b823d
+msgid "UT(N425G - GRAY)"
+msgstr "UT(N425G - GRAY)"
+
+#: slot/0x00401dd3/0x77d931/0x7b823e
+msgid "UT(N425H - WHITE)"
+msgstr "UT(N425H - WHITE)"
+
+#: slot/0x00401dd3/0x77d931/0x7b8255
+msgid "UT(N425H - RED)"
+msgstr "UT(N425H - RED)"
+
+#: slot/0x00401dd3/0x77d931/0x7b8256
+#: slot/0x00b4d9c8/0x4e7980/0x0001a4
+msgid "UT(N425J)"
+msgstr ""
+
+#: slot/0x00401dd3/0x77d931/0x7b8257
+#: slot/0x00b4d9c8/0x4e7980/0x0001a5
+msgid "UT(N425L)"
+msgstr ""
+
+#: slot/0x00401dd3/0x77d931/0x7b8258
+msgid "UT(N425D - GRAY)"
+msgstr "UT(N425D - GRAY)"
+
+#: slot/0x00401dd3/0x77d931/0x7b8259
+msgid "UT(N425G - WHITE)"
+msgstr "UT(N425G - 白)"
+
+#: slot/0x00401dd3/0x77d931/0x7da4d0
+msgid "Commander"
+msgstr "指挥官"
+
+#: slot/0x00401dd3/0x77d931/0x8f73aa
+msgid "Guerrilla"
+msgstr "游击"
+
+#: slot/0x00401dd3/0x77d931/0xaafbf4
+msgid "(不要)AIホバー"
+msgstr "(不要)AI悬浮"
+
+#: slot/0x00401dd3/0x77d931/0xb48db9
+msgid "Medical Researcher"
+msgstr "医学研究员"
+
+#: slot/0x00401dd3/0x77d931/0xb73990
+msgid "MSF Subcommander"
+msgstr "MSF副指挥官"
+
+#: slot/0x00401dd3/0x77d931/0xb94872
+msgid "Infantry"
+msgstr "步兵"
+
+#: slot/0x00401dd3/0x77d931/0xba5904
+msgid "Engineer"
+msgstr "工程"
+
+#: slot/0x00401dd3/0x77d931/0xbb6edf
+msgid "Supply Soldier"
+msgstr "补给兵"
+
+#: slot/0x00401dd3/0x77d931/0xd0f903
+msgid "Food Technician"
+msgstr "食品技师"
+
+#: slot/0x00401dd3/0x77d931/0xf1c147
+msgid "FSLN Commander"
+msgstr "FSLN指挥官"
+
+#: slot/0x00401dd3/0x77d931/0xf39967
+msgid "Medic"
+msgstr "医"
+
+#: slot/0x00401dd3/0x77d931/0xf850e0
+msgid "(不要)バジリスク"
+msgstr "(不要)蛇怪"
+
+#: slot/0x00401dd3/0x77d931/0xfa75bf
+msgid "Actress"
+msgstr "女演"
+
+#: slot/0x00401dd3/0x77d931/0xfa75c0
+msgid "(不要)コラボ兵02"
+msgstr ""
+
+#: slot/0x00401dd3/0x77d931/0xfa75c1
+msgid "(不要)コラボ兵03"
+msgstr ""
+
+#: slot/0x00420130/0x62697d/0x000000
+msgid "Begin!"
+msgstr "开始！"
+
+#: slot/0x00420130/0x626afd/0x000000
+msgid "Again!"
+msgstr "再来！"
+
+#: slot/0x00420130/0x626b7d/0x000000
+msgid "Good!"
+msgstr "很好！"
+
+#: slot/0x00420130/0x626bfd/0x000000
+msgid "That's it!"
+msgstr "就这样"
+
+#: slot/0x00420130/0x626c7d/0x000000
+msgid "I'll explain it again!"
+msgstr "我再说明一次！"
+
+#: slot/0x00420130/0x6277fd/0x000000
+#: slot/0x00dff0a5/0xa84a6a/0x00003b
+msgid "What are you doing!"
+msgstr "你在干什么！"
+
+#: slot/0x00420130/0x6278fd/0x000000
+msgid "Boss, please follow my directions."
+msgstr "BOSS，请按我的指示做。"
+
+#: slot/0x00420130/0x6279fd/0x000000
+msgid "Please try it again, Boss."
+msgstr "请再试一次，BOSS。"
+
+#: slot/0x00420130/0x627a7d/0x000000
+msgid "That is incorrect, Boss."
+msgstr "不对，BOSS。"
+
+#: slot/0x00420130/0x627afd/0x000000
+msgid "Umm... Boss?"
+msgstr "呃……BOSS？"
+
+#: slot/0x00420130/0x627b7d/0x000000
+#: slot/0x00420130/0x628c7d/0x000000
+#: slot/0x00420130/0x64b7fd/0x000000
+msgid "Thank you, Boss."
+msgstr "谢了，BOSS"
+
+#: slot/0x00420130/0x627bfd/0x000000
+msgid "Impressive, Boss!"
+msgstr "漂亮，BOSS！"
+
+#: slot/0x00420130/0x62887d/0x000000
+msgid "Fantastic!"
+msgstr "太棒了！"
+
+#: slot/0x00420130/0x6289fd/0x000000
+msgid "Moving on."
+msgstr "继续。"
+
+#: slot/0x00420130/0x628a7d/0x000001
+msgid "Time to move on."
+msgstr "该继续了。"
+
+#: slot/0x00420130/0x628bfd/0x000000
+msgid "Fine work, Boss."
+msgstr "干得好，BOSS。"
+
+#: slot/0x00420130/0x6297fd/0x000000
+msgid ""
+"Look alive, ladies! \n"
+"The Boss is gonna join us! "
+msgstr ""
+"打起精神，姑娘们！\n"
+"BOSS要来了！"
+
+#: slot/0x00420130/0x62987d/0x000000
+msgid "Show 'em how it's done, Boss."
+msgstr "让她们见识下，BOSS。"
+
+#: slot/0x00420130/0x6298fd/0x000000
+msgid ""
+"Your first priority in enemy \n"
+"territory is knowing your surroundings."
+msgstr ""
+"在敌区首要之事\n"
+"是掌握周围环境。"
+
+#: slot/0x00420130/0x6298fd/0x000001
+msgid ""
+"Your life depends on where you are looking\n"
+"and how fast you can identify your target."
+msgstr ""
+"你的命取决于你看向哪里\n"
+"以及多快锁定目标。"
+
+#: slot/0x00420130/0x6298fd/0x000002
+msgid ""
+"Therefore, you must first \n"
+"master moving your line of sight."
+msgstr ""
+"因此，你必须先\n"
+"掌握移动视线。"
+
+#: slot/0x00420130/0x62997d/0x000000
+msgid ""
+"To move your line of sight, \n"
+"use the Camera Buttons."
+msgstr ""
+"移动视线，\n"
+"使用镜头键。"
+
+#: slot/0x00420130/0x62997d/0x000001
+msgid ""
+"Now, when I give you an order, \n"
+"look in that direction."
+msgstr ""
+"我下令时，\n"
+"就朝那个方向看。"
+
+#: slot/0x00420130/0x6299fd/0x000000
+msgid "Look up!"
+msgstr "往上看！"
+
+#: slot/0x00420130/0x629a7d/0x000000
+msgid "Look down!"
+msgstr "往下看！"
+
+#: slot/0x00420130/0x629afd/0x000000
+msgid "Look left!"
+msgstr "往左看！"
+
+#: slot/0x00420130/0x629b7d/0x000000
+msgid "Look right!"
+msgstr "往右看！"
+
+#: slot/0x00420130/0x629bfd/0x000000
+#: slot/0x00420130/0x629c7d/0x000000
+#: slot/0x00a57090/0x12908e/0x0001ae
+#: slot/0x00b9708c/0xa8181d/0x000007
+msgid "What's wrong?"
+msgstr "怎么了？"
+
+#: slot/0x00420130/0x629bfd/0x000001
+msgid ""
+"Use the up and down Camera Buttons \n"
+"to move your line of sight!"
+msgstr ""
+"用上下镜头键\n"
+"移动视线！"
+
+#: slot/0x00420130/0x629c7d/0x000001
+msgid ""
+"Use the right and left Camera Buttons \n"
+"to move your line of sight!"
+msgstr ""
+"用左右镜头键\n"
+"移动视线！"
+
+#: slot/0x00420130/0x62a7fd/0x000000
+#: slot/0x00420130/0x62a87d/0x000000
+#: slot/0x00420130/0x6458fe/0x000000
+#: slot/0x00420130/0x6468fd/0x000000
+#: slot/0x00420130/0x6468fe/0x000000
+#: slot/0x00420130/0x64ab7e/0x000000
+msgid "Boss, "
+msgstr "BOSS，"
+
+#: slot/0x00420130/0x62a7fd/0x000001
+msgid ""
+"use the up and down Camera Buttons \n"
+"to move your line of sight.  "
+msgstr ""
+"用上下镜头键\n"
+"移动视线。"
+
+#: slot/0x00420130/0x62a87d/0x000001
+msgid ""
+"use the left and right Camera Buttons \n"
+"to move your line of sight.  "
+msgstr ""
+"用左右镜头键\n"
+"移动视线。"
+
+#: slot/0x00420130/0x62a8fd/0x000000
+msgid ""
+"You should be familiar with the up \n"
+"and down Camera Buttons now."
+msgstr ""
+"你现在应该熟悉\n"
+"上下镜头键了。"
+
+#: slot/0x00420130/0x62a8fd/0x000001
+#: slot/0x00420130/0x62a97d/0x000001
+msgid ""
+"Press the Action Button \n"
+"if you're ready to move on."
+msgstr ""
+"准备好了就按动作键\n"
+"继续。"
+
+#: slot/0x00420130/0x62a97d/0x000000
+msgid ""
+"You should be familiar with \n"
+"the left and right Camera Buttons now."
+msgstr ""
+"你现在应该熟悉\n"
+"左右镜头键了。"
+
+#: slot/0x00420130/0x62b7fd/0x000000
+msgid "Next we'll check your left and right."
+msgstr "接下来测试你的左右操作。"
+
+#: slot/0x00420130/0x62b87d/0x000000
+msgid "Now we'll check your up and down."
+msgstr "测上下操作。"
+
+#: slot/0x00420130/0x62b8fd/0x000000
+msgid ""
+"Alright, we'll go over up and down with\n"
+"the Camera Buttons one more time. "
+msgstr ""
+"好，我们再用\n"
+"镜头键过一遍上下操作。"
+
+#: slot/0x00420130/0x62b97d/0x000000
+msgid ""
+"Alright, we'll go over left and right with\n"
+"the Camera Buttons one more time. "
+msgstr ""
+"好，我们再用\n"
+"镜头键过一遍左右操作。"
+
+#: slot/0x00420130/0x62b9fd/0x000000
+msgid ""
+"You can change the controls anytime \n"
+"in Options. "
+msgstr ""
+"你可以随时在\n"
+"设置里更改操作方式。"
+
+#: slot/0x00420130/0x62ba7d/0x000000
+msgid ""
+"Go with the method that works \n"
+"best for you."
+msgstr ""
+"选最适合你的\n"
+"方式就行。"
+
+#: slot/0x00420130/0x62bafd/0x000000
+msgid "Okay."
+msgstr "明白。"
+
+#: slot/0x00420130/0x62bb7d/0x000000
+msgid "Next I'll explain how to change stances."
+msgstr "接下来说明如何切换姿势。"
+
+#: slot/0x00420130/0x62bb7d/0x000001
+msgid ""
+"If you just stand there \n"
+"like an idiot in front of an enemy, "
+msgstr ""
+"要是你像个傻瓜一样\n"
+"站在敌人面前，"
+
+#: slot/0x00420130/0x62bb7d/0x000002
+msgid "you might as well kill yourself now. "
+msgstr "那还不如现在就自杀。"
+
+#: slot/0x00420130/0x62bb7d/0x000003
+msgid ""
+"At times you will need to \n"
+"get low to avoid detection. "
+msgstr ""
+"有时你需要\n"
+"压低身位来躲避侦查。"
+
+#: slot/0x00420130/0x62bb7d/0x000004
+msgid ""
+"You have three stances: \n"
+"stand, crouch, and lying down."
+msgstr ""
+"共有三种姿势：\n"
+"站、蹲、卧。"
+
+#: slot/0x00420130/0x62bb7d/0x000005
+msgid ""
+"To change stances use \n"
+"the Crouch Button. "
+msgstr ""
+"用\n"
+"蹲伏键切换姿势。"
+
+#: slot/0x00420130/0x62bb7d/0x000006
+msgid ""
+"Tap the Crouch Button to change \n"
+"between standing and crouching."
+msgstr ""
+"轻按蹲伏键切换\n"
+"站立与蹲伏。"
+
+#: slot/0x00420130/0x62bb7d/0x000007
+msgid "You can move in either stance."
+msgstr "两种姿势都能移动。"

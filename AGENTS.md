@@ -74,7 +74,7 @@ research/
 
 # Layout (detail)
 ```
-src/         翻译工作区，42 个分块 .po（olang 4 + codec 12 + slot 26）
+src/         翻译工作区，40 个分块 .po（olang 4 + codec 12 + slot 24）
              译者须知见 src/README.md
 ```
 
@@ -123,6 +123,7 @@ python -m pwsf.po_export --ref-langs fr,de,it,es   # 附带其他语言参考译
 python -m pwsf.po_export --slot cutscene           # 只带过场语料（43 张表）
 python -m pwsf.po_export --slot none               # 不带 SLOT.DAT 内嵌语料
 python -m pwsf.po_export --fresh                   # 不保留已有译文（默认保留）
+python -m pwsf.po_export --pixel-font              # 连没有汉字的像素字槽位也导出
 
 # 汉化管线：校验 -> 编译 -> 安装
 python -m pwsf.po_import --install   # 一条龙：体检 + 编译 + 复验 + 装进游戏
@@ -155,13 +156,18 @@ python research\TOOLS\_probe_bri54.py # CODEC 回写端到端（含 lint 拦截�
 # Translation workflow
 ```
 src/
-  olang/olang_01..04.po   UI 文字 + 游戏内字幕    1,513 条   能写回
+  olang/olang_01..04.po   UI 文字 + 游戏内字幕    1,461 条   能写回
   codec/codec_01..12.po   CODEC / 简报台词        4,746 条   能写回（池预算紧，见下）
-  slot/slot_01..26.po     SLOT.DAT 内嵌文本      10,073 条   能写回（过场 1,858 条）
+  slot/slot_01..24.po     SLOT.DAT 内嵌文本       9,566 条   能写回（过场 1,858 条）
   MANIFEST.tsv            分块索引
 ```
 
-合计 16,332 条。**只改这三个子目录里的 `.po`**，往 `msgstr ""` 里填中文。
+合计 15,773 条。**只改这三个子目录里的 `.po`**，往 `msgstr ""` 里填中文。
+
+> 另有 2,051 个槽位**不导出**：`key.meta == 1` 的文字用 `Text/*.txp` 里那张
+> 512×512 像素字图集绘制，一个汉字都没有，保持英文
+> （`ANALYSIS/05_font.md` §15）。`--pixel-font` 可强行导出，`po_lint` 会对译了
+> 中文的报 `pixel-font`。
 
 | 文件 | 谁写的 | 能不能动 |
 |---|---|---|

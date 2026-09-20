@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PWSF slot 16/26\n"
+"Project-Id-Version: PWSF slot 16/24\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -9,1862 +9,2374 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
-#: slot/0x0056a63d/0x954c25/0x000150
-msgid "Cardboard Box Tank Design Specs"
-msgstr "纸箱坦克开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000151
-msgid "Night Vision Goggles Design Specs"
-msgstr "夜视仪开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000152
-msgid "Ballistic Shield Design Specs"
-msgstr "防弹盾开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000153
-msgid "Ballistic Shield (Color) Design Specs"
-msgstr "防弹盾（配色）开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000154
-msgid "Infinity Bandana Design Specs"
-msgstr "无限头巾开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000155
-msgid "Soliton Radar Design Specs"
-msgstr "孤立子雷达规格"
-
-#: slot/0x0056a63d/0x954c25/0x000156
-msgid "Sonic Eye Design Specs"
-msgstr "音波眼开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000157
-msgid "Canned Soft Drink Recipe"
-msgstr "罐装软饮配方"
-
-#: slot/0x0056a63d/0x954c25/0x000158
-msgid "Tortilla Chips Recipe"
-msgstr "玉米片配方"
-
-#: slot/0x0056a63d/0x954c25/0x000159
-msgid "Box Bomb Design Specs"
-msgstr "纸箱炸弹规格"
-
-#: slot/0x0056a63d/0x954c25/0x00015a
-msgid "Stun Box Design Specs"
-msgstr "眩晕纸箱规格"
-
-#: slot/0x0056a63d/0x954c25/0x00015b
-msgid "Smoke Box Design Specs"
-msgstr "烟雾纸箱规格"
-
-#: slot/0x0056a63d/0x954c25/0x00015d
-msgid "Assassin's Straw Box Design Specs"
-msgstr "刺客稻草箱开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00015e
-msgid "Rescue Box Design Specs"
-msgstr "救援纸箱规格"
-
-#: slot/0x0056a63d/0x954c25/0x00015f
-msgid "Rare-meat Ration Design Specs"
-msgstr "生肉口粮开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000160
-msgid "Well-done Ration Design Specs"
-msgstr "熟肉口粮开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000161
-msgid "Burnt Ration Design Specs"
-msgstr "焦肉口粮开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000162
-msgid "Rathalos Wing"
-msgstr "火龙翼"
-
-#: slot/0x0056a63d/0x954c25/0x000163
-msgid "Tigrex Fang"
-msgstr "轰龙牙"
-
-#: slot/0x0056a63d/0x954c25/0x000164
-msgid "Gear Rex Mucous"
-msgstr "霸王黏液"
-
-#: slot/0x0056a63d/0x954c25/0x000165
-msgid "Gear Rex Concentrate"
-msgstr "霸王浓缩液"
-
-#: slot/0x0056a63d/0x954c25/0x000166
-msgid "Gear Rex Super Extract"
-msgstr "霸王超萃取液"
-
-#: slot/0x0056a63d/0x954c25/0x000167
-#: slot/0x00dd0ea8/0x31a1fa/0xb6d36a
-msgid "Jungle Fatigues"
-msgstr "丛林迷彩服"
-
-#: slot/0x0056a63d/0x954c25/0x000168
-msgid "Black"
-msgstr "黑"
-
-#: slot/0x0056a63d/0x954c25/0x000169
-msgid "Khaki"
-msgstr "卡其色"
-
-#: slot/0x0056a63d/0x954c25/0x00016a
-msgid "Navy Blue"
-msgstr "藏青"
+#: slot/0x007b474a/0x03c205/0x30d1d6
+msgid "\"SENSE\" Memory Boards Obtained: $1"
+msgstr "获得“SENSE”存储板：$1"
+
+#: slot/0x007b474a/0x03c205/0x40295a
+msgid "\"Attack\" Parts Obtained: $1"
+msgstr "获得“Attack”零件：$1"
+
+#: slot/0x007b474a/0x03c205/0x40959c
+msgid "\"Sense\" Parts Obtained: $1"
+msgstr "获得“Sense”零件：$1"
+
+#: slot/0x007b474a/0x03c205/0x44bfdc
+msgid "You have obtained a wiretapped recording."
+msgstr "获得了一份窃听录音。"
+
+#: slot/0x007b474a/0x03c205/0x48302c
+msgid ""
+"You have been awarded a new codename.\n"
+"\n"
+"$1\n"
+"\n"
+"\n"
+"$2"
+msgstr ""
+"你获得了新的代号。\n"
+"\n"
+"$1\n"
+"\n"
+"\n"
+"$2"
+
+#: slot/0x007b474a/0x03c205/0x485449
+msgid "You have obtained Strangelove's audio cassette."
+msgstr "你获得了斯特兰奇洛夫的录音带。"
+
+#: slot/0x007b474a/0x03c205/0x49bcef
+msgid "\"CONTROL\" Memory Boards Obtained: $1"
+msgstr "已获得“CONTROL”存储板：$1"
+
+#: slot/0x007b474a/0x03c205/0x4fbb6b
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Bosque del Alba"
+msgstr ""
+"对战任务中现已可选以下关卡：\n"
+"\n"
+"黎明森林"
+
+#: slot/0x007b474a/0x03c205/0x4fbb6c
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Bosque del Alba (Night)"
+msgstr ""
+"对战任务中现已可选以下关卡：\n"
+"\n"
+"黎明森林（夜）"
+
+#: slot/0x007b474a/0x03c205/0x4fbb6d
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Bananal Fruta de Oro: Farm"
+msgstr ""
+"对战任务中现已可选以下关卡：\n"
+"\n"
+"黄金果香蕉园：农场"
+
+#: slot/0x007b474a/0x03c205/0x4fbb6e
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Bananal Fruta de Oro: Farm (Night)"
+msgstr ""
+"对战任务中现已可选以下关卡：\n"
+"\n"
+"黄金果香蕉园：农场（夜）"
+
+#: slot/0x007b474a/0x03c205/0x4fbb6f
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Aldea Los Despiertos"
+msgstr ""
+"对战任务中现已可选以下关卡：\n"
+"\n"
+"觉醒者村"
+
+#: slot/0x007b474a/0x03c205/0x4fbb70
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Aldea Los Despiertos (Night)"
+msgstr ""
+"对战任务中现已可选以下关卡：\n"
+"\n"
+"觉醒者村（夜）"
+
+#: slot/0x007b474a/0x03c205/0x4fbb71
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"El Cadalso"
+msgstr ""
+"对战任务中现已可选以下关卡：\n"
+"\n"
+"绞刑台"
+
+#: slot/0x007b474a/0x03c205/0x4fbb72
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"El Cadalso (Night)"
+msgstr ""
+"对战任务中现已可选以下关卡：\n"
+"\n"
+"绞刑台（夜）"
+
+#: slot/0x007b474a/0x03c205/0x4fbb73
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Ruinas de Xochiquetzal"
+msgstr ""
+"对战任务中现已可选以下关卡：\n"
+"\n"
+"索奇克察尔遗迹"
+
+#: slot/0x007b474a/0x03c205/0x4fbb8a
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Ruinas de Xochiquetzal (Night)"
+msgstr ""
+"对战任务中现已可选以下关卡：\n"
+"\n"
+"索奇克察尔遗迹（夜）"
+
+#: slot/0x007b474a/0x03c205/0x4fbb8b
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Miners' Residence"
+msgstr ""
+"对战任务中现已可选以下关卡：\n"
+"\n"
+"矿工宿舍"
+
+#: slot/0x007b474a/0x03c205/0x4fbb8c
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Miners' Residence (Night)"
+msgstr ""
+"对战任务中现已可选以下关卡：\n"
+"\n"
+"矿工宿舍（夜）"
+
+#: slot/0x007b474a/0x03c205/0x4fbb8d
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Underground Passage B"
+msgstr ""
+"对战任务中现已可选以下关卡：\n"
+"\n"
+"地下通道B"
+
+#: slot/0x007b474a/0x03c205/0x4fbb8e
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Soviet Patrol Base"
+msgstr ""
+"对战任务中现已可选以下关卡：\n"
+"\n"
+"苏联巡逻基地"
+
+#: slot/0x007b474a/0x03c205/0x4fbb8f
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Silo Entrance"
+msgstr ""
+"对战任务中现已可选以下关卡：\n"
+"\n"
+"发射井入口"
+
+#: slot/0x007b474a/0x03c205/0x4fbb90
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Pillbox Purgatory"
+msgstr ""
+"对战任务中现已可选以下关卡：\n"
+"\n"
+"碉堡炼狱"
+
+#: slot/0x007b474a/0x03c205/0x512b52
+msgid ""
+"You obtained Strangelove's Cassette Tape #1.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+"你获得了斯特兰奇洛夫的录音带#1。\n"
+"\n"
+"收听方法：选择任务，进入简报文件菜单，然后选择数据文件。\n"
+"*是否播放取决于你在“主线任务”中的进度。"
+
+#: slot/0x007b474a/0x03c205/0x512b53
+msgid ""
+"You obtained Strangelove's Cassette Tape #2.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+"你获得了斯特兰奇洛夫的录音带#2。\n"
+"\n"
+"收听方法：选择任务，进入简报文件菜单，然后选择数据文件。\n"
+"*是否播放取决于你在“主线任务”中的进度。"
+
+#: slot/0x007b474a/0x03c205/0x512b54
+msgid ""
+"You obtained Strangelove's Cassette Tape #3.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+"你获得了斯特兰奇洛夫的录音带#3。\n"
+"\n"
+"收听方法：选择任务，进入简报文件菜单，然后选择数据文件。\n"
+"*是否播放取决于你在“主线任务”中的进度。"
+
+#: slot/0x007b474a/0x03c205/0x5738f3
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Russian Commando (VERSUS OPS Only)"
+msgstr ""
+"新制服：\n"
+"\n"
+"俄罗斯突击兵（仅对战）"
+
+#: slot/0x007b474a/0x03c205/0x5738f4
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Russian Soldier (VERSUS OPS Only)"
+msgstr ""
+"新制服：\n"
+"\n"
+"俄罗斯士兵（仅对战）"
+
+#: slot/0x007b474a/0x03c205/0x5738f5
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Scout (VERSUS OPS Only)"
+msgstr ""
+"新制服：\n"
+"\n"
+"侦察兵（仅对战）"
+
+#: slot/0x007b474a/0x03c205/0x5738f6
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Guard (VERSUS OPS Only)"
+msgstr ""
+"新制服：\n"
+"\n"
+"卫兵（仅对战任务）"
+
+#: slot/0x007b474a/0x03c205/0x5738f7
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Commando (VERSUS OPS Only)"
+msgstr ""
+"新制服：\n"
+"\n"
+"突击兵（仅对战任务）"
+
+#: slot/0x007b474a/0x03c205/0x5738f8
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Male POW (VERSUS OPS Only)"
+msgstr ""
+"新制服：\n"
+"\n"
+"男俘虏（仅对战任务）"
+
+#: slot/0x007b474a/0x03c205/0x5738f9
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Patrolman (VERSUS OPS Only)"
+msgstr ""
+"新制服：\n"
+"\n"
+"巡逻兵（仅对战任务）"
+
+#: slot/0x007b474a/0x03c205/0x5738fa
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Female POW (VERSUS OPS Only)"
+msgstr ""
+"新制服：\n"
+"\n"
+"女俘虏（仅对战任务）"
+
+#: slot/0x007b474a/0x03c205/0x5738fb
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Mechanic (VERSUS OPS Only)"
+msgstr ""
+"新制服：\n"
+"\n"
+"机械师（仅对战任务）"
+
+#: slot/0x007b474a/0x03c205/0x573912
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Escort Soldier (VERSUS OPS Only)"
+msgstr ""
+"开发出新制服：\n"
+"\n"
+"护卫兵（仅限对战任务）"
+
+#: slot/0x007b474a/0x03c205/0x573913
+msgid "A new VERSUS OPS uniform has been developed."
+msgstr "已开发出新的对战任务制服。"
+
+#: slot/0x007b474a/0x03c205/0x58d52e
+msgid "\"Control\" Parts Obtained: $1"
+msgstr "获得“控制”部件：$1"
+
+#: slot/0x007b474a/0x03c205/0x62f5f0
+#, c-format
+msgid "Pupa Head Parts: $1 %"
+msgstr "蛹头部部件：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x654d96
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Fox"
+msgstr ""
+"开发出新制服：\n"
+"\n"
+"Fox"
+
+#: slot/0x007b474a/0x03c205/0x72b3d3
+#, c-format
+msgid "Captured BTR-60 PA Life Remaining: $1 %"
+msgstr "缴获的BTR-60 PA剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3d4
+#, c-format
+msgid "Captured BTR-60 PA Custom Life Remaining: $1 %"
+msgstr "缴获的BTR-60 PA Custom剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3d5
+#: slot/0x007b474a/0x03c205/0x72b435
+#, c-format
+msgid "Captured BTR-60 PB Life Remaining: $1 %"
+msgstr "缴获的BTR-60 PB剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3d6
+#: slot/0x007b474a/0x03c205/0x72b436
+#, c-format
+msgid "Captured BTR-60 PB Custom Life Remaining: $1 %"
+msgstr "缴获的BTR-60 PB Custom剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3d7
+#: slot/0x007b474a/0x03c205/0x72b438
+#, c-format
+msgid "Captured LAV-Type G Custom Life Remaining: $1 %"
+msgstr "缴获的LAV-Type G Custom剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3d8
+#: slot/0x007b474a/0x03c205/0x72b439
+#, c-format
+msgid "Captured LAV-Type C Life Remaining: $1 %"
+msgstr "缴获的LAV-Type C剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3d9
+#: slot/0x007b474a/0x03c205/0x72b43a
+#, c-format
+msgid "Captured LAV-Type C Custom Life Remaining: $1 %"
+msgstr "缴获的LAV-Type C Custom剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3da
+#: slot/0x007b474a/0x03c205/0x99a23c
+#, c-format
+msgid "Captured T-72U Life Remaining: $1 %"
+msgstr "缴获的T-72U剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3db
+#: slot/0x007b474a/0x03c205/0x72b416
+#, c-format
+msgid "Captured T-72U Custom Life Remaining: $1 %"
+msgstr "缴获的T-72U Custom剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3f2
+#: slot/0x007b474a/0x03c205/0x72b417
+#, c-format
+msgid "Captured T-72A Life Remaining: $1 %"
+msgstr "缴获的T-72A剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3f3
+#: slot/0x007b474a/0x03c205/0x72b418
+#, c-format
+msgid "Captured T-72A Custom Life Remaining: $1 %"
+msgstr "缴获的T-72A Custom剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3f4
+#: slot/0x007b474a/0x03c205/0x72b419
+#, c-format
+msgid "Captured KPz 70 Life Remaining: $1 %"
+msgstr "缴获的KPz 70剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3f5
+#: slot/0x007b474a/0x03c205/0x72b41a
+#, c-format
+msgid "Captured KPz 70 Custom Life Remaining: $1 %"
+msgstr "缴获的KPz 70 Custom剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3f6
+#: slot/0x007b474a/0x03c205/0x72b41b
+#, c-format
+msgid "Captured MBTk-70 Life Remaining: $1 %"
+msgstr "缴获的MBTk-70剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3f7
+#: slot/0x007b474a/0x03c205/0x72b432
+#, c-format
+msgid "Captured MBTk-70 Custom Life Remaining: $1 %"
+msgstr "捕获的MBTk-70 Custom剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3f8
+#: slot/0x007b474a/0x03c205/0x99a59c
+#, c-format
+msgid "Captured Mi-24A Life Remaining: $1 %"
+msgstr "捕获的Mi-24A剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3f9
+#: slot/0x007b474a/0x03c205/0x72b43b
+#, c-format
+msgid "Captured Mi-24A Custom Life Remaining: $1 %"
+msgstr "捕获的Mi-24A Custom剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3fa
+#: slot/0x007b474a/0x03c205/0x72b452
+#, c-format
+msgid "Captured Mi-24D Life Remaining: $1 %"
+msgstr "捕获的Mi-24D剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b3fb
+#: slot/0x007b474a/0x03c205/0x72b453
+#, c-format
+msgid "Captured Mi-24D Custom Life Remaining: $1 %"
+msgstr "捕获的Mi-24D Custom剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b412
+#: slot/0x007b474a/0x03c205/0x72b454
+#, c-format
+msgid "Captured AH56A-Bomber Life Remaining: $1 %"
+msgstr "捕获的AH56A-Bomber剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b413
+#: slot/0x007b474a/0x03c205/0x72b455
+#, c-format
+msgid "Captured AH56A-Bomber Custom Life Remaining: $1 %"
+msgstr "捕获的AH56A-Bomber Custom剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b414
+#: slot/0x007b474a/0x03c205/0x72b456
+#, c-format
+msgid "Captured AH56A-Raider Life Remaining: $1 %"
+msgstr "捕获的AH56A-Raider剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b415
+#: slot/0x007b474a/0x03c205/0x72b457
+#, c-format
+msgid "Captured AH56A-Raider Custom Life Remaining: $1 %"
+msgstr "捕获的AH56A-Raider Custom剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b433
+#, c-format
+msgid "Captured BTR-60PA Life Remaining: $1 %"
+msgstr "捕获的BTR-60PA剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b434
+#, c-format
+msgid "Captured BTR-60PA Custom Life Remaining: $1 %"
+msgstr "捕获的BTR-60PA Custom剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72b437
+#: slot/0x007b474a/0x03c205/0x99a1dc
+#, c-format
+msgid "Captured LAV-Type G Life Remaining: $1 %"
+msgstr "捕获的LAV-Type G剩余耐久：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x72f5f0
+#, c-format
+msgid "Chrysalis Head Parts: $1 %"
+msgstr "蝶蛹头部零件：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x7fca12
+msgid "You have obtained Paz's diary."
+msgstr "你获得了帕兹的日记。"
+
+#: slot/0x007b474a/0x03c205/0x82f5f0
+#, c-format
+msgid "Cocoon Head Parts: $1 %"
+msgstr "茧头部零件：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x90e62d
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Here goes!\""
+msgstr ""
+"以下台词现可注入英雄之魂：\n"
+"\n"
+"\"上吧！\""
+
+#: slot/0x007b474a/0x03c205/0x90e62e
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Here goes!!\""
+msgstr ""
+"以下台词现可注入英雄之魂：\n"
+"\n"
+"\"上吧！！\""
+
+#: slot/0x007b474a/0x03c205/0x90e62f
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Here goes!!!\""
+msgstr ""
+"以下台词现可注入英雄之魂：\n"
+"\n"
+"\"上吧！！！\""
+
+#: slot/0x007b474a/0x03c205/0x90e631
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"GO! GO! GO!!\""
+msgstr ""
+"以下台词现可注入英雄之魂：\n"
+"\n"
+"\"冲！冲！冲！！\""
+
+#: slot/0x007b474a/0x03c205/0x90e632
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"GO! GO! GO!!!\""
+msgstr ""
+"以下台词现可注入英雄之魂：\n"
+"\n"
+"\"冲！冲！冲！！！\""
+
+#: slot/0x007b474a/0x03c205/0x90e633
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"GO! GO! GO!!!!\""
+msgstr ""
+"以下台词现可注入英雄之魂：\n"
+"\n"
+"\"冲！冲！冲！！！！\""
+
+#: slot/0x007b474a/0x03c205/0x90e635
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Taking it slow...\""
+msgstr ""
+"以下台词现可注入英雄之魂：\n"
+"\n"
+"\"慢慢来……\""
+
+#: slot/0x007b474a/0x03c205/0x90e636
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Taking it slow... ...\""
+msgstr ""
+"以下台词现可注入英雄之魂：\n"
+"\n"
+"\"慢慢来…… ……\""
+
+#: slot/0x007b474a/0x03c205/0x90e64d
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Taking it slow... ... ...\""
+msgstr ""
+"以下台词现可注入英雄之魂：\n"
+"\n"
+"\"慢慢来…… …… ……\""
+
+#: slot/0x007b474a/0x03c205/0x90e64f
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Let's take it easy...\""
+msgstr ""
+"以下台词现可注入英雄之魂：\n"
+"\n"
+"\"放轻松点……\""
+
+#: slot/0x007b474a/0x03c205/0x90e650
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Let's take it easy... ...\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“放轻松……”"
+
+#: slot/0x007b474a/0x03c205/0x90e651
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Let's take it easy... ... ...\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“放轻松……”"
+
+#: slot/0x007b474a/0x03c205/0x90e653
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I'm going it alone!!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“我单枪匹马！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e655
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Focus!!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“集中！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e656
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Focus!!!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“集中！！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e66d
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Focus!!!!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“集中！！！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e66f
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"You can do this!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“你能做到！”"
+
+#: slot/0x007b474a/0x03c205/0x90e670
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"You can do this!!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“你能做到！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e671
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"You can do this!!!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“你能做到！！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e673
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Line up the shot!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“瞄准射击！”"
+
+#: slot/0x007b474a/0x03c205/0x90e674
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Line up the shot!!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“瞄准射击！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e675
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Line up the shot!!!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“瞄准射击！！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e68d
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I can feel 'em!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“我感觉到他们了！”"
+
+#: slot/0x007b474a/0x03c205/0x90e68e
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I can feel 'em!!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“我感觉到他们了！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e68f
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I can feel 'em!!!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“我感觉到他们了！！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e690
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Here.\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“在这里。”"
+
+#: slot/0x007b474a/0x03c205/0x90e692
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I see you!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“我看到你了！”"
+
+#: slot/0x007b474a/0x03c205/0x90e693
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I see you!!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“我看到你了！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e694
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I see you!!!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“我看到你了！！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e696
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I feel the power within me!!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“我感受到体内的力量！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e6ad
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I feel the power within me!!!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“我感受到体内的力量！！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e6ae
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I feel the power within me!!!!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“我感受到体内的力量！！！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e6b0
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Meow, meow, meow!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“喵，喵，喵！”"
+
+#: slot/0x007b474a/0x03c205/0x90e6b4
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"You dish it out, I can take it!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“你尽管放马过来，我扛得住！”"
+
+#: slot/0x007b474a/0x03c205/0x90e6b5
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"You dish it out, I can take it!!\""
+msgstr ""
+"以下台词可注入英魂之力：\n"
+"\n"
+"“你尽管放马过来，我扛得住！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e6b6
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"You dish it out, I can take it!!!\""
+msgstr ""
+"以下台词现在可以注入英雄之魂：\n"
+"\n"
+"“你放马过来，我扛得住！！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e6ce
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Turn it up!\""
+msgstr ""
+"以下台词现在可以注入英雄之魂：\n"
+"\n"
+"“再大声点！”"
+
+#: slot/0x007b474a/0x03c205/0x90e6cf
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Turn it up!!\""
+msgstr ""
+"以下台词现在可以注入英雄之魂：\n"
+"\n"
+"“再大声点！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e6d0
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Turn it up!!!\""
+msgstr ""
+"以下台词现在可以注入英雄之魂：\n"
+"\n"
+"“再大声点！！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e6d2
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Haidaraaaaa!\""
+msgstr ""
+"以下台词可注入英雄之魂：\n"
+"\n"
+"“海达拉啊啊啊啊！”"
+
+#: slot/0x007b474a/0x03c205/0x90e6d4
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Rest in Peace!\""
+msgstr ""
+"以下台词现在可以注入英雄之魂：\n"
+"\n"
+"“安息吧！”"
+
+#: slot/0x007b474a/0x03c205/0x90e6d6
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Sweet dreams!\""
+msgstr ""
+"以下台词现在可以注入英雄之魂：\n"
+"\n"
+"“做个好梦！”"
+
+#: slot/0x007b474a/0x03c205/0x90e6ee
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Settle down!!\""
+msgstr ""
+"以下台词现在可以注入英雄之魂：\n"
+"\n"
+"“冷静点！！”"
+
+#: slot/0x007b474a/0x03c205/0x90e6f0
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Kyehhhhhh!\""
+msgstr ""
+"以下台词现在可以注入英雄之魂：\n"
+"\n"
+"“呀啊啊啊啊！”"
+
+#: slot/0x007b474a/0x03c205/0x90e6f1
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Co-op thunder!\""
+msgstr ""
+"以下台词现在可以注入英雄之魂：\n"
+"\n"
+"“合作雷霆！”"
+
+#: slot/0x007b474a/0x03c205/0x92f5f0
+#, c-format
+msgid "PW Head Parts: $1 %"
+msgstr "PW头部零件：$1 %"
+
+#: slot/0x007b474a/0x03c205/0x93e240
+msgid "Enemy soldiers extracted with Fulton: $1"
+msgstr "用富尔顿回收的敌兵：$1"
+
+#: slot/0x007b474a/0x03c205/0x9ec369
+#, c-format
+msgid "Boss Damage Ratio: $1 %"
+msgstr "BOSS伤害率：$1 %"
+
+#: slot/0x007b474a/0x03c205/0xaf7df9
+msgid "Memory Boards Obtained: $1"
+msgstr "已获得存储板：$1"
+
+#: slot/0x007b474a/0x03c205/0xb13e1f
+msgid ""
+"New uniform developed:\n"
+"\n"
+"UT (UT Logo)"
+msgstr ""
+"已开发新制服：\n"
+"\n"
+"UT（UT标志）"
+
+#: slot/0x007b474a/0x03c205/0xb309ec
+msgid ""
+"You received new CO-OPS Comm. messages.\n"
+"\n"
+"View them by going to the \"CO-OPS Comm.\" menu under \"MISSION PREP\"."
+msgstr ""
+"收到新合作任务通讯。\n"
+"\n"
+"去“任务准备”下“合作任务通讯”菜单查看。"
+
+#: slot/0x007b474a/0x03c205/0xb57c73
+#, c-format
+msgid "Pupa Jet-Unique Parts: $1 %"
+msgstr "蛹喷气机专属零件：$1 %"
+
+#: slot/0x007b474a/0x03c205/0xc57c73
+#, c-format
+msgid "Chrysalis Railgun-Unique Parts: $1 %"
+msgstr "蝶蛹电磁炮专属零件：$1 %"
+
+#: slot/0x007b474a/0x03c205/0xd57c73
+#, c-format
+msgid "Chrysalis Radome-Unique Parts: $1 %"
+msgstr "蝶蛹天线罩专属零件：$1 %"
+
+#: slot/0x007b474a/0x03c205/0xdfc680
+msgid "Prisoners extracted with Fulton: $1"
+msgstr "用富尔顿回收的俘虏：$1"
+
+#: slot/0x007b474a/0x03c205/0xe57c73
+#, c-format
+msgid "Cocoon Armor-Unique Parts: $1 %"
+msgstr "茧装甲专属零件：$1 %"
+
+#: slot/0x007b474a/0x03c205/0xec87b0
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"It's not over yet!!\""
+msgstr ""
+"以下台词现在可以注入英雄之魂：\n"
+"\n"
+"“还没结束！！”"
+
+#: slot/0x007b474a/0x03c205/0xec87b1
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"It's not over yet!!!\""
+msgstr ""
+"以下台词现在可以注入英雄之魂：\n"
+"\n"
+"“还没结束！！！”"
+
+#: slot/0x007b474a/0x03c205/0xec87b2
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"It's not over yet!!!!\""
+msgstr ""
+"以下台词现在可以注入英雄之魂：\n"
+"\n"
+"“还没结束！！！！”"
+
+#: slot/0x007b474a/0x03c205/0xec87b4
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"We're still in this fight!\""
+msgstr ""
+"以下台词现在可以注入英雄之魂：\n"
+"\n"
+"“我们还在战斗！”"
+
+#: slot/0x007b474a/0x03c205/0xec87b5
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"We're still in this fight!!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“我们还没输！！”"
+
+#: slot/0x007b474a/0x03c205/0xec87b6
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"We're still in this fight!!!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“我们还没输！！！”"
+
+#: slot/0x007b474a/0x03c205/0xec87b8
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I'm ready to go!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“我准备好了！”"
+
+#: slot/0x007b474a/0x03c205/0xec87cf
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I'm ready to go!!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“我准备好了！！”"
+
+#: slot/0x007b474a/0x03c205/0xec87d0
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I'm ready to go!!!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“我准备好了！！！”"
+
+#: slot/0x007b474a/0x03c205/0xec87d2
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I'm with ya!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“我跟你一起！”"
+
+#: slot/0x007b474a/0x03c205/0xec87d3
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I'm with ya!!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“我跟你一起！！”"
+
+#: slot/0x007b474a/0x03c205/0xec87d4
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I'm with ya!!!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“我跟你一起！！！”"
+
+#: slot/0x007b474a/0x03c205/0xec87d6
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Don't die on me!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“别给我死了！”"
+
+#: slot/0x007b474a/0x03c205/0xec87d7
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Don't die on me!!!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“别给我死了！！！”"
+
+#: slot/0x007b474a/0x03c205/0xec87ef
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I knew you had it in you!!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“我就知道你有本事！！”"
+
+#: slot/0x007b474a/0x03c205/0xec87f1
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I knew you had it in you... ...\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“我就知道你有本事……”"
+
+#: slot/0x007b474a/0x03c205/0xec87f3
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"You're pretty good!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“你挺有一套！”"
+
+#: slot/0x007b474a/0x03c205/0xec87f5
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"You take it from here!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“接下来交给你！”"
+
+#: slot/0x007b474a/0x03c205/0xec87f7
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Say good night... ...\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“晚安吧……”"
+
+#: slot/0x007b474a/0x03c205/0xec880f
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Down on the ground!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“趴下！”"
+
+#: slot/0x007b474a/0x03c205/0xec8810
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Down on the ground!!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“趴下！！”"
+
+#: slot/0x007b474a/0x03c205/0xec8811
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Down on the ground!!!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“趴下！！！”"
+
+#: slot/0x007b474a/0x03c205/0xec8813
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Surrender!!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“投降！！”"
+
+#: slot/0x007b474a/0x03c205/0xec8815
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"They'll never hear me coming!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“他们绝对听不到我！”"
+
+#: slot/0x007b474a/0x03c205/0xec8816
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"They'll never hear me coming!!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“他们绝对听不到我！！”"
+
+#: slot/0x007b474a/0x03c205/0xec8817
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"They'll never hear me coming!!!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“他们绝对听不到我！！！”"
+
+#: slot/0x007b474a/0x03c205/0xec882f
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Give 'em the silent treatment!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“让他们永远安静！”"
+
+#: slot/0x007b474a/0x03c205/0xec8830
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Give 'em the silent treatment!!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“让他们永远安静！！”"
+
+#: slot/0x007b474a/0x03c205/0xec8831
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Give 'em the silent treatment!!!\""
+msgstr ""
+"以下台词现已可注入英雄之魂：\n"
+"\n"
+"“让他们永远安静！！！”"
+
+#: slot/0x007b474a/0x03c205/0xec8833
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Here I am!!\""
+msgstr ""
+"以下台词现在可以注入英雄气概：\n"
+"\n"
+"“我在这里！！”"
+
+#: slot/0x007b474a/0x03c205/0xec8835
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I'll give 'em something to shoot at!!\""
+msgstr ""
+"以下台词现在可以注入英雄气概：\n"
+"\n"
+"“我来给他们当靶子！！”"
+
+#: slot/0x007b474a/0x03c205/0xec8837
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Keep 'em busy for me!!\""
+msgstr ""
+"以下台词现在可以注入英雄气概：\n"
+"\n"
+"“帮我拖住他们！！”"
+
+#: slot/0x007b474a/0x03c205/0xf57c73
+#, c-format
+msgid "PW Leg Parts: $1 %"
+msgstr "PW腿部零件：$1 %"
+
+#: slot/0x007b474a/0x261769/0x6069c1
+msgid "+$2 LV. $1"
+msgstr "+$2 LV. $1"
+
+#: slot/0x007b474a/0x261769/0xf46512
+msgid "LV. $1"
+msgstr "LV. $1"
+
+#: slot/0x007b474a/0x3eb145/0x743e57
+msgid "(caption content undecided)"
+msgstr "（字幕内容未定）"
+
+#: slot/0x007b474a/0xbf29c8/0x0618b1
+msgid "CQC Count"
+msgstr "CQC次数"
+
+#: slot/0x007b474a/0xbf29c8/0x0618b2
+msgid "Times Captured/Thrown by CQC"
+msgstr "被CQC擒拿/投掷次数"
+
+#: slot/0x007b474a/0xbf29c8/0x0618b3
+#: slot/0x007b474a/0xbf29c8/0xcee88a
+msgid "Love Box Usage Time"
+msgstr "爱之箱用时"
+
+#: slot/0x007b474a/0xbf29c8/0x0618b4
+msgid "Cardboard Boxes Used"
+msgstr "纸箱使用数"
+
+#: slot/0x007b474a/0xbf29c8/0x0618b5
+#: slot/0x007b474a/0xbf29c8/0xbca8ad
+#: slot/0x00b96275/0x947b26/0x3c62b4
+msgid "Friendly Fire Count"
+msgstr "误伤次数"
+
+#: slot/0x007b474a/0xbf29c8/0x0618b6
+#: slot/0x007b474a/0xbf29c8/0xbca8ab
+msgid "Magazines Placed"
+msgstr "放置杂志数"
+
+#: slot/0x007b474a/0xbf29c8/0x0618b7
+msgid "Magazines Read"
+msgstr "读杂志数"
+
+#: slot/0x007b474a/0xbf29c8/0x0618b8
+msgid "DM Kills"
+msgstr "DM击杀"
+
+#: slot/0x007b474a/0xbf29c8/0x0618b9
+msgid "TDM Kills"
+msgstr "TDM击杀"
+
+#: slot/0x007b474a/0xbf29c8/0x0618ba
+msgid "CAP Kills"
+msgstr "CAP击杀"
+
+#: slot/0x007b474a/0xbf29c8/0x0618d1
+msgid "BASE Kills"
+msgstr "BASE击杀"
+
+#: slot/0x007b474a/0xbf29c8/0x0618d2
+msgid "DM Deaths"
+msgstr "DM死亡"
+
+#: slot/0x007b474a/0xbf29c8/0x0618d3
+msgid "TDM Deaths"
+msgstr "TDM死亡"
+
+#: slot/0x007b474a/0xbf29c8/0x0618d4
+msgid "CAP Deaths"
+msgstr "CAP死亡"
+
+#: slot/0x007b474a/0xbf29c8/0x0618d5
+msgid "BASE Deaths"
+msgstr "BASE死亡"
+
+#: slot/0x007b474a/0xbf29c8/0x0618d6
+msgid "DM Knockouts"
+msgstr "DM击晕"
+
+#: slot/0x007b474a/0xbf29c8/0x0618d7
+msgid "TDM Knockouts"
+msgstr "TDM击晕"
+
+#: slot/0x007b474a/0xbf29c8/0x0618d8
+msgid "CAP Knockouts"
+msgstr "CAP击倒"
+
+#: slot/0x007b474a/0xbf29c8/0x0618d9
+msgid "BASE Knockouts"
+msgstr "BASE击倒"
+
+#: slot/0x007b474a/0xbf29c8/0x0618da
+msgid "Times Knocked Out (DM)"
+msgstr "被击倒次数 (DM)"
+
+#: slot/0x007b474a/0xbf29c8/0x0618f1
+msgid "Times Knocked Out (TDM)"
+msgstr "被击倒次数 (TDM)"
+
+#: slot/0x007b474a/0xbf29c8/0x0618f2
+msgid "Times Knocked Out (CAP)"
+msgstr "被击倒次数 (CAP)"
+
+#: slot/0x007b474a/0xbf29c8/0x0618f3
+msgid "Times Knocked Out (BASE)"
+msgstr "被击倒次数 (BASE)"
+
+#: slot/0x007b474a/0xbf29c8/0x0618f4
+msgid "Targets Placed for Win"
+msgstr "获胜目标放置数"
+
+#: slot/0x007b474a/0xbf29c8/0x0618f5
+msgid "Targets Placed"
+msgstr "目标数"
+
+#: slot/0x007b474a/0xbf29c8/0x0618f6
+msgid "Targets Acquired"
+msgstr "目标获取数"
+
+#: slot/0x007b474a/0xbf29c8/0x0618f7
+msgid "Bases Held"
+msgstr "据点"
+
+#: slot/0x007b474a/0xbf29c8/0x0618f8
+msgid "Base Hold Time"
+msgstr "占领时间"
+
+#: slot/0x007b474a/0xbf29c8/0x0618f9
+msgid "Consecutive Kills"
+msgstr "连续击杀"
+
+#: slot/0x007b474a/0xbf29c8/0x0618fa
+msgid "Consecutive Headshots"
+msgstr "连续爆头"
+
+#: slot/0x007b474a/0xbf29c8/0x061911
+#: slot/0x007b474a/0xbf29c8/0xbca88c
+msgid "Self-Destructs"
+msgstr "自爆次数"
+
+#: slot/0x007b474a/0xbf29c8/0x061912
+msgid "Self-Destruct Knockouts"
+msgstr "自爆击倒"
+
+#: slot/0x007b474a/0xbf29c8/0x061913
+msgid "Battle Cry Uses"
+msgstr "战吼次数"
+
+#: slot/0x007b474a/0xbf29c8/0x061914
+msgid "Rolls"
+msgstr "翻滚次数"
+
+#: slot/0x007b474a/0xbf29c8/0x061915
+msgid "Combo Hits"
+msgstr "连击"
+
+#: slot/0x007b474a/0xbf29c8/0x061916
+msgid "NVG Uses"
+msgstr "夜视仪使用次数"
+
+#: slot/0x007b474a/0xbf29c8/0x061917
+msgid "Violations"
+msgstr "违规"
+
+#: slot/0x007b474a/0xbf29c8/0x061919
+msgid "MSF Soldiers Utilized"
+msgstr "MSF士兵使用数"
+
+#: slot/0x007b474a/0xbf29c8/0x06191a
+msgid "Teammates Killed"
+msgstr "队友阵亡数"
+
+#: slot/0x007b474a/0xbf29c8/0x061931
+msgid "Teammates Woken Up"
+msgstr "队友唤醒数"
+
+#: slot/0x007b474a/0xbf29c8/0x061932
+#: slot/0x00b96275/0x947b26/0x3c52b4
+msgid "Fulton Extractions"
+msgstr "富尔顿回收数"
+
+#: slot/0x007b474a/0xbf29c8/0x061933
+msgid "Times Extracted via Fulton"
+msgstr "被富尔顿回收次数"
+
+#: slot/0x007b474a/0xbf29c8/0x0830c4
+#: slot/0x007b474a/0xbf29c8/0xd5e542
+msgid "CO-OP Ring Active Time"
+msgstr "合作环激活时间"
+
+#: slot/0x007b474a/0xbf29c8/0x0830c5
+msgid "DM Play Count"
+msgstr "DM游玩数"
+
+#: slot/0x007b474a/0xbf29c8/0x0830c6
+msgid "TDM Play Count"
+msgstr "TDM游玩数"
+
+#: slot/0x007b474a/0xbf29c8/0x0830c7
+msgid "CAP Play Count"
+msgstr "CAP游玩数"
+
+#: slot/0x007b474a/0xbf29c8/0x0830c8
+msgid "BASE Play Count"
+msgstr "BASE游玩数"
+
+#: slot/0x007b474a/0xbf29c8/0x0830c9
+msgid "DM Wins"
+msgstr "DM胜利次数"
+
+#: slot/0x007b474a/0xbf29c8/0x0830ca
+msgid "TDM Wins"
+msgstr "TDM胜利次数"
+
+#: slot/0x007b474a/0xbf29c8/0x0830cb
+msgid "CAP Wins"
+msgstr "CAP胜利次数"
+
+#: slot/0x007b474a/0xbf29c8/0x0830cc
+msgid "BASE Wins"
+msgstr "BASE胜利次数"
+
+#: slot/0x007b474a/0xbf29c8/0x28f6fb
+msgid "Door Support Failures"
+msgstr "开门支援失败次数"
+
+#: slot/0x007b474a/0xbf29c8/0x2ed85b
+msgid "Total Alert Phases"
+msgstr "总警戒次数"
+
+#: slot/0x007b474a/0xbf29c8/0x2fe904
+#: slot/0x00a60c2a/0x78a26d/0x8407d1
+#: slot/0x00b96275/0x947b26/0x3c4ab0
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d38b
+msgid "Heroism"
+msgstr "英雄度"
+
+#: slot/0x007b474a/0xbf29c8/0x349c54
+msgid "Doors Supported"
+msgstr "开门支援次数"
+
+#: slot/0x007b474a/0xbf29c8/0x3803ee
+msgid "Kills"
+msgstr "击杀数"
+
+#: slot/0x007b474a/0xbf29c8/0x3c8407
+msgid "Clear Time"
+msgstr "通关时间"
+
+#: slot/0x007b474a/0xbf29c8/0x3e6b99
+msgid "Total Kills"
+msgstr "总击杀"
+
+#: slot/0x007b474a/0xbf29c8/0x483b99
+msgid "Distance Traveled During Snake-In"
+msgstr "潜入期间移动距离"
+
+#: slot/0x007b474a/0xbf29c8/0x505e6e
+msgid "CQC Knockdowns"
+msgstr "CQC击倒数"
+
+#: slot/0x007b474a/0xbf29c8/0x61e2fa
+msgid "Alert Phases"
+msgstr "警戒次数"
+
+#: slot/0x007b474a/0xbf29c8/0x6c2db7
+msgid "CPR Rescues"
+msgstr "心肺复苏救援数"
+
+#: slot/0x007b474a/0xbf29c8/0x6f76e0
+msgid "Level of Camaraderie"
+msgstr "羁绊等级"
+
+#: slot/0x007b474a/0xbf29c8/0x6fd3ea
+msgid "Hold-ups"
+msgstr "挟持次数"
+
+#: slot/0x007b474a/0xbf29c8/0x738816
+msgid "Miller Affinity"
+msgstr "米勒好感度"
+
+#: slot/0x007b474a/0xbf29c8/0x74a20e
+msgid "Number of Enemy Soldiers/Prisoners extracted with Fulton "
+msgstr "用富尔顿回收的敌兵/俘虏数"
+
+#: slot/0x007b474a/0xbf29c8/0x7bd823
+msgid "Consecutive CQCs"
+msgstr "连续CQC"
+
+#: slot/0x007b474a/0xbf29c8/0x7c6df5
+msgid "Cutscene Interaction Bonus"
+msgstr "过场互动奖励"
+
+#: slot/0x007b474a/0xbf29c8/0x812473
+msgid "You were unable to earn an S Rank because you used Stealth Camo."
+msgstr "使用隐形迷彩，无法获得S评价。"
+
+#: slot/0x007b474a/0xbf29c8/0x81e0d8
+msgid "Clear Count"
+msgstr "通关数"
+
+#: slot/0x007b474a/0xbf29c8/0x8985bf
+msgid "Quick CPR Rescues"
+msgstr "快速CPR救援"
+
+#: slot/0x007b474a/0xbf29c8/0x8f657f
+#: slot/0x007b474a/0xbf29c8/0xbca8ee
+#: slot/0x00b96275/0x947b26/0x3c62b6
+msgid "Interrogations"
+msgstr "审讯次数"
+
+#: slot/0x007b474a/0xbf29c8/0x91e2e9
+msgid "Prisoners Killed"
+msgstr "杀害俘虏数"
+
+#: slot/0x007b474a/0xbf29c8/0x91fbe3
+msgid "ALPHA"
+msgstr "ALPHA"
+
+#: slot/0x007b474a/0xbf29c8/0x91fbe4
+msgid "BRAVO"
+msgstr "BRAVO"
+
+#: slot/0x007b474a/0xbf29c8/0x91fbe5
+msgid "CHARLIE"
+msgstr "CHARLIE"
+
+#: slot/0x007b474a/0xbf29c8/0x91fbe6
+msgid "DELTA"
+msgstr "DELTA"
+
+#: slot/0x007b474a/0xbf29c8/0x92b205
+msgid "Target Points"
+msgstr "目标分数"
+
+#: slot/0x007b474a/0xbf29c8/0x95cb8a
+msgid "Mission Statistics"
+msgstr "任务统计"
+
+#: slot/0x007b474a/0xbf29c8/0x9613f1
+msgid "Paz Affinity"
+msgstr "帕兹好感度"
+
+#: slot/0x007b474a/0xbf29c8/0x98726d
+#: slot/0x00b96275/0x947b26/0x3c62b5
+msgid "Near-Deaths"
+msgstr "濒死数"
+
+#: slot/0x007b474a/0xbf29c8/0x9ba32b
+msgid "Weapon Experience"
+msgstr "武器经验"
+
+#: slot/0x007b474a/0xbf29c8/0x9be99f
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db6b
+msgid "Abductions"
+msgstr "绑架"
+
+#: slot/0x007b474a/0xbf29c8/0xa252b4
+msgid "Boss Damage Ratio"
+msgstr "BOSS伤害比"
+
+#: slot/0x007b474a/0xbf29c8/0xabce08
+msgid "You were unable to earn an S Rank because you used the EM Net."
+msgstr "使用电磁网，无法获得S评价。"
+
+#: slot/0x007b474a/0xbf29c8/0xbca88a
+#: slot/0x00b96275/0x947b26/0x3c52d0
+msgid "Enemies Tagged"
+msgstr "标记敌数"
+
+#: slot/0x007b474a/0xbf29c8/0xbca88b
+msgid "Tagged Enemies Defeated"
+msgstr "击败标记敌人数"
+
+#: slot/0x007b474a/0xbf29c8/0xbca88d
+msgid "Automatic Ration Uses"
+msgstr "自动口粮次数"
+
+#: slot/0x007b474a/0xbf29c8/0xbca88e
+msgid "Total Damage"
+msgstr "总伤害"
+
+#: slot/0x007b474a/0xbf29c8/0xbca88f
+msgid "Enemies Knocked Out"
+msgstr "击晕敌人数"
+
+#: slot/0x007b474a/0xbf29c8/0xbca890
+msgid "Enemies Put to Sleep"
+msgstr "使敌人昏睡"
+
+#: slot/0x007b474a/0xbf29c8/0xbca891
+msgid "Enemies Left Near Death"
+msgstr "敌人濒死"
+
+#: slot/0x007b474a/0xbf29c8/0xbca892
+msgid "Enemies Held Up"
+msgstr "胁迫敌人"
+
+#: slot/0x007b474a/0xbf29c8/0xbca893
+msgid "Enemy Headshots"
+msgstr "敌人爆头"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8aa
+msgid "Exorcisms"
+msgstr "驱魔"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8ac
+msgid "Teammate Damage Healed"
+msgstr "治疗队友伤害"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8ae
+msgid "Friendly Fire Taken Count"
+msgstr "承受友军伤害次数"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8af
+msgid "Enemies Neutralized with White \"!\" Displayed"
+msgstr "在显示白色\"!\"时制服敌人"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8b0
+msgid "Enemies Neutralized During Wire Attack"
+msgstr "钢丝攻击中制服敌人"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8b1
+msgid "Enemies Neutralized During CQC Capture"
+msgstr "CQC擒拿中制服敌人"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8b2
+msgid "Enemies Neutralized With Co-Op Weapons"
+msgstr "用合作武器制服敌人"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8b3
+msgid "Items Lent"
+msgstr "借出"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8ca
+msgid "Lent Items Used"
+msgstr "使用借出道具"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8cb
+msgid "Submissions to Torture"
+msgstr "屈服于拷问"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8cc
+msgid "Mini-boss Weakpoints (of current weapon) Destroyed "
+msgstr "迷你BOSS弱点（当前武器）破坏"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8cd
+msgid "Boss Tramples Resisted"
+msgstr "抵抗BOSS践踏"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8ce
+msgid "Bosses Blown Away"
+msgstr "击飞BOSS"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8cf
+msgid "AI Pod Damage (memory board removal phase)"
+msgstr "AI舱伤害（拆除存储板阶段）"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8d0
+msgid "AI Rampages (memory board removal phase)"
+msgstr "AI暴走（拆除存储板阶段）"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8d1
+msgid "Memory Boards"
+msgstr "存储板"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8d3
+msgid "Head Parts Damage Rate"
+msgstr "头部零件破坏率"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8ea
+msgid "Optional Parts"
+msgstr "可选零件"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8eb
+msgid "Optional Parts Damage Rate"
+msgstr "可选零件破坏率"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8ec
+msgid "Generic Parts"
+msgstr "通用零件"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8ed
+msgid "\"Monster Hunter\" Monster Parts Destroyed"
+msgstr "\"怪物猎人\"怪物零件破坏"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8ef
+msgid "Items Acquired"
+msgstr "获得道具"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8f0
+msgid "Marksmanship Targets Destroyed"
+msgstr "击破射击目标"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8f1
+msgid "Marksmanship Target Points"
+msgstr "射击目标得分"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8f2
+msgid "Targets Destroyed"
+msgstr "击破目标"
+
+#: slot/0x007b474a/0xbf29c8/0xbca8f3
+msgid "Bases Defended"
+msgstr "防守基地"
+
+#: slot/0x007b474a/0xbf29c8/0xbca90a
+msgid "Claymores Disarmed"
+msgstr "拆除克莱莫"
+
+#: slot/0x007b474a/0xbf29c8/0xbca90b
+msgid "Good Photos Taken"
+msgstr "拍摄好照片"
+
+#: slot/0x007b474a/0xbf29c8/0xbca90c
+msgid "Total Good Photos Taken"
+msgstr "好照片总数"
+
+#: slot/0x007b474a/0xbf29c8/0xbca90d
+msgid "Sleep Count"
+msgstr "催眠数"
+
+#: slot/0x007b474a/0xbf29c8/0xbca90e
+msgid "Knockouts"
+msgstr "击晕次数"
+
+#: slot/0x007b474a/0xbf29c8/0xbca90f
+msgid "CQC Captures/Throws"
+msgstr "CQC擒拿/投摔"
+
+#: slot/0x007b474a/0xbf29c8/0xbca910
+msgid "Consecutive Tortures"
+msgstr "连续拷问"
+
+#: slot/0x007b474a/0xbf29c8/0xbca911
+msgid "Supplies Defended"
+msgstr "防守补给"
+
+#: slot/0x007b474a/0xbf29c8/0xbca912
+msgid "Missiles Intercepted"
+msgstr "拦截导弹"
+
+#: slot/0x007b474a/0xbf29c8/0xc36b4c
+msgid "Target Point"
+msgstr "目标得分"
+
+#: slot/0x007b474a/0xbf29c8/0xd5e543
+#: slot/0x00b96275/0x947b26/0x3c52b6
+msgid "CO-OP Ring Activations"
+msgstr "合作环发动次数"
+
+#: slot/0x007b474a/0xbf29c8/0xd5e544
+msgid "Distance Traveled During Snake Formation"
+msgstr "蛇形阵移动距离"
+
+#: slot/0x007b474a/0xbf29c8/0xd5e545
+msgid "Distance Traveled While Leading Snake Formation"
+msgstr "领队蛇形阵移动距离"
+
+#: slot/0x007b474a/0xbf29c8/0xd5e546
+msgid "Time in Love Box"
+msgstr "爱箱时间"
+
+#: slot/0x007b474a/0xbf29c8/0xd5e547
+msgid "Distance Traveled While in Love Box"
+msgstr "爱情箱内移动距离"
+
+#: slot/0x007b474a/0xbf29c8/0xd5e548
+msgid "Time in Cardboard Tank"
+msgstr "纸箱坦克内时间"
+
+#: slot/0x007b474a/0xbf29c8/0xd5e549
+msgid "Distance Traveled While in Cardboard Tank"
+msgstr "纸箱坦克内移动距离"
+
+#: slot/0x007b474a/0xbf29c8/0xd5e54a
+msgid "Stealth Mat Uses"
+msgstr "隐身垫次数"
+
+#: slot/0x007b474a/0xbf29c8/0xd8304e
+msgid "Abductees Rescued"
+msgstr "救出被绑者"
+
+#: slot/0x007b474a/0xbf29c8/0xe9864e
+msgid "You were unable to earn an S Rank because you used special CO-OPS Comm. Battle Cry effects. "
+msgstr "你使用了合作任务通讯的战吼效果，因此无法获得S评价。"
+
+#: slot/0x007b474a/0xbf29c8/0xec82b8
+msgid "Enemy Searches"
+msgstr "敌搜索数"
+
+#: slot/0x007b474a/0xbf29c8/0xf2afde
+msgid "Total Prisoners Killed"
+msgstr "被杀害囚犯总数"
 
-#: slot/0x0056a63d/0x954c25/0x00016b
-msgid "White"
-msgstr "白"
-
-#: slot/0x0056a63d/0x954c25/0x00016c
-msgid "Red"
-msgstr "红色"
-
-#: slot/0x0056a63d/0x954c25/0x00016d
-msgid "Yellow"
-msgstr "黄色"
-
-#: slot/0x0056a63d/0x954c25/0x00016e
-msgid "Pink"
-msgstr "粉"
-
-#: slot/0x0056a63d/0x954c25/0x00016f
-msgid "Green"
-msgstr "绿"
-
-#: slot/0x0056a63d/0x954c25/0x000170
-msgid "Leaf"
-msgstr "叶"
-
-#: slot/0x0056a63d/0x954c25/0x000171
-msgid "Tiger Stripe"
-msgstr "虎纹"
-
-#: slot/0x0056a63d/0x954c25/0x000172
-msgid "Water"
-msgstr "水"
-
-#: slot/0x0056a63d/0x954c25/0x000173
-msgid "Choco Chip"
-msgstr "巧克力碎斑"
-
-#: slot/0x0056a63d/0x954c25/0x000174
-msgid "Desert Auscam"
-msgstr "沙漠Auscam"
-
-#: slot/0x0056a63d/0x954c25/0x000175
-msgid "Squares"
-msgstr "方格"
-
-#: slot/0x0056a63d/0x954c25/0x000176
-msgid "Tree Bark"
-msgstr "树皮"
-
-#: slot/0x0056a63d/0x954c25/0x000177
-msgid "Splitter"
-msgstr "碎块"
-
-#: slot/0x0056a63d/0x954c25/0x000179
-msgid "Comrade"
-msgstr "同志"
-
-#: slot/0x0056a63d/0x954c25/0x00017a
-msgid "Guns & Jungle"
-msgstr "枪与丛林"
-
-#: slot/0x0056a63d/0x954c25/0x00017b
-msgid "Neo Moss"
-msgstr "新苔"
-
-#: slot/0x0056a63d/0x954c25/0x00017c
-msgid "Stench"
-msgstr "恶臭"
-
-#: slot/0x0056a63d/0x954c25/0x000180
-#: slot/0x00dd0ea8/0x31a1fa/0xb6d36b
-msgid "Sneaking Suit"
-msgstr "潜行服"
-
-#: slot/0x0056a63d/0x954c25/0x000181
-#: slot/0x00dd0ea8/0x31a1fa/0xb6d36c
-msgid "Battle Dress"
-msgstr "战斗服"
-
-#: slot/0x0056a63d/0x954c25/0x000182
-msgid "Battle Dress (with helmet)"
-msgstr "战斗服（带头盔）"
-
-#: slot/0x0056a63d/0x954c25/0x000183
-#: slot/0x00dd0ea8/0x31a1fa/0xb6d36d
-msgid "Naked"
-msgstr "裸"
-
-#: slot/0x0056a63d/0x954c25/0x000184
-msgid "Naked (Black)"
-msgstr "裸装(黑)"
-
-#: slot/0x0056a63d/0x954c25/0x000185
-msgid "Naked (Khaki)"
-msgstr "裸装（卡其）"
-
-#: slot/0x0056a63d/0x954c25/0x000186
-msgid "Naked (Navy Blue)"
-msgstr "裸装(藏青)"
-
-#: slot/0x0056a63d/0x954c25/0x000187
-msgid "Naked (White)"
-msgstr "裸装(白)"
-
-#: slot/0x0056a63d/0x954c25/0x000188
-msgid "Naked (Red)"
-msgstr "裸装（红）"
-
-#: slot/0x0056a63d/0x954c25/0x000189
-msgid "Naked (Yellow)"
-msgstr "裸装(黄)"
-
-#: slot/0x0056a63d/0x954c25/0x00018a
-msgid "Naked (Pink)"
-msgstr "裸装(粉)"
-
-#: slot/0x0056a63d/0x954c25/0x00018b
-msgid "Naked (Green)"
-msgstr "裸装(绿)"
-
-#: slot/0x0056a63d/0x954c25/0x00018c
-msgid "Naked (Leaf)"
-msgstr "裸装(叶)"
-
-#: slot/0x0056a63d/0x954c25/0x00018d
-msgid "Naked (Tiger Stripe)"
-msgstr "裸装（虎纹）"
-
-#: slot/0x0056a63d/0x954c25/0x00018e
-msgid "Naked (Water)"
-msgstr "裸装(水)"
-
-#: slot/0x0056a63d/0x954c25/0x00018f
-msgid "Naked (Choco Chip)"
-msgstr "裸装(巧斑)"
-
-#: slot/0x0056a63d/0x954c25/0x000190
-msgid "Naked (Desert Auscam)"
-msgstr "裸装(沙漠迷彩)"
-
-#: slot/0x0056a63d/0x954c25/0x000191
-msgid "Naked (Squares)"
-msgstr "裸装(方块)"
-
-#: slot/0x0056a63d/0x954c25/0x000192
-msgid "Naked (Tree Bark)"
-msgstr "裸装(树皮)"
-
-#: slot/0x0056a63d/0x954c25/0x000193
-msgid "Naked (Splitter)"
-msgstr "裸装(碎块)"
-
-#: slot/0x0056a63d/0x954c25/0x000194
-msgid "Naked (Snake)"
-msgstr "裸装(蛇)"
-
-#: slot/0x0056a63d/0x954c25/0x000195
-msgid "Tuxedo"
-msgstr "燕尾服"
-
-#: slot/0x0056a63d/0x954c25/0x000196
-#: slot/0x00cdd1c4/0xc6e14e/0x21516a
-msgid "Miller"
-msgstr "米勒"
-
-#: slot/0x0056a63d/0x954c25/0x000197
-#: slot/0x00cdd1c4/0xc6e14e/0x5bd921
-#: slot/0x00dd0ea8/0x31a1fa/0xb6dba7
-msgid "Amanda"
-msgstr "阿曼达"
-
-#: slot/0x0056a63d/0x954c25/0x000198
-msgid "Swim Trunks"
-msgstr "泳裤"
-
-#: slot/0x0056a63d/0x954c25/0x000199
-msgid "Bikini Top"
-msgstr "比基尼"
-
-#: slot/0x0056a63d/0x954c25/0x00019a
-msgid "UT (N425A)"
-msgstr "UT(N425A)"
-
-#: slot/0x0056a63d/0x954c25/0x00019b
-msgid "UT (N425B)"
-msgstr "UT(N425B)"
-
-#: slot/0x0056a63d/0x954c25/0x00019c
-msgid "UT (N425C)"
-msgstr "UT(N425C)"
-
-#: slot/0x0056a63d/0x954c25/0x00019d
-msgid "UT (N425D Navy Blue)"
-msgstr "UT（N425D 藏青）"
-
-#: slot/0x0056a63d/0x954c25/0x00019e
-msgid "UT (N425E White)"
-msgstr "UT(N425E白)"
-
-#: slot/0x0056a63d/0x954c25/0x00019f
-msgid "UT (N425E Black)"
-msgstr "UT(N425E黑)"
-
-#: slot/0x0056a63d/0x954c25/0x0001a0
-msgid "UT (N425F)"
-msgstr "UT (N425F)"
-
-#: slot/0x0056a63d/0x954c25/0x0001a1
-msgid "UT (N425G Gray)"
-msgstr "UT (N425G 灰)"
-
-#: slot/0x0056a63d/0x954c25/0x0001a2
-msgid "UT (N425H White)"
-msgstr "UT (N425H 白)"
-
-#: slot/0x0056a63d/0x954c25/0x0001a3
-msgid "UT (N425H Red)"
-msgstr "UT (N425H 红)"
-
-#: slot/0x0056a63d/0x954c25/0x0001a4
-msgid "UT (N425J)"
-msgstr "UT (N425J)"
-
-#: slot/0x0056a63d/0x954c25/0x0001a5
-msgid "UT (N425L)"
-msgstr "UT (N425L)"
-
-#: slot/0x0056a63d/0x954c25/0x0001a6
-msgid "UT (UT Logo)"
-msgstr "UT (UT标)"
-
-#: slot/0x0056a63d/0x954c25/0x0001a7
-msgid "UT (N425D Gray)"
-msgstr "UT (N425D 灰)"
-
-#: slot/0x0056a63d/0x954c25/0x0001a8
-msgid "UT (N425G White)"
-msgstr "UT (N425G 白)"
-
-#: slot/0x0056a63d/0x954c25/0x0001a9
-msgid "T-shirt"
-msgstr "T恤"
-
-#: slot/0x0056a63d/0x954c25/0x0001b0
-msgid "Naked (DPM)"
-msgstr "裸蛇 (迷彩)"
-
-#: slot/0x0056a63d/0x954c25/0x0001b3
-msgid "Fox"
-msgstr "Fox"
-
-#: slot/0x0056a63d/0x954c25/0x0001b4
-msgid "Russian Commando"
-msgstr "俄军突击兵"
-
-#: slot/0x0056a63d/0x954c25/0x0001b5
-msgid "Russian Soldier"
-msgstr "俄军士兵"
-
-#: slot/0x0056a63d/0x954c25/0x0001b7
-msgid "Guard"
-msgstr "卫兵"
-
-#: slot/0x0056a63d/0x954c25/0x0001b9
-msgid "Male P.O.W."
-msgstr "男战俘"
-
-#: slot/0x0056a63d/0x954c25/0x0001ba
-msgid "Patrolman"
-msgstr "巡逻兵"
-
-#: slot/0x0056a63d/0x954c25/0x0001bb
-msgid "Female P.O.W."
-msgstr "女性战俘"
-
-#: slot/0x0056a63d/0x954c25/0x0001bd
-msgid "Escort Soldier"
-msgstr "护卫兵"
-
-#: slot/0x0056a63d/0x954c25/0x0001be
-msgid "5.56x45mm (Armor-Piercing)"
-msgstr "5.56x45mm (穿甲弹)"
-
-#: slot/0x0056a63d/0x954c25/0x0001bf
-msgid "7.62x54R (Armor-Piercing)"
-msgstr "7.62x54R (穿甲弹)"
-
-#: slot/0x0056a63d/0x954c25/0x0001fa
-msgid "ID Card (C)"
-msgstr "ID卡 (C)"
-
-#: slot/0x0056a63d/0x954c25/0x0001fe
-msgid "Cologne Design Specs"
-msgstr "古龙水开发规格"
-
-#: slot/0x0056aa31/0xa672ad/0x17281d
-#: slot/0x0074a6ca/0xcc15c0/0xee18ce
-#: slot/0x0074a6ca/0xcc177c/0xeef6ce
 #: slot/0x007b474a/0xff329e/0x2a0e0b
 msgid "RANK"
 msgstr "等级"
 
-#: slot/0x0056aa31/0xa672ad/0x4727a4
-msgid "APTITUDE"
-msgstr "适性"
+#: slot/0x007b474a/0xff329e/0xef9533
+msgid "Clear Rank"
+msgstr "通关评价"
 
-#: slot/0x0056aa31/0xa672ad/0x87bddf
-#: slot/0x0074a6ca/0xcc15c0/0x1facc2
-#: slot/0x0074a6ca/0xcc15c0/0x52c57c
-msgid "BULLETS"
-msgstr "子弹"
+#: slot/0x0081443c/0xa270a1/0x000064
+msgid "No, don't!"
+msgstr "不，别这样！"
 
-#: slot/0x0056aa31/0xa672ad/0x882602
-msgid "ITEM"
-msgstr "物"
+#: slot/0x0081443c/0xa270a1/0x0000c8
+msgid "I don't know anything!"
+msgstr "我啥都不知道！"
 
-#: slot/0x0056aa31/0xa672ad/0xaa47bf
-#: slot/0x0081e50b/0x6420cf/0x78d751
-msgid "SOLDIERS"
-msgstr "士兵"
+#: slot/0x0081443c/0xa270a1/0x00012c
+msgid "What are you doing! You're gonna regret this!"
+msgstr "你干什么！你会后悔的！"
 
-#: slot/0x0056aa31/0xa672ad/0xfb3e6c
-msgid "SKILLS"
-msgstr "技能"
+#: slot/0x0081443c/0xa270a1/0x000190
+msgid "H-help...!"
+msgstr "救、救命……！"
 
-#: slot/0x005a5b84/0x9c12db/0x0730f7
-#: slot/0x005a5b84/0x9c12db/0xed5101
-#: slot/0x00726933/0xdb8c41/0x5f91ec
-msgid "CLOSE"
-msgstr "关"
+#: slot/0x0081443c/0xa270a1/0x0001f4
+msgid "There's a prisoner..."
+msgstr "有个囚犯……"
 
-#: slot/0x005a5b84/0x9c12db/0x0e634f
-msgid "ENTER"
-msgstr "确"
+#: slot/0x0081443c/0xa270a1/0x000258
+#: slot/0x0081443c/0xa270a1/0x000a28
+msgid "...in a room to the north."
+msgstr "……在北边房间。"
 
-#: slot/0x005a5b84/0x9c12db/0x1b4b60
-msgid "L button"
-msgstr "L 键"
+#: slot/0x0081443c/0xa270a1/0x0002bc
+#: slot/0x0081443c/0xa270a1/0x000a8c
+msgid "...in a room to the northeast."
+msgstr "……在东北房间。"
 
-#: slot/0x005a5b84/0x9c12db/0x1b4c20
-msgid "R button"
-msgstr "R 键"
+#: slot/0x0081443c/0xa270a1/0x000320
+#: slot/0x0081443c/0xa270a1/0x000af0
+msgid "...in a room to the east."
+msgstr "……在东边房间。"
 
-#: slot/0x005a5b84/0x9c12db/0x329c3a
-msgid "START button"
-msgstr "START 键"
+#: slot/0x0081443c/0xa270a1/0x000384
+#: slot/0x0081443c/0xa270a1/0x000b54
+msgid "...in a room to the southeast."
+msgstr "……在东南房间。"
 
-#: slot/0x005a5b84/0x9c12db/0x68d179
-#: slot/0x00b9910a/0x9dc379/0xdb198e
-msgid "SELECT button"
-msgstr "SELECT 键"
+#: slot/0x0081443c/0xa270a1/0x0003e8
+#: slot/0x0081443c/0xa270a1/0x000bb8
+msgid "...in a room to the south."
+msgstr "……在南边房间。"
 
-#: slot/0x005a5b84/0x9c12db/0x78da4e
-msgid "<I=○> button"
-msgstr "<I=○> 键"
+#: slot/0x0081443c/0xa270a1/0x00044c
+#: slot/0x0081443c/0xa270a1/0x000c1c
+msgid "...in a room to the southwest."
+msgstr "……在西南房间。"
 
-#: slot/0x005a5b84/0x9c12db/0x78da4f
-msgid "<I=×> button"
-msgstr "<I=×> 键"
+#: slot/0x0081443c/0xa270a1/0x0004b0
+#: slot/0x0081443c/0xa270a1/0x000c80
+msgid "...in a room to the west."
+msgstr "……在西边房间。"
 
-#: slot/0x005a5b84/0x9c12db/0x78da51
-msgid "down button"
-msgstr "下键"
+#: slot/0x0081443c/0xa270a1/0x000514
+#: slot/0x0081443c/0xa270a1/0x000ce4
+msgid "...in a room to the northwest."
+msgstr "……在西北房间。"
 
-#: slot/0x005a5b84/0x9c12db/0x78da59
-msgid "left button"
-msgstr "左键"
+#: slot/0x0081443c/0xa270a1/0x000578
+msgid "There's a high-skill soldier..."
+msgstr "有个高技能士兵……"
 
-#: slot/0x005a5b84/0x9c12db/0x78da5f
-msgid "right button"
-msgstr "右键"
+#: slot/0x0081443c/0xa270a1/0x0005dc
+#: slot/0x0081443c/0xa270a1/0x000d48
+msgid "...to the north."
+msgstr "……在北边。"
 
-#: slot/0x005a5b84/0x9c12db/0x78da62
-msgid "up button"
-msgstr "上键"
+#: slot/0x0081443c/0xa270a1/0x000640
+#: slot/0x0081443c/0xa270a1/0x000dac
+msgid "...to the northeast."
+msgstr "……在东北。"
 
-#: slot/0x005a5b84/0x9c12db/0x78da65
-msgid "<I=△> button"
-msgstr "<I=△> 键"
+#: slot/0x0081443c/0xa270a1/0x0006a4
+#: slot/0x0081443c/0xa270a1/0x000e10
+msgid "...to the east."
+msgstr "……在东边。"
 
-#: slot/0x005a5b84/0x9c12db/0x78da66
-msgid "<I=□> button"
-msgstr "<I=□> 键"
+#: slot/0x0081443c/0xa270a1/0x000708
+#: slot/0x0081443c/0xa270a1/0x000e74
+msgid "...to the southeast."
+msgstr "……在东南。"
 
-#: slot/0x005a5b84/0x9c12db/0x94c62a
-#: slot/0x005a5b84/0x9c12db/0x977fb2
-msgid "TOP"
-msgstr "顶部"
+#: slot/0x0081443c/0xa270a1/0x00076c
+#: slot/0x0081443c/0xa270a1/0x000ed8
+msgid "...to the south."
+msgstr "……在南边。"
 
-#: slot/0x005a5b84/0x9c12db/0x964840
-#: slot/0x005a5b84/0x9c12db/0xed7940
-msgid "OPEN"
-msgstr "开"
+#: slot/0x0081443c/0xa270a1/0x0007d0
+#: slot/0x0081443c/0xa270a1/0x000f3c
+msgid "...to the southwest."
+msgstr "……在西南。"
 
-#: slot/0x005a5b84/0x9c12db/0xf21561
-msgid "CH"
-msgstr "频道"
+#: slot/0x0081443c/0xa270a1/0x000834
+#: slot/0x0081443c/0xa270a1/0x000fa0
+msgid "...to the west."
+msgstr "……在西边。"
 
-#: slot/0x005caf77/0x132a46/0x937448
-msgid "An error has occurred. Error number:"
-msgstr "发生错误。错误编号："
+#: slot/0x0081443c/0xa270a1/0x000898
+#: slot/0x0081443c/0xa270a1/0x001004
+msgid "...to the northwest."
+msgstr "……在西北。"
 
-#: slot/0x005caf77/0x132a46/0x937449
+#: slot/0x0081443c/0xa270a1/0x0008fc
+#: slot/0x0081443c/0xa270a1/0x001068
+msgid "...up above."
+msgstr "……在上方。"
+
+#: slot/0x0081443c/0xa270a1/0x000960
+#: slot/0x0081443c/0xa270a1/0x0010cc
+msgid "...down below."
+msgstr "……在下方。"
+
+#: slot/0x0081443c/0xa270a1/0x0009c4
+msgid "There's an item..."
+msgstr "有个道具……"
+
+#: slot/0x0081443c/0xa270a1/0x001130
+msgid "...but, not here!"
+msgstr "……但不在这里！"
+
+#: slot/0x0081443c/0xa270a1/0x001194
+msgid "...but it's not here!"
+msgstr "……不在这！"
+
+#: slot/0x0081443c/0xa270a1/0x0011f8
+msgid "Come for the prisoner, have you?!"
+msgstr "你是来找俘虏的吧？！"
+
+#: slot/0x0081443c/0xa270a1/0x00125c
+msgid "I-I'll show you where the prisoner is."
+msgstr "我、我告诉你俘虏在哪。"
+
+#: slot/0x0081443c/0xa270a1/0x0012c0
+msgid "So THIS is what you're after!"
+msgstr "原来你要的是这个！"
+
+#: slot/0x0081443c/0xa270a1/0x001324
+msgid "I-I'll show you where the item is."
+msgstr "我、我告诉你道具在哪。"
+
+#: slot/0x0081443c/0xa270a1/0x001388
+msgid "I-I'll show you where the guard is."
+msgstr "我、我告诉你守卫在哪。"
+
+#: slot/0x0081443c/0xa270a1/0x0013ec
+msgid "My comrades... "
+msgstr "同伴……"
+
+#: slot/0x0081443c/0xa270a1/0x001450
+msgid "...are something special."
+msgstr "……可不一般。"
+
+#: slot/0x0081443c/0xa270a1/0x0014b4
+msgid "...are pretty damn average."
+msgstr "……其实很普通。"
+
+#: slot/0x0081443c/0xa270a1/0x001518
+msgid "Try checking to the north."
+msgstr "去北边找找看。"
+
+#: slot/0x0081443c/0xa270a1/0x00157c
+msgid "Try checking to the northeast."
+msgstr "去东北边找找看。"
+
+#: slot/0x0081443c/0xa270a1/0x0015e0
+msgid "Try checking to the east."
+msgstr "去东边找找看。"
+
+#: slot/0x0081443c/0xa270a1/0x001644
+msgid "Try checking to the southeast."
+msgstr "去东南边找找看。"
+
+#: slot/0x0081443c/0xa270a1/0x0016a8
+msgid "Try checking to the south."
+msgstr "去南边找找看。"
+
+#: slot/0x0081443c/0xa270a1/0x00170c
+msgid "Try checking to the southwest."
+msgstr "去西南边找找看。"
+
+#: slot/0x0081443c/0xa270a1/0x001770
+msgid "Try checking to the west."
+msgstr "去西边找找看。"
+
+#: slot/0x0081443c/0xa270a1/0x0017d4
+msgid "Try checking to the northwest."
+msgstr "去西北边找找看。"
+
+#: slot/0x0081443c/0xa270a1/0x001838
+msgid "Try checking above."
+msgstr "去上方找找。"
+
+#: slot/0x0081443c/0xa270a1/0x00189c
+msgid "Try checking below."
+msgstr "去下方找找。"
+
+#: slot/0x0081443c/0xa270a1/0x001900
+msgid "There's a highly-skilled soldier around. So I heard, anyway."
+msgstr "附近有个身手了得的兵。听说是这样。"
+
+#: slot/0x0081443c/0xa270a1/0x0019c8
+msgid "I-I have a daughter and she's just turning 5..."
+msgstr "我、我还有个女儿，才刚满5岁……"
+
+#: slot/0x0081443c/0xa270a1/0x001a2c
+msgid "I-I have parents to take care of..."
+msgstr "我、我还有父母要养……"
+
+#: slot/0x0081443c/0xa270a1/0x001a90
+msgid "...Not!"
+msgstr "……才怪！"
+
+#: slot/0x0081443c/0xa270a1/0x001af4
+msgid "Nooo! I don't wanna die!"
+msgstr "不要啊！我不想死！"
+
+#: slot/0x0081443c/0xa270a1/0x001b58
+msgid "Y-you heard about this?"
+msgstr "你、你也听说这事了？"
+
+#: slot/0x0081443c/0xa270a1/0x001c20
+msgid "Killing me won't change anything!"
+msgstr "杀了我什么也改变不了！"
+
+#: slot/0x0081443c/0xa270a1/0x001c84
+msgid "So you're the reason all these men have disappeared..."
+msgstr "这么说，那些人失踪都是你干的……"
+
+#: slot/0x0081443c/0xa270a1/0x001ce8
+msgid "If you're going to kill me, then kill me. I'm no snitch."
+msgstr "要杀就杀。我绝不会出卖别人。"
+
+#: slot/0x0081443c/0xa270a1/0x001d4c
+msgid "I-I'm not even worth killing!"
+msgstr "我、我连被杀的价值都没有！"
+
+#: slot/0x0081443c/0xa270a1/0x001db0
+msgid "Oh, no... Is this it?"
+msgstr "哦，不……就这样完了吗？"
+
+#: slot/0x0081443c/0xa270a1/0x001e14
+msgid "I-I don't know anything..."
+msgstr "我、我什么都不知道……"
+
+#: slot/0x0081443c/0xa270a1/0x001e78
+msgid "You're the one behind all this?"
+msgstr "都是你在背后搞鬼？"
+
+#: slot/0x0081443c/0xa270a1/0x001f40
+msgid "Please, spare me!"
+msgstr "求求你，饶了我吧！"
+
+#: slot/0x0081443c/0xa270a1/0x001fa4
+msgid "You know, I can get you information..."
+msgstr "我能给你情报……"
+
+#: slot/0x0081443c/0xa270a1/0x002008
+msgid "What do you have to lose, right? Heh heh..."
+msgstr "反正你也没啥损失，对吧？嘿嘿……"
+
+#: slot/0x0081443c/0xa270a1/0x00206c
+msgid "You don't have to do this!"
+msgstr "你不必这么做！"
+
+#: slot/0x0081443c/0xa270a1/0x0020d0
+msgid "I don't think you want to kill me..."
+msgstr "我觉得你并不想杀我……"
+
+#: slot/0x0081443c/0xa270a1/0x002134
+msgid "Not bad."
+msgstr "不错。"
+
+#: slot/0x0081443c/0xa270a1/0x002198
+msgid "Not many people sneak up on me."
+msgstr "能悄无声息靠近我的人可不多。"
+
+#: slot/0x0081443c/0xa270a1/0x0021fc
+msgid "I wouldn't mind joining someone like you."
+msgstr "跟着你这样的人，我不介意。"
+
+#: slot/0x0081443c/0xa270a1/0x002260
+msgid "I, uh, I want to join you!"
+msgstr "我、我想加入你们！"
+
+#: slot/0x0081443c/0xa270a1/0x0022c4
+msgid "Join me and we can take over the world..."
+msgstr "跟我联手就能统治世界……"
+
+#: slot/0x0081443c/0xa270a1/0x00238c
+msgid "You know, I DO have special powers..."
+msgstr "我可有特殊能力……"
+
+#: slot/0x0081443c/0xa270a1/0x002454
+msgid "...Maybe so."
+msgstr "……也许吧。"
+
+#: slot/0x0081443c/0xa270a1/0x0024b8
+msgid "...That's possible."
+msgstr "有可能。"
+
+#: slot/0x0081443c/0xa270a1/0x00251c
+msgid "You can hang from suspension bridges."
+msgstr "你可以挂在吊桥上。"
+
+#: slot/0x0081443c/0xa270a1/0x002580
+msgid "Some places you can only reach with a partner."
+msgstr "有些地方得和同伴一起去。"
+
+#: slot/0x0081443c/0xa270a1/0x0026ac
+msgid "I-I saw a dinosaur around here before."
+msgstr "我、我之前在这见过恐龙。"
+
+#: slot/0x0081443c/0xa270a1/0x002710
 msgid ""
-"The WLAN/WIRELESS switch is not turned on.\n"
-"Turn it on to connect."
-msgstr "WLAN/无线开关未打开。\n请打开后连接。"
-
-#: slot/0x005caf77/0x132a46/0x93744b
-#: slot/0x00cba83b/0x029324/0x8e25be
-msgid "Failed to connect to server."
-msgstr "连接服务器失败。"
-
-#: slot/0x005caf77/0x34cd5c/0x16cc30
-msgid "New Save Data"
-msgstr "新建存档"
-
-#: slot/0x005caf77/0x34cd5c/0x32ed5d
-msgid "Play Time"
-msgstr "时长"
-
-#: slot/0x005caf77/0x34cd5c/0xbbd985
-#, c-format
-msgid "%02d/%02d/%04d %s"
-msgstr "%02d/%02d/%04d %s"
-
-#: slot/0x005caf77/0x34cd5c/0xbdbab4
-#: slot/0x00d2a877/0xcbb801/0x9cd659
-msgid "METAL GEAR SOLID PEACE WALKER"
-msgstr "METAL GEAR SOLID PEACE WALKER"
-
-#: slot/0x005caf77/0x34cd5c/0xde0ae1
-msgid "Player Name"
-msgstr "玩家名"
-
-#: slot/0x005caf77/0x3ce568/0x0ca408
-#: slot/0x0068bf67/0x7c7faa/0x919bcf
-#: slot/0x0074a6ca/0x82e3c9/0x618acd
-#: slot/0x0074a6ca/0xcc15c0/0xbb9308
-msgid "ITEMS"
-msgstr "道具"
-
-#: slot/0x005caf77/0x3ce568/0x1ed30b
-msgid "SENT TO MOTHER BASE"
-msgstr "已送往母基地"
-
-#: slot/0x005caf77/0x3ce568/0x519da7
-#: slot/0x0068bf67/0x7c7faa/0x8ab675
-#: slot/0x0074a6ca/0x82e3c9/0x394bcf
-#: slot/0x0074a6ca/0xcc177c/0xbb9308
-msgid "WEAPONS"
-msgstr "武器"
-
-#: slot/0x005caf77/0x3ce568/0x5a64ba
-#: slot/0x0074a6ca/0xcc15c0/0x6c9706
-#: slot/0x0074a6ca/0xcc177c/0x7a7706
-#: slot/0x009a9677/0x41e0e1/0x3b3e18
-#: slot/0x009a9677/0x41e0e1/0x4cbe33
-msgid "N/A"
-msgstr "无"
-
-#: slot/0x005caf77/0x3ce568/0x8370e6
-#: slot/0x0081e50b/0x6420cf/0x30de66
-#: slot/0x0097f0b2/0xcd1d58/0x6794ea
-#: slot/0x009a9677/0x41e0e1/0xd369b9
-msgid "B"
-msgstr "B"
-
-#: slot/0x005caf77/0x3ce568/0x852ac4
-#: slot/0x0074a6ca/0xcc177c/0x309716
-#: slot/0x009a9677/0x41e0e1/0x6a1ada
-msgid "CQC"
-msgstr "CQC"
-
-#: slot/0x005caf77/0x3ce568/0x857306
-msgid "USE:"
-msgstr "使用："
-
-#: slot/0x005caf77/0x3ce568/0x8587fb
-#: slot/0x0074a6ca/0xcc177c/0x30f44d
-#: slot/0x009a9677/0x41e0e1/0xd82f15
-msgid "ZZZ"
-msgstr "ZZZ"
-
-#: slot/0x005caf77/0x3ce568/0xa5de60
-msgid "DROP:"
-msgstr "丢弃："
-
-#: slot/0x005caf77/0x3ce568/0xa80716
-#: slot/0x009a9677/0x41e0e1/0x18205d
-msgid "RELOADING"
-msgstr "装填中"
-
-#: slot/0x005caf77/0x3ce568/0xad671e
-#: slot/0x0074a6ca/0xcc177c/0x30d781
-#: slot/0x009a9677/0x41e0e1/0xd81249
-msgid "STN"
-msgstr "STN"
-
-#: slot/0x005caf77/0x3ce568/0xb73540
-msgid "CANNOT GET"
-msgstr "拿不到"
-
-#: slot/0x005caf77/0x3ce568/0xc950ed
-msgid "EMPTY"
-msgstr "空"
-
-#: slot/0x005caf77/0x3ce568/0xd283b9
-msgid "CHANGE:"
-msgstr "切换"
-
-#: slot/0x005caf77/0x8b79b6/0x05137c
-msgid "Start game without saving data?"
-msgstr "不保存数据开始游戏？"
-
-#: slot/0x005caf77/0x8b79b6/0x0c06a1
-msgid ""
-"Failed to capture screenshot.\r\n"
-"Could not create screenshot data folder."
-msgstr "截图失败。\r\n无法创建截图数据文件夹。"
-
-#: slot/0x005caf77/0x8b79b6/0x131080
-msgid ""
-"Insufficient free space on the \r\n"
-"Memory<I=BL>Stick<I=TM>.\n"
-"This game requires at least 544KB of free space in order to save data."
-msgstr "存储卡上的可用空间不足，\r\nMemory<I=BL>Stick<I=TM>。\r\n本游戏至少需要544KB的可用空间才能保存数据。"
-
-#: slot/0x005caf77/0x8b79b6/0x1329fc
-msgid "Corrupted installed data has been deleted."
-msgstr "已删除损坏的安装数据。"
-
-#: slot/0x005caf77/0x8b79b6/0x17d9ff
-msgid ""
-"An error occurred while reading data from the Memory<I=BL>Stick<I=TM>. Installed data and/or downloaded data may be corrupted.\n"
-"It is recommended that you reinstall."
-msgstr "从Memory<I=BL>Stick<I=TM>读取数据时发生错误。安装数据和/或下载数据可能已损坏。\n建议重新安装。"
-
-#: slot/0x005caf77/0x8b79b6/0x220a93
-msgid ""
-"Checking Memory<I=BL>Stick<I=TM>...\n"
-"Do not remove the Memory<I=BL>Stick<I=TM> \n"
-"or turn off the power."
-msgstr "正在检查Memory<I=BL>Stick<I=TM>...\n请勿拔出Memory<I=BL>Stick<I=TM>\n或关闭电源。"
-
-#: slot/0x005caf77/0x8b79b6/0x2a761c
-msgid "Data installation features were disabled because the Memory<I=BL>Stick<I=TM> was removed or sleep mode was entered. Enable them?"
-msgstr "由于Memory<I=BL>Stick<I=TM>被拔出或进入睡眠模式，数据安装功能已禁用。要启用吗？"
-
-#: slot/0x005caf77/0x8b79b6/0x2a922e
-msgid "Exit game without saving data?"
-msgstr "不保存数据退出游戏？"
-
-#: slot/0x005caf77/0x8b79b6/0x2cc873
-msgid ""
-"Failed to capture screenshot.\r\n"
-"Could not create screenshot data file."
-msgstr "截图失败。\r\n无法创建截图数据文件。"
-
-#: slot/0x005caf77/0x8b79b6/0x2e2681
-msgid ""
-"Failed to capture screenshot.\r\n"
-"The Memory<I=BL>Stick<I=TM> is not\r\n"
-"inserted properly."
-msgstr "截图失败。\r\n未正确插入\r\n存储<I=BL>卡<I=TM>。"
-
-#: slot/0x005caf77/0x8b79b6/0x368dde
-msgid "This game relies on the save file you initially create. Please do not remove the Memory<I=BL>Stick<I=TM> or change it for another Memory<I=BL>Stick<I=TM> during gameplay as this may cause your save file to become disrupted."
-msgstr "本游戏依赖初次创建的存档。游玩中请勿拔出存储<I=BL>卡<I=TM>或更换其他存储<I=BL>卡<I=TM>，否则可能导致存档损坏。"
-
-#: slot/0x005caf77/0x8b79b6/0x3b222d
-msgid ""
-"This game saves data automatically\r\n"
-"at certain points. Do not remove\r\n"
-"the Memory<I=BL>Stick<I=TM> or switch off\r\n"
-"the PSP<I=TM> system when \n"
-"the Memory<I=BL>Stick<I=TM> access \n"
-"indicator is flashing."
-msgstr "本游戏会在某些时间点自动保存数据。\r\n请勿在Memory<I=BL>Stick<I=TM>的\r\n存取指示灯闪烁时取出\r\nMemory<I=BL>Stick<I=TM>或关闭\r\nPSP<I=TM>主机电源。\r\n存取指示灯闪烁时。"
-
-#: slot/0x005caf77/0x8b79b6/0x437cf5
-msgid ""
-"Insufficient free space on\r\n"
-"the Memory<I=BL>Stick<I=TM>. This game requires \r\n"
-"at least XXMB of free space in order \r\n"
-"to save data. This game cannot be played \r\n"
-"without a Memory<I=BL>Stick<I=TM>. Delete data \n"
-"to \rcreate additional free space, or insert \r\n"
-"a Memory<I=BL>Stick<I=TM> with at least XXMB\r\n"
-"of free space."
-msgstr "存储<I=BL>卡<I=TM>的剩余空间\r\n不足。本游戏保存数据至少需要\r\nXXMB 的剩余空间。没有\r\n存储<I=BL>卡<I=TM>将无法游玩本游戏。\r\n请删除数据以\r\n腾出空间，或插入\r\n一张至少有 XXMB\r\n剩余空间的存储<I=BL>卡<I=TM>。"
-
-#: slot/0x005caf77/0x8b79b6/0x4762bf
-msgid ""
-"An error has occurred.\r\n"
-"Failed to capture screenshot."
-msgstr "发生错误。\r\n截图失败。"
-
-#: slot/0x005caf77/0x8b79b6/0x4b32b5
-msgid "No data on the Memory<I=BL>Stick<I=TM>."
-msgstr "存储<I=BL>卡<I=TM>中没有数据。"
-
-#: slot/0x005caf77/0x8b79b6/0x53ae98
-msgid ""
-"Failed to capture screenshot.\r\n"
-"There is not enough free space on\r\n"
-"the Memory<I=BL>Stick<I=TM>. At least 64KB\r\n"
-"of free space is needed to save\r\n"
-"screenshot data."
-msgstr "截图失败。\r\n存储<I=BL>卡<I=TM>的剩余空间\r\n不足。保存截图数据至少\r\n需要 64KB 的\r\n剩余空间。"
-
-#: slot/0x005caf77/0x8b79b6/0x557616
-msgid "Disconnecting from network..."
-msgstr "断开网络中……"
-
-#: slot/0x005caf77/0x8b79b6/0x5c26bc
-msgid "Saving screenshot data..."
-msgstr "保存截图数据……"
-
-#: slot/0x005caf77/0x8b79b6/0x5f4765
-msgid ""
-"The Memory<I=BL>Stick<I=TM> is not inserted\r\n"
-"correctly. This game cannot be played\r\n"
-"without a Memory<I=BL>Stick<I=TM>. Please insert\r\n"
-"a Memory<I=BL>Stick<I=TM> with at least 33MB\r\n"
-"of free space."
-msgstr "Memory<I=BL>Stick<I=TM>未正确插入。\r\n没有Memory<I=BL>Stick<I=TM>将无法游玩本游戏。\r\n请插入至少有33MB可用空间的\r\nMemory<I=BL>Stick<I=TM>。\r\n可用空间。"
-
-#: slot/0x005caf77/0x8b79b6/0x70268a
-msgid ""
-"(不要)タイトルメニューに戻ります。\n"
-"よろしいですか？"
-msgstr "(不要)タイトルメニューに戻ります。\nよろしいですか？"
-
-#: slot/0x005caf77/0x8b79b6/0x704f39
-msgid "The Memory<I=BL>Stick<I=TM> was removed or Sleep Mode was entered. Exiting menu."
-msgstr "存储<I=BL>卡<I=TM>被拔出或进入睡眠模式。退出菜单。"
-
-#: slot/0x005caf77/0x8b79b6/0x80d48f
-msgid ""
-"Features that use data on the Memory<I=BL>Stick<I=TM> were disabled after an error occurred while reading data from it. \n"
-"These features will be available only after initialization. Perform initialization?"
-msgstr "读取存储<I=BL>卡<I=TM>数据时发生错误，使用其中数据的功能已被禁用。\n这些功能需初始化后才能使用。是否执行初始化？"
-
-#: slot/0x005caf77/0x8b79b6/0x823848
-msgid ""
-"Failed to save.\n"
-"The Memory<I=BL>Stick<I=TM> is locked."
-msgstr "保存失败。\n存储<I=BL>卡<I=TM>已锁定。"
-
-#: slot/0x005caf77/0x8b79b6/0x82f915
-msgid ""
-"Unable to create new save data.\r\n"
-"The maximum number of save data \r\n"
-"files (3) already exists.\r\n"
-"Switch to a Memory<I=BL>Stick<I=TM> with \r\n"
-"less than 3 data files on it, \r\n"
-"or delete save data from \r\n"
-"the current Memory<I=BL>Stick<I=TM> \r\n"
-"so less than 3 exist."
-msgstr "无法创建新的保存数据。\r\n保存数据文件数量已达\r\n上限（3个）。\r\n请换用保存数据少于3个的\r\nMemory<I=BL>Stick<I=TM>，\r\n或从当前的\r\nMemory<I=BL>Stick<I=TM>中删除保存数据，\r\n使保存数据少于3个。"
-
-#: slot/0x005caf77/0x8b79b6/0x8911d9
-msgid ""
-"The Memory<I=BL>Stick<I=TM> is not inserted \n"
-"correctly. This game cannot be played \n"
-"without a Memory<I=BL>Stick<I=TM>. Please insert \n"
-"a Memory<I=BL>Stick<I=TM> with save data from \n"
-"this game, or one with at least 33MB \n"
-"of free space."
+"The faster you press the button with a cardiac\n"
+"massage, the faster the person will recover."
 msgstr ""
+"做心脏按摩时按键越快，\n"
+"对方恢复得越快。"
 
-#: slot/0x005caf77/0x8b79b6/0x8cee30
-msgid "(不要)クリアデータをセーブしますか？"
-msgstr "(不要)クリアデータをセーブしますか？"
+#: slot/0x0081443c/0xa270a1/0x0028a0
+msgid "Helmets are normally bullet-proof."
+msgstr "头盔通常能防弹。"
 
-#: slot/0x005caf77/0x8b79b6/0x915aaa
+#: slot/0x0081443c/0xa270a1/0x002a30
 msgid ""
-"The Memory<I=BL>Stick<I=TM> is not inserted \n"
-"correctly. Please insert a \n"
-"Memory<I=BL>Stick<I=TM> with your save data."
-msgstr "未正确插入存储<I=BL>卡<I=TM>。\n请插入存有\n您的存档的存储<I=BL>卡<I=TM>。"
-
-#: slot/0x005caf77/0x8b79b6/0x93a0b2
-msgid ""
-"Save data does not exist.\r\n"
-"Please insert a Memory<I=BL>Stick<I=TM> \r\n"
-"with your save data."
-msgstr "存档不存在。\r\n请插入存有\r\n您的存档的存储<I=BL>卡<I=TM>。"
-
-#: slot/0x005caf77/0x8b79b6/0xa6ed53
-msgid ""
-"Failed to capture screenshot.\r\n"
-"The Write Protect Switch on the\r\n"
-"Memory<I=BL>Stick<I=TM> is locked."
-msgstr "截图失败。\r\n存储<I=BL>卡<I=TM>的写保护\r\n开关已锁定。"
-
-#: slot/0x005caf77/0x8b79b6/0xaa0c5c
-msgid ""
-"This game uses a Data Installation feature.\n"
-"Removing the Memory<I=BL>Stick<I=TM> or entering Sleep Mode during gameplay will temporarily disable access to installed game data.\n"
-"\n"
-"* Data Installation speeds up load times and enables audio for CODEC calls during gameplay.\n"
-"\n"
-"If the Data Installation feature is disabled, it can be  restored by returning to the Mission Select screen."
-msgstr "本游戏使用数据安装功能。\n游玩中拔出存储<I=BL>卡<I=TM>或进入睡眠模式，将暂时无法访问已安装的游戏数据。\n\n* 数据安装可加快读取速度，并启用游玩中 CODEC 通话的语音。\n\n若数据安装功能被禁用，返回任务选择画面即可恢复。"
-
-#: slot/0x005caf77/0x8b79b6/0xacdf21
-msgid "Unable to save."
-msgstr "无法保存。"
-
-#: slot/0x005caf77/0x8b79b6/0xb2a743
-msgid "Connecting to network..."
-msgstr "正在连接网络……"
-
-#: slot/0x005caf77/0x8b79b6/0xb9cf74
-msgid ""
-"Recovered from sleep mode.\n"
-"Data on the Memory<I=BL>Stick<I=TM> must now be updated. Exit menu and then enter it again."
-msgstr "已从睡眠模式恢复。\n必须更新存储<I=BL>卡<I=TM>上的数据。请退出菜单后重新进入。"
-
-#: slot/0x005caf77/0x8b79b6/0xbb65cf
-msgid ""
-"The Memory<I=BL>Stick<I=TM> is not inserted \n"
-"correctly. This game requires at least \n"
-"33MB of free space in order to save \n"
-"data."
-msgstr "存储<I=BL>卡<I=TM>未正确插入。\n本游戏至少需要\n33MB 可用空间才能保存\n数据。"
-
-#: slot/0x005caf77/0x8b79b6/0xbba0fd
-msgid ""
-"Saving... \n"
-"Do not remove the Memory<I=BL>Stick<I=TM> \n"
-"or turn off the power."
-msgstr "保存中……\n请勿拔出存储<I=BL>卡<I=TM>\n或关闭电源。"
-
-#: slot/0x005caf77/0x8b79b6/0xbdbae8
-msgid "Data is corrupt."
-msgstr "数据损坏。"
-
-#: slot/0x005caf77/0x8b79b6/0xbf8c25
-msgid ""
-"(不要)ゲームを続行することができません。\n"
-"タイトルに戻りますか？"
-msgstr "(不要)无法继续游戏。\n要返回标题画面吗？"
-
-#: slot/0x005caf77/0x8b79b6/0xc792ef
-msgid ""
-"Screenshot data saved under the following\r\n"
-"name:\r\n"
-"filenamefilenamefilenamefilenamefilename"
-msgstr "截图数据已保存为以下\r\n名称：\r\nfilenamefilenamefilenamefilenamefilename"
-
-#: slot/0x005caf77/0x8b79b6/0xcd693c
-msgid ""
-"Data installation features failed to activate.\n"
-"Data may be corrupted. \n"
-"It is recommended that you reinstall from the DATA INSTALL menu on the title menu."
-msgstr "数据安装功能启动失败。\n数据可能已损坏。\n建议从标题菜单的 DATA INSTALL 重新安装。"
-
-#: slot/0x005caf77/0x8b79b6/0xd24e1f
-msgid ""
-"Failed to initialize data on the Memory<I=BL>Stick<I=TM>.\n"
-"Data may be corrupted."
-msgstr "无法初始化存储<I=BL>卡<I=TM>上的数据。\n数据可能已损坏。"
-
-#: slot/0x005caf77/0x8b79b6/0xd2e783
-msgid ""
-"Unable to save.\r\n"
-"Retry?"
-msgstr "无法保存。\r\n重试？"
-
-#: slot/0x005caf77/0x8b79b6/0xd34610
-msgid "The Memory<I=BL>Stick<I=TM> contains corrupt system data.  Would you like to select the data in order to delete it?  "
-msgstr "存储<I=BL>卡<I=TM>中存在损坏的系统数据。是否选择该数据将其删除？"
-
-#: slot/0x005caf77/0x8b79b6/0xe19f82
-msgid ""
-"A Memory<I=BL>Stick<I=TM> was inserted.\n"
-"Data on the Memory<I=BL>Stick<I=TM> must now be updated. Please exit the menu and then enter it again to update."
-msgstr "已插入存储<I=BL>卡<I=TM>。\n必须更新存储<I=BL>卡<I=TM>上的数据。请退出菜单后重新进入以更新。"
-
-#: slot/0x005caf77/0x8b79b6/0xe5e0de
-msgid "Would you like to select data files to delete?"
-msgstr "是否选择要删除的数据文件？"
-
-#: slot/0x005caf77/0x8b79b6/0xe605f1
-#: slot/0x00b9910a/0x21535e/0x612f50
-msgid "Yes"
-msgstr "是"
-
-#: slot/0x005caf77/0x8b79b6/0xe93c5e
-msgid "The VOCALOID data selected in your CO-OPS COMM settings could not be found on this Memory<I=BL>Stick<I=TM>.  The corresponding CO-OPS COMM settings have been restored to default."
-msgstr "在合作任务通讯设置中选择的 VOCALOID 数据未在此存储<I=BL>卡<I=TM>中找到。相应的合作任务通讯设置已恢复为默认值。"
-
-#: slot/0x005caf77/0x8b79b6/0xe93ea0
-msgid "\rSaved successfully."
-msgstr "保存成功。"
-
-#: slot/0x005caf77/0x8b79b6/0xf71dce
-msgid ""
-"(不要)メモリースティック™が抜かれたため、\n"
-"オートセーブ機能がOFFになっています。\n"
-"オートセーブ機能がONの状態でないと、\n"
-"サイバーバルをプレイすることは出来ません。\n"
-"\n"
-"オートセーブ機能をＯＮにします。\n"
-"よろしいですか？"
-msgstr "(不要)由于存储卡™被拔出，\n自动保存功能已关闭。\n若自动保存功能未开启，\n将无法游玩赛博瓦尔。\n\n将开启自动保存功能。\n确定吗？"
-
-#: slot/0x005caf77/0x8b79b6/0xf72ed6
-#: slot/0x00b9910a/0x21535e/0x2c27b5
-msgid "No"
-msgstr "否"
-
-#: slot/0x005caf77/0x8b79b6/0xffa130
-msgid ""
-"Insufficient free space on\r\n"
-"the Memory<I=BL>Stick<I=TM>. This game requires \r\n"
-"at least XXMB of free space in order \r\n"
-"to save data."
-msgstr "存储<I=BL>卡<I=TM>可用空间不足。\r\n本游戏至少需要\r\nXXMB 可用空间才能\r\n保存数据。"
-
-#: slot/0x005caf77/0x95e004/0x6d61f6
-msgid "Contains unusable characters.  The following characters are not allowed."
-msgstr "包含不可用字符。以下字符不被允许。"
-
-#: slot/0x005caf77/0xb4becf/0x3df22b
-msgid "Remove Board:<I=×>"
-msgstr "移除板：<I=×>"
-
-#: slot/0x005caf77/0xb4becf/0x462c3e
-msgid ""
-"ATTENTION\n"
-"MEMORY TOWER LOCKED. CANNOT REMOVE MEMORY DRIVE NOW."
-msgstr "注意\n存储塔锁定。现在无法移除存储驱动器。"
-
-#: slot/0x005caf77/0xb4becf/0x9c9aa9
-msgid "MEMORY TOWER LOCKED"
-msgstr "存储塔已锁定"
-
-#: slot/0x005caf77/0xb4becf/0xaf002f
-#, c-format
-msgid "TIME + %02d"
-msgstr "时间 + %02d"
-
-#: slot/0x005d0a44/0x4f2958/0xf1b046
-msgid ""
-"Cutscene has been skipped. \n"
-"Please wait for other players to finish viewing the cutscene."
-msgstr "已跳过过场动画。\n请等待其他玩家看完过场动画。"
-
-#: slot/0x0062bf06/0xab50b5/0x000000
-msgid "KPZ 70"
-msgstr "KPZ 70"
-
-#: slot/0x0062bf06/0xab50b5/0x000001
-msgid "MBTK-70"
+"I'll tell you what I know.\n"
+"Just promise you'll let me go."
 msgstr ""
-
-#: slot/0x0062bf06/0xab50b5/0x000004
-msgid "LAV-G"
-msgstr "LAV-G"
-
-#: slot/0x0062bf06/0xab50b5/0x000005
-msgid "LAV-C"
-msgstr "LAV-C"
-
-#: slot/0x0062bf06/0xab50b5/0x000006
-msgid "BTR-60PA"
-msgstr ""
-
-#: slot/0x0062bf06/0xab50b5/0x000007
-msgid "BTR-60PB"
-msgstr ""
-
-#: slot/0x0062bf06/0xab50b5/0x000008
-msgid "MI-24A"
-msgstr ""
-
-#: slot/0x0062bf06/0xab50b5/0x000009
-msgid "MI-24D"
-msgstr ""
-
-#: slot/0x0062bf06/0xab50b5/0x00000a
-msgid "AH56A-B"
-msgstr ""
-
-#: slot/0x0062bf06/0xab50b5/0x00000b
-msgid "AH56A-R"
-msgstr ""
-
-#: slot/0x0062bf06/0xab50b5/0x00000c
-msgid "KPZ 70 (C)"
-msgstr "KPZ 70 (C)"
-
-#: slot/0x0062bf06/0xab50b5/0x00000d
-msgid "MBTK-70 (C)"
-msgstr "MBTK-70 (C)"
-
-#: slot/0x0062bf06/0xab50b5/0x00000e
-msgid "T-72U (C)"
-msgstr "T-72U (C)"
-
-#: slot/0x0062bf06/0xab50b5/0x00000f
-msgid "T-72A (C)"
-msgstr "T-72A (C)"
-
-#: slot/0x0062bf06/0xab50b5/0x000010
-msgid "LAV-G (C)"
-msgstr "LAV-G (C)"
-
-#: slot/0x0062bf06/0xab50b5/0x000011
-msgid "LAV-C (C)"
-msgstr "LAV-C (C)"
-
-#: slot/0x0062bf06/0xab50b5/0x000012
-msgid "BTR-60PA (C)"
-msgstr "BTR-60PA (C)"
-
-#: slot/0x0062bf06/0xab50b5/0x000013
-msgid "BTR-60PB (C)"
-msgstr "BTR-60PB (C)"
-
-#: slot/0x0062bf06/0xab50b5/0x000014
-msgid "MI-24A (C)"
-msgstr "MI-24A (C)"
-
-#: slot/0x0062bf06/0xab50b5/0x000015
-msgid "MI-24D (C)"
-msgstr "MI-24D (C)"
-
-#: slot/0x0062bf06/0xab50b5/0x000016
-msgid "AH56A-B (C)"
-msgstr "AH56A-B (C)"
-
-#: slot/0x0062bf06/0xab50b5/0x000017
-msgid "AH56A-R (C)"
-msgstr "AH56A-R (C)"
-
-#: slot/0x0062bf06/0xab50b5/0x000018
-msgid "CAPTAIN"
-msgstr "上尉"
-
-#: slot/0x0062e635/0x830d61/0x000000
-msgid "Commence target practice!"
-msgstr "开始打靶训练！"
-
-#: slot/0x0062e635/0xab2802/0x000000
-msgid "Training excercise complete."
-msgstr "训练完成。"
-
-#: slot/0x0068bf67/0x7c7faa/0x00f8cc
-msgid "WEIGHT:"
-msgstr "重："
-
-#: slot/0x0068bf67/0x7c7faa/0x02d73e
-msgid "> UNIFORM SELECT"
-msgstr "> 制服选择"
-
-#: slot/0x0068bf67/0x7c7faa/0x0be9e1
-msgid "Select equipment."
-msgstr "选择装备。"
-
-#: slot/0x0068bf67/0x7c7faa/0x1dd11e
-msgid "SNEAKING SUIT"
-msgstr "潜行服"
-
-#: slot/0x0068bf67/0x7c7faa/0x2f3ea0
-msgid "Select weapon."
-msgstr "选武器"
-
-#: slot/0x0068bf67/0x7c7faa/0x380ab4
-#: slot/0x0083b291/0xff8cbc/0x373407
-msgid "CO-OPS COMM."
-msgstr "合作任务通讯"
-
-#: slot/0x0068bf67/0x7c7faa/0x42d915
-msgid "DL UNIFORMS"
-msgstr "下制服"
-
-#: slot/0x0068bf67/0x7c7faa/0x4ca424
-msgid "Select the weapons, equipment, outfit, and CO-OPS Comm. messages to use during the mission."
-msgstr "选择任务中使用的武器、装备、服装及合作任务通讯信息。"
-
-#: slot/0x0068bf67/0x7c7faa/0x545a31
-msgid "Select outfit."
-msgstr "选服装。"
-
-#: slot/0x0068bf67/0x7c7faa/0x5af54d
-#: slot/0x00d9af4c/0x1bed50/0x7b0df8
-msgid "DETAILS"
-msgstr "详情"
-
-#: slot/0x0068bf67/0x7c7faa/0x62a7f8
-msgid "LIFE:"
-msgstr "生命值:"
-
-#: slot/0x0068bf67/0x7c7faa/0x658cd4
-msgid "Select character."
-msgstr "选择角色。"
-
-#: slot/0x0068bf67/0x7c7faa/0x6b6f90
-msgid "JUNGLE FATIGUES"
-msgstr "丛林迷彩服"
-
-#: slot/0x0068bf67/0x7c7faa/0x743b20
-msgid "JUNGLE "
-msgstr "丛林"
-
-#: slot/0x0068bf67/0x7c7faa/0x743b22
-msgid "CONCRETE"
-msgstr "水泥"
-
-#: slot/0x0068bf67/0x7c7faa/0x743b24
-msgid "SWAMP"
-msgstr "沼泽"
-
-#: slot/0x0068bf67/0x7c7faa/0x743b26
-msgid "TREE"
-msgstr "树"
-
-#: slot/0x0068bf67/0x7c7faa/0x743b28
-msgid "DIRT"
-msgstr "土"
-
-#: slot/0x0068bf67/0x7c7faa/0x743b2a
-msgid "ROCK"
-msgstr "石"
-
-#: slot/0x0068bf67/0x7c7faa/0x743b2c
-msgid "RUINS"
-msgstr "废墟"
-
-#: slot/0x0068bf67/0x7c7faa/0x85cccb
-msgid "DOWNLOADED UNIFORMS"
-msgstr "已下载制服"
-
-#: slot/0x0068bf67/0x7c7faa/0x8d358f
-msgid "UNIFORM"
-msgstr "制服"
-
-#: slot/0x0068bf67/0x7c7faa/0x955f7d
-msgid ""
-"Unable to acquire data.\n"
-"The Memory<I=BL>Stick<I=TM> is not inserted properly."
-msgstr "无法获取数据。\n存储<I=BL>卡<I=TM>未正确插入。"
-
-#: slot/0x0068bf67/0x7c7faa/0x9c651e
-#: slot/0x008aed23/0x94ae2b/0x83dc9a
-msgid "BACK: <I=CAN>"
-msgstr "返回: <I=CAN>"
-
-#: slot/0x0068bf67/0x7c7faa/0xa618eb
-msgid "Select preset CO-OPS Comm. messages."
-msgstr "选择预设合作通讯消息。"
-
-#: slot/0x0068bf67/0x7c7faa/0xc2d9b9
-msgid "PSYCHE:"
-msgstr "精神:"
-
-#: slot/0x0068bf67/0x7c7faa/0xeb30bc
-msgid ""
-"BACK: <I=CAN>\n"
-"UNEQUIP: <I=□>"
-msgstr "返回: <I=CAN>\n卸下: <I=□>"
-
-#: slot/0x0068bf67/0x7c7faa/0xf59369
-msgid "BATTLE DRESS"
-msgstr "战斗服"
-
-#: slot/0x00726933/0xdb8c41/0x02f683
-msgid "REQUEST ZEKE SONG CONVERSION"
-msgstr "请求吉克歌曲转换"
-
-#: slot/0x00726933/0xdb8c41/0x033a63
-msgid "Uploading VOCALOID data..."
-msgstr "上传VOCALOID数据..."
-
-#: slot/0x00726933/0xdb8c41/0x03e494
-msgid "There are no files selected."
-msgstr "未选择任何文件。"
-
-#: slot/0x00726933/0xdb8c41/0x04c8fc
-msgid "View, Delete, or Test additional content."
-msgstr "查看、删除或测试追加内容。"
-
-#: slot/0x00726933/0xdb8c41/0x057131
-msgid "REINSTALL SYSTEM DATA"
-msgstr "重装系统数据"
-
-#: slot/0x00726933/0xdb8c41/0x08d0f7
-msgid ""
-"EXTRAS\n"
-"[DOWNLOAD]"
-msgstr "追加内容\n[下载]"
-
-#: slot/0x00726933/0xdb8c41/0x0aa00c
-msgid "ZEKE Voice (VOCALOID Edit)"
-msgstr "吉克语音（VOCALOID编辑）"
-
-#: slot/0x00726933/0xdb8c41/0x0b2b3b
-msgid "Conversion Request: CO-OPS Comms"
-msgstr "转换请求：合作通讯"
-
-#: slot/0x00726933/0xdb8c41/0x0d8fc6
-#: slot/0x00cba83b/0x029324/0xce5adc
-#: slot/0x00cbf8c0/0x77999c/0x16e84e
-msgid "Disconnected from the network."
-msgstr "已断开网络连接。"
-
-#: slot/0x00726933/0xdb8c41/0x0d8fc7
-msgid ""
-"Disconnected from the network.\n"
-"Returning to EXTRAS menu."
-msgstr "已断开网络连接。\n返回追加内容菜单。"
-
-#: slot/0x00726933/0xdb8c41/0x1129f7
-msgid "Use NetVOCALOID to edit and upload/download music."
-msgstr "使用NetVOCALOID编辑并上传/下载音乐。"
-
-#: slot/0x00726933/0xdb8c41/0x14f170
-#: slot/0x00726933/0xdb8c41/0x69c6f4
-msgid "Download complete."
-msgstr "下载完成。"
-
-#: slot/0x00726933/0xdb8c41/0x14f360
-msgid "SELECT/DESELECT: <I=□>"
-msgstr "选择/取消：<I=□>"
-
-#: slot/0x00726933/0xdb8c41/0x172d33
-msgid "Terms of Use"
-msgstr "使用条款"
-
-#: slot/0x00726933/0xdb8c41/0x1990bb
-msgid "The PASSCODE menu allows you to enter passcodes to get items and soldiers."
-msgstr "在密码菜单中可输入密码获取道具和士兵。"
-
-#: slot/0x00726933/0xdb8c41/0x1999d7
-msgid "DOWNLOAD CONVERTED DATA"
-msgstr "下载转换数据"
-
-#: slot/0x00726933/0xdb8c41/0x242594
-msgid "Download has been cancelled."
-msgstr "下载已取消。"
-
-#: slot/0x00726933/0xdb8c41/0x2447f6
-msgid "CO-OPS comm. (VOCALOID Edit)"
-msgstr "合作通讯（VOCALOID）"
-
-#: slot/0x00726933/0xdb8c41/0x255a83
-msgid "EXTRAS"
-msgstr "追加内容"
-
-#: slot/0x00726933/0xdb8c41/0x27d002
-msgid "Start the download with the Confirm button."
-msgstr "按确认键开始下载。"
-
-#: slot/0x00726933/0xdb8c41/0x289f13
-msgid ""
-"Any already created Metal Gear ZEKE songs will be overwritten.\n"
-"Are you sure you want to proceed?"
-msgstr "已创建的合金装备·吉克歌曲将被覆盖。\n确定要继续吗？"
-
-#: slot/0x00726933/0xdb8c41/0x2b08a9
-msgid "Memory<I=BL>Stick<I=TM> does not contain a saved game that has progressed to the point where VOCALOID functions are unlocked."
-msgstr "存储<I=BL>摇杆<I=TM>中没有已解锁VOCALOID功能的存档。"
-
-#: slot/0x00726933/0xdb8c41/0x2b7591
-#: slot/0x00cba83b/0x029324/0x50e171
-#: slot/0x00cbf8c0/0x77999c/0x2715f9
-#: slot/0x00cbf8c0/0x77999c/0x2e8f2e
-#: slot/0x00cbf8c0/0x77999c/0x4fcfff
-msgid "An error has occurred."
-msgstr "发生错误。"
-
-#: slot/0x00726933/0xdb8c41/0x2b966a
-msgid "CANCEL: <I=CAN>"
-msgstr "取消：<I=CAN>"
-
-#: slot/0x00726933/0xdb8c41/0x2c75f9
-msgid "Enter a passcode."
-msgstr "输入密码。"
-
-#: slot/0x00726933/0xdb8c41/0x2d896e
-#: slot/0x00f1b9c2/0x43f3a5/0x2d896e
-msgid "The Memory<I=BL>Stick<I=TM> is protected."
-msgstr "存储<I=BL>摇杆<I=TM>已受保护。"
-
-#: slot/0x00726933/0xdb8c41/0x2e7750
-msgid "Data deleted."
-msgstr "已删除。"
-
-#: slot/0x00726933/0xdb8c41/0x2f2adb
-msgid ""
-"Are you sure you want to delete the selected content data?\n"
-"\n"
-"(Do not turn off the power, enter Sleep Mode, or remove the Memory<I=BL>Stick<I=TM> while deleting data.)"
-msgstr "确定要删除所选内容数据吗？\n\n（删除数据时请勿关闭电源、进入睡眠模式或拔出存储<I=BL>摇杆<I=TM>。）"
-
-#: slot/0x00726933/0xdb8c41/0x2f4789
-msgid "DISPLAY INFO: <I=△>"
-msgstr "信息：<I=△>"
-
-#: slot/0x00726933/0xdb8c41/0x2f478a
-msgid "PLAY/STOP (SOUND DATA ONLY): <I=△>"
-msgstr "播放/停止（仅声音数据）：<I=△>"
-
-#: slot/0x00726933/0xdb8c41/0x31f923
-msgid "NEWS"
-msgstr "新闻"
-
-#: slot/0x00726933/0xdb8c41/0x320235
-msgid "Downloading..."
-msgstr "下载中..."
-
-#: slot/0x00726933/0xdb8c41/0x32ead1
-msgid ""
-"Upload Metal Gear ZEKE voice data created with the\n"
-"VOCALOID Editor to the Voice Conversion Server."
-msgstr "将用VOCALOID编辑器制作的\n合金装备·吉克语音数据上传至语音转换服务器。"
-
-#: slot/0x00726933/0xdb8c41/0x33f654
-msgid "VIEW TERMS OF USE"
-msgstr "查看条款"
-
-#: slot/0x00726933/0xdb8c41/0x340cd9
-msgid "The MANAGE DATA menu allows you to manage additional content and reinstall system data."
-msgstr "管理数据菜单可管理追加内容并重装系统数据。"
-
-#: slot/0x00726933/0xdb8c41/0x34ffb4
-msgid "WALKMAN Song"
-msgstr "随身听歌曲"
-
-#: slot/0x00726933/0xdb8c41/0x3a07df
-msgid "CO-OPS comm."
-msgstr "合作任务通讯"
-
-#: slot/0x00726933/0xdb8c41/0x3a1c51
-msgid "VOCALOID Editor Data"
-msgstr "VOCALOID数据"
-
-#: slot/0x00726933/0xdb8c41/0x3b4266
-msgid "Service is not currently available."
-msgstr "服务当前不可用。"
-
-#: slot/0x00726933/0xdb8c41/0x3b4644
-#: slot/0x00726933/0xdb8c41/0xd28688
-msgid "VOCALOID EDITOR"
-msgstr "VOCALOID编辑"
-
-#: slot/0x00726933/0xdb8c41/0x3df7ea
-msgid "Verify/delete METAL GEAR SOLID PEACE WALKER data."
-msgstr "校验/删除合金装备：和平行者数据。"
-
-#: slot/0x00726933/0xdb8c41/0x41934f
-msgid "PREV"
-msgstr "上一页"
-
-#: slot/0x00726933/0xdb8c41/0x419a17
-msgid ""
-"Data upload complete.\n"
-"Please wait before trying to download the converted data.\n"
-"(Conversion will take approximately $1 minute(s).)"
-msgstr "数据上传完成。\n请稍候再尝试下载转换后的数据。\n（转换约需$1分钟。）"
-
-#: slot/0x00726933/0xdb8c41/0x42cf75
-msgid "Obtaining information..."
-msgstr "正在获取信息..."
-
-#: slot/0x00726933/0xdb8c41/0x4573c0
-msgid "REQUEST DATA CONVERSION"
-msgstr "请求数据转换"
-
-#: slot/0x00726933/0xdb8c41/0x45835a
-msgid "REQUEST ZEKE VOICE CONVERSION"
-msgstr "请求吉克语音转换"
-
-#: slot/0x00726933/0xdb8c41/0x46e31e
-msgid "Upload CO-OPS comm. data created with the VOCALOID Editor to the Voice Conversion Server."
-msgstr "将用VOCALOID编辑器制作的合作任务通讯数据上传至语音转换服务器。"
-
-#: slot/0x00726933/0xdb8c41/0x475fc1
-msgid "System Voice"
-msgstr "系统语音"
-
-#: slot/0x00726933/0xdb8c41/0x485958
-msgid "REQUEST CO-OPS COMM. CONVERSION"
-msgstr "请求合作任务通讯转换"
-
-#: slot/0x00726933/0xdb8c41/0x493a44
-msgid "VOCALOID EDIT"
-msgstr "VOCALOID编辑"
-
-#: slot/0x00726933/0xdb8c41/0x4b2b6d
-msgid "NetVOCALOID"
-msgstr "NetVOCALOID"
-
-#: slot/0x00726933/0xdb8c41/0x4cbd0e
-msgid "Conversion Request: WALKMAN Song"
-msgstr "转换请求：随身听歌曲"
-
-#: slot/0x00726933/0xdb8c41/0x502e83
-msgid "Download VOCALOID data."
-msgstr "下载VOCALOID数据。"
-
-#: slot/0x00726933/0xdb8c41/0x50d236
-msgid "Camouflage Data"
-msgstr "迷彩数据"
-
-#: slot/0x00726933/0xdb8c41/0x53e589
-msgid ""
-"Upload WALKMAN song data created with the VOCALOID\n"
-"Editor to the Voice Conversion Server."
-msgstr "将用VOCALOID编辑器制作的随身听歌曲数据\n上传至语音转换服务器。"
-
-#: slot/0x00726933/0xdb8c41/0x54add0
-msgid ""
-"EXTRAS\n"
-"[PASSCODE]"
-msgstr "追加\n[密码]"
-
-#: slot/0x00726933/0xdb8c41/0x54d36e
-msgid "Select the additional content you want."
-msgstr "选择想要的追加内容。"
-
-#: slot/0x00726933/0xdb8c41/0x5508e7
-msgid ""
-"Select a save file to save passcode-acquired content.\n"
-"Each passcode can only be used once."
-msgstr "选择用于保存密码内容的存档。\n每个密码只能使用一次。"
-
-#: slot/0x00726933/0xdb8c41/0x5b35a4
-msgid "The EXTRAS menu allows you to access online content and manage Memory<I=BL>Stick<I=TM> data."
-msgstr "EXTRAS菜单可让您访问在线内容并管理Memory<I=BL>Stick<I=TM>数据。"
-
-#: slot/0x00726933/0xdb8c41/0x5d5a58
-msgid ""
-"Upload Metal Gear ZEKE song data created with the\n"
-"VOCALOID Editor to the Voice Conversion Server."
-msgstr "把VOCALOID编辑器制作的\n合金装备·吉克歌曲数据上传至语音转换服务器。"
-
-#: slot/0x00726933/0xdb8c41/0x5ed092
-msgid "Conversion Request: Metal Gear ZEKE Song"
-msgstr "转换请求：合金装备·吉克歌"
-
-#: slot/0x00726933/0xdb8c41/0x5f5740
-msgid "WALKMAN Data"
-msgstr "WALKMAN数据"
-
-#: slot/0x00726933/0xdb8c41/0x664d75
-msgid "AI Weapon Voice"
-msgstr "AI兵器语音"
-
-#: slot/0x00726933/0xdb8c41/0x66776f
-msgid "ENTER PASSCODE"
-msgstr "输入密码"
-
-#: slot/0x00726933/0xdb8c41/0x67496d
-msgid "KONAMI ID PORTAL"
-msgstr "KONAMI ID门户"
-
-#: slot/0x00726933/0xdb8c41/0x67b892
-msgid "Do you agree to these terms?"
-msgstr "是否同意这些条款？"
-
-#: slot/0x00726933/0xdb8c41/0x6cd55a
-#: slot/0x00726933/0xdb8c41/0x8d9559
-msgid "NETWORK"
-msgstr "网络"
-
-#: slot/0x00726933/0xdb8c41/0x6ed83e
-msgid ""
-"There is not enough free space on the Memory<I=BL>Stick<I=TM>.\n"
-"You need at least $1KB of available space to save this data."
-msgstr "Memory<I=BL>Stick<I=TM>上没有足够的可用空间。\n您至少需要$1KB的可用空间才能保存此数据。"
-
-#: slot/0x00726933/0xdb8c41/0x70949e
-msgid "Connect to the network and use additional content."
-msgstr "连接网络并使用追加内容。"
-
-#: slot/0x00726933/0xdb8c41/0x731e67
-msgid "The MANAGE ADDITIONAL CONTENT menu allows you to View, Delete, or Test additional content."
-msgstr "在管理追加内容菜单中可查看、删除或测试追加内容。"
-
-#: slot/0x00726933/0xdb8c41/0x75664f
-msgid "REQUEST SYSTEM VOICE CONVERSION"
-msgstr "请求系统语音转换"
-
-#: slot/0x00726933/0xdb8c41/0x793e08
-msgid "WALKMAN Data (edit)"
-msgstr "WALKMAN数据（编辑）"
-
-#: slot/0x00726933/0xdb8c41/0x7a7d55
-msgid ""
-"The game in this data file has not progressed far enough to add\n"
-"new staff."
-msgstr "此数据文件的游戏进度不足，无法添加\n新队员。"
-
-#: slot/0x00726933/0xdb8c41/0x7a857e
-msgid "Downloading VOCALOID data..."
-msgstr "下载VOCALOID数据…"
-
-#: slot/0x00726933/0xdb8c41/0x7aedd4
-msgid "Return to the MANAGE DATA menu."
-msgstr "返回管理数据菜单。"
-
-#: slot/0x00726933/0xdb8c41/0x7b4474
-msgid "DOWNLOAD ADDITIONAL CONTENT"
-msgstr "下载追加内容"
-
-#: slot/0x00726933/0xdb8c41/0x80c6bc
-msgid "RETURN TO MANAGE DATA MENU"
-msgstr "返回管理数据菜单"
-
-#: slot/0x00726933/0xdb8c41/0x849fe4
-msgid "The WLAN/WIRELESS switch on the PSP<I=TM> system is not turned on."
-msgstr "PSP<I=TM>系统上的WLAN/WIRELESS开关未打开。"
-
-#: slot/0x00726933/0xdb8c41/0x8513a2
-msgid "Reinstall system data."
-msgstr "重装系统数据。"
-
-#: slot/0x00726933/0xdb8c41/0x85865d
-msgid "ZEKE Song (VOCALOID Edit)"
-msgstr "吉克歌曲（VOCALOID编辑）"
-
-#: slot/0x00726933/0xdb8c41/0x85fa79
-msgid "Return to the NETWORK menu."
-msgstr "返回网络菜单。"
-
-#: slot/0x00726933/0xdb8c41/0x897638
-msgid "Create/edit VOCALOID data."
-msgstr "创建/编辑VOCALOID数据。"
-
-#: slot/0x00726933/0xdb8c41/0x8a56bf
-msgid "Upload VOCALOID data."
-msgstr "上传VOCALOID数据"
-
-#: slot/0x00726933/0xdb8c41/0x8b1620
-msgid "Return to the top of the EXTRAS menu."
-msgstr "返回追加内容菜单顶部。"
-
-#: slot/0x00726933/0xdb8c41/0x8bd361
-msgid "RETURN TO NETWORK MENU"
-msgstr "返回网络菜单"
-
-#: slot/0x00726933/0xdb8c41/0x8e2570
-msgid "Acquired [$1]."
-msgstr "获得[$1]。"
-
-#: slot/0x00726933/0xdb8c41/0x9127b4
-msgid "RETURN TO TITLE MENU"
-msgstr "返回标题菜单"
-
-#: slot/0x00726933/0xdb8c41/0x913254
-msgid ""
-"There is no system data for additional content.\n"
-"Select REINSTALL SYSTEM DATA from the MANAGE\n"
-"DATA menu to reinstall it."
-msgstr "没有追加内容的系统数据。\n请从数据管理菜单中选择重新安装\n系统数据以重新安装。"
-
-#: slot/0x00726933/0xdb8c41/0x91e1bf
-msgid "Read the latest news."
-msgstr "阅读最新消息。"
-
-#: slot/0x00726933/0xdb8c41/0x936e56
-msgid "Information"
-msgstr "信息"
-
-#: slot/0x00726933/0xdb8c41/0x93def0
-msgid "Read the Terms of Use."
-msgstr "阅读使用条款。"
-
-#: slot/0x00726933/0xdb8c41/0x943332
-msgid "The Memory<I=BL>Stick<I=TM> is not inserted properly."
-msgstr "记忆棒<I=BL>未正确插入<I=TM>。"
-
-#: slot/0x00726933/0xdb8c41/0x9453b2
-msgid "Are you sure you want to download the additional content selected in this tab?"
-msgstr "确定要下载此标签页中选定的追加内容吗？"
-
-#: slot/0x00726933/0xdb8c41/0x96c057
-msgid ""
-"Cannot use passcode. The maximum number of staff has already\n"
-"been reached in this data file."
-msgstr "无法使用密码。此数据文件中的\n人员数量已达上限。"
-
-#: slot/0x00726933/0xdb8c41/0x986d60
-msgid "ZEKE Voice"
-msgstr "吉克语音"
-
-#: slot/0x00726933/0xdb8c41/0x9a6dfc
-msgid "Select content."
-msgstr "选择内容。"
-
-#: slot/0x00726933/0xdb8c41/0x9ae5d7
-msgid ""
-"EXTRAS\n"
-"[VOCALOID]"
-msgstr "追加内容\n[VOCALOID]"
-
-#: slot/0x00726933/0xdb8c41/0x9db49c
-msgid "TEXTURES"
-msgstr "纹理"
-
-#: slot/0x00726933/0xdb8c41/0xac1f57
-#: slot/0x00726933/0xdb8c41/0xd33751
-msgid "?????"
-msgstr ""
-
-#: slot/0x00726933/0xdb8c41/0xacca20
-msgid "Conversion Request: System Voice"
-msgstr "转换请求：系统语音"
-
-#: slot/0x00726933/0xdb8c41/0xaff65f
-msgid ""
-"$1\n"
-"$2"
-msgstr ""
-
-#: slot/0x00726933/0xdb8c41/0xb01bc5
-msgid "ZEKE Song"
-msgstr "吉克歌曲"
-
-#: slot/0x00726933/0xdb8c41/0xb06b7a
-msgid "Conversion Request: Metal Gear ZEKE Voice"
-msgstr "转换请求：合金装备·吉克语音"
-
-#: slot/0x00726933/0xdb8c41/0xb1a144
-msgid "Service is no longer available."
-msgstr "服务已停止提供。"
-
-#: slot/0x00726933/0xdb8c41/0xb40cda
-msgid ""
-"EXTRAS\n"
-"[DATA MANAGEMENT]"
-msgstr "追加\n[数据管理]"
-
-#: slot/0x00726933/0xdb8c41/0xb5f9bf
-msgid "Download converted VOCALOID data."
-msgstr "下载转换后VOCALOID数据"
-
-#: slot/0x00726933/0xdb8c41/0xbfe5fc
-msgid "MANAGE ADDITIONAL CONTENT"
-msgstr "管理追加内容"
-
-#: slot/0x00726933/0xdb8c41/0xc02773
-msgid "Download additional content."
-msgstr "下载追加内容。"
-
-#: slot/0x00726933/0xdb8c41/0xc11ff5
-msgid ""
-"Recruited volunteer [$2]\n"
-"wearing [$1] camouflage."
-msgstr "招募到身穿[$1]迷彩的\n志愿者[$2]。"
-
-#: slot/0x00726933/0xdb8c41/0xc16522
-msgid "DELETE: <I=DEC>"
-msgstr "删除:<I=DEC>"
-
-#: slot/0x00726933/0xdb8c41/0xc16523
-msgid "CONFIRM: <I=DEC>"
-msgstr "确认：<I=DEC>"
-
-#: slot/0x00726933/0xdb8c41/0xc2fc71
-msgid "The NETWORK menu allows you to download additional content and upload/download VOCALOID data."
-msgstr "NETWORK菜单可下载追加内容，并上传/下载VOCALOID数据。"
-
-#: slot/0x00726933/0xdb8c41/0xcdb3e1
-msgid "The DOWNLOAD menu allows you to download additional content, including music and camouflage."
-msgstr "DOWNLOAD菜单可下载追加内容，包括音乐和迷彩。"
-
-#: slot/0x00726933/0xdb8c41/0xceb481
-msgid ""
-"The data contains prohibited words or phrases.\n"
-"Are you sure you want to upload the data?\n"
-"(Prohibited words and phrases will automatically be replaced\n"
-"with other words.)"
-msgstr "数据中含有违禁词句。\n确定要上传该数据吗？\n（违禁词句将自动替换为\n其他词句。）"
-
-#: slot/0x00726933/0xdb8c41/0xd0c93d
-msgid "Magazine Data"
-msgstr "杂志数据"
-
-#: slot/0x00726933/0xdb8c41/0xd3c545
-msgid "WALKMAN Song (VOCALOID Edit)"
-msgstr "WALKMAN歌曲（VOCALOID编辑）"
-
-#: slot/0x00726933/0xdb8c41/0xd69fc4
-msgid "Service is currently undergoing maintenance."
-msgstr "服务正在维护中。"
-
-#: slot/0x00726933/0xdb8c41/0xe265e6
-msgid "REQUEST WALKMAN SONG CONVERSION"
-msgstr "请求转换WALKMAN歌曲"
-
-#: slot/0x00726933/0xdb8c41/0xe55b97
-msgid "Are you sure you want to delete the data selected in this tab?"
-msgstr "确定要删除此标签页中选中的数据吗？"
-
-#: slot/0x00726933/0xdb8c41/0xe55b98
-msgid ""
-"Content data deletion in progress.\n"
-"Do not turn off the power, enter Sleep Mode,  or remove the Memory<I=BL>Stick<I=TM> while deleting data."
-msgstr "正在删除内容数据。\n删除期间请勿关闭电源、进入休眠模式或取出Memory<I=BL>Stick<I=TM>。"
-
-#: slot/0x00726933/0xdb8c41/0xe6e5f1
-msgid ""
-"Upload system voice data created with the VOCALOID Editor\n"
-"to the Voice Conversion Server."
-msgstr "将VOCALOID Editor制作的系统语音数据\n上传至语音转换服务器。"
-
-#: slot/0x00726933/0xdb8c41/0xe8a158
-msgid "AI Weapon Voice (VOCALOID Edit)"
-msgstr "AI兵器语音（VOCALOID编辑）"
-
-#: slot/0x00726933/0xdb8c41/0xe8a4a0
-msgid "RETURN TO EXTRAS MENU"
-msgstr "返回EXTRAS菜单"
-
-#: slot/0x00726933/0xdb8c41/0xeeffb4
-msgid ""
-"The limit for this category of additional content has\n"
-"been reached. Go to the MANAGE DATA menu and delete\n"
-"data from the same category."
-msgstr "此类追加内容已达上限。\n请前往MANAGE DATA菜单删除\n同类数据。"
-
-#: slot/0x00726933/0xdb8c41/0xefc7f5
-msgid "MANAGE DATA"
-msgstr "MANAGE DATA"
-
-#: slot/0x00726933/0xdb8c41/0xf9c616
-msgid "System Voice (VOCALOID Edit)"
-msgstr "系统语音（VOCALOID编辑）"
-
-#: slot/0x00726933/0xdb8c41/0xfcfea3
-msgid ""
-"Downloading this content will overwrite\n"
-"$1.\n"
-"Are you sure you want to download this content?"
-msgstr "下载此内容将覆盖\n$1。\n确定要下载此内容吗？"
-
-#: slot/0x00726933/0xdb8c41/0xfd074a
-msgid "You can upload solider data."
-msgstr "可以上传士兵数据。"
-
-#: slot/0x00726933/0xdb8c41/0xfd3fd6
-msgid "SELECT: Display help"
-msgstr "SELECT:显示帮助"
-
-#: slot/0x00726933/0xdb8c41/0xfe44b8
-msgid "The NetVOCALOID menu allows you to create VOCALOID data, send a data voice conversion request, and download converted voice data."
-msgstr "NetVOCALOID菜单可创建VOCALOID数据、发送语音转换请求并下载转换后的语音数据。"
-
-#: slot/0x0074a6ca/0x19fb4c/0x01389d
-#: slot/0x0074a6ca/0xcc15c0/0x1a20f9
-#: slot/0x0074a6ca/0xcc177c/0x1a2471
-#: slot/0x00b96275/0x919326/0x2a0e0b
-#, c-format
-msgid "RANK %d"
-msgstr "级%d"
-
-#: slot/0x0074a6ca/0x19fb4c/0x1c123d
-msgid "WEAPON"
-msgstr "武器"
-
-#: slot/0x0074a6ca/0x19fb4c/0x1c63c5
-#: slot/0x0074a6ca/0x19fb4c/0xb9914e
-msgid "ARMORED VEHICLES"
-msgstr "装甲车辆"
-
-#: slot/0x0074a6ca/0x19fb4c/0x1fed63
-#: slot/0x0074a6ca/0xcc15c0/0xc15dc6
-#: slot/0x0074a6ca/0xcc177c/0xcf3dc6
-#: slot/0x0074a6ca/0xcc177c/0xe4ed45
-msgid "WEIGHT"
-msgstr "重量"
-
-#: slot/0x0074a6ca/0x19fb4c/0x233641
-#: slot/0x0074a6ca/0xcc15c0/0x233641
-#: slot/0x0074a6ca/0xcc177c/0x233641
-msgid ""
-"OK: <I=DEC>  CANCEL: <I=CAN>\n"
-"MORE INFO: <I=△>"
-msgstr "确定: <I=DEC>  取消: <I=CAN>\n更多信息: <I=△>"
-
-#: slot/0x0074a6ca/0x19fb4c/0x2f5ee4
-#: slot/0x0074a6ca/0xcc177c/0x4cd967
-msgid "<$1>"
-msgstr ""
-
-#: slot/0x0074a6ca/0x19fb4c/0x341646
-#: slot/0x0074a6ca/0x19fb4c/0x34b960
-msgid "HELICOPTERS"
-msgstr "直升机"
-
-#: slot/0x0074a6ca/0x19fb4c/0x3aa9a2
-#: slot/0x0074a6ca/0x19fb4c/0x54754a
-msgid "TANKS"
-msgstr "坦克"
-
-#: slot/0x0074a6ca/0x19fb4c/0x412211
-#: slot/0x00a60c2a/0x78a26d/0x1e19c1
-#: slot/0x00a60c2a/0x78a26d/0x2c685e
-#: slot/0x00a60c2a/0x78a26d/0x3180c4
-msgid "Action Frequency"
-msgstr "行动频率"
-
-#: slot/0x0074a6ca/0x19fb4c/0x51ae23
-#: slot/0x00a60c2a/0x78a26d/0x1e19bc
-#: slot/0x00a60c2a/0x78a26d/0x2c6859
-#: slot/0x00a60c2a/0x78a26d/0x3180bf
-msgid "Attack Power"
-msgstr "攻击力"
-
-#: slot/0x0074a6ca/0x19fb4c/0x63ba35
-msgid "View mechs acquired during missions. Damage is automatically repaired as you play missions."
-msgstr "查看任务中获得的机甲。执行任务时损伤会自动修复。"
-
-#: slot/0x0074a6ca/0x19fb4c/0x6648b8
-#: slot/0x0074a6ca/0xcc15c0/0x6648b8
-#: slot/0x0074a6ca/0xcc177c/0x6648b8
-msgid "Sort by $1"
-msgstr "按$1排序"
-
-#: slot/0x0074a6ca/0x19fb4c/0x8fe606
-msgid "ID Number"
-msgstr "ID编号"
-
-#: slot/0x0074a6ca/0x19fb4c/0x8ffc41
-#: slot/0x0074a6ca/0xcc15c0/0x70c384
-#: slot/0x0074a6ca/0xcc177c/0x30c3a0
-msgid "NO."
-msgstr "编号"
-
-#: slot/0x0074a6ca/0x19fb4c/0x901382
-#, c-format
-msgid "%d TONS"
-msgstr "%d吨"
-
-#: slot/0x0074a6ca/0x19fb4c/0xa47f2e
-msgid "ID"
-msgstr "ID"
-
-#: slot/0x0074a6ca/0x19fb4c/0xa47fa0
-#: slot/0x0074a6ca/0xcc177c/0x30bba5
-#, c-format
-msgid "LV.%d"
-msgstr "LV.%d"
-
-#: slot/0x0074a6ca/0x19fb4c/0xbb9308
-#: slot/0x0074a6ca/0x82e3c9/0x69d14d
-msgid "MECHS"
-msgstr "机甲"
+"我把知道的都告诉你。\n"
+"只求你放我走。"
+
+#: slot/0x0081443c/0xa270a1/0x002a94
+msgid "Aaah! Please, just calm down and listen to me!"
+msgstr "啊啊！求你冷静下来听我说！"
+
+#: slot/0x0081443c/0xa270a1/0x002af8
+msgid "I don't wanna die... I don't wanna die!"
+msgstr "我不想死……我不想死！"
+
+#: slot/0x0081443c/0xa270a1/0x002c88
+msgid "You smell nice..."
+msgstr "你身上好香……"
+
+#: slot/0x0081443c/0xa270a1/0x002cec
+msgid "H-hey! Your beard is scratching me..."
+msgstr "喂！你胡子扎到我了……"
+
+#: slot/0x0081443c/0xa270a1/0x002d50
+msgid "I know about you."
+msgstr "我知道你。"
+
+#: slot/0x0081443c/0xa270a1/0x002db4
+msgid "Coward! Fight like a man!"
+msgstr "胆小鬼！像个男人一样打！"
+
+#: slot/0x0081443c/0xa270a1/0x002e18
+msgid "You... Do you have any children?"
+msgstr "你……你有孩子吗？"
+
+#: slot/0x0081443c/0xa270a1/0x002ee0
+msgid "Do you think I'm here because I want to be?!"
+msgstr "你以为我是自愿来这儿的吗？！"
+
+#: slot/0x0081443c/0xa270a1/0x002fa8
+msgid "What did I ever do to you?"
+msgstr "我哪里得罪你了？"
+
+#: slot/0x0081443c/0xa270a1/0x00300c
+msgid "Ooohhhhh, my stomach... Not now!"
+msgstr "哦哦哦，我的肚子……别在这时候啊！"
+
+#: slot/0x0081443c/0xa270a1/0x003070
+msgid "I'm gonna wet myself here..."
+msgstr "我要尿出来了……"
+
+#: slot/0x0081443c/0xa270a1/0x0030d4
+msgid "Say, don't you think it's about time you got some sleep?"
+msgstr "我说，你是不是该去睡一觉了？"
+
+#: slot/0x0081443c/0xa270a1/0x003264
+msgid "Hold up. Don't I get a last smoke?"
+msgstr "等等。不能让我抽最后一根烟吗？"
+
+#: slot/0x0081443c/0xa270a1/0x003458
+msgid "I'll tell you something you'll wanna hear."
+msgstr "我告诉你一件你想听的事。"
+
+#: slot/0x0081443c/0xa270a1/0x0034bc
+msgid "I never expected to meet you like this…"
+msgstr "没想到会这样见到你……"
+
+#: slot/0x0081443c/0xa270a1/0x003520
+msgid "Could this be fate again?"
+msgstr "这又是命运吗？"
+
+#: slot/0x0081443c/0xa270a1/0x0035e8
+msgid "Hands off the merchandise!"
+msgstr "别碰货！"
+
+#: slot/0x0081443c/0xa270a1/0x00364c
+msgid "Hey! Get your hands away from there!"
+msgstr "喂！把手拿开！"

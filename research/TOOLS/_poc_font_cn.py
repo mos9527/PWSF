@@ -21,6 +21,13 @@ Usage:
     python _poc_font_cn.py             # build + verify into ..\BUILD
     python _poc_font_cn.py --install   # also back up and install into the game
     python _poc_font_cn.py --restore   # put the backup back
+    python _poc_font_cn.py --small     # same, on 000ebbe8.xpr (g_font_small)
+
+`--small` is the §13.4 route-C probe: g_font_small is reachable at runtime
+(05_font.md §6.5) but nothing proves any real screen selects it.  Installing
+this build and playing a while tells you exactly which screens do -- every
+number there turns into 〇一二三四五六七八九.  It only needs 4 free rows, which
+the small atlas has.
 """
 
 import shutil
@@ -162,8 +169,9 @@ def verify(built: Path) -> None:
 
     strip = font.atlas.crop((0, font.row_top(orig.used_rows()) - 2,
                              1400, font.row_top(orig.used_rows()) + font.cell))
-    strip.save(ROOT / "ANALYSIS" / "_font_poc_newrow.png")
-    print(f"wrote {ROOT / 'ANALYSIS' / '_font_poc_newrow.png'}")
+    png = ROOT / "ANALYSIS" / f"_font_poc_newrow_{TARGET}.png"
+    strip.save(png)
+    print(f"wrote {png}")
 
     if problems:
         print("\nPROBLEMS:")
@@ -193,6 +201,9 @@ def restore() -> None:
 
 
 def main() -> None:
+    global TARGET
+    if "--small" in sys.argv:
+        TARGET = "000ebbe8"     # g_font_small, see the module docstring
     if "--restore" in sys.argv:
         restore()
         return

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PWSF slot 6/26\n"
+"Project-Id-Version: PWSF slot 6/24\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -10,1293 +10,13 @@ msgstr ""
 
 
 #. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000044
-msgid ""
-"She managed to escape with her life.\n"
-"But her friend was not so lucky."
-msgstr "她侥幸活了下来。\n但她的朋友就没那么幸运了。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000045
-msgid ""
-"Why were they attacked? \n"
-"I believe this will help explain."
-msgstr "她们为何遭到袭击？\n我想这能解释清楚。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000046
-msgid ""
-"Perhaps they saw something \n"
-"they weren't supposed to."
-msgstr "也许她们看到了\n不该看的东西。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000047
-msgid ""
-"Perhaps they heard something \n"
-"they shouldn't have."
-msgstr "也许她们听到了\n不该听的东西。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000048
-msgid "A cassette tape?"
-msgstr "盒式磁带？"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000049
-msgid "Paz took this during her escape."
-msgstr "帕兹逃跑时拿的。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00004a
-msgid ""
-"She says her friend happened \n"
-"to record it by accident."
-msgstr "她说她朋友\n碰巧录下了这段。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00004b
-msgid "What is that?"
-msgstr "那啥？"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00004c
-msgid ""
-"A portable stereo cassette player. \n"
-"The first of its kind."
-msgstr "便携立体声磁带机。\n同类首款。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00004d
-msgid ""
-"Ah. I heard they were working \n"
-"on something like that in Japan. "
-msgstr "啊，我听说日本\n正在研发这种东西。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00004e
-msgid "Didn't know you guys were, too."
-msgstr "没想到你们也在搞。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00004f
-msgid ""
-"I believe what you're about to hear \n"
-"will help you understand."
-msgstr "我想你接下来听到的\n会让你明白。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000050
-msgid "What is that? A quetzal?"
-msgstr "那是什么？凤尾绿咬鹃？"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000051
-msgid "The phoenix bird?"
-msgstr "不死鸟？"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000052
-msgid "Paz's friend was researching birds."
-msgstr "帕兹的朋友在研究鸟类。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000053
-msgid ""
-"She went out into the jungle to record\n"
-"bird calls and stumbled upon this."
-msgstr "她进丛林录鸟鸣，\n偶然录到了这个。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000054
-msgid "So? So what?!"
-msgstr "所以呢？那又怎样？！"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000055
-msgid "Now it gets interesting."
-msgstr "接下来才精彩。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000056
-msgid "...poisonous... I... to get rid of it."
-msgstr "……有毒……我……要除掉它。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000057
-msgid "I chase it back to its nest."
-msgstr "我把它追回巢穴。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000058
-msgid ""
-"You can't. The snake's too vicious. \n"
-"It's... many people."
-msgstr "不行。那蛇太凶了。\n它……害了很多人。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000059
-#: slot/0x003afd0d/0x227db3/0x000002
-msgid "...I chase it away."
-msgstr "……我把它赶走。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00005a
-#: slot/0x003afd0d/0x227db3/0x000003
-msgid "It will bite you unless you kill it."
-msgstr "你不杀它，它就会咬你。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00005b
-#: slot/0x003afd0d/0x227db3/0x000004
-#: slot/0x003afd2d/0x527ec1/0x000006
-#: slot/0x003b01cd/0x629073/0x000000
-msgid "Go home!"
-msgstr "回家去！"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00005c
-#: slot/0x003afd2d/0x527ec1/0x000002
-#: slot/0x003afd2d/0x597e7d/0x000003
-#: slot/0x003afded/0xb28110/0x000007
-#: slot/0x003b022d/0x3291f1/0x000001
-msgid "Boss..."
-msgstr "BOSS……"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00005d
-msgid ""
-"Voiceprint analysis confirms that this voice \n"
-"is indeed that of the legendary hero "
-msgstr "声纹分析确认，这个声音\n正是传说中的英雄"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00005e
-msgid " - and criminal - The Boss."
-msgstr "，罪犯，THE BOSS。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00005f
-#: slot/0x003b0612/0x79a1a9/0x00000f
-msgid "Wh... what?!"
-msgstr "什……什么？！"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000060
-msgid ""
-"The other hasn't been identified.\n"
-"Female, in her thirties, with a British accent."
-msgstr "另一个身份尚未查明。\n女性，三十多岁，带英国口音。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000061
-msgid ""
-"The song playing in the background \n"
-"was a hit in 1973."
-msgstr "背景播放的歌曲\n是1973年的热门曲目。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000062
-msgid ""
-"What's it going to be? \n"
-"Loyalty to your country or loyalty to me? "
-msgstr "你要怎么选？\n忠于国家还是忠于我？"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000063
-msgid ""
-"Your country or your mentor?\n"
-"Your mission or your beliefs?"
-msgstr "国家还是导师？\n任务还是信念？"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000064
-msgid "...Boss is alive in Costa Rica?"
-msgstr "……BOSS在哥斯达黎加还活着？"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000065
-msgid ""
-"As I understand it, she was your commander,\n"
-"fought by your side..."
-msgstr "据我所知，她是你指挥官，\n与你并肩作战……"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000066
-msgid ""
-"And that you killed her \n"
-"under orders from the CIA... "
-msgstr "而你奉CIA之命\n杀了她……"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000067
-msgid ""
-"Thus surpassing her to become the hero\n"
-"known as Big Boss."
-msgstr "从而超越她，成为\n被称为BIG BOSS的英雄。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000068
-msgid "Well? What'll it be? Will you take the job?"
-msgstr "怎么样？接不接这活？"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x000069
-msgid "Snake, it's gotta be a trap."
-msgstr "SNAKE，肯定是陷阱。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00006a
-msgid ""
-"So, you still can't turn your back \n"
-"on your country..."
-msgstr "所以，你还是无法背弃\n你的国家……"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00006b
-msgid "Then I suppose you won't need this... "
-msgstr "那我想你不需要这个了……"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00006c
-#: slot/0x00eeea4a/0x3d5431/0xd9ea26
-msgid "Wait!"
-msgstr "等等！"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00006d
-msgid "Snake?"
-msgstr "SNAKE？"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00006e
-msgid "I'll do it for the girl. For Paz."
-msgstr "我接，为了那女孩。为了帕兹。"
-
-#. comic cutscene
-#: slot/0x003af54d/0x395f10/0x00006f
-msgid "OK... For peace, then."
-msgstr "确定……那就为了和平。"
-
-#. comic cutscene
-#: slot/0x003af56d/0x325ef1/0x000000
-msgid ""
-"Yes, sir, we broke 'im. We've acquired\n"
-"the whereabouts of target five-zero-zero."
-msgstr "是，长官，我们撬开了他的嘴。已掌握\n目标五零零的下落。"
-
-#. comic cutscene
-#: slot/0x003af56d/0x525ef3/0x000000
-msgid "Acknowledged. "
-msgstr "收到。"
-
-#. comic cutscene
-#: slot/0x003af56d/0x525ef3/0x000001
-msgid ""
-"TJ-Chrysalis 6000, \n"
-"proceeding to secure target five hundred..."
-msgstr "TJ-蝶蛹 6000，\n前往确保目标五百……"
-
-#. comic cutscene
-#: slot/0x003af56d/0x525ef3/0x000002
-msgid ""
-"Spears are loaded. \n"
-"The barge has cleared Point Bravo."
-msgstr "矛已装填。\n驳船已通过B点。"
-
-#. comic cutscene
-#: slot/0x003af56d/0x525ef3/0x000003
-msgid "Acknowledged. Out."
-msgstr "收到。完毕。"
-
-#. comic cutscene
-#: slot/0x003af58d/0x625f73/0x000000
-msgid "...Freeze!"
-msgstr "……不许动！"
-
-#. comic cutscene
-#: slot/0x003af58d/0x625f73/0x000001
-msgid "The cargo, where's it headed? What is it?!"
-msgstr "货物要运去哪？是什么东西？！"
-
-#. comic cutscene
-#: slot/0x003af58d/0x625f73/0x000002
-msgid "Urk... Irazu... In the mountains..."
-msgstr "呃…伊拉苏…在山里…"
-
-#. comic cutscene
-#: slot/0x003af58d/0x625f73/0x000003
-msgid "What's up there?"
-msgstr "上面有啥？"
-
-#. comic cutscene
-#: slot/0x003af5ad/0x226012/0x000000
-msgid ""
-"The cargo's heading from the marshes\n"
-"west toward Irazú."
-msgstr "货物正从沼泽地\n往西运向伊拉苏。"
-
-#. comic cutscene
-#: slot/0x003af5ad/0x226012/0x000001
-msgid "Nice going, Boss."
-msgstr "干得好，BOSS。"
-
-#. comic cutscene
-#: slot/0x003af5ad/0x226012/0x000002
-msgid ""
-"Kaz... this place is full of film badges.\n"
-"Dozens of them."
-msgstr "卡兹…这地全是胶片佩章。\n几十个。"
-
-#. comic cutscene
-#: slot/0x003af5ad/0x226012/0x000003
-msgid ""
-"...Film badges? Like the ones used\n"
-"to measure radiation exposure?"
-msgstr "胶片徽章？就是那种用来\n测量辐射暴露的？"
-
-#. comic cutscene
-#: slot/0x003af5ad/0x226012/0x000004
-msgid "The radio man was wearing one."
-msgstr "那无线电兵就戴着。"
-
-#. comic cutscene
-#: slot/0x003af5ad/0x496013/0x000000
-msgid ""
-"And whoever he was talking to\n"
-"called the cargo \"spears.\""
-msgstr "跟他通话的人把货物\n叫成\"矛\"。"
-
-#. comic cutscene
-#: slot/0x003af5ad/0x496013/0x000001
-msgid "Wait, that would mean..."
-msgstr "等等，那不就…"
-
-#. comic cutscene
-#: slot/0x003af5ad/0x496013/0x000002
-msgid "Nukes."
-msgstr "核弹。"
-
-#. comic cutscene
-#: slot/0x003af5ad/0x496013/0x000003
-msgid "They're bringing nukes into Costa Rica."
-msgstr "他们要把核弹运进哥斯达黎加。"
-
-#. comic cutscene
-#: slot/0x003af5ad/0x496013/0x000004
-msgid "Holy mother of God..."
-msgstr "我的老天……"
-
-#. comic cutscene
-#: slot/0x003af5ad/0x72600f/0x000000
-msgid "This is Snake. Kaz, can you hear me?"
-msgstr "我是SNAKE。卡兹，听到吗？"
-
-#. comic cutscene
-#: slot/0x003af5ad/0x72600f/0x000001
-msgid "Loud and clear. You found a radio?!"
-msgstr "一清二楚。你找到无线电了？！"
-
-#. comic cutscene
-#: slot/0x003af5ad/0x72600f/0x000002
-msgid "It's got a circuit that reverses the audio phase."
-msgstr "它有个能反转音频相位的电路。"
-
-#. comic cutscene
-#: slot/0x003af5ad/0x72600f/0x000003
-msgid ""
-"Let's switch frequencies from time to time...\n"
-"Just to make sure we're not detected."
-msgstr "我们时不时换个频率吧……\n确保不被发现。"
-
-#. comic cutscene
-#: slot/0x003af5ad/0x72600f/0x000004
-msgid "I found a map of their bases."
-msgstr "我找到了他们基地的地图。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x4260bb/0x000000
-msgid ""
-"Have you seen a big transport boat, \n"
-"mercenary crew, on the Río del Jade?"
-msgstr "你在翡翠河上见过一艘大型运输船吗，\n上面是雇佣兵？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x4260bb/0x000001
-msgid "You mean the barge? It's upstream from here."
-msgstr "你说那艘驳船？就在这上游。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x4260bb/0x000002
-msgid "Up toward Irazu."
-msgstr "往伊拉苏方向。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x4260bb/0x000003
-msgid "Any idea what's on it?"
-msgstr "知道装了啥吗？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x4260bb/0x000004
-msgid ""
-"I could introduce you to\n"
-"some of our compas up there. "
-msgstr "我可以把你介绍给\n上面的一些弟兄。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x4260bb/0x000005
-msgid ""
-"But I don't recommend going to \n"
-"the mountains. We've lost a lot of people there."
-msgstr "但我不建议去\n山里。我们在那里损失了很多人。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x4260bb/0x000006
-msgid ""
-"They take us captive, torture us for \n"
-"information about our compas... "
-msgstr "他们抓了我们的人，拷问\n弟兄们的情报……"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x4260bb/0x000007
-msgid "and then they kill us like pigs."
-msgstr "然后他们像杀猪一样杀了我们。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x4260bb/0x000008
-msgid ""
-"...This was our last hideout.\n"
-"The final refuge for el Frente"
-msgstr "...这是我们最后藏身处。\nel Frente最后避难所"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x4260bb/0x000009
-msgid "after being pushed out of Nicaragua"
-msgstr "在被赶出尼加拉瓜之后"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x4260bb/0x00000a
-msgid "and into this \"peaceful paradise\" of Costa Rica."
-msgstr "逃进哥斯达黎加这个\"和平天堂\"。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x4260bb/0x00000b
-msgid "Then el monstruo attacked..."
-msgstr "然后el monstruo袭击了..."
-
-#. comic cutscene
-#: slot/0x003af5cd/0x4260bb/0x00000c
-msgid "A Monster?"
-msgstr "怪物？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x4260bb/0x00000d
-msgid "Y mi viejo..."
-msgstr "还有我的老家伙..."
-
-#. comic cutscene
-#: slot/0x003af5cd/0x726099/0x000000
-#: slot/0x00a57090/0x12908e/0x0000ae
-msgid "I owe you one."
-msgstr "我欠你一次。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x726099/0x000001
-msgid "But, I prefer cigarettes, you know."
-msgstr "不过，我更喜欢香烟，你知道的。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x726099/0x000002
-msgid "How do I look? A little like El Che, no?"
-msgstr "我看起来怎么样？有点像El Che吧？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x726099/0x000003
-msgid "You Cubano?"
-msgstr "你是古巴人？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x726099/0x000004
-msgid ""
-"Colombiano. A photographer. I came to\n"
-"Costa Rica to take pictures of birds."
-msgstr "哥伦比亚人。摄影师。我来\n哥斯达黎加拍鸟。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x726099/0x000005
-msgid "Birds?"
-msgstr "鸟？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x726099/0x000006
-msgid "Yea umm... Quetzals."
-msgstr "嗯...凤尾绿咬鹃。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x726099/0x000007
-msgid ""
-"You've got no telephoto lens.\n"
-"How do you get your shots?"
-msgstr "你连长焦镜头都没有。\n你怎么拍的？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x726099/0x000008
-msgid "Telephoto's for amateurs. It's all in the timing."
-msgstr "长焦是给外行用的。全靠时机。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x7960fe/0x000000
-#: slot/0x00a57090/0x12908e/0x00002a
-#: slot/0x00a57090/0x12908e/0x000090
-msgid "Get down!"
-msgstr "趴下！"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x926093/0x000000
-msgid "Quien es?"
-msgstr "Quien es？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x926093/0x000001
-msgid "El Che?"
-msgstr "El Che？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x926093/0x000002
-msgid "No way."
-msgstr "不可能。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x926093/0x000003
-msgid "What do we do?"
-msgstr "怎么办？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x926093/0x000004
-msgid "Sandinistas, right?"
-msgstr "桑地诺派，对吧？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x926093/0x000005
-msgid "I'm looking for someone."
-msgstr "我在找一个人。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x926093/0x000006
-#: slot/0x003af96d/0x396f96/0x000050
-msgid "Mi viejo..."
-msgstr "我的老家伙..."
-
-#. comic cutscene
-#: slot/0x003af5cd/0x926093/0x000007
-msgid "He's dead."
-msgstr "他死了。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x926093/0x000008
-msgid "They killed nuestro viejo."
-msgstr "他们杀了老首领。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x926093/0x000009
-msgid "You're his daughter?"
-msgstr "你是他女儿？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x926093/0x00000a
-msgid ""
-"Then that makes you \n"
-"his delegada (representative), right?"
-msgstr "那你就是他的\ndelegada（代表），对吧？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x926093/0x00000b
-msgid "Relax, I'm not your enemy."
-msgstr "放松，我不是你的敌人。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x926093/0x00000c
-msgid "Cuban?"
-msgstr "古巴人？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x926093/0x00000d
-msgid "Hmph... A Cigar?"
-msgstr "哼……来根雪茄？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0x926093/0x00000e
-msgid "I'll take whatever you've got. "
-msgstr "你有什么我都抽。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xa260d7/0x000000
-msgid "Mi viejo, papá... He was la esperanza - our hope."
-msgstr "我的老首领，爸爸……他曾是la esperanza——我们的希望。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xa260d7/0x000001
-msgid ""
-"Now that papá's gone, my sister is \n"
-"la comandante de la revolucion."
-msgstr "爸爸走了，现在姐姐是\nla comandante de la revolucion。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xa260d7/0x000002
-msgid "Do not listen to him. "
-msgstr "别听他的。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xa260d7/0x000003
-msgid ""
-"Papá was a hero who fought by Sandino's side. \n"
-"I am only his daughter."
-msgstr "爸爸是跟桑地诺并肩作战的英雄。\n我只是他的女儿。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xa260d7/0x000004
-msgid "You need a special talent to become cacique. "
-msgstr "要成为cacique得有特殊才能。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xa260d7/0x000005
-msgid "It takes someone great to unite all of las compas."
-msgstr "得是了不起人才能团结所有las compas。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xa260d7/0x000006
-msgid ""
-"Sorry to interrupt, but leaders don't choose \n"
-"themselves. Neither do heroes."
-msgstr "抱歉打断，但领袖不是自封的。\n英雄也不是。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xa260d7/0x000007
-msgid ""
-"You carry on his legacy of la esperanza, \n"
-"and they'll follow you. No question."
-msgstr "你继承他的la esperanza遗志，\n他们就会追随你。毫无疑问。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xa260d7/0x000008
-msgid ""
-"You think so? My compas trust me, \n"
-"but not one of them calls me comandante."
-msgstr "你这么想？我的compas信任我，\n但没一个叫我comandante。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xa260d7/0x000009
-#: slot/0x003af62d/0xa2620f/0x000000
-#: slot/0x003af90d/0x905660/0x000000
-#: slot/0x003af92d/0x326df7/0x000000
-#: slot/0x003b054d/0x33d29e/0x00005d
-msgid "Amanda!"
-msgstr "阿曼达！"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xa260d7/0x00000a
-msgid "See what I mean?"
-msgstr "明白我的意思了吧？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xa260d7/0x00000b
-msgid "El colibri!"
-msgstr "El colibri！"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x000000
-msgid "Let me smoke too!"
-msgstr "也让我抽一口！"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x000001
-msgid "We can talk until I finish this."
-msgstr "抽完这根前聊聊。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x000002
-#: slot/0x003af60d/0x326173/0x000002
-msgid "Chico!"
-msgstr "奇科！"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x000003
-msgid "Tell me what's going on here."
-msgstr "告诉我这怎么回事。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x000004
-msgid ""
-"This place is crawling with soldiers.\n"
-"They don't look like private security. "
-msgstr "这地方到处都是士兵。\n他们不像私人安保。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x000005
-msgid ""
-"More like hired guns. They're loaded with\n"
-"the latest gear from all over the world."
-msgstr "更像雇佣兵。他们装备着\n世界各地最先进的武器。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x000006
-msgid ""
-"I heard they're a security force\n"
-"hired by CODESA."
-msgstr "听说他们是由CODESA\n雇佣的安保部队。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x000007
-msgid ""
-"Yeah, and I'm Papá Noel.\n"
-"Those guys are UCLAs."
-msgstr "是啊，我还是圣诞老人呢。\n那些家伙是UCLA。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x000008
-msgid ""
-"UCLAs (Unilaterally Controlled Latino Assets)\n"
-"... la CIA?"
-msgstr "UCLA（单方面控制的拉美资产）\n……CIA？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x000009
-msgid "I saw them setting up shop in town. "
-msgstr "我看见他们在镇上扎营。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x00000a
-msgid ""
-"They're planning to do here\n"
-"what they did in Chile."
-msgstr "他们打算在这里\n重演智利的勾当。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x00000b
-msgid "If that's the case, what are they after?"
-msgstr "若真如此，他们图什么？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x00000c
-msgid "Whatever it is, it's not us..."
-msgstr "不管图什么，反正不是我们……"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x00000d
-msgid ""
-"You don't think they're here to \n"
-"push you back into Nicaragua?"
-msgstr "你觉得他们不是来\n把你赶回尼加拉瓜的？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x00000e
-msgid "Impossible. Too much hardware - too many bases."
-msgstr "不可能。装备太多，基地太多。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x00000f
-msgid ""
-"Didn’t you see? They've got helicopters,\n"
-"tanks... It's like we're in Da Nang."
-msgstr "你没看见吗？他们有直升机、\n坦克……简直像在岘港。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x000010
-msgid " There must be something else."
-msgstr "肯定另有目的。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x000011
-msgid "They have a base near here?"
-msgstr "他们附近有基地？"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x000012
-msgid ""
-"There's a factory to the north, \n"
-"across a suspension bridge."
-msgstr "北边有座工厂，\n过一座吊桥就是。"
-
-#. comic cutscene
-#: slot/0x003af5cd/0xb260b3/0x000013
-msgid "Factory to the north, across a bridge."
-msgstr "北边工厂，过桥即到。"
-
-#. comic cutscene
-#: slot/0x003af60d/0x326173/0x000000
-msgid "What the hell?!"
-msgstr "搞什么？！"
-
-#. comic cutscene
-#: slot/0x003af60d/0x326173/0x000001
-msgid ""
-"Es un hombre nuevo. An unmanned weapon.\n"
-"A robot!"
-msgstr "Es un hombre nuevo。无人兵器。\n机器人！"
-
-#. comic cutscene
-#: slot/0x003af60d/0x726176/0x000000
-msgid "No! He won't survive the fall!"
-msgstr "不！他摔下去会死的！"
-
-#. comic cutscene
-#: slot/0x003af60d/0x726176/0x000001
-msgid "Out of my way!"
-msgstr "让开！"
-
-#. comic cutscene
-#: slot/0x003af60d/0x726176/0x000002
-msgid ""
-"Better for him to die at the hand of \n"
-"a compa than suffer their torture."
-msgstr "与其受他们折磨，\n不如死在同志手里。"
-
-#. comic cutscene
-#: slot/0x003af60d/0xa96192/0x000000
-msgid ""
-"Stay here. As long as I'm still alive, \n"
-"I might as well repay you."
-msgstr "待在这。只要我还活着，\n就该报答你。"
-
-#. comic cutscene
-#: slot/0x003af60d/0xa96192/0x000001
-#: slot/0x00a57090/0x12908e/0x00001b
-#: slot/0x00a57090/0x12908e/0x000081
-#: slot/0x00db94df/0x814381/0x000000
-msgid "Over here!"
-msgstr "这边！"
-
-#. comic cutscene
-#: slot/0x003af60d/0xa96192/0x000002
-msgid "Find Chico! ¡Venceremos!"
-msgstr "找到奇科！¡Venceremos！"
-
-#. comic cutscene
-#: slot/0x003af62d/0x3261f1/0x000000
-msgid "Intruder detected. Intruder detected."
-msgstr "发现入侵者。发现入侵者。"
-
-#. comic cutscene
-#: slot/0x003af62d/0x3261f1/0x000001
-#: slot/0x00a57090/0x12908e/0x0001f7
-msgid "Commencing attack."
-msgstr "开始攻击。"
-
-#. comic cutscene
-#: slot/0x003af62d/0x326213/0x000000
-msgid "Shoot it!"
-msgstr "开枪打它！"
-
-#. comic cutscene
-#: slot/0x003af62d/0x326213/0x000001
-msgid "You'll fall!"
-msgstr "你会掉下去的！"
-
-#. comic cutscene
-#: slot/0x003af62d/0x326213/0x000002
-msgid "Shoot el Chicolibri!"
-msgstr "射杀蜂鸟！"
-
-#. comic cutscene
-#: slot/0x003af90d/0x901a62/0x000000
-#: slot/0x003af90d/0x901e5e/0x000000
-msgid ""
-"I will take my own life before I sell out \n"
-"my compas under torture!"
-msgstr "我宁死也不会在酷刑下\n出卖同伴！"
-
-#. comic cutscene
-#: slot/0x003af90d/0x902662/0x000000
-msgid "What are you aiming at? El chicolibri!"
-msgstr "你在瞄什么？蜂鸟！"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326df7/0x000001
-#: slot/0x003af92d/0x326df7/0x000007
-msgid "Chico..."
-msgstr "奇科……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326df7/0x000002
-msgid "What? What is it?"
-msgstr "什么？怎么了？"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326df7/0x000003
-msgid "Can you... roll me one?"
-msgstr "你能……给我卷一根吗？"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326df7/0x000004
-msgid "Hm?"
-msgstr "嗯？"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326df7/0x000005
-msgid "Tobacco..."
-msgstr "烟草…"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326df7/0x000006
-#: slot/0x003af92d/0x426e17/0x000010
-#: slot/0x003af92d/0x826e53/0x000006
-#: slot/0x003af9cd/0x327162/0x000002
-#: slot/0x003af9cd/0x327162/0x00000e
-#: slot/0x00dff0a5/0xa84a6a/0x00005d
-msgid "Yeah."
-msgstr "嗯。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326df7/0x000008
-msgid "Hold still."
-msgstr "别动。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326df7/0x000009
-msgid "I treated him like a kid again... we fought."
-msgstr "我又把他当小孩，我们吵了。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326df7/0x00000a
-#: slot/0x00dff09b/0xaf8d11/0x000071
-msgid "Hmm?"
-msgstr "嗯？"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326df7/0x00000b
-msgid "I didn't want Chico to know... Kept it a secret."
-msgstr "我不想让奇科知道……一直瞒着他。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326e59/0x000000
-msgid "Kaz, can you hear me?"
-msgstr "卡兹，能听到吗？"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326e59/0x000001
-msgid "MSF here."
-msgstr "MSF收到。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326e59/0x000002
-msgid "One for recovery. She's wounded."
-msgstr "一人回收。她受伤了。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326e59/0x000003
-msgid "Acknowledged."
-msgstr "收到。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326e59/0x000004
-msgid ""
-"Kaz, the cargo on the barge... I was right, \n"
-"it's headed for the mountains."
-msgstr "卡兹，驳船上的货物……我猜对了，\n正运往山里。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326e59/0x000005
-msgid "You think that's where they're taking the nukes?"
-msgstr "你觉得核弹被送到那里了？"
-
-#. comic cutscene
-#: slot/0x003af92d/0x326e59/0x000006
-msgid "I'm sure of it. Let's move."
-msgstr "我确定。行动吧。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x000000
-msgid "A front. It's a drug refining plant."
-msgstr "是个幌子。其实是毒品提炼厂。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x000001
-msgid "The KGB set it up for us to run."
-msgstr "克格勃建起来让我们经营的。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x000002
-msgid "We use the income to buy food and weapons..."
-msgstr "我们用收入买粮食和武器……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x000003
-msgid "Mi viejo never said a word, but we all knew."
-msgstr "我爸从没提过，但我们都心知肚明。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x000004
-msgid "Ooh... everyone except Chico."
-msgstr "唔……除了奇科，所有人都在。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x000005
-msgid "Everything we have... Our weapons, our compas..."
-msgstr "我们的一切……武器、战友……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x000006
-msgid "He brought it all together..."
-msgstr "是他把大家聚到一起……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x000007
-msgid "We were going to rebuild our country..."
-msgstr "我们本想重建祖国……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x000008
-msgid "rebuild Nica with our own hands..."
-msgstr "亲手重建尼加拉瓜……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x000009
-msgid "even if we had to dirty our hands to do it... "
-msgstr "哪怕双手沾满污秽……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x00000a
-msgid "But it's all over. We lost our cacique. Papá..."
-msgstr "但一切都完了。我们失去了首领。爸爸……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x00000b
-msgid "I could never replace him..."
-msgstr "我无法取代他……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x00000c
-msgid ""
-"Now they've taken the plant from us, too... \n"
-"There's no place left to regroup..."
-msgstr "现在他们连工厂也夺走了……\n再没有地方可以重整旗鼓……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x00000d
-msgid "No way to fight la revolución..."
-msgstr "没法继续革命了……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x00000e
-msgid "Here... I rolled you one."
-msgstr "给……我给你卷了一根。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x00000f
-msgid "What about you? You're going after that cargo?"
-msgstr "你呢？你要去追那批货？"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x000011
-msgid "Must be important, mmm?"
-msgstr "一定很重要吧，嗯？"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x000012
-msgid "Looks that way."
-msgstr "看来是。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e17/0x000013
-msgid "It... Looks like it could be nukes..."
-msgstr "那……像是核弹……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e38/0x000000
-msgid ""
-"There's a prison up in the mountains... \n"
-"That's probably where he is."
-msgstr "山里有个监狱……\n他大概就在那里。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e38/0x000001
-msgid "A prison in the mountains..."
-msgstr "山里的监狱……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e38/0x000002
-msgid ""
-"You must do something for me.\n"
-"If you... can't save Chico..."
-msgstr "你得帮我做件事。\n如果你……救不了奇科……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e38/0x000003
-msgid ""
-"I want you to... ease his pain... \n"
-"End his humiliation..."
-msgstr "我要你……减轻他的痛苦……\n结束他的屈辱……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e38/0x000004
-msgid ""
-"If he gives in, if he's about to sell out \n"
-"his compas... Please..."
-msgstr "如果他屈服，如果他要出卖\n战友……求你……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e38/0x000005
-msgid "...At least let him keep his honor."
-msgstr "……至少让他保住尊严。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e38/0x000006
-msgid "That's a promise I can't make."
-msgstr "这个承诺我做不到。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x426e38/0x000007
-msgid "...Why?"
-msgstr "……为什么？"
-
-#. comic cutscene
-#: slot/0x003af92d/0x826e53/0x000000
-msgid ""
-"Amanda, we gave up our homes. \n"
-"But we're still alive."
-msgstr "阿曼达，我们没了家园。\n但还活着。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x826e53/0x000001
-msgid "We're still fighting."
-msgstr "我们还在战斗。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x826e53/0x000002
-msgid ""
-"And there's always another reason \n"
-"to keep on living."
-msgstr "而且总有另一个理由\n让人活下去。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x826e53/0x000003
-msgid "Ahh, I feel alive again..."
-msgstr "啊，我又感觉活过来了……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x826e53/0x000004
-msgid "Amanda, join my unit until you've healed up."
-msgstr "阿曼达，伤好前加入我部队吧。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x826e53/0x000005
-msgid "Your... unit?"
-msgstr "你的……部队？"
-
-#. comic cutscene
-#: slot/0x003af92d/0x826e53/0x000007
-msgid "Who are you? Why are you here?"
-msgstr "你是谁？为何在这？"
-
-#. comic cutscene
-#: slot/0x003af92d/0x826e53/0x000008
-msgid "...I'm Snake. Serpiente."
-msgstr "……我是SNAKE。Serpiente。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x826e53/0x000009
-msgid "\"Snake?\""
-msgstr "“SNAKE？”"
-
-#. comic cutscene
-#: slot/0x003af92d/0x826e53/0x00000a
-msgid "Could it be..."
-msgstr "难道……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x826e53/0x00000b
-msgid "the great cacique..."
-msgstr "伟大的酋长……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x826e53/0x00000c
-msgid "has come to lead us..."
-msgstr "来带领我们……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x826e53/0x00000d
-msgid "patria libre o morir... "
-msgstr "自由祖国或死亡……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x926e32/0x000000
-msgid "Wha-? Nukes?!"
-msgstr "什么——？核弹？！"
-
-#. comic cutscene
-#: slot/0x003af92d/0x926e32/0x000001
-msgid ""
-"¡Madre de dios! No time to waste!\n"
-"We must get to Irazú!"
-msgstr "圣母啊！没时间了！\n必须去伊拉苏！"
-
-#. comic cutscene
-#: slot/0x003af92d/0x926e32/0x000002
-msgid "The transport route leads there."
-msgstr "运输路线通向那里。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x926e32/0x000003
-msgid ""
-"It must be where they're holding Chico\n"
-"and my compas, too..."
-msgstr "他们一定把奇科\n和我的同志们关在那里……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x926e32/0x000004
-msgid ""
-"Whenever Chico and I argue, \n"
-"he goes off to be by himself..."
-msgstr "每次奇科和我吵架，\n他都一个人跑出去……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x926e32/0x000005
-msgid ""
-"That's why he knows more than \n"
-"anybody about their bases."
-msgstr "所以他比谁都清楚\n他们的基地。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x926e32/0x000006
-msgid "He... Oh, Chico..."
-msgstr "他……哦，奇科……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x926e32/0x000007
-msgid "You're pretty worried about your baby brother."
-msgstr "你很担心你的小弟弟。"
-
-#. comic cutscene
-#: slot/0x003af92d/0x926e32/0x000008
-msgid "This is why I'm not fit to be a leader..."
-msgstr "这就是我不配当领袖……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x926e32/0x000009
-msgid "Fine. It's a little bit out of my way, but..."
-msgstr "好吧。虽然有点绕路，但是……"
-
-#. comic cutscene
-#: slot/0x003af92d/0x926e32/0x00000a
-msgid "Just tell me where I need to go."
-msgstr "只要告诉我该去哪儿就行。"
-
-#. comic cutscene
-#: slot/0x003af92d/0xb26e10/0x000000
-msgid "Somoza's guardia chased us out of Nicaragua,"
-msgstr "索摩查的国民卫队把我们赶出尼加拉瓜，"
-
-#. comic cutscene
-#: slot/0x003af92d/0xb26e10/0x000001
-msgid "across the Rio San Juan... and we ended up here."
-msgstr "越过圣胡安河……最后到了这里。"
-
-#. comic cutscene
 #: slot/0x003af92d/0xb26e10/0x000002
 msgid ""
 "The only reason \n"
 "we've been able to keep on fighting..."
-msgstr "我们之所以\n能一直战斗下去……"
+msgstr ""
+"我们之所以\n"
+"能一直战斗下去……"
 
 #. comic cutscene
 #: slot/0x003af92d/0xb26e10/0x000003
@@ -1447,7 +167,9 @@ msgstr "货物？什么货物？"
 msgid ""
 "...Let me rephrase that. \n"
 "How do they get stuff from the coast up here?"
-msgstr "……换个问法。\n他们怎么把东西从海岸运上来？"
+msgstr ""
+"……换个问法。\n"
+"他们怎么把东西从海岸运上来？"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x000019
@@ -1459,14 +181,18 @@ msgstr "哦，这我能说。"
 msgid ""
 "When the cargo gets to the harbor, \n"
 "they first send it up the marshes on a barge."
-msgstr "货物到了港口后，\n先用驳船沿沼泽运上来。"
+msgstr ""
+"货物到了港口后，\n"
+"先用驳船沿沼泽运上来。"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x00001b
 msgid ""
 "Then they load it onto a jungle train \n"
 "past the banana plantation"
-msgstr "然后装上丛林列车，\n穿过香蕉种植园"
+msgstr ""
+"然后装上丛林列车，\n"
+"穿过香蕉种植园"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x00001c
@@ -1478,7 +204,9 @@ msgstr "再经铁路运输。"
 msgid ""
 "The train stops here. When it gets to \n"
 "the train terminal past the coffee plantation, "
-msgstr "列车停在这里。等它开到\n咖啡种植园那边的终点站，"
+msgstr ""
+"列车停在这里。等它开到\n"
+"咖啡种植园那边的终点站，"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x00001e
@@ -1505,7 +233,9 @@ msgstr "奇科，那条隧道另一头是什么？"
 msgid ""
 "Nobody knows.\n"
 "None of our compas ever got close enough..."
-msgstr "没人知道。\n我们的人从没靠近过……"
+msgstr ""
+"没人知道。\n"
+"我们的人从没靠近过……"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x000023
@@ -1537,14 +267,18 @@ msgstr "蛇中之王……？"
 msgid ""
 "No, no, no, really, I saw it! \n"
 "I was camping up there one day, "
-msgstr "不不不，真的，我见过！\n有天我在上面露营，"
+msgstr ""
+"不不不，真的，我见过！\n"
+"有天我在上面露营，"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x000029
 msgid ""
 "and just as I was waking up around dawn, \n"
 "I heard this loud noise."
-msgstr "黎明时刚醒过来，\n就听到一声巨响。"
+msgstr ""
+"黎明时刚醒过来，\n"
+"就听到一声巨响。"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x00002a
@@ -1571,7 +305,9 @@ msgstr "你在哪看到的？"
 msgid ""
 "At the terminal near the tunnel. \n"
 "But I only saw it that one time."
-msgstr "在隧道附近的终端。\n但我只见过那一次。"
+msgstr ""
+"在隧道附近的终端。\n"
+"但我只见过那一次。"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x00002f
@@ -1598,7 +334,9 @@ msgstr "你知道，"
 msgid ""
 "their train should be arriving at the place \n"
 "I saw el basilisco right about now!"
-msgstr "他们的火车现在应该快到\n我看到el basilisco的地方了！"
+msgstr ""
+"他们的火车现在应该快到\n"
+"我看到el basilisco的地方了！"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x000034
@@ -1610,7 +348,9 @@ msgstr "远吗？"
 msgid ""
 "Not really. Go past the coffee plantation \n"
 "and it'll be to the north."
-msgstr "不算远。过了咖啡种植园，\n就在北边。"
+msgstr ""
+"不算远。过了咖啡种植园，\n"
+"就在北边。"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x000036
@@ -1622,14 +362,18 @@ msgstr "你在追什么？"
 msgid ""
 "Something that could keep the world \n"
 "in balance... or destroy it."
-msgstr "能维持世界平衡……\n也能毁灭世界的东西。"
+msgstr ""
+"能维持世界平衡……\n"
+"也能毁灭世界的东西。"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x000039
 msgid ""
 "I heard that place was a narcotics plant \n"
 "before those guys took it over. "
-msgstr "我听说那地方在那些人接手前\n是个毒品工厂。"
+msgstr ""
+"我听说那地方在那些人接手前\n"
+"是个毒品工厂。"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x00003a
@@ -1641,7 +385,9 @@ msgstr "不过，你早就知道了，对吧。"
 msgid ""
 "Look, I get it. \n"
 "Even revolutionaries need to pay the bills."
-msgstr "听着，我明白。\n革命者也得付账单。"
+msgstr ""
+"听着，我明白。\n"
+"革命者也得付账单。"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x00003c
@@ -1653,7 +399,9 @@ msgstr "不过，你这种孩子还是很难接受吧。"
 msgid ""
 "You're damn right it is!\n"
 "The route they use to transport stuff "
-msgstr "你说得没错！\n他们运货的路线"
+msgstr ""
+"你说得没错！\n"
+"他们运货的路线"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x00003e
@@ -1690,7 +438,9 @@ msgstr "是的……"
 msgid ""
 "I managed to sneak into the plant \n"
 "a few times and..."
-msgstr "我设法溜进了工厂\n几次，然后……"
+msgstr ""
+"我设法溜进了工厂\n"
+"几次，然后……"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x000045
@@ -1707,7 +457,9 @@ msgstr "……大家都把我当小孩。"
 msgid ""
 "I, I, I couldn't stand it anymore. \n"
 "I'm not a kid. I'm twelve! "
-msgstr "我，我，我再也受不了了。\n我不是小孩。我都十二岁了！"
+msgstr ""
+"我，我，我再也受不了了。\n"
+"我不是小孩。我都十二岁了！"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x000048
@@ -1719,7 +471,9 @@ msgstr "可你做不到，对吧？"
 msgid ""
 "Chico, growing up means choosing how you're\n"
 "gonna live your life."
-msgstr "奇科，长大就是选择自己要怎样\n度过一生。"
+msgstr ""
+"奇科，长大就是选择自己要怎样\n"
+"度过一生。"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x00004a
@@ -1731,7 +485,9 @@ msgstr "要做正确的事，"
 msgid ""
 "you sometimes have to leave the things \n"
 "you care about behind"
-msgstr "有时你不得不舍弃\n你所珍视之物"
+msgstr ""
+"有时你不得不舍弃\n"
+"你所珍视之物"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x00004c
@@ -1793,7 +549,9 @@ msgstr "……你供出了你的同伴？"
 msgid ""
 "Nothing to be ashamed of.\n"
 "Pain gets the better of us all."
-msgstr "没什么好羞耻的。\n痛苦谁都扛不住。"
+msgstr ""
+"没什么好羞耻的。\n"
+"痛苦谁都扛不住。"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x00005a
@@ -1830,21 +588,27 @@ msgstr "我只浪费一颗子弹。别浪费命。"
 msgid ""
 "Listen to me, Chico. You died here today.\n"
 "You understand?"
-msgstr "听我说，奇科。你今天死在这了。\n懂吗？"
+msgstr ""
+"听我说，奇科。你今天死在这了。\n"
+"懂吗？"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x000061
 msgid ""
 "You're hombre nuevo. A new man.\n"
 "Now, give that new life to me."
-msgstr "你是新人。全新的人。\n把新命交给我。"
+msgstr ""
+"你是新人。全新的人。\n"
+"把新命交给我。"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x000062
 msgid ""
 "Fight with me, little soldier.\n"
 "Show me how strong you really are."
-msgstr "跟我打，小士兵。\n让我看看你多强。"
+msgstr ""
+"跟我打，小士兵。\n"
+"让我看看你多强。"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x000063
@@ -1861,7 +625,9 @@ msgstr "长大之前不许抽烟。"
 msgid ""
 "Remember, real heroes are never as polished \n"
 "as the legends that surround them."
-msgstr "记住，真正的英雄从来不像\n围绕他们的传说那样完美。"
+msgstr ""
+"记住，真正的英雄从来不像\n"
+"围绕他们的传说那样完美。"
 
 #. comic cutscene
 #: slot/0x003af96d/0x396f96/0x000066
@@ -1932,28 +698,36 @@ msgstr "小岛先生！"
 msgid ""
 "Kaz, I'm inside the facility. \n"
 "There's rows and rows of trucks here."
-msgstr "卡兹，我进到工厂里了。\n这里停着一排排的卡车。"
+msgstr ""
+"卡兹，我进到工厂里了。\n"
+"这里停着一排排的卡车。"
 
 #. comic cutscene
 #: slot/0x003af98d/0x326f75/0x000001
 msgid ""
 "If that's where they brought the nukes, \n"
 "then the truck we're after should be there. "
-msgstr "如果核弹被运到了这里，\n那我们要找的卡车应该就在。"
+msgstr ""
+"如果核弹被运到了这里，\n"
+"那我们要找的卡车应该就在。"
 
 #. comic cutscene
 #: slot/0x003af98d/0xa26f77/0x000000
 msgid ""
 "Snake, can you tell which one of \n"
 "the trucks brought the nukes? "
-msgstr "SNAKE，你能分辨出是哪辆\n卡车运来了核弹吗？"
+msgstr ""
+"SNAKE，你能分辨出是哪辆\n"
+"卡车运来了核弹吗？"
 
 #. comic cutscene
 #: slot/0x003af98d/0xa26f77/0x000001
 msgid ""
 "One of them must have the same license plate \n"
 "as the one from the terminal."
-msgstr "其中一辆的车牌一定和\n终端那辆一样。"
+msgstr ""
+"其中一辆的车牌一定和\n"
+"终端那辆一样。"
 
 #. comic cutscene
 #: slot/0x003af992/0x226fab/0x000000
@@ -1975,14 +749,18 @@ msgstr "阳光"
 msgid ""
 "Kaz, I'm inside the facility.\n"
 "There're rows and rows of trucks here."
-msgstr "卡兹，我进到工厂里了。\n这里停着一排排的卡车。"
+msgstr ""
+"卡兹，我进到工厂里了。\n"
+"这里停着一排排的卡车。"
 
 #. comic cutscene
 #: slot/0x003af992/0x326f89/0x000001
 msgid ""
 "Zadornov should be somewhere in that area. \n"
 " Find him."
-msgstr "扎多尔诺夫就在那片区域。\n找到他。"
+msgstr ""
+"扎多尔诺夫就在那片区域。\n"
+"找到他。"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x227036/0x000000
@@ -1994,14 +772,18 @@ msgstr "你利用了我。"
 msgid ""
 "We used each other. \n"
 "I'll get my old Director's job back at headquarters,"
-msgstr "我们互相利用。\n我会回总部官复原职，"
+msgstr ""
+"我们互相利用。\n"
+"我会回总部官复原职，"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x227036/0x000002
 msgid ""
 "and you'll finally be able to \n"
 "\"walk tall\" among your colleagues."
-msgstr "而你终于能在同事中\n\"昂首挺胸\"了。"
+msgstr ""
+"而你终于能在同事中\n"
+"\"昂首挺胸\"了。"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x227036/0x000003
@@ -2013,7 +795,9 @@ msgstr "呃……我不会让你得逞的！"
 msgid ""
 "How unfortunate.\n"
 "Guess I'll just have to take your \"legs\" for myself!"
-msgstr "真遗憾。\n那我只好夺走你的\"腿\"了！"
+msgstr ""
+"真遗憾。\n"
+"那我只好夺走你的\"腿\"了！"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x326ff5/0x000000
@@ -2025,21 +809,27 @@ msgstr "等等！这跟我们说好的不一样！"
 msgid ""
 "It's too late. \n"
 "The changes have already been finalized."
-msgstr "太迟了。\n变更已经敲定了。"
+msgstr ""
+"太迟了。\n"
+"变更已经敲定了。"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x326ff5/0x000002
 msgid ""
 "You told me it was going to be a deterrent,\n"
 "that we wouldn't have to launch!"
-msgstr "你说过那只是威慑，\n我们不必真的发射！"
+msgstr ""
+"你说过那只是威慑，\n"
+"我们不必真的发射！"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x326ff5/0x000003
 msgid ""
 "I am not arguing with you, Doctor.\n"
 "Our goal is to create the perfect deterrent."
-msgstr "我不是跟你争，博士。\n我们要造完美威慑。"
+msgstr ""
+"我不是跟你争，博士。\n"
+"我们要造完美威慑。"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x326ff5/0x000004
@@ -2051,7 +841,9 @@ msgstr "所以我才答应帮忙开发的……"
 msgid ""
 "Mm-hmm. However, in order to achieve\n"
 "that perfect deterrent, "
-msgstr "嗯哼。不过，要实现\n那完美的威慑，"
+msgstr ""
+"嗯哼。不过，要实现\n"
+"那完美的威慑，"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x326ff5/0x000006
@@ -2063,7 +855,9 @@ msgstr "我们必须向世界展示实力。"
 msgid ""
 "Three key principles ensure effective\n"
 "nuclear deterrence."
-msgstr "确保有效核威慑的\n三大原则。"
+msgstr ""
+"确保有效核威慑的\n"
+"三大原则。"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x326ff5/0x000008
@@ -2090,7 +884,9 @@ msgstr "若遭攻击，必须予以反击。"
 msgid ""
 "Unless we prove beyond a doubt that these\n"
 "three principles work in practice, "
-msgstr "除非我们证明这三项原则\n确实行之有效，"
+msgstr ""
+"除非我们证明这三项原则\n"
+"确实行之有效，"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x326ff5/0x00000d
@@ -2107,7 +903,9 @@ msgstr "而唯一的办法"
 msgid ""
 "is to show them we're capable of\n"
 "actually launching a nuke."
-msgstr "就是让他们看到我们\n真能发射核弹。"
+msgstr ""
+"就是让他们看到我们\n"
+"真能发射核弹。"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x427058/0x000000
@@ -2139,7 +937,9 @@ msgstr "他真要动手！"
 msgid ""
 "Your creation? That thing wasn't\n"
 "even your idea to begin with."
-msgstr "你的作品？那东西一开始\n就不是你的主意。"
+msgstr ""
+"你的作品？那东西一开始\n"
+"就不是你的主意。"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x52701a/0x000001
@@ -2156,7 +956,9 @@ msgstr "……偷的？你还有脸说！"
 msgid ""
 "You got the idea for bipedal locomotion\n"
 "from the Communists in the first place!"
-msgstr "双足行走的点子\n本来就是从共产党那里弄来的！"
+msgstr ""
+"双足行走的点子\n"
+"本来就是从共产党那里弄来的！"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x52701a/0x000004
@@ -2173,7 +975,9 @@ msgstr "不许再提偷点子的事。"
 msgid ""
 "Should we succeed here, you'll be the toast \n"
 "of the scientific community..."
-msgstr "只要这里成功，你就是科学界的\n风云人物……"
+msgstr ""
+"只要这里成功，你就是科学界的\n"
+"风云人物……"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x52701a/0x000007
@@ -2185,7 +989,9 @@ msgstr "……你的名字将载入史册"
 msgid ""
 "as champion of both progress \n"
 "and national security!"
-msgstr "成为进步与国家安全的\n双重捍卫者！"
+msgstr ""
+"成为进步与国家安全的\n"
+"双重捍卫者！"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x52701a/0x000009
@@ -2217,14 +1023,18 @@ msgstr "他要发射核弹！"
 msgid ""
 "But... isn't deterrence supposed \n"
 "to stop nukes from being used...!"
-msgstr "可是……威慑不就是为了\n阻止核弹被使用吗……！"
+msgstr ""
+"可是……威慑不就是为了\n"
+"阻止核弹被使用吗……！"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x927011/0x000001
 msgid ""
 "Exactly. And so the one we launch \n"
 "will be the last one ever!"
-msgstr "没错。我们发射的\n将是史上最后一枚！"
+msgstr ""
+"没错。我们发射的\n"
+"将是史上最后一枚！"
 
 #. comic cutscene
 #: slot/0x003af9ad/0x927011/0x000002
@@ -2251,7 +1061,9 @@ msgstr "V代表胜利"
 msgid ""
 "That was an unmanned weapon... a prototype. \n"
 "I made it myself."
-msgstr "那是个无人兵器……原型机。\n是我亲手做的。"
+msgstr ""
+"那是个无人兵器……原型机。\n"
+"是我亲手做的。"
 
 #. comic cutscene
 #: slot/0x003af9cd/0x327091/0x000002
@@ -2263,7 +1075,9 @@ msgstr "我在这里工作。不过以前是。我叫休伊。"
 msgid ""
 "And who might you be? \n"
 "You don't look like one of those mercenaries."
-msgstr "你是哪位？\n看起来不像那些雇佣兵。"
+msgstr ""
+"你是哪位？\n"
+"看起来不像那些雇佣兵。"
 
 #. comic cutscene
 #: slot/0x003af9cd/0x327091/0x000004
@@ -2274,3 +1088,1502 @@ msgstr "我？我是……昆虫学家。"
 #: slot/0x003af9cd/0x327091/0x000005
 msgid "A... fighting... entomologist?"
 msgstr "一个……战斗……昆虫学家？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327091/0x000006
+msgid ""
+"I specialize in butterflies.\n"
+"I'm, here to catch a Ulysses..."
+msgstr ""
+"我专攻蝴蝶。\n"
+"我来抓尤利西斯……"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327091/0x000007
+msgid ""
+"Ulysses? Hmm, \n"
+"I didn't think they lived in Costa Rica."
+msgstr ""
+"尤利西斯？嗯，\n"
+"我不觉得它们会住在哥斯达黎加。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327091/0x000008
+msgid "...Morphos, maybe?"
+msgstr "……也许是摩尔福斯？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327091/0x000009
+msgid ""
+"That's it.. Need to get some before \n"
+"the Washington Treaty goes into effect..."
+msgstr ""
+"对，就是它……得赶在华盛顿条约\n"
+"生效前抓几只……"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327091/0x00000a
+msgid ""
+"Says here Morphos aren't covered \n"
+"under the treaty..."
+msgstr ""
+"这说摩尔福斯\n"
+"不受条约保护……"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327091/0x00000b
+msgid "Ugh... Must have slipped my mind."
+msgstr "呃……我一定是忘了。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327091/0x00000c
+msgid "You sure you're feeling all right?"
+msgstr "你确定你没事吗？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000000
+msgid "Our place is \"Outer Heaven.\" You'd fit right in."
+msgstr "我们的地盘叫“世外天堂”。你会很适应的。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000001
+msgid "Outer Heaven... ?"
+msgstr "世外天堂……？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000003
+msgid ""
+"I'm probably better suited to \n"
+"something like that than this \"paradise.\""
+msgstr ""
+"比起这个“天堂”，\n"
+"我大概更适合那种地方。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000004
+msgid "Good. You get a free balloon trip for signing up."
+msgstr "很好。报名就送免费热气球之旅。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000005
+msgid "Enjoy it, you'll feel like a butterfly."
+msgstr "享受吧，你会像蝴蝶。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000006
+msgid "You're an agent, right? Who do you work for?"
+msgstr "你是特工吧？替谁干活？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000007
+msgid "Me? I was a Cold War tool, same as you."
+msgstr "我？和你一样，冷战工具。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000008
+msgid ""
+"Now I'm not so useful anymore, so they \n"
+"cut me loose... I don't answer to anyone."
+msgstr ""
+"现在我没用了，他们\n"
+"就甩了我……我不听谁的。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000009
+msgid "...Call me Snake."
+msgstr "……叫我SNAKE。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x00000a
+msgid "Snake... The name seems familiar somehow."
+msgstr "SNAKE……这名字好像在哪听过。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x00000b
+msgid "Probably just déjà vu."
+msgstr "大概是既视感吧。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x00000c
+msgid "...You see that there?"
+msgstr "……你看到那边了吗？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x00000d
+msgid "Beyond the cloud forest. See those ruins?"
+msgstr "云雾林那边。看到废墟没？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x00000f
+msgid "That's where you'll find Dr. Strangelove's lab."
+msgstr "斯特兰奇洛夫博士实验室就在那。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000000
+msgid "There's the chance that a pre-emptive strike could destroy all the missile bases"
+msgstr "先发制人的打击有可能摧毁所有导弹基地"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000001
+msgid "... Render them unable to retaliate."
+msgstr "……让他们无法反击。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000002
+msgid ""
+"But the biggest flaw in the theory is \n"
+"that the decision to retaliate"
+msgstr ""
+"但这个理论最大的漏洞在于，\n"
+"决定是否反击的"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000003
+msgid "has to be made by human beings."
+msgstr "必须是人。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000004
+msgid "Let me give you a real-world example."
+msgstr "给你举个现实例子。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000005
+msgid ""
+"Let's say Country X launches first \n"
+"against Country Y..."
+msgstr ""
+"假设X国率先对Y国\n"
+"发动攻击……"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000006
+msgid ""
+"If the people in charge \n"
+"in Country Y are like you and me,"
+msgstr ""
+"如果Y国的决策者\n"
+"和你我一样，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000007
+msgid "they're not gonna be able to retaliate"
+msgstr "他们不会发动反击，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000008
+msgid ""
+"knowing that they're \n"
+"effectively ending all human life. "
+msgstr ""
+"因为他们知道那等于\n"
+"终结全人类的生命。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000009
+msgid "So then..."
+msgstr "那么…"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x00000a
+msgid "the weak link in nuclear deterrence theory is the uncertainty of retaliation?"
+msgstr "核威慑理论的薄弱环节就是反击的不确定性？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x00000b
+msgid "Bingo."
+msgstr "答对了。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x00000c
+msgid ""
+"And that creates a \"loophole\" Country X \n"
+"can exploit to launch the first strike."
+msgstr ""
+"这就制造了一个X国\n"
+"可以利用来发动首轮攻击的“漏洞”。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x00000d
+msgid ""
+"...Which is why we designed the system\n"
+"to be unmanned."
+msgstr ""
+"……所以系统\n"
+"才设计成无人。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x00000e
+msgid "With Peace Walker, retaliation is certain."
+msgstr "有了和平行者，反击是必然的。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x00000f
+msgid ""
+"It chooses the appropriate target \n"
+"and launches a retaliatory nuclear strike"
+msgstr ""
+"它会选择合适的\n"
+"目标并发动核反击，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000010
+msgid ""
+"every time, without needing human input\n"
+"to make the call."
+msgstr ""
+"每次都是如此，无需人类\n"
+"来做决定。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000011
+msgid "Launching a nuclear strike against Peace Walker"
+msgstr "对和平行者发动核打击"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000012
+msgid ""
+"is tantamount to pushing the launch button\n"
+"against yourself."
+msgstr ""
+"就等于按下对准自己的\n"
+"发射按钮。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000000
+msgid "Strangelove was recruited from the States, too."
+msgstr "斯特兰奇洛夫也是从美国招来的。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000001
+msgid ""
+"In the field of AI, \n"
+"there's no one better, that's for sure,"
+msgstr ""
+"在AI领域，\n"
+"没人比她更强，这点毋庸置疑，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000002
+msgid ""
+"but, man, what a basket case! \n"
+"She hates EVERYBODY."
+msgstr ""
+"但是，天哪，她真是个神经病！\n"
+"她讨厌所有人。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000003
+msgid ""
+"Go to the lab and \n"
+"destroy Peace Walker's cerebrum."
+msgstr ""
+"去实验室，\n"
+"摧毁和平行者的大脑。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000004
+msgid ""
+"I'm pretty sure they haven't finished\n"
+"the final calibrations yet."
+msgstr ""
+"我敢肯定他们还没完成\n"
+"最后的校准。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000005
+msgid ""
+"I'll lend you my ID card. \n"
+"It'll get you through security at the lab."
+msgstr ""
+"我把ID卡借给你。\n"
+"它能让你通过实验室的安检。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000006
+msgid "Oh... And one more thing..."
+msgstr "哦…还有件事…"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000007
+msgid "What's this? A letter of recommendation?"
+msgstr "这是什么？推荐信？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000008
+msgid "Yeah, it's, um... it's from me to Dr. Strangelove."
+msgstr "对，是，呃……是我写给斯特兰奇洛夫博士的。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000009
+msgid "...Don't read it, OK?"
+msgstr "……别看，好吗？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x00000a
+msgid "So what will you do now?"
+msgstr "那你怎么办？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x00000b
+msgid "I... I'm done with science."
+msgstr "我……我不搞科学了。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x00000c
+msgid ""
+"At this rate, I'm probably already \n"
+"halfway to hell anyway."
+msgstr ""
+"照这样，我大概已经\n"
+"半只脚踏进地狱了。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x00000d
+msgid "Not so fast. Why not join us?"
+msgstr "别急。加入我们吧？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000000
+msgid "Anyway, long story short, the butterfly got away."
+msgstr "总之，长话短说，蝴蝶跑了。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000001
+msgid ""
+"So how about it, doc? \n"
+"Did you make that big \"butterfly\" too?"
+msgstr ""
+"那么，博士？\n"
+"那只大“蝴蝶”也是你造的吗？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000002
+msgid "Yes... "
+msgstr "是……"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000003
+msgid "and no."
+msgstr "也不是。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000004
+msgid "What was that thing? What are they doing here?"
+msgstr "那是什么？他们来干嘛？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000005
+msgid ""
+"Hmh. Something tells me \n"
+"you're no ordinary entomologist."
+msgstr ""
+"哼。我总觉得\n"
+"你不是普通的昆虫学家。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000006
+msgid "The nukes were loaded on that machine."
+msgstr "核弹被装上了那台机器。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000007
+msgid "The project's entering its final phase."
+msgstr "计划已进入最终阶段。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000008
+msgid "Project...?"
+msgstr "计划……？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000009
+msgid "That's right."
+msgstr "没错。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x00000a
+msgid "The thermonuclear warheads they brought in,"
+msgstr "他们运来的热核弹头，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x00000b
+msgid "the bases scattered throughout Costa Rica,"
+msgstr "遍布哥斯达黎加的基地，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x00000c
+msgid ""
+"the mercenaries, the AI weapons, \n"
+"the research we were conducting here..."
+msgstr ""
+"雇佣兵、AI武器、\n"
+"我们在这里进行的研究……"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x00000d
+msgid "It's all for this..."
+msgstr "全都是为了这个……"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000000
+msgid ""
+"They're going to deploy \n"
+"a new type of nuclear weapon"
+msgstr ""
+"他们将要部署 \n"
+"一种新型核武器"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000001
+msgid "along the Caribbean coast of Latin America."
+msgstr "部署一种新型核武器。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000002
+msgid "A mobile, unmanned nuclear platform."
+msgstr "一种可移动的无人核平台。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000003
+msgid "Unmanned... nuclear platform...?"
+msgstr "无人……核平台……？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000004
+msgid ""
+"A fail-deadly system that can \n"
+"automatically move into position"
+msgstr ""
+"一种失效即致命的系统，可以 \n"
+"自动移动到指定位置"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000005
+msgid "and launch a retaliatory nuclear strike."
+msgstr "并发动报复性核打击。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000006
+msgid "It can move on its own,"
+msgstr "它能自行移动，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000007
+msgid ""
+"and stealth shields it from radar\n"
+"and satellite detection,"
+msgstr ""
+"且隐形设计使其能躲过雷达\n"
+"与卫星探测，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000008
+msgid ""
+"drastically reducing the risk of it being \n"
+"destroyed in a pre-emptive strike."
+msgstr ""
+"大幅降低遭先发制人打击\n"
+"摧毁的风险。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000009
+msgid "And this is the new deterrent?"
+msgstr "这就是新的威慑力量？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x00000a
+msgid ""
+"Supposed to be. \n"
+"The problem is the locomotion system."
+msgstr ""
+"本该如此。\n"
+"问题出在移动系统上。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x00000b
+msgid ""
+"There's no dry season in the Caribbean. \n"
+"It rains all year round."
+msgstr ""
+"加勒比没有旱季。\n"
+"全年都在下雨。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x00000c
+msgid "The terrain is full of tropical rainforest..."
+msgstr "地形遍布热带雨林……"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x00000d
+msgid ""
+"A lot of the time \n"
+"you can't even build a proper road."
+msgstr ""
+"很多时候\n"
+"连像样的路都修不了。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x00000e
+msgid "...So I went back to where it all started."
+msgstr "……于是我回到了最初的起点。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000010
+msgid "Legs. Walking power."
+msgstr "腿。行走能力。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6cdb3a/0x000000
+msgid ""
+"A mobile launcher carrying a thermonuclear \n"
+"warhead even more powerful"
+msgstr ""
+"一台移动发射平台，搭载的热核\n"
+"弹头威力甚至超过"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6cdb3a/0x000001
+msgid ""
+"than the Soviet RDS-220's (Tsar Bomba). \n"
+"That's Peace Walker."
+msgstr ""
+"苏联RDS-220（沙皇炸弹）。\n"
+"这就是和平行者。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6cdb3a/0x000002
+msgid "Chico's basilisco..."
+msgstr "奇科的蛇怪…"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6cdb3a/0x000003
+msgid "We did the assembly and field testing here."
+msgstr "组装和实地测试都在这做的。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6cdb3a/0x000004
+msgid "A walking nuke..."
+msgstr "行走核弹…"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6cdb3a/0x000005
+msgid ""
+"I sort of borrowed the original idea \n"
+"from behind the Iron Curtain..."
+msgstr ""
+"我算是从铁幕背后\n"
+"借来了最初的点子……"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6cdb3a/0x000006
+msgid "The missing link between infantry and artillery."
+msgstr "步兵与火炮之间缺失的一环。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6cdb3a/0x000007
+#: slot/0x003af9cd/0x6cdb3a/0x000008
+msgid "Metal Gear..."
+msgstr "合金装备……"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000000
+msgid ""
+"It's kind of a hike. And besides, \n"
+"there's a sure fire way to halt the project... "
+msgstr ""
+"路可不近。而且，\n"
+"有个万无一失的办法能中止这个项目……"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000001
+msgid "You see, Peace Walker... isn't quite finished yet."
+msgstr "你看，和平行者……还没完全完工。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000002
+#: slot/0x003b054d/0x33d29e/0x0000ab
+#: slot/0x00db94df/0xb5f44d/0x000000
+msgid "What do you mean?"
+msgstr "什么意思？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000003
+msgid "It's missing one last critical structural component:"
+msgstr "它还缺最后一个关键结构部件："
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000004
+msgid "the AI."
+msgstr "AI。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000005
+msgid "Its brain."
+msgstr "它的大脑。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000006
+msgid ""
+"The Reptile Pod, \n"
+"the electronic brain I was working on,"
+msgstr ""
+"爬虫舱，\n"
+"我一直在研发的电子脑，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000007
+msgid ""
+"can only follow commands like \n"
+"\"go there, attack that.\""
+msgstr ""
+"只能执行诸如\n"
+"“去那，打那”的命令。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000008
+msgid ""
+"I guess you could compare it \n"
+"to the human cerebellum."
+msgstr ""
+"我想你可以把它比作\n"
+"人类的小脑。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000009
+msgid "But for nuclear deterrence to work,"
+msgstr "但要让核威慑生效，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x00000a
+msgid ""
+"it must function in place of \n"
+"a human decision-maker."
+msgstr ""
+"它必须代替\n"
+"人类决策者发挥作用。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x00000b
+msgid ""
+"It needs something to analyze \n"
+"the huge volumes of data coming in"
+msgstr ""
+"它需要某种东西来分析\n"
+"涌入的海量数据"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x00000c
+msgid "and select an appropriate target for retaliation."
+msgstr "并选定合适的报复目标。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x00000d
+msgid "Hence, it needs the high-level decision-making ability of a cerebrum."
+msgstr "因此，它需要大脑级别的高级决策能力。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x00000e
+msgid "The mechanical cerebrum..."
+msgstr "机械大脑……"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x00000f
+msgid ""
+"The hardware configuration is \n"
+"modeled on the human brain,"
+msgstr ""
+"硬件配置是\n"
+"以人脑为模型设计的，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000010
+msgid ""
+"similar to the pod I worked on... \n"
+"but its role is completely different."
+msgstr ""
+"和我做过的那个舱体相似……\n"
+"但作用完全不同。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000011
+msgid "Where's it being made?"
+msgstr "在哪里制造？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000012
+msgid "A research lab to the north."
+msgstr "北边的一间研究所。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000013
+msgid ""
+"An AI expert named Dr. Strangelove is \n"
+"developing it. Very hush-hush."
+msgstr ""
+"AI专家斯特兰奇洛夫博士\n"
+"在开发它。极其机密。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000014
+msgid "Dr. Strangelove..."
+msgstr "斯特兰奇洛夫博士……"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000000
+#: slot/0x003af9cd/0xa2711c/0x00000e
+#: slot/0x003b054d/0x33d29e/0x000018
+msgid "But..."
+msgstr "但是……"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000001
+msgid "They'd actually need to deploy dozens of them."
+msgstr "他们实际得部署几十台。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000002
+msgid ""
+"Coldman needs funding for that. \n"
+"And to get it, he's planning a test,"
+msgstr ""
+"科尔德曼需要为此筹款。\n"
+"为了拿到钱，他正计划一次试验，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000003
+msgid ""
+"which will also serve as a demonstration \n"
+"for the folks back at Langley."
+msgstr ""
+"这也将作为一次演示\n"
+"给兰利的人看。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000004
+msgid ""
+"Wait. He's launching a nuke to prove \n"
+"that his perfect deterrent works?"
+msgstr ""
+"等等。他要发射核弹来证明\n"
+"他那完美威慑有效？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000005
+msgid ""
+"In his words, \"to prove that if someone \n"
+"attacks us, we will strike back.\""
+msgstr ""
+"用他的话说，“证明谁攻击我们，\n"
+"我们就还击。”"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000006
+msgid ""
+"Put simply, nuclear deterrence is the idea \n"
+"of using nukes to keep nukes in check."
+msgstr ""
+"简单说，核威慑就是用核武\n"
+"来制约核武的理念。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000007
+msgid "If one side launches nuclear weapons,"
+msgstr "若一方发射核武器，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000008
+msgid "the other is sure to launch theirs in retaliation."
+msgstr "另一方必定发射核武报复。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000009
+msgid ""
+"Which makes launching an act of suicide. \n"
+"In the end, neither side can use its nukes."
+msgstr ""
+"这让发射等于自杀。\n"
+"最终双方都无法动用核武。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x00000a
+msgid "It's thanks to this doctrine that"
+msgstr "正因这一理论，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x00000b
+msgid ""
+"the world's two superpowers \n"
+"have avoided all-out confrontation."
+msgstr ""
+"世界两大超级大国\n"
+"才避免了全面冲突。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x00000c
+msgid "Nuclear deterrence has brought us peace."
+msgstr "核威慑为我们带来了和平。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x00000d
+msgid ""
+"At the very least, it's prevented another \n"
+"World War from breaking out."
+msgstr ""
+"至少，它阻止了另一场\n"
+"世界大战的爆发。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x00000e
+msgid ""
+"But the theory of nuclear deterrence \n"
+"exists only on paper."
+msgstr ""
+"但核威慑理论\n"
+"只存在于纸面上。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x00000f
+msgid ""
+"In reality, there's no guarantee that either side \n"
+"would follow through with retaliation."
+msgstr ""
+"现实中，无法保证任何一方\n"
+"会真正实施报复。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000000
+msgid ""
+"It closes the loophole \n"
+"in nuclear deterrence theory,"
+msgstr ""
+"它堵上了\n"
+"核威慑理论的漏洞，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000001
+msgid ""
+"rendering our friends in Country X \n"
+"completely unable to launch."
+msgstr ""
+"让X国的朋友们\n"
+"完全无法发射。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000002
+msgid ""
+"What Coldman is saying is \n"
+"that to achieve this goal,"
+msgstr ""
+"科尔德曼的意思是，\n"
+"要实现这个目标，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000003
+msgid ""
+"we need to demonstrate that retaliation \n"
+"will be carried out by a machine."
+msgstr ""
+"我们需要证明报复行动\n"
+"将由机器来执行。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000004
+msgid "He will launch his nuke... "
+msgstr "他会发射核弹……"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000005
+msgid ""
+"...And then his version of deterrence \n"
+"will be complete."
+msgstr ""
+"……然后他的威慑理论\n"
+"就完整了。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000006
+msgid "And you believe him?"
+msgstr "你相信他？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000007
+msgid "...I believe in peace through nuclear deterrence."
+msgstr "……我相信通过核威慑实现的和平。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000008
+#: slot/0x00dff0a5/0xa84a6a/0x000006
+msgid "Why?"
+msgstr "为什么？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000009
+msgid "My father worked on the Manhattan Project."
+msgstr "我父亲参与过曼哈顿计划。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x00000a
+msgid "He put his whole life into that research..."
+msgstr "他把一生都投入了那项研究……"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x00000b
+msgid ""
+"and all it created was this illusion of peace\n"
+"called deterrence."
+msgstr ""
+"而它创造的只是名为威慑的\n"
+"和平幻象。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x00000c
+msgid "And then I was born... unable to walk."
+msgstr "我出生了……无法行走。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x00000d
+msgid "I had no choice but to face up to the nukes."
+msgstr "我别无选择，只能直面核武器。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x00000f
+msgid ""
+"if they do end up launching, \n"
+"it'll all have been for nothing."
+msgstr ""
+"如果他们真的发射了，\n"
+"一切都将白费。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000010
+msgid "They've got to be stopped."
+msgstr "必须阻止他们。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000011
+msgid "Where'd they take the warheads?"
+msgstr "弹头被带去哪了？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000012
+msgid ""
+"To a base near the border. \n"
+"The final test is five days from now."
+msgstr ""
+"边境附近的一个基地。\n"
+"最终测试在五天后。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000013
+msgid "Where's the base?"
+msgstr "基地在哪？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000014
+msgid "You're gonna stop them?"
+msgstr "你要阻止他们？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000000
+msgid ""
+"We used this facility \n"
+"to develop unmanned weapons."
+msgstr ""
+"我们曾用这座设施\n"
+"研发无人武器。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000001
+msgid "Unmanned?"
+msgstr "无人的？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000002
+msgid "Robots. The one you just fought was a Pupa."
+msgstr "机器人。你刚打的是蛹。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000003
+msgid ""
+"There's also a flying type called Chrysalis, \n"
+"and a treaded type... the Cocoon."
+msgstr ""
+"还有飞行型的蝶蛹，\n"
+"和履带型的……茧。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000004
+msgid ""
+"Motor control, target detection, \n"
+"tracking, attack, capture,"
+msgstr ""
+"马达控制、目标探测、\n"
+"追踪、攻击、捕获，"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000005
+msgid ""
+"and transport functions are \n"
+"all controlled by an electronic brain."
+msgstr ""
+"以及运输功能\n"
+"全由电子脑控制。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000006
+msgid "There's no need for a human pilot."
+msgstr "不需要人类驾驶员。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000007
+msgid "They can only follow simple commands, though. "
+msgstr "不过它们只能执行简单指令。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000008
+msgid "Why build them here?"
+msgstr "为什么在这里造？"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000009
+msgid "For the CIA. They invited me here a year ago."
+msgstr "为CIA造的。一年前他们请我来的。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x00000a
+msgid "That's who that guy was."
+msgstr "原来他是CIA的。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x00000b
+msgid ""
+"The CIA's station chief for Central America. \n"
+"Goes by the name of Hot Coldman."
+msgstr ""
+"CIA驻中美洲站长。\n"
+"名叫霍特·科尔德曼。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x00000c
+msgid ""
+"Apparently he was some sort of hero \n"
+"back at the height of the Cold War."
+msgstr ""
+"据说冷战巅峰时期\n"
+"他算是个英雄。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x00000d
+msgid "He's the one running the show."
+msgstr "这里由他说了算。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x00000e
+msgid "We called it the \"Peace Walker Project.\" "
+msgstr "我们叫它“和平行者计划”。"
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x00000f
+msgid "Peace Walker..."
+msgstr "和平行者……"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000000
+msgid "Snake, how's the mule treating you?"
+msgstr "SNAKE，骡子还好用吗？"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000001
+msgid ""
+"At this pace, I should be there \n"
+"by tomorrow morning."
+msgstr ""
+"照这速度，明早\n"
+"我就能到。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000002
+msgid ""
+"You've got to hurry.\n"
+"The AI could be completed any time now."
+msgstr ""
+"你得抓紧。\n"
+"AI随时可能完成。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000003
+msgid "Would be nice to have a guide..."
+msgstr "有个向导就好了…"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000004
+msgid ""
+"Already on it. I've enlisted Paz to help you.\n"
+"She knows the jungle pretty well."
+msgstr ""
+"已经在办了。我让帕兹帮你。\n"
+"她很熟悉这片丛林。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000005
+msgid ""
+"Snake, I know you're an expert in survival,\n"
+"but you need to stay alert."
+msgstr ""
+"SNAKE，我知道你是生存专家，\n"
+"但还是要保持警惕。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000006
+msgid ""
+"You're in an ancient jungle so foggy you can\n"
+"hardly see the trees. "
+msgstr ""
+"你身处一片古老丛林，浓雾中\n"
+"几乎看不清树木。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000007
+msgid ""
+"It is home to 2,500 species of plants,\n"
+"including 400 types of orchids."
+msgstr ""
+"这里栖息着2500种植物，\n"
+"包括400种兰花。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000008
+msgid ""
+"There are also 500 species of butterflies\n"
+"and over 400 species of wild birds. "
+msgstr ""
+"还有500种蝴蝶\n"
+"和400多种野鸟。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000009
+msgid "The bedrock is solid enough "
+msgstr "基岩足够坚固"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x00000a
+msgid ""
+"that Mayan ruins have miraculously survived\n"
+"centuries of earthquakes. "
+msgstr ""
+"玛雅遗迹竟奇迹般地挺过了\n"
+"数百年的地震。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x00000b
+msgid "An AI lab in a Mayan ruin. "
+msgstr "玛雅遗迹AI研究所。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000000
+msgid "Who'd have thought, eh, Huey?"
+msgstr "谁能想到呢，休伊？"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000001
+msgid ""
+"My sentiments exactly. That doesn't\n"
+"mean security's any less tight, though. "
+msgstr ""
+"我完全同意。不过这不\n"
+"意味着安保会松懈。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000002
+msgid "You still have the ID card I gave you, don't you?"
+msgstr "我给你的ID卡还带着吧？"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000003
+msgid "Got it right here."
+msgstr "就在这儿。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000004
+msgid ""
+"That'll get you through the gate no problem.\n"
+"After that, you're on your own."
+msgstr ""
+"这能让你顺利通过大门。\n"
+"之后就得靠你自己了。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000005
+msgid ""
+"As long as the AI remains unassembled,\n"
+"Coldman's plan's on ice."
+msgstr ""
+"只要AI还未组装完成，\n"
+"Coldman的计划就搁置着。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000006
+msgid "Ha, ha. What about security inside the lab?"
+msgstr "哈哈。研究所里面的警备呢？"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000007
+msgid "Well, it shouldn't be a problem for you."
+msgstr "嗯，对你来说应该不成问题。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000008
+msgid "Strangelove demanded that "
+msgstr "斯特兰奇洛夫要求"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000009
+msgid ""
+"the security presence inside \n"
+"the lab be kept to a minimum."
+msgstr ""
+"实验室内的\n"
+"安保人员保持在最低限度。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x00000a
+msgid ""
+"It's not all good news, Snake.\n"
+"Coldman knows we're here. "
+msgstr ""
+"不全是好消息，Snake。\n"
+"Coldman知道我们在这里。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x00000b
+msgid ""
+"He's raised security in the area \n"
+"surrounding the lab."
+msgstr ""
+"他加强了实验室\n"
+"周边地区的安保。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x00000c
+msgid ""
+"You'll be seeing a lot of that Chrysalis UAV and\n"
+"a bunch of patrol choppers, too."
+msgstr ""
+"你还会看到很多那架Chrysalis无人机和\n"
+"一堆巡逻直升机。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x00000d
+msgid ""
+"There may be scouts \n"
+"in the jungle lying in ambush."
+msgstr ""
+"丛林里可能\n"
+"有侦察兵埋伏。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x00000e
+msgid "As you approach the lab, be extra vigilant."
+msgstr "接近研究所时，格外警惕。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x00000f
+msgid "I'll be careful."
+msgstr "我会小心。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x827131/0x000000
+msgid "They're looking for you. Stay sharp!"
+msgstr "他们在找你。打起精神！"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x827131/0x000001
+msgid ""
+"Snake, Strangelove's lab is \n"
+"a few miles to the north."
+msgstr ""
+"Snake，Strangelove的实验室\n"
+"在北边几英里处。"
+
+#. comic cutscene
+#: slot/0x003af9ed/0x827131/0x000002
+msgid ""
+"It won't be long before the AI is complete.\n"
+"Don't let that happen!"
+msgstr ""
+"AI很快就要完成了。\n"
+"别让那发生！"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227d94/0x000000
+msgid "I'm... an ornithologist."
+msgstr "我是鸟类学家。"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227d94/0x000001
+msgid "A poacher...?!"
+msgstr "偷猎者……？！"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227d94/0x000002
+msgid ""
+"The gun's for self-defense.\n"
+"I'm looking for... that one rare bird... in Costa Rica."
+msgstr ""
+"枪是用来自卫的。\n"
+"我在找……哥斯达黎加的那只稀有鸟……"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227d94/0x000003
+msgid "Which one? The quetzal?"
+msgstr "哪种？凤尾绿咬鹃？"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227d94/0x000004
+msgid "Right, the quetzal."
+msgstr "对，凤尾绿咬鹃。"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227db3/0x000000
+msgid "I was trying to capture the quetzal's song."
+msgstr "我想录凤尾绿咬鹃叫声。"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227db3/0x000001
+msgid "Making my way through a thicket, I saw immense ruins towering before me...."
+msgstr "穿过一片灌木丛，眼前出现了巨大的遗迹……"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227db3/0x000005
+msgid "You're the one who made the tape?"
+msgstr "那盘磁带是你录的？"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000000
+msgid ""
+"The only thing I was allowed to keep were\n"
+"my undergarments... "
+msgstr ""
+"他们只允许我留下\n"
+"贴身衣物……"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000001
+msgid "so that I would not be able to escape..."
+msgstr "这样我就没法逃走了……"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000002
+msgid ""
+"And now I am without even \n"
+"the means to prove who I am. "
+msgstr ""
+"如今我连\n"
+"证明自己身份的东西都没有了。"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000003
+msgid "I will not make it home to Paris like this."
+msgstr "这样我回不了巴黎。"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000004
+msgid "In that case... come to our place."
+msgstr "那来我们那儿吧。"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000005
+#: slot/0x00a57090/0x12908e/0x000223
+msgid "Huh...?"
+msgstr "嗯？"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000006
+msgid ""
+"You don't need a passport there.\n"
+"Don't even need a name."
+msgstr ""
+"在那里不需要护照。\n"
+"连名字都不需要。"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000007
+msgid ""
+"If you want to go back to Paris,\n"
+"we'll take you there, any time."
+msgstr ""
+"如果你想回巴黎，\n"
+"我们随时都能送你去。"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000008
+msgid ""
+"What I want is a shower, a change of clothes...\n"
+"and a cigarette."
+msgstr ""
+"我想要的是洗个澡、换身衣服……\n"
+"还有一根烟。"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000009
+msgid "I've got a cigar. It's Cuban."
+msgstr "我有雪茄。古巴的。"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x00000a
+msgid "No French cigarettes? I prefer unfiltered... "
+msgstr "没法国烟？我爱无滤嘴……"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x00000b
+msgid "...Fresh out."
+msgstr "……刚抽完。"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x00000c
+msgid ""
+"But come back to my place and you can\n"
+"have all the French cigarettes you want."
+msgstr ""
+"但跟我回去，法国烟你\n"
+"想抽多少有多少。"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x327db5/0x000000
+msgid "I am loyal to myself."
+msgstr "我只忠于我自己。"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x327db5/0x000001
+msgid "...Who's there?!"
+msgstr "……谁？！"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x327db5/0x000002
+msgid "...I was captured by that woman."
+msgstr "……我被那女人抓了。"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x327db5/0x000003
+msgid ""
+"But she was kind. She gave me food to \n"
+"eat and even bathed me herself, each day."
+msgstr ""
+"但她很善良。她给我吃的，\n"
+"甚至每天亲手给我洗澡。"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x327db5/0x000004
+msgid "But, she said I could go home in a month... "
+msgstr "但她说我一个月后能回家……"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x327db5/0x000005
+msgid "\"So whatever you do, don't take off the blindfold. "
+msgstr "“所以无论如何，都别摘下眼罩。"
+
+#. comic cutscene
+#: slot/0x003afd0d/0x327db5/0x000006
+msgid "Do so, and you will never leave here.\""
+msgstr "摘了，你永远别想离开。”"

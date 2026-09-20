@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PWSF slot 11/26\n"
+"Project-Id-Version: PWSF slot 11/24\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -8,982 +8,6 @@ msgstr ""
 "X-PWSF-Source: slot\n"
 "X-PWSF-Entries: 400\n"
 
-
-#: slot/0x00420130/0x8f1ffa/0x000001
-msgid "I have a girlfriend and I visit her every now and then..."
-msgstr "我有女朋友，偶尔会去看她……"
-
-#: slot/0x00420130/0x8f207a/0x000000
-msgid "Your... snoring keeps me up at night, Boss..."
-msgstr "你的……呼噜声让我晚上睡不着，BOSS……"
-
-#: slot/0x00420130/0x8f2bfa/0x000000
-#: slot/0x00420130/0x8f2d7a/0x000000
-msgid "To be honest, I..."
-msgstr "说实话，我……"
-
-#: slot/0x00420130/0x8f2bfa/0x000001
-msgid "prefer colder climates..."
-msgstr "更喜欢冷气候……"
-
-#: slot/0x00420130/0x8f2c7a/0x000000
-msgid "I'm sorry, I..."
-msgstr "对不起，我……"
-
-#: slot/0x00420130/0x8f2c7a/0x000001
-msgid "I actually kinda prefer hunting to this..."
-msgstr "其实我更喜欢打猎……"
-
-#: slot/0x00420130/0x8f2cfa/0x000000
-msgid "Forgive me..."
-msgstr "原谅我……"
-
-#: slot/0x00420130/0x8f2cfa/0x000001
-msgid "I have a test tomorrow, and..."
-msgstr "我明天有考试，而且……"
-
-#: slot/0x00420130/0x8f2cfa/0x000002
-msgid "I really should be studying for it..."
-msgstr "我真该去复习了……"
-
-#: slot/0x00420130/0x8f2d7a/0x000001
-msgid "I... didn't know much about you, Boss."
-msgstr "我……对你不太了解，BOSS。"
-
-#: slot/0x00420130/0x8f2d7a/0x000002
-msgid "Action games... aren't my thing..."
-msgstr "动作游戏……不是我的菜……"
-
-#: slot/0x00420130/0x8f2dfa/0x000000
-msgid "I'm just getting started, and... "
-msgstr "我才刚开始玩，而且……"
-
-#: slot/0x00420130/0x8f2dfa/0x000001
-msgid "honestly I don't know if I can get the hang of it..."
-msgstr "老实说我不知道自己能不能上手……"
-
-#: slot/0x00420130/0x8f2ffa/0x000000
-msgid "Wha?"
-msgstr "啥？"
-
-#: slot/0x00472837/0x0a7cd6/0x000000
-#: slot/0x00472837/0x0a7cd6/0x000010
-#: slot/0x00472837/0x0a7cd6/0x000020
-#: slot/0x00483717/0x0a7cd6/0x000000
-#: slot/0x00483717/0x0a7cd6/0x00000a
-#: slot/0x00483717/0x0a7cd6/0x000014
-#: slot/0x0048f045/0x0a7cd6/0x000000
-#: slot/0x0048f045/0x0a7cd6/0x00000c
-#: slot/0x0048f045/0x0a7cd6/0x000018
-#: slot/0x00ce245c/0x0a7cd6/0x000000
-#: slot/0x00ce245c/0x0a7cd6/0x000022
-#: slot/0x00ce245c/0x0a7cd6/0x000044
-#: slot/0x00db94df/0xc4febe/0x000000
-msgid "Lock disengaged."
-msgstr "锁定解除。"
-
-#: slot/0x00472837/0x0a7cd6/0x000001
-#: slot/0x00472837/0x0a7cd6/0x000011
-msgid "Chaingun."
-msgstr "机炮。"
-
-#: slot/0x00472837/0x0a7cd6/0x000003
-#: slot/0x00472837/0x0a7cd6/0x000013
-#: slot/0x0052801a/0x0a7cd6/0x00001c
-msgid "Charging railgun."
-msgstr "电磁炮充能。"
-
-#: slot/0x00472837/0x0a7cd6/0x000006
-msgid "Approaching target."
-msgstr "接近目标。"
-
-#: slot/0x00472837/0x0a7cd6/0x000007
-#: slot/0x00472837/0x0a7cd6/0x000017
-msgid "Launching Kidnappers."
-msgstr "发射绑架弹。"
-
-#: slot/0x00472837/0x0a7cd6/0x000008
-msgid "Engaging attack mode."
-msgstr "进入攻击模式。"
-
-#: slot/0x00472837/0x0a7cd6/0x000009
-#: slot/0x00472837/0x0a7cd6/0x000019
-msgid "Returning to normal mode."
-msgstr "恢复正常模式。"
-
-#: slot/0x00472837/0x0a7cd6/0x00000b
-msgid "Railgun malfunction detected. Commencing auto-repair."
-msgstr "检测到电磁炮故障。开始自动修复。"
-
-#: slot/0x00472837/0x0a7cd6/0x00000c
-msgid "Radome damage detected. Evasion ability reduced."
-msgstr "检测到雷达罩受损。回避能力下降。"
-
-#: slot/0x00472837/0x0a7cd6/0x00000f
-#: slot/0x00472837/0x0a7cd6/0x00001f
-msgid "Reinitializing."
-msgstr "重新初始化。"
-
-#: slot/0x00472837/0x0a7cd6/0x000016
-msgid "Closing in."
-msgstr "正在逼近。"
-
-#: slot/0x00472837/0x0a7cd6/0x000018
-msgid "Switching to attack mode."
-msgstr "切换至攻击模式。"
-
-#: slot/0x00472837/0x0a7cd6/0x00001b
-msgid "Commencing auto-repair."
-msgstr "开始自动修复。"
-
-#: slot/0x00472837/0x0a7cd6/0x00001c
-msgid "Radome damage detected."
-msgstr "雷达罩受损。"
-
-#: slot/0x00472837/0x0a7cd6/0x000021
-msgid "Take this!!"
-msgstr "接招！"
-
-#: slot/0x00472837/0x0a7cd6/0x000023
-msgid "I'll send you straight to hell!"
-msgstr "我直接送你下地狱！"
-
-#: slot/0x00472837/0x0a7cd6/0x000026
-msgid "There you are!"
-msgstr "找到你！"
-
-#: slot/0x00472837/0x0a7cd6/0x000027
-msgid "Fly, my Kidnappers!!"
-msgstr "上吧，我的绑架者！！"
-
-#: slot/0x00472837/0x0a7cd6/0x000028
-msgid "Attack mode."
-msgstr "攻击模式。"
-
-#: slot/0x00472837/0x0a7cd6/0x000029
-msgid "Normal mode."
-msgstr "普通模式。"
-
-#: slot/0x00472837/0x0a7cd6/0x00002b
-#: slot/0x0052801a/0x0a7cd6/0x000011
-#: slot/0x009d70da/0x271a1f/0x000000
-#: slot/0x009d70da/0x28ee1f/0x000000
-#: slot/0x009d70da/0x2ac21f/0x000000
-#: slot/0x00a57090/0x12908e/0x0000dd
-#: slot/0x00db94df/0x94ec80/0x000000
-#: slot/0x00dff0a5/0xa84a6a/0x000060
-msgid "What?!"
-msgstr "什么？！"
-
-#: slot/0x00472837/0x0a7cd6/0x00002c
-msgid "Damn you!"
-msgstr "可恶！"
-
-#: slot/0x00472837/0x0a7cd6/0x00002f
-msgid "Let's try that again."
-msgstr "再试一次。"
-
-#: slot/0x00472837/0x0a7cd6/0x000030
-#: slot/0x00a57090/0x12908e/0x0001f8
-msgid "Initiating capture."
-msgstr "开始捕获。"
-
-#: slot/0x00472837/0x0a7cd6/0x000031
-msgid "Recalling Kidnappers."
-msgstr "召回绑架者。"
-
-#: slot/0x00472837/0x0a7cd6/0x000032
-msgid "Recalling Kidnappers!"
-msgstr "召回绑架者！"
-
-#: slot/0x00472837/0x0a7cd6/0x000033
-msgid "Kidnappers, come back!"
-msgstr "绑架者，回来！"
-
-#: slot/0x00483717/0x0a7cd6/0x000001
-#: slot/0x00483717/0x0a7cd6/0x00000b
-msgid "Emergency override complete. Reinitializing."
-msgstr "紧急覆写完成。重新初始化。"
-
-#: slot/0x00483717/0x0a7cd6/0x000002
-#: slot/0x00483717/0x0a7cd6/0x00000c
-msgid "Missile target acquired."
-msgstr "导弹已锁定目标。"
-
-#: slot/0x00483717/0x0a7cd6/0x000003
-#: slot/0x00483717/0x0a7cd6/0x00000d
-msgid "Commencing area attack!"
-msgstr "开始区域攻击！"
-
-#: slot/0x00483717/0x0a7cd6/0x000004
-#: slot/0x00483717/0x0a7cd6/0x00000e
-#: slot/0x0052801a/0x0a7cd6/0x00002d
-msgid "Main cannon loaded."
-msgstr "主炮已装填。"
-
-#: slot/0x00483717/0x0a7cd6/0x000005
-#: slot/0x00483717/0x0a7cd6/0x00000f
-msgid "Commencing sweep attack!"
-msgstr "开始扫荡攻击！"
-
-#: slot/0x00483717/0x0a7cd6/0x000006
-#: slot/0x00483717/0x0a7cd6/0x000010
-msgid "Eliminating threat."
-msgstr "清除威胁。"
-
-#: slot/0x00483717/0x0a7cd6/0x000007
-#: slot/0x00483717/0x0a7cd6/0x000011
-msgid "Thermostat malfunction detected."
-msgstr "检测到恒温器故障。"
-
-#: slot/0x00483717/0x0a7cd6/0x000008
-#: slot/0x00483717/0x0a7cd6/0x000012
-#: slot/0x00483717/0x0a7cd6/0x00001c
-msgid "Cooling complete. Reinitializing."
-msgstr "冷却完成。重新初始化。"
-
-#: slot/0x00483717/0x0a7cd6/0x000015
-#: slot/0x0048f045/0x0a7cd6/0x000020
-#: slot/0x0052801a/0x0a7cd6/0x000016
-#: slot/0x00ce245c/0x0a7cd6/0x000045
-msgid "It's not over yet!"
-msgstr "还没结束！"
-
-#: slot/0x00483717/0x0a7cd6/0x000016
-msgid "You think I'll let you get away?"
-msgstr "你以为我会让你逃掉？"
-
-#: slot/0x00483717/0x0a7cd6/0x000017
-#: slot/0x0048f045/0x0a7cd6/0x00001b
-#: slot/0x0052801a/0x0a7cd6/0x00001a
-#: slot/0x00ce245c/0x0a7cd6/0x00004b
-msgid "Die!"
-msgstr "去死！"
-
-#: slot/0x00483717/0x0a7cd6/0x000018
-msgid "This one is going to hurt...!"
-msgstr "这下会很痛……！"
-
-#: slot/0x00483717/0x0a7cd6/0x000019
-msgid "See how you like THIS!"
-msgstr "尝尝这个！"
-
-#: slot/0x00483717/0x0a7cd6/0x00001a
-msgid "I'll smash you!"
-msgstr "碾碎你！"
-
-#: slot/0x00483717/0x0a7cd6/0x00001b
-msgid "Now I'm really pissed off…"
-msgstr "我现在真火了……"
-
-#: slot/0x0048f045/0x0a7cd6/0x000001
-msgid "Shock output at maximum."
-msgstr "电击输出最大化。"
-
-#: slot/0x0048f045/0x0a7cd6/0x000002
-msgid "Target locked."
-msgstr "目标锁定"
-
-#: slot/0x0048f045/0x0a7cd6/0x000003
-#: slot/0x0052801a/0x0a7cd6/0x00002a
-msgid "Engaging shock units."
-msgstr "启动电击组件。"
-
-#: slot/0x0048f045/0x0a7cd6/0x000004
-msgid "Firing boosters."
-msgstr "发射推进器"
-
-#: slot/0x0048f045/0x0a7cd6/0x000005
-msgid "Commencing jump."
-msgstr "开始跳跃。"
-
-#: slot/0x0048f045/0x0a7cd6/0x000006
-msgid "Re–engaging target."
-msgstr "重新锁定目标。"
-
-#: slot/0x0048f045/0x0a7cd6/0x000008
-msgid "Auto-repair complete. Reinitializing."
-msgstr "自动修复完成。重新启动。"
-
-#: slot/0x0048f045/0x0a7cd6/0x00000d
-msgid "Shock output at maximum!"
-msgstr "电击输出最大化！"
-
-#: slot/0x0048f045/0x0a7cd6/0x00000e
-msgid "Target locked!"
-msgstr "目标锁定"
-
-#: slot/0x0048f045/0x0a7cd6/0x00000f
-msgid "Engaging shock units!"
-msgstr "启动电击组件！"
-
-#: slot/0x0048f045/0x0a7cd6/0x000010
-msgid "Firing boosters!"
-msgstr "发射推进器"
-
-#: slot/0x0048f045/0x0a7cd6/0x000011
-msgid "Commencing jump!"
-msgstr "开始跳跃！"
-
-#: slot/0x0048f045/0x0a7cd6/0x000012
-msgid "Re–engaging target!"
-msgstr "重新锁定目标！"
-
-#: slot/0x0048f045/0x0a7cd6/0x000014
-msgid "Auto-repair complete. Reinitializing!"
-msgstr "自动修复完成。重新启动！"
-
-#: slot/0x0048f045/0x0a7cd6/0x000019
-msgid "Time for you to DIE!"
-msgstr "你该死了！"
-
-#: slot/0x0048f045/0x0a7cd6/0x00001a
-msgid "You think I'll let you get away?!"
-msgstr "你以为我会让你逃掉？！"
-
-#: slot/0x0048f045/0x0a7cd6/0x00001d
-msgid "I'll crush you like an insect!"
-msgstr "碾碎你像碾虫！"
-
-#: slot/0x0048f045/0x0a7cd6/0x00001e
-#: slot/0x00ce245c/0x0a7cd6/0x000065
-msgid "Bring it on."
-msgstr "来吧。"
-
-#: slot/0x004c49a2/0x840500/0x01487a
-msgid "My name is Paz, and I'll do anything to protect my namesake."
-msgstr "我叫帕兹，我会不惜一切保护我的同名者。"
-
-#: slot/0x004c49a2/0x840500/0x0b58fc
-#, c-format
-msgid ""
-"70% of my existence is made of movies.\n"
-"It is up to you to decide what to do with the remaining 30%. "
-msgstr "我存在的70%由电影构成。\n剩下的30%怎么用，由你决定。"
-
-#: slot/0x004c49a2/0x840500/0x255cf9
-msgid ""
-"My father worked on the Manhattan Project.\n"
-"In a lifetime of research, he produced two things. The illusion of peace through deterrence...\n"
-"And me and my useless legs.\n"
-"One way or the other, I had to face up to the nukes."
-msgstr "我父亲参与过曼哈顿计划。\n一生研究，他只造出两样东西。以威慑换来的虚假和平……\n以及我和我这双废腿。\n无论如何，我都得直面核武器。"
-
-#: slot/0x004c49a2/0x840500/0x33c631
-msgid "Give me any order you want. I'll make it happen."
-msgstr "随便下什么命令，我都给你办到。"
-
-#: slot/0x004c49a2/0x840500/0x33c632
-msgid "I left my hometown and haven't looked back."
-msgstr "我离开家乡后就没再回头。"
-
-#: slot/0x004c49a2/0x840500/0x33c633
-msgid "I'm good to go as long as I have three square meals."
-msgstr "只要一天三顿管饱，我就没问题。"
-
-#: slot/0x004c49a2/0x840500/0x33c634
-msgid "I'm going to be taking a good look at your command style."
-msgstr "我会好好看看你的指挥风格。"
-
-#: slot/0x004c49a2/0x840500/0x33c635
-msgid "Male, female... I heard it doesn't matter out here. I heard you'll use us just the same."
-msgstr "男的女的……听说在这儿都一样。听说你会一视同仁地用我们。"
-
-#: slot/0x004c49a2/0x840500/0x33c636
-msgid "What's your sidearm of choice? A handgun? Or, maybe a submachine gun?"
-msgstr "你配枪选什么？手枪？还是冲锋枪？"
-
-#: slot/0x004c49a2/0x840500/0x33c637
-msgid "I'm so sleepy..."
-msgstr "我好困……"
-
-#: slot/0x004c49a2/0x840500/0x33c638
-msgid "I'll go berserk if my pay's late."
-msgstr "工资晚发我就发飙。"
-
-#: slot/0x004c49a2/0x840500/0x33c639
-msgid "Just so you know, I'm only here to pay for my kid brother's education, so spare me the cheesy battlefield romance."
-msgstr "先说清楚，我来这只是为了供弟弟上学，别跟我搞什么战场上的肉麻恋情。"
-
-#: slot/0x004c49a2/0x840500/0x33c650
-msgid "I caught a whiff of an ocean breeze..."
-msgstr "我闻到了海风的味道……"
-
-#: slot/0x004c49a2/0x840500/0x33c651
-msgid "I won't disappoint you, and that's a promise."
-msgstr "我不会让你失望，这是承诺。"
-
-#: slot/0x004c49a2/0x840500/0x33c652
-msgid "Can't say I'm impressed by anyone here. I guess I'll have to help you out."
-msgstr "这里没一个让我看得上眼的。看来只能我来帮你了。"
-
-#: slot/0x004c49a2/0x840500/0x33c653
-msgid "I used to work in a kitchen. Whether it's guns or knives, just leave it to me."
-msgstr "我以前在厨房干过。枪也好刀也好，交给我就行。"
-
-#: slot/0x004c49a2/0x840500/0x33c654
-msgid "Let's square off in the ring next chance we have!"
-msgstr "下次有机会在拳台上较量一场！"
-
-#: slot/0x004c49a2/0x840500/0x33c655
-msgid "You do have a good medic, don't you? I mean, people die all the time from minor wounds that get infected. You gotta have a good medic."
-msgstr "你有好军医吧？小伤感染死人可是常事。必须得有好军医。"
-
-#: slot/0x004c49a2/0x840500/0x33c656
-msgid "My mom was a fighter pilot."
-msgstr "我妈是战斗机飞行员。"
-
-#: slot/0x004c49a2/0x840500/0x33c657
-msgid "I don't choose sides. Whoever needs me, that's where I go."
-msgstr "我不站队。谁需要我，我就去哪。"
-
-#: slot/0x004c49a2/0x840500/0x33c658
-msgid "I'm prepared to die for you!"
-msgstr "我愿为你而死！"
-
-#: slot/0x004c49a2/0x840500/0x33c659
-msgid "I like that look you have in your eyes, Boss!"
-msgstr "BOSS，我喜欢你眼里的那股劲！"
-
-#: slot/0x004c49a2/0x840500/0x33c670
-msgid "I majored in quantum mechanics, and I'm continuing my studies on the side."
-msgstr "我主修量子力学，现在还在业余继续研究。"
-
-#: slot/0x004c49a2/0x840500/0x33c671
-msgid "The sky's so blue again today."
-msgstr "今天天空又这么蓝。"
-
-#: slot/0x004c49a2/0x840500/0x33c672
-#, c-format
-msgid "Did you know that 65% of the world's top assassins are women?"
-msgstr "你知道世界顶尖杀手里65%是女性吗？"
-
-#: slot/0x004c49a2/0x840500/0x33c673
-msgid "I may not look it, but I took third in a national weightlifting tournament."
-msgstr "看不出来吧，我拿过全国举重锦标赛第三名。"
-
-#: slot/0x004c49a2/0x840500/0x33c674
-msgid "I have a proven track record. No matter the mission, I'll deliver the goods."
-msgstr "我有实绩。不管什么任务，我都能办妥。"
-
-#: slot/0x004c49a2/0x840500/0x33c675
-msgid "Today is your lucky day. I'm going to join your unit!"
-msgstr "今天你走运了。我要加入你的部队！"
-
-#: slot/0x004c49a2/0x840500/0x33c676
-msgid "My mother's in the hospital, so send me somewhere the pay's good. I don't care how dangerous it is."
-msgstr "我妈住院了，派我去报酬高的地方吧。多危险都无所谓。"
-
-#: slot/0x004c49a2/0x840500/0x33c677
-msgid "Our rations include tea and scones, right?"
-msgstr "我们的口粮里有茶和司康饼吧？"
-
-#: slot/0x004c49a2/0x840500/0x33c678
-msgid "So you're that Boss I heard about. It's an honor to meet you."
-msgstr "你就是传闻中的那位BOSS吧。很荣幸见到你。"
-
-#: slot/0x004c49a2/0x840500/0x33c679
-msgid "I smelled gallo pinto earlier. Is that what's for dinner?"
-msgstr "我闻到豆饭味了。晚饭就吃那个？"
-
-#: slot/0x004c49a2/0x840500/0x33c690
-msgid "I heard you train with unlimited live fire. That true?"
-msgstr "听说你们训练用无限实弹。真的吗？"
-
-#: slot/0x004c49a2/0x840500/0x33c691
-msgid "If you're out of rations, why not have a snack instead? Like curry - mmm, can't get enough!"
-msgstr "口粮不够的话，不如吃点零食？比如咖喱——嗯，怎么吃都不腻！"
-
-#: slot/0x004c49a2/0x840500/0x33c692
-msgid "The more you use a certain weapon, the more of its natural power will be unleashed. Interesting... I'll have to remember that."
-msgstr "武器用得越多，越能发挥出它本来的力量。有意思……我得记住这点。"
-
-#: slot/0x004c49a2/0x840500/0x33c693
-msgid "I don't like my hair to get messed up, but for you, I'll go fight."
-msgstr "我不喜欢头发被弄乱，但为了你，我去战斗。"
-
-#: slot/0x004c49a2/0x840500/0x33c694
-msgid "Getting the highest clear rank means not killing, not being seen, and moving quickly. You can do it, Boss!"
-msgstr "拿到最高评价意味着不杀人、不被发现、快速行动。你能做到的，BOSS！"
-
-#: slot/0x004c49a2/0x840500/0x33c695
-msgid "There's more than one way to \"neutralize\" somebody, right, Boss? You can knock 'em out with a stun rod, or put 'em to sleep with a tranq gun, or sneak up from behind and hold 'em up..."
-msgstr "制伏敌人的方法不止一种，对吧，BOSS？可以用电击棒打晕，用麻醉枪让他睡着，或者从背后悄悄靠近挟持……"
-
-#: slot/0x004c49a2/0x840500/0x33c696
-msgid "If it's taking too long to aim, switch to AUTO AIM. That's what's kept me alive all this time."
-msgstr "瞄准太慢的话，就切到自动瞄准。我就是靠这个活到现在的。"
-
-#: slot/0x004c49a2/0x840500/0x33c697
-msgid "The \"3 Slot\" weapon select takes some getting used to, but once you get the hang of it, it's a cinch. And boy, is it deadly!"
-msgstr "“3槽”武器切换需要点时间适应，但上手之后就轻松了。而且，天哪，太致命了！"
-
-#: slot/0x004c49a2/0x840500/0x33c698
-msgid "There's nothing like sleep for recovering LIFE! And if you can't sleep, lie down and stay still! Isn't that right, sir?"
-msgstr "恢复生命值最好的办法就是睡觉！睡不着的话，躺下别动！对吧，长官？"
-
-#: slot/0x004c49a2/0x840500/0x33c699
-msgid "The more you use a weapon, the more of a feel you get for it. Eventually, it gets so it's almost a part of your body..."
-msgstr "武器用得越多，就越有手感。到最后，它几乎成了你身体的一部分……"
-
-#: slot/0x004c49a2/0x840500/0x33c6b0
-msgid "Sometimes a single word to your comrades can change the course of a battle... Wow, Boss, you always see things the rest of us don't."
-msgstr "有时对同伴说一句话就能改变战局……哇，BOSS，你总能看到我们看不到的东西。"
-
-#: slot/0x004c49a2/0x840500/0x33c6b1
-msgid "You're never too busy to attend a briefing! See, Boss? I got it memorized!"
-msgstr "再忙也不能缺席简报！看吧，BOSS？我都记住了！"
-
-#: slot/0x004c49a2/0x840500/0x33c6b2
-msgid "Sir, I like the M16A1 for its low recoil. What's your favorite weapon, Boss?"
-msgstr "长官，我喜欢M16A1后坐力小。你最爱哪把枪，BOSS？"
-
-#: slot/0x004c49a2/0x840500/0x33c6b3
-msgid "You ever sneak up behind an enemy and ZAP 'em with the stun rod? Gives me the shivers every time!"
-msgstr "你有没有从背后悄悄靠近敌人，用电击棒电他们？每次都让我浑身发麻！"
-
-#: slot/0x004c49a2/0x840500/0x33c6b4
-msgid "Life is all about experience! Come to think of it, I guess that goes for drills, too... ugghh, I hate drills..."
-msgstr "人生全靠经验！说起来，训练大概也一样……呃，我讨厌训练……"
-
-#: slot/0x004c49a2/0x840500/0x33c6b5
-msgid "Do you believe in fate? Right now, I think I could."
-msgstr "你信命运吗？现在，我信了。"
-
-#: slot/0x004c49a2/0x840500/0x33c6b6
-msgid "I believe in you, Boss. Under your command, gender means nothing."
-msgstr "我相信你，BOSS。在你的指挥下，性别毫无意义。"
-
-#: slot/0x004c49a2/0x840500/0x33c6b7
-msgid "I just don't know what I'm good at... Can you tell what my skills are, Boss?"
-msgstr "我不知道自己擅长啥……你能看出我技能吗，BOSS？"
-
-#: slot/0x004c49a2/0x840500/0x33c6b8
-msgid "Staring at me's not going to do anything. Penny for your thoughts, sir."
-msgstr "盯着我看也没用。说说你在想什么吧，长官。"
-
-#: slot/0x004c49a2/0x840500/0x33c6b9
-msgid "Orders, Boss?"
-msgstr "有什么命令吗，BOSS？"
-
-#: slot/0x004c49a2/0x840500/0x33c6d0
-msgid "I usually hate doing things for other people. But for you, Boss, I'll do anything."
-msgstr "我通常讨厌替别人做事。但为了你，BOSS，我什么都愿意做。"
-
-#: slot/0x004c49a2/0x840500/0x33c6d1
-msgid "I always saw myself as a lone wolf. But I guess people's values can change pretty quick. Lord knows I've changed since I came here."
-msgstr "我一直把自己当成独狼。但人的价值观大概变得很快。自从来到这里，我确实变了。"
-
-#: slot/0x004c49a2/0x840500/0x33c6d2
-msgid "I'm not the type to follow orders. Unless you're giving them, Boss."
-msgstr "我不服从命令。除非是你下的，BOSS。"
-
-#: slot/0x004c49a2/0x840500/0x33c6d3
-msgid "I'm burning for some action! Got a mission for me?"
-msgstr "我渴望行动！有任务给我吗？"
-
-#: slot/0x004c49a2/0x840500/0x33c6d4
-msgid "I like it here. It's a nice place."
-msgstr "我喜欢这里。好地方。"
-
-#: slot/0x004c49a2/0x840500/0x33c6d5
-msgid "Do you believe in horoscopes? Me, I only believe in you."
-msgstr "你相信星座吗？我嘛，只相信你。"
-
-#: slot/0x004c49a2/0x840500/0x33c6d6
-msgid "What do you see in those eyes of yours...? Sorry, didn't mean to get personal."
-msgstr "你那双眼睛看到了什么……？抱歉，不该问这么私人的事。"
-
-#: slot/0x004c49a2/0x840500/0x33c6d7
-msgid "When things get tough, think of me. That might ease the pain a little."
-msgstr "遇到困难时，想想我。也许能减轻一点痛苦。"
-
-#: slot/0x004c49a2/0x840500/0x33c6d8
-msgid "I can be kind of stubborn, but I'm a survivor, too."
-msgstr "我可能有点固执，但我也是个幸存者。"
-
-#: slot/0x004c49a2/0x840500/0x33c6d9
-msgid "People say I'm a little CRRRRRAZY..."
-msgstr "大家都说我有点疯……"
-
-#: slot/0x004c49a2/0x840500/0x33c6f0
-msgid "I heard you're scared of vampires - is that true? Aww... that's actually kind of cute, Boss!"
-msgstr "听说你怕吸血鬼——真的吗？哎呀……其实还挺可爱的，BOSS！"
-
-#: slot/0x004c49a2/0x840500/0x33c6f1
-msgid "Don't underestimate me because I'm a woman. We ladies can fight in ways you men can't!"
-msgstr "别因为我是女人就小看我。我们女人有你们男人做不到的打法！"
-
-#: slot/0x004c49a2/0x840500/0x33c6f2
-msgid "Oh... Boss..."
-msgstr "哦……BOSS……"
-
-#: slot/0x004c49a2/0x840500/0x33c6f3
-msgid "Give me a mission, and I'll do everything I can to get it done!"
-msgstr "给我任务，我会尽全力完成！"
-
-#: slot/0x004c49a2/0x840500/0x33c6f4
-msgid "Boss! Send me out into the field! I'm going crazy just sitting around here! My legs are starting to cramp up!"
-msgstr "BOSS！派我上战场吧！光坐在这里我要疯了！腿都开始抽筋了！"
-
-#: slot/0x004c49a2/0x840500/0x33c6f5
-msgid "Boss! Send me into the field! I promise I'll come back alive!"
-msgstr "BOSS！派我上战场！我保证活着回来！"
-
-#: slot/0x004c49a2/0x840500/0x33c6f6
-msgid "Comrade-in-stealth... it's got a nice ring to it."
-msgstr "潜行战友……听起来不错。"
-
-#: slot/0x004c49a2/0x840500/0x33c6f7
-msgid "You know, Commander Miller is actually kind of cute when he takes off those sunglasses."
-msgstr "你知道吗，米勒指挥官摘下墨镜其实还挺帅的。"
-
-#: slot/0x004c49a2/0x840500/0x33c6f8
-msgid "My hobby is gardening."
-msgstr "爱好是园艺。"
-
-#: slot/0x004c49a2/0x840500/0x374631
-msgid "I'm your man! Give me an order, I'll get it done!"
-msgstr "交给我吧！下命令，我搞定！"
-
-#: slot/0x004c49a2/0x840500/0x374632
-msgid "I am hyped!! Let's do this!!!"
-msgstr "我热血沸腾！！来吧！！！"
-
-#: slot/0x004c49a2/0x840500/0x374633
-msgid "Need a...helping hand?"
-msgstr "要…帮忙吗？"
-
-#: slot/0x004c49a2/0x840500/0x374634
-msgid ""
-"I left some of my buddies behind on the last battlefield...\n"
-"You gonna give me the chance to make it up to them here?"
-msgstr "上次战场上我丢下了几个兄弟……\n你能给我机会在这里补偿他们吗？"
-
-#: slot/0x004c49a2/0x840500/0x374635
-msgid "I got a daughter. She's going to be 12 next year. I have to make it out of this alive!"
-msgstr "我有个女儿。明年就12岁了。我必须活着回去！"
-
-#: slot/0x004c49a2/0x840500/0x374636
-msgid ""
-"I used to be a sailor. Best pair of eyes on the seas!\n"
-"Need someone who can see things a mile off?"
-msgstr "我以前是水手，海上眼神最好！\n需要能看一英里外的人吗？"
-
-#: slot/0x004c49a2/0x840500/0x374637
-msgid ""
-"I'm a weapons technician.\n"
-"You say weapons kill people?  I say they're needed to protect people."
-msgstr "我是武器技师。\n你说武器杀人？我说武器能保护人。"
-
-#: slot/0x004c49a2/0x840500/0x374638
-msgid "Give me a mission, Boss!"
-msgstr "给我任务，BOSS！"
-
-#: slot/0x004c49a2/0x840500/0x374639
-msgid ""
-"I'm a martial arts expert - I know Combat Sambo and I'm a fifth degree black belt in karate!\n"
-"CQC? This I gotta see!"
-msgstr "我是武术专家，会战斗桑搏，空手道五段！\nCQC？这我得见识见识！"
-
-#: slot/0x004c49a2/0x840500/0x374650
-msgid "My grandpa was a mechanic. I can take an air-cooled engine apart in five minutes flat!"
-msgstr "我爷爷是机械师，风冷引擎我五分钟就能拆完！"
-
-#: slot/0x004c49a2/0x840500/0x374651
-msgid ""
-"I got back from Vietnam and found I had no place to call home anymore...\n"
-"Mind if I stick with you guys for a while?"
-msgstr "从越南回来，我发现已经没有家了……\n让我跟你们待一阵行吗？"
-
-#: slot/0x004c49a2/0x840500/0x374652
-msgid "I went through hell in 'Nam... I'm ready for anything!"
-msgstr "我在越南吃尽了苦头……什么都不怕了！"
-
-#: slot/0x004c49a2/0x840500/0x374653
-msgid ""
-"I was an Officer Candidate. Not much combat experience, but I speak seven languages.\n"
-"There's got to be some use for me here."
-msgstr "我当过候补军官，实战经验不多，但会七种语言。\n这里总该有我用武之地。"
-
-#: slot/0x004c49a2/0x840500/0x374654
-msgid ""
-"Need a dentist?\n"
-"Back in my dad's day, every army battalion had its own dentist."
-msgstr "需要牙医吗？\n我父亲那年代，每个营都有自己的牙医。"
-
-#: slot/0x004c49a2/0x840500/0x374655
-msgid ""
-"Costa Rica is full of swamps... make sure we got a good supply of dry socks.\n"
-"The last thing we need are fungal infections."
-msgstr "哥斯达黎加遍地沼泽……多备些干袜子。\n可别闹出真菌感染。"
-
-#: slot/0x004c49a2/0x840500/0x374656
-msgid "You're good. Better than I expected."
-msgstr "你很强，比我预想的还强。"
-
-#: slot/0x004c49a2/0x840500/0x374657
-msgid "As much as I hate to say it, it's war that gives us our greatest breakthroughs in science and technology."
-msgstr "说来惭愧，正是战争带来了科学与技术最大的突破。"
-
-#: slot/0x004c49a2/0x840500/0x374658
-msgid "I know it takes more than weapons to make us strong and all, but at least give us some decent gear, alright? "
-msgstr "我知道光靠武器强大不起来，但至少给点像样的装备吧？"
-
-#: slot/0x004c49a2/0x840500/0x374659
-msgid ""
-"Heh... Imagine. If only we had a guy like you running the country...\n"
-"Maybe my village wouldn't have been burned to the ground."
-msgstr "呵……想想看，要是你这样的人来治国……\n也许我的村子就不会被烧光了。"
-
-#: slot/0x004c49a2/0x840500/0x374670
-msgid "You look like you'll come in handy. I guess I'll stick around and help you out."
-msgstr "你看着挺有用，我就留下来帮你吧。"
-
-#: slot/0x004c49a2/0x840500/0x374671
-msgid ""
-"Gotta get your hands dirty to win a war...\n"
-"You know what I'm talking about, right?"
-msgstr "想打赢战争就得弄脏手……\n你懂我意思吧？"
-
-#: slot/0x004c49a2/0x840500/0x374672
-msgid "We can do better than this."
-msgstr "我们能做得更好。"
-
-#: slot/0x004c49a2/0x840500/0x374673
-msgid ""
-"You? A sneaking master?! Are you kidding me?\n"
-"I can smell the gunpowder on you a mile away!"
-msgstr "你？潜行大师？！开玩笑？\n一英里外我就闻到你身上火药味！"
-
-#: slot/0x004c49a2/0x840500/0x374674
-msgid "I can smell it... The smell of blood...  Lots of blood..."
-msgstr "我闻得到……血的味道……好多血……"
-
-#: slot/0x004c49a2/0x840500/0x374675
-msgid "Ready when you are, Boss."
-msgstr "随时待命，BOSS。"
-
-#: slot/0x004c49a2/0x840500/0x374676
-msgid "Well, I've earned MY check... Time for a nap..."
-msgstr "总算挣到工钱了……睡一觉……"
-
-#: slot/0x004c49a2/0x840500/0x374677
-msgid "Guns kill people? Bro, sometimes guns are the only things that save lives."
-msgstr "枪会杀人？兄弟，有时枪是唯一能救命的东西。"
-
-#: slot/0x004c49a2/0x840500/0x374678
-msgid ""
-"I used to be a world-class gymnast, you know.\n"
-"'Course, when it comes to a war, pride and glory don't mean a hell of a lot."
-msgstr "我以前是世界级体操选手。\n不过打起仗来，骄傲和荣耀不值几个钱。"
-
-#: slot/0x004c49a2/0x840500/0x374679
-msgid "When this fight's over, I'm gonna go back home and find myself a wife..."
-msgstr "这场仗打完，我就回家找个老婆……"
-
-#: slot/0x004c49a2/0x840500/0x374690
-msgid "I still haven't made up my mind about you yet."
-msgstr "我还没想好怎么看你。"
-
-#: slot/0x004c49a2/0x840500/0x374691
-msgid "I can tell that you're not in this 'cause you like the smell of hot lead. Am I right?"
-msgstr "我看得出来，你干这行不是因为喜欢闻火药味。对吧？"
-
-#: slot/0x004c49a2/0x840500/0x374692
-msgid "Just so you know, the more praise I get, the better I do."
-msgstr "告诉你，夸奖越多，我干得越好。"
-
-#: slot/0x004c49a2/0x840500/0x374693
-msgid "Drinks later? It's on me."
-msgstr "回头喝一杯？我请客。"
-
-#: slot/0x004c49a2/0x840500/0x374694
-msgid "Think you can take advantage of my skills?"
-msgstr "想利用我的本事？"
-
-#: slot/0x004c49a2/0x840500/0x374695
-msgid "Balls to the wall, boys!"
-msgstr "拼了命上，兄弟们！"
-
-#: slot/0x004c49a2/0x840500/0x374696
-msgid "Let's see, my horoscope says today's going to be... OK, I guess."
-msgstr "让我看看，我的星座运势说今天会……还行吧。"
-
-#: slot/0x004c49a2/0x840500/0x374697
-msgid "C'mon, give me a mission! My rifle's getting all rusty!"
-msgstr "来吧，给我个任务！我的枪都快生锈了！"
-
-#: slot/0x004c49a2/0x840500/0x374698
-msgid "Things are never better than when they're ordinary."
-msgstr "平平淡淡才是最好。"
-
-#: slot/0x004c49a2/0x840500/0x374699
-msgid "I... I don't wanna fight. I wanna be a cook."
-msgstr "我……我不想打仗。我想当厨师。"
-
-#: slot/0x004c49a2/0x840500/0x3746b0
-msgid "Hey Boss, at dinner do you eat your favorite food first, or save it for last?"
-msgstr "嘿，BOSS，吃饭时你先吃最爱吃的，还是留到最后？"
-
-#: slot/0x004c49a2/0x840500/0x3746b1
-msgid "You're like a knife out of its sheath, you know that?"
-msgstr "你就像出鞘的刀，知道吗？"
-
-#: slot/0x004c49a2/0x840500/0x3746b2
-msgid "My muscles never fail me."
-msgstr "我的肌肉从不让我失望。"
-
-#: slot/0x004c49a2/0x840500/0x3746b3
-msgid "(I'm too shy to talk to people... I believe in you, Boss...)"
-msgstr "（我太害羞，不敢跟人说话……我相信你，BOSS……）"
-
-#: slot/0x004c49a2/0x840500/0x3746b4
-msgid "We're gonna make a name for ourselves!"
-msgstr "我们要闯出名堂来！"
-
-#: slot/0x004c49a2/0x840500/0x3746b5
-msgid "Look, Boss! I caught a male Elephant Beetle, the world's heaviest insect!"
-msgstr "看，BOSS！我抓到一只公象兜虫，世界上最重的昆虫！"
-
-#: slot/0x004c49a2/0x840500/0x3746b6
-msgid "Happy to be on board with you, Boss."
-msgstr "很高兴能跟你并肩作战，BOSS。"
-
-#: slot/0x004c49a2/0x840500/0x3746b7
-msgid "It's good to have comrades...especially on the battlefield."
-msgstr "有同志真好……尤其是在战场上。"
-
-#: slot/0x004c49a2/0x840500/0x3746b8
-msgid "Don't worry, I got your back!"
-msgstr "别担心，我掩护你！"
-
-#: slot/0x004c49a2/0x840500/0x3746b9
-msgid "Boss, if there's anything I can do to help make our technology better, I'll do it."
-msgstr "BOSS，只要能帮咱们的技术更上一层楼，我什么都愿意做。"
-
-#: slot/0x004c49a2/0x840500/0x3746d0
-msgid "Good eats everyday!"
-msgstr "天天吃好的！"
-
-#: slot/0x004c49a2/0x840500/0x3746d1
-msgid ""
-"You want to know how to raise morale around here?\n"
-"Simple! Give us letters from our folks. And hot meals - can't fight on an empty stomach!"
-msgstr "想知道怎么提振这里的士气？\n简单！给我们家书。还有热饭——饿着肚子打不了仗！"
-
-#: slot/0x004c49a2/0x840500/0x3746d2
-msgid "It's a real honor fighting with you..."
-msgstr "能跟你一起战斗真荣幸……"
-
-#: slot/0x004c49a2/0x840500/0x3746d3
-msgid "Sometimes, I get to thinking. What is human life in the face of truly great scientific research?"
-msgstr "有时我会想。在真正伟大的科学研究面前，人的生命算什么？"
-
-#: slot/0x004c49a2/0x840500/0x3746d4
-msgid "Welcome back! I made something new for dinner today - want to try some?"
-msgstr "欢迎回来！今天晚饭我做了新花样——要尝尝吗？"
-
-#: slot/0x004c49a2/0x840500/0x3746d5
-msgid "You're one smart customer, man!"
-msgstr "你真精明，老兄！"
-
-#: slot/0x004c49a2/0x840500/0x3746d6
-msgid "I'm former SAS... what you think I'm B.S.-ing you?"
-msgstr "我以前是SAS的……你觉得我在吹牛？"
-
-#: slot/0x004c49a2/0x840500/0x3746d7
-msgid "I'm proud to be counted as one of your comrades, Boss!"
-msgstr "能成为你的同志，我很自豪，BOSS！"
-
-#: slot/0x004c49a2/0x840500/0x3746d8
-msgid "I...I can't believe I'm actually meeting you in person, Boss!"
-msgstr "我……我真不敢相信能亲眼见到你，BOSS！"
-
-#: slot/0x004c49a2/0x840500/0x3746d9
-msgid "(Just between you and me, I'm the guy who keeps MSF together...)"
-msgstr "（只跟你说，MSF全靠我撑着……）"
-
-#: slot/0x004c49a2/0x840500/0x3746f0
-msgid "You stay here. I'll have this next mission wrapped up in no time."
-msgstr "你留在这。下次任务我马上就能搞定。"
-
-#: slot/0x004c49a2/0x840500/0x3746f1
-msgid "This mission's nothing. I could do it with my eyes closed."
-msgstr "这任务不算什么。我闭着眼都能完成。"
-
-#: slot/0x004c49a2/0x840500/0x3746f2
-msgid "Boss, I've been meaning to tell you... nah, forget it. It's nothing."
-msgstr "BOSS，我一直想跟你说……算了，没什么。"
-
-#: slot/0x004c49a2/0x840500/0x3746f3
-msgid "I owe you one. Guess I better come with you."
-msgstr "我欠你一次。看来我得跟你一起去。"
-
-#: slot/0x004c49a2/0x840500/0x3746f4
-msgid "Who'd have thought being stealthy could be such a thrill..."
-msgstr "谁能想到潜行居然这么刺激……"
-
-#: slot/0x004c49a2/0x840500/0x3746f5
-msgid "I actually kind of like the way you fight."
-msgstr "其实我还挺喜欢你的打法。"
-
-#: slot/0x004c49a2/0x840500/0x3746f6
-msgid ""
-"I'll show you how to get it done the smart way!\n"
-"That's the kind of guy I am!"
-msgstr "我让你看看什么叫聪明人的做法！\n我就是这种人！"
-
-#: slot/0x004c49a2/0x840500/0x3746f7
-msgid ""
-"Back home, I'm a pretty well-known journalist.\n"
-"I'm going to write your story and tell everybody how you lived."
-msgstr "在家乡，我是挺有名的记者。\n我要写下你故事，告诉所有人你怎么活。"
-
-#: slot/0x004c49a2/0x840500/0x3746f8
-msgid "You look prettier every time I see you."
-msgstr "每次见你，你都更漂亮了。"
-
-#: slot/0x004c49a2/0x840500/0x3746f9
-msgid "Wish I could have met you sooner..."
-msgstr "真希望能早点遇见你……"
-
-#: slot/0x004c49a2/0x840500/0x374710
-msgid "Listen, I never actually hated you..."
-msgstr "听着，我没真恨过你……"
-
-#: slot/0x004c49a2/0x840500/0x374711
-msgid "It's all about the food. Give most guys a good meal and they won't complain. "
-msgstr "关键在伙食。给大多数人一顿好饭，他们就不会抱怨。"
-
-#: slot/0x004c49a2/0x840500/0x374712
-msgid "When this battle's over, I'm going to get my life together..."
-msgstr "等这场战斗结束，我要重新好好过日子……"
-
-#: slot/0x004c49a2/0x840500/0x374713
-#, c-format
-msgid "Don't worry, my cooking's 100% safe for human consumption."
-msgstr "放心，我做的饭百分之百能吃。"
-
-#: slot/0x004c49a2/0x840500/0x374714
-msgid "I've...never been in a real fight before..."
-msgstr "我……从来没真正打过架……"
-
-#: slot/0x004c49a2/0x840500/0x374715
-msgid "If we met under different circumstances, I bet we could have been good friends."
-msgstr "如果我们换个场合认识，说不定能成为好朋友。"
-
-#: slot/0x004c49a2/0x840500/0x374716
-msgid "Eureka! My research is going to blow your mind, Boss!"
-msgstr "我发现了！我的研究一定会让你大吃一惊，BOSS！"
-
-#: slot/0x004c49a2/0x840500/0x374717
-msgid "I just finished an incredible story! Could you read it and let me know what you think?"
-msgstr "我刚写完一个超棒的故事！你能读读看，告诉我怎么样吗？"
-
-#: slot/0x004c49a2/0x840500/0x374718
-msgid "Before I became a mercenary, I was a doctor. Would you like to try this new drug I'm working on?"
-msgstr "当雇佣兵之前，我是医生。要不要试试我正在研发的新药？"
 
 #: slot/0x004c49a2/0x840500/0x374719
 msgid "Quitting smoking is easy! Why, I've quit 20 times myself."
@@ -993,13 +17,17 @@ msgstr "戒烟很简单！我都戒过20次了。"
 msgid ""
 "I can't promise you I won't do bad things, but\n"
 "I will promise you this: I'll never make us look bad."
-msgstr "我不能保证自己不做坏事，但\n我向你保证：我绝不会让我们丢脸。"
+msgstr ""
+"我不能保证自己不做坏事，但\n"
+"我向你保证：我绝不会让我们丢脸。"
 
 #: slot/0x004c49a2/0x840500/0x374731
 msgid ""
 "Well now, looks like my boys gave you some trouble. Sorry 'bout that.\n"
 "I'll make it up to you. Here, take this."
-msgstr "哎呀，看来我的手下给你添麻烦了。抱歉啊。\n我会补偿你的。来，拿着这个。"
+msgstr ""
+"哎呀，看来我的手下给你添麻烦了。抱歉啊。\n"
+"我会补偿你的。来，拿着这个。"
 
 #: slot/0x004c49a2/0x840500/0x374732
 msgid "Let's use our heads on this one."
@@ -1010,13 +38,18 @@ msgid ""
 "Everybody can do something, but nobody can do everything.\n"
 "We'll do the things you can't.\n"
 "And we need you to do the things we can't!"
-msgstr "谁都能做点事，但没人能做所有事。\n你做不了的，我们来做。\n我们做不了的，就靠你了！"
+msgstr ""
+"谁都能做点事，但没人能做所有事。\n"
+"你做不了的，我们来做。\n"
+"我们做不了的，就靠你了！"
 
 #: slot/0x004c49a2/0x840500/0x374734
 msgid ""
 "Ah, Boss, glad you're here. We were short one guy tonight.\n"
 "Care to join us for a little game?"
-msgstr "啊，BOSS，你来得正好。今晚我们缺一个人。\n要不要来玩一局？"
+msgstr ""
+"啊，BOSS，你来得正好。今晚我们缺一个人。\n"
+"要不要来玩一局？"
 
 #: slot/0x004c49a2/0x840500/0x374735
 msgid "You want me to forget last night...? Too late. It's all in my diary now."
@@ -1027,7 +60,10 @@ msgid ""
 "You're our greatest hope, Boss!\n"
 "We won't let anybody take our hope from us!\n"
 "I may not be strong, but I'll fight till the end!"
-msgstr "你是我们最大希望，BOSS！\n不会让任何人夺走它！\n我不够强，但会战到最后！"
+msgstr ""
+"你是我们最大希望，BOSS！\n"
+"不会让任何人夺走它！\n"
+"我不够强，但会战到最后！"
 
 #: slot/0x004c49a2/0x840500/0x374737
 msgid "What the hell, let's have fun out there!"
@@ -1057,7 +93,9 @@ msgstr "我要带着战利品回家啦！"
 msgid ""
 "It's either us or them!\n"
 "That's right. That's ...the way it should be, in a war."
-msgstr "不是他们死就是我们亡！\n没错。战争……本来就该是这样。"
+msgstr ""
+"不是他们死就是我们亡！\n"
+"没错。战争……本来就该是这样。"
 
 #: slot/0x004c49a2/0x840500/0x374754
 msgid "Sometimes it's good to grab life by the horns."
@@ -1075,7 +113,9 @@ msgstr "你是第一，BOSS。那我就是第二，对吧？"
 msgid ""
 "198, 199, 200! Oh, hey, Boss, you're just in time!\n"
 "I just finished doing 200 stomach crunches!"
-msgstr "198、199、200！哦，嘿，BOSS，你来得正好！\n我刚做完200个仰卧起坐！"
+msgstr ""
+"198、199、200！哦，嘿，BOSS，你来得正好！\n"
+"我刚做完200个仰卧起坐！"
 
 #: slot/0x004c49a2/0x840500/0x374758
 msgid "For the last time, stop treating me like a rookie!"
@@ -1097,13 +137,17 @@ msgstr "干嘛非今天做？还有明天嘛……"
 msgid ""
 "Ahhh, we got a nice big catch today!\n"
 "Tonight's dinner is gonna be fresh sashimi with cold Japanese sake."
-msgstr "啊哈，今天大丰收！\n今晚就吃新鲜刺身配冰镇日本酒。"
+msgstr ""
+"啊哈，今天大丰收！\n"
+"今晚就吃新鲜刺身配冰镇日本酒。"
 
 #: slot/0x004c49a2/0x840500/0x374a33
 msgid ""
 "I love to grill things. My favorite food is stir-fried noodles.\n"
 "Those grilled chicken skewers they got in Japan are pretty good, too."
-msgstr "我喜欢烤东西。最爱吃炒面。\n日本那种烤鸡肉串也挺不错。"
+msgstr ""
+"我喜欢烤东西。最爱吃炒面。\n"
+"日本那种烤鸡肉串也挺不错。"
 
 #: slot/0x004c49a2/0x840500/0x374a34
 msgid "I'm saving up all the money I make here, so when I get back to the States, I can go to college..."
@@ -1117,7 +161,9 @@ msgstr "BOSS，你不用去……这个我来搞定。"
 msgid ""
 "We're not blood related, but we're still family.\n"
 "Come back home alive brother. "
-msgstr "我们没血缘，但还是一家人。\n活着回家，兄弟。"
+msgstr ""
+"我们没血缘，但还是一家人。\n"
+"活着回家，兄弟。"
 
 #: slot/0x004c49a2/0x840500/0x374a37
 msgid "This place can only hold so many bodies. So make sure you bring back the best you can find. At least as good as me."
@@ -1139,20 +185,27 @@ msgstr "据我所知，应该有办法在任务中途把物品和弹药直接送
 msgid ""
 "Back in my old unit, the commander used to tell us at morning calisthenics: \"Whenever you're in trouble, hit the START button!!\"\n"
 "Wonder how he's doing these days,"
-msgstr "在我以前部队里，指挥官早上做体操时常说：“遇到麻烦就按 START 键！！”\n不知道他现在怎么样了，"
+msgstr ""
+"在我以前部队里，指挥官早上做体操时常说：“遇到麻烦就按 START 键！！”\n"
+"不知道他现在怎么样了，"
 
 #: slot/0x004c49a2/0x840500/0x374a52
 msgid ""
 "I-I saw some gigantic footprints in the swamp around El Cenagal...\n"
 "Y-you think it's a monstruo?"
-msgstr "我，我在 El Cenagal 沼泽看到巨大脚印……\n你，你觉得是怪物吗？"
+msgstr ""
+"我，我在 El Cenagal 沼泽看到巨大脚印……\n"
+"你，你觉得是怪物吗？"
 
 #: slot/0x004c49a2/0x840500/0x374a53
 msgid ""
 "The other day, out of the blue we got a big box delivered to us.\n"
 "No return address, but it was full of all kinds of good stuff...\n"
 "Kind of creepy, I know... but I wasn't about to complain!"
-msgstr "前几天，我们突然收到一个大箱子。\n没有寄件地址，但里面装满了各种好东西……\n我知道有点诡异……但我可不会抱怨！"
+msgstr ""
+"前几天，我们突然收到一个大箱子。\n"
+"没有寄件地址，但里面装满了各种好东西……\n"
+"我知道有点诡异……但我可不会抱怨！"
 
 #: slot/0x004c49a2/0x840500/0x374a54
 msgid "For me, there's no greater thrill than seeing your exploits in PLAYER DATA, Boss!"
@@ -1238,7 +291,9 @@ msgstr "上次参战时，我在突击步枪的枪管上装了附加武器。切
 msgid ""
 "Sneak up behind the enemy and hold 'em up, then make sure you Fulton recover 'em! ...That's how I do it.\n"
 "Leave 'em with their hands up for too long and you never know when they're gonna turn their guns on you again."
-msgstr "绕到敌人背后举枪威胁，然后一定要用富尔顿回收！……我就是这么干的。\n让他们举着手太久，说不准什么时候又会朝你开枪。"
+msgstr ""
+"绕到敌人背后举枪威胁，然后一定要用富尔顿回收！……我就是这么干的。\n"
+"让他们举着手太久，说不准什么时候又会朝你开枪。"
 
 #: slot/0x004c49a2/0x840500/0x374a95
 msgid "Night-vision goggles aren't just useful at night. Foggy jungle, enemy smoke grenade - they come in handy anytime you can't see more than a few feet in front of you."
@@ -1372,7 +427,9 @@ msgstr "我敢说再难的任务，两人小队也能应付！我要去找个搭
 msgid ""
 "Hey Boss, can you teach me how to reload?\n"
 "...Ahh, so that's it! Just push the Action Button with the weapon equipped! Thanks a bunch, Boss!"
-msgstr "嘿BOSS，能教我怎么换弹吗？\n……啊，原来如此！装备武器时按动作键就行！多谢BOSS！"
+msgstr ""
+"嘿BOSS，能教我怎么换弹吗？\n"
+"……啊，原来如此！装备武器时按动作键就行！多谢BOSS！"
 
 #: slot/0x004c49a2/0x840500/0x374af8
 msgid "Reloading leaves you temporarily vulnerable. Timing your reloads is just as crucial as timing your shots. Isn't it, Boss?"
@@ -1726,3 +783,1331 @@ msgstr "想改变时代，就别盲从社会的规则。要能自己判断对错
 #: slot/0x004c49a2/0x840500/0x374ed6
 msgid "You sure love your cardboard boxes, Boss... I love 'em too."
 msgstr "你还真是喜欢纸箱啊，BOSS……我也喜欢。"
+
+#: slot/0x004c49a2/0x840500/0x374ed7
+msgid "I got a daughter back home. Haven't seen her in years..."
+msgstr "我老家有个女儿，好多年没见了……"
+
+#: slot/0x004c49a2/0x840500/0x374ed8
+msgid "When this battle's over, I'm gonna go home and be a shrimper. Me and my buddies are gonna pitch in an buy a big boat!"
+msgstr "等这场仗打完，我就回家当捕虾的。跟兄弟们凑钱买条大船！"
+
+#: slot/0x004c49a2/0x840500/0x374ed9
+msgid "I cut my bangs too short."
+msgstr "刘海剪太短了。"
+
+#: slot/0x004c49a2/0x840500/0x374ef0
+msgid "Hah, hah, hah, hah... nothing like pumping some iron!"
+msgstr "哈，哈，哈，哈……举铁就是爽！"
+
+#: slot/0x004c49a2/0x840500/0x374ef1
+msgid "You ever tried chorizo? It's a Mexican sausage. Good stuff, especially when you fry it up with eggs!"
+msgstr "你吃过chorizo吗？墨西哥香肠。好东西，跟鸡蛋一起煎尤其香！"
+
+#: slot/0x004c49a2/0x840500/0x374ef2
+msgid "You a cat person or a dog person, Boss? Me, I'm a cat person... Ah... AH... ACHOO! Too bad I'm also allergic to them."
+msgstr "BOSS，你是猫派还是狗派？我是猫派……啊……啊……阿嚏！可惜我对猫过敏。"
+
+#: slot/0x004c49a2/0x840500/0x37618c
+msgid " I am Vladimir Zadornov, and Vladimir means \"ruler of peace.\""
+msgstr "我是弗拉基米尔·扎多尔诺夫，弗拉基米尔意为“和平的统治者”。"
+
+#: slot/0x004c49a2/0x840500/0x552cb3
+msgid ""
+"If you see any UMAs, you tell me, OK?\n"
+"Like ancient dinosaurs and rare monsters and stuff.\n"
+"When I grow up, I wanna be a hunter."
+msgstr ""
+"要是看到未知生物，就告诉我，确定？\n"
+"比如古代恐龙、稀有怪物之类的。\n"
+"我长大了想当猎人。"
+
+#: slot/0x004c49a2/0x840500/0x580daa
+msgid "We abandoned our countries. Nothing more."
+msgstr "我们抛弃了祖国。仅此而已。"
+
+#: slot/0x004c49a2/0x840500/0x6747b0
+msgid ""
+"Why was a legendary hero forced to betray her country? Why was she targeted for assassination by you, her most beloved disciple?\n"
+"I've no use for fabrications.\n"
+"I want the truth... The Boss's last will. "
+msgstr ""
+"为何一位传奇英雄被迫背叛祖国？为何她会被你最敬爱的弟子你盯上暗杀？\n"
+"我不需要编造。\n"
+"我要真相……THE BOSS的遗愿。"
+
+#: slot/0x004c49a2/0x840500/0x6ade44
+msgid "(不要)「………」（大塚さん（声優）一言コメント仮）"
+msgstr "(不要)「………」（大塚さん（声優）一言コメント仮）"
+
+#: slot/0x004c49a2/0x840500/0x72ae4f
+msgid ""
+"I've been thinking of giving up on studying birds and learning to fly myself.\n"
+"\n"
+"Want to hear my quetzal call?"
+msgstr ""
+"我一直在想，干脆别研究鸟了，自己去学飞。\n"
+"\n"
+"想听听我的凤尾绿咬鹃叫声吗？"
+
+#: slot/0x004c49a2/0x840500/0x74af6c
+msgid "(不要)「………」（杉田さん（声優）一言コメント仮）"
+msgstr "(不要)「………」（杉田さん（声優）一言コメント仮）"
+
+#: slot/0x004c49a2/0x840500/0xb73990
+msgid "We're not mercenaries. We're not a foreign legion. MSF's a business. A new kind of business."
+msgstr "我们不是雇佣兵。我们不是外籍军团。MSF是生意。一种全新的生意。"
+
+#: slot/0x004c49a2/0x840500/0xe3d5fb
+msgid "...."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0xf1c147
+msgid "You need a special talent to become cacique. It takes someone great to unite all of las compas."
+msgstr "要当上首领得有特殊才能。得是了不起的人才能团结所有同伴。"
+
+#: slot/0x004c49a2/0x9f6ee7/0x01487a
+msgid ""
+"A young, peace-loving Costa Rican girl.\n"
+"\n"
+"She is a pupil of Professor Gálvez, studying her country's peace constitution at the nascent University for Peace.\n"
+"\n"
+"She was kidnapped by a mysterious armed group that has begun to spread throughout Costa Rica.\n"
+"\n"
+"Together with Gálvez, she has come to seek MSF's help in removing the invaders from her country.\n"
+"\n"
+"The name Paz means \"peace\" in Spanish."
+msgstr ""
+"一位爱好和平的年轻哥斯达黎加女孩。\n"
+"\n"
+"她是加尔维斯教授的学生，在刚成立的和平大学研究本国的和平宪法。\n"
+"\n"
+"她被一个开始在哥斯达黎加蔓延的神秘武装组织绑架。\n"
+"\n"
+"她与加尔维斯一同前来，寻求MSF帮助，将入侵者赶出她的国家。\n"
+"\n"
+"帕兹在西班牙语中意为“和平”。"
+
+#: slot/0x004c49a2/0x9f6ee7/0x6747b0
+msgid ""
+"Once a promising young scientist at NASA, Dr. Strangelove later moved to the U.S. Defense Advanced Research Projects Agency (DARPA) and devoted herself to AI research.\n"
+"\n"
+"She is a misanthrope and rarely deigns to show herself around other people."
+msgstr ""
+"斯特兰奇洛夫博士曾是NASA前途无量的年轻科学家，后转至美国国防高级研究计划局（DARPA），投身AI研究。\n"
+"\n"
+"她厌恶人类，很少在人前露面。"
+
+#: slot/0x004c49a2/0x9f6ee7/0x72ae4f
+msgid ""
+"A French ornithologist.\n"
+"\n"
+"She came to Costa Rica to research Central American bird populations, but got lost among some mysterious ruins and was taken captive by persons unknown. "
+msgstr ""
+"一位法国的鸟类学家。\n"
+"\n"
+"她来哥斯达黎加研究中美洲鸟类种群，却在神秘遗迹中迷路，被不明人士俘虏。"
+
+#: slot/0x004c49a2/0x9f6ee7/0xf1c147
+msgid ""
+"The daughter of the comandante of the Frente Sandinista de Liberación Nacional (FSLN), and a guerrilla fighter who aims to spark a revolution in Nicaragua.\n"
+"\n"
+"She fled to Costa Rica to escape persecution, but her father was killed by a mysterious armed group, and the task of leading the Frente fell to her."
+msgstr ""
+"桑地诺民族解放阵线（FSLN）司令官之女，立志在尼加拉瓜掀起革命的游击战士。\n"
+"\n"
+"她为躲避迫害逃往哥斯达黎加，但父亲被神秘武装组织杀害，领导Frente的重任便落到她肩上。"
+
+#: slot/0x004c49a2/0xb6efb4/0x01487a
+msgid "Paz Ortega Andrade"
+msgstr "帕兹·奥尔特加·安德拉德"
+
+#: slot/0x004c49a2/0xb6efb4/0x255cf9
+#: slot/0x00cdd1c4/0xc6e14e/0x13b77e
+#: slot/0x00dd0ea8/0x31a1fa/0xb6deca
+msgid "Huey"
+msgstr "休伊"
+
+#: slot/0x004c49a2/0xb6efb4/0x37618c
+msgid "Vladimir Aleksandrovich Zadornov "
+msgstr "弗拉基米尔·扎多尔诺夫"
+
+#: slot/0x004c49a2/0xb6efb4/0x552cb3
+#: slot/0x00cdd1c4/0xc6e14e/0x207d71
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dacd
+msgid "Chico"
+msgstr "奇"
+
+#: slot/0x004c49a2/0xb6efb4/0x580daa
+#: slot/0x0056a63d/0x954c25/0x000178
+#: slot/0x00cdd1c4/0xc6e14e/0x235e68
+msgid "Snake"
+msgstr "SNAKE"
+
+#: slot/0x004c49a2/0xb6efb4/0x6747b0
+#: slot/0x00cdd1c4/0xc6e14e/0x201843
+msgid "Strangelove"
+msgstr "斯特兰奇洛夫"
+
+#: slot/0x004c49a2/0xb6efb4/0x72ae4f
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df0b
+msgid "Cécile Cosima Caminades"
+msgstr "塞西尔·科西玛·卡米纳德斯"
+
+#: slot/0x004c49a2/0xb6efb4/0xb73990
+msgid "Kazuhira Miller"
+msgstr "卡兹·米勒"
+
+#: slot/0x004c49a2/0xb6efb4/0xf1c147
+msgid "Amanda Valenciano Libre"
+msgstr "阿曼达·瓦伦西亚诺·利布雷"
+
+#: slot/0x00514128/0x215635/0x000d74
+#: slot/0x00514128/0x215635/0x484000
+msgid "SBM039"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x000d7c
+#: slot/0x00514128/0x215635/0x4a4000
+msgid "[105] Attack Chopper Battle: Mi-24A Custom"
+msgstr "[105] 武直战：Mi-24A 特装型"
+
+#: slot/0x00514128/0x215635/0x001b1f
+msgid "ABOUT SBM055"
+msgstr "关于 SBM055"
+
+#: slot/0x00514128/0x215635/0x001b27
+msgid ""
+"  Mission Location: Crater Base\n"
+"<C=FF4040>Neutralize the Pupa Custom<C=R>.\n"
+"Destroy the Pupa or shutdown the onboard AI to complete the mission."
+msgstr ""
+"任务地点：火山口基地\n"
+"<C=FF4040>制伏蛹·特装型<C=R>。\n"
+"摧毁蛹或关闭其搭载的AI即可完成任务。"
+
+#: slot/0x00514128/0x215635/0x011b1f
+msgid "ABOUT SBM056"
+msgstr "关于 SBM056"
+
+#: slot/0x00514128/0x215635/0x011b27
+msgid ""
+"  Mission Location: AI Laboratory\n"
+"<C=FF4040>Neutralize the Chrysalis Custom<C=R>.\n"
+"Destroy the Chrysalis or shutdown the onboard AI to complete the mission."
+msgstr ""
+"任务地点：AI实验室\n"
+"<C=FF4040>制伏蝶蛹·特装型<C=R>。\n"
+"摧毁蝶蛹或关闭其搭载的AI即可完成任务。"
+
+#: slot/0x00514128/0x215635/0x021b1f
+msgid ""
+"<C=FF4040>Hold up all enemy mercenaries<C=R> in the Puerto del Alba area.\n"
+"<C=FF4040>Killing, knocking out, or tranquilizing enemies will result in instant mission failure<C=R>.\n"
+"<C=FF4040>Triggering an alert will also result in instant mission failure<C=R>.\n"
+"  Weapons Assigned: <C=FF4040>Banana<C=R>\n"
+"  # of Targets: 7\n"
+"* The banana will automatically be equipped when\n"
+"   you START MISSION. Other weapons are not\n"
+"   allowed.\n"
+"* This is a mission. Do not play with your food!"
+msgstr ""
+"<C=FF4040>在Puerto del Alba地区挟持所有敌方雇佣兵<C=R>。\n"
+"<C=FF4040>击杀、击晕或麻醉敌人将导致任务立即失败<C=R>。\n"
+"<C=FF4040>触发警报也将导致任务立即失败<C=R>。\n"
+"  分配武器：<C=FF4040>香蕉<C=R>\n"
+"  目标数量：7\n"
+"* 开始任务时香蕉将自动装备。\n"
+"   不允许使用其他武器。\n"
+"\n"
+"* 这是任务。别拿你的食物玩！"
+
+#: slot/0x00514128/0x215635/0x021b27
+msgid ""
+"  Mission Location: Mining Pit\n"
+"<C=FF4040>Neutralize the Cocoon Custom<C=R>.\n"
+"Destroy the Cocoon or shutdown the onboard AI to complete the mission."
+msgstr ""
+"任务地点：采掘坑\n"
+"<C=FF4040>制伏茧·特装型<C=R>。\n"
+"摧毁茧或关闭其搭载的AI即可完成任务。"
+
+#: slot/0x00514128/0x215635/0x031b1f
+msgid ""
+"<C=FF4040>Hold up all enemy mercenaries<C=R> in the Underground Passage of the Mine Base.\n"
+"<C=FF4040>Killing, knocking out, or tranquilizing enemies will result in instant mission failure<C=R>.\n"
+"<C=FF4040>Triggering an alert will also result in instant mission failure<C=R>.\n"
+"  Weapons Assigned: <C=FF4040>Banana<C=R>\n"
+"  # of Targets: 9\n"
+"* The banana will automatically be equipped when\n"
+"   you START MISSION. Other weapons are not\n"
+"   allowed.\n"
+"* This is a mission. Do not play with your food!"
+msgstr ""
+"<C=FF4040>在矿山基地地下通道挟持所有敌方雇佣兵<C=R>。\n"
+"<C=FF4040>击杀、击晕或麻醉敌人将导致任务立即失败<C=R>。\n"
+"<C=FF4040>触发警报也将导致任务立即失败<C=R>。\n"
+"  分配武器：<C=FF4040>香蕉<C=R>\n"
+"  目标数量：9\n"
+"* 开始任务时香蕉将自动装备。\n"
+"   不允许使用其他武器。\n"
+"\n"
+"* 这是任务。别拿你的食物玩！"
+
+#: slot/0x00514128/0x215635/0x031b27
+msgid "ABOUT SBM258"
+msgstr "关于 SBM258"
+
+#: slot/0x00514128/0x215635/0x041b1f
+msgid "ABOUT SBM059"
+msgstr "关于 SBM059"
+
+#: slot/0x00514128/0x215635/0x041b27
+msgid ""
+"  Mission Location: U.S. Missile Base\n"
+"<C=FF4040>Neutralize Peace Walker Custom<C=R>.\n"
+"Destroy Peace Walker or shutdown the onboard AI to complete the mission."
+msgstr ""
+"任务地点：美军导弹基地\n"
+"<C=FF4040>制伏和平行者·特装型<C=R>。\n"
+"摧毁和平行者或关闭其搭载的AI即可完成任务。"
+
+#: slot/0x00514128/0x215635/0x0ff3af
+#: slot/0x00514128/0x215635/0xd703f9
+msgid "[11] The Man in the Crater Base"
+msgstr "[11] 火山口基地的男人"
+
+#: slot/0x00514128/0x215635/0x10f3af
+#: slot/0x00514128/0x215635/0xd70439
+msgid "[12] The Cloud Forest"
+msgstr "[12] 云雾林"
+
+#: slot/0x00514128/0x215635/0x119ef3
+#: slot/0x00514128/0x215635/0xa80464
+msgid "Pursue Amanda"
+msgstr "追阿曼达"
+
+#: slot/0x00514128/0x215635/0x119ef7
+#: slot/0x00514128/0x215635/0xa90464
+msgid "Head for the Lab"
+msgstr "前往实验室"
+
+#: slot/0x00514128/0x215635/0x11a373
+#: slot/0x00514128/0x215635/0xc80465
+msgid "[125] <<Hunting Quest: Gear REX>>"
+msgstr "[125] <<狩猎任务：霸王>>"
+
+#: slot/0x00514128/0x215635/0x11f3af
+#: slot/0x00514128/0x215635/0xd70479
+msgid "[13] The Multipurpose Attack Chopper Mi-24A Closes In"
+msgstr "[13] 多用途武装直升机 Mi-24A 逼近"
+
+#: slot/0x00514128/0x215635/0x12f3af
+#: slot/0x00514128/0x215635/0xd704b9
+msgid "[14] The Lost One"
+msgstr "[14] 迷失者"
+
+#: slot/0x00514128/0x215635/0x13f3af
+#: slot/0x00514128/0x215635/0xd704f9
+msgid "[15] Inside the Lab"
+msgstr "[15] 实验室内"
+
+#: slot/0x00514128/0x215635/0x14015a
+msgid "Snake tracks down Zadornov, the escaped KGB agent. However..."
+msgstr "SNAKE追查逃脱的克格勃特工扎多尔诺夫。然而……"
+
+#: slot/0x00514128/0x215635/0x14f3af
+#: slot/0x00514128/0x215635/0xd70539
+msgid "[16] Recollection"
+msgstr "[16] 追忆"
+
+#: slot/0x00514128/0x215635/0x15015a
+msgid ""
+"Snake and his crew must neutralize Metal Gear ZEKE.\n"
+"  From \"ZEKE Battle\""
+msgstr ""
+"SNAKE一行必须制伏合金装备·吉克。\n"
+"  摘自“吉克战”"
+
+#: slot/0x00514128/0x215635/0x15ac9e
+msgid "Rescue Chico from the Aldea Los Despiertos Prison Facility and locate the route used by the U.S. mercenaries to transport the nuclear material."
+msgstr "从觉醒者村收容设施救出奇科，并找出美军佣兵运送核材料的路线。"
+
+#: slot/0x00514128/0x215635/0x15aca2
+msgid "Take out the enemy's Chrysalis weapon."
+msgstr "摧毁敌方的蝶蛹武器。"
+
+#: slot/0x00514128/0x215635/0x15aca6
+msgid ""
+"Proceed immediately to the Control Tower and stop Peace Walker from launching its nukes.\n"
+"The WALKMAN cannot be equipped."
+msgstr ""
+"立即前往管制塔，阻止和平行者发射核弹。\n"
+"无法装备WALKMAN。"
+
+#: slot/0x00514128/0x215635/0x15b11e
+msgid ""
+"  Mission Location: Mother Base\n"
+"<C=FF4040>Gear REX<C=R> has run amok on the deck of Mother Base. \n"
+"<C=FF4040>Neutralize it<C=R>."
+msgstr ""
+"任务地点：母基地\n"
+"<C=FF4040>霸王<C=R>在母基地甲板上失控。\n"
+"<C=FF4040>将其制伏<C=R>。"
+
+#: slot/0x00514128/0x215635/0x15f3af
+#: slot/0x00514128/0x215635/0xd70579
+msgid "[17] The Final Testing Ground"
+msgstr "[17] 最终试验场"
+
+#: slot/0x00514128/0x215635/0x16015a
+msgid ""
+"Mother Base. A few hours after Metal Gear ZEKE falls silent.\n"
+"  From \"ZEKE Battle\""
+msgstr ""
+"母基地。合金装备·吉克沉寂数小时后。\n"
+"  出自“吉克战”"
+
+#: slot/0x00514128/0x215635/0x16a373
+#: slot/0x00514128/0x215635/0xc805a5
+msgid "[126] <<Hunting Quest: Gear REX / Twilight>>"
+msgstr "[126] <<狩猎任务：霸王 / 黄昏>>"
+
+#: slot/0x00514128/0x215635/0x16f3af
+#: slot/0x00514128/0x215635/0xd705b9
+msgid "[18] Assault of the Cocoon"
+msgstr "[18] 茧的强袭"
+
+#: slot/0x00514128/0x215635/0x17015a
+msgid ""
+"Snake encounters a mysterious \"visitor\" on the coast of Costa Rica.\n"
+"\n"
+"<I=CPY>CAPCOM CO., LTD."
+msgstr ""
+"SNAKE在哥斯达黎加海岸遇到神秘的“访客”。\n"
+"\n"
+"<I=CPY>CAPCOM CO., LTD."
+
+#: slot/0x00514128/0x215635/0x170d74
+#: slot/0x00514128/0x215635/0x4845c0
+msgid "[025] TARGET DEMOLITION"
+msgstr "[025] 目标破坏"
+
+#: slot/0x00514128/0x215635/0x170d7c
+#: slot/0x00514128/0x215635/0x4a45c0
+msgid "[106] Attack Chopper Battle: Mi-24D"
+msgstr "[106] 武装直升机战：Mi-24D"
+
+#: slot/0x00514128/0x215635/0x17f3af
+#: slot/0x00514128/0x215635/0xd705f9
+msgid "[19] Peace Walker's Hangar"
+msgstr "[19] 和平行者的机库"
+
+#: slot/0x00514128/0x215635/0x18015a
+msgid ""
+"Snake accepts an invitation from Trenya and heads to Isla del Monstruo.\n"
+"  From <<Hunting Quests>>\n"
+"<I=CPY>CAPCOM CO., LTD."
+msgstr ""
+"SNAKE接受Trenya的邀请，前往怪物岛。\n"
+"  来自《狩猎任务》\n"
+"<I=CPY>CAPCOM CO., LTD."
+
+#: slot/0x00514128/0x215635/0x180d74
+#: slot/0x00514128/0x215635/0x484600
+msgid "[021] TARGET DEMOLITION"
+msgstr "[021] 目标破坏"
+
+#: slot/0x00514128/0x215635/0x180d7c
+#: slot/0x00514128/0x215635/0x4a4600
+msgid "[107] Attack Chopper Battle: Mi-24D Custom"
+msgstr "[107] 武装直升机战：Mi-24D Custom"
+
+#: slot/0x00514128/0x215635/0x18f3af
+#: slot/0x00514128/0x215635/0xd70639
+msgid "[20] Torture Sequence 1"
+msgstr "[20] 拷问片段 1"
+
+#: slot/0x00514128/0x215635/0x19015a
+#: slot/0x00514128/0x215635/0x54f3af
+#: slot/0x00514128/0x215635/0xd71539
+msgid "[45]"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x190d74
+#: slot/0x00514128/0x215635/0x484640
+msgid "[018] Target Demolition"
+msgstr "[018] 目标破坏"
+
+#: slot/0x00514128/0x215635/0x190d7c
+#: slot/0x00514128/0x215635/0x4a4640
+msgid "[108] Attack Chopper Battle: AH56A-Bomber"
+msgstr "[108] 武装直升机战：AH56A-Bomber"
+
+#: slot/0x00514128/0x215635/0x1a0d74
+#: slot/0x00514128/0x215635/0x484680
+msgid "[019] Target Demolition"
+msgstr "[019] 目标破坏"
+
+#: slot/0x00514128/0x215635/0x1a0d7c
+#: slot/0x00514128/0x215635/0x4a4680
+msgid "[109] Attack Chopper Battle: AH56A-Bomber Custom"
+msgstr "[109] 武装直升机战：AH56A-Bomber Custom"
+
+#: slot/0x00514128/0x215635/0x1b0d74
+#: slot/0x00514128/0x215635/0x4846c0
+msgid "[023] TARGET DEMOLITION"
+msgstr "[023] 目标破坏"
+
+#: slot/0x00514128/0x215635/0x1b0d7c
+#: slot/0x00514128/0x215635/0x4a46c0
+msgid "[110] Attack Chopper Battle: AH56A-Raider"
+msgstr "[110] 武装直升机战：AH56A-Raider"
+
+#: slot/0x00514128/0x215635/0x1b1b1f
+msgid "ABOUT SBM060"
+msgstr "关于SBM060"
+
+#: slot/0x00514128/0x215635/0x1b1b27
+msgid ""
+"<C=FF4040>Fight a simulated battle<C=R> to help the <C=FF4040>onboard AI<C=R> collect performance data. Since this is a simulation, any damage dealt to the simulated ZEKE will not affect the real ZEKE.\n"
+"The WALKMAN is not allowed."
+msgstr ""
+"<C=FF4040>进行模拟战<C=R>，帮助<C=FF4040>机载AI<C=R>收集性能数据。由于是模拟，对模拟吉克造成的伤害不会影响真正的吉克。\n"
+"不允许使用WALKMAN。"
+
+#: slot/0x00514128/0x215635/0x1c0d74
+#: slot/0x00514128/0x215635/0x484700
+msgid "SBM045"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x1c0d7c
+#: slot/0x00514128/0x215635/0x4a4700
+msgid "[111] Attack Chopper Battle: AH56A-Raider Custom"
+msgstr "[111] 武装直升机战：AH56A-Raider Custom"
+
+#: slot/0x00514128/0x215635/0x1c1b1f
+msgid "ABOUT SBM061"
+msgstr "关于SBM061"
+
+#: slot/0x00514128/0x215635/0x1c1b27
+msgid "Pilot ZEKE by remote control and eliminate the intruders from Mother Base."
+msgstr "远程操控吉克，消灭入侵母基地的敌人。"
+
+#: slot/0x00514128/0x215635/0x1d0d74
+#: slot/0x00514128/0x215635/0x484740
+msgid "[020] Target Demolition"
+msgstr "[020] 目标爆破"
+
+#: slot/0x00514128/0x215635/0x1d0d7c
+#: slot/0x00514128/0x215635/0x4a4740
+msgid "[112] AI Weapon Battle: Pupa Type II"
+msgstr "[112] AI兵器战：蛹 Ⅱ型"
+
+#: slot/0x00514128/0x215635/0x1d1b1f
+msgid ""
+"Grab as many cardboard boxes as you can from enemy-patrolled Central Heredia and bring them to the goal.\n"
+"If spotted by the enemy, you will lose any cardboard boxes you are carrying.\n"
+"Cardboard boxes carried into the goal will not vanish.\n"
+"You may re-enter the goal as many times as you wish.\n"
+"  Time Limit: 8:00\n"
+"  # of Targets: 9"
+msgstr ""
+"从有敌兵巡逻的埃雷迪亚中部尽可能多地夺取纸箱，送到终点。\n"
+"被敌人发现就会失去携带的纸箱。\n"
+"送进终点的纸箱不会消失。\n"
+"终点可反复进入。\n"
+"  时间限制：8:00\n"
+"  目标数：9"
+
+#: slot/0x00514128/0x215635/0x1e0d74
+#: slot/0x00514128/0x215635/0x484780
+msgid "[027] CARGO TRUCK DEMOLITION"
+msgstr "[027] 卡车爆破"
+
+#: slot/0x00514128/0x215635/0x1e0d7c
+#: slot/0x00514128/0x215635/0x4a4780
+msgid "[114] AI Weapon Battle: Chrysalis Type II"
+msgstr "[114] AI兵器战：蝶蛹 Ⅱ型"
+
+#: slot/0x00514128/0x215635/0x1e1b1f
+msgid ""
+"Defeat all enemy mercenaries on the suspension bridge in the El Cenegal area of Eastern Limón with a single bullet.\n"
+"  Time Limit: 1:30\n"
+"  # of Targets: 2"
+msgstr ""
+"在利蒙东部埃尔塞内加尔地区的吊桥上，用一发子弹击败所有敌方雇佣兵。\n"
+"  时间限制：1:30\n"
+"  目标数：2"
+
+#: slot/0x00514128/0x215635/0x1f0d74
+#: slot/0x00514128/0x215635/0x4847c0
+msgid "[021] Cargo Truck Demolition"
+msgstr "[021] 卡车爆破"
+
+#: slot/0x00514128/0x215635/0x1f0d7c
+#: slot/0x00514128/0x215635/0x4a47c0
+msgid "[116] AI Weapon Battle: Cocoon Type II"
+msgstr "[116] AI兵器战：茧 Ⅱ型"
+
+#: slot/0x00514128/0x215635/0x1f1b1f
+msgid ""
+"<C=FF4040>Defeat all enemy soldiers and unmanned weapons<C=R> in the Los Cantos area of Volcán Irazú <C=FF4040>with a single bullet<C=R>.\n"
+"<C=FF4040>SINGLE PLAYER ONLY<C=R>.\n"
+"  Weapon Assigned: <C=FF4040>M16A1<C=R> (other weapons are not allowed)\n"
+"  Time Limit: 5:00\n"
+"  # of Targets: 5"
+msgstr ""
+"<C=FF4040>用一发子弹<C=R>击败伊拉苏火山洛斯坎托斯地区的<C=FF4040>所有敌兵与无人兵器<C=R>。\n"
+"<C=FF4040>仅单人<C=R>。\n"
+"  指定武器：<C=FF4040>M16A1<C=R>（不可使用其他武器）\n"
+"  时间限制：5:00\n"
+"  目标数：5"
+
+#: slot/0x00514128/0x215635/0x200d74
+#: slot/0x00514128/0x215635/0x484800
+msgid "[026] Eliminate Enemy Soldiers"
+msgstr "[026] 消灭敌兵"
+
+#: slot/0x00514128/0x215635/0x200d7c
+#: slot/0x00514128/0x215635/0x4a4800
+msgid "SBM249"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x201b1f
+msgid ""
+"Defeat all enemy soldiers at the Catarata de la Muerte in the Cloud Forest in Central Heredia with a single bullet.\n"
+"  Time Limit: 1:00\n"
+"  # of Targets: 3"
+msgstr ""
+"在埃雷迪亚中部云雾林的死亡瀑布，用一发子弹击败所有敌兵。\n"
+"  时间限制：1:00\n"
+"  目标数：3"
+
+#: slot/0x00514128/0x215635/0x211b1f
+msgid "ABOUT SBM066"
+msgstr "关于SBM066"
+
+#: slot/0x00514128/0x215635/0x221b1f
+msgid ""
+"Take a photo of the Spirit roaming the Ruinas de Xochiquetzal in the Cloud Forest in Central Heredia.\n"
+"Spirits can be detected with the Sonic Eye. \n"
+"  Time Limit: \n"
+"  Weapons Needed: \n"
+"  Items Needed: \n"
+"  # of Targets: "
+msgstr ""
+"拍摄在埃雷迪亚中部云雾林索奇克察尔遗迹游荡的幽灵。\n"
+"可用音波眼探测幽灵。\n"
+"  时间限制：\n"
+"  所需武器：\n"
+"  所需物品：\n"
+"  目标数："
+
+#: slot/0x00514128/0x215635/0x231b1f
+msgid ""
+"<C=FF4040>Take a photo of the spirit<C=R> roaming the Small Maintenance Dock of the U.S. Missile Base.\n"
+"Spirits can be detected with audio visualization equipment.\n"
+"<C=FF4040>No LIFE regeneration items allowed<C=R>.\n"
+"<C=FF4040>SINGLE PLAYER ONLY<C=R>.\n"
+"  Items Needed: <C=FF4040>Camera<C=R>\n"
+"  # of Targets: 1"
+msgstr ""
+"<C=FF4040>拍摄<C=R>在美国导弹基地小型维修码头游荡的幽灵。\n"
+"可用音频可视化设备探测幽灵。\n"
+"<C=FF4040>禁止使用恢复生命值的物品<C=R>。\n"
+"<C=FF4040>仅单人<C=R>。\n"
+"  所需物品：<C=FF4040>镜头<C=R>\n"
+"  目标数：1"
+
+#: slot/0x00514128/0x215635/0x241b1f
+msgid ""
+"Take a photo of the Spirit roaming the Cloud Forest in Central Heredia.\n"
+"Spirits can be detected with the Sonic Eye. \n"
+"No LIFE regeneration items allowed.\n"
+"  Items Needed: Camera\n"
+"  # of Targets: 1"
+msgstr ""
+"拍摄在埃雷迪亚中部云雾林游荡的幽灵。\n"
+"可用音波眼探测幽灵。\n"
+"禁止使用恢复生命值的物品。\n"
+"  所需物品：镜头\n"
+"  目标数：1"
+
+#: slot/0x00514128/0x215635/0x2ff3af
+#: slot/0x00514128/0x215635/0xd70bf9
+msgid "[21] Torture Sequence 2"
+msgstr "[21] 拷问场景2"
+
+#: slot/0x00514128/0x215635/0x30f3af
+#: slot/0x00514128/0x215635/0xd70c39
+msgid "[22] Torture Sequence 3"
+msgstr "[22] 拷问场景3"
+
+#: slot/0x00514128/0x215635/0x319ef3
+#: slot/0x00514128/0x215635/0xa80c64
+msgid "Armored Vehicle Battle: LAV-Type G"
+msgstr "装甲车战：LAV-Type G"
+
+#: slot/0x00514128/0x215635/0x319ef7
+#: slot/0x00514128/0x215635/0xa90c64
+msgid "Locate the ID Card"
+msgstr "找到ID卡"
+
+#: slot/0x00514128/0x215635/0x319efb
+#: slot/0x00514128/0x215635/0xaa0c64
+msgid "Infiltrate the U.S. Missile Base"
+msgstr "潜入美国导弹基地"
+
+#: slot/0x00514128/0x215635/0x31a373
+#: slot/0x00514128/0x215635/0xc80c65
+msgid "[127] Gear REX: Showdown at Crater Base"
+msgstr "[127] 霸王：火山口基地决战"
+
+#: slot/0x00514128/0x215635/0x31f3af
+#: slot/0x00514128/0x215635/0xd70c79
+msgid "[23] Activation"
+msgstr "[23] 启动"
+
+#: slot/0x00514128/0x215635/0x32f3af
+#: slot/0x00514128/0x215635/0xd70cb9
+msgid "[24] In Pursuit"
+msgstr "[24] 追击"
+
+#: slot/0x00514128/0x215635/0x33f3af
+#: slot/0x00514128/0x215635/0xd70cf9
+msgid "[25] Nicaragua"
+msgstr "[25] 尼加拉瓜"
+
+#: slot/0x00514128/0x215635/0x34f3af
+#: slot/0x00514128/0x215635/0xd70d39
+msgid "[26] Comm Tower Monitoring Room"
+msgstr "[26] 通信塔监控室"
+
+#: slot/0x00514128/0x215635/0x35ac9e
+msgid "Proceed immediately to the jungle train terminal located at El Cadalso, and stop the nuclear shipment before it reaches the enemy's main base in Volcán Irazú."
+msgstr "立即前往绞刑台的丛林列车终点站，在核弹运抵伊拉苏火山的敌军主基地前将其截下。"
+
+#: slot/0x00514128/0x215635/0x35aca2
+msgid "Head for the enemy's Mine Base and prevent the assembly of the Mammal Pod and Peace Walker."
+msgstr "前往敌军矿井基地，阻止哺乳舱与和平行者的组装。"
+
+#: slot/0x00514128/0x215635/0x35aca6
+msgid "Stop Peace Walker from launching its nukes and gain control of the platform!"
+msgstr "阻止和平行者发射核弹，夺取平台控制权！"
+
+#: slot/0x00514128/0x215635/0x35f3af
+#: slot/0x00514128/0x215635/0xd70d79
+msgid "[27] Peace Walker Mobilized"
+msgstr "[27] 和平行者启动"
+
+#: slot/0x00514128/0x215635/0x36f3af
+#: slot/0x00514128/0x215635/0xd70db9
+msgid "[28] False Data"
+msgstr "[28] 假数据"
+
+#: slot/0x00514128/0x215635/0x370d74
+#: slot/0x00514128/0x215635/0x484dc0
+msgid "[023] Eliminate Enemy Soldiers"
+msgstr "[023] 消灭敌兵"
+
+#: slot/0x00514128/0x215635/0x370d7c
+#: slot/0x00514128/0x215635/0x4a4dc0
+msgid "[118] AI Weapon Battle: Peace Walker Type II"
+msgstr "[118] AI 兵器战：和平行者 Type II"
+
+#: slot/0x00514128/0x215635/0x37f3af
+#: slot/0x00514128/0x215635/0xd70df9
+msgid "[29] Retaliation"
+msgstr "[29] 报复"
+
+#: slot/0x00514128/0x215635/0x380d74
+#: slot/0x00514128/0x215635/0x484e00
+msgid "[024] Eliminate Enemy Soldiers"
+msgstr "[024] 消灭敌兵"
+
+#: slot/0x00514128/0x215635/0x38f3af
+#: slot/0x00514128/0x215635/0xd70e39
+msgid "[30] Peace"
+msgstr "[30] 和平"
+
+#: slot/0x00514128/0x215635/0x390d74
+#: slot/0x00514128/0x215635/0x484e40
+msgid "[029] ELIMINATE ENEMY SOLDIERS"
+msgstr "[029] 消灭敌兵"
+
+#: slot/0x00514128/0x215635/0x3a0d74
+#: slot/0x00514128/0x215635/0x484e80
+msgid "[022] Eliminate Enemy Soldiers"
+msgstr "[022] 消灭敌兵"
+
+#: slot/0x00514128/0x215635/0x3aaca6
+msgid "Prevent all-out Nuclear War."
+msgstr "阻止全面核战争。"
+
+#: slot/0x00514128/0x215635/0x3b0d74
+#: slot/0x00514128/0x215635/0x484ec0
+msgid "[052] Eliminate the Kidnappers"
+msgstr "[052] 消灭绑架者"
+
+#: slot/0x00514128/0x215635/0x3b1b1f
+msgid ""
+"<C=FF4040>Shoot down enemy missiles<C=R> launched at the MSF Mother Base. \n"
+"<C=FF4040>Allowing Mother Base to be hit by 10 missiles will result in instant mission failure<C=R>.\n"
+"  # of Targets: 30"
+msgstr ""
+"<C=FF4040>击落<C=R>射向 MSF 母基地的敌方导弹。\n"
+"<C=FF4040>母基地被 10 枚导弹击中即任务失败<C=R>。\n"
+"  目标数：30"
+
+#: slot/0x00514128/0x215635/0x3c0d74
+#: slot/0x00514128/0x215635/0x484f00
+msgid "SBM055"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x3c0d7c
+#: slot/0x00514128/0x215635/0x4a4f00
+msgid "[113] AI Weapon Battle: Pupa Custom"
+msgstr "[113] AI 兵器战：蛹 定制型"
+
+#: slot/0x00514128/0x215635/0x3c1b1f
+msgid "ABOUT SBM071"
+msgstr "关于 SBM071"
+
+#: slot/0x00514128/0x215635/0x3cb479
+#: slot/0x00514128/0x215635/0xd1f145
+msgid "[AP] MSF Entrance Exam"
+msgstr "[AP] MSF 入队考试"
+
+#: slot/0x00514128/0x215635/0x3d0d74
+#: slot/0x00514128/0x215635/0x484f40
+msgid "SBM056"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x3d0d7c
+#: slot/0x00514128/0x215635/0x4a4f40
+msgid "[115] AI Weapon Battle: Chrysalis Custom"
+msgstr "[115] AI 兵器战：蝶蛹 定制型"
+
+#: slot/0x00514128/0x215635/0x3d1b1f
+msgid "ABOUT SBM072"
+msgstr "关于 SBM072"
+
+#: slot/0x00514128/0x215635/0x3e0d74
+#: slot/0x00514128/0x215635/0x484f80
+msgid "[035] Hold Up"
+msgstr "[035] 挟持"
+
+#: slot/0x00514128/0x215635/0x3e0d7c
+#: slot/0x00514128/0x215635/0x4a4f80
+msgid "[117] AI Weapon Battle: Cocoon Custom"
+msgstr "[117] AI 兵器战：茧 定制型"
+
+#: slot/0x00514128/0x215635/0x3e1b1f
+msgid ""
+"<C=FF4040>Hold up all enemy mercenaries<C=R> at the Sorting Shed in Bananal Fruta de Oro.\n"
+"<C=FF4040>Killing, knocking out, or tranquilizing enemies will result in instant mission failure<C=R>.\n"
+"<C=FF4040>Triggering an alert will also result in instant mission failure<C=R>.\n"
+"  Weapons Assigned: <C=FF4040>Banana<C=R>\n"
+"  # of Targets: 6\n"
+"* The banana will automatically be equipped when\n"
+"   you START MISSION. Other weapons are not\n"
+"   allowed.\n"
+"* This is a mission. Do not play with your food!"
+msgstr ""
+"<C=FF4040>在Bananal Fruta de Oro的分拣棚挟持所有敌方雇佣兵<C=R>。\n"
+"<C=FF4040>击杀、击晕或麻醉敌人将导致任务立即失败<C=R>。\n"
+"<C=FF4040>触发警报也将导致任务立即失败<C=R>。\n"
+"  分配武器：<C=FF4040>香蕉<C=R>\n"
+"  目标数量：6\n"
+"* 开始任务时香蕉将自动装备。\n"
+"   不允许使用其他武器。\n"
+"\n"
+"* 这是任务。别拿你的食物玩！"
+
+#: slot/0x00514128/0x215635/0x3f0d74
+#: slot/0x00514128/0x215635/0x484fc0
+msgid "[037] Hold Up"
+msgstr "[037] 举枪"
+
+#: slot/0x00514128/0x215635/0x3f0d7c
+#: slot/0x00514128/0x215635/0x4a4fc0
+msgid "SBM258"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x3f1b1f
+msgid ""
+"Pooyan Mission: Los Cantos\n"
+"<C=FF4040>Shoot down the Fulton Recovery balloons to prevent soldiers from being abducted<C=R>.\n"
+"<C=FF4040>Allowing 3 soldiers to be abducted will result in instant mission failure<C=R>.\n"
+"  # of Targets: 31 (number of soldiers)"
+msgstr ""
+"波亚任务：洛斯坎托斯\n"
+"<C=FF4040>击落富尔顿回收气球，阻止士兵被掳走<C=R>。\n"
+"<C=FF4040>让3名士兵被掳走将立即导致任务失败<C=R>。\n"
+"  目标数：31（士兵人数）"
+
+#: slot/0x00514128/0x215635/0x400d74
+#: slot/0x00514128/0x215635/0x485000
+msgid "SBM059"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x400d7c
+#: slot/0x00514128/0x215635/0x4a5000
+msgid "[119] AI Weapon Battle: Peace Walker Custom"
+msgstr "[119] AI兵器战：和平行者 改"
+
+#: slot/0x00514128/0x215635/0x401b1f
+msgid ""
+"Pooyan Mission: Mining Pit\n"
+"<C=FF4040>Shoot down the Fulton Recovery balloons to prevent soldiers from being abducted<C=R>.\n"
+"<C=FF4040>Allowing 3 soldiers to be abducted will result in instant mission failure<C=R>.\n"
+"Earn bonus points by preventing supplies from being stolen. (no penalty for item abductions)\n"
+"  # of Targets: 33 (number of soldiers)"
+msgstr ""
+"波亚任务：采掘坑\n"
+"<C=FF4040>击落富尔顿回收气球，阻止士兵被掳走<C=R>。\n"
+"<C=FF4040>让3名士兵被掳走将立即导致任务失败<C=R>。\n"
+"阻止物资被窃取可获得奖励分。（物品被掳走无惩罚）\n"
+"  目标数：33（士兵人数）"
+
+#: slot/0x00514128/0x215635/0x411b1f
+msgid ""
+"Pooyan Mission: Isla del Monstruo\n"
+"<C=FF4040>Shoot down the Fulton Recovery balloons to prevent soldiers from being abducted<C=R>.\n"
+"<C=FF4040>Allowing 2 soldiers to be abducted will result in instant mission failure<C=R>.\n"
+"Earn bonus points by preventing supplies from being stolen. (no penalty for item abductions)\n"
+"  # of Targets: 14 (number of soldiers)"
+msgstr ""
+"波亚任务：怪物岛\n"
+"<C=FF4040>击落富尔顿回收气球，阻止士兵被掳走<C=R>。\n"
+"<C=FF4040>让2名士兵被掳走将立即导致任务失败<C=R>。\n"
+"阻止物资被窃取可获得奖励分。（物品被掳走无惩罚）\n"
+"  目标数：14（士兵人数）"
+
+#: slot/0x00514128/0x215635/0x421b1f
+msgid ""
+"Enemy soldiers have begun a sweep of the Prison Facility. <C=FF4040>Evade the enemy and escape<C=R>.\n"
+"<C=FF4040>Being spotted will result in instant mission failure<C=R>.\n"
+"<C=FF4040>MSF SOLDIERS ONLY<C=R>.\n"
+"  Time Limit: 6:00"
+msgstr ""
+"敌方士兵已开始搜查收容设施。<C=FF4040>避开敌人并逃脱<C=R>。\n"
+"<C=FF4040>被发现将立即导致任务失败<C=R>。\n"
+"<C=FF4040>仅 MSF 士兵<C=R>。\n"
+"  时间限制：6:00"
+
+#: slot/0x00514128/0x215635/0x431b1f
+#: slot/0x00514128/0x215635/0x485fc0
+#: slot/0x00514128/0x215635/0x7f0d74
+msgid "SBM078"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x441b1f
+msgid "ABOUT SBM079"
+msgstr "关于 SBM079"
+
+#: slot/0x00514128/0x215635/0x482600
+#: slot/0x00514128/0x215635/0x980d73
+msgid "[005] Marksmanship Challenge"
+msgstr "[005] 射击挑战"
+
+#: slot/0x00514128/0x215635/0x482640
+#: slot/0x00514128/0x215635/0x990d73
+msgid "[006] Marksmanship Challenge"
+msgstr "[006] 射击挑战"
+
+#: slot/0x00514128/0x215635/0x482680
+#: slot/0x00514128/0x215635/0x9a0d73
+msgid "[007] Marksmanship Challenge"
+msgstr "[007] 射击挑战"
+
+#: slot/0x00514128/0x215635/0x4826c0
+#: slot/0x00514128/0x215635/0x9b0d73
+msgid "[008] MARKSMANSHIP CHALLENGE"
+msgstr "[008] 射击挑战"
+
+#: slot/0x00514128/0x215635/0x482700
+#: slot/0x00514128/0x215635/0x9c0d73
+msgid "[009] Marksmanship Challenge"
+msgstr "[009] 射击挑战"
+
+#: slot/0x00514128/0x215635/0x482740
+#: slot/0x00514128/0x215635/0x9d0d73
+msgid "[028] Item Capture"
+msgstr "[028] 物品回收"
+
+#: slot/0x00514128/0x215635/0x482780
+#: slot/0x00514128/0x215635/0x9e0d73
+msgid "[029] Item Capture"
+msgstr "[029] 物品回收"
+
+#: slot/0x00514128/0x215635/0x4827c0
+#: slot/0x00514128/0x215635/0x9f0d73
+msgid "[032] Classified Document Retrieval"
+msgstr "[032] 机密文件回收"
+
+#: slot/0x00514128/0x215635/0x482800
+#: slot/0x00514128/0x215635/0xa00d73
+msgid "[030] Classified Document Retrieval"
+msgstr "[030] 机密文件回收"
+
+#: slot/0x00514128/0x215635/0x482dc0
+#: slot/0x00514128/0x215635/0xb70d73
+msgid "[031] Classified Document Retrieval"
+msgstr "[031] 机密文件回收"
+
+#: slot/0x00514128/0x215635/0x482e00
+#: slot/0x00514128/0x215635/0xb80d73
+msgid "[062] Dead Man's Treasure"
+msgstr "[062] 亡者的宝藏"
+
+#: slot/0x00514128/0x215635/0x482e40
+#: slot/0x00514128/0x215635/0xb90d73
+msgid "[060] Dead Man's Treasure"
+msgstr "[060] 亡者的宝藏"
+
+#: slot/0x00514128/0x215635/0x482e80
+#: slot/0x00514128/0x215635/0xba0d73
+msgid "[061] Dead Man's Treasure"
+msgstr "[061] 亡者的宝藏"
+
+#: slot/0x00514128/0x215635/0x482ec0
+#: slot/0x00514128/0x215635/0xbb0d73
+msgid "[034] Claymore Disarmament"
+msgstr "[034] 拆除阔剑地雷"
+
+#: slot/0x00514128/0x215635/0x482f00
+#: slot/0x00514128/0x215635/0xbc0d73
+msgid "[033] Claymore Disarmament"
+msgstr "[033] 拆除阔剑地雷"
+
+#: slot/0x00514128/0x215635/0x482f40
+#: slot/0x00514128/0x215635/0xbd0d73
+msgid "[069] DEAD MAN'S TREASURE"
+msgstr "[069] 亡者的宝藏"
+
+#: slot/0x00514128/0x215635/0x482f80
+#: slot/0x00514128/0x215635/0xbe0d73
+msgid "[010] Fulton Recovery"
+msgstr "[010] 富尔顿回收"
+
+#: slot/0x00514128/0x215635/0x482fc0
+#: slot/0x00514128/0x215635/0xbf0d73
+msgid "[011] Fulton Recovery"
+msgstr "[011] 富尔顿回收"
+
+#: slot/0x00514128/0x215635/0x483000
+#: slot/0x00514128/0x215635/0xc00d73
+msgid "[014] Fulton Recovery"
+msgstr "[014] 富尔顿回收"
+
+#: slot/0x00514128/0x215635/0x4835c0
+#: slot/0x00514128/0x215635/0xd70d73
+msgid "[016] Fulton Recovery"
+msgstr "[016] 富尔顿回收"
+
+#: slot/0x00514128/0x215635/0x483600
+#: slot/0x00514128/0x215635/0xd80d73
+msgid "[013] Fulton Recovery"
+msgstr "[013] 富尔顿回收"
+
+#: slot/0x00514128/0x215635/0x483640
+#: slot/0x00514128/0x215635/0xd90d73
+msgid "[012] Fulton Recovery"
+msgstr "[012] 富尔顿回收"
+
+#: slot/0x00514128/0x215635/0x483680
+#: slot/0x00514128/0x215635/0xda0d73
+msgid "[017] FULTON RECOVERY"
+msgstr "[017] 富尔顿回收"
+
+#: slot/0x00514128/0x215635/0x4836c0
+#: slot/0x00514128/0x215635/0xdb0d73
+msgid "[015] Fulton Recovery"
+msgstr "[015] 富尔顿回收"
+
+#: slot/0x00514128/0x215635/0x483700
+#: slot/0x00514128/0x215635/0xdc0d73
+msgid "SBM025"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x483740
+#: slot/0x00514128/0x215635/0xdd0d73
+msgid "[017] Fulton Recovery"
+msgstr "[017] 富尔顿回收"
+
+#: slot/0x00514128/0x215635/0x483780
+#: slot/0x00514128/0x215635/0xde0d73
+msgid "SBM027"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x4837c0
+#: slot/0x00514128/0x215635/0xdf0d73
+msgid "SBM028"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x483800
+#: slot/0x00514128/0x215635/0xe00d73
+msgid "[020] FULTON RECOVERY"
+msgstr "[020] 富尔顿回收"
+
+#: slot/0x00514128/0x215635/0x483dc0
+#: slot/0x00514128/0x215635/0xf70d73
+msgid "[044] Defend Key Supplies"
+msgstr "[044] 防卫重要物资"
+
+#: slot/0x00514128/0x215635/0x483e00
+#: slot/0x00514128/0x215635/0xf80d73
+msgid "SBM031"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x483e40
+#: slot/0x00514128/0x215635/0xf90d73
+msgid "[039] Base Defense"
+msgstr "[039] 基地防卫"
+
+#: slot/0x00514128/0x215635/0x483e80
+#: slot/0x00514128/0x215635/0xfa0d73
+msgid "[041] Base Defense"
+msgstr "[041] 基地防卫"
+
+#: slot/0x00514128/0x215635/0x483ec0
+#: slot/0x00514128/0x215635/0xfb0d73
+msgid "[058] DEFEND KEY SUPPLIES"
+msgstr "[058] 防卫重要物资"
+
+#: slot/0x00514128/0x215635/0x483f00
+#: slot/0x00514128/0x215635/0xfc0d73
+msgid "SBM035"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x483f40
+#: slot/0x00514128/0x215635/0xfd0d73
+msgid "[043] Defend Key Supplies"
+msgstr "[043] 防卫重要物资"
+
+#: slot/0x00514128/0x215635/0x483f80
+#: slot/0x00514128/0x215635/0xfe0d73
+msgid "[042] POW Defense"
+msgstr "[042] 防战俘"
+
+#: slot/0x00514128/0x215635/0x483fc0
+#: slot/0x00514128/0x215635/0xff0d73
+msgid "[038] Base Defense"
+msgstr "[038] 基地防卫"
+
+#: slot/0x00514128/0x215635/0x4855c0
+#: slot/0x00514128/0x215635/0x570d74
+msgid "SBM060"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x485600
+#: slot/0x00514128/0x215635/0x580d74
+msgid "SBM061"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x485640
+#: slot/0x00514128/0x215635/0x590d74
+msgid "[038] ITEM RUNNER"
+msgstr "[038] 运物资"
+
+#: slot/0x00514128/0x215635/0x485680
+#: slot/0x00514128/0x215635/0x5a0d74
+msgid "[073] ONE SHOT"
+msgstr "[073] 一击必杀"
+
+#: slot/0x00514128/0x215635/0x4856c0
+#: slot/0x00514128/0x215635/0x5b0d74
+msgid "[056] One Shot"
+msgstr "[056] 一击必杀"
+
+#: slot/0x00514128/0x215635/0x485700
+#: slot/0x00514128/0x215635/0x5c0d74
+msgid "[075] ONE SHOT"
+msgstr "[075] 一击必杀"
+
+#: slot/0x00514128/0x215635/0x485740
+#: slot/0x00514128/0x215635/0x5d0d74
+msgid "SBM066"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x485780
+#: slot/0x00514128/0x215635/0x5e0d74
+msgid "[078] GHOST PHOTOGRAPHY"
+msgstr "[078] 幽灵摄影"
+
+#: slot/0x00514128/0x215635/0x4857c0
+#: slot/0x00514128/0x215635/0x5f0d74
+msgid "[059] Ghost Photography"
+msgstr "[059] 幽灵摄影"
+
+#: slot/0x00514128/0x215635/0x485800
+#: slot/0x00514128/0x215635/0x600d74
+msgid "[079] GHOST PHOTOGRAPHY"
+msgstr "[079] 幽灵摄影"
+
+#: slot/0x00514128/0x215635/0x485dc0
+#: slot/0x00514128/0x215635/0x770d74
+msgid "[066] Missile Intercept Mission"
+msgstr "[066] 导弹拦截任务"
+
+#: slot/0x00514128/0x215635/0x485e00
+#: slot/0x00514128/0x215635/0x780d74
+msgid "SBM071"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x485e40
+#: slot/0x00514128/0x215635/0x790d74
+msgid "SBM072"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x485e80
+#: slot/0x00514128/0x215635/0x7a0d74
+msgid "[036] Hold Up"
+msgstr "[036] 挟持"
+
+#: slot/0x00514128/0x215635/0x485ec0
+#: slot/0x00514128/0x215635/0x7b0d74
+msgid "[063] Pooyan Mission"
+msgstr "[063] 猪猪任务"
+
+#: slot/0x00514128/0x215635/0x485f00
+#: slot/0x00514128/0x215635/0x7c0d74
+msgid "[065] Pooyan Mission"
+msgstr "[065] 猎猪任务"
+
+#: slot/0x00514128/0x215635/0x485f40
+#: slot/0x00514128/0x215635/0x7d0d74
+msgid "[064] Pooyan Mission"
+msgstr "[064] 猎猪任务"
+
+#: slot/0x00514128/0x215635/0x485f80
+#: slot/0x00514128/0x215635/0x7e0d74
+msgid "[053] Clearing Escape"
+msgstr "[053] 清理逃路"
+
+#: slot/0x00514128/0x215635/0x486000
+#: slot/0x00514128/0x215635/0x800d74
+msgid "SBM079"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x4865c0
+#: slot/0x00514128/0x215635/0x970d74
+msgid "[051] Obstacle Demolition"
+msgstr "[051] 障碍爆破"
+
+#: slot/0x00514128/0x215635/0x486600
+#: slot/0x00514128/0x215635/0x980d74
+msgid "SBM081"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x486640
+#: slot/0x00514128/0x215635/0x990d74
+msgid "[050] PRISONER ESCORT"
+msgstr "[050] 押送俘虏"
+
+#: slot/0x00514128/0x215635/0x486680
+#: slot/0x00514128/0x215635/0x9a0d74
+msgid "[054] Snake Gear Retrieval"
+msgstr "[054] 回收SNAKE装备"
+
+#: slot/0x00514128/0x215635/0x4866c0
+#: slot/0x00514128/0x215635/0x9b0d74
+msgid "[051] PRISONER ESCORT"
+msgstr "[051] 押送俘虏"
+
+#: slot/0x00514128/0x215635/0x486700
+#: slot/0x00514128/0x215635/0x9c0d74
+msgid "SBM085"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x486740
+#: slot/0x00514128/0x215635/0x9d0d74
+msgid "[040] STEALING GEAR"
+msgstr "[040] 窃取装备"
+
+#: slot/0x00514128/0x215635/0x486780
+#: slot/0x00514128/0x215635/0x9e0d74
+msgid "[041] STEALING GEAR"
+msgstr "[041] 窃取装备"
+
+#: slot/0x00514128/0x215635/0x4867c0
+#: slot/0x00514128/0x215635/0x9f0d74
+msgid "[039] STEALING GEAR"
+msgstr "[039] 窃取装备"
+
+#: slot/0x00514128/0x215635/0x486800
+#: slot/0x00514128/0x215635/0xa00d74
+msgid "SBM089"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x486dc0
+#: slot/0x00514128/0x215635/0xb70d74
+msgid "[061] PRISONER ESCORT"
+msgstr "[061] 押送俘虏"
+
+#: slot/0x00514128/0x215635/0x486e00
+#: slot/0x00514128/0x215635/0xb80d74
+msgid "SBM091"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x486e40
+#: slot/0x00514128/0x215635/0xb90d74
+msgid "SBM092"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x486e80
+#: slot/0x00514128/0x215635/0xba0d74
+msgid "[045] Perfect Stealth"
+msgstr "[045] 完全潜行"
+
+#: slot/0x00514128/0x215635/0x486ec0
+#: slot/0x00514128/0x215635/0xbb0d74
+msgid "[050] Perfect Stealth"
+msgstr "[050] 完全潜行"
+
+#: slot/0x00514128/0x215635/0x486f00
+#: slot/0x00514128/0x215635/0xbc0d74
+msgid "[046] Perfect Stealth"
+msgstr "[046] 完全潜行"
+
+#: slot/0x00514128/0x215635/0x486f40
+#: slot/0x00514128/0x215635/0xbd0d74
+msgid "[047] Perfect Stealth"
+msgstr "[047] 完全潜行"
+
+#: slot/0x00514128/0x215635/0x486f80
+#: slot/0x00514128/0x215635/0xbe0d74
+msgid "[049] Perfect Stealth"
+msgstr "[049] 完全潜行"
+
+#: slot/0x00514128/0x215635/0x486fc0
+#: slot/0x00514128/0x215635/0xbf0d74
+msgid "[048] Perfect Stealth"
+msgstr "[048] 完全潜行"
+
+#: slot/0x00514128/0x215635/0x487000
+#: slot/0x00514128/0x215635/0xc00d74
+msgid "SBM099"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x4925c0
+#: slot/0x00514128/0x215635/0x970d77
+msgid "SBM100"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x492600
+#: slot/0x00514128/0x215635/0x980d77
+msgid "SBM101"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x492640
+#: slot/0x00514128/0x215635/0x990d77
+msgid "SBM102"
+msgstr ""
+
+#: slot/0x00514128/0x215635/0x492680
+#: slot/0x00514128/0x215635/0x9a0d77
+msgid "[057] Paparazzi"
+msgstr "[057] 狗仔队"

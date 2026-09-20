@@ -134,6 +134,7 @@ def lint(po_dir=None, lang: int = config.LANG_EN, allow_ruby_drop: bool = False,
     po_dir = po_dir or config.PO_DIR
     rep = Report()
     sources = slots.sources()
+    pixel = slots.pixel_font_refs()      # drawn with the ASCII-only atlas, §15
     # the source is always English; `lang` is the slot being written, and a
     # non-English target only exists for entries that ship that language
     targets = None if lang == config.LANG_EN else set(slots.olang_sources(lang))
@@ -155,7 +156,13 @@ def lint(po_dir=None, lang: int = config.LANG_EN, allow_ruby_drop: bool = False,
                 rep.add(ERROR, "ref", where, str(exc))
                 continue
             if r not in sources:
-                rep.add(ERROR, "ref", where, f"no such slot in the game data: {r}")
+                if r in pixel:
+                    rep.add(WARN, "pixel-font", where,
+                            f"{r} is a pixel-font slot (key.meta == 1) and is "
+                            f"no longer exported; re-run po_export to drop it")
+                else:
+                    rep.add(ERROR, "ref", where,
+                            f"no such slot in the game data: {r}")
             elif sources[r] != e.msgid:
                 rep.add(ERROR, "msgid-drift", where,
                         f"{r}: msgid is not the source text\n"
@@ -169,6 +176,17 @@ def lint(po_dir=None, lang: int = config.LANG_EN, allow_ruby_drop: bool = False,
                     "translation is whitespace only; leave it empty instead")
             continue
         counts["translated"] += 1
+
+        # ANALYSIS/05_font.md §15: key.meta == 1 means the text is drawn with
+        # the 512x512 pixel atlas in Text/*.txp, whose glyphs stop at Latin-1
+        if any(r in pixel for r in e.refs):
+            over = sorted({c for c in e.msgstr if ord(c) > 0xFF})
+            if over:
+                rep.add(ERROR, "pixel-font", where,
+                        f"drawn with the ASCII/Latin-1 pixel atlas in "
+                        f"Text/*.txp, which has no glyph for "
+                        + " ".join(f"U+{ord(c):04X} {c}" for c in over[:5])
+                        + " -- leave this slot English")
 
         _markup(rep, where, e.msgid, e.msgstr, allow_ruby_drop)
         bad = _control_chars(e.msgstr)

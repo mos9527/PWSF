@@ -191,7 +191,20 @@ def rebuild(translations: dict, lang: int = None, outdir: Path = None,
                 comp = zlib.compress(data, level)
                 block = struct.pack("<HHIII", magic, hdr_size, const,
                                     len(comp), len(data)) + comp
-                block += b"\x00" * ((-len(block)) % SECTOR)
+                # Pad back to the record's ORIGINAL sector count. zlib level 9
+                # routinely beats the shipped compressor, so a repacked block
+                # comes out shorter -- and every following record is addressed
+                # by absolute sector, so one shorter block drags all 2,136
+                # later records forward and the file shrinks (132,948 ->
+                # 132,933 sectors on 2026-09-20). Loading a save then hangs on
+                # a black screen. The slot size is a constant: pad, never move.
+                need = rec.stored * SECTOR
+                if len(block) > need:
+                    raise SystemExit(
+                        f"record {rec.index}: repacked block needs "
+                        f"{len(block)} bytes, the slot holds {need} "
+                        f"(translate less of this record, or lower --level)")
+                block += b"\x00" * (need - len(block))
                 block = _xor(block, ks)
                 inflated = len(data)
                 stats["patched"] += 1

@@ -38,8 +38,12 @@ def dump(stem: str, w: int, h: int) -> None:
     over = img.crop((0, 0, w, 800)).resize((w // 4, 200), Image.LANCZOS)
     over.save(OUT / f"_font_{stem}_used.png")
 
-    print(f"  wrote _font_{stem}_crop.png (1:1, top-left) and "
-          f"_font_{stem}_used.png (used region, 1/4 scale)")
+    # whole atlas at half scale: shows the shipped rows AND the free space left
+    img.resize((w // 2, h // 2), Image.LANCZOS).save(OUT / f"_font_{stem}_atlas.png")
+
+    print(f"  wrote _font_{stem}_crop.png (1:1, top-left), "
+          f"_font_{stem}_used.png (used region, 1/4 scale) and "
+          f"_font_{stem}_atlas.png (whole atlas, 1/2 scale)")
 
 
 def main() -> None:

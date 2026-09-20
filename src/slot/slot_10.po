@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PWSF slot 10/26\n"
+"Project-Id-Version: PWSF slot 10/24\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -9,1145 +9,21 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x00001f
-msgid ""
-"Accept our offer, and we wil allow you \n"
-"to retain control of MSF and ZEKE."
-msgstr "接受我们的提议，我们就允许你\n继续掌控MSF和吉克。"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000020
-msgid "That's... an offer?"
-msgstr "这……也算提议？"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000021
-msgid ""
-"The Boss threw down her gun, \n"
-"and with it her life's calling."
-msgstr "THE BOSS扔下枪，\n也扔下一生使命。"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000022
-msgid ""
-"You - her disciple - have never been \n"
-"able to do that. You are too afraid to let go."
-msgstr "你——她的弟子——从来都\n做不到。你太害怕放手。"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000023
-msgid "I was made to fight. I am a gun."
-msgstr "我生来就是为了战斗。我是一把枪。"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000024
-msgid ""
-"Is that so?! Then what do you call this?\n"
-"Is it a gun, too?"
-msgstr "是吗？！那你管这叫什么？\n它也是枪吗？"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000025
-msgid ""
-"You are a lousy liar! Admit it - this thing is \n"
-"a monstrosity, a product of your own fear!"
-msgstr "你撒谎真差！承认吧，这东西\n是怪物，是你恐惧的产物！"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000026
-msgid ""
-"But not Cipher! \n"
-"Cipher thought of something different. "
-msgstr "但Cipher不一样！\nCipher想出了不同的办法。"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000027
-msgid "Cipher's going to control guns."
-msgstr "Cipher要控制枪。"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000028
-msgid "Control guns?"
-msgstr "控制枪？"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000029
-msgid "That is right. Not deter, control. It is the ultimate approach to the illusion of peace..."
-msgstr "没错。不是威慑，是控制。这是通往和平幻象的终极手段……"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x00002a
-msgid "Control power? You're gonna be disappointed."
-msgstr "控制力量？你会失望的。"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x00002b
-msgid "Then we are done! Thank you for playing! "
-msgstr "那就到此为止！感谢游玩！"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x00002c
-msgid ""
-"Better luck next time. The offer is rescinded! \n"
-"And now, the ultimatum."
-msgstr "下次好运。提议作废！\n现在，是最后通牒。"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x00002d
-msgid "ZEKE is already in nuclear strike mode."
-msgstr "吉克已进入核打击模式。"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x00002f
-msgid ""
-"I'm taking the weapon you built and using it\n"
-"to launch a nuclear strike"
-msgstr "我要用你造的武器\n发动核打击"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000030
-msgid "on the east coast of the United States!"
-msgstr "目标是美国东海岸！"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000031
-msgid "You're insane! What are you after?!"
-msgstr "你疯了！你到底想要什么？！"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000032
-msgid "But wait, here is your consolation prize:"
-msgstr "不过等等，这是你的安慰奖："
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000033
-msgid ""
-"We are about to show the world just \n"
-"how dangerous a gang of outlaws"
-msgstr "我们即将向世界展示\n一群亡命之徒"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000034
-msgid " - an army without borders - can be!"
-msgstr "——一支无国界的军队——能有多危险！"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000035
-msgid ""
-"You and your men will become pariahs,\n"
-"and you will be wiped off the face of the earth."
-msgstr "你和你的手下将成为贱民，\n被从地球上抹去。"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000036
-msgid ""
-"Rather than heroes, you will be seen \n"
-"as a well-armed, extremist cult"
-msgstr "你们不会被当英雄，\n而是武装精良的极端教派"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000037
-msgid ""
-"prone to indiscriminate outbursts \n"
-"of nuclear aggression."
-msgstr "动辄发动不分青红皂白的\n核侵略。"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000038
-msgid "You will give rise to a new world order, "
-msgstr "你们将催生新世界秩序，"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000039
-msgid ""
-"an age of deterrence defined by its fear of\n"
-"extremist cult influence."
-msgstr "一个恐惧极端教派影响力的\n威慑时代。"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x00003a
-msgid "Do you like the picture I am painting, Big Boss?!"
-msgstr "喜欢我画的这幅图吗，BIG BOSS？！"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x00003b
-msgid ""
-"When all is said and done, \n"
-"peace is nothing but a fantasy! "
-msgstr "说到底，\n和平不过是幻想！"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x00003c
-msgid "A game's a game! You either win or you lose!"
-msgstr "游戏就是游戏！不是赢就是输！"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x00003d
-msgid "All you can do is fight!"
-msgstr "你只能战斗！"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x00003e
-#: slot/0x00db94df/0x3564e1/0x000000
-msgid "Stop me if you can!"
-msgstr "有本事就来阻止我！"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x00003f
-msgid "The peace sign is the \"V\" of victory!"
-msgstr "和平手势就是胜利的\"V\"！"
-
-#. comic cutscene
-#: slot/0x003b05ed/0x52eb7f/0x000040
-msgid "Say PEACE!"
-msgstr "说\"和平\"！"
-
-#. comic cutscene
-#: slot/0x003b060d/0x39a173/0x000000
-msgid "It is no use, ZEKE is out of my control. "
-msgstr "没用，吉克不受我控了。"
-
-#. comic cutscene
-#: slot/0x003b060d/0x39a173/0x000001
-msgid "This is where it ends."
-msgstr "到此为止了。"
-
-#. comic cutscene
-#: slot/0x003b060d/0x39a173/0x000002
-msgid "Listen to me, Big Boss... "
-msgstr "听我说，BIG BOSS……"
-
-#. comic cutscene
-#: slot/0x003b060d/0x39a173/0x000003
-msgid ""
-"As long as your army is needed,\n"
-"the world will never know true peace."
-msgstr "只要还需要你的军队，\n世界就永无真正和平。"
-
-#. comic cutscene
-#: slot/0x003b060d/0x39a173/0x000004
-msgid ""
-"The peace you will know will be fleeting - illusory.\n"
-"They will use you, disgrace you, "
-msgstr "你所知的和平转瞬即逝——虚幻不实。\n他们会利用你，羞辱你，"
-
-#. comic cutscene
-#: slot/0x003b060d/0x39a173/0x000005
-msgid ""
-"and then, finally, discard you \n"
-"like they would a cancer to society."
-msgstr "最后，像丢弃社会的毒瘤一样\n将你抛弃。"
-
-#. comic cutscene
-#: slot/0x003b060d/0x39a173/0x000006
-msgid "This is the path you have chosen!"
-msgstr "这就是你选择的道路！"
-
-#. comic cutscene
-#: slot/0x003b060d/0x39a173/0x000007
-msgid "Paz..."
-msgstr "帕兹……"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x000000
-msgid "How's it going?"
-msgstr "怎么样？"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x000001
-msgid "How's ZEKE look?"
-msgstr "吉克怎样？"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x000002
-msgid ""
-"The attitude control AI had a backup,\n"
-"so... it should be able to walk."
-msgstr "姿态控制AI有备份，\n所以……应该能走。"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x000003
-msgid "Really... That's good."
-msgstr "是吗……那太好了。"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x000004
-msgid "Beyond that, it's up to the creator..."
-msgstr "此外就看创造者了……"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x000005
-msgid "Stop!"
-msgstr "站住！"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x000006
-msgid "Don't come any closer, doctor."
-msgstr "别再靠近了，博士。"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x000007
-msgid "There's something I've been meaning to ask you..."
-msgstr "有件事我一直想问你……"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x000008
-msgid "Do you..."
-msgstr "你……"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x000009
-msgid "do you despise me?"
-msgstr "你讨厌我吗？"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x00000a
-msgid "Doctor, are you asking me out?"
-msgstr "医生，你是在约我吗？"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x00000b
-msgid "No no, not at all..."
-msgstr "不不，完全不是……"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x00000c
-msgid "No?"
-msgstr "不是吗？"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x00000d
-msgid "Pity..."
-msgstr "真遗憾……"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x00000e
-msgid ""
-"Because I've just had \n"
-"my heart broken by someone else."
-msgstr "因为我刚被别人\n伤了心。"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x000010
-msgid "I only like those who can stand on their own."
-msgstr "我只喜欢能独立自主的人。"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x000011
-msgid "If you fancy me, then come walk with me."
-msgstr "要是你中意我，就跟我来吧。"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x000012
-msgid "Who knows what miracles might happen?"
-msgstr "谁知道会发生什么奇迹呢？"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x000013
-msgid "Love is blind, after all."
-msgstr "毕竟爱情盲目。"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x000014
-msgid "Take your time... "
-msgstr "慢慢来……"
-
-#. comic cutscene
-#: slot/0x003b0612/0x79a1a9/0x000015
-msgid "I'll be waiting..."
-msgstr "我会等你的……"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x000000
-msgid "Meow! Don't point that funky weapon at me-ow!"
-msgstr "喵！别拿那怪武器指着我喵！"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x000001
-msgid "A talking cat...?"
-msgstr "会说话的猫……？"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x000002
-msgid ""
-"Hey, you wouldn't happen to be a hunter, \n"
-"would you?"
-msgstr "嘿，你该不会正好是个猎人吧，\n对吧？"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x000003
-msgid "Me, I'm Trenya. Purr-eased to meet you."
-msgstr "我叫Trenya，幸会喵。"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x000004
-msgid "Trenya?"
-msgstr "Trenya？"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x000005
-msgid "That's what I said. If you're a hunter,"
-msgstr "没错。如果你是猎人，"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x000006
-msgid ""
-"I can take you to an island \n"
-"where there're lots of rare creatures."
-msgstr "我能带你去一座\n有很多稀有生物的岛。"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x000007
-msgid "I bet you'd get a kick out of hunting them, meow."
-msgstr "我打赌你一定会猎得很过瘾，喵。"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x000008
-msgid "Creatures...? Even rarer than a talking cat?"
-msgstr "生物？比会说话的猫还稀有？"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x000009
-msgid ""
-"Nothing gets by you...\n"
-"But, no! There're even bigger ones on the island. "
-msgstr "瞒不过你……\n不过不对！岛上还有更大的家伙。"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x00000a
-msgid "Huge monsters, meow!"
-msgstr "大怪物，喵！"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x00000b
-msgid "Monsters?!"
-msgstr "怪物？"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x00000c
-msgid "A hunter like you can't possibly pass this up!"
-msgstr "你这样的猎人绝不会错过！"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x00000d
-msgid "Sorry, kitty, but I'm no hunter."
-msgstr "抱歉，小猫，我不是猎人。"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x00000e
-msgid "Whaa?! Oh, man... "
-msgstr "啥？！天哪……"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x00000f
-msgid ""
-"I saw that killer look in your eye and thought \n"
-"you were special somehow, meow."
-msgstr "我看到你眼中的杀意，还以为 \n你有多特别呢，喵。"
-
-#. comic cutscene
-#: slot/0x003b090d/0x32ad74/0x000010
-msgid "...Not exactly ordinary yourself."
-msgstr "……你也不普通。"
-
-#. comic cutscene
-#: slot/0x003b090d/0x82ad76/0x000000
-msgid ""
-"Sigh... Over hill and over dale, \n"
-"through rain and snow"
-msgstr "唉……翻山越岭，\n风雨无阻"
-
-#. comic cutscene
-#: slot/0x003b090d/0x82ad76/0x000001
-msgid ""
-"I come all the way out here \n"
-"from Pokke Farm to find work,"
-msgstr "我从波凯农场大老远跑来\n找活干，"
-
-#. comic cutscene
-#: slot/0x003b090d/0x82ad76/0x000002
-msgid "and not a single customer so far... "
-msgstr "结果到现在一个客人也没有……"
-
-#. comic cutscene
-#: slot/0x003b090d/0x82ad76/0x000003
-msgid "Not to be rude, but I've got things to do."
-msgstr "不是失礼，但我还有事忙。"
-
-#. comic cutscene
-#: slot/0x003b090d/0x82ad76/0x000004
-msgid ""
-"So if you need someone to go monster hunting\n"
-"with you, find someone else."
-msgstr "所以你要是想找人陪你猎怪，\n另请高明吧。"
-
-#. comic cutscene
-#: slot/0x003b090d/0x82ad76/0x000005
-msgid "Wait! At least listen to my sales pitch, meow!"
-msgstr "等等！至少听听我的推销嘛，喵！"
-
-#. comic cutscene
-#: slot/0x003b090d/0x82ad76/0x000006
-msgid "...Fine..."
-msgstr "……好吧……"
-
-#. comic cutscene
-#: slot/0x003b090d/0xa2ad77/0x000000
-msgid "On that island, there are undiscovered monsters that drop amazing stuff when you beat 'em."
-msgstr "那座岛上有没被发现的怪物，打倒它们能掉超棒的东西。"
-
-#. comic cutscene
-#: slot/0x003b090d/0xa2ad77/0x000001
-msgid "Stuff that's sure to be purr-ty handy... "
-msgstr "那些东西肯定超好用……"
-
-#. comic cutscene
-#: slot/0x003b090d/0xa2ad77/0x000002
-msgid "If you decide you want to have a look for yourself, select \"Hunting Quest\" from the Mission Select screen, meow."
-msgstr "如果你决定想亲自去看看，在任务选择画面选“狩猎任务”，喵。"
-
-#. comic cutscene
-#: slot/0x003b090d/0xa2ad77/0x000003
-msgid "I'll come and ferry you over."
-msgstr "我会来接你过去。"
-
-#. comic cutscene
-#: slot/0x003b090d/0xb2ad90/0x000000
-msgid "Sounds purrrfect!"
-msgstr "太完美了！"
-
-#. comic cutscene
-#: slot/0x003b090d/0xb2ad90/0x000001
-msgid ""
-"Now you're speaking my language, meow!\n"
-"You and me are gonna get along great. "
-msgstr "这才对嘛，喵！\n咱俩肯定合得来。"
-
-#. comic cutscene
-#: slot/0x003b090d/0xb2ad90/0x000002
-msgid ""
-" So, anytime you want to go on a Hunting Quest,\n"
-"just give me a holler."
-msgstr "所以，你想去狩猎任务的时候，\n喊我一声就行。"
-
-#. comic cutscene
-#: slot/0x003b090d/0xb2ad90/0x000003
-msgid "Ta ta for meow!"
-msgstr "喵喵再见！"
-
-#. comic cutscene
-#: slot/0x003b092d/0x32adf2/0x000000
-msgid "Sorry to keep you waiting, meow."
-msgstr "抱歉让你久等了，喵。"
-
-#. comic cutscene
-#: slot/0x003b092d/0x32adf2/0x000001
-msgid "It's about time. Let's go, Trenya! "
-msgstr "时候到了。走吧，Trenya！"
-
-#: slot/0x003b3a9a/0x5b8888/0xa62240
-msgid "Camera Controls: Up/Down"
-msgstr "镜头操作：上/下"
-
-#: slot/0x003b3a9a/0x5b8889/0xa62240
-msgid "Camera Control Settings: Up/Down"
-msgstr "镜头操作设置：上/下"
-
-#: slot/0x003b3a9a/0x5b888a/0xa62240
-msgid "Camera Controls: Left/Right "
-msgstr "镜头操作：左/右"
-
-#: slot/0x003b3a9a/0x5b888b/0xa62240
-msgid "Camera Control Settings: Left/Right"
-msgstr "镜头操作设置：左/右"
-
-#: slot/0x003b3a9a/0x5b888c/0xa62240
-msgid "Change Stance: Stand, Crouch, Lie Down"
-msgstr "切换姿态：站、蹲、卧"
-
-#: slot/0x003b3a9a/0x5b888d/0xa62240
-msgid "Movement"
-msgstr "移动"
-
-#: slot/0x003b3a9a/0x5b888e/0xa62240
-msgid "Rolling"
-msgstr "翻滚"
-
-#: slot/0x003b3a9a/0x5b888f/0xa62240
-msgid "Physical Attack"
-msgstr "近身攻击"
-
-#: slot/0x003b3a9a/0x5b8890/0xa62240
-#: slot/0x0052e4f8/0x2d3090/0x000001
-msgid "Stun Rod"
-msgstr "电棒"
-
-#: slot/0x003b3a9a/0x5b88a7/0xa62240
-msgid "CQC: Throw"
-msgstr "CQC：摔"
-
-#: slot/0x003b3a9a/0x5b88a8/0xa62240
-msgid "CQC: Restraint"
-msgstr "CQC：拘束"
-
-#: slot/0x003b3a9a/0x5b88a9/0xa62240
-msgid "CQC: Restraint, Chokehold"
-msgstr "CQC：拘束、锁喉"
-
-#: slot/0x003b3a9a/0x5b88aa/0xa62240
-msgid "CQC: Restraint, Interrogation"
-msgstr "CQC：拘束、审问"
-
-#: slot/0x003b3a9a/0x5b88ab/0xa62240
-msgid "CQC: Restraint, Throw"
-msgstr "CQC：拘束、投摔"
-
-#: slot/0x003b3a9a/0x5b88ac/0xa62240
-msgid "CQC: Restraint, Throw toward enemies"
-msgstr "CQC：拘束、摔向敌人"
-
-#: slot/0x003b3a9a/0x5b88ad/0xa62240
-msgid "Consecutive CQC"
-msgstr "连续CQC"
-
-#: slot/0x003b3a9a/0x5b88ae/0xa62240
-msgid "Free Control Time"
-msgstr "自由操作时间"
-
-#: slot/0x00401dd3/0x77d931/0x012238
-#: slot/0x00401dd3/0x77d931/0x23caae
-#: slot/0x00401dd3/0x77d931/0x6d1812
-#: slot/0x00401dd3/0x77d931/0x6d1813
-#: slot/0x00401dd3/0x77d931/0x6d1814
-#: slot/0x00401dd3/0x77d931/0x88e636
-#: slot/0x00401dd3/0x77d931/0x88e637
-#: slot/0x00401dd3/0x77d931/0x88e638
-#: slot/0x00401dd3/0x77d931/0x88e639
-#: slot/0x00401dd3/0x77d931/0xc65a38
-msgid "FOX UNIT Member"
-msgstr "FOX部队成员"
-
-#: slot/0x00401dd3/0x77d931/0x01487a
-msgid "High School Student"
-msgstr "高中生"
-
-#: slot/0x00401dd3/0x77d931/0x05ce7e
-#: slot/0x00401dd3/0x77d931/0x39fe49
-#: slot/0x00401dd3/0x77d931/0x39fe4a
-msgid "UNIQLO Trooper"
-msgstr "UNIQLO士兵"
-
-#: slot/0x00401dd3/0x77d931/0x070244
-msgid "Researcher"
-msgstr "研究员"
-
-#: slot/0x00401dd3/0x77d931/0x0b58fc
-msgid "Game Designer"
-msgstr "游戏设计"
-
-#: slot/0x00401dd3/0x77d931/0x0bd2aa
-msgid "Nurse"
-msgstr "护士"
-
-#: slot/0x00401dd3/0x77d931/0x0df26d
-msgid "Industrial Spy"
-msgstr "商业间谍"
-
-#: slot/0x00401dd3/0x77d931/0x12dabf
-msgid "Doctor"
-msgstr "医生"
-
-#: slot/0x00401dd3/0x77d931/0x152f61
-msgid "(不要)AIヘリ"
-msgstr "(不要)AI直升机"
-
-#: slot/0x00401dd3/0x77d931/0x16c8ac
-msgid "Nutritionist"
-msgstr "营养师"
-
-#: slot/0x00401dd3/0x77d931/0x1b1ee3
-msgid "(不要)AIタンク"
-msgstr "(不要)AI坦克"
-
-#: slot/0x00401dd3/0x77d931/0x1bbfec
-msgid "Spy"
-msgstr "间谍"
-
-#: slot/0x00401dd3/0x77d931/0x22c62b
-msgid "Cook"
-msgstr "厨师"
-
-#: slot/0x00401dd3/0x77d931/0x255cf9
-msgid "Bipedal Weapon Developer"
-msgstr "双足兵器开发者"
-
-#: slot/0x00401dd3/0x77d931/0x2ac619
-msgid "Music Trooper"
-msgstr "音乐兵"
-
-#: slot/0x00401dd3/0x77d931/0x37618c
-msgid "KGB Agent"
-msgstr "特工"
-
-#: slot/0x00401dd3/0x77d931/0x53ac8e
-#: slot/0x0056a63d/0x954c25/0x0001bc
-msgid "Mechanic"
-msgstr "技工"
-
-#: slot/0x00401dd3/0x77d931/0x548c8c
-#: slot/0x0056a63d/0x954c25/0x0001b6
-msgid "Scout"
-msgstr "侦察兵"
-
-#: slot/0x00401dd3/0x77d931/0x552cb3
-msgid "Child Soldier"
-msgstr "童子兵"
-
-#: slot/0x00401dd3/0x77d931/0x580daa
-msgid "Big Boss"
-msgstr "BIG BOSS"
-
-#: slot/0x00401dd3/0x77d931/0x59abf5
-msgid "(不要)中ボスヘリ"
-msgstr "(不要)中ボスヘリ"
-
-#: slot/0x00401dd3/0x77d931/0x5f9b77
-msgid "(不要)中ボス戦車"
-msgstr "(不要)中ボス戦車"
-
-#: slot/0x00401dd3/0x77d931/0x62b8dd
-msgid "(不要)中ボス装甲車"
-msgstr "(不要)中ボス装甲車"
-
-#: slot/0x00401dd3/0x77d931/0x6747b0
-msgid "AI Researcher"
-msgstr "AI研究员"
-
-#: slot/0x00401dd3/0x77d931/0x6a46b2
-msgid "Elite Commando"
-msgstr "精英突击"
-
-#: slot/0x00401dd3/0x77d931/0x6ade44
-msgid "Veteran Voice Actor"
-msgstr "资深配音演员"
-
-#: slot/0x00401dd3/0x77d931/0x6b0d2f
-#: slot/0x0056a63d/0x954c25/0x0001b8
-msgid "Commando"
-msgstr "突击"
-
-#: slot/0x00401dd3/0x77d931/0x6bd5c0
-msgid "Sharpshooter"
-msgstr "狙击手"
-
-#: slot/0x00401dd3/0x77d931/0x72ae4f
-msgid "Ornithologist"
-msgstr "鸟类学家"
-
-#: slot/0x00401dd3/0x77d931/0x74af6c
-msgid "New Voice Actor"
-msgstr "新配音员"
-
-#: slot/0x00401dd3/0x77d931/0x7b8236
-#: slot/0x0056a63d/0x22af99/0x00019a
-#: slot/0x00b4d9c8/0x4e7980/0x00019a
-msgid "UT(N425A)"
-msgstr ""
-
-#: slot/0x00401dd3/0x77d931/0x7b8237
-#: slot/0x0056a63d/0x22af99/0x00019b
-#: slot/0x00b4d9c8/0x4e7980/0x00019b
-msgid "UT(N425B)"
-msgstr ""
-
-#: slot/0x00401dd3/0x77d931/0x7b8238
-#: slot/0x0056a63d/0x22af99/0x00019c
-#: slot/0x00b4d9c8/0x4e7980/0x00019c
-msgid "UT(N425C)"
-msgstr ""
-
-#: slot/0x00401dd3/0x77d931/0x7b8239
-msgid "UT(N425D - NAVY BLUE)"
-msgstr "UT(N425D - NAVY BLUE)"
-
-#: slot/0x00401dd3/0x77d931/0x7b823a
-msgid "UT(N425E - WHITE)"
-msgstr "UT(N425E - WHITE)"
-
-#: slot/0x00401dd3/0x77d931/0x7b823b
-msgid "UT(N425E - BLACK)"
-msgstr "UT(N425E - BLACK)"
-
-#: slot/0x00401dd3/0x77d931/0x7b823c
-#: slot/0x0056a63d/0x22af99/0x0001a0
-#: slot/0x00b4d9c8/0x4e7980/0x0001a0
-msgid "UT(N425F)"
-msgstr ""
-
-#: slot/0x00401dd3/0x77d931/0x7b823d
-msgid "UT(N425G - GRAY)"
-msgstr "UT(N425G - GRAY)"
-
-#: slot/0x00401dd3/0x77d931/0x7b823e
-msgid "UT(N425H - WHITE)"
-msgstr "UT(N425H - WHITE)"
-
-#: slot/0x00401dd3/0x77d931/0x7b8255
-msgid "UT(N425H - RED)"
-msgstr "UT(N425H - RED)"
-
-#: slot/0x00401dd3/0x77d931/0x7b8256
-#: slot/0x0056a63d/0x22af99/0x0001a4
-#: slot/0x00b4d9c8/0x4e7980/0x0001a4
-msgid "UT(N425J)"
-msgstr ""
-
-#: slot/0x00401dd3/0x77d931/0x7b8257
-#: slot/0x0056a63d/0x22af99/0x0001a5
-#: slot/0x00b4d9c8/0x4e7980/0x0001a5
-msgid "UT(N425L)"
-msgstr ""
-
-#: slot/0x00401dd3/0x77d931/0x7b8258
-msgid "UT(N425D - GRAY)"
-msgstr "UT(N425D - GRAY)"
-
-#: slot/0x00401dd3/0x77d931/0x7b8259
-msgid "UT(N425G - WHITE)"
-msgstr "UT(N425G - 白)"
-
-#: slot/0x00401dd3/0x77d931/0x7da4d0
-msgid "Commander"
-msgstr "指挥官"
-
-#: slot/0x00401dd3/0x77d931/0x8f73aa
-msgid "Guerrilla"
-msgstr "游击"
-
-#: slot/0x00401dd3/0x77d931/0xaafbf4
-msgid "(不要)AIホバー"
-msgstr "(不要)AI悬浮"
-
-#: slot/0x00401dd3/0x77d931/0xb48db9
-msgid "Medical Researcher"
-msgstr "医学研究员"
-
-#: slot/0x00401dd3/0x77d931/0xb73990
-msgid "MSF Subcommander"
-msgstr "MSF副指挥官"
-
-#: slot/0x00401dd3/0x77d931/0xb94872
-msgid "Infantry"
-msgstr "步兵"
-
-#: slot/0x00401dd3/0x77d931/0xba5904
-msgid "Engineer"
-msgstr "工程"
-
-#: slot/0x00401dd3/0x77d931/0xbb6edf
-msgid "Supply Soldier"
-msgstr "补给兵"
-
-#: slot/0x00401dd3/0x77d931/0xd0f903
-msgid "Food Technician"
-msgstr "食品技师"
-
-#: slot/0x00401dd3/0x77d931/0xf1c147
-msgid "FSLN Commander"
-msgstr "FSLN指挥官"
-
-#: slot/0x00401dd3/0x77d931/0xf39967
-msgid "Medic"
-msgstr "医"
-
-#: slot/0x00401dd3/0x77d931/0xf850e0
-msgid "(不要)バジリスク"
-msgstr "(不要)蛇怪"
-
-#: slot/0x00401dd3/0x77d931/0xfa75bf
-msgid "Actress"
-msgstr "女演"
-
-#: slot/0x00401dd3/0x77d931/0xfa75c0
-msgid "(不要)コラボ兵02"
-msgstr ""
-
-#: slot/0x00401dd3/0x77d931/0xfa75c1
-msgid "(不要)コラボ兵03"
-msgstr ""
-
-#: slot/0x00420130/0x62697d/0x000000
-msgid "Begin!"
-msgstr "开始！"
-
-#: slot/0x00420130/0x626afd/0x000000
-msgid "Again!"
-msgstr "再来！"
-
-#: slot/0x00420130/0x626b7d/0x000000
-msgid "Good!"
-msgstr "很好！"
-
-#: slot/0x00420130/0x626bfd/0x000000
-msgid "That's it!"
-msgstr "就这样"
-
-#: slot/0x00420130/0x626c7d/0x000000
-msgid "I'll explain it again!"
-msgstr "我再说明一次！"
-
-#: slot/0x00420130/0x6277fd/0x000000
-#: slot/0x00dff0a5/0xa84a6a/0x00003b
-msgid "What are you doing!"
-msgstr "你在干什么！"
-
-#: slot/0x00420130/0x6278fd/0x000000
-msgid "Boss, please follow my directions."
-msgstr "BOSS，请按我的指示做。"
-
-#: slot/0x00420130/0x6279fd/0x000000
-msgid "Please try it again, Boss."
-msgstr "请再试一次，BOSS。"
-
-#: slot/0x00420130/0x627a7d/0x000000
-msgid "That is incorrect, Boss."
-msgstr "不对，BOSS。"
-
-#: slot/0x00420130/0x627afd/0x000000
-msgid "Umm... Boss?"
-msgstr "呃……BOSS？"
-
-#: slot/0x00420130/0x627b7d/0x000000
-#: slot/0x00420130/0x628c7d/0x000000
-#: slot/0x00420130/0x64b7fd/0x000000
-msgid "Thank you, Boss."
-msgstr "谢了，BOSS"
-
-#: slot/0x00420130/0x627bfd/0x000000
-msgid "Impressive, Boss!"
-msgstr "漂亮，BOSS！"
-
-#: slot/0x00420130/0x62887d/0x000000
-msgid "Fantastic!"
-msgstr "太棒了！"
-
-#: slot/0x00420130/0x6289fd/0x000000
-msgid "Moving on."
-msgstr "继续。"
-
-#: slot/0x00420130/0x628a7d/0x000001
-msgid "Time to move on."
-msgstr "该继续了。"
-
-#: slot/0x00420130/0x628bfd/0x000000
-msgid "Fine work, Boss."
-msgstr "干得好，BOSS。"
-
-#: slot/0x00420130/0x6297fd/0x000000
-msgid ""
-"Look alive, ladies! \n"
-"The Boss is gonna join us! "
-msgstr "打起精神，姑娘们！\nBOSS要来了！"
-
-#: slot/0x00420130/0x62987d/0x000000
-msgid "Show 'em how it's done, Boss."
-msgstr "让她们见识下，BOSS。"
-
-#: slot/0x00420130/0x6298fd/0x000000
-msgid ""
-"Your first priority in enemy \n"
-"territory is knowing your surroundings."
-msgstr "在敌区首要之事\n是掌握周围环境。"
-
-#: slot/0x00420130/0x6298fd/0x000001
-msgid ""
-"Your life depends on where you are looking\n"
-"and how fast you can identify your target."
-msgstr "你的命取决于你看向哪里\n以及多快锁定目标。"
-
-#: slot/0x00420130/0x6298fd/0x000002
-msgid ""
-"Therefore, you must first \n"
-"master moving your line of sight."
-msgstr "因此，你必须先\n掌握移动视线。"
-
-#: slot/0x00420130/0x62997d/0x000000
-msgid ""
-"To move your line of sight, \n"
-"use the Camera Buttons."
-msgstr "移动视线，\n使用镜头键。"
-
-#: slot/0x00420130/0x62997d/0x000001
-msgid ""
-"Now, when I give you an order, \n"
-"look in that direction."
-msgstr "现在，我下令时，\n就朝那个方向看。"
-
-#: slot/0x00420130/0x6299fd/0x000000
-msgid "Look up!"
-msgstr "往上看！"
-
-#: slot/0x00420130/0x629a7d/0x000000
-msgid "Look down!"
-msgstr "往下看！"
-
-#: slot/0x00420130/0x629afd/0x000000
-msgid "Look left!"
-msgstr "往左看！"
-
-#: slot/0x00420130/0x629b7d/0x000000
-msgid "Look right!"
-msgstr "往右看！"
-
-#: slot/0x00420130/0x629bfd/0x000000
-#: slot/0x00420130/0x629c7d/0x000000
-#: slot/0x00a57090/0x12908e/0x0001ae
-#: slot/0x00b9708c/0xa8181d/0x000007
-msgid "What's wrong?"
-msgstr "怎么了？"
-
-#: slot/0x00420130/0x629bfd/0x000001
-msgid ""
-"Use the up and down Camera Buttons \n"
-"to move your line of sight!"
-msgstr "用上下镜头键\n移动视线！"
-
-#: slot/0x00420130/0x629c7d/0x000001
-msgid ""
-"Use the right and left Camera Buttons \n"
-"to move your line of sight!"
-msgstr "用左右镜头键\n移动视线！"
-
-#: slot/0x00420130/0x62a7fd/0x000000
-#: slot/0x00420130/0x62a87d/0x000000
-#: slot/0x00420130/0x6458fe/0x000000
-#: slot/0x00420130/0x6468fd/0x000000
-#: slot/0x00420130/0x6468fe/0x000000
-#: slot/0x00420130/0x64ab7e/0x000000
-msgid "Boss, "
-msgstr "BOSS，"
-
-#: slot/0x00420130/0x62a7fd/0x000001
-msgid ""
-"use the up and down Camera Buttons \n"
-"to move your line of sight.  "
-msgstr "用上下镜头键\n移动视线。"
-
-#: slot/0x00420130/0x62a87d/0x000001
-msgid ""
-"use the left and right Camera Buttons \n"
-"to move your line of sight.  "
-msgstr "用左右镜头键\n移动视线。"
-
-#: slot/0x00420130/0x62a8fd/0x000000
-msgid ""
-"You should be familiar with the up \n"
-"and down Camera Buttons now."
-msgstr "你现在应该熟悉\n上下镜头键了。"
-
-#: slot/0x00420130/0x62a8fd/0x000001
-#: slot/0x00420130/0x62a97d/0x000001
-msgid ""
-"Press the Action Button \n"
-"if you're ready to move on."
-msgstr "准备好了就按动作键\n继续。"
-
-#: slot/0x00420130/0x62a97d/0x000000
-msgid ""
-"You should be familiar with \n"
-"the left and right Camera Buttons now."
-msgstr "你现在应该熟悉\n左右镜头键了。"
-
-#: slot/0x00420130/0x62b7fd/0x000000
-msgid "Next we'll check your left and right."
-msgstr "接下来测试你的左右操作。"
-
-#: slot/0x00420130/0x62b87d/0x000000
-msgid "Now we'll check your up and down."
-msgstr "测上下操作。"
-
-#: slot/0x00420130/0x62b8fd/0x000000
-msgid ""
-"Alright, we'll go over up and down with\n"
-"the Camera Buttons one more time. "
-msgstr "好，我们再用\n镜头键过一遍上下操作。"
-
-#: slot/0x00420130/0x62b97d/0x000000
-msgid ""
-"Alright, we'll go over left and right with\n"
-"the Camera Buttons one more time. "
-msgstr "好，我们再用\n镜头键过一遍左右操作。"
-
-#: slot/0x00420130/0x62b9fd/0x000000
-msgid ""
-"You can change the controls anytime \n"
-"in Options. "
-msgstr "你可以随时在\n设置里更改操作方式。"
-
-#: slot/0x00420130/0x62ba7d/0x000000
-msgid ""
-"Go with the method that works \n"
-"best for you."
-msgstr "选最适合你的\n方式就行。"
-
-#: slot/0x00420130/0x62bafd/0x000000
-msgid "Okay."
-msgstr "明白。"
-
-#: slot/0x00420130/0x62bb7d/0x000000
-msgid "Next I'll explain how to change stances."
-msgstr "接下来说明如何切换姿势。"
-
-#: slot/0x00420130/0x62bb7d/0x000001
-msgid ""
-"If you just stand there \n"
-"like an idiot in front of an enemy, "
-msgstr "要是你像个傻瓜一样\n站在敌人面前，"
-
-#: slot/0x00420130/0x62bb7d/0x000002
-msgid "you might as well kill yourself now. "
-msgstr "那还不如现在就自杀。"
-
-#: slot/0x00420130/0x62bb7d/0x000003
-msgid ""
-"At times you will need to \n"
-"get low to avoid detection. "
-msgstr "有时你需要\n压低身位来躲避侦查。"
-
-#: slot/0x00420130/0x62bb7d/0x000004
-msgid ""
-"You have three stances: \n"
-"stand, crouch, and lying down."
-msgstr "共有三种姿势：\n站、蹲、卧。"
-
-#: slot/0x00420130/0x62bb7d/0x000005
-msgid ""
-"To change stances use \n"
-"the Crouch Button. "
-msgstr "用\n蹲伏键切换姿势。"
-
-#: slot/0x00420130/0x62bb7d/0x000006
-msgid ""
-"Tap the Crouch Button to change \n"
-"between standing and crouching."
-msgstr "轻按蹲伏键切换\n站立与蹲伏。"
-
-#: slot/0x00420130/0x62bb7d/0x000007
-msgid "You can move in either stance."
-msgstr "两种姿势都能移动。"
-
 #: slot/0x00420130/0x62bb7d/0x000008
 msgid ""
 "Hold the Crouch Button \n"
 "and keep it held to lie down."
-msgstr "按住蹲伏键\n不放即可卧倒。"
+msgstr ""
+"按住蹲伏键\n"
+"不放即可卧倒。"
 
 #: slot/0x00420130/0x62bb7d/0x000009
 msgid ""
 "However, you cannot move \n"
 "while you are lying down."
-msgstr "但卧倒时\n无法移动。"
+msgstr ""
+"但卧倒时\n"
+"无法移动。"
 
 #: slot/0x00420130/0x62bb7d/0x00000a
 msgid "I'll say that again!"
@@ -1157,7 +33,9 @@ msgstr "我再说一遍！"
 msgid ""
 "You cannot move while lying down! \n"
 "Is that clear?"
-msgstr "卧倒时无法移动！\n听清楚了吗？"
+msgstr ""
+"卧倒时无法移动！\n"
+"听清楚了吗？"
 
 #: slot/0x00420130/0x62bbfd/0x000000
 msgid "Crouch!"
@@ -1172,13 +50,17 @@ msgstr "你在干什么？"
 msgid ""
 "Use the Crouch Button \n"
 "to change your stance! "
-msgstr "用蹲伏键\n切换姿势！"
+msgstr ""
+"用蹲伏键\n"
+"切换姿势！"
 
 #: slot/0x00420130/0x62c8fd/0x000000
 msgid ""
 "Boss, change your stance \n"
 "with the Crouch Button!"
-msgstr "BOSS，用蹲伏键\n切换姿势！"
+msgstr ""
+"BOSS，用蹲伏键\n"
+"切换姿势！"
 
 #: slot/0x00420130/0x62c97d/0x000000
 msgid "Next we'll work on your movement."
@@ -1192,19 +74,25 @@ msgstr "用摇杆移动。"
 msgid ""
 "Tilt it a little to walk slowly, \n"
 "tilt it farther to run."
-msgstr "轻推摇杆慢走，\n推到底则奔跑。"
+msgstr ""
+"轻推摇杆慢走，\n"
+"推到底则奔跑。"
 
 #: slot/0x00420130/0x62c97d/0x000003
 msgid ""
 "Decide which to use \n"
 "based on your situation."
-msgstr "根据情况\n选择使用。"
+msgstr ""
+"根据情况\n"
+"灵活选用。"
 
 #: slot/0x00420130/0x62c97d/0x000004
 msgid ""
 "Remember that your footsteps are louder\n"
 "when running, making you easier to discover."
-msgstr "记住奔跑时脚步声更大，\n更容易被发现。"
+msgstr ""
+"记住，跑步时脚步声更大，\n"
+"更容易被发现。"
 
 #: slot/0x00420130/0x62c97d/0x000005
 msgid "Be careful!"
@@ -1218,13 +106,17 @@ msgstr "跑"
 msgid ""
 "What now? \n"
 "Use the analog stick to move! "
-msgstr "怎么了？\n用摇杆移动！"
+msgstr ""
+"怎么了？\n"
+"用摇杆移动！"
 
 #: slot/0x00420130/0x62cb7d/0x000000
 msgid ""
 "Boss, you can use \n"
 "the analog stick to move!"
-msgstr "BOSS，可以用\n摇杆移动！"
+msgstr ""
+"BOSS，可以用\n"
+"摇杆移动！"
 
 #: slot/0x00420130/0x62cbfd/0x000000
 #: slot/0x00420130/0x62cbfe/0x000000
@@ -1236,7 +128,9 @@ msgstr "会翻滚了"
 msgid ""
 "Rolling is useful for knocking down \n"
 "enemies in your way,  "
-msgstr "翻滚能撞倒\n挡路的敌人，"
+msgstr ""
+"翻滚能撞倒\n"
+"挡路的敌人，"
 
 #: slot/0x00420130/0x62cbfd/0x000002
 #: slot/0x00420130/0x62cbfe/0x000002
@@ -1248,39 +142,49 @@ msgstr "也能在被包围时脱身。"
 msgid ""
 "You can also use it to jump over \n"
 "small ditches and other obstacles."
-msgstr "还能用来跳过\n小沟等障碍。"
+msgstr ""
+"还能用来跳过\n"
+"小沟等障碍。"
 
 #: slot/0x00420130/0x62cbfd/0x000004
 msgid ""
 "To roll, \n"
 "tap the Attack Button while running. "
-msgstr "翻滚：奔跑中\n轻按攻击键。"
+msgstr ""
+"翻滚：奔跑中\n"
+"轻按攻击键。"
 
 #: slot/0x00420130/0x62cbfd/0x000005
 msgid "You got that?"
-msgstr "记住没？"
+msgstr "懂了？"
 
 #: slot/0x00420130/0x62cbfd/0x000006
 msgid ""
 "Tap the Attack Button \n"
 "while running. Don't forget it!"
-msgstr "奔跑中轻按攻击键。\n别忘了！"
+msgstr ""
+"奔跑中轻按攻击键。\n"
+"别忘了！"
 
 #: slot/0x00420130/0x62cbfe/0x000004
 msgid ""
 "To roll, tap the \n"
 "Crouch Button while running."
-msgstr "翻滚：奔跑中\n轻按蹲伏键。"
+msgstr ""
+"翻滚：奔跑中\n"
+"轻按蹲伏键。"
 
 #: slot/0x00420130/0x62cbfe/0x000005
 msgid "You got that? "
-msgstr "记住没？"
+msgstr "懂了？"
 
 #: slot/0x00420130/0x62cbfe/0x000006
 msgid ""
 "Tap the Crouch Button \n"
 "while running. Don't forget it! "
-msgstr "奔跑中轻按蹲伏键。\n别忘了！"
+msgstr ""
+"奔跑中轻按蹲伏键。\n"
+"别忘了！"
 
 #: slot/0x00420130/0x62d7fd/0x000000
 msgid "Roll!"
@@ -1294,7 +198,9 @@ msgstr "咋了？"
 msgid ""
 "Run with the analog stick, \n"
 "then tap the Attack Button to roll!  "
-msgstr "用摇杆奔跑，\n再轻按攻击键翻滚！"
+msgstr ""
+"用摇杆奔跑，\n"
+"再轻按攻击键翻滚！"
 
 #: slot/0x00420130/0x62d87e/0x000000
 msgid "What's wrong?! "
@@ -1304,31 +210,41 @@ msgstr "怎么了？！"
 msgid ""
 "Run with the analog stick, \n"
 "then tap the Crouch Button to roll!"
-msgstr "用摇杆奔跑，\n再轻按蹲伏键翻滚！"
+msgstr ""
+"用摇杆奔跑，\n"
+"再轻按蹲伏键翻滚！"
 
 #: slot/0x00420130/0x62d8fd/0x000000
 msgid ""
 "Boss, roll by tapping the Attack Button\n"
 "while  running with the analog stick! "
-msgstr "BOSS，用摇杆奔跑时\n轻按攻击键翻滚！"
+msgstr ""
+"BOSS，用摇杆奔跑时\n"
+"轻按攻击键翻滚！"
 
 #: slot/0x00420130/0x62d8fe/0x000000
 msgid ""
 "Boss, roll by tapping the Crouch Button\n"
 "while running with the analog stick!"
-msgstr "BOSS，用摇杆奔跑时\n轻按蹲伏键翻滚！"
+msgstr ""
+"BOSS，用摇杆奔跑时\n"
+"轻按蹲伏键翻滚！"
 
 #: slot/0x00420130/0x62d97d/0x000000
 msgid ""
 "Next, I will explain \n"
 "how to attack without gunfire."
-msgstr "接下来讲解\n如何不开枪攻击。"
+msgstr ""
+"接下来讲解\n"
+"如何不开枪攻击。"
 
 #: slot/0x00420130/0x62d97d/0x000001
 msgid ""
 "You may run into \n"
 "an enemy unexpectedly."
-msgstr "你可能会意外\n遭遇敌人。"
+msgstr ""
+"你可能会意外\n"
+"遭遇敌人。"
 
 #: slot/0x00420130/0x62d97d/0x000002
 msgid "You may not have a weapon on you. "
@@ -1342,31 +258,41 @@ msgstr "或者弹药耗尽。"
 msgid ""
 "You'll still need an effective \n"
 "attack strategy. "
-msgstr "你仍需要有效的\n攻击策略。"
+msgstr ""
+"你仍需要有效的\n"
+"攻击策略。"
 
 #: slot/0x00420130/0x62d97d/0x000005
 msgid ""
 "One well-placed strike and the enemy \n"
 "won't know what hit him! "
-msgstr "一记精准打击，敌人\n根本不知道被什么击中！"
+msgstr ""
+"一记精准打击，敌人\n"
+"根本不知道被什么击中！"
 
 #: slot/0x00420130/0x62d9fd/0x000000
 msgid ""
 "To strike an enemy, press \n"
 "the Attack Button while standing still! "
-msgstr "要攻击敌人，站立不动时\n按攻击键！"
+msgstr ""
+"要攻击敌人，站立不动时\n"
+"按攻击键！"
 
 #: slot/0x00420130/0x62d9fd/0x000001
 msgid ""
 "On my command, press the Attack Button\n"
 "repeatedly and take down your opponent!"
-msgstr "听我口令，连续按攻击键\n击倒对手！"
+msgstr ""
+"听我口令，连续按攻击键\n"
+"击倒对手！"
 
 #: slot/0x00420130/0x62d9fe/0x000000
 msgid ""
 "To strike an enemy, press the Hand-to-hand\n"
 "Attack Button while standing still!"
-msgstr "要攻击敌人，站立不动时\n按徒手攻击键！"
+msgstr ""
+"要攻击敌人，站立不动时\n"
+"按徒手攻击键！"
 
 #: slot/0x00420130/0x62d9fe/0x000001
 msgid "On my command, "
@@ -1376,7 +302,9 @@ msgstr "听我口令，"
 msgid ""
 "press the Hand-to-hand Attack Button\n"
 "repeatedly and take down your opponent!"
-msgstr "连续按徒手攻击键\n击倒对手！"
+msgstr ""
+"连续按徒手攻击键\n"
+"击倒对手！"
 
 #: slot/0x00420130/0x62dafd/0x000000
 msgid "You alright, boss? "
@@ -1386,7 +314,9 @@ msgstr "你没事吧，BOSS？"
 msgid ""
 "Press the Attack Button \n"
 "without moving!  "
-msgstr "不要移动，\n按攻击键！"
+msgstr ""
+"不要移动，\n"
+"按攻击键！"
 
 #: slot/0x00420130/0x62dafe/0x000000
 msgid "You alright, boss?"
@@ -1396,44 +326,58 @@ msgstr "你没事吧，BOSS？"
 msgid ""
 "Press the Hand-to-hand \n"
 "Attack Button without moving!  "
-msgstr "不要移动，\n按徒手攻击键！"
+msgstr ""
+"不要移动，按\n"
+"徒手攻击键！"
 
 #: slot/0x00420130/0x62db7d/0x000000
 msgid ""
 "Press the Attack Button without \n"
 "moving, Boss. "
-msgstr "不要移动，\n按攻击键，BOSS。"
+msgstr ""
+"不要移动，\n"
+"按攻击键，BOSS。"
 
 #: slot/0x00420130/0x62db7e/0x000000
 msgid ""
 "Press the Hand-to-hand Attack Button \n"
 "without moving, Boss. "
-msgstr "不要移动，\n按徒手攻击键，BOSS。"
+msgstr ""
+"不要移动，\n"
+"按徒手攻击键，BOSS。"
 
 #: slot/0x00420130/0x62dbfd/0x000000
 msgid ""
 "Next we're gonna practice using \n"
 "the stun rod."
-msgstr "接下来练习使用\n电击棒。"
+msgstr ""
+"接下来练习使用\n"
+"电击棒。"
 
 #: slot/0x00420130/0x62dbfd/0x000001
 msgid ""
 "Hitting someone with the stun rod will\n"
 "shock them with a million and a half volts."
-msgstr "用电击棒击中对方，\n会以一百五十万伏特电击他。"
+msgstr ""
+"用电击棒击中对方，\n"
+"会以一百五十万伏特电击他。"
 
 #: slot/0x00420130/0x62dbfd/0x000002
 msgid ""
 "Anyone on the receiving end of that is\n"
 "guaranteed to be out cold."
-msgstr "挨上这一下的人\n保证会昏过去。"
+msgstr ""
+"挨上这一下的人\n"
+"保证会昏过去。"
 
 #: slot/0x00420130/0x62dc7d/0x000000
 #: slot/0x00420130/0x62dc7e/0x000000
 msgid ""
 "To use the stun rod, \n"
 "press the Aim Button to ready it,"
-msgstr "使用电击棒时，\n按瞄准键举起，"
+msgstr ""
+"使用电击棒时，\n"
+"按瞄准键举起，"
 
 #: slot/0x00420130/0x62dc7d/0x000001
 msgid "then press the Attack Button."
@@ -1444,13 +388,17 @@ msgstr "然后按攻击键。"
 msgid ""
 "You'll be glad to know we're using \n"
 "mock stun rods for this training session."
-msgstr "这次训练用的是\n模拟电击棒，你可以放心。"
+msgstr ""
+"这次训练用的是\n"
+"模拟电击棒，你可以放心。"
 
 #: slot/0x00420130/0x62dc7d/0x000003
 msgid ""
 "When your partner attacks, \n"
 "make him believe it's the real deal. "
-msgstr "搭档攻击时，\n要让他觉得是真的。"
+msgstr ""
+"搭档攻击时，\n"
+"要让他觉得是真的。"
 
 #: slot/0x00420130/0x62dc7d/0x000004
 #: slot/0x00420130/0x62dc7e/0x000004
@@ -1465,7 +413,9 @@ msgstr "然后按武器攻击键。"
 msgid ""
 "When your partner attacks, \n"
 "make him believe it's the real deal."
-msgstr "搭档攻击时，\n要让他以为这是真的。"
+msgstr ""
+"搭档攻击时，\n"
+"要让他以为这是真的。"
 
 #: slot/0x00420130/0x64487d/0x000000
 msgid "Hey, hey! Hold down the Aim Button!"
@@ -1495,25 +445,33 @@ msgstr "上啊！"
 msgid ""
 "What's wrong? Press the Attack Button\n"
 "while holding down the Aim Button! "
-msgstr "怎么了？按住瞄准键\n再按攻击键！"
+msgstr ""
+"怎么了？按住瞄准键\n"
+"再按攻击键！"
 
 #: slot/0x00420130/0x644a7e/0x000000
 msgid ""
 "What's wrong? Press the Attack Button\n"
 "after pressing the Aim Button! "
-msgstr "怎么了？按瞄准键后\n再按攻击键！"
+msgstr ""
+"怎么了？按瞄准键后\n"
+"再按攻击键！"
 
 #: slot/0x00420130/0x644afd/0x000000
 msgid ""
 "Boss, please press the Attack Button \n"
 "while holding down the Aim Button!"
-msgstr "BOSS，请按住瞄准键\n再按攻击键！"
+msgstr ""
+"BOSS，请按住瞄准键\n"
+"再按攻击键！"
 
 #: slot/0x00420130/0x644afe/0x000000
 msgid ""
 "Boss, please press the Attack Button \n"
 "after pressing the Aim Button! "
-msgstr "BOSS，请按瞄准键后\n再按攻击键！"
+msgstr ""
+"BOSS，请按瞄准键后\n"
+"再按攻击键！"
 
 #: slot/0x00420130/0x644b7d/0x000000
 msgid "Now we'll move on to CQC."
@@ -1527,37 +485,49 @@ msgstr "CQC，即近身格斗，"
 msgid ""
 "refers to when engaging an enemy in \n"
 "battle at very close range.  "
-msgstr "指在极近距离与敌人\n交战时使用。"
+msgstr ""
+"指在极近距离与敌人\n"
+"交战时使用。"
 
 #: slot/0x00420130/0x644b7d/0x000003
 msgid ""
 "It is a quick and efficient way of \n"
 "eliminating a threat."
-msgstr "是迅速高效地\n消除威胁的手段。"
+msgstr ""
+"是迅速高效地\n"
+"消除威胁的手段。"
 
 #: slot/0x00420130/0x644b7d/0x000004
 msgid ""
 "There are various CQC techniques. \n"
 "We will go over each of them."
-msgstr "CQC技法多样。\n我们逐一讲解。"
+msgstr ""
+"CQC技法多样。\n"
+"我们逐一讲解。"
 
 #: slot/0x00420130/0x644b7d/0x000005
 msgid ""
 "Don't get cocky because you think \n"
 "you know them. "
-msgstr "别因为你觉得\n了解他们就得意忘形。"
+msgstr ""
+"别因为你觉得\n"
+"了解他们就得意忘形。"
 
 #: slot/0x00420130/0x644b7d/0x000006
 msgid ""
 "This will be different from what \n"
 "you're used to."
-msgstr "这和你以往\n所学的不同。"
+msgstr ""
+"这和你以往\n"
+"所学的不同。"
 
 #: slot/0x00420130/0x644b7d/0x000007
 msgid ""
 "Pretend you are learning it all for \n"
 "the first time."
-msgstr "就当自己\n从零开始学。"
+msgstr ""
+"就当自己\n"
+"从零开始学。"
 
 #: slot/0x00420130/0x644b7d/0x000008
 msgid "The first technique..."
@@ -1579,38 +549,50 @@ msgstr "靠近对手"
 msgid ""
 "and press the Attack Button \n"
 "while you tilt the analog stick."
-msgstr "推动摇杆的同时\n按攻击键。"
+msgstr ""
+"推动摇杆的同时\n"
+"按攻击键。"
 
 #: slot/0x00420130/0x644bfd/0x000003
 #: slot/0x00420130/0x644bfe/0x000002
 msgid ""
 "Be sure to press the Attack Button \n"
 "when the Icon appears."
-msgstr "图标出现时\n务必按攻击键。"
+msgstr ""
+"图标出现时\n"
+"务必按攻击键。"
 
 #: slot/0x00420130/0x644bfd/0x000004
 msgid ""
 "Now, wait for my command \n"
 "and throw your opponent."
-msgstr "现在，等我的指令\n把对手摔出去。"
+msgstr ""
+"现在等我的指令，\n"
+"把对手摔出去。"
 
 #: slot/0x00420130/0x644bfe/0x000000
 msgid ""
 "To do this, position yourself\n"
 "near your opponent"
-msgstr "要做到这点，站到\n对手附近"
+msgstr ""
+"要做到这点，站到\n"
+"对手附近"
 
 #: slot/0x00420130/0x644bfe/0x000001
 msgid ""
 "and press the Hand-to-hand Attack Button\n"
 "as you tilt the analog stick."
-msgstr "然后一边推摇杆\n一边按徒手攻击键。"
+msgstr ""
+"然后一边推摇杆\n"
+"一边按徒手攻击键。"
 
 #: slot/0x00420130/0x644bfe/0x000003
 msgid ""
 "Now, wait for my command \n"
 "and throw your opponent. "
-msgstr "现在，等我的指令\n把对手摔出去。"
+msgstr ""
+"现在，等我的指令\n"
+"把对手摔出去。"
 
 #: slot/0x00420130/0x644c7d/0x000000
 #: slot/0x00420130/0x64787d/0x000000
@@ -1620,19 +602,23 @@ msgstr "摔！"
 #: slot/0x00420130/0x6457fd/0x000000
 #: slot/0x00420130/0x6457fe/0x000000
 msgid "Hey! "
-msgstr "嘿"
+msgstr "喂！"
 
 #: slot/0x00420130/0x6457fd/0x000001
 msgid ""
 "Press the Attack Button \n"
 "as you tilt the analog stick! "
-msgstr "一边推摇杆\n一边按攻击键！"
+msgstr ""
+"一边推摇杆\n"
+"一边按攻击键！"
 
 #: slot/0x00420130/0x6457fe/0x000001
 msgid ""
 "Press the Hand-to-hand Attack Button \n"
 "as you tilt the analog stick! "
-msgstr "一边推摇杆\n一边按徒手攻击键！"
+msgstr ""
+"一边推摇杆\n"
+"一边按徒手攻击键！"
 
 #: slot/0x00420130/0x64587d/0x000000
 msgid "Watch for the Icon to appear!"
@@ -1640,19 +626,23 @@ msgstr "注意图标出现！"
 
 #: slot/0x00420130/0x6458fd/0x000000
 msgid "Boss,"
-msgstr "BOSS"
+msgstr "BOSS，"
 
 #: slot/0x00420130/0x6458fd/0x000001
 msgid ""
 "you have to press the Attack Button \n"
 "as you tilt the analog stick!  "
-msgstr "你得一边推摇杆\n一边按攻击键！"
+msgstr ""
+"你得一边推摇杆\n"
+"一边按攻击键！"
 
 #: slot/0x00420130/0x6458fe/0x000001
 msgid ""
 "you have to press the Hand-to-hand Action\n"
 "Button as you tilt the analog stick!"
-msgstr "你得一边推摇杆\n一边按徒手攻击键！"
+msgstr ""
+"你得一边推摇杆\n"
+"一边按徒手攻击键！"
 
 #: slot/0x00420130/0x64597d/0x000000
 msgid "Don't forget to watch for the Icon!"
@@ -1662,7 +652,9 @@ msgstr "别忘了注意图标！"
 msgid ""
 "Next I'm going to teach you how to \n"
 "restrain an opponent close to you."
-msgstr "接下来我教你如何\n制住靠近你的对手。"
+msgstr ""
+"接下来我教你如何\n"
+"制住靠近你的对手。"
 
 #: slot/0x00420130/0x6459fd/0x000001
 msgid "This is a cornerstone of CQC."
@@ -1672,7 +664,9 @@ msgstr "这是CQC的基石。"
 msgid ""
 "Grab hold of an enemy and \n"
 "the bastard's life is in your hands. "
-msgstr "抓住敌人，\n那家伙的命就在你手里。"
+msgstr ""
+"抓住敌人，\n"
+"那家伙的命就在你手里。"
 
 #: slot/0x00420130/0x6459fd/0x000003
 msgid "What you do from there is up to you."
@@ -1682,13 +676,17 @@ msgstr "接下来怎么做随你。"
 msgid ""
 "Just know that if you restrain him \n"
 "for too long,"
-msgstr "只是要知道，如果制住他\n太久，"
+msgstr ""
+"只是要知道，如果制住他\n"
+"太久，"
 
 #: slot/0x00420130/0x645a7d/0x000001
 msgid ""
 "the average person will most likely \n"
 "pass out."
-msgstr "一般人多半会\n昏过去。"
+msgstr ""
+"一般人多半会\n"
+"昏过去。"
 
 #: slot/0x00420130/0x645a7d/0x000002
 msgid "Something to keep in mind."
@@ -1700,13 +698,15 @@ msgstr "开始吧。"
 
 #: slot/0x00420130/0x645bfd/0x000000
 msgid "To restrain your opponent, "
-msgstr "要制住对手，"
+msgstr "要制服对手，"
 
 #: slot/0x00420130/0x645bfd/0x000001
 msgid ""
 "hold down the Attack Button \n"
 "while near them. "
-msgstr "靠近他们时\n按住攻击键。"
+msgstr ""
+"靠近他们时\n"
+"按住攻击键。"
 
 #: slot/0x00420130/0x645bfd/0x000002
 msgid "Restrain your opponent on my command."
@@ -1714,19 +714,23 @@ msgstr "听我指令制住对手。"
 
 #: slot/0x00420130/0x645bfe/0x000000
 msgid "To restrain your opponent,"
-msgstr "要制住对手，"
+msgstr "要制服对手，"
 
 #: slot/0x00420130/0x645bfe/0x000001
 msgid ""
 "hold down the Hand-to-hand \n"
 "Attack Button while near them. "
-msgstr "靠近敌人时按住徒手\n攻击键。"
+msgstr ""
+"靠近敌人时按住徒手\n"
+"攻击键。"
 
 #: slot/0x00420130/0x645bfe/0x000002
 msgid ""
 "Restrain your opponent \n"
 "on my command. "
-msgstr "按我的指令\n压制你的对手。"
+msgstr ""
+"按我的指令\n"
+"压制你的对手。"
 
 #: slot/0x00420130/0x64687d/0x000000
 msgid "What are you doing?"
@@ -1736,31 +740,41 @@ msgstr "你在干什么？"
 msgid ""
 "Press the Attack Button \n"
 "while near your opponent! "
-msgstr "靠近对手时\n按下攻击按钮！"
+msgstr ""
+"靠近对手时\n"
+"按下攻击按钮！"
 
 #: slot/0x00420130/0x64687e/0x000001
 msgid ""
 "Press the Hand-to-hand Attack Button \n"
 "while near your opponent! "
-msgstr "靠近对手时\n按下格斗攻击按钮！"
+msgstr ""
+"靠近对手时\n"
+"按下格斗攻击按钮！"
 
 #: slot/0x00420130/0x6468fd/0x000001
 msgid ""
 "you have to press the Attack Button \n"
 "while next to your opponent! "
-msgstr "你必须在对手旁边时\n按下攻击按钮！"
+msgstr ""
+"你必须在对手旁边时\n"
+"按下攻击按钮！"
 
 #: slot/0x00420130/0x6468fe/0x000001
 msgid ""
 "you have to press the Hand-to-hand \n"
 "Attack Button while next to your opponent!"
-msgstr "你得在对手旁边按徒手\n攻击键！"
+msgstr ""
+"在对手身旁时\n"
+"必须按徒手攻击键！"
 
 #: slot/0x00420130/0x646afd/0x000000
 msgid ""
 "Now we will throw your opponent after\n"
 "restraining them. "
-msgstr "现在我们会先压制你的对手，\n然后把他摔出去。"
+msgstr ""
+"现在我们会先压制你的对手，\n"
+"然后把他摔出去。"
 
 #: slot/0x00420130/0x646b7d/0x000000
 msgid "To throw an enemy to the ground, "
@@ -1770,25 +784,33 @@ msgstr "要把敌人摔倒在地，"
 msgid ""
 "press a direction on the analog stick \n"
 "when you have them restrained. "
-msgstr "当你压制住他们时\n在摇杆上按一个方向。"
+msgstr ""
+"当你压制住他们时\n"
+"在摇杆上按一个方向。"
 
 #: slot/0x00420130/0x646c7d/0x000000
 msgid ""
 "Restrain your opponent \n"
 "and throw them on my command."
-msgstr "按我的指令压制你的对手\n并把他摔出去。"
+msgstr ""
+"按我的指令压制你的对手\n"
+"并把他摔出去。"
 
 #: slot/0x00420130/0x6479fd/0x000000
 msgid ""
 "Some enemies will no doubt possess \n"
 "useful information."
-msgstr "有些敌人肯定掌握着\n有用的情报。"
+msgstr ""
+"有些敌人肯定掌握着\n"
+"有用的情报。"
 
 #: slot/0x00420130/0x6479fd/0x000001
 msgid ""
 "I'll now teach you how to interrogate \n"
 "an enemy to obtain such information."
-msgstr "现在教你如何审问敌人\n获取这些情报。"
+msgstr ""
+"现在教你如何审问敌人\n"
+"获取这些情报。"
 
 #: slot/0x00420130/0x647a7d/0x000000
 #: slot/0x00420130/0x647a7e/0x000000
@@ -1799,20 +821,26 @@ msgstr "要审问敌人，"
 msgid ""
 "press the Attack Button to restrain \n"
 "them, then press the Action Button. "
-msgstr "按下攻击按钮来压制\n他们，然后按下动作按钮。"
+msgstr ""
+"按下攻击按钮来压制\n"
+"他们，然后按下动作按钮。"
 
 #: slot/0x00420130/0x647a7d/0x000002
 #: slot/0x00420130/0x647a7e/0x000002
 msgid ""
 "On my command, restrain and \n"
 "then interrogate your opponent. "
-msgstr "按我的指令，压制\n然后审问你的对手。"
+msgstr ""
+"按我的指令，压制\n"
+"然后审问你的对手。"
 
 #: slot/0x00420130/0x647a7e/0x000001
 msgid ""
 "press the Hand-to-hand Attack Button\n"
 "torestrain them, then press the R button."
-msgstr "按下格斗攻击按钮\n来压制他们，然后按下R按钮。"
+msgstr ""
+"按下格斗攻击按钮\n"
+"来压制他们，然后按下R按钮。"
 
 #: slot/0x00420130/0x647afd/0x000000
 msgid "Restrain him!"
@@ -1834,7 +862,9 @@ msgstr "没事吧？按R键！"
 msgid ""
 "You have to press the Action Button, \n"
 "Boss!"
-msgstr "你必须按下动作按钮，\n老大！"
+msgstr ""
+"你必须按下动作按钮，\n"
+"老大！"
 
 #: slot/0x00420130/0x647c7e/0x000000
 msgid "Boss, you have to press the R button!"
@@ -1844,7 +874,9 @@ msgstr "BOSS，你得按R键！"
 msgid ""
 "Now we will try CQC against multiple \n"
 "enemy opponents. "
-msgstr "现在我们要尝试对多个\n敌方对手进行CQC。"
+msgstr ""
+"现在我们要尝试对多个\n"
+"敌方对手进行CQC。"
 
 #: slot/0x00420130/0x6488fd/0x000000
 msgid "I need a volunteer to step forward."
@@ -1854,92 +886,122 @@ msgstr "我需要一名志愿者出列。"
 msgid ""
 "Like before, \n"
 "wait for the Icon to appear."
-msgstr "和之前一样，\n等图标出现。"
+msgstr ""
+"和之前一样，\n"
+"等图标出现。"
 
 #: slot/0x00420130/0x648afd/0x000001
 msgid ""
 "Now, \n"
 "throw your opponent on my command."
-msgstr "现在，\n听我口令摔出对手。"
+msgstr ""
+"现在，\n"
+"听我口令摔出对手。"
 
 #: slot/0x00420130/0x6499fd/0x000000
 msgid ""
 "You can also take out a group \n"
 "of enemies "
-msgstr "你还能一次干掉\n一群敌人，"
+msgstr ""
+"你还能一次干掉\n"
+"一群敌人，"
 
 #: slot/0x00420130/0x6499fd/0x000001
 msgid ""
 "by throwing an opponent \n"
 "you have restrained."
-msgstr "把已制服对手\n摔向他们。"
+msgstr ""
+"把已制服对手\n"
+"摔向他们。"
 
 #: slot/0x00420130/0x649a7d/0x000000
 msgid ""
 "First restrain an opponent by pressing \n"
 "the Attack Button near them."
-msgstr "先靠近对手按\n攻击键将其制服。"
+msgstr ""
+"先靠近对手按\n"
+"攻击键将其制服。"
 
 #: slot/0x00420130/0x649a7d/0x000001
 msgid ""
 "Then tilt the analog stick \n"
 "to throw them."
-msgstr "然后推摇杆\n把他摔出去。"
+msgstr ""
+"然后推摇杆\n"
+"把他摔出去。"
 
 #: slot/0x00420130/0x649a7d/0x000002
 msgid ""
 "By tilting the analog stick toward \n"
 "other enemies, "
-msgstr "把摇杆推向\n其他敌人，"
+msgstr ""
+"把摇杆推向\n"
+"其他敌人，"
 
 #: slot/0x00420130/0x649a7d/0x000003
 #: slot/0x00420130/0x649a7e/0x000003
 msgid ""
 "you can send your captive flying \n"
 "straight into them! "
-msgstr "就能把抓住的敌人\n直直砸向他们！"
+msgstr ""
+"就能把抓住的敌人\n"
+"直接砸向他们！"
 
 #: slot/0x00420130/0x649a7d/0x000004
 msgid ""
 "On my command, \n"
 "restrain and then throw your opponent. "
-msgstr "听我口令，\n先制服再摔出对手。"
+msgstr ""
+"听我指令，\n"
+"制住对手再摔出去。"
 
 #: slot/0x00420130/0x649a7e/0x000000
 msgid ""
 "First restrain an opponent by pressing the\n"
 "Hand-to-hand Attack Button while near them."
-msgstr "先靠近对手按\n徒手攻击键将其制服。"
+msgstr ""
+"先靠近对手按\n"
+"徒手攻击键将其制服。"
 
 #: slot/0x00420130/0x649a7e/0x000001
 msgid ""
 "Then tilt the analog stick \n"
 "to throw them. "
-msgstr "然后推摇杆\n把他摔出去。"
+msgstr ""
+"然后推摇杆\n"
+"把他摔出去。"
 
 #: slot/0x00420130/0x649a7e/0x000002
 msgid ""
 "By tilting the analog stick toward \n"
 "other enemies,  "
-msgstr "把摇杆推向\n其他敌人，"
+msgstr ""
+"把摇杆推向\n"
+"其他敌人，"
 
 #: slot/0x00420130/0x649a7e/0x000004
 msgid ""
 "On my command, \n"
 "restrain and then throw your opponent."
-msgstr "听我口令，\n先制服再摔出对手。"
+msgstr ""
+"听我口令，\n"
+"先制服再摔出对手。"
 
 #: slot/0x00420130/0x649bfd/0x000001
 msgid ""
 "Tilt the analog stick while \n"
 "restraining the opponent! "
-msgstr "制服对手时\n推摇杆！"
+msgstr ""
+"制服对手时\n"
+"推摇杆！"
 
 #: slot/0x00420130/0x64a7fd/0x000000
 msgid ""
 "Tilt the analog stick while restraining \n"
 "the opponent, Boss!"
-msgstr "制服对手时推摇杆，\nBOSS！"
+msgstr ""
+"制服对手时推摇杆，\n"
+"BOSS！"
 
 #: slot/0x00420130/0x64a8fd/0x000000
 msgid "Alright..."
@@ -1949,13 +1011,17 @@ msgstr "好吧…"
 msgid ""
 "Why don't we do something special \n"
 "since the Boss is here."
-msgstr "既然BOSS来了，\n不如来点特别的。"
+msgstr ""
+"既然BOSS来了，\n"
+"不如来点特别的。"
 
 #: slot/0x00420130/0x64a8fd/0x000002
 msgid ""
 "Anyone who feels like getting their \n"
 "ass kicked, step forward. "
-msgstr "想挨揍的\n就站出来。"
+msgstr ""
+"想挨揍的\n"
+"就站出来。"
 
 #: slot/0x00420130/0x64a8fd/0x000003
 msgid "Don't hold back, Boss."
@@ -1965,13 +1031,17 @@ msgstr "别留手，BOSS。"
 msgid ""
 "When you're surrounded\n"
 "by multiple enemies, "
-msgstr "被多个敌人\n包围时，"
+msgstr ""
+"被多个敌人\n"
+"包围时，"
 
 #: slot/0x00420130/0x64a97d/0x000001
 msgid ""
 "you'll have to take them on one \n"
 "after the other."
-msgstr "你得一个接一个\n对付他们。"
+msgstr ""
+"你必须一个接一个地\n"
+"对付他们。"
 
 #: slot/0x00420130/0x64a97d/0x000002
 #: slot/0x00420130/0x64a97e/0x000002
@@ -1982,56 +1052,74 @@ msgstr "方法："
 msgid ""
 "simply press the Attack Button again \n"
 "while throwing the current enemy.  "
-msgstr "摔出当前敌人时\n再按一次攻击键。"
+msgstr ""
+"摔出当前敌人时\n"
+"再按一次攻击键。"
 
 #: slot/0x00420130/0x64a97d/0x000004
 #: slot/0x00420130/0x64a97e/0x000004
 msgid ""
 "Just be sure to wait for the Icon \n"
 "to appear. "
-msgstr "一定要等图标\n出现。"
+msgstr ""
+"一定要等图标\n"
+"出现。"
 
 #: slot/0x00420130/0x64a97e/0x000000
 msgid ""
 "When you're surrounded \n"
 "by multiple enemies, "
-msgstr "被多个敌人\n包围时，"
+msgstr ""
+"被多个敌人\n"
+"包围时，"
 
 #: slot/0x00420130/0x64a97e/0x000001
 msgid ""
 "you'll have to take them on one \n"
 "after the other. "
-msgstr "你得一个接一个\n对付他们。"
+msgstr ""
+"你必须一个接一个地\n"
+"对付他们。"
 
 #: slot/0x00420130/0x64a97e/0x000003
 msgid ""
 "simply press the Hand-to-hand Attack Button\n"
 "again while throwing the current enemy."
-msgstr "扔出当前敌人时，\n再按一次徒手攻击键。"
+msgstr ""
+"扔出当前敌人时，\n"
+"再按一次徒手攻击键。"
 
 #: slot/0x00420130/0x64aafd/0x000000
 msgid ""
 "Press the Attack Button \n"
 "when the Icon appears!"
-msgstr "图标出现时\n按攻击键！"
+msgstr ""
+"图标出现时\n"
+"按攻击键！"
 
 #: slot/0x00420130/0x64aafe/0x000000
 msgid ""
 "Press the Hand-to-hand Attack Button \n"
 "when the Icon appears! "
-msgstr "图标出现时\n按徒手攻击键！"
+msgstr ""
+"图标出现时\n"
+"按徒手攻击键！"
 
 #: slot/0x00420130/0x64ab7d/0x000000
 msgid ""
 "Boss, press the Attack Button \n"
 "when the Icon appears!"
-msgstr "BOSS，图标出现时\n按攻击键！"
+msgstr ""
+"BOSS，图标出现时\n"
+"按攻击键！"
 
 #: slot/0x00420130/0x64ab7e/0x000001
 msgid ""
 "press the Hand-to-hand Attack Button \n"
 "when the Icon appears! "
-msgstr "图标出现时\n按徒手攻击键！"
+msgstr ""
+"图标出现时\n"
+"按徒手攻击键！"
 
 #: slot/0x00420130/0x64abfd/0x000000
 msgid "And stop!"
@@ -2087,3 +1175,1015 @@ msgstr "是我……把罐头全吃光的……"
 #: slot/0x00420130/0x8f1ffa/0x000000
 msgid "I... "
 msgstr "我……"
+
+#: slot/0x00420130/0x8f1ffa/0x000001
+msgid "I have a girlfriend and I visit her every now and then..."
+msgstr "我有女朋友，偶尔会去看她……"
+
+#: slot/0x00420130/0x8f207a/0x000000
+msgid "Your... snoring keeps me up at night, Boss..."
+msgstr "你的……呼噜声让我晚上睡不着，BOSS……"
+
+#: slot/0x00420130/0x8f2bfa/0x000000
+#: slot/0x00420130/0x8f2d7a/0x000000
+msgid "To be honest, I..."
+msgstr "说实话，我……"
+
+#: slot/0x00420130/0x8f2bfa/0x000001
+msgid "prefer colder climates..."
+msgstr "更喜欢冷气候……"
+
+#: slot/0x00420130/0x8f2c7a/0x000000
+msgid "I'm sorry, I..."
+msgstr "对不起，我……"
+
+#: slot/0x00420130/0x8f2c7a/0x000001
+msgid "I actually kinda prefer hunting to this..."
+msgstr "其实我更喜欢打猎……"
+
+#: slot/0x00420130/0x8f2cfa/0x000000
+msgid "Forgive me..."
+msgstr "原谅我……"
+
+#: slot/0x00420130/0x8f2cfa/0x000001
+msgid "I have a test tomorrow, and..."
+msgstr "我明天有考试，而且……"
+
+#: slot/0x00420130/0x8f2cfa/0x000002
+msgid "I really should be studying for it..."
+msgstr "我真该去复习了……"
+
+#: slot/0x00420130/0x8f2d7a/0x000001
+msgid "I... didn't know much about you, Boss."
+msgstr "我……对你不太了解，BOSS。"
+
+#: slot/0x00420130/0x8f2d7a/0x000002
+msgid "Action games... aren't my thing..."
+msgstr "动作游戏……不是我的菜……"
+
+#: slot/0x00420130/0x8f2dfa/0x000000
+msgid "I'm just getting started, and... "
+msgstr "我才刚开始玩，而且……"
+
+#: slot/0x00420130/0x8f2dfa/0x000001
+msgid "honestly I don't know if I can get the hang of it..."
+msgstr "老实说我不知道自己能不能上手……"
+
+#: slot/0x00420130/0x8f2ffa/0x000000
+msgid "Wha?"
+msgstr "啥？"
+
+#: slot/0x00472837/0x0a7cd6/0x000000
+#: slot/0x00472837/0x0a7cd6/0x000010
+#: slot/0x00472837/0x0a7cd6/0x000020
+#: slot/0x00483717/0x0a7cd6/0x000000
+#: slot/0x00483717/0x0a7cd6/0x00000a
+#: slot/0x00483717/0x0a7cd6/0x000014
+#: slot/0x0048f045/0x0a7cd6/0x000000
+#: slot/0x0048f045/0x0a7cd6/0x00000c
+#: slot/0x0048f045/0x0a7cd6/0x000018
+#: slot/0x00ce245c/0x0a7cd6/0x000000
+#: slot/0x00ce245c/0x0a7cd6/0x000022
+#: slot/0x00ce245c/0x0a7cd6/0x000044
+#: slot/0x00db94df/0xc4febe/0x000000
+msgid "Lock disengaged."
+msgstr "锁定解除。"
+
+#: slot/0x00472837/0x0a7cd6/0x000001
+#: slot/0x00472837/0x0a7cd6/0x000011
+msgid "Chaingun."
+msgstr "机炮。"
+
+#: slot/0x00472837/0x0a7cd6/0x000003
+#: slot/0x00472837/0x0a7cd6/0x000013
+#: slot/0x0052801a/0x0a7cd6/0x00001c
+msgid "Charging railgun."
+msgstr "电磁炮充能"
+
+#: slot/0x00472837/0x0a7cd6/0x000006
+msgid "Approaching target."
+msgstr "接近目标。"
+
+#: slot/0x00472837/0x0a7cd6/0x000007
+#: slot/0x00472837/0x0a7cd6/0x000017
+msgid "Launching Kidnappers."
+msgstr "发射绑架弹。"
+
+#: slot/0x00472837/0x0a7cd6/0x000008
+msgid "Engaging attack mode."
+msgstr "进入攻击模式。"
+
+#: slot/0x00472837/0x0a7cd6/0x000009
+#: slot/0x00472837/0x0a7cd6/0x000019
+msgid "Returning to normal mode."
+msgstr "返回普通模式。"
+
+#: slot/0x00472837/0x0a7cd6/0x00000b
+msgid "Railgun malfunction detected. Commencing auto-repair."
+msgstr "检测到电磁炮故障。开始自动修复。"
+
+#: slot/0x00472837/0x0a7cd6/0x00000c
+msgid "Radome damage detected. Evasion ability reduced."
+msgstr "检测到雷达罩受损。回避能力下降。"
+
+#: slot/0x00472837/0x0a7cd6/0x00000f
+#: slot/0x00472837/0x0a7cd6/0x00001f
+msgid "Reinitializing."
+msgstr "重新初始化。"
+
+#: slot/0x00472837/0x0a7cd6/0x000016
+msgid "Closing in."
+msgstr "正在逼近。"
+
+#: slot/0x00472837/0x0a7cd6/0x000018
+msgid "Switching to attack mode."
+msgstr "切换至攻击模式。"
+
+#: slot/0x00472837/0x0a7cd6/0x00001b
+msgid "Commencing auto-repair."
+msgstr "开始自动修复。"
+
+#: slot/0x00472837/0x0a7cd6/0x00001c
+msgid "Radome damage detected."
+msgstr "天线罩受损"
+
+#: slot/0x00472837/0x0a7cd6/0x000021
+msgid "Take this!!"
+msgstr "接招！"
+
+#: slot/0x00472837/0x0a7cd6/0x000023
+msgid "I'll send you straight to hell!"
+msgstr "我直接送你下地狱！"
+
+#: slot/0x00472837/0x0a7cd6/0x000026
+msgid "There you are!"
+msgstr "找到你！"
+
+#: slot/0x00472837/0x0a7cd6/0x000027
+msgid "Fly, my Kidnappers!!"
+msgstr "飞吧，绑匪！"
+
+#: slot/0x00472837/0x0a7cd6/0x000028
+msgid "Attack mode."
+msgstr "攻击模式。"
+
+#: slot/0x00472837/0x0a7cd6/0x000029
+msgid "Normal mode."
+msgstr "普通模式。"
+
+#: slot/0x00472837/0x0a7cd6/0x00002b
+#: slot/0x0052801a/0x0a7cd6/0x000011
+#: slot/0x009d70da/0x271a1f/0x000000
+#: slot/0x009d70da/0x28ee1f/0x000000
+#: slot/0x009d70da/0x2ac21f/0x000000
+#: slot/0x00a57090/0x12908e/0x0000dd
+#: slot/0x00db94df/0x94ec80/0x000000
+#: slot/0x00dff0a5/0xa84a6a/0x000060
+msgid "What?!"
+msgstr "什么？！"
+
+#: slot/0x00472837/0x0a7cd6/0x00002c
+msgid "Damn you!"
+msgstr "可恶！"
+
+#: slot/0x00472837/0x0a7cd6/0x00002f
+msgid "Let's try that again."
+msgstr "再试一次。"
+
+#: slot/0x00472837/0x0a7cd6/0x000030
+#: slot/0x00a57090/0x12908e/0x0001f8
+msgid "Initiating capture."
+msgstr "开始捕获。"
+
+#: slot/0x00472837/0x0a7cd6/0x000031
+msgid "Recalling Kidnappers."
+msgstr "召回绑架者。"
+
+#: slot/0x00472837/0x0a7cd6/0x000032
+msgid "Recalling Kidnappers!"
+msgstr "召回绑架者！"
+
+#: slot/0x00472837/0x0a7cd6/0x000033
+msgid "Kidnappers, come back!"
+msgstr "绑架犯，回来！"
+
+#: slot/0x00483717/0x0a7cd6/0x000001
+#: slot/0x00483717/0x0a7cd6/0x00000b
+msgid "Emergency override complete. Reinitializing."
+msgstr "紧急覆写完成。重新初始化。"
+
+#: slot/0x00483717/0x0a7cd6/0x000002
+#: slot/0x00483717/0x0a7cd6/0x00000c
+msgid "Missile target acquired."
+msgstr "导弹已锁定目标。"
+
+#: slot/0x00483717/0x0a7cd6/0x000003
+#: slot/0x00483717/0x0a7cd6/0x00000d
+msgid "Commencing area attack!"
+msgstr "开始区域攻击！"
+
+#: slot/0x00483717/0x0a7cd6/0x000004
+#: slot/0x00483717/0x0a7cd6/0x00000e
+#: slot/0x0052801a/0x0a7cd6/0x00002d
+msgid "Main cannon loaded."
+msgstr "主炮已装填。"
+
+#: slot/0x00483717/0x0a7cd6/0x000005
+#: slot/0x00483717/0x0a7cd6/0x00000f
+msgid "Commencing sweep attack!"
+msgstr "开始扫射攻击！"
+
+#: slot/0x00483717/0x0a7cd6/0x000006
+#: slot/0x00483717/0x0a7cd6/0x000010
+msgid "Eliminating threat."
+msgstr "清除威胁。"
+
+#: slot/0x00483717/0x0a7cd6/0x000007
+#: slot/0x00483717/0x0a7cd6/0x000011
+msgid "Thermostat malfunction detected."
+msgstr "检测到恒温器故障。"
+
+#: slot/0x00483717/0x0a7cd6/0x000008
+#: slot/0x00483717/0x0a7cd6/0x000012
+#: slot/0x00483717/0x0a7cd6/0x00001c
+msgid "Cooling complete. Reinitializing."
+msgstr "冷却完成。重新初始化。"
+
+#: slot/0x00483717/0x0a7cd6/0x000015
+#: slot/0x0048f045/0x0a7cd6/0x000020
+#: slot/0x0052801a/0x0a7cd6/0x000016
+#: slot/0x00ce245c/0x0a7cd6/0x000045
+msgid "It's not over yet!"
+msgstr "还没结束！"
+
+#: slot/0x00483717/0x0a7cd6/0x000016
+msgid "You think I'll let you get away?"
+msgstr "你以为我会让你逃掉？"
+
+#: slot/0x00483717/0x0a7cd6/0x000017
+#: slot/0x0048f045/0x0a7cd6/0x00001b
+#: slot/0x0052801a/0x0a7cd6/0x00001a
+#: slot/0x00ce245c/0x0a7cd6/0x00004b
+msgid "Die!"
+msgstr "死吧！"
+
+#: slot/0x00483717/0x0a7cd6/0x000018
+msgid "This one is going to hurt...!"
+msgstr "这下会很痛……！"
+
+#: slot/0x00483717/0x0a7cd6/0x000019
+msgid "See how you like THIS!"
+msgstr "让你尝尝这个！"
+
+#: slot/0x00483717/0x0a7cd6/0x00001a
+msgid "I'll smash you!"
+msgstr "砸扁你！"
+
+#: slot/0x00483717/0x0a7cd6/0x00001b
+msgid "Now I'm really pissed off…"
+msgstr "我现在真火了……"
+
+#: slot/0x0048f045/0x0a7cd6/0x000001
+msgid "Shock output at maximum."
+msgstr "电击输出最大化。"
+
+#: slot/0x0048f045/0x0a7cd6/0x000002
+msgid "Target locked."
+msgstr "目标锁定"
+
+#: slot/0x0048f045/0x0a7cd6/0x000003
+#: slot/0x0052801a/0x0a7cd6/0x00002a
+msgid "Engaging shock units."
+msgstr "启动电击组件。"
+
+#: slot/0x0048f045/0x0a7cd6/0x000004
+msgid "Firing boosters."
+msgstr "发射推进器"
+
+#: slot/0x0048f045/0x0a7cd6/0x000005
+msgid "Commencing jump."
+msgstr "开始跳跃。"
+
+#: slot/0x0048f045/0x0a7cd6/0x000006
+msgid "Re–engaging target."
+msgstr "重新锁定目标。"
+
+#: slot/0x0048f045/0x0a7cd6/0x000008
+msgid "Auto-repair complete. Reinitializing."
+msgstr "自动修复完成。重新启动。"
+
+#: slot/0x0048f045/0x0a7cd6/0x00000d
+msgid "Shock output at maximum!"
+msgstr "电击输出最大！"
+
+#: slot/0x0048f045/0x0a7cd6/0x00000e
+msgid "Target locked!"
+msgstr "锁定！"
+
+#: slot/0x0048f045/0x0a7cd6/0x00000f
+msgid "Engaging shock units!"
+msgstr "启动电击装置！"
+
+#: slot/0x0048f045/0x0a7cd6/0x000010
+msgid "Firing boosters!"
+msgstr "推进器！"
+
+#: slot/0x0048f045/0x0a7cd6/0x000011
+msgid "Commencing jump!"
+msgstr "开始跳跃！"
+
+#: slot/0x0048f045/0x0a7cd6/0x000012
+msgid "Re–engaging target!"
+msgstr "重新锁定目标！"
+
+#: slot/0x0048f045/0x0a7cd6/0x000014
+msgid "Auto-repair complete. Reinitializing!"
+msgstr "自动修复完成。重新启动！"
+
+#: slot/0x0048f045/0x0a7cd6/0x000019
+msgid "Time for you to DIE!"
+msgstr "你该死！"
+
+#: slot/0x0048f045/0x0a7cd6/0x00001a
+msgid "You think I'll let you get away?!"
+msgstr "你以为我会放你走？！"
+
+#: slot/0x0048f045/0x0a7cd6/0x00001d
+msgid "I'll crush you like an insect!"
+msgstr "我要把你碾成虫子！"
+
+#: slot/0x0048f045/0x0a7cd6/0x00001e
+#: slot/0x00ce245c/0x0a7cd6/0x000065
+msgid "Bring it on."
+msgstr "来吧。"
+
+#: slot/0x004c49a2/0x840500/0x01487a
+msgid "My name is Paz, and I'll do anything to protect my namesake."
+msgstr "我叫帕兹，我会不惜一切保护我的同名者。"
+
+#: slot/0x004c49a2/0x840500/0x0b58fc
+#, c-format
+msgid ""
+"70% of my existence is made of movies.\n"
+"It is up to you to decide what to do with the remaining 30%. "
+msgstr ""
+"我存在的70%由电影构成。\n"
+"剩下的30%怎么用，由你决定。"
+
+#: slot/0x004c49a2/0x840500/0x255cf9
+msgid ""
+"My father worked on the Manhattan Project.\n"
+"In a lifetime of research, he produced two things. The illusion of peace through deterrence...\n"
+"And me and my useless legs.\n"
+"One way or the other, I had to face up to the nukes."
+msgstr ""
+"我父亲参与过曼哈顿计划。\n"
+"一生研究，他只造出两样东西。以威慑换来的虚假和平……\n"
+"以及我和我这双废腿。\n"
+"无论如何，我都得直面核武器。"
+
+#: slot/0x004c49a2/0x840500/0x33c631
+msgid "Give me any order you want. I'll make it happen."
+msgstr "随便下什么命令，我都给你办到。"
+
+#: slot/0x004c49a2/0x840500/0x33c632
+msgid "I left my hometown and haven't looked back."
+msgstr "我离开家乡后就没再回头。"
+
+#: slot/0x004c49a2/0x840500/0x33c633
+msgid "I'm good to go as long as I have three square meals."
+msgstr "只要一天三顿管饱，我就没问题。"
+
+#: slot/0x004c49a2/0x840500/0x33c634
+msgid "I'm going to be taking a good look at your command style."
+msgstr "我会好好看看你的指挥风格。"
+
+#: slot/0x004c49a2/0x840500/0x33c635
+msgid "Male, female... I heard it doesn't matter out here. I heard you'll use us just the same."
+msgstr "男的女的……听说在这儿都一样。听说你会一视同仁地用我们。"
+
+#: slot/0x004c49a2/0x840500/0x33c636
+msgid "What's your sidearm of choice? A handgun? Or, maybe a submachine gun?"
+msgstr "你配枪选什么？手枪？还是冲锋枪？"
+
+#: slot/0x004c49a2/0x840500/0x33c637
+msgid "I'm so sleepy..."
+msgstr "我好困……"
+
+#: slot/0x004c49a2/0x840500/0x33c638
+msgid "I'll go berserk if my pay's late."
+msgstr "工资晚发我就发飙。"
+
+#: slot/0x004c49a2/0x840500/0x33c639
+msgid "Just so you know, I'm only here to pay for my kid brother's education, so spare me the cheesy battlefield romance."
+msgstr "先说清楚，我来这只是为了供弟弟上学，别跟我搞什么战场上的肉麻恋情。"
+
+#: slot/0x004c49a2/0x840500/0x33c650
+msgid "I caught a whiff of an ocean breeze..."
+msgstr "我闻到了海风的味道……"
+
+#: slot/0x004c49a2/0x840500/0x33c651
+msgid "I won't disappoint you, and that's a promise."
+msgstr "我不会让你失望，这是承诺。"
+
+#: slot/0x004c49a2/0x840500/0x33c652
+msgid "Can't say I'm impressed by anyone here. I guess I'll have to help you out."
+msgstr "这里没一个让我看得上眼的。看来只能我来帮你了。"
+
+#: slot/0x004c49a2/0x840500/0x33c653
+msgid "I used to work in a kitchen. Whether it's guns or knives, just leave it to me."
+msgstr "我以前在厨房干过。枪也好刀也好，交给我就行。"
+
+#: slot/0x004c49a2/0x840500/0x33c654
+msgid "Let's square off in the ring next chance we have!"
+msgstr "下次有机会在拳台上较量一场！"
+
+#: slot/0x004c49a2/0x840500/0x33c655
+msgid "You do have a good medic, don't you? I mean, people die all the time from minor wounds that get infected. You gotta have a good medic."
+msgstr "你有好军医吧？小伤感染死人可是常事。必须得有好军医。"
+
+#: slot/0x004c49a2/0x840500/0x33c656
+msgid "My mom was a fighter pilot."
+msgstr "我妈是战斗机飞行员。"
+
+#: slot/0x004c49a2/0x840500/0x33c657
+msgid "I don't choose sides. Whoever needs me, that's where I go."
+msgstr "我不站队。谁需要我，我就去哪。"
+
+#: slot/0x004c49a2/0x840500/0x33c658
+msgid "I'm prepared to die for you!"
+msgstr "我愿为你而死！"
+
+#: slot/0x004c49a2/0x840500/0x33c659
+msgid "I like that look you have in your eyes, Boss!"
+msgstr "BOSS，我喜欢你眼里的那股劲！"
+
+#: slot/0x004c49a2/0x840500/0x33c670
+msgid "I majored in quantum mechanics, and I'm continuing my studies on the side."
+msgstr "我主修量子力学，现在还在业余继续研究。"
+
+#: slot/0x004c49a2/0x840500/0x33c671
+msgid "The sky's so blue again today."
+msgstr "今天天空又这么蓝。"
+
+#: slot/0x004c49a2/0x840500/0x33c672
+#, c-format
+msgid "Did you know that 65% of the world's top assassins are women?"
+msgstr "你知道世界顶尖杀手里65%是女性吗？"
+
+#: slot/0x004c49a2/0x840500/0x33c673
+msgid "I may not look it, but I took third in a national weightlifting tournament."
+msgstr "看不出来吧，我拿过全国举重锦标赛第三名。"
+
+#: slot/0x004c49a2/0x840500/0x33c674
+msgid "I have a proven track record. No matter the mission, I'll deliver the goods."
+msgstr "我有实绩。不管什么任务，我都能办妥。"
+
+#: slot/0x004c49a2/0x840500/0x33c675
+msgid "Today is your lucky day. I'm going to join your unit!"
+msgstr "今天你走运了。我要加入你的部队！"
+
+#: slot/0x004c49a2/0x840500/0x33c676
+msgid "My mother's in the hospital, so send me somewhere the pay's good. I don't care how dangerous it is."
+msgstr "我妈住院了，派我去报酬高的地方吧。多危险都无所谓。"
+
+#: slot/0x004c49a2/0x840500/0x33c677
+msgid "Our rations include tea and scones, right?"
+msgstr "我们的口粮里有茶和司康饼吧？"
+
+#: slot/0x004c49a2/0x840500/0x33c678
+msgid "So you're that Boss I heard about. It's an honor to meet you."
+msgstr "你就是传闻中的那位BOSS吧。很荣幸见到你。"
+
+#: slot/0x004c49a2/0x840500/0x33c679
+msgid "I smelled gallo pinto earlier. Is that what's for dinner?"
+msgstr "我闻到豆饭味了。晚饭就吃那个？"
+
+#: slot/0x004c49a2/0x840500/0x33c690
+msgid "I heard you train with unlimited live fire. That true?"
+msgstr "听说你们训练用无限实弹。真的吗？"
+
+#: slot/0x004c49a2/0x840500/0x33c691
+msgid "If you're out of rations, why not have a snack instead? Like curry - mmm, can't get enough!"
+msgstr "口粮不够的话，不如吃点零食？比如咖喱——嗯，怎么吃都不腻！"
+
+#: slot/0x004c49a2/0x840500/0x33c692
+msgid "The more you use a certain weapon, the more of its natural power will be unleashed. Interesting... I'll have to remember that."
+msgstr "武器用得越多，越能发挥出它本来的力量。有意思……我得记住这点。"
+
+#: slot/0x004c49a2/0x840500/0x33c693
+msgid "I don't like my hair to get messed up, but for you, I'll go fight."
+msgstr "我不喜欢头发被弄乱，但为了你，我去战斗。"
+
+#: slot/0x004c49a2/0x840500/0x33c694
+msgid "Getting the highest clear rank means not killing, not being seen, and moving quickly. You can do it, Boss!"
+msgstr "拿到最高评价意味着不杀人、不被发现、快速行动。你能做到的，BOSS！"
+
+#: slot/0x004c49a2/0x840500/0x33c695
+msgid "There's more than one way to \"neutralize\" somebody, right, Boss? You can knock 'em out with a stun rod, or put 'em to sleep with a tranq gun, or sneak up from behind and hold 'em up..."
+msgstr "制伏敌人的方法不止一种，对吧，BOSS？可以用电击棒打晕，用麻醉枪让他睡着，或者从背后悄悄靠近挟持……"
+
+#: slot/0x004c49a2/0x840500/0x33c696
+msgid "If it's taking too long to aim, switch to AUTO AIM. That's what's kept me alive all this time."
+msgstr "瞄准太慢的话，就切到自动瞄准。我就是靠这个活到现在的。"
+
+#: slot/0x004c49a2/0x840500/0x33c697
+msgid "The \"3 Slot\" weapon select takes some getting used to, but once you get the hang of it, it's a cinch. And boy, is it deadly!"
+msgstr "“3槽”武器切换需要点时间适应，但上手之后就轻松了。而且，天哪，太致命了！"
+
+#: slot/0x004c49a2/0x840500/0x33c698
+msgid "There's nothing like sleep for recovering LIFE! And if you can't sleep, lie down and stay still! Isn't that right, sir?"
+msgstr "恢复生命值最好的办法就是睡觉！睡不着的话，躺下别动！对吧，长官？"
+
+#: slot/0x004c49a2/0x840500/0x33c699
+msgid "The more you use a weapon, the more of a feel you get for it. Eventually, it gets so it's almost a part of your body..."
+msgstr "武器用得越多，就越有手感。到最后，它几乎成了你身体的一部分……"
+
+#: slot/0x004c49a2/0x840500/0x33c6b0
+msgid "Sometimes a single word to your comrades can change the course of a battle... Wow, Boss, you always see things the rest of us don't."
+msgstr "有时对同伴说一句话就能改变战局……哇，BOSS，你总能看到我们看不到的东西。"
+
+#: slot/0x004c49a2/0x840500/0x33c6b1
+msgid "You're never too busy to attend a briefing! See, Boss? I got it memorized!"
+msgstr "再忙也不能缺席简报！看吧，BOSS？我都记住了！"
+
+#: slot/0x004c49a2/0x840500/0x33c6b2
+msgid "Sir, I like the M16A1 for its low recoil. What's your favorite weapon, Boss?"
+msgstr "长官，我喜欢M16A1后坐力小。你最爱哪把枪，BOSS？"
+
+#: slot/0x004c49a2/0x840500/0x33c6b3
+msgid "You ever sneak up behind an enemy and ZAP 'em with the stun rod? Gives me the shivers every time!"
+msgstr "你有没有从背后悄悄靠近敌人，用电击棒电他们？每次都让我浑身发麻！"
+
+#: slot/0x004c49a2/0x840500/0x33c6b4
+msgid "Life is all about experience! Come to think of it, I guess that goes for drills, too... ugghh, I hate drills..."
+msgstr "人生全靠经验！说起来，训练大概也一样……呃，我讨厌训练……"
+
+#: slot/0x004c49a2/0x840500/0x33c6b5
+msgid "Do you believe in fate? Right now, I think I could."
+msgstr "你信命运吗？现在，我信了。"
+
+#: slot/0x004c49a2/0x840500/0x33c6b6
+msgid "I believe in you, Boss. Under your command, gender means nothing."
+msgstr "我相信你，BOSS。在你的指挥下，性别毫无意义。"
+
+#: slot/0x004c49a2/0x840500/0x33c6b7
+msgid "I just don't know what I'm good at... Can you tell what my skills are, Boss?"
+msgstr "我不知道自己擅长啥……你能看出我技能吗，BOSS？"
+
+#: slot/0x004c49a2/0x840500/0x33c6b8
+msgid "Staring at me's not going to do anything. Penny for your thoughts, sir."
+msgstr "盯着我看也没用。说说你在想什么吧，长官。"
+
+#: slot/0x004c49a2/0x840500/0x33c6b9
+msgid "Orders, Boss?"
+msgstr "有什么命令吗，BOSS？"
+
+#: slot/0x004c49a2/0x840500/0x33c6d0
+msgid "I usually hate doing things for other people. But for you, Boss, I'll do anything."
+msgstr "我通常讨厌替别人做事。但为了你，BOSS，我什么都愿意做。"
+
+#: slot/0x004c49a2/0x840500/0x33c6d1
+msgid "I always saw myself as a lone wolf. But I guess people's values can change pretty quick. Lord knows I've changed since I came here."
+msgstr "我一直把自己当成独狼。但人的价值观大概变得很快。自从来到这里，我确实变了。"
+
+#: slot/0x004c49a2/0x840500/0x33c6d2
+msgid "I'm not the type to follow orders. Unless you're giving them, Boss."
+msgstr "我不服从命令。除非是你下的，BOSS。"
+
+#: slot/0x004c49a2/0x840500/0x33c6d3
+msgid "I'm burning for some action! Got a mission for me?"
+msgstr "我渴望行动！有任务给我吗？"
+
+#: slot/0x004c49a2/0x840500/0x33c6d4
+msgid "I like it here. It's a nice place."
+msgstr "我喜欢这里。好地方。"
+
+#: slot/0x004c49a2/0x840500/0x33c6d5
+msgid "Do you believe in horoscopes? Me, I only believe in you."
+msgstr "你相信星座吗？我嘛，只相信你。"
+
+#: slot/0x004c49a2/0x840500/0x33c6d6
+msgid "What do you see in those eyes of yours...? Sorry, didn't mean to get personal."
+msgstr "你那双眼睛看到了什么……？抱歉，不该问这么私人的事。"
+
+#: slot/0x004c49a2/0x840500/0x33c6d7
+msgid "When things get tough, think of me. That might ease the pain a little."
+msgstr "遇到困难时，想想我。也许能减轻一点痛苦。"
+
+#: slot/0x004c49a2/0x840500/0x33c6d8
+msgid "I can be kind of stubborn, but I'm a survivor, too."
+msgstr "我可能有点固执，但我也是个幸存者。"
+
+#: slot/0x004c49a2/0x840500/0x33c6d9
+msgid "People say I'm a little CRRRRRAZY..."
+msgstr "大家都说我有点疯……"
+
+#: slot/0x004c49a2/0x840500/0x33c6f0
+msgid "I heard you're scared of vampires - is that true? Aww... that's actually kind of cute, Boss!"
+msgstr "听说你怕吸血鬼——真的吗？哎呀……其实还挺可爱的，BOSS！"
+
+#: slot/0x004c49a2/0x840500/0x33c6f1
+msgid "Don't underestimate me because I'm a woman. We ladies can fight in ways you men can't!"
+msgstr "别因为我是女人就小看我。我们女人有你们男人做不到的打法！"
+
+#: slot/0x004c49a2/0x840500/0x33c6f2
+msgid "Oh... Boss..."
+msgstr "哦……BOSS……"
+
+#: slot/0x004c49a2/0x840500/0x33c6f3
+msgid "Give me a mission, and I'll do everything I can to get it done!"
+msgstr "给我任务，我会尽全力完成！"
+
+#: slot/0x004c49a2/0x840500/0x33c6f4
+msgid "Boss! Send me out into the field! I'm going crazy just sitting around here! My legs are starting to cramp up!"
+msgstr "BOSS！派我上战场吧！光坐在这里我要疯了！腿都开始抽筋了！"
+
+#: slot/0x004c49a2/0x840500/0x33c6f5
+msgid "Boss! Send me into the field! I promise I'll come back alive!"
+msgstr "BOSS！派我上战场！我保证活着回来！"
+
+#: slot/0x004c49a2/0x840500/0x33c6f6
+msgid "Comrade-in-stealth... it's got a nice ring to it."
+msgstr "潜行战友……听起来不错。"
+
+#: slot/0x004c49a2/0x840500/0x33c6f7
+msgid "You know, Commander Miller is actually kind of cute when he takes off those sunglasses."
+msgstr "你知道吗，米勒指挥官摘下墨镜其实还挺帅的。"
+
+#: slot/0x004c49a2/0x840500/0x33c6f8
+msgid "My hobby is gardening."
+msgstr "爱好是园艺。"
+
+#: slot/0x004c49a2/0x840500/0x374631
+msgid "I'm your man! Give me an order, I'll get it done!"
+msgstr "交给我吧！下命令，我搞定！"
+
+#: slot/0x004c49a2/0x840500/0x374632
+msgid "I am hyped!! Let's do this!!!"
+msgstr "我热血沸腾！！来吧！！！"
+
+#: slot/0x004c49a2/0x840500/0x374633
+msgid "Need a...helping hand?"
+msgstr "要…帮忙吗？"
+
+#: slot/0x004c49a2/0x840500/0x374634
+msgid ""
+"I left some of my buddies behind on the last battlefield...\n"
+"You gonna give me the chance to make it up to them here?"
+msgstr ""
+"上次战场上我丢下了几个兄弟……\n"
+"你能给我机会在这里补偿他们吗？"
+
+#: slot/0x004c49a2/0x840500/0x374635
+msgid "I got a daughter. She's going to be 12 next year. I have to make it out of this alive!"
+msgstr "我有个女儿。明年就12岁了。我必须活着回去！"
+
+#: slot/0x004c49a2/0x840500/0x374636
+msgid ""
+"I used to be a sailor. Best pair of eyes on the seas!\n"
+"Need someone who can see things a mile off?"
+msgstr ""
+"我以前是水手，海上眼神最好！\n"
+"需要能看一英里外的人吗？"
+
+#: slot/0x004c49a2/0x840500/0x374637
+msgid ""
+"I'm a weapons technician.\n"
+"You say weapons kill people?  I say they're needed to protect people."
+msgstr ""
+"我是武器技师。\n"
+"你说武器杀人？我说武器能保护人。"
+
+#: slot/0x004c49a2/0x840500/0x374638
+msgid "Give me a mission, Boss!"
+msgstr "给我任务，BOSS！"
+
+#: slot/0x004c49a2/0x840500/0x374639
+msgid ""
+"I'm a martial arts expert - I know Combat Sambo and I'm a fifth degree black belt in karate!\n"
+"CQC? This I gotta see!"
+msgstr ""
+"我是武术专家，会战斗桑搏，空手道五段！\n"
+"CQC？这我得见识见识！"
+
+#: slot/0x004c49a2/0x840500/0x374650
+msgid "My grandpa was a mechanic. I can take an air-cooled engine apart in five minutes flat!"
+msgstr "我爷爷是机械师，风冷引擎我五分钟就能拆完！"
+
+#: slot/0x004c49a2/0x840500/0x374651
+msgid ""
+"I got back from Vietnam and found I had no place to call home anymore...\n"
+"Mind if I stick with you guys for a while?"
+msgstr ""
+"从越南回来，我发现已经没有家了……\n"
+"让我跟你们待一阵行吗？"
+
+#: slot/0x004c49a2/0x840500/0x374652
+msgid "I went through hell in 'Nam... I'm ready for anything!"
+msgstr "我在越南吃尽了苦头……什么都不怕了！"
+
+#: slot/0x004c49a2/0x840500/0x374653
+msgid ""
+"I was an Officer Candidate. Not much combat experience, but I speak seven languages.\n"
+"There's got to be some use for me here."
+msgstr ""
+"我当过候补军官，实战经验不多，但会七种语言。\n"
+"这里总该有我用武之地。"
+
+#: slot/0x004c49a2/0x840500/0x374654
+msgid ""
+"Need a dentist?\n"
+"Back in my dad's day, every army battalion had its own dentist."
+msgstr ""
+"需要牙医吗？\n"
+"我父亲那年代，每个营都有自己的牙医。"
+
+#: slot/0x004c49a2/0x840500/0x374655
+msgid ""
+"Costa Rica is full of swamps... make sure we got a good supply of dry socks.\n"
+"The last thing we need are fungal infections."
+msgstr ""
+"哥斯达黎加遍地沼泽……多备些干袜子。\n"
+"可别闹出真菌感染。"
+
+#: slot/0x004c49a2/0x840500/0x374656
+msgid "You're good. Better than I expected."
+msgstr "你很强，比我预想的还强。"
+
+#: slot/0x004c49a2/0x840500/0x374657
+msgid "As much as I hate to say it, it's war that gives us our greatest breakthroughs in science and technology."
+msgstr "说来惭愧，正是战争带来了科学与技术最大的突破。"
+
+#: slot/0x004c49a2/0x840500/0x374658
+msgid "I know it takes more than weapons to make us strong and all, but at least give us some decent gear, alright? "
+msgstr "我知道光靠武器强大不起来，但至少给点像样的装备吧？"
+
+#: slot/0x004c49a2/0x840500/0x374659
+msgid ""
+"Heh... Imagine. If only we had a guy like you running the country...\n"
+"Maybe my village wouldn't have been burned to the ground."
+msgstr ""
+"呵……想想看，要是你这样的人来治国……\n"
+"也许我的村子就不会被烧光了。"
+
+#: slot/0x004c49a2/0x840500/0x374670
+msgid "You look like you'll come in handy. I guess I'll stick around and help you out."
+msgstr "你看着挺有用，我就留下来帮你吧。"
+
+#: slot/0x004c49a2/0x840500/0x374671
+msgid ""
+"Gotta get your hands dirty to win a war...\n"
+"You know what I'm talking about, right?"
+msgstr ""
+"想打赢战争就得弄脏手……\n"
+"你懂我意思吧？"
+
+#: slot/0x004c49a2/0x840500/0x374672
+msgid "We can do better than this."
+msgstr "我们能做得更好。"
+
+#: slot/0x004c49a2/0x840500/0x374673
+msgid ""
+"You? A sneaking master?! Are you kidding me?\n"
+"I can smell the gunpowder on you a mile away!"
+msgstr ""
+"你？潜行大师？！开玩笑？\n"
+"一英里外我就闻到你身上火药味！"
+
+#: slot/0x004c49a2/0x840500/0x374674
+msgid "I can smell it... The smell of blood...  Lots of blood..."
+msgstr "我闻得到……血的味道……好多血……"
+
+#: slot/0x004c49a2/0x840500/0x374675
+msgid "Ready when you are, Boss."
+msgstr "随时待命，BOSS。"
+
+#: slot/0x004c49a2/0x840500/0x374676
+msgid "Well, I've earned MY check... Time for a nap..."
+msgstr "总算挣到工钱了……睡一觉……"
+
+#: slot/0x004c49a2/0x840500/0x374677
+msgid "Guns kill people? Bro, sometimes guns are the only things that save lives."
+msgstr "枪会杀人？兄弟，有时枪是唯一能救命的东西。"
+
+#: slot/0x004c49a2/0x840500/0x374678
+msgid ""
+"I used to be a world-class gymnast, you know.\n"
+"'Course, when it comes to a war, pride and glory don't mean a hell of a lot."
+msgstr ""
+"我以前是世界级体操选手。\n"
+"不过打起仗来，骄傲和荣耀不值几个钱。"
+
+#: slot/0x004c49a2/0x840500/0x374679
+msgid "When this fight's over, I'm gonna go back home and find myself a wife..."
+msgstr "这场仗打完，我就回家找个老婆……"
+
+#: slot/0x004c49a2/0x840500/0x374690
+msgid "I still haven't made up my mind about you yet."
+msgstr "我还没想好怎么看你。"
+
+#: slot/0x004c49a2/0x840500/0x374691
+msgid "I can tell that you're not in this 'cause you like the smell of hot lead. Am I right?"
+msgstr "我看得出来，你干这行不是因为喜欢闻火药味。对吧？"
+
+#: slot/0x004c49a2/0x840500/0x374692
+msgid "Just so you know, the more praise I get, the better I do."
+msgstr "告诉你，夸奖越多，我干得越好。"
+
+#: slot/0x004c49a2/0x840500/0x374693
+msgid "Drinks later? It's on me."
+msgstr "回头喝一杯？我请客。"
+
+#: slot/0x004c49a2/0x840500/0x374694
+msgid "Think you can take advantage of my skills?"
+msgstr "想利用我的本事？"
+
+#: slot/0x004c49a2/0x840500/0x374695
+msgid "Balls to the wall, boys!"
+msgstr "拼了命上，兄弟们！"
+
+#: slot/0x004c49a2/0x840500/0x374696
+msgid "Let's see, my horoscope says today's going to be... OK, I guess."
+msgstr "让我看看，我的星座运势说今天会……还行吧。"
+
+#: slot/0x004c49a2/0x840500/0x374697
+msgid "C'mon, give me a mission! My rifle's getting all rusty!"
+msgstr "来吧，给我个任务！我的枪都快生锈了！"
+
+#: slot/0x004c49a2/0x840500/0x374698
+msgid "Things are never better than when they're ordinary."
+msgstr "平平淡淡才是最好。"
+
+#: slot/0x004c49a2/0x840500/0x374699
+msgid "I... I don't wanna fight. I wanna be a cook."
+msgstr "我……我不想打仗。我想当厨师。"
+
+#: slot/0x004c49a2/0x840500/0x3746b0
+msgid "Hey Boss, at dinner do you eat your favorite food first, or save it for last?"
+msgstr "嘿，BOSS，吃饭时你先吃最爱吃的，还是留到最后？"
+
+#: slot/0x004c49a2/0x840500/0x3746b1
+msgid "You're like a knife out of its sheath, you know that?"
+msgstr "你就像出鞘的刀，知道吗？"
+
+#: slot/0x004c49a2/0x840500/0x3746b2
+msgid "My muscles never fail me."
+msgstr "我的肌肉从不让我失望。"
+
+#: slot/0x004c49a2/0x840500/0x3746b3
+msgid "(I'm too shy to talk to people... I believe in you, Boss...)"
+msgstr "（我太害羞，不敢跟人说话……我相信你，BOSS……）"
+
+#: slot/0x004c49a2/0x840500/0x3746b4
+msgid "We're gonna make a name for ourselves!"
+msgstr "我们要闯出名堂来！"
+
+#: slot/0x004c49a2/0x840500/0x3746b5
+msgid "Look, Boss! I caught a male Elephant Beetle, the world's heaviest insect!"
+msgstr "看，BOSS！我抓到一只公象兜虫，世界上最重的昆虫！"
+
+#: slot/0x004c49a2/0x840500/0x3746b6
+msgid "Happy to be on board with you, Boss."
+msgstr "很高兴能跟你并肩作战，BOSS。"
+
+#: slot/0x004c49a2/0x840500/0x3746b7
+msgid "It's good to have comrades...especially on the battlefield."
+msgstr "有同志真好……尤其是在战场上。"
+
+#: slot/0x004c49a2/0x840500/0x3746b8
+msgid "Don't worry, I got your back!"
+msgstr "别担心，我掩护你！"
+
+#: slot/0x004c49a2/0x840500/0x3746b9
+msgid "Boss, if there's anything I can do to help make our technology better, I'll do it."
+msgstr "BOSS，只要能帮咱们的技术更上一层楼，我什么都愿意做。"
+
+#: slot/0x004c49a2/0x840500/0x3746d0
+msgid "Good eats everyday!"
+msgstr "天天吃好的！"
+
+#: slot/0x004c49a2/0x840500/0x3746d1
+msgid ""
+"You want to know how to raise morale around here?\n"
+"Simple! Give us letters from our folks. And hot meals - can't fight on an empty stomach!"
+msgstr ""
+"想知道怎么提振这里的士气？\n"
+"简单！给我们家书。还有热饭——饿着肚子打不了仗！"
+
+#: slot/0x004c49a2/0x840500/0x3746d2
+msgid "It's a real honor fighting with you..."
+msgstr "能跟你一起战斗真荣幸……"
+
+#: slot/0x004c49a2/0x840500/0x3746d3
+msgid "Sometimes, I get to thinking. What is human life in the face of truly great scientific research?"
+msgstr "有时我会想。在真正伟大的科学研究面前，人的生命算什么？"
+
+#: slot/0x004c49a2/0x840500/0x3746d4
+msgid "Welcome back! I made something new for dinner today - want to try some?"
+msgstr "欢迎回来！今天晚饭我做了新花样——要尝尝吗？"
+
+#: slot/0x004c49a2/0x840500/0x3746d5
+msgid "You're one smart customer, man!"
+msgstr "你真精明，老兄！"
+
+#: slot/0x004c49a2/0x840500/0x3746d6
+msgid "I'm former SAS... what you think I'm B.S.-ing you?"
+msgstr "我以前是SAS的……你觉得我在吹牛？"
+
+#: slot/0x004c49a2/0x840500/0x3746d7
+msgid "I'm proud to be counted as one of your comrades, Boss!"
+msgstr "能成为你的同志，我很自豪，BOSS！"
+
+#: slot/0x004c49a2/0x840500/0x3746d8
+msgid "I...I can't believe I'm actually meeting you in person, Boss!"
+msgstr "我……我真不敢相信能亲眼见到你，BOSS！"
+
+#: slot/0x004c49a2/0x840500/0x3746d9
+msgid "(Just between you and me, I'm the guy who keeps MSF together...)"
+msgstr "（只跟你说，MSF全靠我撑着……）"
+
+#: slot/0x004c49a2/0x840500/0x3746f0
+msgid "You stay here. I'll have this next mission wrapped up in no time."
+msgstr "你留在这。下次任务我马上就能搞定。"
+
+#: slot/0x004c49a2/0x840500/0x3746f1
+msgid "This mission's nothing. I could do it with my eyes closed."
+msgstr "这任务不算什么。我闭着眼都能完成。"
+
+#: slot/0x004c49a2/0x840500/0x3746f2
+msgid "Boss, I've been meaning to tell you... nah, forget it. It's nothing."
+msgstr "BOSS，我一直想跟你说……算了，没什么。"
+
+#: slot/0x004c49a2/0x840500/0x3746f3
+msgid "I owe you one. Guess I better come with you."
+msgstr "我欠你一次。看来我得跟你一起去。"
+
+#: slot/0x004c49a2/0x840500/0x3746f4
+msgid "Who'd have thought being stealthy could be such a thrill..."
+msgstr "谁能想到潜行居然这么刺激……"
+
+#: slot/0x004c49a2/0x840500/0x3746f5
+msgid "I actually kind of like the way you fight."
+msgstr "其实我还挺喜欢你的打法。"
+
+#: slot/0x004c49a2/0x840500/0x3746f6
+msgid ""
+"I'll show you how to get it done the smart way!\n"
+"That's the kind of guy I am!"
+msgstr ""
+"我让你看看什么叫聪明人的做法！\n"
+"我就是这种人！"
+
+#: slot/0x004c49a2/0x840500/0x3746f7
+msgid ""
+"Back home, I'm a pretty well-known journalist.\n"
+"I'm going to write your story and tell everybody how you lived."
+msgstr ""
+"在家乡，我是挺有名的记者。\n"
+"我要写下你故事，告诉所有人你怎么活。"
+
+#: slot/0x004c49a2/0x840500/0x3746f8
+msgid "You look prettier every time I see you."
+msgstr "每次见你，你都更漂亮了。"
+
+#: slot/0x004c49a2/0x840500/0x3746f9
+msgid "Wish I could have met you sooner..."
+msgstr "真希望能早点遇见你……"
+
+#: slot/0x004c49a2/0x840500/0x374710
+msgid "Listen, I never actually hated you..."
+msgstr "听着，我没真恨过你……"
+
+#: slot/0x004c49a2/0x840500/0x374711
+msgid "It's all about the food. Give most guys a good meal and they won't complain. "
+msgstr "关键在伙食。给大多数人一顿好饭，他们就不会抱怨。"
+
+#: slot/0x004c49a2/0x840500/0x374712
+msgid "When this battle's over, I'm going to get my life together..."
+msgstr "等这场战斗结束，我要重新好好过日子……"
+
+#: slot/0x004c49a2/0x840500/0x374713
+#, c-format
+msgid "Don't worry, my cooking's 100% safe for human consumption."
+msgstr "放心，我做的饭百分之百能吃。"
+
+#: slot/0x004c49a2/0x840500/0x374714
+msgid "I've...never been in a real fight before..."
+msgstr "我……从来没真正打过架……"
+
+#: slot/0x004c49a2/0x840500/0x374715
+msgid "If we met under different circumstances, I bet we could have been good friends."
+msgstr "如果我们换个场合认识，说不定能成为好朋友。"
+
+#: slot/0x004c49a2/0x840500/0x374716
+msgid "Eureka! My research is going to blow your mind, Boss!"
+msgstr "我发现了！我的研究一定会让你大吃一惊，BOSS！"
+
+#: slot/0x004c49a2/0x840500/0x374717
+msgid "I just finished an incredible story! Could you read it and let me know what you think?"
+msgstr "我刚写完一个超棒的故事！你能读读看，告诉我怎么样吗？"
+
+#: slot/0x004c49a2/0x840500/0x374718
+msgid "Before I became a mercenary, I was a doctor. Would you like to try this new drug I'm working on?"
+msgstr "当雇佣兵之前，我是医生。要不要试试我正在研发的新药？"

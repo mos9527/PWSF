@@ -369,9 +369,18 @@ key.meta 只取 1 或 0x402；key.pad 恒为 0
 
 ## 7. 待办 / 未决
 
-- [ ] `key[].meta`（`0x402` / `0x1`）语义未定。实测：多数文件中 meta 按 group 恒定，
-      但 `009c9ea4` 有 9 个 group、`00c7f1dc` 有 37 个 group 内部混用两种 meta。
-      需回到 `text_get` 调用方确认。
+- [x] ~~`key[].meta`（`0x402` / `0x1`）语义未定~~ —— **已定：meta 是字体选择器**。
+      `0x1` = `Text\*.txp` 里那张 512×512 BC3 像素字图集（只有 ASCII + Latin-1，
+      一个汉字都没有）；`0x402` = `FONT\*.xpr` 的 ATG 字体。证据链见
+      `05_font.md` §15：RenderDoc 抓帧里 "PRESS START BUTTON"（`005184e3`
+      槽 `0xfb5d7b`，meta 0x1）的 14 个 quad 全部采样那张像素图集，而同一帧
+      4096×4096 的 ATG 图集根本不在显存里。
+      原记录"多数文件 meta 按 group 恒定、`009c9ea4` 有 9 个 group 内部混用"
+      仍然成立 —— meta 是 **per-key** 的，所以管线一律以**英文键**的 meta 为准
+      （`slots.META_PIXEL_FONT`）。
+
+      > 遗留：`0x402` → ATG 字体目前是推论（那批文本有汉字，而只有 ATG 字体有
+      > 汉字），需要在有 0x402 长文本的界面再抓一帧确认 4096×4096 被绑定。
 - [ ] 运行时如何加载 `MLG\Text\` 下其余 12 个表（`textlang_resolve_olang_paths`
       只注册了 2 个）。线索：`olang_register_table` @ `0x14003ADD0` 由
       `sub_140076AA0` 调用，表名来自 132 字节/项的记录表；

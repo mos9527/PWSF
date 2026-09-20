@@ -42,7 +42,7 @@ import argparse
 from collections import OrderedDict
 from pathlib import Path
 
-from . import config
+from . import config, slots
 from .crypto import name_hash, buffer_xor_decrypt
 from .olang import parse, string_at
 
@@ -123,12 +123,16 @@ def write_po(path: Path, entries: list, part: str, source: str,
 
 # ------------------------------------------------------------------ collection
 
-def collect_olang(ref_langs=REF_LANGS) -> list:
+def collect_olang(ref_langs=REF_LANGS, pixel: bool = False) -> list:
     """One record per English slot.
 
     Reads through config.pristine() so an installed build never leaks back in
     as source: the installers overwrite game files in place, and exporting the
     live copy would re-import our own translations as English.
+
+    `pixel` keeps the slots whose key.meta == 1: those are drawn with the
+    512x512 pixel atlas in Text/*.txp, which has no CJK glyphs, so they stay
+    English by default (ANALYSIS/05_font.md §15).
     """
     out = []
     for f in sorted(config.TEXT_DIR.glob("*.olang")):
@@ -139,12 +143,17 @@ def collect_olang(ref_langs=REF_LANGS) -> list:
             for ei in range(g.entry_start, g.entry_start + g.entry_count):
                 e = tbl.entries[ei]
                 by_lang = {}
+                en_meta = None
                 for ki in range(e.key_start, e.key_start + e.key_count):
                     k = tbl.keys[ki]
                     by_lang[LANG.get(k[0], f"u{k[0]:#x}")] = \
                         string_at(tbl, k[1]).decode("utf-8")
+                    if k[0] == config.LANG_EN:
+                        en_meta = k[2]
                 en = by_lang.get("en", "")
                 if not en:
+                    continue
+                if en_meta == slots.META_PIXEL_FONT and not pixel:
                     continue
                 comments = [f"{lang}: {by_lang[lang]}"
                             for lang in ref_langs
@@ -193,7 +202,7 @@ def collect_codec() -> list:
     return out
 
 
-def collect_slot(ref_langs=REF_LANGS, only=None) -> list:
+def collect_slot(ref_langs=REF_LANGS, only=None, pixel: bool = False) -> list:
     """The olang tables embedded in SLOT.DAT (ANALYSIS/08 §5.7).
 
     Source is `_slot_olang_lines.tsv`, the product of
@@ -217,6 +226,7 @@ def collect_slot(ref_langs=REF_LANGS, only=None) -> list:
     col = {n: i for i, n in enumerate(rows[0].split("\t"))}
 
     agg = {}
+    meta_of = {}
     order = []
     for r in rows[1:]:
         c = r.split("\t")
@@ -230,12 +240,16 @@ def collect_slot(ref_langs=REF_LANGS, only=None) -> list:
             agg[key] = {}
             order.append(key)
         agg[key][c[col["lang"]]] = c[col["text"]]
+        if c[col["lang"]] == "en":
+            meta_of[key] = int(c[col["meta"]], 0)
 
     out = []
     for key in order:
         by_lang = agg[key]
         en = by_lang.get("en", "")
         if not en.strip():
+            continue
+        if meta_of.get(key) == slots.META_PIXEL_FONT and not pixel:
             continue
         comments = [f"{lang}: {by_lang[lang]}"
                     for lang in ref_langs
@@ -308,6 +322,11 @@ def main() -> None:
                          "ANALYSIS/08 §8.1)")
     ap.add_argument("--fresh", action="store_true",
                     help="do not carry over msgstr from the existing .po files")
+    ap.add_argument("--pixel-font", action="store_true",
+                    help="also export the slots whose key.meta == 1: those are "
+                         "drawn with the 512x512 pixel atlas inside Text/*.txp, "
+                         "which has no CJK glyphs, so they are left out by "
+                         "default and stay English (ANALYSIS/05_font.md §15)")
     ap.add_argument("--pot", action="store_true",
                     help="also write pwsf.pot, everything merged into one "
                          "file with empty msgstr, for import into a "
@@ -327,9 +346,15 @@ def main() -> None:
 
     ref_langs = tuple(x.strip() for x in args.ref_langs.split(",") if x.strip())
     do_merge = not args.no_merge
-    corpora = [("olang", collect_olang(ref_langs)), ("codec", collect_codec())]
+    corpora = [("olang", collect_olang(ref_langs, args.pixel_font)),
+               ("codec", collect_codec())]
     if args.slot != "none":
-        corpora.append(("slot", collect_slot(ref_langs, args.slot)))
+        corpora.append(("slot", collect_slot(ref_langs, args.slot,
+                                             args.pixel_font)))
+    if not args.pixel_font:
+        print(f"left out {len(slots.pixel_font_refs())} pixel-font slot(s) "
+              f"(key.meta == 1: drawn with the ASCII-only 512x512 atlas in "
+              f"Text/*.txp); --pixel-font to export them anyway")
 
     carry = {} if args.fresh else existing_translations(args.outdir)
     if carry:
@@ -337,6 +362,7 @@ def main() -> None:
 
     manifest = ["file\tsource\tentries\trefs\tchars"]
     all_entries = []
+    written = set()
     for name, records in corpora:
         entries = merge(records, do_merge)
         all_entries += entries
@@ -346,12 +372,22 @@ def main() -> None:
         for i, part in enumerate(parts, 1):
             fn = args.outdir / name / f"{name}_{i:02d}.po"
             write_po(fn, part, f"{name} {i}/{len(parts)}", name, carry)
+            written.add(fn)
             refs = sum(len(e["refs"]) for e in part)
             chars = sum(len(e["msgid"]) for e in part)
             manifest.append(f"{fn.relative_to(args.outdir)}\t{name}\t"
                             f"{len(part)}\t{refs}\t{chars}")
             print(f"  {fn.relative_to(args.outdir)}  {len(part):>4} entries, "
                   f"{refs:>4} slots, {chars:>6} chars")
+
+    # a chunk count that shrank (smaller --chunk, or slots that stopped being
+    # exported) leaves the tail files behind, and their entries then conflict
+    # with the same references in the regenerated ones
+    for d in {p.parent for p in written}:
+        for old in sorted(d.glob("*.po")):
+            if old not in written:
+                old.unlink()
+                print(f"  removed stale {old.relative_to(args.outdir)}")
 
     if args.pot:
         pot = args.outdir / "pwsf.pot"

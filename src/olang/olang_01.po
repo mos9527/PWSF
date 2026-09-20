@@ -1,20 +1,18 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PWSF olang 1/4\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-PWSF-Source: olang\n"
 "X-PWSF-Entries: 400\n"
-"X-Generator: Poedit 3.9\n"
 
-#: olang/0005ee2f/0xc6de03/0x02d356 olang/0005ee2f/0xc6de03/0x17b115
-#: olang/0005ee2f/0xc6de03/0x262ccd olang/0005ee2f/0xc6de03/0xae4364
+
+#: olang/0005ee2f/0xc6de03/0x02d356
+#: olang/0005ee2f/0xc6de03/0x17b115
+#: olang/0005ee2f/0xc6de03/0x262ccd
+#: olang/0005ee2f/0xc6de03/0xae4364
 msgid "Human voice"
 msgstr "人声"
 
@@ -28,9 +26,14 @@ msgid ""
 "Change the zoom level with LT and RT.\n"
 "Press <I=DEC> to apply your changes.\n"
 "To restore the default display settings, press <I=△>."
-msgstr "用左摇杆移动画面位置。\n用LT和RT调整缩放。\n按<I=DEC>应用更改。\n按<I=△>恢复默认显示设置。"
+msgstr ""
+"用左摇杆移动画面位置。\n"
+"用LT和RT调整缩放。\n"
+"按<I=DEC>应用更改。\n"
+"按<I=△>恢复默认显示设置。"
 
-#: olang/0005ee2f/0xc6de03/0x1889b7 olang/0005ee2f/0xc6de03/0x3726d7
+#: olang/0005ee2f/0xc6de03/0x1889b7
+#: olang/0005ee2f/0xc6de03/0x3726d7
 msgid "Magazines"
 msgstr "杂志"
 
@@ -38,12 +41,15 @@ msgstr "杂志"
 msgid "Pupa Voices"
 msgstr "蛹语音"
 
-#: olang/0005ee2f/0xc6de03/0x1aa0b2 olang/0005ee2f/0xc6de03/0x2f7e71
-#: olang/0005ee2f/0xc6de03/0x3dfa29 olang/0005ee2f/0xc6de03/0xc610c0
+#: olang/0005ee2f/0xc6de03/0x1aa0b2
+#: olang/0005ee2f/0xc6de03/0x2f7e71
+#: olang/0005ee2f/0xc6de03/0x3dfa29
+#: olang/0005ee2f/0xc6de03/0xc610c0
 msgid "Default voice"
 msgstr "默认语音"
 
-#: olang/0005ee2f/0xc6de03/0x27f9e4 olang/0005ee2f/0xc6de03/0x7c6806
+#: olang/0005ee2f/0xc6de03/0x27f9e4
+#: olang/0005ee2f/0xc6de03/0x7c6806
 #: olang/0005ee2f/0xc6de03/0xdba915
 msgid "Change which AI weapon voices are used in the game."
 msgstr "更改游戏中使用的AI武器语音。"
@@ -53,13 +59,17 @@ msgid ""
 "Edit screen display settings.\n"
 "Adjust the display until the red lines surrounding\n"
 "the background fit the screen perfectly."
-msgstr "编辑画面显示设置。\n调整显示，使背景四周的红线\n与屏幕完全重合。"
+msgstr ""
+"编辑画面显示设置。\n"
+"调整显示，使背景四周的红线\n"
+"与屏幕完全重合。"
 
 #: olang/0005ee2f/0xc6de03/0x2cc2b4
 msgid "Edit screen display settings and change which AI weapon voices are used in the game."
 msgstr "编辑画面显示设置及游戏中的AI武器语音。"
 
-#: olang/0005ee2f/0xc6de03/0x3850a3 olang/009c9ea4/0xc6de03/0x3850a3
+#: olang/0005ee2f/0xc6de03/0x3850a3
+#: olang/009c9ea4/0xc6de03/0x3850a3
 msgid "Basilisk Voices"
 msgstr "蛇怪语音"
 
@@ -71,7 +81,8 @@ msgstr "语音"
 msgid "Return to title menu"
 msgstr "返回标题菜单"
 
-#: olang/0005ee2f/0xc6de03/0x3db471 olang/0005ee2f/0xc6de03/0x91b2b1
+#: olang/0005ee2f/0xc6de03/0x3db471
+#: olang/0005ee2f/0xc6de03/0x91b2b1
 msgid "AI Weapon Voices"
 msgstr "AI 兵器语音"
 
@@ -79,7 +90,8 @@ msgstr "AI 兵器语音"
 msgid "TEXTURES"
 msgstr "贴图"
 
-#: olang/0005ee2f/0xc6de03/0x50a352 olang/0005ee2f/0xc6de03/0xb7f4ae
+#: olang/0005ee2f/0xc6de03/0x50a352
+#: olang/0005ee2f/0xc6de03/0xb7f4ae
 #: olang/00cb1fb7/0x68bb2b/0x010dcc
 msgid "All"
 msgstr "全部"
@@ -108,24 +120,31 @@ msgstr "更改游戏中使用的杂志。"
 msgid "Data Management"
 msgstr "数据管理"
 
-#: olang/00327f6a/0xb39048/0xc81e47 olang/0060e2f2/0xd449d6/0x42ab9e
-#: olang/00cb1fb7/0x68bb2b/0x42ab9e olang/00cb1fb7/0x68bb2b/0xc81e47
+#: olang/00327f6a/0xb39048/0xc81e47
+#: olang/0060e2f2/0xd449d6/0x42ab9e
+#: olang/00cb1fb7/0x68bb2b/0x42ab9e
+#: olang/00cb1fb7/0x68bb2b/0xc81e47
 msgid ""
 "Unable to find a HOST.\n"
 "Try again after changing the search conditions or waiting for a short period of time."
-msgstr "未找到主机。\n请更改搜索条件或稍后再试。"
+msgstr ""
+"未找到主机。\n"
+"请更改搜索条件或稍后再试。"
 
 #: olang/00327f6a/0xb39048/0xf4816f
 msgid ""
 "You can recruit trade partners worldwide over Xbox LIVE.\n"
 "Select the type of invitation."
-msgstr "可通过 Xbox LIVE 招募全球贸易伙伴。\n请选择邀请类型。"
+msgstr ""
+"可通过 Xbox LIVE 招募全球贸易伙伴。\n"
+"请选择邀请类型。"
 
 #: olang/0043da6e/0x029324/0x2e012f
 msgid "Failed to connect."
 msgstr "连接失败。"
 
-#: olang/0043da6e/0xc3d5b4/0x024ebc olang/0043da6e/0xc3d5b4/0xd851e8
+#: olang/0043da6e/0xc3d5b4/0x024ebc
+#: olang/0043da6e/0xc3d5b4/0xd851e8
 #: olang/005184e3/0x029324/0x8a774e
 msgid "Unable to connect to Xbox LIVE."
 msgstr "无法连接 Xbox LIVE。"
@@ -138,7 +157,9 @@ msgstr "确认"
 msgid ""
 "You cannot continue playing because a change has been made to your sign in status.\n"
 "You will now return to the title menu."
-msgstr "登录状态已变更，无法继续游戏。\n即将返回标题菜单。"
+msgstr ""
+"登录状态已变更，无法继续游戏。\n"
+"即将返回标题菜单。"
 
 #: olang/0043da6e/0xc3d5b4/0x20abf0
 msgid "All other members have been disconnected. A single player game will begin."
@@ -160,7 +181,8 @@ msgstr "当前玩家档案无法进行在线游戏。"
 msgid "You cannot receive this invite as you are already in a room."
 msgstr "你已在房间中，无法接收此邀请。"
 
-#: olang/0043da6e/0xc3d5b4/0x932c67 olang/009c9ea4/0xc3d5b4/0x932c67
+#: olang/0043da6e/0xc3d5b4/0x932c67
+#: olang/009c9ea4/0xc3d5b4/0x932c67
 msgid "You cannot join this game as the mode cannot be played while using the current save data."
 msgstr "当前存档数据无法进行该模式，无法加入此游戏。"
 
@@ -177,7 +199,10 @@ msgid ""
 "The system data on the selected storage device was created by another gamer profile.\n"
 "If you continue, you will be unable to save the game during play.\n"
 "Continue?"
-msgstr "所选存储设备上的系统数据由其他玩家设定档创建。\n若继续，游戏过程中将无法保存。\n是否继续？"
+msgstr ""
+"所选存储设备上的系统数据由其他玩家设定档创建。\n"
+"若继续，游戏过程中将无法保存。\n"
+"是否继续？"
 
 #: olang/0043da6e/0xc3d5b4/0xcb23b3
 msgid "Room deleted by HOST."
@@ -215,7 +240,9 @@ msgstr "无法登录 Xbox LIVE。"
 msgid ""
 "An error has occurred.\n"
 "Please verify that the Date & Time settings on your Xbox 360 console are correct."
-msgstr "发生错误。\n请确认 Xbox 360 主机的日期与时间设置是否正确。"
+msgstr ""
+"发生错误。\n"
+"请确认 Xbox 360 主机的日期与时间设置是否正确。"
 
 #: olang/005184e3/0x1331ad/0xbbc0e2
 msgid "Please verify the Date & Time settings on your Xbox 360 console. Incorrect date settings may interfere with package deliveries."
@@ -249,17 +276,22 @@ msgstr "连接Xbox LIVE，与全球玩家对战。每队最多3人，共2队。"
 msgid ""
 "Press up or down on the directional pad to select a Channel.\n"
 "Press <I=DEC> to start hosting."
-msgstr "按方向键上下选择频道。\n按<I=DEC>开始创建。"
+msgstr ""
+"按方向键上下选择频道。\n"
+"按<I=DEC>开始创建。"
 
-#: olang/005184e3/0x19f879/0xc297b4 olang/009c9ea4/0x19f879/0xc297b4
+#: olang/005184e3/0x19f879/0xc297b4
+#: olang/009c9ea4/0x19f879/0xc297b4
 msgid "Press the <I=DEC> button to change the password."
 msgstr "按<I=DEC>键更改密码。"
 
-#: olang/005184e3/0x1a3e77/0x6a33a6 olang/009c9ea4/0x1a3e77/0x6a33a6
+#: olang/005184e3/0x1a3e77/0x6a33a6
+#: olang/009c9ea4/0x1a3e77/0x6a33a6
 msgid "Enlarge: <I=L2>"
 msgstr "放大：<I=L2>"
 
-#: olang/005184e3/0x1a3e77/0x6a33a7 olang/009c9ea4/0x1a3e77/0x6a33a7
+#: olang/005184e3/0x1a3e77/0x6a33a7
+#: olang/009c9ea4/0x1a3e77/0x6a33a7
 msgid "Reduce: <I=R2>"
 msgstr "缩小<I=R2>"
 
@@ -267,7 +299,8 @@ msgstr "缩小<I=R2>"
 msgid "Rotate Camera: Right stick"
 msgstr "旋转镜头：右摇杆"
 
-#: olang/005184e3/0x1a3e77/0x6a33a9 olang/005184e3/0x5f753b/0x88adbe
+#: olang/005184e3/0x1a3e77/0x6a33a9
+#: olang/005184e3/0x5f753b/0x88adbe
 msgid "Switch Cameras: Directional pad left/right"
 msgstr "切换镜头：方向键左右"
 
@@ -279,121 +312,167 @@ msgstr "保存游戏数据。"
 msgid "Accepted a volunteer. Volunteers increase as you play online."
 msgstr "已接受一名志愿者。在线游玩可增加志愿者。"
 
-#: olang/005184e3/0x20dacf/0xa08aca olang/005184e3/0x43f3a5/0x47e5fe
-#: olang/005184e3/0xe6e4ed/0xb96848 olang/009c9ea4/0x20dacf/0xa08aca
-#: olang/009c9ea4/0x43f3a5/0x47e5fe olang/009c9ea4/0xe6e4ed/0xb96848
+#: olang/005184e3/0x20dacf/0xa08aca
+#: olang/005184e3/0x43f3a5/0x47e5fe
+#: olang/005184e3/0xe6e4ed/0xb96848
+#: olang/009c9ea4/0x20dacf/0xa08aca
+#: olang/009c9ea4/0x43f3a5/0x47e5fe
+#: olang/009c9ea4/0xe6e4ed/0xb96848
 msgid "Confirm or change controls."
 msgstr "确认或更改操作。"
-
-#: olang/005184e3/0x20dacf/0xac79ca olang/005184e3/0x43f3a5/0x506452
-#: olang/005184e3/0xe6e4ed/0xb7fd8f olang/005184e3/0xfb5d7b/0x96ec94
-msgid "BUTTON CONFIG"
-msgstr "按键设置"
 
 #: olang/005184e3/0x215635/0x15aca6
 msgid ""
 "Proceed immediately to the Control Tower and stop Peace Walker from launching its nukes.\n"
 "The WALKMAN cannot be equipped."
-msgstr "立即前往管制塔，阻止和平行者发射核弹。\n无法装备WALKMAN。"
+msgstr ""
+"立即前往管制塔，阻止和平行者发射核弹。\n"
+"无法装备WALKMAN。"
 
-#: olang/005184e3/0x215635/0x17015a olang/009c9ea4/0x215635/0x17015a
+#: olang/005184e3/0x215635/0x17015a
+#: olang/009c9ea4/0x215635/0x17015a
 msgid ""
 "Snake encounters a mysterious \"visitor\" on the coast of Costa Rica.\n"
 "\n"
 "<I=CPY>CAPCOM CO., LTD."
-msgstr "SNAKE在哥斯达黎加海岸遇到神秘的“访客”。\n\n<I=CPY>CAPCOM CO., LTD."
+msgstr ""
+"SNAKE在哥斯达黎加海岸遇到神秘的“访客”。\n"
+"\n"
+"<I=CPY>CAPCOM CO., LTD."
 
-#: olang/005184e3/0x215635/0x18015a olang/009c9ea4/0x215635/0x18015a
+#: olang/005184e3/0x215635/0x18015a
+#: olang/009c9ea4/0x215635/0x18015a
 msgid ""
 "Snake accepts an invitation from Trenya and heads to Isla del Monstruo.\n"
 "  From <<Hunting Quests>>\n"
 "<I=CPY>CAPCOM CO., LTD."
-msgstr "SNAKE接受Trenya的邀请，前往怪物岛。\n  来自《狩猎任务》\n<I=CPY>CAPCOM CO., LTD."
+msgstr ""
+"SNAKE接受Trenya的邀请，前往怪物岛。\n"
+"  来自《狩猎任务》\n"
+"<I=CPY>CAPCOM CO., LTD."
 
-#: olang/005184e3/0x215635/0x3cb479 olang/005184e3/0x215635/0xd1f145
+#: olang/005184e3/0x215635/0x3cb479
+#: olang/005184e3/0x215635/0xd1f145
 msgid "MSF Entrance Exam"
 msgstr "MSF入队考试"
 
-#: olang/005184e3/0x215635/0x4a3800 olang/005184e3/0x215635/0xe00d7b
+#: olang/005184e3/0x215635/0x4a3800
+#: olang/005184e3/0x215635/0xe00d7b
 msgid "[097] Tank Battle: MBTk-70"
 msgstr "[097] 坦克战：MBTk-70"
 
-#: olang/005184e3/0x215635/0x4a3dc0 olang/005184e3/0x215635/0xf70d7b
+#: olang/005184e3/0x215635/0x4a3dc0
+#: olang/005184e3/0x215635/0xf70d7b
 msgid "[098] Tank Battle: MBTk-70 Custom"
 msgstr "[098] 坦克战：MBTk-70 Custom"
 
-#: olang/005184e3/0x215635/0x95b11d olang/005184e3/0x215635/0x9ab11d
-#: olang/009c9ea4/0x215635/0x95b11d olang/009c9ea4/0x215635/0x9ab11d
+#: olang/005184e3/0x215635/0x95b11d
+#: olang/005184e3/0x215635/0x9ab11d
+#: olang/009c9ea4/0x215635/0x95b11d
+#: olang/009c9ea4/0x215635/0x9ab11d
 msgid ""
 "  Mission Location: Isla del Monstruo\n"
 "<C=FF4040>Hunt the Rathalos<C=R>.\n"
 "\n"
 "<I=CPY>CAPCOM CO., LTD."
-msgstr "任务地点：怪物岛\n<C=FF4040>狩猎火龙<C=R>。\n\n<I=CPY>CAPCOM CO., LTD."
+msgstr ""
+"任务地点：怪物岛\n"
+"<C=FF4040>狩猎火龙<C=R>。\n"
+"\n"
+"<I=CPY>CAPCOM CO., LTD."
 
-#: olang/005184e3/0x215635/0xb5b11d olang/005184e3/0x215635/0xbab11d
-#: olang/009c9ea4/0x215635/0xb5b11d olang/009c9ea4/0x215635/0xbab11d
+#: olang/005184e3/0x215635/0xb5b11d
+#: olang/005184e3/0x215635/0xbab11d
+#: olang/009c9ea4/0x215635/0xb5b11d
+#: olang/009c9ea4/0x215635/0xbab11d
 msgid ""
 "  Mission Location: Isla del Monstruo\n"
 "<C=FF4040>Hunt the Tigrex<C=R>.\n"
 "\n"
 "<I=CPY>CAPCOM CO., LTD."
-msgstr "任务地点：怪物岛\n<C=FF4040>狩猎轰龙<C=R>。\n\n<I=CPY>CAPCOM CO., LTD."
+msgstr ""
+"任务地点：怪物岛\n"
+"<C=FF4040>狩猎轰龙<C=R>。\n"
+"\n"
+"<I=CPY>CAPCOM CO., LTD."
 
-#: olang/005184e3/0x215635/0xd5b11d olang/005184e3/0x215635/0xdab11d
-#: olang/009c9ea4/0x215635/0xd5b11d olang/009c9ea4/0x215635/0xdab11d
+#: olang/005184e3/0x215635/0xd5b11d
+#: olang/005184e3/0x215635/0xdab11d
+#: olang/009c9ea4/0x215635/0xd5b11d
+#: olang/009c9ea4/0x215635/0xdab11d
 msgid ""
 "  Mission Location: Isla del Monstruo\n"
 "<C=FF4040>Hunt the Gear REX<C=R>.\n"
 "\n"
 "<I=CPY>CAPCOM CO., LTD."
-msgstr "任务地点：怪物岛\n<C=FF4040>狩猎霸王<C=R>。\n\n<I=CPY>CAPCOM CO., LTD."
+msgstr ""
+"任务地点：怪物岛\n"
+"<C=FF4040>狩猎霸王<C=R>。\n"
+"\n"
+"<I=CPY>CAPCOM CO., LTD."
 
-#: olang/005184e3/0x291428/0x50818e olang/005184e3/0x9dc379/0xdb198e
-#: olang/005184e3/0xc99c23/0x50818e
-msgid "BACK button"
-msgstr "BACK键"
-
-#: olang/005184e3/0x2a29c5/0x000000 olang/005184e3/0x2a4a05/0x000000
-#: olang/005184e3/0x2a6a45/0x000000 olang/005184e3/0x2d4a85/0x000000
-#: olang/005184e3/0x3127c5/0x000000 olang/005184e3/0x314805/0x000000
-#: olang/005184e3/0x316845/0x000000 olang/005184e3/0x344885/0x000000
+#: olang/005184e3/0x2a29c5/0x000000
+#: olang/005184e3/0x2a4a05/0x000000
+#: olang/005184e3/0x2a6a45/0x000000
+#: olang/005184e3/0x2d4a85/0x000000
+#: olang/005184e3/0x3127c5/0x000000
+#: olang/005184e3/0x314805/0x000000
+#: olang/005184e3/0x316845/0x000000
+#: olang/005184e3/0x344885/0x000000
 msgid "Hey, lemme borrow that."
 msgstr "喂，借我用下。"
 
-#: olang/005184e3/0x2d0e66/0xf19383 olang/005184e3/0x2d0e6b/0xf19383
+#: olang/005184e3/0x2d0e66/0xf19383
+#: olang/005184e3/0x2d0e6b/0xf19383
 msgid "Right stick"
 msgstr "右摇杆"
 
-#: olang/005184e3/0x2d0e67/0xf29383 olang/005184e3/0x2d0e69/0xf29383
+#: olang/005184e3/0x2d0e67/0xf29383
+#: olang/005184e3/0x2d0e69/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "Right stick up: Look Up\n"
 "Right stick down: Look Down"
-msgstr "按动作键确认 \n右摇杆上：向上看\n右摇杆下：向下看"
+msgstr ""
+"按动作键确认 \n"
+"右摇杆上：向上看\n"
+"右摇杆下：向下看"
 
-#: olang/005184e3/0x2d0e68/0xf29383 olang/005184e3/0x2d0e6a/0xf29383
+#: olang/005184e3/0x2d0e68/0xf29383
+#: olang/005184e3/0x2d0e6a/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "Right stick up: Look Down\n"
 "Right stick down: Look Up"
-msgstr "按动作键确认 \n右摇杆上：向下看\n右摇杆下：向上看"
+msgstr ""
+"按动作键确认 \n"
+"右摇杆上：向下看\n"
+"右摇杆下：向上看"
 
-#: olang/005184e3/0x2d0e6c/0xf29383 olang/005184e3/0x2d0e6e/0xf29383
+#: olang/005184e3/0x2d0e6c/0xf29383
+#: olang/005184e3/0x2d0e6e/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "Right stick left: Look Left\n"
 "Right stick right: Look Right"
-msgstr "按动作键确认 \n右摇杆左：向左看\n右摇杆右：向右看"
+msgstr ""
+"按动作键确认 \n"
+"右摇杆左：向左看\n"
+"右摇杆右：向右看"
 
-#: olang/005184e3/0x2d0e6d/0xf29383 olang/005184e3/0x2d0e85/0xf29383
+#: olang/005184e3/0x2d0e6d/0xf29383
+#: olang/005184e3/0x2d0e85/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "Right stick left: Look Right\n"
 "Right stick right: Look Left"
-msgstr "按动作键确认 \n右摇杆左：向右看\n右摇杆右：向左看"
+msgstr ""
+"按动作键确认 \n"
+"右摇杆左：向右看\n"
+"右摇杆右：向左看"
 
-#: olang/005184e3/0x2d0e87/0xf19383 olang/005184e3/0x2d0ea5/0xf19383
+#: olang/005184e3/0x2d0e87/0xf19383
+#: olang/005184e3/0x2d0ea5/0xf19383
 msgid "Left stick"
 msgstr "左摇杆"
 
@@ -413,12 +492,15 @@ msgstr "左摇杆 + 攻击键"
 msgid "Left stick + Hand-to-hand Attack Button"
 msgstr "左摇杆 + 徒手攻击键"
 
-#: olang/005184e3/0x4282bf/0x000000 olang/005184e3/0x4a8abf/0x000000
-#: olang/005184e3/0xb666bf/0x000000 olang/005184e3/0xbe6ebf/0x000000
+#: olang/005184e3/0x4282bf/0x000000
+#: olang/005184e3/0x4a8abf/0x000000
+#: olang/005184e3/0xb666bf/0x000000
+#: olang/005184e3/0xbe6ebf/0x000000
 msgid "Don't move!"
 msgstr "别动！"
 
-#: olang/005184e3/0x43f3a5/0x394f17 olang/0072f326/0xa49217/0x2de9a9
+#: olang/005184e3/0x43f3a5/0x394f17
+#: olang/0072f326/0xa49217/0x2de9a9
 msgid ""
 "Select your control scheme.  \n"
 "\n"
@@ -427,19 +509,33 @@ msgid ""
 "ACTION TYPE: The configuration is similar to that of \"MPO.\"\n"
 "\n"
 "HUNTER TYPE: The configuration is similar to that of the MONSTER HUNTER FREEDOM<I=TM> series."
-msgstr "选择操作方式。  \n\n射击型：与《MGS4》相近。\n\n动作型：与《MPO》相近。\n\n猎人型：与《怪物猎人 自由<I=TM>》系列相近。"
+msgstr ""
+"选择操作方式。  \n"
+"\n"
+"射击型：与《MGS4》相近。\n"
+"\n"
+"动作型：与《MPO》相近。\n"
+"\n"
+"猎人型：与《怪物猎人 自由<I=TM>》系列相近。"
 
-#: olang/005184e3/0x4686bf/0x000000 olang/005184e3/0x4e8ebf/0x000000
-#: olang/005184e3/0xb262bf/0x000000 olang/005184e3/0xba6abf/0x000000
-#: olang/005184e3/0xc2c774/0x000000 olang/009c9ea4/0x903077/0x000014
+#: olang/005184e3/0x4686bf/0x000000
+#: olang/005184e3/0x4e8ebf/0x000000
+#: olang/005184e3/0xb262bf/0x000000
+#: olang/005184e3/0xba6abf/0x000000
+#: olang/005184e3/0xc2c774/0x000000
+#: olang/009c9ea4/0x903077/0x000014
 #: olang/009c9ea4/0xbc4a75/0x000008
 msgid "Freeze!"
 msgstr "不许动！"
 
-#: olang/005184e3/0x4882d7/0x000000 olang/005184e3/0x4e86d7/0x000000
-#: olang/005184e3/0x7062d8/0x000000 olang/005184e3/0x7666d8/0x000000
-#: olang/005184e3/0x7c6ad8/0x000000 olang/005184e3/0x808ad7/0x000000
-#: olang/005184e3/0x826ed8/0x000000 olang/005184e3/0x868ed7/0x000000
+#: olang/005184e3/0x4882d7/0x000000
+#: olang/005184e3/0x4e86d7/0x000000
+#: olang/005184e3/0x7062d8/0x000000
+#: olang/005184e3/0x7666d8/0x000000
+#: olang/005184e3/0x7c6ad8/0x000000
+#: olang/005184e3/0x808ad7/0x000000
+#: olang/005184e3/0x826ed8/0x000000
+#: olang/005184e3/0x868ed7/0x000000
 msgid "Next!"
 msgstr "下一个！"
 
@@ -451,19 +547,29 @@ msgstr "尽快连按 Y 键！"
 msgid "Press the X button to select which soldier to assign."
 msgstr "按 X 键选择要派遣的士兵。"
 
-#: olang/005184e3/0x5f753b/0x28adbc olang/005184e3/0x5f753b/0x48adbc
-#: olang/005184e3/0x5f753b/0x88adbc olang/005184e3/0x5f753b/0xa8adbc
-#: olang/005184e3/0x5f753b/0xc8adbc olang/009c9ea4/0x5f753b/0x28adbc
-#: olang/009c9ea4/0x5f753b/0x48adbc olang/009c9ea4/0x5f753b/0x88adbc
-#: olang/009c9ea4/0x5f753b/0xa8adbc olang/009c9ea4/0x5f753b/0xc8adbc
+#: olang/005184e3/0x5f753b/0x28adbc
+#: olang/005184e3/0x5f753b/0x48adbc
+#: olang/005184e3/0x5f753b/0x88adbc
+#: olang/005184e3/0x5f753b/0xa8adbc
+#: olang/005184e3/0x5f753b/0xc8adbc
+#: olang/009c9ea4/0x5f753b/0x28adbc
+#: olang/009c9ea4/0x5f753b/0x48adbc
+#: olang/009c9ea4/0x5f753b/0x88adbc
+#: olang/009c9ea4/0x5f753b/0xa8adbc
+#: olang/009c9ea4/0x5f753b/0xc8adbc
 msgid "Zoom In: <I=R2>"
 msgstr "放大：<I=R2>"
 
-#: olang/005184e3/0x5f753b/0x28adbd olang/005184e3/0x5f753b/0x48adbd
-#: olang/005184e3/0x5f753b/0x88adbd olang/005184e3/0x5f753b/0xa8adbd
-#: olang/005184e3/0x5f753b/0xc8adbd olang/009c9ea4/0x5f753b/0x28adbd
-#: olang/009c9ea4/0x5f753b/0x48adbd olang/009c9ea4/0x5f753b/0x88adbd
-#: olang/009c9ea4/0x5f753b/0xa8adbd olang/009c9ea4/0x5f753b/0xc8adbd
+#: olang/005184e3/0x5f753b/0x28adbd
+#: olang/005184e3/0x5f753b/0x48adbd
+#: olang/005184e3/0x5f753b/0x88adbd
+#: olang/005184e3/0x5f753b/0xa8adbd
+#: olang/005184e3/0x5f753b/0xc8adbd
+#: olang/009c9ea4/0x5f753b/0x28adbd
+#: olang/009c9ea4/0x5f753b/0x48adbd
+#: olang/009c9ea4/0x5f753b/0x88adbd
+#: olang/009c9ea4/0x5f753b/0xa8adbd
+#: olang/009c9ea4/0x5f753b/0xc8adbd
 msgid "Zoom Out: <I=L2>"
 msgstr "缩小：<I=L2>"
 
@@ -475,21 +581,27 @@ msgstr "旋转：右摇杆左/右"
 msgid "Move: Right stick left up/down"
 msgstr "移动：右摇杆上/下"
 
-#: olang/005184e3/0x5f753b/0x48adbe olang/005184e3/0x5f753b/0xc992ce
+#: olang/005184e3/0x5f753b/0x48adbe
+#: olang/005184e3/0x5f753b/0xc992ce
 msgid "Rotate: Right stick"
 msgstr "旋转：右摇杆"
 
-#: olang/005184e3/0x5f753b/0x88adbf olang/005184e3/0x5f753b/0xa8adbe
+#: olang/005184e3/0x5f753b/0x88adbf
+#: olang/005184e3/0x5f753b/0xa8adbe
 msgid "Move Camera: Right stick"
 msgstr "移动镜头：右摇杆"
 
-#: olang/005184e3/0x5f753b/0xc992cc olang/005184e3/0x919326/0xc992cc
-#: olang/009c9ea4/0x5f753b/0xc992cc olang/009c9ea4/0x919326/0xc992cc
+#: olang/005184e3/0x5f753b/0xc992cc
+#: olang/005184e3/0x919326/0xc992cc
+#: olang/009c9ea4/0x5f753b/0xc992cc
+#: olang/009c9ea4/0x919326/0xc992cc
 msgid "Zoom In: <I=L2>"
 msgstr "放大：<I=L2>"
 
-#: olang/005184e3/0x5f753b/0xc992cd olang/005184e3/0x919326/0xc992cd
-#: olang/009c9ea4/0x5f753b/0xc992cd olang/009c9ea4/0x919326/0xc992cd
+#: olang/005184e3/0x5f753b/0xc992cd
+#: olang/005184e3/0x919326/0xc992cd
+#: olang/009c9ea4/0x5f753b/0xc992cd
+#: olang/009c9ea4/0x919326/0xc992cd
 msgid "Zoom Out: <I=R2>"
 msgstr "缩小：<I=R2>"
 
@@ -501,43 +613,59 @@ msgstr "移动：右摇杆"
 msgid ""
 "To move your line of sight, \n"
 "use the right stick."
-msgstr "要移动视线，\n请使用右摇杆。"
+msgstr ""
+"要移动视线，\n"
+"请使用右摇杆。"
 
 #: olang/005184e3/0x629bfd/0x000001
 msgid ""
 "Use up and down on the Right Stick \n"
 "to move your line of sight!"
-msgstr "用右摇杆上下\n移动视线！"
+msgstr ""
+"用右摇杆上下\n"
+"移动视线！"
 
 #: olang/005184e3/0x629c7d/0x000001
 msgid ""
 "Use right and left on the Right Stick \n"
 "to move your line of sight!"
-msgstr "用右摇杆的左和右\n来移动你的视线！"
+msgstr ""
+"用右摇杆的左和右\n"
+"来移动你的视线！"
 
-#: olang/005184e3/0x62a8fd/0x000000 olang/009c9ea4/0x62a8fd/0x000000
+#: olang/005184e3/0x62a8fd/0x000000
+#: olang/009c9ea4/0x62a8fd/0x000000
 msgid ""
 "You should be familiar with\n"
 "the up and down controls now."
-msgstr "你现在应该已经熟悉\n上下操作了。"
+msgstr ""
+"你现在应该已经熟悉\n"
+"上下操作了。"
 
-#: olang/005184e3/0x62a97d/0x000000 olang/009c9ea4/0x62a97d/0x000000
+#: olang/005184e3/0x62a97d/0x000000
+#: olang/009c9ea4/0x62a97d/0x000000
 msgid ""
 "You should be familiar with\n"
 "the left and right controls now."
-msgstr "你现在应该已经熟悉\n左右操作了。"
+msgstr ""
+"你现在应该已经熟悉\n"
+"左右操作了。"
 
 #: olang/005184e3/0x62b8fd/0x000000
 msgid ""
 "Alright, let’s try up and down on\n"
 " the Right Stick one more time."
-msgstr "好，让我们再试一次\n右摇杆的上下操作。"
+msgstr ""
+"好，让我们再试一次\n"
+"右摇杆的上下操作。"
 
 #: olang/005184e3/0x62b97d/0x000000
 msgid ""
 "Alright, let’s try left and right on\n"
 "the Right Stick one more time."
-msgstr "好，让我们再试一次\n右摇杆的左右操作。"
+msgstr ""
+"好，让我们再试一次\n"
+"右摇杆的左右操作。"
 
 #: olang/005184e3/0x62c97d/0x000001
 msgid "Use the left stick to move around.\r"
@@ -547,37 +675,49 @@ msgstr "用左摇杆移动。"
 msgid ""
 "What now? \n"
 "Use the left stick to move! "
-msgstr "怎么了？\n用左摇杆移动！"
+msgstr ""
+"怎么了？\n"
+"用左摇杆移动！"
 
 #: olang/005184e3/0x62cb7d/0x000000
 msgid ""
 "Boss, you can use \n"
 "the left stick to move!"
-msgstr "老大，你可以用\n左摇杆来移动！"
+msgstr ""
+"老大，你可以用\n"
+"左摇杆来移动！"
 
 #: olang/005184e3/0x62d8fd/0x000000
 msgid ""
 "Boss, roll by tapping the Attack Button\n"
 "while running with the left stick!"
-msgstr "老大，用左摇杆奔跑时\n按攻击键来翻滚！"
+msgstr ""
+"老大，用左摇杆奔跑时\n"
+"按攻击键来翻滚！"
 
 #: olang/005184e3/0x62d8fe/0x000000
 msgid ""
 "Boss, roll by pressing the Crouch Button\n"
 "while running with the left stick!"
-msgstr "老大，用左摇杆奔跑时\n按蹲下键来翻滚！"
+msgstr ""
+"老大，用左摇杆奔跑时\n"
+"按蹲下键来翻滚！"
 
 #: olang/005184e3/0x62db7e/0x000000
 msgid ""
 "Press the Hand-to-hand Attack Button\n"
 "without moving, Boss. "
-msgstr "按徒手攻击键\n别动，BOSS。"
+msgstr ""
+"按徒手攻击键\n"
+"别动，BOSS。"
 
 #: olang/005184e3/0x62dc7e/0x000000
 msgid ""
 "To use the stun rod, \n"
 "press the Aim Button to ready it,\r"
-msgstr "要使用电击棒，\n按瞄准键准备好，"
+msgstr ""
+"要使用电击棒，\n"
+"按瞄准键准备好，"
 
 #: olang/005184e3/0x62dc7e/0x000001
 msgid "then press the Weapon-Attack Button.\r"
@@ -595,19 +735,25 @@ msgstr "BOSS，请按瞄准键！"
 msgid ""
 "What's wrong? Press the Weapon-Attack Button\n"
 "after pressing the Aim Button ! "
-msgstr "怎么了？按瞄准键后\n再按武器攻击键！"
+msgstr ""
+"怎么了？按瞄准键后\n"
+"再按武器攻击键！"
 
 #: olang/005184e3/0x644afe/0x000000
 msgid ""
 "Boss, please press the Weapon-Attack Button \n"
 "after pressing the Aim Button !"
-msgstr "老大，请按瞄准键后\n再按武器攻击键！"
+msgstr ""
+"老大，请按瞄准键后\n"
+"再按武器攻击键！"
 
 #: olang/005184e3/0x644bfe/0x000001
 msgid ""
 "and press the Hand-to-hand Attack Button \n"
 "near an enemy as you tilt the left stick! "
-msgstr "在敌人附近按徒手攻击键\n同时倾斜左摇杆！"
+msgstr ""
+"在敌人附近按徒手攻击键\n"
+"同时倾斜左摇杆！"
 
 #: olang/005184e3/0x647bfe/0x000000
 msgid "You OK? Press RT!"
@@ -617,41 +763,54 @@ msgstr "没事吧？按RT！"
 msgid "Boss, you have to press RT!"
 msgstr "BOSS，得按RT！"
 
-#: olang/005184e3/0x649a7d/0x000001 olang/005184e3/0x649a7e/0x000001
+#: olang/005184e3/0x649a7d/0x000001
+#: olang/005184e3/0x649a7e/0x000001
 msgid ""
 "Then tilt the left stick \n"
 "to throw them.\r"
-msgstr "然后倾斜左摇杆\n把他们扔出去。"
+msgstr ""
+"然后倾斜左摇杆\n"
+"把他们扔出去。"
 
 #: olang/005184e3/0x649a7d/0x000002
 msgid ""
 "By tilting the left stick toward \n"
 "other enemies, \r"
-msgstr "通过向左摇杆朝\n其他敌人方向倾斜，"
+msgstr ""
+"通过向左摇杆朝\n"
+"其他敌人方向倾斜，"
 
 #: olang/005184e3/0x649a7e/0x000000
 msgid ""
 "Press the Hand-to-hand Attack Button \n"
 "near an enemy to restrain them!"
-msgstr "在敌人附近按徒手攻击键\n来制服他们！"
+msgstr ""
+"在敌人附近按徒手攻击键\n"
+"来制服他们！"
 
 #: olang/005184e3/0x649a7e/0x000002
 msgid ""
 "By tilting the left stick toward \n"
 "other enemies,  "
-msgstr "通过向左摇杆朝\n其他敌人方向倾斜，"
+msgstr ""
+"通过向左摇杆朝\n"
+"其他敌人方向倾斜，"
 
 #: olang/005184e3/0x64a7fd/0x000000
 msgid ""
 "Tilt the left stick while restraining \n"
 "the opponent, Boss!"
-msgstr "老大，制服对手时\n倾斜左摇杆！"
+msgstr ""
+"老大，制服对手时\n"
+"倾斜左摇杆！"
 
 #: olang/005184e3/0x64aafe/0x000000
 msgid ""
 "Press the Hand-to-hand Attack Button \n"
 "when the Icon appears! "
-msgstr "图标出现时\n按徒手攻击键！"
+msgstr ""
+"图标出现时\n"
+"按徒手攻击键！"
 
 #: olang/005184e3/0x6c8948/0xd71eb4
 msgid "Select a player to trade with."
@@ -663,11 +822,18 @@ msgid ""
 " Please wait. \n"
 " This section contains information from beyond your MAIN OPS progress, \n"
 " and will not be shown on your system."
-msgstr "信息受限。\n请稍候。\n此部分内容超出你的主线任务进度，\n不会在你的系统上显示。"
+msgstr ""
+"信息受限。\n"
+"请稍候。\n"
+"此部分内容超出你的主线任务进度，\n"
+"不会在你的系统上显示。"
 
-#: olang/005184e3/0x8082bf/0x000000 olang/005184e3/0x8486c0/0x000000
-#: olang/005184e3/0x888abf/0x000000 olang/005184e3/0x8c8ebf/0x000000
-#: olang/005184e3/0xf466bf/0x000000 olang/005184e3/0xf86abf/0x000000
+#: olang/005184e3/0x8082bf/0x000000
+#: olang/005184e3/0x8486c0/0x000000
+#: olang/005184e3/0x888abf/0x000000
+#: olang/005184e3/0x8c8ebf/0x000000
+#: olang/005184e3/0xf466bf/0x000000
+#: olang/005184e3/0xf86abf/0x000000
 #: olang/005184e3/0xfc6ebf/0x000000
 msgid "Talk!"
 msgstr "对话！"
@@ -676,7 +842,9 @@ msgstr "对话！"
 msgid ""
 "Back in my old unit, the commander used to tell us at morning calisthenics: \"Whenever you're in trouble, hit the START button!!\"\n"
 "Wonder how he's doing these days."
-msgstr "在我老部队，指挥官晨练时常说：“遇到麻烦就按START键！！”\n不知他现在怎样了。"
+msgstr ""
+"在我老部队，指挥官晨练时常说：“遇到麻烦就按START键！！”\n"
+"不知他现在怎样了。"
 
 #: olang/005184e3/0x840ff7/0x44e180
 msgid "START button: End tutorial."
@@ -687,7 +855,10 @@ msgid ""
 "Checking storage device...\n"
 "Do not remove the storage device \n"
 "or turn off the power."
-msgstr "正在检查存储设备……\n请勿拔出存储设备\n或关闭电源。"
+msgstr ""
+"正在检查存储设备……\n"
+"请勿拔出存储设备\n"
+"或关闭电源。"
 
 #: olang/005184e3/0x8b79b6/0x2e2681
 msgid "Failed to capture screenshot.\r"
@@ -701,11 +872,13 @@ msgstr "本游戏会自动保存数据。此时请勿关闭主机。"
 msgid "Save data does not exist.\r"
 msgstr "不存在存档数据。"
 
-#: olang/005184e3/0x8b79b6/0xa6ed53 olang/009c9ea4/0x8b79b6/0xa6ed53
+#: olang/005184e3/0x8b79b6/0xa6ed53
+#: olang/009c9ea4/0x8b79b6/0xa6ed53
 msgid "Failed to capture screenshot."
 msgstr "截图失败。"
 
-#: olang/005184e3/0x8b79b6/0xbba0fd olang/0072f326/0xa49217/0x836b27
+#: olang/005184e3/0x8b79b6/0xbba0fd
+#: olang/0072f326/0xa49217/0x836b27
 #: olang/0072f326/0xdbd1b3/0x4dfe7b
 msgid "Saving content. Please don't turn off your console."
 msgstr "正在保存内容。请勿关闭主机。"
@@ -716,7 +889,11 @@ msgid ""
 "the storage device. This game requires \r\n"
 "at least XXMB of free space in order \n"
 "to save data."
-msgstr "存储设备可用空间不足。\r\n本游戏至少需要\r\nXXMB 可用空间\r\n才能保存数据。"
+msgstr ""
+"存储设备可用空间不足。\r\n"
+"本游戏至少需要\r\n"
+"XXMB 可用空间\r\n"
+"才能保存数据。"
 
 #: olang/005184e3/0x919326/0xc992ce
 msgid "Rotate: Left stick"
@@ -726,20 +903,23 @@ msgstr "旋转：左摇杆"
 msgid "Switch Cameras: Directional pad"
 msgstr "切换视角：方向键"
 
-#: olang/005184e3/0x995528/0x945cab
-msgid "CANCEL: BACK"
-msgstr "取消：返回"
-
 #: olang/005184e3/0x9b86ab/0x5f42b2
 #, c-format
 msgid ""
 "The entered text is too short.\n"
 "Please use at least %d characters."
-msgstr "输入文字过短。\n请至少输入 %d 个字符。"
+msgstr ""
+"输入文字过短。\n"
+"请至少输入 %d 个字符。"
 
-#: olang/005184e3/0x9dc379/0xd1ff23 olang/00d0c740/0x482e82/0x341a6f
+#: olang/005184e3/0x9dc379/0xd1ff23
+#: olang/00d0c740/0x482e82/0x341a6f
 msgid "Left stick sensitivity"
 msgstr "左摇杆灵敏度"
+
+#: olang/005184e3/0x9dc379/0xdb198e
+msgid "BACK button"
+msgstr "BACK键"
 
 #: olang/005184e3/0xa270a1/0x008b10
 msgid "Pushing the START button will open the menu window."
@@ -753,19 +933,26 @@ msgstr "移除板：<I=×>"
 msgid "Host has ended the trade. Returning to the LOBBY menu."
 msgstr "主机已结束交易。返回大厅菜单。"
 
-#: olang/005184e3/0xb767d9/0x62799f olang/009c9ea4/0xb767d9/0x62799f
+#: olang/005184e3/0xb767d9/0x62799f
+#: olang/009c9ea4/0xb767d9/0x62799f
 msgid ""
 "Waiting for trading partner…\n"
 "\n"
 " "
-msgstr "正在等待交易伙伴…\n\n "
+msgstr ""
+"正在等待交易伙伴…\n"
+"\n"
+" "
 
 #: olang/005184e3/0xb767d9/0xc03b74
 msgid ""
 "Waiting for trading partner…\n"
 "\n"
 "Xbox LIVE Party INVITE:<I=□>"
-msgstr "等待交易对象……\n\nXbox LIVE 派对邀请：<I=□>"
+msgstr ""
+"等待交易对象……\n"
+"\n"
+"Xbox LIVE 派对邀请：<I=□>"
 
 #: olang/005184e3/0xb767d9/0xc76899
 msgid "Trade complete."
@@ -776,7 +963,10 @@ msgid ""
 "Waiting for trading partner…\n"
 "\n"
 "INVITE FRIEND:<I=□>"
-msgstr "等待交易对象……\n\n邀好友：<I=□>"
+msgstr ""
+"等待交易对象……\n"
+"\n"
+"邀好友：<I=□>"
 
 #: olang/005184e3/0xb767d9/0xe642d7
 msgid "An error has occurred."
@@ -786,7 +976,8 @@ msgstr "发生错误。"
 msgid "Lend me that."
 msgstr "借我用。"
 
-#: olang/005184e3/0xc2c780/0x000000 olang/005184e3/0xf062bf/0x000000
+#: olang/005184e3/0xc2c780/0x000000
+#: olang/005184e3/0xf062bf/0x000000
 msgid "Start talking!"
 msgstr "快说！"
 
@@ -798,17 +989,16 @@ msgstr "连续！"
 msgid ""
 "There do not appear to be any volunteers.\n"
 "Play online to increase the number of volunteers."
-msgstr "似乎没有志愿者。\n在线游玩可增加志愿者数量。"
-
-#: olang/005184e3/0xc99c23/0xd9d9b9
-msgid "BACK"
-msgstr "返回"
+msgstr ""
+"似乎没有志愿者。\n"
+"在线游玩可增加志愿者数量。"
 
 #: olang/005184e3/0xcc177c/0xb35db6
 msgid "NEW"
 msgstr "新建"
 
-#: olang/005184e3/0xdb8c41/0x5b35a4 olang/009c9ea4/0xdb8c41/0x5b35a4
+#: olang/005184e3/0xdb8c41/0x5b35a4
+#: olang/009c9ea4/0xdb8c41/0x5b35a4
 msgid "Manage AI weapon voice data and items used in-game in \"EXTRAS\"."
 msgstr "在“EXTRAS”里管理AI兵器语音和游戏道具。"
 
@@ -831,7 +1021,12 @@ msgid ""
 "want to evaluate the true strength of the MSF and Snake\n"
 "before they agree to join.  Best them in battle to prove\n"
 "your clout and convince them to become your ally."
-msgstr "为MSF招募志愿者。\n志愿者都是经验丰富的老兵，\n他们会先评估MSF和SNAKE的真正实力，\n才会同意加入。在战斗中击败他们，\n证明你的实力，让他们成为你的同伴。"
+msgstr ""
+"为MSF招募志愿者。\n"
+"志愿者都是经验丰富的老兵，\n"
+"他们会先评估MSF和SNAKE的真正实力，\n"
+"才会同意加入。在战斗中击败他们，\n"
+"证明你的实力，让他们成为你的同伴。"
 
 #: olang/005184e3/0xe6e4ed/0x748b25
 msgid "After selecting HOST SEARCH and matching the Channel to that of the HOST (recruiter), the mission that is recruiting members will be displayed.  The current number of players and the maximum number of players appear to the right of the mission name."
@@ -853,37 +1048,40 @@ msgid ""
 "You can play CO-OPS missions by connecting to Xbox LIVE. To become the HOST of a CO-OPS mission, select a mission from any tab other than the CO-OPS tab.\n"
 "Other players can join from the CO-OPS tab using the HOST SEARCH function.\n"
 "The current and maximum number of players is shown to the right of the mission name."
-msgstr "选择你想参加的任务。\n用LT和RT切换标签。\n\n连接Xbox LIVE即可游玩合作任务。要成为合作任务的主机，请从合作任务以外的标签中选择任务。\n其他玩家可通过合作任务标签的主机搜寻功能加入。\n任务名右侧显示当前人数和人数上限。"
+msgstr ""
+"选择你想参加的任务。\n"
+"用LT和RT切换标签。\n"
+"\n"
+"连接Xbox LIVE即可游玩合作任务。要成为合作任务的主机，请从合作任务以外的标签中选择任务。\n"
+"其他玩家可通过合作任务标签的主机搜寻功能加入。\n"
+"任务名右侧显示当前人数和人数上限。"
+
+#: olang/005184e3/0xe6e4ed/0xb7fd8f
+msgid "BUTTON CONFIG"
+msgstr "按键设置"
 
 #: olang/005184e3/0xe6e4ed/0xcb251d
 msgid "MISSION INFO:"
 msgstr "任务信息"
-
-#: olang/005184e3/0xfb5d7b/0x6b92bb
-msgid "PRESS START BUTTON"
-msgstr "按START键"
 
 #: olang/005184e3/0xfb5d7b/0x8ec58a
 msgid ""
 "Select your language.\n"
 "\n"
 "*Note: Subtitles can be toggled ON/OFF during cutscenes by pressing <I=SEL>."
-msgstr "选择你的语言。\n\n*注意：过场动画中按<I=SEL>可开关字幕。"
+msgstr ""
+"选择你的语言。\n"
+"\n"
+"*注意：过场动画中按<I=SEL>可开关字幕。"
 
-#: olang/005184e3/0xff8cbc/0x057609
-msgid "PRESS START"
-msgstr "按START键"
-
-#: olang/005184e3/0xff8cbc/0x4e8250 olang/009c9ea4/0xff8cbc/0x4e8250
-msgid "SPECTATOR MODE"
-msgstr "观战模式"
-
-#: olang/0060e2f2/0xd449d6/0x0097cb olang/0060e2f2/0xd449d6/0x8067d6
+#: olang/0060e2f2/0xd449d6/0x0097cb
+#: olang/0060e2f2/0xd449d6/0x8067d6
 #: olang/00cb1fb7/0x68bb2b/0x8067d6
 msgid "Friends Only"
 msgstr "仅限好友"
 
-#: olang/0060e2f2/0xd449d6/0x05bc0b olang/00cb1fb7/0x68bb2b/0x05bc0b
+#: olang/0060e2f2/0xd449d6/0x05bc0b
+#: olang/00cb1fb7/0x68bb2b/0x05bc0b
 msgid "Standard"
 msgstr "标准"
 
@@ -895,17 +1093,20 @@ msgstr "选择查看哪位玩家的玩家卡。"
 msgid ""
 "Voice chat with both teammates and\n"
 "enemies during a team vs. team mission."
-msgstr "队伍对战任务中，可与队友和\n敌人进行语音聊天。"
+msgstr ""
+"队伍对战任务中，可与队友和\n"
+"敌人进行语音聊天。"
 
-#: olang/0060e2f2/0xd449d6/0x22cde9 olang/0060e2f2/0xd449d6/0xc2e5c4
+#: olang/0060e2f2/0xd449d6/0x22cde9
 msgid "ALL"
 msgstr "全部"
 
-#: olang/0060e2f2/0xd449d6/0x22f903 olang/0060e2f2/0xd449d6/0x2401cf
+#: olang/0060e2f2/0xd449d6/0x2401cf
 msgid "VOICE CHAT"
 msgstr "语音"
 
-#: olang/0060e2f2/0xd449d6/0x28fff4 olang/0060e2f2/0xd449d6/0xe890fe
+#: olang/0060e2f2/0xd449d6/0x28fff4
+#: olang/0060e2f2/0xd449d6/0xe890fe
 #: olang/00cb1fb7/0x68bb2b/0xe890fe
 msgid "Global"
 msgstr "全球"
@@ -914,44 +1115,48 @@ msgstr "全球"
 msgid ""
 "Voice chat with only teammates\n"
 "during a team vs. team mission."
-msgstr "仅与队友语音聊天\n在对战任务中。"
+msgstr ""
+"仅与队友语音聊天\n"
+"在对战任务中。"
 
 #: olang/0060e2f2/0xd449d6/0x3bacb0
 msgid "Quick"
 msgstr "快"
 
-#: olang/0060e2f2/0xd449d6/0x4ea906 olang/0060e2f2/0xd449d6/0xdf0201
-msgid "TEAM ONLY"
-msgstr "仅限小队"
-
 #: olang/0060e2f2/0xd449d6/0x664e51
 msgid "Voice Chat"
 msgstr "语音"
 
-#: olang/0060e2f2/0xd449d6/0x70f26b olang/0060e2f2/0xd449d6/0x958855
+#: olang/0060e2f2/0xd449d6/0x70f26b
+#: olang/0060e2f2/0xd449d6/0x958855
 msgid "Automatic"
 msgstr "自动"
 
-#: olang/0060e2f2/0xd449d6/0x7d0dc1 olang/0060e2f2/0xd449d6/0xeb9470
+#: olang/0060e2f2/0xd449d6/0x7d0dc1
+#: olang/0060e2f2/0xd449d6/0xeb9470
 #: olang/00cb1fb7/0x68bb2b/0x7d0dc1
 msgid "Domestic"
 msgstr "国内"
 
-#: olang/0060e2f2/0xd449d6/0x83a11c olang/00cb1fb7/0x68bb2b/0x8f6fd7
+#: olang/0060e2f2/0xd449d6/0x83a11c
+#: olang/00cb1fb7/0x68bb2b/0x8f6fd7
 msgid ""
 "Searching.\n"
 "Press <I=CAN> to cancel the search."
-msgstr "搜索中。\n按 <I=CAN> 取消搜索。"
+msgstr ""
+"搜索中。\n"
+"按 <I=CAN> 取消搜索。"
 
 #: olang/0060e2f2/0xd449d6/0x908dce
 msgid "You can recruit VERSUS OPS MEMBERS worldwide over Xbox LIVE. Select the type of invitation."
 msgstr "可通过 Xbox LIVE 在全球招募对战任务成员。请选择邀请类型。"
 
-#: olang/0060e2f2/0xd449d6/0x92bc10 olang/00cb1fb7/0x68bb2b/0x8188d5
+#: olang/0060e2f2/0xd449d6/0x92bc10
+#: olang/00cb1fb7/0x68bb2b/0x8188d5
 msgid "Select search conditions. Then select \"SEARCH\" to start looking for players."
 msgstr "选择搜索条件。然后选择“搜索”开始寻找玩家。"
 
-#: olang/0060e2f2/0xd449d6/0x98e96f olang/0060e2f2/0xd449d6/0xc4b92e
+#: olang/0060e2f2/0xd449d6/0x98e96f
 msgid "GAMER CARD"
 msgstr "玩家卡"
 
@@ -959,218 +1164,418 @@ msgstr "玩家卡"
 msgid "Unable to create new game."
 msgstr "无法创建新游戏。"
 
-#: olang/0066e64e/0x0c4f4e/0x0009b1 olang/0066e64e/0x97a719/0x0009b1
+#: olang/0060e2f2/0xd449d6/0xdf0201
+msgid "TEAM ONLY"
+msgstr "仅限小队"
+
+#: olang/0066e64e/0x0c4f4e/0x0009b1
+#: olang/0066e64e/0x97a719/0x0009b1
 #: olang/0066e64e/0xef247a/0x0009b1
 msgid "Select Item"
 msgstr "选道具"
 
-#: olang/0066e64e/0x0c4f4e/0x0009b2 olang/0066e64e/0xef247a/0x0009b2
+#: olang/0066e64e/0x0c4f4e/0x0009b2
+#: olang/0066e64e/0xef247a/0x0009b2
 #: olang/009c9ea4/0x39c9f3/0xe49f73
 msgid "Reset Camera"
 msgstr "重置镜头"
 
-#: olang/0066e64e/0x0c4f4e/0x000a71 olang/0066e64e/0x97a719/0x000a71
+#: olang/0066e64e/0x0c4f4e/0x000a71
+#: olang/0066e64e/0x97a719/0x000a71
 #: olang/0066e64e/0xef247a/0x000a71
 msgid "Select Weapon"
 msgstr "选择武器"
 
-#: olang/0066e64e/0x0c4f4e/0x000a72 olang/0066e64e/0x210062/0x7c723f
-#: olang/0066e64e/0x210062/0x7c7240 olang/0066e64e/0x210062/0x7c7241
-#: olang/0066e64e/0x210062/0x7c7242 olang/0066e64e/0x210062/0x7c7243
-#: olang/0066e64e/0x210062/0x7c7245 olang/0066e64e/0x210062/0x7c7247
-#: olang/0066e64e/0x210062/0x7c7248 olang/0066e64e/0x210063/0x7c723f
-#: olang/0066e64e/0x210063/0x7c7240 olang/0066e64e/0x210063/0x7c7241
-#: olang/0066e64e/0x210063/0x7c7242 olang/0066e64e/0x210063/0x7c7243
-#: olang/0066e64e/0x210063/0x7c7245 olang/0066e64e/0x210063/0x7c7247
-#: olang/0066e64e/0x210063/0x7c7248 olang/0066e64e/0x210063/0x8e483f
-#: olang/0066e64e/0x210063/0x8e4840 olang/0066e64e/0x210063/0x8e4841
-#: olang/0066e64e/0x210064/0x7c7243 olang/0066e64e/0x210064/0x7c7245
-#: olang/0066e64e/0x210064/0x7c7247 olang/0066e64e/0x210064/0x7c7248
-#: olang/0066e64e/0x210064/0x8e483f olang/0066e64e/0x210064/0x8e4840
-#: olang/0066e64e/0x210064/0x8e4841 olang/0066e64e/0x210064/0x8e4842
-#: olang/0066e64e/0x210065/0x7c7241 olang/0066e64e/0x210065/0x7c7242
-#: olang/0066e64e/0x210065/0x7c7243 olang/0066e64e/0x210065/0x7c7245
-#: olang/0066e64e/0x210065/0x8e483f olang/0066e64e/0x210065/0x8e4840
-#: olang/0066e64e/0x210065/0x8e4842 olang/0066e64e/0x210066/0x7c723f
-#: olang/0066e64e/0x210066/0x7c7240 olang/0066e64e/0x210066/0x7c7241
-#: olang/0066e64e/0x210066/0x7c7242 olang/0066e64e/0x210066/0x7c7243
-#: olang/0066e64e/0x210066/0x7c7245 olang/0066e64e/0x210066/0x8e4842
-#: olang/0066e64e/0x210067/0x7c723f olang/0066e64e/0x210067/0x7c7240
-#: olang/0066e64e/0x210067/0x7c7241 olang/0066e64e/0x210067/0x7c7242
-#: olang/0066e64e/0x210067/0x7c7243 olang/0066e64e/0x210067/0x7c7245
-#: olang/0066e64e/0x210067/0x7c7247 olang/0066e64e/0x210067/0x7c7248
-#: olang/0066e64e/0x210067/0x8e483f olang/0066e64e/0x210067/0x8e4840
-#: olang/0066e64e/0x210067/0x8e4841 olang/0066e64e/0x210067/0x8e4842
-#: olang/0066e64e/0x210068/0x7c723f olang/0066e64e/0x210068/0x7c7240
-#: olang/0066e64e/0x210068/0x7c7241 olang/0066e64e/0x210068/0x7c7242
-#: olang/0066e64e/0x210068/0x7c7243 olang/0066e64e/0x210068/0x7c7244
-#: olang/0066e64e/0x210068/0x7c7245 olang/0066e64e/0x210068/0x7c7246
-#: olang/0066e64e/0x210068/0x7c7247 olang/0066e64e/0x210068/0x7c7248
-#: olang/0066e64e/0x210068/0x8e483f olang/0066e64e/0x210068/0x8e4840
-#: olang/0066e64e/0x210068/0x8e4841 olang/0066e64e/0x210068/0x8e4842
-#: olang/0066e64e/0x210068/0x8e4843 olang/0066e64e/0x210068/0x8e4844
-#: olang/0066e64e/0x210068/0x8e4845 olang/0066e64e/0x210069/0x7c723f
-#: olang/0066e64e/0x210069/0x7c7242 olang/0066e64e/0x210069/0x7c7243
-#: olang/0066e64e/0x210069/0x7c7245 olang/0066e64e/0x210069/0x7c7247
-#: olang/0066e64e/0x210069/0x7c7248 olang/0066e64e/0x210069/0x8e483f
-#: olang/0066e64e/0x210069/0x8e4840 olang/0066e64e/0x210069/0x8e4841
-#: olang/0066e64e/0x210069/0x8e4842 olang/0066e64e/0x21006a/0x7c723f
-#: olang/0066e64e/0x21006a/0x7c7242 olang/0066e64e/0x21006a/0x7c7243
-#: olang/0066e64e/0x21006a/0x7c7245 olang/0066e64e/0x21006a/0x8e483f
-#: olang/0066e64e/0x21006a/0x8e4840 olang/0066e64e/0x21006a/0x8e4842
-#: olang/0066e64e/0x21006b/0x7c7243 olang/0066e64e/0x21006b/0x7c7245
-#: olang/0066e64e/0x21006b/0x7c7247 olang/0066e64e/0x21006b/0x7c7248
-#: olang/0066e64e/0x21006b/0x8e483f olang/0066e64e/0x21006b/0x8e4840
-#: olang/0066e64e/0x21006b/0x8e4841 olang/0066e64e/0x21006b/0x8e4842
-#: olang/0066e64e/0x35f472/0x7c7243 olang/0066e64e/0x35f472/0x7c7245
-#: olang/0066e64e/0x35f472/0x8e4842 olang/0066e64e/0x4983dd/0x7c7243
-#: olang/0066e64e/0x4983dd/0x7c7245 olang/0066e64e/0x4983dd/0x8e4842
-#: olang/0066e64e/0x4983dd/0x8e4844 olang/0066e64e/0x4983dd/0x8e4845
-#: olang/0066e64e/0x4ad0f0/0x7c723f olang/0066e64e/0x4ad0f0/0x7c7240
-#: olang/0066e64e/0x4ad0f0/0x7c7241 olang/0066e64e/0x4ad0f0/0x7c7242
-#: olang/0066e64e/0x4ad0f0/0x7c7243 olang/0066e64e/0x4ad0f0/0x7c7244
-#: olang/0066e64e/0x4ad0f0/0x7c7245 olang/0066e64e/0x4ad0f0/0x7c7246
-#: olang/0066e64e/0x4ad0f0/0x7c7247 olang/0066e64e/0x4ad0f0/0x7c7248
-#: olang/0066e64e/0x4ad0f0/0x8e483f olang/0066e64e/0x4ad0f0/0x8e4840
-#: olang/0066e64e/0x4ad0f0/0x8e4841 olang/0066e64e/0x4ad0f0/0x8e4842
-#: olang/0066e64e/0x4ad0f0/0x8e4843 olang/0066e64e/0x4ad0f0/0x8e4844
-#: olang/0066e64e/0x4ad0f0/0x8e4845 olang/0066e64e/0x5389f6/0x7c7242
-#: olang/0066e64e/0x5389f6/0x7c7243 olang/0066e64e/0x5389f6/0x7c7245
-#: olang/0066e64e/0x5389f6/0x8e4842 olang/0066e64e/0x5389f6/0x8e4844
-#: olang/0066e64e/0x5389f6/0x8e4845 olang/0066e64e/0x53f3f0/0x7c7241
-#: olang/0066e64e/0x53f3f0/0x7c7243 olang/0066e64e/0x53f3f0/0x7c7245
-#: olang/0066e64e/0x53f3f0/0x8e4842 olang/0066e64e/0x678b3d/0x7c7243
-#: olang/0066e64e/0x678b3d/0x7c7244 olang/0066e64e/0x678b3d/0x7c7245
-#: olang/0066e64e/0x678b3d/0x7c7246 olang/0066e64e/0x678b3d/0x8e483f
-#: olang/0066e64e/0x678b3d/0x8e4840 olang/0066e64e/0x678b3d/0x8e4842
-#: olang/0066e64e/0x678b3d/0x8e4844 olang/0066e64e/0x678b3d/0x8e4845
-#: olang/0066e64e/0x7893c2/0x7c7243 olang/0066e64e/0x7893c2/0x7c7245
-#: olang/0066e64e/0x7893c2/0x8e4842 olang/0066e64e/0x89e528/0x7c7243
-#: olang/0066e64e/0x89e528/0x7c7245 olang/0066e64e/0x89e528/0x8e4842
-#: olang/0066e64e/0x89e528/0x8e4844 olang/0066e64e/0x89e528/0x8e4845
-#: olang/0066e64e/0x89e8a0/0x7c7243 olang/0066e64e/0x89e8a0/0x7c7245
-#: olang/0066e64e/0x89e8a0/0x8e4842 olang/0066e64e/0x89e8a0/0x8e4844
-#: olang/0066e64e/0x89e8a0/0x8e4845 olang/0066e64e/0x97a719/0x3b8f30
-#: olang/0066e64e/0xa69279/0x7c7243 olang/0066e64e/0xa69279/0x7c7245
-#: olang/0066e64e/0xa69279/0x8e4842 olang/0066e64e/0xa69279/0x8e4844
-#: olang/0066e64e/0xa69279/0x8e4845 olang/0066e64e/0xb8862e/0x7c7241
-#: olang/0066e64e/0xb8862e/0x7c7243 olang/0066e64e/0xb8862e/0x7c7245
-#: olang/0066e64e/0xb8862e/0x8e4842 olang/0066e64e/0xd33fba/0x7c7241
-#: olang/0066e64e/0xd33fba/0x7c7243 olang/0066e64e/0xd33fba/0x7c7245
-#: olang/0066e64e/0xd33fba/0x8e4842 olang/0066e64e/0xd33fba/0x8e4844
-#: olang/0066e64e/0xd33fba/0x8e4845 olang/0066e64e/0xd4462e/0x7c7241
-#: olang/0066e64e/0xd4462e/0x7c7243 olang/0066e64e/0xd4462e/0x7c7245
-#: olang/0066e64e/0xd4462e/0x8e4842 olang/0066e64e/0xda75f0/0x7c7241
-#: olang/0066e64e/0xda75f0/0x7c7243 olang/0066e64e/0xda75f0/0x7c7245
-#: olang/0066e64e/0xda75f0/0x8e483f olang/0066e64e/0xda75f0/0x8e4840
-#: olang/0066e64e/0xda75f0/0x8e4842 olang/0066e64e/0xdd6303/0x7c7241
-#: olang/0066e64e/0xdd6303/0x7c7243 olang/0066e64e/0xdd6303/0x7c7245
-#: olang/0066e64e/0xdd6303/0x8e4842 olang/0066e64e/0xdd6303/0x8e4844
-#: olang/0066e64e/0xdd6303/0x8e4845 olang/0066e64e/0xecf67f/0x7c7243
-#: olang/0066e64e/0xecf67f/0x7c7245 olang/0066e64e/0xecf67f/0x8e4842
-#: olang/0066e64e/0xecf67f/0x8e4844 olang/0066e64e/0xecf67f/0x8e4845
-#: olang/009c9ea4/0x210062/0x7c723f olang/009c9ea4/0x210062/0x7c7240
-#: olang/009c9ea4/0x210062/0x7c7241 olang/009c9ea4/0x210062/0x7c7242
-#: olang/009c9ea4/0x210062/0x7c7243 olang/009c9ea4/0x210062/0x7c7245
-#: olang/009c9ea4/0x210062/0x7c7247 olang/009c9ea4/0x210062/0x7c7248
-#: olang/009c9ea4/0x210063/0x7c723f olang/009c9ea4/0x210063/0x7c7240
-#: olang/009c9ea4/0x210063/0x7c7241 olang/009c9ea4/0x210063/0x7c7242
-#: olang/009c9ea4/0x210063/0x7c7243 olang/009c9ea4/0x210063/0x7c7245
-#: olang/009c9ea4/0x210063/0x7c7247 olang/009c9ea4/0x210063/0x7c7248
-#: olang/009c9ea4/0x210063/0x8e483f olang/009c9ea4/0x210063/0x8e4840
-#: olang/009c9ea4/0x210063/0x8e4841 olang/009c9ea4/0x210064/0x7c7243
-#: olang/009c9ea4/0x210064/0x7c7245 olang/009c9ea4/0x210064/0x7c7247
-#: olang/009c9ea4/0x210064/0x7c7248 olang/009c9ea4/0x210064/0x8e483f
-#: olang/009c9ea4/0x210064/0x8e4840 olang/009c9ea4/0x210064/0x8e4841
-#: olang/009c9ea4/0x210064/0x8e4842 olang/009c9ea4/0x210065/0x7c7241
-#: olang/009c9ea4/0x210065/0x7c7242 olang/009c9ea4/0x210065/0x7c7243
-#: olang/009c9ea4/0x210065/0x7c7245 olang/009c9ea4/0x210065/0x8e483f
-#: olang/009c9ea4/0x210065/0x8e4840 olang/009c9ea4/0x210065/0x8e4842
-#: olang/009c9ea4/0x210066/0x7c723f olang/009c9ea4/0x210066/0x7c7240
-#: olang/009c9ea4/0x210066/0x7c7241 olang/009c9ea4/0x210066/0x7c7242
-#: olang/009c9ea4/0x210066/0x7c7243 olang/009c9ea4/0x210066/0x7c7245
-#: olang/009c9ea4/0x210066/0x8e4842 olang/009c9ea4/0x210067/0x7c723f
-#: olang/009c9ea4/0x210067/0x7c7240 olang/009c9ea4/0x210067/0x7c7241
-#: olang/009c9ea4/0x210067/0x7c7242 olang/009c9ea4/0x210067/0x7c7243
-#: olang/009c9ea4/0x210067/0x7c7245 olang/009c9ea4/0x210067/0x7c7247
-#: olang/009c9ea4/0x210067/0x7c7248 olang/009c9ea4/0x210067/0x8e483f
-#: olang/009c9ea4/0x210067/0x8e4840 olang/009c9ea4/0x210067/0x8e4841
-#: olang/009c9ea4/0x210067/0x8e4842 olang/009c9ea4/0x210068/0x7c723f
-#: olang/009c9ea4/0x210068/0x7c7240 olang/009c9ea4/0x210068/0x7c7241
-#: olang/009c9ea4/0x210068/0x7c7242 olang/009c9ea4/0x210068/0x7c7243
-#: olang/009c9ea4/0x210068/0x7c7244 olang/009c9ea4/0x210068/0x7c7245
-#: olang/009c9ea4/0x210068/0x7c7246 olang/009c9ea4/0x210068/0x7c7247
-#: olang/009c9ea4/0x210068/0x7c7248 olang/009c9ea4/0x210068/0x8e483f
-#: olang/009c9ea4/0x210068/0x8e4840 olang/009c9ea4/0x210068/0x8e4841
-#: olang/009c9ea4/0x210068/0x8e4842 olang/009c9ea4/0x210068/0x8e4844
-#: olang/009c9ea4/0x210068/0x8e4845 olang/009c9ea4/0x210069/0x7c723f
-#: olang/009c9ea4/0x210069/0x7c7242 olang/009c9ea4/0x210069/0x7c7243
-#: olang/009c9ea4/0x210069/0x7c7245 olang/009c9ea4/0x210069/0x7c7247
-#: olang/009c9ea4/0x210069/0x7c7248 olang/009c9ea4/0x210069/0x8e483f
-#: olang/009c9ea4/0x210069/0x8e4840 olang/009c9ea4/0x210069/0x8e4841
-#: olang/009c9ea4/0x210069/0x8e4842 olang/009c9ea4/0x21006a/0x7c723f
-#: olang/009c9ea4/0x21006a/0x7c7242 olang/009c9ea4/0x21006a/0x7c7243
-#: olang/009c9ea4/0x21006a/0x7c7245 olang/009c9ea4/0x21006a/0x8e483f
-#: olang/009c9ea4/0x21006a/0x8e4840 olang/009c9ea4/0x21006a/0x8e4842
-#: olang/009c9ea4/0x21006b/0x7c7243 olang/009c9ea4/0x21006b/0x7c7245
-#: olang/009c9ea4/0x21006b/0x7c7247 olang/009c9ea4/0x21006b/0x7c7248
-#: olang/009c9ea4/0x21006b/0x8e483f olang/009c9ea4/0x21006b/0x8e4840
-#: olang/009c9ea4/0x21006b/0x8e4841 olang/009c9ea4/0x21006b/0x8e4842
-#: olang/009c9ea4/0x35f472/0x7c7243 olang/009c9ea4/0x35f472/0x7c7245
-#: olang/009c9ea4/0x35f472/0x8e4842 olang/009c9ea4/0x4983dd/0x7c7243
-#: olang/009c9ea4/0x4983dd/0x7c7245 olang/009c9ea4/0x4983dd/0x8e4842
-#: olang/009c9ea4/0x4983dd/0x8e4844 olang/009c9ea4/0x4983dd/0x8e4845
-#: olang/009c9ea4/0x4ad0f0/0x7c723f olang/009c9ea4/0x4ad0f0/0x7c7240
-#: olang/009c9ea4/0x4ad0f0/0x7c7241 olang/009c9ea4/0x4ad0f0/0x7c7242
-#: olang/009c9ea4/0x4ad0f0/0x7c7243 olang/009c9ea4/0x4ad0f0/0x7c7244
-#: olang/009c9ea4/0x4ad0f0/0x7c7245 olang/009c9ea4/0x4ad0f0/0x7c7246
-#: olang/009c9ea4/0x4ad0f0/0x7c7247 olang/009c9ea4/0x4ad0f0/0x7c7248
-#: olang/009c9ea4/0x4ad0f0/0x8e483f olang/009c9ea4/0x4ad0f0/0x8e4840
-#: olang/009c9ea4/0x4ad0f0/0x8e4841 olang/009c9ea4/0x4ad0f0/0x8e4842
-#: olang/009c9ea4/0x4ad0f0/0x8e4843 olang/009c9ea4/0x4ad0f0/0x8e4844
-#: olang/009c9ea4/0x4ad0f0/0x8e4845 olang/009c9ea4/0x5389f6/0x7c7242
-#: olang/009c9ea4/0x5389f6/0x7c7243 olang/009c9ea4/0x5389f6/0x7c7245
-#: olang/009c9ea4/0x5389f6/0x8e4842 olang/009c9ea4/0x5389f6/0x8e4844
-#: olang/009c9ea4/0x5389f6/0x8e4845 olang/009c9ea4/0x53f3f0/0x7c7241
-#: olang/009c9ea4/0x53f3f0/0x7c7243 olang/009c9ea4/0x53f3f0/0x7c7245
-#: olang/009c9ea4/0x53f3f0/0x8e4842 olang/009c9ea4/0x678b3d/0x7c7243
-#: olang/009c9ea4/0x678b3d/0x7c7244 olang/009c9ea4/0x678b3d/0x7c7245
-#: olang/009c9ea4/0x678b3d/0x7c7246 olang/009c9ea4/0x678b3d/0x8e483f
-#: olang/009c9ea4/0x678b3d/0x8e4840 olang/009c9ea4/0x678b3d/0x8e4842
-#: olang/009c9ea4/0x678b3d/0x8e4844 olang/009c9ea4/0x678b3d/0x8e4845
-#: olang/009c9ea4/0x7893c2/0x7c7243 olang/009c9ea4/0x7893c2/0x7c7245
-#: olang/009c9ea4/0x7893c2/0x8e4842 olang/009c9ea4/0x89e528/0x7c7243
-#: olang/009c9ea4/0x89e528/0x7c7245 olang/009c9ea4/0x89e528/0x8e4842
-#: olang/009c9ea4/0x89e528/0x8e4844 olang/009c9ea4/0x89e528/0x8e4845
-#: olang/009c9ea4/0x89e8a0/0x7c7243 olang/009c9ea4/0x89e8a0/0x7c7245
-#: olang/009c9ea4/0x89e8a0/0x8e4842 olang/009c9ea4/0x89e8a0/0x8e4844
-#: olang/009c9ea4/0x89e8a0/0x8e4845 olang/009c9ea4/0xa69279/0x7c7243
-#: olang/009c9ea4/0xa69279/0x7c7245 olang/009c9ea4/0xa69279/0x8e4842
-#: olang/009c9ea4/0xa69279/0x8e4844 olang/009c9ea4/0xa69279/0x8e4845
-#: olang/009c9ea4/0xb8862e/0x7c7241 olang/009c9ea4/0xb8862e/0x7c7243
-#: olang/009c9ea4/0xb8862e/0x7c7245 olang/009c9ea4/0xb8862e/0x8e4842
-#: olang/009c9ea4/0xd33fba/0x7c7241 olang/009c9ea4/0xd33fba/0x7c7243
-#: olang/009c9ea4/0xd33fba/0x7c7245 olang/009c9ea4/0xd33fba/0x8e4842
-#: olang/009c9ea4/0xd33fba/0x8e4844 olang/009c9ea4/0xd33fba/0x8e4845
-#: olang/009c9ea4/0xd4462e/0x7c7241 olang/009c9ea4/0xd4462e/0x7c7243
-#: olang/009c9ea4/0xd4462e/0x7c7245 olang/009c9ea4/0xd4462e/0x8e4842
-#: olang/009c9ea4/0xda75f0/0x7c7241 olang/009c9ea4/0xda75f0/0x7c7243
-#: olang/009c9ea4/0xda75f0/0x7c7245 olang/009c9ea4/0xda75f0/0x8e483f
-#: olang/009c9ea4/0xda75f0/0x8e4840 olang/009c9ea4/0xda75f0/0x8e4842
-#: olang/009c9ea4/0xdd6303/0x7c7241 olang/009c9ea4/0xdd6303/0x7c7243
-#: olang/009c9ea4/0xdd6303/0x7c7245 olang/009c9ea4/0xdd6303/0x8e4842
-#: olang/009c9ea4/0xdd6303/0x8e4844 olang/009c9ea4/0xdd6303/0x8e4845
-#: olang/009c9ea4/0xecf67f/0x7c7243 olang/009c9ea4/0xecf67f/0x7c7245
-#: olang/009c9ea4/0xecf67f/0x8e4842 olang/009c9ea4/0xecf67f/0x8e4844
+#: olang/0066e64e/0x0c4f4e/0x000a72
+#: olang/0066e64e/0x210062/0x7c723f
+#: olang/0066e64e/0x210062/0x7c7240
+#: olang/0066e64e/0x210062/0x7c7241
+#: olang/0066e64e/0x210062/0x7c7242
+#: olang/0066e64e/0x210062/0x7c7243
+#: olang/0066e64e/0x210062/0x7c7245
+#: olang/0066e64e/0x210062/0x7c7247
+#: olang/0066e64e/0x210062/0x7c7248
+#: olang/0066e64e/0x210063/0x7c723f
+#: olang/0066e64e/0x210063/0x7c7240
+#: olang/0066e64e/0x210063/0x7c7241
+#: olang/0066e64e/0x210063/0x7c7242
+#: olang/0066e64e/0x210063/0x7c7243
+#: olang/0066e64e/0x210063/0x7c7245
+#: olang/0066e64e/0x210063/0x7c7247
+#: olang/0066e64e/0x210063/0x7c7248
+#: olang/0066e64e/0x210063/0x8e483f
+#: olang/0066e64e/0x210063/0x8e4840
+#: olang/0066e64e/0x210063/0x8e4841
+#: olang/0066e64e/0x210064/0x7c7243
+#: olang/0066e64e/0x210064/0x7c7245
+#: olang/0066e64e/0x210064/0x7c7247
+#: olang/0066e64e/0x210064/0x7c7248
+#: olang/0066e64e/0x210064/0x8e483f
+#: olang/0066e64e/0x210064/0x8e4840
+#: olang/0066e64e/0x210064/0x8e4841
+#: olang/0066e64e/0x210064/0x8e4842
+#: olang/0066e64e/0x210065/0x7c7241
+#: olang/0066e64e/0x210065/0x7c7242
+#: olang/0066e64e/0x210065/0x7c7243
+#: olang/0066e64e/0x210065/0x7c7245
+#: olang/0066e64e/0x210065/0x8e483f
+#: olang/0066e64e/0x210065/0x8e4840
+#: olang/0066e64e/0x210065/0x8e4842
+#: olang/0066e64e/0x210066/0x7c723f
+#: olang/0066e64e/0x210066/0x7c7240
+#: olang/0066e64e/0x210066/0x7c7241
+#: olang/0066e64e/0x210066/0x7c7242
+#: olang/0066e64e/0x210066/0x7c7243
+#: olang/0066e64e/0x210066/0x7c7245
+#: olang/0066e64e/0x210066/0x8e4842
+#: olang/0066e64e/0x210067/0x7c723f
+#: olang/0066e64e/0x210067/0x7c7240
+#: olang/0066e64e/0x210067/0x7c7241
+#: olang/0066e64e/0x210067/0x7c7242
+#: olang/0066e64e/0x210067/0x7c7243
+#: olang/0066e64e/0x210067/0x7c7245
+#: olang/0066e64e/0x210067/0x7c7247
+#: olang/0066e64e/0x210067/0x7c7248
+#: olang/0066e64e/0x210067/0x8e483f
+#: olang/0066e64e/0x210067/0x8e4840
+#: olang/0066e64e/0x210067/0x8e4841
+#: olang/0066e64e/0x210067/0x8e4842
+#: olang/0066e64e/0x210068/0x7c723f
+#: olang/0066e64e/0x210068/0x7c7240
+#: olang/0066e64e/0x210068/0x7c7241
+#: olang/0066e64e/0x210068/0x7c7242
+#: olang/0066e64e/0x210068/0x7c7243
+#: olang/0066e64e/0x210068/0x7c7244
+#: olang/0066e64e/0x210068/0x7c7245
+#: olang/0066e64e/0x210068/0x7c7246
+#: olang/0066e64e/0x210068/0x7c7247
+#: olang/0066e64e/0x210068/0x7c7248
+#: olang/0066e64e/0x210068/0x8e483f
+#: olang/0066e64e/0x210068/0x8e4840
+#: olang/0066e64e/0x210068/0x8e4841
+#: olang/0066e64e/0x210068/0x8e4842
+#: olang/0066e64e/0x210068/0x8e4843
+#: olang/0066e64e/0x210068/0x8e4844
+#: olang/0066e64e/0x210068/0x8e4845
+#: olang/0066e64e/0x210069/0x7c723f
+#: olang/0066e64e/0x210069/0x7c7242
+#: olang/0066e64e/0x210069/0x7c7243
+#: olang/0066e64e/0x210069/0x7c7245
+#: olang/0066e64e/0x210069/0x7c7247
+#: olang/0066e64e/0x210069/0x7c7248
+#: olang/0066e64e/0x210069/0x8e483f
+#: olang/0066e64e/0x210069/0x8e4840
+#: olang/0066e64e/0x210069/0x8e4841
+#: olang/0066e64e/0x210069/0x8e4842
+#: olang/0066e64e/0x21006a/0x7c723f
+#: olang/0066e64e/0x21006a/0x7c7242
+#: olang/0066e64e/0x21006a/0x7c7243
+#: olang/0066e64e/0x21006a/0x7c7245
+#: olang/0066e64e/0x21006a/0x8e483f
+#: olang/0066e64e/0x21006a/0x8e4840
+#: olang/0066e64e/0x21006a/0x8e4842
+#: olang/0066e64e/0x21006b/0x7c7243
+#: olang/0066e64e/0x21006b/0x7c7245
+#: olang/0066e64e/0x21006b/0x7c7247
+#: olang/0066e64e/0x21006b/0x7c7248
+#: olang/0066e64e/0x21006b/0x8e483f
+#: olang/0066e64e/0x21006b/0x8e4840
+#: olang/0066e64e/0x21006b/0x8e4841
+#: olang/0066e64e/0x21006b/0x8e4842
+#: olang/0066e64e/0x35f472/0x7c7243
+#: olang/0066e64e/0x35f472/0x7c7245
+#: olang/0066e64e/0x35f472/0x8e4842
+#: olang/0066e64e/0x4983dd/0x7c7243
+#: olang/0066e64e/0x4983dd/0x7c7245
+#: olang/0066e64e/0x4983dd/0x8e4842
+#: olang/0066e64e/0x4983dd/0x8e4844
+#: olang/0066e64e/0x4983dd/0x8e4845
+#: olang/0066e64e/0x4ad0f0/0x7c723f
+#: olang/0066e64e/0x4ad0f0/0x7c7240
+#: olang/0066e64e/0x4ad0f0/0x7c7241
+#: olang/0066e64e/0x4ad0f0/0x7c7242
+#: olang/0066e64e/0x4ad0f0/0x7c7243
+#: olang/0066e64e/0x4ad0f0/0x7c7244
+#: olang/0066e64e/0x4ad0f0/0x7c7245
+#: olang/0066e64e/0x4ad0f0/0x7c7246
+#: olang/0066e64e/0x4ad0f0/0x7c7247
+#: olang/0066e64e/0x4ad0f0/0x7c7248
+#: olang/0066e64e/0x4ad0f0/0x8e483f
+#: olang/0066e64e/0x4ad0f0/0x8e4840
+#: olang/0066e64e/0x4ad0f0/0x8e4841
+#: olang/0066e64e/0x4ad0f0/0x8e4842
+#: olang/0066e64e/0x4ad0f0/0x8e4843
+#: olang/0066e64e/0x4ad0f0/0x8e4844
+#: olang/0066e64e/0x4ad0f0/0x8e4845
+#: olang/0066e64e/0x5389f6/0x7c7242
+#: olang/0066e64e/0x5389f6/0x7c7243
+#: olang/0066e64e/0x5389f6/0x7c7245
+#: olang/0066e64e/0x5389f6/0x8e4842
+#: olang/0066e64e/0x5389f6/0x8e4844
+#: olang/0066e64e/0x5389f6/0x8e4845
+#: olang/0066e64e/0x53f3f0/0x7c7241
+#: olang/0066e64e/0x53f3f0/0x7c7243
+#: olang/0066e64e/0x53f3f0/0x7c7245
+#: olang/0066e64e/0x53f3f0/0x8e4842
+#: olang/0066e64e/0x678b3d/0x7c7243
+#: olang/0066e64e/0x678b3d/0x7c7244
+#: olang/0066e64e/0x678b3d/0x7c7245
+#: olang/0066e64e/0x678b3d/0x7c7246
+#: olang/0066e64e/0x678b3d/0x8e483f
+#: olang/0066e64e/0x678b3d/0x8e4840
+#: olang/0066e64e/0x678b3d/0x8e4842
+#: olang/0066e64e/0x678b3d/0x8e4844
+#: olang/0066e64e/0x678b3d/0x8e4845
+#: olang/0066e64e/0x7893c2/0x7c7243
+#: olang/0066e64e/0x7893c2/0x7c7245
+#: olang/0066e64e/0x7893c2/0x8e4842
+#: olang/0066e64e/0x89e528/0x7c7243
+#: olang/0066e64e/0x89e528/0x7c7245
+#: olang/0066e64e/0x89e528/0x8e4842
+#: olang/0066e64e/0x89e528/0x8e4844
+#: olang/0066e64e/0x89e528/0x8e4845
+#: olang/0066e64e/0x89e8a0/0x7c7243
+#: olang/0066e64e/0x89e8a0/0x7c7245
+#: olang/0066e64e/0x89e8a0/0x8e4842
+#: olang/0066e64e/0x89e8a0/0x8e4844
+#: olang/0066e64e/0x89e8a0/0x8e4845
+#: olang/0066e64e/0x97a719/0x3b8f30
+#: olang/0066e64e/0xa69279/0x7c7243
+#: olang/0066e64e/0xa69279/0x7c7245
+#: olang/0066e64e/0xa69279/0x8e4842
+#: olang/0066e64e/0xa69279/0x8e4844
+#: olang/0066e64e/0xa69279/0x8e4845
+#: olang/0066e64e/0xb8862e/0x7c7241
+#: olang/0066e64e/0xb8862e/0x7c7243
+#: olang/0066e64e/0xb8862e/0x7c7245
+#: olang/0066e64e/0xb8862e/0x8e4842
+#: olang/0066e64e/0xd33fba/0x7c7241
+#: olang/0066e64e/0xd33fba/0x7c7243
+#: olang/0066e64e/0xd33fba/0x7c7245
+#: olang/0066e64e/0xd33fba/0x8e4842
+#: olang/0066e64e/0xd33fba/0x8e4844
+#: olang/0066e64e/0xd33fba/0x8e4845
+#: olang/0066e64e/0xd4462e/0x7c7241
+#: olang/0066e64e/0xd4462e/0x7c7243
+#: olang/0066e64e/0xd4462e/0x7c7245
+#: olang/0066e64e/0xd4462e/0x8e4842
+#: olang/0066e64e/0xda75f0/0x7c7241
+#: olang/0066e64e/0xda75f0/0x7c7243
+#: olang/0066e64e/0xda75f0/0x7c7245
+#: olang/0066e64e/0xda75f0/0x8e483f
+#: olang/0066e64e/0xda75f0/0x8e4840
+#: olang/0066e64e/0xda75f0/0x8e4842
+#: olang/0066e64e/0xdd6303/0x7c7241
+#: olang/0066e64e/0xdd6303/0x7c7243
+#: olang/0066e64e/0xdd6303/0x7c7245
+#: olang/0066e64e/0xdd6303/0x8e4842
+#: olang/0066e64e/0xdd6303/0x8e4844
+#: olang/0066e64e/0xdd6303/0x8e4845
+#: olang/0066e64e/0xecf67f/0x7c7243
+#: olang/0066e64e/0xecf67f/0x7c7245
+#: olang/0066e64e/0xecf67f/0x8e4842
+#: olang/0066e64e/0xecf67f/0x8e4844
+#: olang/0066e64e/0xecf67f/0x8e4845
+#: olang/009c9ea4/0x210062/0x7c723f
+#: olang/009c9ea4/0x210062/0x7c7240
+#: olang/009c9ea4/0x210062/0x7c7241
+#: olang/009c9ea4/0x210062/0x7c7242
+#: olang/009c9ea4/0x210062/0x7c7243
+#: olang/009c9ea4/0x210062/0x7c7245
+#: olang/009c9ea4/0x210062/0x7c7247
+#: olang/009c9ea4/0x210062/0x7c7248
+#: olang/009c9ea4/0x210063/0x7c723f
+#: olang/009c9ea4/0x210063/0x7c7240
+#: olang/009c9ea4/0x210063/0x7c7241
+#: olang/009c9ea4/0x210063/0x7c7242
+#: olang/009c9ea4/0x210063/0x7c7243
+#: olang/009c9ea4/0x210063/0x7c7245
+#: olang/009c9ea4/0x210063/0x7c7247
+#: olang/009c9ea4/0x210063/0x7c7248
+#: olang/009c9ea4/0x210063/0x8e483f
+#: olang/009c9ea4/0x210063/0x8e4840
+#: olang/009c9ea4/0x210063/0x8e4841
+#: olang/009c9ea4/0x210064/0x7c7243
+#: olang/009c9ea4/0x210064/0x7c7245
+#: olang/009c9ea4/0x210064/0x7c7247
+#: olang/009c9ea4/0x210064/0x7c7248
+#: olang/009c9ea4/0x210064/0x8e483f
+#: olang/009c9ea4/0x210064/0x8e4840
+#: olang/009c9ea4/0x210064/0x8e4841
+#: olang/009c9ea4/0x210064/0x8e4842
+#: olang/009c9ea4/0x210065/0x7c7241
+#: olang/009c9ea4/0x210065/0x7c7242
+#: olang/009c9ea4/0x210065/0x7c7243
+#: olang/009c9ea4/0x210065/0x7c7245
+#: olang/009c9ea4/0x210065/0x8e483f
+#: olang/009c9ea4/0x210065/0x8e4840
+#: olang/009c9ea4/0x210065/0x8e4842
+#: olang/009c9ea4/0x210066/0x7c723f
+#: olang/009c9ea4/0x210066/0x7c7240
+#: olang/009c9ea4/0x210066/0x7c7241
+#: olang/009c9ea4/0x210066/0x7c7242
+#: olang/009c9ea4/0x210066/0x7c7243
+#: olang/009c9ea4/0x210066/0x7c7245
+#: olang/009c9ea4/0x210066/0x8e4842
+#: olang/009c9ea4/0x210067/0x7c723f
+#: olang/009c9ea4/0x210067/0x7c7240
+#: olang/009c9ea4/0x210067/0x7c7241
+#: olang/009c9ea4/0x210067/0x7c7242
+#: olang/009c9ea4/0x210067/0x7c7243
+#: olang/009c9ea4/0x210067/0x7c7245
+#: olang/009c9ea4/0x210067/0x7c7247
+#: olang/009c9ea4/0x210067/0x7c7248
+#: olang/009c9ea4/0x210067/0x8e483f
+#: olang/009c9ea4/0x210067/0x8e4840
+#: olang/009c9ea4/0x210067/0x8e4841
+#: olang/009c9ea4/0x210067/0x8e4842
+#: olang/009c9ea4/0x210068/0x7c723f
+#: olang/009c9ea4/0x210068/0x7c7240
+#: olang/009c9ea4/0x210068/0x7c7241
+#: olang/009c9ea4/0x210068/0x7c7242
+#: olang/009c9ea4/0x210068/0x7c7243
+#: olang/009c9ea4/0x210068/0x7c7244
+#: olang/009c9ea4/0x210068/0x7c7245
+#: olang/009c9ea4/0x210068/0x7c7246
+#: olang/009c9ea4/0x210068/0x7c7247
+#: olang/009c9ea4/0x210068/0x7c7248
+#: olang/009c9ea4/0x210068/0x8e483f
+#: olang/009c9ea4/0x210068/0x8e4840
+#: olang/009c9ea4/0x210068/0x8e4841
+#: olang/009c9ea4/0x210068/0x8e4842
+#: olang/009c9ea4/0x210068/0x8e4844
+#: olang/009c9ea4/0x210068/0x8e4845
+#: olang/009c9ea4/0x210069/0x7c723f
+#: olang/009c9ea4/0x210069/0x7c7242
+#: olang/009c9ea4/0x210069/0x7c7243
+#: olang/009c9ea4/0x210069/0x7c7245
+#: olang/009c9ea4/0x210069/0x7c7247
+#: olang/009c9ea4/0x210069/0x7c7248
+#: olang/009c9ea4/0x210069/0x8e483f
+#: olang/009c9ea4/0x210069/0x8e4840
+#: olang/009c9ea4/0x210069/0x8e4841
+#: olang/009c9ea4/0x210069/0x8e4842
+#: olang/009c9ea4/0x21006a/0x7c723f
+#: olang/009c9ea4/0x21006a/0x7c7242
+#: olang/009c9ea4/0x21006a/0x7c7243
+#: olang/009c9ea4/0x21006a/0x7c7245
+#: olang/009c9ea4/0x21006a/0x8e483f
+#: olang/009c9ea4/0x21006a/0x8e4840
+#: olang/009c9ea4/0x21006a/0x8e4842
+#: olang/009c9ea4/0x21006b/0x7c7243
+#: olang/009c9ea4/0x21006b/0x7c7245
+#: olang/009c9ea4/0x21006b/0x7c7247
+#: olang/009c9ea4/0x21006b/0x7c7248
+#: olang/009c9ea4/0x21006b/0x8e483f
+#: olang/009c9ea4/0x21006b/0x8e4840
+#: olang/009c9ea4/0x21006b/0x8e4841
+#: olang/009c9ea4/0x21006b/0x8e4842
+#: olang/009c9ea4/0x35f472/0x7c7243
+#: olang/009c9ea4/0x35f472/0x7c7245
+#: olang/009c9ea4/0x35f472/0x8e4842
+#: olang/009c9ea4/0x4983dd/0x7c7243
+#: olang/009c9ea4/0x4983dd/0x7c7245
+#: olang/009c9ea4/0x4983dd/0x8e4842
+#: olang/009c9ea4/0x4983dd/0x8e4844
+#: olang/009c9ea4/0x4983dd/0x8e4845
+#: olang/009c9ea4/0x4ad0f0/0x7c723f
+#: olang/009c9ea4/0x4ad0f0/0x7c7240
+#: olang/009c9ea4/0x4ad0f0/0x7c7241
+#: olang/009c9ea4/0x4ad0f0/0x7c7242
+#: olang/009c9ea4/0x4ad0f0/0x7c7243
+#: olang/009c9ea4/0x4ad0f0/0x7c7244
+#: olang/009c9ea4/0x4ad0f0/0x7c7245
+#: olang/009c9ea4/0x4ad0f0/0x7c7246
+#: olang/009c9ea4/0x4ad0f0/0x7c7247
+#: olang/009c9ea4/0x4ad0f0/0x7c7248
+#: olang/009c9ea4/0x4ad0f0/0x8e483f
+#: olang/009c9ea4/0x4ad0f0/0x8e4840
+#: olang/009c9ea4/0x4ad0f0/0x8e4841
+#: olang/009c9ea4/0x4ad0f0/0x8e4842
+#: olang/009c9ea4/0x4ad0f0/0x8e4843
+#: olang/009c9ea4/0x4ad0f0/0x8e4844
+#: olang/009c9ea4/0x4ad0f0/0x8e4845
+#: olang/009c9ea4/0x5389f6/0x7c7242
+#: olang/009c9ea4/0x5389f6/0x7c7243
+#: olang/009c9ea4/0x5389f6/0x7c7245
+#: olang/009c9ea4/0x5389f6/0x8e4842
+#: olang/009c9ea4/0x5389f6/0x8e4844
+#: olang/009c9ea4/0x5389f6/0x8e4845
+#: olang/009c9ea4/0x53f3f0/0x7c7241
+#: olang/009c9ea4/0x53f3f0/0x7c7243
+#: olang/009c9ea4/0x53f3f0/0x7c7245
+#: olang/009c9ea4/0x53f3f0/0x8e4842
+#: olang/009c9ea4/0x678b3d/0x7c7243
+#: olang/009c9ea4/0x678b3d/0x7c7244
+#: olang/009c9ea4/0x678b3d/0x7c7245
+#: olang/009c9ea4/0x678b3d/0x7c7246
+#: olang/009c9ea4/0x678b3d/0x8e483f
+#: olang/009c9ea4/0x678b3d/0x8e4840
+#: olang/009c9ea4/0x678b3d/0x8e4842
+#: olang/009c9ea4/0x678b3d/0x8e4844
+#: olang/009c9ea4/0x678b3d/0x8e4845
+#: olang/009c9ea4/0x7893c2/0x7c7243
+#: olang/009c9ea4/0x7893c2/0x7c7245
+#: olang/009c9ea4/0x7893c2/0x8e4842
+#: olang/009c9ea4/0x89e528/0x7c7243
+#: olang/009c9ea4/0x89e528/0x7c7245
+#: olang/009c9ea4/0x89e528/0x8e4842
+#: olang/009c9ea4/0x89e528/0x8e4844
+#: olang/009c9ea4/0x89e528/0x8e4845
+#: olang/009c9ea4/0x89e8a0/0x7c7243
+#: olang/009c9ea4/0x89e8a0/0x7c7245
+#: olang/009c9ea4/0x89e8a0/0x8e4842
+#: olang/009c9ea4/0x89e8a0/0x8e4844
+#: olang/009c9ea4/0x89e8a0/0x8e4845
+#: olang/009c9ea4/0xa69279/0x7c7243
+#: olang/009c9ea4/0xa69279/0x7c7245
+#: olang/009c9ea4/0xa69279/0x8e4842
+#: olang/009c9ea4/0xa69279/0x8e4844
+#: olang/009c9ea4/0xa69279/0x8e4845
+#: olang/009c9ea4/0xb8862e/0x7c7241
+#: olang/009c9ea4/0xb8862e/0x7c7243
+#: olang/009c9ea4/0xb8862e/0x7c7245
+#: olang/009c9ea4/0xb8862e/0x8e4842
+#: olang/009c9ea4/0xd33fba/0x7c7241
+#: olang/009c9ea4/0xd33fba/0x7c7243
+#: olang/009c9ea4/0xd33fba/0x7c7245
+#: olang/009c9ea4/0xd33fba/0x8e4842
+#: olang/009c9ea4/0xd33fba/0x8e4844
+#: olang/009c9ea4/0xd33fba/0x8e4845
+#: olang/009c9ea4/0xd4462e/0x7c7241
+#: olang/009c9ea4/0xd4462e/0x7c7243
+#: olang/009c9ea4/0xd4462e/0x7c7245
+#: olang/009c9ea4/0xd4462e/0x8e4842
+#: olang/009c9ea4/0xda75f0/0x7c7241
+#: olang/009c9ea4/0xda75f0/0x7c7243
+#: olang/009c9ea4/0xda75f0/0x7c7245
+#: olang/009c9ea4/0xda75f0/0x8e483f
+#: olang/009c9ea4/0xda75f0/0x8e4840
+#: olang/009c9ea4/0xda75f0/0x8e4842
+#: olang/009c9ea4/0xdd6303/0x7c7241
+#: olang/009c9ea4/0xdd6303/0x7c7243
+#: olang/009c9ea4/0xdd6303/0x7c7245
+#: olang/009c9ea4/0xdd6303/0x8e4842
+#: olang/009c9ea4/0xdd6303/0x8e4844
+#: olang/009c9ea4/0xdd6303/0x8e4845
+#: olang/009c9ea4/0xecf67f/0x7c7243
+#: olang/009c9ea4/0xecf67f/0x7c7245
+#: olang/009c9ea4/0xecf67f/0x8e4842
+#: olang/009c9ea4/0xecf67f/0x8e4844
 #: olang/009c9ea4/0xecf67f/0x8e4845
 msgid "Not Used"
 msgstr "未用"
 
-#: olang/0066e64e/0x0c4f4e/0x000af0 olang/0066e64e/0x0c4f4e/0x23472e
-#: olang/0066e64e/0x0c4f4e/0x271d14 olang/0066e64e/0x0c4f4e/0x45a559
-#: olang/0066e64e/0x0c4f4e/0x5b41ee olang/0066e64e/0x97a719/0x5b41ee
-#: olang/0066e64e/0xef247a/0x000af0 olang/0066e64e/0xef247a/0x23472e
-#: olang/0066e64e/0xef247a/0x271d14 olang/0066e64e/0xef247a/0x45a559
+#: olang/0066e64e/0x0c4f4e/0x000af0
+#: olang/0066e64e/0x0c4f4e/0x23472e
+#: olang/0066e64e/0x0c4f4e/0x271d14
+#: olang/0066e64e/0x0c4f4e/0x45a559
+#: olang/0066e64e/0x0c4f4e/0x5b41ee
+#: olang/0066e64e/0x97a719/0x5b41ee
+#: olang/0066e64e/0xef247a/0x000af0
+#: olang/0066e64e/0xef247a/0x23472e
+#: olang/0066e64e/0xef247a/0x271d14
+#: olang/0066e64e/0xef247a/0x45a559
 #: olang/0066e64e/0xef247a/0x5b41ee
 msgid "Shift Camera"
 msgstr "切换镜头"
@@ -1183,18 +1588,22 @@ msgstr "瞄准/攻击"
 msgid "Melee Attack/Cancel Aim"
 msgstr "近战/取消瞄准"
 
-#: olang/0066e64e/0x0c4f4e/0x5b0e99 olang/0066e64e/0x97a719/0x5b0e99
+#: olang/0066e64e/0x0c4f4e/0x5b0e99
+#: olang/0066e64e/0x97a719/0x5b0e99
 #: olang/0066e64e/0xef247a/0x5b0e99
 msgid "Display Menu"
 msgstr "显示菜单"
 
-#: olang/0066e64e/0x0c4f4e/0x5b406e olang/0066e64e/0x97a719/0x5b406e
+#: olang/0066e64e/0x0c4f4e/0x5b406e
+#: olang/0066e64e/0x97a719/0x5b406e
 #: olang/0066e64e/0xef247a/0x5b406e
 msgid "Move"
 msgstr "移"
 
-#: olang/0066e64e/0x0c4f4e/0xa78e90 olang/0066e64e/0x97a719/0x23472e
-#: olang/0066e64e/0x97a719/0xa78e90 olang/0066e64e/0xef247a/0xa78e90
+#: olang/0066e64e/0x0c4f4e/0xa78e90
+#: olang/0066e64e/0x97a719/0x23472e
+#: olang/0066e64e/0x97a719/0xa78e90
+#: olang/0066e64e/0xef247a/0xa78e90
 msgid "Crouch/Lie"
 msgstr "蹲/卧"
 
@@ -1202,408 +1611,664 @@ msgstr "蹲/卧"
 msgid "Action Button/Reload"
 msgstr "动作键/装弹"
 
-#: olang/0066e64e/0x210062/0x7c7244 olang/0066e64e/0x210062/0x7c7246
-#: olang/0066e64e/0x210063/0x7c7244 olang/0066e64e/0x210063/0x7c7246
-#: olang/0066e64e/0x210064/0x7c7244 olang/0066e64e/0x210064/0x7c7246
-#: olang/0066e64e/0x210065/0x7c7244 olang/0066e64e/0x210065/0x7c7246
-#: olang/0066e64e/0x210066/0x7c7244 olang/0066e64e/0x210066/0x7c7246
-#: olang/0066e64e/0x210067/0x7c7244 olang/0066e64e/0x210067/0x7c7246
-#: olang/0066e64e/0x210069/0x7c7244 olang/0066e64e/0x210069/0x7c7246
-#: olang/0066e64e/0x21006a/0x7c7244 olang/0066e64e/0x21006a/0x7c7246
-#: olang/0066e64e/0x21006b/0x7c7244 olang/0066e64e/0x21006b/0x7c7246
-#: olang/0066e64e/0x35f472/0x7c7244 olang/0066e64e/0x35f472/0x7c7246
-#: olang/0066e64e/0x4983dd/0x7c7244 olang/0066e64e/0x4983dd/0x7c7246
-#: olang/0066e64e/0x5389f6/0x7c7244 olang/0066e64e/0x5389f6/0x7c7246
-#: olang/0066e64e/0x53f3f0/0x7c7244 olang/0066e64e/0x53f3f0/0x7c7246
-#: olang/0066e64e/0x7893c2/0x7c7244 olang/0066e64e/0x7893c2/0x7c7246
-#: olang/0066e64e/0x89e528/0x7c7244 olang/0066e64e/0x89e528/0x7c7246
-#: olang/0066e64e/0x89e8a0/0x7c7244 olang/0066e64e/0x89e8a0/0x7c7246
-#: olang/0066e64e/0xa69279/0x7c7244 olang/0066e64e/0xa69279/0x7c7246
-#: olang/0066e64e/0xb8862e/0x7c7244 olang/0066e64e/0xb8862e/0x7c7246
-#: olang/0066e64e/0xd33fba/0x7c7244 olang/0066e64e/0xd33fba/0x7c7246
-#: olang/0066e64e/0xd4462e/0x7c7244 olang/0066e64e/0xd4462e/0x7c7246
-#: olang/0066e64e/0xda75f0/0x7c7244 olang/0066e64e/0xda75f0/0x7c7246
-#: olang/0066e64e/0xdd6303/0x7c7244 olang/0066e64e/0xdd6303/0x7c7246
-#: olang/0066e64e/0xecf67f/0x7c7244 olang/0066e64e/0xecf67f/0x7c7246
-#: olang/009c9ea4/0x210062/0x7c7244 olang/009c9ea4/0x210062/0x7c7246
-#: olang/009c9ea4/0x210063/0x7c7244 olang/009c9ea4/0x210063/0x7c7246
-#: olang/009c9ea4/0x210064/0x7c7244 olang/009c9ea4/0x210064/0x7c7246
-#: olang/009c9ea4/0x210065/0x7c7244 olang/009c9ea4/0x210065/0x7c7246
-#: olang/009c9ea4/0x210066/0x7c7244 olang/009c9ea4/0x210066/0x7c7246
-#: olang/009c9ea4/0x210067/0x7c7244 olang/009c9ea4/0x210067/0x7c7246
-#: olang/009c9ea4/0x210069/0x7c7244 olang/009c9ea4/0x210069/0x7c7246
-#: olang/009c9ea4/0x21006a/0x7c7244 olang/009c9ea4/0x21006a/0x7c7246
-#: olang/009c9ea4/0x21006b/0x7c7244 olang/009c9ea4/0x21006b/0x7c7246
-#: olang/009c9ea4/0x35f472/0x7c7244 olang/009c9ea4/0x35f472/0x7c7246
-#: olang/009c9ea4/0x4983dd/0x7c7244 olang/009c9ea4/0x4983dd/0x7c7246
-#: olang/009c9ea4/0x5389f6/0x7c7244 olang/009c9ea4/0x5389f6/0x7c7246
-#: olang/009c9ea4/0x53f3f0/0x7c7244 olang/009c9ea4/0x53f3f0/0x7c7246
-#: olang/009c9ea4/0x7893c2/0x7c7244 olang/009c9ea4/0x7893c2/0x7c7246
-#: olang/009c9ea4/0x89e528/0x7c7244 olang/009c9ea4/0x89e528/0x7c7246
-#: olang/009c9ea4/0x89e8a0/0x7c7244 olang/009c9ea4/0x89e8a0/0x7c7246
-#: olang/009c9ea4/0xa69279/0x7c7244 olang/009c9ea4/0xa69279/0x7c7246
-#: olang/009c9ea4/0xb8862e/0x7c7244 olang/009c9ea4/0xb8862e/0x7c7246
-#: olang/009c9ea4/0xd33fba/0x7c7244 olang/009c9ea4/0xd33fba/0x7c7246
-#: olang/009c9ea4/0xd4462e/0x7c7244 olang/009c9ea4/0xd4462e/0x7c7246
-#: olang/009c9ea4/0xda75f0/0x7c7244 olang/009c9ea4/0xda75f0/0x7c7246
-#: olang/009c9ea4/0xdd6303/0x7c7244 olang/009c9ea4/0xdd6303/0x7c7246
-#: olang/009c9ea4/0xecf67f/0x7c7244 olang/009c9ea4/0xecf67f/0x7c7246
+#: olang/0066e64e/0x210062/0x7c7244
+#: olang/0066e64e/0x210062/0x7c7246
+#: olang/0066e64e/0x210063/0x7c7244
+#: olang/0066e64e/0x210063/0x7c7246
+#: olang/0066e64e/0x210064/0x7c7244
+#: olang/0066e64e/0x210064/0x7c7246
+#: olang/0066e64e/0x210065/0x7c7244
+#: olang/0066e64e/0x210065/0x7c7246
+#: olang/0066e64e/0x210066/0x7c7244
+#: olang/0066e64e/0x210066/0x7c7246
+#: olang/0066e64e/0x210067/0x7c7244
+#: olang/0066e64e/0x210067/0x7c7246
+#: olang/0066e64e/0x210069/0x7c7244
+#: olang/0066e64e/0x210069/0x7c7246
+#: olang/0066e64e/0x21006a/0x7c7244
+#: olang/0066e64e/0x21006a/0x7c7246
+#: olang/0066e64e/0x21006b/0x7c7244
+#: olang/0066e64e/0x21006b/0x7c7246
+#: olang/0066e64e/0x35f472/0x7c7244
+#: olang/0066e64e/0x35f472/0x7c7246
+#: olang/0066e64e/0x4983dd/0x7c7244
+#: olang/0066e64e/0x4983dd/0x7c7246
+#: olang/0066e64e/0x5389f6/0x7c7244
+#: olang/0066e64e/0x5389f6/0x7c7246
+#: olang/0066e64e/0x53f3f0/0x7c7244
+#: olang/0066e64e/0x53f3f0/0x7c7246
+#: olang/0066e64e/0x7893c2/0x7c7244
+#: olang/0066e64e/0x7893c2/0x7c7246
+#: olang/0066e64e/0x89e528/0x7c7244
+#: olang/0066e64e/0x89e528/0x7c7246
+#: olang/0066e64e/0x89e8a0/0x7c7244
+#: olang/0066e64e/0x89e8a0/0x7c7246
+#: olang/0066e64e/0xa69279/0x7c7244
+#: olang/0066e64e/0xa69279/0x7c7246
+#: olang/0066e64e/0xb8862e/0x7c7244
+#: olang/0066e64e/0xb8862e/0x7c7246
+#: olang/0066e64e/0xd33fba/0x7c7244
+#: olang/0066e64e/0xd33fba/0x7c7246
+#: olang/0066e64e/0xd4462e/0x7c7244
+#: olang/0066e64e/0xd4462e/0x7c7246
+#: olang/0066e64e/0xda75f0/0x7c7244
+#: olang/0066e64e/0xda75f0/0x7c7246
+#: olang/0066e64e/0xdd6303/0x7c7244
+#: olang/0066e64e/0xdd6303/0x7c7246
+#: olang/0066e64e/0xecf67f/0x7c7244
+#: olang/0066e64e/0xecf67f/0x7c7246
+#: olang/009c9ea4/0x210062/0x7c7244
+#: olang/009c9ea4/0x210062/0x7c7246
+#: olang/009c9ea4/0x210063/0x7c7244
+#: olang/009c9ea4/0x210063/0x7c7246
+#: olang/009c9ea4/0x210064/0x7c7244
+#: olang/009c9ea4/0x210064/0x7c7246
+#: olang/009c9ea4/0x210065/0x7c7244
+#: olang/009c9ea4/0x210065/0x7c7246
+#: olang/009c9ea4/0x210066/0x7c7244
+#: olang/009c9ea4/0x210066/0x7c7246
+#: olang/009c9ea4/0x210067/0x7c7244
+#: olang/009c9ea4/0x210067/0x7c7246
+#: olang/009c9ea4/0x210069/0x7c7244
+#: olang/009c9ea4/0x210069/0x7c7246
+#: olang/009c9ea4/0x21006a/0x7c7244
+#: olang/009c9ea4/0x21006a/0x7c7246
+#: olang/009c9ea4/0x21006b/0x7c7244
+#: olang/009c9ea4/0x21006b/0x7c7246
+#: olang/009c9ea4/0x35f472/0x7c7244
+#: olang/009c9ea4/0x35f472/0x7c7246
+#: olang/009c9ea4/0x4983dd/0x7c7244
+#: olang/009c9ea4/0x4983dd/0x7c7246
+#: olang/009c9ea4/0x5389f6/0x7c7244
+#: olang/009c9ea4/0x5389f6/0x7c7246
+#: olang/009c9ea4/0x53f3f0/0x7c7244
+#: olang/009c9ea4/0x53f3f0/0x7c7246
+#: olang/009c9ea4/0x7893c2/0x7c7244
+#: olang/009c9ea4/0x7893c2/0x7c7246
+#: olang/009c9ea4/0x89e528/0x7c7244
+#: olang/009c9ea4/0x89e528/0x7c7246
+#: olang/009c9ea4/0x89e8a0/0x7c7244
+#: olang/009c9ea4/0x89e8a0/0x7c7246
+#: olang/009c9ea4/0xa69279/0x7c7244
+#: olang/009c9ea4/0xa69279/0x7c7246
+#: olang/009c9ea4/0xb8862e/0x7c7244
+#: olang/009c9ea4/0xb8862e/0x7c7246
+#: olang/009c9ea4/0xd33fba/0x7c7244
+#: olang/009c9ea4/0xd33fba/0x7c7246
+#: olang/009c9ea4/0xd4462e/0x7c7244
+#: olang/009c9ea4/0xd4462e/0x7c7246
+#: olang/009c9ea4/0xda75f0/0x7c7244
+#: olang/009c9ea4/0xda75f0/0x7c7246
+#: olang/009c9ea4/0xdd6303/0x7c7244
+#: olang/009c9ea4/0xdd6303/0x7c7246
+#: olang/009c9ea4/0xecf67f/0x7c7244
+#: olang/009c9ea4/0xecf67f/0x7c7246
 msgid "Change Tab"
 msgstr "切标签"
 
-#: olang/0066e64e/0x210062/0x8e483f olang/0066e64e/0x210062/0x8e4840
-#: olang/0066e64e/0x210062/0x8e4841 olang/009c9ea4/0x210062/0x8e483f
-#: olang/009c9ea4/0x210062/0x8e4840 olang/009c9ea4/0x210062/0x8e4841
+#: olang/0066e64e/0x210062/0x8e483f
+#: olang/0066e64e/0x210062/0x8e4840
+#: olang/0066e64e/0x210062/0x8e4841
+#: olang/009c9ea4/0x210062/0x8e483f
+#: olang/009c9ea4/0x210062/0x8e4840
+#: olang/009c9ea4/0x210062/0x8e4841
 msgid "Change Floor (on maps with more than 1 story)"
 msgstr "切换楼层（多层地图）"
 
-#: olang/0066e64e/0x210062/0x8e4842 olang/0066e64e/0x210063/0x8e4842
-#: olang/009c9ea4/0x210062/0x8e4842 olang/009c9ea4/0x210063/0x8e4842
+#: olang/0066e64e/0x210062/0x8e4842
+#: olang/0066e64e/0x210063/0x8e4842
+#: olang/009c9ea4/0x210062/0x8e4842
+#: olang/009c9ea4/0x210063/0x8e4842
 msgid "Scroll"
 msgstr "滚动"
 
-#: olang/0066e64e/0x210062/0x8e4843 olang/0066e64e/0x210063/0x8e4843
-#: olang/0066e64e/0x210064/0x8e4843 olang/0066e64e/0x210065/0x8e4843
-#: olang/0066e64e/0x210066/0x8e4843 olang/0066e64e/0x210067/0x8e4843
-#: olang/0066e64e/0x210069/0x8e4843 olang/0066e64e/0x21006a/0x8e4843
+#: olang/0066e64e/0x210062/0x8e4843
+#: olang/0066e64e/0x210063/0x8e4843
+#: olang/0066e64e/0x210064/0x8e4843
+#: olang/0066e64e/0x210065/0x8e4843
+#: olang/0066e64e/0x210066/0x8e4843
+#: olang/0066e64e/0x210067/0x8e4843
+#: olang/0066e64e/0x210069/0x8e4843
+#: olang/0066e64e/0x21006a/0x8e4843
 #: olang/0066e64e/0x21006b/0x8e4843
 msgid "Display Key Help"
 msgstr "显示按键帮助"
 
-#: olang/0066e64e/0x210062/0x8e4844 olang/0066e64e/0x210062/0x8e4845
-#: olang/0066e64e/0x210063/0x8e4844 olang/0066e64e/0x210063/0x8e4845
-#: olang/0066e64e/0x210064/0x8e4844 olang/0066e64e/0x210064/0x8e4845
-#: olang/0066e64e/0x210065/0x8e4844 olang/0066e64e/0x210065/0x8e4845
-#: olang/0066e64e/0x210066/0x8e4844 olang/0066e64e/0x210066/0x8e4845
-#: olang/0066e64e/0x210067/0x8e4844 olang/0066e64e/0x210067/0x8e4845
-#: olang/0066e64e/0x210069/0x8e4844 olang/0066e64e/0x210069/0x8e4845
-#: olang/0066e64e/0x21006a/0x8e4844 olang/0066e64e/0x21006a/0x8e4845
-#: olang/0066e64e/0x21006b/0x8e4844 olang/0066e64e/0x21006b/0x8e4845
-#: olang/009c9ea4/0x210062/0x8e4844 olang/009c9ea4/0x210062/0x8e4845
-#: olang/009c9ea4/0x210063/0x8e4844 olang/009c9ea4/0x210063/0x8e4845
-#: olang/009c9ea4/0x210064/0x8e4844 olang/009c9ea4/0x210064/0x8e4845
-#: olang/009c9ea4/0x210065/0x8e4844 olang/009c9ea4/0x210065/0x8e4845
-#: olang/009c9ea4/0x210066/0x8e4844 olang/009c9ea4/0x210066/0x8e4845
-#: olang/009c9ea4/0x210067/0x8e4844 olang/009c9ea4/0x210067/0x8e4845
-#: olang/009c9ea4/0x210069/0x8e4844 olang/009c9ea4/0x210069/0x8e4845
-#: olang/009c9ea4/0x21006a/0x8e4844 olang/009c9ea4/0x21006a/0x8e4845
-#: olang/009c9ea4/0x21006b/0x8e4844 olang/009c9ea4/0x21006b/0x8e4845
+#: olang/0066e64e/0x210062/0x8e4844
+#: olang/0066e64e/0x210062/0x8e4845
+#: olang/0066e64e/0x210063/0x8e4844
+#: olang/0066e64e/0x210063/0x8e4845
+#: olang/0066e64e/0x210064/0x8e4844
+#: olang/0066e64e/0x210064/0x8e4845
+#: olang/0066e64e/0x210065/0x8e4844
+#: olang/0066e64e/0x210065/0x8e4845
+#: olang/0066e64e/0x210066/0x8e4844
+#: olang/0066e64e/0x210066/0x8e4845
+#: olang/0066e64e/0x210067/0x8e4844
+#: olang/0066e64e/0x210067/0x8e4845
+#: olang/0066e64e/0x210069/0x8e4844
+#: olang/0066e64e/0x210069/0x8e4845
+#: olang/0066e64e/0x21006a/0x8e4844
+#: olang/0066e64e/0x21006a/0x8e4845
+#: olang/0066e64e/0x21006b/0x8e4844
+#: olang/0066e64e/0x21006b/0x8e4845
+#: olang/009c9ea4/0x210062/0x8e4844
+#: olang/009c9ea4/0x210062/0x8e4845
+#: olang/009c9ea4/0x210063/0x8e4844
+#: olang/009c9ea4/0x210063/0x8e4845
+#: olang/009c9ea4/0x210064/0x8e4844
+#: olang/009c9ea4/0x210064/0x8e4845
+#: olang/009c9ea4/0x210065/0x8e4844
+#: olang/009c9ea4/0x210065/0x8e4845
+#: olang/009c9ea4/0x210066/0x8e4844
+#: olang/009c9ea4/0x210066/0x8e4845
+#: olang/009c9ea4/0x210067/0x8e4844
+#: olang/009c9ea4/0x210067/0x8e4845
+#: olang/009c9ea4/0x210069/0x8e4844
+#: olang/009c9ea4/0x210069/0x8e4845
+#: olang/009c9ea4/0x21006a/0x8e4844
+#: olang/009c9ea4/0x21006a/0x8e4845
+#: olang/009c9ea4/0x21006b/0x8e4844
+#: olang/009c9ea4/0x21006b/0x8e4845
 msgid "Close Menu"
 msgstr "关菜单"
 
-#: olang/0066e64e/0x210064/0x7c723f olang/0066e64e/0x210064/0x7c7240
-#: olang/0066e64e/0x210064/0x7c7241 olang/0066e64e/0x210064/0x7c7242
-#: olang/009c9ea4/0x210064/0x7c723f olang/009c9ea4/0x210064/0x7c7240
-#: olang/009c9ea4/0x210064/0x7c7241 olang/009c9ea4/0x210064/0x7c7242
+#: olang/0066e64e/0x210064/0x7c723f
+#: olang/0066e64e/0x210064/0x7c7240
+#: olang/0066e64e/0x210064/0x7c7241
+#: olang/0066e64e/0x210064/0x7c7242
+#: olang/009c9ea4/0x210064/0x7c723f
+#: olang/009c9ea4/0x210064/0x7c7240
+#: olang/009c9ea4/0x210064/0x7c7241
+#: olang/009c9ea4/0x210064/0x7c7242
 msgid "Group Select / CO-OPS Comm. Select"
 msgstr "组选择／合作通讯选择"
 
-#: olang/0066e64e/0x210065/0x7c723f olang/0066e64e/0x210065/0x7c7247
-#: olang/0066e64e/0x210065/0x7c7248 olang/0066e64e/0x210065/0x8e4841
-#: olang/0066e64e/0x5389f6/0x7c723f olang/0066e64e/0x53f3f0/0x7c723f
-#: olang/0066e64e/0x678b3d/0x7c723f olang/0066e64e/0x7893c2/0x7c723f
-#: olang/0066e64e/0xa69279/0x7c723f olang/0066e64e/0xb8862e/0x7c723f
-#: olang/0066e64e/0xd33fba/0x7c723f olang/0066e64e/0xd4462e/0x7c723f
-#: olang/0066e64e/0xda75f0/0x7c723f olang/0066e64e/0xdd6303/0x7c723f
-#: olang/0066e64e/0xecf67f/0x7c723f olang/009c9ea4/0x210065/0x7c723f
-#: olang/009c9ea4/0x210065/0x7c7247 olang/009c9ea4/0x210065/0x7c7248
-#: olang/009c9ea4/0x210065/0x8e4841 olang/009c9ea4/0x5389f6/0x7c723f
-#: olang/009c9ea4/0x53f3f0/0x7c723f olang/009c9ea4/0x678b3d/0x7c723f
-#: olang/009c9ea4/0x7893c2/0x7c723f olang/009c9ea4/0xa69279/0x7c723f
-#: olang/009c9ea4/0xb8862e/0x7c723f olang/009c9ea4/0xd33fba/0x7c723f
-#: olang/009c9ea4/0xd4462e/0x7c723f olang/009c9ea4/0xda75f0/0x7c723f
-#: olang/009c9ea4/0xdd6303/0x7c723f olang/009c9ea4/0xecf67f/0x7c723f
+#: olang/0066e64e/0x210065/0x7c723f
+#: olang/0066e64e/0x210065/0x7c7247
+#: olang/0066e64e/0x210065/0x7c7248
+#: olang/0066e64e/0x210065/0x8e4841
+#: olang/0066e64e/0x5389f6/0x7c723f
+#: olang/0066e64e/0x53f3f0/0x7c723f
+#: olang/0066e64e/0x678b3d/0x7c723f
+#: olang/0066e64e/0x7893c2/0x7c723f
+#: olang/0066e64e/0xa69279/0x7c723f
+#: olang/0066e64e/0xb8862e/0x7c723f
+#: olang/0066e64e/0xd33fba/0x7c723f
+#: olang/0066e64e/0xd4462e/0x7c723f
+#: olang/0066e64e/0xda75f0/0x7c723f
+#: olang/0066e64e/0xdd6303/0x7c723f
+#: olang/0066e64e/0xecf67f/0x7c723f
+#: olang/009c9ea4/0x210065/0x7c723f
+#: olang/009c9ea4/0x210065/0x7c7247
+#: olang/009c9ea4/0x210065/0x7c7248
+#: olang/009c9ea4/0x210065/0x8e4841
+#: olang/009c9ea4/0x5389f6/0x7c723f
+#: olang/009c9ea4/0x53f3f0/0x7c723f
+#: olang/009c9ea4/0x678b3d/0x7c723f
+#: olang/009c9ea4/0x7893c2/0x7c723f
+#: olang/009c9ea4/0xa69279/0x7c723f
+#: olang/009c9ea4/0xb8862e/0x7c723f
+#: olang/009c9ea4/0xd33fba/0x7c723f
+#: olang/009c9ea4/0xd4462e/0x7c723f
+#: olang/009c9ea4/0xda75f0/0x7c723f
+#: olang/009c9ea4/0xdd6303/0x7c723f
+#: olang/009c9ea4/0xecf67f/0x7c723f
 msgid "Select"
 msgstr "选择"
 
-#: olang/0066e64e/0x210065/0x7c7240 olang/0066e64e/0xecf67f/0x7c7241
-#: olang/009c9ea4/0x210065/0x7c7240 olang/00d0c740/0x482e82/0x381576
+#: olang/0066e64e/0x210065/0x7c7240
+#: olang/0066e64e/0xecf67f/0x7c7241
+#: olang/009c9ea4/0x210065/0x7c7240
+#: olang/00d0c740/0x482e82/0x381576
 msgid "Cancel"
 msgstr "取消"
 
-#: olang/0066e64e/0x210066/0x7c7247 olang/0066e64e/0x210066/0x7c7248
-#: olang/009c9ea4/0x210066/0x7c7247 olang/009c9ea4/0x210066/0x7c7248
+#: olang/0066e64e/0x210066/0x7c7247
+#: olang/0066e64e/0x210066/0x7c7248
+#: olang/009c9ea4/0x210066/0x7c7247
+#: olang/009c9ea4/0x210066/0x7c7248
 msgid "Item Select"
 msgstr "选道具"
 
-#: olang/0066e64e/0x210066/0x8e483f olang/0066e64e/0x210066/0x8e4840
-#: olang/009c9ea4/0x210066/0x8e483f olang/009c9ea4/0x210066/0x8e4840
+#: olang/0066e64e/0x210066/0x8e483f
+#: olang/0066e64e/0x210066/0x8e4840
+#: olang/009c9ea4/0x210066/0x8e483f
+#: olang/009c9ea4/0x210066/0x8e4840
 msgid "Setting Select"
 msgstr "设置选择"
 
-#: olang/0066e64e/0x210066/0x8e4841 olang/009c9ea4/0x210066/0x8e4841
+#: olang/0066e64e/0x210066/0x8e4841
+#: olang/009c9ea4/0x210066/0x8e4841
 msgid "Item Select / Setting Select "
 msgstr "道具选择／设置选择"
 
-#: olang/0066e64e/0x210069/0x7c7240 olang/0066e64e/0x21006a/0x7c7240
-#: olang/0066e64e/0x4983dd/0x7c7242 olang/009c9ea4/0x210069/0x7c7240
-#: olang/009c9ea4/0x21006a/0x7c7240 olang/009c9ea4/0x4983dd/0x7c7242
+#: olang/0066e64e/0x210069/0x7c7240
+#: olang/0066e64e/0x21006a/0x7c7240
+#: olang/0066e64e/0x4983dd/0x7c7242
+#: olang/009c9ea4/0x210069/0x7c7240
+#: olang/009c9ea4/0x21006a/0x7c7240
+#: olang/009c9ea4/0x4983dd/0x7c7242
 msgid "Play"
 msgstr "播放"
 
-#: olang/0066e64e/0x210069/0x7c7241 olang/0066e64e/0x21006a/0x7c7241
-#: olang/009c9ea4/0x210069/0x7c7241 olang/009c9ea4/0x21006a/0x7c7241
+#: olang/0066e64e/0x210069/0x7c7241
+#: olang/0066e64e/0x21006a/0x7c7241
+#: olang/009c9ea4/0x210069/0x7c7241
+#: olang/009c9ea4/0x21006a/0x7c7241
 msgid "Stop"
 msgstr "停止"
 
-#: olang/0066e64e/0x21006a/0x7c7247 olang/0066e64e/0x21006b/0x7c7242
-#: olang/009c9ea4/0x21006a/0x7c7247 olang/009c9ea4/0x21006b/0x7c7242
+#: olang/0066e64e/0x21006a/0x7c7247
+#: olang/0066e64e/0x21006b/0x7c7242
+#: olang/009c9ea4/0x21006a/0x7c7247
+#: olang/009c9ea4/0x21006b/0x7c7242
 msgid "Previous Track (while playing)"
 msgstr "上一曲（播放中）"
 
-#: olang/0066e64e/0x21006a/0x7c7248 olang/0066e64e/0x21006b/0x7c723f
-#: olang/009c9ea4/0x21006a/0x7c7248 olang/009c9ea4/0x21006b/0x7c723f
+#: olang/0066e64e/0x21006a/0x7c7248
+#: olang/0066e64e/0x21006b/0x7c723f
+#: olang/009c9ea4/0x21006a/0x7c7248
+#: olang/009c9ea4/0x21006b/0x7c723f
 msgid "Next Track (while playing)"
 msgstr "下一曲（播放中）"
 
-#: olang/0066e64e/0x21006a/0x8e4841 olang/009c9ea4/0x21006a/0x8e4841
+#: olang/0066e64e/0x21006a/0x8e4841
+#: olang/009c9ea4/0x21006a/0x8e4841
 msgid "Previous Track (while playing) / Next Track (while playing)"
 msgstr "上一曲（播放中）／下一曲（播放中）"
 
-#: olang/0066e64e/0x21006b/0x7c7240 olang/009c9ea4/0x21006b/0x7c7240
+#: olang/0066e64e/0x21006b/0x7c7240
+#: olang/009c9ea4/0x21006b/0x7c7240
 msgid "Press to Play/Stop - Hold to Enter ZAPPIN Mode"
 msgstr "按下播放／停止，长按进入 ZAPPIN 模式"
 
-#: olang/0066e64e/0x21006b/0x7c7241 olang/009c9ea4/0x21006b/0x7c7241
+#: olang/0066e64e/0x21006b/0x7c7241
+#: olang/009c9ea4/0x21006b/0x7c7241
 msgid "Toggle Shuffle Mode"
 msgstr "切换随机播放"
 
-#: olang/0066e64e/0x35f472/0x7c723f olang/009c9ea4/0x35f472/0x7c723f
+#: olang/0066e64e/0x35f472/0x7c723f
+#: olang/009c9ea4/0x35f472/0x7c723f
 msgid "Select / Skill Details"
 msgstr "选择／技能详情"
 
-#: olang/0066e64e/0x35f472/0x7c7240 olang/009c9ea4/0x35f472/0x7c7240
+#: olang/0066e64e/0x35f472/0x7c7240
+#: olang/009c9ea4/0x35f472/0x7c7240
 msgid "Back / Cancel Entire Selection"
 msgstr "返回／取消全部选择"
 
-#: olang/0066e64e/0x35f472/0x7c7241 olang/0066e64e/0x7893c2/0x7c7241
-#: olang/009c9ea4/0x35f472/0x7c7241 olang/009c9ea4/0x7893c2/0x7c7241
+#: olang/0066e64e/0x35f472/0x7c7241
+#: olang/0066e64e/0x7893c2/0x7c7241
+#: olang/009c9ea4/0x35f472/0x7c7241
+#: olang/009c9ea4/0x7893c2/0x7c7241
 msgid "Select / Cancel Selection"
 msgstr "选择／取消选择"
 
-#: olang/0066e64e/0x35f472/0x7c7242 olang/0066e64e/0x53f3f0/0x7c7242
-#: olang/0066e64e/0x7893c2/0x7c7242 olang/0066e64e/0x89e528/0x7c7242
-#: olang/0066e64e/0x89e8a0/0x7c7242 olang/0066e64e/0xa69279/0x7c7242
-#: olang/0066e64e/0xb8862e/0x7c7242 olang/0066e64e/0xd33fba/0x7c7242
-#: olang/0066e64e/0xd4462e/0x7c7242 olang/0066e64e/0xda75f0/0x7c7242
-#: olang/009c9ea4/0x35f472/0x7c7242 olang/009c9ea4/0x53f3f0/0x7c7242
-#: olang/009c9ea4/0x7893c2/0x7c7242 olang/009c9ea4/0x89e528/0x7c7242
-#: olang/009c9ea4/0x89e8a0/0x7c7242 olang/009c9ea4/0xa69279/0x7c7242
-#: olang/009c9ea4/0xb8862e/0x7c7242 olang/009c9ea4/0xd33fba/0x7c7242
-#: olang/009c9ea4/0xd4462e/0x7c7242 olang/009c9ea4/0xda75f0/0x7c7242
+#: olang/0066e64e/0x35f472/0x7c7242
+#: olang/0066e64e/0x53f3f0/0x7c7242
+#: olang/0066e64e/0x7893c2/0x7c7242
+#: olang/0066e64e/0x89e528/0x7c7242
+#: olang/0066e64e/0x89e8a0/0x7c7242
+#: olang/0066e64e/0xa69279/0x7c7242
+#: olang/0066e64e/0xb8862e/0x7c7242
+#: olang/0066e64e/0xd33fba/0x7c7242
+#: olang/0066e64e/0xd4462e/0x7c7242
+#: olang/0066e64e/0xda75f0/0x7c7242
+#: olang/009c9ea4/0x35f472/0x7c7242
+#: olang/009c9ea4/0x53f3f0/0x7c7242
+#: olang/009c9ea4/0x7893c2/0x7c7242
+#: olang/009c9ea4/0x89e528/0x7c7242
+#: olang/009c9ea4/0x89e8a0/0x7c7242
+#: olang/009c9ea4/0xa69279/0x7c7242
+#: olang/009c9ea4/0xb8862e/0x7c7242
+#: olang/009c9ea4/0xd33fba/0x7c7242
+#: olang/009c9ea4/0xd4462e/0x7c7242
+#: olang/009c9ea4/0xda75f0/0x7c7242
 msgid "Details Screen / Model Viewer"
 msgstr "详情画面／模型查看"
 
-#: olang/0066e64e/0x35f472/0x7c7247 olang/0066e64e/0x35f472/0x7c7248
-#: olang/0066e64e/0x53f3f0/0x7c7247 olang/0066e64e/0x53f3f0/0x7c7248
-#: olang/0066e64e/0x7893c2/0x7c7247 olang/0066e64e/0x7893c2/0x7c7248
-#: olang/009c9ea4/0x35f472/0x7c7247 olang/009c9ea4/0x35f472/0x7c7248
-#: olang/009c9ea4/0x53f3f0/0x7c7247 olang/009c9ea4/0x53f3f0/0x7c7248
-#: olang/009c9ea4/0x7893c2/0x7c7247 olang/009c9ea4/0x7893c2/0x7c7248
+#: olang/0066e64e/0x35f472/0x7c7247
+#: olang/0066e64e/0x35f472/0x7c7248
+#: olang/0066e64e/0x53f3f0/0x7c7247
+#: olang/0066e64e/0x53f3f0/0x7c7248
+#: olang/0066e64e/0x7893c2/0x7c7247
+#: olang/0066e64e/0x7893c2/0x7c7248
+#: olang/009c9ea4/0x35f472/0x7c7247
+#: olang/009c9ea4/0x35f472/0x7c7248
+#: olang/009c9ea4/0x53f3f0/0x7c7247
+#: olang/009c9ea4/0x53f3f0/0x7c7248
+#: olang/009c9ea4/0x7893c2/0x7c7247
+#: olang/009c9ea4/0x7893c2/0x7c7248
 msgid "Move Cursor / Change Staff"
 msgstr "移动光标／换士兵"
 
-#: olang/0066e64e/0x35f472/0x8e483f olang/0066e64e/0x35f472/0x8e4840
-#: olang/0066e64e/0x53f3f0/0x8e483f olang/0066e64e/0x53f3f0/0x8e4840
-#: olang/0066e64e/0x7893c2/0x8e483f olang/0066e64e/0x7893c2/0x8e4840
-#: olang/009c9ea4/0x35f472/0x8e483f olang/009c9ea4/0x35f472/0x8e4840
-#: olang/009c9ea4/0x53f3f0/0x8e483f olang/009c9ea4/0x53f3f0/0x8e4840
-#: olang/009c9ea4/0x7893c2/0x8e483f olang/009c9ea4/0x7893c2/0x8e4840
+#: olang/0066e64e/0x35f472/0x8e483f
+#: olang/0066e64e/0x35f472/0x8e4840
+#: olang/0066e64e/0x53f3f0/0x8e483f
+#: olang/0066e64e/0x53f3f0/0x8e4840
+#: olang/0066e64e/0x7893c2/0x8e483f
+#: olang/0066e64e/0x7893c2/0x8e4840
+#: olang/009c9ea4/0x35f472/0x8e483f
+#: olang/009c9ea4/0x35f472/0x8e4840
+#: olang/009c9ea4/0x53f3f0/0x8e483f
+#: olang/009c9ea4/0x53f3f0/0x8e4840
+#: olang/009c9ea4/0x7893c2/0x8e483f
+#: olang/009c9ea4/0x7893c2/0x8e4840
 msgid "Move Cursor / Change List Mode"
 msgstr "移动光标／切换列表模式"
 
-#: olang/0066e64e/0x35f472/0x8e4841 olang/009c9ea4/0x35f472/0x8e4841
+#: olang/0066e64e/0x35f472/0x8e4841
+#: olang/009c9ea4/0x35f472/0x8e4841
 msgid "Move Cursor / Change Staff/ Change List Mode"
 msgstr "移动光标／换士兵／切列表模式"
 
-#: olang/0066e64e/0x35f472/0x8e4843 olang/0066e64e/0x4983dd/0x8e4843
-#: olang/0066e64e/0x5389f6/0x8e4843 olang/0066e64e/0x53f3f0/0x8e4843
-#: olang/0066e64e/0x678b3d/0x8e4843 olang/0066e64e/0x7893c2/0x8e4843
-#: olang/0066e64e/0x89e528/0x8e4843 olang/0066e64e/0x89e8a0/0x8e4843
-#: olang/0066e64e/0xa69279/0x8e4843 olang/0066e64e/0xb8862e/0x8e4843
-#: olang/0066e64e/0xd33fba/0x8e4843 olang/0066e64e/0xd4462e/0x8e4843
-#: olang/0066e64e/0xda75f0/0x8e4843 olang/0066e64e/0xdd6303/0x8e4843
-#: olang/0066e64e/0xecf67f/0x8e4843 olang/009c9ea4/0x35f472/0x8e4843
-#: olang/009c9ea4/0x4983dd/0x8e4843 olang/009c9ea4/0x5389f6/0x8e4843
-#: olang/009c9ea4/0x53f3f0/0x8e4843 olang/009c9ea4/0x678b3d/0x8e4843
-#: olang/009c9ea4/0x7893c2/0x8e4843 olang/009c9ea4/0x89e528/0x8e4843
-#: olang/009c9ea4/0x89e8a0/0x8e4843 olang/009c9ea4/0xa69279/0x8e4843
-#: olang/009c9ea4/0xb8862e/0x8e4843 olang/009c9ea4/0xd33fba/0x8e4843
-#: olang/009c9ea4/0xd4462e/0x8e4843 olang/009c9ea4/0xda75f0/0x8e4843
-#: olang/009c9ea4/0xdd6303/0x8e4843 olang/009c9ea4/0xecf67f/0x8e4843
+#: olang/0066e64e/0x35f472/0x8e4843
+#: olang/0066e64e/0x4983dd/0x8e4843
+#: olang/0066e64e/0x5389f6/0x8e4843
+#: olang/0066e64e/0x53f3f0/0x8e4843
+#: olang/0066e64e/0x678b3d/0x8e4843
+#: olang/0066e64e/0x7893c2/0x8e4843
+#: olang/0066e64e/0x89e528/0x8e4843
+#: olang/0066e64e/0x89e8a0/0x8e4843
+#: olang/0066e64e/0xa69279/0x8e4843
+#: olang/0066e64e/0xb8862e/0x8e4843
+#: olang/0066e64e/0xd33fba/0x8e4843
+#: olang/0066e64e/0xd4462e/0x8e4843
+#: olang/0066e64e/0xda75f0/0x8e4843
+#: olang/0066e64e/0xdd6303/0x8e4843
+#: olang/0066e64e/0xecf67f/0x8e4843
+#: olang/009c9ea4/0x35f472/0x8e4843
+#: olang/009c9ea4/0x4983dd/0x8e4843
+#: olang/009c9ea4/0x5389f6/0x8e4843
+#: olang/009c9ea4/0x53f3f0/0x8e4843
+#: olang/009c9ea4/0x678b3d/0x8e4843
+#: olang/009c9ea4/0x7893c2/0x8e4843
+#: olang/009c9ea4/0x89e528/0x8e4843
+#: olang/009c9ea4/0x89e8a0/0x8e4843
+#: olang/009c9ea4/0xa69279/0x8e4843
+#: olang/009c9ea4/0xb8862e/0x8e4843
+#: olang/009c9ea4/0xd33fba/0x8e4843
+#: olang/009c9ea4/0xd4462e/0x8e4843
+#: olang/009c9ea4/0xda75f0/0x8e4843
+#: olang/009c9ea4/0xdd6303/0x8e4843
+#: olang/009c9ea4/0xecf67f/0x8e4843
 msgid "Help"
 msgstr "帮助"
 
-#: olang/0066e64e/0x35f472/0x8e4844 olang/0066e64e/0x35f472/0x8e4845
-#: olang/0066e64e/0x53f3f0/0x8e4844 olang/0066e64e/0x53f3f0/0x8e4845
-#: olang/0066e64e/0x7893c2/0x8e4844 olang/0066e64e/0x7893c2/0x8e4845
-#: olang/0066e64e/0xb8862e/0x8e4844 olang/0066e64e/0xb8862e/0x8e4845
-#: olang/0066e64e/0xd4462e/0x8e4844 olang/0066e64e/0xd4462e/0x8e4845
-#: olang/0066e64e/0xda75f0/0x8e4844 olang/0066e64e/0xda75f0/0x8e4845
-#: olang/009c9ea4/0x35f472/0x8e4844 olang/009c9ea4/0x35f472/0x8e4845
-#: olang/009c9ea4/0x53f3f0/0x8e4844 olang/009c9ea4/0x53f3f0/0x8e4845
-#: olang/009c9ea4/0x7893c2/0x8e4844 olang/009c9ea4/0x7893c2/0x8e4845
-#: olang/009c9ea4/0xb8862e/0x8e4844 olang/009c9ea4/0xb8862e/0x8e4845
-#: olang/009c9ea4/0xd4462e/0x8e4844 olang/009c9ea4/0xd4462e/0x8e4845
-#: olang/009c9ea4/0xda75f0/0x8e4844 olang/009c9ea4/0xda75f0/0x8e4845
+#: olang/0066e64e/0x35f472/0x8e4844
+#: olang/0066e64e/0x35f472/0x8e4845
+#: olang/0066e64e/0x53f3f0/0x8e4844
+#: olang/0066e64e/0x53f3f0/0x8e4845
+#: olang/0066e64e/0x7893c2/0x8e4844
+#: olang/0066e64e/0x7893c2/0x8e4845
+#: olang/0066e64e/0xb8862e/0x8e4844
+#: olang/0066e64e/0xb8862e/0x8e4845
+#: olang/0066e64e/0xd4462e/0x8e4844
+#: olang/0066e64e/0xd4462e/0x8e4845
+#: olang/0066e64e/0xda75f0/0x8e4844
+#: olang/0066e64e/0xda75f0/0x8e4845
+#: olang/009c9ea4/0x35f472/0x8e4844
+#: olang/009c9ea4/0x35f472/0x8e4845
+#: olang/009c9ea4/0x53f3f0/0x8e4844
+#: olang/009c9ea4/0x53f3f0/0x8e4845
+#: olang/009c9ea4/0x7893c2/0x8e4844
+#: olang/009c9ea4/0x7893c2/0x8e4845
+#: olang/009c9ea4/0xb8862e/0x8e4844
+#: olang/009c9ea4/0xb8862e/0x8e4845
+#: olang/009c9ea4/0xd4462e/0x8e4844
+#: olang/009c9ea4/0xd4462e/0x8e4845
+#: olang/009c9ea4/0xda75f0/0x8e4844
+#: olang/009c9ea4/0xda75f0/0x8e4845
 msgid "Sort Mode"
 msgstr "排序"
 
-#: olang/0066e64e/0x4983dd/0x7c723f olang/009c9ea4/0x4983dd/0x7c723f
+#: olang/0066e64e/0x4983dd/0x7c723f
+#: olang/009c9ea4/0x4983dd/0x7c723f
 msgid "Select / Open"
 msgstr "选择 / 打开"
 
-#: olang/0066e64e/0x4983dd/0x7c7240 olang/0066e64e/0x5389f6/0x7c7240
-#: olang/0066e64e/0xecf67f/0x7c7240 olang/009c9ea4/0x4983dd/0x7c7240
-#: olang/009c9ea4/0x5389f6/0x7c7240 olang/009c9ea4/0xecf67f/0x7c7240
+#: olang/0066e64e/0x4983dd/0x7c7240
+#: olang/0066e64e/0x5389f6/0x7c7240
+#: olang/0066e64e/0xecf67f/0x7c7240
+#: olang/009c9ea4/0x4983dd/0x7c7240
+#: olang/009c9ea4/0x5389f6/0x7c7240
+#: olang/009c9ea4/0xecf67f/0x7c7240
 msgid "Back / Cancel"
 msgstr "返回 / 取消"
 
-#: olang/0066e64e/0x4983dd/0x7c7241 olang/009c9ea4/0x4983dd/0x7c7241
+#: olang/0066e64e/0x4983dd/0x7c7241
+#: olang/009c9ea4/0x4983dd/0x7c7241
 msgid "Delete / Reset"
 msgstr "删除/重置"
 
-#: olang/0066e64e/0x4983dd/0x7c7247 olang/0066e64e/0x4983dd/0x7c7248
-#: olang/0066e64e/0x4983dd/0x8e483f olang/0066e64e/0x4983dd/0x8e4840
-#: olang/0066e64e/0x4983dd/0x8e4841 olang/0066e64e/0x5389f6/0x7c7247
-#: olang/0066e64e/0x5389f6/0x7c7248 olang/0066e64e/0x5389f6/0x8e483f
-#: olang/0066e64e/0x5389f6/0x8e4840 olang/0066e64e/0x5389f6/0x8e4841
-#: olang/0066e64e/0x678b3d/0x7c7247 olang/0066e64e/0x678b3d/0x7c7248
-#: olang/0066e64e/0x678b3d/0x8e4841 olang/0066e64e/0x89e528/0x7c7247
-#: olang/0066e64e/0x89e528/0x7c7248 olang/0066e64e/0x89e528/0x8e483f
-#: olang/0066e64e/0x89e528/0x8e4840 olang/0066e64e/0x89e528/0x8e4841
-#: olang/0066e64e/0x89e8a0/0x7c7247 olang/0066e64e/0x89e8a0/0x7c7248
-#: olang/0066e64e/0x89e8a0/0x8e483f olang/0066e64e/0x89e8a0/0x8e4840
-#: olang/0066e64e/0x89e8a0/0x8e4841 olang/0066e64e/0xa69279/0x7c7247
-#: olang/0066e64e/0xa69279/0x7c7248 olang/0066e64e/0xa69279/0x8e483f
-#: olang/0066e64e/0xa69279/0x8e4840 olang/0066e64e/0xa69279/0x8e4841
-#: olang/0066e64e/0xb8862e/0x7c7247 olang/0066e64e/0xb8862e/0x7c7248
-#: olang/0066e64e/0xd33fba/0x7c7247 olang/0066e64e/0xd33fba/0x7c7248
-#: olang/0066e64e/0xd33fba/0x8e483f olang/0066e64e/0xd33fba/0x8e4840
-#: olang/0066e64e/0xd33fba/0x8e4841 olang/0066e64e/0xd4462e/0x7c7247
-#: olang/0066e64e/0xd4462e/0x7c7248 olang/0066e64e/0xda75f0/0x7c7247
-#: olang/0066e64e/0xda75f0/0x7c7248 olang/0066e64e/0xda75f0/0x8e4841
-#: olang/0066e64e/0xdd6303/0x7c7247 olang/0066e64e/0xdd6303/0x7c7248
-#: olang/0066e64e/0xdd6303/0x8e483f olang/0066e64e/0xdd6303/0x8e4840
-#: olang/0066e64e/0xdd6303/0x8e4841 olang/0066e64e/0xecf67f/0x7c7247
-#: olang/0066e64e/0xecf67f/0x7c7248 olang/0066e64e/0xecf67f/0x8e483f
-#: olang/0066e64e/0xecf67f/0x8e4840 olang/0066e64e/0xecf67f/0x8e4841
-#: olang/009c9ea4/0x4983dd/0x7c7247 olang/009c9ea4/0x4983dd/0x7c7248
-#: olang/009c9ea4/0x4983dd/0x8e483f olang/009c9ea4/0x4983dd/0x8e4840
-#: olang/009c9ea4/0x4983dd/0x8e4841 olang/009c9ea4/0x5389f6/0x7c7247
-#: olang/009c9ea4/0x5389f6/0x7c7248 olang/009c9ea4/0x5389f6/0x8e483f
-#: olang/009c9ea4/0x5389f6/0x8e4840 olang/009c9ea4/0x5389f6/0x8e4841
-#: olang/009c9ea4/0x678b3d/0x7c7247 olang/009c9ea4/0x678b3d/0x7c7248
-#: olang/009c9ea4/0x678b3d/0x8e4841 olang/009c9ea4/0x89e528/0x7c7247
-#: olang/009c9ea4/0x89e528/0x7c7248 olang/009c9ea4/0x89e528/0x8e483f
-#: olang/009c9ea4/0x89e528/0x8e4840 olang/009c9ea4/0x89e528/0x8e4841
-#: olang/009c9ea4/0x89e8a0/0x7c7247 olang/009c9ea4/0x89e8a0/0x7c7248
-#: olang/009c9ea4/0x89e8a0/0x8e483f olang/009c9ea4/0x89e8a0/0x8e4840
-#: olang/009c9ea4/0x89e8a0/0x8e4841 olang/009c9ea4/0xa69279/0x7c7247
-#: olang/009c9ea4/0xa69279/0x7c7248 olang/009c9ea4/0xa69279/0x8e483f
-#: olang/009c9ea4/0xa69279/0x8e4840 olang/009c9ea4/0xa69279/0x8e4841
-#: olang/009c9ea4/0xb8862e/0x7c7247 olang/009c9ea4/0xb8862e/0x7c7248
-#: olang/009c9ea4/0xd33fba/0x7c7247 olang/009c9ea4/0xd33fba/0x7c7248
-#: olang/009c9ea4/0xd33fba/0x8e483f olang/009c9ea4/0xd33fba/0x8e4840
-#: olang/009c9ea4/0xd33fba/0x8e4841 olang/009c9ea4/0xd4462e/0x7c7247
-#: olang/009c9ea4/0xd4462e/0x7c7248 olang/009c9ea4/0xda75f0/0x7c7247
-#: olang/009c9ea4/0xda75f0/0x7c7248 olang/009c9ea4/0xda75f0/0x8e4841
-#: olang/009c9ea4/0xdd6303/0x7c7247 olang/009c9ea4/0xdd6303/0x7c7248
-#: olang/009c9ea4/0xdd6303/0x8e483f olang/009c9ea4/0xdd6303/0x8e4840
-#: olang/009c9ea4/0xdd6303/0x8e4841 olang/009c9ea4/0xecf67f/0x7c7247
-#: olang/009c9ea4/0xecf67f/0x7c7248 olang/009c9ea4/0xecf67f/0x8e483f
-#: olang/009c9ea4/0xecf67f/0x8e4840 olang/009c9ea4/0xecf67f/0x8e4841
+#: olang/0066e64e/0x4983dd/0x7c7247
+#: olang/0066e64e/0x4983dd/0x7c7248
+#: olang/0066e64e/0x4983dd/0x8e483f
+#: olang/0066e64e/0x4983dd/0x8e4840
+#: olang/0066e64e/0x4983dd/0x8e4841
+#: olang/0066e64e/0x5389f6/0x7c7247
+#: olang/0066e64e/0x5389f6/0x7c7248
+#: olang/0066e64e/0x5389f6/0x8e483f
+#: olang/0066e64e/0x5389f6/0x8e4840
+#: olang/0066e64e/0x5389f6/0x8e4841
+#: olang/0066e64e/0x678b3d/0x7c7247
+#: olang/0066e64e/0x678b3d/0x7c7248
+#: olang/0066e64e/0x678b3d/0x8e4841
+#: olang/0066e64e/0x89e528/0x7c7247
+#: olang/0066e64e/0x89e528/0x7c7248
+#: olang/0066e64e/0x89e528/0x8e483f
+#: olang/0066e64e/0x89e528/0x8e4840
+#: olang/0066e64e/0x89e528/0x8e4841
+#: olang/0066e64e/0x89e8a0/0x7c7247
+#: olang/0066e64e/0x89e8a0/0x7c7248
+#: olang/0066e64e/0x89e8a0/0x8e483f
+#: olang/0066e64e/0x89e8a0/0x8e4840
+#: olang/0066e64e/0x89e8a0/0x8e4841
+#: olang/0066e64e/0xa69279/0x7c7247
+#: olang/0066e64e/0xa69279/0x7c7248
+#: olang/0066e64e/0xa69279/0x8e483f
+#: olang/0066e64e/0xa69279/0x8e4840
+#: olang/0066e64e/0xa69279/0x8e4841
+#: olang/0066e64e/0xb8862e/0x7c7247
+#: olang/0066e64e/0xb8862e/0x7c7248
+#: olang/0066e64e/0xd33fba/0x7c7247
+#: olang/0066e64e/0xd33fba/0x7c7248
+#: olang/0066e64e/0xd33fba/0x8e483f
+#: olang/0066e64e/0xd33fba/0x8e4840
+#: olang/0066e64e/0xd33fba/0x8e4841
+#: olang/0066e64e/0xd4462e/0x7c7247
+#: olang/0066e64e/0xd4462e/0x7c7248
+#: olang/0066e64e/0xda75f0/0x7c7247
+#: olang/0066e64e/0xda75f0/0x7c7248
+#: olang/0066e64e/0xda75f0/0x8e4841
+#: olang/0066e64e/0xdd6303/0x7c7247
+#: olang/0066e64e/0xdd6303/0x7c7248
+#: olang/0066e64e/0xdd6303/0x8e483f
+#: olang/0066e64e/0xdd6303/0x8e4840
+#: olang/0066e64e/0xdd6303/0x8e4841
+#: olang/0066e64e/0xecf67f/0x7c7247
+#: olang/0066e64e/0xecf67f/0x7c7248
+#: olang/0066e64e/0xecf67f/0x8e483f
+#: olang/0066e64e/0xecf67f/0x8e4840
+#: olang/0066e64e/0xecf67f/0x8e4841
+#: olang/009c9ea4/0x4983dd/0x7c7247
+#: olang/009c9ea4/0x4983dd/0x7c7248
+#: olang/009c9ea4/0x4983dd/0x8e483f
+#: olang/009c9ea4/0x4983dd/0x8e4840
+#: olang/009c9ea4/0x4983dd/0x8e4841
+#: olang/009c9ea4/0x5389f6/0x7c7247
+#: olang/009c9ea4/0x5389f6/0x7c7248
+#: olang/009c9ea4/0x5389f6/0x8e483f
+#: olang/009c9ea4/0x5389f6/0x8e4840
+#: olang/009c9ea4/0x5389f6/0x8e4841
+#: olang/009c9ea4/0x678b3d/0x7c7247
+#: olang/009c9ea4/0x678b3d/0x7c7248
+#: olang/009c9ea4/0x678b3d/0x8e4841
+#: olang/009c9ea4/0x89e528/0x7c7247
+#: olang/009c9ea4/0x89e528/0x7c7248
+#: olang/009c9ea4/0x89e528/0x8e483f
+#: olang/009c9ea4/0x89e528/0x8e4840
+#: olang/009c9ea4/0x89e528/0x8e4841
+#: olang/009c9ea4/0x89e8a0/0x7c7247
+#: olang/009c9ea4/0x89e8a0/0x7c7248
+#: olang/009c9ea4/0x89e8a0/0x8e483f
+#: olang/009c9ea4/0x89e8a0/0x8e4840
+#: olang/009c9ea4/0x89e8a0/0x8e4841
+#: olang/009c9ea4/0xa69279/0x7c7247
+#: olang/009c9ea4/0xa69279/0x7c7248
+#: olang/009c9ea4/0xa69279/0x8e483f
+#: olang/009c9ea4/0xa69279/0x8e4840
+#: olang/009c9ea4/0xa69279/0x8e4841
+#: olang/009c9ea4/0xb8862e/0x7c7247
+#: olang/009c9ea4/0xb8862e/0x7c7248
+#: olang/009c9ea4/0xd33fba/0x7c7247
+#: olang/009c9ea4/0xd33fba/0x7c7248
+#: olang/009c9ea4/0xd33fba/0x8e483f
+#: olang/009c9ea4/0xd33fba/0x8e4840
+#: olang/009c9ea4/0xd33fba/0x8e4841
+#: olang/009c9ea4/0xd4462e/0x7c7247
+#: olang/009c9ea4/0xd4462e/0x7c7248
+#: olang/009c9ea4/0xda75f0/0x7c7247
+#: olang/009c9ea4/0xda75f0/0x7c7248
+#: olang/009c9ea4/0xda75f0/0x8e4841
+#: olang/009c9ea4/0xdd6303/0x7c7247
+#: olang/009c9ea4/0xdd6303/0x7c7248
+#: olang/009c9ea4/0xdd6303/0x8e483f
+#: olang/009c9ea4/0xdd6303/0x8e4840
+#: olang/009c9ea4/0xdd6303/0x8e4841
+#: olang/009c9ea4/0xecf67f/0x7c7247
+#: olang/009c9ea4/0xecf67f/0x7c7248
+#: olang/009c9ea4/0xecf67f/0x8e483f
+#: olang/009c9ea4/0xecf67f/0x8e4840
+#: olang/009c9ea4/0xecf67f/0x8e4841
 msgid "Move Cursor"
 msgstr "移光标"
 
-#: olang/0066e64e/0x5389f6/0x7c7241 olang/009c9ea4/0x5389f6/0x7c7241
+#: olang/0066e64e/0x5389f6/0x7c7241
+#: olang/009c9ea4/0x5389f6/0x7c7241
 msgid "Unassign"
 msgstr "取消指派"
 
-#: olang/0066e64e/0x53f3f0/0x7c7240 olang/0066e64e/0x678b3d/0x7c7240
-#: olang/0066e64e/0x89e528/0x7c7240 olang/0066e64e/0x89e8a0/0x7c7240
-#: olang/0066e64e/0xa69279/0x7c7240 olang/0066e64e/0xb8862e/0x7c7240
-#: olang/0066e64e/0xd33fba/0x7c7240 olang/0066e64e/0xd4462e/0x7c7240
-#: olang/0066e64e/0xda75f0/0x7c7240 olang/0066e64e/0xdd6303/0x7c7240
-#: olang/009c9ea4/0x53f3f0/0x7c7240 olang/009c9ea4/0x678b3d/0x7c7240
-#: olang/009c9ea4/0x89e528/0x7c7240 olang/009c9ea4/0x89e8a0/0x7c7240
-#: olang/009c9ea4/0xa69279/0x7c7240 olang/009c9ea4/0xb8862e/0x7c7240
-#: olang/009c9ea4/0xd33fba/0x7c7240 olang/009c9ea4/0xd4462e/0x7c7240
-#: olang/009c9ea4/0xda75f0/0x7c7240 olang/009c9ea4/0xdd6303/0x7c7240
+#: olang/0066e64e/0x53f3f0/0x7c7240
+#: olang/0066e64e/0x678b3d/0x7c7240
+#: olang/0066e64e/0x89e528/0x7c7240
+#: olang/0066e64e/0x89e8a0/0x7c7240
+#: olang/0066e64e/0xa69279/0x7c7240
+#: olang/0066e64e/0xb8862e/0x7c7240
+#: olang/0066e64e/0xd33fba/0x7c7240
+#: olang/0066e64e/0xd4462e/0x7c7240
+#: olang/0066e64e/0xda75f0/0x7c7240
+#: olang/0066e64e/0xdd6303/0x7c7240
+#: olang/009c9ea4/0x53f3f0/0x7c7240
+#: olang/009c9ea4/0x678b3d/0x7c7240
+#: olang/009c9ea4/0x89e528/0x7c7240
+#: olang/009c9ea4/0x89e8a0/0x7c7240
+#: olang/009c9ea4/0xa69279/0x7c7240
+#: olang/009c9ea4/0xb8862e/0x7c7240
+#: olang/009c9ea4/0xd33fba/0x7c7240
+#: olang/009c9ea4/0xd4462e/0x7c7240
+#: olang/009c9ea4/0xda75f0/0x7c7240
+#: olang/009c9ea4/0xdd6303/0x7c7240
 msgid "Back"
 msgstr "返回"
 
-#: olang/0066e64e/0x53f3f0/0x8e4841 olang/0066e64e/0x7893c2/0x8e4841
-#: olang/009c9ea4/0x53f3f0/0x8e4841 olang/009c9ea4/0x7893c2/0x8e4841
+#: olang/0066e64e/0x53f3f0/0x8e4841
+#: olang/0066e64e/0x7893c2/0x8e4841
+#: olang/009c9ea4/0x53f3f0/0x8e4841
+#: olang/009c9ea4/0x7893c2/0x8e4841
 msgid "Move Cursor / Change Staff / Change List Mode"
 msgstr "移光标/换士兵/切列表模式"
 
-#: olang/0066e64e/0x678b3d/0x7c7241 olang/009c9ea4/0x678b3d/0x7c7241
+#: olang/0066e64e/0x678b3d/0x7c7241
+#: olang/009c9ea4/0x678b3d/0x7c7241
 msgid "Select / Cancel / Remove Equipment / Discard"
 msgstr "选择 / 取消 / 卸下装备 / 丢弃"
 
-#: olang/0066e64e/0x678b3d/0x7c7242 olang/0066e64e/0xdd6303/0x7c7242
-#: olang/009c9ea4/0x678b3d/0x7c7242 olang/009c9ea4/0xdd6303/0x7c7242
+#: olang/0066e64e/0x678b3d/0x7c7242
+#: olang/0066e64e/0xdd6303/0x7c7242
+#: olang/009c9ea4/0x678b3d/0x7c7242
+#: olang/009c9ea4/0xdd6303/0x7c7242
 msgid "Model Viewer"
 msgstr "模型查看器"
 
-#: olang/0066e64e/0x7893c2/0x7c7240 olang/009c9ea4/0x7893c2/0x7c7240
+#: olang/0066e64e/0x7893c2/0x7c7240
+#: olang/009c9ea4/0x7893c2/0x7c7240
 msgid "Back / Cancel / Reset Selection State"
 msgstr "返回 / 取消 / 重置选择状态"
 
-#: olang/0066e64e/0x89e528/0x7c723f olang/0066e64e/0x89e8a0/0x7c723f
-#: olang/009c9ea4/0x89e528/0x7c723f olang/009c9ea4/0x89e8a0/0x7c723f
+#: olang/0066e64e/0x89e528/0x7c723f
+#: olang/0066e64e/0x89e8a0/0x7c723f
+#: olang/009c9ea4/0x89e528/0x7c723f
+#: olang/009c9ea4/0x89e8a0/0x7c723f
 msgid "Conditions / Develop / Details"
 msgstr "状态 / 开发 / 详情"
 
-#: olang/0066e64e/0x89e528/0x7c7241 olang/0066e64e/0x89e8a0/0x7c7241
-#: olang/009c9ea4/0x89e528/0x7c7241 olang/009c9ea4/0x89e8a0/0x7c7241
+#: olang/0066e64e/0x89e528/0x7c7241
+#: olang/0066e64e/0x89e8a0/0x7c7241
+#: olang/009c9ea4/0x89e528/0x7c7241
+#: olang/009c9ea4/0x89e8a0/0x7c7241
 msgid "Jump (only on \"DEVELOPMENT STATUS\" and \"NEW\" tabs)"
 msgstr "跳转（仅限“开发状态”和“新建”标签）"
 
-#: olang/0066e64e/0x97a719/0x0009b2 olang/0066e64e/0xef247a/0x000a72
+#: olang/0066e64e/0x97a719/0x0009b2
+#: olang/0066e64e/0xef247a/0x000a72
 msgid "Aim Weapon"
 msgstr "瞄准"
 
-#: olang/0066e64e/0x97a719/0x000a72 olang/0066e64e/0xef247a/0x3b8f30
+#: olang/0066e64e/0x97a719/0x000a72
+#: olang/0066e64e/0xef247a/0x3b8f30
 msgid "Attack"
 msgstr "攻击"
 
-#: olang/0066e64e/0x97a719/0x000af0 olang/0066e64e/0x97a719/0x3adadb
-#: olang/0066e64e/0xef247a/0x3adadb olang/009c9ea4/0x39c9f3/0x6bb2d6
+#: olang/0066e64e/0x97a719/0x000af0
+#: olang/0066e64e/0x97a719/0x3adadb
+#: olang/0066e64e/0xef247a/0x3adadb
+#: olang/009c9ea4/0x39c9f3/0x6bb2d6
 msgid "Action Button"
 msgstr "动作键"
 
-#: olang/0066e64e/0x97a719/0x271d14 olang/0066e64e/0x97a719/0x45a559
+#: olang/0066e64e/0x97a719/0x271d14
+#: olang/0066e64e/0x97a719/0x45a559
 msgid "Zoom"
 msgstr "缩放"
 
-#: olang/0066e64e/0x97a719/0xba164f olang/0066e64e/0xef247a/0xba164f
+#: olang/0066e64e/0x97a719/0xba164f
+#: olang/0066e64e/0xef247a/0xba164f
 msgid "Reload"
 msgstr "装弹"
 
-#: olang/0066e64e/0xa69279/0x7c7241 olang/009c9ea4/0xbc86b6/0x3c54c6
+#: olang/0066e64e/0xa69279/0x7c7241
+#: olang/009c9ea4/0xbc86b6/0x3c54c6
 #: olang/009c9ea4/0xecf67f/0x7c7241
 msgid "Delete"
 msgstr "删除"
 
-#: olang/0066e64e/0xb8862e/0x8e483f olang/0066e64e/0xb8862e/0x8e4840
-#: olang/0066e64e/0xd4462e/0x8e483f olang/0066e64e/0xd4462e/0x8e4840
-#: olang/009c9ea4/0xb8862e/0x8e483f olang/009c9ea4/0xb8862e/0x8e4840
-#: olang/009c9ea4/0xd4462e/0x8e483f olang/009c9ea4/0xd4462e/0x8e4840
+#: olang/0066e64e/0xb8862e/0x8e483f
+#: olang/0066e64e/0xb8862e/0x8e4840
+#: olang/0066e64e/0xd4462e/0x8e483f
+#: olang/0066e64e/0xd4462e/0x8e4840
+#: olang/009c9ea4/0xb8862e/0x8e483f
+#: olang/009c9ea4/0xb8862e/0x8e4840
+#: olang/009c9ea4/0xd4462e/0x8e483f
+#: olang/009c9ea4/0xd4462e/0x8e4840
 msgid "Change Rank"
 msgstr "改等级"
 
-#: olang/0066e64e/0xb8862e/0x8e4841 olang/0066e64e/0xd4462e/0x8e4841
-#: olang/009c9ea4/0xb8862e/0x8e4841 olang/009c9ea4/0xd4462e/0x8e4841
+#: olang/0066e64e/0xb8862e/0x8e4841
+#: olang/0066e64e/0xd4462e/0x8e4841
+#: olang/009c9ea4/0xb8862e/0x8e4841
+#: olang/009c9ea4/0xd4462e/0x8e4841
 msgid "Move Cursor / Change Rank"
 msgstr "移光标/改等级"
 
-#: olang/0066e64e/0xecf67f/0x7c7242 olang/009c9ea4/0xecf67f/0x7c7242
+#: olang/0066e64e/0xecf67f/0x7c7242
+#: olang/009c9ea4/0xecf67f/0x7c7242
 msgid "Codename Selection Screen"
 msgstr "代号选择画面"
 
-#: olang/0072f326/0x34cd5c/0x0dbab6 olang/0072f326/0xa49217/0xdc6ef3
+#: olang/0072f326/0x34cd5c/0x0dbab6
+#: olang/0072f326/0xa49217/0xdc6ef3
 #: olang/009c9ea4/0xa49217/0xdc6ef3
 msgid "METAL GEAR SOLID PEACE WALKER HD EDITION"
 msgstr "METAL GEAR SOLID PEACE WALKER HD EDITION"
@@ -1624,7 +2289,8 @@ msgstr "现在开始游戏，存档将不会保存。要开始吗？"
 msgid "Unable to load saved data. Try again?"
 msgstr "无法读取存档。重试？"
 
-#: olang/0072f326/0xa49217/0x185ec9 olang/009c9ea4/0xa49217/0x185ec9
+#: olang/0072f326/0xa49217/0x185ec9
+#: olang/009c9ea4/0xa49217/0x185ec9
 msgid "Yes"
 msgstr "是"
 
@@ -1640,15 +2306,20 @@ msgstr "存储设备已移除。需选择存储设备才能创建存档。请连
 msgid ""
 "The selected storage device already contains saved data. If you select a new game, your existing game data will be deleted.\n"
 "Start a new game?"
-msgstr "所选存储设备已有存档。选择新游戏将删除现有存档。\n开始新游戏？"
+msgstr ""
+"所选存储设备已有存档。选择新游戏将删除现有存档。\n"
+"开始新游戏？"
 
 #: olang/0072f326/0xa49217/0x3f129b
 msgid ""
 "This game possesses an auto-save feature.\n"
 "Do not turn the console off while data is being saved."
-msgstr "本游戏有自动保存功能。\n保存时请勿关闭主机。"
+msgstr ""
+"本游戏有自动保存功能。\n"
+"保存时请勿关闭主机。"
 
-#: olang/0072f326/0xa49217/0x422618 olang/009c9ea4/0xa49217/0x422618
+#: olang/0072f326/0xa49217/0x422618
+#: olang/009c9ea4/0xa49217/0x422618
 msgid "Configuring game data."
 msgstr "配置游戏数据中。"
 
@@ -1656,7 +2327,8 @@ msgstr "配置游戏数据中。"
 msgid "Select storage device"
 msgstr "选择存储设备"
 
-#: olang/0072f326/0xa49217/0x4af71f olang/009c9ea4/0xa49217/0x4af71f
+#: olang/0072f326/0xa49217/0x4af71f
+#: olang/009c9ea4/0xa49217/0x4af71f
 msgid "Continue without saving progress"
 msgstr "不保存进度继续"
 
@@ -1668,9 +2340,12 @@ msgstr "你没有可联机的存档。需有通关序章任务的存档才能联
 msgid "Cannot play online without loading save data. Try again?"
 msgstr "未读取存档无法联机。重试？"
 
-#: olang/0072f326/0xa49217/0x66f18e olang/0072f326/0xdbd1b3/0x62a9e3
-#: olang/009c9ea4/0x35b782/0xece603 olang/009c9ea4/0xa49217/0x66f18e
-#: olang/009c9ea4/0xdbd1b3/0x62a9e3 olang/00c6a046/0x35b782/0xece603
+#: olang/0072f326/0xa49217/0x66f18e
+#: olang/0072f326/0xdbd1b3/0x62a9e3
+#: olang/009c9ea4/0x35b782/0xece603
+#: olang/009c9ea4/0xa49217/0x66f18e
+#: olang/009c9ea4/0xdbd1b3/0x62a9e3
+#: olang/00c6a046/0x35b782/0xece603
 msgid "Unable to save game data. Try again?"
 msgstr "无法保存游戏数据。重试？"
 
@@ -1682,11 +2357,13 @@ msgstr "主机未连接可用存储设备。需选择存储设备才能保存进
 msgid "Save data cannot be found. Save data with online play enabled is needed to play online. You cannot receive the invite."
 msgstr "未找到存档。联机需启用联机的存档。无法接收邀请。"
 
-#: olang/0072f326/0xa49217/0x71044e olang/009c9ea4/0xa49217/0x71044e
+#: olang/0072f326/0xa49217/0x71044e
+#: olang/009c9ea4/0xa49217/0x71044e
 msgid "MGS PEACE WALKER HD"
 msgstr "MGS 和平行者 HD"
 
-#: olang/0072f326/0xa49217/0x77c49d olang/009c9ea4/0xa49217/0x77c49d
+#: olang/0072f326/0xa49217/0x77c49d
+#: olang/009c9ea4/0xa49217/0x77c49d
 msgid "Create saved data"
 msgstr "创建存档"
 
@@ -1694,17 +2371,22 @@ msgstr "创建存档"
 msgid "Continue without loading"
 msgstr "不读取继续"
 
-#: olang/0072f326/0xa49217/0x802a26 olang/009c9ea4/0xa49217/0x802a26
+#: olang/0072f326/0xa49217/0x802a26
+#: olang/009c9ea4/0xa49217/0x802a26
 msgid ""
 "Game data has been corrupted.\n"
 "Delete existing data and create new system data?"
-msgstr "游戏数据已损坏。\n删除现有数据并创建新系统数据？"
+msgstr ""
+"游戏数据已损坏。\n"
+"删除现有数据并创建新系统数据？"
 
 #: olang/0072f326/0xa49217/0x81acfe
 msgid ""
 "Your saved data has been corrupted.\n"
 "Unable to load saved data."
-msgstr "存档已损坏。\n无法读取存档。"
+msgstr ""
+"存档已损坏。\n"
+"无法读取存档。"
 
 #: olang/0072f326/0xa49217/0x872e48
 msgid "You will now start a standard game without joining the game you were invited to."
@@ -1726,7 +2408,8 @@ msgstr "所选存储设备空间不足，无法创建存档。创建存档至少
 msgid "The storage device has been removed. You will need to select a storage device in order to load saved data. Try again?"
 msgstr "存储设备已移除。需选择存储设备才能读取存档。重试？"
 
-#: olang/0072f326/0xa49217/0xb0c19d olang/009c9ea4/0xa49217/0xb0c19d
+#: olang/0072f326/0xa49217/0xb0c19d
+#: olang/009c9ea4/0xa49217/0xb0c19d
 msgid "No"
 msgstr "否"
 
@@ -1767,10 +2450,13 @@ msgid "Overwrite"
 msgstr "覆盖"
 
 #: olang/009c9ea4/0x017f53/0x000133
-msgid "A weekly pulp magazine filled to the brim with outlandish and absurd sci-fi/horror stories.  Roughly half of the stories are about men fighting Martians and are written by amateurs.  Not to be taken too seriously.  Lurid and sexually suggestive themes are a given.\n"
-msgstr "满是离奇荒诞科幻恐怖故事的周刊廉价杂志。约半数是业余作者写的火星人战斗故事。不必太当真。低俗与性暗示内容自然少不了。\n"
+msgid ""
+"A weekly pulp magazine filled to the brim with outlandish and absurd sci-fi/horror stories.  Roughly half of the stories are about men fighting Martians and are written by amateurs.  Not to be taken too seriously.  Lurid and sexually suggestive themes are a given.\n"
+msgstr ""
+"满是离奇荒诞科幻恐怖故事的周刊廉价杂志。约半数是业余作者写的火星人战斗故事。不必太当真。低俗与性暗示内容自然少不了。\n"
 
-#: olang/009c9ea4/0x017f53/0x000134 olang/00d345a5/0x017f53/0x000134
+#: olang/009c9ea4/0x017f53/0x000134
+#: olang/00d345a5/0x017f53/0x000134
 msgid "A monthly pulp magazine that features mature content aimed at literary types. The real-life travel logs submitted by soldiers from around the world are a must read.  Also boasts an ample supply of scantily-clad pin-ups."
 msgstr "面向文学爱好者的成人向月刊廉价杂志。士兵们从世界各地寄来的真实旅行日志值得一读。也有大量衣着暴露的写真。"
 
@@ -1782,16 +2468,22 @@ msgstr "面向有品位成年人的季刊男性生活杂志。内容包括新闻
 msgid ""
 "Jigsaw made of steel wire. \n"
 "Alternate pressing <I=SAW_L> and <I=SAW_R> to use."
-msgstr "钢丝拼图。\n交替按 <I=SAW_L> 和 <I=SAW_R> 使用。"
+msgstr ""
+"钢丝拼图。\n"
+"交替按 <I=SAW_L> 和 <I=SAW_R> 使用。"
 
 #: olang/009c9ea4/0x048941/0x000081
 msgid ""
 "Shield made from bulletproof material. \n"
 "Press <I=AIM> to use. \n"
 "The direction protected varies according to weapon equipped."
-msgstr "防弹材料制成的盾。\n按 <I=AIM> 使用。\n防护方向随装备武器变化。"
+msgstr ""
+"防弹材料制成的盾。\n"
+"按 <I=AIM> 使用。\n"
+"防护方向随装备武器变化。"
 
-#: olang/009c9ea4/0x048941/0x000086 olang/00d345a5/0x048941/0x000086
+#: olang/009c9ea4/0x048941/0x000086
+#: olang/00d345a5/0x048941/0x000086
 msgid "Shield made from bulletproof material (colored). Press the Aim Button to use. The direction protected varies according to weapon equipped."
 msgstr "防弹材料制成的彩色盾。按瞄准键使用。防护方向随装备武器变化。"
 
@@ -1803,7 +2495,8 @@ msgstr "原创T恤设计。基本性能与丛林迷彩服相同。"
 msgid "Next we'll work on your movement."
 msgstr "接下来练习移动。"
 
-#: olang/009c9ea4/0x0765b1/0x000001 olang/009c9ea4/0x62c97d/0x000001
+#: olang/009c9ea4/0x0765b1/0x000001
+#: olang/009c9ea4/0x62c97d/0x000001
 msgid "Use <I=MOVE> to move around."
 msgstr "用 <I=MOVE> 移动。"
 
@@ -1815,53 +2508,70 @@ msgstr "用 <I=WALK> 慢步走。"
 msgid ""
 "Decide which to use \n"
 "based on your situation."
-msgstr "根据情况\n灵活选用。"
+msgstr ""
+"根据情况\n"
+"灵活选用。"
 
 #: olang/009c9ea4/0x0765b1/0x000004
 msgid ""
 "Remember that your footsteps are louder\n"
 "when running, making you easier to discover."
-msgstr "记住，跑步时脚步声更大，\n更容易被发现。"
+msgstr ""
+"记住，跑步时脚步声更大，\n"
+"更容易被发现。"
 
 #: olang/009c9ea4/0x0765b1/0x000005
 msgid "Be careful!"
 msgstr "小心！"
 
-#: olang/009c9ea4/0x0765d1/0x000000 olang/009c9ea4/0x62cb7d/0x000000
+#: olang/009c9ea4/0x0765d1/0x000000
+#: olang/009c9ea4/0x62cb7d/0x000000
 msgid ""
 "Boss, you can use \n"
 "<I=MOVE> to move!"
-msgstr "BOSS，按 <I=MOVE> \n就能移动！"
+msgstr ""
+"BOSS，按 <I=MOVE> \n"
+"就能移动！"
 
-#: olang/009c9ea4/0x076bed/0x000000 olang/009c9ea4/0x62997d/0x000000
+#: olang/009c9ea4/0x076bed/0x000000
+#: olang/009c9ea4/0x62997d/0x000000
 msgid ""
 "To move your line of sight, \n"
 "use <I=CAMERA>."
-msgstr "要移动视线，\n用 <I=CAMERA>。"
+msgstr ""
+"要移动视线，\n"
+"用 <I=CAMERA>。"
 
 #: olang/009c9ea4/0x076bed/0x000001
 msgid ""
 "Now, when I give you an order, \n"
 "look in that direction."
-msgstr "我下令时，\n就朝那个方向看。"
+msgstr ""
+"我下令时，\n"
+"就朝那个方向看。"
 
 #: olang/009c9ea4/0x076de5/0x000000
 msgid ""
 "Alright, let’s try up and down with\n"
 "<I=CAMERA> one more time."
-msgstr "好，再用<I=CAMERA>试一次\n上下。"
+msgstr ""
+"好，再用<I=CAMERA>试一次\n"
+"上下。"
 
 #: olang/009c9ea4/0x076ded/0x000000
 msgid ""
 "Alright, let’s try left and right with\n"
 "<I=CAMERA> one more time."
-msgstr "好，再用<I=CAMERA>试一次\n左右。"
+msgstr ""
+"好，再用<I=CAMERA>试一次\n"
+"左右。"
 
 #: olang/009c9ea4/0x077dd9/0x000000
 msgid "To do this,"
 msgstr "为此，"
 
-#: olang/009c9ea4/0x077dd9/0x000001 olang/009c9ea4/0x644bfd/0x000001
+#: olang/009c9ea4/0x077dd9/0x000001
+#: olang/009c9ea4/0x644bfd/0x000001
 msgid "position yourself near your opponent"
 msgstr "先靠近对手"
 
@@ -1869,22 +2579,30 @@ msgstr "先靠近对手"
 msgid ""
 "and press <I=ATK> \n"
 "while you press <I=MOVE>."
-msgstr "然后按住<I=MOVE>时\n按<I=ATK>。"
+msgstr ""
+"然后按住<I=MOVE>时\n"
+"按<I=ATK>。"
 
-#: olang/009c9ea4/0x077dd9/0x000003 olang/009c9ea4/0x644bfd/0x000003
+#: olang/009c9ea4/0x077dd9/0x000003
+#: olang/009c9ea4/0x644bfd/0x000003
 #: olang/009c9ea4/0x644bfe/0x000002
 msgid ""
 "Be sure to press <I=ATK> \n"
 "when the icon appears."
-msgstr "图标出现时\n一定要按<I=ATK>。"
+msgstr ""
+"图标出现时\n"
+"一定要按<I=ATK>。"
 
 #: olang/009c9ea4/0x077dd9/0x000004
 msgid ""
 "Now, wait for my command \n"
 "and throw your opponent."
-msgstr "现在等我的指令，\n把对手摔出去。"
+msgstr ""
+"现在等我的指令，\n"
+"把对手摔出去。"
 
-#: olang/009c9ea4/0x077ea9/0x000000 olang/009c9ea4/0x6458fd/0x000000
+#: olang/009c9ea4/0x077ea9/0x000000
+#: olang/009c9ea4/0x6458fd/0x000000
 #: olang/009c9ea4/0x6458fe/0x000000
 msgid "Boss,"
 msgstr "BOSS，"
@@ -1893,9 +2611,12 @@ msgstr "BOSS，"
 msgid ""
 "you have to press <I=ATK> \n"
 "as you press <I=MOVE>!"
-msgstr "按住<I=MOVE>时\n要按<I=ATK>！"
+msgstr ""
+"按住<I=MOVE>时\n"
+"要按<I=ATK>！"
 
-#: olang/009c9ea4/0x077fd1/0x000000 olang/009c9ea4/0x646b7d/0x000000
+#: olang/009c9ea4/0x077fd1/0x000000
+#: olang/009c9ea4/0x646b7d/0x000000
 msgid "To throw an enemy to the ground,"
 msgstr "要把敌人摔到地上，"
 
@@ -1903,11 +2624,14 @@ msgstr "要把敌人摔到地上，"
 msgid "press <I=MOVE> when you have them restrained."
 msgstr "制住对方后按<I=MOVE>。"
 
-#: olang/009c9ea4/0x0782c1/0x000000 olang/009c9ea4/0x649a7d/0x000000
+#: olang/009c9ea4/0x0782c1/0x000000
+#: olang/009c9ea4/0x649a7d/0x000000
 msgid ""
 "First restrain an opponent by pressing \n"
 "<I=ATK> near them."
-msgstr "先靠近对手按<I=ATK>\n将其制住。"
+msgstr ""
+"先靠近对手按<I=ATK>\n"
+"将其制住。"
 
 #: olang/009c9ea4/0x0782c1/0x000001
 msgid "Then press <I=MOVE> to throw them."
@@ -1921,50 +2645,43 @@ msgstr "朝其他敌人方向按<I=MOVE>，"
 msgid ""
 "you can send your captive flying \n"
 "straight into them! "
-msgstr "就能把抓住的敌人\n直接砸向他们！"
+msgstr ""
+"就能把抓住的敌人\n"
+"直接砸向他们！"
 
 #: olang/009c9ea4/0x0782c1/0x000004
 msgid ""
 "On my command, \n"
 "restrain and then throw your opponent. "
-msgstr "听我指令，\n制住对手再摔出去。"
+msgstr ""
+"听我指令，\n"
+"制住对手再摔出去。"
 
 #: olang/009c9ea4/0x078399/0x000000
 msgid ""
 "Press <I=MOVE> while restraining \n"
 "the opponent, Boss!"
-msgstr "按住对手时按 <I=MOVE>，老大！\n对手，老大！"
+msgstr ""
+"按住对手时按 <I=MOVE>，老大！\n"
+"对手，老大！"
 
 #: olang/009c9ea4/0x0864ad/0x00004e
 msgid "On the battlefield, showers are few and far between. And on that important mission, body odor can be a distraction not only to yourself, but to your brothers in arms. That's where this body fragrance comes in, providing a mild aroma that relaxes both body and soul, allowing you and your comrades to focus on the mission at hand."
 msgstr "战场上洗澡机会少之又少。执行重要任务时，体味不仅会让自己分心，也会影响战友。这款香体露气味清淡，能放松身心，让你和同伴专心执行眼前的任务。"
 
-#: olang/009c9ea4/0x101ab9/0x1f530a
-msgid "Remember whether the camera is in First Person View when the L1 button is released."
-msgstr "记住松开L1键时镜头是否处于第一人称视角。"
-
-#: olang/009c9ea4/0x1331ad/0xae7f04
-msgid "COMRADE'S ALLIES"
-msgstr "战友的盟友"
-
-#: olang/009c9ea4/0x1331ad/0xb8a0c0
-msgid "COMRADES"
-msgstr "战友"
-
 #: olang/009c9ea4/0x1331ad/0xbbc0e2
 msgid "Please verify the Date & Time settings on your device. Incorrect date settings may interfere with package deliveries."
 msgstr "请检查设备的日期与时间设置。日期设置错误可能影响包裹送达。"
 
-#: olang/009c9ea4/0x1766a9/0x000000 olang/009c9ea4/0x62d8fd/0x000000
+#: olang/009c9ea4/0x1766a9/0x000000
+#: olang/009c9ea4/0x62d8fd/0x000000
 #: olang/009c9ea4/0x62d8fe/0x000000
 msgid ""
 "Boss, roll by pressing <I=STANCE>\n"
 "while running with <I=MOVE>!"
-msgstr "BOSS，用<I=MOVE>奔跑时\n按<I=STANCE>翻滚！"
-
-#: olang/009c9ea4/0x17ba49/0x8f9a09
-msgid "Select where to attach custom parts."
-msgstr "选择自定义部件位置。"
+msgstr ""
+"BOSS，用<I=MOVE>奔跑时\n"
+"按<I=STANCE>翻滚！"
 
 #: olang/009c9ea4/0x19f879/0x8f3a58
 msgid ""
@@ -2009,7 +2726,48 @@ msgid ""
 " - If you want to get back into the action quickly and\n"
 "    can't wait for a teammate to revive you,\n"
 "     tap <I=ACT> repeatedly to shorten the time."
-msgstr "VERSUS OPS是一种竞技游戏模式，最多允许\n6名玩家相互交战。\n\n有4种游戏类型（规则）可供选择：\n\n 死亡竞赛\n 团队死亡竞赛\n 夺取任务\n 基地任务\n\n--------\n\n请注意，VERSUS OPS的玩法可能在以下方面\n与MAIN OPS不同：\n\n - 武器和装备的威力及效果可能不同。\n - CO-OP Ring的半径和效果可能不同。\n - Camaraderie和Heroism的效果可能不同。\n - 某些员工技能可能无效。\n - 某些武器可能被禁用。\n - 某些类型的装备可能被禁用。\n - CO-OPS COMM.的效果可能不同。\n - LIFE和PSYCHE不会恢复，\n    即使你保持静止。\n\n--------\n\nCPR\n\n与其他OPS一样，VERSUS OPS允许你使用\nCPR来复活濒死的队友，但\n有一些重要区别，具体\n如下：\n\n - 复活所需的胸外按压次数\n    不同。\n - 如果队友在10秒内未被复活，\n    他们就会死亡。\n - 如果你想快速重返战斗，\n    等不及队友来复活你，\n     反复点击<I=ACT>可缩短时间。"
+msgstr ""
+"VERSUS OPS是一种竞技游戏模式，最多允许\n"
+"6名玩家相互交战。\n"
+"\n"
+"有4种游戏类型（规则）可供选择：\n"
+"\n"
+" 死亡竞赛\n"
+" 团队死亡竞赛\n"
+" 夺取任务\n"
+" 基地任务\n"
+"\n"
+"--------\n"
+"\n"
+"请注意，VERSUS OPS的玩法可能在以下方面\n"
+"与MAIN OPS不同：\n"
+"\n"
+" - 武器和装备的威力及效果可能不同。\n"
+" - CO-OP Ring的半径和效果可能不同。\n"
+" - Camaraderie和Heroism的效果可能不同。\n"
+" - 某些员工技能可能无效。\n"
+" - 某些武器可能被禁用。\n"
+" - 某些类型的装备可能被禁用。\n"
+" - CO-OPS COMM.的效果可能不同。\n"
+" - LIFE和PSYCHE不会恢复，\n"
+"    即使你保持静止。\n"
+"\n"
+"--------\n"
+"\n"
+"CPR\n"
+"\n"
+"与其他OPS一样，VERSUS OPS允许你使用\n"
+"CPR来复活濒死的队友，但\n"
+"有一些重要区别，具体\n"
+"如下：\n"
+"\n"
+" - 复活所需的胸外按压次数\n"
+"    不同。\n"
+" - 如果队友在10秒内未被复活，\n"
+"    他们就会死亡。\n"
+" - 如果你想快速重返战斗，\n"
+"    等不及队友来复活你，\n"
+"     反复点击<I=ACT>可缩短时间。"
 
 #: olang/009c9ea4/0x19f879/0x92ac58
 msgid "Connect with and battle other players. 2 teams of up to 3 players are allowed."
@@ -2023,28 +2781,11 @@ msgstr "丢弃"
 msgid "Rotate Camera: <I=CAMERA>"
 msgstr "旋转镜头：<I=CAMERA>"
 
-#: olang/009c9ea4/0x1a3e77/0x6a33a9 olang/009c9ea4/0x5f753b/0x88adbe
+#: olang/009c9ea4/0x1a3e77/0x6a33a9
+#: olang/009c9ea4/0x5f753b/0x88adbe
 #: olang/009c9ea4/0x919326/0xc992cf
 msgid "Switch Cameras: <I=LR>"
 msgstr "切换镜头：<I=LR>"
-
-#: olang/009c9ea4/0x1a3e77/0xace08d
-msgid "P. UNIT- SCRAP"
-msgstr "P. UNIT- SCRAP"
-
-#: olang/009c9ea4/0x1bca3f/0x000134 olang/009c9ea4/0xae0b2a/0x000134
-#: olang/00d345a5/0x1bca3f/0x000134 olang/00d345a5/0xae0b2a/0x000134
-msgid "LIQUID M."
-msgstr "LIQUID M."
-
-#: olang/009c9ea4/0x1bed50/0x1787c8 olang/009c9ea4/0x291428/0x2b250c
-#: olang/009c9ea4/0x5f753b/0xad4e91 olang/009c9ea4/0xc99c23/0x291428
-msgid "CONTROLS HELP"
-msgstr "操作帮助"
-
-#: olang/009c9ea4/0x20dacf/0x0dd20a olang/009c9ea4/0x482e82/0x5c60d3
-msgid "BACK TO MAIN MENU"
-msgstr "返回主菜单"
 
 #: olang/009c9ea4/0x20dacf/0x40edf8
 msgid "View the online manual."
@@ -2054,12 +2795,6 @@ msgstr "看在线说明书。"
 msgid "Return to the main menu."
 msgstr "返回主菜单。"
 
-#: olang/009c9ea4/0x20dacf/0xac79ca olang/009c9ea4/0x39c9f3/0x4a509a
-#: olang/009c9ea4/0x43f3a5/0x506452 olang/009c9ea4/0xe6e4ed/0xb7fd8f
-#: olang/009c9ea4/0xfb5d7b/0x96ec94
-msgid "KEY CONFIG"
-msgstr "按键设置"
-
 #: olang/009c9ea4/0x20dacf/0xc286c8
 msgid "When you receive a box from someone you don't know, you can return the favor by finding the box's original sender under the COMRADE'S ALLIES tab."
 msgstr "收到陌生人送的箱子时，可在战友盟友标签下找到箱子的原寄送者来还礼。"
@@ -2068,21 +2803,26 @@ msgstr "收到陌生人送的箱子时，可在战友盟友标签下找到箱子
 msgid "Exit game and return to main menu?"
 msgstr "退出游戏并返回主菜单？"
 
-#: olang/009c9ea4/0x20dacf/0xffddf8 olang/009c9ea4/0x2c4b0f/0x48e16c
-#: olang/009c9ea4/0xa49217/0x236883
-msgid "ONLINE MANUAL"
-msgstr "在线手册"
-
-#: olang/009c9ea4/0x210062/0x8e4843 olang/009c9ea4/0x210063/0x8e4843
-#: olang/009c9ea4/0x210064/0x8e4843 olang/009c9ea4/0x210065/0x8e4843
-#: olang/009c9ea4/0x210066/0x8e4843 olang/009c9ea4/0x210067/0x8e4843
-#: olang/009c9ea4/0x210068/0x8e4843 olang/009c9ea4/0x210069/0x8e4843
-#: olang/009c9ea4/0x21006a/0x8e4843 olang/009c9ea4/0x21006b/0x8e4843
-#: olang/009c9ea4/0x5f413d/0x6a9054 olang/009c9ea4/0x5f413e/0x6a9054
-#: olang/009c9ea4/0x5f413f/0x6a9054 olang/009c9ea4/0x5f4140/0x6a9054
-#: olang/009c9ea4/0x5f4141/0x6a9054 olang/009c9ea4/0x5f4142/0x6a9054
-#: olang/009c9ea4/0x5f4143/0x6a9054 olang/009c9ea4/0x5f4144/0x6a9054
-#: olang/009c9ea4/0x5f4145/0x6a9054 olang/009c9ea4/0x5f4146/0x6a9054
+#: olang/009c9ea4/0x210062/0x8e4843
+#: olang/009c9ea4/0x210063/0x8e4843
+#: olang/009c9ea4/0x210064/0x8e4843
+#: olang/009c9ea4/0x210065/0x8e4843
+#: olang/009c9ea4/0x210066/0x8e4843
+#: olang/009c9ea4/0x210067/0x8e4843
+#: olang/009c9ea4/0x210068/0x8e4843
+#: olang/009c9ea4/0x210069/0x8e4843
+#: olang/009c9ea4/0x21006a/0x8e4843
+#: olang/009c9ea4/0x21006b/0x8e4843
+#: olang/009c9ea4/0x5f413d/0x6a9054
+#: olang/009c9ea4/0x5f413e/0x6a9054
+#: olang/009c9ea4/0x5f413f/0x6a9054
+#: olang/009c9ea4/0x5f4140/0x6a9054
+#: olang/009c9ea4/0x5f4141/0x6a9054
+#: olang/009c9ea4/0x5f4142/0x6a9054
+#: olang/009c9ea4/0x5f4143/0x6a9054
+#: olang/009c9ea4/0x5f4144/0x6a9054
+#: olang/009c9ea4/0x5f4145/0x6a9054
+#: olang/009c9ea4/0x5f4146/0x6a9054
 msgid "Display Controls Help"
 msgstr "显示操作帮助"
 
@@ -2136,46 +2876,64 @@ msgid ""
 "<C=FF4040>Allowing Mother Base to be hit by 10 missiles will result in instant mission failure<C=R>.\n"
 "Chaff Grenades are not allowed.\n"
 " # of Targets: 30"
-msgstr "<C=FF4040>击落<C=R>射向MSF母基地的敌方导弹。\n<C=FF4040>母基地被10枚导弹击中即任务失败<C=R>。\n不可使用干扰弹。\n 目标数：30"
+msgstr ""
+"<C=FF4040>击落<C=R>射向MSF母基地的敌方导弹。\n"
+"<C=FF4040>母基地被10枚导弹击中即任务失败<C=R>。\n"
+"不可使用干扰弹。\n"
+" 目标数：30"
 
 #: olang/009c9ea4/0x215635/0x55aca6
 msgid ""
 "Zadornov has escaped from Mother Base. Find him and bring him back.\n"
 " Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
-msgstr "扎多尔诺夫已从母基地逃走。找到他并带回来。\n 所需物品：<C=FF4040>富尔顿回收系统<C=R>"
+msgstr ""
+"扎多尔诺夫已从母基地逃走。找到他并带回来。\n"
+" 所需物品：<C=FF4040>富尔顿回收系统<C=R>"
 
 #: olang/009c9ea4/0x215635/0x75aca6
 msgid ""
 "Zadornov has escaped from Mother Base once again. Find him and bring him back.\n"
 " Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
-msgstr "扎多尔诺夫又从母基地逃走了。找到他并带回来。\n所需物品：<C=FF4040>富尔顿回收系统<C=R>"
+msgstr ""
+"扎多尔诺夫又从母基地逃走了。找到他并带回来。\n"
+"所需物品：<C=FF4040>富尔顿回收系统<C=R>"
 
 #: olang/009c9ea4/0x215635/0x75aca9
 msgid ""
 "You guessed it - Zadornov has escaped from Mother Base again. Find him and bring him back.\n"
 " Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
-msgstr "你猜对了——扎多尔诺夫又从母基地逃走了。找到他并带回来。\n所需物品：<C=FF4040>富尔顿回收系统<C=R>"
+msgstr ""
+"你猜对了——扎多尔诺夫又从母基地逃走了。找到他并带回来。\n"
+"所需物品：<C=FF4040>富尔顿回收系统<C=R>"
 
 #: olang/009c9ea4/0x215635/0x95aca6
 msgid ""
 "Zadornov has escaped from Mother Base yet again. Find him and bring him back.\n"
 " Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
-msgstr "扎多尔诺夫再次从母基地逃走了。找到他并带回来。\n所需物品：<C=FF4040>富尔顿回收系统<C=R>"
+msgstr ""
+"扎多尔诺夫再次从母基地逃走了。找到他并带回来。\n"
+"所需物品：<C=FF4040>富尔顿回收系统<C=R>"
 
 #: olang/009c9ea4/0x215635/0x95aca9
 msgid ""
 "Believe it or not, Zadornov has escaped from Mother Base again. Find him and bring him back.\n"
 " Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
-msgstr "信不信由你，扎多尔诺夫又从母基地逃走了。找到他并带回来。\n所需物品：<C=FF4040>富尔顿回收系统<C=R>"
+msgstr ""
+"信不信由你，扎多尔诺夫又从母基地逃走了。找到他并带回来。\n"
+"所需物品：<C=FF4040>富尔顿回收系统<C=R>"
 
 #: olang/009c9ea4/0x215635/0xb5aca9
 msgid ""
 "Zadornov has escaped from Mother Base again. Find him and bring him back.\n"
 " Items Needed: <C=FF4040>Fulton Recovery System<C=R>"
-msgstr "扎多尔诺夫又从母基地逃走了。找到他并带回来。\n所需物品：<C=FF4040>富尔顿回收系统<C=R>"
+msgstr ""
+"扎多尔诺夫又从母基地逃走了。找到他并带回来。\n"
+"所需物品：<C=FF4040>富尔顿回收系统<C=R>"
 
-#: olang/009c9ea4/0x227683/0x7383ce olang/009c9ea4/0x227683/0xe8c00e
-#: olang/00d9bfd4/0x227683/0x187156 olang/00d9bfd4/0x227683/0x1fc51a
+#: olang/009c9ea4/0x227683/0x7383ce
+#: olang/009c9ea4/0x227683/0xe8c00e
+#: olang/00d9bfd4/0x227683/0x187156
+#: olang/00d9bfd4/0x227683/0x1fc51a
 msgid "Mute: <I=OPTION_MUTE>"
 msgstr "静音：<I=OPTION_MUTE>"
 
@@ -2187,49 +2945,56 @@ msgstr "静音"
 msgid "A connection error has occurred."
 msgstr "发生连接错误。"
 
-#: olang/009c9ea4/0x22af99/0x0001af olang/009c9ea4/0x4e7980/0x0001af
-#: olang/009c9ea4/0x954c25/0x0001af
-msgid "MUSIC PLAYER"
-msgstr "音乐播放器"
+#: olang/009c9ea4/0x2c4b0f/0x48e16c
+msgid "ONLINE MANUAL"
+msgstr "在线手册"
 
-#: olang/009c9ea4/0x291428/0x50818e olang/009c9ea4/0xc99c23/0x50818e
-#: olang/009c9ea4/0xc99c23/0xd9d9b9
-msgid "<I=SEL>"
-msgstr "<I=SEL>"
-
-#: olang/009c9ea4/0x291428/0xd9d9b9
-msgid "<I=STA>"
-msgstr "<I=STA>"
-
-#: olang/009c9ea4/0x2d0e67/0xf29383 olang/009c9ea4/0x2d0e69/0xf29383
+#: olang/009c9ea4/0x2d0e67/0xf29383
+#: olang/009c9ea4/0x2d0e69/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "<I=CAMERA> up: Look Up\n"
 "<I=CAMERA> down: Look Down"
-msgstr "按动作键确认 \n<I=CAMERA>上：向上看\n<I=CAMERA>下：向下看"
+msgstr ""
+"按动作键确认 \n"
+"<I=CAMERA>上：向上看\n"
+"<I=CAMERA>下：向下看"
 
-#: olang/009c9ea4/0x2d0e68/0xf29383 olang/009c9ea4/0x2d0e6a/0xf29383
+#: olang/009c9ea4/0x2d0e68/0xf29383
+#: olang/009c9ea4/0x2d0e6a/0xf29383
 msgid ""
 "Press the Action Button to confirm \n"
 "<I=CAMERA> up: Look Down\n"
 "<I=CAMERA> down: Look Up"
-msgstr "按动作键确认 \n<I=CAMERA>上：向下看\n<I=CAMERA>下：向上看"
+msgstr ""
+"按动作键确认 \n"
+"<I=CAMERA>上：向下看\n"
+"<I=CAMERA>下：向上看"
 
-#: olang/009c9ea4/0x2d0e6c/0xf29383 olang/009c9ea4/0x2d0e6e/0xf29383
+#: olang/009c9ea4/0x2d0e6c/0xf29383
+#: olang/009c9ea4/0x2d0e6e/0xf29383
 msgid ""
 "Press <I=ACT> to confirm \n"
 "<I=CAMERA> left: Look Left\n"
 "<I=CAMERA> right: Look Right"
-msgstr "按<I=ACT>确认 \n<I=CAMERA>左：向左看\n<I=CAMERA>右：向右看"
+msgstr ""
+"按<I=ACT>确认 \n"
+"<I=CAMERA>左：向左看\n"
+"<I=CAMERA>右：向右看"
 
-#: olang/009c9ea4/0x2d0e6d/0xf29383 olang/009c9ea4/0x2d0e85/0xf29383
+#: olang/009c9ea4/0x2d0e6d/0xf29383
+#: olang/009c9ea4/0x2d0e85/0xf29383
 msgid ""
 "Press <I=ACT> to confirm \n"
 "<I=CAMERA> left: Look Right\n"
 "<I=CAMERA> right: Look Left"
-msgstr "按<I=ACT>确认 \n<I=CAMERA>左：向右看\n<I=CAMERA>右：向左看"
+msgstr ""
+"按<I=ACT>确认 \n"
+"<I=CAMERA>左：向右看\n"
+"<I=CAMERA>右：向左看"
 
-#: olang/009c9ea4/0x2d3090/0x000134 olang/00d345a5/0x2d3090/0x000134
+#: olang/009c9ea4/0x2d3090/0x000134
+#: olang/00d345a5/0x2d3090/0x000134
 msgid "Liquid Magazine"
 msgstr "利奎德杂志"
 
@@ -2265,7 +3030,8 @@ msgstr "日本自卫队"
 msgid "Why Miller quit the JSDF"
 msgstr "米勒为何退出日本自卫队"
 
-#: olang/009c9ea4/0x31a1fa/0xb6d349 olang/009c9ea4/0x31a1fa/0xb6dba6
+#: olang/009c9ea4/0x31a1fa/0xb6d349
+#: olang/009c9ea4/0x31a1fa/0xb6dba6
 #: olang/009c9ea4/0x31a1fa/0xb6dfa7
 msgid "About himself"
 msgstr "关于自己"
@@ -2326,7 +3092,8 @@ msgstr "战斗服"
 msgid "Naked"
 msgstr "裸装"
 
-#: olang/009c9ea4/0x31a1fa/0xb6d36e olang/009c9ea4/0x31a1fa/0xb6d36f
+#: olang/009c9ea4/0x31a1fa/0xb6d36e
+#: olang/009c9ea4/0x31a1fa/0xb6d36f
 msgid "CO-OPS"
 msgstr "合作任务"
 
@@ -2349,3 +3116,73 @@ msgstr "羁绊"
 #: olang/009c9ea4/0x31a1fa/0xb6d38a
 msgid "Snake Sync"
 msgstr "SNAKE同步"
+
+#: olang/009c9ea4/0x31a1fa/0xb6d38b
+msgid "Heroism"
+msgstr "英雄度"
+
+#: olang/009c9ea4/0x31a1fa/0xb6d38c
+msgid "CO-OPS Weapons"
+msgstr "合作武器"
+
+#: olang/009c9ea4/0x31a1fa/0xb6d38d
+msgid "CO-OPS Comms"
+msgstr "合作任务通信"
+
+#: olang/009c9ea4/0x31a1fa/0xb6d38e
+msgid "Battle Cries & the Kotodama Effect"
+msgstr "战吼与言灵效果"
+
+#: olang/009c9ea4/0x31a1fa/0xb6d38f
+msgid "Special Items"
+msgstr "特殊道具"
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3a6
+msgid "Cardboard box"
+msgstr "纸箱"
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3a7
+msgid "Two Men in a Box"
+msgstr "箱中双雄"
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3a8
+msgid "Cardboard Tank"
+msgstr "纸箱坦克"
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3a9
+msgid "WALKMAN"
+msgstr "随身听"
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3aa
+#: olang/009c9ea4/0x31a1fa/0xb6dae7
+#: olang/009c9ea4/0x31a1fa/0xb6db8c
+msgid "Mission Info"
+msgstr "任务信息"
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3ab
+msgid "Make Contact with the FSLN Comandante"
+msgstr "联络 FSLN 指挥官"
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3ac
+msgid "Tracking Amanda"
+msgstr "追踪阿曼达"
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3ad
+msgid "C4"
+msgstr ""
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3ae
+msgid "How to plant C4 "
+msgstr "C4 设置方法"
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3af
+msgid "Basilisco"
+msgstr "蛇怪"
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3c6
+msgid "AI Weapon Parts"
+msgstr "AI 兵器零件"
+
+#: olang/009c9ea4/0x31a1fa/0xb6d3c7
+msgid "To the Command Tower!"
+msgstr "前往指挥塔！"

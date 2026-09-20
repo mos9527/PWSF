@@ -13,6 +13,9 @@ MANIFEST.tsv       分块索引（条目数 / 覆盖槽位数 / 原文字符数�
 
 合计 16,332 条。一个文件约 400 条，可以一人认领一个文件并行推进。
 
+> 下一次 `po_export` 会降到 15,773 条：那 559 条是像素字体槽位，按 §15 的结论
+> 不再导出（详见文末「有一批文字不要译」）。
+
 `slot/` 里带 `#. comic cutscene` 注释的那 1,858 条是**过场（漫画）台词**，
 主体在 `slot_05`–`slot_10`；其余是同一批内嵌文本里的 UI 说明文。
 它们的文本不在磁盘那 17 个 `.olang` 里，而是塞在 `MLG/disc0_rel/002aba34.DAT`
@@ -100,3 +103,23 @@ olang 侧重复率 46%，所以按 `msgid` 合并了：一条译文自动覆盖�
 
 - 码点超过 `U+FF5E` 的字进不了字形转换表，全角 `￥`（U+FFE5）就是一个；
 - 字体源 `msyh.ttc` 里没有的字（生僻字、私用区）。
+
+## 有一批文字**不要译**
+
+游戏除了 `FONT\*.xpr` 那两张字库，还有第三张字形图集：藏在 `Text\*.txp` 里的
+一张 512×512 像素字，只有 ASCII + 拉丁字母，**一个汉字都没有**。olang 每条记录
+的 `meta` 字段决定它用哪张：`meta == 1` 走像素字，`meta == 0x402` 走上面那两张。
+
+这类槽位（2,051 个）**默认不导出**，所以你在 `.po` 里看不到
+`PRESS START BUTTON`、`BUTTON CONFIG`、`PRISONER`、`MOTHER BASE` 这类短标签——
+**这是有意的**，它们保持英文（日文版也是这么处理的）。
+
+如果哪条被你手工加了进去并填了中文，`po_lint` 会报：
+
+```
+pixel-font   drawn with the ASCII/Latin-1 pixel atlas in Text/*.txp,
+             which has no glyph for U+4E0B 下 ... -- leave this slot English
+```
+
+想看这批到底是什么（或坚持要导）：`python -m pwsf.po_export --pixel-font`。
+前因后果见 `research/ANALYSIS/05_font.md` §15。

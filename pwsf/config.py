@@ -228,8 +228,11 @@ def _detect_font_ttf():
 
 FONT_TTF = (_setting("PWSF_FONT_TTF", "font_ttf")
             or _detect_font_ttf() or BUNDLED_FONT_TTF)
-FONT_LARGE = "0007ccd8"    # 4096x4096, the only font glyph lookup ever uses
-FONT_SMALL = "000ebbe8"    # loaded but never indexed (g_font_index is always 0)
+FONT_LARGE = "0007ccd8"    # 4096x4096; the only font the build pipeline touches
+FONT_SMALL = "000ebbe8"    # 2048x1024; reachable -- g_font_index IS written at
+                           # runtime (§6.5) -- but no build path touches it:
+                           # 15 rows x 34 = 510 slots against 2,477 code points
+                           # the corpus needs (§13, _probe_font10.py)
 
 # ------------------------------------------------------------------ olang
 

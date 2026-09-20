@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PWSF slot 20/26\n"
+"Project-Id-Version: PWSF slot 20/24\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -9,1760 +9,1881 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
-#: slot/0x0099cb1e/0xb1b763/0x29e0fc
+#: slot/0x00b4d9c8/0x4e7980/0x000189
+msgid "NKD(YELW)"
+msgstr "裸(黄)"
+
+#: slot/0x00b4d9c8/0x4e7980/0x00018a
+msgid "NKD(PINK)"
+msgstr "裸(粉)"
+
+#: slot/0x00b4d9c8/0x4e7980/0x00018b
+msgid "NKD(GRN)"
+msgstr "裸装(绿)"
+
+#: slot/0x00b4d9c8/0x4e7980/0x00018c
+msgid "NKD(LEAF)"
+msgstr "裸装(叶)"
+
+#: slot/0x00b4d9c8/0x4e7980/0x00018d
+msgid "NKD(TIGER)"
+msgstr "裸装虎"
+
+#: slot/0x00b4d9c8/0x4e7980/0x00018e
+msgid "NKD(WATR)"
+msgstr "裸(水)"
+
+#: slot/0x00b4d9c8/0x4e7980/0x00018f
+msgid "NKD(CHOCO)"
+msgstr "裸装巧"
+
+#: slot/0x00b4d9c8/0x4e7980/0x000190
+msgid "NKD(AUSY)"
+msgstr "裸装(澳)"
+
+#: slot/0x00b4d9c8/0x4e7980/0x000191
+msgid "NKD(SQRS)"
+msgstr "裸装(方)"
+
+#: slot/0x00b4d9c8/0x4e7980/0x000192
+msgid "NKD(T.B)"
+msgstr "裸装(树皮)"
+
+#: slot/0x00b4d9c8/0x4e7980/0x000193
+msgid "NKD(SPLIT)"
+msgstr "裸装分"
+
+#: slot/0x00b4d9c8/0x4e7980/0x000194
+msgid "NKD(SNAKE)"
+msgstr "裸装蛇"
+
+#: slot/0x00b4d9c8/0x4e7980/0x000195
+msgid "TUXEDO"
+msgstr "燕尾服"
+
+#: slot/0x00b4d9c8/0x4e7980/0x000196
+msgid "MILLER"
+msgstr "米勒"
+
+#: slot/0x00b4d9c8/0x4e7980/0x000197
+msgid "AMANDA"
+msgstr "阿曼达"
+
+#: slot/0x00b4d9c8/0x4e7980/0x000198
+msgid "SWIM TRNKS"
+msgstr "泳裤"
+
+#: slot/0x00b4d9c8/0x4e7980/0x000199
+msgid "BIKINI TOP"
+msgstr "比基尼"
+
+#: slot/0x00b4d9c8/0x4e7980/0x00019d
+#: slot/0x00b4d9c8/0x4e7980/0x0001a7
+msgid "UT(N425D)"
+msgstr ""
+
+#: slot/0x00b4d9c8/0x4e7980/0x00019e
+#: slot/0x00b4d9c8/0x4e7980/0x00019f
+msgid "UT(N425E)"
+msgstr ""
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001a1
+#: slot/0x00b4d9c8/0x4e7980/0x0001a8
+msgid "UT(N425G)"
+msgstr ""
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001a2
+#: slot/0x00b4d9c8/0x4e7980/0x0001a3
+msgid "UT(N425H)"
+msgstr ""
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001a6
+msgid "UT(LOGO)"
+msgstr "UT标"
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001a9
+msgid "T-SHIRT"
+msgstr "T恤"
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001b0
+msgid "NKD(DPM)"
+msgstr "裸装(迷彩)"
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001b3
+#: slot/0x00e6ef4c/0x1b1303/0x8c5df1
+msgid "FOX"
+msgstr "FOX"
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001b4
+msgid "R.COMMANDO"
+msgstr "R.突击队"
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001b5
+msgid "R.SOLDIER"
+msgstr "R.士兵"
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001b6
+msgid "SCOUT"
+msgstr "侦察兵"
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001b7
+msgid "GUARD"
+msgstr "卫兵"
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001b8
+msgid "COMMANDO"
+msgstr "突击"
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001b9
+msgid "M.POW"
+msgstr "男俘"
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001ba
+msgid "PATROLMAN"
+msgstr "巡逻兵"
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001bb
+msgid "F.POW"
+msgstr "女俘"
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001bc
+msgid "MECHANIC"
+msgstr "机械"
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001bd
+msgid "ESCORT"
+msgstr "护卫"
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001be
+msgid "5.56X45AP"
+msgstr ""
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001bf
+msgid "7.62X54AP"
+msgstr ""
+
+#: slot/0x00b4d9c8/0x4e7980/0x0001fa
+msgid "ID CARD(C)"
+msgstr "ID卡(C)"
+
+#: slot/0x00b85cf0/0x326126/0x13d5d1
+msgid "Staff deployed on missions cannot be discharged."
+msgstr "执行任务中的士兵无法解雇。"
+
+#: slot/0x00b85cf0/0x326126/0x23737c
+msgid "STAFF DISCHARGED"
+msgstr "已解雇士兵"
+
+#: slot/0x00b85cf0/0x326126/0x368518
+msgid "DISCHARGE LIST"
+msgstr "解雇名单"
+
+#: slot/0x00b85cf0/0x326126/0x414199
+#, c-format
+msgid "New staff trying to join have put your roster over the %d-person limit. Please select %2d staff member(s) to discharge."
+msgstr "新兵加入后已超出%d人上限。请选择%2d名士兵解雇。"
+
+#: slot/0x00b85cf0/0x326126/0x494dec
+msgid "You cannot discharge this staff member."
+msgstr "无法解雇该士兵。"
+
+#: slot/0x00b85cf0/0x326126/0x534694
+msgid "Discharge these staff members?"
+msgstr "确定解雇这些士兵？"
+
+#: slot/0x00b85cf0/0x326126/0x56d901
 msgid ""
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"         November 10, 1974"
-msgstr "\n\n\n\n\n\n\n\n\n\n1974年11月10日"
+"Your staff roster will be reduced to zero.\n"
+"Are you sure you want to proceed?"
+msgstr ""
+"你的士兵将减至零。\n"
+"确定要继续吗？"
 
-#: slot/0x0099cb1e/0xb1b764/0x29e0fc
-msgid ""
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"          Barranquilla Coast, Colombia"
-msgstr "\n\n\n\n\n\n\n\n\n\n\n哥伦比亚巴兰基亚海岸"
+#: slot/0x00b85cf0/0x326126/0x576643
+msgid "Discharged staff can never be recruited again."
+msgstr "已解雇的士兵无法再次招募。"
 
-#: slot/0x0099cb1e/0xb1b765/0x29e0fc
-msgid ""
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"          Caribbean Coast, Costa Rica"
-msgstr "\n\n\n\n\n\n\n\n\n\n\n哥斯达黎加加勒比海岸"
+#: slot/0x00b85cf0/0x326126/0x648de3
+msgid "Reset selections to default?"
+msgstr "将选择重置为默认？"
 
-#: slot/0x0099cb1e/0xb1b766/0x29e0fc
-msgid "OPENING/TUTORIAL "
-msgstr "开场/教程"
+#: slot/0x00b85cf0/0x326126/0x713612
+msgid "RECRUITS DISMISSED"
+msgstr "已遣散新兵"
 
-#: slot/0x0099cb1e/0xb1b767/0x29e0fc
-#: slot/0x0099cb1e/0xb1b769/0x29e0fc
-#: slot/0x0099cb1e/0xb1b781/0x29e0fc
-#: slot/0x0099cb1e/0xb1b783/0x29e0fc
-msgid ""
-"\n"
-"MISSION COMPLETE "
-msgstr "\n任务完成"
+#: slot/0x00b85cf0/0x326126/0xb12649
+msgid "CURRENT STAFF"
+msgstr "当前士兵"
 
-#: slot/0x0099cb1e/0xb1b768/0x29e0fc
-msgid "TAKE CONTROL OF THE ENEMIES' STRONGHOLD "
-msgstr "夺取敌军据点"
+#: slot/0x00b85cf0/0x326126/0xb6912f
+msgid "Discharged."
+msgstr "已解雇"
 
-#: slot/0x0099cb1e/0xb1b76a/0x29e0fc
-msgid "STOP THE TANK : BANANAL FRUTA DE ORO "
-msgstr "阻止坦克：黄金果香蕉园"
+#: slot/0x00b85cf0/0x326126/0xc4e4f8
+#, c-format
+msgid "Your roster is still over the %d-person limit. Please select %2d more staff member(s)."
+msgstr "你的士兵仍超出%d人上限。请再选择%2d名士兵。"
 
-#: slot/0x0099cb1e/0xb1b782/0x29e0fc
-msgid "ASSAULT ON THE CRATER BASE "
-msgstr "突袭火山口基地"
+#: slot/0x00b85cf0/0x326126/0xfa69f0
+msgid "NEW RECRUITS"
+msgstr "新兵"
 
-#: slot/0x0099cb1e/0xb1b784/0x29e0fc
-msgid "November 4, 1974 20:31"
-msgstr "1974年11月4日 20:31"
+#: slot/0x00b85cf0/0x326126/0xfc53af
+msgid "ALL STAFF"
+msgstr "全部士兵"
 
-#: slot/0x0099cb1e/0xb1b786/0x29e0fc
-msgid "November 19, 1974 Costa Rica"
-msgstr "1974年11月19日 哥斯达黎加"
+#: slot/0x00b96275/0x919326/0x1979dc
+msgid "Mission Support"
+msgstr "任务支援"
 
-#: slot/0x0099cb1e/0xb1b787/0x29e0fc
-msgid "Selva de la Leche, Central Heredia"
-msgstr "埃雷迪亚中部，牛奶丛林"
+#: slot/0x00b96275/0x919326/0x1f1ab1
+msgid "Living Quarters"
+msgstr "居住区"
 
-#: slot/0x0099cb1e/0xb1b788/0x29e0fc
-msgid "November 21, 1974 Costa Rica"
-msgstr "1974年11月21日 哥斯达黎加"
+#: slot/0x00b96275/0x919326/0x291d5f
+msgid "Staff Data"
+msgstr "士兵数据"
 
-#: slot/0x0099cb1e/0xb1b789/0x29e0fc
-msgid "Mine Base, Eastern Heredia"
-msgstr "埃雷迪亚东部矿井"
+#: slot/0x00b96275/0x919326/0x30d85c
+msgid "Support Supplies"
+msgstr "支援物资"
 
-#: slot/0x0099cb1e/0xb1b78a/0x29e0fc
-msgid "November 23, 1974"
-msgstr "1974年11月23日"
+#: slot/0x00b96275/0x919326/0x3a357a
+msgid "Weapons and items development facilities."
+msgstr "武器与道具开发设施。"
 
-#: slot/0x0099cb1e/0xb1b7a1/0x29e0fc
-msgid "Rio San Juan, Costa Rica/Nicaraguan Border"
-msgstr "哥斯达黎加/尼加拉瓜边境，圣胡安河"
+#: slot/0x00b96275/0x919326/0x3e1d3f
+msgid "$1"
+msgstr ""
 
-#: slot/0x0099cb1e/0xb1b7a2/0x29e0fc
-msgid "U.S. Missile Base, Southeastern shore of Nicaragua"
-msgstr "尼加拉瓜东南岸，美军导弹基地"
+#: slot/0x00b96275/0x919326/0x3fda6b
+msgid "Command Center"
+msgstr "指挥中心"
 
-#: slot/0x0099cb1e/0xb1b7a4/0x29e0fc
-msgid "Monitor Room, Communications Tower"
-msgstr "通信塔，监控室"
+#: slot/0x00b96275/0x919326/0x426915
+msgid "Staff living area."
+msgstr "士兵生活区。"
 
-#: slot/0x0099cb1e/0xb1b7a5/0x29e0fc
-msgid "Control Room, Control Tower Top Floor"
-msgstr "管制塔顶层，控制室"
+#: slot/0x00b96275/0x919326/0x4b2c05
+msgid "Mech Capture Status"
+msgstr "机体捕获状况"
 
-#: slot/0x0099cb1e/0xb1b7a6/0x29e0fc
-msgid "Colorado, USA"
-msgstr "美国，科罗拉多州"
+#: slot/0x00b96275/0x919326/0x5bf6c5
+msgid "Metal Gear Head Parts Acquired"
+msgstr "已获得合金装备头部零件"
 
-#: slot/0x0099cb1e/0xb1b7a7/0x29e0fc
-msgid "NORAD Cheyenne Mountain Operations Center"
-msgstr "北美防空司令部夏延山作战中心"
+#: slot/0x00b96275/0x919326/0x63ba35
+msgid "Contains various data on Mother Base facilities, staff, and weapons."
+msgstr "包含母基地设施、士兵与武器的各类数据。"
 
-#: slot/0x0099cb1e/0xb1b7a8/0x29e0fc
-msgid "Washington DC, USA"
-msgstr "美国，华盛顿"
+#: slot/0x00b96275/0x919326/0x683788
+msgid "Items Acquisition Rate"
+msgstr "道具获得率"
 
-#: slot/0x0099cb1e/0xb1b7a9/0x29e0fc
-msgid "Pentagon - National Military Command Center (NMCC)"
-msgstr "五角大楼－国家军事指挥中心（NMCC）"
+#: slot/0x00b96275/0x919326/0x68a688
+msgid "Weapons Acquisition Rate"
+msgstr "武器获得率"
 
-#: slot/0x0099cb1e/0xb1b7aa/0x29e0fc
-msgid ""
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"\n"
-"          Bosque del Alba, Caribbean Coast of Costa Rica"
-msgstr "\n\n\n\n\n\n\n\n\n\n\n哥斯达黎加加勒比海岸黎明森林"
+#: slot/0x00b96275/0x919326/0x6ed1c8
+msgid "Sick/Wounded"
+msgstr "伤病"
 
-#: slot/0x0099cb1e/0xb1b7c1/0x29e0fc
-msgid "Pentagon - National Military Command Center"
-msgstr "五角大楼－国家军事指挥中心"
+#: slot/0x00b96275/0x919326/0x73e998
+msgid "R&D Lab"
+msgstr "研发实验室"
 
-#: slot/0x0099cb1e/0xb1b7c2/0x29e0fc
-msgid "Emergency Conference Room"
-msgstr "紧急会议室"
+#: slot/0x00b96275/0x919326/0x748e7e
+msgid "Provides support strikes and support supply during missions."
+msgstr "在任务中提供支援打击与支援补给。"
 
-#: slot/0x0099cb1e/0xb1b7c3/0x29e0fc
-msgid "September 1964, The Soviet Union"
-msgstr "1964年9月，苏联"
+#: slot/0x00b96275/0x919326/0x74e241
+msgid "Houses mechs and Metal Gear."
+msgstr "存放机体和合金装备"
 
-#: slot/0x0099cb1e/0xb1b7c4/0x29e0fc
-msgid "Groznyj Grad, Rokovoj Bereg"
-msgstr "格罗兹尼格勒，罗科沃伊别列格"
+#: slot/0x00b96275/0x919326/0x798681
+msgid "Support Rank"
+msgstr "支援等级"
 
-#: slot/0x0099cb1e/0xb1b7c5/0x29e0fc
-msgid "U.S. Missile Base,"
-msgstr "美军导弹基地，"
+#: slot/0x00b96275/0x919326/0xae1ba7
+msgid "Radius of $1m"
+msgstr "$1m半径"
 
-#: slot/0x0099cb1e/0xb1b7c6/0x29e0fc
-msgid "Southeastern shore of Nicaragua"
-msgstr "尼加拉瓜东南岸"
+#: slot/0x00b96275/0x919326/0xbb9688
+msgid "Support Data"
+msgstr "支援数据"
 
-#: slot/0x0099cb1e/0xb1b7c7/0x29e0fc
-msgid "NORAD"
-msgstr "北美防空司令部"
+#: slot/0x00b96275/0x919326/0xbc5e4e
+msgid "Hospitalization Rate"
+msgstr "住院率"
 
-#: slot/0x0099cb1e/0xb1b7c8/0x29e0fc
-msgid "Cheyenne Mountain Operations Center"
-msgstr "夏延山作战中心"
+#: slot/0x00b96275/0x919326/0xd3b3b7
+msgid "Support Strike Range"
+msgstr "支援打击范围"
 
-#: slot/0x0099cb1e/0xb1dc01/0x29e0fc
-msgid "KOI NO YOKUSHI-RYOKU"
-msgstr "恋の抑止力"
+#: slot/0x00b96275/0x919326/0xd3cd30
+msgid "Support Strikes"
+msgstr "支援打击"
 
-#: slot/0x0099cb1e/0xb1dc02/0x29e0fc
-msgid ""
-"SUNG BY: PAZ\n"
-"(JAPANESE VOICE : NANA MIZUKI)"
-msgstr "演唱：帕兹\n（日语配音：水树奈奈）"
+#: slot/0x00b96275/0x919326/0xd8e588
+msgid "Central control facility."
+msgstr "中央控制设施。"
 
-#: slot/0x0099cb1e/0xb1dc03/0x29e0fc
-msgid "HEAVENS DIVIDE"
-msgstr "HEAVENS DIVIDE"
+#: slot/0x00b96275/0x919326/0xf3edf1
+msgid "MAX: $1"
+msgstr "上限：$1"
 
-#: slot/0x0099cb1e/0xb1dc04/0x29e0fc
-msgid "SUNG BY : Donna Burke"
-msgstr "演唱：Donna Burke"
+#: slot/0x00b96275/0x919326/0xf797ae
+msgid "Team Data"
+msgstr "小队数据"
 
-#: slot/0x009a9677/0x2625d2/0x5b7e91
-msgid "LV"
-msgstr "LV"
+#: slot/0x00b96275/0x919326/0xffa5f4
+msgid "Hangar"
+msgstr "机库"
 
-#: slot/0x009a9677/0x2b8f17/0x264266
-#: slot/0x009a9677/0x2b8f17/0x7f988d
-msgid "IN SYNC"
-msgstr "已同步"
+#: slot/0x00b96275/0x947b26/0x03b89c
+msgid "Unacquired"
+msgstr "未获得"
 
-#: slot/0x009a9677/0x2b8f17/0x6511d3
-#: slot/0x009a9677/0x2b8f17/0xf134f1
-msgid "SYNCING..."
-msgstr "同步中"
+#: slot/0x00b96275/0x947b26/0x066ec3
+msgid "Comrades List"
+msgstr "战友列表"
 
-#: slot/0x009a9677/0x707401/0x084d70
-msgid "JAMMING"
-msgstr "干扰"
+#: slot/0x00b96275/0x947b26/0x26602f
+msgid "Contains your stats, mission results, and insignias."
+msgstr "包含你的战绩、任务结果与徽章。"
 
-#: slot/0x009a9677/0x792abe/0x18eaca
-msgid "AUTO AIM"
+#: slot/0x00b96275/0x947b26/0x3c4ab1
+msgid "Total Level of Camaraderie"
+msgstr "羁绊总等级"
+
+#: slot/0x00b96275/0x947b26/0x3c4ab2
+msgid "Missions Cleared"
+msgstr "已完成任务"
+
+#: slot/0x00b96275/0x947b26/0x3c4ab3
+msgid "Missions Cleared (CO-OPS)"
+msgstr "通关任务(合作)"
+
+#: slot/0x00b96275/0x947b26/0x3c52b0
+msgid "Missions Cleared with No Alerts"
+msgstr "零警报完成任务"
+
+#: slot/0x00b96275/0x947b26/0x3c52b1
+msgid "Missions Cleared with No Kills"
+msgstr "零击杀完成任务"
+
+#: slot/0x00b96275/0x947b26/0x3c52b2
+msgid "Missions Cleared with No Recovery Items Used"
+msgstr "未使用恢复道具完成任务"
+
+#: slot/0x00b96275/0x947b26/0x3c52b3
+msgid "Total CQC Count"
+msgstr "CQC总次数"
+
+#: slot/0x00b96275/0x947b26/0x3c52b5
+msgid "Total Hold-ups"
+msgstr "挟持次数"
+
+#: slot/0x00b96275/0x947b26/0x3c52b7
+msgid "Snake Ins"
+msgstr "SNAKE压制次数"
+
+#: slot/0x00b96275/0x947b26/0x3c52b8
+msgid "Snake Syncs"
+msgstr "SNAKE同步次数"
+
+#: slot/0x00b96275/0x947b26/0x3c52cf
+msgid "Weapon/Items Shared"
+msgstr "共享武器/道具"
+
+#: slot/0x00b96275/0x947b26/0x3c52d1
+msgid "Total Headshots"
+msgstr "爆头总次数"
+
+#: slot/0x00b96275/0x947b26/0x3c52d2
+msgid "Near-Death Soldiers Revived"
+msgstr "濒死士兵救回数"
+
+#: slot/0x00b96275/0x947b26/0x3c52d3
+msgid "Missions Played Half-Naked"
+msgstr "半裸完成任务次数"
+
+#: slot/0x00b96275/0x947b26/0x3c52d4
+msgid "Metal Gear Parts Acquired"
+msgstr "已获合金装备部件"
+
+#: slot/0x00b96275/0x947b26/0x3c52d5
+msgid "Monsters Hunted"
+msgstr "已猎杀怪物"
+
+#: slot/0x00b96275/0x947b26/0x3c5ab0
+msgid "VS Play Count"
+msgstr "对战次数"
+
+#: slot/0x00b96275/0x947b26/0x3c5ab1
+msgid "Deathmatch Victories"
+msgstr "死斗胜利次数"
+
+#: slot/0x00b96275/0x947b26/0x3c5ab2
+msgid "Team Deathmatch Victories"
+msgstr "团队死斗胜利次数"
+
+#: slot/0x00b96275/0x947b26/0x3c5ab3
+msgid "Capture Mission Victories"
+msgstr "捕获任务胜利次数"
+
+#: slot/0x00b96275/0x947b26/0x3c5ab4
+msgid "Base Capture Mission Victories"
+msgstr "基地捕获任务胜利次数"
+
+#: slot/0x00b96275/0x947b26/0x3c5ab5
+msgid "Total Enemies Neutralized"
+msgstr "累计制服敌兵数"
+
+#: slot/0x00b96275/0x947b26/0x3c5ab6
+msgid "VS Fulton Extractions"
+msgstr "对战中富尔顿回收数"
+
+#: slot/0x00b96275/0x947b26/0x3c62b0
+msgid "Total Play Time"
+msgstr "总游戏时间"
+
+#: slot/0x00b96275/0x947b26/0x3c62b1
+msgid "Alerts"
+msgstr "警报次数"
+
+#: slot/0x00b96275/0x947b26/0x3c62b2
+msgid "Enemy Soldiers Killed"
+msgstr "击杀敌兵数"
+
+#: slot/0x00b96275/0x947b26/0x3c62b3
+msgid "Damage Taken"
+msgstr "承受伤害"
+
+#: slot/0x00b96275/0x947b26/0x3d6d52
+msgid "Heroes List"
+msgstr "英雄榜"
+
+#: slot/0x00b96275/0x947b26/0x3ee1d6
+msgid "Are you sure you want to delete this player's data?"
+msgstr "确定要删除该玩家的数据吗？"
+
+#: slot/0x00b96275/0x947b26/0x63ba35
+msgid "View your and other CO-OPS players' data."
+msgstr "查看您及其他合作玩家数据。"
+
+#: slot/0x00b96275/0x947b26/0x82564d
+#: slot/0x00cdd1c4/0xc6e14e/0x1b585c
+msgid "Unknown"
+msgstr "未知"
+
+#: slot/0x00b96275/0x947b26/0x82d675
+msgid "Contains names of CO-OPS and VS players with highest Heroism."
+msgstr "收录英雄度最高的合作任务与对战玩家姓名。"
+
+#: slot/0x00b96275/0x947b26/0x93f5bc
+msgid "Acquired Codenames"
+msgstr "已获得代号"
+
+#: slot/0x00b96275/0x947b26/0x9f51ac
+msgid "Player Overview"
+msgstr "玩家概览"
+
+#: slot/0x00b96275/0x947b26/0x9f51ad
+msgid "Mission Stats"
+msgstr "任务统计"
+
+#: slot/0x00b96275/0x947b26/0x9f51ae
+msgid "VS Stats"
+msgstr "对战统计"
+
+#: slot/0x00b96275/0x947b26/0x9f51af
+msgid "Transmission Data"
+msgstr "传输数据"
+
+#: slot/0x00b96275/0x947b26/0x9f51b0
+msgid "Insignias"
+msgstr "徽章"
+
+#: slot/0x00b96275/0x947b26/0xaafbd8
+msgid "Contains names of players with the highest CO-OPS Play Count and highest Level of Camaraderie."
+msgstr "包含合作任务游玩次数最多和羁绊等级最高的玩家名字。"
+
+#: slot/0x00b9708c/0xa8181d/0x000000
+msgid "This is HQ."
+msgstr "总部。"
+
+#: slot/0x00b9708c/0xa8181d/0x000001
+msgid "Understood. Dispatching reinforcements now."
+msgstr "了解。正在派遣增援。"
+
+#: slot/0x00b9708c/0xa8181d/0x000002
+msgid "Negative. We can't spare reinforcements. You'll have to make do with what you have."
+msgstr "不行。我们抽不出增援。你只能靠现有兵力应付。"
+
+#: slot/0x00b9708c/0xa8181d/0x000003
+msgid "Understood. Eliminate all hostiles."
+msgstr "了解。消灭所有敌人。"
+
+#: slot/0x00b9708c/0xa8181d/0x000004
+msgid "Understood. Dispatching reinforcements. Proceed with extra caution."
+msgstr "了解。正在派遣增援。请格外小心行事。"
+
+#: slot/0x00b9708c/0xa8181d/0x000005
+msgid "Understood. Maintain heightened alert."
+msgstr "了解。保持高度警戒。"
+
+#: slot/0x00b9708c/0xa8181d/0x000006
+msgid "Understood. The enemy should still be nearby. Find him."
+msgstr "了解。敌人应该还在附近。找到他。"
+
+#: slot/0x00b9708c/0xa8181d/0x000008
+msgid "We have a situation. Backup team, head over and investigate."
+msgstr "出现状况。后备队，过去调查。"
+
+#: slot/0x00b9708c/0xa8181d/0x000009
+msgid "What's going on over there?"
+msgstr "那边发生了什么？"
+
+#: slot/0x00b9708c/0xa8181d/0x00000a
+msgid "Understood. Return to base."
+msgstr "了解。返回基地。"
+
+#: slot/0x00b9708c/0xa8181d/0x00000b
+msgid "Understood. Stay vigilant."
+msgstr "了解。保持警惕。"
+
+#: slot/0x00b9708c/0xa8181d/0x00000c
+msgid "Patrol."
+msgstr "巡逻"
+
+#: slot/0x00b9708c/0xa8181d/0x00000d
+msgid "We have signs of a possible intruder in the neighboring sector."
+msgstr "邻近区域可能有人入侵的迹象。"
+
+#: slot/0x00b9708c/0xa8181d/0x00000e
+msgid "Increase security in your sector."
+msgstr "加强你所在区域的警戒。"
+
+#: slot/0x00b9708c/0xa8181d/0x00000f
+msgid "We've discovered an intruder in the neighboring sector."
+msgstr "我们在邻近区域发现了入侵者。"
+
+#: slot/0x00b9708c/0xa8181d/0x000010
+msgid "Come in, patrol. This is HQ."
+msgstr "巡逻队，请回答。这里是总部。"
+
+#: slot/0x00b9708c/0xa8181d/0x000011
+msgid "There's an intruder headed your way."
+msgstr "有入侵者朝你那边去了。"
+
+#: slot/0x00b9708c/0xa8181d/0x000012
+msgid "Find him, and take him out."
+msgstr "找到他，干掉他。"
+
+#: slot/0x00b9708c/0xa8181d/0x000013
+msgid "Increase security immediately."
+msgstr "立即加强警戒。"
+
+#: slot/0x00b9910a/0x21535e/0x08758f
+msgid "Default"
+msgstr "默认"
+
+#: slot/0x00b9910a/0x21535e/0x0a6de1
+msgid "Inverse"
+msgstr "反向"
+
+#: slot/0x00b9910a/0x21535e/0x1dfdd6
+msgid "Toggle on/off when Action Button is pressed"
+msgstr "按动作键时切换开关"
+
+#: slot/0x00b9910a/0x21535e/0x267795
+msgid "2 Slot Swap"
+msgstr "2槽切换"
+
+#: slot/0x00b9910a/0x21535e/0x2ef7a1
+#: slot/0x00b9910a/0x21535e/0xdfeb1c
+msgid "Enabled"
+msgstr "启用"
+
+#: slot/0x00b9910a/0x21535e/0x36ebc6
+msgid "Hunter Type"
+msgstr "猎人型"
+
+#: slot/0x00b9910a/0x21535e/0x3b0b33
+msgid "On"
+msgstr "开"
+
+#: slot/0x00b9910a/0x21535e/0x613534
+msgid "Camera Direction"
+msgstr "镜头方向"
+
+#: slot/0x00b9910a/0x21535e/0x613ece
+msgid "English"
+msgstr "英语"
+
+#: slot/0x00b9910a/0x21535e/0x614355
+msgid "French"
+msgstr "法语"
+
+#: slot/0x00b9910a/0x21535e/0x6145b9
+msgid "German"
+msgstr "德语"
+
+#: slot/0x00b9910a/0x21535e/0x614f88
+msgid "Italian"
+msgstr "意语"
+
+#: slot/0x00b9910a/0x21535e/0x6165cd
+msgid "Off"
+msgstr "关"
+
+#: slot/0x00b9910a/0x21535e/0x617708
+msgid "Spanish"
+msgstr "西语"
+
+#: slot/0x00b9910a/0x21535e/0x7e713d
+msgid "Normal"
+msgstr "普通"
+
+#: slot/0x00b9910a/0x21535e/0x7ed7da
+#: slot/0x00b9910a/0x21535e/0xd8e20e
+msgid "Disabled"
+msgstr "禁用"
+
+#: slot/0x00b9910a/0x21535e/0x7f849b
+#: slot/0x00b9910a/0x6b2d56/0x579231
+#: slot/0x00b9910a/0x9dc379/0x80113c
+#: slot/0x00b9910a/0x9dc379/0x8ecf11
+msgid "xxx"
+msgstr "xxx"
+
+#: slot/0x00b9910a/0x21535e/0x8b9f51
+msgid "Action Type"
+msgstr "动作类型"
+
+#: slot/0x00b9910a/0x21535e/0xa5ce44
+msgid "CO-OPS Communication"
+msgstr "合作任务通讯"
+
+#: slot/0x00b9910a/0x21535e/0xae8886
+msgid "Codec Call"
+msgstr "CODEC通话"
+
+#: slot/0x00b9910a/0x21535e/0xd83025
+msgid "Character Direction"
+msgstr "角色方向"
+
+#: slot/0x00b9910a/0x21535e/0xdddbd5
+msgid "3 Slot Cycle"
+msgstr "3槽循环"
+
+#: slot/0x00b9910a/0x21535e/0xe29dea
+msgid "Equip / Unequip"
+msgstr "装备／卸下"
+
+#: slot/0x00b9910a/0x21535e/0xe6a857
+msgid "Active only while Action Button is held down"
+msgstr "仅按住动作键时有效"
+
+#: slot/0x00b9910a/0x21535e/0xea6bcf
+msgid "Shooter Type"
+msgstr "射手型"
+
+#: slot/0x00b9910a/0x21535e/0xeb2595
+msgid "Auto Aim Switch"
 msgstr "自动瞄准"
 
-#: slot/0x009a9677/0x792abe/0xdf9c4e
-msgid "LOCKED ON"
-msgstr "已锁定"
+#: slot/0x00b9910a/0x2c4b0f/0x3311ec
+msgid "CODEC CALL"
+msgstr "CODEC 呼叫"
 
-#: slot/0x009a9677/0x8d6af8/0x450bc2
-msgid "TAG"
-msgstr "标记"
+#: slot/0x00b9910a/0x2c4b0f/0x4465e0
+msgid "REGION MAP"
+msgstr "区域图"
 
-#: slot/0x009a9677/0x8d6af8/0xf7a45c
+#: slot/0x00b9910a/0x2c4b0f/0x545ec0
+msgid "RETRY"
+msgstr "重试"
+
+#: slot/0x00b9910a/0x2c4b0f/0x6971dc
+msgid "ENEMY INFO"
+msgstr "敌情"
+
+#: slot/0x00b9910a/0x2c4b0f/0xb993c3
+msgid "AREA MAP"
+msgstr "区域地图"
+
+#: slot/0x00b9910a/0x2c4b0f/0xc5c894
+msgid "CO-OPS COMMUNICATION"
+msgstr "合作任务通信"
+
 #: slot/0x00b9910a/0x32b0cb/0x0d700f
 msgid "CALL"
 msgstr "呼叫"
 
-#: slot/0x009a9677/0xa2dd0c/0x0ab639
-#: slot/0x009a9677/0xa2dd0c/0x3c7dbd
-msgid "LOCK"
-msgstr "锁定"
-
-#: slot/0x009a9677/0xa2dd0c/0xc2135a
-#: slot/0x009a9677/0xa2dd0c/0xcd8107
-msgid "UNLOCK"
-msgstr "解锁"
-
-#: slot/0x009a9677/0xbbf32d/0x282a39
-msgid "ZOOM"
-msgstr "缩放"
-
-#: slot/0x009a9677/0xbbf32d/0x8ba86b
-msgid "SHUTTER"
-msgstr "快门"
-
-#: slot/0x009d70da/0x1eb21f/0x000000
-msgid "Spread out!"
-msgstr "散开！"
-
-#: slot/0x009d70da/0x1ed21f/0x000000
-#: slot/0x009d70da/0xf0ca1e/0x000000
-#: slot/0x009d70da/0xf11e1e/0x000000
-msgid "Surround 'em!"
-msgstr "包围他们"
-
-#: slot/0x009d70da/0x1eea1f/0x000000
-msgid "Keep your eyes peeled."
-msgstr "都给我盯紧了。"
-
-#: slot/0x009d70da/0x1f0a1f/0x000000
-msgid "Check it out."
-msgstr "去看看。"
-
-#: slot/0x009d70da/0x208e1f/0x000000
-msgid "Watch your backs."
-msgstr "小心背后。"
-
-#: slot/0x009d70da/0x209e1f/0x000000
-msgid "Go have a look."
-msgstr "去看看吧。"
-
-#: slot/0x009d70da/0x20d21f/0x000000
-msgid "Stay alert."
-msgstr "警惕。"
-
-#: slot/0x009d70da/0x20f21f/0x000000
-msgid "Go investigate."
-msgstr "去调查。"
-
-#: slot/0x009d70da/0x210a1f/0x000000
-msgid "We need emergency assistance!"
-msgstr "我们需要紧急支援！"
-
-#: slot/0x009d70da/0x229e1f/0x000000
-msgid "Emergency assistance needed!"
-msgstr "需要紧急支援！"
-
-#: slot/0x009d70da/0x22d21f/0x000000
-msgid "We need repairs, now!"
-msgstr "要修，快！"
-
-#: slot/0x009d70da/0x268a1f/0x000000
-msgid "Back at it, boys!"
-msgstr "继续干！"
-
-#: slot/0x009d70da/0x26be1f/0x000000
-msgid "Get out there!"
-msgstr "上！"
-
-#: slot/0x009d70da/0x26f21f/0x000000
-msgid "Go get 'em!"
-msgstr "上！"
-
-#: slot/0x009d70da/0x2b0a1f/0x000000
-msgid "Backup units, move out!"
-msgstr "增援，出发！"
-
-#: slot/0x009d70da/0x2c8e1f/0x000000
-msgid "Backup units, deploy now!"
-msgstr "增援，部署！"
-
-#: slot/0x009d70da/0x2cb21f/0x000000
-msgid "Backup, prepare for immediate deployment!"
-msgstr "增援，准备立即部署！"
-
-#: slot/0x009d70da/0x2eba1f/0x000000
-msgid "Bastard!"
-msgstr "混蛋"
-
-#: slot/0x009d70da/0x2efe1f/0x000000
-msgid "You...!"
-msgstr "你这……！"
-
-#: slot/0x009d70da/0x30a21f/0x000000
-msgid "Son of a bitch!"
-msgstr "狗娘养的！"
-
-#: slot/0x009d70da/0xe29a1e/0x000000
-#: slot/0x009d70da/0xe30e1e/0x000000
-#: slot/0x009d70da/0xe4e21e/0x000000
-msgid "Main cannon ready to fire!"
-msgstr "主炮准备开火！"
-
-#: slot/0x009d70da/0xe2ca1e/0x000000
-#: slot/0x009d70da/0xe49e1e/0x000000
-msgid "Missile, loaded and ready!"
-msgstr "导弹装填完毕！"
-
-#: slot/0x009d70da/0xe2fa1e/0x000000
-#: slot/0x009d70da/0xe4ce1e/0x000000
-#: slot/0x009d70da/0xe6a21e/0x000000
-msgid "Armed and ready!"
-msgstr "准备就绪！"
-
-#: slot/0x009d70da/0xe5121e/0x000000
-msgid "Missile is loaded and ready!"
-msgstr "导弹装填完毕！"
-
-#: slot/0x009d70da/0xe6fe1e/0x000000
-msgid "Now!"
-msgstr "现在！"
-
-#: slot/0x009d70da/0xe7221e/0x000000
-msgid "Fire, fire!"
-msgstr "开火！"
-
-#: slot/0x009d70da/0xe89a1e/0x000000
-msgid "This one packs a punch!"
-msgstr "威力不小！"
-
-#: slot/0x009d70da/0xe8ce1e/0x000000
-msgid "Here comes a big one!"
-msgstr "大家伙来了！"
-
-#: slot/0x009d70da/0xe9221f/0x000000
-msgid "Try and dodge THIS one!"
-msgstr "看招！"
-
-#: slot/0x009d70da/0xea8a1e/0x000000
-msgid "Take THIS!"
-msgstr "接招！"
-
-#: slot/0x009d70da/0xeaae1e/0x000000
-msgid "Try this!"
-msgstr "试试这个！"
-
-#: slot/0x009d70da/0xead21e/0x000000
-#: slot/0x00a57090/0x12908e/0x0001bf
-msgid "Take that!"
-msgstr "接招！"
-
-#: slot/0x009d70da/0xeafa1e/0x000000
-msgid "Hold fire!"
-msgstr "停火！"
-
-#: slot/0x009d70da/0xeb1e1e/0x000000
-msgid "Abort fire!"
-msgstr "停火！"
-
-#: slot/0x009d70da/0xecc21e/0x000000
-msgid "Cancel that!"
-msgstr "取消！"
-
-#: slot/0x009d70da/0xecfa1e/0x000000
-#: slot/0x009d70da/0xeeae1e/0x000000
-#: slot/0x009d70da/0xef021e/0x000000
-msgid "Defensive positions!"
-msgstr "防守阵型！"
-
-#: slot/0x009d70da/0xed1a1e/0x000000
-#: slot/0x00a57090/0x12908e/0x0000ca
-msgid "Cover me!"
-msgstr "掩护我！"
-
-#: slot/0x009d70da/0xeece1e/0x000000
-msgid "I need cover!"
-msgstr "求掩护！"
-
-#: slot/0x009d70da/0xef221e/0x000000
-msgid "Give me some cover!"
-msgstr "给我掩护！"
-
-#: slot/0x009d70da/0xf08a1e/0x000000
-msgid "Fan out!"
-msgstr "散开！"
-
-#: slot/0x009d70da/0xf0de1e/0x000000
-msgid "Everybody fan out!"
-msgstr "全体散开！"
-
-#: slot/0x00a57090/0x12908e/0x00000f
-msgid "Who goes there?!"
-msgstr "谁在那？！"
-
-#: slot/0x00a57090/0x12908e/0x000010
-msgid "There he is!"
-msgstr "他在那！"
-
-#: slot/0x00a57090/0x12908e/0x000011
-#: slot/0x00a57090/0x12908e/0x0000de
-msgid "What's that?!"
-msgstr "那是什么？！"
-
-#: slot/0x00a57090/0x12908e/0x000012
-msgid "What was that?!"
-msgstr "刚才那是什么？！"
-
-#: slot/0x00a57090/0x12908e/0x000013
-msgid "What is it?!"
-msgstr "怎么回事？！"
-
-#: slot/0x00a57090/0x12908e/0x000014
-msgid "Something there?!"
-msgstr "那边有东西？！"
-
-#: slot/0x00a57090/0x12908e/0x000015
-msgid "I'm seeing things..."
-msgstr "我看花眼…"
-
-#: slot/0x00a57090/0x12908e/0x000016
-msgid "Nothing there..."
-msgstr "没人……"
-
-#: slot/0x00a57090/0x12908e/0x000017
-msgid "OK. "
-msgstr "确定。"
-
-#: slot/0x00a57090/0x12908e/0x000018
-msgid "Someone attacking?!"
-msgstr "有人袭击？！"
-
-#: slot/0x00a57090/0x12908e/0x000019
-msgid "Enemies close by!"
-msgstr "敌人靠近！"
-
-#: slot/0x00a57090/0x12908e/0x00001a
-msgid "We've lost sight of the enemy. Locate him!"
-msgstr "跟丢敌人了。找到他！"
-
-#: slot/0x00a57090/0x12908e/0x00001c
-msgid "The enemy...?! He must still be close by."
-msgstr "敌人……？他还在附近。"
-
-#: slot/0x00a57090/0x12908e/0x00001e
-#: slot/0x00a57090/0x12908e/0x000084
-#: slot/0x00a57090/0x12908e/0x0000ea
-#: slot/0x00a57090/0x12908e/0x000150
-msgid "Grenade!"
-msgstr "手雷"
-
-#: slot/0x00a57090/0x12908e/0x000021
-msgid "Somebody's here!"
-msgstr "有人！"
-
-#: slot/0x00a57090/0x12908e/0x000022
-msgid "Take him down!"
-msgstr "干掉他！"
-
-#: slot/0x00a57090/0x12908e/0x000023
-msgid "Footsteps?!"
-msgstr "脚步？"
-
-#: slot/0x00a57090/0x12908e/0x000024
-msgid "Wait."
-msgstr "等"
-
-#: slot/0x00a57090/0x12908e/0x000025
-#: slot/0x00a57090/0x12908e/0x00008b
-#: slot/0x00a57090/0x12908e/0x0000f1
-#: slot/0x00a57090/0x12908e/0x000157
-msgid "Move!"
-msgstr "行动！"
-
-#: slot/0x00a57090/0x12908e/0x000027
-msgid "I've got you covered!"
-msgstr "我掩护你！"
-
-#: slot/0x00a57090/0x12908e/0x000028
-msgid "Approach from behind!"
-msgstr "从背后接近！"
-
-#: slot/0x00a57090/0x12908e/0x000029
-#: slot/0x00a57090/0x12908e/0x000076
-#: slot/0x00a57090/0x12908e/0x00008f
-#: slot/0x00a57090/0x12908e/0x0000f5
-#: slot/0x00a57090/0x12908e/0x00015b
-msgid "Contact!"
-msgstr "接敌"
-
-#: slot/0x00a57090/0x12908e/0x00002b
-#: slot/0x00a57090/0x12908e/0x000091
-#: slot/0x00a57090/0x12908e/0x0000f7
-#: slot/0x00a57090/0x12908e/0x00015d
-msgid "Where are they?!"
-msgstr "在哪？！"
-
-#: slot/0x00a57090/0x12908e/0x00002c
-#: slot/0x00a57090/0x12908e/0x000062
-#: slot/0x00a57090/0x12908e/0x000092
-#: slot/0x00a57090/0x12908e/0x0000f8
-#: slot/0x00a57090/0x12908e/0x00015e
-msgid "Move in!"
-msgstr "上！"
-
-#: slot/0x00a57090/0x12908e/0x00002d
-msgid "Incoming!"
-msgstr "来了！"
-
-#: slot/0x00a57090/0x12908e/0x00002e
-#: slot/0x00a57090/0x12908e/0x00010e
-msgid "You all right?!"
-msgstr "你没事吧？！"
-
-#: slot/0x00a57090/0x12908e/0x00002f
-msgid "There's another one!"
-msgstr "还有一个！"
-
-#: slot/0x00a57090/0x12908e/0x000030
-msgid "Huuu... huuu..."
-msgstr "呼…呼…"
-
-#: slot/0x00a57090/0x12908e/0x00003c
-msgid "One enemy down."
-msgstr "干掉一个敌人。"
-
-#: slot/0x00a57090/0x12908e/0x00003d
-msgid "Bang bang..."
-msgstr "砰，砰……"
-
-#: slot/0x00a57090/0x12908e/0x00003e
-msgid "What the hell...?!"
-msgstr "搞什么？！"
-
-#: slot/0x00a57090/0x12908e/0x000040
-msgid "Hold your ground!"
-msgstr "守住阵地！"
-
-#: slot/0x00a57090/0x12908e/0x000042
-msgid "What happened?!"
-msgstr "怎么回事？！"
-
-#: slot/0x00a57090/0x12908e/0x000044
-#: slot/0x00a57090/0x12908e/0x0000eb
-msgid "Eat this!"
-msgstr "吃这个！"
-
-#: slot/0x00a57090/0x12908e/0x000046
-#: slot/0x00a57090/0x12908e/0x000112
-msgid "Let him go!"
-msgstr "放开他"
-
-#: slot/0x00a57090/0x12908e/0x000048
-msgid "Thanks."
-msgstr "谢了"
-
-#: slot/0x00a57090/0x12908e/0x000049
-msgid "Think I see someone..."
-msgstr "好像有人……"
-
-#: slot/0x00a57090/0x12908e/0x00004a
-#: slot/0x00a57090/0x12908e/0x0000ed
-#: slot/0x00a57090/0x12908e/0x000141
-msgid "Who's that?!"
-msgstr "谁？！"
-
-#: slot/0x00a57090/0x12908e/0x00004b
-msgid "Shots fired!"
-msgstr "有枪声！"
-
-#: slot/0x00a57090/0x12908e/0x00004c
-msgid "An explosion?!"
-msgstr "爆炸？！"
-
-#: slot/0x00a57090/0x12908e/0x00004d
-msgid "What was that noise?"
-msgstr "什么声音？"
-
-#: slot/0x00a57090/0x12908e/0x00004e
-#: slot/0x00a57090/0x12908e/0x000147
-msgid "I know I saw something..."
-msgstr "我明明看到了……"
-
-#: slot/0x00a57090/0x12908e/0x00004f
-msgid "I need a break..."
-msgstr "我得歇会儿……"
-
-#: slot/0x00a57090/0x12908e/0x000050
-msgid "I know I saw something that time!"
-msgstr "这次我明明看到有东西！"
-
-#: slot/0x00a57090/0x12908e/0x000051
-msgid "Get up."
-msgstr "起来"
-
-#: slot/0x00a57090/0x12908e/0x000052
-#: slot/0x00a57090/0x12908e/0x0000b8
-msgid "HQ, come in."
-msgstr "总部，请回答。"
-
-#: slot/0x00a57090/0x12908e/0x000053
-#: slot/0x00a57090/0x12908e/0x0000b9
-#: slot/0x00a57090/0x12908e/0x00011f
-#: slot/0x00a57090/0x12908e/0x000185
-msgid "This is patrol."
-msgstr "这里是巡逻队。"
-
-#: slot/0x00a57090/0x12908e/0x000054
-msgid "Enemy sighted. Requesting backup."
-msgstr "发现敌人。请求增援。"
-
-#: slot/0x00a57090/0x12908e/0x000055
-#: slot/0x00a57090/0x12908e/0x00005c
-msgid "Enemy sighted. Engaging now."
-msgstr "发现敌人，交战。"
-
-#: slot/0x00a57090/0x12908e/0x000056
-#: slot/0x00a57090/0x12908e/0x00005d
-msgid "The enemy's attacking! Going to alert status!"
-msgstr "敌人来袭！进入警戒状态！"
-
-#: slot/0x00a57090/0x12908e/0x000057
-#: slot/0x00a57090/0x12908e/0x000123
-msgid "Contact lost. Going to alert status."
-msgstr "失去联络。进入警戒状态。"
-
-#: slot/0x00a57090/0x12908e/0x000058
-#: slot/0x00a57090/0x12908e/0x0000be
-#: slot/0x00a57090/0x12908e/0x000124
-#: slot/0x00a57090/0x12908e/0x00018a
-msgid "All clear. "
-msgstr "正常。"
-
-#: slot/0x00a57090/0x12908e/0x000059
-#: slot/0x00a57090/0x12908e/0x0000bf
-#: slot/0x00a57090/0x12908e/0x000125
-#: slot/0x00a57090/0x12908e/0x00018b
-msgid "Understood. Will increase security."
-msgstr "明白。将加强警戒。"
-
-#: slot/0x00a57090/0x12908e/0x00005a
-#: slot/0x00a57090/0x12908e/0x0000c0
-#: slot/0x00a57090/0x12908e/0x000126
-#: slot/0x00a57090/0x12908e/0x00018c
-msgid "This is patrol. Go ahead, HQ."
-msgstr "巡逻队。总部请讲。"
-
-#: slot/0x00a57090/0x12908e/0x00005b
-#: slot/0x00a57090/0x12908e/0x0000c1
-#: slot/0x00a57090/0x12908e/0x000127
-#: slot/0x00a57090/0x12908e/0x00018d
-msgid "Understood. Moving to intercept!"
-msgstr "明白。前去拦截！"
-
-#: slot/0x00a57090/0x12908e/0x00005e
-#: slot/0x00a57090/0x12908e/0x000190
-#: slot/0x00a57090/0x12908e/0x000260
-msgid "Roger!"
-msgstr "收到！"
-
-#: slot/0x00a57090/0x12908e/0x00005f
-msgid "Repairs complete!"
-msgstr "修复完成！"
-
-#: slot/0x00a57090/0x12908e/0x000060
-#: slot/0x00a57090/0x12908e/0x00012c
-msgid "I... I surrender!"
-msgstr "我……我投降！"
-
-#: slot/0x00a57090/0x12908e/0x000061
-msgid "The captain's down!"
-msgstr "队长倒下了！"
-
-#: slot/0x00a57090/0x12908e/0x000063
-#: slot/0x00a57090/0x12908e/0x0000c9
-#: slot/0x00a57090/0x12908e/0x00012f
-#: slot/0x00a57090/0x12908e/0x000195
-msgid "Go around!"
-msgstr "绕过去"
-
-#: slot/0x00a57090/0x12908e/0x000064
-msgid "Requesting cover!"
-msgstr "请求掩护！"
-
-#: slot/0x00a57090/0x12908e/0x000065
-msgid "I'm done for."
-msgstr "我完了。"
-
-#: slot/0x00a57090/0x12908e/0x000075
-msgid "Who are you?!"
-msgstr "你是谁？"
-
-#: slot/0x00a57090/0x12908e/0x000077
-msgid "Huh?!"
-msgstr "咦？！"
-
-#: slot/0x00a57090/0x12908e/0x000078
-msgid "Wait...!"
-msgstr "等等……！"
-
-#: slot/0x00a57090/0x12908e/0x000079
-msgid "What's going on?!"
-msgstr "怎么了？"
-
-#: slot/0x00a57090/0x12908e/0x00007a
-msgid "An intruder?"
-msgstr "有入侵者？"
-
-#: slot/0x00a57090/0x12908e/0x00007b
-msgid "Can't be imagining things..."
-msgstr "不可能是错觉……"
-
-#: slot/0x00a57090/0x12908e/0x00007d
-msgid "Huh!"
-msgstr "哈！"
-
-#: slot/0x00a57090/0x12908e/0x00007e
-msgid "Enemy attack!"
-msgstr "敌袭！"
-
-#: slot/0x00a57090/0x12908e/0x000080
-msgid "We're under attack! Going to alert status!"
-msgstr "我们遭到攻击！进入警戒状态！"
-
-#: slot/0x00a57090/0x12908e/0x000082
-msgid "The enemy...?! He's gotta be around here somewhere..."
-msgstr "敌人……？！他肯定就在附近……"
-
-#: slot/0x00a57090/0x12908e/0x000085
-msgid "Chew on this!"
-msgstr "吃招！"
-
-#: slot/0x00a57090/0x12908e/0x000087
-msgid "Here he is!"
-msgstr "在这！"
-
-#: slot/0x00a57090/0x12908e/0x000088
-msgid "He's packing!"
-msgstr "他有枪！"
-
-#: slot/0x00a57090/0x12908e/0x000089
-msgid "I just heard footsteps!"
-msgstr "刚听到脚步！"
-
-#: slot/0x00a57090/0x12908e/0x00008a
-msgid "Hold it."
-msgstr "站住。"
-
-#: slot/0x00a57090/0x12908e/0x00008d
-msgid "I gotcha!"
-msgstr "逮到你了！"
-
-#: slot/0x00a57090/0x12908e/0x00008e
-msgid "Get behind 'em!"
-msgstr "绕背后！"
-
-#: slot/0x00a57090/0x12908e/0x000093
-msgid "Brace yourselves!"
-msgstr "都稳住！"
-
-#: slot/0x00a57090/0x12908e/0x000094
-msgid "Hang in there!"
-msgstr "挺住！"
-
-#: slot/0x00a57090/0x12908e/0x000095
-#: slot/0x00a57090/0x12908e/0x000108
-msgid "Got one!"
-msgstr "干掉一个！"
-
-#: slot/0x00a57090/0x12908e/0x000096
-msgid "Huuu... huuu... "
-msgstr "呼…呼…"
-
-#: slot/0x00a57090/0x12908e/0x0000a2
-msgid "Scratch one hostile."
-msgstr "消灭一个敌人。"
-
-#: slot/0x00a57090/0x12908e/0x0000a3
-msgid "Sayonara..."
-msgstr "再见…"
-
-#: slot/0x00a57090/0x12908e/0x0000a4
-msgid "An enemy trick!"
-msgstr "是敌人的诡计！"
-
-#: slot/0x00a57090/0x12908e/0x0000a5
-msgid "Knock it off!"
-msgstr "别闹了！"
-
-#: slot/0x00a57090/0x12908e/0x0000a6
-msgid "Don't give 'em an inch!"
-msgstr "寸步不让！"
-
-#: slot/0x00a57090/0x12908e/0x0000a8
-msgid "There must be hostiles in the area... "
-msgstr "附近肯定有敌人……"
-
-#: slot/0x00a57090/0x12908e/0x0000a9
-msgid "Firing!"
-msgstr "开火"
-
-#: slot/0x00a57090/0x12908e/0x0000aa
-msgid "Get ready to die!"
-msgstr "受死吧！"
-
-#: slot/0x00a57090/0x12908e/0x0000ab
-msgid "(Uggh... unnh... etc. Moaning when near death, 3 patterns)"
-msgstr "（呃……唔……等，濒死呻吟，3种）"
-
-#: slot/0x00a57090/0x12908e/0x0000ac
-msgid "Give it up!"
-msgstr "投降吧"
-
-#: slot/0x00a57090/0x12908e/0x0000af
-msgid "Somebody there?"
-msgstr "谁在那儿？"
-
-#: slot/0x00a57090/0x12908e/0x0000b0
-msgid "Intruder!"
-msgstr "有入侵者！"
-
-#: slot/0x00a57090/0x12908e/0x0000b1
-msgid "I heard gunfire!"
-msgstr "有枪声"
-
-#: slot/0x00a57090/0x12908e/0x0000b2
-msgid "An explosion!"
-msgstr "爆炸！"
-
-#: slot/0x00a57090/0x12908e/0x0000b3
-msgid "I heard something."
-msgstr "我听到动静。"
-
-#: slot/0x00a57090/0x12908e/0x0000b4
-msgid "There! See that...?"
-msgstr "看那儿"
-
-#: slot/0x00a57090/0x12908e/0x0000b5
-msgid "Probably some animal..."
-msgstr "大概是动物……"
-
-#: slot/0x00a57090/0x12908e/0x0000b6
-msgid "There! See that?!"
-msgstr "看那儿"
-
-#: slot/0x00a57090/0x12908e/0x0000ba
-msgid "We've found the enemy. Send backup."
-msgstr "发现敌人。请求增援。"
-
-#: slot/0x00a57090/0x12908e/0x0000bb
-msgid "Enemy sighted. Commencing attack."
-msgstr "发现敌人。开始攻击。"
-
-#: slot/0x00a57090/0x12908e/0x0000bc
-msgid "He's gone. Flush him out!"
-msgstr "他跑了，揪出来"
-
-#: slot/0x00a57090/0x12908e/0x0000bd
-#: slot/0x00a57090/0x12908e/0x000189
-msgid "Target lost. Going to alert status."
-msgstr "目标丢失，转警戒"
-
-#: slot/0x00a57090/0x12908e/0x0000c2
-msgid "Found something!"
-msgstr "发现情况！"
-
-#: slot/0x00a57090/0x12908e/0x0000c3
-msgid "All clear!"
-msgstr "安全"
-
-#: slot/0x00a57090/0x12908e/0x0000c4
-msgid "Acknowledged!"
-msgstr "收到！"
-
-#: slot/0x00a57090/0x12908e/0x0000c5
-msgid "All fixed!"
-msgstr "修好"
-
-#: slot/0x00a57090/0x12908e/0x0000c6
-msgid "I... I give up!"
-msgstr "我投降"
-
-#: slot/0x00a57090/0x12908e/0x0000c7
-msgid "Captain...!"
-msgstr "队长"
-
-#: slot/0x00a57090/0x12908e/0x0000c8
-msgid "After him!"
-msgstr "追"
-
-#: slot/0x00a57090/0x12908e/0x0000cb
-msgid "Somebody help!"
-msgstr "来人啊！"
-
-#: slot/0x00a57090/0x12908e/0x0000db
-msgid "Identify yourself!"
-msgstr "报上名来！"
-
-#: slot/0x00a57090/0x12908e/0x0000dc
-msgid "Found him!"
-msgstr "找到他了！"
-
-#: slot/0x00a57090/0x12908e/0x0000df
-msgid "You see something?!"
-msgstr "看到啥了？！"
-
-#: slot/0x00a57090/0x12908e/0x0000e0
-msgid "Something wrong?!"
-msgstr "怎么了？！"
-
-#: slot/0x00a57090/0x12908e/0x0000e1
-msgid "Guess not..."
-msgstr "看来没有……"
-
-#: slot/0x00a57090/0x12908e/0x0000e2
-msgid "I don't see anything..."
-msgstr "啥都没看到……"
-
-#: slot/0x00a57090/0x12908e/0x0000e3
-#: slot/0x00a57090/0x12908e/0x000149
-msgid "Hm. "
-msgstr "嗯"
-
-#: slot/0x00a57090/0x12908e/0x0000e4
-msgid "Enemy assault!"
-msgstr "敌袭！"
-
-#: slot/0x00a57090/0x12908e/0x0000e5
-msgid "The enemy's close!"
-msgstr "敌人靠近了！"
-
-#: slot/0x00a57090/0x12908e/0x0000e6
-msgid "The enemy's hiding. Go find him!"
-msgstr "敌人躲着。去找！"
-
-#: slot/0x00a57090/0x12908e/0x0000e7
-#: slot/0x00a57090/0x12908e/0x00014d
-msgid "He's over here!"
-msgstr "他在这边！"
-
-#: slot/0x00a57090/0x12908e/0x0000e8
-msgid "The enemy...?! Probably still hiding here somewhere..."
-msgstr "敌人……？！八成还躲在这附近……"
-
-#: slot/0x00a57090/0x12908e/0x0000e9
-msgid "Ooh!"
-msgstr "哦"
-
-#: slot/0x00a57090/0x12908e/0x0000ee
-msgid "Watch out!"
-msgstr "小心！"
-
-#: slot/0x00a57090/0x12908e/0x0000ef
-msgid "Those were footsteps!"
-msgstr "是脚步声！"
-
-#: slot/0x00a57090/0x12908e/0x0000f0
-msgid "Halt."
-msgstr "站住。"
-
-#: slot/0x00a57090/0x12908e/0x0000f3
-msgid "I got your back!"
-msgstr "我掩护你！"
-
-#: slot/0x00a57090/0x12908e/0x0000f4
-msgid "Round the back!"
-msgstr "绕到后面！"
-
-#: slot/0x00a57090/0x12908e/0x0000f6
-msgid "Hit the deck!"
-msgstr "趴下！"
-
-#: slot/0x00a57090/0x12908e/0x0000f9
-#: slot/0x00db94df/0x0f0ccd/0x000001
-msgid "Here it comes!"
-msgstr "来了！"
-
-#: slot/0x00a57090/0x12908e/0x0000fa
-msgid "You OK?!"
-msgstr "你没事吧？！"
-
-#: slot/0x00a57090/0x12908e/0x0000fb
-msgid "The first one's got a friend!"
-msgstr "第一个还有同伙！"
-
-#: slot/0x00a57090/0x12908e/0x000109
-msgid "So long."
-msgstr "再见"
-
-#: slot/0x00a57090/0x12908e/0x00010a
-msgid "It's a trap!"
-msgstr "是陷阱！"
-
-#: slot/0x00a57090/0x12908e/0x00010b
-msgid "Watch it!"
-msgstr "小心！"
-
-#: slot/0x00a57090/0x12908e/0x00010c
-msgid "Keep 'em back!"
-msgstr "挡住他们！"
-
-#: slot/0x00a57090/0x12908e/0x000110
-msgid "Time to mince some frickin' meat!!"
-msgstr "该把这帮家伙剁成肉酱了！！"
-
-#: slot/0x00a57090/0x12908e/0x000114
-msgid "You're a lifesaver."
-msgstr "你救了我一命。"
-
-#: slot/0x00a57090/0x12908e/0x000117
-msgid "Gunfire!"
-msgstr "有枪声！"
-
-#: slot/0x00a57090/0x12908e/0x000118
-msgid "Something just blew!"
-msgstr "有东西炸了！"
-
-#: slot/0x00a57090/0x12908e/0x000119
-msgid "What's that noise?"
-msgstr "什么声音？"
-
-#: slot/0x00a57090/0x12908e/0x00011a
-msgid "I KNOW there's something out there..."
-msgstr "我确定外面有东西……"
-
-#: slot/0x00a57090/0x12908e/0x00011b
-msgid "I KNOW I saw something..."
-msgstr "我确定我看到东西了……"
-
-#: slot/0x00a57090/0x12908e/0x00011c
-msgid "I KNOW someone's out there!"
-msgstr "我确定外面有人！"
-
-#: slot/0x00a57090/0x12908e/0x00011d
-msgid "Wake up."
-msgstr "醒醒。"
-
-#: slot/0x00a57090/0x12908e/0x00011e
-#: slot/0x00a57090/0x12908e/0x000184
-msgid "Come in, HQ."
-msgstr "总部，请回答。"
-
-#: slot/0x00a57090/0x12908e/0x000120
-msgid "Enemy encountered. Request reinforcements."
-msgstr "遭遇敌人。请求增援。"
-
-#: slot/0x00a57090/0x12908e/0x000121
-msgid "Enemy sighted. Moving to engage."
-msgstr "发现敌人。前去交战。"
-
-#: slot/0x00a57090/0x12908e/0x000122
-msgid "Someone's firing at us! Going to alert status!"
-msgstr "有人向我们开火！进入警戒状态！"
-
-#: slot/0x00a57090/0x12908e/0x000128
-msgid "It's some kind of device!"
-msgstr "是某种装置！"
-
-#: slot/0x00a57090/0x12908e/0x000129
-msgid "Neutralized!"
-msgstr "已解决！"
-
-#: slot/0x00a57090/0x12908e/0x00012a
-msgid "Understood!"
-msgstr "明白！"
-
-#: slot/0x00a57090/0x12908e/0x00012b
-msgid "Work is complete!"
-msgstr "工作完成！"
-
-#: slot/0x00a57090/0x12908e/0x00012d
-msgid "CAPTA-A-AIN!"
-msgstr "队长！"
-
-#: slot/0x00a57090/0x12908e/0x00012e
-msgid "Let's go!"
-msgstr "走吧！"
-
-#: slot/0x00a57090/0x12908e/0x000130
-msgid "I need backup!"
-msgstr "我需要支援！"
-
-#: slot/0x00a57090/0x12908e/0x000131
-msgid "I am screwed."
-msgstr "我完蛋了。"
-
-#: slot/0x00a57090/0x12908e/0x000142
-msgid "I got a visual!"
-msgstr "我看到目标了！"
-
-#: slot/0x00a57090/0x12908e/0x000143
-msgid "What the...?!"
-msgstr "什么鬼……？！"
-
-#: slot/0x00a57090/0x12908e/0x000144
-msgid "Hey...!"
-msgstr "喂！"
-
-#: slot/0x00a57090/0x12908e/0x000145
-msgid "Hmm?!"
-msgstr "嗯？！"
-
-#: slot/0x00a57090/0x12908e/0x000146
-msgid "Somebody there?!"
-msgstr "谁在那？！"
-
-#: slot/0x00a57090/0x12908e/0x000148
-msgid "Huh. Nothing..."
-msgstr "哼，没人"
-
-#: slot/0x00a57090/0x12908e/0x00014a
-msgid "Enemy attack?!"
-msgstr "敌袭？！"
-
-#: slot/0x00a57090/0x12908e/0x00014b
-msgid "We're under attack!"
-msgstr "我们被袭了！"
-
-#: slot/0x00a57090/0x12908e/0x00014c
-msgid "He's vanished. Start up the search!"
-msgstr "他不见了。开始搜索！"
-
-#: slot/0x00a57090/0x12908e/0x00014e
-msgid "The enemy...! He couldn't have gotten far..."
-msgstr "敌人……！他跑不远……"
-
-#: slot/0x00a57090/0x12908e/0x000151
-msgid "Eat it!"
-msgstr "吃我一招！"
-
-#: slot/0x00a57090/0x12908e/0x000153
-msgid "He's here!"
-msgstr "他在这儿！"
-
-#: slot/0x00a57090/0x12908e/0x000154
-msgid "Look out!"
-msgstr "当心！"
-
-#: slot/0x00a57090/0x12908e/0x000155
-msgid "Footsteps!"
-msgstr "脚步！"
-
-#: slot/0x00a57090/0x12908e/0x000156
-msgid "Hold up."
-msgstr "站住"
-
-#: slot/0x00a57090/0x12908e/0x000159
-msgid "Gotcha covered!"
-msgstr "我掩护你！"
-
-#: slot/0x00a57090/0x12908e/0x00015a
-msgid "Go 'round back!"
-msgstr "绕后！"
-
-#: slot/0x00a57090/0x12908e/0x00015c
-msgid "Down! Now!"
-msgstr "趴下！"
-
-#: slot/0x00a57090/0x12908e/0x00015f
-msgid "Get ready!"
-msgstr "准备！"
-
-#: slot/0x00a57090/0x12908e/0x000160
-msgid "Stay with me!"
-msgstr "跟紧我！"
-
-#: slot/0x00a57090/0x12908e/0x000161
-msgid "Another one!"
-msgstr "又来一个！"
-
-#: slot/0x00a57090/0x12908e/0x00016e
-msgid "Score one for us."
-msgstr "得一分。"
-
-#: slot/0x00a57090/0x12908e/0x00016f
-msgid "Adios!"
-msgstr "再见啦！"
-
-#: slot/0x00a57090/0x12908e/0x000170
-msgid "We've been had!"
-msgstr "上当了！"
-
-#: slot/0x00a57090/0x12908e/0x000171
-msgid "Cut it out!"
-msgstr "住手！"
-
-#: slot/0x00a57090/0x12908e/0x000172
-msgid "They're not getting past us!"
-msgstr "他们别想过去！"
-
-#: slot/0x00a57090/0x12908e/0x000174
-msgid "Who's out there?!"
-msgstr "谁在外？！"
-
-#: slot/0x00a57090/0x12908e/0x000175
-msgid "FIRE!"
-msgstr "开火！"
-
-#: slot/0x00a57090/0x12908e/0x000176
-msgid "Kiss your ass goodbye!"
-msgstr "跟你的屁股说再见吧！"
-
-#: slot/0x00a57090/0x12908e/0x000178
-msgid "Release him!"
-msgstr "放开他！"
-
-#: slot/0x00a57090/0x12908e/0x00017a
-msgid "That's better, thanks."
-msgstr "好多了，谢谢。"
-
-#: slot/0x00a57090/0x12908e/0x00017b
-msgid "Is somebody there?"
-msgstr "有人在吗？"
-
-#: slot/0x00a57090/0x12908e/0x00017c
-msgid "There! Who's that?!"
-msgstr "那边！谁？！"
-
-#: slot/0x00a57090/0x12908e/0x00017d
-msgid "You hear that? Gunshots!"
-msgstr "听到了吗？枪声！"
-
-#: slot/0x00a57090/0x12908e/0x00017e
-msgid "You hear that bang?"
-msgstr "听到那声枪响了吗？"
-
-#: slot/0x00a57090/0x12908e/0x00017f
-msgid "What was that?"
-msgstr "那是什么声音？"
-
-#: slot/0x00a57090/0x12908e/0x000180
-msgid "Got a hostile!"
-msgstr "发现敌人！"
-
-#: slot/0x00a57090/0x12908e/0x000181
-msgid "There! Saw it again!"
-msgstr "那边！又看到了！"
-
-#: slot/0x00a57090/0x12908e/0x000182
-msgid "This place is getting to me..."
-msgstr "这地方让我发毛……"
-
-#: slot/0x00a57090/0x12908e/0x000186
-msgid "It's the enemy! Send reinforcements."
-msgstr "是敌人！派增援来。"
-
-#: slot/0x00a57090/0x12908e/0x000187
-msgid "Enemy sighted. Preparing to attack."
-msgstr "发现敌人。准备攻击。"
-
-#: slot/0x00a57090/0x12908e/0x000188
-msgid "We're being shot at! Going to alert status!"
-msgstr "我们遭到射击！进入警戒状态！"
-
-#: slot/0x00a57090/0x12908e/0x00018e
-msgid "Device located!"
-msgstr "找到装置了！"
-
-#: slot/0x00a57090/0x12908e/0x00018f
-msgid "Cleared!"
-msgstr "清除了！"
-
-#: slot/0x00a57090/0x12908e/0x000191
-msgid "Repairs finished!"
-msgstr "修理完成！"
-
-#: slot/0x00a57090/0x12908e/0x000192
-msgid "I surrender!"
-msgstr "我投降！"
-
-#: slot/0x00a57090/0x12908e/0x000193
-msgid "They got the captain!"
-msgstr "他们抓走队长了！"
-
-#: slot/0x00a57090/0x12908e/0x000194
-msgid "Move, move, move!"
-msgstr "快走，快走，快走！"
-
-#: slot/0x00a57090/0x12908e/0x000196
-msgid "Gimme some backup!"
-msgstr "给我点支援！"
-
-#: slot/0x00a57090/0x12908e/0x000197
-msgid "I'm finished."
-msgstr "我完了。"
-
-#: slot/0x00a57090/0x12908e/0x000198
-msgid "Wha?  Hey, you!"
-msgstr "啥？喂，你！"
-
-#: slot/0x00a57090/0x12908e/0x000199
-msgid "Huh? What are you doing here?!"
-msgstr "嗯？你在这干嘛？！"
-
-#: slot/0x00a57090/0x12908e/0x00019a
-msgid "Huh? ...Ah, never mind."
-msgstr "嗯？……算了。"
-
-#: slot/0x00a57090/0x12908e/0x00019b
-msgid "Where do you think you're going?!"
-msgstr "你想往哪跑？！"
-
-#: slot/0x00a57090/0x12908e/0x00019c
-#: slot/0x00e2e8b4/0x6f069d/0x000000
-msgid "Get in there. "
-msgstr "进去。"
-
-#: slot/0x00a57090/0x12908e/0x00019d
-#: slot/0x00e2e8b4/0x70a69d/0x000000
-msgid "Come on!"
-msgstr "快上！"
-
-#: slot/0x00a57090/0x12908e/0x00019e
-msgid "Where did you get these?!"
-msgstr "哪弄来的？！"
-
-#: slot/0x00a57090/0x12908e/0x00019f
-msgid "Prisoner's gone! After 'em!"
-msgstr "囚犯跑了！追！"
-
-#: slot/0x00a57090/0x12908e/0x0001a0
-#: slot/0x00e2e8b4/0x9ec69d/0x000000
-msgid "Prisoner secure!"
-msgstr "囚犯已控！"
-
-#: slot/0x00a57090/0x12908e/0x0001a1
-msgid "Mmm, love that screaming... Music to my ears."
-msgstr "嗯，就爱这惨叫……真悦耳。"
-
-#: slot/0x00a57090/0x12908e/0x0001a2
-msgid "Next! Bring 'em in!"
-msgstr "下一个！带进来！"
-
-#: slot/0x00a57090/0x12908e/0x0001a3
-msgid "Comfy in there?"
-msgstr "里面舒服吗？"
-
-#: slot/0x00a57090/0x12908e/0x0001a4
-msgid "Quiet in there."
-msgstr "里面安静点。"
-
-#: slot/0x00a57090/0x12908e/0x0001a6
-#: slot/0x00a57090/0x12908e/0x0001b0
-#: slot/0x00a57090/0x12908e/0x0001ba
-#: slot/0x00a57090/0x12908e/0x0001c4
-#: slot/0x00a57090/0x12908e/0x0001ce
-#: slot/0x00a57090/0x12908e/0x0001d8
-#: slot/0x00a57090/0x12908e/0x0001e2
-#: slot/0x00a57090/0x12908e/0x0001ec
-msgid "Reporting for duty!"
-msgstr "报到！"
-
-#: slot/0x00a57090/0x12908e/0x0001a7
-msgid "Whoa!"
-msgstr "哇！"
-
-#: slot/0x00a57090/0x12908e/0x0001a8
-msgid "These guys are good..."
-msgstr "这些家伙真厉害……"
-
-#: slot/0x00a57090/0x12908e/0x0001a9
-msgid "C'mon, let's go!"
-msgstr "快，走吧！"
-
-#: slot/0x00a57090/0x12908e/0x0001aa
-msgid "You can't beat the best!"
-msgstr "你打不过最强！"
-
-#: slot/0x00a57090/0x12908e/0x0001ab
-msgid "That's gotta hurt!"
-msgstr "那一下肯定很疼！"
-
-#: slot/0x00a57090/0x12908e/0x0001ac
-#: slot/0x00a57090/0x12908e/0x0001e8
-msgid "I give up."
-msgstr "我投降。"
-
-#: slot/0x00a57090/0x12908e/0x0001ad
-msgid "That's it...?"
-msgstr "就这样……？"
-
-#: slot/0x00a57090/0x12908e/0x0001af
-msgid "We... We're done already?!"
-msgstr "我……我们已经结束了？！"
-
-#: slot/0x00a57090/0x12908e/0x0001b1
-msgid "No wonder he's a legend..."
-msgstr "难怪他是传奇……"
-
-#: slot/0x00a57090/0x12908e/0x0001b2
-msgid "These guys are for real..."
-msgstr "这些家伙是来真的……"
-
-#: slot/0x00a57090/0x12908e/0x0001b3
-msgid "That all you got?"
-msgstr "你就这点本事？"
-
-#: slot/0x00a57090/0x12908e/0x0001b4
-msgid "Think you can take me?"
-msgstr "你觉得你能打赢我？"
-
-#: slot/0x00a57090/0x12908e/0x0001b5
-msgid "Heh! Yeah!"
-msgstr "嘿！没错！"
-
-#: slot/0x00a57090/0x12908e/0x0001b6
-msgid "OK, enough."
-msgstr "好，够了。"
-
-#: slot/0x00a57090/0x12908e/0x0001b7
-msgid "I overestimated you..."
-msgstr "我高估你了……"
-
-#: slot/0x00a57090/0x12908e/0x0001b8
-msgid "Uh... Are you... "
-msgstr "呃…你是…"
-
-#: slot/0x00a57090/0x12908e/0x0001b9
-msgid "Wait a minute...!"
-msgstr "等等…！"
-
-#: slot/0x00a57090/0x12908e/0x0001bb
-msgid "He's strong!"
-msgstr "他很强！"
-
-#: slot/0x00a57090/0x12908e/0x0001bc
-msgid "This is more like it..."
-msgstr "这才像样……"
-
-#: slot/0x00a57090/0x12908e/0x0001bd
-#: slot/0x00a57090/0x12908e/0x0001e7
-msgid "I'm not done yet!"
-msgstr "我还没完！"
-
-#: slot/0x00a57090/0x12908e/0x0001be
-#: slot/0x00eeea4a/0x3d5433/0xdaea26
-msgid "Show me what you got!"
-msgstr "让我看看你的本事！"
-
-#: slot/0x00a57090/0x12908e/0x0001c0
-#: slot/0x00a57090/0x12908e/0x0001d4
-msgid "You win."
-msgstr "你赢了。"
-
-#: slot/0x00a57090/0x12908e/0x0001c1
-msgid "This is all ya got...?"
-msgstr "就这点本事…？"
-
-#: slot/0x00a57090/0x12908e/0x0001c2
-msgid "Uh... Isn't this supposed to be a test?"
-msgstr "呃……这不是测试吗？"
-
-#: slot/0x00a57090/0x12908e/0x0001c3
-msgid "B-but we're not done with the test yet!"
-msgstr "可、可测试还没结束呢！"
-
-#: slot/0x00a57090/0x12908e/0x0001c5
-msgid "He's as good as they say!"
-msgstr "他果然名不虚传！"
-
-#: slot/0x00a57090/0x12908e/0x0001c6
-msgid "Now this is CQC..."
-msgstr "这才叫CQC……"
-
-#: slot/0x00a57090/0x12908e/0x0001c7
-#: slot/0x00a57090/0x12908e/0x0001ef
-msgid "One more time!"
-msgstr "再来一次！"
-
-#: slot/0x00a57090/0x12908e/0x0001c8
-msgid "You ready for a real challenge? "
-msgstr "准备好真挑战了吗？"
-
-#: slot/0x00a57090/0x12908e/0x0001c9
-msgid "Got 'em!"
-msgstr "搞定！"
-
-#: slot/0x00a57090/0x12908e/0x0001ca
-msgid "You win this one."
-msgstr "这次你赢了"
-
-#: slot/0x00a57090/0x12908e/0x0001cb
-msgid "Not exactly what I expected..."
-msgstr "跟我想的不一样…"
-
-#: slot/0x00a57090/0x12908e/0x0001cc
-msgid "Did I... do something wrong...?"
-msgstr "我做错什么了吗…？"
-
-#: slot/0x00a57090/0x12908e/0x0001cd
-msgid "Y-you're joking, right?!"
-msgstr "你开玩笑吧？！"
-
-#: slot/0x00a57090/0x12908e/0x0001cf
-msgid "Wow!"
-msgstr "哇！"
-
-#: slot/0x00a57090/0x12908e/0x0001d0
-msgid "Impressive."
-msgstr "厉害。"
-
-#: slot/0x00a57090/0x12908e/0x0001d1
-msgid "You'll have to do better than that!"
-msgstr "你得再加把劲才行！"
-
-#: slot/0x00a57090/0x12908e/0x0001d2
-msgid "Let's see what you got!"
-msgstr "看看你本事！"
-
-#: slot/0x00a57090/0x12908e/0x0001d3
-msgid "How's that?!"
-msgstr "怎么样？！"
-
-#: slot/0x00a57090/0x12908e/0x0001d5
-msgid "Is that it...?"
-msgstr "就这样？"
-
-#: slot/0x00a57090/0x12908e/0x0001d6
-msgid "Am I... doing something wrong?"
-msgstr "我……做错什么了吗？"
-
-#: slot/0x00a57090/0x12908e/0x0001d7
-msgid "You're leaving?! Why?!"
-msgstr "你要走？！为什么？！"
-
-#: slot/0x00a57090/0x12908e/0x0001d9
-msgid "So this is the legend!"
-msgstr "这就是传说！"
-
-#: slot/0x00a57090/0x12908e/0x0001da
-msgid "How'd you do that?"
-msgstr "你怎么做到的？"
-
-#: slot/0x00a57090/0x12908e/0x0001db
-msgid "Just getting warmed up!"
-msgstr "才刚热身而已！"
-
-#: slot/0x00a57090/0x12908e/0x0001dc
-msgid "You're in for a surprise!"
-msgstr "等着大吃一惊吧！"
-
-#: slot/0x00a57090/0x12908e/0x0001dd
-msgid "Ohh, yeah!"
-msgstr "哦耶！"
-
-#: slot/0x00a57090/0x12908e/0x0001de
-msgid "Enough! I lost..."
-msgstr "够了！我输了……"
-
-#: slot/0x00a57090/0x12908e/0x0001df
-msgid "I expected better than this..."
-msgstr "我本以为你更强……"
-
-#: slot/0x00a57090/0x12908e/0x0001e0
-msgid "Something the matter?"
-msgstr "有什么问题吗？"
-
-#: slot/0x00a57090/0x12908e/0x0001e1
-msgid "What?! No, don't go!"
-msgstr "什么？！不，别走！"
-
-#: slot/0x00a57090/0x12908e/0x0001e3
-msgid "Such power!"
-msgstr "好强！"
-
-#: slot/0x00a57090/0x12908e/0x0001e4
-msgid "Not bad at all."
-msgstr "相当不错。"
-
-#: slot/0x00a57090/0x12908e/0x0001e5
-msgid "Come on, give it to me!"
-msgstr "来吧，放马过来！"
-
-#: slot/0x00a57090/0x12908e/0x0001e6
-msgid "This ought to be fun!"
-msgstr "这下有意思了！"
-
-#: slot/0x00a57090/0x12908e/0x0001e9
-msgid "What a waste of time!"
-msgstr "真是浪费时间！"
-
-#: slot/0x00a57090/0x12908e/0x0001ea
-msgid "I-isn't this supposed to be a test?"
-msgstr "这、这不是测试吗？"
-
-#: slot/0x00a57090/0x12908e/0x0001eb
-msgid "Wait, what about my test?!"
-msgstr "等等，我的测试怎么办？！"
-
-#: slot/0x00a57090/0x12908e/0x0001ed
-msgid "The stories are true!"
-msgstr "传闻是真的！"
-
-#: slot/0x00a57090/0x12908e/0x0001ee
-msgid "You're good!"
-msgstr "你真厉害！"
-
-#: slot/0x00a57090/0x12908e/0x0001f0
-msgid "Watch it! I'm no pushover!"
-msgstr "小心！我不好惹！"
-
-#: slot/0x00a57090/0x12908e/0x0001f1
-msgid "Hurts, don't it?!"
-msgstr "很疼吧？！"
-
-#: slot/0x00a57090/0x12908e/0x0001f2
-msgid "OK, you win this one."
-msgstr "好，这局你赢了。"
-
-#: slot/0x00a57090/0x12908e/0x0001f3
-msgid "That was kinda disappointing."
-msgstr "真让人失望。"
-
-#: slot/0x00a57090/0x12908e/0x0001f4
-msgid "So, uh... Are we gonna start...? "
-msgstr "那，呃…开始吗？"
-
-#: slot/0x00a57090/0x12908e/0x0001f5
-msgid "You're no fun..."
-msgstr "真没劲…"
-
-#: slot/0x00a57090/0x12908e/0x0001f6
-msgid "Intruder detected."
-msgstr "发现入侵者。"
-
-#: slot/0x00a57090/0x12908e/0x0001f9
-#: slot/0x00a57090/0x12908e/0x000225
-msgid "Damn you-u-u..."
-msgstr "可恶啊…"
-
-#: slot/0x00a57090/0x12908e/0x0001fa
-#: slot/0x00a57090/0x12908e/0x000226
-msgid "There you a-a-are!"
-msgstr "找到你了！"
-
-#: slot/0x00a57090/0x12908e/0x000200
-#: slot/0x00a57090/0x12908e/0x00022c
-msgid "I'll get you-u-u..."
-msgstr "我会抓到你…"
-
-#: slot/0x00a57090/0x12908e/0x000201
-#: slot/0x00a57090/0x12908e/0x00020c
-#: slot/0x00a57090/0x12908e/0x000217
-#: slot/0x00a57090/0x12908e/0x000222
-#: slot/0x00a57090/0x12908e/0x00022d
-#: slot/0x00a57090/0x12908e/0x000238
-#: slot/0x00a57090/0x12908e/0x000243
-#: slot/0x00a57090/0x12908e/0x00024e
-msgid "Who goes there..."
-msgstr "什么人……"
-
-#: slot/0x00a57090/0x12908e/0x000202
-#: slot/0x00a57090/0x12908e/0x00022e
-msgid "Hmm...?"
-msgstr "嗯？"
-
-#: slot/0x00a57090/0x12908e/0x000204
-#: slot/0x00a57090/0x12908e/0x000230
-msgid "Nevermore..."
-msgstr "永不复还……"
-
-#: slot/0x00a57090/0x12908e/0x000205
-#: slot/0x00a57090/0x12908e/0x000231
-msgid "I've got you now-w-w!"
-msgstr "抓到你了了了！"
-
-#: slot/0x00a57090/0x12908e/0x00020b
-msgid "You can't run from me-e-e..."
-msgstr "你逃不出我手心…"
-
-#: slot/0x00a57090/0x12908e/0x00020d
-#: slot/0x00a57090/0x12908e/0x000239
-msgid "Nnn...?"
-msgstr "唔？"
-
-#: slot/0x00a57090/0x12908e/0x00020f
-msgid "I'll be ba-a-ack..."
-msgstr "我会回来…"
-
-#: slot/0x00a57090/0x12908e/0x000210
-#: slot/0x00a57090/0x12908e/0x00023c
-msgid "You can't hide from me-e-e!"
-msgstr "你躲不过我我我！"
-
-#: slot/0x00a57090/0x12908e/0x000216
-#: slot/0x00a57090/0x12908e/0x000242
-msgid "I'm going to get you-u-u..."
-msgstr "我要抓住你啊啊……"
-
-#: slot/0x00a57090/0x12908e/0x000218
-#: slot/0x00a57090/0x12908e/0x000244
-msgid "Ahh...?"
-msgstr "啊？"
-
-#: slot/0x00a57090/0x12908e/0x00021a
-msgid "Curse you-u-u..."
-msgstr "该死的…"
-
-#: slot/0x00a57090/0x12908e/0x00021b
-msgid "A-aha-a-a!"
-msgstr "啊哈哈！"
-
-#: slot/0x00a57090/0x12908e/0x000221
-#: slot/0x00a57090/0x12908e/0x00024d
-msgid "You can't run forever-r-r..."
-msgstr "你逃不了一辈子…"
-
-#: slot/0x00a57090/0x12908e/0x000237
-msgid "There's no escape…"
-msgstr "无处可逃……"
-
-#: slot/0x00a57090/0x12908e/0x00023b
-msgid "You'll pay-y-y..."
-msgstr "你会付出代价价价……"
-
-#: slot/0x00a57090/0x12908e/0x000246
-msgid "A curse upon you-u-u..."
-msgstr "诅咒你…"
-
-#: slot/0x00a57090/0x12908e/0x000247
-msgid "A-a ha-a-a!"
-msgstr "啊哈哈！"
-
-#: slot/0x00a57090/0x12908e/0x00024f
-msgid "Ehh...?"
-msgstr "诶？"
+#: slot/0x00b9910a/0x32b0cb/0x99a9a1
+msgid "Use Codec?"
+msgstr "使用 CODEC？"
+
+#: slot/0x00b9910a/0x6b2d56/0x346d94
+msgid "END MISSION AND RETURN TO SELECTION SCREEN"
+msgstr "结束任务并返回选择画面"
+
+#: slot/0x00b9910a/0x6b2d56/0x6bb005
+msgid "RESTART MISSION"
+msgstr "重开任务"
+
+#: slot/0x00b9910a/0x6bb005/0x8c30f4
+msgid "Return to Mission Selection Menu"
+msgstr "返回任务选择菜单"
+
+#: slot/0x00b9910a/0x6bb005/0x8d30f4
+msgid "Restart Mission"
+msgstr "重开任务"
+
+#: slot/0x00b9910a/0x9dc379/0x0238fe
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d387
+msgid "Snake Formation"
+msgstr "SNAKE阵型"
+
+#: slot/0x00b9910a/0x9dc379/0x13b907
+msgid "System Voice (CO-OP Out)"
+msgstr "系统语音（合作 出）"
+
+#: slot/0x00b9910a/0x9dc379/0x29f1eb
+msgid "Item Select Settings"
+msgstr "道具选择设置"
+
+#: slot/0x00b9910a/0x9dc379/0x29f72c
+msgid "System Voice (Snake In)"
+msgstr "系统语音（SNAKE 入）"
+
+#: slot/0x00b9910a/0x9dc379/0x2b2705
+msgid "LANGUAGE SELECTION"
+msgstr "语言选择"
+
+#: slot/0x00b9910a/0x9dc379/0x2b5da9
+msgid "Aim Assist"
+msgstr "瞄准辅助"
+
+#: slot/0x00b9910a/0x9dc379/0x3efed9
+msgid "System Voice (Snake Out)"
+msgstr "系统语音（SNAKE 出）"
+
+#: slot/0x00b9910a/0x9dc379/0x989cfd
+msgid "System Voice (CO-OP In)"
+msgstr "系统语音（合作 入）"
+
+#: slot/0x00b9910a/0x9dc379/0x9bceee
+msgid "Normal View: Rotation Speed"
+msgstr "普通视角：旋转速度"
+
+#: slot/0x00b9910a/0x9dc379/0xb8e28d
+msgid "Weapon Select Settings"
+msgstr "武器选择设置"
+
+#: slot/0x00b9910a/0x9dc379/0xd1ff23
+msgid "Analog stick Sensitivity"
+msgstr "摇杆灵敏度"
+
+#: slot/0x00b9910a/0x9dc379/0xd4d546
+msgid "(dummy text)"
+msgstr "（占位文本）"
+
+#: slot/0x00b9910a/0x9dc379/0xd4ddb6
+msgid "Normal View: Left/Right"
+msgstr "普通视角：左右"
+
+#: slot/0x00b9910a/0x9dc379/0xd4dec8
+msgid "Normal View: Up/Down"
+msgstr "普通视角:上下"
+
+#: slot/0x00b9910a/0x9dc379/0xd55d45
+msgid "Aim Mode Initial Direction"
+msgstr "瞄准模式初始方向"
+
+#: slot/0x00b9910a/0x9dc379/0xdaa6d9
+msgid "Data Install"
+msgstr "数据安装"
+
+#: slot/0x00b9910a/0x9dc379/0xe6da15
+msgid "DISPLAY SUBTITLES"
+msgstr "显示字幕"
+
+#: slot/0x00b9910a/0x9dc379/0xec75b7
+msgid "Aim Mode View: Left/Right"
+msgstr "瞄准视角：左/右"
+
+#: slot/0x00b9910a/0x9dc379/0xec76c9
+msgid "Aim Mode View: Up/Down"
+msgstr "瞄准模式视角：上/下"
+
+#: slot/0x00b9910a/0x9dc379/0xf12e33
+msgid "Auto Aim"
+msgstr "自动瞄准"
+
+#: slot/0x00b9910a/0x9dc379/0xfb08d5
+msgid "Control Config"
+msgstr "操作设置"
+
+#: slot/0x00b9910a/0xc01bdf/0xa3ae18
+msgid ""
+"Quit this mission, and return to\n"
+"the mission selection menu.\n"
+"Items and soldiers acquired during\n"
+"this mission will be lost.\n"
+"Would you like to proceed?"
+msgstr ""
+"放弃此任务，返回\n"
+"任务选择菜单。\n"
+"此任务中获得的道具和士兵\n"
+"将会丢失。\n"
+"是否继续？"
+
+#: slot/0x00b9910a/0xc01be0/0xa3ae18
+msgid ""
+"Restart this mission.\n"
+"Items and soldiers acquired during\n"
+"this mission will be lost.\n"
+"Would you like to proceed?"
+msgstr ""
+"重新开始此任务。\n"
+"此任务中获得的道具和士兵\n"
+"将会丢失。\n"
+"是否继续？"
+
+#: slot/0x00bf136f/0x840ff7/0x44e180
+msgid "START button: End tutorial."
+msgstr "START 键：结束教程。"
+
+#: slot/0x00c48887/0xae0b2a/0x000001
+msgid "STUN ROD"
+msgstr "电棍"
+
+#: slot/0x00c48887/0xae0b2a/0x000002
+#: slot/0x00c48887/0xae0b2a/0x000003
+#: slot/0x00c48887/0xae0b2a/0x000004
+#: slot/0x00c48887/0xae0b2a/0x000005
+#: slot/0x00c48887/0xae0b2a/0x000006
+msgid "MK.22"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x000007
+#: slot/0x00c48887/0xae0b2a/0x000008
+#: slot/0x00c48887/0xae0b2a/0x000009
+#: slot/0x00c48887/0xae0b2a/0x00000a
+msgid "EZ GUN(LR)"
+msgstr "EZ枪(LR)"
+
+#: slot/0x00c48887/0xae0b2a/0x00000b
+#: slot/0x00c48887/0xae0b2a/0x00000c
+#: slot/0x00c48887/0xae0b2a/0x00000d
+#: slot/0x00c48887/0xae0b2a/0x00000e
+msgid "EZ GUN(PR)"
+msgstr "EZ枪(PR)"
+
+#: slot/0x00c48887/0xae0b2a/0x000011
+#: slot/0x00c48887/0xae0b2a/0x000012
+#: slot/0x00c48887/0xae0b2a/0x000013
+msgid "M1911(CT)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x00001a
+#: slot/0x00c48887/0xae0b2a/0x00001b
+msgid "K.PISTOL"
+msgstr "K.手枪"
+
+#: slot/0x00c48887/0xae0b2a/0x000025
+msgid "BANANA"
+msgstr "香蕉"
+
+#: slot/0x00c48887/0xae0b2a/0x000029
+#: slot/0x00c48887/0xae0b2a/0x00002a
+#: slot/0x00c48887/0xae0b2a/0x00002b
+#: slot/0x00c48887/0xae0b2a/0x00002c
+#: slot/0x00c48887/0xae0b2a/0x00002d
+msgid "TWIN BRL."
+msgstr "双管"
+
+#: slot/0x00c48887/0xae0b2a/0x00002e
+#: slot/0x00c48887/0xae0b2a/0x00002f
+#: slot/0x00c48887/0xae0b2a/0x000030
+msgid "TWIN B.(R)"
+msgstr "双管(R)"
+
+#: slot/0x00c48887/0xae0b2a/0x000035
+msgid "M37(LB)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x000036
+msgid "M37(ACM)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x000041
+msgid "M10(SP)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x000042
+msgid "M10(BJ)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x000046
+#: slot/0x00c48887/0xae0b2a/0x000047
+#: slot/0x00c48887/0xae0b2a/0x000048
+msgid "UZ61"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x00004b
+#: slot/0x00c48887/0xae0b2a/0x000231
+#: slot/0x00c48887/0xae0b2a/0x000232
+#: slot/0x00c48887/0xae0b2a/0x000233
+msgid "VZ61"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x00004f
+#: slot/0x00c48887/0xae0b2a/0x000050
+#: slot/0x00c48887/0xae0b2a/0x000051
+#: slot/0x00c48887/0xae0b2a/0x000052
+msgid "M16A1(STG)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x000053
+#: slot/0x00c48887/0xae0b2a/0x000054
+#: slot/0x00c48887/0xae0b2a/0x000055
+#: slot/0x00c48887/0xae0b2a/0x000056
+msgid "M16A1(GL)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x000057
+#: slot/0x00c48887/0xae0b2a/0x000058
+#: slot/0x00c48887/0xae0b2a/0x000059
+#: slot/0x00c48887/0xae0b2a/0x00005a
+msgid "M16A1(SGL)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x00005b
+msgid "PATRIOT"
+msgstr "爱国者"
+
+#: slot/0x00c48887/0xae0b2a/0x00005e
+#: slot/0x00c48887/0xae0b2a/0x00005f
+msgid "M653(GL)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x000060
+#: slot/0x00c48887/0xae0b2a/0x000061
+msgid "M653(STG)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x000062
+#: slot/0x00c48887/0xae0b2a/0x000063
+msgid "M653(SGL)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x000065
+#: slot/0x00c48887/0xae0b2a/0x000066
+msgid "RK47(GL)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x000067
+#: slot/0x00c48887/0xae0b2a/0x000068
+msgid "RK47(SGL)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x000073
+msgid "MUSKET"
+msgstr "火枪"
+
+#: slot/0x00c48887/0xae0b2a/0x00008a
+msgid "M60(AP)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x00008b
+#: slot/0x00c48887/0xae0b2a/0x00008c
+msgid "M60(SB)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x000096
+#: slot/0x00c48887/0xae0b2a/0x000097
+#: slot/0x00c48887/0xae0b2a/0x000098
+msgid "MG3 (AP)"
+msgstr "MG3 (AP)"
+
+#: slot/0x00c48887/0xae0b2a/0x000099
+msgid "M134"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x00009a
+msgid "EMW GUN"
+msgstr "EMW枪"
+
+#: slot/0x00c48887/0xae0b2a/0x00009b
+msgid "DSHK"
+msgstr "DSHK"
+
+#: slot/0x00c48887/0xae0b2a/0x0000a1
+#: slot/0x00c48887/0xae0b2a/0x0000a2
+msgid "M1C (PR)"
+msgstr "M1C (PR)"
+
+#: slot/0x00c48887/0xae0b2a/0x0000a7
+#: slot/0x00c48887/0xae0b2a/0x0000a8
+msgid "M700(BB)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x0000a9
+#: slot/0x00c48887/0xae0b2a/0x0000aa
+msgid "M700(LR)"
+msgstr ""
+
+#: slot/0x00c48887/0xae0b2a/0x0000ab
+#: slot/0x00c48887/0xae0b2a/0x0000ac
+#: slot/0x00c48887/0xae0b2a/0x0000ad
+#: slot/0x00c48887/0xae0b2a/0x0000ae
+#: slot/0x00c48887/0xae0b2a/0x0000af
+msgid "M.NAGANT"
+msgstr "M.NAGANT"
+
+#: slot/0x00c48887/0xae0b2a/0x0000b2
+msgid "SVD(HC)"
+msgstr "SVD(HC)"
+
+#: slot/0x00c48887/0xae0b2a/0x0000b3
+msgid "SVD(NV)"
+msgstr "SVD(NV)"
+
+#: slot/0x00c48887/0xae0b2a/0x0000ba
+#: slot/0x00c48887/0xae0b2a/0x0000bb
+#: slot/0x00c48887/0xae0b2a/0x0000bc
+#: slot/0x00c48887/0xae0b2a/0x00020a
+msgid "RAILGUN"
+msgstr "电磁"
+
+#: slot/0x00c48887/0xae0b2a/0x0000bd
+msgid "RG DYNAMO"
+msgstr "RG DYNAMO"
+
+#: slot/0x00c48887/0xae0b2a/0x0000da
+#: slot/0x00c48887/0xae0b2a/0x0000db
+#: slot/0x00c48887/0xae0b2a/0x0000dc
+#: slot/0x00c48887/0xae0b2a/0x0000dd
+msgid "C.GUSTAV"
+msgstr "C.GUSTAV"
+
+#: slot/0x00c48887/0xae0b2a/0x0000de
+#: slot/0x00c48887/0xae0b2a/0x0000df
+#: slot/0x00c48887/0xae0b2a/0x0000e0
+msgid "C.GSTV(MP)"
+msgstr "C.GSTV(MP)"
+
+#: slot/0x00c48887/0xae0b2a/0x0000e1
+#: slot/0x00c48887/0xae0b2a/0x0000e2
+#: slot/0x00c48887/0xae0b2a/0x0000e3
+msgid "C.GSTV(FR)"
+msgstr "C.GSTV(FR)"
+
+#: slot/0x00c48887/0xae0b2a/0x0000e5
+#: slot/0x00c48887/0xae0b2a/0x0000e6
+#: slot/0x00c48887/0xae0b2a/0x0000e7
+msgid "STLTH GUN"
+msgstr "STLTH GUN"
+
+#: slot/0x00c48887/0xae0b2a/0x0000e8
+msgid "SLING POST"
+msgstr "SLING POST"
+
+#: slot/0x00c48887/0xae0b2a/0x0000e9
+#: slot/0x00c48887/0xae0b2a/0x0000ea
+#: slot/0x00c48887/0xae0b2a/0x0000eb
+msgid "SLING BAND"
+msgstr "SLING BAND"
+
+#: slot/0x00c48887/0xae0b2a/0x0000f8
+#: slot/0x00c48887/0xae0b2a/0x0000f9
+#: slot/0x00c48887/0xae0b2a/0x0000fa
+#: slot/0x00c48887/0xae0b2a/0x0000fb
+#: slot/0x00c48887/0xae0b2a/0x0000fc
+msgid "GRENADE"
+msgstr "GRENADE"
+
+#: slot/0x00c48887/0xae0b2a/0x0000fd
+#: slot/0x00c48887/0xae0b2a/0x0000fe
+#: slot/0x00c48887/0xae0b2a/0x0000ff
+#: slot/0x00c48887/0xae0b2a/0x000100
+#: slot/0x00c48887/0xae0b2a/0x000101
+msgid "STUN G."
+msgstr "STUN G."
+
+#: slot/0x00c48887/0xae0b2a/0x000102
+#: slot/0x00c48887/0xae0b2a/0x000103
+#: slot/0x00c48887/0xae0b2a/0x000104
+#: slot/0x00c48887/0xae0b2a/0x000105
+#: slot/0x00c48887/0xae0b2a/0x000106
+msgid "CHAFF G."
+msgstr "CHAFF G."
+
+#: slot/0x00c48887/0xae0b2a/0x000107
+#: slot/0x00c48887/0xae0b2a/0x000108
+#: slot/0x00c48887/0xae0b2a/0x000109
+#: slot/0x00c48887/0xae0b2a/0x00010a
+#: slot/0x00c48887/0xae0b2a/0x00010b
+msgid "SMOKE G."
+msgstr "SMOKE G."
+
+#: slot/0x00c48887/0xae0b2a/0x00010c
+msgid "SMK G.(R)"
+msgstr "SMK G.(R)"
+
+#: slot/0x00c48887/0xae0b2a/0x00010d
+msgid "SMK G.(B)"
+msgstr "SMK G.(B)"
+
+#: slot/0x00c48887/0xae0b2a/0x00010e
+msgid "SMK G.(G)"
+msgstr "SMK G.(G)"
+
+#: slot/0x00c48887/0xae0b2a/0x00010f
+msgid "SMK G.(Y)"
+msgstr "SMK G.(Y)"
+
+#: slot/0x00c48887/0xae0b2a/0x000110
+msgid "SMK G.(BK)"
+msgstr "SMK G.(BK)"
+
+#: slot/0x00c48887/0xae0b2a/0x000111
+#: slot/0x00c48887/0xae0b2a/0x000112
+#: slot/0x00c48887/0xae0b2a/0x000113
+#: slot/0x00c48887/0xae0b2a/0x000114
+#: slot/0x00c48887/0xae0b2a/0x000115
+msgid "SLEEP G."
+msgstr "SLEEP G."
+
+#: slot/0x00c48887/0xae0b2a/0x000116
+msgid "EMPTY MAG."
+msgstr "EMPTY MAG."
+
+#: slot/0x00c48887/0xae0b2a/0x000119
+msgid "EM NET"
+msgstr "EM NET"
+
+#: slot/0x00c48887/0xae0b2a/0x00011f
+#: slot/0x00c48887/0xae0b2a/0x000120
+#: slot/0x00c48887/0xae0b2a/0x000121
+#: slot/0x00c48887/0xae0b2a/0x000122
+#: slot/0x00c48887/0xae0b2a/0x000123
+msgid "CLAYMORE"
+msgstr "CLAYMORE"
+
+#: slot/0x00c48887/0xae0b2a/0x000124
+#: slot/0x00c48887/0xae0b2a/0x000125
+#: slot/0x00c48887/0xae0b2a/0x000126
+#: slot/0x00c48887/0xae0b2a/0x000127
+#: slot/0x00c48887/0xae0b2a/0x000128
+msgid "MAGAZINE"
+msgstr "杂志"
+
+#: slot/0x00c48887/0xae0b2a/0x00012e
+#: slot/0x00c48887/0xae0b2a/0x00012f
+#: slot/0x00c48887/0xae0b2a/0x000130
+#: slot/0x00c48887/0xae0b2a/0x000131
+#: slot/0x00c48887/0xae0b2a/0x000132
+msgid "COOKBOOK"
+msgstr "菜谱"
+
+#: slot/0x00c48887/0xae0b2a/0x000133
+msgid "SOLID M."
+msgstr "固蛇"
+
+#: slot/0x00c48887/0xae0b2a/0x000134
+msgid "LIQUID M."
+msgstr "LIQUID M."
+
+#: slot/0x00c48887/0xae0b2a/0x000135
+msgid "SOLIDUS M."
+msgstr "索利达斯"
+
+#: slot/0x00c48887/0xae0b2a/0x000136
+msgid "SUPER M."
+msgstr "超级M"
+
+#: slot/0x00c48887/0xae0b2a/0x000137
+#: slot/0x00c48887/0xae0b2a/0x000248
+#: slot/0x00c48887/0xae0b2a/0x000249
+#: slot/0x00c48887/0xae0b2a/0x00024a
+#: slot/0x00c48887/0xae0b2a/0x00024b
+msgid "HOBBY MAG."
+msgstr "兴趣志"
+
+#: slot/0x00c48887/0xae0b2a/0x000138
+#: slot/0x00c48887/0xae0b2a/0x000139
+#: slot/0x00c48887/0xae0b2a/0x00013a
+#: slot/0x00c48887/0xae0b2a/0x00013b
+#: slot/0x00c48887/0xae0b2a/0x00013c
+msgid "AT MINE"
+msgstr "反坦克雷"
+
+#: slot/0x00c48887/0xae0b2a/0x00013d
+#: slot/0x00c48887/0xae0b2a/0x00013e
+#: slot/0x00c48887/0xae0b2a/0x00013f
+#: slot/0x00c48887/0xae0b2a/0x000140
+#: slot/0x00c48887/0xae0b2a/0x000141
+msgid "DECOY"
+msgstr "诱饵"
+
+#: slot/0x00c48887/0xae0b2a/0x000142
+#: slot/0x00c48887/0xae0b2a/0x000143
+#: slot/0x00c48887/0xae0b2a/0x000144
+#: slot/0x00c48887/0xae0b2a/0x000145
+#: slot/0x00c48887/0xae0b2a/0x000146
+msgid "AERIAL M."
+msgstr "空投杂志"
+
+#: slot/0x00c48887/0xae0b2a/0x000148
+msgid "FULTON M."
+msgstr "富尔顿杂志"
+
+#: slot/0x00c48887/0xae0b2a/0x00014b
+#: slot/0x00c48887/0xae0b2a/0x00014c
+#: slot/0x00c48887/0xae0b2a/0x00014d
+#: slot/0x00c48887/0xae0b2a/0x00014e
+#: slot/0x00c48887/0xae0b2a/0x00014f
+msgid "NOTHING"
+msgstr "无"
+
+#: slot/0x00c48887/0xae0b2a/0x000190
+msgid "12.7MM MG"
+msgstr "12.7MM机枪"
+
+#: slot/0x00c48887/0xae0b2a/0x000191
+msgid "7.62MM MG"
+msgstr "7.62MM机枪"
+
+#: slot/0x00c48887/0xae0b2a/0x000192
+msgid "14.5MM MG"
+msgstr "14.5MM机枪"
+
+#: slot/0x00c48887/0xae0b2a/0x000193
+msgid "25MM MG"
+msgstr "25MM机枪"
+
+#: slot/0x00c48887/0xae0b2a/0x000194
+msgid "20MM AAG"
+msgstr "20MM高射炮"
+
+#: slot/0x00c48887/0xae0b2a/0x0001ca
+msgid "152MM GL"
+msgstr "152MM榴弹"
+
+#: slot/0x00c48887/0xae0b2a/0x0001cb
+msgid "120MM SG"
+msgstr "120MM霰弹"
+
+#: slot/0x00c48887/0xae0b2a/0x0001cc
+msgid "125MM SG"
+msgstr "125MM霰弹"
+
+#: slot/0x00c48887/0xae0b2a/0x0001cd
+msgid "76MM RG"
+msgstr "76MM火箭炮"
+
+#: slot/0x00c48887/0xae0b2a/0x000206
+msgid "GUN POD"
+msgstr "枪荚"
+
+#: slot/0x00c48887/0xae0b2a/0x000207
+msgid "AT MISSILE"
+msgstr "反坦克导弹"
+
+#: slot/0x00c48887/0xae0b2a/0x000208
+msgid "ROCKET LC"
+msgstr "火箭发射器"
+
+#: slot/0x00c48887/0xae0b2a/0x00020b
+msgid "MACHINEGUN"
+msgstr "机枪"
+
+#: slot/0x00c48887/0xae0b2a/0x00020c
+msgid "E.CHARGE"
+msgstr "蓄力"
+
+#: slot/0x00c48887/0xae0b2a/0x00020e
+#: slot/0x00c48887/0xae0b2a/0x00020f
+msgid "MISSILE"
+msgstr "导弹"
+
+#: slot/0x00c48887/0xae0b2a/0x000211
+msgid "CANNON"
+msgstr "炮"
+
+#: slot/0x00c48887/0xae0b2a/0x000217
+msgid "PETRIF.ATK"
+msgstr "石化攻"
+
+#: slot/0x00c48887/0xae0b2a/0x000225
+msgid "IRN BOMB"
+msgstr "铁弹"
+
+#: slot/0x00c48887/0xae0b2a/0x000226
+msgid "30MM MG"
+msgstr "30MM机枪"
+
+#: slot/0x00c48887/0xae0b2a/0x000227
+msgid "30MM CG"
+msgstr "30MM机炮"
+
+#: slot/0x00c48887/0xae0b2a/0x00024c
+msgid "CT GUN(SM)"
+msgstr "麻醉枪(小)"
+
+#: slot/0x00c48887/0xae0b2a/0x00024d
+msgid "CT GUN(ST)"
+msgstr "麻醉枪(标)"
+
+#: slot/0x00cba83b/0x029324/0x05d276
+msgid "Failed to obtain VOCALOID data."
+msgstr "获取 VOCALOID 数据失败。"
+
+#: slot/0x00cba83b/0x029324/0x09e8fa
+msgid ""
+"The server is currently busy.\n"
+"Please wait and try your request again later."
+msgstr ""
+"服务器当前繁忙。\n"
+"请稍后再试。"
+
+#: slot/0x00cba83b/0x029324/0x0c20c7
+msgid "This passcode is already in use."
+msgstr "此密码已被使用。"
+
+#: slot/0x00cba83b/0x029324/0x1f4094
+msgid "Failed to obtain download content data."
+msgstr "获取下载内容数据失败。"
+
+#: slot/0x00cba83b/0x029324/0x226aa7
+msgid ""
+"$1\n"
+"Error code: $2 ($3)"
+msgstr ""
+"$1\n"
+"错误代码：$2 ($3)"
+
+#: slot/0x00cba83b/0x029324/0x2b13f5
+msgid "Failed to save file."
+msgstr "保存失败。"
+
+#: slot/0x00cba83b/0x029324/0x2e012f
+msgid "Failed to connect."
+msgstr "连接失败。"
+
+#: slot/0x00cba83b/0x029324/0x30367e
+msgid "Failed to convert data."
+msgstr "数据转换失败。"
+
+#: slot/0x00cba83b/0x029324/0x340a30
+msgid "Failed to obtain user information."
+msgstr "获取用户信息失败。"
+
+#: slot/0x00cba83b/0x029324/0x4b1cfb
+msgid "Unable to sign in to PlayStation<I=REG>Network."
+msgstr "无法登录 PlayStation<I=REG>Network。"
+
+#: slot/0x00cba83b/0x029324/0x4b78c8
+msgid ""
+"Converted data already exists.\n"
+"Select \"DOWNLOAD CONVERTED DATA\" to retrieve the data."
+msgstr ""
+"转换数据已存在。\n"
+"选择“下载转换数据”以获取数据。"
+
+#: slot/0x00cba83b/0x029324/0x4bd998
+msgid "The connection has been cancelled."
+msgstr "连接已取消。"
+
+#: slot/0x00cba83b/0x029324/0x61d95e
+msgid ""
+"An error has occurred.\n"
+"Please verify that the PSP<I=TM> system's Date and Time\n"
+"Settings are correct."
+msgstr ""
+"发生错误。\n"
+"请确认 PSP<I=TM> 主机的日期和时间\n"
+"设置是否正确。"
+
+#: slot/0x00cba83b/0x029324/0x6c60ed
+msgid "The connection has timed out."
+msgstr "连接超时。"
+
+#: slot/0x00cba83b/0x029324/0x6d9c13
+msgid "Failed to send soldier data."
+msgstr "士兵数据发送失败。"
+
+#: slot/0x00cba83b/0x029324/0x6fe3de
+msgid "Failed to authenticate passcode."
+msgstr "密码验证失败。"
+
+#: slot/0x00cba83b/0x029324/0x709d89
+msgid "Failed to obtain Terms of Use."
+msgstr "使用条款获取失败。"
+
+#: slot/0x00cba83b/0x029324/0x8a774e
+msgid "Failed to connect to PlayStation<I=REG>Network."
+msgstr "无法连接PlayStation<I=REG>Network。"
+
+#: slot/0x00cba83b/0x029324/0x9b13a9
+msgid ""
+"The network's certificate was not issued by a trusted\n"
+"certification authority."
+msgstr ""
+"该网络证书并非由受信任的\n"
+"认证机构颁发。"
+
+#: slot/0x00cba83b/0x029324/0xa3c288
+msgid "Incorrect passcode."
+msgstr "密码错误。"
+
+#: slot/0x00cba83b/0x029324/0xb091db
+msgid ""
+"The data contains prohibited words or phrases.\n"
+"Prohibited words and phrases will automatically be replaced\n"
+"with other words.\n"
+"Are you sure you want to continue with conversion?"
+msgstr ""
+"数据中含有违禁词句。\n"
+"违禁词句将自动替换为\n"
+"其他词语。\n"
+"确定要继续转换吗？"
+
+#: slot/0x00cba83b/0x029324/0xb75bb2
+msgid "Currently there is no data available for download."
+msgstr "当前没有可下载的数据。"
+
+#: slot/0x00cba83b/0x029324/0xbef714
+msgid "Conversion request failed."
+msgstr "转换请求失败。"
+
+#: slot/0x00cba83b/0x029324/0xc3d753
+msgid "Failed to obtain data from server."
+msgstr "从服务器获取数据失败。"
+
+#: slot/0x00cba83b/0x029324/0xca0045
+msgid ""
+"Converting...\n"
+"Please wait."
+msgstr ""
+"正在转换……\n"
+"请稍候。"
+
+#: slot/0x00cba83b/0x029324/0xef39f4
+msgid ""
+"The system has been locked after three incorrect passcode\n"
+"entries.\n"
+"Please wait at least 24 hours before trying again."
+msgstr ""
+"连续三次输入错误密码后，系统已锁定。\n"
+"请至少等待24小时后再重试。\n"
+
+#: slot/0x00cba83b/0x029324/0xf1f6fc
+msgid "Online services are not available because of the parental control settings on your PlayStation<I=REG>Network account."
+msgstr "由于PlayStation<I=REG>Network账户的家长控制设置，在线服务不可用。"
+
+#: slot/0x00cbf8c0/0x77999c/0x01f3a8
+msgid "$1 has left the game."
+msgstr "$1已离开游戏。"
+
+#: slot/0x00cbf8c0/0x77999c/0x0727ae
+msgid "<I=CAN>: CANCEL"
+msgstr "<I=CAN>：取消"
+
+#: slot/0x00cbf8c0/0x77999c/0x072a66
+msgid ""
+"The host has kicked you.\n"
+"Ending game."
+msgstr ""
+"你已被主机踢出。\n"
+"正在结束游戏。"
+
+#: slot/0x00cbf8c0/0x77999c/0x0f848d
+msgid ""
+"Maximum number of players reached.\n"
+"Failed to connect to host."
+msgstr ""
+"玩家人数已达上限。\n"
+"连接主机失败。"
+
+#: slot/0x00cbf8c0/0x77999c/0x100da0
+msgid "Ending mission."
+msgstr "正在结束任务。"
+
+#: slot/0x00cbf8c0/0x77999c/0x1551cb
+msgid ""
+"Disconnected from the network.\n"
+"Ending game."
+msgstr ""
+"已断开网络。\n"
+"结束游戏。"
+
+#: slot/0x00cbf8c0/0x77999c/0x162c8d
+msgid ""
+"Soldier data has been corrupted.\n"
+"Ending game."
+msgstr ""
+"士兵数据损坏。\n"
+"结束游戏。"
+
+#: slot/0x00cbf8c0/0x77999c/0x29e03a
+msgid ""
+"You have been kicked for idling more than 10 minutes.\n"
+"Ending game."
+msgstr ""
+"因闲置超过10分钟，你已被踢出。\n"
+"正在结束游戏。"
+
+#: slot/0x00cbf8c0/0x77999c/0x3561fa
+msgid "The host has ended the mission"
+msgstr "主机已结束任务"
+
+#: slot/0x00cbf8c0/0x77999c/0x38551c
+msgid "Failed to join game."
+msgstr "加入游戏失败"
+
+#: slot/0x00cbf8c0/0x77999c/0x39d0fb
+msgid "Create game"
+msgstr "创建游戏"
+
+#: slot/0x00cbf8c0/0x77999c/0x39ec29
+msgid ""
+"Join the selected host's game?\n"
+"<I=DEC>: YES  <I=CAN>: NO"
+msgstr ""
+"加入所选主机的游戏？\n"
+"<I=DEC>：是  <I=CAN>：否"
+
+#: slot/0x00cbf8c0/0x77999c/0x3b9c23
+msgid "Send game"
+msgstr "发送游戏"
+
+#: slot/0x00cbf8c0/0x77999c/0x3f9049
+msgid "The host is restarting the game."
+msgstr "主机正在重启游戏。"
+
+#: slot/0x00cbf8c0/0x77999c/0x3fdf05
+msgid ""
+"A communications error has occurred.\n"
+"Ending game."
+msgstr ""
+"发生通信错误。\n"
+"正在结束游戏。"
+
+#: slot/0x00cbf8c0/0x77999c/0x479c41
+msgid "Start game"
+msgstr "开始"
+
+#: slot/0x00cbf8c0/0x77999c/0x4b2ea9
+msgid "Failed to connect to host."
+msgstr "连接主机失败。"
+
+#: slot/0x00cbf8c0/0x77999c/0x5daf44
+msgid ""
+"Disconnected from the server.\n"
+"Ending game."
+msgstr ""
+"已断开服务器。\n"
+"结束游戏。"
+
+#: slot/0x00cbf8c0/0x77999c/0x641021
+#: slot/0x00cbf8c0/0x77999c/0xb4f5dd
+msgid "Error"
+msgstr "错误"
+
+#: slot/0x00cbf8c0/0x77999c/0x657f2f
+msgid "Leaving this game."
+msgstr "离开游戏。"
+
+#: slot/0x00cbf8c0/0x77999c/0x6d6c49
+msgid ""
+"Password is not long enough.\n"
+"Password must be between 3 to 15 characters."
+msgstr ""
+"密码长度不足。\n"
+"密码须为3至15个字符。"
+
+#: slot/0x00cbf8c0/0x77999c/0x6e09db
+msgid ""
+"Password is incorrect.\n"
+"Failed to connect to host."
+msgstr ""
+"密码不正确。\n"
+"连接主机失败。"
+
+#: slot/0x00cbf8c0/0x77999c/0x7c321d
+msgid ""
+"Game rules and map have not been set.\n"
+"Please set game's rules and map."
+msgstr ""
+"游戏规则与地图尚未设置。\n"
+"请设置游戏规则与地图。"
+
+#: slot/0x00cbf8c0/0x77999c/0x7cb086
+msgid "Error code"
+msgstr "错误码"
+
+#: slot/0x00cbf8c0/0x77999c/0x7d0050
+msgid "Join game"
+msgstr "加入"
+
+#: slot/0x00cbf8c0/0x77999c/0x824d35
+msgid "The game started by the host has ended."
+msgstr "主机开始的游戏已结束。"
+
+#: slot/0x00cbf8c0/0x77999c/0x842308
+msgid "Failed to create game."
+msgstr "创建游戏失败。"
+
+#: slot/0x00cbf8c0/0x77999c/0x8655b5
+#: slot/0x00cbf8c0/0x77999c/0xabbe60
+msgid "Unable to locate host."
+msgstr "找不到主机。"
+
+#: slot/0x00cbf8c0/0x77999c/0x8abb98
+msgid "Failed to connect to the network."
+msgstr "连接网络失败。"
+
+#: slot/0x00cbf8c0/0x77999c/0x8ccd59
+msgid "The host has ended the game."
+msgstr "主机已结束游戏。"
+
+#: slot/0x00cbf8c0/0x77999c/0x9524c7
+msgid "Restarting game."
+msgstr "重启中。"
+
+#: slot/0x00cbf8c0/0x77999c/0x970dce
+msgid "Searching for host..."
+msgstr "正在搜索主机..."
+
+#: slot/0x00cbf8c0/0x77999c/0x99f3a6
+msgid ""
+"You have been kicked for killing at least 3 team members.\n"
+"Ending game."
+msgstr ""
+"因击杀至少3名队友，你已被踢出。\n"
+"正在结束游戏。"
+
+#: slot/0x00cbf8c0/0x77999c/0xa1a5e6
+msgid ""
+"Select a host to join.\n"
+"<I=DEC>: OK  <I=CAN>: BACK  <I=△>: REFRESH LIST"
+msgstr ""
+"选择要加入的主机。\n"
+"<I=DEC>：确定  <I=CAN>：返回  <I=△>：刷新列表"
+
+#: slot/0x00cbf8c0/0x77999c/0xa43fcd
+msgid "PROCEEDING TO NEXT STAGE"
+msgstr "正在进入下一阶段"
+
+#: slot/0x00cbf8c0/0x77999c/0xaa14a4
+msgid ""
+"Game rules and map have not been set.\n"
+"Please set games rules and map."
+msgstr ""
+"游戏规则和地图未设置。\n"
+"请先设置。"
+
+#: slot/0x00cbf8c0/0x77999c/0xad3b5b
+msgid "The host is restarting the mission."
+msgstr "主机正在重启任务。"
+
+#: slot/0x00cbf8c0/0x77999c/0xb25190
+msgid "This host's game is already full."
+msgstr "该主机的游戏人数已满。"
+
+#: slot/0x00cbf8c0/0x77999c/0xbbc34f
+msgid "Ending game."
+msgstr "正在结束游戏。"
+
+#: slot/0x00cbf8c0/0x77999c/0xbcb085
+msgid ""
+"An error has occurred.\n"
+"Unable to connect to host."
+msgstr ""
+"发生错误。\n"
+"无法连接主机。"
+
+#: slot/0x00cbf8c0/0x77999c/0xc546a4
+msgid ""
+"The disc for METAL GEAR SOLID PEACE WALKER is not inserted properly.\n"
+"Ending game."
+msgstr ""
+"METAL GEAR SOLID PEACE WALKER 光盘未正确插入。\n"
+"正在结束游戏。"
+
+#: slot/0x00cbf8c0/0x77999c/0xc5b5f0
+msgid "No errors"
+msgstr "无错误"
+
+#: slot/0x00cbf8c0/0x77999c/0xc932e3
+msgid ""
+"Host name is not long enough.\n"
+"Host names must be between 3 to 15 characters."
+msgstr ""
+"主机名太短。\n"
+"主机名须为3至15个字符。"
+
+#: slot/0x00cbf8c0/0x77999c/0xcbfa50
+msgid "Restarting mission."
+msgstr "重启任务。"
+
+#: slot/0x00cbf8c0/0x77999c/0xcd3891
+msgid ""
+"Wireless connection has been lost. \n"
+"The WLAN/WIRELESS switch is OFF."
+msgstr ""
+"无线连接已断开。\n"
+"WLAN/WIRELESS 开关处于 OFF。"
+
+#: slot/0x00cbf8c0/0x77999c/0xd57e5c
+msgid "Connection to the host has been lost.  Ending game."
+msgstr "与主机的连接已断开。正在结束游戏。"
+
+#: slot/0x00cbf8c0/0x77999c/0xea30db
+msgid "Processing host connection..."
+msgstr "正在处理主机连接..."
+
+#: slot/0x00cbf8c0/0x77999c/0xeccf17
+msgid "Waiting for players to join game..."
+msgstr "正在等待玩家加入游戏..."
+
+#: slot/0x00cbf8c0/0x77999c/0xf07597
+msgid "Error number"
+msgstr "错误编号"
+
+#: slot/0x00cbf8c0/0x77999c/0xf4c33d
+msgid "Leaving mission."
+msgstr "离开任务。"
+
+#: slot/0x00cdd1c4/0xc6e14e/0x06dfc8
+msgid "FILE LIBRARY $1 $2"
+msgstr "文件库 $1 $2"
+
+#: slot/0x00cdd1c4/0xc6e14e/0x12884a
+msgid "Data Files"
+msgstr "数据"
+
+#: slot/0x00cdd1c4/0xc6e14e/0x2891d4
+msgid "EVA"
+msgstr "EVA"
+
+#: slot/0x00cdd1c4/0xc6e14e/0x28bb4d
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2e9
+msgid "Paz"
+msgstr "帕兹"
+
+#: slot/0x00cdd1c4/0xc6e14e/0x2dfd93
+msgid "SAVE:   QUIT WITHOUT SAVING:"
+msgstr "保存：   退出不保存："
+
+#: slot/0x00cdd1c4/0xc6e14e/0x5cb77e
+msgid "ABOUT THIS MISSION $1 $2"
+msgstr "关于此任务 $1 $2"
+
+#: slot/0x00cdd1c4/0xc6e14e/0x6cfda1
+msgid ": "
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0x6d472a
+msgid "－－"
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0x7c8ccb
+msgid "Zadornov"
+msgstr "扎多"
+
+#: slot/0x00cdd1c4/0xc6e14e/0x81a65d
+msgid "FEMALE 1"
+msgstr "女声1"
+
+#: slot/0x00cdd1c4/0xc6e14e/0x81a65e
+msgid "FEMALE 2"
+msgstr "女声2"
+
+#: slot/0x00cdd1c4/0xc6e14e/0x84e8ab
+msgid "The Boss AI"
+msgstr "THE BOSS AI"
+
+#: slot/0x00cdd1c4/0xc6e14e/0x9f57bb
+msgid "Snake and Miller"
+msgstr "SNAKE与米勒"
+
+#: slot/0x00cdd1c4/0xc6e14e/0xb5b581
+msgid "SKIP: "
+msgstr "跳过："
+
+#: slot/0x00cdd1c4/0xc6e14e/0xdcc628
+msgid "Cécile"
+msgstr "塞西尔"
+
+#: slot/0x00ce245a/0x0a7cd6/0x000000
+#: slot/0x00ce245c/0x0a7cd6/0x000002
+#: slot/0x00db94df/0xae802f/0x000000
+msgid "Self-defense system online."
+msgstr "自卫系统已上线。"
+
+#: slot/0x00ce245a/0x0a7cd6/0x000001
+#: slot/0x00ce245c/0x0a7cd6/0x000004
+msgid "Flamethrower engaged."
+msgstr "火焰喷射器启动。"
+
+#: slot/0x00ce245a/0x0a7cd6/0x000003
+#: slot/0x00ce245c/0x0a7cd6/0x000006
+msgid "Firing rocket launcher."
+msgstr "发射火箭筒。"
+
+#: slot/0x00ce245a/0x0a7cd6/0x000004
+msgid "Balancer malfunction detected."
+msgstr "检测到平衡器故障。"
+
+#: slot/0x00ce245a/0x0a7cd6/0x000005
+#: slot/0x00ce245c/0x0a7cd6/0x00000a
+msgid "Leg drive motor charging."
+msgstr "腿部电机充能。"
+
+#: slot/0x00ce245a/0x0a7cd6/0x000006
+#: slot/0x00ce245c/0x0a7cd6/0x00001e
+#: slot/0x00ce245c/0x0a7cd6/0x000040
+#: slot/0x00ce245c/0x0a7cd6/0x000062
+msgid "Leg damage critical."
+msgstr "腿部损伤严重"
+
+#: slot/0x00ce245a/0x0a7cd6/0x000007
+#: slot/0x00ce245c/0x0a7cd6/0x00001f
+#: slot/0x00ce245c/0x0a7cd6/0x000041
+#: slot/0x00ce245c/0x0a7cd6/0x000063
+msgid "Weapon container destroyed."
+msgstr "武器集装箱已摧毁。"
+
+#: slot/0x00ce245a/0x0a7cd6/0x000008
+#: slot/0x00ce245c/0x0a7cd6/0x000020
+msgid "You've gotten stronger..."
+msgstr "你变强了……"
+
+#: slot/0x00ce245a/0x0a7cd6/0x00000a
+#: slot/0x00ce245c/0x0a7cd6/0x000021
+msgid "Face me!"
+msgstr "来战！"
+
+#: slot/0x00ce245c/0x0a7cd6/0x000001
+msgid "Reinitializing platform."
+msgstr "重初始化平台。"
+
+#: slot/0x00ce245c/0x0a7cd6/0x000003
+#: slot/0x00db94df/0xc4febe/0x000001
+msgid "Switching to self-defense mode."
+msgstr "切换至自卫模式。"
+
+#: slot/0x00ce245c/0x0a7cd6/0x000007
+msgid "Firing drill missiles."
+msgstr "发射钻头导弹。"
+
+#: slot/0x00ce245c/0x0a7cd6/0x000009
+msgid "EM pulse at maximum."
+msgstr "电磁脉冲满。"

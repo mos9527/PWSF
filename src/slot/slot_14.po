@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PWSF slot 14/26\n"
+"Project-Id-Version: PWSF slot 14/24\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -8,1488 +8,6 @@ msgstr ""
 "X-PWSF-Source: slot\n"
 "X-PWSF-Entries: 400\n"
 
-
-#: slot/0x0052e4f8/0x594864/0x000036
-msgid "Lightweight pump-action shotgun. Equipped with scope. Combines the features of a shotgun with added range."
-msgstr "轻型泵动霰弹枪。配有瞄准镜。兼具霰弹枪特性与更远射程。"
-
-#: slot/0x0052e4f8/0x594864/0x000037
-msgid "Automatic shotgun. Holds six rounds. Its rapid-fire capability brings immense  firepower, but it is difficult to handle."
-msgstr "自动霰弹枪。可装六发。连射火力强大，但难以操控。"
-
-#: slot/0x0052e4f8/0x594864/0x000038
-#: slot/0x0052e4f8/0x594864/0x000039
-msgid "Automatic shotgun. Modified to hold eight rounds. Its rapid-fire capability brings immense firepower, but it is difficult to handle."
-msgstr "自动霰弹枪。改装后可装八发。连射火力强大，但难以操控。"
-
-#: slot/0x0052e4f8/0x594864/0x00003a
-msgid "Prototype full-auto shotgun. Its outstanding capacity and firing speed make it the most powerful shotgun in the world."
-msgstr "试作型全自动霰弹枪。出色的装弹量与射速使其成为世上最强的霰弹枪。"
-
-#: slot/0x0052e4f8/0x594864/0x00003d
-msgid "Large-caliber submachine gun. Requires both hands to use, preventing the use of a shield, but it is both easy to handle and accurate."
-msgstr "大口径冲锋枪。需双手持用，无法同时使用盾牌，但易于操控且精准。"
-
-#: slot/0x0052e4f8/0x594864/0x00003e
-msgid "Large-caliber submachine gun. Requires both hands to use, preventing the use of a shield, but the addition of a grip increases accuracy."
-msgstr "大口径冲锋枪。需双手持用，无法同时使用盾牌，但加装握把提升了精准度。"
-
-#: slot/0x0052e4f8/0x594864/0x00003f
-msgid "Large-caliber submachine gun. Requires both hands to use, preventing the use of a shield, but the addition of a grip increases accuracy. Increased magazine capacity."
-msgstr "大口径冲锋枪。需双手持用，无法同时使用盾牌，但加装握把提升了精准度。弹匣容量增加。"
-
-#: slot/0x0052e4f8/0x594864/0x000040
-msgid "Compact, lightweight submachine gun. Its high firing speed makes it effective at stopping the enemy, but it suffers from low accuracy."
-msgstr "紧凑轻便的冲锋枪。高射速能有效压制敌人，但精准度较低。"
-
-#: slot/0x0052e4f8/0x594864/0x000041
-msgid "Compact, lightweight submachine gun. Its high firing speed makes it effective at stopping the enemy, but it suffers from low accuracy. Equipped with suppressor."
-msgstr "紧凑轻便的冲锋枪。高射速能有效压制敌人，但精准度较低。配有消音器。"
-
-#: slot/0x0052e4f8/0x594864/0x000042
-msgid "Compact, lightweight submachine gun. Its high firing speed makes it effective at stopping the enemy. The barrel jacket increases accuracy."
-msgstr "紧凑轻便的冲锋枪。高射速能有效压制敌人。枪管护套提升了精准度。"
-
-#: slot/0x0052e4f8/0x594864/0x000043
-msgid "High-precision submachine gun. Possessing the same firing mechanism as an assault rifle, it is the most accurate submachine gun in the world."
-msgstr "高精度冲锋枪。采用与突击步枪相同的击发机构，是世上最精准的冲锋枪。"
-
-#: slot/0x0052e4f8/0x594864/0x000044
-msgid "High-precision submachine gun. Possessing the same firing mechanism as an assault rifle, it is the most accurate submachine gun in the world. Equipped with suppressor."
-msgstr "高精度冲锋枪。采用与突击步枪相同的击发机构，是世上最精准的冲锋枪。配有消音器。"
-
-#: slot/0x0052e4f8/0x594864/0x000045
-msgid "High-precision submachine gun, the most accurate in the world. Its built-in suppressor ensures a continuous silencing effect."
-msgstr "高精度冲锋枪，世上最精准。内置消音器可持续消音。"
-
-#: slot/0x0052e4f8/0x594864/0x000046
-msgid "Compact, lightweight submachine gun. Has low recoil and wide AUTO AIM range, but low shot-for-shot power as well."
-msgstr "紧凑轻便的冲锋枪。后坐力小、自动瞄准范围广，但单发威力也低。"
-
-#: slot/0x0052e4f8/0x594864/0x000047
-#: slot/0x0052e4f8/0x594864/0x000048
-msgid "Compact, lightweight submachine gun. Has low recoil and wide AUTO AIM range, but low shot-for-shot power as well. Equipped with suppressor."
-msgstr "紧凑轻便的冲锋枪。后坐力小、自动瞄准范围广，但单发威力也低。配有消音器。"
-
-#: slot/0x0052e4f8/0x594864/0x00004b
-#: slot/0x0052e4f8/0x594864/0x000231
-#: slot/0x0052e4f8/0x594864/0x000232
-#: slot/0x0052e4f8/0x594864/0x000233
-msgid ""
-"Compact & lightweight submachine gun.\n"
-"Press the Attack Button while \n"
-"holding the Aim Button to fire. "
-msgstr "紧凑轻便的冲锋枪。\n按住瞄准键时\n按下攻击键即可开火。"
-
-#: slot/0x0052e4f8/0x594864/0x00004c
-#: slot/0x0052e4f8/0x594864/0x00004d
-msgid "New-model, lightweight assault rifle. Highly accurate and can be equipped with a variety of parts through R&D."
-msgstr "新型轻量突击步枪。精准度高，可通过研发加装多种配件。"
-
-#: slot/0x0052e4f8/0x594864/0x00004e
-msgid "New-model, lightweight assault rifle. Combines its high accuracy with a suppressor, increasing its usefulness in covert operations."
-msgstr "新型轻量突击步枪。高精准度结合消音器，提升了隐秘行动的实用性。"
-
-#: slot/0x0052e4f8/0x594864/0x00004f
-msgid "New-model, lightweight assault rifle. Outfitted with shotgun. Switch with the R button (for hunter control type, press <I=RIGH>)."
-msgstr "新型轻量突击步枪。配有霰弹枪。用R键切换（猎人操作模式按<I=RIGH>）。"
-
-#: slot/0x0052e4f8/0x594864/0x000050
-#: slot/0x0052e4f8/0x594864/0x00005b
-msgid "Large-frame assault pistol modified from an M16. Though it has intense recoil and is difficult to handle, it possesses unlimited ammo."
-msgstr "由M16改装的大口径突击手枪。后坐力强、难以操控，但弹药无限。"
-
-#: slot/0x0052e4f8/0x594864/0x000051
-msgid "New-model, lightweight assault rifle. Outfitted with shotgun and laser sight. Switch with the R button (for hunter control type, press <I=RIGH>)."
-msgstr "新型轻量突击步枪。配有霰弹枪与激光瞄准器。用R键切换（猎人操作模式按<I=RIGH>）。"
-
-#: slot/0x0052e4f8/0x594864/0x000052
-msgid "M16a1_A(Shotgun)"
-msgstr ""
-
-#: slot/0x0052e4f8/0x594864/0x000053
-msgid "New-model, lightweight assault rifle. Outfitted with grenade launcher. Switch with the R button (for hunter control type, press <I=RIGH>)."
-msgstr "新型轻量突击步枪。配有榴弹发射器。用R键切换（猎人操作模式按<I=RIGH>）。"
-
-#: slot/0x0052e4f8/0x594864/0x000054
-#: slot/0x0052e4f8/0x594864/0x000055
-msgid "New-model, lightweight assault rifle. Outfitted with grenade launcher and laser sight. Switch with the R button (for hunter control type, press <I=RIGH>)."
-msgstr "新型轻量突击步枪。配有榴弹发射器与激光瞄准器。用R键切换（猎人操作模式按<I=RIGH>）。"
-
-#: slot/0x0052e4f8/0x594864/0x000056
-msgid "M16a1_B(Grenader) "
-msgstr ""
-
-#: slot/0x0052e4f8/0x594864/0x000057
-msgid "New-model, lightweight assault rifle. Outfitted with smoke grenade launcher. Switch with the R button (for hunter control type, press <I=RIGH>)."
-msgstr "新型轻量突击步枪。配有烟雾弹发射器。用R键切换（猎人操作模式按<I=RIGH>）。"
-
-#: slot/0x0052e4f8/0x594864/0x000058
-#: slot/0x0052e4f8/0x594864/0x000059
-msgid "New-model, lightweight assault rifle. Outfitted with smoke grenade launcher and laser sight. Switch with the R button (for hunter control type, press <I=RIGH>)."
-msgstr "新型轻量突击步枪。配有烟雾弹发射器与激光瞄准器。用R键切换（猎人操作模式按<I=RIGH>）。"
-
-#: slot/0x0052e4f8/0x594864/0x00005a
-msgid "M16a1_C(Smoke Grenader)"
-msgstr "M16a1_C(烟雾榴弹)"
-
-#: slot/0x0052e4f8/0x594864/0x00005c
-msgid "Compact, lightweight carbine. Highly accurate and easy to handle. Can be equipped with a variety of parts through R&D."
-msgstr "紧凑轻便的卡宾枪。精度高、易操作。可通过研发加装多种配件。"
-
-#: slot/0x0052e4f8/0x594864/0x00005d
-msgid "Compact, lightweight carbine. Highly accurate and easy to handle. Equipped with suppressor through R&D."
-msgstr "紧凑轻便的卡宾枪。精度高、易操作。已通过研发加装消音器。"
-
-#: slot/0x0052e4f8/0x594864/0x00005e
-#: slot/0x0052e4f8/0x594864/0x00005f
-msgid "Compact, lightweight carbine. Outfitted with grenade launcher. Switch with the R button (for hunter control type, press <I=RIGH>)."
-msgstr "紧凑轻便的卡宾枪。配备榴弹发射器。按R键切换（猎人操作模式按<I=RIGH>）。"
-
-#: slot/0x0052e4f8/0x594864/0x000060
-#: slot/0x0052e4f8/0x594864/0x000061
-msgid "Compact, lightweight carbine. Outfitted with underbarrel shotgun. Switch with the R button (for hunter control type, press <I=RIGH>)."
-msgstr "紧凑轻便的卡宾枪。配备下挂式霰弹枪。按R键切换（猎人操作模式按<I=RIGH>）。"
-
-#: slot/0x0052e4f8/0x594864/0x000062
-#: slot/0x0052e4f8/0x594864/0x000063
-msgid "Compact, lightweight carbine. Outfitted with smoke grenade launcher. Switch with the R button (for hunter control type, press <I=RIGH>)."
-msgstr "紧凑轻便的卡宾枪。配备烟雾榴弹发射器。按R键切换（猎人操作模式按<I=RIGH>）。"
-
-#: slot/0x0052e4f8/0x594864/0x000064
-msgid "Soviet assault rifle. Its massive firepower is effective at stopping the enemy, but its strong recoil reduces accuracy."
-msgstr "苏联突击步枪。强大火力能有效压制敌人，但后坐力大、精度下降。"
-
-#: slot/0x0052e4f8/0x594864/0x000065
-msgid "Soviet assault rifle. Equipped with grenade launcher. Switch with the R button (for hunter control type, press <I=RIGH>)."
-msgstr "苏联突击步枪。配备榴弹发射器。按R键切换（猎人操作模式按<I=RIGH>）。"
-
-#: slot/0x0052e4f8/0x594864/0x000066
-#: slot/0x0052e4f8/0x594864/0x00006a
-#: slot/0x0052e4f8/0x594864/0x00006b
-msgid "Romanian assault rifle. Equipped with a recoil buffer on the stock, maintaining its power while reducing recoil."
-msgstr "罗马尼亚突击步枪。枪托装有缓冲器，保持威力的同时减小后坐力。"
-
-#: slot/0x0052e4f8/0x594864/0x000067
-#: slot/0x0052e4f8/0x594864/0x000068
-msgid "Soviet assault rifle. Equipped with smoke grenade launcher. Switch with the R button (for hunter control type, press <I=RIGH>)."
-msgstr "苏联突击步枪。配备烟雾榴弹发射器。按R键切换（猎人操作模式按<I=RIGH>）。"
-
-#: slot/0x0052e4f8/0x594864/0x000069
-msgid "Romanian assault rifle. Very powerful, but has strong recoil. Equipped with foregrip, increasing accuracy."
-msgstr "罗马尼亚突击步枪。威力强大但后坐力大。配备前握把，提升精度。"
-
-#: slot/0x0052e4f8/0x594864/0x00006c
-msgid "Soviet light machine gun. The long barrel means low recoil, but it is difficult to handle. Its powerful rounds are effective at stopping the enemy."
-msgstr "苏联轻机枪。长枪管后坐力小，但难以操控。强力弹药能有效压制敌人。"
-
-#: slot/0x0052e4f8/0x594864/0x00006d
-msgid "Soviet light machine gun. The long barrel means low recoil, but it is difficult to handle. Its powerful rounds are effective at stopping the enemy. Increased mag capacity."
-msgstr "苏联轻机枪。长枪管后坐力小，但难以操控。强力弹药能有效压制敌人。弹容量增加。"
-
-#: slot/0x0052e4f8/0x594864/0x00006e
-msgid "Large-caliber assault rifle. Difficult to handle but powerful. Has wide AUTO AIM range."
-msgstr "大口径突击步枪。难以操控但威力强大。自动瞄准范围广。"
-
-#: slot/0x0052e4f8/0x594864/0x00006f
-msgid "Large-caliber assault rifle. Powerful, with wide AUTO AIM range. The shorter barrel makes it easier to handle."
-msgstr "大口径突击步枪。威力强大，自动瞄准范围广。枪管较短，更易操控。"
-
-#: slot/0x0052e4f8/0x594864/0x000070
-msgid "Large-caliber assault rifle. Powerful, with a wide AUTO AIM range. The laser sight enables easier targeting."
-msgstr "大口径突击步枪。威力强大，自动瞄准范围广。激光瞄准器更易锁定目标。"
-
-#: slot/0x0052e4f8/0x594864/0x000071
-msgid "Bullpup assault rifle. While only moderately powerful, it is compact and easy to handle, with low recoil as well."
-msgstr "无托突击步枪。威力一般，但紧凑易操控，后坐力也小。"
-
-#: slot/0x0052e4f8/0x594864/0x000072
-msgid "Prototype caseless assault rifle. Though its low recoil ammo enables easier targeting, it lacks power."
-msgstr "无壳弹突击步枪原型。低后坐力弹药更易瞄准，但威力不足。"
-
-#: slot/0x0052e4f8/0x594864/0x000073
-msgid "A musket. When this gun hits its target, mysterious things may happen from time to time."
-msgstr "火枪。当此枪命中目标时，偶尔会发生怪事。"
-
-#: slot/0x0052e4f8/0x594864/0x000081
-#: slot/0x0052e4f8/0x594864/0x000082
-msgid ""
-"Compact & lightweight assault rifle.\n"
-"Press the Attack Button while \n"
-"holding the Aim Button to fire. "
-msgstr "紧凑轻便的突击步枪。\n按住瞄准键时\n按下攻击键即可开火。"
-
-#: slot/0x0052e4f8/0x594864/0x000089
-msgid "Large-caliber general purpose machine gun. Has a large capacity and can maintain high firepower, but its weight makes it hard to handle."
-msgstr "大口径通用机枪。弹容量大、可持续输出火力，但重量大难以操控。"
-
-#: slot/0x0052e4f8/0x594864/0x00008a
-msgid "Large-caliber general purpose machine gun. Though still heavy and hard to handle, its use of armor piercing also makes it an effective weapon against armored vehicles."
-msgstr "大口径通用机枪。依然沉重难操控，但使用穿甲弹，对装甲车也有效。"
-
-#: slot/0x0052e4f8/0x594864/0x00008b
-#: slot/0x0052e4f8/0x594864/0x00008c
-msgid "Large-caliber general purpose machine gun. A high capacity of armor piercing rounds maintains its firepower, and a shorter barrel makes it easier to handle."
-msgstr "大口径通用机枪。大容量穿甲弹维持火力，枪管较短更易操控。"
-
-#: slot/0x0052e4f8/0x594864/0x00008d
-msgid "Lightweight light machine gun. Uses armor piercing rounds, a big advantage against armored vehicles. The lightest machine gun in the world, making it easy to handle."
-msgstr "轻型轻机枪。使用穿甲弹，对装甲车有巨大优势。世界最轻的机枪，易于操控。"
-
-#: slot/0x0052e4f8/0x594864/0x00008e
-#: slot/0x0052e4f8/0x594864/0x00008f
-msgid "Lightweight light machine gun. Uses armor piercing rounds. The lightest machine gun in the world, making it easy to handle. The shorter barrel further improves handling."
-msgstr "轻型轻机枪。使用穿甲弹。世界最轻的机枪，易于操控。枪管较短，操控性进一步提升。"
-
-#: slot/0x0052e4f8/0x594864/0x000090
-msgid "Soviet general purpose machine gun. Its high capacity allows it to maintain high firepower, but it is difficult to handle. Capacity can be increased."
-msgstr "苏联通用机枪。大容量使其能持续输出高火力，但较难操控。可扩充容量。"
-
-#: slot/0x0052e4f8/0x594864/0x000091
-#: slot/0x0052e4f8/0x594864/0x000092
-msgid "Soviet general purpose machine gun. Its high capacity allows it to maintain high firepower, but it is difficult to handle. Increased magazine capacity."
-msgstr "苏联通用机枪。大容量使其能持续输出高火力，但较难操控。弹匣容量已扩充。"
-
-#: slot/0x0052e4f8/0x594864/0x000093
-msgid "Soviet general purpose machine gun. Its high capacity allows it to maintain high firepower, but it is difficult to handle. Highest capacity among machine guns."
-msgstr "苏联通用机枪。大容量使其能持续输出高火力，但较难操控。机枪中容量最大。"
-
-#: slot/0x0052e4f8/0x594864/0x000094
-msgid "Soviet general purpose machine gun. Its high capacity allows it to maintain high firepower, and it is easier to handle with its shorter barrel."
-msgstr "苏联通用机枪。大容量使其能持续输出高火力，枪管较短更易操控。"
-
-#: slot/0x0052e4f8/0x594864/0x000095
-msgid "Large-caliber general purpose machine gun. Its extremely fast firing speed gives it great power, but strong recoil makes it hard to control."
-msgstr "大口径通用机枪。射速极快，威力巨大，但后坐力强难以控制。"
-
-#: slot/0x0052e4f8/0x594864/0x000096
-msgid "Large-caliber general purpose machine gun. Fast firing but strong recoil. Uses armor piercing rounds, which are effective against armored vehicles."
-msgstr "大口径通用机枪。射速快但后坐力强。使用穿甲弹，对装甲车有效。"
-
-#: slot/0x0052e4f8/0x594864/0x000097
-#: slot/0x0052e4f8/0x594864/0x000098
-msgid "Large-caliber general purpose machine gun. Uses armor piercing rounds. Its extremely fast firing speed gives it great power, but strong recoil makes it hard to control. Increased mag capacity."
-msgstr "大口径通用机枪。使用穿甲弹。射速极快，威力巨大，但后坐力强难以控制。弹匣容量已扩充。"
-
-#: slot/0x0052e4f8/0x594864/0x000099
-#: slot/0x0052e4f8/0x594864/0x00009b
-msgid "Gatling machine gun. Its high firing speed well exceeds that of normal machine guns, but it is also heavier and harder to use."
-msgstr "加特林机枪。射速远超普通机枪，但更重也更难使用。"
-
-#: slot/0x0052e4f8/0x594864/0x00009a
-msgid "Special gun that crosses multiple EM waves to concentrate a mass of energy in one spot. Requires a CO-OPS teammate to produce the necessary interference."
-msgstr "特殊枪械，可交叉多道电磁波将能量集中于一点。需合作任务队友制造必要的干扰。"
-
-#: slot/0x0052e4f8/0x594864/0x00009c
-#: slot/0x0052e4f8/0x594864/0x000237
-#: slot/0x0052e4f8/0x594864/0x000238
-#: slot/0x0052e4f8/0x594864/0x000239
-msgid ""
-"Large-bore general purpose machine gun\n"
-"Press the Attack Button while \n"
-"holding the Aim Button to fire. "
-msgstr "大口径通用机枪\n按住瞄准键的同时\n按下攻击键即可开火。"
-
-#: slot/0x0052e4f8/0x594864/0x00009f
-msgid "Large-caliber, automatic sniper rifle. While not the most accurate, its rapid fire capability allows for quick follow-up shots. Zoom can be adjusted. "
-msgstr "大口径自动狙击步枪。精度不算最高，但射速快可迅速补射。可调整倍率。"
-
-#: slot/0x0052e4f8/0x594864/0x0000a0
-msgid "Large-caliber, automatic sniper rifle. While not the most accurate, it is capable of rapid fire and offers 3 levels of zoom."
-msgstr "大口径自动狙击步枪。精度不算最高，但射速快，具备3级倍率。"
-
-#: slot/0x0052e4f8/0x594864/0x0000a1
-#: slot/0x0052e4f8/0x594864/0x0000a2
-msgid "Large-caliber, automatic sniper rifle. While not the most accurate, it is capable of rapid fire. Uses PSYCHE Recovery Rounds. Offers 3 levels of zoom."
-msgstr "大口径自动狙击步枪。精度不算最高，但射速快。使用精神恢复弹。具备3级倍率。"
-
-#: slot/0x0052e4f8/0x594864/0x0000a3
-msgid "Large-caliber, automatic sniper rifle. Uses armor piercing rounds effective against vehicles. Boasts high capacity, rapid fire, and high accuracy. Offers 3 levels of zoom."
-msgstr "大口径自动狙击步枪。使用对车辆有效的穿甲弹。容量大、射速快、精度高。具备3级倍率。"
-
-#: slot/0x0052e4f8/0x594864/0x0000a4
-msgid "Large-caliber, automatic sniper rifle. Uses armor piercing rounds. Boasts high capacity, rapid fire, and high accuracy. Easier to handle with its shorter barrel."
-msgstr "大口径自动狙击步枪。使用穿甲弹。容量大、射速快、精度高。枪管较短更易操控。"
-
-#: slot/0x0052e4f8/0x594864/0x0000a5
-msgid "Large-caliber, automatic sniper rifle. Uses armor piercing rounds. Boasts high capacity, rapid fire, and high accuracy. Equipped with suppressor."
-msgstr "大口径自动狙击步枪。使用穿甲弹。容量大、射速快、精度高。配备消音器。"
-
-#: slot/0x0052e4f8/0x594864/0x0000a6
-msgid "High-precision, bolt-action sniper rifle. Uses armor piercing rounds, resulting in devastating power even against armored vehicles. Offers three levels of zoom."
-msgstr "高精度栓动狙击步枪。使用穿甲弹，对装甲车也能造成毁灭性威力。具备3级倍率。"
-
-#: slot/0x0052e4f8/0x594864/0x0000a7
-#: slot/0x0052e4f8/0x594864/0x0000a8
-msgid "High-precision, bolt-action sniper rifle. Uses armor piercing rounds, resulting in devastating power. The bull barrel helps reduce muzzle jump."
-msgstr "高精度栓动狙击步枪。使用穿甲弹，威力毁灭性。重型枪管有助于减少枪口上跳。"
-
-#: slot/0x0052e4f8/0x594864/0x0000a9
-#: slot/0x0052e4f8/0x594864/0x0000aa
-msgid "High-precision, bolt-action sniper rifle. Uses LIFE Recovery Rounds. Offers three levels of zoom."
-msgstr "高精度栓动狙击步枪。使用生命值恢复弹。具备3级倍率。"
-
-#: slot/0x0052e4f8/0x594864/0x0000ab
-msgid "Tranquilizer sniper rifle. Can knock enemies out from a distance, but its bolt-action design does not allow for rapid fire. Zoom can be adjusted. "
-msgstr "麻醉狙击步枪。可远距离击晕敌人，但栓动设计无法快速连射。可调整倍率。"
-
-#: slot/0x0052e4f8/0x594864/0x0000ac
-msgid "Tranquilizer sniper rifle. Can knock enemies out from a distance, but its bolt-action design does not allow for rapid fire. Offers three levels of zoom."
-msgstr "麻醉狙击步枪。可远距离击晕敌人，但栓动设计无法快速连射。具备3级倍率。"
-
-#: slot/0x0052e4f8/0x594864/0x0000ad
-#: slot/0x0052e4f8/0x594864/0x0000ae
-msgid "Tranquilizer sniper rifle. The skeleton stock results in a reduced weight."
-msgstr "麻醉狙击步枪。骨架枪托减轻了重量。"
-
-#: slot/0x0052e4f8/0x594864/0x0000af
-msgid "Tranquilizer sniper rifle. The suppressor provides an additional edge in long-range combat."
-msgstr "麻醉狙击步枪。消音器为远距离战斗增添优势。"
-
-#: slot/0x0052e4f8/0x594864/0x0000b0
-msgid "Soviet large-caliber automatic sniper rifle. Its armor piercing bullets will penetrate helmets. Offers three levels of zoom."
-msgstr "苏联大口径自动狙击步枪。穿甲弹可击穿头盔。具备3级倍率。"
-
-#: slot/0x0052e4f8/0x594864/0x0000b1
-msgid "Soviet large-caliber automatic sniper rifle. Uses armor piercing bullets for effective resistance against armored vehicles and is  relatively easy to handle."
-msgstr "苏联大口径自动狙击步枪。使用穿甲弹，能有效对抗装甲车，且相对易于操控。"
-
-#: slot/0x0052e4f8/0x594864/0x0000b2
-msgid "Soviet large-caliber automatic sniper rifle. Uses armor piercing bullets and is relatively easy to handle. Increased magazine capacity."
-msgstr "苏联大口径自动狙击步枪。使用穿甲弹，较易操控。弹匣容量增加。"
-
-#: slot/0x0052e4f8/0x594864/0x0000b3
-msgid "Soviet large-caliber automatic sniper rifle. Uses armor piercing bullets and is relatively easy to handle. The night-vision sight supports combat in the dark."
-msgstr "苏联大口径自动狙击步枪。使用穿甲弹，较易操控。夜视瞄准镜支持夜间作战。"
-
-#: slot/0x0052e4f8/0x594864/0x0000b4
-msgid "Prototype bullpup automatic sniper rifle. Uses armor piercing rounds that can pierce even the thickest plating. Hard to handle but extremely accurate."
-msgstr "无托式自动狙击步枪原型。使用穿甲弹，可击穿最厚的装甲。难以操控但精度极高。"
-
-#: slot/0x0052e4f8/0x594864/0x0000b5
-#: slot/0x0052e4f8/0x594864/0x0000b6
-msgid "Prototype bullpup automatic sniper rifle. Uses armor piercing rounds. Hard to handle but extremely accurate. Offers three levels of zoom."
-msgstr "无托式自动狙击步枪原型。使用穿甲弹。难以操控但精度极高。提供三级变焦。"
-
-#: slot/0x0052e4f8/0x594864/0x0000b7
-#: slot/0x0052e4f8/0x594864/0x0000b8
-msgid "Large-caliber anti-tank rifle. Single-shot. Offers three levels of zoom. Its massive power easily tears through even thick metal."
-msgstr "大口径反坦克步枪。单发。提供三级变焦。其巨大威力可轻易击穿厚金属。"
-
-#: slot/0x0052e4f8/0x594864/0x0000b9
-msgid "Large-caliber anti-tank rifle. Rapid-fire. Delivers an intense barrage of highly penetrating anti-tank rounds. Offers three levels of zoom."
-msgstr "大口径反坦克步枪。速射。可倾泻密集的高穿透反坦克弹幕。提供三级变焦。"
-
-#: slot/0x0052e4f8/0x594864/0x0000ba
-#: slot/0x0052e4f8/0x594864/0x0000bb
-#: slot/0x0052e4f8/0x594864/0x0000bc
-msgid "Electromagnetic projectile acceleration system. Extremely powerful, but uses a lot of electricity.  Using an electrical supply from a CO-OPS teammate is ideal."
-msgstr "电磁投射加速系统。威力极强，但耗电量大。最好由合作任务队友供电。"
-
-#: slot/0x0052e4f8/0x594864/0x0000bd
-msgid "Railgun remote charging system. Supplies electricity to a CO-OPS teammate's railgun after locking onto it. Press <I=ATK> repeatedly to increase output."
-msgstr "轨道枪远程充电系统。锁定合作任务队友的轨道枪后为其供电。反复按<I=ATK>提高输出。"
-
-#: slot/0x0052e4f8/0x594864/0x0000cb
-msgid ""
-"Large-bore automatic sniper rifle. \n"
-"Hold Aim Button for over-the-shoulder view\n"
-"and press the Attack Button to fire.\n"
-"Scope view is adjustable."
-msgstr "大口径自动狙击步枪。\n按住瞄准键进入越肩视角\n按攻击键开火。\n瞄准镜视野可调。"
-
-#: slot/0x0052e4f8/0x594864/0x0000cc
-#: slot/0x0052e4f8/0x594864/0x0000cd
-#: slot/0x0052e4f8/0x594864/0x0000ce
-#: slot/0x0052e4f8/0x594864/0x0000cf
-msgid "Disposable rocket launcher. Compact and light, making it possible to carry several at once. A downside is its weak power."
-msgstr "一次性火箭筒。小巧轻便，可同时携带数具。缺点是威力较弱。"
-
-#: slot/0x0052e4f8/0x594864/0x0000d0
-#: slot/0x0052e4f8/0x594864/0x0000d1
-#: slot/0x0052e4f8/0x594864/0x0000d2
-msgid "Four-round rocket launcher. Not that powerful round-for-round, but is capable of rapid fire. Has high overall firepower that can be unleashed in an instant."
-msgstr "四发火箭筒。单发威力不强，但可速射。总火力高，可瞬间倾泻。"
-
-#: slot/0x0052e4f8/0x594864/0x0000d3
-msgid "Rocket-propelled grenade launcher. While not very accurate, it is powerful and it is easy to carry a relatively large number of rounds for it."
-msgstr "火箭推进榴弹发射器。精度不高，但威力强大，且弹药较易大量携带。"
-
-#: slot/0x0052e4f8/0x594864/0x0000d4
-#: slot/0x0052e4f8/0x594864/0x0000d5
-#: slot/0x0052e4f8/0x594864/0x0000d6
-msgid "New-model rocket-propelled grenade launcher. Powerful and has easy-to-carry rounds. Though not that accurate, its scope enables easier targeting."
-msgstr "新型火箭推进榴弹发射器。威力强大，弹药易携带。精度不高，但瞄准镜便于瞄准。"
-
-#: slot/0x0052e4f8/0x594864/0x0000d7
-msgid "Portable surface-to-air missile. Will automatically follow locked-on targets, so it is effective at attacking moving enemies. Lock-on can be upgraded."
-msgstr "便携式地对空导弹。会自动追踪锁定的目标，对移动敌人有效。锁定性能可升级。"
-
-#: slot/0x0052e4f8/0x594864/0x0000d8
-#: slot/0x0052e4f8/0x594864/0x0000d9
-msgid "New-model portable surface-to-air missile. Will automatically follow locked-on targets, so it is effective at attacking moving enemies. Lock-on can be upgraded."
-msgstr "新型便携式地对空导弹。会自动追踪锁定的目标，对移动敌人有效。锁定性能可升级。"
-
-#: slot/0x0052e4f8/0x594864/0x0000da
-#: slot/0x0052e4f8/0x594864/0x0000db
-#: slot/0x0052e4f8/0x594864/0x0000dc
-#: slot/0x0052e4f8/0x594864/0x0000dd
-msgid "Portable recoilless rifle. Has high initial shell velocity and accuracy, but takes a bit of time to reload."
-msgstr "便携式无后坐力炮。炮弹初速与精度高，但装填需一些时间。"
-
-#: slot/0x0052e4f8/0x594864/0x0000de
-#: slot/0x0052e4f8/0x594864/0x0000df
-#: slot/0x0052e4f8/0x594864/0x0000e0
-msgid "Portable recoilless rifle. Has high initial shell velocity and accuracy. Uses HEAT rounds. This gives it wider damage radius but slightly less power."
-msgstr "便携式无后坐力炮。炮弹初速与精度高。使用破甲弹。伤害范围更广但威力略低。"
-
-#: slot/0x0052e4f8/0x594864/0x0000e1
-#: slot/0x0052e4f8/0x594864/0x0000e2
-#: slot/0x0052e4f8/0x594864/0x0000e3
-msgid "Portable recoilless rifle.  Uses Fulton recovery rounds. Connecting with a target will execute a Fulton recovery. (A maximum of 100 people can be recovered per mission)"
-msgstr "便携式无后坐力炮。使用富尔顿回收弹。命中目标即执行富尔顿回收。（每次任务最多回收100人）"
-
-#: slot/0x0052e4f8/0x594864/0x0000e4
-msgid "Portable anti-tank missile. Will automatically follow locked-on targets. Its powerful warhead makes it an extremely valuable asset in ground-to-ground combat."
-msgstr "便携式反坦克导弹。会自动追踪锁定的目标。强力弹头使其在地对地战斗中极为宝贵。"
-
-#: slot/0x0052e4f8/0x594864/0x0000e5
-msgid "Special gun that renders its target optically invisible. Use it to hide your CO-OPS teammates. Runs on batteries."
-msgstr "使目标光学隐形的特殊枪械。用于隐藏你的合作任务队友。使用电池。"
-
-#: slot/0x0052e4f8/0x594864/0x0000e6
-#: slot/0x0052e4f8/0x594864/0x0000e7
-msgid "Special gun that renders its target optically invisible. Use it to hide your CO-OPS teammates. Increased battery size allows for extended use."
-msgstr "使目标光学隐形的特殊枪械。用于隐藏你的合作任务队友。电池容量增加，可延长使用时间。"
-
-#: slot/0x0052e4f8/0x594864/0x0000e8
-msgid "4 player CO-OPS weapon. 2 posts and 1 band are required. The fourth person is the human bullet. Multiple posts can be equipped."
-msgstr "4人合作任务武器。需要2根立柱和1条弹力带。第四人即人体炮弹。可装备多根立柱。"
-
-#: slot/0x0052e4f8/0x594864/0x0000e9
-#: slot/0x0052e4f8/0x594864/0x0000ea
-#: slot/0x0052e4f8/0x594864/0x0000eb
-msgid "With all players CO-OP In, set posts and band together, and then have the human bullet press <I=ACT>. Tap <I=ATK> to build up power. Can't be used alone as a weapon."
-msgstr "所有玩家进入合作后，一起设置立柱和弹力带，然后由人体炮弹按<I=ACT>。连按<I=ATK>蓄力。无法单独作为武器使用。"
-
-#: slot/0x0052e4f8/0x594864/0x0000f7
-#: slot/0x0052e4f8/0x594864/0x000242
-#: slot/0x0052e4f8/0x594864/0x000243
-#: slot/0x0052e4f8/0x594864/0x000244
-msgid ""
-"Rocket-propelled grenade launcher.\n"
-"Hold Aim Button for over-the-shoulder view\n"
-"and press the Attack Button to fire."
-msgstr "火箭推进榴弹发射器。\n按住瞄准键进入越肩视角\n按攻击键开火。"
-
-#: slot/0x0052e4f8/0x594864/0x0000f8
-#: slot/0x0052e4f8/0x594864/0x0000f9
-#: slot/0x0052e4f8/0x594864/0x0000fa
-#: slot/0x0052e4f8/0x594864/0x0000fb
-#: slot/0x0052e4f8/0x594864/0x0000fc
-msgid "Fragmentation grenade. Unleashes explosion over a wide radius. R&D can increase power."
-msgstr "破片手雷。爆炸范围广。研发可提升威力。"
-
-#: slot/0x0052e4f8/0x594864/0x0000fd
-#: slot/0x0052e4f8/0x594864/0x0000fe
-#: slot/0x0052e4f8/0x594864/0x0000ff
-#: slot/0x0052e4f8/0x594864/0x000100
-#: slot/0x0052e4f8/0x594864/0x000101
-msgid "Sound and flash grenade. Non-lethal. Will knock enemy soldiers unconscious. R&D can increase power and blast radius."
-msgstr "音爆闪光弹。非致命。可使敌兵昏迷。研发可提升威力与爆炸范围。"
-
-#: slot/0x0052e4f8/0x594864/0x000102
-#: slot/0x0052e4f8/0x594864/0x000103
-#: slot/0x0052e4f8/0x594864/0x000104
-#: slot/0x0052e4f8/0x594864/0x000105
-#: slot/0x0052e4f8/0x594864/0x000106
-msgid "Electronic scrambling grenade. Non-lethal. Temporarily prevents electronic equipment from functioning correctly. R&D can extend length of effect."
-msgstr "电子干扰弹。非致命。可暂时使电子设备失灵。研发可延长效果时间。"
-
-#: slot/0x0052e4f8/0x594864/0x000107
-#: slot/0x0052e4f8/0x594864/0x000108
-#: slot/0x0052e4f8/0x594864/0x000109
-#: slot/0x0052e4f8/0x594864/0x00010a
-#: slot/0x0052e4f8/0x594864/0x00010b
-msgid "Smoke-producing grenade. Non-lethal. Smoke will obstruct enemy vision and temporarily hinder movement. R&D can increase time smoke is emitted. "
-msgstr "发烟手雷。非致命。烟雾可遮挡敌人视线并暂时妨碍移动。研发可延长发烟时间。"
-
-#: slot/0x0052e4f8/0x594864/0x00010c
-#: slot/0x0052e4f8/0x594864/0x00010d
-#: slot/0x0052e4f8/0x594864/0x00010e
-#: slot/0x0052e4f8/0x594864/0x00010f
-#: slot/0x0052e4f8/0x594864/0x000110
-msgid "Colored smoke-producing grenade. Non-lethal. Smoke will obstruct enemy vision and temporarily hinder movement. R&D can increase time smoke is emitted. "
-msgstr "彩色发烟手雷。非致命。烟雾可遮挡敌人视线并暂时妨碍移动。研发可延长发烟时间。"
-
-#: slot/0x0052e4f8/0x594864/0x000111
-#: slot/0x0052e4f8/0x594864/0x000112
-#: slot/0x0052e4f8/0x594864/0x000113
-#: slot/0x0052e4f8/0x594864/0x000114
-#: slot/0x0052e4f8/0x594864/0x000115
-msgid "Sleep gas grenade. Non-lethal. Emits a gas that induces sleep if inhaled. R&D can strengthen its effect."
-msgstr "催眠瓦斯弹。非致命。释放吸入后令人昏睡的气体。研发可增强效果。"
-
-#: slot/0x0052e4f8/0x594864/0x000116
-msgid "Empty gun magazine. Non-lethal. The noise it makes when thrown can be used to distract enemies."
-msgstr "空弹匣。非致命。投掷时的声响可用来引开敌人。"
-
-#: slot/0x0052e4f8/0x594864/0x000117
-msgid "Support supply request marker that is thrown. After throwing, press <I=HHA> to receive ammo and items. Heroism decreases with overuse."
-msgstr "投掷式支援补给请求标记。投出后按<I=HHA>可获得弹药与道具。过度使用会降低英雄度。"
-
-#: slot/0x0052e4f8/0x594864/0x000118
-msgid "Support strike request marker that is thrown. After throwing, press <I=HHA> to execute strike. Heroism decreases with overuse."
-msgstr "投掷式支援攻击请求标记。投出后按<I=HHA>发动攻击。过度使用会降低英雄度。"
-
-#: slot/0x0052e4f8/0x594864/0x000119
-msgid "Throw to release the net, and then press <I=HHA> to activate it. When a vehicle gets caught, flip the switches on the 4 devices to capture it."
-msgstr "投出后展开网，再按<I=HHA>启动。车辆被网住后，扳动4个装置上的开关即可捕获。"
-
-#: slot/0x0052e4f8/0x594864/0x00011a
-#: slot/0x0052e4f8/0x594864/0x00011b
-#: slot/0x0052e4f8/0x594864/0x00011c
-#: slot/0x0052e4f8/0x594864/0x00011d
-#: slot/0x0052e4f8/0x594864/0x00011e
-msgid "Plastic explosive. Face location to be set, ready C4, then press <I=ATK> to set. After setting, press <I=HHA> at any time to detonate. R&D can increase power."
-msgstr "塑胶炸药。面向设置位置，准备好C4后按<I=ATK>设置。设置后随时按<I=HHA>引爆。研发可提升威力。"
-
-#: slot/0x0052e4f8/0x594864/0x00011f
-#: slot/0x0052e4f8/0x594864/0x000120
-#: slot/0x0052e4f8/0x594864/0x000121
-#: slot/0x0052e4f8/0x594864/0x000122
-#: slot/0x0052e4f8/0x594864/0x000123
-msgid "Directional, anti-personnel landmine. Face location to be set, ready, then press <I=ATK> to set. R&D can increase power."
-msgstr "定向反步兵地雷。面向设置位置，准备好后按<I=ATK>设置。研发可提升威力。"
-
-#: slot/0x0052e4f8/0x594864/0x000124
-#: slot/0x0052e4f8/0x594864/0x000125
-#: slot/0x0052e4f8/0x594864/0x000126
-#: slot/0x0052e4f8/0x594864/0x000127
-#: slot/0x0052e4f8/0x594864/0x000128
-msgid "A popular magazine. Once set, anyone who notices it will stop to read it. The more issues set, the longer the person will be interested."
-msgstr "热门杂志。设置后，注意到的人会停下阅读。设置的数量越多，阅读时间越长。"
-
-#: slot/0x0052e4f8/0x594864/0x00012e
-#: slot/0x0052e4f8/0x594864/0x00012f
-#: slot/0x0052e4f8/0x594864/0x000130
-#: slot/0x0052e4f8/0x594864/0x000131
-#: slot/0x0052e4f8/0x594864/0x000132
-msgid "The pages are ingrained with the scent of countless delicacies, sending nearby wildlife into a trance."
-msgstr "书页浸透了无数美食的香气，能让附近的野生动物神魂颠倒。"
-
-#: slot/0x0052e4f8/0x594864/0x000133
-#: slot/0x0052e4f8/0x594864/0x000134
-#: slot/0x0052e4f8/0x594864/0x000135
-#: slot/0x0052e4f8/0x594864/0x000137
-msgid "A popular pulp magazine. Once set, anyone who notices it will stop to read it! Face location to be set, ready, then press <I=ATK> to set. "
-msgstr "热门廉价杂志。设置后，注意到的人会停下阅读！面向设置位置，准备好后按<I=ATK>设置。"
-
-#: slot/0x0052e4f8/0x594864/0x000136
-msgid "A magazine loaded with pictures of beautiful women. Once set, anyone who notices it will stop to read it! Face location to be set, ready, then press <I=ATK> to set. "
-msgstr "印满美女照片的杂志。设置后，注意到的人会停下阅读！面向设置位置，准备好后按<I=ATK>设置。"
-
-#: slot/0x0052e4f8/0x594864/0x000138
-#: slot/0x0052e4f8/0x594864/0x000139
-#: slot/0x0052e4f8/0x594864/0x00013a
-#: slot/0x0052e4f8/0x594864/0x00013b
-#: slot/0x0052e4f8/0x594864/0x00013c
-msgid "Anti-ground vehicle landmine. Not effective against air vehicles. Renders vehicles temporarily immobile."
-msgstr "反地面车辆地雷。对空中载具无效。可使车辆暂时无法移动。"
-
-#: slot/0x0052e4f8/0x594864/0x00013d
-#: slot/0x0052e4f8/0x594864/0x00013e
-#: slot/0x0052e4f8/0x594864/0x00013f
-#: slot/0x0052e4f8/0x594864/0x000140
-#: slot/0x0052e4f8/0x594864/0x000141
-msgid "Wooden human decoy designed to fool enemy soldiers. To use, first set, then press <I=HHA> to activate. R&D can increase strength and allow it to be used as cover."
-msgstr "用来迷惑敌兵的木制假人。使用时先设置，再按<I=HHA>启动。研发可提升强度并使其可用作掩体。"
-
-#: slot/0x0052e4f8/0x594864/0x000142
-#: slot/0x0052e4f8/0x594864/0x000143
-#: slot/0x0052e4f8/0x594864/0x000144
-#: slot/0x0052e4f8/0x594864/0x000145
-#: slot/0x0052e4f8/0x594864/0x000146
-msgid "Aerial (vehicle) mine. Automatically rises once set, rendering vehicles temporarily immobile if hit."
-msgstr "对空（载具）地雷。设置后会自动升起，命中可使车辆暂时无法移动。"
-
-#: slot/0x0052e4f8/0x594864/0x000148
-msgid "Sleeping gas mine with Fulton recovery capability. Automatically executes Fulton recovery on targets after they fall asleep. (A maximum of 100 people can be recovered per mission)"
-msgstr "带富尔顿回收功能的催眠瓦斯地雷。目标昏睡后自动执行富尔顿回收。（每次任务最多可回收100人）"
-
-#: slot/0x0052e4f8/0x594864/0x000149
-msgid "Support supply request marker that is set. Once set, press <I=HHA> to receive ammo and items. Heroism decreases with overuse."
-msgstr "设置式支援补给请求标记。设置后按<I=HHA>可获得弹药与道具。过度使用会降低英雄度。"
-
-#: slot/0x0052e4f8/0x594864/0x00014a
-#: slot/0x0052e4f8/0x594864/0x00014b
-#: slot/0x0052e4f8/0x594864/0x00014c
-#: slot/0x0052e4f8/0x594864/0x00014d
-#: slot/0x0052e4f8/0x594864/0x00014e
-#: slot/0x0052e4f8/0x594864/0x00014f
-msgid "Support strike request marker that is set. Once set, press <I=HHA> to execute strike. Heroism decreases with overuse."
-msgstr "设置式支援攻击请求标记。设置后按<I=HHA>发动攻击。过度使用会降低英雄度。"
-
-#: slot/0x0056a63d/0x048941/0x00003f
-#: slot/0x0056a63d/0x048941/0x000040
-#: slot/0x0056a63d/0x048941/0x000041
-#: slot/0x0056a63d/0x048941/0x000042
-#: slot/0x0056a63d/0x048941/0x000043
-msgid "Meal, Ready-to-Eat. Recovers LIFE. Select from Equipment window and press <I=USE> to use. Automatically used if LIFE reaches zero when equipped."
-msgstr "即食口粮。恢复生命值。在装备窗口选择后按<I=USE>使用。装备时生命值归零会自动使用。"
-
-#: slot/0x0056a63d/0x048941/0x000044
-#: slot/0x0056a63d/0x048941/0x000045
-msgid "Popular food in Japan. Spicy and delicious. Recovers LIFE. Automatically used if LIFE reaches zero when equipped."
-msgstr "日本热门食物。香辣美味。恢复生命值。装备时生命值归零会自动使用。"
-
-#: slot/0x0056a63d/0x048941/0x000046
-#: slot/0x0056a63d/0x048941/0x000047
-msgid "Popular food in Japan. Spicy and delicious. Recovers LIFE. Updated with enhanced flavor thanks to the latest in food technology."
-msgstr "日本热门食物。香辣美味。恢复生命值。借助最新食品技术，风味更佳。"
-
-#: slot/0x0056a63d/0x048941/0x000048
-msgid "Popular food in Japan. Spicy and delicious. Recovers LIFE. The next generation of food R&D  - truly a taste of the future!"
-msgstr "日本热门食物。香辣美味。恢复生命值。新一代食品研发——真正的未来之味！"
-
-#: slot/0x0056a63d/0x048941/0x000049
-#: slot/0x0056a63d/0x048941/0x00004a
-#: slot/0x0056a63d/0x048941/0x00004b
-#: slot/0x0056a63d/0x048941/0x00004c
-#: slot/0x0056a63d/0x048941/0x00004d
-msgid "Military battery. Recharges all item battery gauges. Currently recharging..."
-msgstr "军用电池。为所有道具电池槽充电。正在充电……"
-
-#: slot/0x0056a63d/0x048941/0x00004e
-msgid "Recovers PSYCHE with its alluring fragrance while keeping you at the top of your game."
-msgstr "以迷人香气恢复精神，同时让你保持最佳状态。"
-
-#: slot/0x0056a63d/0x048941/0x00004f
-#: slot/0x0056a63d/0x048941/0x000050
-#: slot/0x0056a63d/0x048941/0x000051
-#: slot/0x0056a63d/0x048941/0x000052
-msgid "Take your favorite tunes with you wherever you go! Press <I=STA> to access the Controls Menu. (Cannot be used in VERSUS OPS.)"
-msgstr "随身携带你喜欢的音乐！按<I=STA>进入控制菜单。（无法在对战任务中使用。）"
-
-#: slot/0x0056a63d/0x048941/0x000053
-msgid "Huey's letter to Strangelove entrusted to Snake. He made it clear he didn't want it to be read..."
-msgstr "休伊托SNAKE转交斯特兰奇洛夫的信。他明确表示不希望这封信被阅读……"
-
-#: slot/0x0056a63d/0x048941/0x000054
-msgid "Jigsaw made of steel wire. Alternate pressing the L and R buttons to use."
-msgstr "钢丝拼图。交替按L和R键使用。"
-
-#: slot/0x0056a63d/0x048941/0x000055
-msgid "ID card stolen from Strangelove. Appears to open locks inside the prison, but which ones is unclear."
-msgstr "从斯特兰奇洛夫偷来的ID卡。似能开监狱内的锁，但具体哪些不明。"
-
-#: slot/0x0056a63d/0x048941/0x000056
-msgid "ID card received from Huey. Enables access to Strangelove's lab."
-msgstr "从休伊处收到的ID卡。可进入斯特兰奇洛夫的实验室。"
-
-#: slot/0x0056a63d/0x048941/0x000057
-msgid "High-quality rangefinder camera. Equip to look through rangefinder, then press <I=ATK> to press shutter button. Photos taken can be viewed from the XMB<I=TM>."
-msgstr "高品质测距相机。装备后通过测距仪观察，按<I=ATK>按下快门。拍摄的照片可从XMB<I=TM>查看。"
-
-#: slot/0x0056a63d/0x048941/0x000058
-msgid "Device that analyzes information about enemies. When equipped it will display various information on nearby enemies. Invaluable tool for executing missions."
-msgstr "分析敌方信息的装置。装备后会显示附近敌人的各种信息。执行任务的必备工具。"
-
-#: slot/0x0056a63d/0x048941/0x000059
-#: slot/0x0056a63d/0x048941/0x00005a
-msgid "Device that analyzes information about enemies. Modified to improve search range, speed, and accuracy of analysis."
-msgstr "分析敌方信息的装置。经过改造，提升了搜索范围、速度和分析精度。"
-
-#: slot/0x0056a63d/0x048941/0x00005b
-msgid "Device that analyzes information about enemies. Modified to improve search range and speed."
-msgstr "分析敌方信息的装置。经过改造，提升了搜索范围和速度。"
-
-#: slot/0x0056a63d/0x048941/0x00005c
-msgid "Device that analyzes information about enemies.  Even when unequipped, you can still gather info on enemy machinery and higher-ranking soldiers by pressing <I=STA>."
-msgstr "分析敌方信息的装置。即使未装备，按<I=STA>仍可收集敌方机械和高级士兵的信息。"
-
-#: slot/0x0056a63d/0x048941/0x00005d
-#: slot/0x0056a63d/0x048941/0x00005e
-msgid "Special, disposable mat that renders you or a teammate invisible when prone or against a wall. To use on a teammate, press <I=ACT> next to them when the icon is displayed."
-msgstr "特殊一次性垫子，趴下或靠墙时可使自己或队友隐形。对队友使用时，在图标显示时于其旁边按<I=ACT>。"
-
-#: slot/0x0056a63d/0x048941/0x00005f
-msgid "Special camouflage that makes its user invisible when equipped."
-msgstr "特殊迷彩，装备后可使使用者隐形。"
-
-#: slot/0x0056a63d/0x048941/0x000060
-msgid "A bigger cardboard box. Might be able to fit two people. Select from the Equipment window and press the L button to \"DROP\" in order to set (for hunter control type, press <I=LEFT>)."
-msgstr "更大的纸箱。也许能装下两个人。在装备窗口选择后按L键“放下”来设置（猎人控制模式下按<I=LEFT>）。"
-
-#: slot/0x0056a63d/0x048941/0x000061
-#: slot/0x0056a63d/0x048941/0x000062
-#: slot/0x0056a63d/0x048941/0x000063
-#: slot/0x0056a63d/0x048941/0x000064
-msgid "A bigger cardboard box. Might be able to fit two people. Modified to improve durability.  \"DROP\" to set."
-msgstr "更大的纸箱。也许能装两人。改造后更耐用。“放下”来设置。"
-
-#: slot/0x0056a63d/0x048941/0x000065
-#: slot/0x0056a63d/0x048941/0x000066
-#: slot/0x0056a63d/0x048941/0x000067
-#: slot/0x0056a63d/0x048941/0x000068
-#: slot/0x0056a63d/0x048941/0x000069
-msgid "A bigger cardboard box. Two people may be able to fit in."
-msgstr "更大的纸箱。也许能装下两个人。"
-
-#: slot/0x0056a63d/0x048941/0x00006a
-msgid "Combat-ready love box. Player 1 serves as driver, Player 2 as gunner. Press <I=AIM> to go into first person view and <I=ATK> to fire. \"DROP\" to set."
-msgstr "战斗用爱之箱。玩家1为驾驶员，玩家2为枪手。按<I=AIM>进入第一人称视角，按<I=ATK>开火。“放下”来设置。"
-
-#: slot/0x0056a63d/0x048941/0x00006b
-#: slot/0x0056a63d/0x048941/0x00006c
-#: slot/0x0056a63d/0x048941/0x00006d
-#: slot/0x0056a63d/0x048941/0x00006e
-msgid "Combat-ready love box. Modified to improve durability.  \"DROP\" to set."
-msgstr "战斗用爱之箱。改造后更耐用。“放下”来设置。"
-
-#: slot/0x0056a63d/0x048941/0x00006f
-msgid "Combat-ready love box. Player 1 serves as driver, Player 2 as gunner. Press <I=AIM> to go into first person view and <I=ATK> to fire stun shells.  \"DROP\" to set."
-msgstr "战斗用爱之箱。玩家1为驾驶员，玩家2为枪手。按<I=AIM>进入第一人称视角，按<I=ATK>发射眩晕弹。“放下”来设置。"
-
-#: slot/0x0056a63d/0x048941/0x000070
-#: slot/0x0056a63d/0x048941/0x000071
-#: slot/0x0056a63d/0x048941/0x000072
-msgid "Combat-ready love box (equipped with stun cannon). Modified to improve durability.  \"DROP\" to set."
-msgstr "战斗用爱之箱（配眩晕炮）。改造后更耐用。“放下”来设置。"
-
-#: slot/0x0056a63d/0x048941/0x000073
-msgid "Combat-ready love box. Player 1 serves as driver, Player 2 as gunner. Press <I=AIM> to go into first person view and <I=ATK> to fire smoke shells.  \"DROP\" to set."
-msgstr "战斗用爱之箱。玩家1为驾驶员，玩家2为枪手。按<I=AIM>进入第一人称视角，按<I=ATK>发射烟雾弹。“放下”来设置。"
-
-#: slot/0x0056a63d/0x048941/0x000074
-#: slot/0x0056a63d/0x048941/0x000075
-#: slot/0x0056a63d/0x048941/0x000076
-msgid "Combat-ready love box (equipped with smoke shells). Modified to improve durability. \"DROP\" to set."
-msgstr "战斗用爱之箱（配烟雾弹）。改造后更耐用。“放下”来设置。"
-
-#: slot/0x0056a63d/0x048941/0x000077
-msgid "Electronic optical device that detects heat sources, enabling vision in the dark. Can be used simultaneously with weapons."
-msgstr "探测热源的电子光学装置，可在黑暗中视物。可与武器同时使用。"
-
-#: slot/0x0056a63d/0x048941/0x000078
-#: slot/0x0056a63d/0x048941/0x000079
-#: slot/0x0056a63d/0x048941/0x00007a
-msgid "Electronic optical device that detects heat sources, enabling vision in the dark. Modified to improve performance. Battery life has also been extended."
-msgstr "探测热源的电子光学装置，可在黑暗中视物。经过改造，提升了性能。电池寿命也延长了。"
-
-#: slot/0x0056a63d/0x048941/0x00007b
-msgid "Electronic optical device that detects heat sources, enabling vision in the dark. Modified to consume virtually no battery power."
-msgstr "探测热源、可在黑暗中视物的电子光学设备。经改造后几乎不耗电。"
-
-#: slot/0x0056a63d/0x048941/0x00007c
-msgid "Personnel recovery and evacuation system. Equip and move near desired target, then press <I=ACT> to execute recovery. (A maximum of 100 people can be recovered per mission)"
-msgstr "人员回收撤离系统。装备后靠近目标，按<I=ACT>执行回收。（每次任务最多回收100人）"
-
-#: slot/0x0056a63d/0x048941/0x00007d
-#: slot/0x0056a63d/0x048941/0x00007e
-msgid "Personnel recovery and evacuation system. Modified so that more can be carried. (A maximum of 100 people can be recovered per mission)"
-msgstr "人员回收撤离系统。经改造可搭载更多人。（每次任务最多回收100人）"
-
-#: slot/0x0056a63d/0x048941/0x00007f
-msgid "Personnel recovery and evacuation system. Modified so that more can be carried and so that you acquire 1 item when performing a recovery. (A maximum of 100 people can be recovered per mission)"
-msgstr "人员回收撤离系统。经改造可搭载更多人，且回收时获得1件物品。（每次任务最多回收100人）"
-
-#: slot/0x0056a63d/0x048941/0x000080
-msgid "Personnel recovery and evacuation system. Modified so that more can be carried and so that you acquire 2 items when performing a recovery. (A maximum of 100 people can be recovered per mission)"
-msgstr "人员回收撤离系统。经改造可搭载更多人，且回收时获得2件物品。（每次任务最多回收100人）"
-
-#: slot/0x0056a63d/0x048941/0x000081
-msgid "Shield made from bulletproof material. Press the Aim Button to use. The direction protected varies according to weapon equipped."
-msgstr "防弹材料制成的盾牌。按瞄准键使用。防护方向随所装备武器变化。"
-
-#: slot/0x0056a63d/0x048941/0x000082
-#: slot/0x0056a63d/0x048941/0x000083
-#: slot/0x0056a63d/0x048941/0x000084
-#: slot/0x0056a63d/0x048941/0x000085
-msgid "Shield made from bulletproof material. Modified to improve durability."
-msgstr "防弹材料制成的盾牌。经改造提升了耐久度。"
-
-#: slot/0x0056a63d/0x048941/0x000086
-msgid "Shield made from bulletproof material (colored). Press the Aim Button to use. The direction protected varies according to weapon equipped."
-msgstr "防弹材料制成的盾牌（彩色）。按瞄准键使用。防护方向随所装备武器变化。"
-
-#: slot/0x0056a63d/0x048941/0x000087
-#: slot/0x0056a63d/0x048941/0x000088
-#: slot/0x0056a63d/0x048941/0x000089
-#: slot/0x0056a63d/0x048941/0x00008a
-msgid "Shield made from bulletproof material (colored). Modified to improve durability."
-msgstr "防弹材料制成的盾牌（彩色）。经改造提升了耐久度。"
-
-#: slot/0x0056a63d/0x048941/0x00008b
-msgid "Military binoculars for long-distance surveillance and scouting. Equip to use. Zoom can be adjusted. Cannot be used with weapons."
-msgstr "用于远距离监视与侦察的军用望远镜。装备后使用。可调节倍率。无法与武器同时使用。"
-
-#: slot/0x0056a63d/0x048941/0x00008c
-msgid "Special bandana that supplies an endless amount of ammo while equipped."
-msgstr "装备后可无限供应弹药的特殊头巾。"
-
-#: slot/0x0056a63d/0x048941/0x00008d
-#: slot/0x0056a63d/0x048941/0x00008f
-#: slot/0x00904cff/0x87fd33/0x00008d
-msgid "Shotgun ammo."
-msgstr "霰弹。"
-
-#: slot/0x0056a63d/0x048941/0x00008e
-#: slot/0x00904cff/0x87fd33/0x00008e
-msgid "Anti-tank rifle ammo."
-msgstr "反坦克枪弹。"
-
-#: slot/0x0056a63d/0x048941/0x000090
-#: slot/0x0056a63d/0x048941/0x00009b
-#: slot/0x00904cff/0x87fd33/0x000090
-#: slot/0x00904cff/0x87fd33/0x00009b
-msgid "Submachine gun ammo."
-msgstr "冲锋枪弹药。"
-
-#: slot/0x0056a63d/0x048941/0x000091
-msgid "High-power revolver ammo."
-msgstr "大威力左轮弹。"
-
-#: slot/0x0056a63d/0x048941/0x000092
-msgid "Caseless rifle ammo."
-msgstr "无壳步枪弹。"
-
-#: slot/0x0056a63d/0x048941/0x000093
-msgid "Grenade launcher ammo. American-made."
-msgstr "榴弹发射器弹药。美制。"
-
-#: slot/0x0056a63d/0x048941/0x000094
-msgid "Grenade launcher ammo. Soviet-made."
-msgstr "榴弹发射器弹药。苏制。"
-
-#: slot/0x0056a63d/0x048941/0x000095
-msgid "Large-frame pistol and submachine gun ammo."
-msgstr "大口径手枪与冲锋枪弹药。"
-
-#: slot/0x0056a63d/0x048941/0x000096
-msgid "Small-caliber assault rifle ammo."
-msgstr "小口径突击步枪弹药。"
-
-#: slot/0x0056a63d/0x048941/0x000097
-#: slot/0x00904cff/0x87fd33/0x000097
-msgid "Soviet assault rifle ammo."
-msgstr "苏联突击步枪弹。"
-
-#: slot/0x0056a63d/0x048941/0x000098
-msgid "Large-caliber rifle and machine gun ammo."
-msgstr "大口径步枪与机枪弹药。"
-
-#: slot/0x0056a63d/0x048941/0x000099
-#: slot/0x00904cff/0x87fd33/0x000099
-msgid "Soviet rifle and machine gun ammo."
-msgstr "苏联步枪与机枪弹药。"
-
-#: slot/0x0056a63d/0x048941/0x00009a
-msgid "High-power large-caliber rifle ammo."
-msgstr "大威力大口径步枪弹药。"
-
-#: slot/0x0056a63d/0x048941/0x00009c
-msgid "Soviet pistol ammo."
-msgstr "苏联手枪弹。"
-
-#: slot/0x0056a63d/0x048941/0x00009d
-msgid "Small high-explosive anti-tank ammo."
-msgstr "小型反坦克高爆弹。"
-
-#: slot/0x0056a63d/0x048941/0x00009e
-msgid "Special ammo that recovers its target's PSYCHE."
-msgstr "可恢复目标精神值的特殊弹药。"
-
-#: slot/0x0056a63d/0x048941/0x00009f
-msgid "Special ammo that recovers its target's LIFE."
-msgstr "可恢复目标生命值的特殊弹药。"
-
-#: slot/0x0056a63d/0x048941/0x0000a0
-msgid "Special ammo that knocks its target unconscious. Hitting certain areas will quicken the effect."
-msgstr "可使目标昏迷的特殊弹药。击中特定部位可加快生效。"
-
-#: slot/0x0056a63d/0x048941/0x0000a1
-msgid "Omnidirectional sensor that visualizes nearby sounds as waveforms. The \"N\" icon points north."
-msgstr "全向传感器，将附近声音以波形显示。\"N\"图标指向北方。"
-
-#: slot/0x0056a63d/0x048941/0x0000a2
-msgid "Omnidirectional sensor that visualizes nearby sounds as waveforms. The \"N\" icon points north. Modified to show precise enemy locations."
-msgstr "全向传感器，将附近声音以波形显示。\"N\"图标指向北方。经改造可显示敌人精确位置。"
-
-#: slot/0x0056a63d/0x048941/0x0000a3
-msgid "High-power sensor that displays surrounding topography and enemy positions. Only functional in Normal Phase."
-msgstr "高性能传感器，可显示周围地形与敌人位置。仅在普通阶段有效。"
-
-#: slot/0x0056a63d/0x048941/0x0000a4
-#: slot/0x0056a63d/0x048941/0x0000a5
-#: slot/0x0056a63d/0x048941/0x0000a6
-msgid "High-power sensor that displays surrounding topography and enemy positions. Only functional in Normal Phase. Modified to extend battery life."
-msgstr "高性能传感器，可显示周围地形与敌人位置。仅在普通阶段有效。经改造延长了电池寿命。"
-
-#: slot/0x0056a63d/0x048941/0x0000a7
-msgid "High-power sensor that displays surrounding topography and enemy positions. Only functional in Normal Phase. Modified to consume virtually no battery power at all."
-msgstr "高性能传感器，可显示周围地形与敌人位置。仅在普通阶段有效。经改造几乎不消耗电池。"
-
-#: slot/0x0056a63d/0x048941/0x0000a8
-msgid "Sensor that displays nearby sound sources as animated symbols. Not affected by surrounding objects. A prototype, it will only work when lying down or against a wall."
-msgstr "将附近声源以动画符号显示的传感器。不受周围物体影响。为试制品，仅在卧倒或靠墙时有效。"
-
-#: slot/0x0056a63d/0x048941/0x0000a9
-msgid "Sensor that displays nearby sound sources as animated symbols. Symbols are displayed regardless of body position."
-msgstr "将附近声源以动画符号显示的传感器。无论身体姿势如何都会显示符号。"
-
-#: slot/0x0056a63d/0x048941/0x0000aa
-#: slot/0x0056a63d/0x048941/0x0000ab
-msgid "Sensor that displays nearby sound sources as animated symbols. Modified to extend battery life."
-msgstr "将附近声源以动画符号显示的传感器。经改造延长了电池寿命。"
-
-#: slot/0x0056a63d/0x048941/0x0000ac
-msgid "Sensor that displays nearby sound sources as animated symbols. Modified to consume virtually no battery power at all."
-msgstr "将附近声源以动画符号显示的传感器。经改造几乎不消耗电池。"
-
-#: slot/0x0056a63d/0x048941/0x0000ad
-msgid "Citrus-flavored carbonated soft drink.  Recovers PSYCHE and a small amount of LIFE. Automatically used if LIFE reaches zero when equipped."
-msgstr "柑橘味碳酸软饮料。恢复精神值与少量生命值。装备时生命值归零会自动使用。"
-
-#: slot/0x0056a63d/0x048941/0x0000ae
-msgid "Zero-calorie carbonated soft drink.  Recovers PSYCHE and a small amount of LIFE. Automatically used if LIFE reaches zero when equipped."
-msgstr "零卡路里碳酸软饮料。恢复精神值与少量生命值。装备时生命值归零会自动使用。"
-
-#: slot/0x0056a63d/0x048941/0x0000af
-msgid "Tasty taco-flavored tortilla chips. Recovers LIFE.  Automatically used if LIFE reaches zero when equipped."
-msgstr "美味的塔可味玉米片。恢复生命值。装备时生命值归零会自动使用。"
-
-#: slot/0x0056a63d/0x048941/0x0000b0
-#: slot/0x0056a63d/0x048941/0x0000b1
-#: slot/0x0056a63d/0x048941/0x0000b2
-#: slot/0x0056a63d/0x048941/0x0000b3
-#: slot/0x0056a63d/0x048941/0x0000b4
-msgid "Cardboard box that explodes if damaged or if someone tries to see what's inside. Will inflict damage if you are inside. \"DROP\" to set."
-msgstr "受损或有人试图查看内部时会爆炸的纸箱。你在里面时会受到伤害。按\"DROP\"设置。"
-
-#: slot/0x0056a63d/0x048941/0x0000b5
-#: slot/0x0056a63d/0x048941/0x0000b6
-#: slot/0x0056a63d/0x048941/0x0000b7
-#: slot/0x0056a63d/0x048941/0x0000b8
-msgid "Cardboard box that explodes and stuns anyone nearby if damaged or if someone tries to see what's inside. Will inflict damage if you are inside. \"DROP\" to set."
-msgstr "受损或有人试图查看内部时会爆炸并震晕附近人员的纸箱。你在里面时会受到伤害。按\"DROP\"设置。"
-
-#: slot/0x0056a63d/0x048941/0x0000b9
-#: slot/0x0056a63d/0x048941/0x0000ba
-#: slot/0x0056a63d/0x048941/0x0000bb
-#: slot/0x0056a63d/0x048941/0x0000bc
-#: slot/0x0056a63d/0x048941/0x0000bd
-msgid "Cardboard box that explodes and releases smoke if damaged or if someone tries to see what's inside. Will inflict damage if you are inside. \"DROP\" to set."
-msgstr "受损或有人试图查看内部时会爆炸并释放烟雾的纸箱。你在里面时会受到伤害。按\"DROP\"设置。"
-
-#: slot/0x0056a63d/0x048941/0x0000be
-msgid "Cardboard box made of straw. Allows you to pull enemies inside, knock them out, and perform a Fulton recovery."
-msgstr "稻草制成的纸箱。可将敌人拉入其中，使其昏迷并进行富尔顿回收。"
-
-#: slot/0x0056a63d/0x048941/0x0000bf
-msgid "Special box that speeds your LIFE recovery when you are inside or a teammate's when giving CPR.   \"DROP\" to set."
-msgstr "特殊纸箱，你在里面时或对队友进行心肺复苏时可加快生命值恢复。按\"DROP\"设置。"
-
-#: slot/0x0056a63d/0x048941/0x0000c0
-#: slot/0x0056a63d/0x048941/0x0000c1
-#: slot/0x0056a63d/0x048941/0x0000c2
-#: slot/0x0056a63d/0x048941/0x0000c3
-msgid "Special box that speeds your LIFE recovery when you are inside or a teammate's when giving CPR.R&D has increased LIFE recovery.   \"DROP\" to set."
-msgstr "特殊纸箱，你在里面时或对队友进行心肺复苏时可加快生命值恢复。研发提升了生命值恢复量。按\"DROP\"设置。"
-
-#: slot/0x0056a63d/0x048941/0x0000c4
-#: slot/0x0056a63d/0x048941/0x0000c5
-#: slot/0x0056a63d/0x048941/0x0000c6
-#: slot/0x0056a63d/0x048941/0x0000c7
-#: slot/0x0056a63d/0x048941/0x0000c8
-msgid "Undercooked Meal, Ready-to-Eat. An already unappetizing creation made worse by being undercooked. Recovers only a small amount of LIFE."
-msgstr "没煮熟的即食口粮。本就难吃，没煮熟后更难吃。仅恢复少量生命值。"
-
-#: slot/0x0056a63d/0x048941/0x0000c9
-#: slot/0x0056a63d/0x048941/0x0000ca
-#: slot/0x0056a63d/0x048941/0x0000cb
-#: slot/0x0056a63d/0x048941/0x0000cc
-#: slot/0x0056a63d/0x048941/0x0000cd
-msgid "Well-done Meal, Ready-to-Eat. Makes a revolting ration surprisingly delicious. Recovers more LIFE than normal, and also recovers PSYCHE."
-msgstr "煮熟的即食口粮。让恶心的口粮变得出奇美味。恢复的生命值比普通更多，还能恢复精神值。"
-
-#: slot/0x0056a63d/0x048941/0x0000ce
-#: slot/0x0056a63d/0x048941/0x0000cf
-#: slot/0x0056a63d/0x048941/0x0000d0
-#: slot/0x0056a63d/0x048941/0x0000d1
-#: slot/0x0056a63d/0x048941/0x0000d2
-msgid "Burnt Meal, Ready-to-Eat. The only thing worse than a ration is a burnt ration. Eating it won't recover much LIFE."
-msgstr "烧焦的即食口粮。比口粮更糟的只有烧焦的口粮。吃了也恢复不了多少生命值。"
-
-#: slot/0x0056a63d/0x048941/0x0000d3
-#: slot/0x0056a63d/0x048941/0x0000d4
-#: slot/0x0056a63d/0x048941/0x0000d5
-#: slot/0x0056a63d/0x048941/0x0000d6
-#: slot/0x0056a63d/0x048941/0x0000d7
-msgid "Tea that recovers PSYCHE. Select from the Equipment window and press <I=USE> to drink."
-msgstr "恢复精神值的茶。在装备窗口选择后按<I=USE>饮用。"
-
-#: slot/0x0056a63d/0x048941/0x0000d8
-msgid "Rubber shotgun rounds."
-msgstr "橡胶霰弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000d9
-msgid "Grenade launcher smoke rounds."
-msgstr "榴弹发射器烟雾弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000da
-msgid "Soviet grenade launcher smoke rounds."
-msgstr "苏联榴弹发射器烟雾弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000db
-msgid "Support strike marker (fired)."
-msgstr "支援打击标记（已发射）。"
-
-#: slot/0x0056a63d/0x048941/0x0000dc
-msgid "Support supply marker (fired)."
-msgstr "支援补给标记（已发射）。"
-
-#: slot/0x0056a63d/0x048941/0x0000dd
-msgid "Lead ball."
-msgstr "铅弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000de
-msgid "Anesthetic rifle round."
-msgstr "麻醉步枪弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000df
-msgid "Armor-piercing rifle and machine gun rounds."
-msgstr "穿甲步枪与机枪弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000e0
-#: slot/0x00904cff/0x87fd33/0x0000e0
-msgid "Railgun ammo."
-msgstr "电磁炮炮弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000e1
-#: slot/0x00904cff/0x87fd33/0x0000e1
-msgid "RPG2 grenade."
-msgstr "RPG2 火箭弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000e2
-#: slot/0x00904cff/0x87fd33/0x0000e2
-msgid "RPG7 grenade."
-msgstr "RPG7 火箭弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000e3
-#: slot/0x00904cff/0x87fd33/0x0000e3
-msgid "Carl Gustav rounds."
-msgstr "卡尔·古斯塔夫炮弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000e4
-msgid "Multipurpose Carl Gustav HEAT rounds."
-msgstr "多用途卡尔·古斯塔夫破甲弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000e6
-#: slot/0x00904cff/0x87fd33/0x0000e6
-msgid "FIM-43 missile."
-msgstr "FIM-43 导弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000e7
-#: slot/0x00904cff/0x87fd33/0x0000e7
-msgid "XFIM-92A missile."
-msgstr "XFIM-92A 导弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000e8
-#: slot/0x00904cff/0x87fd33/0x0000e8
-msgid "M47 missile."
-msgstr "M47 导弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000e9
-#: slot/0x00904cff/0x87fd33/0x0000e9
-msgid "LAW rocket."
-msgstr "LAW 火箭弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000ea
-#: slot/0x00904cff/0x87fd33/0x0000ea
-msgid "M202 rocket."
-msgstr "M202 火箭弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000eb
-msgid "Carl Gustav rounds with Fulton recovery device."
-msgstr "带富尔顿回收装置的卡尔·古斯塔夫炮弹。"
-
-#: slot/0x0056a63d/0x048941/0x0000ec
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the EZ Gun (LR)."
-msgstr "机密文件（研发班开发规格）。记载开发 EZ Gun (LR) 所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000ed
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the EZ Gun (PR)."
-msgstr "机密文件（研发班开发规格）。记载开发 EZ Gun (PR) 所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000ee
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the PM."
-msgstr "机密文件（研发班开发规格）。记载开发 PM 所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000ef
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the PB/6P9."
-msgstr "机密文件（研发班开发规格）。记载开发 PB/6P9 所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000f0
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M1911A1."
-msgstr "机密文件（研发班开发规格）。记载开发 M1911A1 所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000f1
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M1911A1 Custom."
-msgstr "机密文件（研发班开发规格）。记载开发M1911A1 Custom所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000f2
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the C96."
-msgstr "机密文件（研发班开发规格）。记载开发C96所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000f3
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M19."
-msgstr "机密文件（研发班开发规格）。记载开发M19所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000f4
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Kampfpistole."
-msgstr "机密文件（研发班开发规格）。记载开发Kampfpistole所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000f5
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Support Supply Marker."
-msgstr "机密文件（研发班开发规格）。记载开发支援补给标记所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000f6
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Support Strike Marker."
-msgstr "机密文件（研发班开发规格）。记载开发支援攻击标记所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000f7
-msgid "Confidential document (design specs for R&D Team). Details requirements for cultivating bananas."
-msgstr "机密文件（研发班开发规格）。记载栽培香蕉所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000f8
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Twin Barrel Shotgun."
-msgstr "机密文件（研发班开发规格）。记载开发Twin Barrel Shotgun所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000f9
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Twin Barrel Shotgun (Rubber Slug)."
-msgstr "机密文件（研发班开发规格）。记载开发Twin Barrel Shotgun（橡胶弹）所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000fa
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M37."
-msgstr "机密文件（研发班开发规格）。记载开发M37所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000fb
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the SPAS-12."
-msgstr "机密文件（研发班开发规格）。记载开发SPAS-12所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000fc
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the CAW."
-msgstr "机密文件（研发班开发规格）。记载开发CAW所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000fd
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M16A1(STG)."
-msgstr "机密文件（研发班开发规格）。记载开发M16A1(STG)所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000fe
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M16A1(STG + laser)."
-msgstr "机密文件（研发班开发规格）。记载开发M16A1(STG + laser)所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x0000ff
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Patriot."
-msgstr "机密文件（研发班开发规格）。记载开发Patriot所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000100
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M16A1(GL)."
-msgstr "机密文件（研发班开发规格）。记载开发M16A1(GL)所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000101
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M16A1(GL + laser)."
-msgstr "机密文件（研发班开发规格）。记载开发M16A1(GL + laser)所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000102
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M16A1(SGL)."
-msgstr "机密文件（研发班开发规格）。记载开发M16A1(SGL)所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000103
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M16A1(SGL + laser)."
-msgstr "机密文件（研发班开发规格）。记载开发M16A1(SGL + laser)所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000104
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M653."
-msgstr "机密文件（研发班开发规格）。记载开发M653所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000105
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M653(GL)."
-msgstr "机密文件（研发班开发规格）。记载开发M653(GL)所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000106
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M653(STG)."
-msgstr "机密文件（研发班开发规格）。记载开发M653(STG)所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000107
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M653(SGL)."
-msgstr "机密文件（研发班开发规格）。记载开发M653(SGL)所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000108
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the RK47."
-msgstr "机密文件（研发班开发规格）。记载开发RK47所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000109
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the RK47(GL)."
-msgstr "机密文件（研发班开发规格）。记载开发RK47(GL)所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x00010a
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the ADM63."
-msgstr "机密文件（研发班开发规格）。记载开发 ADM63 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x00010b
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the ADM65."
-msgstr "机密文件（研发班开发规格）。记载开发 ADM65 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x00010c
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the RK47(SGL)."
-msgstr "机密文件（研发班开发规格）。记载开发 RK47(SGL) 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x00010d
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the RPK."
-msgstr "机密文件（研发班开发规格）。记载开发 RPK 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x00010e
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the FAL."
-msgstr "机密文件（研发班开发规格）。记载开发 FAL 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x00010f
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the SUG."
-msgstr "机密文件（研发班开发规格）。记载开发 SUG 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x000110
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the G11."
-msgstr "机密文件（研发班开发规格）。记载开发 G11 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x000111
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Tanegashima Musket."
-msgstr "机密文件（研发班开发规格）。记载开发种子岛火绳枪所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x000112
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M10."
-msgstr "机密文件（研发班开发规格）。记载开发 M10 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x000113
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M10(BJ)."
-msgstr "机密文件（研发班开发规格）。记载开发 M10(BJ) 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x000114
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Uz61."
-msgstr "机密文件（研发班开发规格）。记载开发 Uz61 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x000115
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the MP5A2."
-msgstr "机密文件（研发班开发规格）。记载开发 MP5A2 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x000116
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the MP5SD2."
-msgstr "机密文件（研发班开发规格）。记载开发 MP5SD2 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x000117
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M1928A1."
-msgstr "机密文件（研发班开发规格）。记载开发 M1928A1 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x000118
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M1C."
-msgstr "机密文件（研发班开发规格）。记载开发 M1C 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x000119
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M1C (PR)."
-msgstr "机密文件（研发班开发规格）。记载开发 M1C (PR) 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x00011a
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M21."
-msgstr "机密文件（研发班开发规格）。记载开发 M21 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x00011b
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M700."
-msgstr "机密文件（研发班开发规格）。记载开发 M700 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x00011c
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M700 (LR)."
-msgstr "机密文件（研发班开发规格）。记载开发 M700 (LR) 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x00011d
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Mosin-Nagant."
-msgstr "机密文件（研发班开发规格）。记载开发莫辛-纳甘所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x00011e
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the SVD."
-msgstr "机密文件（研发班开发规格）。记载开发 SVD 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x00011f
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the SVD(NV)."
-msgstr "机密文件（研发班开发规格）。记载开发 SVD(NV) 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x000120
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the WA2000."
-msgstr "机密文件（研发班开发规格）。记载开发 WA2000 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x000121
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the PTRD1941."
-msgstr "机密文件（研发班开发规格）。记载开发 PTRD1941 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x000122
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the PTRS1941."
-msgstr "机密文件（研发班开发规格）。记载开发 PTRS1941 所需的条件。"
-
-#: slot/0x0056a63d/0x048941/0x000123
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Stealth Gun."
-msgstr "机密文件（研发班开发规格）。记载开发隐形枪所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000124
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Railgun."
-msgstr "机密文件（研发班开发规格）。记载开发电磁炮所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000125
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M60."
-msgstr "机密文件（研发班开发规格）。记载开发M60所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000126
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M60 (Armor Piercing)."
-msgstr "机密文件（研发班开发规格）。记载开发M60（穿甲弹）所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000127
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M63A1."
-msgstr "机密文件（研发班开发规格）。记载开发M63A1所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000128
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the PKM."
-msgstr "机密文件（研发班开发规格）。记载开发PKM所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000129
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the MG3."
-msgstr "机密文件（研发班开发规格）。记载开发MG3所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x00012a
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the MG3 (Armor Piercing)."
-msgstr "机密文件（研发班开发规格）。记载开发MG3（穿甲弹）所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x00012b
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M134."
-msgstr "机密文件（研发班开发规格）。记载开发M134所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x00012c
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the EM Wave Gun."
-msgstr "机密文件（研发班开发规格）。记载开发电磁波枪所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x00012d
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the LAW."
-msgstr "机密文件（研发班开发规格）。记载开发LAW所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x00012e
-#: slot/0x0056a63d/0x048941/0x00012f
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M202A1."
-msgstr "机密文件（研发班开发规格）。记载开发M202A1所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000130
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the RPG-2."
-msgstr "机密文件（研发班开发规格）。记载开发RPG-2所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000131
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the RPG-7."
-msgstr "机密文件（研发班开发规格）。记载开发RPG-7所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000132
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the FIM-43."
-msgstr "机密文件（研发班开发规格）。记载开发FIM-43所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000133
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the XFIM-92A."
-msgstr "机密文件（研发班开发规格）。记载开发XFIM-92A所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000134
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Carl Gustav."
-msgstr "机密文件（研发班开发规格）。记载开发卡尔·古斯塔夫所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000135
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing Carl Gustav (Multi-Purpose)."
-msgstr "机密文件（研发班开发规格）。记载开发卡尔·古斯塔夫（多用途）所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000136
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing Carl Gustav (Fulton)."
-msgstr "机密文件（研发班开发规格）。记载开发卡尔·古斯塔夫（富尔顿）所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000137
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M47."
-msgstr "机密文件（研发班开发规格）。记载开发M47所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000138
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Human Slingshot."
-msgstr "机密文件（研发班开发规格）。记载开发人体弹弓所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000139
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Stun Grenade."
-msgstr "机密文件（研发班开发规格）。记载开发眩晕手雷所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x00013a
-#: slot/0x0056a63d/0x048941/0x00013c
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Smoke Grenade."
-msgstr "机密文件（研发班开发规格）。记载开发烟雾手雷所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x00013b
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Chaff Grenade."
-msgstr "机密文件（研发班开发规格）。记载开发箔条手雷所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x00013d
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Support Supply Marker (Thrown)."
-msgstr "机密文件（研发班开发规格）。记载开发支援补给标记（投掷）所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x00013e
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Support Strike Marker (Thrown)."
-msgstr "机密文件（研发班开发规格）。记载开发支援攻击标记（投掷）所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x00013f
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the EM Net."
-msgstr "机密文件（研发班开发规格）。记载开发电磁网所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000140
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Sleep Gas Grenade."
-msgstr "机密文件（研发班开发规格）。记载开发睡眠瓦斯手雷所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000141
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the C4."
-msgstr "机密文件（研发班开发规格）。记载开发C4所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000142
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Claymore."
-msgstr "机密文件（研发班开发规格）。记载开发阔剑地雷所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000143
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Magazine."
-msgstr "机密文件（研发班开发规格）。记载开发杂志所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000144
-#: slot/0x0056a63d/0x048941/0x0001fb
-#: slot/0x0056a63d/0x048941/0x0001fc
-#: slot/0x0056a63d/0x048941/0x0001fd
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Hobby Magazine."
-msgstr "机密文件（研发班开发规格）。记载开发兴趣杂志所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000145
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Anti-tank Mine."
-msgstr "机密文件（研发班开发规格）。记载开发反坦克地雷所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000146
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Decoy."
-msgstr "机密文件（研发班开发规格）。记载开发诱饵所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000147
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Aerial Mine."
-msgstr "机密文件（研发班开发规格）。记载开发空投地雷所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000148
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Sleep Gas Mine."
-msgstr "机密文件（研发班开发规格）。记载开发睡眠瓦斯地雷所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x000149
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Cookbook."
-msgstr "机密文件（研发班开发规格）。记载开发食谱所需条件。"
-
-#: slot/0x0056a63d/0x048941/0x00014a
-msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Support Supply Marker (Set)."
-msgstr "机密文件（研发班开发规格）。记载开发支援补给标记（设置）所需条件。"
 
 #: slot/0x0056a63d/0x048941/0x00014b
 msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Support Strike Marker (Set)."
@@ -1616,7 +134,7 @@ msgstr "普通橄榄绿迷彩服，提供基础防御、主武器收纳、弹药
 #: slot/0x0056a63d/0x048941/0x00016e
 #: slot/0x0056a63d/0x048941/0x00016f
 msgid "Variation of Jungle Fatigues camouflage. Raises camo index in environments of a similar color."
-msgstr "丛林迷彩服的变种。在相近颜色的环境中提升迷彩指数。"
+msgstr "丛林迷彩服变种。在相近颜色的环境中提升迷彩指数。"
 
 #: slot/0x0056a63d/0x048941/0x000170
 msgid "Variation of Jungle Fatigues camouflage. Raises camo index in jungle environments."
@@ -1625,7 +143,7 @@ msgstr "丛林迷彩服的变种。在丛林环境中提升迷彩指数。"
 #: slot/0x0056a63d/0x048941/0x000171
 #: slot/0x0056a63d/0x048941/0x000172
 msgid "Variation of Jungle Fatigues camouflage. Raises camo index near water."
-msgstr "丛林迷彩服的变种。在水边提升迷彩指数。"
+msgstr "丛林迷彩服变种。在水边提升迷彩指数。"
 
 #: slot/0x0056a63d/0x048941/0x000173
 msgid "Variation of Jungle Fatigues camouflage. Raises camo index in dirt or sand environments."
@@ -1638,7 +156,7 @@ msgstr "丛林迷彩服的变种。在岩石环境中提升迷彩指数。"
 #: slot/0x0056a63d/0x048941/0x000175
 #: slot/0x0056a63d/0x048941/0x000176
 msgid "Variation of Jungle Fatigues camouflage. Raises camo index in environments with a lot of wooden buildings."
-msgstr "丛林迷彩服的变种。在木造建筑较多的环境中提升迷彩指数。"
+msgstr "丛林迷彩服变种。在木质建筑多的环境中提升迷彩指数。"
 
 #: slot/0x0056a63d/0x048941/0x000177
 msgid "Variation of Jungle Fatigues camouflage. Raises camo index in environments with a lot of concrete."
@@ -1650,11 +168,11 @@ msgstr "丛林迷彩服的变种。据说能在某种环境中提升迷彩指数
 
 #: slot/0x0056a63d/0x048941/0x000179
 msgid "Variation of Jungle Fatigues camouflage. Slightly increases the diameter of the CO-OPS boundary line."
-msgstr "丛林迷彩服的变体。略微扩大合作任务边界线直径。"
+msgstr "丛林迷彩服变种。略微扩大合作任务边界线直径。"
 
 #: slot/0x0056a63d/0x048941/0x00017a
 msgid "Variation of Jungle Fatigues camouflage. Slightly increases gun performance."
-msgstr "丛林迷彩服的变体。略微提升枪械性能。"
+msgstr "丛林迷彩服变种。略微提升枪械性能。"
 
 #: slot/0x0056a63d/0x048941/0x00017b
 msgid "Variation of Jungle Fatigues camouflage. Inspired by a legendary scout's camo of choice. Its look and scent forge a bond with nature, giving an extremely high camo index."
@@ -1701,7 +219,7 @@ msgstr "防御、迷彩指数和主武器弹药携带量都低，但移动速度
 #: slot/0x0056a63d/0x048941/0x00018a
 #: slot/0x0056a63d/0x048941/0x00018b
 msgid "Variation of Naked with camouflage pants. Raises camo index in environments of a similar color, but only half as much as full-body camo."
-msgstr "裸装加迷彩裤的变体。在相近颜色的环境中提升迷彩指数，但只有全身迷彩的一半。"
+msgstr "裸装加迷彩裤。在相近颜色的环境中提升迷彩指数，但效果仅为全身迷彩的一半。"
 
 #: slot/0x0056a63d/0x048941/0x00018c
 msgid "Variation of Naked with camouflage pants. Raises camo index in jungle environments, but only half as much as full-body camo."
@@ -1710,7 +228,7 @@ msgstr "裸装加迷彩裤的变体。在丛林环境中提升迷彩指数，但
 #: slot/0x0056a63d/0x048941/0x00018d
 #: slot/0x0056a63d/0x048941/0x00018e
 msgid "Variation of Naked with camouflage pants. Raises camo index near water, but only half as much as full-body camo."
-msgstr "裸装加迷彩裤的变体。在水边提升迷彩指数，但只有全身迷彩的一半。"
+msgstr "裸装加迷彩裤。在水边提升迷彩指数，但效果仅为全身迷彩的一半。"
 
 #: slot/0x0056a63d/0x048941/0x00018f
 msgid "Variation of Naked with camouflage pants. Raises camo index in dirt or sand environments, but only half as much as full-body camo."
@@ -1723,7 +241,7 @@ msgstr "裸装加迷彩裤的变体。在岩石环境中提升迷彩指数，但
 #: slot/0x0056a63d/0x048941/0x000191
 #: slot/0x0056a63d/0x048941/0x000192
 msgid "Variation of Naked with camouflage pants. Raises camo index in environments with a lot of wooden buildings, but only half as much as full-body camo."
-msgstr "裸装加迷彩裤的变体。在木制建筑较多的环境中提升迷彩指数，但只有全身迷彩的一半。"
+msgstr "裸装加迷彩裤。在木质建筑多的环境中提升迷彩指数，但效果仅为全身迷彩的一半。"
 
 #: slot/0x0056a63d/0x048941/0x000193
 msgid "Variation of Naked with camouflage pants. Raises camo index in environments with a lot of concrete, but only half as much as full-body camo."
@@ -1779,10 +297,6 @@ msgstr "纯白T恤。防御、武器收纳等基本性能与丛林迷彩服相�
 #: slot/0x0056a63d/0x048941/0x0001ab
 #: slot/0x0056a63d/0x048941/0x0001ac
 #: slot/0x0056a63d/0x048941/0x0001b2
-#: slot/0x0056a63d/0x22af99/0x0001aa
-#: slot/0x0056a63d/0x22af99/0x0001ab
-#: slot/0x0056a63d/0x22af99/0x0001ac
-#: slot/0x0056a63d/0x22af99/0x0001b2
 #: slot/0x0056a63d/0x954c25/0x0001aa
 #: slot/0x0056a63d/0x954c25/0x0001ab
 #: slot/0x0056a63d/0x954c25/0x0001ac
@@ -1801,7 +315,7 @@ msgstr "(dummy)"
 
 #: slot/0x0056a63d/0x048941/0x0001ae
 msgid "Variation of Jungle Fatigues camouflage. Raises camo index slightly when standing on jungle or dirt surfaces."
-msgstr "丛林迷彩服的迷彩变体。站在丛林或泥土地面时迷彩指数略微提升。"
+msgstr "丛林迷彩服变种。站在丛林或泥土地面时略微提升迷彩指数。"
 
 #: slot/0x0056a63d/0x048941/0x0001af
 msgid "Original t-shirt design. Identical in basic characteristics to Jungle Fatigues. WALKMAN fans, show your support!"
@@ -1809,7 +323,7 @@ msgstr "原创T恤设计。基本性能与丛林迷彩服相同。WALKMAN粉丝�
 
 #: slot/0x0056a63d/0x048941/0x0001b0
 msgid "Variation of Naked with camouflage pants. Raises camo index when standing on jungle or dirt surfaces, but only half as much as full-body camo."
-msgstr "裸装搭配迷彩裤的变体。站在丛林或泥土地面时迷彩指数提升，但仅为全身迷彩的一半。"
+msgstr "裸装加迷彩裤。站在丛林或泥土地面时提升迷彩指数，但效果仅为全身迷彩的一半。"
 
 #: slot/0x0056a63d/0x048941/0x0001b3
 msgid "T-shirt with the FOX insignia. Identical in basic characteristics to Jungle Fatigues. Become an honorary member of the legendary Special Forces unit!"
@@ -1921,64 +435,6 @@ msgstr "苏联穿甲步枪与机枪弹药。"
 #: slot/0x0056a63d/0x048941/0x0001f7
 #: slot/0x0056a63d/0x048941/0x0001f8
 #: slot/0x0056a63d/0x048941/0x0001f9
-#: slot/0x0056a63d/0x22af99/0x0001c0
-#: slot/0x0056a63d/0x22af99/0x0001c1
-#: slot/0x0056a63d/0x22af99/0x0001c2
-#: slot/0x0056a63d/0x22af99/0x0001c3
-#: slot/0x0056a63d/0x22af99/0x0001c4
-#: slot/0x0056a63d/0x22af99/0x0001c5
-#: slot/0x0056a63d/0x22af99/0x0001c6
-#: slot/0x0056a63d/0x22af99/0x0001c7
-#: slot/0x0056a63d/0x22af99/0x0001c8
-#: slot/0x0056a63d/0x22af99/0x0001c9
-#: slot/0x0056a63d/0x22af99/0x0001ca
-#: slot/0x0056a63d/0x22af99/0x0001cb
-#: slot/0x0056a63d/0x22af99/0x0001cc
-#: slot/0x0056a63d/0x22af99/0x0001cd
-#: slot/0x0056a63d/0x22af99/0x0001ce
-#: slot/0x0056a63d/0x22af99/0x0001cf
-#: slot/0x0056a63d/0x22af99/0x0001d0
-#: slot/0x0056a63d/0x22af99/0x0001d1
-#: slot/0x0056a63d/0x22af99/0x0001d2
-#: slot/0x0056a63d/0x22af99/0x0001d3
-#: slot/0x0056a63d/0x22af99/0x0001d4
-#: slot/0x0056a63d/0x22af99/0x0001d5
-#: slot/0x0056a63d/0x22af99/0x0001d6
-#: slot/0x0056a63d/0x22af99/0x0001d7
-#: slot/0x0056a63d/0x22af99/0x0001d8
-#: slot/0x0056a63d/0x22af99/0x0001d9
-#: slot/0x0056a63d/0x22af99/0x0001da
-#: slot/0x0056a63d/0x22af99/0x0001db
-#: slot/0x0056a63d/0x22af99/0x0001dc
-#: slot/0x0056a63d/0x22af99/0x0001dd
-#: slot/0x0056a63d/0x22af99/0x0001de
-#: slot/0x0056a63d/0x22af99/0x0001df
-#: slot/0x0056a63d/0x22af99/0x0001e0
-#: slot/0x0056a63d/0x22af99/0x0001e1
-#: slot/0x0056a63d/0x22af99/0x0001e2
-#: slot/0x0056a63d/0x22af99/0x0001e3
-#: slot/0x0056a63d/0x22af99/0x0001e4
-#: slot/0x0056a63d/0x22af99/0x0001e5
-#: slot/0x0056a63d/0x22af99/0x0001e6
-#: slot/0x0056a63d/0x22af99/0x0001e7
-#: slot/0x0056a63d/0x22af99/0x0001e8
-#: slot/0x0056a63d/0x22af99/0x0001e9
-#: slot/0x0056a63d/0x22af99/0x0001ea
-#: slot/0x0056a63d/0x22af99/0x0001eb
-#: slot/0x0056a63d/0x22af99/0x0001ec
-#: slot/0x0056a63d/0x22af99/0x0001ed
-#: slot/0x0056a63d/0x22af99/0x0001ee
-#: slot/0x0056a63d/0x22af99/0x0001ef
-#: slot/0x0056a63d/0x22af99/0x0001f0
-#: slot/0x0056a63d/0x22af99/0x0001f1
-#: slot/0x0056a63d/0x22af99/0x0001f2
-#: slot/0x0056a63d/0x22af99/0x0001f3
-#: slot/0x0056a63d/0x22af99/0x0001f4
-#: slot/0x0056a63d/0x22af99/0x0001f5
-#: slot/0x0056a63d/0x22af99/0x0001f6
-#: slot/0x0056a63d/0x22af99/0x0001f7
-#: slot/0x0056a63d/0x22af99/0x0001f8
-#: slot/0x0056a63d/0x22af99/0x0001f9
 #: slot/0x0056a63d/0x954c25/0x0001c0
 #: slot/0x0056a63d/0x954c25/0x0001c1
 #: slot/0x0056a63d/0x954c25/0x0001c2
@@ -2106,22 +562,1366 @@ msgstr "从敌方巡逻兵身上偷来的ID卡。与休伊给的不同，这张�
 msgid "Confidential document (design specs for R&DTeam). Details requirements for developing Cologne."
 msgstr "机密文件（研发团队开发规格）。记载开发Cologne所需的条件。"
 
-#: slot/0x0056a63d/0x22af99/0x00003f
-#: slot/0x0056a63d/0x22af99/0x000040
-#: slot/0x0056a63d/0x22af99/0x000041
-#: slot/0x0056a63d/0x22af99/0x000042
-#: slot/0x0056a63d/0x22af99/0x000043
-#: slot/0x00b4d9c8/0x4e7980/0x00003f
-#: slot/0x00b4d9c8/0x4e7980/0x000040
-#: slot/0x00b4d9c8/0x4e7980/0x000041
-#: slot/0x00b4d9c8/0x4e7980/0x000042
-#: slot/0x00b4d9c8/0x4e7980/0x000043
-msgid "RATION"
-msgstr "RATION"
+#: slot/0x0056a63d/0x954c25/0x000000
+msgid "IT_None"
+msgstr ""
 
-#: slot/0x0056a63d/0x22af99/0x000044
-#: slot/0x0056a63d/0x22af99/0x000045
-#: slot/0x00b4d9c8/0x4e7980/0x000044
-#: slot/0x00b4d9c8/0x4e7980/0x000045
-msgid "S.CURRY"
-msgstr "S.CURRY"
+#: slot/0x0056a63d/0x954c25/0x000001
+msgid "IT_MedicalKit"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000002
+msgid "IT_MedicalKitEx"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000003
+msgid "IT_Ration"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000004
+msgid "IT_RationEx"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000005
+msgid "IT_Pentazemin"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000006
+msgid "IT_Scope"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000007
+msgid "IT_Thermal"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000008
+msgid "IT_NightVision"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000009
+msgid "IT_MineDetect"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00000a
+msgid "IT_BodyArmor"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00000b
+#: slot/0x0056a63d/0x954c25/0x000081
+#: slot/0x0056a63d/0x954c25/0x000082
+#: slot/0x0056a63d/0x954c25/0x000083
+#: slot/0x0056a63d/0x954c25/0x000084
+#: slot/0x0056a63d/0x954c25/0x000085
+msgid "Ballistic Shield"
+msgstr "防弹盾"
+
+#: slot/0x0056a63d/0x954c25/0x00000c
+msgid "IT_CBoxA"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00000d
+msgid "IT_TruckKey"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00000e
+msgid "IT_CanyonKey"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00000f
+msgid "IT_SubstationKey"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000010
+msgid "IT_CellKey"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000011
+msgid "IT_FortCardKey"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000012
+msgid "IT_Classified"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000013
+msgid "IT_SaturnVplan"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000014
+msgid "IT_Bandana"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000015
+msgid "IT_Stealth"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000016
+msgid "IT_NetKerotan"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000017
+msgid "IT_NetGako"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000018
+msgid "IT_NetFilm"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000019
+msgid "IT_NetCamo"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00001a
+msgid "IT_NetRadio"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00001b
+msgid "IT_NetMap"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00001c
+msgid "IT_Bullet_9mmAnest"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00001d
+msgid "IT_Bullet_9x19mm"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00001e
+msgid "IT_Bullet_32ACP"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00001f
+msgid "IT_Bullet_45LC"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000020
+msgid "IT_Bullet_45ACP"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000021
+msgid "IT_Bullet_556x45mm"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000022
+msgid "IT_Bullet_762x39mm"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000023
+msgid "IT_Bullet_762x54R"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000024
+msgid "IT_Bullet_762Anest"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000025
+msgid "IT_Bullet_12gauge"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000026
+msgid "IT_Bullet_85mmHE"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000027
+msgid "IT_Bullet_545x39mm"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000028
+msgid "IT_Bullet_57x28mm"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000029
+msgid "IT_MindOfJustice"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00002a
+msgid "IT_FashionMagazine"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00002b
+msgid "IT_Manual_HAND_GUN"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00002c
+msgid "IT_Manual_SUB_MACHINGUN"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00002d
+msgid "IT_Manual_ASSAULT_RIFLE"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00002e
+msgid "IT_Manual_SHOTGUN"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00002f
+msgid "IT_Manual_SNIPER_RIFLE"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000030
+msgid "IT_Manual_FIREARM"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000031
+msgid "IT_Manual_KNIFE"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000032
+msgid "IT_Manual_THROW"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000033
+msgid "IT_Manual_TRAP"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000034
+msgid "IT_Manual_EQUIPMENT"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000035
+msgid "IT_Manual_MEDICINE"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000036
+msgid "IT_Battery"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000037
+msgid "IT_Fulton"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000038
+msgid "IT_PL_XFIM92A_B"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000039
+msgid "IT_SolitonRador"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00003a
+msgid "IT_Scouter"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00003b
+msgid "IT_M1911Spr"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00003c
+msgid "IT_Mk22Spr"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00003d
+msgid "IT_XM177Spr"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00003e
+msgid "IT_Mac10Spr"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00003f
+#: slot/0x0056a63d/0x954c25/0x000040
+#: slot/0x0056a63d/0x954c25/0x000041
+#: slot/0x0056a63d/0x954c25/0x000042
+#: slot/0x0056a63d/0x954c25/0x000043
+msgid "Ration"
+msgstr "口粮"
+
+#: slot/0x0056a63d/0x954c25/0x000044
+#: slot/0x0056a63d/0x954c25/0x000045
+msgid "Spicy Curry"
+msgstr "辣咖喱"
+
+#: slot/0x0056a63d/0x954c25/0x000046
+#: slot/0x0056a63d/0x954c25/0x000047
+msgid "Great Curry"
+msgstr "极品咖喱"
+
+#: slot/0x0056a63d/0x954c25/0x000048
+msgid "Future Curry"
+msgstr "未来咖喱"
+
+#: slot/0x0056a63d/0x954c25/0x000049
+#: slot/0x0056a63d/0x954c25/0x00004a
+#: slot/0x0056a63d/0x954c25/0x00004b
+#: slot/0x0056a63d/0x954c25/0x00004c
+#: slot/0x0056a63d/0x954c25/0x00004d
+msgid "Battery"
+msgstr "电池"
+
+#: slot/0x0056a63d/0x954c25/0x00004e
+msgid "Men's Cologne"
+msgstr "男士古龙"
+
+#: slot/0x0056a63d/0x954c25/0x00004f
+msgid "WALKMAN (TPS-L2)"
+msgstr "随身听 (TPS-L2)"
+
+#: slot/0x0056a63d/0x954c25/0x000050
+msgid "WALKMAN (WM-2)"
+msgstr "随身听 (WM-2)"
+
+#: slot/0x0056a63d/0x954c25/0x000051
+msgid "WALKMAN (WM-EX88)"
+msgstr "随身听 (WM-EX88)"
+
+#: slot/0x0056a63d/0x954c25/0x000052
+msgid "WALKMAN (NWD-W202)"
+msgstr "随身听 (NWD-W202)"
+
+#: slot/0x0056a63d/0x954c25/0x000053
+msgid "Huey's Letter"
+msgstr "休伊的信"
+
+#: slot/0x0056a63d/0x954c25/0x000054
+msgid "Jigsaw"
+msgstr "拼图"
+
+#: slot/0x0056a63d/0x954c25/0x000055
+msgid "ID Card (P)"
+msgstr "ID卡(P)"
+
+#: slot/0x0056a63d/0x954c25/0x000056
+msgid "ID Card (H)"
+msgstr "ID卡(H)"
+
+#: slot/0x0056a63d/0x954c25/0x000057
+msgid "Camera"
+msgstr "镜头"
+
+#: slot/0x0056a63d/0x954c25/0x000058
+#: slot/0x0056a63d/0x954c25/0x000059
+#: slot/0x0056a63d/0x954c25/0x00005a
+#: slot/0x0056a63d/0x954c25/0x00005b
+#: slot/0x0056a63d/0x954c25/0x00005c
+msgid "Analyzer"
+msgstr "分析"
+
+#: slot/0x0056a63d/0x954c25/0x00005d
+#: slot/0x0056a63d/0x954c25/0x00005e
+msgid "Stealth Mat"
+msgstr "隐身垫"
+
+#: slot/0x0056a63d/0x954c25/0x00005f
+msgid "Stealth Camouflage"
+msgstr "隐形迷彩"
+
+#: slot/0x0056a63d/0x954c25/0x000060
+#: slot/0x0056a63d/0x954c25/0x000061
+#: slot/0x0056a63d/0x954c25/0x000062
+#: slot/0x0056a63d/0x954c25/0x000063
+#: slot/0x0056a63d/0x954c25/0x000064
+msgid "Love Box"
+msgstr "爱箱"
+
+#: slot/0x0056a63d/0x954c25/0x000065
+#: slot/0x0056a63d/0x954c25/0x000066
+#: slot/0x0056a63d/0x954c25/0x000067
+#: slot/0x0056a63d/0x954c25/0x000068
+#: slot/0x0056a63d/0x954c25/0x000069
+msgid "Love Box "
+msgstr "爱之箱"
+
+#: slot/0x0056a63d/0x954c25/0x00006a
+#: slot/0x0056a63d/0x954c25/0x00006b
+#: slot/0x0056a63d/0x954c25/0x00006c
+#: slot/0x0056a63d/0x954c25/0x00006d
+#: slot/0x0056a63d/0x954c25/0x00006e
+msgid "Cardboard Box Tank"
+msgstr "纸箱坦克"
+
+#: slot/0x0056a63d/0x954c25/0x00006f
+#: slot/0x0056a63d/0x954c25/0x000070
+#: slot/0x0056a63d/0x954c25/0x000071
+#: slot/0x0056a63d/0x954c25/0x000072
+msgid "Cardboard Box Tank (Stun Cannon)"
+msgstr "纸箱坦克（麻醉炮）"
+
+#: slot/0x0056a63d/0x954c25/0x000073
+#: slot/0x0056a63d/0x954c25/0x000074
+#: slot/0x0056a63d/0x954c25/0x000075
+#: slot/0x0056a63d/0x954c25/0x000076
+msgid "Cardboard Box Tank (Smoke Shell)"
+msgstr "纸箱坦克（烟雾弹）"
+
+#: slot/0x0056a63d/0x954c25/0x000077
+#: slot/0x0056a63d/0x954c25/0x000078
+#: slot/0x0056a63d/0x954c25/0x000079
+#: slot/0x0056a63d/0x954c25/0x00007a
+#: slot/0x0056a63d/0x954c25/0x00007b
+msgid "Night Vision Goggles"
+msgstr "夜视仪"
+
+#: slot/0x0056a63d/0x954c25/0x00007c
+#: slot/0x0056a63d/0x954c25/0x00007d
+#: slot/0x0056a63d/0x954c25/0x00007e
+#: slot/0x0056a63d/0x954c25/0x00007f
+#: slot/0x0056a63d/0x954c25/0x000080
+msgid "Fulton Recovery System"
+msgstr "富尔顿回收系统"
+
+#: slot/0x0056a63d/0x954c25/0x000086
+msgid "Ballistic Shield (Red)"
+msgstr "防弹盾（红）"
+
+#: slot/0x0056a63d/0x954c25/0x000087
+msgid "Ballistic Shield (Blue)"
+msgstr "防弹盾（蓝）"
+
+#: slot/0x0056a63d/0x954c25/0x000088
+msgid "Ballistic Shield (Green)"
+msgstr "防弹盾（绿）"
+
+#: slot/0x0056a63d/0x954c25/0x000089
+msgid "Ballistic Shield (Yellow)"
+msgstr "防弹盾（黄）"
+
+#: slot/0x0056a63d/0x954c25/0x00008a
+msgid "Ballistic Shield (Black)"
+msgstr "防弹盾（黑）"
+
+#: slot/0x0056a63d/0x954c25/0x00008b
+msgid "Binoculars"
+msgstr "望远镜"
+
+#: slot/0x0056a63d/0x954c25/0x00008c
+msgid "Infinity Bandana"
+msgstr "无限头巾"
+
+#: slot/0x0056a63d/0x954c25/0x00008d
+msgid "12 Gauge Shotshell"
+msgstr "12号霰弹"
+
+#: slot/0x0056a63d/0x954c25/0x00008e
+msgid "14.5x114mm"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00008f
+msgid "19.5x76mm"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000090
+msgid ".32ACP"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000091
+msgid ".357 Magnum"
+msgstr ".357马格南"
+
+#: slot/0x0056a63d/0x954c25/0x000092
+msgid "4.73x33mm"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000093
+msgid "40mm Grenade (M16)"
+msgstr "40mm榴弹(M16)"
+
+#: slot/0x0056a63d/0x954c25/0x000094
+msgid "40mm Grenade (RK)"
+msgstr "40mm榴弹(RK)"
+
+#: slot/0x0056a63d/0x954c25/0x000095
+msgid ".45ACP"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000096
+msgid "5.56x45mm"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000097
+msgid "7.62x39mm"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000098
+msgid "7.62x51mm"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x000099
+msgid "7.62x54R"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00009a
+msgid "7.62x63mm"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00009b
+msgid "9x19mm"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00009c
+msgid "9x18mm"
+msgstr ""
+
+#: slot/0x0056a63d/0x954c25/0x00009d
+msgid "HEAT Round"
+msgstr "破甲弹"
+
+#: slot/0x0056a63d/0x954c25/0x00009e
+msgid "Psyche Recovery Round"
+msgstr "精神恢复弹"
+
+#: slot/0x0056a63d/0x954c25/0x00009f
+msgid "Life Recovery Round"
+msgstr "生命恢复弹"
+
+#: slot/0x0056a63d/0x954c25/0x0000a0
+msgid "Anesthetic Round (Handgun)"
+msgstr "麻醉弹（手枪）"
+
+#: slot/0x0056a63d/0x954c25/0x0000a1
+#: slot/0x0056a63d/0x954c25/0x0000a2
+msgid "Surround Indicator"
+msgstr "环绕指示器"
+
+#: slot/0x0056a63d/0x954c25/0x0000a3
+#: slot/0x0056a63d/0x954c25/0x0000a4
+#: slot/0x0056a63d/0x954c25/0x0000a5
+#: slot/0x0056a63d/0x954c25/0x0000a6
+#: slot/0x0056a63d/0x954c25/0x0000a7
+msgid "Soliton Radar"
+msgstr "孤子雷达"
+
+#: slot/0x0056a63d/0x954c25/0x0000a8
+#: slot/0x0056a63d/0x954c25/0x0000a9
+#: slot/0x0056a63d/0x954c25/0x0000aa
+#: slot/0x0056a63d/0x954c25/0x0000ab
+#: slot/0x0056a63d/0x954c25/0x0000ac
+msgid "Sonic Eye"
+msgstr "音波眼"
+
+#: slot/0x0056a63d/0x954c25/0x0000ad
+msgid "Lime Soda"
+msgstr "青柠汽水"
+
+#: slot/0x0056a63d/0x954c25/0x0000ae
+msgid "Zero-calorie Soda"
+msgstr "零卡汽水"
+
+#: slot/0x0056a63d/0x954c25/0x0000af
+msgid "Tortilla Chips"
+msgstr "玉米片"
+
+#: slot/0x0056a63d/0x954c25/0x0000b0
+#: slot/0x0056a63d/0x954c25/0x0000b1
+#: slot/0x0056a63d/0x954c25/0x0000b2
+#: slot/0x0056a63d/0x954c25/0x0000b3
+#: slot/0x0056a63d/0x954c25/0x0000b4
+msgid "Box Bomb"
+msgstr "炸箱"
+
+#: slot/0x0056a63d/0x954c25/0x0000b5
+#: slot/0x0056a63d/0x954c25/0x0000b6
+#: slot/0x0056a63d/0x954c25/0x0000b7
+#: slot/0x0056a63d/0x954c25/0x0000b8
+msgid "Stun Box"
+msgstr "麻箱"
+
+#: slot/0x0056a63d/0x954c25/0x0000b9
+#: slot/0x0056a63d/0x954c25/0x0000ba
+#: slot/0x0056a63d/0x954c25/0x0000bb
+#: slot/0x0056a63d/0x954c25/0x0000bc
+msgid "Smoke Box"
+msgstr "烟雾箱"
+
+#: slot/0x0056a63d/0x954c25/0x0000bd
+msgid "Whay are you here..."
+msgstr "你咋在这……"
+
+#: slot/0x0056a63d/0x954c25/0x0000be
+msgid "Assassin's Straw Box"
+msgstr "刺客草箱"
+
+#: slot/0x0056a63d/0x954c25/0x0000bf
+#: slot/0x0056a63d/0x954c25/0x0000c0
+#: slot/0x0056a63d/0x954c25/0x0000c1
+#: slot/0x0056a63d/0x954c25/0x0000c2
+#: slot/0x0056a63d/0x954c25/0x0000c3
+msgid "Rescue Box"
+msgstr "救援箱"
+
+#: slot/0x0056a63d/0x954c25/0x0000c4
+#: slot/0x0056a63d/0x954c25/0x0000c5
+#: slot/0x0056a63d/0x954c25/0x0000c6
+#: slot/0x0056a63d/0x954c25/0x0000c7
+#: slot/0x0056a63d/0x954c25/0x0000c8
+msgid "Rare Ration"
+msgstr "稀口粮"
+
+#: slot/0x0056a63d/0x954c25/0x0000c9
+#: slot/0x0056a63d/0x954c25/0x0000ca
+#: slot/0x0056a63d/0x954c25/0x0000cb
+#: slot/0x0056a63d/0x954c25/0x0000cc
+#: slot/0x0056a63d/0x954c25/0x0000cd
+msgid "Well-done Ration"
+msgstr "全熟口粮"
+
+#: slot/0x0056a63d/0x954c25/0x0000ce
+#: slot/0x0056a63d/0x954c25/0x0000cf
+#: slot/0x0056a63d/0x954c25/0x0000d0
+#: slot/0x0056a63d/0x954c25/0x0000d1
+#: slot/0x0056a63d/0x954c25/0x0000d2
+msgid "Burnt Ration"
+msgstr "焦糊口粮"
+
+#: slot/0x0056a63d/0x954c25/0x0000d3
+#: slot/0x0056a63d/0x954c25/0x0000d4
+#: slot/0x0056a63d/0x954c25/0x0000d5
+#: slot/0x0056a63d/0x954c25/0x0000d6
+#: slot/0x0056a63d/0x954c25/0x0000d7
+msgid "Mate Tea"
+msgstr "马黛"
+
+#: slot/0x0056a63d/0x954c25/0x0000d8
+msgid "12G. Rubber Rounds"
+msgstr "12号橡胶弹"
+
+#: slot/0x0056a63d/0x954c25/0x0000d9
+msgid "40mm Smoke Rounds (M16)"
+msgstr "40mm烟雾弹（M16）"
+
+#: slot/0x0056a63d/0x954c25/0x0000da
+msgid "40mm Smoke Rounds (RK)"
+msgstr "40mm烟雾弹（RK）"
+
+#: slot/0x0056a63d/0x954c25/0x0000db
+msgid "Support Strike Marker (Fired)"
+msgstr "支援攻击标记(已发)"
+
+#: slot/0x0056a63d/0x954c25/0x0000dc
+msgid "Support Supply Marker (Fired)"
+msgstr "支援补给标记(已发)"
+
+#: slot/0x0056a63d/0x954c25/0x0000dd
+msgid "Lead Ball"
+msgstr "铅弹"
+
+#: slot/0x0056a63d/0x954c25/0x0000de
+msgid "Anesthetic Round (Rifle)"
+msgstr "麻醉弹（步枪）"
+
+#: slot/0x0056a63d/0x954c25/0x0000df
+msgid "7.62x51mm (Armor-Piercing)"
+msgstr "7.62x51mm（穿甲）"
+
+#: slot/0x0056a63d/0x954c25/0x0000e0
+msgid "Railgun Ammo"
+msgstr "电磁炮炮弹"
+
+#: slot/0x0056a63d/0x954c25/0x0000e1
+msgid "RPG2 Ammo"
+msgstr "RPG2弹"
+
+#: slot/0x0056a63d/0x954c25/0x0000e2
+msgid "RPG7 Ammo"
+msgstr "RPG7弹"
+
+#: slot/0x0056a63d/0x954c25/0x0000e3
+msgid "Carl Gustav Ammo"
+msgstr "卡尔·古斯塔夫弹药"
+
+#: slot/0x0056a63d/0x954c25/0x0000e4
+msgid "Carl Gustav HEAT Ammo"
+msgstr "卡尔·古斯塔夫破甲弹"
+
+#: slot/0x0056a63d/0x954c25/0x0000e6
+msgid "FIM-43 Missile"
+msgstr "FIM-43导弹"
+
+#: slot/0x0056a63d/0x954c25/0x0000e7
+msgid "XFIM-92A Missile"
+msgstr "XFIM-92A导弹"
+
+#: slot/0x0056a63d/0x954c25/0x0000e8
+msgid "M47 Missile"
+msgstr "M47导弹"
+
+#: slot/0x0056a63d/0x954c25/0x0000e9
+msgid "LAW Rocket"
+msgstr "LAW火箭"
+
+#: slot/0x0056a63d/0x954c25/0x0000ea
+msgid "M202 Rocket"
+msgstr "M202火箭"
+
+#: slot/0x0056a63d/0x954c25/0x0000eb
+msgid "Carl Gustav Fulton Rounds"
+msgstr "古斯塔夫富尔顿弹"
+
+#: slot/0x0056a63d/0x954c25/0x0000ec
+msgid "EZ Gun (LR) Design Specs"
+msgstr "EZ枪(LR)开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000ed
+msgid "EZ Gun (PR) Design Specs"
+msgstr "EZ枪(PR)开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000ee
+msgid "PM Design Specs"
+msgstr "PM开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000ef
+msgid "PB/6P9 Design Specs"
+msgstr "PB/6P9开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000f0
+msgid "M1911A1 Design Specs"
+msgstr "M1911A1开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000f1
+msgid "M1911A1 Custom Design Specs"
+msgstr "M1911A1定制规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000f2
+msgid "C96 Design Specs"
+msgstr "C96开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000f3
+msgid "M19 Design Specs"
+msgstr "M19开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000f4
+msgid "Kampfpistole Design Specs"
+msgstr "信号枪开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000f5
+msgid "Support Supply Marker Design Specs"
+msgstr "支援补给标记开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000f6
+msgid "Support Strike Marker Design Specs"
+msgstr "支援攻击标记开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000f7
+msgid "Banana Cultivation Instructions"
+msgstr "香蕉栽培指南"
+
+#: slot/0x0056a63d/0x954c25/0x0000f8
+msgid "Twin Barrel Shotgun Design Specs"
+msgstr "双管霰弹枪开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000f9
+msgid "Twin Barrel (Rubber Slug) Design Specs"
+msgstr "双管(橡胶弹)开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000fa
+msgid "M37 Design Specs"
+msgstr "M37开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000fb
+msgid "SPAS-12 Design Specs"
+msgstr "SPAS-12开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000fc
+msgid "CAW Design Specs"
+msgstr "CAW开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000fd
+msgid "M16A1(STG) Design Specs"
+msgstr "M16A1(STG) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000fe
+msgid "M16A1(STG + laser) Design Specs"
+msgstr "M16A1(STG + 激光) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x0000ff
+msgid "Patriot Design Specs"
+msgstr "爱国者 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000100
+msgid "M16A1(GL) Design Specs"
+msgstr "M16A1(GL) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000101
+msgid "M16A1(GL + laser) Design Specs"
+msgstr "M16A1(GL + 激光) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000102
+msgid "M16A1(SGL) Design Specs"
+msgstr "M16A1(SGL) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000103
+msgid "M16A1(SGL + laser) Design Specs"
+msgstr "M16A1(SGL + 激光) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000104
+msgid "M653 Design Specs"
+msgstr "M653 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000105
+msgid "M653(GL) Design Specs"
+msgstr "M653(GL) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000106
+msgid "M653(STG) Design Specs"
+msgstr "M653(STG) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000107
+msgid "M653(SGL) Design Specs"
+msgstr "M653(SGL) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000108
+msgid "RK47 Design Specs"
+msgstr "RK47 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000109
+msgid "RK47(GL) Design Specs"
+msgstr "RK47(GL) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00010a
+msgid "ADM63 Design Specs"
+msgstr "ADM63 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00010b
+msgid "ADM65 Design Specs"
+msgstr "ADM65 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00010c
+msgid "RK47(SGL) Design Specs"
+msgstr "RK47(SGL) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00010d
+msgid "RPK Design Specs"
+msgstr "RPK 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00010e
+msgid "FAL Design Specs"
+msgstr "FAL 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00010f
+msgid "SUG Design Specs"
+msgstr "SUG 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000110
+msgid "G11 Design Specs"
+msgstr "G11 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000111
+msgid "Tanegashima Musket Design Specs"
+msgstr "种子岛火枪 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000112
+msgid "M10 Design Specs"
+msgstr "M10 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000113
+msgid "M10(BJ) Design Specs"
+msgstr "M10(BJ) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000114
+msgid "UZ61 Design Specs"
+msgstr "UZ61 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000115
+msgid "MP5A2 Design Specs"
+msgstr "MP5A2 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000116
+msgid "MP5SD2 Design Specs"
+msgstr "MP5SD2 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000117
+msgid "M1928A1 Design Specs"
+msgstr "M1928A1 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000118
+msgid "M1C Design Specs"
+msgstr "M1C 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000119
+msgid "M1C (PR) Design Specs"
+msgstr "M1C (PR) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00011a
+msgid "M21 Design Specs"
+msgstr "M21 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00011b
+msgid "M700 Design Specs"
+msgstr "M700 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00011c
+msgid "M700 (LR) Design Specs"
+msgstr "M700 (LR) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00011d
+msgid "Mosin-Nagant Design Specs"
+msgstr "莫辛-纳甘 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00011e
+msgid "SVD Design Specs"
+msgstr "SVD 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00011f
+msgid "SVD(NV) Design Specs"
+msgstr "SVD(NV) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000120
+msgid "WA2000 Design Specs"
+msgstr "WA2000 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000121
+msgid "PTRD1941 Design Specs"
+msgstr "PTRD1941 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000122
+msgid "PTRS1941 Design Specs"
+msgstr "PTRS1941 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000123
+msgid "Stealth Gun Design Specs"
+msgstr "隐身枪 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000124
+msgid "Railgun Design Specs"
+msgstr "电磁炮 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000125
+msgid "M60 Design Specs"
+msgstr "M60 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000126
+msgid "M60 (Armor Piercing) Design Specs"
+msgstr "M60 (穿甲弹) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000127
+msgid "M63A1 Design Specs"
+msgstr "M63A1 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000128
+msgid "PKM Design Specs"
+msgstr "PKM 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000129
+msgid "MG3 Design Specs"
+msgstr "MG3 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00012a
+msgid "MG3 (Armor Piercing) Design Specs"
+msgstr "MG3 (穿甲弹) 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00012b
+msgid "M134 Design Specs"
+msgstr "M134 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00012d
+msgid "LAW Design Specs"
+msgstr "LAW 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00012e
+#: slot/0x0056a63d/0x954c25/0x00012f
+msgid "M202A1 Design Specs"
+msgstr "M202A1 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000130
+msgid "RPG-2 Design Specs"
+msgstr "RPG-2 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000131
+msgid "RPG-7 Design Specs"
+msgstr "RPG-7 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000132
+msgid "FIM-43 Design Specs"
+msgstr "FIM-43 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000133
+msgid "XFIM-92A Design Specs"
+msgstr "XFIM-92A 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000134
+msgid "Carl Gustav M2 Design Specs"
+msgstr "卡尔·古斯塔夫 M2 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000135
+msgid "Carl Gustav (MP) Design Specs"
+msgstr "卡尔·古斯塔夫（MP）开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000136
+msgid "Carl Gustav (Fulton) Design Specs"
+msgstr "卡尔·古斯塔夫（富尔顿）开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000137
+msgid "M47 Design Specs"
+msgstr "M47 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000138
+msgid "Human Slingshot Design Specs"
+msgstr "人体弹弓 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000139
+msgid "Stun Grenade Design Specs"
+msgstr "眩晕手雷 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00013a
+msgid "Smoke Grenade Design Specs"
+msgstr "烟雾手雷 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00013b
+msgid "Chaff Grenade Design Specs"
+msgstr "箔条手雷 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00013c
+msgid "Smoke Grenade (Colored) Design Specs"
+msgstr "烟雾手雷（彩色）开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00013d
+msgid "Support Supply Marker (Thrown) Design Specs"
+msgstr "支援补给标记（投掷）开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00013e
+msgid "Support Strike Marker (Thrown) Design Specs"
+msgstr "支援攻击标记（投掷）开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00013f
+msgid "Electromagnetic Net Design Specs"
+msgstr "电磁网 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000140
+msgid "Sleep Gas Grenade Design Specs"
+msgstr "催眠瓦斯手雷 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000141
+msgid "C4 Design Specs"
+msgstr "C4 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000142
+msgid "Claymore Design Specs"
+msgstr "阔剑地雷 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000143
+msgid "Magazine Layout"
+msgstr "杂志版面"
+
+#: slot/0x0056a63d/0x954c25/0x000144
+#: slot/0x0056a63d/0x954c25/0x0001fb
+#: slot/0x0056a63d/0x954c25/0x0001fc
+#: slot/0x0056a63d/0x954c25/0x0001fd
+msgid "Hobby Magazine Layout"
+msgstr "兴趣杂志版面"
+
+#: slot/0x0056a63d/0x954c25/0x000145
+msgid "Anti-tank Mine Design Specs"
+msgstr "反坦克地雷 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000146
+msgid "Decoy Design Specs"
+msgstr "诱饵 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000147
+msgid "Aerial Mine Design Specs"
+msgstr "空投地雷 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000148
+msgid "Fulton Sleep Gas Mine Design Specs"
+msgstr "富尔顿催眠瓦斯地雷 开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000149
+msgid "Cookbook Research Notes"
+msgstr "烹饪书研究笔记"
+
+#: slot/0x0056a63d/0x954c25/0x00014a
+msgid "Support Supply Mk. (Set) Blueprints"
+msgstr "支援补给Mk.（套）设计图"
+
+#: slot/0x0056a63d/0x954c25/0x00014b
+msgid "Support Strike Mk. (Set) Blueprints"
+msgstr "支援打击Mk.（套）设计图"
+
+#: slot/0x0056a63d/0x954c25/0x00014c
+msgid "Curry Recipe"
+msgstr "咖喱食谱"
+
+#: slot/0x0056a63d/0x954c25/0x00014d
+msgid "Stealth Mat Design Specs"
+msgstr "潜行垫开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00014e
+msgid "Stealth Camouflage Design Specs"
+msgstr "潜行迷彩开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00014f
+msgid "Love Box Design Specs"
+msgstr "爱之箱开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000150
+msgid "Cardboard Box Tank Design Specs"
+msgstr "纸箱坦克开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000151
+msgid "Night Vision Goggles Design Specs"
+msgstr "夜视仪开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000152
+msgid "Ballistic Shield Design Specs"
+msgstr "防弹盾开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000153
+msgid "Ballistic Shield (Color) Design Specs"
+msgstr "防弹盾（颜色）开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000154
+msgid "Infinity Bandana Design Specs"
+msgstr "无限头巾开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000155
+msgid "Soliton Radar Design Specs"
+msgstr "孤立子雷达规格"
+
+#: slot/0x0056a63d/0x954c25/0x000156
+msgid "Sonic Eye Design Specs"
+msgstr "音波眼开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000157
+msgid "Canned Soft Drink Recipe"
+msgstr "罐装软饮配方"
+
+#: slot/0x0056a63d/0x954c25/0x000158
+msgid "Tortilla Chips Recipe"
+msgstr "玉米片配方"
+
+#: slot/0x0056a63d/0x954c25/0x000159
+msgid "Box Bomb Design Specs"
+msgstr "纸箱炸弹规格"
+
+#: slot/0x0056a63d/0x954c25/0x00015a
+msgid "Stun Box Design Specs"
+msgstr "眩晕纸箱规格"
+
+#: slot/0x0056a63d/0x954c25/0x00015b
+msgid "Smoke Box Design Specs"
+msgstr "烟雾纸箱规格"
+
+#: slot/0x0056a63d/0x954c25/0x00015d
+msgid "Assassin's Straw Box Design Specs"
+msgstr "刺客稻草箱开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x00015e
+msgid "Rescue Box Design Specs"
+msgstr "救援纸箱规格"
+
+#: slot/0x0056a63d/0x954c25/0x00015f
+msgid "Rare-meat Ration Design Specs"
+msgstr "生肉口粮开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000160
+msgid "Well-done Ration Design Specs"
+msgstr "熟肉口粮开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000161
+msgid "Burnt Ration Design Specs"
+msgstr "焦肉口粮开发规格"
+
+#: slot/0x0056a63d/0x954c25/0x000162
+msgid "Rathalos Wing"
+msgstr "火龙翼"
+
+#: slot/0x0056a63d/0x954c25/0x000163
+msgid "Tigrex Fang"
+msgstr "轰龙牙"
+
+#: slot/0x0056a63d/0x954c25/0x000164
+msgid "Gear Rex Mucous"
+msgstr "霸王黏液"
+
+#: slot/0x0056a63d/0x954c25/0x000165
+msgid "Gear Rex Concentrate"
+msgstr "霸王浓缩液"
+
+#: slot/0x0056a63d/0x954c25/0x000166
+msgid "Gear Rex Super Extract"
+msgstr "霸王超萃取液"
+
+#: slot/0x0056a63d/0x954c25/0x000167
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d36a
+msgid "Jungle Fatigues"
+msgstr "丛林迷彩服"
+
+#: slot/0x0056a63d/0x954c25/0x000168
+msgid "Black"
+msgstr "黑"
+
+#: slot/0x0056a63d/0x954c25/0x000169
+msgid "Khaki"
+msgstr "卡其"
+
+#: slot/0x0056a63d/0x954c25/0x00016a
+msgid "Navy Blue"
+msgstr "藏青"
+
+#: slot/0x0056a63d/0x954c25/0x00016b
+msgid "White"
+msgstr "白"
+
+#: slot/0x0056a63d/0x954c25/0x00016c
+msgid "Red"
+msgstr "红色"
+
+#: slot/0x0056a63d/0x954c25/0x00016d
+msgid "Yellow"
+msgstr "黄色"
+
+#: slot/0x0056a63d/0x954c25/0x00016e
+msgid "Pink"
+msgstr "粉"
+
+#: slot/0x0056a63d/0x954c25/0x00016f
+msgid "Green"
+msgstr "绿"
+
+#: slot/0x0056a63d/0x954c25/0x000170
+msgid "Leaf"
+msgstr "叶"
+
+#: slot/0x0056a63d/0x954c25/0x000171
+msgid "Tiger Stripe"
+msgstr "虎纹"
+
+#: slot/0x0056a63d/0x954c25/0x000172
+msgid "Water"
+msgstr "水"
+
+#: slot/0x0056a63d/0x954c25/0x000173
+msgid "Choco Chip"
+msgstr "巧克力碎斑"
+
+#: slot/0x0056a63d/0x954c25/0x000174
+msgid "Desert Auscam"
+msgstr "沙漠Auscam"
+
+#: slot/0x0056a63d/0x954c25/0x000175
+msgid "Squares"
+msgstr "方格"
+
+#: slot/0x0056a63d/0x954c25/0x000176
+msgid "Tree Bark"
+msgstr "树皮"
+
+#: slot/0x0056a63d/0x954c25/0x000177
+msgid "Splitter"
+msgstr "碎块"
+
+#: slot/0x0056a63d/0x954c25/0x000179
+msgid "Comrade"
+msgstr "同志"
+
+#: slot/0x0056a63d/0x954c25/0x00017a
+msgid "Guns & Jungle"
+msgstr "枪与丛林"
+
+#: slot/0x0056a63d/0x954c25/0x00017b
+msgid "Neo Moss"
+msgstr "新苔"
+
+#: slot/0x0056a63d/0x954c25/0x00017c
+msgid "Stench"
+msgstr "恶臭"
+
+#: slot/0x0056a63d/0x954c25/0x000180
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d36b
+msgid "Sneaking Suit"
+msgstr "潜行服"
+
+#: slot/0x0056a63d/0x954c25/0x000181
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d36c
+msgid "Battle Dress"
+msgstr "战斗服"
+
+#: slot/0x0056a63d/0x954c25/0x000182
+msgid "Battle Dress (with helmet)"
+msgstr "战斗服（带头盔）"
+
+#: slot/0x0056a63d/0x954c25/0x000183
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d36d
+msgid "Naked"
+msgstr "裸装"
+
+#: slot/0x0056a63d/0x954c25/0x000184
+msgid "Naked (Black)"
+msgstr "裸装(黑)"
+
+#: slot/0x0056a63d/0x954c25/0x000185
+msgid "Naked (Khaki)"
+msgstr "裸装（卡其）"
+
+#: slot/0x0056a63d/0x954c25/0x000186
+msgid "Naked (Navy Blue)"
+msgstr "裸装(藏青)"
+
+#: slot/0x0056a63d/0x954c25/0x000187
+msgid "Naked (White)"
+msgstr "裸装(白)"
+
+#: slot/0x0056a63d/0x954c25/0x000188
+msgid "Naked (Red)"
+msgstr "裸装（红色）"
+
+#: slot/0x0056a63d/0x954c25/0x000189
+msgid "Naked (Yellow)"
+msgstr "裸装(黄)"
+
+#: slot/0x0056a63d/0x954c25/0x00018a
+msgid "Naked (Pink)"
+msgstr "裸装(粉)"
+
+#: slot/0x0056a63d/0x954c25/0x00018b
+msgid "Naked (Green)"
+msgstr "裸装(绿)"
+
+#: slot/0x0056a63d/0x954c25/0x00018c
+msgid "Naked (Leaf)"
+msgstr "裸装(叶)"
+
+#: slot/0x0056a63d/0x954c25/0x00018d
+msgid "Naked (Tiger Stripe)"
+msgstr "裸装（虎纹）"
+
+#: slot/0x0056a63d/0x954c25/0x00018e
+msgid "Naked (Water)"
+msgstr "裸装(水)"
+
+#: slot/0x0056a63d/0x954c25/0x00018f
+msgid "Naked (Choco Chip)"
+msgstr "裸装(巧斑)"
+
+#: slot/0x0056a63d/0x954c25/0x000190
+msgid "Naked (Desert Auscam)"
+msgstr "裸装(沙漠迷彩)"
+
+#: slot/0x0056a63d/0x954c25/0x000191
+msgid "Naked (Squares)"
+msgstr "裸装(方块)"
+
+#: slot/0x0056a63d/0x954c25/0x000192
+msgid "Naked (Tree Bark)"
+msgstr "裸装(树皮)"
+
+#: slot/0x0056a63d/0x954c25/0x000193
+msgid "Naked (Splitter)"
+msgstr "裸装(碎块)"
+
+#: slot/0x0056a63d/0x954c25/0x000194
+msgid "Naked (Snake)"
+msgstr "裸装(蛇)"
+
+#: slot/0x0056a63d/0x954c25/0x000195
+msgid "Tuxedo"
+msgstr "燕尾服"
+
+#: slot/0x0056a63d/0x954c25/0x000196
+#: slot/0x00cdd1c4/0xc6e14e/0x21516a
+msgid "Miller"
+msgstr "米勒"
+
+#: slot/0x0056a63d/0x954c25/0x000197
+#: slot/0x00cdd1c4/0xc6e14e/0x5bd921
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dba7
+msgid "Amanda"
+msgstr "阿曼达"
+
+#: slot/0x0056a63d/0x954c25/0x000198
+msgid "Swim Trunks"
+msgstr "泳裤"
+
+#: slot/0x0056a63d/0x954c25/0x000199
+msgid "Bikini Top"
+msgstr "比基尼"

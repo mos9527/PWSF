@@ -194,6 +194,49 @@ def slot_sources(lang: int = config.LANG_EN) -> dict:
     return out
 
 
+# olang key.meta is the font selector (ANALYSIS/05_font.md §15, proven by
+# RenderDoc: the title screen's "PRESS START BUTTON" is meta 0x1 and every
+# quad of it samples the 512x512 BC3 atlas inside Text/*.txp, which has no
+# CJK glyphs at all).
+META_PIXEL_FONT = 0x1
+
+
+@functools.lru_cache(maxsize=1)
+def pixel_font_refs() -> frozenset:
+    """Slots drawn with the pixel font: ASCII / Latin-1 only, never translate.
+
+    English key decides: the reference names a (group, entry) pair, and while
+    a group can mix both metas (ANALYSIS/01 §7) each language key carries its
+    own, and we only ever overwrite the English one.
+    """
+    out = set()
+    for path in olang_paths():
+        stem = path.stem
+        tbl = table(stem)
+        for g in tbl.groups:
+            for ei in range(g.entry_start, g.entry_start + g.entry_count):
+                e = tbl.entries[ei]
+                for ki in range(e.key_start, e.key_start + e.key_count):
+                    k, _so, meta, _pad = tbl.keys[ki]
+                    if k == config.LANG_EN and meta == META_PIXEL_FONT:
+                        out.add(f"{OLANG}/{stem}/{g.key:#08x}/{e.key:#08x}")
+
+    path = config.SLOT_OLANG_TSV
+    if path.is_file():
+        rows = path.read_text(encoding="utf-8").splitlines()
+        col = {n: i for i, n in enumerate(rows[0].split("\t"))}
+        for r in rows[1:]:
+            c = r.split("\t")
+            if len(c) <= col["text"] or c[col["lang"]] != "en":
+                continue
+            if int(c[col["meta"]], 0) != META_PIXEL_FONT:
+                continue
+            out.add(str(SlotRef(int(c[col["table_id"]], 0),
+                                int(c[col["group"]], 0),
+                                int(c[col["entry"]], 0))))
+    return frozenset(out)
+
+
 @functools.lru_cache(maxsize=1)
 def sources() -> dict:
     """Every exportable slot, all three corpora, keyed by reference."""

@@ -6,195 +6,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-PWSF-Source: olang\n"
-"X-PWSF-Entries: 313\n"
+"X-PWSF-Entries: 261\n"
 
-
-#: olang/009c9ea4/0xbc4a75/0x00003d
-msgid "2!"
-msgstr ""
-
-#: olang/009c9ea4/0xbc4a75/0x00003e
-msgid "1!"
-msgstr ""
-
-#: olang/009c9ea4/0xbc4a75/0x00003f
-msgid "Launch!"
-msgstr "发射！"
-
-#: olang/009c9ea4/0xc3d5b4/0x024ebc
-#: olang/009c9ea4/0xc3d5b4/0xd851e8
-msgid "Connection failed."
-msgstr "连接失败。"
-
-#: olang/009c9ea4/0xc3d5b4/0x434337
-msgid ""
-"You need to be online to proceed any further.\n"
-"Please connect to the internet."
-msgstr "需联网才能继续。\n请连接互联网。"
-
-#: olang/009c9ea4/0xc3d5b4/0x508f74
-msgid "Connection has been terminated."
-msgstr "连接已中断。"
-
-#: olang/009c9ea4/0xc3d5b4/0x58bcd8
-msgid "You cannot access online multiplayer using the current account."
-msgstr "当前账号无法使用在线多人模式。"
-
-#: olang/009c9ea4/0xcc177c/0xd65dbe
-msgid "HELP: <I=SEL>"
-msgstr "帮助：<I=SEL>"
-
-#: olang/009c9ea4/0xd449d6/0x0827ec
-msgid "Choose which profile to view."
-msgstr "选择要查看的档案。"
-
-#: olang/009c9ea4/0xd449d6/0x908dce
-msgid ""
-"You can recruit VERSUS OPS MEMBERS worldwide online.\n"
-"Select the type of invitation."
-msgstr "可在线上招募全球对战任务成员。\n选择邀请方式。"
-
-#: olang/009c9ea4/0xd449d6/0x98e96f
-#: olang/009c9ea4/0xd449d6/0xc4b92e
-msgid "PLAYER PROFILE"
-msgstr "玩家档案"
-
-#: olang/009c9ea4/0xda3cb1/0xb81e44
-msgid "Note"
-msgstr "注"
-
-#: olang/009c9ea4/0xda3cb1/0xfdb176
-msgid ""
-"Note\n"
-"\n"
-"The player name chosen will be visible to other players, KONAMI,\n"
-"and in places accessible by third parties authorized by KONAMI.\n"
-"Consequently, it may appear in images and videos posted on platforms\n"
-"such as Discord, Facebook, YouTube, etc.\n"
-"\n"
-"Please avoid using any name that could be used to identify an\n"
-"individual, enable contact or communication with an individual,\n"
-"infringe on the rights of third parties, violate public decency,\n"
-"or otherwise breach any applicable terms of service of this title."
-msgstr "注意\n\n所选择的玩家名称将对其他玩家、KONAMI 可见，\n并会出现在 KONAMI 授权的第三方可访问的场所。\n因此，它可能会出现在发布在 Discord、Facebook、YouTube 等\n平台上的图像和视频中。\n\n请避免使用任何可用于识别个人、\n能够联系或与个人通信、\n侵犯第三方权利、违反公共道德、\n或以其他方式违反本作品任何适用服务条款的名称。"
-
-#: olang/009c9ea4/0xdac0c9/0x348931
-msgid "TARGET CAPTURE COUNT"
-msgstr "目标捕获数"
-
-#: olang/009c9ea4/0xdb8c41/0x2f478a
-msgid "PLAY/STOP (SOUND DATA ONLY): <I=EXTRA_PLAY_STOP>"
-msgstr "播放/停止（仅声音数据）：<I=EXTRA_PLAY_STOP>"
-
-#: olang/009c9ea4/0xe24ed2/0xf324d0
-msgid "HOLD DOWN <I=TOGGLE_ZAPPIN>."
-msgstr "按住 <I=TOGGLE_ZAPPIN>。"
-
-#: olang/009c9ea4/0xe34675/0x000001
-msgid "Chaingun."
-msgstr "机炮。"
-
-#: olang/009c9ea4/0xe34675/0x000002
-msgid "Charging railgun."
-msgstr "电磁炮充能"
-
-#: olang/009c9ea4/0xe34675/0x000003
-msgid "Launching kidnappers."
-msgstr "发射绑架弹。"
-
-#: olang/009c9ea4/0xe34675/0x000004
-msgid "Switching to attack mode!"
-msgstr "切换至攻击模式！"
-
-#: olang/009c9ea4/0xe34675/0x000005
-msgid "Returning to normal mode."
-msgstr "返回普通模式。"
-
-#: olang/009c9ea4/0xe34675/0x000007
-msgid "Commencing auto-repair."
-msgstr "开始自动修复。"
-
-#: olang/009c9ea4/0xe34675/0x000008
-msgid "Radome damage detected."
-msgstr "天线罩受损"
-
-#: olang/009c9ea4/0xe34675/0x000009
-msgid "Closing in!"
-msgstr "逼近！"
-
-#: olang/009c9ea4/0xe34675/0x00000a
-msgid "Reinitializing!"
-msgstr "重新初始化！"
-
-#: olang/009c9ea4/0xe34675/0x000013
-msgid "Take this!!"
-msgstr "接招！"
-
-#: olang/009c9ea4/0xe34675/0x000014
-msgid "I'll send you straight to hell!"
-msgstr "我直接送你下地狱！"
-
-#: olang/009c9ea4/0xe34675/0x000015
-msgid "Fly, my Kidnappers!!"
-msgstr "飞吧，绑匪！"
-
-#: olang/009c9ea4/0xe34675/0x000016
-msgid "Attack mode!"
-msgstr "攻击模式！"
-
-#: olang/009c9ea4/0xe34675/0x000017
-msgid "Normal mode."
-msgstr "普通模式。"
-
-#: olang/009c9ea4/0xe34675/0x000019
-msgid "What?!"
-msgstr "什么？！"
-
-#: olang/009c9ea4/0xe34675/0x00001a
-msgid "Damn you!"
-msgstr "可恶！"
-
-#: olang/009c9ea4/0xe34675/0x00001b
-msgid "There you are!"
-msgstr "找到你！"
-
-#: olang/009c9ea4/0xe34675/0x00001c
-msgid "Let's try that again!"
-msgstr "再来一次！"
-
-#: olang/009c9ea4/0xe34675/0x000024
-msgid "Recalling kidnappers!"
-msgstr "召回绑架犯！"
-
-#: olang/009c9ea4/0xe34675/0x000025
-msgid "Kidnappers, come back!"
-msgstr "绑架犯，回来！"
-
-#: olang/009c9ea4/0xe6e4ed/0x748b25
-msgid "After selecting HOST SEARCH and matching the Channel to that of the HOST (recruiter), the mission that is recruiting members will be displayed.  Host information, the current number of players and the maximum number of players appear in the list shown."
-msgstr "选择 HOST SEARCH 并将频道与主机（招募者）一致后，正在招募成员的任务就会显示。列表中会显示主机信息、当前人数和人数上限。"
-
-#: olang/009c9ea4/0xe6e4ed/0x88883d
-msgid "Use <I=MOVE> to select a Region from the map.  Press <I=DEC> to display the mission list for each Region.  After displaying the mission lists, press <I=CAN> to return to selecting a Region."
-msgstr "用 <I=MOVE> 在地图上选择地区。按 <I=DEC> 显示各地区任务列表。显示任务列表后，按 <I=CAN> 返回选择地区。"
-
-#: olang/009c9ea4/0xe6e4ed/0x8dcc78
-msgid ""
-"Select the mission that you wish to participate in.  \n"
-"Use <I=TAB_LEFT> and <I=TAB_RIGHT> to switch tabs.\n"
-"\n"
-"You can play CO-OPS missions by connecting online. To become the HOST of a CO-OPS mission, select a mission from any tab other than the CO-OPS tab.\n"
-"Other players can join from the CO-OPS tab using the HOST SEARCH function.\n"
-"The current and maximum number of players is shown to the right of the mission name.\n"
-msgstr "选择你想参加的任务。\n用 <I=TAB_LEFT> 和 <I=TAB_RIGHT> 切换标签。\n\n联机即可游玩合作任务。要成为合作任务的主机，请从合作任务标签以外的任意标签选择任务。\n其他玩家可用 HOST SEARCH 从合作任务标签加入。\n任务名右侧显示当前人数和人数上限。\n"
-
-#: olang/009c9ea4/0xe9cbf5/0x000001
-msgid "Emergency override complete. Reinitializing!"
-msgstr "紧急覆写完成。重新初始化！"
-
-#: olang/009c9ea4/0xe9cbf5/0x000002
-msgid "Missile target acquired!"
-msgstr "导弹目标已锁定！"
 
 #: olang/009c9ea4/0xe9cbf5/0x000003
 msgid "Commencing area attack!"
@@ -240,17 +53,15 @@ msgstr "我现在真火了……"
 msgid "Cooling complete. Reinitializing."
 msgstr "冷却完成。重新初始化。"
 
-#: olang/009c9ea4/0xfb5d7b/0x6b92bb
-#: olang/009c9ea4/0xff8cbc/0x057609
-msgid "PRESS <I=TITLE_START> BUTTON"
-msgstr "按 <I=TITLE_START> 键"
-
 #: olang/00c6a046/0x4a9e78/0x220a93
 msgid ""
 "Checking storage device...\n"
 "Do not remove the storage device\n"
 "or turn off the console."
-msgstr "正在检查存储设备...\n请勿取出存储设备\n或关闭主机电源。"
+msgstr ""
+"正在检查存储设备...\n"
+"请勿取出存储设备\n"
+"或关闭主机电源。"
 
 #: olang/00c6a046/0x50faac/0xa5f795
 msgid "OVER_MAX_NUM"
@@ -321,7 +132,10 @@ msgid ""
 "A countdown will begin when the HOST selects \"START MISSION.\" When the countdown reaches zero, the mission will start automatically.\n"
 "The mission will also begin if all MEMBERS select \"START MISSION.\"\n"
 "New MEMBERS cannot join at this time."
-msgstr "主机选择“开始任务”后开始倒计时。倒计时归零后任务自动开始。\n所有成员都选择“开始任务”时任务也会开始。\n此时无法加入新成员。"
+msgstr ""
+"主机选择“开始任务”后开始倒计时。倒计时归零后任务自动开始。\n"
+"所有成员都选择“开始任务”时任务也会开始。\n"
+"此时无法加入新成员。"
 
 #: olang/00cb1fb7/0x68bb2b/0x1da4ba
 msgid "-"
@@ -521,10 +335,6 @@ msgstr "搜索所有难度的任务。"
 msgid "Search for all missions, including any you have not reached in the story."
 msgstr "搜索所有任务，包括剧情未解锁的。"
 
-#: olang/00cb1fb7/0x68bb2b/0x80fb5b
-msgid "GLOBAL"
-msgstr "全球"
-
 #: olang/00cb1fb7/0x68bb2b/0x811143
 msgid "Search around the world for a HOST."
 msgstr "在全球范围内搜索主机。"
@@ -573,15 +383,13 @@ msgstr "查看消息"
 msgid ""
 "Your gamer profile does not have the correct permissions to access Xbox LIVE functionality.\n"
 "Join Xbox LIVE to continue."
-msgstr "你的玩家档案没有访问Xbox LIVE功能的权限。\n加入Xbox LIVE以继续。"
+msgstr ""
+"你的玩家档案没有访问Xbox LIVE功能的权限。\n"
+"加入Xbox LIVE以继续。"
 
 #: olang/00cb1fb7/0x68bb2b/0xac71d5
 msgid "You can recruit CO-OPS MEMBERS worldwide over Xbox LIVE. Select the type of invitation."
 msgstr "可通过Xbox LIVE在全球招募合作任务成员。请选择邀请类型。"
-
-#: olang/00cb1fb7/0x68bb2b/0xb86524
-msgid "PRIVATE"
-msgstr "私人"
 
 #: olang/00cb1fb7/0x68bb2b/0xbc236d
 msgid "Private"
@@ -619,7 +427,9 @@ msgstr "邀请画面："
 msgid ""
 "All CO-OPS MEMBERS have left the game.\n"
 "Do you want to start a one-player game?"
-msgstr "所有合作任务成员已离开游戏。\n是否开始单人游戏？"
+msgstr ""
+"所有合作任务成员已离开游戏。\n"
+"是否开始单人游戏？"
 
 #: olang/00cb1fb7/0x68bb2b/0xd6829c
 msgid "Search for MAIN OPS only."
@@ -628,10 +438,6 @@ msgstr "仅搜索主线任务。"
 #: olang/00cb1fb7/0x68bb2b/0xde719d
 msgid "Invitation Screen"
 msgstr "邀请画面"
-
-#: olang/00cb1fb7/0x68bb2b/0xe24599
-msgid "DOMESTIC"
-msgstr "国内"
 
 #: olang/00cb1fb7/0x68bb2b/0xe4a86b
 msgid "Create a room that can only be joined with an invitation."
@@ -648,10 +454,6 @@ msgstr "不受限"
 #: olang/00cb1fb7/0x68bb2b/0xeb9470
 msgid "Recruit MEMBERS within the same country as you."
 msgstr "招募与你同国的成员。"
-
-#: olang/00cb1fb7/0x68bb2b/0xecc746
-msgid "FRIENDS ONLY"
-msgstr "仅限好友"
 
 #: olang/00cb1fb7/0x68bb2b/0xf3ecad
 msgid "Difficulty of 2"
@@ -681,31 +483,41 @@ msgstr "当前玩家档案无法用于在线多人游戏。"
 msgid ""
 "use up and down on the Right Stick \n"
 "to move your line of sight."
-msgstr "用右摇杆上下\n移动视线。"
+msgstr ""
+"用右摇杆上下\n"
+"移动视线。"
 
 #: olang/00cd740b/0x62a87d/0x000001
 msgid ""
 "use left and right on the Right Stick\n"
 "to move your line of sight!"
-msgstr "用右摇杆左右\n移动视线！"
+msgstr ""
+"用右摇杆左右\n"
+"移动视线！"
 
 #: olang/00cd740b/0x62d87d/0x000001
 msgid ""
 "Run with the left stick, \n"
 "then tap the Attack Button to roll!"
-msgstr "用左摇杆奔跑，\n再按攻击键翻滚！"
+msgstr ""
+"用左摇杆奔跑，\n"
+"再按攻击键翻滚！"
 
 #: olang/00cd740b/0x62d87e/0x000001
 msgid ""
 "Run with the left stick, \n"
 "then press the Crouch Button to roll!"
-msgstr "用左摇杆奔跑，\n再按蹲伏键翻滚！"
+msgstr ""
+"用左摇杆奔跑，\n"
+"再按蹲伏键翻滚！"
 
 #: olang/00cd740b/0x62d9fe/0x000000
 msgid ""
 "To strike an enemy, press \n"
 "the Hand-to-hand Attack Button while standing still! "
-msgstr "原地站立时按\n徒手攻击键攻击敌人！"
+msgstr ""
+"原地站立时按\n"
+"徒手攻击键攻击敌人！"
 
 #: olang/00cd740b/0x62d9fe/0x000001
 msgid "On my command, "
@@ -715,13 +527,17 @@ msgstr "听我口令，"
 msgid ""
 "press the Hand-to-hand Attack Button \n"
 "repeatedly and take down your opponent!"
-msgstr "连按徒手攻击键\n击倒对手！"
+msgstr ""
+"连按徒手攻击键\n"
+"击倒对手！"
 
 #: olang/00cd740b/0x62dafe/0x000001
 msgid ""
 "Press the Hand-to-hand \n"
 "Attack Button without moving!  "
-msgstr "不要移动，按\n徒手攻击键！"
+msgstr ""
+"不要移动，按\n"
+"徒手攻击键！"
 
 #: olang/00cd740b/0x644bfd/0x000001
 msgid "position yourself near your opponent \r"
@@ -731,37 +547,49 @@ msgstr "靠近对手"
 msgid ""
 "and press the Attack Button \n"
 "while you tilt the left stick."
-msgstr "推动左摇杆时\n按攻击键。"
+msgstr ""
+"推动左摇杆时\n"
+"按攻击键。"
 
 #: olang/00cd740b/0x644bfd/0x000003
 msgid ""
 "Be sure to press the Attack Button \n"
 "when the icon appears."
-msgstr "图标出现时\n务必按攻击键。"
+msgstr ""
+"图标出现时\n"
+"务必按攻击键。"
 
 #: olang/00cd740b/0x6457fd/0x000001
 msgid ""
 "Press the Attack Button \n"
 "as you tilt the left stick! "
-msgstr "推动左摇杆时\n按攻击键！"
+msgstr ""
+"推动左摇杆时\n"
+"按攻击键！"
 
 #: olang/00cd740b/0x6457fe/0x000000
 msgid ""
 "Press the Hand-to-hand Attack Button \n"
 "as you tilt the left stick! "
-msgstr "推动左摇杆时\n按徒手攻击键！"
+msgstr ""
+"推动左摇杆时\n"
+"按徒手攻击键！"
 
 #: olang/00cd740b/0x6458fd/0x000001
 msgid ""
 "you have to press the Attack Button \n"
 "as you tilt the left stick!"
-msgstr "推动左摇杆时\n必须按攻击键！"
+msgstr ""
+"推动左摇杆时\n"
+"必须按攻击键！"
 
 #: olang/00cd740b/0x6458fe/0x000001
 msgid ""
 "you have to press the Hand-to-hand Attack \n"
 "Button as you tilt the left stick!"
-msgstr "推动左摇杆时\n必须按徒手攻击键！"
+msgstr ""
+"推动左摇杆时\n"
+"必须按徒手攻击键！"
 
 #: olang/00cd740b/0x645bfe/0x000000
 msgid "To restrain your opponent,\r"
@@ -771,25 +599,33 @@ msgstr "要制住对手，"
 msgid ""
 "hold down the Hand-to-hand \n"
 "Attack Button while near them. \r"
-msgstr "靠近后按住\n徒手攻击键。"
+msgstr ""
+"靠近后按住\n"
+"徒手攻击键。"
 
 #: olang/00cd740b/0x645bfe/0x000002
 msgid ""
 "Restrain your opponent \n"
 "on my command. \r"
-msgstr "听我口令\n制住对手。"
+msgstr ""
+"听我口令\n"
+"制住对手。"
 
 #: olang/00cd740b/0x64687e/0x000001
 msgid ""
 "Press the Hand-to-hand Attack Button\n"
 "while near your opponent! "
-msgstr "靠近对手时按\n徒手攻击键！"
+msgstr ""
+"靠近对手时按\n"
+"徒手攻击键！"
 
 #: olang/00cd740b/0x6468fe/0x000001
 msgid ""
 "you have to press the Hand-to-hand \n"
 "Attack Button while next to your opponent!"
-msgstr "在对手身旁时\n必须按徒手攻击键！"
+msgstr ""
+"在对手身旁时\n"
+"必须按徒手攻击键！"
 
 #: olang/00cd740b/0x646b7d/0x000000
 msgid "To throw an enemy to the ground, \r"
@@ -799,25 +635,33 @@ msgstr "要把敌人摔倒在地，"
 msgid ""
 "press a direction on the left stick \n"
 "when you have them restrained. "
-msgstr "制住后推动\n左摇杆方向。"
+msgstr ""
+"制住后推动\n"
+"左摇杆方向。"
 
 #: olang/00cd740b/0x647a7e/0x000001
 msgid ""
 "press the Hand-to-hand Attack Button \n"
 "to restrain them, then press RB."
-msgstr "按徒手攻击键\n制住他，再按RB。"
+msgstr ""
+"按徒手攻击键\n"
+"制住他，再按RB。"
 
 #: olang/00cd740b/0x649bfd/0x000001
 msgid ""
 "Tilt the left stick while \n"
 "restraining the opponent! "
-msgstr "制住对手时\n推动左摇杆！"
+msgstr ""
+"制住对手时\n"
+"推动左摇杆！"
 
 #: olang/00cd740b/0x64a97e/0x000001
 msgid ""
 "you'll have to take them on one \n"
 "after the other. \r"
-msgstr "你只能一个\n接一个解决。"
+msgstr ""
+"你只能一个\n"
+"接一个解决。"
 
 #: olang/00cd740b/0x64a97e/0x000002
 msgid "To do it, \r"
@@ -827,40 +671,55 @@ msgstr "为此，"
 msgid ""
 "simply press the Hand-to-hand Attack Button \n"
 "again while throwing the current enemy.\r"
-msgstr "只需在扔出当前敌人时\n再次按下徒手攻击键。"
+msgstr ""
+"只需在扔出当前敌人时\n"
+"再次按下徒手攻击键。"
 
 #: olang/00cd740b/0x64a97e/0x000004
 msgid ""
 "Just be sure to wait for the Icon \n"
 "to appear. \r"
-msgstr "只要等图标\n出现就行。"
+msgstr ""
+"只要等图标\n"
+"出现就行。"
 
 #: olang/00cd740b/0x64ab7e/0x000000
 msgid ""
 "Boss, \r\n"
 "press the Hand-to-hand Attack Button \n"
 "when the icon appears! "
-msgstr "BOSS，\r\n图标出现时按下\n徒手攻击键！"
+msgstr ""
+"BOSS，\r\n"
+"图标出现时按下\n"
+"徒手攻击键！"
 
 #: olang/00d0c740/0x413acf/0x052bd8
 msgid ""
 "Could it be...\r\n"
 "the great cacique...\r\n"
 "has come to lead us…"
-msgstr "难道……\r\n伟大酋长……\r\n来带领我们……"
+msgstr ""
+"难道……\r\n"
+"伟大酋长……\r\n"
+"来带领我们……"
 
 #: olang/00d0c740/0x413acf/0x052bd9
 msgid ""
 "We are few in number, but we will win. \r\n"
 "Victoria o muerte. For a revolutionary, there is no other fate."
-msgstr "我们人少，但我们会赢。\r\n胜利或死亡。革命者别无他命。"
+msgstr ""
+"我们人少，但我们会赢。\r\n"
+"胜利或死亡。革命者别无他命。"
 
 #: olang/00d0c740/0x413acf/0x052bda
 msgid ""
 "Revolution is a means and not an end, I know. \r\n"
 "When the revolution is victorious,I want my country to be at peace.\r\n"
 "But to bring peace, we have to first eliminate that traitorous scum."
-msgstr "革命是手段而非目的，我明白。\r\n革命胜利后，我希望我的国家和平。\r\n但要带来和平，得先消灭那叛徒渣滓。"
+msgstr ""
+"革命是手段而非目的，我明白。\r\n"
+"革命胜利后，我希望我的国家和平。\r\n"
+"但要带来和平，得先消灭那叛徒渣滓。"
 
 #: olang/00d0c740/0x413acf/0x06b558
 msgid "Listen up. For us, there is no victory."
@@ -873,39 +732,56 @@ msgid ""
 "We're still fighting.\r\n"
 "And there's always another reason \r\n"
 "to keep on living."
-msgstr "我们舍弃了家园。\r\n但我们还活着。\r\n我们还在战斗。\r\n而且总有新的理由\r\n活下去。"
+msgstr ""
+"我们舍弃了家园。\r\n"
+"但我们还活着。\r\n"
+"我们还在战斗。\r\n"
+"而且总有新的理由\r\n"
+"活下去。"
 
 #: olang/00d0c740/0x413acf/0x06b55a
 msgid ""
 "Revolution or no revolution, you pick up a gun,\n"
 "and sooner or later you're going to hell."
-msgstr "不管革不革命，你拿起枪，\n迟早都得下地狱。"
+msgstr ""
+"不管革不革命，你拿起枪，\n"
+"迟早都得下地狱。"
 
 #: olang/00d0c740/0x413acf/0x06b55b
 msgid ""
 "We go where we're needed, \r\n"
 "fighting not for country, not for government,\r\n"
 "but for ourselves.\r"
-msgstr "哪里需要我们，我们就去哪，\r\n不为国家，不为政府，\r\n只为自己。"
+msgstr ""
+"哪里需要我们，我们就去哪，\r\n"
+"不为国家，不为政府，\r\n"
+"只为自己。"
 
 #: olang/00d0c740/0x413acf/0x21f416
 msgid ""
 "My name is Paz, and I will do anything\r\n"
 "to protect my namesake. \r\n"
 "It is my one and only purpose."
-msgstr "我叫帕兹，我会不惜一切\r\n守护我的同名之物。\r\n这是我唯一的目的。"
+msgstr ""
+"我叫帕兹，我会不惜一切\r\n"
+"守护我的同名之物。\r\n"
+"这是我唯一的目的。"
 
 #: olang/00d0c740/0x413acf/0x21f417
 msgid ""
 "Crying about it won't bring it about, or make it last.\r\n"
 "Each one of us must go and seek it out."
-msgstr "哭泣不会让它到来，也不会让它长久。\r\n我们每个人都得自己去寻找。"
+msgstr ""
+"哭泣不会让它到来，也不会让它长久。\r\n"
+"我们每个人都得自己去寻找。"
 
 #: olang/00d0c740/0x413acf/0x21f418
 msgid ""
 "Do not worry about me... I am an angel of peace.\n"
 "I will be watching over you."
-msgstr "别担心我……我是和平天使。\n我会守护你。"
+msgstr ""
+"别担心我……我是和平天使。\n"
+"我会守护你。"
 
 #: olang/00d0c740/0x413acf/0x374f9e
 msgid ""
@@ -913,13 +789,19 @@ msgid ""
 "Mm-hmm. However, in order to achieve\r\n"
 "that perfect deterrent, \r\n"
 "we must show the world our strength."
-msgstr "所以我同意帮忙开发它……\r\n嗯哼。不过，要实现\r\n那完美的威慑力，\r\n我们必须向世界展示实力。"
+msgstr ""
+"所以我同意帮忙开发它……\r\n"
+"嗯哼。不过，要实现\r\n"
+"那完美的威慑力，\r\n"
+"我们必须向世界展示实力。"
 
 #: olang/00d0c740/0x413acf/0x374f9f
 msgid ""
 "...Peace won't just come to us, doc.\r\n"
 "We are going to have to go meet it halfway."
-msgstr "……和平不会自己来找我们，博士。\r\n我们得主动去迎接它。"
+msgstr ""
+"……和平不会自己来找我们，博士。\r\n"
+"我们得主动去迎接它。"
 
 #: olang/00d0c740/0x413acf/0x374fa0
 msgid "No, machines don't make mistakes. Only men do."
@@ -929,19 +811,25 @@ msgstr "不，机器不会犯错。只有人会。"
 msgid ""
 "The age of heroes is over, buried alongside\r\n"
 "The Boss and her bankrupt beliefs."
-msgstr "英雄的时代结束了，随THE BOSS\r\n和她破产的信念一同埋葬。"
+msgstr ""
+"英雄的时代结束了，随THE BOSS\r\n"
+"和她破产的信念一同埋葬。"
 
 #: olang/00d0c740/0x413acf/0x374fa2
 msgid ""
 "In the end, it's not their lives that \r\n"
 "people value most... it's their reputations!"
-msgstr "到头来，人们最看重的\r\n不是性命……而是名声！"
+msgstr ""
+"到头来，人们最看重的\r\n"
+"不是性命……而是名声！"
 
 #: olang/00d0c740/0x413acf/0x863cee
 msgid ""
 "We know who you are, Big Boss.\r\n"
 "That is why we've come to you."
-msgstr "我们知道你是谁，BIG BOSS。\r\n所以才来找你。"
+msgstr ""
+"我们知道你是谁，BIG BOSS。\r\n"
+"所以才来找你。"
 
 #: olang/00d0c740/0x413acf/0x863cef
 msgid ""
@@ -949,7 +837,11 @@ msgid ""
 "of the American continents, \r\n"
 "bridging North and South.\r\n"
 "We want this land."
-msgstr "中美洲是美洲大陆的\r\n肚脐，\r\n连接南北。\r\n我们要这片土地。"
+msgstr ""
+"中美洲是美洲大陆的\r\n"
+"肚脐，\r\n"
+"连接南北。\r\n"
+"我们要这片土地。"
 
 #: olang/00d0c740/0x413acf/0x91c53e
 msgid ""
@@ -958,52 +850,74 @@ msgid ""
 "Go on, kill me like you killed her.\r\n"
 "Kill me like you killed The Boss.\r\n"
 "Kill me!"
-msgstr "是的，我知道。就像我知道\r\n你10年前做了什么。\r\n来吧，像杀她那样杀了我。\r\n像杀THE BOSS那样杀了我。\r\n杀了我！"
+msgstr ""
+"是的，我知道。就像我知道\r\n"
+"你10年前做了什么。\r\n"
+"来吧，像杀她那样杀了我。\r\n"
+"像杀THE BOSS那样杀了我。\r\n"
+"杀了我！"
 
 #: olang/00d0c740/0x413acf/0x91c53f
 msgid ""
 "That filthy title given you as reward for murder…\n"
 "Do you still wear it with pride?"
-msgstr "那因杀人而赏给你的肮脏头衔……\n你还骄傲地戴着吗？"
+msgstr ""
+"那因杀人而赏给你的肮脏头衔……\n"
+"你还骄傲地戴着吗？"
 
 #: olang/00d0c740/0x413acf/0x91c540
 msgid ""
 "You used the pretext of a mission \r\n"
 "to kill a true hero.\r\n"
 "Is that what you call loyalty? Answer me!"
-msgstr "你借任务之名\r\n杀害真正的英雄。\r\n这就是你所谓的忠诚？回答我！"
+msgstr ""
+"你借任务之名\r\n"
+"杀害真正的英雄。\r\n"
+"这就是你所谓的忠诚？回答我！"
 
 #: olang/00d0c740/0x413acf/0x91c541
 msgid ""
 "I won't rest until I get answers \r\n"
 "from the woman I loved. \r\n"
 "You and I are the same. We are the walking dead."
-msgstr "得不到我爱之人的答案，\r\n我绝不罢休。\r\n你我一样。我们都是行尸走肉。"
+msgstr ""
+"得不到我爱之人的答案，\r\n"
+"我绝不罢休。\r\n"
+"你我一样。我们都是行尸走肉。"
 
 #: olang/00d0c740/0x413acf/0x91c542
 msgid ""
 "I have no use for fabrications...\r\n"
 "I want the truth... The Boss' last will."
-msgstr "我不信捏造……\n我要真相……THE BOSS的遗志。"
+msgstr ""
+"我不信捏造……\n"
+"我要真相……THE BOSS的遗志。"
 
 #: olang/00d0c740/0x413acf/0x91c543
 msgid ""
 "I'm only interested in one thing.\r\n"
 "The truth."
-msgstr "我只对一件事感兴趣。\n真相。"
+msgstr ""
+"我只对一件事感兴趣。\n"
+"真相。"
 
 #: olang/00d0c740/0x413acf/0xb2d965
 msgid ""
 "...Everyone treats me like a child.\r\n"
 "I, I, I couldn't stand it anymore. \r\n"
 "I'm not a kid. I'm twelve! "
-msgstr "……大家都把我当小孩。\n我、我、我受够了。\n我不是小鬼。我都十二岁了！"
+msgstr ""
+"……大家都把我当小孩。\n"
+"我、我、我受够了。\n"
+"我不是小鬼。我都十二岁了！"
 
 #: olang/00d0c740/0x413acf/0xb2d966
 msgid ""
 "Let me know if you encounter\n"
 "any wildlife you've never seen before."
-msgstr "要是见到没见过的野生动物\n记得告诉我。"
+msgstr ""
+"要是见到没见过的野生动物\n"
+"记得告诉我。"
 
 #: olang/00d0c740/0x413acf/0xb2d967
 msgid "When I grow up, I wanna be a hunter."
@@ -1013,26 +927,35 @@ msgstr "等我长大了，要当猎人。"
 msgid ""
 "The enemy could strike at any time.\r\n"
 "I can't sit around taking my sweet time eating!"
-msgstr "敌人随时可能打过来。\n我可没空慢悠悠地吃饭！"
+msgstr ""
+"敌人随时可能打过来。\n"
+"我可没空慢悠悠地吃饭！"
 
 #: olang/00d0c740/0x413acf/0xb949db
 msgid ""
 "I've been thinking of giving up on studying birds\n"
 "and learning to fly myself."
-msgstr "我一直在想，与其研究鸟\n不如学着自己飞。"
+msgstr ""
+"我一直在想，与其研究鸟\n"
+"不如学着自己飞。"
 
 #: olang/00d0c740/0x413acf/0xb949dc
 msgid ""
 "Becoming one with the forest is the very essence of birdwatching,\n"
 "they won't behave naturally if they sense a human nearby.\n"
 "And that can really affect your observations."
-msgstr "与森林融为一体才是观鸟的精髓，\n一感觉到有人靠近，鸟就不会自然活动了。\n这很影响观察。"
+msgstr ""
+"与森林融为一体才是观鸟的精髓，\n"
+"一感觉到有人靠近，鸟就不会自然活动了。\n"
+"这很影响观察。"
 
 #: olang/00d0c740/0x413acf/0xb949dd
 msgid ""
 "I think it is an insult to the birds to give\n"
 "their names to weapons, don't you?"
-msgstr "把鸟名安在武器上，\n我觉得是侮辱鸟，你不觉得？"
+msgstr ""
+"把鸟名安在武器上，\n"
+"我觉得是侮辱鸟，你不觉得？"
 
 #: olang/00d0c740/0x413acf/0xb949de
 msgid "You people are such culinary savages! "
@@ -1044,36 +967,45 @@ msgid ""
 "from conflict to conflict,\r\n"
 "tools in the hands of whoever's \r\n"
 "fighting at the time?"
-msgstr "怎么，你宁愿继续流浪\r\n从一个冲突到另一个冲突，\r\n让工具落在当时\r\n正在战斗的人手里？"
+msgstr ""
+"怎么，你宁愿继续流浪\r\n"
+"从一个冲突到另一个冲突，\r\n"
+"让工具落在当时\r\n"
+"正在战斗的人手里？"
 
 #: olang/00d0c740/0x413acf/0xd1f416
 msgid ""
 "Exactly. We know only how to fight... \r\n"
 "but we refuse to live our lives at the whim of the state."
-msgstr "没错。我们只知道怎么战斗……\n但我们拒绝让国家随意摆布我们的人生。"
+msgstr ""
+"没错。我们只知道怎么战斗……\n"
+"但我们拒绝让国家随意摆布我们的人生。"
 
 #: olang/00d0c740/0x413acf/0xd1f417
 msgid ""
 "No one man could bear the burden of total genocide. \r\n"
 "It's what's allowed our cowardly species to survive all this time."
-msgstr "没有人能背负种族灭绝的全部罪责。\n正是这一点让我们这懦弱的物种活到今天。"
+msgstr ""
+"没有人能背负种族灭绝的全部罪责。\n"
+"正是这一点让我们这懦弱的物种活到今天。"
 
 #: olang/00d0c740/0x413acf/0xd1f418
 msgid ""
 "You've left everything behind - your country, your identity,\n"
 "your past and ideals... \r\n"
 "But there's still one thing you haven't let go of."
-msgstr "你抛下了一切——国家、身份、\n过去和理想……\n但还有一样东西你没放下。"
+msgstr ""
+"你抛下了一切——国家、身份、\n"
+"过去和理想……\n"
+"但还有一样东西你没放下。"
 
 #: olang/00d0c740/0x413acf/0xd1f419
 msgid ""
 "The truth won't change the past.\n"
 "You still want to know?"
-msgstr "真相改变不了过去。\n你还想知道？"
-
-#: olang/00d0c740/0x482e82/0x18bd2e
-msgid "CO-OPS MEMBER'S FRIENDS"
-msgstr "合作成员战友"
+msgstr ""
+"真相改变不了过去。\n"
+"你还想知道？"
 
 #: olang/00d0c740/0x482e82/0x2f41f2
 msgid "Save a record of your game."
@@ -1083,23 +1015,17 @@ msgstr "保存游戏记录。"
 msgid "Retry"
 msgstr "重试"
 
-#: olang/00d0c740/0x482e82/0x5c60d3
-msgid "TO GAME SELECT"
-msgstr "返回游戏选择"
-
 #: olang/00d0c740/0x482e82/0x607a12
 msgid ""
 "You need to be signed into your gamer profile when a game begins in order to save data.\n"
 "To create saved data, return to the title menu and select \"New Game\" while you are already signed into your gamer profile."
-msgstr "游戏开始时需要登录玩家档案才能保存数据。\n要创建存档，请先登录玩家档案，再返回标题菜单选择“新游戏”。"
+msgstr ""
+"游戏开始时需要登录玩家档案才能保存数据。\n"
+"要创建存档，请先登录玩家档案，再返回标题菜单选择“新游戏”。"
 
 #: olang/00d0c740/0x482e82/0x9ee1c6
 msgid "Players: "
 msgstr "玩家："
-
-#: olang/00d0c740/0x482e82/0xa92a66
-msgid "CO-OPS MEMBER"
-msgstr "合作成员"
 
 #: olang/00d0c740/0x482e82/0xfd73c3
 msgid "Do you want to exit the game?"
@@ -1129,16 +1055,15 @@ msgstr "重置"
 msgid "System Data"
 msgstr "系统数据"
 
-#: olang/00d0c740/0xf70e60/0x2fe904
-msgid "HEROISM"
-msgstr "英雄度"
-
 #: olang/00d345a5/0x017f53/0x000043
 msgid ""
 "A submachine gun created as an offshoot of the G3, the mainstay rifle of the West German military. It uses European standard 9mm ammo with more or less average firepower.\n"
 "\n"
 "Unlike most submachine guns, the MP5A2 uses a closed-bolt firing mechanism, which puts it a cut above its competitors in terms of accuracy. This higher accuracy allows for precision targeting of specific body parts at a greater distance than other submachine guns, giving it an almost assault rifle-like feel. A solid choice for close- to mid-range combat."
-msgstr "作为西德军队主力步枪G3衍生型开发的冲锋枪。使用欧洲标准9mm弹药，火力大致中等。\n\n与多数冲锋枪不同，MP5A2采用闭膛待击结构，精度优于同类。凭借更高的精度，可在比其他冲锋枪更远的距离精确瞄准特定部位，手感接近突击步枪。中近距离作战的可靠选择。"
+msgstr ""
+"作为西德军队主力步枪G3衍生型开发的冲锋枪。使用欧洲标准9mm弹药，火力大致中等。\n"
+"\n"
+"与多数冲锋枪不同，MP5A2采用闭膛待击结构，精度优于同类。凭借更高的精度，可在比其他冲锋枪更远的距离精确瞄准特定部位，手感接近突击步枪。中近距离作战的可靠选择。"
 
 #: olang/00d345a5/0x017f53/0x000044
 msgid ""
@@ -1147,7 +1072,12 @@ msgid ""
 "Unlike most submachine guns, the MP5A2 uses a closed-bolt firing mechanism, which puts it a cut above its competitors in terms of accuracy. This higher accuracy allows for precision targeting of specific body parts at a greater distance than other submachine guns, giving it an almost assault rifle-like feel. A solid choice for close- to mid-range combat.\n"
 "\n"
 "Equipped with a limited-use suppressor. The suppressor will eventually wear out, so use it prudently."
-msgstr "作为西德军队主力步枪G3衍生型开发的冲锋枪。使用欧洲标准9mm弹药，火力大致中等。\n\n与多数冲锋枪不同，MP5A2采用闭膛待击结构，精度优于同类。凭借更高的精度，可在比其他冲锋枪更远的距离精确瞄准特定部位，手感接近突击步枪。中近距离作战的可靠选择。\n\n配备有限次使用的消音器。消音器会逐渐损耗，请谨慎使用。"
+msgstr ""
+"作为西德军队主力步枪G3衍生型开发的冲锋枪。使用欧洲标准9mm弹药，火力大致中等。\n"
+"\n"
+"与多数冲锋枪不同，MP5A2采用闭膛待击结构，精度优于同类。凭借更高的精度，可在比其他冲锋枪更远的距离精确瞄准特定部位，手感接近突击步枪。中近距离作战的可靠选择。\n"
+"\n"
+"配备有限次使用的消音器。消音器会逐渐损耗，请谨慎使用。"
 
 #: olang/00d345a5/0x017f53/0x000045
 msgid ""
@@ -1156,7 +1086,12 @@ msgid ""
 "This model features a built-in suppressor, so the suppression effect never wears off.\n"
 "\n"
 "Unlike most submachine guns, the MP5SD2 uses a closed-bolt firing mechanism, which puts it a cut above its competitors in terms of accuracy. This higher accuracy allows for precision targeting of specific body parts at a greater distance than other submachine guns, giving it an almost assault rifle-like feel. A solid choice for close- to mid-range combat."
-msgstr "作为西德军队主力步枪G3衍生型开发的冲锋枪。使用欧洲标准9mm弹药，火力大致中等。\n\n本型号内置消音器，消音效果不会损耗。\n\n与多数冲锋枪不同，MP5SD2采用闭膛待击结构，精度优于同类。凭借更高的精度，可在比其他冲锋枪更远的距离精确瞄准特定部位，手感接近突击步枪。中近距离作战的可靠选择。"
+msgstr ""
+"作为西德军队主力步枪G3衍生型开发的冲锋枪。使用欧洲标准9mm弹药，火力大致中等。\n"
+"\n"
+"本型号内置消音器，消音效果不会损耗。\n"
+"\n"
+"与多数冲锋枪不同，MP5SD2采用闭膛待击结构，精度优于同类。凭借更高的精度，可在比其他冲锋枪更远的距离精确瞄准特定部位，手感接近突击步枪。中近距离作战的可靠选择。"
 
 #: olang/00d345a5/0x017f53/0x000124
 #: olang/00d345a5/0x017f53/0x000125
@@ -1167,7 +1102,10 @@ msgid ""
 "A popular monthly magazine jam-packed with excitement on every page. It has a massive fan base that stretches all the way from the southern part of the U.S. to the Panama Canal, and a circulation of 1.1 million copies per month. One especially popular feature is the pen pal exchange page.\n"
 "\n"
 "Some CIA mercenaries and MSF members are known to be avid readers of this mag. Put it in front of them and they just might drop everything else..."
-msgstr "一本每页都精彩纷呈的月刊杂志。从美国南部到巴拿马运河都拥有庞大粉丝群，月发行量110万册。其中笔友交流栏目尤其受欢迎。\n\n据说部分CIA雇佣兵和MSF成员也是这本杂志的忠实读者。放到他们面前，说不定会放下手头一切..."
+msgstr ""
+"一本每页都精彩纷呈的月刊杂志。从美国南部到巴拿马运河都拥有庞大粉丝群，月发行量110万册。其中笔友交流栏目尤其受欢迎。\n"
+"\n"
+"据说部分CIA雇佣兵和MSF成员也是这本杂志的忠实读者。放到他们面前，说不定会放下手头一切..."
 
 #: olang/00d345a5/0x048941/0x000054
 msgid "Jigsaw made of steel wire. Alternate pressing LT and RT to use."
@@ -1207,7 +1145,11 @@ msgid ""
 "A winged wyvern, also known as the \"King of the Skies.\" And it certainly lives up to its name. With its deadly breath and claw attacks, Rathalos is synonymous with death from above.\n"
 "\n"
 "<I=CPY>CAPCOM CO., LTD."
-msgstr "火龙\n有翼飞龙，人称“天空之王”。它确实名副其实。凭借致命的吐息和利爪攻击，火龙就是来自天空的死亡代名词。\n\n<I=CPY>CAPCOM CO., LTD."
+msgstr ""
+"火龙\n"
+"有翼飞龙，人称“天空之王”。它确实名副其实。凭借致命的吐息和利爪攻击，火龙就是来自天空的死亡代名词。\n"
+"\n"
+"<I=CPY>CAPCOM CO., LTD."
 
 #: olang/00d345a5/0x0864ad/0x000163
 msgid ""
@@ -1215,7 +1157,11 @@ msgid ""
 "With a rock-solid body and razor-sharp fangs that can tear through anything, Tigrex is truly the king of beasts. Nothing can stand in its way when it charges. Rub it the wrong way, and you may as well start saying your prayers.\n"
 "\n"
 "<I=CPY>CAPCOM CO., LTD."
-msgstr "轰龙\n岩石般坚硬的身躯加上能撕碎一切的锐利牙，轰龙堪称兽中之王。它冲锋时无人能挡。惹怒了它，就赶紧祈祷吧。\n\n<I=CPY>CAPCOM CO., LTD."
+msgstr ""
+"轰龙\n"
+"岩石般坚硬的身躯加上能撕碎一切的锐利牙，轰龙堪称兽中之王。它冲锋时无人能挡。惹怒了它，就赶紧祈祷吧。\n"
+"\n"
+"<I=CPY>CAPCOM CO., LTD."
 
 #: olang/00d345a5/0x1bca3f/0x000124
 #: olang/00d345a5/0x1bca3f/0x000125
@@ -1296,7 +1242,9 @@ msgstr "更大的纸箱。也许能装下两个人。在装备窗口选择后按
 msgid ""
 "OK: <I=DEC>  CANCEL: <I=CAN>\n"
 "MORE INFO: <I=MO_DEV_MECHA_*INFO_TOP>"
-msgstr "确定: <I=DEC>  取消: <I=CAN>\n更多信息: <I=MO_DEV_MECHA_*INFO_TOP>"
+msgstr ""
+"确定: <I=DEC>  取消: <I=CAN>\n"
+"更多信息: <I=MO_DEV_MECHA_*INFO_TOP>"
 
 #: olang/00d9bfd4/0x1a3e77/0x6a33a6
 msgid "Enlarge: <I=MO_DEV_METAL_*INFO_HELP_MODEL_VIEW01>"
@@ -1310,13 +1258,17 @@ msgstr "缩小: <I=MO_DEV_METAL_*INFO_HELP_MODEL_VIEW02>"
 msgid ""
 "CONFIRM: <I=DEC> PLAY VOICE: <I=pw_title_option_dummy_*keyhelp_voice>\n"
 "CANCEL: <I=CAN>"
-msgstr "确认: <I=DEC> 语音: <I=pw_title_option_dummy_*keyhelp_voice>\n取消: <I=CAN>"
+msgstr ""
+"确认: <I=DEC> 语音: <I=pw_title_option_dummy_*keyhelp_voice>\n"
+"取消: <I=CAN>"
 
 #: olang/00d9bfd4/0x594864/0x00004f
 msgid ""
 "New–model, lightweight assault rifle. \n"
 "Outfitted with shotgun. Switch with <I=weapon_exp_WP_M16A1_A_R4>."
-msgstr "新型轻量突击步枪。\n配备霰弹枪。用<I=weapon_exp_WP_M16A1_A_R4>切换。"
+msgstr ""
+"新型轻量突击步枪。\n"
+"配备霰弹枪。用<I=weapon_exp_WP_M16A1_A_R4>切换。"
 
 #: olang/00d9bfd4/0x594864/0x000051
 msgid "New–model, lightweight assault rifle. Outfitted with shotgun and laser sight. Switch with <I=weapon_exp_WP_M16A1_A_R5>."
@@ -1418,7 +1370,9 @@ msgstr "缩小：<I=MO_MODEL_VIEWER_*HELP_CONTENT2>"
 msgid ""
 "press <I=CQC>\n"
 "torestrain them, then press <I=v906_135_gam_inst_2_*1>."
-msgstr "按<I=CQC>\n制服敌人，再按<I=v906_135_gam_inst_2_*1>。"
+msgstr ""
+"按<I=CQC>\n"
+"制服敌人，再按<I=v906_135_gam_inst_2_*1>。"
 
 #: olang/00d9bfd4/0x647bfe/0x000000
 msgid "You OK? Press <I=v906_138_gam_inst_2_*0>!"
@@ -1432,7 +1386,9 @@ msgstr "BOSS，你得按<I=v906_139_gam_inst_2_*0>！"
 msgid ""
 "BACK: <I=CAN>\n"
 "UNEQUIP: <I=charaedit_lang_*suit_equip_help>"
-msgstr "返回：<I=CAN>\n卸下：<I=charaedit_lang_*suit_equip_help>"
+msgstr ""
+"返回：<I=CAN>\n"
+"卸下：<I=charaedit_lang_*suit_equip_help>"
 
 #: olang/00d9bfd4/0x919326/0xc992cc
 msgid "Zoom In: <I=MO_MO_STATUS_*HELP_CONTENT1>"
@@ -1446,7 +1402,9 @@ msgstr "缩小：<I=MO_MO_STATUS_*HELP_CONTENT2>"
 msgid ""
 "BACK: <I=CAN>\n"
 "USE/CANCEL BATTLE CRY: <I=kotodamaedit_lang_*helptext>"
-msgstr "返回：<I=CAN>\n用/取消战吼：<I=kotodamaedit_lang_*helptext>"
+msgstr ""
+"返回：<I=CAN>\n"
+"用/取消战吼：<I=kotodamaedit_lang_*helptext>"
 
 #: olang/00d9bfd4/0xb4becf/0x3df22b
 msgid "Remove Board:<I=aipod_menu_*AIPOD_RSRC_IDX_KEYHELP>"
@@ -1457,14 +1415,20 @@ msgid ""
 "Waiting for trading partner…\n"
 "\n"
 "Xbox LIVE Party INVITE:<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_PARTY>"
-msgstr "正在等待交易对象…\n\nXbox LIVE 派对邀请：<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_PARTY>"
+msgstr ""
+"正在等待交易对象…\n"
+"\n"
+"Xbox LIVE 派对邀请：<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_PARTY>"
 
 #: olang/00d9bfd4/0xb767d9/0xd9422f
 msgid ""
 "Waiting for trading partner…\n"
 "\n"
 "INVITE FRIEND:<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_INVITE>"
-msgstr "正在等待交易对象…\n\n邀请好友：<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_INVITE>"
+msgstr ""
+"正在等待交易对象…\n"
+"\n"
+"邀请好友：<I=MO_TRADE_EXE_*INFO_WAIT_CLIENT_INVITE>"
 
 #: olang/00d9bfd4/0xbe101c/0x2b9e60
 msgid "Maximize Log: <I=mo_cyberval_log_*Log_KeyHelpText>  Cancel: <I=CAN>"
@@ -1474,13 +1438,17 @@ msgstr "展开日志：<I=mo_cyberval_log_*Log_KeyHelpText>  取消：<I=CAN>"
 msgid ""
 "OK: <I=DEC>  CANCEL: <I=CAN>\n"
 "MORE INFO: <I=MO_DEV_IT_*INFO_TOP>"
-msgstr "确定：<I=DEC>  取消：<I=CAN>\n更多信息：<I=MO_DEV_IT_*INFO_TOP>"
+msgstr ""
+"确定：<I=DEC>  取消：<I=CAN>\n"
+"更多信息：<I=MO_DEV_IT_*INFO_TOP>"
 
 #: olang/00d9bfd4/0xcc15c0/0x5c7a78
 msgid ""
 "OK: <I=DEC>  CANCEL: <I=CAN>\n"
 "JUMP: <I=MO_DEV_IT_*INFO_TOP_JAMP_0>  MORE INFO: <I=MO_DEV_IT_*INFO_TOP_JAMP_1>"
-msgstr "确定：<I=DEC>  取消：<I=CAN>\n跳转：<I=MO_DEV_IT_*INFO_TOP_JAMP_0>  更多信息：<I=MO_DEV_IT_*INFO_TOP_JAMP_1>"
+msgstr ""
+"确定：<I=DEC>  取消：<I=CAN>\n"
+"跳转：<I=MO_DEV_IT_*INFO_TOP_JAMP_0>  更多信息：<I=MO_DEV_IT_*INFO_TOP_JAMP_1>"
 
 #: olang/00d9bfd4/0xcc15c0/0x68dd78
 msgid "VIEWER: <I=MO_DEV_IT_*INFO_MODEL>"
@@ -1490,13 +1458,17 @@ msgstr "查看：<I=MO_DEV_IT_*INFO_MODEL>"
 msgid ""
 "OK: <I=DEC>  CANCEL: <I=CAN>\n"
 "MORE INFO: <I=MO_DEV_WP_*INFO_TOP>"
-msgstr "确定：<I=DEC>  取消：<I=CAN>\n更多信息：<I=MO_DEV_WP_*INFO_TOP>"
+msgstr ""
+"确定：<I=DEC>  取消：<I=CAN>\n"
+"更多信息：<I=MO_DEV_WP_*INFO_TOP>"
 
 #: olang/00d9bfd4/0xcc177c/0x5c7a78
 msgid ""
 "OK: <I=DEC>  CANCEL: <I=CAN>\n"
 "JUMP: <I=MO_DEV_WP_*INFO_TOP_JAMP_0>  MORE INFO: <I=MO_DEV_WP_*INFO_TOP_JAMP_1>"
-msgstr "确定: <I=DEC>  取消: <I=CAN>\n跳转: <I=MO_DEV_WP_*INFO_TOP_JAMP_0>  更多信息: <I=MO_DEV_WP_*INFO_TOP_JAMP_1>"
+msgstr ""
+"确定: <I=DEC>  取消: <I=CAN>\n"
+"跳转: <I=MO_DEV_WP_*INFO_TOP_JAMP_0>  更多信息: <I=MO_DEV_WP_*INFO_TOP_JAMP_1>"
 
 #: olang/00d9bfd4/0xcc177c/0x68dd78
 msgid "VIEWER: <I=MO_DEV_WP_*INFO_MODEL>"
@@ -1509,11 +1481,3 @@ msgstr "选择/取消: <I=pw_extra_dummy_*key_square>"
 #: olang/00d9bfd4/0xdb8c41/0x2f4789
 msgid "DISPLAY INFO: <I=pw_extra_dummy_*key_tri1>"
 msgstr "显示信息: <I=pw_extra_dummy_*key_tri1>"
-
-#: olang/00d9bfd4/0xfb5d7b/0x6b92bb
-msgid "PRESS <I=TITLE_START> KEY"
-msgstr "按 <I=TITLE_START> 键"
-
-#: olang/00d9bfd4/0xff8cbc/0x057609
-msgid "PRESS <I=VSOPS_START> KEY"
-msgstr "按 <I=VSOPS_START> 键"

@@ -9,76 +9,6 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
-#: olang/009c9ea4/0x31a1fa/0xb6d38b
-msgid "Heroism"
-msgstr "英雄度"
-
-#: olang/009c9ea4/0x31a1fa/0xb6d38c
-msgid "CO-OPS Weapons"
-msgstr "合作武器"
-
-#: olang/009c9ea4/0x31a1fa/0xb6d38d
-msgid "CO-OPS Comms"
-msgstr "合作任务通信"
-
-#: olang/009c9ea4/0x31a1fa/0xb6d38e
-msgid "Battle Cries & the Kotodama Effect"
-msgstr "战吼与言灵效果"
-
-#: olang/009c9ea4/0x31a1fa/0xb6d38f
-msgid "Special Items"
-msgstr "特殊道具"
-
-#: olang/009c9ea4/0x31a1fa/0xb6d3a6
-msgid "Cardboard box"
-msgstr "纸箱"
-
-#: olang/009c9ea4/0x31a1fa/0xb6d3a7
-msgid "Two Men in a Box"
-msgstr "箱中双雄"
-
-#: olang/009c9ea4/0x31a1fa/0xb6d3a8
-msgid "Cardboard Tank"
-msgstr "纸箱坦克"
-
-#: olang/009c9ea4/0x31a1fa/0xb6d3a9
-msgid "WALKMAN"
-msgstr "随身听"
-
-#: olang/009c9ea4/0x31a1fa/0xb6d3aa
-#: olang/009c9ea4/0x31a1fa/0xb6dae7
-#: olang/009c9ea4/0x31a1fa/0xb6db8c
-msgid "Mission Info"
-msgstr "任务信息"
-
-#: olang/009c9ea4/0x31a1fa/0xb6d3ab
-msgid "Make Contact with the FSLN Comandante"
-msgstr "联络 FSLN 指挥官"
-
-#: olang/009c9ea4/0x31a1fa/0xb6d3ac
-msgid "Tracking Amanda"
-msgstr "追踪阿曼达"
-
-#: olang/009c9ea4/0x31a1fa/0xb6d3ad
-msgid "C4"
-msgstr ""
-
-#: olang/009c9ea4/0x31a1fa/0xb6d3ae
-msgid "How to plant C4 "
-msgstr "C4 设置方法"
-
-#: olang/009c9ea4/0x31a1fa/0xb6d3af
-msgid "Basilisco"
-msgstr "蛇怪"
-
-#: olang/009c9ea4/0x31a1fa/0xb6d3c6
-msgid "AI Weapon Parts"
-msgstr "AI 兵器零件"
-
-#: olang/009c9ea4/0x31a1fa/0xb6d3c7
-msgid "To the Command Tower!"
-msgstr "前往指挥塔！"
-
 #: olang/009c9ea4/0x31a1fa/0xb6d3c8
 msgid "Target Practice / Puerto del Alba"
 msgstr "打靶训练 / 黎明港"
@@ -1384,7 +1314,9 @@ msgstr "取消：<I=PADSTA>"
 msgid ""
 "The button chosen cannot be assigned.\n"
 "Please select a different button."
-msgstr "该按键无法分配。\n请选择其他按键。"
+msgstr ""
+"该按键无法分配。\n"
+"请选择其他按键。"
 
 #: olang/009c9ea4/0x39c9f3/0x20ba8f
 msgid "Gun Turret Zoom"
@@ -1409,10 +1341,6 @@ msgstr "发送 CO-OPS 通讯(右)"
 #: olang/009c9ea4/0x39c9f3/0x293e49
 msgid "Zoom In"
 msgstr "放大"
-
-#: olang/009c9ea4/0x39c9f3/0x2942c1
-msgid "CONTROLLER SETTINGS"
-msgstr "手柄设置"
 
 #: olang/009c9ea4/0x39c9f3/0x29e8b5
 msgid "Send CO–OPS Comms (Up)"
@@ -1608,7 +1536,9 @@ msgstr "更改操作类型。"
 msgid ""
 "The key chosen cannot be assigned.\n"
 "Please select a different key."
-msgstr "该键无法分配。\n请选择其他按键。"
+msgstr ""
+"该键无法分配。\n"
+"请选择其他按键。"
 
 #: olang/009c9ea4/0x39c9f3/0xc5feaa
 msgid "<I=KEY_TAB>Restore Defaults"
@@ -1621,7 +1551,8 @@ msgstr "徒手攻击键/放下武器键"
 #: olang/009c9ea4/0x39c9f3/0xd73305
 msgid ""
 "Press the key you would like to reassign.\n"
-msgstr "按下要重新分配的键。\n"
+msgstr ""
+"按下要重新分配的键。\n"
 
 #: olang/009c9ea4/0x39c9f3/0xd7a289
 msgid "Position Camera Left or Right"
@@ -1634,3 +1565,104 @@ msgstr "<I=□>删除已分配的操作设置"
 #: olang/009c9ea4/0x39c9f3/0xdec383
 msgid "Walk control type"
 msgstr "行走操作型"
+
+#: olang/009c9ea4/0x39c9f3/0xe66fd3
+msgid "Move Camera Right"
+msgstr "镜头右移"
+
+#: olang/009c9ea4/0x39c9f3/0xf84d80
+msgid "Move Camera Down"
+msgstr "镜头下移"
+
+#: olang/009c9ea4/0x39c9f3/0xfa7fe6
+msgid "Choose which key you would like to change."
+msgstr "选择要更改的按键。"
+
+#: olang/009c9ea4/0x39c9f3/0xfc037d
+msgid "Aim Button control type"
+msgstr "瞄准键操作类型"
+
+#: olang/009c9ea4/0x39c9f3/0xfc2366
+msgid "Move Camera Left"
+msgstr "镜头左移"
+
+#: olang/009c9ea4/0x3c9f25/0x5ce75e
+msgid "INVITE"
+msgstr "邀请"
+
+#: olang/009c9ea4/0x3c9f25/0xc096b6
+msgid "INVITE:"
+msgstr "邀请："
+
+#: olang/009c9ea4/0x3ca19f/0x09f7f4
+#: olang/009c9ea4/0x3ca19f/0x19f7f4
+#: olang/009c9ea4/0x3ca19f/0x29f7f4
+#: olang/009c9ea4/0x3ca19f/0x39f7f4
+#: olang/009c9ea4/0x3ca19f/0xc9f7f3
+#: olang/009c9ea4/0x3ca19f/0xd9f7f3
+#: olang/009c9ea4/0x3ca19f/0xe9f7f3
+#: olang/009c9ea4/0x3ca19f/0xf9f7f3
+#: olang/00d345a5/0x048941/0x000168
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index in environments of a similar color."
+msgstr "丛林迷彩服变种。在相近颜色的环境中提升迷彩指数。"
+
+#: olang/009c9ea4/0x3ca19f/0x09f7f6
+#: olang/009c9ea4/0x3ca19f/0x19f7f6
+#: olang/009c9ea4/0x3ca19f/0x29f7f6
+#: olang/009c9ea4/0x3ca19f/0x39f7f6
+#: olang/009c9ea4/0x3ca19f/0x49f7f6
+#: olang/009c9ea4/0x3ca19f/0x59f7f6
+#: olang/009c9ea4/0x3ca19f/0xc9f7f7
+#: olang/009c9ea4/0x3ca19f/0xf9f7f5
+#: olang/00d345a5/0x048941/0x000184
+#: olang/00d345a5/0x048941/0x00018b
+msgid "Variation of Naked with camouflage pants. Raises camo index in environments of a similar color, but only half as much as full-body camo."
+msgstr "裸装加迷彩裤。在相近颜色的环境中提升迷彩指数，但效果仅为全身迷彩的一半。"
+
+#: olang/009c9ea4/0x3ca19f/0x19f7f8
+msgid ""
+"A gold T-shirt.\n"
+"The basic characteristics are\n"
+"the same as the Jungle Fatigues."
+msgstr ""
+"金色T恤。\n"
+"基本性能与\n"
+"丛林迷彩服相同。"
+
+#: olang/009c9ea4/0x3ca19f/0x29f7f8
+msgid ""
+"A T-shirt with a Love Box design.\n"
+"The basic characteristics are\n"
+"the same as the Jungle Fatigues."
+msgstr ""
+"爱之箱图案T恤。\n"
+"基本性能与\n"
+"丛林迷彩服相同。"
+
+#: olang/009c9ea4/0x3ca19f/0x49f7f4
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index near water."
+msgstr "丛林迷彩服变种。在水边提升迷彩指数。"
+
+#: olang/009c9ea4/0x3ca19f/0x59f7f4
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index in environments with a lot of wooden buildings."
+msgstr "丛林迷彩服变种。在木质建筑多的环境中提升迷彩指数。"
+
+#: olang/009c9ea4/0x3ca19f/0xc9f7f5
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index slightly when standing on jungle or dirt surfaces."
+msgstr "丛林迷彩服变种。站在丛林或泥土地面时略微提升迷彩指数。"
+
+#: olang/009c9ea4/0x3ca19f/0xd9f7f5
+msgid "Variation of Jungle Fatigues camouflage. Slightly increases the diameter of the CO-OPS boundary line."
+msgstr "丛林迷彩服变种。略微扩大合作任务边界线直径。"
+
+#: olang/009c9ea4/0x3ca19f/0xd9f7f7
+msgid "Variation of Naked with camouflage pants. Raises camo index near water, but only half as much as full-body camo."
+msgstr "裸装加迷彩裤。在水边提升迷彩指数，但效果仅为全身迷彩的一半。"
+
+#: olang/009c9ea4/0x3ca19f/0xe9f7f5
+msgid "Variation of Jungle Fatigues camouflage. Slightly increases gun performance."
+msgstr "丛林迷彩服变种。略微提升枪械性能。"
+
+#: olang/009c9ea4/0x3ca19f/0xe9f7f7
+msgid "Variation of Naked with camouflage pants. Raises camo index in environments with a lot of wooden buildings, but only half as much as full-body camo."
+msgstr "裸装加迷彩裤。在木质建筑多的环境中提升迷彩指数，但效果仅为全身迷彩的一半。"

@@ -232,6 +232,11 @@ def main() -> None:
                     help="build even if the corpus does not pass po_lint")
     ap.add_argument("--skip-font", action="store_true",
                     help="do not rebuild the font atlas")
+    ap.add_argument("--skip", action="append", default=[], metavar="PART",
+                    choices=["olang", "slot", "codec"],
+                    help="leave a corpus out of the build entirely: its file(s) "
+                         "never reach the manifest, so `install` will not touch "
+                         "them (repeatable, e.g. --skip codec)")
     ap.add_argument("--codec-skip-overflow", action="store_true",
                     help="a CODEC record whose pool cannot hold the "
                          "translation is left in English instead of failing "
@@ -274,9 +279,13 @@ def main() -> None:
     if not rep.translations:
         raise SystemExit("\nnothing translated yet, nothing to build")
 
-    tables = by_table(rep.translations)
-    codec_items = by_codec(rep.translations)
-    slot_items = by_slot(rep.translations)
+    skip = set(args.skip)
+    if skip:
+        print(f"skipping: {', '.join(sorted(skip))} (its file(s) stay as they "
+              f"are in the game)")
+    tables = {} if "olang" in skip else by_table(rep.translations)
+    codec_items = {} if "codec" in skip else by_codec(rep.translations)
+    slot_items = {} if "slot" in skip else by_slot(rep.translations)
     if not tables and not slot_items and not codec_items:
         raise SystemExit("\nnothing to build: no olang / SLOT / CODEC slot is "
                          "translated")

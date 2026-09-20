@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PWSF slot 15/26\n"
+"Project-Id-Version: PWSF slot 15/24\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -9,43 +9,75 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
-#: slot/0x0056a63d/0x22af99/0x000046
-#: slot/0x0056a63d/0x22af99/0x000047
-#: slot/0x00b4d9c8/0x4e7980/0x000046
-#: slot/0x00b4d9c8/0x4e7980/0x000047
-msgid "G.CURRY"
-msgstr "咖喱"
+#: slot/0x0056a63d/0x954c25/0x00019a
+msgid "UT (N425A)"
+msgstr "UT(N425A)"
 
-#: slot/0x0056a63d/0x22af99/0x000048
-#: slot/0x00b4d9c8/0x4e7980/0x000048
-msgid "F.CURRY"
-msgstr "速食咖喱"
+#: slot/0x0056a63d/0x954c25/0x00019b
+msgid "UT (N425B)"
+msgstr "UT(N425B)"
 
-#: slot/0x0056a63d/0x22af99/0x000049
-#: slot/0x0056a63d/0x22af99/0x00004a
-#: slot/0x0056a63d/0x22af99/0x00004b
-#: slot/0x0056a63d/0x22af99/0x00004c
-#: slot/0x0056a63d/0x22af99/0x00004d
-#: slot/0x0074a6ca/0xcc15c0/0xe227a9
-#: slot/0x0074a6ca/0xcc177c/0x9e27ab
-#: slot/0x00b4d9c8/0x4e7980/0x000049
-#: slot/0x00b4d9c8/0x4e7980/0x00004a
-#: slot/0x00b4d9c8/0x4e7980/0x00004b
-#: slot/0x00b4d9c8/0x4e7980/0x00004c
-#: slot/0x00b4d9c8/0x4e7980/0x00004d
-msgid "BATTERY"
-msgstr "电池"
+#: slot/0x0056a63d/0x954c25/0x00019c
+msgid "UT (N425C)"
+msgstr "UT(N425C)"
 
-#: slot/0x0056a63d/0x22af99/0x00004e
-#: slot/0x00b4d9c8/0x4e7980/0x00004e
-msgid "COLOGNE"
-msgstr "古龙水"
+#: slot/0x0056a63d/0x954c25/0x00019d
+msgid "UT (N425D Navy Blue)"
+msgstr "UT（N425D 藏青）"
 
-#: slot/0x0056a63d/0x22af99/0x00004f
-#: slot/0x0056a63d/0x22af99/0x000050
-#: slot/0x0056a63d/0x22af99/0x000051
-#: slot/0x0056a63d/0x22af99/0x000052
-#: slot/0x0056a63d/0x22af99/0x0001af
+#: slot/0x0056a63d/0x954c25/0x00019e
+msgid "UT (N425E White)"
+msgstr "UT(N425E白)"
+
+#: slot/0x0056a63d/0x954c25/0x00019f
+msgid "UT (N425E Black)"
+msgstr "UT(N425E黑)"
+
+#: slot/0x0056a63d/0x954c25/0x0001a0
+msgid "UT (N425F)"
+msgstr "UT (N425F)"
+
+#: slot/0x0056a63d/0x954c25/0x0001a1
+msgid "UT (N425G Gray)"
+msgstr "UT (N425G 灰)"
+
+#: slot/0x0056a63d/0x954c25/0x0001a2
+msgid "UT (N425H White)"
+msgstr "UT (N425H 白)"
+
+#: slot/0x0056a63d/0x954c25/0x0001a3
+msgid "UT (N425H Red)"
+msgstr "UT (N425H 红)"
+
+#: slot/0x0056a63d/0x954c25/0x0001a4
+msgid "UT (N425J)"
+msgstr "UT (N425J)"
+
+#: slot/0x0056a63d/0x954c25/0x0001a5
+msgid "UT (N425L)"
+msgstr "UT (N425L)"
+
+#: slot/0x0056a63d/0x954c25/0x0001a6
+msgid "UT (UT Logo)"
+msgstr "UT (UT标)"
+
+#: slot/0x0056a63d/0x954c25/0x0001a7
+msgid "UT (N425D Gray)"
+msgstr "UT (N425D 灰)"
+
+#: slot/0x0056a63d/0x954c25/0x0001a8
+msgid "UT (N425G White)"
+msgstr "UT (N425G 白)"
+
+#: slot/0x0056a63d/0x954c25/0x0001a9
+msgid "T-shirt"
+msgstr "T恤"
+
+#: slot/0x0056a63d/0x954c25/0x0001ae
+#: slot/0x00b4d9c8/0x4e7980/0x0001ae
+msgid "DPM"
+msgstr "迷彩"
+
 #: slot/0x0056a63d/0x954c25/0x0001af
 #: slot/0x00726933/0xdb8c41/0x9db49a
 #: slot/0x00b4d9c8/0x4e7980/0x00004f
@@ -58,2269 +90,2219 @@ msgstr "古龙水"
 msgid "WALKMAN"
 msgstr "随身听"
 
-#: slot/0x0056a63d/0x22af99/0x000053
-#: slot/0x00b4d9c8/0x4e7980/0x000053
-msgid "LETTER"
-msgstr "信件"
-
-#: slot/0x0056a63d/0x22af99/0x000054
-#: slot/0x00b4d9c8/0x4e7980/0x000054
-msgid "JIGSAW"
-msgstr "拼图"
-
-#: slot/0x0056a63d/0x22af99/0x000055
-#: slot/0x00b4d9c8/0x4e7980/0x000055
-msgid "ID CARD(P)"
-msgstr "ID卡(P)"
-
-#: slot/0x0056a63d/0x22af99/0x000056
-#: slot/0x00b4d9c8/0x4e7980/0x000056
-msgid "ID CARD(H)"
-msgstr "ID卡(H)"
-
-#: slot/0x0056a63d/0x22af99/0x000057
-#: slot/0x00b4d9c8/0x4e7980/0x000057
-msgid "CAMERA"
-msgstr "镜头"
-
-#: slot/0x0056a63d/0x22af99/0x000058
-#: slot/0x0056a63d/0x22af99/0x000059
-#: slot/0x0056a63d/0x22af99/0x00005a
-#: slot/0x0056a63d/0x22af99/0x00005b
-#: slot/0x0056a63d/0x22af99/0x00005c
-#: slot/0x00b4d9c8/0x4e7980/0x000058
-#: slot/0x00b4d9c8/0x4e7980/0x000059
-#: slot/0x00b4d9c8/0x4e7980/0x00005a
-#: slot/0x00b4d9c8/0x4e7980/0x00005b
-#: slot/0x00b4d9c8/0x4e7980/0x00005c
-msgid "ANALYZER"
-msgstr "分析仪"
-
-#: slot/0x0056a63d/0x22af99/0x00005d
-#: slot/0x0056a63d/0x22af99/0x00005e
-#: slot/0x00b4d9c8/0x4e7980/0x00005d
-#: slot/0x00b4d9c8/0x4e7980/0x00005e
-msgid "STLTH MAT"
-msgstr "隐身垫"
-
-#: slot/0x0056a63d/0x22af99/0x00005f
-#: slot/0x00b4d9c8/0x4e7980/0x00005f
-msgid "STLTH CAMO"
-msgstr "隐身迷彩"
-
-#: slot/0x0056a63d/0x22af99/0x000060
-#: slot/0x0056a63d/0x22af99/0x000061
-#: slot/0x0056a63d/0x22af99/0x000062
-#: slot/0x0056a63d/0x22af99/0x000063
-#: slot/0x0056a63d/0x22af99/0x000064
-#: slot/0x0056a63d/0x22af99/0x000065
-#: slot/0x0056a63d/0x22af99/0x000066
-#: slot/0x0056a63d/0x22af99/0x000067
-#: slot/0x0056a63d/0x22af99/0x000068
-#: slot/0x0056a63d/0x22af99/0x000069
-#: slot/0x00b4d9c8/0x4e7980/0x000060
-#: slot/0x00b4d9c8/0x4e7980/0x000061
-#: slot/0x00b4d9c8/0x4e7980/0x000062
-#: slot/0x00b4d9c8/0x4e7980/0x000063
-#: slot/0x00b4d9c8/0x4e7980/0x000064
-#: slot/0x00b4d9c8/0x4e7980/0x000065
-#: slot/0x00b4d9c8/0x4e7980/0x000066
-#: slot/0x00b4d9c8/0x4e7980/0x000067
-#: slot/0x00b4d9c8/0x4e7980/0x000068
-#: slot/0x00b4d9c8/0x4e7980/0x000069
-msgid "LOVE BOX"
-msgstr "爱箱"
-
-#: slot/0x0056a63d/0x22af99/0x00006a
-#: slot/0x0056a63d/0x22af99/0x00006b
-#: slot/0x0056a63d/0x22af99/0x00006c
-#: slot/0x0056a63d/0x22af99/0x00006d
-#: slot/0x0056a63d/0x22af99/0x00006e
-#: slot/0x00b4d9c8/0x4e7980/0x00006a
-#: slot/0x00b4d9c8/0x4e7980/0x00006b
-#: slot/0x00b4d9c8/0x4e7980/0x00006c
-#: slot/0x00b4d9c8/0x4e7980/0x00006d
-#: slot/0x00b4d9c8/0x4e7980/0x00006e
-msgid "BOX-TANK"
-msgstr "箱型坦克"
-
-#: slot/0x0056a63d/0x22af99/0x00006f
-#: slot/0x0056a63d/0x22af99/0x000070
-#: slot/0x0056a63d/0x22af99/0x000071
-#: slot/0x0056a63d/0x22af99/0x000072
-#: slot/0x00b4d9c8/0x4e7980/0x00006f
-#: slot/0x00b4d9c8/0x4e7980/0x000070
-#: slot/0x00b4d9c8/0x4e7980/0x000071
-#: slot/0x00b4d9c8/0x4e7980/0x000072
-msgid "BOX-T(STN)"
-msgstr "箱型坦克(晕)"
-
-#: slot/0x0056a63d/0x22af99/0x000073
-#: slot/0x0056a63d/0x22af99/0x000074
-#: slot/0x0056a63d/0x22af99/0x000075
-#: slot/0x0056a63d/0x22af99/0x000076
-#: slot/0x00b4d9c8/0x4e7980/0x000073
-#: slot/0x00b4d9c8/0x4e7980/0x000074
-#: slot/0x00b4d9c8/0x4e7980/0x000075
-#: slot/0x00b4d9c8/0x4e7980/0x000076
-msgid "BOX-T(SMK)"
-msgstr "箱型坦克(烟)"
-
-#: slot/0x0056a63d/0x22af99/0x000077
-#: slot/0x0056a63d/0x22af99/0x000078
-#: slot/0x0056a63d/0x22af99/0x000079
-#: slot/0x0056a63d/0x22af99/0x00007a
-#: slot/0x0056a63d/0x22af99/0x00007b
-#: slot/0x00b4d9c8/0x4e7980/0x000077
-#: slot/0x00b4d9c8/0x4e7980/0x000078
-#: slot/0x00b4d9c8/0x4e7980/0x000079
-#: slot/0x00b4d9c8/0x4e7980/0x00007a
-#: slot/0x00b4d9c8/0x4e7980/0x00007b
-msgid "NVG"
-msgstr "夜视仪"
-
-#: slot/0x0056a63d/0x22af99/0x00007c
-#: slot/0x0056a63d/0x22af99/0x00007d
-#: slot/0x0056a63d/0x22af99/0x00007e
-#: slot/0x0056a63d/0x22af99/0x00007f
-#: slot/0x0056a63d/0x22af99/0x000080
-#: slot/0x00b4d9c8/0x4e7980/0x00007c
-#: slot/0x00b4d9c8/0x4e7980/0x00007d
-#: slot/0x00b4d9c8/0x4e7980/0x00007e
-#: slot/0x00b4d9c8/0x4e7980/0x00007f
-#: slot/0x00b4d9c8/0x4e7980/0x000080
-msgid "FULTON SYS"
-msgstr "富尔顿"
-
-#: slot/0x0056a63d/0x22af99/0x000081
-#: slot/0x0056a63d/0x22af99/0x000082
-#: slot/0x0056a63d/0x22af99/0x000083
-#: slot/0x0056a63d/0x22af99/0x000084
-#: slot/0x0056a63d/0x22af99/0x000085
-#: slot/0x00b4d9c8/0x4e7980/0x000081
-#: slot/0x00b4d9c8/0x4e7980/0x000082
-#: slot/0x00b4d9c8/0x4e7980/0x000083
-#: slot/0x00b4d9c8/0x4e7980/0x000084
-#: slot/0x00b4d9c8/0x4e7980/0x000085
-msgid "SHIELD"
-msgstr "盾牌"
-
-#: slot/0x0056a63d/0x22af99/0x000086
-#: slot/0x00b4d9c8/0x4e7980/0x000086
-msgid "SHLD(R)"
-msgstr "盾(R)"
-
-#: slot/0x0056a63d/0x22af99/0x000087
-#: slot/0x00b4d9c8/0x4e7980/0x000087
-msgid "SHLD(B)"
-msgstr "盾(B)"
-
-#: slot/0x0056a63d/0x22af99/0x000088
-#: slot/0x00b4d9c8/0x4e7980/0x000088
-msgid "SHLD(G)"
-msgstr "盾(G)"
-
-#: slot/0x0056a63d/0x22af99/0x000089
-#: slot/0x00b4d9c8/0x4e7980/0x000089
-msgid "SHLD(Y)"
-msgstr "盾(Y)"
-
-#: slot/0x0056a63d/0x22af99/0x00008a
-#: slot/0x00b4d9c8/0x4e7980/0x00008a
-msgid "SHLD(BK)"
-msgstr "盾(BK)"
-
-#: slot/0x0056a63d/0x22af99/0x00008b
-#: slot/0x00b4d9c8/0x4e7980/0x00008b
-msgid "BINOS"
-msgstr "望远镜"
-
-#: slot/0x0056a63d/0x22af99/0x00008c
-#: slot/0x00b4d9c8/0x4e7980/0x00008c
-msgid "BANDANA"
-msgstr "头巾"
-
-#: slot/0x0056a63d/0x22af99/0x00008d
-#: slot/0x00b4d9c8/0x4e7980/0x00008d
-msgid "12 GAUGE"
-msgstr "12号霰弹"
-
-#: slot/0x0056a63d/0x22af99/0x00008e
-#: slot/0x00b4d9c8/0x4e7980/0x00008e
-msgid "14.5X114MM"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x00008f
-#: slot/0x00b4d9c8/0x4e7980/0x00008f
-msgid "19.5X76MM"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x000090
-#: slot/0x00b4d9c8/0x4e7980/0x000090
-msgid "32ACP"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x000091
-#: slot/0x00b4d9c8/0x4e7980/0x000091
-msgid "357 MAGNUM"
-msgstr ".357马格南"
-
-#: slot/0x0056a63d/0x22af99/0x000092
-#: slot/0x00b4d9c8/0x4e7980/0x000092
-msgid "4.73X33MM"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x000093
-#: slot/0x00b4d9c8/0x4e7980/0x000093
-msgid "40MM G."
-msgstr "40mm榴弹"
-
-#: slot/0x0056a63d/0x22af99/0x000094
-#: slot/0x00b4d9c8/0x4e7980/0x000094
-msgid "40MM G.(R)"
-msgstr "40mm榴弹(R)"
-
-#: slot/0x0056a63d/0x22af99/0x000095
-#: slot/0x00b4d9c8/0x4e7980/0x000095
-msgid "45ACP"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x000096
-#: slot/0x00b4d9c8/0x4e7980/0x000096
-msgid "5.56X45MM"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x000097
-#: slot/0x00b4d9c8/0x4e7980/0x000097
-msgid "7.62X39MM"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x000098
-#: slot/0x00b4d9c8/0x4e7980/0x000098
-msgid "7.62X51MM"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x000099
-#: slot/0x00b4d9c8/0x4e7980/0x000099
-msgid "7.62X54R"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x00009a
-#: slot/0x00b4d9c8/0x4e7980/0x00009a
-msgid "7.62X63MM"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x00009b
-#: slot/0x00b4d9c8/0x4e7980/0x00009b
-msgid "9X19MM"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x00009c
-#: slot/0x00b4d9c8/0x4e7980/0x00009c
-msgid "9X18MM"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x00009d
-#: slot/0x00b4d9c8/0x4e7980/0x00009d
-msgid "HEAT"
-msgstr "燃烧弹"
-
-#: slot/0x0056a63d/0x22af99/0x00009e
-#: slot/0x00b4d9c8/0x4e7980/0x00009e
-msgid "P.RCV."
-msgstr "遥控回收"
-
-#: slot/0x0056a63d/0x22af99/0x00009f
-#: slot/0x00b4d9c8/0x4e7980/0x00009f
-msgid "L.RCV."
-msgstr "远程回收"
-
-#: slot/0x0056a63d/0x22af99/0x0000a0
-#: slot/0x00b4d9c8/0x4e7980/0x0000a0
-msgid "ANEST.(S)"
-msgstr "麻醉弹(S)"
-
-#: slot/0x0056a63d/0x22af99/0x0000a1
-#: slot/0x0056a63d/0x22af99/0x0000a2
-#: slot/0x00b4d9c8/0x4e7980/0x0000a1
-#: slot/0x00b4d9c8/0x4e7980/0x0000a2
-msgid "SRND. IND."
-msgstr "声呐感应"
-
-#: slot/0x0056a63d/0x22af99/0x0000a3
-#: slot/0x0056a63d/0x22af99/0x0000a4
-#: slot/0x0056a63d/0x22af99/0x0000a5
-#: slot/0x0056a63d/0x22af99/0x0000a6
-#: slot/0x0056a63d/0x22af99/0x0000a7
-#: slot/0x00b4d9c8/0x4e7980/0x0000a3
-#: slot/0x00b4d9c8/0x4e7980/0x0000a4
-#: slot/0x00b4d9c8/0x4e7980/0x0000a5
-#: slot/0x00b4d9c8/0x4e7980/0x0000a6
-#: slot/0x00b4d9c8/0x4e7980/0x0000a7
-msgid "SOLITON R."
-msgstr "孤子雷达"
-
-#: slot/0x0056a63d/0x22af99/0x0000a8
-#: slot/0x0056a63d/0x22af99/0x0000a9
-#: slot/0x0056a63d/0x22af99/0x0000aa
-#: slot/0x0056a63d/0x22af99/0x0000ab
-#: slot/0x0056a63d/0x22af99/0x0000ac
-#: slot/0x00b4d9c8/0x4e7980/0x0000a8
-#: slot/0x00b4d9c8/0x4e7980/0x0000a9
-#: slot/0x00b4d9c8/0x4e7980/0x0000aa
-#: slot/0x00b4d9c8/0x4e7980/0x0000ab
-#: slot/0x00b4d9c8/0x4e7980/0x0000ac
-msgid "SONIC EYE"
-msgstr "声波眼"
-
-#: slot/0x0056a63d/0x22af99/0x0000ad
-#: slot/0x00b4d9c8/0x4e7980/0x0000ad
-msgid "LIME SODA"
-msgstr "青柠苏打"
-
-#: slot/0x0056a63d/0x22af99/0x0000ae
-#: slot/0x00b4d9c8/0x4e7980/0x0000ae
-msgid "Z.C.SODA"
-msgstr "零卡苏打"
-
-#: slot/0x0056a63d/0x22af99/0x0000af
-#: slot/0x00b4d9c8/0x4e7980/0x0000af
-msgid "T.CHIPS"
-msgstr "玉米片"
-
-#: slot/0x0056a63d/0x22af99/0x0000b0
-#: slot/0x0056a63d/0x22af99/0x0000b1
-#: slot/0x0056a63d/0x22af99/0x0000b2
-#: slot/0x0056a63d/0x22af99/0x0000b3
-#: slot/0x0056a63d/0x22af99/0x0000b4
-#: slot/0x00b4d9c8/0x4e7980/0x0000b0
-#: slot/0x00b4d9c8/0x4e7980/0x0000b1
-#: slot/0x00b4d9c8/0x4e7980/0x0000b2
-#: slot/0x00b4d9c8/0x4e7980/0x0000b3
-#: slot/0x00b4d9c8/0x4e7980/0x0000b4
-msgid "BOX BOMB"
-msgstr "纸箱炸弹"
-
-#: slot/0x0056a63d/0x22af99/0x0000b5
-#: slot/0x0056a63d/0x22af99/0x0000b6
-#: slot/0x0056a63d/0x22af99/0x0000b7
-#: slot/0x0056a63d/0x22af99/0x0000b8
-#: slot/0x00b4d9c8/0x4e7980/0x0000b5
-#: slot/0x00b4d9c8/0x4e7980/0x0000b6
-#: slot/0x00b4d9c8/0x4e7980/0x0000b7
-#: slot/0x00b4d9c8/0x4e7980/0x0000b8
-msgid "STUN BOX"
-msgstr "眩晕纸箱"
-
-#: slot/0x0056a63d/0x22af99/0x0000b9
-#: slot/0x0056a63d/0x22af99/0x0000ba
-#: slot/0x0056a63d/0x22af99/0x0000bb
-#: slot/0x0056a63d/0x22af99/0x0000bc
-#: slot/0x00b4d9c8/0x4e7980/0x0000b9
-#: slot/0x00b4d9c8/0x4e7980/0x0000ba
-#: slot/0x00b4d9c8/0x4e7980/0x0000bb
-#: slot/0x00b4d9c8/0x4e7980/0x0000bc
-msgid "SMOKE BOX"
-msgstr "烟雾纸箱"
-
-#: slot/0x0056a63d/0x22af99/0x0000bd
-#: slot/0x00b4d9c8/0x4e7980/0x0000bd
-msgid "LEAVE NOW"
-msgstr "速离纸箱"
-
-#: slot/0x0056a63d/0x22af99/0x0000be
-#: slot/0x00b4d9c8/0x4e7980/0x0000be
-msgid "ASSN. BOX"
-msgstr "刺杀纸箱"
-
-#: slot/0x0056a63d/0x22af99/0x0000bf
-#: slot/0x0056a63d/0x22af99/0x0000c0
-#: slot/0x0056a63d/0x22af99/0x0000c1
-#: slot/0x0056a63d/0x22af99/0x0000c2
-#: slot/0x0056a63d/0x22af99/0x0000c3
-#: slot/0x00b4d9c8/0x4e7980/0x0000bf
-#: slot/0x00b4d9c8/0x4e7980/0x0000c0
-#: slot/0x00b4d9c8/0x4e7980/0x0000c1
-#: slot/0x00b4d9c8/0x4e7980/0x0000c2
-#: slot/0x00b4d9c8/0x4e7980/0x0000c3
-msgid "RESCUE BOX"
-msgstr "救援纸箱"
-
-#: slot/0x0056a63d/0x22af99/0x0000c4
-#: slot/0x0056a63d/0x22af99/0x0000c5
-#: slot/0x0056a63d/0x22af99/0x0000c6
-#: slot/0x0056a63d/0x22af99/0x0000c7
-#: slot/0x0056a63d/0x22af99/0x0000c8
-#: slot/0x00b4d9c8/0x4e7980/0x0000c4
-#: slot/0x00b4d9c8/0x4e7980/0x0000c5
-#: slot/0x00b4d9c8/0x4e7980/0x0000c6
-#: slot/0x00b4d9c8/0x4e7980/0x0000c7
-#: slot/0x00b4d9c8/0x4e7980/0x0000c8
-msgid "R.RATION"
-msgstr "即食口粮"
-
-#: slot/0x0056a63d/0x22af99/0x0000c9
-#: slot/0x0056a63d/0x22af99/0x0000ca
-#: slot/0x0056a63d/0x22af99/0x0000cb
-#: slot/0x0056a63d/0x22af99/0x0000cc
-#: slot/0x0056a63d/0x22af99/0x0000cd
-#: slot/0x00b4d9c8/0x4e7980/0x0000c9
-#: slot/0x00b4d9c8/0x4e7980/0x0000ca
-#: slot/0x00b4d9c8/0x4e7980/0x0000cb
-#: slot/0x00b4d9c8/0x4e7980/0x0000cc
-#: slot/0x00b4d9c8/0x4e7980/0x0000cd
-msgid "WD.RATION"
-msgstr "野战口粮"
-
-#: slot/0x0056a63d/0x22af99/0x0000ce
-#: slot/0x0056a63d/0x22af99/0x0000cf
-#: slot/0x0056a63d/0x22af99/0x0000d0
-#: slot/0x0056a63d/0x22af99/0x0000d1
-#: slot/0x0056a63d/0x22af99/0x0000d2
-#: slot/0x00b4d9c8/0x4e7980/0x0000ce
-#: slot/0x00b4d9c8/0x4e7980/0x0000cf
-#: slot/0x00b4d9c8/0x4e7980/0x0000d0
-#: slot/0x00b4d9c8/0x4e7980/0x0000d1
-#: slot/0x00b4d9c8/0x4e7980/0x0000d2
-msgid "BT.RATION"
-msgstr "战斗口粮"
-
-#: slot/0x0056a63d/0x22af99/0x0000d3
-#: slot/0x0056a63d/0x22af99/0x0000d4
-#: slot/0x0056a63d/0x22af99/0x0000d5
-#: slot/0x0056a63d/0x22af99/0x0000d6
-#: slot/0x0056a63d/0x22af99/0x0000d7
-#: slot/0x00b4d9c8/0x4e7980/0x0000d3
-#: slot/0x00b4d9c8/0x4e7980/0x0000d4
-#: slot/0x00b4d9c8/0x4e7980/0x0000d5
-#: slot/0x00b4d9c8/0x4e7980/0x0000d6
-#: slot/0x00b4d9c8/0x4e7980/0x0000d7
-msgid "MATE"
-msgstr "伙伴"
-
-#: slot/0x0056a63d/0x22af99/0x0000d8
-#: slot/0x00b4d9c8/0x4e7980/0x0000d8
-msgid "12G.(RBR)"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x0000d9
-#: slot/0x00b4d9c8/0x4e7980/0x0000d9
-msgid "40 SMK"
-msgstr "40烟雾弹"
-
-#: slot/0x0056a63d/0x22af99/0x0000da
-#: slot/0x00b4d9c8/0x4e7980/0x0000da
-msgid "40 SMK (R)"
-msgstr "40烟雾弹(R)"
-
-#: slot/0x0056a63d/0x22af99/0x0000dd
-#: slot/0x00b4d9c8/0x4e7980/0x0000dd
-msgid "BALL"
-msgstr "球"
-
-#: slot/0x0056a63d/0x22af99/0x0000de
-#: slot/0x00b4d9c8/0x4e7980/0x0000de
-msgid "ANEST.(L)"
-msgstr "麻醉弹(L)"
-
-#: slot/0x0056a63d/0x22af99/0x0000df
-#: slot/0x00b4d9c8/0x4e7980/0x0000df
-msgid "7.62X51AP"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x0000e0
-#: slot/0x00b4d9c8/0x4e7980/0x0000e0
-msgid "RAIL AMMO"
-msgstr "轨道炮弹"
-
-#: slot/0x0056a63d/0x22af99/0x0000e1
-#: slot/0x00b4d9c8/0x4e7980/0x0000e1
-msgid "RPG2 AMMO"
-msgstr "RPG2弹"
-
-#: slot/0x0056a63d/0x22af99/0x0000e2
-#: slot/0x00b4d9c8/0x4e7980/0x0000e2
-msgid "RPG7 AMMO"
-msgstr "RPG7弹"
-
-#: slot/0x0056a63d/0x22af99/0x0000e3
-#: slot/0x00b4d9c8/0x4e7980/0x0000e3
-msgid "CG AMMO"
-msgstr "CG弹"
-
-#: slot/0x0056a63d/0x22af99/0x0000e4
-#: slot/0x00b4d9c8/0x4e7980/0x0000e4
-msgid "CG HEAT"
-msgstr "CG破甲弹"
-
-#: slot/0x0056a63d/0x22af99/0x0000e5
-#: slot/0x00b4d9c8/0x4e7980/0x0000e5
-msgid "COMBO AMMO"
-msgstr "组合弹"
-
-#: slot/0x0056a63d/0x22af99/0x0000e6
-#: slot/0x00b4d9c8/0x4e7980/0x0000e6
-msgid "FIM43 AMMO"
-msgstr "FIM43弹"
-
-#: slot/0x0056a63d/0x22af99/0x0000e7
-#: slot/0x00b4d9c8/0x4e7980/0x0000e7
-msgid "XFIM92 AM."
-msgstr "XFIM92麻"
-
-#: slot/0x0056a63d/0x22af99/0x0000e8
-#: slot/0x00b4d9c8/0x4e7980/0x0000e8
-msgid "M47 AMMO"
-msgstr "M47弹"
-
-#: slot/0x0056a63d/0x22af99/0x0000e9
-#: slot/0x00b4d9c8/0x4e7980/0x0000e9
-msgid "LAW AMMO"
-msgstr "LAW弹"
-
-#: slot/0x0056a63d/0x22af99/0x0000ea
-#: slot/0x00b4d9c8/0x4e7980/0x0000ea
-msgid "M202 AMMO"
-msgstr "M202弹"
-
-#: slot/0x0056a63d/0x22af99/0x0000eb
-#: slot/0x00b4d9c8/0x4e7980/0x0000eb
-msgid "CG.FLTN AM"
-msgstr "CG燃烧"
-
-#: slot/0x0056a63d/0x22af99/0x0000ec
-#: slot/0x0056a63d/0x22af99/0x0000ed
-#: slot/0x0056a63d/0x22af99/0x0000ee
-#: slot/0x0056a63d/0x22af99/0x0000ef
-#: slot/0x0056a63d/0x22af99/0x0000f0
-#: slot/0x0056a63d/0x22af99/0x0000f1
-#: slot/0x0056a63d/0x22af99/0x0000f2
-#: slot/0x0056a63d/0x22af99/0x0000f3
-#: slot/0x0056a63d/0x22af99/0x0000f4
-#: slot/0x0056a63d/0x22af99/0x0000f5
-#: slot/0x0056a63d/0x22af99/0x0000f6
-#: slot/0x0056a63d/0x22af99/0x0000f7
-#: slot/0x0056a63d/0x22af99/0x0000f8
-#: slot/0x0056a63d/0x22af99/0x0000f9
-#: slot/0x0056a63d/0x22af99/0x0000fa
-#: slot/0x0056a63d/0x22af99/0x0000fb
-#: slot/0x0056a63d/0x22af99/0x0000fc
-#: slot/0x0056a63d/0x22af99/0x0000fd
-#: slot/0x0056a63d/0x22af99/0x0000fe
-#: slot/0x0056a63d/0x22af99/0x0000ff
-#: slot/0x0056a63d/0x22af99/0x000100
-#: slot/0x0056a63d/0x22af99/0x000101
-#: slot/0x0056a63d/0x22af99/0x000102
-#: slot/0x0056a63d/0x22af99/0x000103
-#: slot/0x0056a63d/0x22af99/0x000104
-#: slot/0x0056a63d/0x22af99/0x000105
-#: slot/0x0056a63d/0x22af99/0x000106
-#: slot/0x0056a63d/0x22af99/0x000107
-#: slot/0x0056a63d/0x22af99/0x000108
-#: slot/0x0056a63d/0x22af99/0x000109
-#: slot/0x0056a63d/0x22af99/0x00010a
-#: slot/0x0056a63d/0x22af99/0x00010b
-#: slot/0x0056a63d/0x22af99/0x00010c
-#: slot/0x0056a63d/0x22af99/0x00010d
-#: slot/0x0056a63d/0x22af99/0x00010e
-#: slot/0x0056a63d/0x22af99/0x00010f
-#: slot/0x0056a63d/0x22af99/0x000110
-#: slot/0x0056a63d/0x22af99/0x000111
-#: slot/0x0056a63d/0x22af99/0x000112
-#: slot/0x0056a63d/0x22af99/0x000113
-#: slot/0x0056a63d/0x22af99/0x000114
-#: slot/0x0056a63d/0x22af99/0x000115
-#: slot/0x0056a63d/0x22af99/0x000116
-#: slot/0x0056a63d/0x22af99/0x000117
-#: slot/0x0056a63d/0x22af99/0x000118
-#: slot/0x0056a63d/0x22af99/0x000119
-#: slot/0x0056a63d/0x22af99/0x00011a
-#: slot/0x0056a63d/0x22af99/0x00011b
-#: slot/0x0056a63d/0x22af99/0x00011c
-#: slot/0x0056a63d/0x22af99/0x00011d
-#: slot/0x0056a63d/0x22af99/0x00011e
-#: slot/0x0056a63d/0x22af99/0x00011f
-#: slot/0x0056a63d/0x22af99/0x000120
-#: slot/0x0056a63d/0x22af99/0x000121
-#: slot/0x0056a63d/0x22af99/0x000122
-#: slot/0x0056a63d/0x22af99/0x000123
-#: slot/0x0056a63d/0x22af99/0x000124
-#: slot/0x0056a63d/0x22af99/0x000125
-#: slot/0x0056a63d/0x22af99/0x000126
-#: slot/0x0056a63d/0x22af99/0x000127
-#: slot/0x0056a63d/0x22af99/0x000128
-#: slot/0x0056a63d/0x22af99/0x000129
-#: slot/0x0056a63d/0x22af99/0x00012a
-#: slot/0x0056a63d/0x22af99/0x00012b
-#: slot/0x0056a63d/0x22af99/0x00012c
-#: slot/0x0056a63d/0x22af99/0x00012d
-#: slot/0x0056a63d/0x22af99/0x00012e
-#: slot/0x0056a63d/0x22af99/0x00012f
-#: slot/0x0056a63d/0x22af99/0x000130
-#: slot/0x0056a63d/0x22af99/0x000131
-#: slot/0x0056a63d/0x22af99/0x000132
-#: slot/0x0056a63d/0x22af99/0x000133
-#: slot/0x0056a63d/0x22af99/0x000134
-#: slot/0x0056a63d/0x22af99/0x000135
-#: slot/0x0056a63d/0x22af99/0x000136
-#: slot/0x0056a63d/0x22af99/0x000137
-#: slot/0x0056a63d/0x22af99/0x000138
-#: slot/0x0056a63d/0x22af99/0x000139
-#: slot/0x0056a63d/0x22af99/0x00013a
-#: slot/0x0056a63d/0x22af99/0x00013b
-#: slot/0x0056a63d/0x22af99/0x00013c
-#: slot/0x0056a63d/0x22af99/0x00013d
-#: slot/0x0056a63d/0x22af99/0x00013e
-#: slot/0x0056a63d/0x22af99/0x00013f
-#: slot/0x0056a63d/0x22af99/0x000140
-#: slot/0x0056a63d/0x22af99/0x000141
-#: slot/0x0056a63d/0x22af99/0x000142
-#: slot/0x0056a63d/0x22af99/0x000143
-#: slot/0x0056a63d/0x22af99/0x000144
-#: slot/0x0056a63d/0x22af99/0x000145
-#: slot/0x0056a63d/0x22af99/0x000146
-#: slot/0x0056a63d/0x22af99/0x000147
-#: slot/0x0056a63d/0x22af99/0x000148
-#: slot/0x0056a63d/0x22af99/0x000149
-#: slot/0x0056a63d/0x22af99/0x00014a
-#: slot/0x0056a63d/0x22af99/0x00014b
-#: slot/0x0056a63d/0x22af99/0x00014c
-#: slot/0x0056a63d/0x22af99/0x00014d
-#: slot/0x0056a63d/0x22af99/0x00014e
-#: slot/0x0056a63d/0x22af99/0x00014f
-#: slot/0x0056a63d/0x22af99/0x000150
-#: slot/0x0056a63d/0x22af99/0x000151
-#: slot/0x0056a63d/0x22af99/0x000152
-#: slot/0x0056a63d/0x22af99/0x000153
-#: slot/0x0056a63d/0x22af99/0x000154
-#: slot/0x0056a63d/0x22af99/0x000155
-#: slot/0x0056a63d/0x22af99/0x000156
-#: slot/0x0056a63d/0x22af99/0x000157
-#: slot/0x0056a63d/0x22af99/0x000158
-#: slot/0x0056a63d/0x22af99/0x000159
-#: slot/0x0056a63d/0x22af99/0x00015a
-#: slot/0x0056a63d/0x22af99/0x00015b
-#: slot/0x0056a63d/0x22af99/0x00015c
-#: slot/0x0056a63d/0x22af99/0x00015d
-#: slot/0x0056a63d/0x22af99/0x00015e
-#: slot/0x0056a63d/0x22af99/0x00015f
-#: slot/0x0056a63d/0x22af99/0x000160
-#: slot/0x0056a63d/0x22af99/0x000161
-#: slot/0x0056a63d/0x22af99/0x0001fb
-#: slot/0x0056a63d/0x22af99/0x0001fc
-#: slot/0x0056a63d/0x22af99/0x0001fd
-#: slot/0x0056a63d/0x22af99/0x0001fe
-#: slot/0x00b4d9c8/0x4e7980/0x0000ec
-#: slot/0x00b4d9c8/0x4e7980/0x0000ed
-#: slot/0x00b4d9c8/0x4e7980/0x0000ee
-#: slot/0x00b4d9c8/0x4e7980/0x0000ef
-#: slot/0x00b4d9c8/0x4e7980/0x0000f0
-#: slot/0x00b4d9c8/0x4e7980/0x0000f1
-#: slot/0x00b4d9c8/0x4e7980/0x0000f2
-#: slot/0x00b4d9c8/0x4e7980/0x0000f3
-#: slot/0x00b4d9c8/0x4e7980/0x0000f4
-#: slot/0x00b4d9c8/0x4e7980/0x0000f5
-#: slot/0x00b4d9c8/0x4e7980/0x0000f6
-#: slot/0x00b4d9c8/0x4e7980/0x0000f7
-#: slot/0x00b4d9c8/0x4e7980/0x0000f8
-#: slot/0x00b4d9c8/0x4e7980/0x0000f9
-#: slot/0x00b4d9c8/0x4e7980/0x0000fa
-#: slot/0x00b4d9c8/0x4e7980/0x0000fb
-#: slot/0x00b4d9c8/0x4e7980/0x0000fc
-#: slot/0x00b4d9c8/0x4e7980/0x0000fd
-#: slot/0x00b4d9c8/0x4e7980/0x0000fe
-#: slot/0x00b4d9c8/0x4e7980/0x0000ff
-#: slot/0x00b4d9c8/0x4e7980/0x000100
-#: slot/0x00b4d9c8/0x4e7980/0x000101
-#: slot/0x00b4d9c8/0x4e7980/0x000102
-#: slot/0x00b4d9c8/0x4e7980/0x000103
-#: slot/0x00b4d9c8/0x4e7980/0x000104
-#: slot/0x00b4d9c8/0x4e7980/0x000105
-#: slot/0x00b4d9c8/0x4e7980/0x000106
-#: slot/0x00b4d9c8/0x4e7980/0x000107
-#: slot/0x00b4d9c8/0x4e7980/0x000108
-#: slot/0x00b4d9c8/0x4e7980/0x000109
-#: slot/0x00b4d9c8/0x4e7980/0x00010a
-#: slot/0x00b4d9c8/0x4e7980/0x00010b
-#: slot/0x00b4d9c8/0x4e7980/0x00010c
-#: slot/0x00b4d9c8/0x4e7980/0x00010d
-#: slot/0x00b4d9c8/0x4e7980/0x00010e
-#: slot/0x00b4d9c8/0x4e7980/0x00010f
-#: slot/0x00b4d9c8/0x4e7980/0x000110
-#: slot/0x00b4d9c8/0x4e7980/0x000111
-#: slot/0x00b4d9c8/0x4e7980/0x000112
-#: slot/0x00b4d9c8/0x4e7980/0x000113
-#: slot/0x00b4d9c8/0x4e7980/0x000114
-#: slot/0x00b4d9c8/0x4e7980/0x000115
-#: slot/0x00b4d9c8/0x4e7980/0x000116
-#: slot/0x00b4d9c8/0x4e7980/0x000117
-#: slot/0x00b4d9c8/0x4e7980/0x000118
-#: slot/0x00b4d9c8/0x4e7980/0x000119
-#: slot/0x00b4d9c8/0x4e7980/0x00011a
-#: slot/0x00b4d9c8/0x4e7980/0x00011b
-#: slot/0x00b4d9c8/0x4e7980/0x00011c
-#: slot/0x00b4d9c8/0x4e7980/0x00011d
-#: slot/0x00b4d9c8/0x4e7980/0x00011e
-#: slot/0x00b4d9c8/0x4e7980/0x00011f
-#: slot/0x00b4d9c8/0x4e7980/0x000120
-#: slot/0x00b4d9c8/0x4e7980/0x000121
-#: slot/0x00b4d9c8/0x4e7980/0x000122
-#: slot/0x00b4d9c8/0x4e7980/0x000123
-#: slot/0x00b4d9c8/0x4e7980/0x000124
-#: slot/0x00b4d9c8/0x4e7980/0x000125
-#: slot/0x00b4d9c8/0x4e7980/0x000126
-#: slot/0x00b4d9c8/0x4e7980/0x000127
-#: slot/0x00b4d9c8/0x4e7980/0x000128
-#: slot/0x00b4d9c8/0x4e7980/0x000129
-#: slot/0x00b4d9c8/0x4e7980/0x00012a
-#: slot/0x00b4d9c8/0x4e7980/0x00012b
-#: slot/0x00b4d9c8/0x4e7980/0x00012c
-#: slot/0x00b4d9c8/0x4e7980/0x00012d
-#: slot/0x00b4d9c8/0x4e7980/0x00012e
-#: slot/0x00b4d9c8/0x4e7980/0x00012f
-#: slot/0x00b4d9c8/0x4e7980/0x000130
-#: slot/0x00b4d9c8/0x4e7980/0x000131
-#: slot/0x00b4d9c8/0x4e7980/0x000132
-#: slot/0x00b4d9c8/0x4e7980/0x000133
-#: slot/0x00b4d9c8/0x4e7980/0x000134
-#: slot/0x00b4d9c8/0x4e7980/0x000135
-#: slot/0x00b4d9c8/0x4e7980/0x000136
-#: slot/0x00b4d9c8/0x4e7980/0x000137
-#: slot/0x00b4d9c8/0x4e7980/0x000138
-#: slot/0x00b4d9c8/0x4e7980/0x000139
-#: slot/0x00b4d9c8/0x4e7980/0x00013a
-#: slot/0x00b4d9c8/0x4e7980/0x00013b
-#: slot/0x00b4d9c8/0x4e7980/0x00013c
-#: slot/0x00b4d9c8/0x4e7980/0x00013d
-#: slot/0x00b4d9c8/0x4e7980/0x00013e
-#: slot/0x00b4d9c8/0x4e7980/0x00013f
-#: slot/0x00b4d9c8/0x4e7980/0x000140
-#: slot/0x00b4d9c8/0x4e7980/0x000141
-#: slot/0x00b4d9c8/0x4e7980/0x000142
-#: slot/0x00b4d9c8/0x4e7980/0x000143
-#: slot/0x00b4d9c8/0x4e7980/0x000144
-#: slot/0x00b4d9c8/0x4e7980/0x000145
-#: slot/0x00b4d9c8/0x4e7980/0x000146
-#: slot/0x00b4d9c8/0x4e7980/0x000147
-#: slot/0x00b4d9c8/0x4e7980/0x000148
-#: slot/0x00b4d9c8/0x4e7980/0x000149
-#: slot/0x00b4d9c8/0x4e7980/0x00014a
-#: slot/0x00b4d9c8/0x4e7980/0x00014b
-#: slot/0x00b4d9c8/0x4e7980/0x00014c
-#: slot/0x00b4d9c8/0x4e7980/0x00014d
-#: slot/0x00b4d9c8/0x4e7980/0x00014e
-#: slot/0x00b4d9c8/0x4e7980/0x00014f
-#: slot/0x00b4d9c8/0x4e7980/0x000150
-#: slot/0x00b4d9c8/0x4e7980/0x000151
-#: slot/0x00b4d9c8/0x4e7980/0x000152
-#: slot/0x00b4d9c8/0x4e7980/0x000153
-#: slot/0x00b4d9c8/0x4e7980/0x000154
-#: slot/0x00b4d9c8/0x4e7980/0x000155
-#: slot/0x00b4d9c8/0x4e7980/0x000156
-#: slot/0x00b4d9c8/0x4e7980/0x000157
-#: slot/0x00b4d9c8/0x4e7980/0x000158
-#: slot/0x00b4d9c8/0x4e7980/0x000159
-#: slot/0x00b4d9c8/0x4e7980/0x00015a
-#: slot/0x00b4d9c8/0x4e7980/0x00015b
-#: slot/0x00b4d9c8/0x4e7980/0x00015c
-#: slot/0x00b4d9c8/0x4e7980/0x00015d
-#: slot/0x00b4d9c8/0x4e7980/0x00015e
-#: slot/0x00b4d9c8/0x4e7980/0x00015f
-#: slot/0x00b4d9c8/0x4e7980/0x000160
-#: slot/0x00b4d9c8/0x4e7980/0x000161
-#: slot/0x00b4d9c8/0x4e7980/0x0001fb
-#: slot/0x00b4d9c8/0x4e7980/0x0001fc
-#: slot/0x00b4d9c8/0x4e7980/0x0001fd
-#: slot/0x00b4d9c8/0x4e7980/0x0001fe
-msgid "CNFDTL DOC"
-msgstr "密件"
-
-#: slot/0x0056a63d/0x22af99/0x000162
-#: slot/0x00b4d9c8/0x4e7980/0x000162
-msgid "RATH WING"
-msgstr "拉翼"
-
-#: slot/0x0056a63d/0x22af99/0x000163
-#: slot/0x00b4d9c8/0x4e7980/0x000163
-msgid "TIG FANG"
-msgstr "虎牙"
-
-#: slot/0x0056a63d/0x22af99/0x000164
-#: slot/0x00b4d9c8/0x4e7980/0x000164
-msgid "GEAR MUC."
-msgstr "黏液"
-
-#: slot/0x0056a63d/0x22af99/0x000165
-#: slot/0x00b4d9c8/0x4e7980/0x000165
-msgid "GEAR CON."
-msgstr "容器"
-
-#: slot/0x0056a63d/0x22af99/0x000166
-#: slot/0x00b4d9c8/0x4e7980/0x000166
-msgid "GEAR EXT."
-msgstr "提取"
-
-#: slot/0x0056a63d/0x22af99/0x000167
-#: slot/0x00b4d9c8/0x4e7980/0x000167
-msgid "J.FATIGUES"
-msgstr "丛林服"
-
-#: slot/0x0056a63d/0x22af99/0x000170
-#: slot/0x00b4d9c8/0x4e7980/0x000170
-msgid "LEAF"
-msgstr "叶"
-
-#: slot/0x0056a63d/0x22af99/0x000171
-#: slot/0x00b4d9c8/0x4e7980/0x000171
-msgid "T.STRIPE"
-msgstr "T.STRIPE"
-
-#: slot/0x0056a63d/0x22af99/0x000172
-#: slot/0x00b4d9c8/0x4e7980/0x000172
-msgid "WATER"
-msgstr "水"
-
-#: slot/0x0056a63d/0x22af99/0x000173
-#: slot/0x00b4d9c8/0x4e7980/0x000173
-msgid "CHOCO-CHIP"
-msgstr "巧克力碎"
-
-#: slot/0x0056a63d/0x22af99/0x000174
-#: slot/0x00b4d9c8/0x4e7980/0x000174
-msgid "AUSCAM"
-msgstr "澳迷彩"
-
-#: slot/0x0056a63d/0x22af99/0x000175
-#: slot/0x00b4d9c8/0x4e7980/0x000175
-msgid "SQUARES"
-msgstr "方格"
-
-#: slot/0x0056a63d/0x22af99/0x000176
-#: slot/0x00b4d9c8/0x4e7980/0x000176
-msgid "TREE BARK"
-msgstr "树皮"
-
-#: slot/0x0056a63d/0x22af99/0x000177
-#: slot/0x00b4d9c8/0x4e7980/0x000177
-msgid "SPLITTER"
-msgstr "分裂"
-
-#: slot/0x0056a63d/0x22af99/0x000178
-#: slot/0x00a7d875/0xfc51c8/0x88a106
-#: slot/0x00a7d875/0xfc51c8/0xa05c77
-#: slot/0x00a7d875/0xfc51c8/0xf05f0b
-#: slot/0x00a7d875/0xfc51c8/0xffa5d4
-#: slot/0x00a7d876/0xfc51c8/0x1ae22f
-#: slot/0x00a7d876/0xfc51c8/0x3abf6d
-#: slot/0x00a7d876/0xfc51c8/0x3d3249
-#: slot/0x00a7d876/0xfc51c8/0xa19b51
-#: slot/0x00a7d876/0xfc51c8/0xb8397c
-#: slot/0x00a7d876/0xfc51c8/0xb86906
-#: slot/0x00a7d877/0xfc51c8/0x20eb3a
-#: slot/0x00a7d877/0xfc51c8/0x3ba5d5
-#: slot/0x00a7d877/0xfc51c8/0x4128ba
-#: slot/0x00a7d877/0xfc51c8/0x6902cf
-#: slot/0x00a7d877/0xfc51c8/0x7e6ccc
-#: slot/0x00a7d877/0xfc51c8/0xa279c8
-#: slot/0x00a7d877/0xfc51c8/0xca75fd
-#: slot/0x00a7d877/0xfc51c8/0xca79a5
-#: slot/0x00a7d877/0xfc51c8/0xf01fcd
-#: slot/0x00a7d877/0xfc51c8/0xfde04d
-#: slot/0x00a7d878/0xfc51c8/0x18878e
-#: slot/0x00a7d878/0xfc51c8/0x70474c
-#: slot/0x00a7d878/0xfc51c8/0x719f8c
-#: slot/0x00a7d878/0xfc51c8/0x71bfcc
-#: slot/0x00a7d878/0xfc51c8/0x79a5d5
-#: slot/0x00a7d878/0xfc51c8/0x88132f
-#: slot/0x00a7d878/0xfc51c8/0xdfd4ec
-#: slot/0x00a7d879/0xfc51c8/0x04a3b8
-#: slot/0x00a7d879/0xfc51c8/0x29c309
-#: slot/0x00a7d879/0xfc51c8/0x3f1cc6
-#: slot/0x00a7d879/0xfc51c8/0x3f1e06
-#: slot/0x00a7d879/0xfc51c8/0x56bbbe
-#: slot/0x00a7d879/0xfc51c8/0x731f67
-#: slot/0x00a7d879/0xfc51c8/0x8b4fc5
-#: slot/0x00a7d879/0xfc51c8/0x9f88db
-#: slot/0x00a7d87a/0xfc51c8/0x0cf665
-#: slot/0x00a7d87a/0xfc51c8/0x4cfe65
-#: slot/0x00a7d87a/0xfc51c8/0x4d0e74
-#: slot/0x00a7d87a/0xfc51c8/0x8d0665
-#: slot/0x00a7d87a/0xfc51c8/0x90968c
-#: slot/0x00a7d87a/0xfc51c8/0xcd1674
-#: slot/0x00a7d87a/0xfc51c8/0xe95a03
-#: slot/0x00a7d87b/0xfc51c8/0x12a2f3
-#: slot/0x00a7d87b/0xfc51c8/0x34130c
-#: slot/0x00a7d87b/0xfc51c8/0xd00bdb
-#: slot/0x00b4d9c8/0x4e7980/0x000178
-msgid "SNAKE"
-msgstr "SNAKE"
-
-#: slot/0x0056a63d/0x22af99/0x000179
-#: slot/0x00b4d9c8/0x4e7980/0x000179
-msgid "COMRADE"
-msgstr "战友"
-
-#: slot/0x0056a63d/0x22af99/0x00017a
-#: slot/0x00b4d9c8/0x4e7980/0x00017a
-msgid "G&J"
-msgstr "G&J"
-
-#: slot/0x0056a63d/0x22af99/0x00017b
-#: slot/0x00b4d9c8/0x4e7980/0x00017b
-msgid "NEO MOSS"
-msgstr "新苔"
-
-#: slot/0x0056a63d/0x22af99/0x00017c
-#: slot/0x00b4d9c8/0x4e7980/0x00017c
-msgid "STENCH"
-msgstr "恶臭"
-
-#: slot/0x0056a63d/0x22af99/0x00017d
-#: slot/0x00b4d9c8/0x4e7980/0x00017d
-#: slot/0x00ba016b/0x486505/0x000001
-msgid "TIGREX"
-msgstr "轰龙"
-
-#: slot/0x0056a63d/0x22af99/0x00017e
-#: slot/0x00b4d9c8/0x4e7980/0x00017e
-#: slot/0x00ba016b/0x486505/0x000002
-msgid "RATHALOS"
-msgstr "火龙"
-
-#: slot/0x0056a63d/0x22af99/0x00017f
-#: slot/0x00b4d9c8/0x4e7980/0x00017f
-#: slot/0x00ba016b/0x486505/0x000003
-msgid "GEAR REX"
-msgstr "霸王"
-
-#: slot/0x0056a63d/0x22af99/0x000180
-#: slot/0x00b4d9c8/0x4e7980/0x000180
-msgid "SNEAKING"
-msgstr "潜行"
-
-#: slot/0x0056a63d/0x22af99/0x000181
-#: slot/0x00b4d9c8/0x4e7980/0x000181
-msgid "BATTLE"
-msgstr "战斗"
-
-#: slot/0x0056a63d/0x22af99/0x000182
-#: slot/0x00b4d9c8/0x4e7980/0x000182
-msgid "BATTLE W/H"
-msgstr "战斗W/H"
-
-#: slot/0x0056a63d/0x22af99/0x000183
-#: slot/0x0068bf67/0x7c7faa/0xe786b0
-#: slot/0x00b4d9c8/0x4e7980/0x000183
-msgid "NAKED"
-msgstr "裸装"
-
-#: slot/0x0056a63d/0x22af99/0x000184
-#: slot/0x00b4d9c8/0x4e7980/0x000184
-msgid "NKD(BLACK)"
-msgstr "裸装(黑)"
-
-#: slot/0x0056a63d/0x22af99/0x000185
-#: slot/0x00b4d9c8/0x4e7980/0x000185
-msgid "NKD(KHAKI)"
-msgstr "裸装(卡其)"
-
-#: slot/0x0056a63d/0x22af99/0x000186
-#: slot/0x00b4d9c8/0x4e7980/0x000186
-msgid "NKD(N.BLU)"
-msgstr "裸装(藏青)"
-
-#: slot/0x0056a63d/0x22af99/0x000187
-#: slot/0x00b4d9c8/0x4e7980/0x000187
-msgid "NKD(WHITE)"
-msgstr "裸装(白)"
-
-#: slot/0x0056a63d/0x22af99/0x000188
-#: slot/0x00b4d9c8/0x4e7980/0x000188
-msgid "NKD(RED)"
-msgstr "裸装(红)"
-
-#: slot/0x0056a63d/0x22af99/0x000189
-#: slot/0x00b4d9c8/0x4e7980/0x000189
-msgid "NKD(YELW)"
-msgstr "裸装(黄)"
-
-#: slot/0x0056a63d/0x22af99/0x00018a
-#: slot/0x00b4d9c8/0x4e7980/0x00018a
-msgid "NKD(PINK)"
-msgstr "裸装(粉)"
-
-#: slot/0x0056a63d/0x22af99/0x00018b
-#: slot/0x00b4d9c8/0x4e7980/0x00018b
-msgid "NKD(GRN)"
-msgstr "裸装(绿)"
-
-#: slot/0x0056a63d/0x22af99/0x00018c
-#: slot/0x00b4d9c8/0x4e7980/0x00018c
-msgid "NKD(LEAF)"
-msgstr "裸装(叶)"
-
-#: slot/0x0056a63d/0x22af99/0x00018d
-#: slot/0x00b4d9c8/0x4e7980/0x00018d
-msgid "NKD(TIGER)"
-msgstr "裸装虎"
-
-#: slot/0x0056a63d/0x22af99/0x00018e
-#: slot/0x00b4d9c8/0x4e7980/0x00018e
-msgid "NKD(WATR)"
-msgstr "裸装(水)"
-
-#: slot/0x0056a63d/0x22af99/0x00018f
-#: slot/0x00b4d9c8/0x4e7980/0x00018f
-msgid "NKD(CHOCO)"
-msgstr "裸装巧"
-
-#: slot/0x0056a63d/0x22af99/0x000190
-#: slot/0x00b4d9c8/0x4e7980/0x000190
-msgid "NKD(AUSY)"
-msgstr "裸装(澳)"
-
-#: slot/0x0056a63d/0x22af99/0x000191
-#: slot/0x00b4d9c8/0x4e7980/0x000191
-msgid "NKD(SQRS)"
-msgstr "裸装(方)"
-
-#: slot/0x0056a63d/0x22af99/0x000192
-#: slot/0x00b4d9c8/0x4e7980/0x000192
-msgid "NKD(T.B)"
-msgstr "裸装(虎斑)"
-
-#: slot/0x0056a63d/0x22af99/0x000193
-#: slot/0x00b4d9c8/0x4e7980/0x000193
-msgid "NKD(SPLIT)"
-msgstr "裸装分"
-
-#: slot/0x0056a63d/0x22af99/0x000194
-#: slot/0x00b4d9c8/0x4e7980/0x000194
-msgid "NKD(SNAKE)"
-msgstr "裸装蛇"
-
-#: slot/0x0056a63d/0x22af99/0x000195
-#: slot/0x00b4d9c8/0x4e7980/0x000195
-msgid "TUXEDO"
-msgstr "燕尾服"
-
-#: slot/0x0056a63d/0x22af99/0x000196
-#: slot/0x00b4d9c8/0x4e7980/0x000196
-msgid "MILLER"
-msgstr "米勒"
-
-#: slot/0x0056a63d/0x22af99/0x000197
-#: slot/0x00b4d9c8/0x4e7980/0x000197
-msgid "AMANDA"
-msgstr "阿曼达"
-
-#: slot/0x0056a63d/0x22af99/0x000198
-#: slot/0x00b4d9c8/0x4e7980/0x000198
-msgid "SWIM TRNKS"
-msgstr "泳裤"
-
-#: slot/0x0056a63d/0x22af99/0x000199
-#: slot/0x00b4d9c8/0x4e7980/0x000199
-msgid "BIKINI TOP"
-msgstr "比基尼"
-
-#: slot/0x0056a63d/0x22af99/0x00019d
-#: slot/0x0056a63d/0x22af99/0x0001a7
-#: slot/0x00b4d9c8/0x4e7980/0x00019d
-#: slot/0x00b4d9c8/0x4e7980/0x0001a7
-msgid "UT(N425D)"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x00019e
-#: slot/0x0056a63d/0x22af99/0x00019f
-#: slot/0x00b4d9c8/0x4e7980/0x00019e
-#: slot/0x00b4d9c8/0x4e7980/0x00019f
-msgid "UT(N425E)"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x0001a1
-#: slot/0x0056a63d/0x22af99/0x0001a8
-#: slot/0x00b4d9c8/0x4e7980/0x0001a1
-#: slot/0x00b4d9c8/0x4e7980/0x0001a8
-msgid "UT(N425G)"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x0001a2
-#: slot/0x0056a63d/0x22af99/0x0001a3
-#: slot/0x00b4d9c8/0x4e7980/0x0001a2
-#: slot/0x00b4d9c8/0x4e7980/0x0001a3
-msgid "UT(N425H)"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x0001a6
-#: slot/0x00b4d9c8/0x4e7980/0x0001a6
-msgid "UT(LOGO)"
-msgstr "UT标"
-
-#: slot/0x0056a63d/0x22af99/0x0001a9
-#: slot/0x00b4d9c8/0x4e7980/0x0001a9
-msgid "T-SHIRT"
-msgstr "T恤"
-
-#: slot/0x0056a63d/0x22af99/0x0001ae
-#: slot/0x0056a63d/0x954c25/0x0001ae
-#: slot/0x00b4d9c8/0x4e7980/0x0001ae
-msgid "DPM"
-msgstr "迷彩"
-
-#: slot/0x0056a63d/0x22af99/0x0001b0
-#: slot/0x00b4d9c8/0x4e7980/0x0001b0
-msgid "NKD(DPM)"
-msgstr "裸装(迷彩)"
-
-#: slot/0x0056a63d/0x22af99/0x0001b3
-#: slot/0x00b4d9c8/0x4e7980/0x0001b3
-#: slot/0x00e6ef4c/0x1b1303/0x8c5df1
-msgid "FOX"
-msgstr "FOX"
-
-#: slot/0x0056a63d/0x22af99/0x0001b4
-#: slot/0x00b4d9c8/0x4e7980/0x0001b4
-msgid "R.COMMANDO"
-msgstr "R.突击队"
-
-#: slot/0x0056a63d/0x22af99/0x0001b5
-#: slot/0x00b4d9c8/0x4e7980/0x0001b5
-msgid "R.SOLDIER"
-msgstr "R.士兵"
-
-#: slot/0x0056a63d/0x22af99/0x0001b6
-#: slot/0x00b4d9c8/0x4e7980/0x0001b6
-msgid "SCOUT"
-msgstr "侦察兵"
-
-#: slot/0x0056a63d/0x22af99/0x0001b7
-#: slot/0x00b4d9c8/0x4e7980/0x0001b7
-msgid "GUARD"
+#: slot/0x0056a63d/0x954c25/0x0001b0
+msgid "Naked (DPM)"
+msgstr "裸装（迷彩）"
+
+#: slot/0x0056a63d/0x954c25/0x0001b3
+msgid "Fox"
+msgstr "Fox"
+
+#: slot/0x0056a63d/0x954c25/0x0001b4
+msgid "Russian Commando"
+msgstr "俄军突击兵"
+
+#: slot/0x0056a63d/0x954c25/0x0001b5
+msgid "Russian Soldier"
+msgstr "俄军士兵"
+
+#: slot/0x0056a63d/0x954c25/0x0001b7
+msgid "Guard"
 msgstr "卫兵"
 
-#: slot/0x0056a63d/0x22af99/0x0001b8
-#: slot/0x00b4d9c8/0x4e7980/0x0001b8
-msgid "COMMANDO"
-msgstr "突击"
+#: slot/0x0056a63d/0x954c25/0x0001b9
+msgid "Male P.O.W."
+msgstr "男战俘"
 
-#: slot/0x0056a63d/0x22af99/0x0001b9
-#: slot/0x00b4d9c8/0x4e7980/0x0001b9
-msgid "M.POW"
-msgstr "男俘"
-
-#: slot/0x0056a63d/0x22af99/0x0001ba
-#: slot/0x00b4d9c8/0x4e7980/0x0001ba
-msgid "PATROLMAN"
+#: slot/0x0056a63d/0x954c25/0x0001ba
+msgid "Patrolman"
 msgstr "巡逻兵"
 
-#: slot/0x0056a63d/0x22af99/0x0001bb
-#: slot/0x00b4d9c8/0x4e7980/0x0001bb
-msgid "F.POW"
-msgstr "女俘"
-
-#: slot/0x0056a63d/0x22af99/0x0001bc
-#: slot/0x00b4d9c8/0x4e7980/0x0001bc
-msgid "MECHANIC"
-msgstr "机械"
-
-#: slot/0x0056a63d/0x22af99/0x0001bd
-#: slot/0x00b4d9c8/0x4e7980/0x0001bd
-msgid "ESCORT"
-msgstr "护卫"
-
-#: slot/0x0056a63d/0x22af99/0x0001be
-#: slot/0x00b4d9c8/0x4e7980/0x0001be
-msgid "5.56X45AP"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x0001bf
-#: slot/0x00b4d9c8/0x4e7980/0x0001bf
-msgid "7.62X54AP"
-msgstr ""
-
-#: slot/0x0056a63d/0x22af99/0x0001fa
-#: slot/0x00b4d9c8/0x4e7980/0x0001fa
-msgid "ID CARD(C)"
-msgstr "ID卡(C)"
-
-#: slot/0x0056a63d/0x954c25/0x000000
-msgid "IT_None"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000001
-msgid "IT_MedicalKit"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000002
-msgid "IT_MedicalKitEx"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000003
-msgid "IT_Ration"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000004
-msgid "IT_RationEx"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000005
-msgid "IT_Pentazemin"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000006
-msgid "IT_Scope"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000007
-msgid "IT_Thermal"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000008
-msgid "IT_NightVision"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000009
-msgid "IT_MineDetect"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00000a
-msgid "IT_BodyArmor"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00000b
-#: slot/0x0056a63d/0x954c25/0x000081
-#: slot/0x0056a63d/0x954c25/0x000082
-#: slot/0x0056a63d/0x954c25/0x000083
-#: slot/0x0056a63d/0x954c25/0x000084
-#: slot/0x0056a63d/0x954c25/0x000085
-msgid "Ballistic Shield"
-msgstr "防弹盾"
-
-#: slot/0x0056a63d/0x954c25/0x00000c
-msgid "IT_CBoxA"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00000d
-msgid "IT_TruckKey"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00000e
-msgid "IT_CanyonKey"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00000f
-msgid "IT_SubstationKey"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000010
-msgid "IT_CellKey"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000011
-msgid "IT_FortCardKey"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000012
-msgid "IT_Classified"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000013
-msgid "IT_SaturnVplan"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000014
-msgid "IT_Bandana"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000015
-msgid "IT_Stealth"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000016
-msgid "IT_NetKerotan"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000017
-msgid "IT_NetGako"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000018
-msgid "IT_NetFilm"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000019
-msgid "IT_NetCamo"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00001a
-msgid "IT_NetRadio"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00001b
-msgid "IT_NetMap"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00001c
-msgid "IT_Bullet_9mmAnest"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00001d
-msgid "IT_Bullet_9x19mm"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00001e
-msgid "IT_Bullet_32ACP"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00001f
-msgid "IT_Bullet_45LC"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000020
-msgid "IT_Bullet_45ACP"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000021
-msgid "IT_Bullet_556x45mm"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000022
-msgid "IT_Bullet_762x39mm"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000023
-msgid "IT_Bullet_762x54R"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000024
-msgid "IT_Bullet_762Anest"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000025
-msgid "IT_Bullet_12gauge"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000026
-msgid "IT_Bullet_85mmHE"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000027
-msgid "IT_Bullet_545x39mm"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000028
-msgid "IT_Bullet_57x28mm"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000029
-msgid "IT_MindOfJustice"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00002a
-msgid "IT_FashionMagazine"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00002b
-msgid "IT_Manual_HAND_GUN"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00002c
-msgid "IT_Manual_SUB_MACHINGUN"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00002d
-msgid "IT_Manual_ASSAULT_RIFLE"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00002e
-msgid "IT_Manual_SHOTGUN"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00002f
-msgid "IT_Manual_SNIPER_RIFLE"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000030
-msgid "IT_Manual_FIREARM"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000031
-msgid "IT_Manual_KNIFE"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000032
-msgid "IT_Manual_THROW"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000033
-msgid "IT_Manual_TRAP"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000034
-msgid "IT_Manual_EQUIPMENT"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000035
-msgid "IT_Manual_MEDICINE"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000036
-msgid "IT_Battery"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000037
-msgid "IT_Fulton"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000038
-msgid "IT_PL_XFIM92A_B"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000039
-msgid "IT_SolitonRador"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00003a
-msgid "IT_Scouter"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00003b
-msgid "IT_M1911Spr"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00003c
-msgid "IT_Mk22Spr"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00003d
-msgid "IT_XM177Spr"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00003e
-msgid "IT_Mac10Spr"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00003f
-#: slot/0x0056a63d/0x954c25/0x000040
-#: slot/0x0056a63d/0x954c25/0x000041
-#: slot/0x0056a63d/0x954c25/0x000042
-#: slot/0x0056a63d/0x954c25/0x000043
-msgid "Ration"
-msgstr "口粮"
-
-#: slot/0x0056a63d/0x954c25/0x000044
-#: slot/0x0056a63d/0x954c25/0x000045
-msgid "Spicy Curry"
-msgstr "辣咖喱"
-
-#: slot/0x0056a63d/0x954c25/0x000046
-#: slot/0x0056a63d/0x954c25/0x000047
-msgid "Great Curry"
-msgstr "极品咖喱"
-
-#: slot/0x0056a63d/0x954c25/0x000048
-msgid "Future Curry"
-msgstr "未来咖喱"
-
-#: slot/0x0056a63d/0x954c25/0x000049
-#: slot/0x0056a63d/0x954c25/0x00004a
-#: slot/0x0056a63d/0x954c25/0x00004b
-#: slot/0x0056a63d/0x954c25/0x00004c
-#: slot/0x0056a63d/0x954c25/0x00004d
-msgid "Battery"
-msgstr "电池"
-
-#: slot/0x0056a63d/0x954c25/0x00004e
-msgid "Men's Cologne"
-msgstr "男士古龙"
-
-#: slot/0x0056a63d/0x954c25/0x00004f
-msgid "WALKMAN (TPS-L2)"
-msgstr "随身听 (TPS-L2)"
-
-#: slot/0x0056a63d/0x954c25/0x000050
-msgid "WALKMAN (WM-2)"
-msgstr "随身听 (WM-2)"
-
-#: slot/0x0056a63d/0x954c25/0x000051
-msgid "WALKMAN (WM-EX88)"
-msgstr "随身听 (WM-EX88)"
-
-#: slot/0x0056a63d/0x954c25/0x000052
-msgid "WALKMAN (NWD-W202)"
-msgstr "随身听 (NWD-W202)"
-
-#: slot/0x0056a63d/0x954c25/0x000053
-msgid "Huey's Letter"
-msgstr "休伊的信"
-
-#: slot/0x0056a63d/0x954c25/0x000054
-msgid "Jigsaw"
-msgstr "拼图"
-
-#: slot/0x0056a63d/0x954c25/0x000055
-msgid "ID Card (P)"
-msgstr "ID卡(P)"
-
-#: slot/0x0056a63d/0x954c25/0x000056
-msgid "ID Card (H)"
-msgstr "ID卡(H)"
-
-#: slot/0x0056a63d/0x954c25/0x000057
-msgid "Camera"
-msgstr "镜头"
-
-#: slot/0x0056a63d/0x954c25/0x000058
-#: slot/0x0056a63d/0x954c25/0x000059
-#: slot/0x0056a63d/0x954c25/0x00005a
-#: slot/0x0056a63d/0x954c25/0x00005b
-#: slot/0x0056a63d/0x954c25/0x00005c
-msgid "Analyzer"
-msgstr "分析"
-
-#: slot/0x0056a63d/0x954c25/0x00005d
-#: slot/0x0056a63d/0x954c25/0x00005e
-msgid "Stealth Mat"
-msgstr "隐身垫"
-
-#: slot/0x0056a63d/0x954c25/0x00005f
-msgid "Stealth Camouflage"
-msgstr "隐形迷彩"
-
-#: slot/0x0056a63d/0x954c25/0x000060
-#: slot/0x0056a63d/0x954c25/0x000061
-#: slot/0x0056a63d/0x954c25/0x000062
-#: slot/0x0056a63d/0x954c25/0x000063
-#: slot/0x0056a63d/0x954c25/0x000064
-msgid "Love Box"
-msgstr "爱箱"
-
-#: slot/0x0056a63d/0x954c25/0x000065
-#: slot/0x0056a63d/0x954c25/0x000066
-#: slot/0x0056a63d/0x954c25/0x000067
-#: slot/0x0056a63d/0x954c25/0x000068
-#: slot/0x0056a63d/0x954c25/0x000069
-msgid "Love Box "
-msgstr "爱之箱"
-
-#: slot/0x0056a63d/0x954c25/0x00006a
-#: slot/0x0056a63d/0x954c25/0x00006b
-#: slot/0x0056a63d/0x954c25/0x00006c
-#: slot/0x0056a63d/0x954c25/0x00006d
-#: slot/0x0056a63d/0x954c25/0x00006e
-msgid "Cardboard Box Tank"
-msgstr "纸箱坦克"
-
-#: slot/0x0056a63d/0x954c25/0x00006f
-#: slot/0x0056a63d/0x954c25/0x000070
-#: slot/0x0056a63d/0x954c25/0x000071
-#: slot/0x0056a63d/0x954c25/0x000072
-msgid "Cardboard Box Tank (Stun Cannon)"
-msgstr "纸箱坦克（麻醉炮）"
-
-#: slot/0x0056a63d/0x954c25/0x000073
-#: slot/0x0056a63d/0x954c25/0x000074
-#: slot/0x0056a63d/0x954c25/0x000075
-#: slot/0x0056a63d/0x954c25/0x000076
-msgid "Cardboard Box Tank (Smoke Shell)"
-msgstr "纸箱坦克（烟雾弹）"
-
-#: slot/0x0056a63d/0x954c25/0x000077
-#: slot/0x0056a63d/0x954c25/0x000078
-#: slot/0x0056a63d/0x954c25/0x000079
-#: slot/0x0056a63d/0x954c25/0x00007a
-#: slot/0x0056a63d/0x954c25/0x00007b
-msgid "Night Vision Goggles"
-msgstr "夜视仪"
-
-#: slot/0x0056a63d/0x954c25/0x00007c
-#: slot/0x0056a63d/0x954c25/0x00007d
-#: slot/0x0056a63d/0x954c25/0x00007e
-#: slot/0x0056a63d/0x954c25/0x00007f
-#: slot/0x0056a63d/0x954c25/0x000080
-msgid "Fulton Recovery System"
-msgstr "富尔顿回收系统"
-
-#: slot/0x0056a63d/0x954c25/0x000086
-msgid "Ballistic Shield (Red)"
-msgstr "防弹盾（红）"
-
-#: slot/0x0056a63d/0x954c25/0x000087
-msgid "Ballistic Shield (Blue)"
-msgstr "防弹盾（蓝）"
-
-#: slot/0x0056a63d/0x954c25/0x000088
-msgid "Ballistic Shield (Green)"
-msgstr "防弹盾（绿）"
-
-#: slot/0x0056a63d/0x954c25/0x000089
-msgid "Ballistic Shield (Yellow)"
-msgstr "防弹盾（黄）"
-
-#: slot/0x0056a63d/0x954c25/0x00008a
-msgid "Ballistic Shield (Black)"
-msgstr "防弹盾（黑）"
-
-#: slot/0x0056a63d/0x954c25/0x00008b
-msgid "Binoculars"
-msgstr "望远镜"
-
-#: slot/0x0056a63d/0x954c25/0x00008c
-msgid "Infinity Bandana"
-msgstr "无限头巾"
-
-#: slot/0x0056a63d/0x954c25/0x00008d
-msgid "12 Gauge Shotshell"
-msgstr "12号霰弹"
-
-#: slot/0x0056a63d/0x954c25/0x00008e
-msgid "14.5x114mm"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00008f
-msgid "19.5x76mm"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000090
-msgid ".32ACP"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000091
-msgid ".357 Magnum"
-msgstr ".357马格南"
-
-#: slot/0x0056a63d/0x954c25/0x000092
-msgid "4.73x33mm"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000093
-msgid "40mm Grenade (M16)"
-msgstr "40mm榴弹(M16)"
-
-#: slot/0x0056a63d/0x954c25/0x000094
-msgid "40mm Grenade (RK)"
-msgstr "40mm榴弹(RK)"
-
-#: slot/0x0056a63d/0x954c25/0x000095
-msgid ".45ACP"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000096
-msgid "5.56x45mm"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000097
-msgid "7.62x39mm"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000098
-msgid "7.62x51mm"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x000099
-msgid "7.62x54R"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00009a
-msgid "7.62x63mm"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00009b
-msgid "9x19mm"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00009c
-msgid "9x18mm"
-msgstr ""
-
-#: slot/0x0056a63d/0x954c25/0x00009d
-msgid "HEAT Round"
-msgstr "破甲弹"
-
-#: slot/0x0056a63d/0x954c25/0x00009e
-msgid "Psyche Recovery Round"
-msgstr "精神恢复弹"
-
-#: slot/0x0056a63d/0x954c25/0x00009f
-msgid "Life Recovery Round"
-msgstr "生命恢复弹"
-
-#: slot/0x0056a63d/0x954c25/0x0000a0
-msgid "Anesthetic Round (Handgun)"
-msgstr "麻醉弹（手枪）"
-
-#: slot/0x0056a63d/0x954c25/0x0000a1
-#: slot/0x0056a63d/0x954c25/0x0000a2
-msgid "Surround Indicator"
-msgstr "环绕指示器"
-
-#: slot/0x0056a63d/0x954c25/0x0000a3
-#: slot/0x0056a63d/0x954c25/0x0000a4
-#: slot/0x0056a63d/0x954c25/0x0000a5
-#: slot/0x0056a63d/0x954c25/0x0000a6
-#: slot/0x0056a63d/0x954c25/0x0000a7
-msgid "Soliton Radar"
-msgstr "孤子雷达"
-
-#: slot/0x0056a63d/0x954c25/0x0000a8
-#: slot/0x0056a63d/0x954c25/0x0000a9
-#: slot/0x0056a63d/0x954c25/0x0000aa
-#: slot/0x0056a63d/0x954c25/0x0000ab
-#: slot/0x0056a63d/0x954c25/0x0000ac
-msgid "Sonic Eye"
-msgstr "音波眼"
-
-#: slot/0x0056a63d/0x954c25/0x0000ad
-msgid "Lime Soda"
-msgstr "青柠汽水"
-
-#: slot/0x0056a63d/0x954c25/0x0000ae
-msgid "Zero-calorie Soda"
-msgstr "零卡汽水"
-
-#: slot/0x0056a63d/0x954c25/0x0000af
-msgid "Tortilla Chips"
-msgstr "玉米片"
-
-#: slot/0x0056a63d/0x954c25/0x0000b0
-#: slot/0x0056a63d/0x954c25/0x0000b1
-#: slot/0x0056a63d/0x954c25/0x0000b2
-#: slot/0x0056a63d/0x954c25/0x0000b3
-#: slot/0x0056a63d/0x954c25/0x0000b4
-msgid "Box Bomb"
-msgstr "炸箱"
-
-#: slot/0x0056a63d/0x954c25/0x0000b5
-#: slot/0x0056a63d/0x954c25/0x0000b6
-#: slot/0x0056a63d/0x954c25/0x0000b7
-#: slot/0x0056a63d/0x954c25/0x0000b8
-msgid "Stun Box"
-msgstr "麻箱"
-
-#: slot/0x0056a63d/0x954c25/0x0000b9
-#: slot/0x0056a63d/0x954c25/0x0000ba
-#: slot/0x0056a63d/0x954c25/0x0000bb
-#: slot/0x0056a63d/0x954c25/0x0000bc
-msgid "Smoke Box"
-msgstr "烟雾箱"
-
-#: slot/0x0056a63d/0x954c25/0x0000bd
-msgid "Whay are you here..."
-msgstr "你咋在这……"
-
-#: slot/0x0056a63d/0x954c25/0x0000be
-msgid "Assassin's Straw Box"
-msgstr "刺客草箱"
-
-#: slot/0x0056a63d/0x954c25/0x0000bf
-#: slot/0x0056a63d/0x954c25/0x0000c0
-#: slot/0x0056a63d/0x954c25/0x0000c1
-#: slot/0x0056a63d/0x954c25/0x0000c2
-#: slot/0x0056a63d/0x954c25/0x0000c3
-msgid "Rescue Box"
-msgstr "救援箱"
-
-#: slot/0x0056a63d/0x954c25/0x0000c4
-#: slot/0x0056a63d/0x954c25/0x0000c5
-#: slot/0x0056a63d/0x954c25/0x0000c6
-#: slot/0x0056a63d/0x954c25/0x0000c7
-#: slot/0x0056a63d/0x954c25/0x0000c8
-msgid "Rare Ration"
-msgstr "稀口粮"
-
-#: slot/0x0056a63d/0x954c25/0x0000c9
-#: slot/0x0056a63d/0x954c25/0x0000ca
-#: slot/0x0056a63d/0x954c25/0x0000cb
-#: slot/0x0056a63d/0x954c25/0x0000cc
-#: slot/0x0056a63d/0x954c25/0x0000cd
-msgid "Well-done Ration"
-msgstr "全熟口粮"
-
-#: slot/0x0056a63d/0x954c25/0x0000ce
-#: slot/0x0056a63d/0x954c25/0x0000cf
-#: slot/0x0056a63d/0x954c25/0x0000d0
-#: slot/0x0056a63d/0x954c25/0x0000d1
-#: slot/0x0056a63d/0x954c25/0x0000d2
-msgid "Burnt Ration"
-msgstr "焦糊口粮"
-
-#: slot/0x0056a63d/0x954c25/0x0000d3
-#: slot/0x0056a63d/0x954c25/0x0000d4
-#: slot/0x0056a63d/0x954c25/0x0000d5
-#: slot/0x0056a63d/0x954c25/0x0000d6
-#: slot/0x0056a63d/0x954c25/0x0000d7
-msgid "Mate Tea"
-msgstr "马黛"
-
-#: slot/0x0056a63d/0x954c25/0x0000d8
-msgid "12G. Rubber Rounds"
-msgstr "12号橡胶弹"
-
-#: slot/0x0056a63d/0x954c25/0x0000d9
-msgid "40mm Smoke Rounds (M16)"
-msgstr "40mm烟雾弹（M16）"
-
-#: slot/0x0056a63d/0x954c25/0x0000da
-msgid "40mm Smoke Rounds (RK)"
-msgstr "40mm烟雾弹（RK）"
-
-#: slot/0x0056a63d/0x954c25/0x0000db
-msgid "Support Strike Marker (Fired)"
-msgstr "支援攻击标记(已发)"
-
-#: slot/0x0056a63d/0x954c25/0x0000dc
-msgid "Support Supply Marker (Fired)"
-msgstr "支援补给标记(已发)"
-
-#: slot/0x0056a63d/0x954c25/0x0000dd
-msgid "Lead Ball"
-msgstr "铅弹"
-
-#: slot/0x0056a63d/0x954c25/0x0000de
-msgid "Anesthetic Round (Rifle)"
-msgstr "麻醉弹（步枪）"
-
-#: slot/0x0056a63d/0x954c25/0x0000df
-msgid "7.62x51mm (Armor-Piercing)"
-msgstr "7.62x51mm（穿甲）"
-
-#: slot/0x0056a63d/0x954c25/0x0000e0
-msgid "Railgun Ammo"
-msgstr "电磁炮炮弹"
-
-#: slot/0x0056a63d/0x954c25/0x0000e1
-msgid "RPG2 Ammo"
-msgstr "RPG2弹"
-
-#: slot/0x0056a63d/0x954c25/0x0000e2
-msgid "RPG7 Ammo"
-msgstr "RPG7弹"
-
-#: slot/0x0056a63d/0x954c25/0x0000e3
-msgid "Carl Gustav Ammo"
-msgstr "卡尔·古斯塔夫弹药"
-
-#: slot/0x0056a63d/0x954c25/0x0000e4
-msgid "Carl Gustav HEAT Ammo"
-msgstr "卡尔·古斯塔夫破甲弹"
-
-#: slot/0x0056a63d/0x954c25/0x0000e6
-msgid "FIM-43 Missile"
-msgstr "FIM-43导弹"
-
-#: slot/0x0056a63d/0x954c25/0x0000e7
-msgid "XFIM-92A Missile"
-msgstr "XFIM-92A导弹"
-
-#: slot/0x0056a63d/0x954c25/0x0000e8
-msgid "M47 Missile"
-msgstr "M47导弹"
-
-#: slot/0x0056a63d/0x954c25/0x0000e9
-msgid "LAW Rocket"
-msgstr "LAW火箭"
-
-#: slot/0x0056a63d/0x954c25/0x0000ea
-msgid "M202 Rocket"
-msgstr "M202火箭"
-
-#: slot/0x0056a63d/0x954c25/0x0000eb
-msgid "Carl Gustav Fulton Rounds"
-msgstr "古斯塔夫富尔顿弹"
-
-#: slot/0x0056a63d/0x954c25/0x0000ec
-msgid "EZ Gun (LR) Design Specs"
-msgstr "EZ枪(LR)开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000ed
-msgid "EZ Gun (PR) Design Specs"
-msgstr "EZ枪(PR)开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000ee
-msgid "PM Design Specs"
-msgstr "PM开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000ef
-msgid "PB/6P9 Design Specs"
-msgstr "PB/6P9开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000f0
-msgid "M1911A1 Design Specs"
-msgstr "M1911A1开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000f1
-msgid "M1911A1 Custom Design Specs"
-msgstr "M1911A1定制规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000f2
-msgid "C96 Design Specs"
-msgstr "C96开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000f3
-msgid "M19 Design Specs"
-msgstr "M19开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000f4
-msgid "Kampfpistole Design Specs"
-msgstr "信号枪开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000f5
-msgid "Support Supply Marker Design Specs"
-msgstr "支援补给标记开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000f6
-msgid "Support Strike Marker Design Specs"
-msgstr "支援攻击标记开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000f7
-msgid "Banana Cultivation Instructions"
-msgstr "香蕉栽培指南"
-
-#: slot/0x0056a63d/0x954c25/0x0000f8
-msgid "Twin Barrel Shotgun Design Specs"
-msgstr "双管霰弹枪开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000f9
-msgid "Twin Barrel (Rubber Slug) Design Specs"
-msgstr "双管(橡胶弹)开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000fa
-msgid "M37 Design Specs"
-msgstr "M37开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000fb
-msgid "SPAS-12 Design Specs"
-msgstr "SPAS-12开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000fc
-msgid "CAW Design Specs"
-msgstr "CAW开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000fd
-msgid "M16A1(STG) Design Specs"
-msgstr "M16A1(STG) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000fe
-msgid "M16A1(STG + laser) Design Specs"
-msgstr "M16A1(STG + 激光) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x0000ff
-msgid "Patriot Design Specs"
-msgstr "爱国者 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000100
-msgid "M16A1(GL) Design Specs"
-msgstr "M16A1(GL) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000101
-msgid "M16A1(GL + laser) Design Specs"
-msgstr "M16A1(GL + 激光) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000102
-msgid "M16A1(SGL) Design Specs"
-msgstr "M16A1(SGL) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000103
-msgid "M16A1(SGL + laser) Design Specs"
-msgstr "M16A1(SGL + 激光) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000104
-msgid "M653 Design Specs"
-msgstr "M653 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000105
-msgid "M653(GL) Design Specs"
-msgstr "M653(GL) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000106
-msgid "M653(STG) Design Specs"
-msgstr "M653(STG) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000107
-msgid "M653(SGL) Design Specs"
-msgstr "M653(SGL) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000108
-msgid "RK47 Design Specs"
-msgstr "RK47 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000109
-msgid "RK47(GL) Design Specs"
-msgstr "RK47(GL) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00010a
-msgid "ADM63 Design Specs"
-msgstr "ADM63 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00010b
-msgid "ADM65 Design Specs"
-msgstr "ADM65 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00010c
-msgid "RK47(SGL) Design Specs"
-msgstr "RK47(SGL) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00010d
-msgid "RPK Design Specs"
-msgstr "RPK 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00010e
-msgid "FAL Design Specs"
-msgstr "FAL 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00010f
-msgid "SUG Design Specs"
-msgstr "SUG 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000110
-msgid "G11 Design Specs"
-msgstr "G11 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000111
-msgid "Tanegashima Musket Design Specs"
-msgstr "种子岛火枪 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000112
-msgid "M10 Design Specs"
-msgstr "M10 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000113
-msgid "M10(BJ) Design Specs"
-msgstr "M10(BJ) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000114
-msgid "UZ61 Design Specs"
-msgstr "UZ61 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000115
-msgid "MP5A2 Design Specs"
-msgstr "MP5A2 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000116
-msgid "MP5SD2 Design Specs"
-msgstr "MP5SD2 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000117
-msgid "M1928A1 Design Specs"
-msgstr "M1928A1 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000118
-msgid "M1C Design Specs"
-msgstr "M1C 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000119
-msgid "M1C (PR) Design Specs"
-msgstr "M1C (PR) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00011a
-msgid "M21 Design Specs"
-msgstr "M21 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00011b
-msgid "M700 Design Specs"
-msgstr "M700 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00011c
-msgid "M700 (LR) Design Specs"
-msgstr "M700 (LR) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00011d
-msgid "Mosin-Nagant Design Specs"
-msgstr "莫辛-纳甘 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00011e
-msgid "SVD Design Specs"
-msgstr "SVD 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00011f
-msgid "SVD(NV) Design Specs"
-msgstr "SVD(NV) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000120
-msgid "WA2000 Design Specs"
-msgstr "WA2000 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000121
-msgid "PTRD1941 Design Specs"
-msgstr "PTRD1941 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000122
-msgid "PTRS1941 Design Specs"
-msgstr "PTRS1941 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000123
-msgid "Stealth Gun Design Specs"
-msgstr "隐身枪 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000124
-msgid "Railgun Design Specs"
-msgstr "电磁炮 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000125
-msgid "M60 Design Specs"
-msgstr "M60 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000126
-msgid "M60 (Armor Piercing) Design Specs"
-msgstr "M60 (穿甲弹) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000127
-msgid "M63A1 Design Specs"
-msgstr "M63A1 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000128
-msgid "PKM Design Specs"
-msgstr "PKM 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000129
-msgid "MG3 Design Specs"
-msgstr "MG3 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00012a
-msgid "MG3 (Armor Piercing) Design Specs"
-msgstr "MG3 (穿甲弹) 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00012b
-msgid "M134 Design Specs"
-msgstr "M134 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00012d
-msgid "LAW Design Specs"
-msgstr "LAW 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00012e
-#: slot/0x0056a63d/0x954c25/0x00012f
-msgid "M202A1 Design Specs"
-msgstr "M202A1 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000130
-msgid "RPG-2 Design Specs"
-msgstr "RPG-2 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000131
-msgid "RPG-7 Design Specs"
-msgstr "RPG-7 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000132
-msgid "FIM-43 Design Specs"
-msgstr "FIM-43 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000133
-msgid "XFIM-92A Design Specs"
-msgstr "XFIM-92A 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000134
-msgid "Carl Gustav M2 Design Specs"
-msgstr "卡尔·古斯塔夫 M2 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000135
-msgid "Carl Gustav (MP) Design Specs"
-msgstr "卡尔·古斯塔夫（MP）开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000136
-msgid "Carl Gustav (Fulton) Design Specs"
-msgstr "卡尔·古斯塔夫（富尔顿）开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000137
-msgid "M47 Design Specs"
-msgstr "M47 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000138
-msgid "Human Slingshot Design Specs"
-msgstr "人体弹弓 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000139
-msgid "Stun Grenade Design Specs"
-msgstr "眩晕手雷 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00013a
-msgid "Smoke Grenade Design Specs"
-msgstr "烟雾手雷 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00013b
-msgid "Chaff Grenade Design Specs"
-msgstr "箔条手雷 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00013c
-msgid "Smoke Grenade (Colored) Design Specs"
-msgstr "烟雾手雷（彩色）开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00013d
-msgid "Support Supply Marker (Thrown) Design Specs"
-msgstr "支援补给标记（投掷）开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00013e
-msgid "Support Strike Marker (Thrown) Design Specs"
-msgstr "支援攻击标记（投掷）开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00013f
-msgid "Electromagnetic Net Design Specs"
-msgstr "电磁网 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000140
-msgid "Sleep Gas Grenade Design Specs"
-msgstr "催眠瓦斯手雷 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000141
-msgid "C4 Design Specs"
-msgstr "C4 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000142
-msgid "Claymore Design Specs"
-msgstr "阔剑地雷 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000143
-msgid "Magazine Layout"
-msgstr "杂志版面"
-
-#: slot/0x0056a63d/0x954c25/0x000144
-#: slot/0x0056a63d/0x954c25/0x0001fb
-#: slot/0x0056a63d/0x954c25/0x0001fc
-#: slot/0x0056a63d/0x954c25/0x0001fd
-msgid "Hobby Magazine Layout"
-msgstr "兴趣杂志版面"
-
-#: slot/0x0056a63d/0x954c25/0x000145
-msgid "Anti-tank Mine Design Specs"
-msgstr "反坦克地雷 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000146
-msgid "Decoy Design Specs"
-msgstr "诱饵 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000147
-msgid "Aerial Mine Design Specs"
-msgstr "空投地雷 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000148
-msgid "Fulton Sleep Gas Mine Design Specs"
-msgstr "富尔顿催眠瓦斯地雷 开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x000149
-msgid "Cookbook Research Notes"
-msgstr "烹饪书研究笔记"
-
-#: slot/0x0056a63d/0x954c25/0x00014a
-msgid "Support Supply Mk. (Set) Blueprints"
-msgstr "支援补给Mk.（套）设计图"
-
-#: slot/0x0056a63d/0x954c25/0x00014b
-msgid "Support Strike Mk. (Set) Blueprints"
-msgstr "支援打击Mk.（套）设计图"
-
-#: slot/0x0056a63d/0x954c25/0x00014c
-msgid "Curry Recipe"
-msgstr "咖喱食谱"
-
-#: slot/0x0056a63d/0x954c25/0x00014d
-msgid "Stealth Mat Design Specs"
-msgstr "潜行垫开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00014e
-msgid "Stealth Camouflage Design Specs"
-msgstr "潜行迷彩开发规格"
-
-#: slot/0x0056a63d/0x954c25/0x00014f
-msgid "Love Box Design Specs"
-msgstr "爱之箱开发规格"
+#: slot/0x0056a63d/0x954c25/0x0001bb
+msgid "Female P.O.W."
+msgstr "女性战俘"
+
+#: slot/0x0056a63d/0x954c25/0x0001bd
+msgid "Escort Soldier"
+msgstr "护卫兵"
+
+#: slot/0x0056a63d/0x954c25/0x0001be
+msgid "5.56x45mm (Armor-Piercing)"
+msgstr "5.56x45mm (穿甲弹)"
+
+#: slot/0x0056a63d/0x954c25/0x0001bf
+msgid "7.62x54R (Armor-Piercing)"
+msgstr "7.62x54R (穿甲弹)"
+
+#: slot/0x0056a63d/0x954c25/0x0001fa
+msgid "ID Card (C)"
+msgstr "ID卡 (C)"
+
+#: slot/0x0056a63d/0x954c25/0x0001fe
+msgid "Cologne Design Specs"
+msgstr "古龙水开发规格"
+
+#: slot/0x005a5b84/0x9c12db/0x0e634f
+msgid "ENTER"
+msgstr "确"
+
+#: slot/0x005a5b84/0x9c12db/0x1b4b60
+msgid "L button"
+msgstr "L 键"
+
+#: slot/0x005a5b84/0x9c12db/0x1b4c20
+msgid "R button"
+msgstr "R 键"
+
+#: slot/0x005a5b84/0x9c12db/0x329c3a
+msgid "START button"
+msgstr "START 键"
+
+#: slot/0x005a5b84/0x9c12db/0x68d179
+#: slot/0x00b9910a/0x9dc379/0xdb198e
+msgid "SELECT button"
+msgstr "SELECT 键"
+
+#: slot/0x005a5b84/0x9c12db/0x78da4e
+msgid "<I=○> button"
+msgstr "<I=○> 键"
+
+#: slot/0x005a5b84/0x9c12db/0x78da4f
+msgid "<I=×> button"
+msgstr "<I=×> 键"
+
+#: slot/0x005a5b84/0x9c12db/0x78da51
+msgid "down button"
+msgstr "下键"
+
+#: slot/0x005a5b84/0x9c12db/0x78da59
+msgid "left button"
+msgstr "左键"
+
+#: slot/0x005a5b84/0x9c12db/0x78da5f
+msgid "right button"
+msgstr "右键"
+
+#: slot/0x005a5b84/0x9c12db/0x78da62
+msgid "up button"
+msgstr "上键"
+
+#: slot/0x005a5b84/0x9c12db/0x78da65
+msgid "<I=△> button"
+msgstr "<I=△> 键"
+
+#: slot/0x005a5b84/0x9c12db/0x78da66
+msgid "<I=□> button"
+msgstr "<I=□> 键"
+
+#: slot/0x005a5b84/0x9c12db/0x977fb2
+msgid "TOP"
+msgstr "顶部"
+
+#: slot/0x005a5b84/0x9c12db/0x97ea99
+#: slot/0x0074a6ca/0xcc15c0/0xb35d47
+#: slot/0x0074a6ca/0xcc177c/0xb35db6
+msgid "NEW"
+msgstr "新建"
+
+#: slot/0x005a5b84/0x9c12db/0xed5101
+#: slot/0x00726933/0xdb8c41/0x5f91ec
+msgid "CLOSE"
+msgstr "关"
+
+#: slot/0x005a5b84/0x9c12db/0xed7940
+msgid "OPEN"
+msgstr "开"
+
+#: slot/0x005caf77/0x132a46/0x937448
+msgid "An error has occurred. Error number:"
+msgstr "发生错误。错误编号："
+
+#: slot/0x005caf77/0x132a46/0x937449
+msgid ""
+"The WLAN/WIRELESS switch is not turned on.\n"
+"Turn it on to connect."
+msgstr ""
+"WLAN/无线开关未打开。\n"
+"请打开后连接。"
+
+#: slot/0x005caf77/0x132a46/0x93744b
+#: slot/0x00cba83b/0x029324/0x8e25be
+msgid "Failed to connect to server."
+msgstr "连接服务器失败。"
+
+#: slot/0x005caf77/0x34cd5c/0x16cc30
+msgid "New Save Data"
+msgstr "新建存档"
+
+#: slot/0x005caf77/0x34cd5c/0x32ed5d
+msgid "Play Time"
+msgstr "时长"
+
+#: slot/0x005caf77/0x34cd5c/0xbbd985
+#, c-format
+msgid "%02d/%02d/%04d %s"
+msgstr "%02d/%02d/%04d %s"
+
+#: slot/0x005caf77/0x34cd5c/0xbdbab4
+msgid "METAL GEAR SOLID PEACE WALKER"
+msgstr "METAL GEAR SOLID PEACE WALKER"
+
+#: slot/0x005caf77/0x34cd5c/0xde0ae1
+msgid "Player Name"
+msgstr "玩家名"
+
+#: slot/0x005caf77/0x8b79b6/0x05137c
+msgid "Start game without saving data?"
+msgstr "不保存数据开始游戏？"
+
+#: slot/0x005caf77/0x8b79b6/0x0c06a1
+msgid ""
+"Failed to capture screenshot.\r\n"
+"Could not create screenshot data folder."
+msgstr ""
+"截图失败。\r\n"
+"无法创建截图数据文件夹。"
+
+#: slot/0x005caf77/0x8b79b6/0x131080
+msgid ""
+"Insufficient free space on the \r\n"
+"Memory<I=BL>Stick<I=TM>.\n"
+"This game requires at least 544KB of free space in order to save data."
+msgstr ""
+"存储卡上的可用空间不足，\r\n"
+"Memory<I=BL>Stick<I=TM>。\r\n"
+"本游戏至少需要544KB的可用空间才能保存数据。"
+
+#: slot/0x005caf77/0x8b79b6/0x1329fc
+msgid "Corrupted installed data has been deleted."
+msgstr "已删除损坏的安装数据。"
+
+#: slot/0x005caf77/0x8b79b6/0x17d9ff
+msgid ""
+"An error occurred while reading data from the Memory<I=BL>Stick<I=TM>. Installed data and/or downloaded data may be corrupted.\n"
+"It is recommended that you reinstall."
+msgstr ""
+"从Memory<I=BL>Stick<I=TM>读取数据时发生错误。安装数据和/或下载数据可能已损坏。\n"
+"建议重新安装。"
+
+#: slot/0x005caf77/0x8b79b6/0x220a93
+msgid ""
+"Checking Memory<I=BL>Stick<I=TM>...\n"
+"Do not remove the Memory<I=BL>Stick<I=TM> \n"
+"or turn off the power."
+msgstr ""
+"正在检查Memory<I=BL>Stick<I=TM>...\n"
+"请勿拔出Memory<I=BL>Stick<I=TM>\n"
+"或关闭电源。"
+
+#: slot/0x005caf77/0x8b79b6/0x2a761c
+msgid "Data installation features were disabled because the Memory<I=BL>Stick<I=TM> was removed or sleep mode was entered. Enable them?"
+msgstr "由于Memory<I=BL>Stick<I=TM>被拔出或进入睡眠模式，数据安装功能已禁用。要启用吗？"
+
+#: slot/0x005caf77/0x8b79b6/0x2a922e
+msgid "Exit game without saving data?"
+msgstr "不保存数据退出游戏？"
+
+#: slot/0x005caf77/0x8b79b6/0x2cc873
+msgid ""
+"Failed to capture screenshot.\r\n"
+"Could not create screenshot data file."
+msgstr ""
+"截图失败。\r\n"
+"无法创建截图数据文件。"
+
+#: slot/0x005caf77/0x8b79b6/0x2e2681
+msgid ""
+"Failed to capture screenshot.\r\n"
+"The Memory<I=BL>Stick<I=TM> is not\r\n"
+"inserted properly."
+msgstr ""
+"截图失败。\r\n"
+"未正确插入\r\n"
+"存储<I=BL>卡<I=TM>。"
+
+#: slot/0x005caf77/0x8b79b6/0x368dde
+msgid "This game relies on the save file you initially create. Please do not remove the Memory<I=BL>Stick<I=TM> or change it for another Memory<I=BL>Stick<I=TM> during gameplay as this may cause your save file to become disrupted."
+msgstr "本游戏依赖初次创建的存档。游玩中请勿拔出存储<I=BL>卡<I=TM>或更换其他存储<I=BL>卡<I=TM>，否则可能导致存档损坏。"
+
+#: slot/0x005caf77/0x8b79b6/0x3b222d
+msgid ""
+"This game saves data automatically\r\n"
+"at certain points. Do not remove\r\n"
+"the Memory<I=BL>Stick<I=TM> or switch off\r\n"
+"the PSP<I=TM> system when \n"
+"the Memory<I=BL>Stick<I=TM> access \n"
+"indicator is flashing."
+msgstr ""
+"本游戏会在某些时间点自动保存数据。\r\n"
+"请勿在Memory<I=BL>Stick<I=TM>的\r\n"
+"存取指示灯闪烁时取出\r\n"
+"Memory<I=BL>Stick<I=TM>或关闭\r\n"
+"PSP<I=TM>主机电源。\r\n"
+"存取指示灯闪烁时。"
+
+#: slot/0x005caf77/0x8b79b6/0x437cf5
+msgid ""
+"Insufficient free space on\r\n"
+"the Memory<I=BL>Stick<I=TM>. This game requires \r\n"
+"at least XXMB of free space in order \r\n"
+"to save data. This game cannot be played \r\n"
+"without a Memory<I=BL>Stick<I=TM>. Delete data \n"
+"to \rcreate additional free space, or insert \r\n"
+"a Memory<I=BL>Stick<I=TM> with at least XXMB\r\n"
+"of free space."
+msgstr ""
+"存储<I=BL>卡<I=TM>的剩余空间\r\n"
+"不足。本游戏保存数据至少需要\r\n"
+"XXMB 的剩余空间。没有\r\n"
+"存储<I=BL>卡<I=TM>将无法游玩本游戏。\r\n"
+"请删除数据以\r\n"
+"腾出空间，或插入\r\n"
+"一张至少有 XXMB\r\n"
+"剩余空间的存储<I=BL>卡<I=TM>。"
+
+#: slot/0x005caf77/0x8b79b6/0x4762bf
+msgid ""
+"An error has occurred.\r\n"
+"Failed to capture screenshot."
+msgstr ""
+"发生错误。\r\n"
+"截图失败。"
+
+#: slot/0x005caf77/0x8b79b6/0x4b32b5
+msgid "No data on the Memory<I=BL>Stick<I=TM>."
+msgstr "存储<I=BL>卡<I=TM>中没有数据。"
+
+#: slot/0x005caf77/0x8b79b6/0x53ae98
+msgid ""
+"Failed to capture screenshot.\r\n"
+"There is not enough free space on\r\n"
+"the Memory<I=BL>Stick<I=TM>. At least 64KB\r\n"
+"of free space is needed to save\r\n"
+"screenshot data."
+msgstr ""
+"截图失败。\r\n"
+"存储<I=BL>卡<I=TM>的剩余空间\r\n"
+"不足。保存截图数据至少\r\n"
+"需要 64KB 的\r\n"
+"剩余空间。"
+
+#: slot/0x005caf77/0x8b79b6/0x557616
+msgid "Disconnecting from network..."
+msgstr "断开网络中……"
+
+#: slot/0x005caf77/0x8b79b6/0x5c26bc
+msgid "Saving screenshot data..."
+msgstr "保存截图数据……"
+
+#: slot/0x005caf77/0x8b79b6/0x5f4765
+msgid ""
+"The Memory<I=BL>Stick<I=TM> is not inserted\r\n"
+"correctly. This game cannot be played\r\n"
+"without a Memory<I=BL>Stick<I=TM>. Please insert\r\n"
+"a Memory<I=BL>Stick<I=TM> with at least 33MB\r\n"
+"of free space."
+msgstr ""
+"Memory<I=BL>Stick<I=TM>未正确插入。\r\n"
+"没有Memory<I=BL>Stick<I=TM>将无法游玩本游戏。\r\n"
+"请插入至少有33MB可用空间的\r\n"
+"Memory<I=BL>Stick<I=TM>。\r\n"
+"可用空间。"
+
+#: slot/0x005caf77/0x8b79b6/0x70268a
+msgid ""
+"(不要)タイトルメニューに戻ります。\n"
+"よろしいですか？"
+msgstr ""
+"(不要)タイトルメニューに戻ります。\n"
+"よろしいですか？"
+
+#: slot/0x005caf77/0x8b79b6/0x704f39
+msgid "The Memory<I=BL>Stick<I=TM> was removed or Sleep Mode was entered. Exiting menu."
+msgstr "存储<I=BL>卡<I=TM>被拔出或进入睡眠模式。退出菜单。"
+
+#: slot/0x005caf77/0x8b79b6/0x80d48f
+msgid ""
+"Features that use data on the Memory<I=BL>Stick<I=TM> were disabled after an error occurred while reading data from it. \n"
+"These features will be available only after initialization. Perform initialization?"
+msgstr ""
+"读取存储<I=BL>卡<I=TM>数据时发生错误，使用其中数据的功能已被禁用。\n"
+"这些功能需初始化后才能使用。是否执行初始化？"
+
+#: slot/0x005caf77/0x8b79b6/0x823848
+msgid ""
+"Failed to save.\n"
+"The Memory<I=BL>Stick<I=TM> is locked."
+msgstr ""
+"保存失败。\n"
+"存储<I=BL>卡<I=TM>已锁定。"
+
+#: slot/0x005caf77/0x8b79b6/0x82f915
+msgid ""
+"Unable to create new save data.\r\n"
+"The maximum number of save data \r\n"
+"files (3) already exists.\r\n"
+"Switch to a Memory<I=BL>Stick<I=TM> with \r\n"
+"less than 3 data files on it, \r\n"
+"or delete save data from \r\n"
+"the current Memory<I=BL>Stick<I=TM> \r\n"
+"so less than 3 exist."
+msgstr ""
+"无法创建新的保存数据。\r\n"
+"保存数据文件数量已达\r\n"
+"上限（3个）。\r\n"
+"请换用保存数据少于3个的\r\n"
+"Memory<I=BL>Stick<I=TM>，\r\n"
+"或从当前的\r\n"
+"Memory<I=BL>Stick<I=TM>中删除保存数据，\r\n"
+"使保存数据少于3个。"
+
+#: slot/0x005caf77/0x8b79b6/0x8911d9
+msgid ""
+"The Memory<I=BL>Stick<I=TM> is not inserted \n"
+"correctly. This game cannot be played \n"
+"without a Memory<I=BL>Stick<I=TM>. Please insert \n"
+"a Memory<I=BL>Stick<I=TM> with save data from \n"
+"this game, or one with at least 33MB \n"
+"of free space."
+msgstr ""
+
+#: slot/0x005caf77/0x8b79b6/0x8cee30
+msgid "(不要)クリアデータをセーブしますか？"
+msgstr "(不要)クリアデータをセーブしますか？"
+
+#: slot/0x005caf77/0x8b79b6/0x915aaa
+msgid ""
+"The Memory<I=BL>Stick<I=TM> is not inserted \n"
+"correctly. Please insert a \n"
+"Memory<I=BL>Stick<I=TM> with your save data."
+msgstr ""
+"未正确插入存储<I=BL>卡<I=TM>。\n"
+"请插入存有\n"
+"您的存档的存储<I=BL>卡<I=TM>。"
+
+#: slot/0x005caf77/0x8b79b6/0x93a0b2
+msgid ""
+"Save data does not exist.\r\n"
+"Please insert a Memory<I=BL>Stick<I=TM> \r\n"
+"with your save data."
+msgstr ""
+"存档不存在。\r\n"
+"请插入存有\r\n"
+"您的存档的存储<I=BL>卡<I=TM>。"
+
+#: slot/0x005caf77/0x8b79b6/0xa6ed53
+msgid ""
+"Failed to capture screenshot.\r\n"
+"The Write Protect Switch on the\r\n"
+"Memory<I=BL>Stick<I=TM> is locked."
+msgstr ""
+"截图失败。\r\n"
+"存储<I=BL>卡<I=TM>的写保护\r\n"
+"开关已锁定。"
+
+#: slot/0x005caf77/0x8b79b6/0xaa0c5c
+msgid ""
+"This game uses a Data Installation feature.\n"
+"Removing the Memory<I=BL>Stick<I=TM> or entering Sleep Mode during gameplay will temporarily disable access to installed game data.\n"
+"\n"
+"* Data Installation speeds up load times and enables audio for CODEC calls during gameplay.\n"
+"\n"
+"If the Data Installation feature is disabled, it can be  restored by returning to the Mission Select screen."
+msgstr ""
+"本游戏使用数据安装功能。\n"
+"游玩中拔出存储<I=BL>卡<I=TM>或进入睡眠模式，将暂时无法访问已安装的游戏数据。\n"
+"\n"
+"* 数据安装可加快读取速度，并启用游玩中 CODEC 通话的语音。\n"
+"\n"
+"若数据安装功能被禁用，返回任务选择画面即可恢复。"
+
+#: slot/0x005caf77/0x8b79b6/0xacdf21
+msgid "Unable to save."
+msgstr "无法保存。"
+
+#: slot/0x005caf77/0x8b79b6/0xb2a743
+msgid "Connecting to network..."
+msgstr "正在连接网络……"
+
+#: slot/0x005caf77/0x8b79b6/0xb9cf74
+msgid ""
+"Recovered from sleep mode.\n"
+"Data on the Memory<I=BL>Stick<I=TM> must now be updated. Exit menu and then enter it again."
+msgstr ""
+"已从睡眠模式恢复。\n"
+"必须更新存储<I=BL>卡<I=TM>上的数据。请退出菜单后重新进入。"
+
+#: slot/0x005caf77/0x8b79b6/0xbb65cf
+msgid ""
+"The Memory<I=BL>Stick<I=TM> is not inserted \n"
+"correctly. This game requires at least \n"
+"33MB of free space in order to save \n"
+"data."
+msgstr ""
+"存储<I=BL>卡<I=TM>未正确插入。\n"
+"本游戏至少需要\n"
+"33MB 可用空间才能保存\n"
+"数据。"
+
+#: slot/0x005caf77/0x8b79b6/0xbba0fd
+msgid ""
+"Saving... \n"
+"Do not remove the Memory<I=BL>Stick<I=TM> \n"
+"or turn off the power."
+msgstr ""
+"保存中……\n"
+"请勿拔出存储<I=BL>卡<I=TM>\n"
+"或关闭电源。"
+
+#: slot/0x005caf77/0x8b79b6/0xbdbae8
+msgid "Data is corrupt."
+msgstr "数据损坏。"
+
+#: slot/0x005caf77/0x8b79b6/0xbf8c25
+msgid ""
+"(不要)ゲームを続行することができません。\n"
+"タイトルに戻りますか？"
+msgstr ""
+"(不要)无法继续游戏。\n"
+"要返回标题画面吗？"
+
+#: slot/0x005caf77/0x8b79b6/0xc792ef
+msgid ""
+"Screenshot data saved under the following\r\n"
+"name:\r\n"
+"filenamefilenamefilenamefilenamefilename"
+msgstr ""
+"截图数据已保存为以下\r\n"
+"名称：\r\n"
+"filenamefilenamefilenamefilenamefilename"
+
+#: slot/0x005caf77/0x8b79b6/0xcd693c
+msgid ""
+"Data installation features failed to activate.\n"
+"Data may be corrupted. \n"
+"It is recommended that you reinstall from the DATA INSTALL menu on the title menu."
+msgstr ""
+"数据安装功能启动失败。\n"
+"数据可能已损坏。\n"
+"建议从标题菜单的 DATA INSTALL 重新安装。"
+
+#: slot/0x005caf77/0x8b79b6/0xd24e1f
+msgid ""
+"Failed to initialize data on the Memory<I=BL>Stick<I=TM>.\n"
+"Data may be corrupted."
+msgstr ""
+"无法初始化存储<I=BL>卡<I=TM>上的数据。\n"
+"数据可能已损坏。"
+
+#: slot/0x005caf77/0x8b79b6/0xd2e783
+msgid ""
+"Unable to save.\r\n"
+"Retry?"
+msgstr ""
+"无法保存。\r\n"
+"重试？"
+
+#: slot/0x005caf77/0x8b79b6/0xd34610
+msgid "The Memory<I=BL>Stick<I=TM> contains corrupt system data.  Would you like to select the data in order to delete it?  "
+msgstr "存储<I=BL>卡<I=TM>中存在损坏的系统数据。是否选择该数据将其删除？"
+
+#: slot/0x005caf77/0x8b79b6/0xe19f82
+msgid ""
+"A Memory<I=BL>Stick<I=TM> was inserted.\n"
+"Data on the Memory<I=BL>Stick<I=TM> must now be updated. Please exit the menu and then enter it again to update."
+msgstr ""
+"已插入存储<I=BL>卡<I=TM>。\n"
+"必须更新存储<I=BL>卡<I=TM>上的数据。请退出菜单后重新进入以更新。"
+
+#: slot/0x005caf77/0x8b79b6/0xe5e0de
+msgid "Would you like to select data files to delete?"
+msgstr "是否选择要删除的数据文件？"
+
+#: slot/0x005caf77/0x8b79b6/0xe605f1
+#: slot/0x00b9910a/0x21535e/0x612f50
+msgid "Yes"
+msgstr "是"
+
+#: slot/0x005caf77/0x8b79b6/0xe93c5e
+msgid "The VOCALOID data selected in your CO-OPS COMM settings could not be found on this Memory<I=BL>Stick<I=TM>.  The corresponding CO-OPS COMM settings have been restored to default."
+msgstr "在合作任务通讯设置中选择的 VOCALOID 数据未在此存储<I=BL>卡<I=TM>中找到。相应的合作任务通讯设置已恢复为默认值。"
+
+#: slot/0x005caf77/0x8b79b6/0xe93ea0
+msgid "\rSaved successfully."
+msgstr "保存成功。"
+
+#: slot/0x005caf77/0x8b79b6/0xf71dce
+msgid ""
+"(不要)メモリースティック™が抜かれたため、\n"
+"オートセーブ機能がOFFになっています。\n"
+"オートセーブ機能がONの状態でないと、\n"
+"サイバーバルをプレイすることは出来ません。\n"
+"\n"
+"オートセーブ機能をＯＮにします。\n"
+"よろしいですか？"
+msgstr ""
+"(不要)由于存储卡™被拔出，\n"
+"自动保存功能已关闭。\n"
+"若自动保存功能未开启，\n"
+"将无法游玩赛博瓦尔。\n"
+"\n"
+"将开启自动保存功能。\n"
+"确定吗？"
+
+#: slot/0x005caf77/0x8b79b6/0xf72ed6
+#: slot/0x00b9910a/0x21535e/0x2c27b5
+msgid "No"
+msgstr "否"
+
+#: slot/0x005caf77/0x8b79b6/0xffa130
+msgid ""
+"Insufficient free space on\r\n"
+"the Memory<I=BL>Stick<I=TM>. This game requires \r\n"
+"at least XXMB of free space in order \r\n"
+"to save data."
+msgstr ""
+"存储<I=BL>卡<I=TM>可用空间不足。\r\n"
+"本游戏至少需要\r\n"
+"XXMB 可用空间才能\r\n"
+"保存数据。"
+
+#: slot/0x005caf77/0x95e004/0x6d61f6
+msgid "Contains unusable characters.  The following characters are not allowed."
+msgstr "包含不可用字符。以下字符不被允许。"
+
+#: slot/0x005caf77/0xb4becf/0x3df22b
+msgid "Remove Board:<I=×>"
+msgstr "移除板：<I=×>"
+
+#: slot/0x005caf77/0xb4becf/0xaf002f
+#, c-format
+msgid "TIME + %02d"
+msgstr "时间 + %02d"
+
+#: slot/0x005d0a44/0x4f2958/0xf1b046
+msgid ""
+"Cutscene has been skipped. \n"
+"Please wait for other players to finish viewing the cutscene."
+msgstr ""
+"已跳过过场动画。\n"
+"请等待其他玩家看完过场动画。"
+
+#: slot/0x0062e635/0x830d61/0x000000
+msgid "Commence target practice!"
+msgstr "开始打靶训练！"
+
+#: slot/0x0062e635/0xab2802/0x000000
+msgid "Training excercise complete."
+msgstr "训练完成。"
+
+#: slot/0x0068bf67/0x7c7faa/0x0be9e1
+msgid "Select equipment."
+msgstr "选择装备。"
+
+#: slot/0x0068bf67/0x7c7faa/0x2f3ea0
+msgid "Select weapon."
+msgstr "选武器"
+
+#: slot/0x0068bf67/0x7c7faa/0x4ca424
+msgid "Select the weapons, equipment, outfit, and CO-OPS Comm. messages to use during the mission."
+msgstr "选择任务中使用的武器、装备、服装及合作任务通讯信息。"
+
+#: slot/0x0068bf67/0x7c7faa/0x545a31
+msgid "Select outfit."
+msgstr "选服装。"
+
+#: slot/0x0068bf67/0x7c7faa/0x658cd4
+msgid "Select character."
+msgstr "选择角色。"
+
+#: slot/0x0068bf67/0x7c7faa/0x743b1e
+msgid "SAND"
+msgstr "沙"
+
+#: slot/0x0068bf67/0x7c7faa/0x743b20
+msgid "JUNGLE "
+msgstr "丛林"
+
+#: slot/0x0068bf67/0x7c7faa/0x743b22
+msgid "CONCRETE"
+msgstr "水泥"
+
+#: slot/0x0068bf67/0x7c7faa/0x743b24
+msgid "SWAMP"
+msgstr "沼泽"
+
+#: slot/0x0068bf67/0x7c7faa/0x743b26
+msgid "TREE"
+msgstr "树"
+
+#: slot/0x0068bf67/0x7c7faa/0x743b28
+msgid "DIRT"
+msgstr "土"
+
+#: slot/0x0068bf67/0x7c7faa/0x743b2a
+msgid "ROCK"
+msgstr "石"
+
+#: slot/0x0068bf67/0x7c7faa/0x743b2c
+msgid "RUINS"
+msgstr "废墟"
+
+#: slot/0x0068bf67/0x7c7faa/0x85cccb
+msgid "DOWNLOADED UNIFORMS"
+msgstr "已下载制服"
+
+#: slot/0x0068bf67/0x7c7faa/0x955f7d
+msgid ""
+"Unable to acquire data.\n"
+"The Memory<I=BL>Stick<I=TM> is not inserted properly."
+msgstr ""
+"无法获取数据。\n"
+"存储<I=BL>卡<I=TM>未正确插入。"
+
+#: slot/0x0068bf67/0x7c7faa/0x9c651e
+#: slot/0x008aed23/0x94ae2b/0x83dc9a
+msgid "BACK: <I=CAN>"
+msgstr "返回: <I=CAN>"
+
+#: slot/0x0068bf67/0x7c7faa/0xa618eb
+msgid "Select preset CO-OPS Comm. messages."
+msgstr "选择预设合作通讯消息。"
+
+#: slot/0x0068bf67/0x7c7faa/0xeb30bc
+msgid ""
+"BACK: <I=CAN>\n"
+"UNEQUIP: <I=□>"
+msgstr ""
+"返回: <I=CAN>\n"
+"卸下: <I=□>"
+
+#: slot/0x00726933/0xdb8c41/0x02f683
+msgid "REQUEST ZEKE SONG CONVERSION"
+msgstr "请求吉克歌曲转换"
+
+#: slot/0x00726933/0xdb8c41/0x033a63
+msgid "Uploading VOCALOID data..."
+msgstr "上传VOCALOID数据..."
+
+#: slot/0x00726933/0xdb8c41/0x03e494
+msgid "There are no files selected."
+msgstr "未选择任何文件。"
+
+#: slot/0x00726933/0xdb8c41/0x04c8fc
+msgid "View, Delete, or Test additional content."
+msgstr "查看、删除或测试追加内容。"
+
+#: slot/0x00726933/0xdb8c41/0x057131
+msgid "REINSTALL SYSTEM DATA"
+msgstr "重装系统数据"
+
+#: slot/0x00726933/0xdb8c41/0x0aa00c
+msgid "ZEKE Voice (VOCALOID Edit)"
+msgstr "吉克语音（VOCALOID编辑）"
+
+#: slot/0x00726933/0xdb8c41/0x0b2b3b
+msgid "Conversion Request: CO-OPS Comms"
+msgstr "转换请求：合作通讯"
+
+#: slot/0x00726933/0xdb8c41/0x0d8fc6
+#: slot/0x00cba83b/0x029324/0xce5adc
+#: slot/0x00cbf8c0/0x77999c/0x16e84e
+msgid "Disconnected from the network."
+msgstr "已断开网络连接。"
+
+#: slot/0x00726933/0xdb8c41/0x0d8fc7
+msgid ""
+"Disconnected from the network.\n"
+"Returning to EXTRAS menu."
+msgstr ""
+"已断开网络连接。\n"
+"返回追加内容菜单。"
+
+#: slot/0x00726933/0xdb8c41/0x1129f7
+msgid "Use NetVOCALOID to edit and upload/download music."
+msgstr "使用NetVOCALOID编辑并上传/下载音乐。"
+
+#: slot/0x00726933/0xdb8c41/0x14f170
+#: slot/0x00726933/0xdb8c41/0x69c6f4
+msgid "Download complete."
+msgstr "下载完成。"
+
+#: slot/0x00726933/0xdb8c41/0x14f360
+msgid "SELECT/DESELECT: <I=□>"
+msgstr "选择/取消：<I=□>"
+
+#: slot/0x00726933/0xdb8c41/0x172d33
+msgid "Terms of Use"
+msgstr "使用条款"
+
+#: slot/0x00726933/0xdb8c41/0x1990bb
+msgid "The PASSCODE menu allows you to enter passcodes to get items and soldiers."
+msgstr "在密码菜单中可输入密码获取道具和士兵。"
+
+#: slot/0x00726933/0xdb8c41/0x1999d7
+msgid "DOWNLOAD CONVERTED DATA"
+msgstr "下载转换数据"
+
+#: slot/0x00726933/0xdb8c41/0x242594
+msgid "Download has been cancelled."
+msgstr "下载已取消。"
+
+#: slot/0x00726933/0xdb8c41/0x2447f6
+msgid "CO-OPS comm. (VOCALOID Edit)"
+msgstr "合作通讯（VOCALOID）"
+
+#: slot/0x00726933/0xdb8c41/0x27d002
+msgid "Start the download with the Confirm button."
+msgstr "按确认键开始下载。"
+
+#: slot/0x00726933/0xdb8c41/0x289f13
+msgid ""
+"Any already created Metal Gear ZEKE songs will be overwritten.\n"
+"Are you sure you want to proceed?"
+msgstr ""
+"已创建的合金装备·吉克歌曲将被覆盖。\n"
+"确定要继续吗？"
+
+#: slot/0x00726933/0xdb8c41/0x2b08a9
+msgid "Memory<I=BL>Stick<I=TM> does not contain a saved game that has progressed to the point where VOCALOID functions are unlocked."
+msgstr "存储<I=BL>摇杆<I=TM>中没有已解锁VOCALOID功能的存档。"
+
+#: slot/0x00726933/0xdb8c41/0x2b7591
+#: slot/0x00cba83b/0x029324/0x50e171
+#: slot/0x00cbf8c0/0x77999c/0x2715f9
+#: slot/0x00cbf8c0/0x77999c/0x2e8f2e
+#: slot/0x00cbf8c0/0x77999c/0x4fcfff
+msgid "An error has occurred."
+msgstr "发生错误。"
+
+#: slot/0x00726933/0xdb8c41/0x2b966a
+msgid "CANCEL: <I=CAN>"
+msgstr "取消：<I=CAN>"
+
+#: slot/0x00726933/0xdb8c41/0x2c75f9
+msgid "Enter a passcode."
+msgstr "输入密码。"
+
+#: slot/0x00726933/0xdb8c41/0x2d896e
+#: slot/0x00f1b9c2/0x43f3a5/0x2d896e
+msgid "The Memory<I=BL>Stick<I=TM> is protected."
+msgstr "存储<I=BL>摇杆<I=TM>已受保护。"
+
+#: slot/0x00726933/0xdb8c41/0x2e7750
+msgid "Data deleted."
+msgstr "已删除。"
+
+#: slot/0x00726933/0xdb8c41/0x2f2adb
+msgid ""
+"Are you sure you want to delete the selected content data?\n"
+"\n"
+"(Do not turn off the power, enter Sleep Mode, or remove the Memory<I=BL>Stick<I=TM> while deleting data.)"
+msgstr ""
+"确定要删除所选内容数据吗？\n"
+"\n"
+"（删除数据时请勿关闭电源、进入睡眠模式或拔出存储<I=BL>摇杆<I=TM>。）"
+
+#: slot/0x00726933/0xdb8c41/0x2f4789
+msgid "DISPLAY INFO: <I=△>"
+msgstr "信息：<I=△>"
+
+#: slot/0x00726933/0xdb8c41/0x2f478a
+msgid "PLAY/STOP (SOUND DATA ONLY): <I=△>"
+msgstr "播放/停止（仅声音数据）：<I=△>"
+
+#: slot/0x00726933/0xdb8c41/0x31f923
+msgid "NEWS"
+msgstr "新闻"
+
+#: slot/0x00726933/0xdb8c41/0x320235
+msgid "Downloading..."
+msgstr "下载中..."
+
+#: slot/0x00726933/0xdb8c41/0x32ead1
+msgid ""
+"Upload Metal Gear ZEKE voice data created with the\n"
+"VOCALOID Editor to the Voice Conversion Server."
+msgstr ""
+"将用VOCALOID编辑器制作的\n"
+"合金装备·吉克语音数据上传至语音转换服务器。"
+
+#: slot/0x00726933/0xdb8c41/0x33f654
+msgid "VIEW TERMS OF USE"
+msgstr "查看条款"
+
+#: slot/0x00726933/0xdb8c41/0x340cd9
+msgid "The MANAGE DATA menu allows you to manage additional content and reinstall system data."
+msgstr "管理数据菜单可管理追加内容并重装系统数据。"
+
+#: slot/0x00726933/0xdb8c41/0x34ffb4
+msgid "WALKMAN Song"
+msgstr "随身听歌曲"
+
+#: slot/0x00726933/0xdb8c41/0x3a07df
+msgid "CO-OPS comm."
+msgstr "合作任务通讯"
+
+#: slot/0x00726933/0xdb8c41/0x3a1c51
+msgid "VOCALOID Editor Data"
+msgstr "VOCALOID数据"
+
+#: slot/0x00726933/0xdb8c41/0x3b4266
+msgid "Service is not currently available."
+msgstr "服务当前不可用。"
+
+#: slot/0x00726933/0xdb8c41/0x3b4644
+#: slot/0x00726933/0xdb8c41/0xd28688
+msgid "VOCALOID EDITOR"
+msgstr "VOCALOID编辑"
+
+#: slot/0x00726933/0xdb8c41/0x3df7ea
+msgid "Verify/delete METAL GEAR SOLID PEACE WALKER data."
+msgstr "校验/删除合金装备：和平行者数据。"
+
+#: slot/0x00726933/0xdb8c41/0x41934f
+msgid "PREV"
+msgstr "上一页"
+
+#: slot/0x00726933/0xdb8c41/0x419a17
+msgid ""
+"Data upload complete.\n"
+"Please wait before trying to download the converted data.\n"
+"(Conversion will take approximately $1 minute(s).)"
+msgstr ""
+"数据上传完成。\n"
+"请稍候再尝试下载转换后的数据。\n"
+"（转换约需$1分钟。）"
+
+#: slot/0x00726933/0xdb8c41/0x42cf75
+msgid "Obtaining information..."
+msgstr "正在获取信息..."
+
+#: slot/0x00726933/0xdb8c41/0x4573c0
+msgid "REQUEST DATA CONVERSION"
+msgstr "请求数据转换"
+
+#: slot/0x00726933/0xdb8c41/0x45835a
+msgid "REQUEST ZEKE VOICE CONVERSION"
+msgstr "请求吉克语音转换"
+
+#: slot/0x00726933/0xdb8c41/0x46e31e
+msgid "Upload CO-OPS comm. data created with the VOCALOID Editor to the Voice Conversion Server."
+msgstr "将用VOCALOID编辑器制作的合作任务通讯数据上传至语音转换服务器。"
+
+#: slot/0x00726933/0xdb8c41/0x475fc1
+msgid "System Voice"
+msgstr "系统语音"
+
+#: slot/0x00726933/0xdb8c41/0x485958
+msgid "REQUEST CO-OPS COMM. CONVERSION"
+msgstr "请求合作任务通讯转换"
+
+#: slot/0x00726933/0xdb8c41/0x4b2b6d
+msgid "NetVOCALOID"
+msgstr "NetVOCALOID"
+
+#: slot/0x00726933/0xdb8c41/0x4cbd0e
+msgid "Conversion Request: WALKMAN Song"
+msgstr "转换请求：随身听歌曲"
+
+#: slot/0x00726933/0xdb8c41/0x502e83
+msgid "Download VOCALOID data."
+msgstr "下载VOCALOID数据。"
+
+#: slot/0x00726933/0xdb8c41/0x50d236
+msgid "Camouflage Data"
+msgstr "迷彩数据"
+
+#: slot/0x00726933/0xdb8c41/0x53e589
+msgid ""
+"Upload WALKMAN song data created with the VOCALOID\n"
+"Editor to the Voice Conversion Server."
+msgstr ""
+"将用VOCALOID编辑器制作的随身听歌曲数据\n"
+"上传至语音转换服务器。"
+
+#: slot/0x00726933/0xdb8c41/0x54d36e
+msgid "Select the additional content you want."
+msgstr "选择想要的追加内容。"
+
+#: slot/0x00726933/0xdb8c41/0x5508e7
+msgid ""
+"Select a save file to save passcode-acquired content.\n"
+"Each passcode can only be used once."
+msgstr ""
+"选择用于保存密码内容的存档。\n"
+"每个密码只能使用一次。"
+
+#: slot/0x00726933/0xdb8c41/0x5b35a4
+msgid "The EXTRAS menu allows you to access online content and manage Memory<I=BL>Stick<I=TM> data."
+msgstr "EXTRAS菜单可让您访问在线内容并管理Memory<I=BL>Stick<I=TM>数据。"
+
+#: slot/0x00726933/0xdb8c41/0x5d5a58
+msgid ""
+"Upload Metal Gear ZEKE song data created with the\n"
+"VOCALOID Editor to the Voice Conversion Server."
+msgstr ""
+"把VOCALOID编辑器制作的\n"
+"合金装备·吉克歌曲数据上传至语音转换服务器。"
+
+#: slot/0x00726933/0xdb8c41/0x5ed092
+msgid "Conversion Request: Metal Gear ZEKE Song"
+msgstr "转换请求：合金装备·吉克歌"
+
+#: slot/0x00726933/0xdb8c41/0x5f5740
+msgid "WALKMAN Data"
+msgstr "WALKMAN数据"
+
+#: slot/0x00726933/0xdb8c41/0x664d75
+msgid "AI Weapon Voice"
+msgstr "AI兵器语音"
+
+#: slot/0x00726933/0xdb8c41/0x66776f
+msgid "ENTER PASSCODE"
+msgstr "输入密码"
+
+#: slot/0x00726933/0xdb8c41/0x67496d
+msgid "KONAMI ID PORTAL"
+msgstr "KONAMI ID门户"
+
+#: slot/0x00726933/0xdb8c41/0x67b892
+msgid "Do you agree to these terms?"
+msgstr "是否同意这些条款？"
+
+#: slot/0x00726933/0xdb8c41/0x6ed83e
+msgid ""
+"There is not enough free space on the Memory<I=BL>Stick<I=TM>.\n"
+"You need at least $1KB of available space to save this data."
+msgstr ""
+"Memory<I=BL>Stick<I=TM>上没有足够的可用空间。\n"
+"您至少需要$1KB的可用空间才能保存此数据。"
+
+#: slot/0x00726933/0xdb8c41/0x70949e
+msgid "Connect to the network and use additional content."
+msgstr "连接网络并使用追加内容。"
+
+#: slot/0x00726933/0xdb8c41/0x731e67
+msgid "The MANAGE ADDITIONAL CONTENT menu allows you to View, Delete, or Test additional content."
+msgstr "在管理追加内容菜单中可查看、删除或测试追加内容。"
+
+#: slot/0x00726933/0xdb8c41/0x75664f
+msgid "REQUEST SYSTEM VOICE CONVERSION"
+msgstr "请求系统语音转换"
+
+#: slot/0x00726933/0xdb8c41/0x793e08
+msgid "WALKMAN Data (edit)"
+msgstr "WALKMAN数据（编辑）"
+
+#: slot/0x00726933/0xdb8c41/0x7a7d55
+msgid ""
+"The game in this data file has not progressed far enough to add\n"
+"new staff."
+msgstr ""
+"此数据文件的游戏进度不足，无法添加\n"
+"新队员。"
+
+#: slot/0x00726933/0xdb8c41/0x7a857e
+msgid "Downloading VOCALOID data..."
+msgstr "下载VOCALOID数据…"
+
+#: slot/0x00726933/0xdb8c41/0x7aedd4
+msgid "Return to the MANAGE DATA menu."
+msgstr "返回管理数据菜单。"
+
+#: slot/0x00726933/0xdb8c41/0x7b4474
+msgid "DOWNLOAD ADDITIONAL CONTENT"
+msgstr "下载追加内容"
+
+#: slot/0x00726933/0xdb8c41/0x80c6bc
+msgid "RETURN TO MANAGE DATA MENU"
+msgstr "返回管理数据菜单"
+
+#: slot/0x00726933/0xdb8c41/0x849fe4
+msgid "The WLAN/WIRELESS switch on the PSP<I=TM> system is not turned on."
+msgstr "PSP<I=TM>系统上的WLAN/WIRELESS开关未打开。"
+
+#: slot/0x00726933/0xdb8c41/0x8513a2
+msgid "Reinstall system data."
+msgstr "重装系统数据。"
+
+#: slot/0x00726933/0xdb8c41/0x85865d
+msgid "ZEKE Song (VOCALOID Edit)"
+msgstr "吉克歌曲（VOCALOID编辑）"
+
+#: slot/0x00726933/0xdb8c41/0x85fa79
+msgid "Return to the NETWORK menu."
+msgstr "返回网络菜单。"
+
+#: slot/0x00726933/0xdb8c41/0x897638
+msgid "Create/edit VOCALOID data."
+msgstr "创建/编辑VOCALOID数据。"
+
+#: slot/0x00726933/0xdb8c41/0x8a56bf
+msgid "Upload VOCALOID data."
+msgstr "上传VOCALOID数据"
+
+#: slot/0x00726933/0xdb8c41/0x8b1620
+msgid "Return to the top of the EXTRAS menu."
+msgstr "返回追加内容菜单顶部。"
+
+#: slot/0x00726933/0xdb8c41/0x8bd361
+msgid "RETURN TO NETWORK MENU"
+msgstr "返回网络菜单"
+
+#: slot/0x00726933/0xdb8c41/0x8d9559
+msgid "NETWORK"
+msgstr "网络"
+
+#: slot/0x00726933/0xdb8c41/0x8e2570
+msgid "Acquired [$1]."
+msgstr "获得[$1]。"
+
+#: slot/0x00726933/0xdb8c41/0x9127b4
+msgid "RETURN TO TITLE MENU"
+msgstr "返回标题菜单"
+
+#: slot/0x00726933/0xdb8c41/0x913254
+msgid ""
+"There is no system data for additional content.\n"
+"Select REINSTALL SYSTEM DATA from the MANAGE\n"
+"DATA menu to reinstall it."
+msgstr ""
+"没有追加内容的系统数据。\n"
+"请从数据管理菜单中选择重新安装\n"
+"系统数据以重新安装。"
+
+#: slot/0x00726933/0xdb8c41/0x91e1bf
+msgid "Read the latest news."
+msgstr "阅读最新消息。"
+
+#: slot/0x00726933/0xdb8c41/0x936e56
+msgid "Information"
+msgstr "信息"
+
+#: slot/0x00726933/0xdb8c41/0x93def0
+msgid "Read the Terms of Use."
+msgstr "阅读使用条款。"
+
+#: slot/0x00726933/0xdb8c41/0x943332
+msgid "The Memory<I=BL>Stick<I=TM> is not inserted properly."
+msgstr "记忆棒<I=BL>未正确插入<I=TM>。"
+
+#: slot/0x00726933/0xdb8c41/0x9453b2
+msgid "Are you sure you want to download the additional content selected in this tab?"
+msgstr "确定要下载此标签页中选定的追加内容吗？"
+
+#: slot/0x00726933/0xdb8c41/0x96c057
+msgid ""
+"Cannot use passcode. The maximum number of staff has already\n"
+"been reached in this data file."
+msgstr ""
+"无法使用密码。此数据文件中的\n"
+"人员数量已达上限。"
+
+#: slot/0x00726933/0xdb8c41/0x986d60
+msgid "ZEKE Voice"
+msgstr "吉克语音"
+
+#: slot/0x00726933/0xdb8c41/0x9a6dfc
+msgid "Select content."
+msgstr "选择内容。"
+
+#: slot/0x00726933/0xdb8c41/0x9db49b
+msgid "VOICE"
+msgstr "语音"
+
+#: slot/0x00726933/0xdb8c41/0x9db49c
+msgid "TEXTURES"
+msgstr "贴图"
+
+#: slot/0x00726933/0xdb8c41/0x9db49d
+msgid "METAL GEAR ZEKE"
+msgstr "合金装备·吉克"
+
+#: slot/0x00726933/0xdb8c41/0xac1f57
+#: slot/0x00726933/0xdb8c41/0xd33751
+msgid "?????"
+msgstr ""
+
+#: slot/0x00726933/0xdb8c41/0xacca20
+msgid "Conversion Request: System Voice"
+msgstr "转换请求：系统语音"
+
+#: slot/0x00726933/0xdb8c41/0xaff65f
+msgid ""
+"$1\n"
+"$2"
+msgstr ""
+
+#: slot/0x00726933/0xdb8c41/0xb01bc5
+msgid "ZEKE Song"
+msgstr "吉克歌曲"
+
+#: slot/0x00726933/0xdb8c41/0xb06b7a
+msgid "Conversion Request: Metal Gear ZEKE Voice"
+msgstr "转换请求：合金装备·吉克语音"
+
+#: slot/0x00726933/0xdb8c41/0xb1a144
+msgid "Service is no longer available."
+msgstr "服务已停止提供。"
+
+#: slot/0x00726933/0xdb8c41/0xb5f9bf
+msgid "Download converted VOCALOID data."
+msgstr "下载转换后VOCALOID数据"
+
+#: slot/0x00726933/0xdb8c41/0xbfe5fc
+msgid "MANAGE ADDITIONAL CONTENT"
+msgstr "管理追加内容"
+
+#: slot/0x00726933/0xdb8c41/0xc02773
+msgid "Download additional content."
+msgstr "下载追加内容。"
+
+#: slot/0x00726933/0xdb8c41/0xc11ff5
+msgid ""
+"Recruited volunteer [$2]\n"
+"wearing [$1] camouflage."
+msgstr ""
+"招募到身穿[$1]迷彩的\n"
+"志愿者[$2]。"
+
+#: slot/0x00726933/0xdb8c41/0xc16522
+msgid "DELETE: <I=DEC>"
+msgstr "删除:<I=DEC>"
+
+#: slot/0x00726933/0xdb8c41/0xc16523
+msgid "CONFIRM: <I=DEC>"
+msgstr "确认：<I=DEC>"
+
+#: slot/0x00726933/0xdb8c41/0xc2fc71
+msgid "The NETWORK menu allows you to download additional content and upload/download VOCALOID data."
+msgstr "NETWORK菜单可下载追加内容，并上传/下载VOCALOID数据。"
+
+#: slot/0x00726933/0xdb8c41/0xcdb3e1
+msgid "The DOWNLOAD menu allows you to download additional content, including music and camouflage."
+msgstr "DOWNLOAD菜单可下载追加内容，包括音乐和迷彩。"
+
+#: slot/0x00726933/0xdb8c41/0xceb481
+msgid ""
+"The data contains prohibited words or phrases.\n"
+"Are you sure you want to upload the data?\n"
+"(Prohibited words and phrases will automatically be replaced\n"
+"with other words.)"
+msgstr ""
+"数据中含有违禁词句。\n"
+"确定要上传该数据吗？\n"
+"（违禁词句将自动替换为\n"
+"其他词句。）"
+
+#: slot/0x00726933/0xdb8c41/0xd0c93d
+msgid "Magazine Data"
+msgstr "杂志数据"
+
+#: slot/0x00726933/0xdb8c41/0xd3c545
+msgid "WALKMAN Song (VOCALOID Edit)"
+msgstr "WALKMAN歌曲（VOCALOID编辑）"
+
+#: slot/0x00726933/0xdb8c41/0xd69fc4
+msgid "Service is currently undergoing maintenance."
+msgstr "服务正在维护中。"
+
+#: slot/0x00726933/0xdb8c41/0xe265e6
+msgid "REQUEST WALKMAN SONG CONVERSION"
+msgstr "请求转换WALKMAN歌曲"
+
+#: slot/0x00726933/0xdb8c41/0xe55b97
+msgid "Are you sure you want to delete the data selected in this tab?"
+msgstr "确定要删除此标签页中选中的数据吗？"
+
+#: slot/0x00726933/0xdb8c41/0xe55b98
+msgid ""
+"Content data deletion in progress.\n"
+"Do not turn off the power, enter Sleep Mode,  or remove the Memory<I=BL>Stick<I=TM> while deleting data."
+msgstr ""
+"正在删除内容数据。\n"
+"删除期间请勿关闭电源、进入休眠模式或取出Memory<I=BL>Stick<I=TM>。"
+
+#: slot/0x00726933/0xdb8c41/0xe6e5f1
+msgid ""
+"Upload system voice data created with the VOCALOID Editor\n"
+"to the Voice Conversion Server."
+msgstr ""
+"将VOCALOID Editor制作的系统语音数据\n"
+"上传至语音转换服务器。"
+
+#: slot/0x00726933/0xdb8c41/0xe8a158
+msgid "AI Weapon Voice (VOCALOID Edit)"
+msgstr "AI兵器语音（VOCALOID编辑）"
+
+#: slot/0x00726933/0xdb8c41/0xe8a4a0
+msgid "RETURN TO EXTRAS MENU"
+msgstr "返回EXTRAS菜单"
+
+#: slot/0x00726933/0xdb8c41/0xeeffb4
+msgid ""
+"The limit for this category of additional content has\n"
+"been reached. Go to the MANAGE DATA menu and delete\n"
+"data from the same category."
+msgstr ""
+"此类追加内容已达上限。\n"
+"请前往MANAGE DATA菜单删除\n"
+"同类数据。"
+
+#: slot/0x00726933/0xdb8c41/0xefc7f5
+msgid "MANAGE DATA"
+msgstr "MANAGE DATA"
+
+#: slot/0x00726933/0xdb8c41/0xf9c616
+msgid "System Voice (VOCALOID Edit)"
+msgstr "系统语音（VOCALOID编辑）"
+
+#: slot/0x00726933/0xdb8c41/0xfcfea3
+msgid ""
+"Downloading this content will overwrite\n"
+"$1.\n"
+"Are you sure you want to download this content?"
+msgstr ""
+"下载此内容将覆盖\n"
+"$1。\n"
+"确定要下载此内容吗？"
+
+#: slot/0x00726933/0xdb8c41/0xfd074a
+msgid "You can upload solider data."
+msgstr "可以上传士兵数据。"
+
+#: slot/0x00726933/0xdb8c41/0xfd3fd6
+msgid "SELECT: Display help"
+msgstr "SELECT:显示帮助"
+
+#: slot/0x00726933/0xdb8c41/0xfe44b8
+msgid "The NetVOCALOID menu allows you to create VOCALOID data, send a data voice conversion request, and download converted voice data."
+msgstr "NetVOCALOID菜单可创建VOCALOID数据、发送语音转换请求并下载转换后的语音数据。"
+
+#: slot/0x0074a6ca/0x19fb4c/0x1c63c5
+msgid "ARMORED VEHICLES"
+msgstr "装甲车辆"
+
+#: slot/0x0074a6ca/0x19fb4c/0x233641
+#: slot/0x0074a6ca/0xcc15c0/0x233641
+#: slot/0x0074a6ca/0xcc177c/0x233641
+msgid ""
+"OK: <I=DEC>  CANCEL: <I=CAN>\n"
+"MORE INFO: <I=△>"
+msgstr ""
+"确定: <I=DEC>  取消: <I=CAN>\n"
+"更多信息: <I=△>"
+
+#: slot/0x0074a6ca/0x19fb4c/0x341646
+msgid "HELICOPTERS"
+msgstr "直升机"
+
+#: slot/0x0074a6ca/0x19fb4c/0x412211
+#: slot/0x00a60c2a/0x78a26d/0x1e19c1
+#: slot/0x00a60c2a/0x78a26d/0x2c685e
+#: slot/0x00a60c2a/0x78a26d/0x3180c4
+msgid "Action Frequency"
+msgstr "行动频率"
+
+#: slot/0x0074a6ca/0x19fb4c/0x51ae23
+#: slot/0x00a60c2a/0x78a26d/0x1e19bc
+#: slot/0x00a60c2a/0x78a26d/0x2c6859
+#: slot/0x00a60c2a/0x78a26d/0x3180bf
+msgid "Attack Power"
+msgstr "攻击力"
+
+#: slot/0x0074a6ca/0x19fb4c/0x54754a
+msgid "TANKS"
+msgstr "坦克"
+
+#: slot/0x0074a6ca/0x19fb4c/0x63ba35
+msgid "View mechs acquired during missions. Damage is automatically repaired as you play missions."
+msgstr "查看任务中获得的机甲。执行任务时损伤会自动修复。"
+
+#: slot/0x0074a6ca/0x19fb4c/0x6648b8
+#: slot/0x0074a6ca/0xcc15c0/0x6648b8
+#: slot/0x0074a6ca/0xcc177c/0x6648b8
+msgid "Sort by $1"
+msgstr "按$1排序"
+
+#: slot/0x0074a6ca/0x19fb4c/0x8fe606
+msgid "ID Number"
+msgstr "ID编号"
+
+#: slot/0x0074a6ca/0x19fb4c/0xa0be37
+#: slot/0x0074a6ca/0xcc15c0/0x041a95
+#: slot/0x0074a6ca/0xcc177c/0x048995
+msgid "NAME"
+msgstr "名"
+
+#: slot/0x0074a6ca/0x19fb4c/0xbd968c
+#: slot/0x00a60c2a/0x78a26d/0x1e19bf
+#: slot/0x00a60c2a/0x78a26d/0x2c685c
+#: slot/0x00a60c2a/0x78a26d/0x3180c2
+#: slot/0x00a60c2a/0x78a26d/0x779016
+#: slot/0x00a60c2a/0x78a26d/0xb88116
+msgid "Defense"
+msgstr "防御"
+
+#: slot/0x0074a6ca/0x19fb4c/0xc2e376
+#: slot/0x00a60c2a/0x78a26d/0x1e19bd
+#: slot/0x00a60c2a/0x78a26d/0x2c685a
+#: slot/0x00a60c2a/0x78a26d/0x3180c0
+msgid "Attack Frequency"
+msgstr "攻击频率"
+
+#: slot/0x0074a6ca/0x19fb4c/0xcc1298
+msgid "REMOVE "
+msgstr "移除"
+
+#: slot/0x0074a6ca/0x19fb4c/0xcc766c
+#: slot/0x00a60c2a/0x78a26d/0x1e19c0
+#: slot/0x00a60c2a/0x78a26d/0x2c685d
+#: slot/0x00a60c2a/0x78a26d/0x3180c3
+msgid "Evasion"
+msgstr "回避"
+
+#: slot/0x0074a6ca/0x19fb4c/0xeeeeb7
+msgid "Remove the selected mech."
+msgstr "移除所选机体。"
+
+#: slot/0x0074a6ca/0x19fb4c/0xf58460
+#: slot/0x00a60c2a/0x78a26d/0x1e19be
+#: slot/0x00a60c2a/0x78a26d/0x2c685b
+#: slot/0x00a60c2a/0x78a26d/0x3180c1
+msgid "Accuracy"
+msgstr "精准"
+
+#: slot/0x0074a6ca/0x4f676b/0x0142ed
+msgid "Number produced per mission"
+msgstr "每次任务生产数量"
+
+#: slot/0x0074a6ca/0x4f676b/0x9a46f4
+msgid "Team level required to produce"
+msgstr "生产所需小队等级"
+
+#: slot/0x0074a6ca/0x82e3c9/0x12bdc1
+msgid "View the \"DEVELOP\" tutorial?"
+msgstr "查看“开发”教程？"
+
+#: slot/0x0074a6ca/0x82e3c9/0x23110a
+msgid "View other types of materials."
+msgstr "查看其他材料种类。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x615b11
+msgid "Develop items."
+msgstr "开发道具"
+
+#: slot/0x0074a6ca/0x82e3c9/0x63ba35
+msgid "View weapons and items developed by your staff and mechs acquired during missions."
+msgstr "查看队员开发的武器道具及任务中获得的机体。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x63d9cd
+msgid "View mechs."
+msgstr "看机体"
+
+#: slot/0x0074a6ca/0x82e3c9/0x641cf8
+msgid "Develop Metal Gear."
+msgstr "开发合金装备"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd13a
+msgid "About the \"DEVELOP\" menu"
+msgstr "关于“开发”菜单"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd15a
+msgid "At Mother Base, you can develop weapons and items to use in missions."
+msgstr "在母基地可开发任务中使用的武器与道具。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd17a
+msgid "To develop weapons, select \"WEAPONS.\""
+msgstr "开发武器请选“武器”"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd19a
+msgid "(不要)Lボタン・Rボタンで表示する武器のカテゴリーを切り替えることが出来ます。"
+msgstr "(不要)可用L键・R键切换显示的武器类别。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd1ba
+msgid "Weapons that have already been developed will be displayed as shown here with the weapon's icon."
+msgstr "已开发完成的武器会像这样显示武器图标。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd1da
+msgid "(不要)△ボタンで、その武器の詳細な性能を見ることが出来ます。"
+msgstr "(不要)按△键可查看该武器的详细性能。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd1fa
+msgid "This icon indicates that the weapon is ready to begin development."
+msgstr "此图标表示该武器可以开始开发。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd21a
+msgid "To begin development, you will need the amount of GMP (funds) shown here."
+msgstr "开始开发需要此处显示的GMP（资金）。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd23a
+msgid "Remember that development cannot proceed unless you have enough GMP."
+msgstr "请注意，GMP不足时无法进行开发。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd51a
+msgid "GMP is calculated based on the staff assigned to the Combat Unit."
+msgstr "GMP根据分配到战斗班的士兵计算。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd53a
+msgid "(不要)開発中の武器・アイテムは、開発の進行度が表示されます。"
+msgstr "开发中的武器和道具会显示开发进度。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd55a
+msgid ""
+"(不要)開発中の武器・アイテムを再度選択することで、\n"
+"開発を中止することが出来ます。"
+msgstr ""
+"再次选择开发中的武器或道具，\n"
+"即可中止开发。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd57a
+msgid "(不要)開発を中止すると使用したGMPを元に戻すことが出来ます。"
+msgstr "中止开发可返还已使用的GMP。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd59a
+#, c-format
+msgid ""
+"(不要)ただし、開発途中の武器の進行度は0%に戻ります。\n"
+"注意してください。"
+msgstr ""
+"但开发中的武器进度将归零。\n"
+"请注意。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd5ba
+msgid "This icon indicates that the weapon cannot be developed until additional requirements are met."
+msgstr "此图标表示需满足额外条件才能开发该武器。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd5da
+msgid "Press <I=DEC> button to view the requirements that must be met."
+msgstr "按<I=DEC>键查看需满足的条件。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd5fa
+msgid ""
+"In this case, it looks like the R&D Team's level is not high enough.\n"
+"You need to rescue soldiers during missions and assign them to the R&D team."
+msgstr ""
+"此时研发班等级似乎不够。\n"
+"需在任务中救出士兵并分配到研发班。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd61a
+msgid "(不要)未開発の武器でも、△ボタンで性能を見ることは出来ます。"
+msgstr "未开发的武器也可按△键查看性能。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd63a
+msgid "Develop more powerful weapons and items and use them to help you tackle more challenging missions."
+msgstr "开发更强的武器和道具，助你挑战更艰巨的任务。"
+
+#: slot/0x0074a6ca/0x82e3c9/0x7a5bce
+msgid "Develop weapons."
+msgstr "开发武器。"
+
+#: slot/0x0074a6ca/0xcc15c0/0x02f5fd
+#: slot/0x0074a6ca/0xcc177c/0x02f5fd
+msgid "Select quantity."
+msgstr "选择数量。"
+
+#: slot/0x0074a6ca/0xcc15c0/0x16193d
+#: slot/0x0074a6ca/0xcc177c/0x16193d
+msgid "Development cost"
+msgstr "开发费用"
+
+#: slot/0x0074a6ca/0xcc15c0/0x16193e
+#: slot/0x0074a6ca/0xcc177c/0x16193e
+msgid "$1 $2"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x1870c0
+msgid "Number"
+msgstr "数量"
+
+#: slot/0x0074a6ca/0xcc15c0/0x1a6cae
+msgid "Begin development of all equipment items ready for development."
+msgstr "开始开发所有可开发的装备。"
+
+#: slot/0x0074a6ca/0xcc15c0/0x1abcc1
+msgid "EQUIPMENT"
+msgstr "装备"
+
+#: slot/0x0074a6ca/0xcc15c0/0x1f476b
+#: slot/0x0074a6ca/0xcc177c/0x1f476b
+msgid "Pay the GMP development cost and begin development?"
+msgstr "支付GMP开发费用并开始开发？"
+
+#: slot/0x0074a6ca/0xcc15c0/0x2b1342
+#: slot/0x0074a6ca/0xcc177c/0x2b1342
+#, c-format
+msgid "Staff with [%s] skill"
+msgstr "拥有[%s]技能的士兵"
+
+#: slot/0x0074a6ca/0xcc15c0/0x30fcac
+#: slot/0x0074a6ca/0xcc177c/0x30fcac
+msgid "In development."
+msgstr "开发中。"
+
+#: slot/0x0074a6ca/0xcc15c0/0x408b29
+msgid "UNIFORMS"
+msgstr "制服"
+
+#: slot/0x0074a6ca/0xcc15c0/0x426d9a
+msgid "RECOVERY ITEMS"
+msgstr "回收道具"
+
+#: slot/0x0074a6ca/0xcc15c0/0x43d5c4
+msgid "Jump to the original specs for this item?"
+msgstr "跳转至该道具的原始规格？"
+
+#: slot/0x0074a6ca/0xcc15c0/0x473879
+msgid "RADARS"
+msgstr "雷达"
+
+#: slot/0x0074a6ca/0xcc15c0/0x4f7683
+#: slot/0x0074a6ca/0xcc177c/0x4f7683
+msgid "Canceling development will return any GMP spent back to you. Are you sure you want to cancel?"
+msgstr "取消开发将返还已消耗的GMP。确定要取消吗？"
+
+#: slot/0x0074a6ca/0xcc15c0/0x52c57c
+msgid "BULLETS"
+msgstr "子弹"
+
+#: slot/0x0074a6ca/0xcc15c0/0x58b0c8
+#: slot/0x0074a6ca/0xcc177c/0x58b0c8
+msgid "Development cost: $1 $2"
+msgstr "开发费用: $1 $2"
+
+#: slot/0x0074a6ca/0xcc15c0/0x5c7a78
+#: slot/0x0074a6ca/0xcc177c/0x5c7a78
+msgid ""
+"OK: <I=DEC>  CANCEL: <I=CAN>\n"
+"JUMP: <I=□>  MORE INFO: <I=△>"
+msgstr ""
+"确定: <I=DEC>  取消: <I=CAN>\n"
+"跳转: <I=□>  详情: <I=△>"
+
+#: slot/0x0074a6ca/0xcc15c0/0x62c6cf
+msgid "Cannot develop this item."
+msgstr "无法开发此物品。"
+
+#: slot/0x0074a6ca/0xcc15c0/0x63ba35
+msgid "Use the R&D Team to develop items. Select the item you wish to develop and pay the required GMP to begin development. As the R&D Team's level increases, they will be able to develop more powerful items at a faster pace."
+msgstr "使用研发班开发物品。选择要开发的物品并支付所需GMP即可开始开发。研发班等级越高，就能越快开发出更强的物品。"
+
+#: slot/0x0074a6ca/0xcc15c0/0x681038
+#: slot/0x0074a6ca/0xcc177c/0x681038
+msgid "Development has stalled."
+msgstr "开发已停滞。"
+
+#: slot/0x0074a6ca/0xcc15c0/0x68dd78
+#: slot/0x0074a6ca/0xcc177c/0x68dd78
+msgid "VIEWER: <I=△>"
+msgstr "查看: <I=△>"
+
+#: slot/0x0074a6ca/0xcc15c0/0x6c7a95
+msgid "Item Development Tree"
+msgstr "物品开发树"
+
+#: slot/0x0074a6ca/0xcc15c0/0x80fb28
+#: slot/0x0074a6ca/0xcc177c/0x80fb28
+msgid ""
+"Development has stalled because one\n"
+"or more requirements have not been met."
+msgstr ""
+"因未满足一项或多项条件，\n"
+"开发已停滞。"
+
+#: slot/0x0074a6ca/0xcc15c0/0x86f09c
+msgid "View rare items acquired during missions, ammo reserves, and uniforms collected."
+msgstr "查看任务中获得的稀有物品、弹药储备及收集的制服。"
+
+#: slot/0x0074a6ca/0xcc15c0/0x9a3a63
+#: slot/0x0074a6ca/0xcc177c/0x9a3a63
+msgid "Ready for development."
+msgstr "可以开发。"
+
+#: slot/0x0074a6ca/0xcc15c0/0x9f44d4
+#: slot/0x0074a6ca/0xcc177c/0xbb04d4
+msgid "DEVELOPMENT STATUS"
+msgstr "开发状态"
+
+#: slot/0x0074a6ca/0xcc15c0/0xb726f3
+#: slot/0x0074a6ca/0xcc177c/0xb726f3
+msgid ""
+"Development has stalled\n"
+"due to lack of GMP."
+msgstr ""
+"因GMP不足，\n"
+"开发已停滞。"
+
+#: slot/0x0074a6ca/0xcc15c0/0xb743f0
+#: slot/0x0074a6ca/0xcc177c/0xb743f0
+msgid "Cannot select due to material shortage."
+msgstr "材料不足，无法选择。"
+
+#: slot/0x0074a6ca/0xcc15c0/0xbf8b1b
+#: slot/0x0074a6ca/0xcc177c/0xbf8b1b
+#, c-format
+msgid "%s LV: %d or higher (current: %d)"
+msgstr "%s 等级: %d以上 (当前: %d)"
+
+#: slot/0x0074a6ca/0xcc15c0/0xcf4694
+msgid "KEY ITEMS"
+msgstr "关键物品"
+
+#: slot/0x0074a6ca/0xcc15c0/0xf71bd0
+#: slot/0x0074a6ca/0xcc177c/0xf71bd0
+msgid "Requirement"
+msgstr "条件"
+
+#: slot/0x0074a6ca/0xcc15c0/0xf7b8dc
+#: slot/0x0074a6ca/0xcc177c/0xf7b8dc
+#, c-format
+msgid "Requirement: %d"
+msgstr "条件: %d"
+
+#: slot/0x0074a6ca/0xcc177c/0x187438
+msgid "Ammunition Amount"
+msgstr "弹药数量"
+
+#: slot/0x0074a6ca/0xcc177c/0x1a6cae
+msgid ""
+"Preparation for development is complete.\n"
+"Are you sure you want to begin development on all available weapons?"
+msgstr ""
+"开发准备已完成。\n"
+"确定要开始开发所有可用武器吗？"
+
+#: slot/0x0074a6ca/0xcc177c/0x2bb1b5
+msgid "Damage"
+msgstr "伤害"
+
+#: slot/0x0074a6ca/0xcc177c/0x35a782
+#: slot/0x00a60c2a/0x78a26d/0x0c17a1
+#: slot/0x00a60c2a/0x78a26d/0xa9a1f3
+msgid "Firing Spread"
+msgstr "散布"
+
+#: slot/0x0074a6ca/0xcc177c/0x43d5c4
+msgid "Jump to the original specs for this weapon?"
+msgstr "是否跳转至该武器的原始规格？"
+
+#: slot/0x0074a6ca/0xcc177c/0x491953
+msgid "MISSILES"
+msgstr "导弹"
+
+#: slot/0x0074a6ca/0xcc177c/0x506f8f
+msgid "THROWING WEAPONS"
+msgstr "投掷武器"
+
+#: slot/0x0074a6ca/0xcc177c/0x62c6cf
+msgid "Cannot develop this weapon."
+msgstr "无法开发此武器。"
+
+#: slot/0x0074a6ca/0xcc177c/0x63ba35
+msgid "Use the R&D Team to develop weapons. Select the weapon you wish to develop and pay the required GMP to begin development. As the R&D Team's level increases, they will be able to develop more powerful weapons at a faster pace."
+msgstr "使用研发班开发武器。选择想开发的武器并支付所需GMP即可开始开发。研发班等级越高，就能越快开发出更强的武器。"
+
+#: slot/0x0074a6ca/0xcc177c/0x6c4b57
+msgid "HANDGUNS"
+msgstr "手枪"
+
+#: slot/0x0074a6ca/0xcc177c/0x6c4e8b
+msgid "Magazine Capacity"
+msgstr "杂志容量"
+
+#: slot/0x0074a6ca/0xcc177c/0x6ce995
+msgid "Weapon Development Tree"
+msgstr "武器开发树"
+
+#: slot/0x0074a6ca/0xcc177c/0x71905f
+msgid "SNIPER RIFLES"
+msgstr "狙击步枪"
+
+#: slot/0x0074a6ca/0xcc177c/0x745489
+msgid "MACHINE GUNS"
+msgstr "机枪"
+
+#: slot/0x0074a6ca/0xcc177c/0x759023
+msgid "PLACEABLE WEAPONS"
+msgstr "设置型武器"
+
+#: slot/0x0074a6ca/0xcc177c/0x8add10
+#: slot/0x00a60c2a/0x78a26d/0x0c179f
+#: slot/0x00a60c2a/0x78a26d/0xa9a1f1
+msgid "Stopping Power"
+msgstr "停止作用"
+
+#: slot/0x0074a6ca/0xcc177c/0x980903
+msgid "CLOSE-RANGE WEAPONS"
+msgstr "近战武器"
+
+#: slot/0x0074a6ca/0xcc177c/0x9c50f3
+msgid "SHOTGUNS"
+msgstr "霰弹"
+
+#: slot/0x0074a6ca/0xcc177c/0xa4c83f
+#: slot/0x00a60c2a/0x78a26d/0x0c17b8
+#: slot/0x00a60c2a/0x78a26d/0xa9a20a
+msgid "Camo Index"
+msgstr "迷彩"
+
+#: slot/0x0074a6ca/0xcc177c/0xa5822a
+msgid "ASSAULT RIFLES"
+msgstr "突击步枪"
+
+#: slot/0x0074a6ca/0xcc177c/0xd0dccc
+msgid "Rate of Fire"
+msgstr "射速"
+
+#: slot/0x0074a6ca/0xcc177c/0xd65dbe
+msgid "HELP: SELECT"
+msgstr "帮助：SELECT 键"
+
+#: slot/0x0074a6ca/0xcc177c/0xe7b90b
+msgid "Weight"
+msgstr "重量"
+
+#: slot/0x0074a6ca/0xcc177c/0xf9147d
+msgid "Cannot select due to shortage of ammo."
+msgstr "弹药不足，无法选择。"
+
+#: slot/0x0074a6ca/0xcc177c/0xfe2c05
+msgid "SUBMACHINE GUNS"
+msgstr "冲锋枪"
+
+#: slot/0x007b474a/0x03c205/0x03b163
+msgid "\"MOBILITY\" Memory Boards Obtained: $1"
+msgstr "已获得\"机动性\"存储板：$1"
+
+#: slot/0x007b474a/0x03c205/0x12c9a2
+msgid "\"Mobility\" Parts Obtained: $1"
+msgstr "已获\"机动性\"零件：$1"
+
+#: slot/0x007b474a/0x03c205/0x235e66
+msgid ""
+"You have been awarded a new insignia.\n"
+"\n"
+"$1\n"
+"\n"
+"\n"
+"$2"
+msgstr ""
+"获得新徽章。\n"
+"\n"
+"$1\n"
+"\n"
+"\n"
+"$2"
+
+#: slot/0x007b474a/0x03c205/0x24629c
+msgid ""
+"Obtained design specs for the following weapon/item:\n"
+"$1 $2 $3"
+msgstr ""
+"获得以下武器/道具的开发规格：\n"
+"$1 $2 $3"
+
+#: slot/0x007b474a/0x03c205/0x285030
+msgid ""
+"You obtained Paz's Diary Part 1.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+"获得帕兹的日记 第1部分。\n"
+"\n"
+"收听方法：选择任务，进入简报文件菜单，再选数据文件。\n"
+"*能否播放取决于\"主线任务\"进度。"
+
+#: slot/0x007b474a/0x03c205/0x285031
+msgid ""
+"You obtained Paz's Diary Part 2.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+"获得帕兹的日记 第2部分。\n"
+"\n"
+"收听方法：选择任务，进入简报文件菜单，再选数据文件。\n"
+"*能否播放取决于\"主线任务\"进度。"
+
+#: slot/0x007b474a/0x03c205/0x285032
+msgid ""
+"You obtained Paz's Diary Part 3.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+"获得帕兹的日记 第3部分。\n"
+"\n"
+"收听方法：选择任务，进入简报文件菜单，再选数据文件。\n"
+"*能否播放取决于\"主线任务\"进度。"
+
+#: slot/0x007b474a/0x03c205/0x285033
+msgid ""
+"You obtained Paz's Diary Part 4.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+"获得帕兹的日记 第4部分。\n"
+"\n"
+"收听方法：选择任务，进入简报文件菜单，再选数据文件。\n"
+"*能否播放取决于\"主线任务\"进度。"
+
+#: slot/0x007b474a/0x03c205/0x285034
+msgid ""
+"You obtained Paz's Diary Part 5.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+"获得帕兹的日记 第5部分。\n"
+"\n"
+"收听方法：选择任务，进入简报文件菜单，再选数据文件。\n"
+"*能否播放取决于\"主线任务\"进度。"
+
+#: slot/0x007b474a/0x03c205/0x285035
+msgid ""
+"You obtained Paz's Diary Part 6.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+"获得帕兹的日记 第6部分。\n"
+"\n"
+"收听方法：选择任务，进入简报文件菜单，再选数据文件。\n"
+"*能否播放取决于\"主线任务\"进度。"
+
+#: slot/0x007b474a/0x03c205/0x285036
+msgid ""
+"You obtained Paz's Diary Part 7.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+"获得帕兹的日记 第7部分。\n"
+"\n"
+"收听方法：选择任务，进入简报文件菜单，再选数据文件。\n"
+"*能否播放取决于\"主线任务\"进度。"
+
+#: slot/0x007b474a/0x03c205/0x285037
+msgid ""
+"You obtained Paz's Diary Part 8.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+"获得帕兹的日记 第8部分。\n"
+"\n"
+"收听方法：选择任务，进入简报文件菜单，再选数据文件。\n"
+"*能否播放取决于\"主线任务\"进度。"
+
+#: slot/0x007b474a/0x03c205/0x285038
+msgid ""
+"You obtained Paz's Diary Part 9.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+"获得帕兹的日记 第9部分。\n"
+"\n"
+"收听方法：选择任务，进入简报文件菜单，再选数据文件。\n"
+"*能否播放取决于\"主线任务\"进度。"
+
+#: slot/0x007b474a/0x03c205/0x28504f
+msgid ""
+"You obtained Paz's Diary Part 10.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+"获得帕兹的日记 第10部分。\n"
+"\n"
+"收听方法：选择任务，进入简报文件菜单，再选数据文件。\n"
+"*能否播放取决于\"主线任务\"进度。"
+
+#: slot/0x007b474a/0x03c205/0x2c004d
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"LEAF (fatigues)"
+msgstr ""
+"开发出新迷彩：\n"
+"\n"
+"LEAF（作战服）"
+
+#: slot/0x007b474a/0x03c205/0x2c004e
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"TIGER STRIPE (fatigues)"
+msgstr ""
+"开发出新迷彩：\n"
+"\n"
+"TIGER STRIPE（作战服）"
+
+#: slot/0x007b474a/0x03c205/0x2c004f
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"CHOCOLATE CHIP (fatigues)"
+msgstr ""
+"开发出新迷彩：\n"
+"\n"
+"CHOCOLATE CHIP（作战服）"
+
+#: slot/0x007b474a/0x03c205/0x2c0050
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"DESERT AUSCAM (fatigues)"
+msgstr ""
+"开发出新迷彩：\n"
+"\n"
+"DESERT AUSCAM（作战服）"
+
+#: slot/0x007b474a/0x03c205/0x2c0051
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"SQUARES (fatigues)"
+msgstr ""
+"开发出新迷彩：\n"
+"\n"
+"SQUARES（作战服）"
+
+#: slot/0x007b474a/0x03c205/0x2c0052
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"SPLITTER (fatigues)"
+msgstr ""
+"开发出新迷彩：\n"
+"\n"
+"SPLITTER（作战服）"
+
+#: slot/0x007b474a/0x03c205/0x2c0053
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"SNAKE (fatigues)"
+msgstr ""
+"开发出新迷彩：\n"
+"\n"
+"SNAKE（作战服）"
+
+#: slot/0x007b474a/0x03c205/0x2c0054
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"NEO-MOSS (fatigues)"
+msgstr ""
+"开发出新迷彩：\n"
+"\n"
+"NEO-MOSS（作战服）"
+
+#: slot/0x007b474a/0x03c205/0x2c0055
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"STENCH (fatigues)"
+msgstr ""
+"新迷彩开发完成：\n"
+"\n"
+"STENCH（作战服）"
+
+#: slot/0x007b474a/0x03c205/0x2c006c
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"TIGREX (fatigues)"
+msgstr ""
+"新迷彩开发完成：\n"
+"\n"
+"TIGREX（作战服）"
+
+#: slot/0x007b474a/0x03c205/0x2c006d
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"RATHALOS (fatigues)"
+msgstr ""
+"新迷彩开发完成：\n"
+"\n"
+"RATHALOS（作战服）"
+
+#: slot/0x007b474a/0x03c205/0x2c006e
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"GEAR REX (fatigues)"
+msgstr ""
+"新迷彩开发完成：\n"
+"\n"
+"GEAR REX（作战服）"
+
+#: slot/0x007b474a/0x03c205/0x2c006f
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"BATTLE DRESS (with helmet)"
+msgstr ""
+"新迷彩开发完成：\n"
+"\n"
+"BATTLE DRESS（含头盔）"
+
+#: slot/0x007b474a/0x03c205/0x2c0070
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"LEAF (naked)"
+msgstr ""
+"新迷彩开发完成：\n"
+"\n"
+"LEAF（裸装）"
+
+#: slot/0x007b474a/0x03c205/0x2c0071
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"TIGER STRIPE (naked)"
+msgstr ""
+"新迷彩开发完成：\n"
+"\n"
+"TIGER STRIPE（裸装）"
+
+#: slot/0x007b474a/0x03c205/0x2c0072
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"CHOCOLATE CHIP (naked)"
+msgstr ""
+"新迷彩开发完成：\n"
+"\n"
+"CHOCOLATE CHIP（裸装）"
+
+#: slot/0x007b474a/0x03c205/0x2c0073
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"DESERT AUSCAM (naked)"
+msgstr ""
+"新迷彩开发完成：\n"
+"\n"
+"DESERT AUSCAM（裸装）"
+
+#: slot/0x007b474a/0x03c205/0x2c0074
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"SQUARES (naked)"
+msgstr ""
+"新迷彩开发完成：\n"
+"\n"
+"SQUARES（裸装）"
+
+#: slot/0x007b474a/0x03c205/0x2c0075
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"SPLITTER (naked)"
+msgstr ""
+"新迷彩开发完成：\n"
+"\n"
+"SPLITTER（裸装）"
+
+#: slot/0x007b474a/0x03c205/0x2c008c
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"SNAKE (naked)"
+msgstr ""
+"新迷彩开发完成：\n"
+"\n"
+"SNAKE（裸装）"
+
+#: slot/0x007b474a/0x03c205/0x2c008d
+msgid ""
+"New uniform developed:\n"
+"\n"
+"TUXEDO"
+msgstr ""
+"新制服开发完成：\n"
+"\n"
+"TUXEDO"
+
+#: slot/0x007b474a/0x03c205/0x2c008e
+msgid ""
+"New uniform developed:\n"
+"\n"
+"MILLER"
+msgstr ""
+"新制服开发完成：\n"
+"\n"
+"MILLER"
+
+#: slot/0x007b474a/0x03c205/0x2c008f
+msgid ""
+"New uniform developed:\n"
+"\n"
+"AMANDA"
+msgstr ""
+"新制服开发完成：\n"
+"\n"
+"AMANDA"
+
+#: slot/0x007b474a/0x03c205/0x2c0090
+msgid ""
+"New uniform developed:\n"
+"\n"
+"SWIM TRUNKS"
+msgstr ""
+"新制服开发完成：\n"
+"\n"
+"SWIM TRUNKS"
+
+#: slot/0x007b474a/0x03c205/0x2c0091
+msgid ""
+"New uniform developed:\n"
+"\n"
+"BIKINI TOP"
+msgstr ""
+"新制服开发完成：\n"
+"\n"
+"BIKINI TOP"
+
+#: slot/0x007b474a/0x03c205/0x2c0092
+msgid ""
+"New uniform developed:\n"
+"\n"
+"T-SHIRT"
+msgstr ""
+"新制服开发完成：\n"
+"\n"
+"T-SHIRT"
+
+#: slot/0x007b474a/0x03c205/0x2c0093
+msgid ""
+"New uniform developed:\n"
+"\n"
+"SNEAKING SUIT"
+msgstr ""
+"新制服开发完成：\n"
+"\n"
+"SNEAKING SUIT"
+
+#: slot/0x007b474a/0x03c205/0x2c0094
+msgid ""
+"New uniform developed:\n"
+"\n"
+"BATTLE DRESS"
+msgstr ""
+"新制服开发完成：\n"
+"\n"
+"BATTLE DRESS"
+
+#: slot/0x007b474a/0x03c205/0x306594
+msgid "\"ATTACK\" Memory Boards Obtained: $1"
+msgstr "获得“ATTACK”存储板：$1"

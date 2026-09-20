@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PWSF slot 1/26\n"
+"Project-Id-Version: PWSF slot 1/24\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -8,21 +8,6 @@ msgstr ""
 "X-PWSF-Source: slot\n"
 "X-PWSF-Entries: 400\n"
 
-
-#: slot/0x0002eb62/0x596c56/0x000000
-msgid "PRISONER"
-msgstr "囚犯"
-
-#: slot/0x0006a8d5/0x20bac6/0x0140f7
-#: slot/0x001df209/0xe6e4ed/0xd56cf8
-#: slot/0x005a5b84/0x9c12db/0x953111
-#: slot/0x005a5b84/0x9c12db/0x97ea99
-#: slot/0x0074a6ca/0xcc15c0/0xb35d47
-#: slot/0x0074a6ca/0xcc177c/0xb35db6
-#: slot/0x007b474a/0x261769/0x01c517
-#: slot/0x00b96275/0x947b26/0x031e86
-msgid "NEW"
-msgstr "新"
 
 #: slot/0x0006a8d5/0x20bac6/0x684e0a
 msgid "New weapon obtained: $1"
@@ -280,11 +265,6 @@ msgid "PERSONNEL"
 msgstr "人事"
 
 #: slot/0x0006a8d5/0x20bac6/0xe46a9a
-#: slot/0x0006c8de/0x20dacf/0x73e998
-#: slot/0x0074a6ca/0x19fb4c/0x65d9ca
-#: slot/0x0074a6ca/0x82e3c9/0x65d9ca
-#: slot/0x0074a6ca/0xcc15c0/0x65d9ca
-#: slot/0x0074a6ca/0xcc177c/0x65d9ca
 #: slot/0x00a60c2a/0xe5eb98/0x3e104f
 msgid "R&D"
 msgstr "研发"
@@ -298,25 +278,17 @@ msgid "INTEL"
 msgstr "情报"
 
 #: slot/0x0006a8d5/0x20bac6/0xe46a9d
-#: slot/0x00140ca7/0x480f87/0x5416fc
 #: slot/0x00726933/0xdb8c41/0x9db49e
-#: slot/0x0074a6ca/0x82e3c9/0x031288
-#: slot/0x0074a6ca/0xcc15c0/0xbc6e29
 #: slot/0x008aed23/0x94ae2b/0xa9aaa1
 msgid "OTHER"
 msgstr "其他"
 
 #: slot/0x0006a8d5/0x20bac6/0xe46a9e
-#: slot/0x0015c941/0x5d8989/0xe63e9c
 #: slot/0x001df209/0xe6e4ed/0x512fb4
 #: slot/0x00726933/0xdb8c41/0x9db49f
-#: slot/0x0074a6ca/0x19fb4c/0xb98aa8
 #: slot/0x0074a6ca/0x19fb4c/0xbc635a
-#: slot/0x0074a6ca/0xcc15c0/0xe7971c
 #: slot/0x0074a6ca/0xcc15c0/0xff4421
 #: slot/0x0074a6ca/0xcc177c/0x1b0422
-#: slot/0x0074a6ca/0xcc177c/0xa3971e
-#: slot/0x0083b291/0x77a106/0xc209b7
 #: slot/0x008aed23/0x94ae2b/0xa999aa
 msgid "ALL"
 msgstr "全部"
@@ -364,10 +336,11 @@ msgstr "士兵已加入。"
 msgid ""
 "$3 parts were produced from\n"
 "$2 [$1]."
-msgstr "从\n$2 [$1]生产了$3个零件。"
+msgstr ""
+"从\n"
+"$2 [$1]生产了$3个零件。"
 
 #: slot/0x0006c8de/0x183317/0x2658e7
-#: slot/0x0006c8de/0x20dacf/0x4a905b
 msgid "RECRUIT"
 msgstr "招募"
 
@@ -384,26 +357,18 @@ msgstr "目前有大量队员在[待命室]闲置。将他们编入各小队，�
 msgid ""
 "Mechs are now available for viewing.\n"
 "Go to [R&D] > [MECH] to view them."
-msgstr "现在可以查看机甲了。\n前往[R&D] > [MECH]进行查看。"
+msgstr ""
+"现在可以查看机甲了。\n"
+"前往[R&D] > [MECH]进行查看。"
 
 #: slot/0x0006c8de/0x183317/0x34c2d7
-#: slot/0x0006c8de/0x20dacf/0xc20b93
 #: slot/0x00a60c2a/0xe5eb98/0x3e1051
-#: slot/0x00d9b1f3/0x1331ad/0x65d9ca
 msgid "DELIVERY"
 msgstr "配送"
 
 #: slot/0x0006c8de/0x183317/0x364960
 msgid "Bipedal tank is now ready for development from the [METAL GEAR] menu."
 msgstr "双足坦克现已可在[合金装备]菜单中开发。"
-
-#: slot/0x0006c8de/0x183317/0x36f772
-msgid "ASHI NO SOZAI"
-msgstr "腿部素材"
-
-#: slot/0x0006c8de/0x183317/0x37cda2
-msgid "ATAMA NO SOZAI"
-msgstr "头部素材"
 
 #: slot/0x0006c8de/0x183317/0x3a0a80
 msgid "A box has arrived!"
@@ -414,10 +379,6 @@ msgstr "箱子送达！"
 msgid "[%s] acquired. Use it in OUTER OPS."
 msgstr "获得[%s]。用于外线任务。"
 
-#: slot/0x0006c8de/0x183317/0x3d1714
-msgid "METAL GEAR ZEKE PARTS OBTAINED"
-msgstr "已获得合金装备·吉克部件"
-
 #: slot/0x0006c8de/0x183317/0x3d5e76
 #, c-format
 msgid "Memory board [%s] acquired."
@@ -426,10 +387,6 @@ msgstr "已获得存储板[%s]。"
 #: slot/0x0006c8de/0x183317/0x3dfeb5
 msgid "Transported to $2 due to $1."
 msgstr "因$1被送往$2。"
-
-#: slot/0x0006c8de/0x183317/0x3f3f09
-msgid "ARUKI NO SOZAI"
-msgstr "行走素材"
 
 #: slot/0x0006c8de/0x183317/0x4035cf
 msgid "A new weapon has been developed!"
@@ -456,8 +413,6 @@ msgid "The database is now available for viewing on the [DATABASE] menu."
 msgstr "数据库现可在[DATABASE]菜单中查看。"
 
 #: slot/0x0006c8de/0x183317/0x4ecfb7
-#: slot/0x0006c8de/0x20dacf/0xe048d1
-#: slot/0x0024c900/0x6c8948/0xd737cc
 msgid "TRADE"
 msgstr "换"
 
@@ -466,7 +421,6 @@ msgid "Terminating combat operations"
 msgstr "终止战斗行动"
 
 #: slot/0x0006c8de/0x183317/0x541d1a
-#: slot/0x002e0fee/0x1a3e77/0x21e5fd
 #: slot/0x002e0fee/0x1a3e77/0x4f12dd
 #: slot/0x008aed23/0x94ae2b/0x9ba58d
 #: slot/0x00dd0ea8/0x31a1fa/0xb6decf
@@ -495,22 +449,9 @@ msgstr "s%[s%]的开发已开始。"
 msgid "[Sickness]"
 msgstr "[疾病]"
 
-#: slot/0x0006c8de/0x183317/0x67fcd0
-msgid "WARNING"
-msgstr "警告"
-
 #: slot/0x0006c8de/0x183317/0x688396
 msgid "- $1 -"
 msgstr ""
-
-#: slot/0x0006c8de/0x183317/0x6bd910
-msgid "DOWNGRADE"
-msgstr "降级"
-
-#: slot/0x0006c8de/0x183317/0x6d6b3d
-#, c-format
-msgid "%d (MAX)"
-msgstr "%d (MAX)"
 
 #: slot/0x0006c8de/0x183317/0x72f8c5
 msgid "Metal Gear part acquired."
@@ -531,17 +472,20 @@ msgid ""
 "Mother Base can support your mission\n"
 "in many different ways, from developing\n"
 "new weapons to collecting intelligence."
-msgstr "欢迎来到MSF母基地！\n\n母基地可以从多方面\n支援你的任务，从开发\n新武器到收集情报。"
+msgstr ""
+"欢迎来到MSF母基地！\n"
+"\n"
+"母基地可以从多方面\n"
+"支援你的任务，从开发\n"
+"新武器到收集情报。"
 
 #: slot/0x0006c8de/0x183317/0x776005
 msgid ""
 "Metal Gear AI is now available for reference.\n"
 "Go to [METAL GEAR] to view it."
-msgstr "合金装备AI现已可供参考。\n前往[METAL GEAR]查看。"
-
-#: slot/0x0006c8de/0x183317/0x7f0cb9
-msgid "CHIKARA NO SOZAI"
-msgstr "CHIKARA NO SOZAI"
+msgstr ""
+"合金装备AI现已可供参考。\n"
+"前往[METAL GEAR]查看。"
 
 #: slot/0x0006c8de/0x183317/0x8157a7
 #, c-format
@@ -557,7 +501,6 @@ msgid "Food supplies are running low."
 msgstr "食物储备不足。"
 
 #: slot/0x0006c8de/0x183317/0x8eed1c
-#: slot/0x0006c8de/0x20dacf/0xd47de4
 msgid "SALVAGE"
 msgstr "打捞"
 
@@ -581,7 +524,9 @@ msgstr "已获武器。"
 msgid ""
 "VOCALOID has been installed on Metal Gear.\n"
 "Go to [METAL GEAR] to configure it."
-msgstr "VOCALOID已安装到合金装备。\n前往[METAL GEAR]进行配置。"
+msgstr ""
+"VOCALOID已安装到合金装备。\n"
+"前往[METAL GEAR]进行配置。"
 
 #: slot/0x0006c8de/0x183317/0xa51827
 msgid "Defected due to low morale."
@@ -601,9 +546,6 @@ msgstr "AI自定"
 
 #: slot/0x0006c8de/0x183317/0xb43eab
 #: slot/0x0006c8de/0x183317/0xd89b5d
-#: slot/0x0006c8de/0x20dacf/0x6a1478
-#: slot/0x002e0fee/0x1a3e77/0x65d9ca
-#: slot/0x0074a6ca/0x82e3c9/0x6a1478
 #: slot/0x00a60c2a/0xe5eb98/0x3e1052
 msgid "METAL GEAR"
 msgstr "合金装备"
@@ -645,7 +587,9 @@ msgstr "[PTSD]"
 msgid ""
 "The soldier was in $1 status upon arrival,\n"
 "and has been transferred to $2."
-msgstr "该士兵抵达时处于$1状态，\n已转至$2。"
+msgstr ""
+"该士兵抵达时处于$1状态，\n"
+"已转至$2。"
 
 #: slot/0x0006c8de/0x183317/0xc72972
 #, c-format
@@ -669,13 +613,17 @@ msgstr "因$1并发症死亡。"
 msgid ""
 "Parameters went up due\n"
 "to experience in Combat Unit."
-msgstr "在战斗班的经历使\n能力值提升。"
+msgstr ""
+"在战斗班的经历使\n"
+"能力值提升。"
 
 #: slot/0x0006c8de/0x183317/0xcbc2cb
 msgid ""
 "Accepted a volunteer.\n"
 "Rumors of MSF [Heroism] must be spreading."
-msgstr "接收一名志愿者。\nMSF[Heroism]传闻正扩散。"
+msgstr ""
+"接收一名志愿者。\n"
+"MSF[Heroism]传闻正扩散。"
 
 #: slot/0x0006c8de/0x183317/0xd0643d
 msgid "Joined as a volunteer under the [RECRUIT] program."
@@ -708,12 +656,10 @@ msgstr "道具开发已停止。"
 
 #: slot/0x0006c8de/0x183317/0xdeb2c6
 #: slot/0x001df209/0xe6e4ed/0x9b069d
-#: slot/0x005a5b84/0x9c12db/0x959ea6
 #: slot/0x005a5b84/0x9c12db/0xeccfa6
 #: slot/0x0068bf67/0x7c7faa/0x9b069d
 #: slot/0x00726933/0xdb8c41/0x4061ad
 #: slot/0x007b474a/0xff329e/0xf17d04
-#: slot/0x0083b291/0xff8cbc/0xda97e8
 #: slot/0x00cdd1c4/0xc6e14e/0xb4bbe3
 msgid "NEXT"
 msgstr "下一页"
@@ -730,7 +676,9 @@ msgstr "新道具已开发完成！"
 msgid ""
 "(不要)海中からの物資引き上げが可能になりました。\n"
 "『SALVAGE』より実行可能です。"
-msgstr "已可从海中回收物资。\n可在『SALVAGE』中执行。"
+msgstr ""
+"已可从海中回收物资。\n"
+"可在『SALVAGE』中执行。"
 
 #: slot/0x0006c8de/0x183317/0xe243f4
 msgid "Mother Base has expanded!"
@@ -768,15 +716,15 @@ msgstr "现已可从母基地发动支援打击。任务中使用特殊武器即
 msgid ""
 "Combat operations for the dispatched unit have ended.\n"
 "Unit may now be recalled from OUTER OPS."
-msgstr "派遣部队的战斗行动已结束。\n可从外线任务中召回部队。"
+msgstr ""
+"派遣部队的战斗行动已结束。\n"
+"可从外线任务中召回部队。"
 
 #: slot/0x0006c8de/0x183317/0xf1f03c
 msgid "A report has arrived from the Waiting Room."
 msgstr "待命室发来报告。"
 
 #: slot/0x0006c8de/0x183317/0xf30195
-#: slot/0x0006c8de/0x20dacf/0x804a52
-#: slot/0x0097f0b2/0xcd1d58/0x765dea
 #: slot/0x00a60c2a/0xe5eb98/0x3e1050
 msgid "OUTER OPS"
 msgstr "外线"
@@ -786,7 +734,6 @@ msgid "Recall dispatched units."
 msgstr "召回派遣部队。"
 
 #: slot/0x0006c8de/0x183317/0xfa393a
-#: slot/0x0006c8de/0x20dacf/0x295c8d
 msgid "DATABASE"
 msgstr "数据库"
 
@@ -858,14 +805,6 @@ msgstr "(不要)负责母基地的移动和海底物资的打捞。"
 msgid "TUTORIAL"
 msgstr "教程"
 
-#: slot/0x0006c8de/0x20dacf/0x281fdf
-#: slot/0x0081e50b/0x6420cf/0x6b4667
-#: slot/0x0097f0b2/0xbe101c/0xe0dd35
-#: slot/0x0097f0b2/0xcd1d58/0x4cfc13
-#: slot/0x0097f0b2/0xcd1d58/0xa37022
-msgid "MISSION"
-msgstr "任务"
-
 #: slot/0x0006c8de/0x20dacf/0x33bfbf
 msgid "Adjust game settings."
 msgstr "调整游戏设置。"
@@ -877,10 +816,6 @@ msgstr "确定要结束游戏并返回标题菜单吗？"
 #: slot/0x0006c8de/0x20dacf/0x3fcec5
 msgid "Metal Gear ZEKE is currently deployed on an OUTER OPS mission."
 msgstr "合金装备·吉克目前正在执行外线任务。"
-
-#: slot/0x0006c8de/0x20dacf/0x4adfde
-msgid "MISSION SELECTOR"
-msgstr "任务选择"
 
 #: slot/0x0006c8de/0x20dacf/0x4ce674
 msgid "The Intel Team carries out mission supply support and support strikes."
@@ -915,18 +850,9 @@ msgstr "母基地是支持MSF（无国界军队）行动的海上工厂。它提
 msgid "Develop Metal Gear ZEKE."
 msgstr "开发合金装备·吉克。"
 
-#: slot/0x0006c8de/0x20dacf/0x65d9ca
-#: slot/0x00a7d87b/0xfc51c8/0x15a2d7
-msgid "MOTHER BASE"
-msgstr "母基地"
-
 #: slot/0x0006c8de/0x20dacf/0x661129
 msgid "Save play data to a Memory<I=BL>Stick<I=TM>."
 msgstr "将游戏数据保存到存储<I=BL>卡<I=TM>。"
-
-#: slot/0x0006c8de/0x20dacf/0x6640e5
-msgid "SAVE"
-msgstr "保存"
 
 #: slot/0x0006c8de/0x20dacf/0x66e48f
 #: slot/0x00a60c2a/0xe5eb98/0x28a139
@@ -945,10 +871,6 @@ msgstr "搜索并连接无线局域网接入点，以招募新员工。"
 #: slot/0x0006c8de/0xc8d6fc/0xc0c63e
 msgid "Embark on a mission."
 msgstr "执行任务。"
-
-#: slot/0x0006c8de/0x20dacf/0x7819ff
-msgid "VERSUS OPS"
-msgstr "对战"
 
 #: slot/0x0006c8de/0x20dacf/0x78277a
 #: slot/0x00a60c2a/0xe5eb98/0x292139
@@ -976,14 +898,6 @@ msgstr "情报班"
 #: slot/0x0006c8de/0x20dacf/0x8919f3
 msgid "Play a match versus other players."
 msgstr "与其他玩家对战。"
-
-#: slot/0x0006c8de/0x20dacf/0x894487
-msgid "SYSTEM"
-msgstr "系统"
-
-#: slot/0x0006c8de/0x20dacf/0x8b510f
-msgid "LOG"
-msgstr "日志"
 
 #: slot/0x0006c8de/0x20dacf/0x926667
 msgid "Sick or injured soldiers will automatically be transported to the Sickbay."
@@ -1053,23 +967,12 @@ msgstr "查看/更改按键操作。"
 #: slot/0x005a5b84/0x9c12db/0x14bb57
 #: slot/0x005a5b84/0x9c12db/0x5f9088
 #: slot/0x0068bf67/0x7c7faa/0xca66e3
-#: slot/0x0074a6ca/0x4f676b/0x000a2b
-#: slot/0x0074a6ca/0xcc15c0/0xbb862f
-#: slot/0x0074a6ca/0xcc177c/0x998630
 #: slot/0x0081e50b/0x6420cf/0xdd4e99
-#: slot/0x0083b291/0x77a106/0x5e120a
 #: slot/0x0097f0b2/0x80a608/0x6387fd
 #: slot/0x0097f0b2/0x80a608/0xeb87f9
 #: slot/0x00d9af4c/0x1bed50/0x000a2b
-#: slot/0x00d9b1f3/0x1331ad/0x781917
 msgid "OK"
 msgstr "确定"
-
-#: slot/0x0006c8de/0x20dacf/0xac79ca
-#: slot/0x001df209/0xe6e4ed/0xb7fd8f
-#: slot/0x00f1b9c2/0x43f3a5/0x506452
-msgid "BUTTON CONFIG"
-msgstr "按键配置"
 
 #: slot/0x0006c8de/0x20dacf/0xaf3b0a
 #: slot/0x00a60c2a/0xe5eb98/0x2a2139
@@ -1079,11 +982,6 @@ msgstr "收发纸箱"
 #: slot/0x0006c8de/0x20dacf/0xb744ce
 msgid "View Mother Base status."
 msgstr "查看母基地状态。"
-
-#: slot/0x0006c8de/0x20dacf/0xb803be
-#: slot/0x00b96275/0x919326/0x65d9ca
-msgid "MOTHER BASE DATA"
-msgstr "母基地数据"
 
 #: slot/0x0006c8de/0x20dacf/0xc04756
 msgid "Send a Combat Unit to a conflict zone in need."
@@ -1142,13 +1040,10 @@ msgid ""
 "To trade staff, start by placing the staff\n"
 "you want to trade in the [Trade Waiting\n"
 "Room]."
-msgstr "要交易员工，请先将\n你想交易的员工放入[交易等候\n室]。"
-
-#: slot/0x0006c8de/0x20dacf/0xd14912
-#: slot/0x0015c941/0x5d8989/0x65d9ca
-#: slot/0x00a60c2a/0xe5eb98/0x3e104e
-msgid "STAFF"
-msgstr "士兵"
+msgstr ""
+"要交易员工，请先将\n"
+"你想交易的员工放入[交易等候\n"
+"室]。"
 
 #: slot/0x0006c8de/0x20dacf/0xd61e51
 #: slot/0x00726933/0xdb8c41/0x0858ef
@@ -1156,19 +1051,10 @@ msgstr "士兵"
 msgid "Return to the title menu."
 msgstr "返回标题菜单。"
 
-#: slot/0x0006c8de/0x20dacf/0xd620a9
-#: slot/0x00b96275/0x947b26/0x65d9ca
-msgid "PLAYER DATA"
-msgstr "玩家数据"
-
 #: slot/0x0006c8de/0x20dacf/0xda5151
 #: slot/0x0024c900/0x6c8948/0x8715d3
 msgid "Trade staff with other players."
 msgstr "与其他玩家交换士兵。"
-
-#: slot/0x0006c8de/0x20dacf/0xdc15d1
-msgid "TITLE"
-msgstr "标题"
 
 #: slot/0x0006c8de/0x20dacf/0xf00757
 msgid "You will need to supply sufficient provisions according to the size of your Mother Base staff. Your current food supply is represented by FOOD in the upper-right of the screen."
@@ -1191,14 +1077,6 @@ msgstr "士气过低时，士兵会逃亡，最终离开母基地。"
 #: slot/0x0006c8de/0x20dacf/0xf0075b
 msgid "Assigning adequate staff to the Mess Hall Team will ensure that everyone receives ample provisions."
 msgstr "为食堂班分配充足人员，可确保全员获得足够粮食。"
-
-#: slot/0x0006c8de/0x20dacf/0xf2afbf
-#: slot/0x001df209/0xe6e4ed/0x5da975
-#: slot/0x0083b291/0xff8cbc/0x20c8c4
-#: slot/0x00b9910a/0x2c4b0f/0x3bb333
-#: slot/0x00f1b9c2/0x43f3a5/0x2b2ea6
-msgid "OPTIONS"
-msgstr "选项"
 
 #: slot/0x0006c8de/0x20dacf/0xf951ca
 #: slot/0x00a60c2a/0xe5eb98/0x28a13a
@@ -1234,7 +1112,9 @@ msgstr "母基地报告"
 msgid ""
 "Return to Mother Base\n"
 "to receive reports."
-msgstr "返回母基地\n即可接收报告。"
+msgstr ""
+"返回母基地\n"
+"即可接收报告。"
 
 #: slot/0x0006c8de/0xc8d6fc/0x9164fe
 msgid "A special report has arrived."
@@ -1248,19 +1128,25 @@ msgstr "收到了一份人事报告。"
 msgid ""
 "\n"
 "MISSION COMPLETE"
-msgstr "\n任务完成"
+msgstr ""
+"\n"
+"任务完成"
 
 #: slot/0x0009325f/0xb23762/0x29e0fc
 msgid ""
 "\n"
 "TO BE CONTINUED IN THE NEXT MISSION...    "
-msgstr "\n下一任务待续..."
+msgstr ""
+"\n"
+"下一任务待续..."
 
 #: slot/0x0009325f/0xb23766/0x29e0fc
 msgid ""
 "\n"
 "MISSION COMPLETE    "
-msgstr "\n任务完成"
+msgstr ""
+"\n"
+"任务完成"
 
 #: slot/0x0009325f/0xb23781/0x29e0fc
 msgid "OPENING/INVESTIGATE THE SUPPLY FACILITY"
@@ -1776,3 +1662,95 @@ msgstr "[额外任务：078]"
 #: slot/0x0009325f/0xb2bf82/0x29e0fc
 msgid "[EXTRA OPS: 079]"
 msgstr "[额外任务：079]"
+
+#: slot/0x0009325f/0xb2bf83/0x29e0fc
+msgid "[EXTRA OPS: 080]"
+msgstr "[额外任务:080]"
+
+#: slot/0x0009325f/0xb2bf84/0x29e0fc
+msgid "[EXTRA OPS: 081]"
+msgstr "[额外任务:081]"
+
+#: slot/0x0009325f/0xb2bf85/0x29e0fc
+msgid "[EXTRA OPS: 082]"
+msgstr "[额外任务:082]"
+
+#: slot/0x0009325f/0xb2bf86/0x29e0fc
+msgid "[EXTRA OPS: 083]"
+msgstr "[额外任务:083]"
+
+#: slot/0x0009325f/0xb2bf87/0x29e0fc
+msgid "[EXTRA OPS: 084]"
+msgstr "[额外任务:084]"
+
+#: slot/0x0009325f/0xb2bf88/0x29e0fc
+msgid "[EXTRA OPS: 085]"
+msgstr "[额外任务:085]"
+
+#: slot/0x0009325f/0xb2bf89/0x29e0fc
+msgid "[EXTRA OPS: 086]"
+msgstr "[额外任务:086]"
+
+#: slot/0x0009325f/0xb2bf8a/0x29e0fc
+msgid "[EXTRA OPS: 087]"
+msgstr "[额外任务:087]"
+
+#: slot/0x0009325f/0xb2bfa1/0x29e0fc
+msgid "[EXTRA OPS: 088]"
+msgstr "[额外任务:088]"
+
+#: slot/0x0009325f/0xb2bfa2/0x29e0fc
+msgid "[EXTRA OPS: 089]"
+msgstr "[额外任务:089]"
+
+#: slot/0x0009325f/0xb2bfa3/0x29e0fc
+msgid "[EXTRA OPS: 090]"
+msgstr "[额外任务:090]"
+
+#: slot/0x0009325f/0xb2bfa4/0x29e0fc
+msgid "[EXTRA OPS: 091]"
+msgstr "[额外任务:091]"
+
+#: slot/0x0009325f/0xb2bfa5/0x29e0fc
+msgid "[EXTRA OPS: 092]"
+msgstr "[额外任务:092]"
+
+#: slot/0x0009325f/0xb2bfa6/0x29e0fc
+msgid "[EXTRA OPS: 093]"
+msgstr "[额外任务:093]"
+
+#: slot/0x0009325f/0xb2bfa7/0x29e0fc
+msgid "[EXTRA OPS: 094]"
+msgstr "[额外任务:094]"
+
+#: slot/0x0009325f/0xb2bfa8/0x29e0fc
+msgid "[EXTRA OPS: 095]"
+msgstr "[额外任务:095]"
+
+#: slot/0x0009325f/0xb2bfa9/0x29e0fc
+msgid "[EXTRA OPS: 096]"
+msgstr "[额外任务:096]"
+
+#: slot/0x0009325f/0xb2bfaa/0x29e0fc
+msgid "[EXTRA OPS: 097]"
+msgstr "[额外任务:097]"
+
+#: slot/0x0009325f/0xb2bfc1/0x29e0fc
+msgid "[EXTRA OPS: 098]"
+msgstr "[额外任务:098]"
+
+#: slot/0x0009325f/0xb2bfc2/0x29e0fc
+msgid "[EXTRA OPS: 099]"
+msgstr "[额外任务:099]"
+
+#: slot/0x0009325f/0xb2bfc3/0x29e0fc
+msgid "[EXTRA OPS: 100]"
+msgstr "[额外任务:100]"
+
+#: slot/0x0009325f/0xb2bfc4/0x29e0fc
+msgid "[EXTRA OPS: 101]"
+msgstr "[额外任务:101]"
+
+#: slot/0x0009325f/0xb2bfc5/0x29e0fc
+msgid "[EXTRA OPS: 102]"
+msgstr "[额外任务:102]"
