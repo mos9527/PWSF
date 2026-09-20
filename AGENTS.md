@@ -11,8 +11,13 @@ METAL GEAR SOLID PEACE WALKER (STEAM) 本土化工作
 - [x] 汉化管线闭环：`pwsf.po_lint` / `po_import` / `install`，见 `research/PLANS/06` §9
 - [ ] 可分发补丁 `pwsf.patch`，指示见 `README.md` §下一步 → `research/PLANS/07`
 - [ ] CODEC 回写：卡在 `briefing_insn_decode` 的 `case 0x10/0x20` 长度规则
-- [ ] 过场（漫画）文字【提取】：其余容器已逐个排除，卡在 `SLOT.DAT`
- （`002aba34.DAT`）的载荷编码，见 `research/ANALYSIS/08_cutscene_text.md`
+- [x] 过场（漫画）文字【提取】：`SLOT.DAT` 两层 XOR（MT + LCG）已破，2,137
+ 条记录全量解压；内嵌 144 张 `.olang` 表（其中 43 张是过场，英文 1,928 行）
+ → `_cutscene_lines.tsv` / `_slot_olang_lines.tsv`，见
+ `research/ANALYSIS/08_cutscene_text.md` §5.5 / §7
+- [ ] 过场文字【写回】：语料已进 .po（默认开），`pwsf.slotdat_build` 未实现；
+ 方案 = 重排池 + 重压 + 重建容器（实测文件反而小 36 KB），
+ 见 `research/PLANS/08_cutscene_writeback.md`
 
 # Layout
 ```

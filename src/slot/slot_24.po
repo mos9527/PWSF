@@ -1,0 +1,1627 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF slot 24/26\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: slot\n"
+"X-PWSF-Entries: 400\n"
+
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7c8
+msgid "Sandino's rebellion"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7c9
+msgid "Somoza"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7ca
+msgid "Sandino's assassination"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7cb
+msgid "The Managua Earthquake"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7cc
+msgid "Rio San Juan"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7cd
+msgid "Ometepe Island"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7ce
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7cf
+msgid "FSLN"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7e6
+msgid "General Sandino"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7e7
+msgid "The \"watermelon sellers\""
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7e8
+msgid "A revolution for peace"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7e9
+msgid "El Che"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7ea
+msgid "Enemy strength"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7eb
+msgid "Hombre Nuevo"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7ec
+msgid "Abduction"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7ed
+msgid "The CIA's strength"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7ee
+msgid "Claymore Mines"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7ef
+msgid "Relations with the U.S."
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dac6
+msgid "Plantations"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dac7
+msgid "Drugs"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dac8
+msgid "William Walker"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6daca
+msgid "Joining the FSLN"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dacb
+msgid "Malaria"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dacc
+msgid "Mi viejo"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dace
+msgid "Role at Mother Base"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dacf
+msgid "Decision time"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dae6
+msgid "Taking on the Armored Vehicle"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dae8
+msgid "Rescuing Chico"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dae9
+msgid "Prison Camp"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6daea
+msgid "Chasing the Jungle Train"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6daeb
+msgid "Destroy the Tank!"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6daec
+msgid "Destroying the Barricade"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6daed
+msgid "Sneaking into the Crater Base"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6daee
+msgid "The Fort"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6daef
+msgid "Stop the \"Pupa\" AI Weapon!"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db06
+msgid "Into the Tropical Cloud Forest"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db07
+msgid "Neutralize the Attack Chopper!"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db08
+msgid "To the Research Lab"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db09
+msgid "Find the ID Card!"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db0a
+msgid "Stop the \"Chrysalis\" AI Weapon!"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db0b
+msgid "Infiltrate the Mine Base"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db0c
+msgid "Neutralize the Guards"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db0d
+msgid "Stop the \"Cocoon\" AI Weapon!"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db0e
+msgid "Sneaking into the Underground Base"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db0f
+msgid "Escape the Prison!"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db26
+msgid "Heading for Peace Walker's Hangar"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db27
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df6c
+msgid "Fighting Peace Walker"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db28
+msgid "Chasing Metal Gear"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db29
+msgid "Infiltrating the American Missile Base"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db2a
+msgid "Fighting Peace Walker (Round 2)"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db2b
+msgid "Defending the base"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db2c
+msgid "Sabotage missions"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db2d
+msgid "Destroy All Kidnappers!"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db2e
+msgid "Evading Enemy Searches"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db2f
+msgid "Geographical Info"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db46
+msgid "Supply Staging Point"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db47
+msgid "River Valley"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db48
+msgid "The Real Basilisco"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db49
+msgid "Crater Area"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db4a
+msgid "The Loch Ness Monster"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db4b
+msgid "Nahuelito"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db4c
+msgid "Ogopogo"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db4d
+msgid "Mokèlé-mbèmbé"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db4e
+msgid "Tropical Cloud Forest"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db4f
+msgid "Bigfoot"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db66
+msgid "Mono Grande"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db67
+msgid "Ruins"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db68
+msgid "Kongamato"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db6a
+msgid "UFOs"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db6c
+msgid "Elbakki"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db6d
+msgid "UFO Photo"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db6e
+msgid "The Legend of Isla Del Monstruo"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db6f
+msgid "Isla Del Monstruo"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db86
+msgid "Trenya"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db87
+msgid "Felynes"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db8a
+msgid "Velocipreys"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db8d
+msgid "Restless Spirits"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db8e
+msgid "Ghost Photography"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db8f
+msgid "Photography Tips"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dba8
+msgid "Father"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dba9
+msgid "Quotes from Che"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbaa
+msgid "Frente Compas"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbac
+msgid "Love"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbad
+msgid "Puppy Love"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbae
+msgid "Paz's True Self"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbaf
+msgid "The Mystery of Paz's Actions"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbc6
+msgid "AI"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbc7
+msgid "What is AI?"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbc8
+msgid "How to ID an AI"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbc9
+msgid "The Turing Test"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbca
+msgid "Models for AI"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbcb
+msgid "AI and the female brain"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbcc
+msgid "The need for AI"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbcd
+msgid "Expert systems"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbce
+msgid "The future of AI"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbcf
+msgid "The \"Opposite Direction\" in AI Evolution"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbe6
+msgid "From pupa to butterfly"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbe7
+msgid "AI code names"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbe8
+msgid "\"The Ghost in the Machine\""
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbe9
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfae
+msgid "\"2001: A Space Odyssey\""
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbea
+msgid "The Boss"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbeb
+msgid "How Strangelove met The Boss"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbec
+msgid "Why she used torture"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbed
+msgid "The Boss's white horse"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbee
+msgid "The Boss and peace"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dec6
+msgid "The origin of \"Strangelove\""
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dec7
+msgid "Personal history"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dec9
+msgid "People"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6decb
+msgid "Cecile"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6decd
+msgid "Metal Gear ZEKE's AI"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dece
+msgid "A Different AI"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dee6
+msgid "AI lab"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dee7
+msgid "Facility and security"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dee8
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfab
+msgid "Dr. Strangelove"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dee9
+msgid "ID card"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6deea
+msgid "Costa Rican birds"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6deeb
+msgid "Birds in general"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6deec
+msgid "Cassette densuke"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6deed
+msgid "Quetzals"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6deee
+msgid "Mimicking animal calls"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6deef
+msgid "Hummingbirds"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df06
+msgid "Manakins"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df07
+msgid "Three-wattled Bellbird"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df08
+msgid "Clay-colored Robin"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df09
+msgid "Macaws"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df0d
+msgid "France"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df0e
+msgid "Paris"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df0f
+msgid "Foreign Legion"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df26
+msgid "National Anthem"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df27
+msgid "The Umbrellas of Cherbourg"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df28
+msgid "The Day of the Jackal"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df29
+msgid "Nuclear Tests"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df2a
+msgid "Sartre"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df2b
+msgid "Picasso"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df2c
+msgid "Macaroons"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df2d
+msgid "Wine"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df2e
+msgid "May 1968"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df2f
+msgid "Cold War and the Nuclear Arms Race"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df46
+msgid "The Manhattan Project"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df47
+msgid "Hiroshima and Nagasaki"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df48
+msgid "Cuban Missile Crisis"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df49
+msgid "The Space Race and the Cold War Arms Race"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df4b
+msgid "Nuclear Deterrence"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df4c
+msgid "Nuclear Deterrence Theory"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df4d
+msgid "Nuclear Terrorism"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df4e
+msgid "Damage from a Nuclear Missile"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df4f
+msgid "Metal Gear and Nuclear Weapons"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df67
+msgid "Peace Walker Project"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df68
+msgid "Mobile Nuclear Launch Platform"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df69
+msgid "Self-destruct Function"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df6a
+msgid "Tsar Bomba"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df6b
+msgid "Peace Walker's AI"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df6d
+msgid "Peace Walker with Mammal Pod"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df6e
+msgid "The Need for Bipedal Locomotion"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df6f
+msgid "The Fake \"Peace Walker\" Project"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df86
+msgid "The Reason for Launching a Real Nuke"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df87
+msgid "Soviet Research on Bipedal Locomotion"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df88
+msgid "Granin"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df89
+msgid "\"Metal Gear\""
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df8a
+msgid "Shagohod"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df8b
+msgid "Basilisk"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df8c
+msgid "The Two AI Pods"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df8d
+msgid "Reptile Pod"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df8e
+msgid "Mammal Pod"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df8f
+msgid "Transmitting Data to NORAD"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfa6
+msgid "An Oversight in the System"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfa8
+msgid "Electronic Cigarettes"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfa9
+msgid "Impact on Genes"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfac
+msgid "How Huey met Strangelove"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfad
+msgid "Letter to Strangelove"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfaf
+msgid "Taking Down the AI Weapons"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfc9
+msgid "Paz's Tape"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfca
+msgid "Between Two Women"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfcb
+msgid "Strangelove's Memories"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfcc
+msgid "A Chance Meeting"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfcd
+msgid "Joy"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfce
+msgid "Separation"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfcf
+msgid "Strangelove's Simulation"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfe6
+msgid "Operation Snake Eater Simulation"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfe7
+msgid "Paz's Diary"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfe8
+msgid "1st Entry"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfe9
+msgid "2nd Entry"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfea
+msgid "3rd Entry"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfeb
+msgid "4th Entry"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfec
+msgid "5th Entry"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfed
+msgid "6th Entry"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfee
+msgid "7th Entry"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfef
+msgid "8th Entry"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6e2c6
+msgid "9th Entry"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6e2c7
+msgid "10th Entry"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6e2c8
+msgid "The Boss's Final Mission"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6e2c9
+msgid "EVA's Debriefing"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6e2ca
+msgid "Message from EVA"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6e2cb
+msgid "Session 1"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6e2cc
+msgid "Session 2"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6e2cd
+msgid "Session 3"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6e2ce
+msgid "Session 4"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6e2cf
+msgid "Session 5"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6e2e6
+msgid "Session 6"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6e2e7
+msgid "Session 7"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6e2e8
+msgid "Secret File"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6e2e9
+msgid "The Phone Call"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000000
+msgid "Got room for two?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000007
+msgid "I misjudged you Snake... "
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000008
+msgid "That's too bad..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000009
+msgid "You wanna a picture of me?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00000a
+msgid "I'm ready for my close-up."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00000b
+msgid "Make sure you get a good shot of my muscles."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00000d
+msgid "You're making me blush."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00000e
+msgid "Those things don't have X-ray vision, do they?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00000f
+msgid "All right, knock it off."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000010
+msgid "Go ahead, there's plenty of me to see."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000011
+msgid "I've been waiting for you..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000012
+msgid "Maybe we were meant for each other..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000013
+msgid "Nice pecs."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000014
+msgid "Take me to heaven, Snake."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000017
+msgid "Nice one!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000018
+msgid "Back at ya!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000019
+msgid "Try this one!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00001b
+msgid "Nice shot!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00001c
+msgid "OK, you win..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000021
+msgid "Let me see that."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000022
+#: slot/0x00dff09b/0xaf8d11/0x000023
+#: slot/0x00dff09b/0xaf8d11/0x000024
+#: slot/0x00dff0a5/0xa84a6a/0x00001d
+#: slot/0x00dff0a5/0xa84a6a/0x00001e
+#: slot/0x00dff0a5/0xa84a6a/0x00001f
+#: slot/0x00dff0a5/0xa84a6a/0x000082
+msgid "(dummy. not used)"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000029
+msgid "I got...nothing...to hide..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00002a
+msgid "No skeletons...in my closet..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00002b
+msgid "OK, OK...there's one thing...I never told you..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00002c
+msgid "You were always...my..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00002e
+msgid "Not even for you, Boss..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00002f
+msgid "Snake...answer me, Snake...Snaaake!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000030
+msgid "Mom, your miso soup...always too salty..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000031
+msgid "Dad...I'm an American..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000032
+msgid "Stop it... I'm not that kind of guy..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000033
+msgid "Oh ho ho... Snake..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000035
+msgid "What's you problem?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000036
+msgid "You looking to get punched?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000039
+msgid "Felt that one...!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00003a
+msgid "Where you going?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00003b
+msgid "Settle down, pal."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00003d
+msgid "Nice shootin', Boss!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00003e
+msgid "I think I'm in love..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00003f
+msgid "Later, Snake. Now's not the time."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000040
+msgid ""
+"Why don't we have a chat instead,\n"
+"just the two of us?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000041
+msgid "Alright."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000042
+msgid "OK, I get it."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000043
+msgid "Yep. Our battle's just getting started."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000044
+msgid "That's right. We can do this!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000045
+msgid "Not ready to quit yet!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000046
+msgid "Any time you're ready!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000047
+msgid "Aww, Snake... You're gonna make me cry."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000048
+msgid "I'm with you."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000049
+msgid "I'm not gonna die on you."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00004a
+msgid "You too."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00004b
+msgid "Naturally."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00004c
+msgid "Look who's talking."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00004d
+msgid "Cut it out, you're making me blush."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00004e
+msgid "Not a problem!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00004f
+msgid "You sure?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000051
+msgid "Not gonna happen."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000053
+#: slot/0x00dff0a5/0xa84a6a/0x000058
+#: slot/0x00dff0a5/0xa84a6a/0x00006d
+#: slot/0x00dff0a5/0xa84a6a/0x000077
+msgid "Yeah..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000054
+msgid "Right!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000055
+msgid "Lay off. There's nobody else around."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000056
+msgid "But...why, Snake?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000057
+msgid "I'm going with you, Boss."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000058
+msgid "Glad to be with you, Boss..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000059
+msgid "You sure know how to kill a guy..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00005a
+msgid "I'm feeling your vibes, Boss!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00005b
+msgid "I'm feeling it, Boss!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00005c
+msgid "Watch this!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00005d
+msgid "Me too, Snake!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00005e
+msgid "Meow? Meow meow...?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00005f
+msgid "This is FANTASTIC!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000060
+msgid "Grub always tastes better when you're around."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000061
+msgid "OK, then, here I go!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000062
+msgid "Get better all the time!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000063
+msgid "Haidaraaaa!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000065
+msgid "You mean, in your arms?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000066
+msgid "You expect me to stay cool like this?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000067
+msgid "Yeah! I'm ready for some action!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000068
+msgid "Ha ha! Nature's telling us how badass we are!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000069
+msgid "That's just like you."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00006a
+msgid "Arigato!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00006b
+msgid "I'm here."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00006c
+msgid "That's cold, Snake."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00006d
+msgid "Haven't seen anybody."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00006e
+msgid "I don't believe in luck."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00006f
+msgid "Can't wait any longer!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000070
+msgid "No problems here."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000073
+msgid "C'mere!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000074
+msgid "I can still do it!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000075
+msgid "Good point..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000076
+msgid "Hey, come on now, we're friends aren't we?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000078
+msgid "I know, it's crazy, isn't it?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000079
+msgid "What's wrong, Boss?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00007a
+msgid "We're just getting warmed up."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00007b
+msgid "Nothing like that around here."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00007c
+msgid "You...you're kidding, right...?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00007d
+msgid "Where?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00007e
+msgid "I like you too."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00007f
+msgid "Oh, right, I'm sure."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000080
+msgid "Nothing to it."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000081
+msgid "This isn't like you."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000082
+msgid "I'm always watching you..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000083
+msgid "Sorry..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000084
+msgid "You talking about me?"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000085
+msgid "Any time!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000086
+msgid "You're the boss, Boss."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000088
+msgid "I'm not running from this."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000089
+msgid "Yeah, I...don't think we'd survive that."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00008a
+msgid "Snake, you..."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00008c
+msgid "If they're not gonna come, leave 'em alone."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00008d
+msgid "We can't afford to do that, either way."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00008e
+msgid "You're the Boss!"
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x00008f
+msgid "Vos means you."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000090
+msgid "You do that."
+msgstr ""
+
+#: slot/0x00dff09b/0xaf8d11/0x000091
+msgid "MSF is the only family I've got."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000000
+msgid "Room for one more?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000007
+msgid "I can't believe you."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000008
+msgid "..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000009
+msgid "You are going to take a picture of me?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00000a
+msgid "I... never look good in photos..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00000b
+msgid "I feel a little awkward... "
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00000c
+msgid "Hm? What is it?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00000d
+msgid "Cut it out."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00000e
+msgid "What are you looking at...?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00000f
+msgid "What is wrong with you!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000011
+msgid "What are you doing like that?!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000012
+msgid "Did you come here to swim? It is too dangerous."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000013
+msgid "Stay away from me."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000014
+msgid "You've got...quite a body."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000015
+msgid "Do not come any closer."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000016
+msgid "Stay away. I am really not comfortable with this."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00001a
+msgid "What's with that?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00001b
+msgid "You going to throw this away?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00001c
+msgid "You want to read this together?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000020
+msgid "What are you thinking!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000021
+msgid "What are you staring at!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000022
+msgid "Pervert!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000023
+msgid "Creep!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000024
+msgid "Are you that desperate?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000025
+msgid "Stop doing that, will you?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000029
+msgid "I'm not... hiding anything from you..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00002a
+msgid "Honest. You have to believe me!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00002b
+msgid "My name is... Paz... I... I love peace..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00002c
+msgid "Honestly, I..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00002d
+msgid "This hurts... Let me go..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00002e
+msgid "I... I stole some rations at Mother Base..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00002f
+msgid "Snake... Please..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000031
+msgid "Mmmm... Mmm..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000032
+msgid "Snake... You're..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000033
+msgid "Gallo pinto..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000034
+msgid "Yes, sir... I understand..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000035
+msgid "Snake... Your beard hurts..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000036
+msgid "I said no..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000039
+msgid "Can you please stop that?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00003c
+msgid "What's up?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00003d
+msgid "Where are you going?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00003e
+msgid "Wow."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00003f
+msgid "You're good."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000040
+msgid "Very cool..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000041
+msgid "You know, we are finally alone, Snake..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000042
+msgid "Why don't you leave the radio alone for now?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000043
+msgid "You don't want to talk to me?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000044
+msgid "Heh... Thanks."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000045
+msgid "Yeah, OK."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000046
+msgid "I don't... want to go back just yet either..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000047
+msgid "I want to... stay here together a little longer, too..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000048
+msgid "Do it? Do what?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00004a
+msgid "What? No way..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00004b
+msgid "Huh? What do you mean...?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00004c
+msgid "Thanks. Peace!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00004d
+msgid "Yeah, I am alright."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00004e
+msgid "I don't know about that..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00004f
+msgid "Sure!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000050
+msgid "Thanks. Peace."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000051
+msgid "Really? Oh, I'm so happy!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000052
+msgid "What is it, Snake?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000053
+#: slot/0x00dff0a5/0xa84a6a/0x000067
+msgid "I am not sleepy."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000054
+msgid "Good night..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000055
+msgid "Oh..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000057
+msgid "What am I going to do with you..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000059
+msgid "That is true."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00005a
+msgid "I am here, too."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00005b
+#: slot/0x00dff0a5/0xa84a6a/0x000061
+msgid "Yeah!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00005c
+msgid "What?! The enemy?! Where?!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00005e
+msgid "Sí. Thanks."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00005f
+msgid "What? Why...?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000062
+msgid "Meow? Meow meow meow...?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000063
+msgid "Sí, so delicious."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000064
+msgid "You do not like being with me...?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000068
+msgid "Wow... You are all fired up, huh!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000069
+msgid "Aaah! Lightning!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00006a
+msgid "What is that cover for?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00006c
+msgid "Congratulations."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00006e
+msgid "Over already?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00006f
+msgid "I am sorry..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000070
+msgid "No, it is OK."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000071
+msgid "Hehe... I am so happy..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000072
+msgid "Yeeeah... I don't think so..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000074
+msgid "Okie-doke!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000075
+msgid "What? It is nothing..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000076
+msgid "What is it? You OK?"
+msgstr ""

@@ -93,7 +93,9 @@ def po_comment(tag: str, text: str) -> str:
     return "\n".join(f"{tag} {line}" for line in text.splitlines() or [""])
 
 
-def write_po(path: Path, entries: list, part: str, source: str) -> None:
+def write_po(path: Path, entries: list, part: str, source: str,
+             translations: dict = None) -> None:
+    translations = translations or {}
     lines = [HEADER.format(part=part, source=source, count=len(entries))]
     for e in entries:
         block = []
@@ -104,7 +106,8 @@ def write_po(path: Path, entries: list, part: str, source: str) -> None:
         if e["flags"]:
             block.append("#, " + ", ".join(e["flags"]))
         block.append("msgid " + po_string(e["msgid"]))
-        block.append('msgstr ""')
+        msgstr = translations.get(e["msgid"], "")
+        block.append("msgstr " + (po_string(msgstr) if msgstr else '""'))
         lines.append("\n".join(block))
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text("\n\n".join(lines) + "\n", encoding="utf-8")
@@ -182,6 +185,62 @@ def collect_codec() -> list:
     return out
 
 
+def collect_slot(ref_langs=REF_LANGS, only=None) -> list:
+    """The olang tables embedded in SLOT.DAT (ANALYSIS/08 §5.7).
+
+    Source is `_slot_olang_lines.tsv`, the product of
+    research/TOOLS/_probe_slot25.py -- re-scanning the 544 MB container here
+    would cost a minute every run and produce exactly the same rows.
+
+    `only` = "cutscene" keeps just the comic-cutscene tables.
+
+    There is no write-back for these yet (`pwsf.slotdat_build` does not
+    exist), so this corpus is opt-in via --slot: exporting it into the default
+    run would produce entries the installer cannot apply.
+    """
+    from . import slotdat
+    unescape = slotdat.unescape
+
+    path = config.SLOT_OLANG_TSV
+    if not path.is_file():
+        raise SystemExit(f"{path} is missing; run "
+                         f"research/TOOLS/_probe_slot25.py first")
+    rows = path.read_text(encoding="utf-8").splitlines()
+    col = {n: i for i, n in enumerate(rows[0].split("\t"))}
+
+    agg = {}
+    order = []
+    for r in rows[1:]:
+        c = r.split("\t")
+        if len(c) <= col["text"]:
+            continue
+        tid = int(c[col["table_id"]], 0)
+        if only == "cutscene" and not slotdat.is_cutscene(tid):
+            continue
+        key = (tid, int(c[col["group"]], 0), int(c[col["entry"]], 0))
+        if key not in agg:
+            agg[key] = {}
+            order.append(key)
+        agg[key][c[col["lang"]]] = c[col["text"]]
+
+    out = []
+    for key in order:
+        by_lang = agg[key]
+        en = by_lang.get("en", "")
+        if not en.strip():
+            continue
+        comments = [f"{lang}: {by_lang[lang]}"
+                    for lang in ref_langs
+                    if by_lang.get(lang) and by_lang[lang] != en]
+        if slotdat.is_cutscene(key[0]):
+            comments.append("comic cutscene")
+        out.append(dict(
+            ref=f"slot/{key[0]:#010x}/{key[1]:#08x}/{key[2]:#08x}",
+            msgid=unescape(en), comments=comments, sort=key))
+    out.sort(key=lambda e: e["sort"])
+    return out
+
+
 def merge(records: list, do_merge: bool) -> list:
     """Collapse records that share an msgid, keeping every reference."""
     merged = OrderedDict()
@@ -204,6 +263,26 @@ def chunk(entries: list, size: int) -> list:
     return [entries[i:i + size] for i in range(0, len(entries), size)]
 
 
+def existing_translations(outdir: Path) -> dict:
+    """msgid -> msgstr from every .po already under `outdir`.
+
+    Re-exporting regenerates the whole tree, so without this every round
+    would throw away whatever has been translated so far.  Keyed on msgid
+    only: the exporter merges slots by msgid, and a source string that changed
+    simply misses and comes back empty, which is the safe failure.
+    """
+    from .po import parse_po
+
+    out = {}
+    if not outdir.is_dir():
+        return out
+    for p in sorted(outdir.rglob("*.po")):
+        for e in parse_po(p):
+            if e.msgid and e.msgstr and e.msgid not in out:
+                out[e.msgid] = e.msgstr
+    return out
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--outdir", type=Path, default=config.PO_DIR)
@@ -214,6 +293,13 @@ def main() -> None:
     ap.add_argument("--ref-langs", default="",
                     help="comma separated languages to include as #. reference "
                          "translations (default none, to keep files small)")
+    ap.add_argument("--slot", choices=("all", "cutscene", "none"),
+                    default="all",
+                    help="export the olang tables embedded in SLOT.DAT "
+                         "(default all; pwsf cannot install them yet, see "
+                         "ANALYSIS/08 §8.1)")
+    ap.add_argument("--fresh", action="store_true",
+                    help="do not carry over msgstr from the existing .po files")
     args = ap.parse_args()
     config.require_game()
 
@@ -227,6 +313,12 @@ def main() -> None:
     ref_langs = tuple(x.strip() for x in args.ref_langs.split(",") if x.strip())
     do_merge = not args.no_merge
     corpora = [("olang", collect_olang(ref_langs)), ("codec", collect_codec())]
+    if args.slot != "none":
+        corpora.append(("slot", collect_slot(ref_langs, args.slot)))
+
+    carry = {} if args.fresh else existing_translations(args.outdir)
+    if carry:
+        print(f"carrying over {len(carry)} existing translation(s)")
 
     manifest = ["file\tsource\tentries\trefs\tchars"]
     all_entries = []
@@ -238,7 +330,7 @@ def main() -> None:
               f"{' (merged)' if do_merge else ''} -> {len(parts)} files")
         for i, part in enumerate(parts, 1):
             fn = args.outdir / name / f"{name}_{i:02d}.po"
-            write_po(fn, part, f"{name} {i}/{len(parts)}", name)
+            write_po(fn, part, f"{name} {i}/{len(parts)}", name, carry)
             refs = sum(len(e["refs"]) for e in part)
             chars = sum(len(e["msgid"]) for e in part)
             manifest.append(f"{fn.relative_to(args.outdir)}\t{name}\t"
@@ -247,7 +339,7 @@ def main() -> None:
                   f"{refs:>4} slots, {chars:>6} chars")
 
     pot = args.outdir / "pwsf.pot"
-    write_po(pot, all_entries, "template", "olang+codec")
+    write_po(pot, all_entries, "template", "+".join(n for n, _ in corpora))
     (args.outdir / "MANIFEST.tsv").write_text("\n".join(manifest) + "\n",
                                               encoding="utf-8")
 

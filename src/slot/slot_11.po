@@ -1,0 +1,1728 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF slot 11/26\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: slot\n"
+"X-PWSF-Entries: 400\n"
+
+
+#: slot/0x00420130/0x8f1ffa/0x000001
+msgid "I have a girlfriend and I visit her every now and then..."
+msgstr ""
+
+#: slot/0x00420130/0x8f207a/0x000000
+msgid "Your... snoring keeps me up at night, Boss..."
+msgstr ""
+
+#: slot/0x00420130/0x8f2bfa/0x000000
+#: slot/0x00420130/0x8f2d7a/0x000000
+msgid "To be honest, I..."
+msgstr ""
+
+#: slot/0x00420130/0x8f2bfa/0x000001
+msgid "prefer colder climates..."
+msgstr ""
+
+#: slot/0x00420130/0x8f2c7a/0x000000
+msgid "I'm sorry, I..."
+msgstr ""
+
+#: slot/0x00420130/0x8f2c7a/0x000001
+msgid "I actually kinda prefer hunting to this..."
+msgstr ""
+
+#: slot/0x00420130/0x8f2cfa/0x000000
+msgid "Forgive me..."
+msgstr ""
+
+#: slot/0x00420130/0x8f2cfa/0x000001
+msgid "I have a test tomorrow, and..."
+msgstr ""
+
+#: slot/0x00420130/0x8f2cfa/0x000002
+msgid "I really should be studying for it..."
+msgstr ""
+
+#: slot/0x00420130/0x8f2d7a/0x000001
+msgid "I... didn't know much about you, Boss."
+msgstr ""
+
+#: slot/0x00420130/0x8f2d7a/0x000002
+msgid "Action games... aren't my thing..."
+msgstr ""
+
+#: slot/0x00420130/0x8f2dfa/0x000000
+msgid "I'm just getting started, and... "
+msgstr ""
+
+#: slot/0x00420130/0x8f2dfa/0x000001
+msgid "honestly I don't know if I can get the hang of it..."
+msgstr ""
+
+#: slot/0x00420130/0x8f2ffa/0x000000
+msgid "Wha?"
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000000
+#: slot/0x00472837/0x0a7cd6/0x000010
+#: slot/0x00472837/0x0a7cd6/0x000020
+#: slot/0x00483717/0x0a7cd6/0x000000
+#: slot/0x00483717/0x0a7cd6/0x00000a
+#: slot/0x00483717/0x0a7cd6/0x000014
+#: slot/0x0048f045/0x0a7cd6/0x000000
+#: slot/0x0048f045/0x0a7cd6/0x00000c
+#: slot/0x0048f045/0x0a7cd6/0x000018
+#: slot/0x00ce245c/0x0a7cd6/0x000000
+#: slot/0x00ce245c/0x0a7cd6/0x000022
+#: slot/0x00ce245c/0x0a7cd6/0x000044
+#: slot/0x00db94df/0xc4febe/0x000000
+msgid "Lock disengaged."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000001
+#: slot/0x00472837/0x0a7cd6/0x000011
+msgid "Chaingun."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000003
+#: slot/0x00472837/0x0a7cd6/0x000013
+#: slot/0x0052801a/0x0a7cd6/0x00001c
+msgid "Charging railgun."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000006
+msgid "Approaching target."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000007
+#: slot/0x00472837/0x0a7cd6/0x000017
+msgid "Launching Kidnappers."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000008
+msgid "Engaging attack mode."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000009
+#: slot/0x00472837/0x0a7cd6/0x000019
+msgid "Returning to normal mode."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x00000b
+msgid "Railgun malfunction detected. Commencing auto-repair."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x00000c
+msgid "Radome damage detected. Evasion ability reduced."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x00000f
+#: slot/0x00472837/0x0a7cd6/0x00001f
+msgid "Reinitializing."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000016
+msgid "Closing in."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000018
+msgid "Switching to attack mode."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x00001b
+msgid "Commencing auto-repair."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x00001c
+msgid "Radome damage detected."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000021
+msgid "Take this!!"
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000023
+msgid "I'll send you straight to hell!"
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000026
+msgid "There you are!"
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000027
+msgid "Fly, my Kidnappers!!"
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000028
+msgid "Attack mode."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000029
+msgid "Normal mode."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x00002b
+#: slot/0x0052801a/0x0a7cd6/0x000011
+#: slot/0x009d70da/0x271a1f/0x000000
+#: slot/0x009d70da/0x28ee1f/0x000000
+#: slot/0x009d70da/0x2ac21f/0x000000
+#: slot/0x00a57090/0x12908e/0x0000dd
+#: slot/0x00db94df/0x94ec80/0x000000
+#: slot/0x00dff0a5/0xa84a6a/0x000060
+msgid "What?!"
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x00002c
+msgid "Damn you!"
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x00002f
+msgid "Let's try that again."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000030
+#: slot/0x00a57090/0x12908e/0x0001f8
+msgid "Initiating capture."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000031
+msgid "Recalling Kidnappers."
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000032
+msgid "Recalling Kidnappers!"
+msgstr ""
+
+#: slot/0x00472837/0x0a7cd6/0x000033
+msgid "Kidnappers, come back!"
+msgstr ""
+
+#: slot/0x00483717/0x0a7cd6/0x000001
+#: slot/0x00483717/0x0a7cd6/0x00000b
+msgid "Emergency override complete. Reinitializing."
+msgstr ""
+
+#: slot/0x00483717/0x0a7cd6/0x000002
+#: slot/0x00483717/0x0a7cd6/0x00000c
+msgid "Missile target acquired."
+msgstr ""
+
+#: slot/0x00483717/0x0a7cd6/0x000003
+#: slot/0x00483717/0x0a7cd6/0x00000d
+msgid "Commencing area attack!"
+msgstr ""
+
+#: slot/0x00483717/0x0a7cd6/0x000004
+#: slot/0x00483717/0x0a7cd6/0x00000e
+#: slot/0x0052801a/0x0a7cd6/0x00002d
+msgid "Main cannon loaded."
+msgstr ""
+
+#: slot/0x00483717/0x0a7cd6/0x000005
+#: slot/0x00483717/0x0a7cd6/0x00000f
+msgid "Commencing sweep attack!"
+msgstr ""
+
+#: slot/0x00483717/0x0a7cd6/0x000006
+#: slot/0x00483717/0x0a7cd6/0x000010
+msgid "Eliminating threat."
+msgstr ""
+
+#: slot/0x00483717/0x0a7cd6/0x000007
+#: slot/0x00483717/0x0a7cd6/0x000011
+msgid "Thermostat malfunction detected."
+msgstr ""
+
+#: slot/0x00483717/0x0a7cd6/0x000008
+#: slot/0x00483717/0x0a7cd6/0x000012
+#: slot/0x00483717/0x0a7cd6/0x00001c
+msgid "Cooling complete. Reinitializing."
+msgstr ""
+
+#: slot/0x00483717/0x0a7cd6/0x000015
+#: slot/0x0048f045/0x0a7cd6/0x000020
+#: slot/0x0052801a/0x0a7cd6/0x000016
+#: slot/0x00ce245c/0x0a7cd6/0x000045
+msgid "It's not over yet!"
+msgstr ""
+
+#: slot/0x00483717/0x0a7cd6/0x000016
+msgid "You think I'll let you get away?"
+msgstr ""
+
+#: slot/0x00483717/0x0a7cd6/0x000017
+#: slot/0x0048f045/0x0a7cd6/0x00001b
+#: slot/0x0052801a/0x0a7cd6/0x00001a
+#: slot/0x00ce245c/0x0a7cd6/0x00004b
+msgid "Die!"
+msgstr ""
+
+#: slot/0x00483717/0x0a7cd6/0x000018
+msgid "This one is going to hurt...!"
+msgstr ""
+
+#: slot/0x00483717/0x0a7cd6/0x000019
+msgid "See how you like THIS!"
+msgstr ""
+
+#: slot/0x00483717/0x0a7cd6/0x00001a
+msgid "I'll smash you!"
+msgstr ""
+
+#: slot/0x00483717/0x0a7cd6/0x00001b
+msgid "Now I'm really pissed off…"
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x000001
+msgid "Shock output at maximum."
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x000002
+msgid "Target locked."
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x000003
+#: slot/0x0052801a/0x0a7cd6/0x00002a
+msgid "Engaging shock units."
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x000004
+msgid "Firing boosters."
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x000005
+msgid "Commencing jump."
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x000006
+msgid "Re–engaging target."
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x000008
+msgid "Auto-repair complete. Reinitializing."
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x00000d
+msgid "Shock output at maximum!"
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x00000e
+msgid "Target locked!"
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x00000f
+msgid "Engaging shock units!"
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x000010
+msgid "Firing boosters!"
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x000011
+msgid "Commencing jump!"
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x000012
+msgid "Re–engaging target!"
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x000014
+msgid "Auto-repair complete. Reinitializing!"
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x000019
+msgid "Time for you to DIE!"
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x00001a
+msgid "You think I'll let you get away?!"
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x00001d
+msgid "I'll crush you like an insect!"
+msgstr ""
+
+#: slot/0x0048f045/0x0a7cd6/0x00001e
+#: slot/0x00ce245c/0x0a7cd6/0x000065
+msgid "Bring it on."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x01487a
+msgid "My name is Paz, and I'll do anything to protect my namesake."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x0b58fc
+#, c-format
+msgid ""
+"70% of my existence is made of movies.\n"
+"It is up to you to decide what to do with the remaining 30%. "
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x255cf9
+msgid ""
+"My father worked on the Manhattan Project.\n"
+"In a lifetime of research, he produced two things. The illusion of peace through deterrence...\n"
+"And me and my useless legs.\n"
+"One way or the other, I had to face up to the nukes."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c631
+msgid "Give me any order you want. I'll make it happen."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c632
+msgid "I left my hometown and haven't looked back."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c633
+msgid "I'm good to go as long as I have three square meals."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c634
+msgid "I'm going to be taking a good look at your command style."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c635
+msgid "Male, female... I heard it doesn't matter out here. I heard you'll use us just the same."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c636
+msgid "What's your sidearm of choice? A handgun? Or, maybe a submachine gun?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c637
+msgid "I'm so sleepy..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c638
+msgid "I'll go berserk if my pay's late."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c639
+msgid "Just so you know, I'm only here to pay for my kid brother's education, so spare me the cheesy battlefield romance."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c650
+msgid "I caught a whiff of an ocean breeze..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c651
+msgid "I won't disappoint you, and that's a promise."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c652
+msgid "Can't say I'm impressed by anyone here. I guess I'll have to help you out."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c653
+msgid "I used to work in a kitchen. Whether it's guns or knives, just leave it to me."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c654
+msgid "Let's square off in the ring next chance we have!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c655
+msgid "You do have a good medic, don't you? I mean, people die all the time from minor wounds that get infected. You gotta have a good medic."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c656
+msgid "My mom was a fighter pilot."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c657
+msgid "I don't choose sides. Whoever needs me, that's where I go."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c658
+msgid "I'm prepared to die for you!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c659
+msgid "I like that look you have in your eyes, Boss!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c670
+msgid "I majored in quantum mechanics, and I'm continuing my studies on the side."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c671
+msgid "The sky's so blue again today."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c672
+#, c-format
+msgid "Did you know that 65% of the world's top assassins are women?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c673
+msgid "I may not look it, but I took third in a national weightlifting tournament."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c674
+msgid "I have a proven track record. No matter the mission, I'll deliver the goods."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c675
+msgid "Today is your lucky day. I'm going to join your unit!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c676
+msgid "My mother's in the hospital, so send me somewhere the pay's good. I don't care how dangerous it is."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c677
+msgid "Our rations include tea and scones, right?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c678
+msgid "So you're that Boss I heard about. It's an honor to meet you."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c679
+msgid "I smelled gallo pinto earlier. Is that what's for dinner?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c690
+msgid "I heard you train with unlimited live fire. That true?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c691
+msgid "If you're out of rations, why not have a snack instead? Like curry - mmm, can't get enough!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c692
+msgid "The more you use a certain weapon, the more of its natural power will be unleashed. Interesting... I'll have to remember that."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c693
+msgid "I don't like my hair to get messed up, but for you, I'll go fight."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c694
+msgid "Getting the highest clear rank means not killing, not being seen, and moving quickly. You can do it, Boss!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c695
+msgid "There's more than one way to \"neutralize\" somebody, right, Boss? You can knock 'em out with a stun rod, or put 'em to sleep with a tranq gun, or sneak up from behind and hold 'em up..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c696
+msgid "If it's taking too long to aim, switch to AUTO AIM. That's what's kept me alive all this time."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c697
+msgid "The \"3 Slot\" weapon select takes some getting used to, but once you get the hang of it, it's a cinch. And boy, is it deadly!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c698
+msgid "There's nothing like sleep for recovering LIFE! And if you can't sleep, lie down and stay still! Isn't that right, sir?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c699
+msgid "The more you use a weapon, the more of a feel you get for it. Eventually, it gets so it's almost a part of your body..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6b0
+msgid "Sometimes a single word to your comrades can change the course of a battle... Wow, Boss, you always see things the rest of us don't."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6b1
+msgid "You're never too busy to attend a briefing! See, Boss? I got it memorized!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6b2
+msgid "Sir, I like the M16A1 for its low recoil. What's your favorite weapon, Boss?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6b3
+msgid "You ever sneak up behind an enemy and ZAP 'em with the stun rod? Gives me the shivers every time!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6b4
+msgid "Life is all about experience! Come to think of it, I guess that goes for drills, too... ugghh, I hate drills..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6b5
+msgid "Do you believe in fate? Right now, I think I could."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6b6
+msgid "I believe in you, Boss. Under your command, gender means nothing."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6b7
+msgid "I just don't know what I'm good at... Can you tell what my skills are, Boss?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6b8
+msgid "Staring at me's not going to do anything. Penny for your thoughts, sir."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6b9
+msgid "Orders, Boss?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6d0
+msgid "I usually hate doing things for other people. But for you, Boss, I'll do anything."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6d1
+msgid "I always saw myself as a lone wolf. But I guess people's values can change pretty quick. Lord knows I've changed since I came here."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6d2
+msgid "I'm not the type to follow orders. Unless you're giving them, Boss."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6d3
+msgid "I'm burning for some action! Got a mission for me?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6d4
+msgid "I like it here. It's a nice place."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6d5
+msgid "Do you believe in horoscopes? Me, I only believe in you."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6d6
+msgid "What do you see in those eyes of yours...? Sorry, didn't mean to get personal."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6d7
+msgid "When things get tough, think of me. That might ease the pain a little."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6d8
+msgid "I can be kind of stubborn, but I'm a survivor, too."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6d9
+msgid "People say I'm a little CRRRRRAZY..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6f0
+msgid "I heard you're scared of vampires - is that true? Aww... that's actually kind of cute, Boss!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6f1
+msgid "Don't underestimate me because I'm a woman. We ladies can fight in ways you men can't!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6f2
+msgid "Oh... Boss..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6f3
+msgid "Give me a mission, and I'll do everything I can to get it done!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6f4
+msgid "Boss! Send me out into the field! I'm going crazy just sitting around here! My legs are starting to cramp up!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6f5
+msgid "Boss! Send me into the field! I promise I'll come back alive!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6f6
+msgid "Comrade-in-stealth... it's got a nice ring to it."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6f7
+msgid "You know, Commander Miller is actually kind of cute when he takes off those sunglasses."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x33c6f8
+msgid "My hobby is gardening."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374631
+msgid "I'm your man! Give me an order, I'll get it done!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374632
+msgid "I am hyped!! Let's do this!!!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374633
+msgid "Need a...helping hand?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374634
+msgid ""
+"I left some of my buddies behind on the last battlefield...\n"
+"You gonna give me the chance to make it up to them here?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374635
+msgid "I got a daughter. She's going to be 12 next year. I have to make it out of this alive!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374636
+msgid ""
+"I used to be a sailor. Best pair of eyes on the seas!\n"
+"Need someone who can see things a mile off?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374637
+msgid ""
+"I'm a weapons technician.\n"
+"You say weapons kill people?  I say they're needed to protect people."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374638
+msgid "Give me a mission, Boss!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374639
+msgid ""
+"I'm a martial arts expert - I know Combat Sambo and I'm a fifth degree black belt in karate!\n"
+"CQC? This I gotta see!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374650
+msgid "My grandpa was a mechanic. I can take an air-cooled engine apart in five minutes flat!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374651
+msgid ""
+"I got back from Vietnam and found I had no place to call home anymore...\n"
+"Mind if I stick with you guys for a while?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374652
+msgid "I went through hell in 'Nam... I'm ready for anything!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374653
+msgid ""
+"I was an Officer Candidate. Not much combat experience, but I speak seven languages.\n"
+"There's got to be some use for me here."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374654
+msgid ""
+"Need a dentist?\n"
+"Back in my dad's day, every army battalion had its own dentist."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374655
+msgid ""
+"Costa Rica is full of swamps... make sure we got a good supply of dry socks.\n"
+"The last thing we need are fungal infections."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374656
+msgid "You're good. Better than I expected."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374657
+msgid "As much as I hate to say it, it's war that gives us our greatest breakthroughs in science and technology."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374658
+msgid "I know it takes more than weapons to make us strong and all, but at least give us some decent gear, alright? "
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374659
+msgid ""
+"Heh... Imagine. If only we had a guy like you running the country...\n"
+"Maybe my village wouldn't have been burned to the ground."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374670
+msgid "You look like you'll come in handy. I guess I'll stick around and help you out."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374671
+msgid ""
+"Gotta get your hands dirty to win a war...\n"
+"You know what I'm talking about, right?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374672
+msgid "We can do better than this."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374673
+msgid ""
+"You? A sneaking master?! Are you kidding me?\n"
+"I can smell the gunpowder on you a mile away!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374674
+msgid "I can smell it... The smell of blood...  Lots of blood..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374675
+msgid "Ready when you are, Boss."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374676
+msgid "Well, I've earned MY check... Time for a nap..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374677
+msgid "Guns kill people? Bro, sometimes guns are the only things that save lives."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374678
+msgid ""
+"I used to be a world-class gymnast, you know.\n"
+"'Course, when it comes to a war, pride and glory don't mean a hell of a lot."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374679
+msgid "When this fight's over, I'm gonna go back home and find myself a wife..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374690
+msgid "I still haven't made up my mind about you yet."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374691
+msgid "I can tell that you're not in this 'cause you like the smell of hot lead. Am I right?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374692
+msgid "Just so you know, the more praise I get, the better I do."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374693
+msgid "Drinks later? It's on me."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374694
+msgid "Think you can take advantage of my skills?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374695
+msgid "Balls to the wall, boys!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374696
+msgid "Let's see, my horoscope says today's going to be... OK, I guess."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374697
+msgid "C'mon, give me a mission! My rifle's getting all rusty!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374698
+msgid "Things are never better than when they're ordinary."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374699
+msgid "I... I don't wanna fight. I wanna be a cook."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746b0
+msgid "Hey Boss, at dinner do you eat your favorite food first, or save it for last?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746b1
+msgid "You're like a knife out of its sheath, you know that?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746b2
+msgid "My muscles never fail me."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746b3
+msgid "(I'm too shy to talk to people... I believe in you, Boss...)"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746b4
+msgid "We're gonna make a name for ourselves!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746b5
+msgid "Look, Boss! I caught a male Elephant Beetle, the world's heaviest insect!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746b6
+msgid "Happy to be on board with you, Boss."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746b7
+msgid "It's good to have comrades...especially on the battlefield."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746b8
+msgid "Don't worry, I got your back!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746b9
+msgid "Boss, if there's anything I can do to help make our technology better, I'll do it."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746d0
+msgid "Good eats everyday!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746d1
+msgid ""
+"You want to know how to raise morale around here?\n"
+"Simple! Give us letters from our folks. And hot meals - can't fight on an empty stomach!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746d2
+msgid "It's a real honor fighting with you..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746d3
+msgid "Sometimes, I get to thinking. What is human life in the face of truly great scientific research?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746d4
+msgid "Welcome back! I made something new for dinner today - want to try some?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746d5
+msgid "You're one smart customer, man!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746d6
+msgid "I'm former SAS... what you think I'm B.S.-ing you?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746d7
+msgid "I'm proud to be counted as one of your comrades, Boss!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746d8
+msgid "I...I can't believe I'm actually meeting you in person, Boss!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746d9
+msgid "(Just between you and me, I'm the guy who keeps MSF together...)"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746f0
+msgid "You stay here. I'll have this next mission wrapped up in no time."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746f1
+msgid "This mission's nothing. I could do it with my eyes closed."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746f2
+msgid "Boss, I've been meaning to tell you... nah, forget it. It's nothing."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746f3
+msgid "I owe you one. Guess I better come with you."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746f4
+msgid "Who'd have thought being stealthy could be such a thrill..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746f5
+msgid "I actually kind of like the way you fight."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746f6
+msgid ""
+"I'll show you how to get it done the smart way!\n"
+"That's the kind of guy I am!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746f7
+msgid ""
+"Back home, I'm a pretty well-known journalist.\n"
+"I'm going to write your story and tell everybody how you lived."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746f8
+msgid "You look prettier every time I see you."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x3746f9
+msgid "Wish I could have met you sooner..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374710
+msgid "Listen, I never actually hated you..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374711
+msgid "It's all about the food. Give most guys a good meal and they won't complain. "
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374712
+msgid "When this battle's over, I'm going to get my life together..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374713
+#, c-format
+msgid "Don't worry, my cooking's 100% safe for human consumption."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374714
+msgid "I've...never been in a real fight before..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374715
+msgid "If we met under different circumstances, I bet we could have been good friends."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374716
+msgid "Eureka! My research is going to blow your mind, Boss!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374717
+msgid "I just finished an incredible story! Could you read it and let me know what you think?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374718
+msgid "Before I became a mercenary, I was a doctor. Would you like to try this new drug I'm working on?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374719
+msgid "Quitting smoking is easy! Why, I've quit 20 times myself."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374730
+msgid ""
+"I can't promise you I won't do bad things, but\n"
+"I will promise you this: I'll never make us look bad."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374731
+msgid ""
+"Well now, looks like my boys gave you some trouble. Sorry 'bout that.\n"
+"I'll make it up to you. Here, take this."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374732
+msgid "Let's use our heads on this one."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374733
+msgid ""
+"Everybody can do something, but nobody can do everything.\n"
+"We'll do the things you can't.\n"
+"And we need you to do the things we can't!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374734
+msgid ""
+"Ah, Boss, glad you're here. We were short one guy tonight.\n"
+"Care to join us for a little game?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374735
+msgid "You want me to forget last night...? Too late. It's all in my diary now."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374736
+msgid ""
+"You're our greatest hope, Boss!\n"
+"We won't let anybody take our hope from us!\n"
+"I may not be strong, but I'll fight till the end!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374737
+msgid "What the hell, let's have fun out there!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374738
+msgid "Ohhh... my stomach..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374739
+msgid "When we're all done here, I think I'm going to start my own business."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374750
+msgid "Kill 'em, let 'em live... it's up to you. Either way, give 'em hell!!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374751
+msgid "Awaiting orders, Boss!!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374752
+msgid "I'm bringin' home the bacon!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374753
+msgid ""
+"It's either us or them!\n"
+"That's right. That's ...the way it should be, in a war."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374754
+msgid "Sometimes it's good to grab life by the horns."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374755
+msgid "Looks like another late night at the office..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374756
+msgid "You're number one, Boss. That makes me number two, right?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374757
+msgid ""
+"198, 199, 200! Oh, hey, Boss, you're just in time!\n"
+"I just finished doing 200 stomach crunches!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374758
+msgid "For the last time, stop treating me like a rookie!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374759
+msgid "I could learn to like this outfit."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a30
+msgid "Nothing feeds a developer like the sound of a satisfied user."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a31
+msgid "Why do it toda-a-ay? There's always tomorro-o-ow..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a32
+msgid ""
+"Ahhh, we got a nice big catch today!\n"
+"Tonight's dinner is gonna be fresh sashimi with cold Japanese sake."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a33
+msgid ""
+"I love to grill things. My favorite food is stir-fried noodles.\n"
+"Those grilled chicken skewers they got in Japan are pretty good, too."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a34
+msgid "I'm saving up all the money I make here, so when I get back to the States, I can go to college..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a35
+msgid "No need for you to go, Boss... I got this one covered."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a36
+msgid ""
+"We're not blood related, but we're still family.\n"
+"Come back home alive brother. "
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a37
+msgid "This place can only hold so many bodies. So make sure you bring back the best you can find. At least as good as me."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a38
+msgid "A lot of the most talented soldiers out there are in places where you can't recover them the usual way. I know there's gotta be some way to get them, but..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a39
+msgid "To get the higher-ranked weapons, you'll need to find the design specs and raise the level of the R&D Team. Guess you got your work cut out for you in the field and at Mother Base..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a50
+msgid "From what I've heard, supposedly there's a way to have items and ammo delivered right to you in the middle of a mission..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a51
+msgid ""
+"Back in my old unit, the commander used to tell us at morning calisthenics: \"Whenever you're in trouble, hit the START button!!\"\n"
+"Wonder how he's doing these days,"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a52
+msgid ""
+"I-I saw some gigantic footprints in the swamp around El Cenagal...\n"
+"Y-you think it's a monstruo?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a53
+msgid ""
+"The other day, out of the blue we got a big box delivered to us.\n"
+"No return address, but it was full of all kinds of good stuff...\n"
+"Kind of creepy, I know... but I wasn't about to complain!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a54
+msgid "For me, there's no greater thrill than seeing your exploits in PLAYER DATA, Boss!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a55
+msgid "With word about MSF going around, no wonder there are more volunteers who want to join."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a56
+msgid "I swear I saw fireworks last time I was in combat. Do they really make a weapon like that?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a57
+msgid "When I fire my weapon, I never aim for the head. Can't recruit 'em if they're dead, after all."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a58
+msgid "Some crates are too big to climb alone, but they're no problem if you got a buddy. Maybe that's what friendship is all about."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a59
+msgid "If you ever get stuck in a mission, retreating is always an option! Isn't that right?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a70
+msgid "Boss! The R&D Team is screwing around! They are playing with the cardboard boxes! What the hell is that?!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a71
+msgid "In combat, running out of ammo is a death sentence. Steal some from the enemy if you have to, or call for resupply, or search around the area! Good luck!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a72
+msgid "You can't attack while reloading. So find someplace to take cover when you do! That's what's kept me alive all these years."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a73
+msgid "Enemy hiding out of sight? Try the night-vision goggles. That's what I do."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a74
+msgid "Suppressors don't last forever. Use them enough and they wear out. Best to keep an eye on how long they've got left."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a75
+msgid "Whoa, almost screwed up back there... All because I didn't read the intel in the BRIEFING FILES first... You gotta use your brains, not just your brawn."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a76
+msgid "They say when you CO-OPS with somebody, you can tell who they regard as the greatest hero they've gone CO-OPS with. "
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a77
+msgid "I always go into a mission empty-handed. I can always borrow gear from my teammates."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a78
+msgid "Flying enemies are weak against explosions. Damage 'em with a missile and it might create an opening... right, Boss?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a79
+msgid "The canopies on attack choppers are pretty solid, but you can break though them. It's the only way to get at the pilot inside... But you probably already knew that."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a90
+msgid "A helicopter uses its tail rotor to combat counter-torque. In other words, without it the chopper can't fly straight. You could say it's like the chopper's jugular vein."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a91
+msgid "My instructor told me when you get up close and personal with the enemy, CQC works better than a rifle! I'm gonna practice every chance I get!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a92
+msgid "It's tough to see where you're going in the Ruinas de Xochiquetzal in Central Heredia. I wouldn't trust my eyes too much if I were you..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a93
+msgid "The last war I was in, I attached an extra weapon to the barrel of my assault rifle. It's kind of tricky to switch between them, but once you get used to it you'll wonder how you ever got on without it."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a94
+msgid ""
+"Sneak up behind the enemy and hold 'em up, then make sure you Fulton recover 'em! ...That's how I do it.\n"
+"Leave 'em with their hands up for too long and you never know when they're gonna turn their guns on you again."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a95
+msgid "Night-vision goggles aren't just useful at night. Foggy jungle, enemy smoke grenade - they come in handy anytime you can't see more than a few feet in front of you."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a96
+msgid "If only we had a weapon that let us capture those enemy heavy weapons without hurting them... maybe we could take them back to Mother Base and put them to use..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a97
+msgid "Yup... MSF needs all the firepower it can get. Like mechs, for example. Capturing them from the enemy would be quickest. Or, there's the other way..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a98
+msgid "There's two basic ways to take on a unit with a mech. Overwhelm them with sheer firepower, or take out the soldiers first and then capture the machine. Decisions, decisions..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374a99
+msgid "You're not gonna believe this, but... I saw this cat-thing rowing a little boat down by the Caribbean coast! Next time you're on a mission down there, see if you can find it!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ab0
+msgid "I love UMAs. Monsters, too... you know anybody who knows a lot about rare creatures? I want to pick their brain! Pick it CLEAN!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ab1
+msgid "I don't care how good they taste, I HATE eating cold rations! If only we could grill 'em up a little... Then I'd be happy."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ab2
+msgid "Flying weapons are usually pretty noisy. They ought to be easy to find if you've got a Surround Indicator... right, Boss?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ab3
+msgid "They say there are monsters out there somewhere in this country, and if you hunt one down, you can use it to develop amazing gear. Of course, I don't believe a word of it."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ab4
+msgid "The fuel tanks on the enemy's heavy weapons are painted red. Seems like that'd be a good place to shoot them."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ab5
+msgid "Boss, did you know there's some kind of miracle gun that makes the sky do your bidding? Think we could make one here?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ab6
+msgid "Missile-type weapons are heavy and have low ammo capacity. But they pack the most firepower of any portable weapon. Exactly what you need against heavy weapons."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ab7
+msgid "Machine guns are powerful and carry a lot of ammo, so they're perfect for taking down mechs. Of course, they're also heavy and tough to handle..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ab8
+msgid "Sniper rifles are the best for precision long-range shots. A lot of them even fire armor-piercing rounds."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ab9
+msgid "Submachine guns are easy to aim, and they've got good rapid fire! Plus you can use them with a shield. You just have to get used to the muzzle jump, that's all."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ad0
+msgid "Did you hear? Somebody said they saw \"God\" inside a truck somewhere..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ad1
+msgid "Assault rifles are all-around solid weapons in every respect. There's lots of custom parts for them, too, so it's worth doing some R&D..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ad2
+msgid "Shotguns are AWESOME! They can blow away just about anything in one shot. Only problem is they got short range and low ammo."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ad3
+msgid "Handguns have short range and low firepower, but they've got great accuracy at close range and high-caliber ammo that stops targets in their tracks. And if you know when and how to use them, you can conserve your rifle ammo... That's a quote from the Boss. I learned it by heart!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ad4
+msgid "The two things you gotta remember for sniper rifles are \"crouch\" and \"aim.\" I guess 'cause it makes your hands shake less!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ad5
+msgid "If you're using a one-handed weapon, you can equip a shield at the same time. And when it's not on your arm, it'll protect your back... isn't that what you said, Boss?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ad6
+msgid "Handguns are great for indoors and in tight spaces... 'cause they're easy to aim."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ad7
+msgid "You're telling me armor-piercing rounds go through shields and helmets?! Man, talk about punch."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ad8
+msgid "Large-caliber handguns are the best tool for stopping the enemy from acting. AND they let you use CQC at the same time. If you find yourself surrounded, try going with a handgun."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ad9
+msgid "You ever hear of these \"battle cries\" that make amazing things happen sometimes when you say them? Crazy, huh?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374af0
+msgid "You know what I like about working for you, Boss? You know how to complete a mission without hurting anybody, without them even knowing you're there."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374af1
+msgid "I thought my gear felt a little heavy... Turns out my guns alone weighed 20 pounds! No wonder my PSYCHE decreased. Heavier isn't always better, I guess."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374af2
+msgid "Back when I was a rookie, I used to spray my assault rifle all over the place and waste ammo... You gotta stay focused, aim, and be smart with your trigger finger, fire in small bursts. It's not how many shots you fire, it's how many hit the target. I wish I'd realized that sooner... "
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374af3
+msgid "Timing is everything in consecutive CQC, y'know. Gotta be cool, press the button at just the right time..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374af4
+msgid "Boss, if you find me lying face down on the battlefield you gotta revive me! Uh, but no mouth-to-mouth, please!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374af5
+msgid "In training I got CQC-thrown against a wall and got knocked out. Felt like it hurt at least twice as bad as a usual throw, too..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374af6
+msgid "I bet even the toughest missions wouldn't be so bad for a two-man cell!  I'm gonna go look for somebody to team up and fight with!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374af7
+msgid ""
+"Hey Boss, can you teach me how to reload?\n"
+"...Ahh, so that's it! Just push the Action Button with the weapon equipped! Thanks a bunch, Boss!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374af8
+msgid "Reloading leaves you temporarily vulnerable. Timing your reloads is just as crucial as timing your shots. Isn't it, Boss?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374af9
+msgid "Hey Boss! Thanks for always listening to us grunts. I mean, even we can teach you something once in a while. Right?!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b10
+msgid "Chicks dig a man who smells like success!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b11
+msgid "Ahh, I get it... GMP is the sum total of MSF's income... the same way GNP expresses a country's total income..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b12
+msgid "If the next mission looks too tough for you, take a break and focus on recruiting or developing weapons... Yeah, that's right, never be in too big of a hurry!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b13
+msgid "In MISSION PREP we have to be careful not just about what gear we bring, but what uniform we wear. Right, Boss?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b14
+msgid "Check out the MAP to see where the exits are. Pretty handy if you ever get lost."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b15
+#: slot/0x004c49a2/0x840500/0x374b16
+msgid "I think we could do a lot better job if we had stronger guns. We oughta get working on developing some new weapons!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b17
+msgid "My great-grandpa used to tell me, \"Sonny, bananas are good for more than just eatin'.\""
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b18
+msgid "Boss, let me deploy on EXTRA OPS! I can handle it!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b19
+msgid "I've seen female soldiers being held prisoner. But I wasn't able to save them..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b30
+msgid "If a target's helmet is getting in the way, shoot it off with a bullet. It works best if you do it before they notice you. Right?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b31
+msgid "How fast a tranq dart works depends on where it hits... Ack, what the--? Unnhh... ZZZZ..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b32
+msgid "You gotta turn away as soon as you throw a stun grenade or you'll get stunned, too... Thanks for the tip, Boss!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b33
+msgid "One day, we'll have the science to turn a man invisible. And when that day comes... heh heh."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b34
+msgid "When you're using a sniper rifle, slow down, take a deep breath, and concentrate. It's true... you can actually feel your hands get steadier!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b35
+msgid "A man's got to eat to live. If you forget to bring food along on a mission, you better be damn good..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b36
+msgid "Man, I could go for a nice cold soda... That'd really hit the spot..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b37
+msgid "The Analyzer tells you how good a soldier is, so you can pick the best ones to recruit... That's the most logical way to go about it."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b38
+msgid "I like the M10... It's got a decent rate of fire and you can AUTO AIM it from a good distance."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b39
+msgid "My dream is to invent a weapon that lets you Fulton recover somebody from a distance..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b50
+msgid "So what if you get knocked out? A few good smacks and you'll wake right up!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b51
+msgid "Every mech has a weakness, no matter how big it is... And I intend to find it!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b52
+msgid "I heard there's a suit that makes your footsteps almost silent. Imagine how useful that'd be for sneaking up on people from behind."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b53
+msgid "You ever try running around lugging a big, heavy weapon? It ain't easy. Ain't fast, either..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b54
+msgid "With a high enough morale, a soldier can do things he never thought possible. Me, I'm ready to rock!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b55
+msgid "The golden rule of staff management is, let people do what they do best. So, where do you need me to go?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b56
+msgid "Comrades, lets keep communication tight!  What...? You can't find the right words!? Well then make sure you set your \"CO-OPS COMM\" in \"MISSION PREP\" so it doesn't happen again!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b57
+msgid "You know when you get a package, and it's exactly what you needed the most? I always get a little misty when that happens..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b58
+msgid "If I ever manage to get a girlfriend, I wanna take her inside a cardboard box... and spend some quality time together..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374b59
+msgid "I wonder if you could use a cardboard box as a step to get up to places you couldn't usually reach by yourself..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e30
+msgid "I coulda sworn I saw a guy who looked just like me... Hm. Must have been a coincidence."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e31
+msgid "It's nice to have a place to come back home to. I'm glad I joined up with you."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e32
+msgid "The food ain't too bad here. 'Course, it's nothing like my ma's."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e33
+msgid "I got a wife and daughter back in my home country. Gotta work hard so they can eat."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e34
+msgid "Boss, MSF is more than just you. Don't forget that."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e35
+msgid "I'm saving up my pay to buy a house and get married!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e36
+msgid "Man... I'm sick of people treating me like a rookie! Ugh..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e37
+msgid "Yesterday's enemy is today's ally..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e38
+msgid "You wanna know what's the most powerful weapon known to man? A good poker face."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e39
+msgid "Need some luck? Stick with me and maybe some of mine will rub off."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e50
+msgid "This place is full of morons... That's why I love it so much."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e51
+msgid "Call me... ah, forget it. Call me whatever you want."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e52
+msgid "Check out this tattoo. Each one of these stars stands for a battlefield I've slogged through... they're actually just stickers, but still..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e53
+msgid "Support is just as crucial as combat! Anything you need, let me know!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e54
+msgid "I need a mission that REALLY gets me motivated..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e55
+msgid "The bacon in the mess hall was extra crispy this morning. I feel like I can do anything today."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e56
+msgid "Boss! That magazine I lent you before the last mission. Can I have it--what?! You left it out there?! I hadn't finished reading it!!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e57
+msgid "Give me an order, Boss. I'm not what you'd call a self-starter."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e58
+msgid "I got two yolks in my egg this morning. So I'm gonna work twice as hard today! ...Or at least complain half as much!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e59
+msgid "Boss! Send me into battle! I can handle it!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e70
+msgid "I can never seem to balance work and pleasure. 'Cause whatever I'm working on turns into pleasure."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e71
+msgid "Hey Boss, let's get as many new guys as we can and make MSF into something REAL big!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e72
+msgid "We got skills, too, Boss! Take a look and see!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e73
+msgid "When's the party gonna start, amigo?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e74
+msgid "Wish I could see the Loch Ness Monster or Quetzalcoatl once in my life..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e75
+msgid "Boss! He says there's no Santa Claus! Santa's real, isn't he?!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e76
+msgid "Boss! He says Santa Claus is real! There's no such thing as Santa, is there?!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e77
+msgid "I may not look it, but I'm turning 48 this year."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e78
+msgid "I'll be honest. I don't think I'm good enough. But I want to be. And I'm training hard."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e79
+msgid "Give yourself a little break once in a while, Boss."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e90
+msgid "I like you."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e91
+msgid "Everything about this place is hot, hot. The weather, the work..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e92
+msgid "I'm a mountain boy. All this water, and boats and stuff... erk. Give me a mission, quick..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e93
+msgid "It's an honor to serve under a hero like you."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e94
+msgid "I can't sleep at night unless I clean my gun once a day. I'm itching for an overhaul..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e95
+msgid "Thanks for the Costa Rican coffee. Best I ever tasted."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e96
+msgid "My wife was always good to me. Guess that's what \"love\" is."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e97
+msgid "If I die, we'll meet again in the next life. As comrades."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e98
+msgid "One thing I've realized since I got here - there's all kinds of people in this world."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374e99
+msgid "Take a look at these guns. I was the arm wrestling champion of my hometown two years running. And runner-up the year before that, and champion the year before THAT."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374eb0
+msgid "Can we have curry on Friday? I love curry!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374eb1
+msgid "I used to be in the army, but the government sold us out. Is there anything worth risking your life for anymore?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374eb2
+msgid "You stay here too long, you start losing track of what day it is."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374eb3
+msgid "Ready for duty, chief!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374eb4
+msgid "I like to CALL people on the radio while I'm on a mission. It's a good way to get useful info, and it reminds me I'm not alone out there."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374eb5
+msgid "I'm a slave to fashion. I collect T-shirts in my spare time."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374eb6
+msgid "It's important to know what to wear, even on the battlefield. The right clothes for the right occasion."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374eb7
+msgid "Listen to the waves. Smell the fresh sea air. Soothing, isn't it..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374eb8
+msgid "I got a buddy named Johnny. You know him?"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374eb9
+msgid "You don't want to over-grill a ration. But if you're just gonna lightly toast it, I say you're better off not grilling at all."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ed0
+msgid "Hello there! Remember me? We met a while back. Thanks for helping me out then..."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ed1
+msgid "I'm no good with people. Please look after me."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ed2
+msgid "I was just thinking the same thing as you, Boss"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ed3
+msgid "I can't believe you took me in, Boss... I'll do my best not to disappoint, but I'd totally understand if you have to sack me."
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ed4
+msgid "Let's put our heads together and make Mother Base grow!"
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ed5
+msgid "If you want to create a change in time, don't blindly abide by society's rules. Be able to evaluate what is right and wrong on your own...   Right Boss? "
+msgstr ""
+
+#: slot/0x004c49a2/0x840500/0x374ed6
+msgid "You sure love your cardboard boxes, Boss... I love 'em too."
+msgstr ""

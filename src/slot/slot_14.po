@@ -1,0 +1,2127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF slot 14/26\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: slot\n"
+"X-PWSF-Entries: 400\n"
+
+
+#: slot/0x0052e4f8/0x594864/0x000036
+msgid "Lightweight pump-action shotgun. Equipped with scope. Combines the features of a shotgun with added range."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000037
+msgid "Automatic shotgun. Holds six rounds. Its rapid-fire capability brings immense  firepower, but it is difficult to handle."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000038
+#: slot/0x0052e4f8/0x594864/0x000039
+msgid "Automatic shotgun. Modified to hold eight rounds. Its rapid-fire capability brings immense firepower, but it is difficult to handle."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00003a
+msgid "Prototype full-auto shotgun. Its outstanding capacity and firing speed make it the most powerful shotgun in the world."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00003d
+msgid "Large-caliber submachine gun. Requires both hands to use, preventing the use of a shield, but it is both easy to handle and accurate."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00003e
+msgid "Large-caliber submachine gun. Requires both hands to use, preventing the use of a shield, but the addition of a grip increases accuracy."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00003f
+msgid "Large-caliber submachine gun. Requires both hands to use, preventing the use of a shield, but the addition of a grip increases accuracy. Increased magazine capacity."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000040
+msgid "Compact, lightweight submachine gun. Its high firing speed makes it effective at stopping the enemy, but it suffers from low accuracy."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000041
+msgid "Compact, lightweight submachine gun. Its high firing speed makes it effective at stopping the enemy, but it suffers from low accuracy. Equipped with suppressor."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000042
+msgid "Compact, lightweight submachine gun. Its high firing speed makes it effective at stopping the enemy. The barrel jacket increases accuracy."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000043
+msgid "High-precision submachine gun. Possessing the same firing mechanism as an assault rifle, it is the most accurate submachine gun in the world."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000044
+msgid "High-precision submachine gun. Possessing the same firing mechanism as an assault rifle, it is the most accurate submachine gun in the world. Equipped with suppressor."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000045
+msgid "High-precision submachine gun, the most accurate in the world. Its built-in suppressor ensures a continuous silencing effect."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000046
+msgid "Compact, lightweight submachine gun. Has low recoil and wide AUTO AIM range, but low shot-for-shot power as well."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000047
+#: slot/0x0052e4f8/0x594864/0x000048
+msgid "Compact, lightweight submachine gun. Has low recoil and wide AUTO AIM range, but low shot-for-shot power as well. Equipped with suppressor."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00004b
+#: slot/0x0052e4f8/0x594864/0x000231
+#: slot/0x0052e4f8/0x594864/0x000232
+#: slot/0x0052e4f8/0x594864/0x000233
+msgid ""
+"Compact & lightweight submachine gun.\n"
+"Press the Attack Button while \n"
+"holding the Aim Button to fire. "
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00004c
+#: slot/0x0052e4f8/0x594864/0x00004d
+msgid "New-model, lightweight assault rifle. Highly accurate and can be equipped with a variety of parts through R&D."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00004e
+msgid "New-model, lightweight assault rifle. Combines its high accuracy with a suppressor, increasing its usefulness in covert operations."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00004f
+msgid "New-model, lightweight assault rifle. Outfitted with shotgun. Switch with the R button (for hunter control type, press <I=RIGH>)."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000050
+#: slot/0x0052e4f8/0x594864/0x00005b
+msgid "Large-frame assault pistol modified from an M16. Though it has intense recoil and is difficult to handle, it possesses unlimited ammo."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000051
+msgid "New-model, lightweight assault rifle. Outfitted with shotgun and laser sight. Switch with the R button (for hunter control type, press <I=RIGH>)."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000052
+msgid "M16a1_A(Shotgun)"
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000053
+msgid "New-model, lightweight assault rifle. Outfitted with grenade launcher. Switch with the R button (for hunter control type, press <I=RIGH>)."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000054
+#: slot/0x0052e4f8/0x594864/0x000055
+msgid "New-model, lightweight assault rifle. Outfitted with grenade launcher and laser sight. Switch with the R button (for hunter control type, press <I=RIGH>)."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000056
+msgid "M16a1_B(Grenader) "
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000057
+msgid "New-model, lightweight assault rifle. Outfitted with smoke grenade launcher. Switch with the R button (for hunter control type, press <I=RIGH>)."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000058
+#: slot/0x0052e4f8/0x594864/0x000059
+msgid "New-model, lightweight assault rifle. Outfitted with smoke grenade launcher and laser sight. Switch with the R button (for hunter control type, press <I=RIGH>)."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00005a
+msgid "M16a1_C(Smoke Grenader)"
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00005c
+msgid "Compact, lightweight carbine. Highly accurate and easy to handle. Can be equipped with a variety of parts through R&D."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00005d
+msgid "Compact, lightweight carbine. Highly accurate and easy to handle. Equipped with suppressor through R&D."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00005e
+#: slot/0x0052e4f8/0x594864/0x00005f
+msgid "Compact, lightweight carbine. Outfitted with grenade launcher. Switch with the R button (for hunter control type, press <I=RIGH>)."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000060
+#: slot/0x0052e4f8/0x594864/0x000061
+msgid "Compact, lightweight carbine. Outfitted with underbarrel shotgun. Switch with the R button (for hunter control type, press <I=RIGH>)."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000062
+#: slot/0x0052e4f8/0x594864/0x000063
+msgid "Compact, lightweight carbine. Outfitted with smoke grenade launcher. Switch with the R button (for hunter control type, press <I=RIGH>)."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000064
+msgid "Soviet assault rifle. Its massive firepower is effective at stopping the enemy, but its strong recoil reduces accuracy."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000065
+msgid "Soviet assault rifle. Equipped with grenade launcher. Switch with the R button (for hunter control type, press <I=RIGH>)."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000066
+#: slot/0x0052e4f8/0x594864/0x00006a
+#: slot/0x0052e4f8/0x594864/0x00006b
+msgid "Romanian assault rifle. Equipped with a recoil buffer on the stock, maintaining its power while reducing recoil."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000067
+#: slot/0x0052e4f8/0x594864/0x000068
+msgid "Soviet assault rifle. Equipped with smoke grenade launcher. Switch with the R button (for hunter control type, press <I=RIGH>)."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000069
+msgid "Romanian assault rifle. Very powerful, but has strong recoil. Equipped with foregrip, increasing accuracy."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00006c
+msgid "Soviet light machine gun. The long barrel means low recoil, but it is difficult to handle. Its powerful rounds are effective at stopping the enemy."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00006d
+msgid "Soviet light machine gun. The long barrel means low recoil, but it is difficult to handle. Its powerful rounds are effective at stopping the enemy. Increased mag capacity."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00006e
+msgid "Large-caliber assault rifle. Difficult to handle but powerful. Has wide AUTO AIM range."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00006f
+msgid "Large-caliber assault rifle. Powerful, with wide AUTO AIM range. The shorter barrel makes it easier to handle."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000070
+msgid "Large-caliber assault rifle. Powerful, with a wide AUTO AIM range. The laser sight enables easier targeting."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000071
+msgid "Bullpup assault rifle. While only moderately powerful, it is compact and easy to handle, with low recoil as well."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000072
+msgid "Prototype caseless assault rifle. Though its low recoil ammo enables easier targeting, it lacks power."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000073
+msgid "A musket. When this gun hits its target, mysterious things may happen from time to time."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000081
+#: slot/0x0052e4f8/0x594864/0x000082
+msgid ""
+"Compact & lightweight assault rifle.\n"
+"Press the Attack Button while \n"
+"holding the Aim Button to fire. "
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000089
+msgid "Large-caliber general purpose machine gun. Has a large capacity and can maintain high firepower, but its weight makes it hard to handle."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00008a
+msgid "Large-caliber general purpose machine gun. Though still heavy and hard to handle, its use of armor piercing also makes it an effective weapon against armored vehicles."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00008b
+#: slot/0x0052e4f8/0x594864/0x00008c
+msgid "Large-caliber general purpose machine gun. A high capacity of armor piercing rounds maintains its firepower, and a shorter barrel makes it easier to handle."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00008d
+msgid "Lightweight light machine gun. Uses armor piercing rounds, a big advantage against armored vehicles. The lightest machine gun in the world, making it easy to handle."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00008e
+#: slot/0x0052e4f8/0x594864/0x00008f
+msgid "Lightweight light machine gun. Uses armor piercing rounds. The lightest machine gun in the world, making it easy to handle. The shorter barrel further improves handling."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000090
+msgid "Soviet general purpose machine gun. Its high capacity allows it to maintain high firepower, but it is difficult to handle. Capacity can be increased."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000091
+#: slot/0x0052e4f8/0x594864/0x000092
+msgid "Soviet general purpose machine gun. Its high capacity allows it to maintain high firepower, but it is difficult to handle. Increased magazine capacity."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000093
+msgid "Soviet general purpose machine gun. Its high capacity allows it to maintain high firepower, but it is difficult to handle. Highest capacity among machine guns."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000094
+msgid "Soviet general purpose machine gun. Its high capacity allows it to maintain high firepower, and it is easier to handle with its shorter barrel."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000095
+msgid "Large-caliber general purpose machine gun. Its extremely fast firing speed gives it great power, but strong recoil makes it hard to control."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000096
+msgid "Large-caliber general purpose machine gun. Fast firing but strong recoil. Uses armor piercing rounds, which are effective against armored vehicles."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000097
+#: slot/0x0052e4f8/0x594864/0x000098
+msgid "Large-caliber general purpose machine gun. Uses armor piercing rounds. Its extremely fast firing speed gives it great power, but strong recoil makes it hard to control. Increased mag capacity."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000099
+#: slot/0x0052e4f8/0x594864/0x00009b
+msgid "Gatling machine gun. Its high firing speed well exceeds that of normal machine guns, but it is also heavier and harder to use."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00009a
+msgid "Special gun that crosses multiple EM waves to concentrate a mass of energy in one spot. Requires a CO-OPS teammate to produce the necessary interference."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00009c
+#: slot/0x0052e4f8/0x594864/0x000237
+#: slot/0x0052e4f8/0x594864/0x000238
+#: slot/0x0052e4f8/0x594864/0x000239
+msgid ""
+"Large-bore general purpose machine gun\n"
+"Press the Attack Button while \n"
+"holding the Aim Button to fire. "
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00009f
+msgid "Large-caliber, automatic sniper rifle. While not the most accurate, its rapid fire capability allows for quick follow-up shots. Zoom can be adjusted. "
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000a0
+msgid "Large-caliber, automatic sniper rifle. While not the most accurate, it is capable of rapid fire and offers 3 levels of zoom."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000a1
+#: slot/0x0052e4f8/0x594864/0x0000a2
+msgid "Large-caliber, automatic sniper rifle. While not the most accurate, it is capable of rapid fire. Uses PSYCHE Recovery Rounds. Offers 3 levels of zoom."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000a3
+msgid "Large-caliber, automatic sniper rifle. Uses armor piercing rounds effective against vehicles. Boasts high capacity, rapid fire, and high accuracy. Offers 3 levels of zoom."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000a4
+msgid "Large-caliber, automatic sniper rifle. Uses armor piercing rounds. Boasts high capacity, rapid fire, and high accuracy. Easier to handle with its shorter barrel."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000a5
+msgid "Large-caliber, automatic sniper rifle. Uses armor piercing rounds. Boasts high capacity, rapid fire, and high accuracy. Equipped with suppressor."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000a6
+msgid "High-precision, bolt-action sniper rifle. Uses armor piercing rounds, resulting in devastating power even against armored vehicles. Offers three levels of zoom."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000a7
+#: slot/0x0052e4f8/0x594864/0x0000a8
+msgid "High-precision, bolt-action sniper rifle. Uses armor piercing rounds, resulting in devastating power. The bull barrel helps reduce muzzle jump."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000a9
+#: slot/0x0052e4f8/0x594864/0x0000aa
+msgid "High-precision, bolt-action sniper rifle. Uses LIFE Recovery Rounds. Offers three levels of zoom."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000ab
+msgid "Tranquilizer sniper rifle. Can knock enemies out from a distance, but its bolt-action design does not allow for rapid fire. Zoom can be adjusted. "
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000ac
+msgid "Tranquilizer sniper rifle. Can knock enemies out from a distance, but its bolt-action design does not allow for rapid fire. Offers three levels of zoom."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000ad
+#: slot/0x0052e4f8/0x594864/0x0000ae
+msgid "Tranquilizer sniper rifle. The skeleton stock results in a reduced weight."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000af
+msgid "Tranquilizer sniper rifle. The suppressor provides an additional edge in long-range combat."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000b0
+msgid "Soviet large-caliber automatic sniper rifle. Its armor piercing bullets will penetrate helmets. Offers three levels of zoom."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000b1
+msgid "Soviet large-caliber automatic sniper rifle. Uses armor piercing bullets for effective resistance against armored vehicles and is  relatively easy to handle."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000b2
+msgid "Soviet large-caliber automatic sniper rifle. Uses armor piercing bullets and is relatively easy to handle. Increased magazine capacity."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000b3
+msgid "Soviet large-caliber automatic sniper rifle. Uses armor piercing bullets and is relatively easy to handle. The night-vision sight supports combat in the dark."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000b4
+msgid "Prototype bullpup automatic sniper rifle. Uses armor piercing rounds that can pierce even the thickest plating. Hard to handle but extremely accurate."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000b5
+#: slot/0x0052e4f8/0x594864/0x0000b6
+msgid "Prototype bullpup automatic sniper rifle. Uses armor piercing rounds. Hard to handle but extremely accurate. Offers three levels of zoom."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000b7
+#: slot/0x0052e4f8/0x594864/0x0000b8
+msgid "Large-caliber anti-tank rifle. Single-shot. Offers three levels of zoom. Its massive power easily tears through even thick metal."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000b9
+msgid "Large-caliber anti-tank rifle. Rapid-fire. Delivers an intense barrage of highly penetrating anti-tank rounds. Offers three levels of zoom."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000ba
+#: slot/0x0052e4f8/0x594864/0x0000bb
+#: slot/0x0052e4f8/0x594864/0x0000bc
+msgid "Electromagnetic projectile acceleration system. Extremely powerful, but uses a lot of electricity.  Using an electrical supply from a CO-OPS teammate is ideal."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000bd
+msgid "Railgun remote charging system. Supplies electricity to a CO-OPS teammate's railgun after locking onto it. Press <I=ATK> repeatedly to increase output."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000cb
+msgid ""
+"Large-bore automatic sniper rifle. \n"
+"Hold Aim Button for over-the-shoulder view\n"
+"and press the Attack Button to fire.\n"
+"Scope view is adjustable."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000cc
+#: slot/0x0052e4f8/0x594864/0x0000cd
+#: slot/0x0052e4f8/0x594864/0x0000ce
+#: slot/0x0052e4f8/0x594864/0x0000cf
+msgid "Disposable rocket launcher. Compact and light, making it possible to carry several at once. A downside is its weak power."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000d0
+#: slot/0x0052e4f8/0x594864/0x0000d1
+#: slot/0x0052e4f8/0x594864/0x0000d2
+msgid "Four-round rocket launcher. Not that powerful round-for-round, but is capable of rapid fire. Has high overall firepower that can be unleashed in an instant."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000d3
+msgid "Rocket-propelled grenade launcher. While not very accurate, it is powerful and it is easy to carry a relatively large number of rounds for it."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000d4
+#: slot/0x0052e4f8/0x594864/0x0000d5
+#: slot/0x0052e4f8/0x594864/0x0000d6
+msgid "New-model rocket-propelled grenade launcher. Powerful and has easy-to-carry rounds. Though not that accurate, its scope enables easier targeting."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000d7
+msgid "Portable surface-to-air missile. Will automatically follow locked-on targets, so it is effective at attacking moving enemies. Lock-on can be upgraded."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000d8
+#: slot/0x0052e4f8/0x594864/0x0000d9
+msgid "New-model portable surface-to-air missile. Will automatically follow locked-on targets, so it is effective at attacking moving enemies. Lock-on can be upgraded."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000da
+#: slot/0x0052e4f8/0x594864/0x0000db
+#: slot/0x0052e4f8/0x594864/0x0000dc
+#: slot/0x0052e4f8/0x594864/0x0000dd
+msgid "Portable recoilless rifle. Has high initial shell velocity and accuracy, but takes a bit of time to reload."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000de
+#: slot/0x0052e4f8/0x594864/0x0000df
+#: slot/0x0052e4f8/0x594864/0x0000e0
+msgid "Portable recoilless rifle. Has high initial shell velocity and accuracy. Uses HEAT rounds. This gives it wider damage radius but slightly less power."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000e1
+#: slot/0x0052e4f8/0x594864/0x0000e2
+#: slot/0x0052e4f8/0x594864/0x0000e3
+msgid "Portable recoilless rifle.  Uses Fulton recovery rounds. Connecting with a target will execute a Fulton recovery. (A maximum of 100 people can be recovered per mission)"
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000e4
+msgid "Portable anti-tank missile. Will automatically follow locked-on targets. Its powerful warhead makes it an extremely valuable asset in ground-to-ground combat."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000e5
+msgid "Special gun that renders its target optically invisible. Use it to hide your CO-OPS teammates. Runs on batteries."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000e6
+#: slot/0x0052e4f8/0x594864/0x0000e7
+msgid "Special gun that renders its target optically invisible. Use it to hide your CO-OPS teammates. Increased battery size allows for extended use."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000e8
+msgid "4 player CO-OPS weapon. 2 posts and 1 band are required. The fourth person is the human bullet. Multiple posts can be equipped."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000e9
+#: slot/0x0052e4f8/0x594864/0x0000ea
+#: slot/0x0052e4f8/0x594864/0x0000eb
+msgid "With all players CO-OP In, set posts and band together, and then have the human bullet press <I=ACT>. Tap <I=ATK> to build up power. Can't be used alone as a weapon."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000f7
+#: slot/0x0052e4f8/0x594864/0x000242
+#: slot/0x0052e4f8/0x594864/0x000243
+#: slot/0x0052e4f8/0x594864/0x000244
+msgid ""
+"Rocket-propelled grenade launcher.\n"
+"Hold Aim Button for over-the-shoulder view\n"
+"and press the Attack Button to fire."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000f8
+#: slot/0x0052e4f8/0x594864/0x0000f9
+#: slot/0x0052e4f8/0x594864/0x0000fa
+#: slot/0x0052e4f8/0x594864/0x0000fb
+#: slot/0x0052e4f8/0x594864/0x0000fc
+msgid "Fragmentation grenade. Unleashes explosion over a wide radius. R&D can increase power."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x0000fd
+#: slot/0x0052e4f8/0x594864/0x0000fe
+#: slot/0x0052e4f8/0x594864/0x0000ff
+#: slot/0x0052e4f8/0x594864/0x000100
+#: slot/0x0052e4f8/0x594864/0x000101
+msgid "Sound and flash grenade. Non-lethal. Will knock enemy soldiers unconscious. R&D can increase power and blast radius."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000102
+#: slot/0x0052e4f8/0x594864/0x000103
+#: slot/0x0052e4f8/0x594864/0x000104
+#: slot/0x0052e4f8/0x594864/0x000105
+#: slot/0x0052e4f8/0x594864/0x000106
+msgid "Electronic scrambling grenade. Non-lethal. Temporarily prevents electronic equipment from functioning correctly. R&D can extend length of effect."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000107
+#: slot/0x0052e4f8/0x594864/0x000108
+#: slot/0x0052e4f8/0x594864/0x000109
+#: slot/0x0052e4f8/0x594864/0x00010a
+#: slot/0x0052e4f8/0x594864/0x00010b
+msgid "Smoke-producing grenade. Non-lethal. Smoke will obstruct enemy vision and temporarily hinder movement. R&D can increase time smoke is emitted. "
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00010c
+#: slot/0x0052e4f8/0x594864/0x00010d
+#: slot/0x0052e4f8/0x594864/0x00010e
+#: slot/0x0052e4f8/0x594864/0x00010f
+#: slot/0x0052e4f8/0x594864/0x000110
+msgid "Colored smoke-producing grenade. Non-lethal. Smoke will obstruct enemy vision and temporarily hinder movement. R&D can increase time smoke is emitted. "
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000111
+#: slot/0x0052e4f8/0x594864/0x000112
+#: slot/0x0052e4f8/0x594864/0x000113
+#: slot/0x0052e4f8/0x594864/0x000114
+#: slot/0x0052e4f8/0x594864/0x000115
+msgid "Sleep gas grenade. Non-lethal. Emits a gas that induces sleep if inhaled. R&D can strengthen its effect."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000116
+msgid "Empty gun magazine. Non-lethal. The noise it makes when thrown can be used to distract enemies."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000117
+msgid "Support supply request marker that is thrown. After throwing, press <I=HHA> to receive ammo and items. Heroism decreases with overuse."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000118
+msgid "Support strike request marker that is thrown. After throwing, press <I=HHA> to execute strike. Heroism decreases with overuse."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000119
+msgid "Throw to release the net, and then press <I=HHA> to activate it. When a vehicle gets caught, flip the switches on the 4 devices to capture it."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00011a
+#: slot/0x0052e4f8/0x594864/0x00011b
+#: slot/0x0052e4f8/0x594864/0x00011c
+#: slot/0x0052e4f8/0x594864/0x00011d
+#: slot/0x0052e4f8/0x594864/0x00011e
+msgid "Plastic explosive. Face location to be set, ready C4, then press <I=ATK> to set. After setting, press <I=HHA> at any time to detonate. R&D can increase power."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00011f
+#: slot/0x0052e4f8/0x594864/0x000120
+#: slot/0x0052e4f8/0x594864/0x000121
+#: slot/0x0052e4f8/0x594864/0x000122
+#: slot/0x0052e4f8/0x594864/0x000123
+msgid "Directional, anti-personnel landmine. Face location to be set, ready, then press <I=ATK> to set. R&D can increase power."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000124
+#: slot/0x0052e4f8/0x594864/0x000125
+#: slot/0x0052e4f8/0x594864/0x000126
+#: slot/0x0052e4f8/0x594864/0x000127
+#: slot/0x0052e4f8/0x594864/0x000128
+msgid "A popular magazine. Once set, anyone who notices it will stop to read it. The more issues set, the longer the person will be interested."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00012e
+#: slot/0x0052e4f8/0x594864/0x00012f
+#: slot/0x0052e4f8/0x594864/0x000130
+#: slot/0x0052e4f8/0x594864/0x000131
+#: slot/0x0052e4f8/0x594864/0x000132
+msgid "The pages are ingrained with the scent of countless delicacies, sending nearby wildlife into a trance."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000133
+#: slot/0x0052e4f8/0x594864/0x000134
+#: slot/0x0052e4f8/0x594864/0x000135
+#: slot/0x0052e4f8/0x594864/0x000137
+msgid "A popular pulp magazine. Once set, anyone who notices it will stop to read it! Face location to be set, ready, then press <I=ATK> to set. "
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000136
+msgid "A magazine loaded with pictures of beautiful women. Once set, anyone who notices it will stop to read it! Face location to be set, ready, then press <I=ATK> to set. "
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000138
+#: slot/0x0052e4f8/0x594864/0x000139
+#: slot/0x0052e4f8/0x594864/0x00013a
+#: slot/0x0052e4f8/0x594864/0x00013b
+#: slot/0x0052e4f8/0x594864/0x00013c
+msgid "Anti-ground vehicle landmine. Not effective against air vehicles. Renders vehicles temporarily immobile."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00013d
+#: slot/0x0052e4f8/0x594864/0x00013e
+#: slot/0x0052e4f8/0x594864/0x00013f
+#: slot/0x0052e4f8/0x594864/0x000140
+#: slot/0x0052e4f8/0x594864/0x000141
+msgid "Wooden human decoy designed to fool enemy soldiers. To use, first set, then press <I=HHA> to activate. R&D can increase strength and allow it to be used as cover."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000142
+#: slot/0x0052e4f8/0x594864/0x000143
+#: slot/0x0052e4f8/0x594864/0x000144
+#: slot/0x0052e4f8/0x594864/0x000145
+#: slot/0x0052e4f8/0x594864/0x000146
+msgid "Aerial (vehicle) mine. Automatically rises once set, rendering vehicles temporarily immobile if hit."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000148
+msgid "Sleeping gas mine with Fulton recovery capability. Automatically executes Fulton recovery on targets after they fall asleep. (A maximum of 100 people can be recovered per mission)"
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x000149
+msgid "Support supply request marker that is set. Once set, press <I=HHA> to receive ammo and items. Heroism decreases with overuse."
+msgstr ""
+
+#: slot/0x0052e4f8/0x594864/0x00014a
+#: slot/0x0052e4f8/0x594864/0x00014b
+#: slot/0x0052e4f8/0x594864/0x00014c
+#: slot/0x0052e4f8/0x594864/0x00014d
+#: slot/0x0052e4f8/0x594864/0x00014e
+#: slot/0x0052e4f8/0x594864/0x00014f
+msgid "Support strike request marker that is set. Once set, press <I=HHA> to execute strike. Heroism decreases with overuse."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00003f
+#: slot/0x0056a63d/0x048941/0x000040
+#: slot/0x0056a63d/0x048941/0x000041
+#: slot/0x0056a63d/0x048941/0x000042
+#: slot/0x0056a63d/0x048941/0x000043
+msgid "Meal, Ready-to-Eat. Recovers LIFE. Select from Equipment window and press <I=USE> to use. Automatically used if LIFE reaches zero when equipped."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000044
+#: slot/0x0056a63d/0x048941/0x000045
+msgid "Popular food in Japan. Spicy and delicious. Recovers LIFE. Automatically used if LIFE reaches zero when equipped."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000046
+#: slot/0x0056a63d/0x048941/0x000047
+msgid "Popular food in Japan. Spicy and delicious. Recovers LIFE. Updated with enhanced flavor thanks to the latest in food technology."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000048
+msgid "Popular food in Japan. Spicy and delicious. Recovers LIFE. The next generation of food R&D  - truly a taste of the future!"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000049
+#: slot/0x0056a63d/0x048941/0x00004a
+#: slot/0x0056a63d/0x048941/0x00004b
+#: slot/0x0056a63d/0x048941/0x00004c
+#: slot/0x0056a63d/0x048941/0x00004d
+msgid "Military battery. Recharges all item battery gauges. Currently recharging..."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00004e
+msgid "Recovers PSYCHE with its alluring fragrance while keeping you at the top of your game."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00004f
+#: slot/0x0056a63d/0x048941/0x000050
+#: slot/0x0056a63d/0x048941/0x000051
+#: slot/0x0056a63d/0x048941/0x000052
+msgid "Take your favorite tunes with you wherever you go! Press <I=STA> to access the Controls Menu. (Cannot be used in VERSUS OPS.)"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000053
+msgid "Huey's letter to Strangelove entrusted to Snake. He made it clear he didn't want it to be read..."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000054
+msgid "Jigsaw made of steel wire. Alternate pressing the L and R buttons to use."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000055
+msgid "ID card stolen from Strangelove. Appears to open locks inside the prison, but which ones is unclear."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000056
+msgid "ID card received from Huey. Enables access to Strangelove's lab."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000057
+msgid "High-quality rangefinder camera. Equip to look through rangefinder, then press <I=ATK> to press shutter button. Photos taken can be viewed from the XMB<I=TM>."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000058
+msgid "Device that analyzes information about enemies. When equipped it will display various information on nearby enemies. Invaluable tool for executing missions."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000059
+#: slot/0x0056a63d/0x048941/0x00005a
+msgid "Device that analyzes information about enemies. Modified to improve search range, speed, and accuracy of analysis."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00005b
+msgid "Device that analyzes information about enemies. Modified to improve search range and speed."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00005c
+msgid "Device that analyzes information about enemies.  Even when unequipped, you can still gather info on enemy machinery and higher-ranking soldiers by pressing <I=STA>."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00005d
+#: slot/0x0056a63d/0x048941/0x00005e
+msgid "Special, disposable mat that renders you or a teammate invisible when prone or against a wall. To use on a teammate, press <I=ACT> next to them when the icon is displayed."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00005f
+msgid "Special camouflage that makes its user invisible when equipped."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000060
+msgid "A bigger cardboard box. Might be able to fit two people. Select from the Equipment window and press the L button to \"DROP\" in order to set (for hunter control type, press <I=LEFT>)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000061
+#: slot/0x0056a63d/0x048941/0x000062
+#: slot/0x0056a63d/0x048941/0x000063
+#: slot/0x0056a63d/0x048941/0x000064
+msgid "A bigger cardboard box. Might be able to fit two people. Modified to improve durability.  \"DROP\" to set."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000065
+#: slot/0x0056a63d/0x048941/0x000066
+#: slot/0x0056a63d/0x048941/0x000067
+#: slot/0x0056a63d/0x048941/0x000068
+#: slot/0x0056a63d/0x048941/0x000069
+msgid "A bigger cardboard box. Two people may be able to fit in."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00006a
+msgid "Combat-ready love box. Player 1 serves as driver, Player 2 as gunner. Press <I=AIM> to go into first person view and <I=ATK> to fire. \"DROP\" to set."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00006b
+#: slot/0x0056a63d/0x048941/0x00006c
+#: slot/0x0056a63d/0x048941/0x00006d
+#: slot/0x0056a63d/0x048941/0x00006e
+msgid "Combat-ready love box. Modified to improve durability.  \"DROP\" to set."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00006f
+msgid "Combat-ready love box. Player 1 serves as driver, Player 2 as gunner. Press <I=AIM> to go into first person view and <I=ATK> to fire stun shells.  \"DROP\" to set."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000070
+#: slot/0x0056a63d/0x048941/0x000071
+#: slot/0x0056a63d/0x048941/0x000072
+msgid "Combat-ready love box (equipped with stun cannon). Modified to improve durability.  \"DROP\" to set."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000073
+msgid "Combat-ready love box. Player 1 serves as driver, Player 2 as gunner. Press <I=AIM> to go into first person view and <I=ATK> to fire smoke shells.  \"DROP\" to set."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000074
+#: slot/0x0056a63d/0x048941/0x000075
+#: slot/0x0056a63d/0x048941/0x000076
+msgid "Combat-ready love box (equipped with smoke shells). Modified to improve durability. \"DROP\" to set."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000077
+msgid "Electronic optical device that detects heat sources, enabling vision in the dark. Can be used simultaneously with weapons."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000078
+#: slot/0x0056a63d/0x048941/0x000079
+#: slot/0x0056a63d/0x048941/0x00007a
+msgid "Electronic optical device that detects heat sources, enabling vision in the dark. Modified to improve performance. Battery life has also been extended."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00007b
+msgid "Electronic optical device that detects heat sources, enabling vision in the dark. Modified to consume virtually no battery power."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00007c
+msgid "Personnel recovery and evacuation system. Equip and move near desired target, then press <I=ACT> to execute recovery. (A maximum of 100 people can be recovered per mission)"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00007d
+#: slot/0x0056a63d/0x048941/0x00007e
+msgid "Personnel recovery and evacuation system. Modified so that more can be carried. (A maximum of 100 people can be recovered per mission)"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00007f
+msgid "Personnel recovery and evacuation system. Modified so that more can be carried and so that you acquire 1 item when performing a recovery. (A maximum of 100 people can be recovered per mission)"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000080
+msgid "Personnel recovery and evacuation system. Modified so that more can be carried and so that you acquire 2 items when performing a recovery. (A maximum of 100 people can be recovered per mission)"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000081
+msgid "Shield made from bulletproof material. Press the Aim Button to use. The direction protected varies according to weapon equipped."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000082
+#: slot/0x0056a63d/0x048941/0x000083
+#: slot/0x0056a63d/0x048941/0x000084
+#: slot/0x0056a63d/0x048941/0x000085
+msgid "Shield made from bulletproof material. Modified to improve durability."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000086
+msgid "Shield made from bulletproof material (colored). Press the Aim Button to use. The direction protected varies according to weapon equipped."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000087
+#: slot/0x0056a63d/0x048941/0x000088
+#: slot/0x0056a63d/0x048941/0x000089
+#: slot/0x0056a63d/0x048941/0x00008a
+msgid "Shield made from bulletproof material (colored). Modified to improve durability."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00008b
+msgid "Military binoculars for long-distance surveillance and scouting. Equip to use. Zoom can be adjusted. Cannot be used with weapons."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00008c
+msgid "Special bandana that supplies an endless amount of ammo while equipped."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00008d
+#: slot/0x0056a63d/0x048941/0x00008f
+#: slot/0x00904cff/0x87fd33/0x00008d
+msgid "Shotgun ammo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00008e
+#: slot/0x00904cff/0x87fd33/0x00008e
+msgid "Anti-tank rifle ammo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000090
+#: slot/0x0056a63d/0x048941/0x00009b
+#: slot/0x00904cff/0x87fd33/0x000090
+#: slot/0x00904cff/0x87fd33/0x00009b
+msgid "Submachine gun ammo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000091
+msgid "High-power revolver ammo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000092
+msgid "Caseless rifle ammo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000093
+msgid "Grenade launcher ammo. American-made."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000094
+msgid "Grenade launcher ammo. Soviet-made."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000095
+msgid "Large-frame pistol and submachine gun ammo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000096
+msgid "Small-caliber assault rifle ammo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000097
+#: slot/0x00904cff/0x87fd33/0x000097
+msgid "Soviet assault rifle ammo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000098
+msgid "Large-caliber rifle and machine gun ammo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000099
+#: slot/0x00904cff/0x87fd33/0x000099
+msgid "Soviet rifle and machine gun ammo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00009a
+msgid "High-power large-caliber rifle ammo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00009c
+msgid "Soviet pistol ammo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00009d
+msgid "Small high-explosive anti-tank ammo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00009e
+msgid "Special ammo that recovers its target's PSYCHE."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00009f
+msgid "Special ammo that recovers its target's LIFE."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000a0
+msgid "Special ammo that knocks its target unconscious. Hitting certain areas will quicken the effect."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000a1
+msgid "Omnidirectional sensor that visualizes nearby sounds as waveforms. The \"N\" icon points north."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000a2
+msgid "Omnidirectional sensor that visualizes nearby sounds as waveforms. The \"N\" icon points north. Modified to show precise enemy locations."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000a3
+msgid "High-power sensor that displays surrounding topography and enemy positions. Only functional in Normal Phase."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000a4
+#: slot/0x0056a63d/0x048941/0x0000a5
+#: slot/0x0056a63d/0x048941/0x0000a6
+msgid "High-power sensor that displays surrounding topography and enemy positions. Only functional in Normal Phase. Modified to extend battery life."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000a7
+msgid "High-power sensor that displays surrounding topography and enemy positions. Only functional in Normal Phase. Modified to consume virtually no battery power at all."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000a8
+msgid "Sensor that displays nearby sound sources as animated symbols. Not affected by surrounding objects. A prototype, it will only work when lying down or against a wall."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000a9
+msgid "Sensor that displays nearby sound sources as animated symbols. Symbols are displayed regardless of body position."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000aa
+#: slot/0x0056a63d/0x048941/0x0000ab
+msgid "Sensor that displays nearby sound sources as animated symbols. Modified to extend battery life."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000ac
+msgid "Sensor that displays nearby sound sources as animated symbols. Modified to consume virtually no battery power at all."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000ad
+msgid "Citrus-flavored carbonated soft drink.  Recovers PSYCHE and a small amount of LIFE. Automatically used if LIFE reaches zero when equipped."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000ae
+msgid "Zero-calorie carbonated soft drink.  Recovers PSYCHE and a small amount of LIFE. Automatically used if LIFE reaches zero when equipped."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000af
+msgid "Tasty taco-flavored tortilla chips. Recovers LIFE.  Automatically used if LIFE reaches zero when equipped."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000b0
+#: slot/0x0056a63d/0x048941/0x0000b1
+#: slot/0x0056a63d/0x048941/0x0000b2
+#: slot/0x0056a63d/0x048941/0x0000b3
+#: slot/0x0056a63d/0x048941/0x0000b4
+msgid "Cardboard box that explodes if damaged or if someone tries to see what's inside. Will inflict damage if you are inside. \"DROP\" to set."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000b5
+#: slot/0x0056a63d/0x048941/0x0000b6
+#: slot/0x0056a63d/0x048941/0x0000b7
+#: slot/0x0056a63d/0x048941/0x0000b8
+msgid "Cardboard box that explodes and stuns anyone nearby if damaged or if someone tries to see what's inside. Will inflict damage if you are inside. \"DROP\" to set."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000b9
+#: slot/0x0056a63d/0x048941/0x0000ba
+#: slot/0x0056a63d/0x048941/0x0000bb
+#: slot/0x0056a63d/0x048941/0x0000bc
+#: slot/0x0056a63d/0x048941/0x0000bd
+msgid "Cardboard box that explodes and releases smoke if damaged or if someone tries to see what's inside. Will inflict damage if you are inside. \"DROP\" to set."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000be
+msgid "Cardboard box made of straw. Allows you to pull enemies inside, knock them out, and perform a Fulton recovery."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000bf
+msgid "Special box that speeds your LIFE recovery when you are inside or a teammate's when giving CPR.   \"DROP\" to set."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000c0
+#: slot/0x0056a63d/0x048941/0x0000c1
+#: slot/0x0056a63d/0x048941/0x0000c2
+#: slot/0x0056a63d/0x048941/0x0000c3
+msgid "Special box that speeds your LIFE recovery when you are inside or a teammate's when giving CPR.R&D has increased LIFE recovery.   \"DROP\" to set."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000c4
+#: slot/0x0056a63d/0x048941/0x0000c5
+#: slot/0x0056a63d/0x048941/0x0000c6
+#: slot/0x0056a63d/0x048941/0x0000c7
+#: slot/0x0056a63d/0x048941/0x0000c8
+msgid "Undercooked Meal, Ready-to-Eat. An already unappetizing creation made worse by being undercooked. Recovers only a small amount of LIFE."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000c9
+#: slot/0x0056a63d/0x048941/0x0000ca
+#: slot/0x0056a63d/0x048941/0x0000cb
+#: slot/0x0056a63d/0x048941/0x0000cc
+#: slot/0x0056a63d/0x048941/0x0000cd
+msgid "Well-done Meal, Ready-to-Eat. Makes a revolting ration surprisingly delicious. Recovers more LIFE than normal, and also recovers PSYCHE."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000ce
+#: slot/0x0056a63d/0x048941/0x0000cf
+#: slot/0x0056a63d/0x048941/0x0000d0
+#: slot/0x0056a63d/0x048941/0x0000d1
+#: slot/0x0056a63d/0x048941/0x0000d2
+msgid "Burnt Meal, Ready-to-Eat. The only thing worse than a ration is a burnt ration. Eating it won't recover much LIFE."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000d3
+#: slot/0x0056a63d/0x048941/0x0000d4
+#: slot/0x0056a63d/0x048941/0x0000d5
+#: slot/0x0056a63d/0x048941/0x0000d6
+#: slot/0x0056a63d/0x048941/0x0000d7
+msgid "Tea that recovers PSYCHE. Select from the Equipment window and press <I=USE> to drink."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000d8
+msgid "Rubber shotgun rounds."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000d9
+msgid "Grenade launcher smoke rounds."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000da
+msgid "Soviet grenade launcher smoke rounds."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000db
+msgid "Support strike marker (fired)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000dc
+msgid "Support supply marker (fired)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000dd
+msgid "Lead ball."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000de
+msgid "Anesthetic rifle round."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000df
+msgid "Armor-piercing rifle and machine gun rounds."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000e0
+#: slot/0x00904cff/0x87fd33/0x0000e0
+msgid "Railgun ammo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000e1
+#: slot/0x00904cff/0x87fd33/0x0000e1
+msgid "RPG2 grenade."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000e2
+#: slot/0x00904cff/0x87fd33/0x0000e2
+msgid "RPG7 grenade."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000e3
+#: slot/0x00904cff/0x87fd33/0x0000e3
+msgid "Carl Gustav rounds."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000e4
+msgid "Multipurpose Carl Gustav HEAT rounds."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000e6
+#: slot/0x00904cff/0x87fd33/0x0000e6
+msgid "FIM-43 missile."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000e7
+#: slot/0x00904cff/0x87fd33/0x0000e7
+msgid "XFIM-92A missile."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000e8
+#: slot/0x00904cff/0x87fd33/0x0000e8
+msgid "M47 missile."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000e9
+#: slot/0x00904cff/0x87fd33/0x0000e9
+msgid "LAW rocket."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000ea
+#: slot/0x00904cff/0x87fd33/0x0000ea
+msgid "M202 rocket."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000eb
+msgid "Carl Gustav rounds with Fulton recovery device."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000ec
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the EZ Gun (LR)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000ed
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the EZ Gun (PR)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000ee
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the PM."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000ef
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the PB/6P9."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000f0
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M1911A1."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000f1
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M1911A1 Custom."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000f2
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the C96."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000f3
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M19."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000f4
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Kampfpistole."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000f5
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Support Supply Marker."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000f6
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Support Strike Marker."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000f7
+msgid "Confidential document (design specs for R&D Team). Details requirements for cultivating bananas."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000f8
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Twin Barrel Shotgun."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000f9
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Twin Barrel Shotgun (Rubber Slug)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000fa
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M37."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000fb
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the SPAS-12."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000fc
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the CAW."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000fd
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M16A1(STG)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000fe
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M16A1(STG + laser)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0000ff
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Patriot."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000100
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M16A1(GL)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000101
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M16A1(GL + laser)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000102
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M16A1(SGL)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000103
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M16A1(SGL + laser)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000104
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M653."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000105
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M653(GL)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000106
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M653(STG)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000107
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M653(SGL)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000108
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the RK47."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000109
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the RK47(GL)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00010a
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the ADM63."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00010b
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the ADM65."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00010c
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the RK47(SGL)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00010d
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the RPK."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00010e
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the FAL."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00010f
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the SUG."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000110
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the G11."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000111
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Tanegashima Musket."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000112
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M10."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000113
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M10(BJ)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000114
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Uz61."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000115
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the MP5A2."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000116
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the MP5SD2."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000117
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M1928A1."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000118
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M1C."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000119
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M1C (PR)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00011a
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M21."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00011b
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M700."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00011c
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M700 (LR)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00011d
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Mosin-Nagant."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00011e
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the SVD."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00011f
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the SVD(NV)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000120
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the WA2000."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000121
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the PTRD1941."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000122
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the PTRS1941."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000123
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Stealth Gun."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000124
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Railgun."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000125
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M60."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000126
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M60 (Armor Piercing)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000127
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M63A1."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000128
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the PKM."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000129
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the MG3."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00012a
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the MG3 (Armor Piercing)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00012b
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M134."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00012c
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the EM Wave Gun."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00012d
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the LAW."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00012e
+#: slot/0x0056a63d/0x048941/0x00012f
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M202A1."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000130
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the RPG-2."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000131
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the RPG-7."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000132
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the FIM-43."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000133
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the XFIM-92A."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000134
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Carl Gustav."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000135
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing Carl Gustav (Multi-Purpose)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000136
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing Carl Gustav (Fulton)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000137
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the M47."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000138
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Human Slingshot."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000139
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Stun Grenade."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00013a
+#: slot/0x0056a63d/0x048941/0x00013c
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Smoke Grenade."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00013b
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Chaff Grenade."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00013d
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Support Supply Marker (Thrown)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00013e
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Support Strike Marker (Thrown)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00013f
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the EM Net."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000140
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Sleep Gas Grenade."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000141
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the C4."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000142
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Claymore."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000143
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Magazine."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000144
+#: slot/0x0056a63d/0x048941/0x0001fb
+#: slot/0x0056a63d/0x048941/0x0001fc
+#: slot/0x0056a63d/0x048941/0x0001fd
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Hobby Magazine."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000145
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Anti-tank Mine."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000146
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Decoy."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000147
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Aerial Mine."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000148
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Sleep Gas Mine."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000149
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Cookbook."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00014a
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Support Supply Marker (Set)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00014b
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Support Strike Marker (Set)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00014c
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing  Curry."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00014d
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Stealth Mat."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00014e
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Stealth Camouflage."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00014f
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Love Box."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000150
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Cardboard Box Tank."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000151
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Night Vision Goggles."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000152
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Ballistic Shield."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000153
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Ballistic Shield (Colored)."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000154
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Infinity Bandana."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000155
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Soliton Radar."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000156
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Sonic Eye."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000157
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing Canned Soft Drinks."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000158
+msgid "Confidential document (design specs for R&DTeam). Details requirements for developing Tortilla Chips."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000159
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Box Bomb."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00015a
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Stun Box."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00015b
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Smoke Box."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00015c
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing ???"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00015d
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Assassin's Straw Box."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00015e
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Rescue Box."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00015f
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Rare-meat Ration."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000160
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Well-done Ration."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000161
+msgid "Confidential document (design specs for R&D Team). Details requirements for developing the Burnt Ration."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000162
+msgid "Top-grade Rathalos wing. The fine cut is worthy of the Sky King himself."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000163
+msgid "Thick, large Tigrex fang used to tear its prey into pieces."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000164
+msgid "Highly acidic liquid fired out by Gear Rex. Can be modified to form a powerful sticky solution."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000165
+msgid "Gear Rex's bodily fluids filtered to increase purity. Incredibly concentrated."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000166
+msgid "A distilled version of Gear Rex's filtered bodily fluids, increasing the concentration. Devastatingly concentrated."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000167
+msgid "Simple Olive Drab fatigues, offering the basic level of defense, main weapon storage, ammo storage, and camo index."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000168
+#: slot/0x0056a63d/0x048941/0x000169
+#: slot/0x0056a63d/0x048941/0x00016a
+#: slot/0x0056a63d/0x048941/0x00016b
+#: slot/0x0056a63d/0x048941/0x00016c
+#: slot/0x0056a63d/0x048941/0x00016d
+#: slot/0x0056a63d/0x048941/0x00016e
+#: slot/0x0056a63d/0x048941/0x00016f
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index in environments of a similar color."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000170
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index in jungle environments."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000171
+#: slot/0x0056a63d/0x048941/0x000172
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index near water."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000173
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index in dirt or sand environments."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000174
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index in rocky environments."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000175
+#: slot/0x0056a63d/0x048941/0x000176
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index in environments with a lot of wooden buildings."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000177
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index in environments with a lot of concrete."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000178
+msgid "Variation of Jungle Fatigues camouflage. Said to raise camo index in a certain environment, but where remains a mystery."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000179
+msgid "Variation of Jungle Fatigues camouflage. Slightly increases the diameter of the CO-OPS boundary line."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00017a
+msgid "Variation of Jungle Fatigues camouflage. Slightly increases gun performance."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00017b
+msgid "Variation of Jungle Fatigues camouflage. Inspired by a legendary scout's camo of choice. Its look and scent forge a bond with nature, giving an extremely high camo index."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00017c
+msgid "Variation of Jungle Fatigues camouflage. Sorely needing a wash, these fatigues are a weapon in their own right - one whiff is enough to knock out those unaccustomed to them."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00017d
+msgid "Variation of Jungle Fatigues camouflage. Grants the wearer Tigrex's powerful charging ability, allowing them to knock enemies out with a single roll."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00017e
+msgid "Variation of Jungle Fatigues camouflage. Adds Rathalos's Bind Voice ability to CO-OPS messages. Battle Cry can then stop enemies from moving!"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00017f
+msgid "Variation of Jungle Fatigues camouflage. Grants the wearer the ability to steal PSYCHE from enemies after grabbing them."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000180
+msgid "Special suit with a high camo index in many environments and during movement. Speeds LIFE recovery, but has less main weapon ammo storage. For true stealth soldiers."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000181
+msgid "Special combat suit with high defense and main weapon and ammo storage. Provides a lower camo index, ideal for a mix of combat and solo sneaking."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000182
+msgid "Battle Dress with bulletproof helmet. Further raises the already impressive defense of Battle Dress. Turns a soldier into a walking tank."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000183
+msgid "Fatigues with low defense, camo index, and main weapon ammo storage, but high movement speed. Good for players who like raw, intense combat."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000184
+#: slot/0x0056a63d/0x048941/0x000185
+#: slot/0x0056a63d/0x048941/0x000186
+#: slot/0x0056a63d/0x048941/0x000187
+#: slot/0x0056a63d/0x048941/0x000188
+#: slot/0x0056a63d/0x048941/0x000189
+#: slot/0x0056a63d/0x048941/0x00018a
+#: slot/0x0056a63d/0x048941/0x00018b
+msgid "Variation of Naked with camouflage pants. Raises camo index in environments of a similar color, but only half as much as full-body camo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00018c
+msgid "Variation of Naked with camouflage pants. Raises camo index in jungle environments, but only half as much as full-body camo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00018d
+#: slot/0x0056a63d/0x048941/0x00018e
+msgid "Variation of Naked with camouflage pants. Raises camo index near water, but only half as much as full-body camo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00018f
+msgid "Variation of Naked with camouflage pants. Raises camo index in dirt or sand environments, but only half as much as full-body camo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000190
+msgid "Variation of Naked with camouflage pants. Raises camo index in rocky environments, but only half as much as full-body camo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000191
+#: slot/0x0056a63d/0x048941/0x000192
+msgid "Variation of Naked with camouflage pants. Raises camo index in environments with a lot of wooden buildings, but only half as much as full-body camo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000193
+msgid "Variation of Naked with camouflage pants. Raises camo index in environments with a lot of concrete, but only half as much as full-body camo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000194
+msgid "Variation of Naked with camouflage pants. Said to raise camo index in a certain environment, but where remains a mystery."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000195
+msgid "A tuxedo. Though not exactly suited for combat missions, you're sure to be the best-dressed. Very low camo index."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000196
+msgid "Same fatigues as Miller. Identical in basic characteristics to Jungle Fatigues, but LIFE recovery and movement speed are slightly higher. For men only."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000197
+msgid "Same fatigues as Amanda. Identical in basic characteristics to Jungle Fatigues, but LIFE recovery and movement speed are slightly higher. For women only."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000198
+msgid "Male bathing suit. Possesses lowest attack and defense. Why anyone would wear these on a battlefield is a mystery. The only benefit is faster movement speed."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x000199
+msgid "Female bathing suit. Possesses lowest attack and defense. Why anyone would wear this on a battlefield is a mystery. The only benefit is faster movement speed."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x00019a
+#: slot/0x0056a63d/0x048941/0x00019b
+#: slot/0x0056a63d/0x048941/0x00019c
+#: slot/0x0056a63d/0x048941/0x00019d
+#: slot/0x0056a63d/0x048941/0x00019e
+#: slot/0x0056a63d/0x048941/0x00019f
+#: slot/0x0056a63d/0x048941/0x0001a0
+#: slot/0x0056a63d/0x048941/0x0001a1
+#: slot/0x0056a63d/0x048941/0x0001a2
+#: slot/0x0056a63d/0x048941/0x0001a3
+#: slot/0x0056a63d/0x048941/0x0001a4
+#: slot/0x0056a63d/0x048941/0x0001a5
+#: slot/0x0056a63d/0x048941/0x0001a6
+#: slot/0x0056a63d/0x048941/0x0001a7
+#: slot/0x0056a63d/0x048941/0x0001a8
+msgid "T-shirt designed by Uniqlo. Identical to Jungle Fatigues in basic characteristics. Now you can look good while getting your sneak on!"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001a9
+msgid "Plain white t-shirt. Identical to Jungle Fatigues in basic characteristics such as defense and weapon storage."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001aa
+#: slot/0x0056a63d/0x048941/0x0001ab
+#: slot/0x0056a63d/0x048941/0x0001ac
+#: slot/0x0056a63d/0x048941/0x0001b2
+#: slot/0x0056a63d/0x22af99/0x0001aa
+#: slot/0x0056a63d/0x22af99/0x0001ab
+#: slot/0x0056a63d/0x22af99/0x0001ac
+#: slot/0x0056a63d/0x22af99/0x0001b2
+#: slot/0x0056a63d/0x954c25/0x0001aa
+#: slot/0x0056a63d/0x954c25/0x0001ab
+#: slot/0x0056a63d/0x954c25/0x0001ac
+#: slot/0x0056a63d/0x954c25/0x0001b2
+#: slot/0x00b4d9c8/0x4e7980/0x0001aa
+#: slot/0x00b4d9c8/0x4e7980/0x0001ab
+#: slot/0x00b4d9c8/0x4e7980/0x0001ac
+#: slot/0x00b4d9c8/0x4e7980/0x0001b2
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6ec
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6ed
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6ee
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6ef
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d706
+msgid "(dummy)"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001ae
+msgid "Variation of Jungle Fatigues camouflage. Raises camo index slightly when standing on jungle or dirt surfaces."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001af
+msgid "Original t-shirt design. Identical in basic characteristics to Jungle Fatigues. WALKMAN fans, show your support!"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001b0
+msgid "Variation of Naked with camouflage pants. Raises camo index when standing on jungle or dirt surfaces, but only half as much as full-body camo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001b3
+msgid "T-shirt with the FOX insignia. Identical in basic characteristics to Jungle Fatigues. Become an honorary member of the legendary Special Forces unit!"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001b4
+msgid "Uniform of Russian commandos who participated in the operation to take control of the U.S. Missile Base in Nicaragua. Same as Jungle Fatigues in defense and weapon storage. (VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001b5
+msgid "Uniform of Russian soldiers who participated in the operation to take control of the U.S. Missile Base in Nicaragua. Same as Jungle Fatigues in defense and weapon storage. (VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001b6
+msgid "Uniform of CIA mercenaries from scout missions. Identical to Jungle Fatigues in basic characteristics such as defense and weapon storage.(VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001b7
+msgid "Uniform of CIA mercenaries who participated in the base security missions in Costa Rica. Identical to Jungle Fatigues in defense and weapon storage.(VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001b8
+msgid "Equipment of CIA mercenaries from assault missions. Identical to Jungle Fatigues in basic characteristics such as defense and weapon storage.(VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001b9
+msgid "Prison uniform worn by freed male prisoners. Identical to Jungle Fatigues in basic characteristics such as defense and weapon storage.(VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001ba
+msgid "Uniform of CIA mercenaries who participated in the field patrol missions in Costa Rica. Identical to Jungle Fatigues in basic characteristics such as defense and weapon storage.(VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001bb
+msgid "Prison uniform worn by freed female prisoners. Identical to Jungle Fatigues in basic characteristics such as defense and weapon storage.(VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001bc
+msgid "Uniform of mechanics who worked at the AI Weapon Hangar in Nicaragua. Identical to Jungle Fatigues in basic characteristics such as defense and weapon storage. (VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001bd
+msgid "Uniform of CIA mercenaries who accompanied attack chopper and ground vehicles. Identical to Jungle Fatigues in basic characteristics such as defense and weapon storage. (VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001be
+msgid "Small-caliber armor-piercing assault rifle ammo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001bf
+msgid "Soviet armor-piercing rifle and machine gun ammo."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001c0
+#: slot/0x0056a63d/0x048941/0x0001c1
+#: slot/0x0056a63d/0x048941/0x0001c2
+#: slot/0x0056a63d/0x048941/0x0001c3
+#: slot/0x0056a63d/0x048941/0x0001c4
+#: slot/0x0056a63d/0x048941/0x0001c5
+#: slot/0x0056a63d/0x048941/0x0001c6
+#: slot/0x0056a63d/0x048941/0x0001c7
+#: slot/0x0056a63d/0x048941/0x0001c8
+#: slot/0x0056a63d/0x048941/0x0001c9
+#: slot/0x0056a63d/0x048941/0x0001ca
+#: slot/0x0056a63d/0x048941/0x0001cb
+#: slot/0x0056a63d/0x048941/0x0001cc
+#: slot/0x0056a63d/0x048941/0x0001cd
+#: slot/0x0056a63d/0x048941/0x0001ce
+#: slot/0x0056a63d/0x048941/0x0001cf
+#: slot/0x0056a63d/0x048941/0x0001d0
+#: slot/0x0056a63d/0x048941/0x0001d1
+#: slot/0x0056a63d/0x048941/0x0001d2
+#: slot/0x0056a63d/0x048941/0x0001d3
+#: slot/0x0056a63d/0x048941/0x0001d4
+#: slot/0x0056a63d/0x048941/0x0001d5
+#: slot/0x0056a63d/0x048941/0x0001d6
+#: slot/0x0056a63d/0x048941/0x0001d7
+#: slot/0x0056a63d/0x048941/0x0001d8
+#: slot/0x0056a63d/0x048941/0x0001d9
+#: slot/0x0056a63d/0x048941/0x0001da
+#: slot/0x0056a63d/0x048941/0x0001db
+#: slot/0x0056a63d/0x048941/0x0001dc
+#: slot/0x0056a63d/0x048941/0x0001dd
+#: slot/0x0056a63d/0x048941/0x0001de
+#: slot/0x0056a63d/0x048941/0x0001df
+#: slot/0x0056a63d/0x048941/0x0001e0
+#: slot/0x0056a63d/0x048941/0x0001e1
+#: slot/0x0056a63d/0x048941/0x0001e2
+#: slot/0x0056a63d/0x048941/0x0001e3
+#: slot/0x0056a63d/0x048941/0x0001e4
+#: slot/0x0056a63d/0x048941/0x0001e5
+#: slot/0x0056a63d/0x048941/0x0001e6
+#: slot/0x0056a63d/0x048941/0x0001e7
+#: slot/0x0056a63d/0x048941/0x0001e8
+#: slot/0x0056a63d/0x048941/0x0001e9
+#: slot/0x0056a63d/0x048941/0x0001ea
+#: slot/0x0056a63d/0x048941/0x0001eb
+#: slot/0x0056a63d/0x048941/0x0001ec
+#: slot/0x0056a63d/0x048941/0x0001ed
+#: slot/0x0056a63d/0x048941/0x0001ee
+#: slot/0x0056a63d/0x048941/0x0001ef
+#: slot/0x0056a63d/0x048941/0x0001f0
+#: slot/0x0056a63d/0x048941/0x0001f1
+#: slot/0x0056a63d/0x048941/0x0001f2
+#: slot/0x0056a63d/0x048941/0x0001f3
+#: slot/0x0056a63d/0x048941/0x0001f4
+#: slot/0x0056a63d/0x048941/0x0001f5
+#: slot/0x0056a63d/0x048941/0x0001f6
+#: slot/0x0056a63d/0x048941/0x0001f7
+#: slot/0x0056a63d/0x048941/0x0001f8
+#: slot/0x0056a63d/0x048941/0x0001f9
+#: slot/0x0056a63d/0x22af99/0x0001c0
+#: slot/0x0056a63d/0x22af99/0x0001c1
+#: slot/0x0056a63d/0x22af99/0x0001c2
+#: slot/0x0056a63d/0x22af99/0x0001c3
+#: slot/0x0056a63d/0x22af99/0x0001c4
+#: slot/0x0056a63d/0x22af99/0x0001c5
+#: slot/0x0056a63d/0x22af99/0x0001c6
+#: slot/0x0056a63d/0x22af99/0x0001c7
+#: slot/0x0056a63d/0x22af99/0x0001c8
+#: slot/0x0056a63d/0x22af99/0x0001c9
+#: slot/0x0056a63d/0x22af99/0x0001ca
+#: slot/0x0056a63d/0x22af99/0x0001cb
+#: slot/0x0056a63d/0x22af99/0x0001cc
+#: slot/0x0056a63d/0x22af99/0x0001cd
+#: slot/0x0056a63d/0x22af99/0x0001ce
+#: slot/0x0056a63d/0x22af99/0x0001cf
+#: slot/0x0056a63d/0x22af99/0x0001d0
+#: slot/0x0056a63d/0x22af99/0x0001d1
+#: slot/0x0056a63d/0x22af99/0x0001d2
+#: slot/0x0056a63d/0x22af99/0x0001d3
+#: slot/0x0056a63d/0x22af99/0x0001d4
+#: slot/0x0056a63d/0x22af99/0x0001d5
+#: slot/0x0056a63d/0x22af99/0x0001d6
+#: slot/0x0056a63d/0x22af99/0x0001d7
+#: slot/0x0056a63d/0x22af99/0x0001d8
+#: slot/0x0056a63d/0x22af99/0x0001d9
+#: slot/0x0056a63d/0x22af99/0x0001da
+#: slot/0x0056a63d/0x22af99/0x0001db
+#: slot/0x0056a63d/0x22af99/0x0001dc
+#: slot/0x0056a63d/0x22af99/0x0001dd
+#: slot/0x0056a63d/0x22af99/0x0001de
+#: slot/0x0056a63d/0x22af99/0x0001df
+#: slot/0x0056a63d/0x22af99/0x0001e0
+#: slot/0x0056a63d/0x22af99/0x0001e1
+#: slot/0x0056a63d/0x22af99/0x0001e2
+#: slot/0x0056a63d/0x22af99/0x0001e3
+#: slot/0x0056a63d/0x22af99/0x0001e4
+#: slot/0x0056a63d/0x22af99/0x0001e5
+#: slot/0x0056a63d/0x22af99/0x0001e6
+#: slot/0x0056a63d/0x22af99/0x0001e7
+#: slot/0x0056a63d/0x22af99/0x0001e8
+#: slot/0x0056a63d/0x22af99/0x0001e9
+#: slot/0x0056a63d/0x22af99/0x0001ea
+#: slot/0x0056a63d/0x22af99/0x0001eb
+#: slot/0x0056a63d/0x22af99/0x0001ec
+#: slot/0x0056a63d/0x22af99/0x0001ed
+#: slot/0x0056a63d/0x22af99/0x0001ee
+#: slot/0x0056a63d/0x22af99/0x0001ef
+#: slot/0x0056a63d/0x22af99/0x0001f0
+#: slot/0x0056a63d/0x22af99/0x0001f1
+#: slot/0x0056a63d/0x22af99/0x0001f2
+#: slot/0x0056a63d/0x22af99/0x0001f3
+#: slot/0x0056a63d/0x22af99/0x0001f4
+#: slot/0x0056a63d/0x22af99/0x0001f5
+#: slot/0x0056a63d/0x22af99/0x0001f6
+#: slot/0x0056a63d/0x22af99/0x0001f7
+#: slot/0x0056a63d/0x22af99/0x0001f8
+#: slot/0x0056a63d/0x22af99/0x0001f9
+#: slot/0x0056a63d/0x954c25/0x0001c0
+#: slot/0x0056a63d/0x954c25/0x0001c1
+#: slot/0x0056a63d/0x954c25/0x0001c2
+#: slot/0x0056a63d/0x954c25/0x0001c3
+#: slot/0x0056a63d/0x954c25/0x0001c4
+#: slot/0x0056a63d/0x954c25/0x0001c5
+#: slot/0x0056a63d/0x954c25/0x0001c6
+#: slot/0x0056a63d/0x954c25/0x0001c7
+#: slot/0x0056a63d/0x954c25/0x0001c8
+#: slot/0x0056a63d/0x954c25/0x0001c9
+#: slot/0x0056a63d/0x954c25/0x0001ca
+#: slot/0x0056a63d/0x954c25/0x0001cb
+#: slot/0x0056a63d/0x954c25/0x0001cc
+#: slot/0x0056a63d/0x954c25/0x0001cd
+#: slot/0x0056a63d/0x954c25/0x0001ce
+#: slot/0x0056a63d/0x954c25/0x0001cf
+#: slot/0x0056a63d/0x954c25/0x0001d0
+#: slot/0x0056a63d/0x954c25/0x0001d1
+#: slot/0x0056a63d/0x954c25/0x0001d2
+#: slot/0x0056a63d/0x954c25/0x0001d3
+#: slot/0x0056a63d/0x954c25/0x0001d4
+#: slot/0x0056a63d/0x954c25/0x0001d5
+#: slot/0x0056a63d/0x954c25/0x0001d6
+#: slot/0x0056a63d/0x954c25/0x0001d7
+#: slot/0x0056a63d/0x954c25/0x0001d8
+#: slot/0x0056a63d/0x954c25/0x0001d9
+#: slot/0x0056a63d/0x954c25/0x0001da
+#: slot/0x0056a63d/0x954c25/0x0001db
+#: slot/0x0056a63d/0x954c25/0x0001dc
+#: slot/0x0056a63d/0x954c25/0x0001dd
+#: slot/0x0056a63d/0x954c25/0x0001de
+#: slot/0x0056a63d/0x954c25/0x0001df
+#: slot/0x0056a63d/0x954c25/0x0001e0
+#: slot/0x0056a63d/0x954c25/0x0001e1
+#: slot/0x0056a63d/0x954c25/0x0001e2
+#: slot/0x0056a63d/0x954c25/0x0001e3
+#: slot/0x0056a63d/0x954c25/0x0001e4
+#: slot/0x0056a63d/0x954c25/0x0001e5
+#: slot/0x0056a63d/0x954c25/0x0001e6
+#: slot/0x0056a63d/0x954c25/0x0001e7
+#: slot/0x0056a63d/0x954c25/0x0001e8
+#: slot/0x0056a63d/0x954c25/0x0001e9
+#: slot/0x0056a63d/0x954c25/0x0001ea
+#: slot/0x0056a63d/0x954c25/0x0001eb
+#: slot/0x0056a63d/0x954c25/0x0001ec
+#: slot/0x0056a63d/0x954c25/0x0001ed
+#: slot/0x0056a63d/0x954c25/0x0001ee
+#: slot/0x0056a63d/0x954c25/0x0001ef
+#: slot/0x0056a63d/0x954c25/0x0001f0
+#: slot/0x0056a63d/0x954c25/0x0001f1
+#: slot/0x0056a63d/0x954c25/0x0001f2
+#: slot/0x0056a63d/0x954c25/0x0001f3
+#: slot/0x0056a63d/0x954c25/0x0001f4
+#: slot/0x0056a63d/0x954c25/0x0001f5
+#: slot/0x0056a63d/0x954c25/0x0001f6
+#: slot/0x0056a63d/0x954c25/0x0001f7
+#: slot/0x0056a63d/0x954c25/0x0001f8
+#: slot/0x0056a63d/0x954c25/0x0001f9
+#: slot/0x00b4d9c8/0x4e7980/0x0001c0
+#: slot/0x00b4d9c8/0x4e7980/0x0001c1
+#: slot/0x00b4d9c8/0x4e7980/0x0001c2
+#: slot/0x00b4d9c8/0x4e7980/0x0001c3
+#: slot/0x00b4d9c8/0x4e7980/0x0001c4
+#: slot/0x00b4d9c8/0x4e7980/0x0001c5
+#: slot/0x00b4d9c8/0x4e7980/0x0001c6
+#: slot/0x00b4d9c8/0x4e7980/0x0001c7
+#: slot/0x00b4d9c8/0x4e7980/0x0001c8
+#: slot/0x00b4d9c8/0x4e7980/0x0001c9
+#: slot/0x00b4d9c8/0x4e7980/0x0001ca
+#: slot/0x00b4d9c8/0x4e7980/0x0001cb
+#: slot/0x00b4d9c8/0x4e7980/0x0001cc
+#: slot/0x00b4d9c8/0x4e7980/0x0001cd
+#: slot/0x00b4d9c8/0x4e7980/0x0001ce
+#: slot/0x00b4d9c8/0x4e7980/0x0001cf
+#: slot/0x00b4d9c8/0x4e7980/0x0001d0
+#: slot/0x00b4d9c8/0x4e7980/0x0001d1
+#: slot/0x00b4d9c8/0x4e7980/0x0001d2
+#: slot/0x00b4d9c8/0x4e7980/0x0001d3
+#: slot/0x00b4d9c8/0x4e7980/0x0001d4
+#: slot/0x00b4d9c8/0x4e7980/0x0001d5
+#: slot/0x00b4d9c8/0x4e7980/0x0001d6
+#: slot/0x00b4d9c8/0x4e7980/0x0001d7
+#: slot/0x00b4d9c8/0x4e7980/0x0001d8
+#: slot/0x00b4d9c8/0x4e7980/0x0001d9
+#: slot/0x00b4d9c8/0x4e7980/0x0001da
+#: slot/0x00b4d9c8/0x4e7980/0x0001db
+#: slot/0x00b4d9c8/0x4e7980/0x0001dc
+#: slot/0x00b4d9c8/0x4e7980/0x0001dd
+#: slot/0x00b4d9c8/0x4e7980/0x0001de
+#: slot/0x00b4d9c8/0x4e7980/0x0001df
+#: slot/0x00b4d9c8/0x4e7980/0x0001e0
+#: slot/0x00b4d9c8/0x4e7980/0x0001e1
+#: slot/0x00b4d9c8/0x4e7980/0x0001e2
+#: slot/0x00b4d9c8/0x4e7980/0x0001e3
+#: slot/0x00b4d9c8/0x4e7980/0x0001e4
+#: slot/0x00b4d9c8/0x4e7980/0x0001e5
+#: slot/0x00b4d9c8/0x4e7980/0x0001e6
+#: slot/0x00b4d9c8/0x4e7980/0x0001e7
+#: slot/0x00b4d9c8/0x4e7980/0x0001e8
+#: slot/0x00b4d9c8/0x4e7980/0x0001e9
+#: slot/0x00b4d9c8/0x4e7980/0x0001ea
+#: slot/0x00b4d9c8/0x4e7980/0x0001eb
+#: slot/0x00b4d9c8/0x4e7980/0x0001ec
+#: slot/0x00b4d9c8/0x4e7980/0x0001ed
+#: slot/0x00b4d9c8/0x4e7980/0x0001ee
+#: slot/0x00b4d9c8/0x4e7980/0x0001ef
+#: slot/0x00b4d9c8/0x4e7980/0x0001f0
+#: slot/0x00b4d9c8/0x4e7980/0x0001f1
+#: slot/0x00b4d9c8/0x4e7980/0x0001f2
+#: slot/0x00b4d9c8/0x4e7980/0x0001f3
+#: slot/0x00b4d9c8/0x4e7980/0x0001f4
+#: slot/0x00b4d9c8/0x4e7980/0x0001f5
+#: slot/0x00b4d9c8/0x4e7980/0x0001f6
+#: slot/0x00b4d9c8/0x4e7980/0x0001f7
+#: slot/0x00b4d9c8/0x4e7980/0x0001f8
+#: slot/0x00b4d9c8/0x4e7980/0x0001f9
+msgid "TEMP"
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001fa
+msgid "ID card stolen from enemy patrolman. Unlike the card received from Huey, this will actually enable access to Strangelove's lab."
+msgstr ""
+
+#: slot/0x0056a63d/0x048941/0x0001fe
+msgid "Confidential document (design specs for R&DTeam). Details requirements for developing Cologne."
+msgstr ""
+
+#: slot/0x0056a63d/0x22af99/0x00003f
+#: slot/0x0056a63d/0x22af99/0x000040
+#: slot/0x0056a63d/0x22af99/0x000041
+#: slot/0x0056a63d/0x22af99/0x000042
+#: slot/0x0056a63d/0x22af99/0x000043
+#: slot/0x00b4d9c8/0x4e7980/0x00003f
+#: slot/0x00b4d9c8/0x4e7980/0x000040
+#: slot/0x00b4d9c8/0x4e7980/0x000041
+#: slot/0x00b4d9c8/0x4e7980/0x000042
+#: slot/0x00b4d9c8/0x4e7980/0x000043
+msgid "RATION"
+msgstr ""
+
+#: slot/0x0056a63d/0x22af99/0x000044
+#: slot/0x0056a63d/0x22af99/0x000045
+#: slot/0x00b4d9c8/0x4e7980/0x000044
+#: slot/0x00b4d9c8/0x4e7980/0x000045
+msgid "S.CURRY"
+msgstr ""

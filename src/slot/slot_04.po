@@ -1,0 +1,1672 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF slot 4/26\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: slot\n"
+"X-PWSF-Entries: 400\n"
+
+
+#: slot/0x002e0fee/0x1a3e77/0x0871d9
+msgid "Ctl-Chrysalis-019Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871f0
+msgid "Ctl-Chrysalis-020Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871f1
+msgid "Ctl-Chrysalis-021Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871f2
+msgid "Ctl-Chrysalis-022Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871f3
+msgid "Ctl-Chrysalis-023Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871f4
+msgid "Ctl-Chrysalis-024Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871f5
+msgid "Ctl-Chrysalis-025Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871f6
+msgid "Ctl-Cocoon-026Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871f7
+msgid "Ctl-Cocoon-027Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871f8
+msgid "Ctl-Cocoon-028Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871f9
+msgid "Ctl-Cocoon-029Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087210
+msgid "Ctl-Cocoon-030Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087211
+msgid "Ctl-Cocoon-031Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087212
+msgid "Ctl-Cocoon-032Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087213
+msgid "Ctl-Cocoon-033Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087214
+msgid "Ctl-Cocoon-034Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087215
+msgid "Ctl-Cocoon-035Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087216
+msgid "Ctl-Cocoon-036Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087217
+msgid "Ctl-Cocoon-037Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087218
+msgid "Ctl-Cocoon-038Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087219
+msgid "Ctl-Cocoon-039Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087230
+msgid "Ctl-Cocoon-040Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087231
+msgid "Ctl-Cocoon-041Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087232
+msgid "Ctl-Cocoon-042Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087233
+msgid "Ctl-Cocoon-043Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087234
+msgid "Ctl-Cocoon-044Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087235
+msgid "Ctl-Cocoon-045Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087236
+msgid "Ctl-Cocoon-046Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087237
+msgid "Ctl-Cocoon-047Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087238
+msgid "Ctl-Cocoon-048Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087239
+msgid "Ctl-Cocoon-049Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087250
+msgid "Ctl-Cocoon-050Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087251
+msgid "Ctl-Aurelia-051Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087252
+msgid "Ctl-Aurelia-052Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087253
+msgid "Ctl-Aurelia-053Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087254
+msgid "Ctl-Aurelia-054Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087255
+msgid "Ctl-Aurelia-055Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087256
+msgid "Ctl-Aurelia-056Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087257
+msgid "Ctl-Aurelia-057Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087258
+msgid "Ctl-Aurelia-058Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087259
+msgid "Ctl-Aurelia-059Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087270
+msgid "Ctl-Aurelia-060Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087271
+msgid "Ctl-Aurelia-061Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087272
+msgid "Ctl-Aurelia-062Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087273
+msgid "Ctl-Aurelia-063Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087274
+msgid "Ctl-Aurelia-064Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087275
+msgid "Ctl-Aurelia-065Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087276
+msgid "Ctl-Aurelia-066Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087277
+msgid "Ctl-Aurelia-067Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087278
+msgid "Ctl-Aurelia-068Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087279
+msgid "Ctl-Aurelia-069Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087290
+msgid "Ctl-Aurelia-070Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087291
+msgid "Ctl-Aurelia-071Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087292
+msgid "Ctl-Aurelia-072Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087293
+msgid "Ctl-Aurelia-073Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087294
+msgid "Ctl-Aurelia-074Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087295
+msgid "Ctl-Aurelia-075Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087296
+msgid "Ctl-Aurelia-076Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087297
+msgid "Ctl-Aurelia-077Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087298
+msgid "Ctl-Aurelia-078Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x087299
+msgid "Ctl-Aurelia-079Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872b0
+msgid "Ctl-Aurelia-080Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872b1
+msgid "Ctl-Aurelia-081Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872b2
+msgid "Ctl-Aurelia-082Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872b3
+msgid "Ctl-Aurelia-083Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872b4
+msgid "Ctl-Aurelia-084Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872b5
+msgid "Ctl-Aurelia-085Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872b6
+msgid "Ctl-Aurelia-086Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872b7
+msgid "Ctl-Aurelia-087Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872b8
+msgid "Ctl-Aurelia-088Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872b9
+msgid "Ctl-Aurelia-089Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872d0
+msgid "Ctl-Aurelia-090Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872d1
+msgid "Ctl-Aurelia-091Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872d2
+msgid "Ctl-Aurelia-092Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872d3
+msgid "Ctl-Aurelia-093Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872d4
+msgid "Ctl-Aurelia-094Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872d5
+msgid "Ctl-Aurelia-095Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872d6
+msgid "Ctl-Aurelia-096Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872d7
+msgid "Ctl-Aurelia-097Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872d8
+msgid "Ctl-Aurelia-098Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0872d9
+msgid "Ctl-Aurelia-099Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0875b0
+msgid "Ctl-Aurelia-100Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x08cbb2
+msgid "VIEWER CONTROLS"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0942b7
+msgid "ORANGE"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0a74de
+msgid "AI STORAGE"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0b6ad2
+#: slot/0x0056a63d/0x22af99/0x00016b
+#: slot/0x00b4d9c8/0x4e7980/0x00016b
+msgid "WHITE"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0bd638
+#: slot/0x0052e4f8/0x1bca3f/0x0000ba
+#: slot/0x0052e4f8/0x1bca3f/0x0000bb
+#: slot/0x0052e4f8/0x1bca3f/0x0000bc
+#: slot/0x0052e4f8/0x1bca3f/0x00020a
+#: slot/0x00c48887/0xae0b2a/0x0000ba
+#: slot/0x00c48887/0xae0b2a/0x0000bb
+#: slot/0x00c48887/0xae0b2a/0x0000bc
+#: slot/0x00c48887/0xae0b2a/0x00020a
+msgid "RAILGUN"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0e97d2
+msgid "Head parts for Metal Gear ZEKE. Equipped with a machine gun with high initial velocity."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0f73f6
+msgid "STATUS NOTIFICATION"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x1058fa
+#: slot/0x0056a63d/0x22af99/0x00016f
+#: slot/0x00b4d9c8/0x4e7980/0x00016f
+msgid "GREEN"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x120183
+msgid "AI PARTS"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x160fc6
+msgid "Head parts taken from Pupa. Can unleash powerful electric shock attack."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x16ad9f
+msgid "SALMON PINK"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x182c55
+msgid "BODY COLOR"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x18a17b
+msgid "SKY BLUE"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x1d1581
+msgid "LINE COLOR"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x1fd8ae
+msgid "LEG PARTS"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x209a11
+msgid "Dispatch Requirements"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x23ecf0
+msgid "A jet pack. Increases evasion."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x2448a1
+msgid "Leg parts taken from Peace Walker. Bipedal locomotion system with exceptional mobility."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x246367
+msgid "Head parts taken from Peace Walker. Unleashes the poison of the basilisk as a beam."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x295c8d
+msgid "STATUS"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x29df0a
+msgid "SAGE GREEN"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x2a2ec1
+msgid "Additional armor. Increases defense."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x2c74c6
+msgid "View the memory boards in the AI pod."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x2e268b
+msgid "OLIVE DRAB"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x3157eb
+msgid "A radome. Increases accuracy."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x33bfbf
+msgid "Set Metal Gear ZEKE's optional parts."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x352d1e
+msgid "Mobility"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x352d1f
+msgid "Sense"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x352d21
+msgid "Control"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x3ebbdc
+#: slot/0x0056a63d/0x22af99/0x00016d
+#: slot/0x00b4d9c8/0x4e7980/0x00016d
+msgid "YELLOW"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x40ff4d
+#: slot/0x002e0fee/0x1a3e77/0xe35285
+#: slot/0x002e0fee/0x1a3e77/0xe352c5
+#: slot/0x002e0fee/0x1a3e77/0xe35305
+#: slot/0x002e0fee/0x1a3e77/0xe35345
+msgid "OPTIONAL PARTS"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x41cb59
+msgid "PURPLE"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x41ed5f
+msgid "VOCALOID SETTINGS"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x429493
+msgid "A railgun. Increases attack."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x48b10e
+msgid "A damaged power unit. When you collect enough, you complete a functional power unit."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x4a3888
+msgid "DARK GREEN"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x4ad529
+msgid "JET PACK"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x4b49b5
+#: slot/0x0056a63d/0x22af99/0x000169
+#: slot/0x00b4d9c8/0x4e7980/0x000169
+msgid "KHAKI"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x4deb5f
+msgid "RADOME"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x4e1477
+msgid "Change power unit. You can store up to 3 power units in your inventory."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x520f09
+msgid "LIME GREEN"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x52b2bf
+msgid "TEST"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x5564ae
+msgid "HEAD PARTS"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x59e230
+msgid "Change leg parts. You can store up to 3 leg parts of each leg type in your inventory."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x5a0377
+msgid "POWER UNIT"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x5a1c36
+msgid "Leg Parts"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x5ab860
+msgid "Change head parts. You can store up to 5 head parts of each head type in your inventory."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x5af266
+#: slot/0x007b474a/0xbf29c8/0xbca8d2
+msgid "Head Parts"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x5ce94b
+msgid "Leg parts for Metal Gear ZEKE. Bipedal locomotion system with high mobility."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x5decc5
+#: slot/0x0083b291/0x77a106/0x41b85d
+msgid "BLUE"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x5e4319
+msgid "Change Metal Gear ZEKE's paint job. Set both BODY COLOR and LINE COLOR."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x608259
+msgid "GRAY"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x6263cd
+msgid "Walk Unit"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x63ba35
+msgid "(不要)テロップサンプル"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x64d051
+#: slot/0x002e0fee/0x1a3e77/0x64f672
+#: slot/0x002e0fee/0x1a3e77/0x68cc7e
+#: slot/0x002e0fee/0x1a3e77/0x69a2ae
+#: slot/0x002e0fee/0x1a3e77/0x711415
+#: slot/0x002e0fee/0x1a3e77/0x9d784c
+#: slot/0x002e0fee/0x1a3e77/0xb9ae3f
+#: slot/0x002e0fee/0x1a3e77/0xf2786f
+msgid "NOT EQUIPPED"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x64dfeb
+#: slot/0x0056a63d/0x22af99/0x00016e
+#: slot/0x00b4d9c8/0x4e7980/0x00016e
+msgid "PINK"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x661b16
+msgid "A power unit for Metal Gear ZEKE. Supplies power to head and leg parts."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x663fe4
+#: slot/0x0068bf67/0x7c7faa/0x743b1e
+msgid "SAND"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x667ac3
+#: slot/0x0074a6ca/0x19fb4c/0x01f375
+#: slot/0x0074a6ca/0xcc177c/0x1adf49
+msgid "SPECS"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x6a33a6
+msgid "Enlarge: L button"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x6a33a7
+msgid "Reduce: R button"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x6a33a8
+msgid "Rotate Camera: Analog stick"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x6a33a9
+#: slot/0x00d9af4c/0x5f753b/0x88adbe
+msgid "Switch Cameras: Left/Right buttons"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x6a33aa
+#: slot/0x00d9af4c/0x5f753b/0x28adc1
+#: slot/0x00d9af4c/0x5f753b/0x48adc0
+#: slot/0x00d9af4c/0x5f753b/0x68adbd
+#: slot/0x00d9af4c/0x5f753b/0x88adc1
+#: slot/0x00d9af4c/0x5f753b/0xa8adc0
+#: slot/0x00d9af4c/0x5f753b/0xc8adbf
+msgid "Back: <I=CAN>"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x6a6c8c
+msgid "View Metal Gear ZEKE's current capabilities."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x7254af
+msgid "Select the timing for dialogue playback."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x7254b0
+msgid "Select the dialogue to play."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x7765dc
+msgid "Discard this part?"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x7dc1d0
+msgid "Set the VOCALOID in Metal Gear ZEKE."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x83f460
+msgid "MAGENTA"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x90d5b5
+msgid "REMOVE EQUIPMENT / DISCARD"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x91f2a0
+msgid "Change Metal Gear ZEKE's paint job."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x95f2a5
+msgid "AI Pod Damaged"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x95f2a6
+msgid "Leg Parts Damaged"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x95f2a7
+msgid "Head Parts Damaged"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x95f2a8
+msgid "Walk Unit Damaged"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x95f2a9
+msgid "Power Unit Damaged"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x95f2aa
+msgid "Additional Armor Damaged"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x95f2ab
+msgid "Jet Pack Damaged"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x97e770
+msgid "Customize Metal Gear ZEKE's parts by setting the walk unit, power unit, leg parts, head parts, and optional parts."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x97ea20
+msgid "PAINT COLOR"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x99d00d
+msgid "A walk unit for Metal Gear ZEKE. The most basic part."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x9c57a9
+msgid "COYOTE BROWN"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x9fda05
+msgid "TURQUOISE BLUE"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xa087ff
+msgid "Head parts taken from Chrysalis. Equipped with a built-in guided missile launcher."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xa67781
+msgid "Head parts taken from Cocoon. Equipped with a large-caliber cannon."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xac387c
+msgid ""
+"The Memory<I=BL>Stick<I=TM> does not contain the required VOCALOID voice data.\n"
+"Please create data from EXTRAS under the title menu.\n"
+"To create data you must be connected to the PlayStation<I=REG>Network."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xace08d
+msgid "P. UNIT- SCRAP"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xaf6622
+msgid "SLATE GRAY"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xb856df
+#: slot/0x0052e4f8/0x2d3090/0x0000ba
+#: slot/0x0052e4f8/0x2d3090/0x0000bb
+#: slot/0x0052e4f8/0x2d3090/0x0000bc
+msgid "Railgun"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xbade3d
+msgid "View the current development status of Metal Gear ZEKE."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xbb4c90
+msgid "Number of Dialogue Lines Available"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xbb9308
+#: slot/0x00726933/0xdb8c41/0x9db49d
+#: slot/0x0097f0b2/0xcd1d58/0x58d911
+msgid "METAL GEAR ZEKE"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xbd48b6
+#: slot/0x0056a63d/0x22af99/0x000168
+#: slot/0x00b4d9c8/0x4e7980/0x000168
+msgid "BLACK"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xbf621e
+msgid "PAINT"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xc08339
+msgid "BROWN"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xc0c84f
+msgid "Select the dialogue to use."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xc97b67
+msgid "DISCARD"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1331
+msgid "Readying for Trample Attack"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1332
+msgid "Charging Railgun (Small)"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1333
+msgid "Charging Railgun (Large)"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1334
+msgid "Readying for Large Jump"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1335
+msgid "Readying for Boost Dash"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1336
+msgid "Firing Missile"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1337
+msgid "Starting Attack on Gun Platform"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1338
+msgid "Unexpected Error"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1339
+msgid "Firing S Mine"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1350
+msgid "General Attack 1"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1351
+msgid "General Attack 2"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1352
+msgid "General Attack 3"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1353
+msgid "Firing Guided Missile"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1354
+msgid "Electric Shock Attack"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1355
+msgid "Charging Electric Shock"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1356
+msgid "Main Gun Attack"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xcb1357
+msgid "Peace Walker Head Attack"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd5eec1
+msgid "Damaged leg parts. When you collect enough, you complete functional leg parts."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd74831
+msgid "CUSTOMIZE"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd79b2f
+msgid "Damaged head parts. When you collect enough, you complete functional head parts."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd86610
+msgid "LEG- SCRAP"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871b0
+msgid "Mbl-Pupa-001Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871b1
+msgid "Mbl-Pupa-002Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871b2
+msgid "Mbl-Pupa-003Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871b3
+msgid "Mbl-Pupa-004Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871b4
+msgid "Mbl-Pupa-005Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871b5
+msgid "Mbl-Pupa-006Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871b6
+msgid "Mbl-Pupa-007Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871b7
+msgid "Mbl-Pupa-008Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871b8
+msgid "Mbl-Pupa-009Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871cf
+msgid "Mbl-Pupa-010Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871d0
+msgid "Mbl-Pupa-011Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871d1
+msgid "Mbl-Pupa-012Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871d2
+msgid "Mbl-Pupa-013Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871d3
+msgid "Mbl-Pupa-014Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871d4
+msgid "Mbl-Pupa-015Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871d5
+msgid "Mbl-Pupa-016Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871d6
+msgid "Mbl-Pupa-017Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871d7
+msgid "Mbl-Pupa-018Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871d8
+msgid "Mbl-Pupa-019Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871ef
+msgid "Mbl-Pupa-020Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871f0
+msgid "Mbl-Pupa-021Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871f1
+msgid "Mbl-Pupa-022Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871f2
+msgid "Mbl-Pupa-023Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871f3
+msgid "Mbl-Pupa-024Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871f4
+msgid "Mbl-Pupa-025Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871f5
+msgid "Mbl-Pupa-026Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871f6
+msgid "Mbl-Pupa-027Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871f7
+msgid "Mbl-Pupa-028Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd871f8
+msgid "Mbl-Pupa-029Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd8720f
+msgid "Mbl-Pupa-030Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87210
+msgid "Mbl-Pupa-031Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87211
+msgid "Mbl-Pupa-032Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87212
+msgid "Mbl-Pupa-033Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87213
+msgid "Mbl-Pupa-034Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87214
+msgid "Mbl-Pupa-035Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87215
+msgid "Mbl-Pupa-036Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87216
+msgid "Mbl-Pupa-037Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87217
+msgid "Mbl-Pupa-038Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87218
+msgid "Mbl-Pupa-039Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd8722f
+msgid "Mbl-Pupa-040Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87230
+msgid "Mbl-Pupa-041Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87231
+msgid "Mbl-Pupa-042Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87232
+msgid "Mbl-Pupa-043Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87233
+msgid "Mbl-Pupa-044Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87234
+msgid "Mbl-Pupa-045Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87235
+msgid "Mbl-Pupa-046Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87236
+msgid "Mbl-Pupa-047Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87237
+msgid "Mbl-Pupa-048Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87238
+msgid "Mbl-Pupa-049Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd8724f
+msgid "Mbl-Pupa-050Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87250
+msgid "Mbl-Chrysalis-051Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87251
+msgid "Mbl-Chrysalis-052Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87252
+msgid "Mbl-Chrysalis-053Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87253
+msgid "Mbl-Chrysalis-054Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87254
+msgid "Mbl-Chrysalis-055Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87255
+msgid "Mbl-Chrysalis-056Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87256
+msgid "Mbl-Chrysalis-057Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87257
+msgid "Mbl-Chrysalis-058Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87258
+msgid "Mbl-Chrysalis-059Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd8726f
+msgid "Mbl-Chrysalis-060Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87270
+msgid "Mbl-Chrysalis-061Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87271
+msgid "Mbl-Chrysalis-062Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87272
+msgid "Mbl-Chrysalis-063Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87273
+msgid "Mbl-Chrysalis-064Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87274
+msgid "Mbl-Chrysalis-065Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87275
+msgid "Mbl-Chrysalis-066Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87276
+msgid "Mbl-Chrysalis-067Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87277
+msgid "Mbl-Chrysalis-068Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87278
+msgid "Mbl-Chrysalis-069Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd8728f
+msgid "Mbl-Chrysalis-070Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87290
+msgid "Mbl-Chrysalis-071Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87291
+msgid "Mbl-Chrysalis-072Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87292
+msgid "Mbl-Chrysalis-073Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87293
+msgid "Mbl-Chrysalis-074Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87294
+msgid "Mbl-Chrysalis-075Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87295
+msgid "Mbl-Cocoon-076Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87296
+msgid "Mbl-Cocoon-077Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87297
+msgid "Mbl-Cocoon-078Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd87298
+msgid "Mbl-Cocoon-079Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872af
+msgid "Mbl-Cocoon-080Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872b0
+msgid "Mbl-Cocoon-081Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872b1
+msgid "Mbl-Cocoon-082Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872b2
+msgid "Mbl-Cocoon-083Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872b3
+msgid "Mbl-Aurelia-084Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872b4
+msgid "Mbl-Aurelia-085Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872b5
+msgid "Mbl-Aurelia-086Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872b6
+msgid "Mbl-Aurelia-087Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872b7
+msgid "Mbl-Aurelia-088Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872b8
+msgid "Mbl-Aurelia-089Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872cf
+msgid "Mbl-Aurelia-090Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872d0
+msgid "Mbl-Aurelia-091Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872d1
+msgid "Mbl-Aurelia-092Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872d2
+msgid "Mbl-Aurelia-093Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872d3
+msgid "Mbl-Aurelia-094Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872d4
+msgid "Mbl-Aurelia-095Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872d5
+msgid "Mbl-Aurelia-096Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872d6
+msgid "Mbl-Aurelia-097Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872d7
+msgid "Mbl-Aurelia-098Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd872d8
+msgid "Mbl-Aurelia-099Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd875af
+msgid "Mbl-Aurelia-100Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd93c40
+msgid "HEAD- SCRAP"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xd9bcdd
+#: slot/0x0056a63d/0x22af99/0x00016a
+#: slot/0x00b4d9c8/0x4e7980/0x00016a
+msgid "NAVY BLUE"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xdf12c3
+msgid "Set the VOCALOID in Metal Gear ZEKE. Assign songs and dialogue that have been set in EXTRAS under the title menu."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xdfe3ba
+msgid "Leg parts / power unit cannot be installed until walk unit has been set."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xdfe3bb
+msgid "Head parts cannot be installed until walk unit and power unit have been set."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xdfe3bc
+msgid "OPTIONAL PARTS cannot be selected until all MAIN PARTS have been set."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe0ada7
+msgid "W. UNIT- SCRAP"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe1130d
+#: slot/0x00a60c2a/0x69f17c/0x1b7151
+#: slot/0x00efed13/0x5f4144/0x5bd34d
+#: slot/0x00efed13/0x5f4145/0x5bd34d
+msgid "Play"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe1bdfb
+#: slot/0x00401dd3/0x77d931/0x010f45
+#: slot/0x00401dd3/0x77d931/0x017195
+#: slot/0x00401dd3/0x77d931/0x45ebd6
+#: slot/0x00401dd3/0x77d931/0xc65a37
+#: slot/0x00401dd3/0x77d931/0xf6927d
+#: slot/0x00401dd3/0x77d931/0xf6927e
+msgid "NORMAL"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe3a53d
+msgid "Power Unit"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe67def
+msgid "A damaged walk unit. When you collect enough, you complete a functional walk unit."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe7f1fc
+msgid "Set the basic parts that make up Metal Gear ZEKE."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe85174
+msgid "MAIN PARTS"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871b0
+msgid "Sns-Pupa-001Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871b1
+msgid "Sns-Pupa-002Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871b2
+msgid "Sns-Pupa-003Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871b3
+msgid "Sns-Pupa-004Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871b4
+msgid "Sns-Pupa-005Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871b5
+msgid "Sns-Pupa-006Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871b6
+msgid "Sns-Pupa-007Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871b7
+msgid "Sns-Pupa-008Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871b8
+msgid "Sns-Pupa-009Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871cf
+msgid "Sns-Pupa-010Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871d0
+msgid "Sns-Pupa-011Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871d1
+msgid "Sns-Pupa-012Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871d2
+msgid "Sns-Pupa-013Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871d3
+msgid "Sns-Pupa-014Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871d4
+msgid "Sns-Pupa-015Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871d5
+msgid "Sns-Pupa-016Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871d6
+msgid "Sns-Pupa-017Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871d7
+msgid "Sns-Pupa-018Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871d8
+msgid "Sns-Pupa-019Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871ef
+msgid "Sns-Pupa-020Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871f0
+msgid "Sns-Pupa-021Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871f1
+msgid "Sns-Pupa-022Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871f2
+msgid "Sns-Pupa-023Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871f3
+msgid "Sns-Pupa-024Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871f4
+msgid "Sns-Pupa-025Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871f5
+msgid "Sns-Chrysalis-026Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871f6
+msgid "Sns-Chrysalis-027Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871f7
+msgid "Sns-Chrysalis-028Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe871f8
+msgid "Sns-Chrysalis-029Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe8720f
+msgid "Sns-Chrysalis-030Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87210
+msgid "Sns-Chrysalis-031Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87211
+msgid "Sns-Chrysalis-032Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87212
+msgid "Sns-Chrysalis-033Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87213
+msgid "Sns-Chrysalis-034Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87214
+msgid "Sns-Chrysalis-035Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87215
+msgid "Sns-Chrysalis-036Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87216
+msgid "Sns-Chrysalis-037Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87217
+msgid "Sns-Chrysalis-038Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87218
+msgid "Sns-Chrysalis-039Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe8722f
+msgid "Sns-Chrysalis-040Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87230
+msgid "Sns-Chrysalis-041Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87231
+msgid "Sns-Chrysalis-042Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87232
+msgid "Sns-Chrysalis-043Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87233
+msgid "Sns-Chrysalis-044Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87234
+msgid "Sns-Chrysalis-045Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87235
+msgid "Sns-Chrysalis-046Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87236
+msgid "Sns-Chrysalis-047Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87237
+msgid "Sns-Chrysalis-048Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87238
+msgid "Sns-Chrysalis-049Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe8724f
+msgid "Sns-Chrysalis-050Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87250
+msgid "Sns-Chrysalis-051Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87251
+msgid "Sns-Chrysalis-052Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87252
+msgid "Sns-Chrysalis-053Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87253
+msgid "Sns-Chrysalis-054Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87254
+msgid "Sns-Chrysalis-055Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87255
+msgid "Sns-Chrysalis-056Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87256
+msgid "Sns-Chrysalis-057Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87257
+msgid "Sns-Chrysalis-058Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87258
+msgid "Sns-Chrysalis-059Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe8726f
+msgid "Sns-Chrysalis-060Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87270
+msgid "Sns-Chrysalis-061Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87271
+msgid "Sns-Chrysalis-062Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87272
+msgid "Sns-Chrysalis-063Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87273
+msgid "Sns-Chrysalis-064Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87274
+msgid "Sns-Chrysalis-065Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87275
+msgid "Sns-Chrysalis-066Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87276
+msgid "Sns-Chrysalis-067Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87277
+msgid "Sns-Chrysalis-068Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87278
+msgid "Sns-Chrysalis-069Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe8728f
+msgid "Sns-Chrysalis-070Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87290
+msgid "Sns-Chrysalis-071Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87291
+msgid "Sns-Chrysalis-072Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87292
+msgid "Sns-Chrysalis-073Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87293
+msgid "Sns-Chrysalis-074Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87294
+msgid "Sns-Chrysalis-075Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87295
+msgid "Sns-Cocoon-076Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87296
+msgid "Sns-Cocoon-077Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87297
+msgid "Sns-Cocoon-078Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe87298
+msgid "Sns-Cocoon-079Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe872af
+msgid "Sns-Cocoon-080Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe872b0
+msgid "Sns-Cocoon-081Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe872b1
+msgid "Sns-Cocoon-082Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe872b2
+msgid "Sns-Cocoon-083Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe872b3
+msgid "Sns-Cocoon-084Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe872b4
+msgid "Sns-Cocoon-085Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0xe872b5
+msgid "Sns-Cocoon-086Ag"
+msgstr ""

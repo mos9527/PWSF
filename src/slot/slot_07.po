@@ -1,0 +1,2319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF slot 7/26\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: slot\n"
+"X-PWSF-Entries: 400\n"
+
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327091/0x000006
+msgid ""
+"I specialize in butterflies.\n"
+"I'm, here to catch a Ulysses..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327091/0x000007
+msgid ""
+"Ulysses? Hmm, \n"
+"I didn't think they lived in Costa Rica."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327091/0x000008
+msgid "...Morphos, maybe?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327091/0x000009
+msgid ""
+"That's it.. Need to get some before \n"
+"the Washington Treaty goes into effect..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327091/0x00000a
+msgid ""
+"Says here Morphos aren't covered \n"
+"under the treaty..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327091/0x00000b
+msgid "Ugh... Must have slipped my mind."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327091/0x00000c
+msgid "You sure you're feeling all right?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000000
+msgid "Our place is \"Outer Heaven.\" You'd fit right in."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000001
+msgid "Outer Heaven... ?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000003
+msgid ""
+"I'm probably better suited to \n"
+"something like that than this \"paradise.\""
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000004
+msgid "Good. You get a free balloon trip for signing up."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000005
+msgid "Enjoy it, you'll feel like a butterfly."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000006
+msgid "You're an agent, right? Who do you work for?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000007
+msgid "Me? I was a Cold War tool, same as you."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000008
+msgid ""
+"Now I'm not so useful anymore, so they \n"
+"cut me loose... I don't answer to anyone."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x000009
+msgid "...Call me Snake."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x00000a
+msgid "Snake... The name seems familiar somehow."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x00000b
+msgid "Probably just déjà vu."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x00000c
+msgid "...You see that there?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x00000d
+msgid "Beyond the cloud forest. See those ruins?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x327162/0x00000f
+msgid "That's where you'll find Dr. Strangelove's lab."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000000
+msgid "There's the chance that a pre-emptive strike could destroy all the missile bases"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000001
+msgid "... Render them unable to retaliate."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000002
+msgid ""
+"But the biggest flaw in the theory is \n"
+"that the decision to retaliate"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000003
+msgid "has to be made by human beings."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000004
+msgid "Let me give you a real-world example."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000005
+msgid ""
+"Let's say Country X launches first \n"
+"against Country Y..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000006
+msgid ""
+"If the people in charge \n"
+"in Country Y are like you and me,"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000007
+msgid "they're not gonna be able to retaliate"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000008
+msgid ""
+"knowing that they're \n"
+"effectively ending all human life. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000009
+msgid "So then..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x00000a
+msgid "the weak link in nuclear deterrence theory is the uncertainty of retaliation?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x00000b
+msgid "Bingo."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x00000c
+msgid ""
+"And that creates a \"loophole\" Country X \n"
+"can exploit to launch the first strike."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x00000d
+msgid ""
+"...Which is why we designed the system\n"
+"to be unmanned."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x00000e
+msgid "With Peace Walker, retaliation is certain."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x00000f
+msgid ""
+"It chooses the appropriate target \n"
+"and launches a retaliatory nuclear strike"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000010
+msgid ""
+"every time, without needing human input\n"
+"to make the call."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000011
+msgid "Launching a nuclear strike against Peace Walker"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x4270fe/0x000012
+msgid ""
+"is tantamount to pushing the launch button\n"
+"against yourself."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000000
+msgid "Strangelove was recruited from the States, too."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000001
+msgid ""
+"In the field of AI, \n"
+"there's no one better, that's for sure,"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000002
+msgid ""
+"but, man, what a basket case! \n"
+"She hates EVERYBODY."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000003
+msgid ""
+"Go to the lab and \n"
+"destroy Peace Walker's cerebrum."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000004
+msgid ""
+"I'm pretty sure they haven't finished\n"
+"the final calibrations yet."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000005
+msgid ""
+"I'll lend you my ID card. \n"
+"It'll get you through security at the lab."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000006
+msgid "Oh... And one more thing..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000007
+msgid "What's this? A letter of recommendation?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000008
+msgid "Yeah, it's, um... it's from me to Dr. Strangelove."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x000009
+msgid "...Don't read it, OK?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x00000a
+msgid "So what will you do now?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x00000b
+msgid "I... I'm done with science."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x00000c
+msgid ""
+"At this rate, I'm probably already \n"
+"halfway to hell anyway."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x42715b/0x00000d
+msgid "Not so fast. Why not join us?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000000
+msgid "Anyway, long story short, the butterfly got away."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000001
+msgid ""
+"So how about it, doc? \n"
+"Did you make that big \"butterfly\" too?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000002
+msgid "Yes... "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000003
+msgid "and no."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000004
+msgid "What was that thing? What are they doing here?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000005
+msgid ""
+"Hmh. Something tells me \n"
+"you're no ordinary entomologist."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000006
+msgid "The nukes were loaded on that machine."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000007
+msgid "The project's entering its final phase."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000008
+msgid "Project...?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x000009
+msgid "That's right."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x00000a
+msgid "The thermonuclear warheads they brought in,"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x00000b
+msgid "the bases scattered throughout Costa Rica,"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x00000c
+msgid ""
+"the mercenaries, the AI weapons, \n"
+"the research we were conducting here..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x527099/0x00000d
+msgid "It's all for this..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000000
+msgid ""
+"They're going to deploy \n"
+"a new type of nuclear weapon"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000001
+msgid "along the Caribbean coast of Latin America."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000002
+msgid "A mobile, unmanned nuclear platform."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000003
+msgid "Unmanned... nuclear platform...?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000004
+msgid ""
+"A fail-deadly system that can \n"
+"automatically move into position"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000005
+msgid "and launch a retaliatory nuclear strike."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000006
+msgid "It can move on its own,"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000007
+msgid ""
+"and stealth shields it from radar\n"
+"and satellite detection,"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000008
+msgid ""
+"drastically reducing the risk of it being \n"
+"destroyed in a pre-emptive strike."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000009
+msgid "And this is the new deterrent?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x00000a
+msgid ""
+"Supposed to be. \n"
+"The problem is the locomotion system."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x00000b
+msgid ""
+"There's no dry season in the Caribbean. \n"
+"It rains all year round."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x00000c
+msgid "The terrain is full of tropical rainforest..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x00000d
+msgid ""
+"A lot of the time \n"
+"you can't even build a proper road."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x00000e
+msgid "...So I went back to where it all started."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6270d3/0x000010
+msgid "Legs. Walking power."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6cdb3a/0x000000
+msgid ""
+"A mobile launcher carrying a thermonuclear \n"
+"warhead even more powerful"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6cdb3a/0x000001
+msgid ""
+"than the Soviet RDS-220's (Tsar Bomba). \n"
+"That's Peace Walker."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6cdb3a/0x000002
+msgid "Chico's basilisco..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6cdb3a/0x000003
+msgid "We did the assembly and field testing here."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6cdb3a/0x000004
+msgid "A walking nuke..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6cdb3a/0x000005
+msgid ""
+"I sort of borrowed the original idea \n"
+"from behind the Iron Curtain..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6cdb3a/0x000006
+msgid "The missing link between infantry and artillery."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x6cdb3a/0x000007
+#: slot/0x003af9cd/0x6cdb3a/0x000008
+msgid "Metal Gear..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000000
+msgid ""
+"It's kind of a hike. And besides, \n"
+"there's a sure fire way to halt the project... "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000001
+msgid "You see, Peace Walker... isn't quite finished yet."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000002
+#: slot/0x003b054d/0x33d29e/0x0000ab
+#: slot/0x00db94df/0xb5f44d/0x000000
+msgid "What do you mean?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000003
+msgid "It's missing one last critical structural component:"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000004
+msgid "the AI."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000005
+msgid "Its brain."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000006
+msgid ""
+"The Reptile Pod, \n"
+"the electronic brain I was working on,"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000007
+msgid ""
+"can only follow commands like \n"
+"\"go there, attack that.\""
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000008
+msgid ""
+"I guess you could compare it \n"
+"to the human cerebellum."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000009
+msgid "But for nuclear deterrence to work,"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x00000a
+msgid ""
+"it must function in place of \n"
+"a human decision-maker."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x00000b
+msgid ""
+"It needs something to analyze \n"
+"the huge volumes of data coming in"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x00000c
+msgid "and select an appropriate target for retaliation."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x00000d
+msgid "Hence, it needs the high-level decision-making ability of a cerebrum."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x00000e
+msgid "The mechanical cerebrum..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x00000f
+msgid ""
+"The hardware configuration is \n"
+"modeled on the human brain,"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000010
+msgid ""
+"similar to the pod I worked on... \n"
+"but its role is completely different."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000011
+msgid "Where's it being made?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000012
+msgid "A research lab to the north."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000013
+msgid ""
+"An AI expert named Dr. Strangelove is \n"
+"developing it. Very hush-hush."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x82713a/0x000014
+msgid "Dr. Strangelove..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000000
+#: slot/0x003af9cd/0xa2711c/0x00000e
+#: slot/0x003b054d/0x33d29e/0x000018
+msgid "But..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000001
+msgid "They'd actually need to deploy dozens of them."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000002
+msgid ""
+"Coldman needs funding for that. \n"
+"And to get it, he's planning a test,"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000003
+msgid ""
+"which will also serve as a demonstration \n"
+"for the folks back at Langley."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000004
+msgid ""
+"Wait. He's launching a nuke to prove \n"
+"that his perfect deterrent works?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000005
+msgid ""
+"In his words, \"to prove that if someone \n"
+"attacks us, we will strike back.\""
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000006
+msgid ""
+"Put simply, nuclear deterrence is the idea \n"
+"of using nukes to keep nukes in check."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000007
+msgid "If one side launches nuclear weapons,"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000008
+msgid "the other is sure to launch theirs in retaliation."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x000009
+msgid ""
+"Which makes launching an act of suicide. \n"
+"In the end, neither side can use its nukes."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x00000a
+msgid "It's thanks to this doctrine that"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x00000b
+msgid ""
+"the world's two superpowers \n"
+"have avoided all-out confrontation."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x00000c
+msgid "Nuclear deterrence has brought us peace."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x00000d
+msgid ""
+"At the very least, it's prevented another \n"
+"World War from breaking out."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x00000e
+msgid ""
+"But the theory of nuclear deterrence \n"
+"exists only on paper."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0x9270f6/0x00000f
+msgid ""
+"In reality, there's no guarantee that either side \n"
+"would follow through with retaliation."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000000
+msgid ""
+"It closes the loophole \n"
+"in nuclear deterrence theory,"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000001
+msgid ""
+"rendering our friends in Country X \n"
+"completely unable to launch."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000002
+msgid ""
+"What Coldman is saying is \n"
+"that to achieve this goal,"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000003
+msgid ""
+"we need to demonstrate that retaliation \n"
+"will be carried out by a machine."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000004
+msgid "He will launch his nuke... "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000005
+msgid ""
+"...And then his version of deterrence \n"
+"will be complete."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000006
+msgid "And you believe him?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000007
+msgid "...I believe in peace through nuclear deterrence."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000008
+#: slot/0x00dff0a5/0xa84a6a/0x000006
+msgid "Why?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000009
+msgid "My father worked on the Manhattan Project."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x00000a
+msgid "He put his whole life into that research..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x00000b
+msgid ""
+"and all it created was this illusion of peace\n"
+"called deterrence."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x00000c
+msgid "And then I was born... unable to walk."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x00000d
+msgid "I had no choice but to face up to the nukes."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x00000f
+msgid ""
+"if they do end up launching, \n"
+"it'll all have been for nothing."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000010
+msgid "They've got to be stopped."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000011
+msgid "Where'd they take the warheads?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000012
+msgid ""
+"To a base near the border. \n"
+"The final test is five days from now."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000013
+msgid "Where's the base?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xa2711c/0x000014
+msgid "You're gonna stop them?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000000
+msgid ""
+"We used this facility \n"
+"to develop unmanned weapons."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000001
+msgid "Unmanned?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000002
+msgid "Robots. The one you just fought was a Pupa."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000003
+msgid ""
+"There's also a flying type called Chrysalis, \n"
+"and a treaded type... the Cocoon."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000004
+msgid ""
+"Motor control, target detection, \n"
+"tracking, attack, capture,"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000005
+msgid ""
+"and transport functions are \n"
+"all controlled by an electronic brain."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000006
+msgid "There's no need for a human pilot."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000007
+msgid "They can only follow simple commands, though. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000008
+msgid "Why build them here?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x000009
+msgid "For the CIA. They invited me here a year ago."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x00000a
+msgid "That's who that guy was."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x00000b
+msgid ""
+"The CIA's station chief for Central America. \n"
+"Goes by the name of Hot Coldman."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x00000c
+msgid ""
+"Apparently he was some sort of hero \n"
+"back at the height of the Cold War."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x00000d
+msgid "He's the one running the show."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x00000e
+msgid "We called it the \"Peace Walker Project.\" "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9cd/0xb270b4/0x00000f
+msgid "Peace Walker..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000000
+msgid "Snake, how's the mule treating you?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000001
+msgid ""
+"At this pace, I should be there \n"
+"by tomorrow morning."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000002
+msgid ""
+"You've got to hurry.\n"
+"The AI could be completed any time now."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000003
+msgid "Would be nice to have a guide..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000004
+msgid ""
+"Already on it. I've enlisted Paz to help you.\n"
+"She knows the jungle pretty well."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000005
+msgid ""
+"Snake, I know you're an expert in survival,\n"
+"but you need to stay alert."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000006
+msgid ""
+"You're in an ancient jungle so foggy you can\n"
+"hardly see the trees. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000007
+msgid ""
+"It is home to 2,500 species of plants,\n"
+"including 400 types of orchids."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000008
+msgid ""
+"There are also 500 species of butterflies\n"
+"and over 400 species of wild birds. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x000009
+msgid "The bedrock is solid enough "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x00000a
+msgid ""
+"that Mayan ruins have miraculously survived\n"
+"centuries of earthquakes. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x3270f3/0x00000b
+msgid "An AI lab in a Mayan ruin. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000000
+msgid "Who'd have thought, eh, Huey?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000001
+msgid ""
+"My sentiments exactly. That doesn't\n"
+"mean security's any less tight, though. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000002
+msgid "You still have the ID card I gave you, don't you?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000003
+msgid "Got it right here."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000004
+msgid ""
+"That'll get you through the gate no problem.\n"
+"After that, you're on your own."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000005
+msgid ""
+"As long as the AI remains unassembled,\n"
+"Coldman's plan's on ice."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000006
+msgid "Ha, ha. What about security inside the lab?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000007
+msgid "Well, it shouldn't be a problem for you."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000008
+msgid "Strangelove demanded that "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x000009
+msgid ""
+"the security presence inside \n"
+"the lab be kept to a minimum."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x00000a
+msgid ""
+"It's not all good news, Snake.\n"
+"Coldman knows we're here. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x00000b
+msgid ""
+"He's raised security in the area \n"
+"surrounding the lab."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x00000c
+msgid ""
+"You'll be seeing a lot of that Chrysalis UAV and\n"
+"a bunch of patrol choppers, too."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x00000d
+msgid ""
+"There may be scouts \n"
+"in the jungle lying in ambush."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x00000e
+msgid "As you approach the lab, be extra vigilant."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x72710f/0x00000f
+msgid "I'll be careful."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x827131/0x000000
+msgid "They're looking for you. Stay sharp!"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x827131/0x000001
+msgid ""
+"Snake, Strangelove's lab is \n"
+"a few miles to the north."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003af9ed/0x827131/0x000002
+msgid ""
+"It won't be long before the AI is complete.\n"
+"Don't let that happen!"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227d94/0x000000
+msgid "I'm... an ornithologist."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227d94/0x000001
+msgid "A poacher...?!"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227d94/0x000002
+msgid ""
+"The gun's for self-defense.\n"
+"I'm looking for... that one rare bird... in Costa Rica."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227d94/0x000003
+msgid "Which one? The quetzal?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227d94/0x000004
+msgid "Right, the quetzal."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227db3/0x000000
+msgid "I was trying to capture the quetzal's song."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227db3/0x000001
+msgid "Making my way through a thicket, I saw immense ruins towering before me...."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227db3/0x000005
+msgid "You're the one who made the tape?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000000
+msgid ""
+"The only thing I was allowed to keep were\n"
+"my undergarments... "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000001
+msgid "so that I would not be able to escape..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000002
+msgid ""
+"And now I am without even \n"
+"the means to prove who I am. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000003
+msgid "I will not make it home to Paris like this."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000004
+msgid "In that case... come to our place."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000005
+#: slot/0x00a57090/0x12908e/0x000223
+msgid "Huh...?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000006
+msgid ""
+"You don't need a passport there.\n"
+"Don't even need a name."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000007
+msgid ""
+"If you want to go back to Paris,\n"
+"we'll take you there, any time."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000008
+msgid ""
+"What I want is a shower, a change of clothes...\n"
+"and a cigarette."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x000009
+msgid "I've got a cigar. It's Cuban."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x00000a
+msgid "No French cigarettes? I prefer unfiltered... "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x00000b
+msgid "...Fresh out."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x227dd9/0x00000c
+msgid ""
+"But come back to my place and you can\n"
+"have all the French cigarettes you want."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x327db5/0x000000
+msgid "I am loyal to myself."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x327db5/0x000001
+msgid "...Who's there?!"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x327db5/0x000002
+msgid "...I was captured by that woman."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x327db5/0x000003
+msgid ""
+"But she was kind. She gave me food to \n"
+"eat and even bathed me herself, each day."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x327db5/0x000004
+msgid "But, she said I could go home in a month... "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x327db5/0x000005
+msgid "\"So whatever you do, don't take off the blindfold. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x327db5/0x000006
+msgid "Do so, and you will never leave here.\""
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x427df9/0x000000
+msgid "What about me?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x427df9/0x000001
+msgid "Stay put. Ever wonder what it's like to be a bird?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x527db7/0x000000
+msgid "Guess you didn't listen. How'd you escape?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x527db7/0x000001
+msgid "I waited for an opening, stole an ID card. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x527db7/0x000002
+msgid ""
+"They almost caught me, \n"
+"but I managed to elude them... "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x527db7/0x000003
+msgid ""
+"You made it this far and then \n"
+"succumbed to exhaustion."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x527db7/0x000004
+msgid "I was barefoot... with no supplies."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x627d76/0x000000
+msgid "...Hey."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x627d76/0x000001
+msgid ""
+"Ah, tu m'as trouvée ! (You found me!)\n"
+"C'est moi le loup ! (Tag! I'm it!)"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x627d76/0x000002
+msgid "French..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x627d76/0x000003
+msgid ""
+"Fini de jouer à cache-cache. \n"
+"(Enough hide-and-seek.)"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x627d76/0x000004
+msgid "Dis-moi qui tu es. (Tell me who you are.)"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x627d98/0x000000
+msgid ""
+"They're rare, but they're not covered\n"
+"under the Washington Treaty."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x627d98/0x000001
+msgid "The Resplendent Quetzal is red-listed."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x627d98/0x000002
+msgid "Really... you know your stuff."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x627d98/0x000003
+msgid "I am... an ornithologist myself."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x627d98/0x000004
+msgid ""
+"Well, we'll have to compare notes later.\n"
+"Here, drink some of this."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727dbc/0x000000
+msgid "Oh, I am so sorry. I drank it all."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727dbc/0x000001
+msgid "That facility... Did you see anybody else in there?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727dbc/0x000002
+msgid ""
+"Well, there was another woman.\n"
+"But I never saw her in person..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727dbc/0x000003
+msgid "Because, you know... the blindfold..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727dbc/0x000004
+msgid "Oh, yes... she often sang..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727dbc/0x000005
+msgid "Sang...?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727dbc/0x000006
+msgid "It was such a strange song..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727dbc/0x000007
+msgid ""
+"What kind of person was she?\n"
+"Could you tell anything from her voice?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727dbc/0x000008
+msgid ""
+"I don't know. I don't even know \n"
+"why I was held prisoner."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727dbc/0x000009
+msgid ""
+"They confiscated my equipment, my supplies,\n"
+"my passport, money... everything."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727ddc/0x000000
+msgid "It sounds like heaven."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727ddc/0x000001
+msgid "Close, but not quite. Outer Heaven."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727ddc/0x000002
+msgid "It is sounding better all the time."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727ddc/0x000003
+msgid ""
+"So, you must have gotten a look at the facility\n"
+"when you escaped, right? "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727ddc/0x000004
+msgid "What's in there?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727ddc/0x000005
+msgid ""
+"...A lot of machinery. A big computer,\n"
+"like you would see in a university..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727ddc/0x000006
+msgid ""
+"What about the room where you heard\n"
+"the voice? Anybody in there?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727ddc/0x000007
+msgid "I don't know. There was a tube..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727ddc/0x000008
+msgid "A large tube, in the back..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727ddc/0x000009
+msgid "When I approached it, I heard a voice."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727ddc/0x00000a
+msgid "What did it say?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0x727ddc/0x00000b
+msgid "...\"Jack.\""
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27d77/0x000000
+msgid "Please, do not kill me..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27d77/0x000001
+msgid "You're no soldier... "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27d77/0x000002
+msgid "I am a tourist..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27d77/0x000003
+msgid "What's your name?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27d77/0x000004
+msgid "...Please..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27d77/0x000005
+msgid "What are you doing here?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27d77/0x000006
+msgid "Cécile Cosima Caminades."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27d9a/0x000000
+msgid "Haa... You saved me."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27d9a/0x000001
+msgid "They told me this was a paradise... "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27d9a/0x000002
+msgid ""
+"that there were more rare birds here \n"
+"than anywhere else... "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27d9a/0x000003
+msgid "that there was no war here... that it was safe..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27d9a/0x000004
+msgid ""
+"They told me it was every birder's dream.\n"
+"But... they were wrong."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27d9a/0x000005
+msgid "What happened?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27d9a/0x000006
+msgid "...If only I had not recorded that stupid voice..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27d9a/0x000007
+msgid "...Voice?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x000000
+msgid "Yes, it simply said \"Jack,\" over and over."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x000001
+#: slot/0x003b058d/0x39a076/0x000063
+#: slot/0x003b058d/0x39a076/0x000064
+msgid "Jack..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x000002
+msgid ""
+"...Listen, you've got to get me out of here.\n"
+"I really need a shower!"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x000003
+msgid "Wait here. I've still got business to take care of."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x000004
+msgid ""
+"What? You're not thinking of going in there,\n"
+"are you? You can't leave me here!"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x000005
+msgid "Relax. I'll have some friends pick you up."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x000006
+msgid "This is Miller."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x000007
+msgid "One for recovery. A civilian."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x000008
+msgid ""
+"Snake, we don't have room for \n"
+"any more civilians here."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x000009
+msgid "Not even for a blonde Parisienne?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x00000a
+msgid "A what?! So she's, uh... pretty foxy?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x00000b
+msgid ""
+"See for yourself. If what she's saying is true,\n"
+"I think we've found Paz's friend."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x00000c
+msgid "The missing one?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x00000d
+msgid "I'm thinking that she's the one that made that tape. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x00000e
+msgid "Have her listen to it when she gets there."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x00000f
+msgid "So she's safe, then. Good news."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x000010
+msgid "I'm sure Paz will be glad to hear it."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x000011
+msgid ""
+"You bet. Snake, the ruins are just up ahead. \n"
+"Head north."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xa27df6/0x000012
+msgid "On my way."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xb27d78/0x000000
+msgid "You're not... one of the soldiers? "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd0d/0xb27d78/0x000001
+msgid "Please, lower your gun..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x227e34/0x000000
+#: slot/0x0083c375/0x4282bf/0x000000
+#: slot/0x0083c375/0x4a8abf/0x000000
+#: slot/0x0083c375/0xb666bf/0x000000
+#: slot/0x0083c375/0xbe6ebf/0x000000
+msgid "Don't move!"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x227e34/0x000001
+msgid ""
+"\"Don't move\"... You men and your guns,\n"
+"you all say the same thing."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x227e57/0x000000
+msgid "The Boss..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x227e57/0x000001
+msgid "Well...?! What do you have to say for yourself?!"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x227e57/0x000002
+msgid "...she betrayed America. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x327df8/0x000000
+msgid "What... "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x327df8/0x000001
+msgid "It can't be..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x427e1a/0x000000
+msgid "Looks like death wasn't ready for you yet."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x427e1a/0x000001
+msgid "Boss...?!"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x427e1a/0x000002
+msgid "And who might you be?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x427e1a/0x000003
+msgid "You..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x427e1a/0x000004
+msgid "Doctor... Strangelove, I presume."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x427e1a/0x000005
+msgid "...I've been waiting, Snake."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x427e1a/0x000006
+msgid "Yes, waiting without joy or pleasure..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x427e1a/0x000007
+msgid "Waiting for the one I despise!"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x427e3b/0x000000
+msgid "I suppose you're here to destroy my research..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x427e3b/0x000001
+msgid ""
+"Yes, I know. Just as I know \n"
+"what you did 10 years ago."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x427e3b/0x000002
+msgid "Go on, kill me like you killed her."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x427e3b/0x000003
+msgid "Kill me like you killed The Boss."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x427e3b/0x000004
+msgid "Kill me!"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x427e3b/0x000005
+msgid "What exactly do you...?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x427e58/0x000000
+msgid ""
+"She stole a Davy Crockett \n"
+"and then defected to the other side."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x4fd3ec/0x000000
+msgid ""
+"Her personal history, military records,\n"
+"physiological data, correspondence, "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x4fd3ec/0x000001
+msgid "the files for every operation she took part in."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x4fd3ec/0x000002
+msgid ""
+"Every decision she ever made at \n"
+"every possible turn."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x4fd3ec/0x000003
+msgid "What she took, and what was taken from her."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x4fd3ec/0x000004
+msgid ""
+"Her pain and her pleasure, her joy and sorrow,\n"
+"her life and death."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x4fd3ec/0x000005
+msgid "And yes, even you."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x4fd3ec/0x000006
+msgid "Wh...why would you do that?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x4fd3ec/0x000007
+msgid "Coldman sought an MAD based AI that would deliver an effective retaliatory strike "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x4fd3ec/0x000008
+msgid ""
+"against the most appropriate target \n"
+"in response to a nuclear attack"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x4fd3ec/0x000009
+msgid "from a hypothetical adversary."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x4fd3ec/0x00000a
+msgid ""
+"An unmanned device to act as a deterrent,\n"
+"capable of making the decisions"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527e5b/0x000000
+msgid ""
+"She used an American nuclear weapon \n"
+"to attack Soviet territory."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527e5b/0x000001
+msgid ""
+"The only way for Washington to prove\n"
+"its innocence to Moscow... "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527e5b/0x000002
+msgid "was to eliminate the traitor themselves."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527e5b/0x000003
+msgid "The Boss' death was the only thing that could have prevented all-out nuclear war."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527e5b/0x000004
+msgid "Is that what you call the \"truth\"?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527e5b/0x000005
+msgid "It's the truth as it was told to me."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527e5b/0x000006
+msgid ""
+"So the truth is that you sullied \n"
+"the reputation of your mentor, "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527e5b/0x000007
+msgid ""
+"the woman you loved most in this world,\n"
+"before you buried her?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527e5b/0x000008
+msgid "...It was my mission."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527e5b/0x000009
+msgid ""
+"Hmph. So that's the conclusion you came to\n"
+"in order to live with yourself."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527e5b/0x00000a
+msgid "What's The Boss to you?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527e5b/0x00000b
+msgid ""
+"I'm the one she abandoned \n"
+"when she left this world."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527e5b/0x00000c
+msgid ""
+"I won't rest until I get answers \n"
+"from the woman I loved. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527e5b/0x00000d
+msgid "You and I are the same. We are the walking dead."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527ec1/0x000000
+#: slot/0x003afd2d/0x527ec1/0x000005
+#: slot/0x003b05b2/0x39a064/0x000000
+msgid "Boss...?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527ec1/0x000001
+#: slot/0x003afd2d/0x527ec1/0x000003
+msgid "Jack!"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527ec1/0x000004
+msgid "Go home! I'm not your Boss anymore!"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x527ec1/0x000007
+msgid "No, I..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x597e7d/0x000000
+msgid ""
+"This is my baby, my Morpho butterfly.\n"
+"It's neither pupa nor cocoon, but an imago, "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x597e7d/0x000001
+msgid ""
+"a complete individual, \n"
+"in the fullest sense of the word."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x597e7d/0x000002
+#: slot/0x00a57090/0x12908e/0x000115
+msgid "Is someone there?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x597e7d/0x000004
+msgid "We have a visitor. I'll introduce him."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x597e7d/0x000005
+msgid "...Don't try anything foolish."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x597e7d/0x000006
+msgid "As long as we're in here, I can reduce you to carbon at the press of a button."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x6e8b94/0x000000
+msgid "...Care for a sniff?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x6e8b94/0x000001
+msgid "It's only snuff. You're a cigar man, aren't you? "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x6e8b94/0x000002
+msgid ""
+"Well, there's no smoking in there,\n"
+"so if you want to meet her,"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x6e8b94/0x000003
+msgid "you'd best partake now."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x6e8b94/0x000004
+msgid "...Follow me."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x000000
+msgid "and taking the actions that human beings cannot."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x000001
+msgid ""
+"I therefore concluded he required a cool,\n"
+"calculating machine "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x000002
+msgid ""
+"programmed to inflict swift, sure,\n"
+"and utter annihilation upon the enemy. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x000003
+msgid "No retaliation. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x000004
+msgid ""
+"But he took it upon himself\n"
+"to come up with a different answer."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x000005
+msgid ""
+"He said he needed the thought patterns of \n"
+"the very finest rational mind, "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x000006
+msgid "one that thought on a global scale, took both past and future into consideration,"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x000007
+msgid ""
+"and reached the best decision, \n"
+"no matter how painful."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x000008
+msgid ""
+"And that's why you asked for \n"
+"everything they had on The Boss?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x000009
+msgid "It was the logical thing to do."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x00000a
+msgid ""
+"I knew of only one person \n"
+"who could be entrusted with the fate "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x00000b
+msgid "of the entire human race."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x00000c
+msgid "What's your real goal here?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x00000d
+msgid "To clear her name."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x00000e
+msgid ""
+"Why was a legendary hero forced \n"
+"to betray her country? "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x00000f
+msgid ""
+"Why was she targeted for assassination by you,\n"
+"her most beloved disciple?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x000010
+msgid "I have no use for fabrications..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x727ea0/0x000011
+msgid "I want the truth... The Boss' last will."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x927e5e/0x000000
+msgid "Would you like to meet her?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x927e5e/0x000001
+msgid "The Boss is gone."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x927e5e/0x000002
+msgid "Not so fast!"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x927e5e/0x000003
+msgid ""
+"You'd like to meet her, wouldn't you? \n"
+"I can arrange it."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x927e5e/0x000004
+msgid "You took her life. I gave it back."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x927e5e/0x000005
+msgid "...You what?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x927e99/0x000000
+msgid "A man..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x927e99/0x000001
+msgid "A war fighter..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x927e99/0x000002
+msgid "Boss? ...Is that you?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x927e99/0x000003
+msgid "I call it the Mammal Pod."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x927e99/0x000004
+msgid "Mammal Pod?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x927e99/0x000005
+msgid "For my participation on the project, "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x927e99/0x000006
+msgid ""
+"I demanded access to \n"
+"all information on The Boss. "
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x927e99/0x000007
+msgid "Everything the CIA had."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0x927ec3/0x000000
+msgid ""
+"Complete your mission, Snake.\n"
+"Extinguish that noble soul once again, if you can."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0xa27eba/0x000000
+msgid "You must be dying to know yourself."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0xa27eba/0x000001
+#: slot/0x003b054d/0x33d29e/0x0000a9
+#: slot/0x00dff0a5/0xa84a6a/0x000005
+msgid "No..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0xa27eba/0x000002
+msgid ""
+"No. She abandoned her country... \n"
+"abandoned us all."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0xa27eba/0x000003
+msgid "Really..."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0xa27eba/0x000004
+msgid "You think you understand her feelings?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x003afd2d/0xa27eba/0x000005
+msgid ""
+"You're trying to recreate The Boss' last will... \n"
+"is that it?"
+msgstr ""

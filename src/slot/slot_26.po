@@ -1,0 +1,365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF slot 26/26\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: slot\n"
+"X-PWSF-Entries: 73\n"
+
+
+#: slot/0x00eeea4a/0x3d5434/0xdb6a25
+msgid "It's no good."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5434/0xdb6a26
+msgid "Sorry 'bout that."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5434/0xdb6a27
+msgid "Please!"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5434/0xdb6a28
+msgid "Yes!"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5434/0xdb6a2a
+msgid "I agree!"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5434/0xdb6a2b
+msgid "I disagree!"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea24
+msgid "The rules are:"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea25
+msgid "The map is:"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea26
+msgid "The number of rounds:"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea27
+msgid "The round time is:"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea28
+msgid "The number of tickets:"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea29
+msgid "Limited weapons are:"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea2a
+msgid "Friendly Fire is:"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea2b
+msgid "Team Kill Kick is:"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea2c
+msgid "Idle Kick is:"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea43
+msgid "Auto Team Balance is:"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea44
+msgid "Capture Keep Time is:"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea45
+msgid "Deathmatch"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea46
+msgid "Team Deathmatch"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea47
+msgid "Capture Mission"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea48
+msgid "Base Mission"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea4a
+msgid "VR Mode"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea4b
+msgid "First Battle"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea4c
+msgid "Mock Battle"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5435/0xdbea63
+msgid "Real Battle"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5436/0xdc6a43
+msgid "0"
+msgstr ""
+
+#: slot/0x00eeea4a/0xa2600e/0xf5466e
+msgid "Greetings"
+msgstr ""
+
+#: slot/0x00eeea4a/0xa2600e/0xf5466f
+msgid "About the Game"
+msgstr ""
+
+#: slot/0x00eeea4a/0xa2600e/0xf54670
+msgid "Hails"
+msgstr ""
+
+#: slot/0x00eeea4a/0xa2600e/0xf54671
+msgid "Short Messages"
+msgstr ""
+
+#: slot/0x00eeea4a/0xa2600e/0xf54672
+msgid "Exclamations"
+msgstr ""
+
+#: slot/0x00eeea4a/0xa2600e/0xf54673
+msgid "Responses"
+msgstr ""
+
+#: slot/0x00eeea4a/0xa2600e/0xf54674
+msgid "Rules"
+msgstr ""
+
+#: slot/0x00eeea4a/0xa2600e/0xf54675
+msgid "Numbers"
+msgstr ""
+
+#: slot/0x00efed13/0x5f413d/0x38def1
+#: slot/0x00efed13/0x5f413d/0x4c3b24
+msgid "Change Floor (on maps with more than 1 story)"
+msgstr ""
+
+#: slot/0x00efed13/0x5f413d/0x6a9054
+#: slot/0x00efed13/0x5f413e/0x6a9054
+#: slot/0x00efed13/0x5f413f/0x6a9054
+#: slot/0x00efed13/0x5f4140/0x6a9054
+#: slot/0x00efed13/0x5f4141/0x6a9054
+#: slot/0x00efed13/0x5f4142/0x6a9054
+#: slot/0x00efed13/0x5f4144/0x6a9054
+#: slot/0x00efed13/0x5f4145/0x6a9054
+#: slot/0x00efed13/0x5f4146/0x6a9054
+msgid "Display Key Help"
+msgstr ""
+
+#: slot/0x00efed13/0x5f413d/0x7edc00
+#: slot/0x00efed13/0x5f413e/0x7edc00
+#: slot/0x00efed13/0x5f413f/0x7edc00
+#: slot/0x00efed13/0x5f4140/0x7edc00
+#: slot/0x00efed13/0x5f4141/0x7edc00
+#: slot/0x00efed13/0x5f4142/0x7edc00
+#: slot/0x00efed13/0x5f4144/0x7edc00
+#: slot/0x00efed13/0x5f4145/0x7edc00
+#: slot/0x00efed13/0x5f4146/0x7edc00
+msgid "Close Menu"
+msgstr ""
+
+#: slot/0x00efed13/0x5f413d/0x95dc1e
+#: slot/0x00efed13/0x5f413e/0x95dc1e
+msgid "Scroll"
+msgstr ""
+
+#: slot/0x00efed13/0x5f413f/0x1b7151
+#: slot/0x00efed13/0x5f413f/0x3c54c6
+#: slot/0x00efed13/0x5f413f/0x5bd34d
+#: slot/0x00efed13/0x5f413f/0x916e3e
+msgid "Group Select / CO-OPS Comm. Select"
+msgstr ""
+
+#: slot/0x00efed13/0x5f4141/0x38def1
+#: slot/0x00efed13/0x5f4141/0x4c3b24
+msgid "Setting Select"
+msgstr ""
+
+#: slot/0x00efed13/0x5f4141/0x52db1b
+#: slot/0x00efed13/0x5f4141/0x539262
+msgid "Item Select"
+msgstr ""
+
+#: slot/0x00efed13/0x5f4143/0x169d43
+#: slot/0x00efed13/0x5f4143/0x969d41
+msgid "CHANGE TAB"
+msgstr ""
+
+#: slot/0x00efed13/0x5f4143/0x1b7151
+msgid "PLAY/STOP (SOUND ONLY)"
+msgstr ""
+
+#: slot/0x00efed13/0x5f4143/0x3c54c6
+msgid "SELECTION CHANGE"
+msgstr ""
+
+#: slot/0x00efed13/0x5f4143/0x52db1b
+#: slot/0x00efed13/0x5f4143/0x539262
+msgid "MOVE CURSOR/MULTIPLE SELECTION"
+msgstr ""
+
+#: slot/0x00efed13/0x5f4143/0x6a9054
+msgid "DISPLAY KEY HELP"
+msgstr ""
+
+#: slot/0x00efed13/0x5f4143/0x7edc00
+msgid "CLOSE MENU"
+msgstr ""
+
+#: slot/0x00efed13/0x5f4144/0x3c54c6
+#: slot/0x00efed13/0x5f4145/0x3c54c6
+msgid "Stop"
+msgstr ""
+
+#: slot/0x00efed13/0x5f4145/0x52db1b
+#: slot/0x00efed13/0x5f4146/0x916e3e
+msgid "Next Track (while playing)"
+msgstr ""
+
+#: slot/0x00efed13/0x5f4145/0x539262
+#: slot/0x00efed13/0x5f4146/0x1b7151
+msgid "Previous Track (while playing)"
+msgstr ""
+
+#: slot/0x00efed13/0x5f4146/0x3c54c6
+msgid "Toggle Shuffle Mode"
+msgstr ""
+
+#: slot/0x00efed13/0x5f4146/0x5bd34d
+msgid "Press to Play/Stop - Hold to Enter ZAPPIN Mode"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x188473/0x313564
+#: slot/0x00f1b9c2/0x188473/0x3806c3
+#: slot/0x00f1b9c2/0x188473/0x4206c3
+#: slot/0x00f1b9c2/0x188473/0x48122c
+#: slot/0x00f1b9c2/0x188473/0x4814ac
+#: slot/0x00f1b9c2/0x188473/0x5202ed
+#: slot/0x00f1b9c2/0x188473/0x5c02ed
+#: slot/0x00f1b9c2/0x188473/0x713565
+#: slot/0x00f1b9c2/0x188473/0x930645
+#: slot/0x00f1b9c2/0x188473/0xd0203a
+#: slot/0x00f1b9c2/0x188473/0xd3207b
+#: slot/0x00f1b9c2/0x188473/0xdcc0fc
+#: slot/0x00f1b9c2/0x188473/0xdcc5fc
+#: slot/0x00f1b9c2/0x188473/0xe7207f
+#: slot/0x00f1b9c2/0x188473/0xf1203b
+msgid "(None)"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x188473/0x3406c3
+#: slot/0x00f1b9c2/0x188473/0x83e0cd
+msgid "Select Item"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x188473/0x4e02ed
+#: slot/0x00f1b9c2/0x188473/0xf1403b
+#: slot/0x00f1b9c2/0x188473/0xf1903b
+msgid "Crouch/Lie"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x188473/0x714acd
+#: slot/0x00f1b9c2/0x188473/0xb14ace
+#: slot/0x00f1b9c2/0x188473/0xf14acc
+msgid "Display Menu"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x188473/0x83e0b1
+#: slot/0x00f1b9c2/0x188473/0x89e0b9
+msgid "Aim Weapon"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x188473/0x83e0b9
+msgid "Reset Camera"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x188473/0x89e0cd
+msgid "Select Weapon/Precise Shot"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x188473/0x970645
+#: slot/0x00f1b9c2/0x188473/0xa10645
+#: slot/0x00f1b9c2/0x188473/0xdcbefc
+msgid "Shift Camera"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x188473/0xb13563
+msgid "Select Weapon"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x188473/0xd0403a
+msgid "Select Weapon/Item"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x188473/0xd3907b
+msgid "Melee Attack/Cancel Aim"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x188473/0xe7907f
+msgid "Aim Weapon/Attack"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x43f3a5/0x0891fc
+msgid ""
+"CONFIRM: <I=DEC> PLAY VOICE: <I=△>\n"
+"CANCEL: <I=CAN>"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x43f3a5/0x144483
+msgid "（不要）〇×：終了"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x43f3a5/0x173982
+msgid ""
+"CONFIRM: <I=DEC>\n"
+"CANCEL: <I=CAN>"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x43f3a5/0x2e8695
+msgid "Adjust controls settings."
+msgstr ""
+
+#: slot/0x00f1b9c2/0x43f3a5/0x394f17
+msgid ""
+"Select your control scheme.  \n"
+"\n"
+"SHOOTER TYPE:  Control the camera with your right hand. The configuration is similar to that of \"MGS4.\"\n"
+"\n"
+"ACTION TYPE:  Control the camera with your left hand. The configuration is similar to that of \"MPO.\"\n"
+"\n"
+"HUNTER TYPE: Control the camera with your left hand.\n"
+"The configuration is similar to that of\n"
+"the MONSTER HUNTER FREEDOM<I=TM> series."
+msgstr ""
+
+#: slot/0x00f1b9c2/0x43f3a5/0x47e5fe
+msgid "Confirm or change controls."
+msgstr ""
+
+#: slot/0x00f1b9c2/0x43f3a5/0x7c421f
+msgid "(DUMMY)"
+msgstr ""
+
+#: slot/0x00f1b9c2/0x43f3a5/0x853ebb
+msgid "There is no Memory<I=BL>Stick<I=TM> inserted."
+msgstr ""
+
+#: slot/0x00f1b9c2/0x43f3a5/0xf2d20b
+msgid "An error occurred while reading the Memory<I=BL>Stick<I=TM>.  Downloaded data will not be saved."
+msgstr ""

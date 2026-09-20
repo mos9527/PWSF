@@ -1,0 +1,2229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF slot 17/26\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: slot\n"
+"X-PWSF-Entries: 400\n"
+
+
+#: slot/0x0074a6ca/0x19fb4c/0xbd968c
+#: slot/0x00a60c2a/0x78a26d/0x1e19bf
+#: slot/0x00a60c2a/0x78a26d/0x2c685c
+#: slot/0x00a60c2a/0x78a26d/0x3180c2
+#: slot/0x00a60c2a/0x78a26d/0x779016
+#: slot/0x00a60c2a/0x78a26d/0xb88116
+msgid "Defense"
+msgstr ""
+
+#: slot/0x0074a6ca/0x19fb4c/0xc2e376
+#: slot/0x00a60c2a/0x78a26d/0x1e19bd
+#: slot/0x00a60c2a/0x78a26d/0x2c685a
+#: slot/0x00a60c2a/0x78a26d/0x3180c0
+msgid "Attack Frequency"
+msgstr ""
+
+#: slot/0x0074a6ca/0x19fb4c/0xcc1298
+msgid "REMOVE "
+msgstr ""
+
+#: slot/0x0074a6ca/0x19fb4c/0xcc766c
+#: slot/0x00a60c2a/0x78a26d/0x1e19c0
+#: slot/0x00a60c2a/0x78a26d/0x2c685d
+#: slot/0x00a60c2a/0x78a26d/0x3180c3
+msgid "Evasion"
+msgstr ""
+
+#: slot/0x0074a6ca/0x19fb4c/0xd73288
+msgid "MECH SELECTOR"
+msgstr ""
+
+#: slot/0x0074a6ca/0x19fb4c/0xeeeeb7
+msgid "Remove the selected mech."
+msgstr ""
+
+#: slot/0x0074a6ca/0x19fb4c/0xf58460
+#: slot/0x00a60c2a/0x78a26d/0x1e19be
+#: slot/0x00a60c2a/0x78a26d/0x2c685b
+#: slot/0x00a60c2a/0x78a26d/0x3180c1
+msgid "Accuracy"
+msgstr ""
+
+#: slot/0x0074a6ca/0x4f676b/0x000a07
+#: slot/0x0074a6ca/0xcc15c0/0xbb860b
+#: slot/0x0074a6ca/0xcc177c/0x99860c
+msgid "NA"
+msgstr ""
+
+#: slot/0x0074a6ca/0x4f676b/0x0142ed
+msgid "Number produced per mission"
+msgstr ""
+
+#: slot/0x0074a6ca/0x4f676b/0x9a46f4
+msgid "Team level required to produce"
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x12bdc1
+msgid "View the \"DEVELOP\" tutorial?"
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x23110a
+msgid "View other types of materials."
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x615b11
+msgid "Develop items."
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x63ba35
+msgid "View weapons and items developed by your staff and mechs acquired during missions."
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x63d9cd
+msgid "View mechs."
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x641cf8
+msgid "Develop Metal Gear."
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd13a
+msgid "About the \"DEVELOP\" menu"
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd15a
+msgid "At Mother Base, you can develop weapons and items to use in missions."
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd17a
+msgid "To develop weapons, select \"WEAPONS.\""
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd19a
+msgid "(不要)Lボタン・Rボタンで表示する武器のカテゴリーを切り替えることが出来ます。"
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd1ba
+msgid "Weapons that have already been developed will be displayed as shown here with the weapon's icon."
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd1da
+msgid "(不要)△ボタンで、その武器の詳細な性能を見ることが出来ます。"
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd1fa
+msgid "This icon indicates that the weapon is ready to begin development."
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd21a
+msgid "To begin development, you will need the amount of GMP (funds) shown here."
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd23a
+msgid "Remember that development cannot proceed unless you have enough GMP."
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd51a
+msgid "GMP is calculated based on the staff assigned to the Combat Unit."
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd53a
+msgid "(不要)開発中の武器・アイテムは、開発の進行度が表示されます。"
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd55a
+msgid ""
+"(不要)開発中の武器・アイテムを再度選択することで、\n"
+"開発を中止することが出来ます。"
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd57a
+msgid "(不要)開発を中止すると使用したGMPを元に戻すことが出来ます。"
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd59a
+#, c-format
+msgid ""
+"(不要)ただし、開発途中の武器の進行度は0%に戻ります。\n"
+"注意してください。"
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd5ba
+msgid "This icon indicates that the weapon cannot be developed until additional requirements are met."
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd5da
+msgid "Press <I=DEC> button to view the requirements that must be met."
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd5fa
+msgid ""
+"In this case, it looks like the R&D Team's level is not high enough.\n"
+"You need to rescue soldiers during missions and assign them to the R&D team."
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd61a
+msgid "(不要)未開発の武器でも、△ボタンで性能を見ることは出来ます。"
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x6fd63a
+msgid "Develop more powerful weapons and items and use them to help you tackle more challenging missions."
+msgstr ""
+
+#: slot/0x0074a6ca/0x82e3c9/0x7a5bce
+msgid "Develop weapons."
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x02f5fd
+#: slot/0x0074a6ca/0xcc177c/0x02f5fd
+msgid "Select quantity."
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x16193d
+#: slot/0x0074a6ca/0xcc177c/0x16193d
+msgid "Development cost"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x16193e
+#: slot/0x0074a6ca/0xcc177c/0x16193e
+msgid "$1 $2"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x1870c0
+msgid "Number"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x1a6cae
+msgid "Begin development of all equipment items ready for development."
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x1abcc1
+#: slot/0x0074a6ca/0xcc15c0/0x9f210e
+msgid "EQUIPMENT"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x1b63d3
+#: slot/0x0074a6ca/0xcc177c/0x1b674b
+msgid "DEVELOPMENT TREE"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x1f476b
+#: slot/0x0074a6ca/0xcc177c/0x1f476b
+msgid "Pay the GMP development cost and begin development?"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x277650
+msgid "INVENTORY"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x2b1342
+#: slot/0x0074a6ca/0xcc177c/0x2b1342
+#, c-format
+msgid "Staff with [%s] skill"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x30fcac
+#: slot/0x0074a6ca/0xcc177c/0x30fcac
+msgid "In development."
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x408b29
+#: slot/0x0074a6ca/0xcc15c0/0xfc0790
+msgid "UNIFORMS"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x426d9a
+msgid "RECOVERY ITEMS"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x43d5c4
+msgid "Jump to the original specs for this item?"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x473879
+#: slot/0x0074a6ca/0xcc15c0/0x66dc91
+msgid "RADARS"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x4f7683
+#: slot/0x0074a6ca/0xcc177c/0x4f7683
+msgid "Canceling development will return any GMP spent back to you. Are you sure you want to cancel?"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x58b0c8
+#: slot/0x0074a6ca/0xcc177c/0x58b0c8
+msgid "Development cost: $1 $2"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x5c7a78
+#: slot/0x0074a6ca/0xcc177c/0x5c7a78
+msgid ""
+"OK: <I=DEC>  CANCEL: <I=CAN>\n"
+"JUMP: <I=□>  MORE INFO: <I=△>"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x62c6cf
+msgid "Cannot develop this item."
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x63ba35
+msgid "Use the R&D Team to develop items. Select the item you wish to develop and pay the required GMP to begin development. As the R&D Team's level increases, they will be able to develop more powerful items at a faster pace."
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x681038
+#: slot/0x0074a6ca/0xcc177c/0x681038
+msgid "Development has stalled."
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x68dd78
+#: slot/0x0074a6ca/0xcc177c/0x68dd78
+msgid "VIEWER: <I=△>"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x6c7a95
+msgid "Item Development Tree"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x80fb28
+#: slot/0x0074a6ca/0xcc177c/0x80fb28
+msgid ""
+"Development has stalled because one\n"
+"or more requirements have not been met."
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x8172e4
+#: slot/0x0074a6ca/0xcc15c0/0x9f44d4
+#: slot/0x0074a6ca/0xcc177c/0x8179d4
+#: slot/0x0074a6ca/0xcc177c/0xbb04d4
+msgid "DEVELOPMENT STATUS"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x86f09c
+msgid "View rare items acquired during missions, ammo reserves, and uniforms collected."
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0x9a3a63
+#: slot/0x0074a6ca/0xcc177c/0x9a3a63
+msgid "Ready for development."
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0xb0737f
+msgid "USABLE WEAPONS"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0xb726f3
+#: slot/0x0074a6ca/0xcc177c/0xb726f3
+msgid ""
+"Development has stalled\n"
+"due to lack of GMP."
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0xb743f0
+#: slot/0x0074a6ca/0xcc177c/0xb743f0
+msgid "Cannot select due to material shortage."
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0xbb85ab
+#: slot/0x0074a6ca/0xcc177c/0x9985ac
+#, c-format
+msgid "%d KG"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0xbf8b1b
+#: slot/0x0074a6ca/0xcc177c/0xbf8b1b
+#, c-format
+msgid "%s LV: %d or higher (current: %d)"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0xcf4694
+#: slot/0x0074a6ca/0xcc15c0/0xe7be49
+msgid "KEY ITEMS"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0xd73288
+msgid "ITEM SELECTOR"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0xf71bd0
+#: slot/0x0074a6ca/0xcc177c/0xf71bd0
+msgid "Requirement"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc15c0/0xf7b8dc
+#: slot/0x0074a6ca/0xcc177c/0xf7b8dc
+#, c-format
+msgid "Requirement: %d"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x0c5af4
+#: slot/0x0074a6ca/0xcc177c/0x71905f
+msgid "SNIPER RIFLES"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x11d455
+msgid "AMMO"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x187438
+msgid "Ammunition Amount"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x1a6cae
+msgid ""
+"Preparation for development is complete.\n"
+"Are you sure you want to begin development on all available weapons?"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x2bb1b5
+msgid "Damage"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x35a782
+#: slot/0x00a60c2a/0x78a26d/0x0c17a1
+#: slot/0x00a60c2a/0x78a26d/0xa9a1f3
+msgid "Firing Spread"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x389d94
+#: slot/0x0074a6ca/0xcc177c/0x745489
+msgid "MACHINE GUNS"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x393479
+msgid "PRIMARY WEAPONS"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x3e71cb
+msgid "CUSTOM PARTS"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x43d5c4
+msgid "Jump to the original specs for this weapon?"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x491953
+#: slot/0x0074a6ca/0xcc177c/0x84ea31
+msgid "MISSILES"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x4b77a7
+#: slot/0x0074a6ca/0xcc177c/0xa5822a
+msgid "ASSAULT RIFLES"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x4c5734
+#: slot/0x0074a6ca/0xcc177c/0x759023
+msgid "PLACEABLE WEAPONS"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x506f8f
+#: slot/0x0074a6ca/0xcc177c/0xfa4df1
+msgid "THROWING WEAPONS"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x510e70
+msgid "MAGAZINE CAPACITY"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x62c6cf
+msgid "Cannot develop this weapon."
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x63ba35
+msgid "Use the R&D Team to develop weapons. Select the weapon you wish to develop and pay the required GMP to begin development. As the R&D Team's level increases, they will be able to develop more powerful weapons at a faster pace."
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x6c4b57
+#: slot/0x0074a6ca/0xcc177c/0xb80a73
+msgid "HANDGUNS"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x6c4e8b
+msgid "Magazine Capacity"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x6ce995
+msgid "Weapon Development Tree"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x73e536
+#: slot/0x0074a6ca/0xcc177c/0x980903
+msgid "CLOSE-RANGE WEAPONS"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x81e032
+msgid "AMMO/NO."
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x8add10
+#: slot/0x00a60c2a/0x78a26d/0x0c179f
+#: slot/0x00a60c2a/0x78a26d/0xa9a1f1
+msgid "Stopping Power"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x9985db
+msgid "LV.$1"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0x9c50f3
+#: slot/0x0074a6ca/0xcc177c/0xb86436
+msgid "SHOTGUNS"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0xa4c83f
+#: slot/0x00a60c2a/0x78a26d/0x0c17b8
+#: slot/0x00a60c2a/0x78a26d/0xa9a20a
+msgid "Camo Index"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0xd0dccc
+msgid "Rate of Fire"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0xd4e418
+msgid "SUPPORT WEAPONS"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0xd6155c
+#: slot/0x0074a6ca/0xcc177c/0xfe2c05
+msgid "SUBMACHINE GUNS"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0xd65dbe
+msgid "HELP: SELECT"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0xe6adae
+msgid "USAGE LEVEL"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0xe7b90b
+msgid "Weight"
+msgstr ""
+
+#: slot/0x0074a6ca/0xcc177c/0xf9147d
+msgid "Cannot select due to shortage of ammo."
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x03b163
+msgid "\"MOBILITY\" Memory Boards Obtained: $1"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x12c9a2
+msgid "\"Mobility\" Parts Obtained: $1"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x235e66
+msgid ""
+"You have been awarded a new insignia.\n"
+"\n"
+"$1\n"
+"\n"
+"\n"
+"$2"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x24629c
+msgid ""
+"Obtained design specs for the following weapon/item:\n"
+"$1 $2 $3"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x285030
+msgid ""
+"You obtained Paz's Diary Part 1.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x285031
+msgid ""
+"You obtained Paz's Diary Part 2.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x285032
+msgid ""
+"You obtained Paz's Diary Part 3.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x285033
+msgid ""
+"You obtained Paz's Diary Part 4.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x285034
+msgid ""
+"You obtained Paz's Diary Part 5.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x285035
+msgid ""
+"You obtained Paz's Diary Part 6.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x285036
+msgid ""
+"You obtained Paz's Diary Part 7.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x285037
+msgid ""
+"You obtained Paz's Diary Part 8.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x285038
+msgid ""
+"You obtained Paz's Diary Part 9.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x28504f
+msgid ""
+"You obtained Paz's Diary Part 10.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c004d
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"LEAF (fatigues)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c004e
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"TIGER STRIPE (fatigues)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c004f
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"CHOCOLATE CHIP (fatigues)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0050
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"DESERT AUSCAM (fatigues)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0051
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"SQUARES (fatigues)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0052
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"SPLITTER (fatigues)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0053
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"SNAKE (fatigues)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0054
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"NEO-MOSS (fatigues)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0055
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"STENCH (fatigues)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c006c
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"TIGREX (fatigues)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c006d
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"RATHALOS (fatigues)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c006e
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"GEAR REX (fatigues)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c006f
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"BATTLE DRESS (with helmet)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0070
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"LEAF (naked)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0071
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"TIGER STRIPE (naked)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0072
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"CHOCOLATE CHIP (naked)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0073
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"DESERT AUSCAM (naked)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0074
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"SQUARES (naked)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0075
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"SPLITTER (naked)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c008c
+msgid ""
+"New camouflage developed:\n"
+"\n"
+"SNAKE (naked)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c008d
+msgid ""
+"New uniform developed:\n"
+"\n"
+"TUXEDO"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c008e
+msgid ""
+"New uniform developed:\n"
+"\n"
+"MILLER"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c008f
+msgid ""
+"New uniform developed:\n"
+"\n"
+"AMANDA"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0090
+msgid ""
+"New uniform developed:\n"
+"\n"
+"SWIM TRUNKS"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0091
+msgid ""
+"New uniform developed:\n"
+"\n"
+"BIKINI TOP"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0092
+msgid ""
+"New uniform developed:\n"
+"\n"
+"T-SHIRT"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0093
+msgid ""
+"New uniform developed:\n"
+"\n"
+"SNEAKING SUIT"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x2c0094
+msgid ""
+"New uniform developed:\n"
+"\n"
+"BATTLE DRESS"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x306594
+msgid "\"ATTACK\" Memory Boards Obtained: $1"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x30d1d6
+msgid "\"SENSE\" Memory Boards Obtained: $1"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x40295a
+msgid "\"Attack\" Parts Obtained: $1"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x40959c
+msgid "\"Sense\" Parts Obtained: $1"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x44bfdc
+msgid "You have obtained a wiretapped recording."
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x48302c
+msgid ""
+"You have been awarded a new codename.\n"
+"\n"
+"$1\n"
+"\n"
+"\n"
+"$2"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x485449
+msgid "You have obtained Strangelove's audio cassette."
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x49bcef
+msgid "\"CONTROL\" Memory Boards Obtained: $1"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x4fbb6b
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Bosque del Alba"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x4fbb6c
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Bosque del Alba (Night)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x4fbb6d
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Bananal Fruta de Oro: Farm"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x4fbb6e
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Bananal Fruta de Oro: Farm (Night)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x4fbb6f
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Aldea Los Despiertos"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x4fbb70
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Aldea Los Despiertos (Night)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x4fbb71
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"El Cadalso"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x4fbb72
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"El Cadalso (Night)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x4fbb73
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Ruinas de Xochiquetzal"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x4fbb8a
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Ruinas de Xochiquetzal (Night)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x4fbb8b
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Miners' Residence"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x4fbb8c
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Miners' Residence (Night)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x4fbb8d
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Underground Passage B"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x4fbb8e
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Soviet Patrol Base"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x4fbb8f
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Silo Entrance"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x4fbb90
+msgid ""
+"The following stage can now be selected in VERSUS OPS:\n"
+"\n"
+"Pillbox Purgatory"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x512b52
+msgid ""
+"You obtained Strangelove's Cassette Tape #1.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x512b53
+msgid ""
+"You obtained Strangelove's Cassette Tape #2.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x512b54
+msgid ""
+"You obtained Strangelove's Cassette Tape #3.\n"
+"\n"
+"To listen: Select a mission, enter the BRIEFING FILES menu, then choose DATA FILES. \n"
+"*May or may not play depending on your progress through \"MAIN OPS.\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x5738f3
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Russian Commando (VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x5738f4
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Russian Soldier (VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x5738f5
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Scout (VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x5738f6
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Guard (VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x5738f7
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Commando (VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x5738f8
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Male POW (VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x5738f9
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Patrolman (VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x5738fa
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Female POW (VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x5738fb
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Mechanic (VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x573912
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Escort Soldier (VERSUS OPS Only)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x573913
+msgid "A new VERSUS OPS uniform has been developed."
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x58d52e
+msgid "\"Control\" Parts Obtained: $1"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x62f5f0
+#, c-format
+msgid "Pupa Head Parts: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x654d96
+msgid ""
+"New uniform developed:\n"
+"\n"
+"Fox"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3d3
+#, c-format
+msgid "Captured BTR-60 PA Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3d4
+#, c-format
+msgid "Captured BTR-60 PA Custom Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3d5
+#: slot/0x007b474a/0x03c205/0x72b435
+#, c-format
+msgid "Captured BTR-60 PB Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3d6
+#: slot/0x007b474a/0x03c205/0x72b436
+#, c-format
+msgid "Captured BTR-60 PB Custom Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3d7
+#: slot/0x007b474a/0x03c205/0x72b438
+#, c-format
+msgid "Captured LAV-Type G Custom Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3d8
+#: slot/0x007b474a/0x03c205/0x72b439
+#, c-format
+msgid "Captured LAV-Type C Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3d9
+#: slot/0x007b474a/0x03c205/0x72b43a
+#, c-format
+msgid "Captured LAV-Type C Custom Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3da
+#: slot/0x007b474a/0x03c205/0x99a23c
+#, c-format
+msgid "Captured T-72U Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3db
+#: slot/0x007b474a/0x03c205/0x72b416
+#, c-format
+msgid "Captured T-72U Custom Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3f2
+#: slot/0x007b474a/0x03c205/0x72b417
+#, c-format
+msgid "Captured T-72A Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3f3
+#: slot/0x007b474a/0x03c205/0x72b418
+#, c-format
+msgid "Captured T-72A Custom Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3f4
+#: slot/0x007b474a/0x03c205/0x72b419
+#, c-format
+msgid "Captured KPz 70 Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3f5
+#: slot/0x007b474a/0x03c205/0x72b41a
+#, c-format
+msgid "Captured KPz 70 Custom Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3f6
+#: slot/0x007b474a/0x03c205/0x72b41b
+#, c-format
+msgid "Captured MBTk-70 Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3f7
+#: slot/0x007b474a/0x03c205/0x72b432
+#, c-format
+msgid "Captured MBTk-70 Custom Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3f8
+#: slot/0x007b474a/0x03c205/0x99a59c
+#, c-format
+msgid "Captured Mi-24A Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3f9
+#: slot/0x007b474a/0x03c205/0x72b43b
+#, c-format
+msgid "Captured Mi-24A Custom Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3fa
+#: slot/0x007b474a/0x03c205/0x72b452
+#, c-format
+msgid "Captured Mi-24D Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b3fb
+#: slot/0x007b474a/0x03c205/0x72b453
+#, c-format
+msgid "Captured Mi-24D Custom Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b412
+#: slot/0x007b474a/0x03c205/0x72b454
+#, c-format
+msgid "Captured AH56A-Bomber Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b413
+#: slot/0x007b474a/0x03c205/0x72b455
+#, c-format
+msgid "Captured AH56A-Bomber Custom Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b414
+#: slot/0x007b474a/0x03c205/0x72b456
+#, c-format
+msgid "Captured AH56A-Raider Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b415
+#: slot/0x007b474a/0x03c205/0x72b457
+#, c-format
+msgid "Captured AH56A-Raider Custom Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b433
+#, c-format
+msgid "Captured BTR-60PA Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b434
+#, c-format
+msgid "Captured BTR-60PA Custom Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72b437
+#: slot/0x007b474a/0x03c205/0x99a1dc
+#, c-format
+msgid "Captured LAV-Type G Life Remaining: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x72f5f0
+#, c-format
+msgid "Chrysalis Head Parts: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x7fca12
+msgid "You have obtained Paz's diary."
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x82f5f0
+#, c-format
+msgid "Cocoon Head Parts: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e62d
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Here goes!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e62e
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Here goes!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e62f
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Here goes!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e631
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"GO! GO! GO!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e632
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"GO! GO! GO!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e633
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"GO! GO! GO!!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e635
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Taking it slow...\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e636
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Taking it slow... ...\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e64d
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Taking it slow... ... ...\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e64f
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Let's take it easy...\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e650
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Let's take it easy... ...\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e651
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Let's take it easy... ... ...\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e653
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I'm going it alone!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e655
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Focus!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e656
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Focus!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e66d
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Focus!!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e66f
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"You can do this!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e670
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"You can do this!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e671
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"You can do this!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e673
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Line up the shot!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e674
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Line up the shot!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e675
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Line up the shot!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e68d
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I can feel 'em!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e68e
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I can feel 'em!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e68f
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I can feel 'em!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e690
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Here.\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e692
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I see you!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e693
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I see you!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e694
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I see you!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e696
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I feel the power within me!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e6ad
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I feel the power within me!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e6ae
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I feel the power within me!!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e6b0
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Meow, meow, meow!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e6b4
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"You dish it out, I can take it!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e6b5
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"You dish it out, I can take it!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e6b6
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"You dish it out, I can take it!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e6ce
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Turn it up!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e6cf
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Turn it up!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e6d0
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Turn it up!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e6d2
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Haidaraaaaa!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e6d4
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Rest in Peace!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e6d6
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Sweet dreams!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e6ee
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Settle down!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e6f0
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Kyehhhhhh!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x90e6f1
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Co-op thunder!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x92f5f0
+#, c-format
+msgid "PW Head Parts: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x93e240
+msgid "Enemy soldiers extracted with Fulton: $1"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0x9ec369
+#, c-format
+msgid "Boss Damage Ratio: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xaf7df9
+msgid "Memory Boards Obtained: $1"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xb13e1f
+msgid ""
+"New uniform developed:\n"
+"\n"
+"UT (UT Logo)"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xb309ec
+msgid ""
+"You received new CO-OPS Comm. messages.\n"
+"\n"
+"View them by going to the \"CO-OPS Comm.\" menu under \"MISSION PREP\"."
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xb57c73
+#, c-format
+msgid "Pupa Jet-Unique Parts: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xc57c73
+#, c-format
+msgid "Chrysalis Railgun-Unique Parts: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xd57c73
+#, c-format
+msgid "Chrysalis Radome-Unique Parts: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xdfc680
+msgid "Prisoners extracted with Fulton: $1"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xe57c73
+#, c-format
+msgid "Cocoon Armor-Unique Parts: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87b0
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"It's not over yet!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87b1
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"It's not over yet!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87b2
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"It's not over yet!!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87b4
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"We're still in this fight!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87b5
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"We're still in this fight!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87b6
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"We're still in this fight!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87b8
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I'm ready to go!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87cf
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I'm ready to go!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87d0
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I'm ready to go!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87d2
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I'm with ya!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87d3
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I'm with ya!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87d4
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I'm with ya!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87d6
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Don't die on me!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87d7
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Don't die on me!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87ef
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I knew you had it in you!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87f1
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I knew you had it in you... ...\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87f3
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"You're pretty good!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87f5
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"You take it from here!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec87f7
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Say good night... ...\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec880f
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Down on the ground!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec8810
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Down on the ground!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec8811
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Down on the ground!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec8813
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Surrender!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec8815
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"They'll never hear me coming!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec8816
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"They'll never hear me coming!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec8817
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"They'll never hear me coming!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec882f
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Give 'em the silent treatment!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec8830
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Give 'em the silent treatment!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec8831
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Give 'em the silent treatment!!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec8833
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Here I am!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec8835
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"I'll give 'em something to shoot at!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xec8837
+msgid ""
+"The following words can now be infused with heroic spirit:\n"
+"\n"
+"\"Keep 'em busy for me!!\""
+msgstr ""
+
+#: slot/0x007b474a/0x03c205/0xf57c73
+#, c-format
+msgid "PW Leg Parts: $1 %"
+msgstr ""
+
+#: slot/0x007b474a/0x261769/0x6069c1
+msgid "+$2 LV. $1"
+msgstr ""
+
+#: slot/0x007b474a/0x261769/0x945ae1
+msgid "LV. UP"
+msgstr ""
+
+#: slot/0x007b474a/0x261769/0xf46512
+msgid "LV. $1"
+msgstr ""
+
+#: slot/0x007b474a/0x3eb145/0x743e57
+msgid "(caption content undecided)"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618b1
+msgid "CQC Count"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618b2
+msgid "Times Captured/Thrown by CQC"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618b3
+#: slot/0x007b474a/0xbf29c8/0xcee88a
+msgid "Love Box Usage Time"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618b4
+msgid "Cardboard Boxes Used"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618b5
+#: slot/0x007b474a/0xbf29c8/0xbca8ad
+#: slot/0x00b96275/0x947b26/0x3c62b4
+msgid "Friendly Fire Count"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618b6
+#: slot/0x007b474a/0xbf29c8/0xbca8ab
+msgid "Magazines Placed"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618b7
+msgid "Magazines Read"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618b8
+msgid "DM Kills"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618b9
+msgid "TDM Kills"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618ba
+msgid "CAP Kills"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618d1
+msgid "BASE Kills"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618d2
+msgid "DM Deaths"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618d3
+msgid "TDM Deaths"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618d4
+msgid "CAP Deaths"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618d5
+msgid "BASE Deaths"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618d6
+msgid "DM Knockouts"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618d7
+msgid "TDM Knockouts"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618d8
+msgid "CAP Knockouts"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618d9
+msgid "BASE Knockouts"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618da
+msgid "Times Knocked Out (DM)"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618f1
+msgid "Times Knocked Out (TDM)"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618f2
+msgid "Times Knocked Out (CAP)"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618f3
+msgid "Times Knocked Out (BASE)"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618f4
+msgid "Targets Placed for Win"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618f5
+msgid "Targets Placed"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618f6
+msgid "Targets Acquired"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618f7
+msgid "Bases Held"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618f8
+msgid "Base Hold Time"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618f9
+msgid "Consecutive Kills"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0618fa
+msgid "Consecutive Headshots"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x061911
+#: slot/0x007b474a/0xbf29c8/0xbca88c
+msgid "Self-Destructs"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x061912
+msgid "Self-Destruct Knockouts"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x061913
+msgid "Battle Cry Uses"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x061914
+msgid "Rolls"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x061915
+msgid "Combo Hits"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x061916
+msgid "NVG Uses"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x061917
+msgid "Violations"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x061919
+msgid "MSF Soldiers Utilized"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x06191a
+msgid "Teammates Killed"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x061931
+msgid "Teammates Woken Up"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x061932
+#: slot/0x00b96275/0x947b26/0x3c52b4
+msgid "Fulton Extractions"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x061933
+msgid "Times Extracted via Fulton"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0830c4
+#: slot/0x007b474a/0xbf29c8/0xd5e542
+msgid "CO-OP Ring Active Time"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0830c5
+msgid "DM Play Count"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0830c6
+msgid "TDM Play Count"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0830c7
+msgid "CAP Play Count"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0830c8
+msgid "BASE Play Count"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0830c9
+msgid "DM Wins"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0830ca
+msgid "TDM Wins"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0830cb
+msgid "CAP Wins"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x0830cc
+msgid "BASE Wins"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x28f6fb
+msgid "Door Support Failures"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x2ed85b
+msgid "Total Alert Phases"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x2fe904
+#: slot/0x00a60c2a/0x78a26d/0x8407d1
+#: slot/0x00b96275/0x947b26/0x3c4ab0
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d38b
+msgid "Heroism"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x349c54
+msgid "Doors Supported"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x3803ee
+msgid "Kills"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x3c8407
+msgid "Clear Time"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x3e6b99
+msgid "Total Kills"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x483b99
+msgid "Distance Traveled During Snake-In"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x505e6e
+msgid "CQC Knockdowns"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x61e2fa
+msgid "Alert Phases"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x6c2db7
+msgid "CPR Rescues"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x6f76e0
+msgid "Level of Camaraderie"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x6fd3ea
+msgid "Hold-ups"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x738816
+msgid "Miller Affinity"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x74a20e
+msgid "Number of Enemy Soldiers/Prisoners extracted with Fulton "
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x7bd823
+msgid "Consecutive CQCs"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x7c6df5
+msgid "Cutscene Interaction Bonus"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x812473
+msgid "You were unable to earn an S Rank because you used Stealth Camo."
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x81e0d8
+msgid "Clear Count"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x8985bf
+msgid "Quick CPR Rescues"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x8f657f
+#: slot/0x007b474a/0xbf29c8/0xbca8ee
+#: slot/0x00b96275/0x947b26/0x3c62b6
+msgid "Interrogations"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x91e2e9
+msgid "Prisoners Killed"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x91fbe3
+msgid "ALPHA"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x91fbe4
+msgid "BRAVO"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x91fbe5
+msgid "CHARLIE"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x91fbe6
+msgid "DELTA"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x92b205
+msgid "Target Points"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x95cb8a
+msgid "Mission Statistics"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x9613f1
+msgid "Paz Affinity"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x98726d
+#: slot/0x00b96275/0x947b26/0x3c62b5
+msgid "Near-Deaths"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x9ba32b
+msgid "Weapon Experience"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0x9be99f
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db6b
+msgid "Abductions"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xa252b4
+msgid "Boss Damage Ratio"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xabce08
+msgid "You were unable to earn an S Rank because you used the EM Net."
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca88a
+#: slot/0x00b96275/0x947b26/0x3c52d0
+msgid "Enemies Tagged"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca88b
+msgid "Tagged Enemies Defeated"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca88d
+msgid "Automatic Ration Uses"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca88e
+msgid "Total Damage"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca88f
+msgid "Enemies Knocked Out"
+msgstr ""

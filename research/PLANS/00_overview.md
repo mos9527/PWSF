@@ -26,6 +26,15 @@ key = name_hash(basename)
   ├─ buffer_xor_decrypt        @ 0x14010F4C0   （一次性，olang / xmx / xsx）
   └─ sub_14010F8B0 + sub_14010F5C0 @ 0x14010F8B0/0x14010F5C0
                                                （拆分式，PDT/DAT 归档，可复用 MT 状态）
+
+上面只是"第一层"。归档载荷还可能叠**第二层**，由
+entry_payload_transform @ 0x140123E90 施加（读完成回调里，
+参数来自 io_cmd_dispatch @ 0x14045D600 的 case 0x10/0xC）：
+  mode 0x40   逐 dword 异或 LCG      s ← 48828125*s + inc   (48828125 == 5**11)
+  mode 0x100  逐字节异或同一个字节
+SLOT.DAT 用 0x40，(state, inc) 由 SLOT.KEY 解开的头 12 字节经
+packfile_derive_xor_key @ 0x140123DB0 派生 —— 见 08 号 §5.5。
+（entry_payload_unmask @ 0x140124000 只是 CRC 校验，不变数据。）
 ```
 
 ## 模块进度
@@ -39,7 +48,7 @@ key = name_hash(basename)
 | 05 | 字体 XPR2/ATG | ✅ 往返字节一致，中文字形 PoC **实机已验证** | [05_font.md](../ANALYSIS/05_font.md) | [05_font.md](05_font.md) |
 | 06 | 语料 .po 与编译链 | 🟢 olang 侧已闭环：导出 6,259 条 → 校验 → 编译 → 安装；CODEC 回写仍受阻 | — | [06_localization_pipeline.md](06_localization_pipeline.md) |
 | 07 | 启动参数 | ✅ 已核实 | [07_launch_args.md](../ANALYSIS/07_launch_args.md) | — |
-| 08 | 过场（漫画）文字 | 🔴 未提取；已排除其余全部容器，卡在 `SLOT.DAT` 载荷编码 | [08_cutscene_text.md](../ANALYSIS/08_cutscene_text.md) | — |
+| 08 | 过场（漫画）文字 | 🟢 已提取：`SLOT.DAT` 两层 XOR 已破，内嵌 144 张 olang 表 → 过场 43 张 / 英文 1,928 行；写回**方案已定未实现** | [08_cutscene_text.md](../ANALYSIS/08_cutscene_text.md) | [08_cutscene_writeback.md](08_cutscene_writeback.md) |
 
 > 02 现状（已实证，见 02 号文档 §6）：
 > **影片字幕**——全盘 134 容器 / 113,348 条目中 `SUBTITLE` 零命中，
@@ -97,6 +106,7 @@ mgspw\
 | `pwsf.po` | `.po` 读取器（引用 / 注释 / 续行 / 转义） |
 | `pwsf.po_export` | 英文语料 → `src/` 下的 `.pot` 与分块 `.po` |
 | `pwsf.slots` | `.po` 引用 ↔ 二进制槽位，校验与写回共用一套解析 |
+| `pwsf.slotdat` | `SLOT.DAT` / `SLOT.KEY`：索引、两层 XOR 密钥流、记录解压（08 号 §5） |
 | `pwsf.po_lint` | 译文编译前的全部校验（06 号 §6），error 即阻断 |
 | `pwsf.po_import` | 译文 → 重建 olang + 字体 → `BUILD/` 与 `MANIFEST.tsv` |
 | `pwsf.install` | 按清单备份 / 写入 / 校验 / 还原游戏文件 |

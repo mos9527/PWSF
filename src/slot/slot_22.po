@@ -1,0 +1,1873 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF slot 22/26\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: slot\n"
+"X-PWSF-Entries: 400\n"
+
+
+#: slot/0x00cbf8c0/0x77999c/0x0727ae
+msgid "<I=CAN>: CANCEL"
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x072a66
+msgid ""
+"The host has kicked you.\n"
+"Ending game."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x0f848d
+msgid ""
+"Maximum number of players reached.\n"
+"Failed to connect to host."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x100da0
+msgid "Ending mission."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x1551cb
+msgid ""
+"Disconnected from the network.\n"
+"Ending game."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x162c8d
+msgid ""
+"Soldier data has been corrupted.\n"
+"Ending game."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x29e03a
+msgid ""
+"You have been kicked for idling more than 10 minutes.\n"
+"Ending game."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x3561fa
+msgid "The host has ended the mission"
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x38551c
+msgid "Failed to join game."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x39d0fb
+msgid "Create game"
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x39ec29
+msgid ""
+"Join the selected host's game?\n"
+"<I=DEC>: YES  <I=CAN>: NO"
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x3b9c23
+msgid "Send game"
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x3f9049
+msgid "The host is restarting the game."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x3fdf05
+msgid ""
+"A communications error has occurred.\n"
+"Ending game."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x479c41
+msgid "Start game"
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x4b2ea9
+msgid "Failed to connect to host."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x5daf44
+msgid ""
+"Disconnected from the server.\n"
+"Ending game."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x641021
+#: slot/0x00cbf8c0/0x77999c/0xb4f5dd
+msgid "Error"
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x657f2f
+msgid "Leaving this game."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x6d6c49
+msgid ""
+"Password is not long enough.\n"
+"Password must be between 3 to 15 characters."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x6e09db
+msgid ""
+"Password is incorrect.\n"
+"Failed to connect to host."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x7c321d
+msgid ""
+"Game rules and map have not been set.\n"
+"Please set game's rules and map."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x7cb086
+msgid "Error code"
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x7d0050
+msgid "Join game"
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x824d35
+msgid "The game started by the host has ended."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x842308
+msgid "Failed to create game."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x8655b5
+#: slot/0x00cbf8c0/0x77999c/0xabbe60
+msgid "Unable to locate host."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x8abb98
+msgid "Failed to connect to the network."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x8ccd59
+msgid "The host has ended the game."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x9524c7
+msgid "Restarting game."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x970dce
+msgid "Searching for host..."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x99f3a6
+msgid ""
+"You have been kicked for killing at least 3 team members.\n"
+"Ending game."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xa1a5e6
+msgid ""
+"Select a host to join.\n"
+"<I=DEC>: OK  <I=CAN>: BACK  <I=△>: REFRESH LIST"
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xa43fcd
+msgid "PROCEEDING TO NEXT STAGE"
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xaa14a4
+msgid ""
+"Game rules and map have not been set.\n"
+"Please set games rules and map."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xad3b5b
+msgid "The host is restarting the mission."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xb25190
+msgid "This host's game is already full."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xbbc34f
+msgid "Ending game."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xbcb085
+msgid ""
+"An error has occurred.\n"
+"Unable to connect to host."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xc546a4
+msgid ""
+"The disc for METAL GEAR SOLID PEACE WALKER is not inserted properly.\n"
+"Ending game."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xc5b5f0
+msgid "No errors"
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xc932e3
+msgid ""
+"Host name is not long enough.\n"
+"Host names must be between 3 to 15 characters."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xcbfa50
+msgid "Restarting mission."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xcd3891
+msgid ""
+"Wireless connection has been lost. \n"
+"The WLAN/WIRELESS switch is OFF."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xd57e5c
+msgid "Connection to the host has been lost.  Ending game."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xea30db
+msgid "Processing host connection..."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xeccf17
+msgid "Waiting for players to join game..."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xf07597
+msgid "Error number"
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0xf4c33d
+msgid "Leaving mission."
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0x06dfc8
+msgid "FILE LIBRARY $1 $2"
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0x12884a
+msgid "Data Files"
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0x2891d4
+msgid "EVA"
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0x28bb4d
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2e9
+msgid "Paz"
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0x2dfd93
+msgid "SAVE:   QUIT WITHOUT SAVING:"
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0x5cb77e
+msgid "ABOUT THIS MISSION $1 $2"
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0x6cfda1
+msgid ": "
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0x6d472a
+msgid "－－"
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0x7c8ccb
+msgid "Zadornov"
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0x81a65d
+msgid "FEMALE 1"
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0x81a65e
+msgid "FEMALE 2"
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0x84e8ab
+msgid "The Boss AI"
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0x9f57bb
+msgid "Snake and Miller"
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0xb5b581
+msgid "SKIP: "
+msgstr ""
+
+#: slot/0x00cdd1c4/0xc6e14e/0xdcc628
+msgid "Cécile"
+msgstr ""
+
+#: slot/0x00ce245a/0x0a7cd6/0x000000
+#: slot/0x00ce245c/0x0a7cd6/0x000002
+#: slot/0x00db94df/0xae802f/0x000000
+msgid "Self-defense system online."
+msgstr ""
+
+#: slot/0x00ce245a/0x0a7cd6/0x000001
+#: slot/0x00ce245c/0x0a7cd6/0x000004
+msgid "Flamethrower engaged."
+msgstr ""
+
+#: slot/0x00ce245a/0x0a7cd6/0x000003
+#: slot/0x00ce245c/0x0a7cd6/0x000006
+msgid "Firing rocket launcher."
+msgstr ""
+
+#: slot/0x00ce245a/0x0a7cd6/0x000004
+msgid "Balancer malfunction detected."
+msgstr ""
+
+#: slot/0x00ce245a/0x0a7cd6/0x000005
+#: slot/0x00ce245c/0x0a7cd6/0x00000a
+msgid "Leg drive motor charging."
+msgstr ""
+
+#: slot/0x00ce245a/0x0a7cd6/0x000006
+#: slot/0x00ce245c/0x0a7cd6/0x00001e
+#: slot/0x00ce245c/0x0a7cd6/0x000040
+#: slot/0x00ce245c/0x0a7cd6/0x000062
+msgid "Leg damage critical."
+msgstr ""
+
+#: slot/0x00ce245a/0x0a7cd6/0x000007
+#: slot/0x00ce245c/0x0a7cd6/0x00001f
+#: slot/0x00ce245c/0x0a7cd6/0x000041
+#: slot/0x00ce245c/0x0a7cd6/0x000063
+msgid "Weapon container destroyed."
+msgstr ""
+
+#: slot/0x00ce245a/0x0a7cd6/0x000008
+#: slot/0x00ce245c/0x0a7cd6/0x000020
+msgid "You've gotten stronger..."
+msgstr ""
+
+#: slot/0x00ce245a/0x0a7cd6/0x00000a
+#: slot/0x00ce245c/0x0a7cd6/0x000021
+msgid "Face me!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000001
+msgid "Reinitializing platform."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000003
+#: slot/0x00db94df/0xc4febe/0x000001
+msgid "Switching to self-defense mode."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000007
+msgid "Firing drill missiles."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000009
+msgid "EM pulse at maximum."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00000b
+msgid "Jump engaged."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00000c
+#: slot/0x00ce245c/0x0a7cd6/0x00002e
+msgid "Initializing nuclear launch sequence."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00000d
+#: slot/0x00ce245c/0x0a7cd6/0x00002f
+msgid "Launch angle set."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00000e
+#: slot/0x00ce245c/0x0a7cd6/0x000030
+msgid "Opening missile hatch."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00000f
+#: slot/0x00ce245c/0x0a7cd6/0x000031
+msgid "Commencing pre-ignition."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000010
+#: slot/0x00ce245c/0x0a7cd6/0x000032
+msgid "10..."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000011
+#: slot/0x00ce245c/0x0a7cd6/0x000033
+msgid "9..."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000012
+#: slot/0x00ce245c/0x0a7cd6/0x000034
+msgid "8..."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000013
+#: slot/0x00ce245c/0x0a7cd6/0x000035
+msgid "7..."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000014
+#: slot/0x00ce245c/0x0a7cd6/0x000036
+msgid "6..."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000015
+#: slot/0x00ce245c/0x0a7cd6/0x000037
+msgid "5..."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000016
+#: slot/0x00ce245c/0x0a7cd6/0x000038
+msgid "4..."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000017
+#: slot/0x00ce245c/0x0a7cd6/0x000039
+msgid "3..."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000018
+#: slot/0x00ce245c/0x0a7cd6/0x00003a
+msgid "2..."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000019
+#: slot/0x00ce245c/0x0a7cd6/0x00003b
+msgid "1..."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00001a
+#: slot/0x00ce245c/0x0a7cd6/0x00003c
+msgid "... Launch."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00001b
+#: slot/0x00ce245c/0x0a7cd6/0x00003d
+msgid "Three minutes to launch."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00001c
+#: slot/0x00ce245c/0x0a7cd6/0x00003e
+msgid "One minute to launch."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00001d
+#: slot/0x00ce245c/0x0a7cd6/0x00003f
+msgid "Thirty seconds to launch."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000023
+msgid "Reinitializing platform!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000024
+#: slot/0x00ce245c/0x0a7cd6/0x000046
+msgid "Self-defense system online!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000025
+#: slot/0x00ce245c/0x0a7cd6/0x000047
+msgid "Switching to self-defense mode!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000026
+msgid "Flamethrower engaged!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000027
+msgid "Launching S mines!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000028
+msgid "Firing rocket launcher!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000029
+msgid "Firing drill missiles!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00002b
+#: slot/0x00ce245c/0x0a7cd6/0x00004d
+msgid "EM pulse at maximum!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00002c
+#: slot/0x00ce245c/0x0a7cd6/0x00004e
+msgid "Leg drive motor charging!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00002d
+#: slot/0x00ce245c/0x0a7cd6/0x00004f
+msgid "Jump engaged!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000042
+#: slot/0x00ce245c/0x0a7cd6/0x000064
+msgid "It can't be."
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000043
+msgid "Bring it on. "
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000048
+msgid "Flamethrower!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000049
+msgid "Try this on for size!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00004a
+msgid "How do you like this?"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00004c
+msgid "Poison beam!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000050
+msgid "Initializing nuclear launch sequence!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000051
+msgid "Launch angle set!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000052
+msgid "Opening missile hatch!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000053
+msgid "Commencing pre-ignition!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000054
+msgid "10!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000055
+msgid "9!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000056
+msgid "8!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000057
+msgid "7!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000058
+msgid "6!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000059
+msgid "5!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00005a
+msgid "4!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00005b
+msgid "3!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00005c
+msgid "2!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00005d
+msgid "1!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00005e
+msgid "Launch!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x00005f
+msgid "Three minutes to launch!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000060
+msgid "One minute to launch!"
+msgstr ""
+
+#: slot/0x00ce245c/0x0a7cd6/0x000061
+msgid "Thirty seconds to launch!"
+msgstr ""
+
+#: slot/0x00d2a877/0x037878/0x000000
+msgid "Why...? Are your secrets really worth your life?"
+msgstr ""
+
+#: slot/0x00d2a877/0x03787c/0x000000
+msgid "You're LYING, Snake! SNA-A-AKE!"
+msgstr ""
+
+#: slot/0x00d2a877/0x084041/0x000000
+msgid ""
+"What happened, Snake?!\n"
+"Snake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x084045/0x000000
+msgid ""
+"Snake! Come in, Snake!\n"
+"Snake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x084049/0x000000
+msgid ""
+"Are you all right?! Snake?!\n"
+"Snake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x08404d/0x000000
+msgid ""
+"What's wrong, Boss?\n"
+"Respond! Boss!"
+msgstr ""
+
+#: slot/0x00d2a877/0x084051/0x000000
+msgid ""
+"What's going on, Snake?! Report!\n"
+"What's your situation?! Snake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x084052/0x000000
+msgid "What's going on, Snake?! Report! What's your situation?! Snaaaaaaake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x084055/0x000000
+msgid ""
+"Stop kidding around, Snake!\n"
+"You can't let it end here! Snake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x084059/0x000000
+msgid "What's wrong? What happened?! Report your status! Report!"
+msgstr ""
+
+#: slot/0x00d2a877/0x08405d/0x000000
+msgid "Hey! What's going on?! Report! Report, damnit!"
+msgstr ""
+
+#: slot/0x00d2a877/0x084061/0x000000
+msgid "Damn, they got us good. Are you all right? Respond!"
+msgstr ""
+
+#: slot/0x00d2a877/0x084065/0x000000
+#: slot/0x00d2a877/0x084066/0x000000
+msgid "What's wrong? Why aren't you responding?! Requesting status report!"
+msgstr ""
+
+#: slot/0x00d2a877/0x0840c1/0x000000
+msgid ""
+"It's over, Snake. Your buddy fell in.\n"
+"The mission is off!"
+msgstr ""
+
+#: slot/0x00d2a877/0x0840c5/0x000000
+msgid ""
+"Abort the mission, Snake!\n"
+"Your buddy fell in!"
+msgstr ""
+
+#: slot/0x00d2a877/0x0840c5/0x000001
+msgid "How could you let him die?!"
+msgstr ""
+
+#: slot/0x00d2a877/0x0840c9/0x000000
+msgid ""
+"Hold it, Snake. Your man's been incapacitated.\n"
+"The mission's canceled."
+msgstr ""
+
+#: slot/0x00d2a877/0x0840c9/0x000001
+msgid "Too bad..."
+msgstr ""
+
+#: slot/0x00d2a877/0x0840cd/0x000000
+msgid ""
+"I'm getting no response\n"
+"from your partner, Snake."
+msgstr ""
+
+#: slot/0x00d2a877/0x0840cd/0x000001
+msgid ""
+"I'm calling off the mission.\n"
+"Return to base..."
+msgstr ""
+
+#: slot/0x00d2a877/0x0840d1/0x000000
+msgid "Damnit, man! Your partner fell in. We have to abort!"
+msgstr ""
+
+#: slot/0x00d2a877/0x0840d5/0x000000
+msgid "We lost someone! This operation is over. Return to base!"
+msgstr ""
+
+#: slot/0x00d2a877/0x0840d9/0x000000
+msgid "Abort the mission. We have a man down. Just come back..."
+msgstr ""
+
+#: slot/0x00d2a877/0x0840da/0x000000
+msgid "Abort the mission. We have a man down."
+msgstr ""
+
+#: slot/0x00d2a877/0x0840dd/0x000000
+msgid "I can't reach your partner. I'm calling off the mission. Return immediately!"
+msgstr ""
+
+#: slot/0x00d2a877/0x0f2371/0x000000
+msgid "Miller (Robin Atkin Downes)"
+msgstr ""
+
+#: slot/0x00d2a877/0x483fc9/0x000000
+msgid "The unconscious soldier is coming to."
+msgstr ""
+
+#: slot/0x00d2a877/0x483fc9/0x000001
+msgid "You won't be able to recover anything now. Return to base."
+msgstr ""
+
+#: slot/0x00d2a877/0x483fcd/0x000000
+msgid "The prisoner's been moved to another location. We can't rescue him now."
+msgstr ""
+
+#: slot/0x00d2a877/0x483fcd/0x000001
+msgid "Come on back."
+msgstr ""
+
+#: slot/0x00d2a877/0x483fd1/0x000000
+msgid "Call off the operation! "
+msgstr ""
+
+#: slot/0x00d2a877/0x483fd1/0x000001
+msgid "Your orders were to recover that scout without killing him!"
+msgstr ""
+
+#: slot/0x00d2a877/0x483fd5/0x000000
+msgid "All the bases have been overrun. "
+msgstr ""
+
+#: slot/0x00d2a877/0x483fd5/0x000001
+msgid "That's a pretty epic failure on our part."
+msgstr ""
+
+#: slot/0x00d2a877/0x483fdd/0x000000
+msgid ""
+"Abort mission - they stole an item.\n"
+"And you had it, too... Damnit!"
+msgstr ""
+
+#: slot/0x00d2a877/0x483fe1/0x000000
+msgid "All of the items we secured have been stolen."
+msgstr ""
+
+#: slot/0x00d2a877/0x483fe1/0x000001
+msgid "The operation's a failure."
+msgstr ""
+
+#: slot/0x00d2a877/0x483fe5/0x000000
+msgid "Enemy soldiers captured the prisoner. The mission's a failure."
+msgstr ""
+
+#: slot/0x00d2a877/0x483fe5/0x000001
+msgid "Let's hope he can find his own way out of there."
+msgstr ""
+
+#: slot/0x00d2a877/0x484045/0x000000
+msgid "Time's up! "
+msgstr ""
+
+#: slot/0x00d2a877/0x484045/0x000001
+msgid "I'm calling off the operation - retreat for now."
+msgstr ""
+
+#: slot/0x00d2a877/0x48404a/0x000000
+msgid "Out of ammo, huh?"
+msgstr ""
+
+#: slot/0x00d2a877/0x48404a/0x000001
+msgid "Abort mission. Come on back."
+msgstr ""
+
+#: slot/0x00d2a877/0x48404d/0x000000
+msgid "Out of ammo, huh? "
+msgstr ""
+
+#: slot/0x00d2a877/0x48404d/0x000001
+msgid "Guess it was too much, even for you... "
+msgstr ""
+
+#: slot/0x00d2a877/0x48404d/0x000002
+msgid "We'll put the operation on hold."
+msgstr ""
+
+#: slot/0x00d2a877/0x484051/0x000000
+msgid "Looks like you're out of ammo."
+msgstr ""
+
+#: slot/0x00d2a877/0x484051/0x000001
+msgid "Maybe I underestimated... Anyway, back to base."
+msgstr ""
+
+#: slot/0x00d2a877/0x4840e5/0x000000
+msgid "Aaaaaaaaaah!"
+msgstr ""
+
+#: slot/0x00d2a877/0x484141/0x000000
+msgid "Everyone, get those fires out! Dammit - we'll never catch up! Argh!"
+msgstr ""
+
+#: slot/0x00d2a877/0x484145/0x000000
+msgid "Mom... Is that you, Mom...? Aarrgh!!"
+msgstr ""
+
+#: slot/0x00d2a877/0x484149/0x000000
+msgid "What are you doing? I told you to keep him alive!"
+msgstr ""
+
+#: slot/0x00d2a877/0x48414d/0x000000
+msgid "They spotted you? Training is over - come on back."
+msgstr ""
+
+#: slot/0x00d2a877/0x4841d9/0x000000
+msgid "No! They got the researcher - mission failed!"
+msgstr ""
+
+#: slot/0x00d2a877/0x486feb/0x000000
+msgid "Time's up. You failed the mission."
+msgstr ""
+
+#: slot/0x00d2a877/0x487047/0x000000
+msgid "You're out of time... Mission incomplete..."
+msgstr ""
+
+#: slot/0x00d2a877/0x48704b/0x000000
+msgid "Forget it, you'll never make it in time. The mission's over."
+msgstr ""
+
+#: slot/0x00d2a877/0x48d0eb/0x000000
+msgid ""
+"Snake... Peace Walker launched the nuke.\n"
+"It's all over."
+msgstr ""
+
+#: slot/0x00d2a877/0x48d147/0x000000
+msgid "Snake... The nuke was launched."
+msgstr ""
+
+#: slot/0x00d2a877/0x48d147/0x000001
+msgid "Those bastards from the Pentagon just plunged the world into a nuclear apocalypse!"
+msgstr ""
+
+#: slot/0x00d2a877/0x48d14b/0x000000
+#: slot/0x00d2a877/0x48d14c/0x000000
+#: slot/0x00d2a877/0x48d14d/0x000000
+#: slot/0x00d2a877/0x48d14e/0x000000
+#: slot/0x00d2a877/0x48d14f/0x000000
+#: slot/0x00d2a877/0x48d150/0x000000
+msgid "The mission's a failure. Return to base!"
+msgstr ""
+
+#: slot/0x00d2a877/0x584def/0x000000
+msgid "Snake, what happened?! Say something! Snaaaaaaake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x584df3/0x000000
+msgid "This can't be happening... Tell me you're OK, Snake! Snaaaake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x584df7/0x000000
+msgid "Get up, Snake! Without you, Costa Rica's finished! Snaaake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x584dfb/0x000000
+msgid "What happened?! Say something!"
+msgstr ""
+
+#: slot/0x00d2a877/0x584dff/0x000000
+msgid "No, don't tell me... I don't want to see anyone else die!"
+msgstr ""
+
+#: slot/0x00d2a877/0x584e03/0x000000
+msgid "Please, get up! Costa Rica needs you!"
+msgstr ""
+
+#: slot/0x00d2a877/0x5f2371/0x000000
+msgid "Paz (Tara Strong)"
+msgstr ""
+
+#: slot/0x00d2a877/0x6df642/0x000000
+msgid "What happened, Snake?! Snaaaaaaaake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x6df646/0x000000
+msgid "This cannot be... Snake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x6df646/0x000001
+msgid "There is so much more I wanted to learn from you... Snaaaaaake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x6df64a/0x000000
+msgid "Get up, Snake, please! I cannot lose another comandante! Snaaaaaake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x6df64e/0x000000
+msgid "Snake, no! You were... you were so close!"
+msgstr ""
+
+#: slot/0x00d2a877/0x6df652/0x000000
+msgid "What happened?! Can you hear me? Say something!"
+msgstr ""
+
+#: slot/0x00d2a877/0x6df6ae/0x000000
+msgid "What is going on? Are you injured? Please, come in!"
+msgstr ""
+
+#: slot/0x00d2a877/0x6df6b2/0x000000
+msgid "No! Talk to me! We still have to liberate Nicaragua together!"
+msgstr ""
+
+#: slot/0x00d2a877/0x6df6b6/0x000000
+msgid "Snake, return to base! We have to abort."
+msgstr ""
+
+#: slot/0x00d2a877/0x6df6b6/0x000001
+msgid "Your partner has taken a fall!"
+msgstr ""
+
+#: slot/0x00d2a877/0x6df6ba/0x000000
+msgid "Snake, we are aborting the operation! "
+msgstr ""
+
+#: slot/0x00d2a877/0x6df6ba/0x000001
+msgid "Your partner took a fall... How could you take your eyes off our compas?! "
+msgstr ""
+
+#: slot/0x00d2a877/0x6df6ba/0x000002
+msgid "You are supposed to be the Boss!"
+msgstr ""
+
+#: slot/0x00d2a877/0x6df6be/0x000000
+msgid "Return to base! We're aborting. "
+msgstr ""
+
+#: slot/0x00d2a877/0x6df6be/0x000001
+msgid "Unfortunately, your partner took a fall..."
+msgstr ""
+
+#: slot/0x00d2a877/0x6df6c2/0x000000
+msgid "The operation is aborted. Your partner has taken a fall. "
+msgstr ""
+
+#: slot/0x00d2a877/0x6df6c2/0x000001
+msgid "Why did this have to happen...?"
+msgstr ""
+
+#: slot/0x00d2a877/0x74cb70/0x000000
+msgid "Amanda (Grey DeLisle)"
+msgstr ""
+
+#: slot/0x00d2a877/0x89095a/0x000000
+msgid "Snake! What happened?! Snaaaaaake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x89095e/0x000000
+msgid "What is going on?  Snake, Answer me! Snaaake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x890962/0x000000
+msgid "The birds are weeping... What happened?  Snake?  "
+msgstr ""
+
+#: slot/0x00d2a877/0x890962/0x000001
+msgid "Say something!"
+msgstr ""
+
+#: slot/0x00d2a877/0x890966/0x000000
+msgid "Snake, get up, please! "
+msgstr ""
+
+#: slot/0x00d2a877/0x890966/0x000001
+msgid "Here, I'll do a quetzal for you! Kyoooh, kyoooh..."
+msgstr ""
+
+#: slot/0x00d2a877/0x89096a/0x000000
+msgid "Hey, what happened?! Please, answer me!"
+msgstr ""
+
+#: slot/0x00d2a877/0x89096e/0x000000
+msgid "Talk to me! Are you there?  Oh, what happened?"
+msgstr ""
+
+#: slot/0x00d2a877/0x890972/0x000000
+msgid "Have you... taken to the skies yourself now?"
+msgstr ""
+
+#: slot/0x00d2a877/0x8909ce/0x000000
+msgid "What do we do, Snake?! Your friend has fallen! Come back immediately!"
+msgstr ""
+
+#: slot/0x00d2a877/0x8909d2/0x000000
+msgid "Come back, Snake! Your friend has fallen... If only man had wings..."
+msgstr ""
+
+#: slot/0x00d2a877/0x8909d6/0x000000
+msgid "Hurry back! Your friend has fallen! Oh mon Dieu..."
+msgstr ""
+
+#: slot/0x00d2a877/0x8909da/0x000000
+msgid "I cannot believe this... Your friend has fallen... Come back!"
+msgstr ""
+
+#: slot/0x00d2a877/0x8b7462/0x000000
+msgid "Snake, what happened?! Answer me! Snaaaaake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x8b7466/0x000000
+msgid "Snake! What's going on? We still gotta look for UMAs together! Snaaaaake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x8b746a/0x000000
+msgid "Come on, Snake! You can't just leave us like this! Snaaaaaaake!"
+msgstr ""
+
+#: slot/0x00d2a877/0x8b746e/0x000000
+msgid "What the heck happened?! Talk to me! Please!"
+msgstr ""
+
+#: slot/0x00d2a877/0x8b7472/0x000000
+msgid "What's going on?! Can you still hear me? Come in!"
+msgstr ""
+
+#: slot/0x00d2a877/0x8b7476/0x000000
+msgid "We were going to go back to Nicaragua together!"
+msgstr ""
+
+#: slot/0x00d2a877/0x8b7476/0x000001
+msgid "Say something! No...!"
+msgstr ""
+
+#: slot/0x00d2a877/0x8b747a/0x000000
+msgid "Return to base, Snake! The mission's aborted. Your partner took a fall..."
+msgstr ""
+
+#: slot/0x00d2a877/0x8b747e/0x000000
+msgid "Your partner took a fall... Better come back, Snake."
+msgstr ""
+
+#: slot/0x00d2a877/0x8b747e/0x000001
+msgid "Why weren't you watching them?!"
+msgstr ""
+
+#: slot/0x00d2a877/0x8b7482/0x000000
+msgid "No! It can't be over yet!"
+msgstr ""
+
+#: slot/0x00d2a877/0x8b74de/0x000000
+msgid "Return to base! A compa fell! We gotta reorganize things."
+msgstr ""
+
+#: slot/0x00d2a877/0x8feb70/0x000000
+msgid "Cécile (Cathrine Taber)"
+msgstr ""
+
+#: slot/0x00d2a877/0x924770/0x000000
+msgid "Chico (Antony Del Rio)"
+msgstr ""
+
+#: slot/0x00d2a877/0x953f71/0x000000
+msgid "Snake (David Hayter)"
+msgstr ""
+
+#: slot/0x00d2a877/0xa10742/0x000000
+msgid "What's going on? What happened, Snake? Acknowledge! SNA-A-AKE!!"
+msgstr ""
+
+#: slot/0x00d2a877/0xa10746/0x000000
+msgid "Don't quit on me now, Snake! You call yourself her disciple?!"
+msgstr ""
+
+#: slot/0x00d2a877/0xa1074a/0x000000
+msgid "You disappoint me, Snake... It seems I misjudged you..."
+msgstr ""
+
+#: slot/0x00d2a877/0xa1074e/0x000000
+msgid "What's happened? Give me a status report! Acknowledge!"
+msgstr ""
+
+#: slot/0x00d2a877/0xa10752/0x000000
+msgid "Respond, soldier! At least give me a status report... or is it too late..."
+msgstr ""
+
+#: slot/0x00d2a877/0xa10756/0x000000
+msgid "No... This can't be the right outcome..."
+msgstr ""
+
+#: slot/0x00d2a877/0xa1075a/0x000000
+msgid "Return to base, Snake! Your teammate's had a fall. The mission is aborted!!"
+msgstr ""
+
+#: slot/0x00d2a877/0xa1075e/0x000000
+msgid "Return to base, your teammate's fallen! Where were you?"
+msgstr ""
+
+#: slot/0x00d2a877/0xa1075e/0x000001
+msgid "SHE would never have abandoned her comrades like that!"
+msgstr ""
+
+#: slot/0x00d2a877/0xa10762/0x000000
+msgid "Your companion has fallen. Return to base and regroup!"
+msgstr ""
+
+#: slot/0x00d2a877/0xa107be/0x000000
+msgid "Mission aborted, your companion's fallen. Humans are such fragile creatures..."
+msgstr ""
+
+#: slot/0x00d2a877/0xa7eb70/0x000000
+msgid "Strangelove (Vanessa Marshall)"
+msgstr ""
+
+#: slot/0x00d2a877/0xae66e6/0x000000
+#: slot/0x00d2a877/0xae66e6/0x000001
+msgid "The End!"
+msgstr ""
+
+#: slot/0x00d2a877/0xc2cb14/0x000000
+msgid "Paz, wait! PA-A-AZ!"
+msgstr ""
+
+#: slot/0x00d2a877/0xc2cb70/0x000000
+msgid "Paz, I'm sorry! Don't walk away! PA-A-AZ!"
+msgstr ""
+
+#: slot/0x00d2a877/0xc2cb74/0x000000
+msgid "Hey, Kaz, come back! KA-A-AZ!"
+msgstr ""
+
+#: slot/0x00d2a877/0xc2cb78/0x000000
+msgid "Kaz, I'm sorry! I didn't mean it! C'mon! KA-A-AZ!"
+msgstr ""
+
+#: slot/0x00d2a877/0xcbb801/0x1ad08a
+msgid "SELECT MISSION"
+msgstr ""
+
+#: slot/0x00d2a877/0xcbb801/0x4a4f2c
+msgid "When count reaches 0, game will continue automatically."
+msgstr ""
+
+#: slot/0x00d2a877/0xcbb801/0x75081c
+msgid "Waiting for the host."
+msgstr ""
+
+#: slot/0x00d2a877/0xcbb801/0x8cb632
+msgid "GAME OVER"
+msgstr ""
+
+#: slot/0x00d2a877/0xcbb801/0xcfe5d3
+msgid "Waiting for other players."
+msgstr ""
+
+#: slot/0x00d2a877/0xe24d3a/0x000000
+msgid "Snake, what happened? Answer me! SNA-A-AKE!!"
+msgstr ""
+
+#: slot/0x00d2a877/0xe24d3e/0x000000
+msgid "Snake, you OK?! C'mon, shake it off! SNA-A-AKE!!"
+msgstr ""
+
+#: slot/0x00d2a877/0xe24d42/0x000000
+msgid "Don't die on me, Snake! Who's gonna stop Peace Walker now?!"
+msgstr ""
+
+#: slot/0x00d2a877/0xe24d42/0x000001
+msgid "SNA-A-AKE!"
+msgstr ""
+
+#: slot/0x00d2a877/0xe24d46/0x000000
+msgid "Snake! Get up, Snake!"
+msgstr ""
+
+#: slot/0x00d2a877/0xe24d46/0x000001
+msgid "Don't quit...at least deliver the letter..."
+msgstr ""
+
+#: slot/0x00d2a877/0xe24d4a/0x000000
+msgid "What happened? Are you OK?"
+msgstr ""
+
+#: slot/0x00d2a877/0xe24d4a/0x000001
+msgid "Your circuit's still live! Answer me!"
+msgstr ""
+
+#: slot/0x00d2a877/0xe24d4e/0x000000
+msgid "What's going on? Respond!"
+msgstr ""
+
+#: slot/0x00d2a877/0xe24d4e/0x000001
+msgid "You want the world to be nuked into oblivion...?!"
+msgstr ""
+
+#: slot/0x00d2a877/0xe24d52/0x000000
+msgid "By my own creation... Please forgive me..."
+msgstr ""
+
+#: slot/0x00d2a877/0xe91f70/0x000000
+msgid "Huey (Christopher Randolph)"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x089cab
+msgid "Metamaterials Technology"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x0ba09d
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the R&D Team, lowers GMP required to develop machine guns."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x11092d
+msgid "Counselor"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x17d849
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the Medical Team, increases Sickbay staff's sickness treatment speed."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x19ba8d
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the R&D Team, lowers GMP required to develop handguns."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x205445
+msgid "Channeler"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x21629e
+msgid "SWAT"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x295a7b
+msgid "Bird Watcher"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x31bd5b
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the R&D Team, lowers GMP required to develop shotguns."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x332e1c
+msgid "Pro Wrestling Maniac"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x3d3adf
+msgid ""
+"Effect on Missions\n"
+"  • Compliments allies when they neutralize enemies.\n"
+"  • PSYCHE rises for the soldier who was complimented.\n"
+"  • Be aware that players cannot achieve an S rank with the use of a Battle Cry.\n"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x40258e
+msgid "Gunsmith (Handguns)"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x421d75
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the Mess Hall Team, increases morale of all MSF staff."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x427b3d
+msgid "Gung Ho"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x42b778
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the Mess Hall Team, Rank 5 Rations can be developed."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x468f1b
+#: slot/0x00d982f6/0xb910e6/0x93ce61
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the Medical Team, increases Sickbay staff's sickness and wounds treatment speed.\n"
+"\n"
+"Effect on Missions\n"
+"  • Increases natural recovery rate of LIFE gauge."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x47a443
+msgid ""
+"Effect on Missions\n"
+"  • Chance of neutralizing enemy requests for backup increases.\n"
+"  • Effects are amplified in proportion to number of people with this skill.\n"
+"  • Support Rank is increased when requesting support from Mother Base."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x49a92b
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the Mess Hall Team, Rank 3 Rations can be developed."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x4a51f8
+msgid ""
+"Effect on Missions\n"
+"  • Location of all items and prisoners is displayed on detailed map."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x4a6c2b
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the Mess Hall Team, Rank 4 Rations can be developed."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x50bf92
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the Medical Team, increases Sickbay staff's PTSD treatment speed."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x551732
+msgid "Rescue"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x551e28
+msgid "Five-Star Chef"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x572982
+msgid "Voice Actor"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x58285c
+msgid "Gunsmith (Shotguns)"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x5c33c8
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the R&D Team, lowers GMP required to develop assault rifles."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x5c3860
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the R&D Team, lowers GMP required to develop sniper rifles."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x611903
+msgid ""
+"Effect on Missions\n"
+"  • Increases damage dealt by CQC.\n"
+"  • Increases damage when firing at enemy's hands or feet.\n"
+"  • Allows player to take down enemy soldiers by rolling.\n"
+"  • Shortens time required to sync with allies.\n"
+"  • Effectiveness of all actions excluding Rolling and Snake Sync are amplified in proportion to number of people with same skill."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x62ccb8
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the R&D Team, M134 Gatling Gun can be developed."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x62ee98
+msgid ""
+"Effect on Missions\n"
+"  • Easily targeted by enemies.\n"
+"  • When targetted by enemies, PSYCHE and defense increase.\n"
+"  • Using a shield has the same guard effect as Snake Formation."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x676664
+msgid "M134 Design"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x679626
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the Combat Unit, the Guerrillas' morale will rise."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x681f10
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the R&D Team, Tanegashima Musket can be developed."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x6df46d
+msgid ""
+"Effect on Missions\n"
+"  • Raises the chance of increasing damage against large-scale weapons and mechs.\n"
+"  • Speed of placing objects becomes faster."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x6f6e64
+msgid ""
+"Effect on Mother Base\n"
+"  • AI can be installed on Metal Gear ZEKE."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x7293c5
+msgid "EM Weapons Design"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x746d4f
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the R&D Team, lowers GMP required to develop submachine guns."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x751b18
+msgid ""
+"Effect on Missions\n"
+"  • Increases natural recovery rate of PSYCHE gauge.\n"
+"  • Increases effect of some Battle Cries."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x77fa64
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of R&D Team, a development division for bipedal weapons will be established."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x78a1bc
+msgid "AI Development Technology"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x7a85c0
+msgid "Japanese Patriot"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x812dbc
+msgid "Bipedal Weapons Design"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x829ec9
+msgid "Gunsmith (Assault Rifles)"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x82a361
+msgid "Gunsmith (Sniper Rifles)"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x87b70d
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the Medical Team, Sickbay staff's recovery speed increases.\n"
+"\n"
+"Effect on Missions\n"
+"  • Increases running speed for a set time when allies are near death.\n"
+"  • Decreases button presses required for CPR to save allies.\n"
+"  • LIFE gauge recovers more than usual when saving allies with CPR."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x880975
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the R&D Team, Stealth Mat and Stealth Camo can be developed."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x88c201
+msgid ""
+"Effect on Mother Base\n"
+"  • Increases morale of all staff on assigned team."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x8c79bb
+msgid "Optical Technology"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x8e0127
+msgid "FSLN Comandante"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x945f6e
+msgid "Engineering"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x947a45
+msgid "Radio Technology"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x96370c
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the R&D Team, Patriot can be developed."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x9d01b9
+msgid "Pharmacist"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0x9e984e
+msgid "Expert Pharmacist"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xa34799
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the R&D Team, PTRD1941 and PTRS1941 can be developed."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xa533a0
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the R&D Team, EM Wave Gun, Electromagnetic Net, and Railgun can be developed."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xaf2d02
+msgid "Mother Base Deputy Commander"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xb29ae6
+msgid ""
+"Effect on Missions\n"
+"  • Increases damage dealt by CQC.\n"
+"  • Defeating a soldier with CQC will force him to drop all of his items.\n"
+"  • Defense rises when the player's PSYCHE is damaged.\n"
+"  • Recovery from unconsiousness is faster.\n"
+"  • Snake Syncing becomes faster when syncing with another teammate with the same skill.\n"
+"  • Increases effect of some Battle Cries."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xb7a536
+msgid "Gunsmith (Machine Guns)"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xb9d1ac
+msgid "Surgeon"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xbc61e2
+msgid ""
+"Effect on Missions\n"
+"  • Increases damage dealt by CQC.\n"
+"  • Raises the chance to increase damage when firing weapons.\n"
+"  • Increases natural recovery rate of LIFE gauge.\n"
+"  • Effects are amplified in proportion to number of people with this skill."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xbd884d
+msgid "Green Beret"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xbf1996
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the R&D Team, weapons with laser sights can be developed."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xc14351
+msgid "Gunsmith (Submachine Guns)"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xc2aa68
+msgid ""
+"Effect on Missions\n"
+"  • Tracking enemy soldiers in center of screen while using Binoculars will have the same effect as Enemy Search."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xc3f401
+msgid ""
+"Effect on Missions\n"
+"  • Increases effect of some Battle Cries."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xca3c60
+msgid "Three-Star Chef"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xcaff60
+msgid "Four-Star Chef"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xd552f5
+msgid "Home Cooking"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xd821e3
+msgid "Physician "
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xe3cf5f
+msgid ""
+"Effect on Mother Base\n"
+"  • When part of the Medical Team, increases Sickbay staff's wound treatment speed.\n"
+"\n"
+"Effect on Missions\n"
+"  • Increases natural recovery rate of LIFE gauge."
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xe93f78
+msgid "Sidekick"
+msgstr ""
+
+#: slot/0x00d982f6/0xb910e6/0xf01d9b
+msgid "Anti-tank Rifle Design"
+msgstr ""
+
+#: slot/0x00d9af4c/0x1bed50/0x011e70
+msgid "EQP"
+msgstr ""
+
+#: slot/0x00d9af4c/0x1bed50/0x0125f0
+#: slot/0x00d9af4c/0x1bed50/0x30dd0f
+msgid "GMP"
+msgstr ""
+
+#: slot/0x00d9af4c/0x1bed50/0x244624
+#: slot/0x00d9af4c/0x1bed50/0x730f12
+msgid "FOOD"
+msgstr ""
+
+#: slot/0x00d9af4c/0x1bed50/0x2ab570
+msgid "SKIP"
+msgstr ""
+
+#: slot/0x00d9af4c/0x1bed50/0xb3e5a2
+#: slot/0x00d9af4c/0x5f753b/0x65d9ca
+msgid "MODEL VIEWER"
+msgstr ""
+
+#: slot/0x00d9af4c/0x1bed50/0xd46323
+msgid ""
+"Insufficient GMP (financial power).\n"
+"You will no longer be able to develop and produce weapons/items or repair mechs. Are you sure you want to proceed? \n"
+"\n"
+"(This can be resolved by assigning staff to the Combat Unit to raise GMP.)"
+msgstr ""
+
+#: slot/0x00d9af4c/0x5f753b/0x25075b
+msgid ""
+"(不要)好奇心旺盛で負けず嫌い、そしてちょっぴり\n"
+"えばりんぼな、アヒルの女の子（でも泣き虫）。\n"
+"泳ぎが得意で、カエルのケロタンと仲良し。"
+msgstr ""
+
+#: slot/0x00d9af4c/0x5f753b/0x28adbc
+#: slot/0x00d9af4c/0x5f753b/0x48adbc
+#: slot/0x00d9af4c/0x5f753b/0x88adbc
+#: slot/0x00d9af4c/0x5f753b/0xa8adbc
+#: slot/0x00d9af4c/0x5f753b/0xc8adbc
+msgid "Zoom In: R button"
+msgstr ""
+
+#: slot/0x00d9af4c/0x5f753b/0x28adbd
+#: slot/0x00d9af4c/0x5f753b/0x48adbd
+#: slot/0x00d9af4c/0x5f753b/0x88adbd
+#: slot/0x00d9af4c/0x5f753b/0xa8adbd
+#: slot/0x00d9af4c/0x5f753b/0xc8adbd
+msgid "Zoom Out: L button"
+msgstr ""
+
+#: slot/0x00d9af4c/0x5f753b/0x28adbe
+msgid "Rotate: Analog stick left/right"
+msgstr ""
+
+#: slot/0x00d9af4c/0x5f753b/0x28adbf
+msgid "Move: Analog stick up/down"
+msgstr ""
+
+#: slot/0x00d9af4c/0x5f753b/0x28adc0
+#: slot/0x00d9af4c/0x5f753b/0x48adbf
+#: slot/0x00d9af4c/0x5f753b/0x68adbc
+#: slot/0x00d9af4c/0x5f753b/0x88adc0
+#: slot/0x00d9af4c/0x5f753b/0xa8adbf
+#: slot/0x00d9af4c/0x5f753b/0xc8adbe
+msgid "Text Off: <I=DEC>"
+msgstr ""
+
+#: slot/0x00d9af4c/0x5f753b/0x2b82dd
+msgid ""
+"(不要)制式名称「M1911A1」。通称「コルト・ガバメント」。\n"
+".45ACPの大口径弾を撃ち出す大型自動拳銃で\n"
+"高いパワーを誇る。\n"
+"\n"
+"1911年にアメリカ軍に制式採用された軍用拳銃である\n"
+"「M1911」に改良が加えられたもの。\n"
+"\n"
+"従来型の「M1911」はアメリカ合衆国の銃器設計者である\n"
+"ジョン・M・ブローニングの設計に基づき銃器メーカーの\n"
+"コルト社によって開発された。\n"
+"\n"
+"カスタムパーツが豊富で、ユーザーの好みに合わせた\n"
+"カスタムがしやすい。\n"
+"装弾数は7発。"
+msgstr ""
+
+#: slot/0x00d9af4c/0x5f753b/0x48adbe
+msgid "Rotate: Analog stick"
+msgstr ""
+
+#: slot/0x00d9af4c/0x5f753b/0x88adbf
+#: slot/0x00d9af4c/0x5f753b/0xa8adbe
+msgid "Move Camera: Analog stick"
+msgstr ""
+
+#: slot/0x00d9af4c/0x5f753b/0x918a32
+msgid "(不要)紹介文"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x034099
+msgid "YEAR"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x0b103f
+msgid "CREATE NEW GIFT"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x0be64e
+msgid "(NO ITEM SELECTED)"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x12534a
+#, c-format
+msgid "PRESET ITEMS: %d"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x19f787
+#: slot/0x00d9b1f3/0x1331ad/0x2e4e44
+msgid "INBOX"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x1aa286
+msgid "(NO RECIPIENT SELECTED)"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x1d1d59
+msgid "TODAY:$1"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x1db87e
+msgid "Select a box to view."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x2268a4
+#: slot/0x00d9b1f3/0x1331ad/0xfed078
+msgid "MUSIC"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x22f48a
+msgid "Specify the date the reciepient recieves the box."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x2856c4
+msgid "Open boxes sent by other players."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x37c59a
+msgid "DAY"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x4378d6
+msgid "Select a date within 1 year of today."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x486a84
+msgid "(NO MUSIC SELECTED)"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x487dc3
+msgid "Outbox is full."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x49b594
+msgid "Select the type of gift."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x4a70b1
+msgid "Items"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x4c203e
+msgid ""
+"Package weapons and items in cardboard boxes\n"
+"and send them to other players."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x5a4d58
+msgid "ADDRESS"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x5e5500
+msgid "Open this box."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x5f6986
+msgid "The contents of this gift will be deleted. OK?"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x602a16
+msgid "Are you sure you want to send the box with these contents?"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x615b11
+msgid "Specify weapons and items to put in the box."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x618acd
+#: slot/0x00d9b1f3/0x1331ad/0xae4815
+msgid "CONTENTS"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x639999
+msgid "Select a box to open."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x63ba35
+msgid "Send and receive weapons and items in cardboard boxes to other players."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x662028
+msgid "Send the box to the selected recipient."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x662038
+msgid "View a list of boxes sent previously."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x664fe4
+msgid "SEND"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x664ff4
+#: slot/0x00d9b1f3/0x1331ad/0x98510e
+msgid "OUTBOX"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x715774
+msgid ""
+"Ready to send. \n"
+"Added to Outbox."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x7c4d40
+msgid "Specify a recipient."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x8a2d2e
+msgid "$1 (FRI)"
+msgstr ""

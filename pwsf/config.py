@@ -157,6 +157,10 @@ DUMP_OLANG_TSV = ANALYSIS_DIR / "_dump_olang.tsv"
 BRIEFING_TSV = ANALYSIS_DIR / "_briefing_lines.tsv"
 SUBTITLE_TSV = ANALYSIS_DIR / "subtitle_ingame.tsv"
 ARCHIVE_INDEX_TSV = ANALYSIS_DIR / "_archive_index.tsv"
+# olang tables carried inside SLOT.DAT (ANALYSIS/08 §5.7), written by
+# research/TOOLS/_probe_slot25.py
+SLOT_OLANG_TSV = ANALYSIS_DIR / "_slot_olang_lines.tsv"
+CUTSCENE_TSV = ANALYSIS_DIR / "_cutscene_lines.tsv"
 
 # --------------------------------------------------------------- font build
 

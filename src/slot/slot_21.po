@@ -1,0 +1,2042 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF slot 21/26\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: slot\n"
+"X-PWSF-Entries: 400\n"
+
+
+#: slot/0x00a57090/0x12908e/0x000251
+msgid "Hm?  What are you doing?!"
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x000252
+msgid "Eh? You're not going anywhere!"
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x000253
+msgid "Huh? ...Hm, checks out OK."
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x000254
+msgid "You! Stop!"
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x000255
+msgid "Break time!"
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x000256
+msgid "Your turn!"
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x000257
+msgid "Whatcha got here?"
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x000258
+msgid "Prisoner escaped! Security team, search the area!"
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x000259
+#: slot/0x00e2e8b4/0x9eda9d/0x000000
+msgid "Nice try!"
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x00025a
+msgid "Ya hear that? You'll be singing the same tune before long."
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x00025b
+msgid "Who's next? Get 'em in here!"
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x00025c
+msgid "Don't be getting any ideas."
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x00025d
+msgid "Quiet, you."
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x00025e
+msgid "STOP IT!"
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x00025f
+msgid "Blue team, search for the intruders. Gold team, guard the elevators. Go!"
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x000261
+#: slot/0x00dff09b/0xaf8d11/0x00003c
+msgid "Got it!"
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x000262
+msgid "Yes, sir!"
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x000263
+msgid "They're calling for backup up top. Come on!"
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x000264
+msgid "Right behind you!"
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x000271
+msgid "They'll never find me here..."
+msgstr ""
+
+#: slot/0x00a57090/0x12908e/0x000272
+msgid "Fools..."
+msgstr ""
+
+#: slot/0x00a57df4/0x24576f/0xe05055
+msgid "Undo the prisoner's restraints."
+msgstr ""
+
+#: slot/0x00a57df4/0x24576f/0xe15055
+msgid ""
+"Open the cell door.\n"
+msgstr ""
+
+#: slot/0x00a57df4/0x24576f/0xe25055
+msgid "Increase the voltage."
+msgstr ""
+
+#: slot/0x00a57df4/0x24576f/0xe35055
+msgid "Decrease the voltage."
+msgstr ""
+
+#: slot/0x00a60c2a/0x1132b3/0x169d43
+#: slot/0x00a60c2a/0x1132b3/0x969d41
+#: slot/0x00a60c2a/0x2f3231/0x169d43
+#: slot/0x00a60c2a/0x2f3231/0x969d41
+#: slot/0x00a60c2a/0x4c8d63/0x169d43
+#: slot/0x00a60c2a/0x4c8d63/0x969d41
+#: slot/0x00a60c2a/0x69f17c/0x169d43
+#: slot/0x00a60c2a/0x69f17c/0x969d41
+#: slot/0x00a60c2a/0xb4465d/0x169d43
+#: slot/0x00a60c2a/0xb4465d/0x969d41
+#: slot/0x00a60c2a/0xbc86b6/0x169d43
+#: slot/0x00a60c2a/0xbc86b6/0x969d41
+#: slot/0x00a60c2a/0xc63a12/0x169d43
+#: slot/0x00a60c2a/0xc63a12/0x969d41
+#: slot/0x00a60c2a/0xcc4327/0x169d43
+#: slot/0x00a60c2a/0xcc4327/0x969d41
+#: slot/0x00a60c2a/0xcc7cca/0x169d43
+#: slot/0x00a60c2a/0xcc7cca/0x969d41
+#: slot/0x00a60c2a/0xe05bdd/0x169d43
+#: slot/0x00a60c2a/0xe05bdd/0x969d41
+#: slot/0x00a60c2a/0xe1fa12/0x169d43
+#: slot/0x00a60c2a/0xe1fa12/0x969d41
+#: slot/0x00a60c2a/0xf1ad43/0x169d43
+#: slot/0x00a60c2a/0xf1ad43/0x969d41
+#: slot/0x00a60c2a/0xf1b0bb/0x169d43
+#: slot/0x00a60c2a/0xf1b0bb/0x969d41
+#: slot/0x00a60c2a/0xf8cacb/0x169d43
+#: slot/0x00a60c2a/0xf8cacb/0x969d41
+#: slot/0x00efed13/0x5f413d/0x169d43
+#: slot/0x00efed13/0x5f413d/0x969d41
+#: slot/0x00efed13/0x5f413e/0x169d43
+#: slot/0x00efed13/0x5f413e/0x969d41
+#: slot/0x00efed13/0x5f413f/0x169d43
+#: slot/0x00efed13/0x5f413f/0x969d41
+#: slot/0x00efed13/0x5f4140/0x169d43
+#: slot/0x00efed13/0x5f4140/0x969d41
+#: slot/0x00efed13/0x5f4141/0x169d43
+#: slot/0x00efed13/0x5f4141/0x969d41
+#: slot/0x00efed13/0x5f4142/0x169d43
+#: slot/0x00efed13/0x5f4142/0x969d41
+#: slot/0x00efed13/0x5f4144/0x169d43
+#: slot/0x00efed13/0x5f4144/0x969d41
+#: slot/0x00efed13/0x5f4145/0x169d43
+#: slot/0x00efed13/0x5f4145/0x969d41
+#: slot/0x00efed13/0x5f4146/0x169d43
+#: slot/0x00efed13/0x5f4146/0x969d41
+msgid "Change Tab"
+msgstr ""
+
+#: slot/0x00a60c2a/0x1132b3/0x1b7151
+#: slot/0x00a60c2a/0x2f3231/0x1b7151
+#: slot/0x00a60c2a/0xb4465d/0x1b7151
+#: slot/0x00a60c2a/0xc63a12/0x1b7151
+#: slot/0x00a60c2a/0xcc4327/0x1b7151
+#: slot/0x00a60c2a/0xcc7cca/0x1b7151
+#: slot/0x00a60c2a/0xe05bdd/0x1b7151
+#: slot/0x00a60c2a/0xe1fa12/0x1b7151
+#: slot/0x00a60c2a/0xf1ad43/0x1b7151
+#: slot/0x00a60c2a/0xf1b0bb/0x1b7151
+msgid "Details Screen / Model Viewer"
+msgstr ""
+
+#: slot/0x00a60c2a/0x1132b3/0x38def1
+#: slot/0x00a60c2a/0x1132b3/0x4c3b24
+#: slot/0x00a60c2a/0x2f3231/0x38def1
+#: slot/0x00a60c2a/0x2f3231/0x4c3b24
+#: slot/0x00a60c2a/0xe05bdd/0x38def1
+#: slot/0x00a60c2a/0xe05bdd/0x4c3b24
+msgid "Move Cursor / Change List Mode"
+msgstr ""
+
+#: slot/0x00a60c2a/0x1132b3/0x3c54c6
+#: slot/0x00a60c2a/0xe05bdd/0x3c54c6
+msgid "Select / Cancel Selection"
+msgstr ""
+
+#: slot/0x00a60c2a/0x1132b3/0x52db1b
+#: slot/0x00a60c2a/0x1132b3/0x539262
+#: slot/0x00a60c2a/0x2f3231/0x52db1b
+#: slot/0x00a60c2a/0x2f3231/0x539262
+#: slot/0x00a60c2a/0xe05bdd/0x52db1b
+#: slot/0x00a60c2a/0xe05bdd/0x539262
+msgid "Move Cursor / Change Staff"
+msgstr ""
+
+#: slot/0x00a60c2a/0x1132b3/0x5bd34d
+msgid "Back / Cancel Entire Selection"
+msgstr ""
+
+#: slot/0x00a60c2a/0x1132b3/0x6a9054
+#: slot/0x00a60c2a/0x1a6127/0x6a9054
+#: slot/0x00a60c2a/0x2f3231/0x6a9054
+#: slot/0x00a60c2a/0x42c97e/0x6a9054
+#: slot/0x00a60c2a/0x4c8d63/0x6a9054
+#: slot/0x00a60c2a/0x69f17c/0x6a9054
+#: slot/0x00a60c2a/0xb4465d/0x6a9054
+#: slot/0x00a60c2a/0xbc86b6/0x6a9054
+#: slot/0x00a60c2a/0xc63a12/0x6a9054
+#: slot/0x00a60c2a/0xcc4327/0x6a9054
+#: slot/0x00a60c2a/0xcc7cca/0x6a9054
+#: slot/0x00a60c2a/0xe05bdd/0x6a9054
+#: slot/0x00a60c2a/0xe1fa12/0x6a9054
+#: slot/0x00a60c2a/0xf1ad43/0x6a9054
+#: slot/0x00a60c2a/0xf1b0bb/0x6a9054
+#: slot/0x00a60c2a/0xf8cacb/0x6a9054
+msgid "Help"
+msgstr ""
+
+#: slot/0x00a60c2a/0x1132b3/0x7edc00
+#: slot/0x00a60c2a/0x2f3231/0x7edc00
+#: slot/0x00a60c2a/0xc63a12/0x7edc00
+#: slot/0x00a60c2a/0xcc7cca/0x7edc00
+#: slot/0x00a60c2a/0xe05bdd/0x7edc00
+#: slot/0x00a60c2a/0xe1fa12/0x7edc00
+msgid "Sort Mode"
+msgstr ""
+
+#: slot/0x00a60c2a/0x1132b3/0x916e3e
+msgid "Select / Skill Details"
+msgstr ""
+
+#: slot/0x00a60c2a/0x1132b3/0x95dc1e
+#: slot/0x00a60c2a/0x1a6127/0x169d43
+#: slot/0x00a60c2a/0x1a6127/0x3c54c6
+#: slot/0x00a60c2a/0x1a6127/0x7edc00
+#: slot/0x00a60c2a/0x1a6127/0x95dc1e
+#: slot/0x00a60c2a/0x1a6127/0x969d41
+#: slot/0x00a60c2a/0x2f3231/0x3c54c6
+#: slot/0x00a60c2a/0x2f3231/0x95dc1e
+#: slot/0x00a60c2a/0x42c97e/0x169d43
+#: slot/0x00a60c2a/0x42c97e/0x38def1
+#: slot/0x00a60c2a/0x42c97e/0x4c3b24
+#: slot/0x00a60c2a/0x42c97e/0x7edc00
+#: slot/0x00a60c2a/0x42c97e/0x95dc1e
+#: slot/0x00a60c2a/0x42c97e/0x969d41
+#: slot/0x00a60c2a/0x4c8d63/0x1b7151
+#: slot/0x00a60c2a/0x4c8d63/0x7edc00
+#: slot/0x00a60c2a/0x4c8d63/0x95dc1e
+#: slot/0x00a60c2a/0x69f17c/0x7edc00
+#: slot/0x00a60c2a/0x69f17c/0x95dc1e
+#: slot/0x00a60c2a/0xb4465d/0x7edc00
+#: slot/0x00a60c2a/0xb4465d/0x95dc1e
+#: slot/0x00a60c2a/0xbc86b6/0x7edc00
+#: slot/0x00a60c2a/0xbc86b6/0x95dc1e
+#: slot/0x00a60c2a/0xc63a12/0x3c54c6
+#: slot/0x00a60c2a/0xc63a12/0x95dc1e
+#: slot/0x00a60c2a/0xcc4327/0x3c54c6
+#: slot/0x00a60c2a/0xcc4327/0x7edc00
+#: slot/0x00a60c2a/0xcc4327/0x95dc1e
+#: slot/0x00a60c2a/0xcc7cca/0x38def1
+#: slot/0x00a60c2a/0xcc7cca/0x3c54c6
+#: slot/0x00a60c2a/0xcc7cca/0x4c3b24
+#: slot/0x00a60c2a/0xcc7cca/0x95dc1e
+#: slot/0x00a60c2a/0xe05bdd/0x95dc1e
+#: slot/0x00a60c2a/0xe1fa12/0x3c54c6
+#: slot/0x00a60c2a/0xe1fa12/0x95dc1e
+#: slot/0x00a60c2a/0xf1ad43/0x7edc00
+#: slot/0x00a60c2a/0xf1ad43/0x95dc1e
+#: slot/0x00a60c2a/0xf1b0bb/0x7edc00
+#: slot/0x00a60c2a/0xf1b0bb/0x95dc1e
+#: slot/0x00a60c2a/0xf8cacb/0x3c54c6
+#: slot/0x00a60c2a/0xf8cacb/0x7edc00
+#: slot/0x00a60c2a/0xf8cacb/0x95dc1e
+#: slot/0x00efed13/0x5f413d/0x1b7151
+#: slot/0x00efed13/0x5f413d/0x3c54c6
+#: slot/0x00efed13/0x5f413d/0x52db1b
+#: slot/0x00efed13/0x5f413d/0x539262
+#: slot/0x00efed13/0x5f413d/0x5bd34d
+#: slot/0x00efed13/0x5f413d/0x916e3e
+#: slot/0x00efed13/0x5f413e/0x1b7151
+#: slot/0x00efed13/0x5f413e/0x38def1
+#: slot/0x00efed13/0x5f413e/0x3c54c6
+#: slot/0x00efed13/0x5f413e/0x4c3b24
+#: slot/0x00efed13/0x5f413e/0x52db1b
+#: slot/0x00efed13/0x5f413e/0x539262
+#: slot/0x00efed13/0x5f413e/0x5bd34d
+#: slot/0x00efed13/0x5f413e/0x916e3e
+#: slot/0x00efed13/0x5f413f/0x38def1
+#: slot/0x00efed13/0x5f413f/0x4c3b24
+#: slot/0x00efed13/0x5f413f/0x52db1b
+#: slot/0x00efed13/0x5f413f/0x539262
+#: slot/0x00efed13/0x5f413f/0x95dc1e
+#: slot/0x00efed13/0x5f4140/0x1b7151
+#: slot/0x00efed13/0x5f4140/0x38def1
+#: slot/0x00efed13/0x5f4140/0x3c54c6
+#: slot/0x00efed13/0x5f4140/0x4c3b24
+#: slot/0x00efed13/0x5f4140/0x95dc1e
+#: slot/0x00efed13/0x5f4141/0x1b7151
+#: slot/0x00efed13/0x5f4141/0x3c54c6
+#: slot/0x00efed13/0x5f4141/0x5bd34d
+#: slot/0x00efed13/0x5f4141/0x916e3e
+#: slot/0x00efed13/0x5f4141/0x95dc1e
+#: slot/0x00efed13/0x5f4142/0x1b7151
+#: slot/0x00efed13/0x5f4142/0x38def1
+#: slot/0x00efed13/0x5f4142/0x3c54c6
+#: slot/0x00efed13/0x5f4142/0x4c3b24
+#: slot/0x00efed13/0x5f4142/0x52db1b
+#: slot/0x00efed13/0x5f4142/0x539262
+#: slot/0x00efed13/0x5f4142/0x5bd34d
+#: slot/0x00efed13/0x5f4142/0x916e3e
+#: slot/0x00efed13/0x5f4142/0x95dc1e
+#: slot/0x00efed13/0x5f4144/0x1b7151
+#: slot/0x00efed13/0x5f4144/0x38def1
+#: slot/0x00efed13/0x5f4144/0x4c3b24
+#: slot/0x00efed13/0x5f4144/0x52db1b
+#: slot/0x00efed13/0x5f4144/0x539262
+#: slot/0x00efed13/0x5f4144/0x916e3e
+#: slot/0x00efed13/0x5f4144/0x95dc1e
+#: slot/0x00efed13/0x5f4145/0x1b7151
+#: slot/0x00efed13/0x5f4145/0x38def1
+#: slot/0x00efed13/0x5f4145/0x4c3b24
+#: slot/0x00efed13/0x5f4145/0x916e3e
+#: slot/0x00efed13/0x5f4145/0x95dc1e
+#: slot/0x00efed13/0x5f4146/0x38def1
+#: slot/0x00efed13/0x5f4146/0x4c3b24
+#: slot/0x00efed13/0x5f4146/0x52db1b
+#: slot/0x00efed13/0x5f4146/0x539262
+#: slot/0x00efed13/0x5f4146/0x95dc1e
+msgid "Not Used"
+msgstr ""
+
+#: slot/0x00a60c2a/0x1a6127/0x1b7151
+#: slot/0x00a60c2a/0xf8cacb/0x1b7151
+msgid "Model Viewer"
+msgstr ""
+
+#: slot/0x00a60c2a/0x1a6127/0x38def1
+#: slot/0x00a60c2a/0x1a6127/0x4c3b24
+#: slot/0x00a60c2a/0x1a6127/0x52db1b
+#: slot/0x00a60c2a/0x1a6127/0x539262
+#: slot/0x00a60c2a/0x42c97e/0x52db1b
+#: slot/0x00a60c2a/0x42c97e/0x539262
+#: slot/0x00a60c2a/0x4c8d63/0x38def1
+#: slot/0x00a60c2a/0x4c8d63/0x4c3b24
+#: slot/0x00a60c2a/0x4c8d63/0x52db1b
+#: slot/0x00a60c2a/0x4c8d63/0x539262
+#: slot/0x00a60c2a/0x69f17c/0x38def1
+#: slot/0x00a60c2a/0x69f17c/0x4c3b24
+#: slot/0x00a60c2a/0x69f17c/0x52db1b
+#: slot/0x00a60c2a/0x69f17c/0x539262
+#: slot/0x00a60c2a/0xb4465d/0x38def1
+#: slot/0x00a60c2a/0xb4465d/0x4c3b24
+#: slot/0x00a60c2a/0xb4465d/0x52db1b
+#: slot/0x00a60c2a/0xb4465d/0x539262
+#: slot/0x00a60c2a/0xbc86b6/0x38def1
+#: slot/0x00a60c2a/0xbc86b6/0x4c3b24
+#: slot/0x00a60c2a/0xbc86b6/0x52db1b
+#: slot/0x00a60c2a/0xbc86b6/0x539262
+#: slot/0x00a60c2a/0xc63a12/0x52db1b
+#: slot/0x00a60c2a/0xc63a12/0x539262
+#: slot/0x00a60c2a/0xcc4327/0x38def1
+#: slot/0x00a60c2a/0xcc4327/0x4c3b24
+#: slot/0x00a60c2a/0xcc4327/0x52db1b
+#: slot/0x00a60c2a/0xcc4327/0x539262
+#: slot/0x00a60c2a/0xcc7cca/0x52db1b
+#: slot/0x00a60c2a/0xcc7cca/0x539262
+#: slot/0x00a60c2a/0xe1fa12/0x52db1b
+#: slot/0x00a60c2a/0xe1fa12/0x539262
+#: slot/0x00a60c2a/0xf1ad43/0x38def1
+#: slot/0x00a60c2a/0xf1ad43/0x4c3b24
+#: slot/0x00a60c2a/0xf1ad43/0x52db1b
+#: slot/0x00a60c2a/0xf1ad43/0x539262
+#: slot/0x00a60c2a/0xf1b0bb/0x38def1
+#: slot/0x00a60c2a/0xf1b0bb/0x4c3b24
+#: slot/0x00a60c2a/0xf1b0bb/0x52db1b
+#: slot/0x00a60c2a/0xf1b0bb/0x539262
+#: slot/0x00a60c2a/0xf8cacb/0x38def1
+#: slot/0x00a60c2a/0xf8cacb/0x4c3b24
+#: slot/0x00a60c2a/0xf8cacb/0x52db1b
+#: slot/0x00a60c2a/0xf8cacb/0x539262
+msgid "Move Cursor"
+msgstr ""
+
+#: slot/0x00a60c2a/0x1a6127/0x916e3e
+#: slot/0x00a60c2a/0x2f3231/0x916e3e
+#: slot/0x00a60c2a/0x42c97e/0x916e3e
+#: slot/0x00a60c2a/0x4c8d63/0x916e3e
+#: slot/0x00a60c2a/0xb4465d/0x916e3e
+#: slot/0x00a60c2a/0xbc86b6/0x916e3e
+#: slot/0x00a60c2a/0xc63a12/0x916e3e
+#: slot/0x00a60c2a/0xcc4327/0x916e3e
+#: slot/0x00a60c2a/0xcc7cca/0x916e3e
+#: slot/0x00a60c2a/0xe05bdd/0x916e3e
+#: slot/0x00a60c2a/0xe1fa12/0x916e3e
+#: slot/0x00a60c2a/0xf8cacb/0x916e3e
+#: slot/0x00efed13/0x5f4140/0x52db1b
+#: slot/0x00efed13/0x5f4140/0x539262
+#: slot/0x00efed13/0x5f4140/0x916e3e
+msgid "Select"
+msgstr ""
+
+#: slot/0x00a60c2a/0x27e6fb/0x169d43
+#: slot/0x00a60c2a/0x27e6fb/0x1b7151
+#: slot/0x00a60c2a/0x27e6fb/0x7edc00
+#: slot/0x00a60c2a/0x27e6fb/0x95dc1e
+#: slot/0x00a60c2a/0x27e6fb/0x969d41
+#: slot/0x00a60c2a/0x650fe6/0x169d43
+#: slot/0x00a60c2a/0x650fe6/0x1b7151
+#: slot/0x00a60c2a/0x650fe6/0x3c54c6
+#: slot/0x00a60c2a/0x650fe6/0x7edc00
+#: slot/0x00a60c2a/0x650fe6/0x95dc1e
+#: slot/0x00a60c2a/0x650fe6/0x969d41
+#: slot/0x00efed13/0x5f4143/0x38def1
+#: slot/0x00efed13/0x5f4143/0x4c3b24
+#: slot/0x00efed13/0x5f4143/0x95dc1e
+msgid "NOT USED"
+msgstr ""
+
+#: slot/0x00a60c2a/0x27e6fb/0x38def1
+#: slot/0x00a60c2a/0x27e6fb/0x4c3b24
+#: slot/0x00a60c2a/0x27e6fb/0x52db1b
+#: slot/0x00a60c2a/0x27e6fb/0x539262
+#: slot/0x00a60c2a/0x650fe6/0x38def1
+#: slot/0x00a60c2a/0x650fe6/0x4c3b24
+#: slot/0x00a60c2a/0x650fe6/0x52db1b
+#: slot/0x00a60c2a/0x650fe6/0x539262
+msgid "MOVE CURSOR"
+msgstr ""
+
+#: slot/0x00a60c2a/0x27e6fb/0x5bd34d
+#: slot/0x00a60c2a/0x650fe6/0x5bd34d
+#: slot/0x00efed13/0x5f4143/0x5bd34d
+msgid "SELECT"
+msgstr ""
+
+#: slot/0x00a60c2a/0x42c97e/0x1b7151
+msgid "Model Viewer / Play"
+msgstr ""
+
+#: slot/0x00a60c2a/0x42c97e/0x3c54c6
+msgid "Select / Cancel / Remove Equipment / Discard"
+msgstr ""
+
+#: slot/0x00a60c2a/0x4c8d63/0x3c54c6
+msgid "Unassign"
+msgstr ""
+
+#: slot/0x00a60c2a/0x4c8d63/0x5bd34d
+#: slot/0x00a60c2a/0x69f17c/0x5bd34d
+#: slot/0x00a60c2a/0xbc86b6/0x5bd34d
+msgid "Back / Cancel"
+msgstr ""
+
+#: slot/0x00a60c2a/0x69f17c/0x3c54c6
+msgid "Delete / Reset"
+msgstr ""
+
+#: slot/0x00a60c2a/0x69f17c/0x916e3e
+msgid "Select / Open"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x042f86
+#: slot/0x00a60c2a/0x78a26d/0xe60f7d
+msgid "Staff Ability Icons"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x042f87
+#: slot/0x00a60c2a/0x78a26d/0xe60f7e
+msgid "Staff Tags"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x042f88
+#: slot/0x00a60c2a/0x78a26d/0xe60f7f
+msgid "Staff Combat Ability Icons"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x042f89
+#: slot/0x00a60c2a/0x78a26d/0xe60f80
+msgid "Staff Skill Icons"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x042f8a
+#: slot/0x00a60c2a/0x78a26d/0xe60f81
+msgid "Icons Representing Staff Status"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x0c09ba
+#: slot/0x00a60c2a/0x78a26d/0x0c179b
+#: slot/0x00a60c2a/0x78a26d/0xa9a211
+#: slot/0x00a60c2a/0x78a26d/0xeda1f1
+msgid "Numbers next to stars represent ranks."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x0c1799
+msgid "[CQC] Weapon that allows CQC"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x0c179a
+#: slot/0x00a60c2a/0x78a26d/0xa9a1ec
+msgid "[ZZZ] Weapon that puts targets to sleep. [STN] Weapon that knocks enemies out."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x0c179e
+#: slot/0x00a60c2a/0x78a26d/0xa9a1f0
+msgid "Power"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x0c17a0
+#: slot/0x00a60c2a/0x78a26d/0xa9a1f2
+msgid "Rapid Fire"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x0c17b9
+#: slot/0x00a60c2a/0x78a26d/0xa9a20b
+msgid "Capacity"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x0d16fb
+msgid "Currently Dispatched"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x0d16fc
+msgid "Enemy Forces Power Rank"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x0d16fd
+msgid "Not Cleared"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x0d16fe
+msgid "Cleared"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x242955
+#: slot/0x00a60c2a/0x78a26d/0x811c94
+msgid "Mech Specs Icons"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x284ee4
+#: slot/0x00a60c2a/0x78a26d/0x770490
+msgid "Weapon Tag Icons"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x284ee5
+#: slot/0x00a60c2a/0x78a26d/0xa84eac
+msgid "Development Status Display Icons"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x284ee6
+#: slot/0x00a60c2a/0x78a26d/0x770492
+msgid "Weapon Specs Icons"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x284ee7
+#: slot/0x00a60c2a/0x78a26d/0x754891
+#: slot/0x00a60c2a/0x78a26d/0x770493
+#: slot/0x00a60c2a/0x78a26d/0xa84ead
+#: slot/0x00a60c2a/0x78a26d/0xa8e7bd
+msgid "Production Condition Team Icons"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x750b9f
+msgid "Heroism and Camaraderie Icons"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x754890
+#: slot/0x00a60c2a/0x78a26d/0xa84eae
+msgid "Item Tag Icons"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x778ff0
+#: slot/0x00a60c2a/0x78a26d/0xb880f0
+msgid "Abilities suited for Combat Unit."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x778ff1
+#: slot/0x00a60c2a/0x78a26d/0xb880f1
+msgid "Abilities suited for R&D Team."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x778ff2
+#: slot/0x00a60c2a/0x78a26d/0xb880f2
+msgid "Abilities suited for Mess Hall Team."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x778ff3
+#: slot/0x00a60c2a/0x78a26d/0xb880f3
+msgid "Abilities suited for Medical Team."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x778ff4
+#: slot/0x00a60c2a/0x78a26d/0xb880f4
+msgid "Abilities suited for Intel Team."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x778ff5
+#: slot/0x00a60c2a/0x78a26d/0xb880f5
+msgid "[NML] Normal staff [COL] Staff acquired through special means such as passwords [VOL] Staff who volunteered"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x778ff6
+#: slot/0x00a60c2a/0x78a26d/0xb880f6
+msgid "[UNQ] Special staff"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x778ff7
+#: slot/0x00a60c2a/0x78a26d/0xb880f7
+msgid "[POW] Staff who are former prisoners"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x778ff8
+#: slot/0x00a60c2a/0x78a26d/0xb880f8
+msgid "[TRD] Staff acquired through trading"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x77900f
+#: slot/0x00a60c2a/0x78a26d/0xb8810f
+msgid "Shoot"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779010
+#: slot/0x00a60c2a/0x78a26d/0xb88110
+msgid "Reload"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779011
+#: slot/0x00a60c2a/0x78a26d/0xb88111
+msgid "Throw"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779012
+#: slot/0x00a60c2a/0x78a26d/0xb88112
+msgid "Place"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779013
+#: slot/0x00a60c2a/0x78a26d/0xb88113
+msgid "Walk Speed"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779014
+#: slot/0x00a60c2a/0x78a26d/0xb88114
+msgid "Run Speed"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779015
+#: slot/0x00a60c2a/0x78a26d/0xb88115
+msgid "Fight"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779017
+#: slot/0x00a60c2a/0x78a26d/0xb88117
+msgid "Mission Skills"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779018
+#: slot/0x00a60c2a/0x78a26d/0xb88118
+msgid "Combat Unit Skills"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x77902f
+#: slot/0x00a60c2a/0x78a26d/0xb8812f
+msgid "R&D Team Skills"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779030
+#: slot/0x00a60c2a/0x78a26d/0xb88130
+msgid "Mess Hall Team Skills"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779031
+#: slot/0x00a60c2a/0x78a26d/0xb88131
+msgid "Medical Team Skills"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779032
+#: slot/0x00a60c2a/0x78a26d/0xb88132
+msgid "Intel Team Skills"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779033
+#: slot/0x00a60c2a/0x78a26d/0xb88133
+msgid "Represents morale. The higher the value, the more each ability increases."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779034
+#: slot/0x00a60c2a/0x78a26d/0xb88134
+msgid "Represents hostility. Staff cannot leave Brig until this reaches zero."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779035
+#: slot/0x00a60c2a/0x78a26d/0xb88135
+msgid "Represents sick status. Staff condition will worsen if not placed in Sickbay."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779036
+#: slot/0x00a60c2a/0x78a26d/0xb88136
+msgid "Represents wounded status. Staff condition will worsen if not placed in Sickbay."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779037
+#: slot/0x00a60c2a/0x78a26d/0xb88137
+msgid "Represents PTSD status. Staff condition will worsen if not placed in Sickbay."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x779038
+#: slot/0x00a60c2a/0x78a26d/0xb88138
+msgid "Indicates that abilities have currently weakened."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x77904f
+#: slot/0x00a60c2a/0x78a26d/0xb8814f
+msgid "Indicates that staff is dispatched on OUTER OPS."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x8407d2
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d389
+msgid "Camaraderie"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0x96f0d0
+msgid "Mission List Icons"
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0xa9a1eb
+msgid "[CQC] Weapon that allows CQC."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0xa9a1ed
+#: slot/0x00a60c2a/0x78a26d/0xeda1e9
+msgid "Development conditions have not been met."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0xa9a1ee
+#: slot/0x00a60c2a/0x78a26d/0xeda1ea
+msgid "Development can begin."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0xa9a1ef
+#: slot/0x00a60c2a/0x78a26d/0xeda1eb
+msgid "Development is underway."
+msgstr ""
+
+#: slot/0x00a60c2a/0x78a26d/0xb748f2
+msgid "Metal Gear ZEKE Specs Icons"
+msgstr ""
+
+#: slot/0x00a60c2a/0xb4465d/0x3c54c6
+msgid "Delete"
+msgstr ""
+
+#: slot/0x00a60c2a/0xbc86b6/0x1b7151
+msgid "Codename Selection Screen"
+msgstr ""
+
+#: slot/0x00a60c2a/0xbc86b6/0x3c54c6
+#: slot/0x00efed13/0x5f4140/0x5bd34d
+msgid "Cancel"
+msgstr ""
+
+#: slot/0x00a60c2a/0xc63a12/0x38def1
+#: slot/0x00a60c2a/0xc63a12/0x4c3b24
+#: slot/0x00a60c2a/0xe1fa12/0x38def1
+#: slot/0x00a60c2a/0xe1fa12/0x4c3b24
+msgid "Change Rank"
+msgstr ""
+
+#: slot/0x00a60c2a/0xc99c23/0x291428
+#: slot/0x00d9af4c/0x1bed50/0x1787c8
+#: slot/0x00d9af4c/0x5f753b/0xad4e91
+#: slot/0x00efed13/0x291428/0x2b250c
+msgid "CONTROLS HELP"
+msgstr ""
+
+#: slot/0x00a60c2a/0xc99c23/0x2e6ebb
+msgid "TUTORIAL LIST"
+msgstr ""
+
+#: slot/0x00a60c2a/0xc99c23/0x361a4e
+msgid "ICON HELP"
+msgstr ""
+
+#: slot/0x00a60c2a/0xc99c23/0x50818e
+#: slot/0x00efed13/0x291428/0x50818e
+msgid "SELECT BUTTON"
+msgstr ""
+
+#: slot/0x00a60c2a/0xc99c23/0xd9d9b9
+#: slot/0x00efed13/0x291428/0xd9d9b9
+msgid "START BUTTON"
+msgstr ""
+
+#: slot/0x00a60c2a/0xe05bdd/0x5bd34d
+msgid "Back / Cancel / Reset Selection State"
+msgstr ""
+
+#: slot/0x00a60c2a/0xf1ad43/0x3c54c6
+#: slot/0x00a60c2a/0xf1b0bb/0x3c54c6
+msgid "Jump (only on \"DEVELOPMENT STATUS\" and \"NEW\" tabs)"
+msgstr ""
+
+#: slot/0x00a60c2a/0xf1ad43/0x916e3e
+#: slot/0x00a60c2a/0xf1b0bb/0x916e3e
+msgid "Conditions / Develop / Details"
+msgstr ""
+
+#: slot/0x00a7d875/0xfc51c8/0x02a5b9
+#: slot/0x00a7d875/0xfc51c8/0x9d4aa8
+msgid "BOSQUE DEL ALBA"
+msgstr ""
+
+#: slot/0x00a7d875/0xfc51c8/0x299282
+#: slot/0x00a7d875/0xfc51c8/0x8ba0ea
+msgid "PLAYA DEL ALBA"
+msgstr ""
+
+#: slot/0x00a7d875/0xfc51c8/0x2d2b15
+#: slot/0x00a7d875/0xfc51c8/0x43ff69
+#: slot/0x00a7d875/0xfc51c8/0x4451f3
+#: slot/0x00a7d875/0xfc51c8/0x4c9146
+#: slot/0x00a7d876/0xfc51c8/0x3fa00c
+#: slot/0x00a7d876/0xfc51c8/0x45914c
+#: slot/0x00a7d876/0xfc51c8/0x6bdaa9
+#: slot/0x00a7d876/0xfc51c8/0x905e1c
+#: slot/0x00a7d876/0xfc51c8/0x94b658
+#: slot/0x00a7d876/0xfc51c8/0xdeb99c
+#: slot/0x00a7d877/0xfc51c8/0x060a05
+#: slot/0x00a7d877/0xfc51c8/0x3c6a33
+#: slot/0x00a7d877/0xfc51c8/0x55d7b9
+#: slot/0x00a7d877/0xfc51c8/0x58ca62
+#: slot/0x00a7d877/0xfc51c8/0x5d87bd
+#: slot/0x00a7d877/0xfc51c8/0x87302e
+#: slot/0x00a7d877/0xfc51c8/0x87a52e
+#: slot/0x00a7d877/0xfc51c8/0x87a989
+#: slot/0x00a7d877/0xfc51c8/0xad2b1c
+#: slot/0x00a7d877/0xfc51c8/0xf47a34
+#: slot/0x00a7d878/0xfc51c8/0x330e11
+#: slot/0x00a7d878/0xfc51c8/0x3ad666
+#: slot/0x00a7d878/0xfc51c8/0x415a03
+#: slot/0x00a7d878/0xfc51c8/0x496238
+#: slot/0x00a7d878/0xfc51c8/0x6c6203
+#: slot/0x00a7d878/0xfc51c8/0x6d2b24
+#: slot/0x00a7d878/0xfc51c8/0x706a03
+#: slot/0x00a7d879/0xfc51c8/0x0fe840
+#: slot/0x00a7d879/0xfc51c8/0x1c093d
+#: slot/0x00a7d879/0xfc51c8/0x1c313d
+#: slot/0x00a7d879/0xfc51c8/0x298be9
+#: slot/0x00a7d879/0xfc51c8/0x70d19a
+#: slot/0x00a7d879/0xfc51c8/0x9c5d63
+#: slot/0x00a7d879/0xfc51c8/0xa26926
+#: slot/0x00a7d879/0xfc51c8/0xcce775
+#: slot/0x00a7d87a/0xfc51c8/0x4b4207
+#: slot/0x00a7d87a/0xfc51c8/0x63b0f2
+#: slot/0x00a7d87a/0xfc51c8/0xd73d16
+#: slot/0x00a7d87a/0xfc51c8/0xd83d1e
+#: slot/0x00a7d87a/0xfc51c8/0xd93d26
+#: slot/0x00a7d87a/0xfc51c8/0xda3efe
+#: slot/0x00a7d87a/0xfc51c8/0xdb3f0e
+#: slot/0x00a7d87b/0xfc51c8/0x39ebef
+#: slot/0x00a7d87b/0xfc51c8/0x8cced7
+#: slot/0x00a7d87b/0xfc51c8/0xbad1fb
+msgid "TARGET"
+msgstr ""
+
+#: slot/0x00a7d875/0xfc51c8/0x54d072
+#: slot/0x00a7d875/0xfc51c8/0xf35eef
+msgid "PUERTO DEL ALBA"
+msgstr ""
+
+#: slot/0x00a7d875/0xfc51c8/0xa35c5b
+msgid "BARRANQUILLA COAST, COLOMBIA"
+msgstr ""
+
+#: slot/0x00a7d875/0xfc51c8/0xb2505d
+msgid "MSF BASE"
+msgstr ""
+
+#: slot/0x00a7d876/0xfc51c8/0x1de213
+#: slot/0x00a7d876/0xfc51c8/0x6e248b
+msgid "RlO DEL JADE"
+msgstr ""
+
+#: slot/0x00a7d876/0xfc51c8/0x2b10c2
+#: slot/0x00a7d876/0xfc51c8/0xbb68ea
+msgid "BANANAL FRUTA DE ORO: SORTING SHED"
+msgstr ""
+
+#: slot/0x00a7d876/0xfc51c8/0x3dbf51
+#: slot/0x00a7d876/0xfc51c8/0x5f2375
+msgid "BANANAL FRUTA DE ORO: FARM"
+msgstr ""
+
+#: slot/0x00a7d876/0xfc51c8/0x3f370c
+msgid "EL CENAGAL: JUNGLE"
+msgstr ""
+
+#: slot/0x00a7d876/0xfc51c8/0x40322d
+msgid "EL CENAGAL"
+msgstr ""
+
+#: slot/0x00a7d876/0xfc51c8/0x825a54
+msgid "EL CENAGAL: RAVINE"
+msgstr ""
+
+#: slot/0x00a7d876/0xfc51c8/0xdb0f45
+msgid "EL CENAGAL: SWAMP"
+msgstr ""
+
+#: slot/0x00a7d877/0xfc51c8/0x23a147
+msgid "CAFETAL AROMA ENCANTADO: ENTRANCE"
+msgstr ""
+
+#: slot/0x00a7d877/0xfc51c8/0x23eb1e
+#: slot/0x00a7d877/0xfc51c8/0xc654d3
+msgid "ALDEA LOS DESPIERTOS"
+msgstr ""
+
+#: slot/0x00a7d877/0xfc51c8/0x3a6148
+msgid "LOS CANTOS: CANYON"
+msgstr ""
+
+#: slot/0x00a7d877/0xfc51c8/0x3ea5b9
+msgid "CAMINO DE LAVA"
+msgstr ""
+
+#: slot/0x00a7d877/0xfc51c8/0x44289e
+#: slot/0x00a7d877/0xfc51c8/0xc756bf
+msgid "CRATER BASE"
+msgstr ""
+
+#: slot/0x00a7d877/0xfc51c8/0x5940e0
+#: slot/0x00a7d877/0xfc51c8/0x816cb0
+msgid "FUERTE LA LADERA"
+msgstr ""
+
+#: slot/0x00a7d877/0xfc51c8/0x64ce78
+msgid "CAMINO DE LAVA: JUNCTION"
+msgstr ""
+
+#: slot/0x00a7d877/0xfc51c8/0x653c7c
+msgid "LOS CANTOS: RIDGE"
+msgstr ""
+
+#: slot/0x00a7d877/0xfc51c8/0x6c02b3
+#: slot/0x00a7d877/0xfc51c8/0x709590
+msgid "EL CADALSO"
+msgstr ""
+
+#: slot/0x00a7d877/0xfc51c8/0x9f2aa8
+msgid "CAMINO DE LAVA: HILLSIDE"
+msgstr ""
+
+#: slot/0x00a7d877/0xfc51c8/0xa579ac
+msgid "LOS CANTOS"
+msgstr ""
+
+#: slot/0x00a7d877/0xfc51c8/0xcd7989
+msgid "CAFETAL AROMA ENCANTADO"
+msgstr ""
+
+#: slot/0x00a7d877/0xfc51c8/0xe3a129
+msgid "CAFETAL AROMA ENCANTADO: MILL"
+msgstr ""
+
+#: slot/0x00a7d878/0xfc51c8/0x1b8772
+#: slot/0x00a7d878/0xfc51c8/0x6611b6
+msgid "RUINAS DE XOCHIQUETZAL"
+msgstr ""
+
+#: slot/0x00a7d878/0xfc51c8/0x58cfb4
+msgid "SELVA DE LA LECHE: HILLSIDE"
+msgstr ""
+
+#: slot/0x00a7d878/0xfc51c8/0x58da76
+msgid "SELVA DE LA MUERTE: BOTTOM OF CLIFF"
+msgstr ""
+
+#: slot/0x00a7d878/0xfc51c8/0x58db78
+msgid "SELVA DE LA MUERTE: TOP OF CLIFF"
+msgstr ""
+
+#: slot/0x00a7d878/0xfc51c8/0x5c4c21
+#: slot/0x00a7d878/0xfc51c8/0xe2d4d0
+msgid "CATARATA DE LA MUERTE"
+msgstr ""
+
+#: slot/0x00a7d878/0xfc51c8/0x718e13
+#: slot/0x00a7d878/0xfc51c8/0x8b1313
+msgid "AI LABORATORY"
+msgstr ""
+
+#: slot/0x00a7d878/0xfc51c8/0x749f70
+msgid "SELVA DE LA MUERTE"
+msgstr ""
+
+#: slot/0x00a7d878/0xfc51c8/0x7ca5b9
+msgid "SELVA DE LA LECHE"
+msgstr ""
+
+#: slot/0x00a7d878/0xfc51c8/0xa11aa8
+msgid "SELVA DE LA LECHE: JUNGLE"
+msgstr ""
+
+#: slot/0x00a7d879/0xfc51c8/0x21a7f8
+msgid "AI WEAPON HANGAR"
+msgstr ""
+
+#: slot/0x00a7d879/0xfc51c8/0x274660
+msgid "UNDERGROUND PASSAGE A"
+msgstr ""
+
+#: slot/0x00a7d879/0xfc51c8/0x27466a
+msgid "UNDERGROUND PASSAGE B"
+msgstr ""
+
+#: slot/0x00a7d879/0xfc51c8/0x30e675
+msgid "COSTA RICAN COAST"
+msgstr ""
+
+#: slot/0x00a7d879/0xfc51c8/0x3e9b92
+msgid "TORTURE CHAMBER"
+msgstr ""
+
+#: slot/0x00a7d879/0xfc51c8/0x8e4fa9
+msgid "MINE BASE, COSTA RICA"
+msgstr ""
+
+#: slot/0x00a7d879/0xfc51c8/0xb57297
+msgid "PEACE WALKER HANGAR"
+msgstr ""
+
+#: slot/0x00a7d879/0xfc51c8/0xd249c0
+msgid "MINERS' RESIDENCE"
+msgstr ""
+
+#: slot/0x00a7d879/0xfc51c8/0xe80357
+msgid "MINING PIT"
+msgstr ""
+
+#: slot/0x00a7d87a/0xfc51c8/0x14984a
+msgid "RUNWAY"
+msgstr ""
+
+#: slot/0x00a7d87a/0xfc51c8/0x1db52d
+msgid "SMALL MAINTENANCE DOCK"
+msgstr ""
+
+#: slot/0x00a7d87a/0xfc51c8/0x1fb56d
+msgid "ROOFTOP"
+msgstr ""
+
+#: slot/0x00a7d87a/0xfc51c8/0x21b5ad
+msgid "MAIN MAINTENANCE DOCK"
+msgstr ""
+
+#: slot/0x00a7d87a/0xfc51c8/0x59d22e
+msgid "BACK GATE"
+msgstr ""
+
+#: slot/0x00a7d87a/0xfc51c8/0x900649
+msgid "U.S. MISSILE BASE, NICARAGUA"
+msgstr ""
+
+#: slot/0x00a7d87a/0xfc51c8/0x97b5ed
+msgid "UNDERPASS"
+msgstr ""
+
+#: slot/0x00a7d87a/0xfc51c8/0x9bb62d
+msgid "HELIPORT"
+msgstr ""
+
+#: slot/0x00a7d87b/0xfc51c8/0x56ee12
+msgid "DECK"
+msgstr ""
+
+#: slot/0x00a7d87b/0xfc51c8/0x8de291
+msgid "KILL HOUSE"
+msgstr ""
+
+#: slot/0x00a7d87b/0xfc51c8/0xd3cdd8
+msgid "SHOOTING RANGE"
+msgstr ""
+
+#: slot/0x00b83c7b/0x58c594/0x84e412
+msgid "REMAINING CLAYMORES"
+msgstr ""
+
+#: slot/0x00b83c7b/0x58c595/0x84e412
+msgid "REMAINING ITEMS"
+msgstr ""
+
+#: slot/0x00b83c7b/0x58c596/0x84e412
+msgid "REST"
+msgstr ""
+
+#: slot/0x00b83c7b/0x58c597/0x84e412
+msgid "KEY ITEM GET NUMBER"
+msgstr ""
+
+#: slot/0x00b83c7b/0x58c598/0x84e412
+#: slot/0x00b83c7b/0x58c5b4/0x84e412
+msgid "REMAINING TARGETS"
+msgstr ""
+
+#: slot/0x00b83c7b/0x58c599/0x84e412
+msgid "OCCUPIED BASES"
+msgstr ""
+
+#: slot/0x00b83c7b/0x58c59a/0x84e412
+msgid "REMAINING ENEMIES"
+msgstr ""
+
+#: slot/0x00b83c7b/0x58c59b/0x84e412
+msgid "FAILURE COUNT"
+msgstr ""
+
+#: slot/0x00b83c7b/0x58c59c/0x84e412
+msgid "REMAINING MISSILES"
+msgstr ""
+
+#: slot/0x00b83c7b/0x58c5b3/0x84e412
+msgid "REMAINING HOSTAGES"
+msgstr ""
+
+#: slot/0x00b83c7b/0x58c5b6/0x84e412
+msgid "PTS"
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0x13d5d1
+msgid "Staff deployed on missions cannot be discharged."
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0x23737c
+msgid "STAFF DISCHARGED"
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0x368518
+msgid "DISCHARGE LIST"
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0x3d49ca
+msgid "YOUR STAFF"
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0x3d49d0
+#: slot/0x00b85cf0/0x326126/0xfa69f0
+msgid "NEW RECRUITS"
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0x414199
+#, c-format
+msgid "New staff trying to join have put your roster over the %d-person limit. Please select %2d staff member(s) to discharge."
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0x494dec
+msgid "You cannot discharge this staff member."
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0x534694
+msgid "Discharge these staff members?"
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0x56d901
+msgid ""
+"Your staff roster will be reduced to zero.\n"
+"Are you sure you want to proceed?"
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0x576643
+msgid "Discharged staff can never be recruited again."
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0x648de3
+msgid "Reset selections to default?"
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0x65d9ca
+msgid "REDUCE STAFF"
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0x713612
+msgid "RECRUITS DISMISSED"
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0xb12649
+msgid "CURRENT STAFF"
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0xb6912f
+msgid "Discharged."
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0xc4e4f8
+#, c-format
+msgid "Your roster is still over the %d-person limit. Please select %2d more staff member(s)."
+msgstr ""
+
+#: slot/0x00b85cf0/0x326126/0xfc53af
+msgid "ALL STAFF"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x1979dc
+msgid "Mission Support"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x1f1ab1
+msgid "Living Quarters"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x291d5f
+msgid "Staff Data"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x30d85c
+msgid "Support Supplies"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x3a357a
+msgid "Weapons and items development facilities."
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x3e1d3f
+msgid "$1"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x3fda6b
+msgid "Command Center"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x426915
+msgid "Staff living area."
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x42c88d
+msgid "LIVING"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x4b2c05
+msgid "Mech Capture Status"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x5bf6c5
+msgid "Metal Gear Head Parts Acquired"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x63ba35
+msgid "Contains various data on Mother Base facilities, staff, and weapons."
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x683788
+msgid "Items Acquisition Rate"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x68a688
+msgid "Weapons Acquisition Rate"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x6ed1c8
+msgid "Sick/Wounded"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x73e998
+msgid "R&D Lab"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x748e7e
+msgid "Provides support strikes and support supply during missions."
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x74e241
+msgid "Houses mechs and Metal Gear."
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x798681
+msgid "Support Rank"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x80d141
+msgid "HANGAR"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0x887122
+msgid "AVERAGE MORALE:"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0xae1ba7
+msgid "Radius of $1m"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0xb8157b
+msgid "LAB"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0xbb9688
+msgid "Support Data"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0xbc5e4e
+msgid "Hospitalization Rate"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0xd3b3b7
+msgid "Support Strike Range"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0xd3cd30
+msgid "Support Strikes"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0xd8e588
+msgid "Central control facility."
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0xe4d488
+msgid "COMMAND"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0xe63e9c
+msgid "TOTAL STAFF:"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0xf3edf1
+msgid "MAX: $1"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0xf797ae
+msgid "Team Data"
+msgstr ""
+
+#: slot/0x00b96275/0x919326/0xffa5f4
+msgid "Hangar"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x03b89c
+msgid "Unacquired"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x046047
+msgid "PROFILE"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x066ec3
+msgid "Comrades List"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x26602f
+msgid "Contains your stats, mission results, and insignias."
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c4ab1
+msgid "Total Level of Camaraderie"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c4ab2
+msgid "Missions Cleared"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c4ab3
+msgid "Missions Cleared (CO-OPS)"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c52b0
+msgid "Missions Cleared with No Alerts"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c52b1
+msgid "Missions Cleared with No Kills"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c52b2
+msgid "Missions Cleared with No Recovery Items Used"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c52b3
+msgid "Total CQC Count"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c52b5
+msgid "Total Hold-ups"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c52b7
+msgid "Snake Ins"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c52b8
+msgid "Snake Syncs"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c52cf
+msgid "Weapon/Items Shared"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c52d1
+msgid "Total Headshots"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c52d2
+msgid "Near-Death Soldiers Revived"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c52d3
+msgid "Missions Played Half-Naked"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c52d4
+msgid "Metal Gear Parts Acquired"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c52d5
+msgid "Monsters Hunted"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c5ab0
+msgid "VS Play Count"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c5ab1
+msgid "Deathmatch Victories"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c5ab2
+msgid "Team Deathmatch Victories"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c5ab3
+msgid "Capture Mission Victories"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c5ab4
+msgid "Base Capture Mission Victories"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c5ab5
+msgid "Total Enemies Neutralized"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c5ab6
+msgid "VS Fulton Extractions"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c62b0
+msgid "Total Play Time"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c62b1
+msgid "Alerts"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c62b2
+msgid "Enemy Soldiers Killed"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3c62b3
+msgid "Damage Taken"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3d6d52
+msgid "Heroes List"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x3ee1d6
+msgid "Are you sure you want to delete this player's data?"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x41c676
+msgid "HEROES"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x63ba35
+msgid "View your and other CO-OPS players' data."
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x6afed4
+msgid "COMRADES"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x7a3a31
+msgid "CODENAME:"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x82564d
+#: slot/0x00cdd1c4/0xc6e14e/0x1b585c
+msgid "Unknown"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x82d675
+msgid "Contains names of CO-OPS and VS players with highest Heroism."
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x93f5bc
+msgid "Acquired Codenames"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x9f51ac
+msgid "Player Overview"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x9f51ad
+msgid "Mission Stats"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x9f51ae
+msgid "VS Stats"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x9f51af
+msgid "Transmission Data"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0x9f51b0
+msgid "Insignias"
+msgstr ""
+
+#: slot/0x00b96275/0x947b26/0xaafbd8
+msgid "Contains names of players with the highest CO-OPS Play Count and highest Level of Camaraderie."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x000000
+msgid "This is HQ."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x000001
+msgid "Understood. Dispatching reinforcements now."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x000002
+msgid "Negative. We can't spare reinforcements. You'll have to make do with what you have."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x000003
+msgid "Understood. Eliminate all hostiles."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x000004
+msgid "Understood. Dispatching reinforcements. Proceed with extra caution."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x000005
+msgid "Understood. Maintain heightened alert."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x000006
+msgid "Understood. The enemy should still be nearby. Find him."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x000008
+msgid "We have a situation. Backup team, head over and investigate."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x000009
+msgid "What's going on over there?"
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x00000a
+msgid "Understood. Return to base."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x00000b
+msgid "Understood. Stay vigilant."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x00000c
+msgid "Patrol."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x00000d
+msgid "We have signs of a possible intruder in the neighboring sector."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x00000e
+msgid "Increase security in your sector."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x00000f
+msgid "We've discovered an intruder in the neighboring sector."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x000010
+msgid "Come in, patrol. This is HQ."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x000011
+msgid "There's an intruder headed your way."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x000012
+msgid "Find him, and take him out."
+msgstr ""
+
+#: slot/0x00b9708c/0xa8181d/0x000013
+msgid "Increase security immediately."
+msgstr ""
+
+#: slot/0x00b9910a/0x12f601/0x8c66d2
+#: slot/0x00b9910a/0x12f601/0xeedd45
+msgid "PAUSE"
+msgstr ""
+
+#: slot/0x00b9910a/0x12f601/0xb8f6dd
+msgid "SINGLE PLAY"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x08758f
+msgid "Default"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x0a6de1
+msgid "Inverse"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x1dfdd6
+msgid "Toggle on/off when Action Button is pressed"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x267795
+msgid "2 Slot Swap"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x2ef7a1
+#: slot/0x00b9910a/0x21535e/0xdfeb1c
+msgid "Enabled"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x36ebc6
+msgid "Hunter Type"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x3b0b33
+msgid "On"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x613534
+msgid "Camera Direction"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x613ece
+msgid "English"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x614355
+msgid "French"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x6145b9
+msgid "German"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x614f88
+msgid "Italian"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x6165cd
+msgid "Off"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x617708
+msgid "Spanish"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x7e713d
+msgid "Normal"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x7ed7da
+#: slot/0x00b9910a/0x21535e/0xd8e20e
+msgid "Disabled"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x7f849b
+#: slot/0x00b9910a/0x6b2d56/0x579231
+#: slot/0x00b9910a/0x9dc379/0x80113c
+#: slot/0x00b9910a/0x9dc379/0x8ecf11
+msgid "xxx"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0x8b9f51
+msgid "Action Type"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0xa5ce44
+msgid "CO-OPS Communication"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0xae8886
+msgid "Codec Call"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0xd83025
+msgid "Character Direction"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0xdddbd5
+msgid "3 Slot Cycle"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0xe29dea
+msgid "Equip / Unequip"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0xe6a857
+msgid "Active only while Action Button is held down"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0xea6bcf
+msgid "Shooter Type"
+msgstr ""
+
+#: slot/0x00b9910a/0x21535e/0xeb2595
+msgid "Auto Aim Switch"
+msgstr ""
+
+#: slot/0x00b9910a/0x2c4b0f/0x3311ec
+msgid "CODEC CALL"
+msgstr ""
+
+#: slot/0x00b9910a/0x2c4b0f/0x4465e0
+msgid "REGION MAP"
+msgstr ""
+
+#: slot/0x00b9910a/0x2c4b0f/0x545ec0
+msgid "RETRY"
+msgstr ""
+
+#: slot/0x00b9910a/0x2c4b0f/0x6971dc
+msgid "ENEMY INFO"
+msgstr ""
+
+#: slot/0x00b9910a/0x2c4b0f/0xb993c3
+msgid "AREA MAP"
+msgstr ""
+
+#: slot/0x00b9910a/0x2c4b0f/0xc5c894
+msgid "CO-OPS COMMUNICATION"
+msgstr ""
+
+#: slot/0x00b9910a/0x32b0cb/0x99a9a1
+msgid "Use Codec?"
+msgstr ""
+
+#: slot/0x00b9910a/0x6b2d56/0x346d94
+msgid "END MISSION AND RETURN TO SELECTION SCREEN"
+msgstr ""
+
+#: slot/0x00b9910a/0x6b2d56/0x6bb005
+#: slot/0x00d2a877/0xcbb801/0x5a3c76
+msgid "RESTART MISSION"
+msgstr ""
+
+#: slot/0x00b9910a/0x6bb005/0x8c30f4
+msgid "Return to Mission Selection Menu"
+msgstr ""
+
+#: slot/0x00b9910a/0x6bb005/0x8d30f4
+msgid "Restart Mission"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0x0238fe
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d387
+msgid "Snake Formation"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0x13b907
+msgid "System Voice (CO-OP Out)"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0x29f1eb
+msgid "Item Select Settings"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0x29f72c
+msgid "System Voice (Snake In)"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0x2b2705
+msgid "LANGUAGE SELECTION"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0x2b5da9
+msgid "Aim Assist"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0x3efed9
+msgid "System Voice (Snake Out)"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0x989cfd
+msgid "System Voice (CO-OP In)"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0x9bceee
+msgid "Normal View: Rotation Speed"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0xb8e28d
+msgid "Weapon Select Settings"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0xd1ff23
+msgid "Analog stick Sensitivity"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0xd4d546
+msgid "(dummy text)"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0xd4ddb6
+msgid "Normal View: Left/Right"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0xd4dec8
+msgid "Normal View: Up/Down"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0xd55d45
+msgid "Aim Mode Initial Direction"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0xdaa6d9
+msgid "Data Install"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0xe6da15
+msgid "DISPLAY SUBTITLES"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0xec75b7
+msgid "Aim Mode View: Left/Right"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0xec76c9
+msgid "Aim Mode View: Up/Down"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0xf12e33
+msgid "Auto Aim"
+msgstr ""
+
+#: slot/0x00b9910a/0x9dc379/0xfb08d5
+msgid "Control Config"
+msgstr ""
+
+#: slot/0x00b9910a/0xc01bdf/0xa3ae18
+msgid ""
+"Quit this mission, and return to\n"
+"the mission selection menu.\n"
+"Items and soldiers acquired during\n"
+"this mission will be lost.\n"
+"Would you like to proceed?"
+msgstr ""
+
+#: slot/0x00b9910a/0xc01be0/0xa3ae18
+msgid ""
+"Restart this mission.\n"
+"Items and soldiers acquired during\n"
+"this mission will be lost.\n"
+"Would you like to proceed?"
+msgstr ""
+
+#: slot/0x00ba016b/0x486505/0x000000
+msgid "FELYNE"
+msgstr ""
+
+#: slot/0x00ba016b/0x486505/0x000004
+msgid "VELOCIPREY"
+msgstr ""
+
+#: slot/0x00bf136f/0x840ff7/0x44e180
+msgid "START button: End tutorial."
+msgstr ""
+
+#: slot/0x00c637bf/0xbd13d5/0xbb0fa9
+msgid "B4"
+msgstr ""
+
+#: slot/0x00c637bf/0xbd13d6/0xbb0fa9
+msgid "B3"
+msgstr ""
+
+#: slot/0x00c637bf/0xbd13d7/0xbb0fa9
+msgid "B2"
+msgstr ""
+
+#: slot/0x00c637bf/0xbd13d8/0xbb0fa9
+msgid "B1"
+msgstr ""
+
+#: slot/0x00c637bf/0xbd13d9/0xbb0fa9
+msgid "1F"
+msgstr ""
+
+#: slot/0x00c637bf/0xbd13da/0xbb0fa9
+msgid "2F"
+msgstr ""
+
+#: slot/0x00c637bf/0xbd13db/0xbb0fa9
+msgid "3F"
+msgstr ""
+
+#: slot/0x00c637bf/0xbd13dc/0xbb0fa9
+msgid "4F"
+msgstr ""
+
+#: slot/0x00c637bf/0xbd13dd/0xbb0fa9
+msgid "5F"
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x05d276
+msgid "Failed to obtain VOCALOID data."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x09e8fa
+msgid ""
+"The server is currently busy.\n"
+"Please wait and try your request again later."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x0c20c7
+msgid "This passcode is already in use."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x1f4094
+msgid "Failed to obtain download content data."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x226aa7
+msgid ""
+"$1\n"
+"Error code: $2 ($3)"
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x2b13f5
+msgid "Failed to save file."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x2e012f
+msgid "Failed to connect."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x30367e
+msgid "Failed to convert data."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x340a30
+msgid "Failed to obtain user information."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x4b1cfb
+msgid "Unable to sign in to PlayStation<I=REG>Network."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x4b78c8
+msgid ""
+"Converted data already exists.\n"
+"Select \"DOWNLOAD CONVERTED DATA\" to retrieve the data."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x4bd998
+msgid "The connection has been cancelled."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x61d95e
+msgid ""
+"An error has occurred.\n"
+"Please verify that the PSP<I=TM> system's Date and Time\n"
+"Settings are correct."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x6c60ed
+msgid "The connection has timed out."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x6d9c13
+msgid "Failed to send soldier data."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x6fe3de
+msgid "Failed to authenticate passcode."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x709d89
+msgid "Failed to obtain Terms of Use."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x8a774e
+msgid "Failed to connect to PlayStation<I=REG>Network."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0x9b13a9
+msgid ""
+"The network's certificate was not issued by a trusted\n"
+"certification authority."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0xa3c288
+msgid "Incorrect passcode."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0xb091db
+msgid ""
+"The data contains prohibited words or phrases.\n"
+"Prohibited words and phrases will automatically be replaced\n"
+"with other words.\n"
+"Are you sure you want to continue with conversion?"
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0xb75bb2
+msgid "Currently there is no data available for download."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0xbef714
+msgid "Conversion request failed."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0xc3d753
+msgid "Failed to obtain data from server."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0xca0045
+msgid ""
+"Converting...\n"
+"Please wait."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0xef39f4
+msgid ""
+"The system has been locked after three incorrect passcode\n"
+"entries.\n"
+"Please wait at least 24 hours before trying again."
+msgstr ""
+
+#: slot/0x00cba83b/0x029324/0xf1f6fc
+msgid "Online services are not available because of the parental control settings on your PlayStation<I=REG>Network account."
+msgstr ""
+
+#: slot/0x00cbf8c0/0x77999c/0x01f3a8
+msgid "$1 has left the game."
+msgstr ""

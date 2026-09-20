@@ -1,0 +1,2576 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF slot 25/26\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: slot\n"
+"X-PWSF-Entries: 400\n"
+
+
+#: slot/0x00dff0a5/0xa84a6a/0x000078
+msgid "Peace!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000079
+msgid "In the name of peace... Peace!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00007a
+msgid "Is victory... essential to peace?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00007b
+msgid "That's why you have to make your way to it."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00007c
+msgid "That means you, right?"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00007e
+msgid "Vic Vos!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x00007f
+msgid "You have to peace for peace!"
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000080
+msgid "And then..."
+msgstr ""
+
+#: slot/0x00dff0a5/0xa84a6a/0x000081
+msgid "I don't... have any family..."
+msgstr ""
+
+#: slot/0x00e2e8b4/0x70e69d/0x000000
+msgid "Where'd you get these?!"
+msgstr ""
+
+#: slot/0x00e2e8b4/0xa0e69d/0x000000
+msgid "Next!? Bring 'em in!"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x0f18fa
+msgid "FOXHOUND"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x1a9995
+msgid "WOLF"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x1c4cb7
+msgid "BUTTERFLY"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x2091ad
+msgid "GULL"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x2101dd
+msgid "WHALE"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x27b9af
+msgid "SCORPION"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x35962d
+msgid "PUMA"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x395de0
+msgid "BEE"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x3fa427
+msgid "SWALLOW"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x405dec
+msgid "EEL"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x468fec
+msgid "DEER"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x49aeb0
+msgid "RAVEN"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x4cea48
+msgid "DOBERMAN"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x5f15ad
+msgid "HOUND"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x685ddd
+msgid "ANT"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x6eaead
+msgid "PIRANHA"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x7f91de
+msgid "HAWK"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0x86b08b
+msgid "FIREFLY"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0xa60212
+msgid "KANGAROO"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0xc68eeb
+msgid "BEAR"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0xc85de3
+msgid "CAT"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0xd4d5b6
+msgid "OCTOPUS"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x1b1303/0xf5959f
+msgid "ORCA"
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x0f18fa
+msgid ""
+"\n"
+"Title given to heroes who battle it out to the end using all sorts of weapons and favor cooperation with allies to take down enemies with non-lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x1a9995
+msgid ""
+"\n"
+"Title given to soldiers who mainly use medium-range\n"
+"weapons and favor cooperating with allies to eliminate\n"
+"enemies with lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x1c4cb7
+msgid ""
+"\n"
+"Title given to soldiers who mainly use short-range weapons and favor taking down enemies with non-lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x2091ad
+msgid ""
+"\n"
+"Title given to soldiers who mainly use long-range weapons and favor cooperation with allies to take down enemies with non-lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x2101dd
+msgid ""
+"\n"
+"Title given to soldiers who mainly use weapons with\n"
+"explosive power and favor cooperating with allies to take down enemies with non-lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x27b9af
+msgid ""
+"\n"
+"Title given to soldiers who mainly use short-range\n"
+"weapons and favor eliminating enemies with lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x35962d
+msgid ""
+"\n"
+"Title given to soldiers who mainly use medium-range\n"
+"weapons and favor eliminating enemies with lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x395de0
+msgid ""
+"\n"
+"Title given to soldiers who mainly use short-range weapons and favor cooperation with allies to eliminate enemies with lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x3fa427
+msgid ""
+"\n"
+"Title given to soldiers who mainly use long-range weapons and favor taking down enemies with non-lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x405dec
+msgid ""
+"\n"
+"Title given to soldiers who mainly use stun rods and favor taking down enemies with non-lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x468fec
+msgid ""
+"\n"
+"Title given to soldiers who mainly use medium-range\n"
+"weapons and favor cooperation with allies to take down enemies with non-lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x49aeb0
+msgid ""
+"\n"
+"Title given to soldiers who mainly use long-range weapons and favor cooperating with allies to eliminate enemies with lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x4cea48
+msgid ""
+"\n"
+"Title given to heroes who battle it out to the end using all sorts of weapons and cooperating with allies to eliminate enemies with lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x5f15ad
+msgid ""
+"\n"
+"Title given to heroes who battle it out to the end using all sorts of weapons to eliminate enemies with lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x685ddd
+msgid ""
+"\n"
+"Title given to soldiers who mainly use short-range weapons and favor cooperation with allies to take down enemies with\n"
+"non-lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x6eaead
+msgid ""
+"\n"
+"Title given to soldiers who mainly use weapons with\n"
+"explosive power and favor cooperating with allies to\n"
+"eliminate enemies with lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x7f91de
+msgid ""
+"\n"
+"Title given to soldiers who mainly use long-range weapons and favor eliminating enemies with lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x86b08b
+msgid ""
+"\n"
+"Title given to soldiers who mainly use stun rods and favor cooperation with allies to take down enemies with non-lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0x8c5df1
+msgid ""
+"\n"
+"Title given to heroes who battle it out to the end using all sorts of weapons to take down enemies with non-lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0xa60212
+msgid ""
+"\n"
+"Title given to soldiers who mainly use CQC and favor\n"
+"cooperation with allies to take down enemies with\n"
+"non-lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0xc68eeb
+msgid ""
+"\n"
+"Title given to soldiers who mainly use CQC and favor\n"
+"taking down enemies with non-lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0xc85de3
+msgid ""
+"\n"
+"Title given to soldiers who mainly use medium-range\n"
+"weapons and favor taking down enemies with non-lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0xd4d5b6
+msgid ""
+"\n"
+"Title given to soldiers who mainly use weapons with\n"
+"explosive power and favor taking down enemies with\n"
+"non-lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x62cf73/0xf5959f
+msgid ""
+"\n"
+"Title given to soldiers who mainly use weapons with\n"
+"explosive power and favor eliminating enemies with lethal force."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0x00b421
+#: slot/0x00e6ef4c/0x8caeae/0x00b521
+#: slot/0x00e6ef4c/0x8caeae/0xfddd20
+msgid ""
+"Awarded for scoring $1 or more headshots in a row in VS\n"
+"(Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0x00b621
+#: slot/0x00e6ef4c/0x8caeae/0x00b721
+#: slot/0x00e6ef4c/0x8caeae/0x00b821
+msgid ""
+"Awarded for capturing over $1 bases (Heroism increases\n"
+"$2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0x00b921
+#: slot/0x00e6ef4c/0x8caeae/0x00ba21
+#: slot/0x00e6ef4c/0x8caeae/0x00bb21
+msgid ""
+"Awarded for getting the target to the goal (count to 0) over\n"
+"$1 times (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0x00bc21
+#: slot/0x00e6ef4c/0x8caeae/0x00bd21
+#: slot/0x00e6ef4c/0x8caeae/0x00d421
+msgid ""
+"\n"
+"Awarded for performing over $1 Fulton Recoveries in VS (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfcb520
+#: slot/0x00e6ef4c/0x8caeae/0xfcb620
+#: slot/0x00e6ef4c/0x8caeae/0xfcb720
+msgid ""
+"\n"
+"Awarded for completing over $1 missions without being spotted by the enemy (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfcb820
+#: slot/0x00e6ef4c/0x8caeae/0xfcb920
+#: slot/0x00e6ef4c/0x8caeae/0xfcba20
+msgid ""
+"\n"
+"Awarded for completing over $1 missions without killing anyone (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfcbb20
+#: slot/0x00e6ef4c/0x8caeae/0xfcbc20
+#: slot/0x00e6ef4c/0x8caeae/0xfcbd20
+msgid ""
+"\n"
+"Awarded for holding up over $1 enemy soldiers (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfcd420
+#: slot/0x00e6ef4c/0x8caeae/0xfcd520
+#: slot/0x00e6ef4c/0x8caeae/0xfcd620
+msgid ""
+"\n"
+"Awarded for completing over $1 missions without using recovery items (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfcd720
+#: slot/0x00e6ef4c/0x8caeae/0xfcd820
+#: slot/0x00e6ef4c/0x8caeae/0xfcd920
+msgid ""
+"\n"
+"Awarded for using CQC over $1 times (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfcda20
+#: slot/0x00e6ef4c/0x8caeae/0xfcdb20
+#: slot/0x00e6ef4c/0x8caeae/0xfcdc20
+msgid ""
+"\n"
+"Awarded for completing over $1 headshots (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfcdd20
+#: slot/0x00e6ef4c/0x8caeae/0xfcf420
+#: slot/0x00e6ef4c/0x8caeae/0xfcf520
+msgid ""
+"\n"
+"Awarded for exceeding a total Level of Camaraderie of $1 (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfcf620
+#: slot/0x00e6ef4c/0x8caeae/0xfcf720
+#: slot/0x00e6ef4c/0x8caeae/0xfcf820
+msgid ""
+"\n"
+"Awarded for exceeding a combined total of $1 CPR\n"
+"Rescues, Rescue Box Uses, and Battle Cry uses (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfcf920
+msgid ""
+"\n"
+"Awarded for exceeding $1 CO-OP Ins (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfcfa20
+msgid ""
+"\n"
+"Awarded for exceeding $1 Snake Ins (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfcfb20
+msgid ""
+"\n"
+"Awarded for exceeding $1 Snake Syncs (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfcfc20
+msgid ""
+"Awarded for sharing weapons/items and having allies use them\n"
+"over $1 times (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfcfd20
+msgid ""
+"Awarded for being in a cardboard box with someone else for\n"
+"at least $1 hours and moving over $3m during that time\n"
+"(Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd1420
+msgid ""
+"Awarded for trading staff over $1 times (Heroism\n"
+"increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd1520
+msgid ""
+"Awarded for generously giving over $1 weapons/items to\n"
+"other players (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd1620
+msgid ""
+"\n"
+"Awarded for completing all missions in both SINGLE and CO-OPS (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd1720
+msgid ""
+"\n"
+"Awarded for completing all missions with Rank A or better in both SINGLE and CO-OPS (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd1820
+msgid ""
+"\n"
+"Awarded for completing all missions with Rank S in both SINGLE and CO-OPS (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd1920
+#: slot/0x00e6ef4c/0x8caeae/0xfd1a20
+#, c-format
+msgid ""
+"\n"
+"Awarded for completing over $1% of OUTER OPS missions (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd1b20
+msgid ""
+"\n"
+"Awarded for completing all OUTER OPS missions (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd1c20
+msgid ""
+"\n"
+"Awarded for completing over $1 missions (Heroism increases $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd1d20
+msgid ""
+"Awarded for tagging over $1 enemies in Enemy Search\n"
+"(Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd3420
+msgid ""
+"Awarded for enduring over $1 hours in a cardboard box\n"
+"(Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd3520
+msgid "Awarded for taking over $1 photos (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd3620
+msgid ""
+"\n"
+"Awarded for bravely completing $1 missions naked (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd3720
+msgid ""
+"Awarded for sending over $1 CO-OPS messages (Heroism\n"
+"increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd3820
+#: slot/0x00e6ef4c/0x8caeae/0xfd3920
+#: slot/0x00e6ef4c/0x8caeae/0xfd3a20
+msgid ""
+"\n"
+"Awarded for performing Fulton Recoveries on over $1\n"
+"people (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd3b20
+#: slot/0x00e6ef4c/0x8caeae/0xfd3c20
+msgid ""
+"\n"
+"Awarded for getting over $1 mech parts (Heroism increases $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd3d20
+msgid ""
+"\n"
+"Awarded for getting $1 or more mech parts (Heroism increases $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd5420
+#: slot/0x00e6ef4c/0x8caeae/0xfd5520
+#: slot/0x00e6ef4c/0x8caeae/0xfd5620
+msgid ""
+"\n"
+"Awarded for hunting over $1 monsters (Heroism increases $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd5720
+#: slot/0x00e6ef4c/0x8caeae/0xfd5820
+#, c-format
+msgid ""
+"\n"
+"Awarded for receiving over $1% of all insignias (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd5920
+msgid ""
+"\n"
+"Awarded for receiving all insignias (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd5a20
+#: slot/0x00e6ef4c/0x8caeae/0xfd5b20
+#, c-format
+msgid ""
+"\n"
+"Awarded for receiving $1% of all codenames (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd5c20
+msgid ""
+"\n"
+"Awarded for receiving all codenames (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd5d20
+msgid ""
+"\n"
+"Awarded for forming an all-female MSF team (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd7420
+msgid ""
+"\n"
+"Awarded for developing all items (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd7520
+msgid ""
+"\n"
+"Awarded for developing all weapons (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd7620
+msgid ""
+"\n"
+"Awarded for capturing all mechs (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd7720
+msgid ""
+"\n"
+"Awarded for attaining the maximum level for all handguns (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd7820
+msgid ""
+"\n"
+"Awarded for attaining the maximum level for all submachine guns (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd7920
+msgid ""
+"\n"
+"Awarded for attaining the maximum level for all shotguns (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd7a20
+msgid ""
+"\n"
+"Awarded for attaining the maximum level for all assault rifles (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd7b20
+msgid ""
+"\n"
+"Awarded for attaining the maximum level for all sniper rifles (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd7c20
+msgid ""
+"\n"
+"Awarded for attaining the maximum level for all machine guns (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd7d20
+msgid ""
+"\n"
+"Awarded for attaining the maximum level for all missile and rocket weapons (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd9420
+msgid ""
+"\n"
+"Awarded for attaining the maximum level for all throwing weapons (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd9520
+msgid ""
+"\n"
+"Awarded for attaining the maximum level for all placeable weapons (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd9620
+msgid ""
+"\n"
+"Awarded for attaining the maximum level for the stun rod (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd9720
+msgid ""
+"\n"
+"Awarded for attaining the maximum level for all weapons (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd9820
+msgid ""
+"\n"
+"Awarded for improving Mother Base to the final stage of development (Heroism increases by $2). "
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd9920
+msgid ""
+"\n"
+"Awarded for pursuing all development at Mother Base to the final stage (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd9a20
+msgid ""
+"\n"
+"Awarded for first battle in a versus game (Heroism\n"
+"increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfd9b20
+#: slot/0x00e6ef4c/0x8caeae/0xfd9c20
+#: slot/0x00e6ef4c/0x8caeae/0xfd9d20
+msgid ""
+"\n"
+"Awarded for playing over $1 VS matches (Heroism increases by $2). "
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfdb720
+#: slot/0x00e6ef4c/0x8caeae/0xfdb820
+#: slot/0x00e6ef4c/0x8caeae/0xfdb920
+msgid ""
+"\n"
+"Awarded for winning over $1 VS matches (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfdbd20
+msgid ""
+"\n"
+"Awarded for winning $1 matches under Deathmatch (DM) rules (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfdd420
+msgid ""
+"\n"
+"Awarded for winning $1 matches under Team Deathmatch (TDM) rules (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfdd520
+msgid ""
+"\n"
+"Awarded for winning $1 matches under Base (BASE) rules (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfdd620
+msgid ""
+"\n"
+"Awarded for winning $1 matches under Capture (CAP) rules (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfdd720
+#: slot/0x00e6ef4c/0x8caeae/0xfdd820
+#: slot/0x00e6ef4c/0x8caeae/0xfdd920
+msgid ""
+"\n"
+"Awarded for performing over $1 kills, sleeps,\n"
+"and knockouts in VS (Heroism increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0x8caeae/0xfdda20
+#: slot/0x00e6ef4c/0x8caeae/0xfddb20
+#: slot/0x00e6ef4c/0x8caeae/0xfddc20
+msgid ""
+"Awarded for getting $1 or more kills in a row in VS (Heroism\n"
+"increases by $2)."
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0x00b421
+#: slot/0x00e6ef4c/0xb906b5/0x00b521
+#: slot/0x00e6ef4c/0xb906b5/0xfddd20
+msgid "VS Headshot Streak Master"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0x00b621
+#: slot/0x00e6ef4c/0xb906b5/0x00b721
+#: slot/0x00e6ef4c/0xb906b5/0x00b821
+msgid "Base Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0x00b921
+#: slot/0x00e6ef4c/0xb906b5/0x00ba21
+#: slot/0x00e6ef4c/0xb906b5/0x00bb21
+#: slot/0x00e6ef4c/0xb906b5/0xfdd620
+msgid "Capture Pro"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0x00bc21
+msgid "VS Fulton Recovery Specialist (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0x00bd21
+msgid "VS Fulton Recovery Specialist (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0x00d421
+msgid "VS Fulton Recovery Specialist (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcb520
+msgid "Stealth Master (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcb620
+msgid "Stealth Master (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcb720
+msgid "Stealth Master (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcb820
+msgid "Master of Non-Lethal Force (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcb920
+msgid "Master of Non-Lethal Force (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcba20
+msgid "Master of Non-Lethal Force (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcbb20
+msgid "Hold-Up Master (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcbc20
+msgid "Hold-Up Master (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcbd20
+msgid "Hold-Up Master (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcd420
+msgid "No-Recovery Master (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcd520
+msgid "No-Recovery Master (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcd620
+msgid "No-Recovery Master (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcd720
+msgid "CQC Master (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcd820
+msgid "CQC Master (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcd920
+msgid "CQC Master (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcda20
+msgid "Headshot Master (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcdb20
+msgid "Headshot Master (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcdc20
+msgid "Headshot Master (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcdd20
+msgid "CO-OPS Specialist (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcf420
+msgid "CO-OPS Specialist (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcf520
+msgid "CO-OPS Specialist (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcf620
+msgid "Medic Master (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcf720
+msgid "Medic Master (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcf820
+msgid "Medic Master (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcf920
+msgid "CO-OP In Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcfa20
+msgid "Snake Formation Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcfb20
+msgid "Sync Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcfc20
+msgid "Item Sharing Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfcfd20
+msgid "Love Box Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd1420
+msgid "Personnel Manager"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd1520
+msgid "Present Enthusiast"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd1620
+msgid "Mission Completion Specialist (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd1720
+msgid "Mission Completion Specialist (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd1820
+msgid "Mission Completion Specialist (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd1920
+msgid "OUTER OPS Specialist (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd1a20
+msgid "OUTER OPS Specialist (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd1b20
+msgid "OUTER OPS Specialist (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd1c20
+msgid "Mission Completion Pro"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd1d20
+msgid "Enemy Search Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd3420
+msgid "Cardboard Box Lover"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd3520
+msgid "Photo Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd3620
+msgid "Naked Enthusiast"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd3720
+msgid "CO-OPS Messages Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd3820
+msgid "Fulton Recovery Specialist (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd3920
+msgid "Fulton Recovery Specialist (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd3a20
+msgid "Fulton Recovery Specialist (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd3b20
+msgid "Parts Recovery Specialist (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd3c20
+msgid "Parts Recovery Specialist (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd3d20
+msgid "Parts Recovery Specialist (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd5420
+msgid "Monster Hunting Specialist (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd5520
+msgid "Monster Hunting Specialist (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd5620
+msgid "Monster Hunting Specialist (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd5720
+msgid "Insignia Collection Specialist (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd5820
+msgid "Insignia Collection Specialist (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd5920
+msgid "Insignia Collection Specialist (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd5a20
+msgid "Codename Collection Specialist (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd5b20
+msgid "Codename Collection Specialist (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd5c20
+msgid "Codename Collection Specialist (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd5d20
+msgid "WAC Coordinator"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd7420
+msgid "Item Creator"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd7520
+msgid "Weapon Creator"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd7620
+msgid "Mech Hunting Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd7720
+msgid "Handgun Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd7820
+msgid "Submachine Gun Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd7920
+msgid "Shotgun Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd7a20
+msgid "Assault Rifle Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd7b20
+msgid "Sniper Rifle Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd7c20
+msgid "Machine Gun Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd7d20
+msgid "Missile Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd9420
+msgid "Grenade Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd9520
+msgid "Explosives Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd9620
+msgid "Stun Rod Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd9720
+msgid "Weapon Master"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd9820
+msgid "Mother Base Development Specialist"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd9920
+msgid "Mother Base Master"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd9a20
+msgid "VS Rookie"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd9b20
+msgid "VS Enthusiast (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd9c20
+msgid "VS Enthusiast (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfd9d20
+msgid "VS Enthusiast (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfdb720
+msgid "VS Master (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfdb820
+msgid "VS Master (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfdb920
+msgid "VS Master (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfdbd20
+msgid "Deathmatch Master"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfdd420
+msgid "Team Deathmatch Master"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfdd520
+msgid "Base Master"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfdd720
+msgid "VS Battle Master (Rank C)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfdd820
+msgid "VS Battle Master (Rank B)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfdd920
+msgid "VS Battle Master (Rank A)"
+msgstr ""
+
+#: slot/0x00e6ef4c/0xb906b5/0xfdda20
+#: slot/0x00e6ef4c/0xb906b5/0xfddb20
+#: slot/0x00e6ef4c/0xb906b5/0xfddc20
+msgid "VS Kill Streak Master"
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000001
+msgid ""
+"A non-lethal weapon that delivers a 1.5 million volt electric shock to the target, overloading their motor neurons and rendering them unable to move. Shocking the target long enough will knock them unconscious.\n"
+"\n"
+"By making use of conducting materials (water, metal), it can be used to shock more distant targets as well.\n"
+"\n"
+"Charging the rod takes a short while, so it cannot be used multiple times in a row. Keep this in mind when facing multiple enemies.\n"
+"\n"
+"Useful when going for a no-kill completion, or when ammo is running short for your other weapons."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000002
+#: slot/0x00edcb1e/0x017f53/0x000003
+#: slot/0x00edcb1e/0x017f53/0x000004
+#: slot/0x00edcb1e/0x017f53/0x000005
+#: slot/0x00edcb1e/0x017f53/0x000006
+msgid ""
+"A special handgun developed by the U.S. Navy for its Special Forces units. It is furnished with a slide lock mechanism to maximize the noise-canceling effect when equipped with a suppressor. For this reason, it is limited to single-shot manual fire.\n"
+"\n"
+"For ammo, the Mod 0 uses a special tranquilizer round that puts enemies to sleep. A good partner to have at your side when going for a no-kill completion."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000007
+#: slot/0x00edcb1e/0x017f53/0x000008
+#: slot/0x00edcb1e/0x017f53/0x000009
+#: slot/0x00edcb1e/0x017f53/0x00000a
+msgid ""
+"A special pistol developed by technical genius Sigint. Equipped with a built-in suppressor so that the suppression effect never wears off.\n"
+"\n"
+"Fires \"LIFE Recovery Rounds\" that restore the LIFE of the target. As such, its use in solo missions is rather limited; its real value is in CO-OPS when fighting alongside teammates."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00000b
+#: slot/0x00edcb1e/0x017f53/0x00000c
+#: slot/0x00edcb1e/0x017f53/0x00000d
+#: slot/0x00edcb1e/0x017f53/0x00000e
+msgid ""
+"A special pistol developed by technical genius Sigint. Equipped with a built-in suppressor so that the suppression effect never wears off.\n"
+"\n"
+"Fires \"PSYCHE Recovery Rounds\" that restore the PSYCHE of the target. As such, its use in solo missions is rather limited; its real value is in CO-OPS when fighting alongside teammates."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00000f
+msgid ""
+"The primary automatic pistol of the U.S. military. Uses large-caliber .45 ammunition. It is easy to modify, and has thus become popular as a base for custom guns.\n"
+"\n"
+"The .45 ammo gives it high stopping power, making it an effective tool for halting enemy advances."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000010
+msgid ""
+"The primary automatic pistol of the U.S. military. Uses large-caliber .45 ammunition. It is easy to modify, and has thus become popular as a base for custom guns.\n"
+"\n"
+"The .45 ammo gives it high stopping power, making it an effective tool for halting enemy advances.\n"
+"\n"
+"Equipped with a limited-use suppressor. The suppressor will eventually wear out, so use it prudently."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000011
+msgid ""
+"A custom model of the M1911A1, incorporating high-precision parts for improved all-around performance.\n"
+"\n"
+"The improved firing precision allows users to pinpoint enemies' vital areas, increasing the chances of dealing heavy damage."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000012
+#: slot/0x00edcb1e/0x017f53/0x000013
+msgid ""
+"A custom model of the M1911A1, incorporating high-precision parts for improved all-around performance.\n"
+"\n"
+"The improved firing precision allows users to pinpoint enemies' vital areas, increasing the chances of dealing heavy damage.\n"
+"\n"
+"Equipped with a limited-use suppressor. The suppressor will eventually wear out, so use it prudently."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000014
+msgid ""
+"The primary automatic pistol of the Soviet military and other Warsaw Pact forces. The gun itself is extremely lightweight, and the ammo, while medium in caliber, is more than powerful enough in practice.\n"
+"\n"
+"The PM is easy to handle and allows the user to move freely, reducing the risk of alerting the enemy. A good weapon for a sneaking mission."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000015
+#: slot/0x00edcb1e/0x017f53/0x000016
+msgid ""
+"A variation on the PM with a built-in suppressor, meaning the suppression effect never wears off.\n"
+"\n"
+"The PB's shots are just as powerful as the PM's with less risk of being heard, making this an even better weapon for a sneaking mission."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000017
+msgid ""
+"The world's premiere combat revolver, a product of the U.S.A. It combines smooth action with high precision and dependability, earning it a large fan base among combat shooters.\n"
+"\n"
+"The M19 uses powerful .357 Magnum rounds, which makes for high recoil but gives it enough force to knock enemies off their feet. "
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000018
+msgid ""
+"The world's premiere combat revolver, a product of the U.S.A. It combines smooth action with high precision and dependability, earning it a large fan base among combat shooters.\n"
+"\n"
+"The M19 uses powerful .357 Magnum rounds, which means high recoil but enough force to knock enemies off their feet.\n"
+"\n"
+"The barrel has been extended for improved accuracy."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000019
+msgid ""
+"The world's premiere combat revolver, a product of the U.S.A. It combines smooth action with high precision and dependability, earning it a large fan base among combat shooters.\n"
+"\n"
+"The M19 uses powerful .357 Magnum rounds, which means high recoil but enough force to knock enemies off their feet.\n"
+"\n"
+"\n"
+"The addition of a laser sight allows for easier targeting."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00001a
+msgid ""
+"A combat pistol modified to launch small grenades. Based on a flare gun used by the German Army during the Second World War.\n"
+"\n"
+"Small enough to wield with one hand and holding only a single shot, the Kampfpistole may look somewhat wimpy, but it has enough power to get the job done. It can even hold its own against armored combat vehicles."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00001b
+msgid ""
+"A combat pistol modified to launch small grenades. Based on a flare gun used by the German army during the Second World War.\n"
+"\n"
+"Small enough to wield with one hand and holding only a single shot, the Kampfpistole may look somewhat wimpy, but it has enough power to get the job done. It can even hold its own against armored combat vehicles.\n"
+"\n"
+"A rifle stock has been added for improved accuracy."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00001c
+msgid ""
+"An automatic pistol developed by the German Empire during the First World War. Large numbers were produced for use in Germany as well as for overseas export, most notably to China, where it became the favored weapon of bandit gangs.\n"
+"\n"
+"The C96 handles much like an extremely compact carbine rifle; its ammo produces strong recoil but boasts impressive stopping power. All in all, a pistol best suited to experienced, confident players."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00001d
+msgid ""
+"An automatic pistol developed by the German Empire during the First World War. Large numbers were produced for use in Germany as well as for overseas export, most notably to China, where it became the favored weapon of bandit gangs.\n"
+"\n"
+"This model has been modified to enable full-auto fire. It is difficult to control, but very powerful when mastered.  "
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00001e
+msgid ""
+"An automatic pistol developed by the German Empire during the First World War. Large numbers were produced for use in Germany as well as for overseas export, most notably to China, where it became the favored weapon of bandit gangs.\n"
+"\n"
+"This is a full-auto fire model - difficult to control, but very powerful when mastered.  \n"
+"\n"
+"It has been modified to accommodate larger magazines, providing it with even greater firepower."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00001f
+#: slot/0x00edcb1e/0x017f53/0x000020
+#: slot/0x00edcb1e/0x017f53/0x000021
+msgid ""
+"This pistol, a unique R&D Team creation, is used when requesting support supplies from Mother Base. It fires a marker that indicates the supply drop location.\n"
+"\n"
+"Useful in missions where supplies are difficult to procure on site."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000022
+#: slot/0x00edcb1e/0x017f53/0x000023
+#: slot/0x00edcb1e/0x017f53/0x000024
+msgid ""
+"This pistol, a unique R&D Team creation, is used when requesting support strikes from Mother Base. It fires a marker that indicates the strike location.\n"
+"\n"
+"Use it to gain the upper hand in combat by taking advantage of Mother Base's firepower."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000025
+msgid ""
+"A delicious fruit (in botanical terms, technically a vegetable) from the plantations of Costa Rica. Low in calories and high in vitamins, minerals, and dietary fiber, it is an excellent source of nutrition. Many people know the banana chiefly as a snack or dessert or as an ingredient in baked goods, but in some countries and regions it is a staple food.\n"
+"\n"
+"Its shape vaguely resembles that of a gun. With a bit of skill, you could even use it to hold someone up...maybe."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000029
+msgid ""
+"A double-barreled shotgun used for hunting. The design is outdated and it only holds two shells at a time, but its high reliability has enabled it to withstand the test of time.\n"
+"\n"
+"Although the shells are powerful enough to send enemies flying with a close-range hit, it only has the range of a pistol. Best suited to players who excel in close-quarters fighting."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00002a
+msgid ""
+"A double-barreled shotgun used for hunting. The design is outdated and it only holds two shells at a time, but its high reliability has enabled it to withstand the test of time.\n"
+"\n"
+"The barrel has been sawed off short for easier handling. This modification also increases the effective range of AUTO AIM and makes the gun an even better match for close-quarters combat."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00002b
+#: slot/0x00edcb1e/0x017f53/0x00002c
+#: slot/0x00edcb1e/0x017f53/0x00002d
+msgid ""
+"A double-barreled shotgun used for hunting. The design is outdated and it only holds two shells at a time, but its high reliability has enabled it to withstand the test of time.\n"
+"\n"
+"Modifications to the chamber have made it easier to load, reducing reload time and making the gun even more perfect for close-quarters combat."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00002e
+msgid ""
+"A sawed-off, double-barreled shotgun modified to fire special non-lethal rubber slugs.\n"
+"\n"
+"A must-have for players going for a no-kill completion."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00002f
+#: slot/0x00edcb1e/0x017f53/0x000030
+msgid ""
+"A sawed-off, double-barreled shotgun modified to fire special non-lethal rubber slugs.\n"
+"\n"
+"The chamber has been modified for easier loading and shorter reload time."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000031
+msgid ""
+"A pump-action shotgun. Shells are loaded and ejected through the same opening. This makes the gun sturdier by reducing the number of apertures while also allowing for a more slender and hence lighter frame - almost a kilogram lighter than similar products of the same generation. It is popular among military, law enforcement, and civilian users alike.\n"
+"\n"
+"While not big on ammo capacity, it packs plenty of firepower - good for those unexpected close encounters."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000032
+msgid ""
+"A pump-action shotgun. Shells are loaded and ejected through the same opening. This makes the gun sturdier by reducing the number of apertures while also allowing for a more slender and hence lighter frame - almost a kilogram lighter than similar products of the same generation. It is popular among military, law enforcement, and civilian users alike.\n"
+"\n"
+"The tube magazine has been extended to increase its ammo capacity."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000033
+#: slot/0x00edcb1e/0x017f53/0x000034
+msgid ""
+"A pump-action shotgun. Shells are loaded and ejected through the same opening. This makes the gun sturdier by reducing the number of apertures while also allowing for a more slender and hence lighter frame - almost a kilogram lighter than similar products of the same generation. It is popular among military, law enforcement, and civilian users alike.\n"
+"\n"
+"Equipped with a limited-use suppressor. The suppressor will eventually wear out, so use it prudently."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000035
+msgid ""
+"A pump-action shotgun. Shells are loaded and ejected through the same opening. This makes the gun sturdier by reducing the number of apertures while also allowing for a more slender and hence lighter frame - almost a kilogram lighter than similar products of the same generation. It is popular among military, law enforcement, and civilian users alike.\n"
+"\n"
+"Fitted with a rifle stock for improved firing precision."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000036
+msgid ""
+"A pump-action shotgun. Shells are loaded and ejected through the same opening. This makes the gun sturdier by reducing the number of apertures while also allowing for a more slender and hence lighter frame - almost a kilogram lighter than similar products of the same generation. It is popular among military, law enforcement, and civilian users alike.\n"
+"\n"
+"Fitted with a rifle stock and a scope and adapted to fire slugs. These modifications have improved its long-range firing precision to the point where it can even be used as a substitute for a sniper rifle in some conditions."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000037
+msgid ""
+"An automatic combat shotgun designed with versatility in mind. Distinguished by its solid frame and high-speed semi-auto fire.\n"
+"\n"
+"Nothing can match its blistering firepower in a close-range battle; on the down side, its sheer weight encumbers the user and makes it slow and unwieldy to handle. In the hands of a skilled and confident user, the SPAS is truly a force to be reckoned with."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000038
+#: slot/0x00edcb1e/0x017f53/0x000039
+msgid ""
+"An automatic combat shotgun designed with versatility in mind. Distinguished by its solid frame and high-speed semi-auto fire.\n"
+"\n"
+"The tube magazine has been extended to increase its ammo capacity.\n"
+"\n"
+"Nothing can match its blistering firepower in a close-range battle; on the down side, its sheer weight encumbers the user and makes it slow and unwieldy to handle. In the hands of a skilled and confident user, the SPAS is truly a force to be reckoned with."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00003a
+msgid ""
+"A fully automatic shotgun, created as a prototype to explore the potential of next-generation personal close-combat weapons. It fires a specially designed 12-gauge shell that allows for both high ammo capacity and a high rate of fire.\n"
+"\n"
+"This is the final word in shotguns, a gale-force barrage of lead in a compact package. If you're looking for maximum attack power at point-blank range, look no further - this is the weapon for you."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00003d
+msgid ""
+"One of the very first submachine guns ever produced. In its long and storied history, it has seen use by everyone from armies and police forces to gangsters, guerrillas and Chinese warlords. \n"
+"\n"
+"It uses the same large-caliber ammo as the M1911. While its rate of fire is nothing spectacular, it makes each shot count with devastating firepower.\n"
+"\n"
+"The M1928A1's elegant design makes it easy to handle, in effect helping to improve its accuracy.\n"
+"\n"
+"However, it is unusually heavy for a submachine gun and takes two hands to wield properly; thus, it cannot be used with a shield."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00003e
+msgid ""
+"One of the very first submachine guns ever produced. In its long and storied history, it has seen use by everyone from armies and police forces to gangsters, guerrillas and Chinese warlords. \n"
+"\n"
+"It uses the same large-caliber ammo as the M1911. While its rate of fire is nothing spectacular, it makes each shot count with devastating firepower.\n"
+"\n"
+"The M1928A1's elegant design makes it easy to handle, in effect helping to improve its accuracy.\n"
+"\n"
+"However, it is unusually heavy for a submachine gun and takes two hands to wield properly; thus, it cannot be used with a shield.\n"
+"\n"
+"This model has been modified with an added grip, giving it improved control and accuracy during sustained fire."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00003f
+msgid ""
+"One of the very first submachine guns ever produced. In its long and storied history, it has seen use by everyone from armies and police forces to gangsters, guerrillas and Chinese warlords. \n"
+"\n"
+"It uses the same large-caliber ammo as the M1911. While its rate of fire is nothing spectacular, it makes each shot count with devastating firepower.\n"
+"\n"
+"The M1928A1's elegant design makes it easy to handle, in effect helping to improve its accuracy.\n"
+"\n"
+"However, it is unusually heavy for a submachine gun and takes two hands to wield properly; thus, it cannot be used with a shield.\n"
+"\n"
+"This model has been modified to accommodate a drum magazine, significantly boosting its ammo capacity. Hence, it does not need to be reloaded as often, giving it a tactical advantage over models that use standard magazines."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000040
+msgid ""
+"A miniature light submachine gun developed for Special Forces use, notable for its extremely compact, highly portable design.\n"
+"\n"
+"The M10's extremely high rate of fire allows the user to pelt the target with a barrage of well-placed shots, giving it impressive stopping power. This power comes at the expense of accuracy, however, as the gun's small size is ill-balanced against its high recoil.\n"
+"\n"
+"It takes a great deal of practice to bring out this submachine gun's full capabilities; the best approach is to keep using it until you are thoroughly familiar with how it handles. "
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000041
+msgid ""
+"A miniature light machine gun developed for Special Forces use, notable for its extremely compact, highly portable design.\n"
+"\n"
+"The M10's extremely high rate of fire allows the user to pelt the target with a barrage of well-placed shots, giving it impressive stopping power. This power comes at the expense of accuracy, however, as the gun's small size is ill-balanced against its high recoil.\n"
+"\n"
+"It takes a great deal of practice to bring out this submachine gun's full capabilities; the best approach is to keep using it until you are thoroughly familiar with how it handles. \n"
+"\n"
+"Equipped with a limited-use suppressor. The suppressor will eventually wear out, so use it prudently."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000042
+msgid ""
+"A miniature light machine gun developed for Special Forces use, notable for its extremely compact, highly portable design.\n"
+"\n"
+"The M10's extremely high rate of fire allows the user to pelt the target with a barrage of well-placed shots, giving it impressive stopping power. This power comes at the expense of accuracy, however, as the gun's small size is ill-balanced against its high recoil.\n"
+"\n"
+"It takes a great deal of practice to bring out this submachine gun's full capabilities; the best approach is to keep using it until you are thoroughly familiar with how it handles. \n"
+"\n"
+"This model is fitted with a barrel jacket, slightly increasing the weight and shifting the center of gravity forward. The effect is to reduce muzzle jump, improving the gun's firing accuracy."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000043
+msgid ""
+"A submachine gun created as an offshoot of the G3, the mainstay rifle of the West German military. It uses European standard 9mm ammo with more or less average firepower.\n"
+"\n"
+"Unlike most submachine guns, the MP5A2 uses a closed-bolt firing mechanism, which puts it a cut above its competitors in terms of accuracy. This higher accuracy allows for precision targeting of specific body parts at a greater distance than other submachine guns, giving it an almost assault rifle-like feel. A solid choice for close- to mid-range combat."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000044
+msgid ""
+"A submachine gun created as an offshoot of the G3, the mainstay rifle of the West German military. It uses European standard 9mm ammo with more or less average firepower.\n"
+"\n"
+"Unlike most submachine guns, the MP5A2 uses a closed-bolt firing mechanism, which puts it a cut above its competitors in terms of accuracy. This higher accuracy allows for precision targeting of specific body parts at a greater distance than other submachine guns, giving it an almost assault rifle-like feel. A solid choice for close- to mid-range combat.\n"
+"\n"
+"Equipped with a limited-use suppressor. The suppressor will eventually wear out, so use it prudently."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000045
+msgid ""
+"A submachine gun created as an offshoot of the G3, the mainstay rifle of the West German military. It uses European standard 9mm ammo with more or less average firepower.\n"
+"\n"
+"This model features a built-in suppressor, so the suppression effect never wears off.\n"
+"\n"
+"Unlike most submachine guns, the MP5SD2 uses a closed-bolt firing mechanism, which puts it a cut above its competitors in terms of accuracy. This higher accuracy allows for precision targeting of specific body parts at a greater distance than other submachine guns, giving it an almost assault rifle-like feel. A solid choice for close- to mid-range combat."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000046
+msgid ""
+"A Czechoslovakia-made submachine gun developed as a self-defense weapon for vehicle crews. Its ultra-compact design is tailored for use in cramped vehicle compartments.\n"
+"\n"
+"The Uz61's small frame makes it incredibly easy to handle and a wide effective AUTO AIM range. While it boasts low recoil and a relatively high rate of fire, its ammunition is rather underpowered, requiring multiple shots and a careful aim to be effective."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000047
+#: slot/0x00edcb1e/0x017f53/0x000048
+msgid ""
+"A Czechoslovakia-made submachine gun developed as a self-defense weapon for vehicle crews. Its ultra-compact design is tailored for use in cramped vehicle compartments.\n"
+"\n"
+"The Uz61's small frame makes it incredibly easy to handle and gives it a wide AUTO AIM range. While it boasts low recoil and a relatively high rate of fire, its ammunition is rather underpowered, requiring multiple shots and a careful aim to be effective.\n"
+"\n"
+"Equipped with a limited-use suppressor. The suppressor will eventually wear out, so use it prudently."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00004c
+#: slot/0x00edcb1e/0x017f53/0x00004d
+msgid ""
+"An advanced, lightweight assault rifle developed by the U.S. Army in a departure from the traditional large-caliber infantry rifle. Also known as the \"black rifle\" due to the color of its frame, which is largely made of plastic. Notable for its use in the Vietnam War, where it made a name for itself with its superior performance.\n"
+"\n"
+"The M16A1 uses small-caliber, low-recoil ammunition, and as a result its firing accuracy is truly impressive."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00004e
+msgid ""
+"An advanced, lightweight assault rifle developed by the U.S. Army in a departure from the traditional large-caliber infantry rifle. Also known as the \"black rifle\" due to the color of its frame, which is largely made of plastic. Notable for its use in the Vietnam War, where it made a name for itself with its superior performance.\n"
+"\n"
+"The M16A1 uses small-caliber, low-recoil ammunition, and as a result its firing accuracy is truly impressive.\n"
+"\n"
+"Equipped with a limited-use suppressor. The suppressor will eventually wear out, so use it prudently."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00004f
+msgid ""
+"An advanced, lightweight assault rifle developed by the U.S. Army in a departure from the traditional large-caliber infantry rifle. Also known as the \"black rifle\" due to the color of its frame, which is largely made of plastic. Notable for its use in the Vietnam War, where it made a name for itself with its superior performance.\n"
+"\n"
+"The M16A1 uses small-caliber, low-recoil ammunition, and as a result its firing accuracy is truly impressive.\n"
+"\n"
+"This model has been modified with an extra underbarrel shotgun, greatly increasing its firepower and making it an effective weapon against both close- and long-range targets."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000050
+#: slot/0x00edcb1e/0x017f53/0x00005b
+msgid ""
+"The assault pistol that The Boss, the Mother of Special Forces and mentor of Naked Snake, carried with her into her final battle. It is essentially a truncated M16 that has been fully revamped with custom parts.\n"
+"\n"
+"Because the Patriot fires rifle rounds from a pistol-sized frame, it is extremely difficult to control, bucking like a wild bronco in the user's hand.\n"
+"\n"
+"It never runs out of bullets - perhaps, as some say, because The Boss left a piece of herself inside it."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000051
+msgid ""
+"An advanced, lightweight assault rifle developed by the U.S. Army in a departure from the traditional large-caliber infantry rifle. Also known as the \"black rifle\" due to the color of its frame, which is largely made of plastic. Notable for its use in the Vietnam War, where it made a name for itself with its superior performance.\n"
+"\n"
+"The M16A1 uses small-caliber, low-recoil ammunition, and as a result its firing accuracy is truly impressive.\n"
+"\n"
+"This model has been modified with an extra underbarrel shotgun, greatly increasing its firepower and making it an effective weapon against both close- and long-range targets.\n"
+"\n"
+"\n"
+"The addition of a laser sight allows for easier targeting."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000053
+msgid ""
+"An advanced, lightweight assault rifle developed by the U.S. Army in a departure from the traditional large-caliber infantry rifle. Also known as the \"black rifle\" due to the color of its frame, which is largely made of plastic. Notable for its use in the Vietnam War, where it made a name for itself with its superior performance.\n"
+"\n"
+"The M16A1 uses small-caliber, low-recoil ammunition, and as a result its firing accuracy is truly impressive.\n"
+"\n"
+"A grenade launcher has been added to this model, improving its performance in combat against groups of enemies and larger, armored targets."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000054
+#: slot/0x00edcb1e/0x017f53/0x000055
+msgid ""
+"An advanced, lightweight assault rifle developed by the U.S. Army in a departure from the traditional large-caliber infantry rifle. Also known as the \"black rifle\" due to the color of its frame, which is largely made of plastic. Notable for its use in the Vietnam War, where it made a name for itself with its superior performance.\n"
+"\n"
+"The M16A1 uses small-caliber, low-recoil ammunition, and as a result its firing accuracy is truly impressive.\n"
+"\n"
+"A grenade launcher has been added to this model, improving its performance in combat against groups of enemies and larger, armored targets.\n"
+"\n"
+"\n"
+"The addition of a laser sight allows for easier targeting."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000057
+msgid ""
+"An advanced, lightweight assault rifle developed by the U.S. Army in a departure from the traditional large-caliber infantry rifle. Also known as the \"black rifle\" due to the color of its frame, which is largely made of plastic. Notable for its use in the Vietnam War, where it made a name for itself with its superior performance.\n"
+"\n"
+"The M16A1 uses small-caliber, low-recoil ammunition, and as a result its firing accuracy is truly impressive.\n"
+"\n"
+"A smoke grenade launcher has been added to this model, which not only increases its direct attack power but also degrades the enemy's ability to track and engage targets, resulting in a much more versatile weapon."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000058
+#: slot/0x00edcb1e/0x017f53/0x000059
+msgid ""
+"An advanced, lightweight assault rifle developed by the U.S. Army in a departure from the traditional large-caliber infantry rifle. Also known as the \"black rifle\" due to the color of its frame, which is largely made of plastic. Notable for its use in the Vietnam War, where it made a name for itself with its superior performance.\n"
+"\n"
+"The M16A1 uses small-caliber, low-recoil ammunition, and as a result its firing accuracy is truly impressive.\n"
+"\n"
+"A smoke grenade launcher has been added to this model, which not only increases its direct attack power but also degrades the enemy's ability to track and engage targets, resulting in a much more versatile weapon.\n"
+"\n"
+"\n"
+"The addition of a laser sight allows for easier targeting."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00005c
+msgid ""
+"A carbine offshoot of the M16, developed for use by commandos. It takes the superior capabilities of the original M16 and puts them into a lighter, more compact package. These qualities make it ideal for extended solo missions; as such, it is the weapon of choice for many Special Forces units.\n"
+"\n"
+"The M653's easy handling allows for a more stable aim, resulting in a high firing accuracy. "
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00005d
+msgid ""
+"A carbine offshoot of the M16, developed for use by commandos. It takes the superior capabilities of the original M16 and puts them into a lighter, more compact package. These qualities make it ideal for extended solo missions; as such, it is the weapon of choice for many Special Forces units.\n"
+"\n"
+"The M653's easy handling allows for a more stable aim, resulting in a high firing accuracy. \n"
+"\n"
+"Equipped with a limited-use suppressor. The suppressor will eventually wear out, so use it prudently."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00005e
+#: slot/0x00edcb1e/0x017f53/0x00005f
+msgid ""
+"A carbine offshoot of the M16, developed for use by commandos. It takes the superior capabilities of the original M16 and puts them into a lighter, more compact package. These qualities make it ideal for extended solo missions; as such, it is the weapon of choice for many Special Forces units.\n"
+"\n"
+"The M653's easy handling allows for a more stable aim, resulting in a high firing accuracy. \n"
+"\n"
+"A grenade launcher has been added to this model, improving its performance in combat against groups of enemies and larger, armored targets."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000060
+#: slot/0x00edcb1e/0x017f53/0x000061
+msgid ""
+"A carbine offshoot of the M16, developed for use by commandos. It takes the superior capabilities of the original M16 and puts them into a lighter, more compact package. These qualities make it ideal for extended solo missions; as such, it is the weapon of choice for many Special Forces units.\n"
+"\n"
+"The M653's easy handling allows for a more stable aim, resulting in a high firing accuracy. \n"
+"\n"
+"This model has been modified with an extra underbarrel shotgun, greatly increasing its firepower and making it an effective weapon against both close- and long-range targets."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000062
+#: slot/0x00edcb1e/0x017f53/0x000063
+msgid ""
+"A carbine offshoot of the M16, developed for use by commandos. It takes the superior capabilities of the original M16 and puts them into a lighter, more compact package. These qualities make it ideal for extended solo missions; as such, it is the weapon of choice for many Special Forces units.\n"
+"\n"
+"The M653's easy handling allows for a more stable aim, resulting in a high firing accuracy. \n"
+"\n"
+"A smoke grenade launcher has been added to this model, which not only increases its direct attack power but also degrades the enemy's ability to track and engage targets, resulting in a much more versatile weapon."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000064
+msgid ""
+"The primary infantry assault rifle of the Soviet Union, rival superpower to the United States. Supplied by the Soviets to satellite states, allies, and communist revolutionary movements alike, this gun has become the \"poster child\" for armed conflict worldwide.\n"
+"\n"
+"The RK47 is both sturdy and lightweight, but above all its design emphasizes reliability. It uses large-caliber, high-recoil ammo, rendering it somewhat less accurate than its rival the M16. That said, when you need to stop an enemy advance in a hurry, the AK's heavy-hitting firepower can be a godsend."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000065
+msgid ""
+"The primary infantry assault rifle of the Soviet Union, rival superpower to the United States. Supplied by the Soviets to satellite states, allies, and communist revolutionary movements alike, this gun has become the \"poster child\" for armed conflict worldwide.\n"
+"\n"
+"The RK47 is both sturdy and lightweight, but above all its design emphasizes reliability. It uses large-caliber, high-recoil ammo, rendering it somewhat less accurate than its rival the M16. That said, when you need to stop an enemy advance in a hurry, the AK's heavy-hitting firepower can be a godsend.\n"
+"\n"
+"A grenade launcher has been added to this model, improving its performance in combat against groups of enemies and larger, armored targets."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000066
+#: slot/0x00edcb1e/0x017f53/0x00006a
+#: slot/0x00edcb1e/0x017f53/0x00006b
+msgid ""
+"A carbine version of the ADM63, it features a more lightweight design created with airborne and commando units in mind. It is fitted with a large muzzle compensator for improved firing accuracy.\n"
+"\n"
+"The ADM65 is a hidden masterpiece, deftly balancing stopping power with precision and accuracy. Exactly the kind of weapon you want to have with you on a sneaking mission."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000067
+#: slot/0x00edcb1e/0x017f53/0x000068
+msgid ""
+"The primary infantry assault rifle of the Soviet Union, rival superpower to the United States. Supplied by the Soviets to satellite states, allies, and communist revolutionary movements alike, this gun has become the \"poster child\" for armed conflict worldwide.\n"
+"\n"
+"The RK47 is both sturdy and lightweight, but above all its design emphasizes reliability. It uses large-caliber, high-recoil ammo, rendering it somewhat less accurate than its rival the M16. That said, when you need to stop an enemy advance in a hurry, the RK's heavy-hitting firepower can be a godsend.\n"
+"\n"
+"A smoke grenade launcher has been added to this model, which not only increases its direct attack power but also degrades the enemy's ability to track and engage targets, resulting in a much more versatile weapon."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000069
+msgid ""
+"A modified version of the RK47 produced at the request of the Romanian military. The grip is attached to the forestock, giving it improved controllability compared to the original RK during sustained fire.\n"
+"\n"
+"The ADM63 uses the same ammo as the RK and is equally effective at stopping targets in their tracks. A good addition to your arsenal if you anticipate facing an enemy charge."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00006c
+msgid ""
+"A light machine gun (squad support weapon) designed as an modified, expanded version of the RK47. It is similar in performance to the RK, but delivers greater firepower and more reliable operation at the cost of lower accuracy.  It has a longer barrel than the RK, which somewhat reduces shaking during sustained fire. Think of it as a slight heavier, more precise RK.\n"
+"\n"
+"When choosing whether to carry an RK or an RPK, consider the tradeoff between ease of handling and firing accuracy and pick the best gun for your needs."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00006d
+msgid ""
+"A light machine gun (squad support weapon) designed as an modified, expanded version of the RK47. It is similar in performance to the RK, but delivers greater firepower and more reliable operation at the cost of lower accuracy.  It has a longer barrel than the RK, which somewhat reduces shaking during sustained fire. Think of it as a slight heavier, more precise RK.\n"
+"\n"
+"When choosing whether to carry an RK or an RPK, consider the tradeoff between ease of handling and firing accuracy and pick the best gun for your needs.\n"
+"\n"
+"This model has been modified to accommodate a drum magazine, significantly boosting its ammo capacity. Hence, it does not need to be reloaded as often, giving it a tactical advantage over models that use standard magazines."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00006e
+msgid ""
+"A high-performance assault rifle, one of the two mainstays of the West alongside the M16. Solid, powerful, and reliable, the FAL is a very well-rounded weapon. Its chief drawbacks are its large size,  which makes it a bit unwieldy, and the high recoil produced by its high-powered ammunition, which makes it difficult to control during sustained fire.\n"
+"\n"
+"The FAL's highly precise aim allows for AUTO AIM over a wide angle. It is versatile enough to provide stopping power from a distance while still holding its own in a sudden gun battle at close range. "
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00006f
+msgid ""
+"A high-performance assault rifle, one of the two mainstays of the West alongside the M16. Solid, powerful, and reliable, the FAL is a very well-rounded weapon. Its chief drawbacks are its large size,  which makes it a bit unwieldy, and the high recoil produced by its high-powered ammunition, which makes it difficult to control during sustained fire.\n"
+"\n"
+"The FAL's highly precise aim allows for AUTO AIM over a wide angle. This model has also been modified with a shorter barrel for better handling, making it an even more effective weapon in close-range combat."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000070
+msgid ""
+"A high-performance assault rifle, one of the two mainstays of the West alongside the M16. Solid, powerful, and reliable, the FAL is a very well-rounded weapon. Its chief drawbacks are its large size,  which makes it a bit unwieldy, and the high recoil produced by its high-powered ammunition, which makes it difficult to control during sustained fire.\n"
+"\n"
+"The FAL's highly precise aim allows for AUTO AIM over a wide angle. This model has also been fitted with a laser sight, making it quick to aim and even more effective in long-range gun battles."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000071
+msgid ""
+"A newcomer to the assault rifle field. Most of its main components are made of plastic, and it features an advanced bullpup design with the action mechanism situated behind the grip.\n"
+"\n"
+"Design-wise, its compact size makes the SUG easy to handle and recoil easier to absorb. However, it is somewhat lacking in power since it uses the same ammo as the M16.\n"
+"\n"
+"The SUG is easy to control during sustained fire due to its low recoil, improving the user's ability to concentrate fire into a target's vital areas and thus boosting the chances of scoring a critical hit."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000072
+msgid ""
+"A prototype assault rifle currently in development as the next generation of infantry weapon. It uses a newly developed \"caseless\" ammunition whose rounds do not require a metal case.\n"
+"\n"
+"The new ammo makes the G11 incredibly easy to control due to its extremely low recoil. The downside to this is that the bullets themselves are not that powerful. Thus, the key to using the G11 is carefully aiming shots to ensure they hit their intended targets.\n"
+"\n"
+"The G11's snag-free style allows it to be equipped without reducing the camo index significantly, making it well-suited to sneaking missions."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000073
+msgid ""
+"A surviving relic of the age of the samurai, distinguished by its handsome wood finish.\n"
+"\n"
+"While clearly ill-suited for modern warfare, there have been reports of mysterious things happening from time to time when the Tanegashima hits its mark.\n"
+"\n"
+"The most stoic of players might find a place for this in their arsenals...or not."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000089
+msgid "A general purpose machine gun used by the U.S. military and many of its Western allies. It is fed by a 100-round belt-link bandolier, giving it long-lasting firepower in a fight.  However, the weight of this ammo, combined with the weight of the gun itself, makes the M60 difficult to handle. Its true value is in pitched gun battles where the enemy is some distance away."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00008a
+msgid ""
+"A general purpose machine gun used by the U.S. military and many of its Western allies. It is fed by a 100-round belt-link bandolier, giving it long-lasting firepower in a fight.  However, the weight of this ammo, combined with the weight of the gun itself, makes the M60 difficult to handle. Its true value is in pitched gun battles where the enemy is some distance away.\n"
+"\n"
+"Modified to fire armor-piercing rounds, increasing its ability to take down heavily protected targets."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00008b
+#: slot/0x00edcb1e/0x017f53/0x00008c
+msgid ""
+"A general purpose machine gun used by the U.S. military and many of its Western allies. It is fed by a 200-round belt-link bandolier, giving it long-lasting firepower in a fight.  However, the weight of this ammo, combined with the weight of the gun itself, makes the M60 difficult to handle. Its true value is in pitched gun battles where the enemy is some distance away.\n"
+"\n"
+"This model has been fitted with a shorter barrel, making it easier to handle and more user-friendly in close-range combat."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00008d
+msgid ""
+"The M63A1 is a weapons system designed so that it can easily be converted into several different types of weapons - a carbine, an assault rifle, a light machine gun, etc. - using the same set of main components. This is the light machine gun variant.\n"
+"\n"
+"Amazingly light for a machine gun, it ranks top in its class for ease of handling. Moreover, its armor-piercing ammunition gives it plenty of firepower. All in all, an incredibly useful weapon that acts like a machine gun but feels like an assault rifle."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00008e
+#: slot/0x00edcb1e/0x017f53/0x00008f
+msgid ""
+"The M63A1 is a weapons system designed so that it can easily be converted into several different types of weapons - a carbine, an assault rifle, a light machine gun, etc. - using the same set of main components. This is the light machine gun variant.\n"
+"\n"
+"Amazingly light for a machine gun, it ranks top in its class for ease of handling. Moreover, its armor-piercing ammunition gives it plenty of firepower. All in all, an incredibly useful weapon that acts like a machine gun but feels like an assault rifle.\n"
+"\n"
+"This model features a shortened barrel for even better handling. The resulting combination of firepower and portability makes it an even easier weapon to use."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000090
+msgid ""
+"The primary general purpose machine gun of the Soviet army. It is sturdy and dependable, but its weight makes it awkward to wield.\n"
+"\n"
+"The PKM is belt-fed and has a high ammo capacity; it can thus deliver a steady barrage of firepower for a considerable length of time. The gun's superior performance makes it a good weapon for both solo combat and supporting fire in CO-OPS."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000091
+msgid ""
+"The primary general purpose machine gun of the Soviet army. It is sturdy and dependable, but its weight makes it awkward to wield.\n"
+"\n"
+"The PKM is belt-fed and has a high ammo capacity; it can thus deliver a steady barrage of firepower for a considerable length of time. The gun's superior performance makes it a good choice for both solo fighters and support troops in CO-OPS.\n"
+"\n"
+"This model has been modified to increase its ammo capacity, further augmenting its repeat fire capability."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000092
+msgid ""
+"The primary general purpose machine gun of the Soviet army. It is sturdy and dependable, but its weight makes it awkward to wield.\n"
+"\n"
+"The PKM is belt-fed and has a high ammo capacity; it can thus deliver a steady barrage of firepower for a considerable length of time. The gun's superior performance makes it a good choice for both solo fighters and support troops in CO-OPS."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000093
+msgid ""
+"The primary general purpose machine gun of the Soviet army. It is sturdy and dependable, but its weight makes it awkward to wield.\n"
+"\n"
+"The PKM is belt-fed and has a high ammo capacity; it can thus deliver a steady barrage of firepower for a considerable length of time. The gun's superior performance makes it a good choice for both solo fighters and support troops in CO-OPS.\n"
+"\n"
+"This model has been modified to increase its ammo capacity. In fact, it has the highest ammo capacity of any machine gun. A trigger-happy player's dream."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000094
+msgid ""
+"The primary general purpose machine gun of the Soviet army. It is sturdy and dependable, but its weight makes it awkward to wield.\n"
+"\n"
+"The PKM is belt-fed and has a high ammo capacity; it can thus deliver a steady barrage of firepower for a considerable length of time. The gun's superior performance makes it a good choice for both solo fighters and support troops in CO-OPS.\n"
+"\n"
+"The barrel has been replaced with a shorter version so that poor handling is somewhat less of an issue. Give it a shot in close-range combat - you may be pleasantly surprised."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000095
+msgid ""
+"A general purpose machine gun used by the West German armed forces. It is a modified version of the vaunted WW2-era MG42, with a refurbished chamber to accommodate standard post-war ammunition.\n"
+"\n"
+"The MG3's high rate of fire allows the user to pump dozens of bullets into a target at once. This firepower naturally comes at the price of high recoil, making it extremely hard to control during repeat fire.\n"
+"\n"
+"Novice players are advised to avoid this weapon until they are skilled enough to handle it."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000096
+msgid ""
+"A general purpose machine gun used by the West German armed forces. It is a modified version of the vaunted WW2-era MG42, with a refurbished chamber to accommodate standard post-war ammunition.\n"
+"\n"
+"The MG3's high rate of fire allows the user to pump dozens of bullets into a target at once. This firepower naturally comes at the price of high recoil, making it extremely hard to control during repeat fire.\n"
+"\n"
+"Novice players are advised to avoid this weapon until they are skilled enough to handle it.\n"
+"\n"
+"Modified to fire armor-piercing rounds, further increasing its effectiveness as a weapon system."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000097
+#: slot/0x00edcb1e/0x017f53/0x000098
+msgid ""
+"A general purpose machine gun used by the West German armed forces. It is a modified version of the vaunted WW2-era MG42, with a refurbished chamber to accommodate standard post-war ammunition.\n"
+"\n"
+"The MG3's high rate of fire allows the user to pump dozens of bullets into a target at once. This firepower naturally comes at the price of high recoil, making it extremely hard to control during repeat fire.\n"
+"\n"
+"Novice players are advised to avoid this weapon until they are skilled enough to handle it.\n"
+"\n"
+"This model is furnished with an improved magazine that augments its ammo capacity, giving it long-lasting repeat fire capability to match its power."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000099
+#: slot/0x00edcb1e/0x017f53/0x00009b
+msgid ""
+"An unholy terror of a weapon that spits out thousands of bullets per minute from its six rotating barrels.\n"
+"\n"
+"Its destructive power is the stuff of legend. However, the system's enormous weight makes handling it a nightmare.\n"
+"\n"
+"If you think power is everything, then this is the gun you've been looking for."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00009a
+msgid ""
+"A device that generates multiple electromagnetic waves which cross paths with each other. The resulting interference creates a concentrated burst of energy that instantaneously heats and expands the surrounding air, resulting in a powerful explosive effect.\n"
+"\n"
+"Its power is undeniable, but it cannot be used alone. Make sure to bring a CO-OPS teammate with you when carrying it into battle."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00009f
+msgid ""
+"A modified version of the M1 rifle carried by U.S. infantrymen and Marines during the Second World War, adapted for use as a sniper rifle.  Zoom can be adjusted.\n"
+"\n"
+"While not nearly as accurate as a true sniper rifle, it makes up for this shortcoming with its high rate of fire."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000a0
+msgid ""
+"A modified version of the M1 rifle carried by U.S. infantrymen and Marines during the Second World War, adapted for use as a sniper rifle.\n"
+"\n"
+"While not nearly as accurate as a true sniper rifle, it makes up for this shortcoming with its high rate of fire.\n"
+"\n"
+"It also features a scope with three levels of zoom, which allows the user to match the magnification to the target distance and boosts the gun's potential as a sniping weapon."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000a1
+#: slot/0x00edcb1e/0x017f53/0x0000a2
+msgid ""
+"A modified version of the M1 rifle carried by U.S. infantrymen and Marines during the Second World War, adapted for use as a sniper rifle.  Offers 3 levels of zoom.\n"
+"\n"
+"While not nearly as accurate as a true sniper rifle, it makes up for this shortcoming with its high rate of fire.\n"
+"\n"
+"This model has been modified to fire special \"PSYCHE Recovery Rounds\" that restore the PSYCHE of the target.\n"
+"\n"
+"This modification enables the user to provide effective combat support to CO-OPS teammates from long distances. You can't go wrong with this weapon in CO-OPS play."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000a3
+msgid ""
+"A customized sniper rifle version of the M14, predecessor of the M16 as the U.S. military's standard assault rifle.\n"
+"\n"
+"The M21 takes the M14, already known for its superb accuracy, and makes it even better through accuracy-boosting sniper rifle modifications.\n"
+"\n"
+"In addition to its high precision, the M21 is equipped with a 3-level zoom scope to assist in targeting at various distances. Moreover, it fires armor-piercing rounds that can take even a well-protected foe down from a distance with a single headshot straight through the helmet."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000a4
+msgid ""
+"A customized sniper rifle version of the M14, predecessor of the M16 as the U.S. military's standard assault rifle.\n"
+"\n"
+"The M21 takes the M14, already known for its superb accuracy, and makes it even better through accuracy-boosting sniper rifle modifications.\n"
+"\n"
+"In addition to its high precision, the M21 is equipped with a 3-level zoom scope to assist in targeting at various distances. Moreover, it fires armor-piercing rounds that can take even a well-protected foe down from a distance with a single headshot straight through the helmet.\n"
+"\n"
+"This model features a shorter barrel, which results in slightly higher recoil but makes it much easier to handle and carry, qualities that make it a solid weapon for scouts."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000a5
+msgid ""
+"A customized sniper rifle version of the M14, predecessor of the M16 as the U.S. military's standard assault rifle.\n"
+"\n"
+"The M21 takes the M14, already known for its superb accuracy, and makes it even better through accuracy-boosting sniper rifle modifications.\n"
+"\n"
+"In addition to its high precision, the M21 is equipped with a 3-level zoom scope to assist in targeting at various distances. Moreover, it fires armor-piercing rounds that can take even a well-protected foe down from a distance with a single headshot straight through the helmet.\n"
+"\n"
+"Equipped with a limited-use suppressor. The suppressor will eventually wear out, so use it prudently."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000a6
+msgid ""
+"An extensively modified version of the original M700 bolt-action hunting rifle, reborn as a military sniper rifle.\n"
+"\n"
+"It is sturdy and dependable thanks to its simple construction, and while limited to single shot fire, few weapons can match it in terms of accuracy.\n"
+"\n"
+"The M700 has a 3-level zoom scope and fires armor-piercing rounds; as such, it is geared more or less completely toward long-range precision sniping. \n"
+"\n"
+"An outstanding weapon for sniper duels or for teammate support in CO-OPS."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000a7
+#: slot/0x00edcb1e/0x017f53/0x0000a8
+msgid ""
+"An extensively modified version of the original M700 bolt-action hunting rifle, reborn as a military sniper rifle.\n"
+"\n"
+"It is sturdy and dependable thanks to its simple construction, and while limited to single shot fire, few weapons can match it in terms of accuracy.\n"
+"\n"
+"The M700 has a 3-level zoom scope and fire armor-piercing rounds; as such, it is geared more or less completely toward long-range precision sniping. \n"
+"\n"
+"An outstanding weapon for sniper duels or for teammate support in CO-OPS.\n"
+"\n"
+"This model has been fitted with a heavier bull barrel that reduces muzzle jump."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000a9
+#: slot/0x00edcb1e/0x017f53/0x0000aa
+msgid ""
+"An extensively modified version of the original M700 bolt-action hunting rifle, reborn as a military sniper rifle.\n"
+"\n"
+"It is sturdy and dependable thanks to its simple construction, and while limited to single shot fire, few weapons can match it in terms of accuracy.\n"
+"Has a 3-level zoom scope. \n"
+"\n"
+"This model has been modified to fire special \"LIFE Recovery Rounds\" that restore the LIFE of the target. If you're looking for a way to restore your teammates' LIFE from a distance in CO-OPS play, look no further."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000ab
+msgid ""
+"A Russian-made bolt-action rifle. It originated as the main infantry rifle of Czarist Russia and saw considerable action in the Second World War as the \"long spear\" of Red Army snipers. It was also the preferred weapon of The End, the Cobra Unit's aged sniper.\n"
+"\n"
+"Has a 2-level zoom scope.\n"
+"The Mosin-Nagant is not terribly accurate and has a low rate of fire; its appeal lies in its ability to fire special tranquilizer rounds that put targets to sleep.\n"
+"\n"
+"An absolute must-have for players who want a no-kill completion without having to get close to the enemy."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000ac
+msgid ""
+"A Russian-made bolt-action rifle. It originated as the main infantry rifle of Czarist Russia and saw considerable action in the Second World War as the \"long spear\" of Red Army snipers. It was also the preferred weapon of The End, the Cobra Unit's aged sniper.\n"
+"\n"
+"The Mosin-Nagant is not terribly accurate and has a low rate of fire; its appeal lies in its ability to fire special tranquilizer rounds that put targets to sleep.\n"
+"\n"
+"An absolute must-have for players who want a no-kill completion without having to get close to the enemy.\n"
+"\n"
+"This model has been fitted with a 3-level zoom scope, making it easier to adjust the zoom level to match the target distance."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000ad
+#: slot/0x00edcb1e/0x017f53/0x0000ae
+msgid ""
+"A Russian-made bolt-action rifle. It originated as the main infantry rifle of Czarist Russia and saw considerable action in the Second World War as the \"long spear\" of Red Army snipers. It was also the preferred weapon of The End, the Cobra Unit's aged sniper.\n"
+"\n"
+"The Mosin-Nagant is not terribly accurate and has a low rate of fire; its appeal lies in its ability to fire special tranquilizer rounds that put targets to sleep.\n"
+"\n"
+"An absolute must-have for players who want a no-kill completion without having to get close to the enemy.\n"
+"\n"
+"Its stock has also been replaced with a skeleton model, making it slightly lighter."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000af
+msgid ""
+"A Russian-made bolt-action rifle. It originated as the main infantry rifle of Czarist Russia and saw considerable action in the Second World War as the \"long spear\" of Red Army snipers. It was also the preferred weapon of The End, the Cobra Unit's aged sniper.\n"
+"\n"
+"The Mosin-Nagant is not terribly accurate and has a low rate of fire; its appeal lies in its ability to fire special tranquilizer rounds that put targets to sleep.\n"
+"\n"
+"An absolute must-have for players who want a no-kill completion without having to get close to the enemy.\n"
+"\n"
+"Equipped with a suppressor, making this the ultimate no-kill completion weapon."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000b0
+#: slot/0x00edcb1e/0x017f53/0x0000b1
+msgid "The primary sniper rifle of the modern-day Soviet military. Since it was originally developed for the purpose of infantry squad support at medium range, its accuracy is nothing special compared to other sniper rifles. That said, its light weight and ease of use, three-level zoom scope, armor-piercing ammunition, and repeat fire capability make the SVD a force to be reckoned with in battle."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000b2
+msgid ""
+"The primary sniper rifle of the modern-day Soviet military. Since it was originally developed for the purpose of infantry squad support at medium range, its accuracy is nothing special compared to other sniper rifles. Nevertheless, its light weight and ease of use, multi-level zoom scope, armor-piercing ammunition, and repeat fire capability make the SVD a force to be reckoned with in battle.\n"
+"\n"
+"Modified to accommodate a new, larger capacity magazine. This results in fewer reloads and allows for more efficient use in combat."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000b3
+msgid ""
+"The primary sniper rifle of the modern-day Soviet military. Since it was originally developed for the purpose of infantry squad support at medium range, its accuracy is nothing special compared to other sniper rifles. That said, its light weight and ease of use, multi-level zoom scope, armor-piercing ammunition, and repeat fire capability make the SVD a force to be reckoned with in battle.\n"
+"\n"
+"The addition of night vision capability to the scope ensures this model is almost as deadly in the dark as it is in the light."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000b4
+#: slot/0x00edcb1e/0x017f53/0x0000b5
+#: slot/0x00edcb1e/0x017f53/0x0000b6
+msgid ""
+"A new model of sniper rifle developed to withstand the rigors of Special Forces operations in a world where unconventional warfare is becoming the norm.\n"
+"\n"
+"The WA2000 is heavy and extremely unwieldy, but compensates for this with low recoil, which gives it exceptional accuracy. Its scope has three levels of zoom to allow targeting at multiple distances, and armor-piercing ammunition makes it an effective weapon against heavily armored enemy troops even at long range.\n"
+"\n"
+"If long-range sniping battles are your thing, you can't go wrong with this gun."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000b7
+#: slot/0x00edcb1e/0x017f53/0x0000b8
+msgid ""
+"An anti-tank rifle adopted by the Soviet military in 1941. It is extremely large, heavy and powerful, but also incredibly difficult to handle, and so probably best left behind for sneaking missions.\n"
+"\n"
+"That said, its ammunition is so powerful it makes most sniper rifles look weak by comparison, easily punching through thick armor even at a considerable distance. A good weapon to have on hand when the situation calls for overwhelming force."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000b9
+msgid ""
+"An anti-tank rifle that uses the same ammo as the PTRD.\n"
+"\n"
+"Basically the same weapon as the PTRD, but with repeat fire capability, making it the most powerful sniper rifle you'll ever see.\n"
+"\n"
+"When the mission calls for firepower above all else, accept no substitutes."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000ba
+#: slot/0x00edcb1e/0x017f53/0x0000bb
+#: slot/0x00edcb1e/0x017f53/0x0000bc
+msgid ""
+"An electromagnetic accelerator cannon currently being researched throughout the developed world. It fires projectiles with a kinetic energy of over 10 megajoules, on par with those of a tank cannon.\n"
+"\n"
+"Naturally, this makes the rail gun orders of magnitude more powerful than anything else, able to destroy almost any target in a single shot. On the other hand, it also consumes an enormous amount of electricity, making it essential to have a CO-OPS teammate nearby to charge the weapon between shots."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000bd
+msgid ""
+"A remote charging system for the rail gun, employing an experimental microwave power transmission mechanism under development in several countries.\n"
+"\n"
+"This device is absolutely essential in order for the rail gun to unleash its full power. When using the rail gun in CO-OPS play, make sure somebody on the team has one."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000cc
+#: slot/0x00edcb1e/0x017f53/0x0000cd
+#: slot/0x00edcb1e/0x017f53/0x0000ce
+#: slot/0x00edcb1e/0x017f53/0x0000cf
+msgid ""
+"A disposable rocket launcher developed to give infantry a means of attacking hard targets such as light armored vehicles and bunkers. It is light and compact enough for a soldier to carry several at once without being slowed down.\n"
+"\n"
+"The LAW rocket packs quite a punch for such a small package; a single shot can take an entire pack of enemies in one fell swoop.\n"
+"\n"
+"When using the LAW, keep an eye on your remaining stock, as each launcher is good for only one use."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000d0
+#: slot/0x00edcb1e/0x017f53/0x0000d1
+#: slot/0x00edcb1e/0x017f53/0x0000d2
+msgid ""
+"A rocket launcher loaded with four rockets that can be fired one after another, allowing the user to deliver massive firepower in a hurry. \n"
+"\n"
+"On the down side, its weight and bulk make it quite awkward to handle. As such, it is probably best used to provide supporting fire from a distance. "
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000d3
+msgid ""
+"A man-portable, rocket-propelled grenade launcher, modeled after the \"Panzerfaust\" anti-tank weapon employed by the armies of Nazi Germany.\n"
+"\n"
+"The RPG2 is a high-risk, high-return weapon: the grenades tend to miss moving targets, but their sheer power ensures they do considerable damage when they do hit their mark.\n"
+"\n"
+"Reload time is also reasonable, so the grenades can be fired in relatively rapid succession. Definitely worth a look if you've got a steady aim."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000d4
+#: slot/0x00edcb1e/0x017f53/0x0000d5
+#: slot/0x00edcb1e/0x017f53/0x0000d6
+msgid ""
+"The successor to the RPG2, produced and deployed in large numbers as the primary anti-tank weapon for infantry in the Soviet Union and its satellite states. Needless to say, it is highly effective against personnel as well as tanks.\n"
+"\n"
+"The grenades contain a more powerful warhead than those of the RPG2, but suffer from the same low accuracy. The secret to getting the most out of the RPG7 in battle is to get up close and personal with the enemy and aim your shots carefully.\n"
+"\n"
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000d7
+msgid ""
+"A man-portable, disposable surface-to-air missile launcher.\n"
+"\n"
+"While not necessarily all it could be performance-wise, it does provide infantry with excellent anti-air capabilities and is now widely used in the U.S. and throughout the free world.\n"
+"\n"
+"The missiles use a passive infrared guidance system, making them the perfect weapon to counter airstrikes by attack choppers. If you're going to be facing enemy aircraft in a mission, you can't go wrong with the FIM-43."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000d8
+#: slot/0x00edcb1e/0x017f53/0x0000d9
+msgid ""
+"A man-portable surface-to-air missile system, developed as the successor to the FIM-43. The launcher is disposable and good for only one shot.\n"
+"\n"
+"It is a very easy to use anti-air weapon. The missiles feature an improved guidance system with dual infrared and ultraviolet seekers. An enhanced seeker cooling system also shortens pre-launch lock-on time, which allows for quicker responses to unexpected engagements with the enemy.\n"
+"\n"
+"Players who find themselves struggling to cope with enemy air attacks are strongly advised to bring a XFIM-92A or two along.\n"
+"\n"
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000da
+#: slot/0x00edcb1e/0x017f53/0x0000db
+#: slot/0x00edcb1e/0x017f53/0x0000dc
+#: slot/0x00edcb1e/0x017f53/0x0000dd
+msgid ""
+"A man-portable, recoilless rifle that fires potent 84mm shells. It employs the Krupp firing system, which vents the propellant gas out the rear of the gun to eliminate recoil.\n"
+"\n"
+"The Carl Gustav M2 is distinguished by its high initial muzzle velocity, which gives its projectiles a lower, straighter trajectory and improves its accuracy compared to other rocket launchers.\n"
+"\n"
+"On the down side, it is structured such that reloading can be a chore, making it unsuitable for repeat fire. Thus, the most effective way to use this weapon is to aim carefully and ensure the target is destroyed in one shot."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000de
+#: slot/0x00edcb1e/0x017f53/0x0000df
+#: slot/0x00edcb1e/0x017f53/0x0000e0
+msgid ""
+"A man-portable recoilless rifle that fires potent 84mm shells. It employs the Krupp firing system, which vents the propellant gas out the rear of the gun to eliminate recoil.\n"
+"\n"
+"The Carl Gustav M2 is distinguished by its high initial muzzle velocity, which gives its projectiles a lower, straighter trajectory and improves its accuracy compared to other rocket launchers.\n"
+"\n"
+"This model has been modified to launch multipurpose HEAT rounds. The controlled fragments are distributed in an improved pattern, expanding the area of effect but decreasing the damage dealt to each individual target. As a result, it is best used for wiping out large crowds of enemy infantry."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000e1
+#: slot/0x00edcb1e/0x017f53/0x0000e2
+#: slot/0x00edcb1e/0x017f53/0x0000e3
+msgid ""
+"A man-portable recoilless rifle that fires potent 84mm shells. It employs the Krupp firing system, which vents the propellant gas out the rear of the gun to eliminate recoil.\n"
+"The Carl Gustav M2 is distinguished by its high initial muzzle velocity, which gives its projectiles a lower, straighter trajectory and improves its accuracy compared to other rocket launchers.\n"
+"\n"
+"This model has been modified to launch shells filled with sleeping gas as well as Fulton recovery balloons, allowing the user to perform Fulton recoveries from a relatively safe distance. Good for players who want to recruit new teammates but don't want to come out and face the enemy themselves. "
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000e4
+msgid ""
+"A state-of-the-art, man-portable anti-tank missile that just recently entered service in the U.S. military. The launcher is disposable and good for only one shot.\n"
+"\n"
+"The M47 employs an optical, wired guidance system with excellent seeking capabilities. Its warhead is also among the most powerful in its class, capable of blowing almost any target to smithereens.\n"
+"\n"
+"If you think the enemy is going to be tough to take down, don't think twice about taking the M47 along with you.\n"
+"\n"
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000e5
+#: slot/0x00edcb1e/0x017f53/0x0000e6
+#: slot/0x00edcb1e/0x017f53/0x0000e7
+msgid ""
+"A unique weapon that effectively renders the target optically invisible. The result of the combined efforts of the entire Mother Base R&D Team.\n"
+"\n"
+"Because of its large size, it cannot be operated without the assistance of CO-OPS teammates, so be careful not to take it along on solo missions."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000e8
+msgid "One of the structural elements of the human slingshot, the ultimate CO-OP weapon. With enough mechanical strength to withstand the rigors of the giant rubber band that comes with it, it also makes a fine club for beating down the enemy."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000e9
+#: slot/0x00edcb1e/0x017f53/0x0000ea
+#: slot/0x00edcb1e/0x017f53/0x0000eb
+msgid ""
+"One of the structural elements of the human slingshot, the ultimate CO-OP weapon. This rubber band is incredibly powerful and can launch a brawny 200-pound soldier a considerable distance.\n"
+"\n"
+"The power of the launch depends on how rapidly the button is tapped. Players with weak thumbs may want to practice their button mashing skills before attempting to use this weapon."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000f8
+#: slot/0x00edcb1e/0x017f53/0x0000f9
+#: slot/0x00edcb1e/0x017f53/0x0000fa
+#: slot/0x00edcb1e/0x017f53/0x0000fb
+#: slot/0x00edcb1e/0x017f53/0x0000fc
+msgid ""
+"A standard fragmentation grenade. It deals damage with the force of its blast and the shrapnel it scatters.\n"
+"\n"
+"Exceptionally powerful versus human targets - most enemy soldiers will go down in a single blast.\n"
+"\n"
+"Getting a grenade to land where you want it to takes some practice, so be sure to get some practice throws in when you can spare the time."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x0000fd
+#: slot/0x00edcb1e/0x017f53/0x0000fe
+#: slot/0x00edcb1e/0x017f53/0x0000ff
+#: slot/0x00edcb1e/0x017f53/0x000100
+#: slot/0x00edcb1e/0x017f53/0x000101
+msgid ""
+"A non-lethal weapon filled with a magnesium-based explosive. When it detonates, it emits a blinding flash of light, an ear-splitting bang, and an intense shockwave that combine to knock targets unconscious.\n"
+"\n"
+"Keep in mind, however, that those same effects also work on the user. Make sure you're safely behind cover or facing the other way when the grenade goes off."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000102
+#: slot/0x00edcb1e/0x017f53/0x000103
+#: slot/0x00edcb1e/0x017f53/0x000104
+#: slot/0x00edcb1e/0x017f53/0x000105
+#: slot/0x00edcb1e/0x017f53/0x000106
+msgid "A non-lethal weapon that scatters a cloud of metal strips when detonated, scrambling nearby electronic devices. When surrounded by unmanned weapons, a chaff grenade can turn the tables in an instant. The chaff can also temporarily block the user's own radio and sensor signals, so these grenades are best saved for when the time is right."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000107
+#: slot/0x00edcb1e/0x017f53/0x000108
+#: slot/0x00edcb1e/0x017f53/0x000109
+#: slot/0x00edcb1e/0x017f53/0x00010a
+#: slot/0x00edcb1e/0x017f53/0x00010b
+msgid "A grenade that releases smoke when ignited. It does no physical damage. The smoke clouds the enemy's vision, which can be a godsend when the user needs to get out of sight quickly. Remember that the smoke makes it just as difficult for the user to see."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00010c
+#: slot/0x00edcb1e/0x017f53/0x00010d
+#: slot/0x00edcb1e/0x017f53/0x00010e
+#: slot/0x00edcb1e/0x017f53/0x00010f
+#: slot/0x00edcb1e/0x017f53/0x000110
+msgid "A smoke grenade that releases colored smoke. Works exactly the same way as a regular smoke grenade. Available in a variety of colors for your convenience."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000111
+#: slot/0x00edcb1e/0x017f53/0x000112
+#: slot/0x00edcb1e/0x017f53/0x000113
+#: slot/0x00edcb1e/0x017f53/0x000114
+#: slot/0x00edcb1e/0x017f53/0x000115
+msgid ""
+"A non-lethal grenade that releases sleeping gas when it detonates. Anyone who inhales the gas will fall asleep within a certain amount of time. Throwing multiple grenades will increase the potency of the gas and make targets fall asleep faster.\n"
+"\n"
+"Of course, the gas also affects the user, so make sure to throw the grenade a safe distance away."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000116
+msgid ""
+"An empty ammo magazine. It is useless as a weapon, but it can be thrown to make a noise and thereby distract the enemy.\n"
+"\n"
+"Added to your inventory each time you reload a gun."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000117
+msgid ""
+"A marker for requesting support supplies from Mother Base. The marker indicates the location where the supplies are to be dropped. To use it, throw it the same way you would throw a grenade.\n"
+"\n"
+"Useful in missions where supplies are difficult to procure on site."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000118
+msgid ""
+"A marker for requesting support strikes from Mother Base. The marker indicates the location of the attack. To use it, throw it the same way you would throw a grenade.\n"
+"\n"
+"Use it to gain the upper hand in combat by taking advantage of Mother Base's firepower."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000119
+msgid ""
+"A high-power electromagnetic net used to capture large enemy war machines.\n"
+"\n"
+"When activated, it generates a powerful magnetic field several teslas in magnitude, freezing enemy war machines in their tracks.\n"
+"\n"
+"While being able to capture enemy weapons without damaging them is great, each net can only be used once and they are too difficult to produce in large quantities, so be sure not to waste them. Make each one count."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00011a
+#: slot/0x00edcb1e/0x017f53/0x00011b
+#: slot/0x00edcb1e/0x017f53/0x00011c
+#: slot/0x00edcb1e/0x017f53/0x00011d
+#: slot/0x00edcb1e/0x017f53/0x00011e
+msgid ""
+"A military-grade plastic explosive, employed by the U.S. military and other militaries worldwide.\n"
+"\n"
+"It has 1.34 times the destructive power of TNT and can be molded into virtually any shape.\n"
+"\n"
+"C4 is the most basic demolition tool in your arsenal. You're sure to find plenty of uses for it."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00011f
+#: slot/0x00edcb1e/0x017f53/0x000120
+#: slot/0x00edcb1e/0x017f53/0x000121
+#: slot/0x00edcb1e/0x017f53/0x000122
+#: slot/0x00edcb1e/0x017f53/0x000123
+msgid ""
+"An anti-personnel mine that focuses its blast in a specific direction. Upon detonation, it sprays 700 steel balls across a 60-degree arc, Although developed for anti-personnel use, it is also effective against vehicles.\n"
+"\n"
+"The Claymore is extremely powerful and simple to use, but be very careful not to set it off yourself. The results could be too horrible to watch."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000124
+#: slot/0x00edcb1e/0x017f53/0x000125
+#: slot/0x00edcb1e/0x017f53/0x000126
+#: slot/0x00edcb1e/0x017f53/0x000127
+#: slot/0x00edcb1e/0x017f53/0x000128
+msgid ""
+"A popular monthly magazine jam-packed with excitement on every page. It has a massive fan base that stretches all the way from the southern part of the U.S. to the Panama Canal, and a circulation of 1.1 million copies per month. One especially popular feature is the pen pal exchange page.\n"
+"\n"
+"Some CIA mercenaries and MSF members are known to be avid readers of this mag. Put it in front of them and they just might drop everything else..."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00012e
+#: slot/0x00edcb1e/0x017f53/0x00012f
+#: slot/0x00edcb1e/0x017f53/0x000130
+#: slot/0x00edcb1e/0x017f53/0x000131
+#: slot/0x00edcb1e/0x017f53/0x000132
+msgid ""
+"A monthly cooking magazine, wildly popular among would-be gourmet chefs.\n"
+"\n"
+"This month's special feature focuses on a cooking show broadcast in over 20 countries worldwide and a runaway ratings hit.\n"
+"\n"
+"The magazine showcases a number of sumptuous recipes from the show with mouth-watering full-page color photos. Even a casual glance will leave you drooling.\n"
+"\n"
+"Whoever owned this copy apparently used it in the kitchen, as the rich aroma of food permeates every page. The scent might even be enough to attract some hungry wild animals..."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000133
+msgid ""
+"A weekly pulp magazine filled to the brim with outlandish and absurd sci-fi/horror stories.  Roughly half of the stories are about men fighting Martians and are written by amateurs.  Not to be taken too seriously.  Lurid and sexually suggestive themes are a given.\n"
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000134
+msgid "A monthly pulp magazine that features mature content aimed at literary types. The real-life travel logs submitted by soldiers from around the world are a must read.  Also boasts an ample supply of scantily-clad pin-ups."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000135
+#: slot/0x00edcb1e/0x017f53/0x000137
+msgid "A quarterly men's lifestyle magazine aimed at discriminating adults. Features include articles on news, politics, and special interests such as the ever-popular \"bonsai\" corner.  Naturally, it also features its fare share of \"adult content.\""
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000136
+msgid ""
+"Bimonthly fashion magazine for women.\n"
+"Features articles that satisfy the needs of women soldiers who want to look good even on the harshest of battlefields.\n"
+"Pictorial spreads featuring lovely models in fashionable outfits have earned this periodical a strong following of male readers.\n"
+"(photo by Famitsu Wave DVD)"
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000138
+#: slot/0x00edcb1e/0x017f53/0x000139
+#: slot/0x00edcb1e/0x017f53/0x00013a
+#: slot/0x00edcb1e/0x017f53/0x00013b
+#: slot/0x00edcb1e/0x017f53/0x00013c
+msgid ""
+"A potent anti-vehicle mine capable of dealing heavy damage to the undercarriage of a large vehicle. One solid direct hit can cause enemy vehicles to grind to a halt temporarily.\n"
+"\n"
+"An extremely valuable tool in combat against vehicles, but it takes a certain amount of weight to trigger it, rendering it ineffective against hovering vehicles.\n"
+"\n"
+"Consider what types of enemies you'll be facing before deciding to take this weapon into battle."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00013d
+#: slot/0x00edcb1e/0x017f53/0x00013e
+#: slot/0x00edcb1e/0x017f53/0x00013f
+#: slot/0x00edcb1e/0x017f53/0x000140
+#: slot/0x00edcb1e/0x017f53/0x000141
+msgid "A life-sized, man-shaped decoy made of wood. It can be used to distract the enemy's attention, but the enemy will see through it immediately when they get close enough. Don't expect to rely on it too much - it is, after all, just a piece of wood."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000142
+#: slot/0x00edcb1e/0x017f53/0x000143
+#: slot/0x00edcb1e/0x017f53/0x000144
+#: slot/0x00edcb1e/0x017f53/0x000145
+#: slot/0x00edcb1e/0x017f53/0x000146
+msgid ""
+"A self-detonating explosive charge that floats in midair using the same type of balloon as the Fulton recovery system, designed for aerial ambushes.\n"
+"\n"
+"It can be quite effective as a mine against helicopters and other craft that fly at a high altitude."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000148
+msgid ""
+"A non-lethal personnel recovery weapon that combines a sleeping gas release system with the Fulton recovery system.\n"
+"\n"
+"This is an incredibly handy tool to have - just plant it and watch it gather new recruits for you."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x000149
+msgid ""
+"A marker for requesting support supplies from Mother Base. The marker indicates the location where the supplies are to be dropped. To use it, plant it the same way you would plant a mine.\n"
+"\n"
+"Useful in missions where supplies are difficult to procure on site."
+msgstr ""
+
+#: slot/0x00edcb1e/0x017f53/0x00014a
+msgid ""
+"A marker for requesting support strikes from Mother Base. The marker indicates the location of the attack. To use it, plant it the same way you would plant a mine.\n"
+"\n"
+"Use it to gain the upper hand in combat by taking advantage of Mother Base's firepower."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d542f/0xd8ea24
+msgid "Hello!"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d542f/0xd8ea25
+msgid "Nice to meet you!"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d542f/0xd8ea26
+msgid "Long time, no see."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d542f/0xd8ea27
+msgid "Greetings!"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d542f/0xd8ea28
+msgid "Can I play?"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d542f/0xd8ea29
+msgid "I'd better get going."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d542f/0xd8ea2a
+msgid "Good game."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d542f/0xd8ea2b
+msgid "See ya!"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5430/0xd96a24
+msgid "How long can you play for?"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5430/0xd96a25
+msgid "Ready to quit?"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5430/0xd96a26
+msgid "Let's keep this going."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5430/0xd96a27
+msgid "Want to change hosts?"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5430/0xd96a28
+msgid "Let's change hosts."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5430/0xd96a29
+msgid "Somebody be host!"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5430/0xd96a2a
+msgid "Any requests?"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5430/0xd96a2b
+msgid "What's next?"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5431/0xd9ea24
+msgid "I gotta run."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5431/0xd9ea25
+msgid "Be right back."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5431/0xd9ea27
+msgid "Sorry to keep you waiting."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5431/0xd9ea28
+msgid "You don't need a break?"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5431/0xd9ea29
+msgid "Let's start!"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5431/0xd9ea2a
+msgid "Good job!"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5431/0xd9ea2b
+msgid "Let's change teams."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5432/0xda6a24
+msgid "We got annihilated..."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5432/0xda6a25
+msgid "Should've raised the white flag..."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5432/0xda6a26
+msgid "I couldn't Fulton him..."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5432/0xda6a27
+msgid "They got it..."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5432/0xda6a28
+msgid "I messed up."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5432/0xda6a29
+msgid "Let's keep on going."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5432/0xda6a2a
+msgid "Congrats!"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5433/0xdaea24
+msgid "I'm a rookie."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5433/0xdaea25
+msgid "Go easy on me."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5433/0xdaea27
+msgid "Give me your best shot!"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5433/0xdaea28
+msgid "Leave it to me!"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5433/0xdaea29
+msgid "The next game will be mine!"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5433/0xdaea2a
+msgid "You guys are too good."
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5433/0xdaea2b
+msgid "That was really fun!"
+msgstr ""
+
+#: slot/0x00eeea4a/0x3d5434/0xdb6a24
+msgid "Roger."
+msgstr ""

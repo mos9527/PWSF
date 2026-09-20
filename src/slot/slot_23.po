@@ -1,0 +1,1674 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF slot 23/26\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: slot\n"
+"X-PWSF-Entries: 400\n"
+
+
+#: slot/0x00d9b1f3/0x1331ad/0x8a36d8
+msgid "Choose weapons and items to put in the box."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x8a48d3
+msgid "$1 (MON)"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x8a5f19
+msgid "$1 (SAT)"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x8a6193
+msgid "$1 (SUN)"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x8a63fa
+msgid "$1 (THU)"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x8a658a
+msgid "$1 (TUE)"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x8a6f89
+msgid "$1 (WED)"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x8a7853
+msgid "No recipient is selected."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0x962072
+#, c-format
+msgid "ADDRESS LIST: %d"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xaa0425
+msgid "EDIT: $1"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xabb20b
+msgid "Are you sure you want to delete this gift?"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xad47a7
+msgid "MONTH"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xae7f04
+msgid "FRIEND'S FRIENDS"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xb24347
+msgid "STAMP CARD"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xb7812d
+msgid "Select at least 1 item."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xb8a0c0
+msgid "YOUR FRIENDS"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xbbc0e2
+msgid "Please verify the Date & Time settings on your PSP<I=TM> system. Incorrect date settings may interfere with package deliveries."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xcfd8cb
+msgid "Choose weapons or items to include in the box."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xcff112
+#, c-format
+msgid "Item from %s"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xd0db72
+msgid "Weapons"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xd26188
+#, c-format
+msgid "Weapon from %s"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xd64f9c
+msgid "Add/change weapons or items."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xd85746
+msgid ""
+"Choose a recipient.  Selecting \"- FREE -\" will send\n"
+"the box to an undisclosed recipient."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xe8afe9
+msgid "- FREE -"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xe9062a
+#, c-format
+msgid "PRESET WORDS: %d"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xecd829
+msgid "GIFTS"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xef34b0
+msgid "FINISHED"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xf3a585
+msgid "Choose a song to play when the box is opened."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xf8d8f8
+msgid "Specify the song to play when opening the box."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xf9be8c
+msgid "Are you sure you want to cancel sending this package?"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xfb6535
+msgid ""
+"Choose a date and time to send the box.\n"
+"Date range is limited to one year from today."
+msgstr ""
+
+#: slot/0x00d9b1f3/0x1331ad/0xfbb23e
+msgid "The settings you selected will be deleted. Are you sure you want to proceed?"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x3b6fe4/0x51cc53
+msgid "Happy Birthday"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x3b6fe4/0x51cc54
+msgid "Don't Worry"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x3b6fe4/0x51cc55
+msgid "Oops"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x3b6fe4/0x51cc56
+msgid "Let's Play"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x3b6fe4/0x51cc57
+msgid "GoGoGo"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x3b6fe4/0x51cc58
+msgid "Special Day"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x3b6fe4/0x51cc59
+msgid "Remember Me"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x3b6fe4/0x51cc5a
+msgid "The Flower"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x3b6fe4/0xa92da3
+msgid "For celebrating a birthday"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x3b6fe4/0xa92da4
+msgid "For encouraging your friends"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x3b6fe4/0xa92da5
+msgid "For teasing and playing jokes"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x3b6fe4/0xa92da6
+msgid "For inviting someone to play"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x3b6fe4/0xa92da7
+msgid "For egging someone on"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x3b6fe4/0xa92da8
+msgid "For having a special event"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x3b6fe4/0xa92da9
+msgid "For first meetings"
+msgstr ""
+
+#: slot/0x00d9b1f3/0x3b6fe4/0xa92daa
+msgid "For giving gratitude and love"
+msgstr ""
+
+#: slot/0x00db94df/0x02a618/0x000000
+msgid "Take him out."
+msgstr ""
+
+#: slot/0x00db94df/0x02a619/0x000000
+msgid "Look out! "
+msgstr ""
+
+#: slot/0x00db94df/0x02a61a/0x000000
+msgid "It's one of the unmanneds! "
+msgstr ""
+
+#: slot/0x00db94df/0x02a61b/0x000000
+msgid "Heads up!"
+msgstr ""
+
+#: slot/0x00db94df/0x0f0cca/0x000000
+msgid "Ah, Snake!"
+msgstr ""
+
+#: slot/0x00db94df/0x0f0ccb/0x000000
+msgid ""
+"Snake, the pod's outfitted \n"
+"with a self-defense module."
+msgstr ""
+
+#: slot/0x00db94df/0x0f0ccc/0x000000
+msgid "Upon detecting attack,"
+msgstr ""
+
+#: slot/0x00db94df/0x0f0ccc/0x000001
+msgid ""
+"it aborts its command and enters \n"
+"small-target suppression mode."
+msgstr ""
+
+#: slot/0x00db94df/0x0f0ccd/0x000000
+msgid ""
+"Right now, Peace Walker's highest \n"
+"priority target is you."
+msgstr ""
+
+#: slot/0x00db94df/0x14830e/0x000000
+msgid "\"Soldiers Without Borders\""
+msgstr ""
+
+#: slot/0x00db94df/0x168cbf/0x000000
+msgid "...3, 2, 1, launch."
+msgstr ""
+
+#: slot/0x00db94df/0x16da59/0x000000
+msgid "Damn"
+msgstr ""
+
+#: slot/0x00db94df/0x16da5c/0x000000
+msgid "It won't open."
+msgstr ""
+
+#: slot/0x00db94df/0x223c99/0x000000
+msgid "Looks like there's no way around 'em. "
+msgstr ""
+
+#: slot/0x00db94df/0x223c99/0x000001
+msgid "You up for this, Snake?"
+msgstr ""
+
+#: slot/0x00db94df/0x3c293d/0x000000
+msgid "Snake, it's getting away!"
+msgstr ""
+
+#: slot/0x00db94df/0x47cb34/0x000000
+msgid "I gotta thank you for agreeing to this, Snake."
+msgstr ""
+
+#: slot/0x00db94df/0x47cb34/0x000001
+msgid "Man... am I glad to be out here."
+msgstr ""
+
+#: slot/0x00db94df/0x47cb34/0x000002
+msgid ""
+"Finally, we can leave all that crap \n"
+"in San Hieronymo behind... "
+msgstr ""
+
+#: slot/0x00db94df/0x47cb34/0x000003
+msgid "And break into the mercenary business for real."
+msgstr ""
+
+#: slot/0x00db94df/0x47cb34/0x000004
+msgid "Let me guess. You're doing it for her, aren't you?"
+msgstr ""
+
+#: slot/0x00db94df/0x584449/0x000000
+msgid ""
+"It's calculating ballistic trajectory... \n"
+"once that's finished, it's all over."
+msgstr ""
+
+#: slot/0x00db94df/0x5fe93d/0x000000
+msgid "Snake, you've got to destroy the platform!"
+msgstr ""
+
+#: slot/0x00db94df/0x74d559/0x000000
+msgid "Check out the cargo!"
+msgstr ""
+
+#: slot/0x00db94df/0x74d55a/0x000000
+msgid "The nukes!"
+msgstr ""
+
+#: slot/0x00db94df/0x8e81a0/0x000000
+msgid "There they are... CIA mercs. "
+msgstr ""
+
+#: slot/0x00db94df/0x8e81a0/0x000001
+msgid "Snake, you've got to get past them undetected."
+msgstr ""
+
+#: slot/0x00db94df/0x8e81a0/0x000002
+msgid "Avoid combat whenever possible."
+msgstr ""
+
+#: slot/0x00db94df/0x94ec7d/0x000000
+msgid "Kaz, I found Zadornov. I had to kill him."
+msgstr ""
+
+#: slot/0x00db94df/0x94ec7e/0x000000
+msgid ""
+"Something's not right here. \n"
+"I'm thinking he had a friend."
+msgstr ""
+
+#: slot/0x00db94df/0x94ec7f/0x000000
+#: slot/0x00dff09b/0xaf8d11/0x000020
+msgid "What's going on?"
+msgstr ""
+
+#: slot/0x00db94df/0x952c7f/0x000000
+msgid "Paz...?!"
+msgstr ""
+
+#: slot/0x00db94df/0x952c80/0x000000
+msgid "Get down from there before you hurt somebody."
+msgstr ""
+
+#: slot/0x00db94df/0x952c81/0x000000
+msgid "Kaz, shut that thing down..."
+msgstr ""
+
+#: slot/0x00db94df/0x952c82/0x000000
+msgid "Then how's it moving?!"
+msgstr ""
+
+#: slot/0x00db94df/0x952c83/0x000000
+msgid "Modifications?"
+msgstr ""
+
+#: slot/0x00db94df/0x952c83/0x000001
+msgid "Paz, what are you... "
+msgstr ""
+
+#: slot/0x00db94df/0x952c84/0x000000
+msgid "Paz,"
+msgstr ""
+
+#: slot/0x00db94df/0x952c84/0x000001
+msgid "what are you doing...?!"
+msgstr ""
+
+#: slot/0x00db94df/0x952c85/0x000000
+msgid "Cipher...?!"
+msgstr ""
+
+#: slot/0x00db94df/0x952c86/0x000000
+msgid "Paz! Get down from there!"
+msgstr ""
+
+#: slot/0x00db94df/0x952c9d/0x000000
+msgid "Paz, you can't..."
+msgstr ""
+
+#: slot/0x00db94df/0x952c9e/0x000000
+msgid "The... real project?!"
+msgstr ""
+
+#: slot/0x00db94df/0x9d8eea/0x000000
+msgid "\"Zero.\""
+msgstr ""
+
+#: slot/0x00db94df/0x9d8eec/0x000000
+msgid "...Sure."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8eed/0x000000
+msgid "Kaz..."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8eee/0x000000
+msgid "I suppose you were the one"
+msgstr ""
+
+#: slot/0x00db94df/0x9d8eee/0x000001
+msgid ""
+"who brought them to Colombia \n"
+"in the first place, huh?"
+msgstr ""
+
+#: slot/0x00db94df/0x9d8eef/0x000000
+msgid "You knew all of this...?!"
+msgstr ""
+
+#: slot/0x00db94df/0x9d8ef0/0x000000
+msgid "Was that your goal all along?"
+msgstr ""
+
+#: slot/0x00db94df/0x9d8ef1/0x000000
+msgid "Kaz, it's... not going to be that easy."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8ef2/0x000000
+msgid "This whole Peace Walker thing has left our mark"
+msgstr ""
+
+#: slot/0x00db94df/0x9d8ef2/0x000001
+msgid "on the history of the old order."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f09/0x000000
+msgid ""
+"We've put ourselves on the radar \n"
+"of intelligence agencies"
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f09/0x000001
+msgid "and governments East and West."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f09/0x000002
+msgid "The whole world probably knows about us now."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f0a/0x000000
+msgid "We've let ourselves interfere with the times "
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f0a/0x000001
+msgid "- with the Cold War system of deterrence."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f0b/0x000000
+msgid "We're an army without a flag."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f0b/0x000001
+msgid ""
+"We weren't supposed to take sides in \n"
+"international affairs."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f0b/0x000002
+msgid "But we did."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f0c/0x000000
+msgid "We'll be hunted."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f0d/0x000000
+msgid "You're damn right. "
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f0d/0x000001
+msgid "We upset the global military balance of power."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f0e/0x000000
+msgid "They're gonna come knocking real soon. "
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f0e/0x000001
+msgid "There's no turning back now."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f0f/0x000000
+msgid "We're a wrench in the old system of deterrence."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f10/0x000000
+msgid "As long as the times refuse to change,"
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f10/0x000001
+msgid "we're going to make a hell of a racket."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f11/0x000000
+msgid "The establishment... "
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f11/0x000001
+msgid "anybody who tries to restore the old balance,"
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f11/0x000002
+msgid "wants to snuff us out of existence."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f12/0x000000
+msgid ""
+"It won't be a particular country \n"
+"or ideology that hunts us."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f29/0x000000
+msgid ""
+"We're gonna be fighting \n"
+"the biggest beast of all - the times."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f2a/0x000000
+msgid ""
+"Ten years ago, the times rejected The Boss... \n"
+"and killed her."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f2b/0x000000
+msgid "And now we're the ones being tested."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f2c/0x000000
+msgid "Will the times erase us?"
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f2c/0x000001
+msgid "Or work with us?"
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f2d/0x000000
+msgid ""
+"It's gonna be a lonely battle... \n"
+"No good or evil, no winners or losers."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f2e/0x000000
+msgid "Business will have to wait."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f2e/0x000001
+msgid "The question we have to ask ourselves now is,"
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f2e/0x000002
+msgid ""
+"can we survive long enough \n"
+"to see the 21st century?"
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f2f/0x000000
+msgid "The hunt is on, Kaz, "
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f30/0x000000
+msgid "and the whole world's on our tail."
+msgstr ""
+
+#: slot/0x00db94df/0x9d8f30/0x000001
+msgid "Assemble the men!"
+msgstr ""
+
+#: slot/0x00db94df/0x9f6190/0x000000
+msgid "Boss!"
+msgstr ""
+
+#: slot/0x00db94df/0x9f6194/0x000000
+msgid "Hey, Boss, wanna go a round?"
+msgstr ""
+
+#: slot/0x00db94df/0xa0c0d8/0x000000
+msgid "Big Boss!"
+msgstr ""
+
+#: slot/0x00db94df/0xa0c0da/0x000000
+msgid "My work is done..."
+msgstr ""
+
+#: slot/0x00db94df/0xa0c0db/0x000000
+msgid "\"V for Victory\""
+msgstr ""
+
+#: slot/0x00db94df/0xa0c0db/0x000001
+msgid "Rocket Peace!"
+msgstr ""
+
+#: slot/0x00db94df/0xa11cdb/0x000000
+msgid "The year was 1964. The world was firmly in the grip of the Cold War, divided into East and West."
+msgstr ""
+
+#: slot/0x00db94df/0xa11cdb/0x000001
+msgid "One of America's heroes had defected to the Soviet Union."
+msgstr ""
+
+#: slot/0x00db94df/0xa11cdb/0x000002
+msgid "She was known as \"The Boss,\" the mother of the special forces, and the soldier said to have led the Allies to victory in World War II."
+msgstr ""
+
+#: slot/0x00db94df/0xa11cdb/0x000003
+msgid "However, the American-made miniature nuclear warhead she took with her was used to destroy a Soviet research facility."
+msgstr ""
+
+#: slot/0x00db94df/0xa11cdb/0x000004
+msgid "Facing full-scale nuclear war, the leaders of the world's superpowers held top-secret talks to avert Armageddon."
+msgstr ""
+
+#: slot/0x00db94df/0xa11cdb/0x000005
+msgid "The Soviet Union wanted assurance that this was not the work of Uncle Sam. They wanted America to eliminate one of its most legendary soldiers, The Boss."
+msgstr ""
+
+#: slot/0x00db94df/0xa11cdb/0x000006
+msgid "The person assigned this mission was her closest apprentice, the soldier known as \"Snake.\""
+msgstr ""
+
+#: slot/0x00db94df/0xa11cdb/0x000007
+msgid "Snake made the anguished journey into enemy territory, eventually confronting and killing The Boss at a fortress called Groznjy Grad, proving America's innocence and avoiding nuclear holocaust."
+msgstr ""
+
+#: slot/0x00db94df/0xa11cdb/0x000008
+msgid "Having saved the world, Snake was hailed a true hero and given the title \"Big Boss.\""
+msgstr ""
+
+#: slot/0x00db94df/0xa11cdb/0x000009
+msgid "Following the award ceremony, however, Snake disappeared."
+msgstr ""
+
+#: slot/0x00db94df/0xa1a625/0x000000
+msgid "Huh... So much for our fugitive..."
+msgstr ""
+
+#: slot/0x00db94df/0xa1a626/0x000000
+msgid "...Someone inside MSF... huh?!"
+msgstr ""
+
+#: slot/0x00db94df/0xa1a627/0x000000
+msgid "...It's ZEKE... It's moving!"
+msgstr ""
+
+#: slot/0x00db94df/0xa1a628/0x000000
+msgid "There's somebody inside, I can see them..."
+msgstr ""
+
+#: slot/0x00db94df/0xa1a629/0x000000
+msgid "Snake, get up here pronto!"
+msgstr ""
+
+#: slot/0x00db94df/0xa9a6a5/0x000000
+msgid "What's going on? She's not herself... "
+msgstr ""
+
+#: slot/0x00db94df/0xa9a6a6/0x000000
+msgid "I can't, the controls aren't responding."
+msgstr ""
+
+#: slot/0x00db94df/0xa9a6a7/0x000000
+msgid "Then... Zadornov's escape... was a diversion!"
+msgstr ""
+
+#: slot/0x00db94df/0xa9a6a8/0x000000
+msgid "Taking it back? Where?!"
+msgstr ""
+
+#: slot/0x00db94df/0xb5f426/0x000000
+msgid "That name Paz mentioned at the end"
+msgstr ""
+
+#: slot/0x00db94df/0xb5f426/0x000001
+msgid "- \"Cipher\" - it's a code."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f426/0x000002
+msgid "It means \"empty\"... "
+msgstr ""
+
+#: slot/0x00db94df/0xb5f427/0x000000
+msgid "It also means..."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f428/0x000000
+msgid "A world of electronic intelligence built on codes."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f428/0x000001
+msgid "And at the center of it all, a zero..."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f429/0x000000
+msgid "Uh, look, Boss... "
+msgstr ""
+
+#: slot/0x00db94df/0xb5f429/0x000001
+msgid "I owe you an apology."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f42a/0x000000
+msgid "Hear me out, OK?"
+msgstr ""
+
+#: slot/0x00db94df/0xb5f42b/0x000000
+msgid "I, uh, I knew Paz and the professor... "
+msgstr ""
+
+#: slot/0x00db94df/0xb5f42b/0x000001
+msgid "I knew who they really were, all along."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f42c/0x000000
+msgid "I used them."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f42d/0x000000
+msgid "Guilty as charged."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f42d/0x000001
+msgid "Paz wasn't just CIA, you know. "
+msgstr ""
+
+#: slot/0x00db94df/0xb5f42d/0x000002
+msgid "She was working for the KGB, too."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f42e/0x000000
+msgid "And for this Cipher group."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f42e/0x000001
+msgid "In other words, she was a triple agent."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f445/0x000000
+msgid "Wait, let me finish."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f446/0x000000
+msgid "Listen,"
+msgstr ""
+
+#: slot/0x00db94df/0xb5f446/0x000001
+msgid ""
+"MSF never would have gotten this big \n"
+"if it weren't for them."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f447/0x000000
+msgid "This mercenary business we've built"
+msgstr ""
+
+#: slot/0x00db94df/0xb5f447/0x000001
+msgid ""
+"someday, it's going to be a new driving force \n"
+"in the world economy."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f448/0x000000
+msgid "...The Cold War's not going to last forever. "
+msgstr ""
+
+#: slot/0x00db94df/0xb5f448/0x000001
+msgid "Sooner or later, it's going to give way to "
+msgstr ""
+
+#: slot/0x00db94df/0xb5f448/0x000002
+msgid "an era of regional conflicts and terrorism."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f449/0x000000
+msgid ""
+"A paradigm shift from counter-Communism \n"
+"to counter-terrorism."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f44a/0x000000
+msgid "In the new age, armies won't be tied to states,"
+msgstr ""
+
+#: slot/0x00db94df/0xb5f44a/0x000001
+msgid "and war will become a business."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f44b/0x000000
+msgid "We'll be a valuable commodity. "
+msgstr ""
+
+#: slot/0x00db94df/0xb5f44b/0x000001
+msgid ""
+"There'll be clients all over the world \n"
+"who need our services."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f44c/0x000000
+msgid "MSF is only the beginning. "
+msgstr ""
+
+#: slot/0x00db94df/0xb5f44c/0x000001
+msgid "What we're creating here is a revolution in itself. Am I right?"
+msgstr ""
+
+#: slot/0x00db94df/0xb5f44e/0x000000
+msgid "Including that Cipher outfit..."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f465/0x000000
+msgid "I see your point."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f465/0x000001
+msgid "So what happens to us now?"
+msgstr ""
+
+#: slot/0x00db94df/0xb5f466/0x000000
+msgid "Not everybody's gonna be happy with us, huh?"
+msgstr ""
+
+#: slot/0x00db94df/0xb5f467/0x000000
+msgid ""
+"And these people would rather \n"
+"our \"army without borders\""
+msgstr ""
+
+#: slot/0x00db94df/0xb5f467/0x000001
+msgid "not exist at all?"
+msgstr ""
+
+#: slot/0x00db94df/0xb5f468/0x000000
+msgid "Then who are we going to fight?"
+msgstr ""
+
+#: slot/0x00db94df/0xb5f469/0x000000
+msgid "Which establishment?"
+msgstr ""
+
+#: slot/0x00db94df/0xb5f46a/0x000000
+msgid "Who, then?"
+msgstr ""
+
+#: slot/0x00db94df/0xb5f46b/0x000000
+msgid "I'm with you, Boss."
+msgstr ""
+
+#: slot/0x00db94df/0xb5f46b/0x000001
+msgid "We'll see how it turns out, together."
+msgstr ""
+
+#: slot/0x00db94df/0xb76db7/0x000000
+msgid ""
+"MIRV re-entry vehicles detected 5200, \n"
+"5300... Entering Terminal phase. "
+msgstr ""
+
+#: slot/0x00db94df/0xb97477/0x000000
+msgid "Estimated time to impact, 200 seconds,"
+msgstr ""
+
+#: slot/0x00db94df/0xb97477/0x000001
+msgid "195 seconds,"
+msgstr ""
+
+#: slot/0x00db94df/0xb97477/0x000002
+msgid "190 seconds,"
+msgstr ""
+
+#: slot/0x00db94df/0xb97477/0x000003
+msgid "185 seconds,"
+msgstr ""
+
+#: slot/0x00db94df/0xb97477/0x000004
+msgid "180 seconds,"
+msgstr ""
+
+#: slot/0x00db94df/0xb97477/0x000005
+msgid "175 seconds,"
+msgstr ""
+
+#: slot/0x00db94df/0xb97477/0x000006
+msgid "170 seconds,"
+msgstr ""
+
+#: slot/0x00db94df/0xb97477/0x000007
+msgid "165 seconds,"
+msgstr ""
+
+#: slot/0x00db94df/0xb97477/0x000008
+msgid "160 seconds,"
+msgstr ""
+
+#: slot/0x00db94df/0xb97477/0x000009
+msgid "155 seconds,"
+msgstr ""
+
+#: slot/0x00db94df/0xb97477/0x00000a
+msgid "150 seconds,"
+msgstr ""
+
+#: slot/0x00db94df/0xb97477/0x00000b
+msgid "145 seconds..."
+msgstr ""
+
+#: slot/0x00db94df/0xcfae74/0x000000
+msgid "Took you long enough... Big Boss."
+msgstr ""
+
+#: slot/0x00db94df/0xcfae76/0x000000
+msgid "Maybe I want to hurt somebody..."
+msgstr ""
+
+#: slot/0x00db94df/0xcfae77/0x000000
+msgid "Oh, I am myself all right... "
+msgstr ""
+
+#: slot/0x00db94df/0xcfae77/0x000001
+msgid "my true self."
+msgstr ""
+
+#: slot/0x00db94df/0xcfae78/0x000000
+msgid "I made some modifications... "
+msgstr ""
+
+#: slot/0x00db94df/0xcfae78/0x000001
+msgid "This machine was meant to have a human pilot."
+msgstr ""
+
+#: slot/0x00db94df/0xcfae79/0x000000
+msgid "Never thought I'd be into machines, huh?"
+msgstr ""
+
+#: slot/0x00db94df/0xcfae7a/0x000000
+msgid "I'm taking it back."
+msgstr ""
+
+#: slot/0x00db94df/0xcfae7b/0x000000
+msgid "To our leaders... "
+msgstr ""
+
+#: slot/0x00db94df/0xcfae7b/0x000001
+msgid "To Cipher."
+msgstr ""
+
+#: slot/0x00db94df/0xcfae7c/0x000000
+msgid "This weapon is Cipher's creation..."
+msgstr ""
+
+#: slot/0x00db94df/0xcfae94/0x000000
+msgid "Do not call me that!"
+msgstr ""
+
+#: slot/0x00db94df/0xcfae94/0x000001
+msgid "I'm Pacifica Ocean!"
+msgstr ""
+
+#: slot/0x00db94df/0xcfae95/0x000000
+msgid "My name, my age, my mission"
+msgstr ""
+
+#: slot/0x00db94df/0xcfae95/0x000001
+msgid "- Cipher gave them all to me. "
+msgstr ""
+
+#: slot/0x00db94df/0xcfae95/0x000002
+msgid "My entire life has but one purpose"
+msgstr ""
+
+#: slot/0x00db94df/0xcfae95/0x000003
+msgid "- to carry out Cipher's plan."
+msgstr ""
+
+#: slot/0x00db94df/0xcfae96/0x000000
+msgid "The nasty tobacco... the \"angel of peace\" crap... "
+msgstr ""
+
+#: slot/0x00db94df/0xcfae96/0x000001
+msgid "the whole \"teen with a dream\" routine... "
+msgstr ""
+
+#: slot/0x00db94df/0xcfae96/0x000002
+msgid "I'm through with all of it!"
+msgstr ""
+
+#: slot/0x00db94df/0xcfae98/0x000000
+msgid "I told you not to call me that!"
+msgstr ""
+
+#: slot/0x00db94df/0xcfae98/0x000001
+msgid "It makes me want to puke!"
+msgstr ""
+
+#: slot/0x00db94df/0xcfae99/0x000000
+msgid "Everything has gone exactly as we planned. "
+msgstr ""
+
+#: slot/0x00db94df/0xcfae99/0x000001
+msgid ""
+"Now the real Peace Walker Project is \n"
+"finally about to reach its goal."
+msgstr ""
+
+#: slot/0x00db94df/0xd1811e/0x000000
+msgid "What? What did I do?"
+msgstr ""
+
+#: slot/0x00db94df/0xeb57be/0x000000
+msgid "She's gonna launch a nuke! "
+msgstr ""
+
+#: slot/0x00db94df/0xeb57be/0x000001
+msgid "Snake, we've got to stop her, whatever it takes."
+msgstr ""
+
+#: slot/0x00db94df/0xeb57be/0x000002
+msgid "Awaiting your orders!"
+msgstr ""
+
+#: slot/0x00db94df/0xf4fea7/0x000000
+msgid "Commencing battle simulation."
+msgstr ""
+
+#: slot/0x00db94df/0xf63b06/0x000000
+msgid "It won't open... What's wrong with it?"
+msgstr ""
+
+#: slot/0x00db94df/0xf73b1e/0x000000
+msgid "Excellent, it's open."
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2c6
+msgid "Mission Only"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2c7
+msgid "Mother-Base"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2c8
+msgid "Offshore plant"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2c9
+msgid "New plant"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2ca
+msgid "Queen bee"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2cb
+msgid "Fulton Recovery"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2cd
+msgid "Militaires Sans Frontières"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2ce
+msgid "MSF's Goals"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2cf
+msgid "Special Forces"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2e6
+msgid "The Need for Metal Gear"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2e7
+msgid "Clients"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2e8
+msgid "Gálvez"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2ea
+msgid "Snuff Tobacco"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2eb
+msgid "CIPHER"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2ec
+msgid "Cold War"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2ed
+msgid "The Cold War"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2ee
+msgid "Nuclear Deterrence and Mutual Assured Destruction"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d2ef
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df4a
+msgid "The Cold War and Peace"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d306
+msgid "Situation in Central America"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d307
+msgid "The Cuban Missile Crisis"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d308
+msgid "Treaty of Tlatelolco"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d309
+msgid "Costa Rica's Abolition of its Army"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d30a
+msgid "The CIA's activities in Central America"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d30b
+msgid "How to pronounce \"CIA\""
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d30c
+msgid "The CIA-KGB relationship"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d30d
+msgid "Grenada"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d30e
+msgid "A Great Leader"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d30f
+msgid "Che Guevara"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d326
+msgid "Che's Footsteps"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d327
+msgid "The history of Guerilla Warfare"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d328
+msgid "Maté"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d329
+msgid "Che's visit to Hiroshima"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d32a
+msgid "Scarf"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d32b
+msgid "Peace Constitutions"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d32c
+msgid "Peace Constitution of Japan"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d32d
+msgid "Article 9 and the JSDF"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d32e
+msgid "The U.S-Japan Security Treaty"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d32f
+msgid "The Nuclear Umbrella"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d346
+msgid "The Three Non-Nuclear Principles"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d347
+msgid "The JSDF"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d348
+msgid "Why Miller quit the JSDF"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d349
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dba6
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfa7
+msgid "About himself"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d34a
+msgid "Roles within the Mother Base"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d34b
+msgid "Upbringing"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d34c
+msgid "How Miller met Snake"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d34d
+msgid "The Fundamentals of Stealth"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d34e
+msgid "Sneaking Mission"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d34f
+msgid "Effective Use of Fulton Recovery"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d366
+msgid "Body Checks"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d367
+msgid "Weight Carried"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d368
+msgid "Aim Tremors"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d369
+msgid "Dressing for the Mission"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d386
+msgid "CO-OP Ring"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d388
+msgid "CPR"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d38a
+msgid "Snake Sync"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d38c
+msgid "CO-OPS Weapons"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d38d
+msgid "CO-OPS Comms"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d38e
+msgid "Battle Cries & the Kotodama Effect"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d38f
+msgid "Special Items"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3a6
+msgid "Cardboard box"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3a7
+msgid "Two Men in a Box"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3a8
+msgid "Cardboard Tank"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3aa
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dae7
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db8c
+msgid "Mission Info"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3ab
+msgid "Make Contact with the FSLN Comandante"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3ac
+msgid "Tracking Amanda"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3ae
+msgid "How to plant C4 "
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3af
+msgid "Basilisco"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3c6
+msgid "AI Weapon Parts"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3c7
+msgid "To the Command Tower!"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3c8
+msgid "Target Practice / Puerto del Alba"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3c9
+msgid "Target Practice / Río del Jade"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3ca
+msgid "Target Practice / Aldea de los Despiertos"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3cb
+msgid "Target Practice / US Missile Base"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3cc
+msgid "Target Practice / Mining Barracks"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3cd
+msgid "Fulton Recovery Mission"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3ce
+msgid "Sweep-and-destroy"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3cf
+msgid "Hold-up"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3e6
+msgid "One-shot Mission"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3e7
+msgid "Sniping"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3e8
+msgid "Total Stealth"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3e9
+msgid "Pooyan mission"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3ea
+msgid "Key Supply Defense"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3eb
+msgid "Base Defense"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3ec
+msgid "Destroy the Transport Truck"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3ed
+msgid "Missile Interception"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3ee
+msgid "Destroy the Obstacle"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d3ef
+msgid "Recovering Snake's Gear"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6c6
+msgid "Enemy Soldier Types"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6c7
+msgid "CIA Mercenaries"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6c8
+msgid "Patrolmen & Guards"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6c9
+msgid "Commandos"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6ca
+msgid "Shock Troops"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6cb
+msgid "Scouts"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6cc
+msgid "Ghillie Suit Soldiers"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6cd
+msgid "Sentries"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6ce
+msgid "Escorts"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6cf
+msgid "Shield Soldiers"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6e6
+msgid "Soldier Level"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6e7
+msgid "Battle Range"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6e8
+msgid "Differences in Range Between Different Weapons"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6e9
+msgid "Close Range"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6ea
+msgid "Medium Range"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d6eb
+msgid "Long Range"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d707
+msgid "Costa Rica"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d708
+msgid "\"Costa Rica\""
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d709
+msgid "The Civil War"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d70a
+msgid "Policy Shift"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d70b
+msgid "University for Peace"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d70c
+msgid "Professor Gálvez"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d70d
+msgid "Costa Rican Coffee"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d70e
+msgid "Costa Rican Ruins"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d70f
+msgid "Costa Rica's Unarmed Neutrality"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d726
+msgid "Article 12 of the Constitution"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d727
+msgid "How it keeps the peace"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d728
+msgid "The reason the army was abolished"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d729
+msgid "Japan's peace constitution"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d72a
+msgid "Perpetual Peace"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d72b
+msgid "Costa Rica's natural environment"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d72c
+msgid "Costa Rica's tropical forests"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d72d
+msgid "Tropical rain forests"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d72e
+msgid "Tropical dry forests"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d72f
+msgid "Tropical cloud forests"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d746
+msgid "Morpho butterflies"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d747
+msgid "Biological diversity"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d748
+msgid "Costa Rican Development Corporation"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d749
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dac9
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbef
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df0a
+msgid "About herself"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d74a
+msgid "\"Paz\""
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d74b
+msgid "The Peace Sign"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d74c
+msgid "Childhood"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d74d
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dbab
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dec8
+#: slot/0x00dd0ea8/0x31a1fa/0xb6df0c
+#: slot/0x00dd0ea8/0x31a1fa/0xb6dfaa
+msgid "Role in Mother Base"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d74e
+msgid "Costa Rican Coast"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d768
+msgid "Eastern Limón"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d769
+msgid "El Cenegal - Jungle"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d76a
+msgid "El Cenegal - Ravine"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d76b
+msgid "El Cenegal - Swamp"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d76d
+msgid "Bananal Fruta de Oro - Sorting Shed"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d76e
+msgid "Bananal Fruta de Oro - Farm"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d76f
+msgid "Mt. Irazú Area"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d786
+msgid "Camino de Lava - Hillside"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d787
+msgid "Camino de Lava - Junction"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d788
+msgid "Aldea de los Despiertos"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d789
+msgid "Cafetal Aroma Encantado"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d78b
+msgid "Los Cantos - Canyon"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d78c
+msgid "Los Cantos - Ridge"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d78d
+msgid "Fuerte la Ladera"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d78f
+msgid "Central Heredia"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7a6
+msgid "Selva de la Leche - Jungle"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7a7
+msgid "Selva de la Leche - Hillside"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7a9
+msgid "Selva de la Muerte"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7ab
+msgid "AI Lab"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7ac
+#: slot/0x00dd0ea8/0x31a1fa/0xb6db69
+msgid "Mine Base"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7ad
+msgid "Miner's Residence"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7af
+msgid "Nicaragua"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7c6
+msgid "History"
+msgstr ""
+
+#: slot/0x00dd0ea8/0x31a1fa/0xb6d7c7
+msgid "The Nicaragua Canal"
+msgstr ""

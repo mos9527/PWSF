@@ -1,0 +1,1894 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF slot 3/26\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: slot\n"
+"X-PWSF-Entries: 400\n"
+
+
+#: slot/0x001df209/0xe6e4ed/0xa57bdd
+msgid ""
+"Select any Channel by using the up button or down button.\r\n"
+"Press <I=DEC> to recruit CO-OPS players."
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xab9bf2
+msgid "Displays all missions."
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xabe508
+msgid "Select a mission from the EXTRA OPS list."
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xb825f0
+msgid ""
+"The WLAN/WIRELESS switch has been turned OFF,\n"
+"resulting in the termination of communication.\n"
+"Returning to MISSION SELECTOR. "
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xb96848
+msgid "Confirm or change the control settings."
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xc38a04
+#: slot/0x001df209/0xe6e4ed/0xf4c853
+msgid "STARTING RECRUITMENT..."
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xc464af
+msgid ""
+"Starting the mission.  \n"
+"Please wait..."
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xc4f310
+msgid "AREA SELECT: "
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xc9a3e0
+msgid ""
+"For a SINGLE PLAYER game, select SINGLE.\n"
+"To recruit other players and play CO-OPS, select HOST."
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xca66c7
+#: slot/0x005a5b84/0x9c12db/0x14bb3b
+#: slot/0x005a5b84/0x9c12db/0x5f906c
+#: slot/0x0068bf67/0x7c7faa/0xca66c7
+#: slot/0x0083b291/0x77a106/0x5e11ee
+#: slot/0x0097f0b2/0x80a608/0x0401df
+#: slot/0x0097f0b2/0x80a608/0xfcf065
+#: slot/0x00b9910a/0x32b0cb/0x75abd4
+#: slot/0x00b9910a/0x6b2d56/0x000e2f
+#: slot/0x00b9910a/0x6bb005/0x936e55
+#: slot/0x00d9af4c/0x1bed50/0x000a0f
+msgid "NO"
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xcb251d
+msgid "MISSION INFO:  "
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xce0403
+msgid ""
+"Recruitment of other players has started.\n"
+"Please inform hopeful participants of the correct Channel.\n"
+"If other players select this mission from the CO-OPS tab, this will be displayed in CO-OPS INFO at the bottom-right."
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xd53f61
+#: slot/0x005a5b84/0x9c12db/0x0e0ddc
+#: slot/0x005a5b84/0x9c12db/0xf96088
+#: slot/0x0068bf67/0x7c7faa/0xd53f61
+#: slot/0x0083b291/0x77a106/0x2df5f4
+#: slot/0x0097f0b2/0xcd1d58/0xe409c9
+#: slot/0x00d9af4c/0x1bed50/0x381576
+#: slot/0x00efed13/0x5f4143/0x916e3e
+msgid "CANCEL"
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xd8e1ad
+msgid "Participation in CO-OPS has been denied."
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xe2ebfe
+msgid "MAIN OPS"
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xea998c
+msgid "Change equipment and handle other preparations for participation.  CO-OPS participants will be displayed at the bottom-right of the screen.   Select START MISSION when ready."
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xeadbbf
+msgid "Caribbean Coast, Costa Rica"
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xeadbc0
+msgid "Eastern Limón, Costa Rica"
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xeef458
+msgid ""
+"Connection Successful.\n"
+"\n"
+"Any missions in the selected channel that are currently recruiting players will be displayed in the CO-OPS tab.\n"
+"Select a mission from the CO-OPS tab to participate."
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xf756da
+#: slot/0x0099cb1e/0xb1b785/0x29e0fc
+msgid "Barranquilla Coast, Colombia"
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xf756dc
+msgid "Volcán Irazú, Costa Rica"
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xf756dd
+msgid "Central Heredia, Costa Rica"
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xf756de
+msgid "Mine Base, Costa Rica"
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xf756df
+#: slot/0x0099cb1e/0xb1b7a3/0x29e0fc
+msgid "U.S. Missile Base, Nicaragua"
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xf756e0
+msgid "Mother Base"
+msgstr ""
+
+#: slot/0x001df209/0xe6e4ed/0xf82512
+msgid "SOLDIER SEARCH"
+msgstr ""
+
+#: slot/0x002088cc/0x2ba8a7/0x000000
+msgid "Right on time. Excellent."
+msgstr ""
+
+#: slot/0x002088cc/0x2ba8a7/0x000001
+msgid ""
+"It's been exactly twelve hours since we\n"
+"administered the drug."
+msgstr ""
+
+#: slot/0x002088cc/0x2ba8a7/0x000002
+msgid "I trust your dreams were pleasant...Big Boss?"
+msgstr ""
+
+#. comic cutscene
+#: slot/0x002088cc/0x2ba8a7/0x000003
+#: slot/0x003b054d/0x33d29e/0x000045
+#: slot/0x00db94df/0x94ec7b/0x000000
+#: slot/0x00dff09b/0xaf8d11/0x000064
+#: slot/0x00dff0a5/0xa84a6a/0x000056
+#: slot/0x00dff0a5/0xa84a6a/0x000066
+msgid "What are you talking about?"
+msgstr ""
+
+#: slot/0x002088cc/0x2ba8a7/0x000004
+msgid "Please, drop the act. I know all about you, Boss."
+msgstr ""
+
+#: slot/0x002088cc/0x2ba8a7/0x000005
+msgid "Or would you prefer I called you... Naked Snake?"
+msgstr ""
+
+#: slot/0x002088cc/0x2ba8a7/0x000006
+msgid "Sounds like you've got the right guy."
+msgstr ""
+
+#. comic cutscene
+#: slot/0x002088cc/0x2ba8a7/0x000007
+#: slot/0x003af9cd/0x327091/0x000001
+#: slot/0x003afd0d/0xb27d78/0x000002
+#: slot/0x003afd2d/0x597e7d/0x000007
+msgid "Who are you?"
+msgstr ""
+
+#: slot/0x002088cc/0x2ba8a7/0x000008
+msgid ""
+"My name is Lt. Cunningham.\n"
+"Until four weeks ago, I was with the CIA."
+msgstr ""
+
+#: slot/0x002088cc/0x2ba8a7/0x000009
+msgid "Cunningham...? FOX Unit's interrogation specialist?"
+msgstr ""
+
+#: slot/0x002088cc/0x2ba8a7/0x00000a
+msgid "Ah, so you have heard of me. I'm honored, Snake."
+msgstr ""
+
+#: slot/0x002088cc/0x2ba8a7/0x00000b
+msgid ""
+"And those guys who attacked me --\n"
+"they were FOX, too?"
+msgstr ""
+
+#: slot/0x002088cc/0x2ba8a7/0x00000c
+msgid "Yeah... Although, we'll leave it at that, for now."
+msgstr ""
+
+#: slot/0x002088cc/0x2ba8a7/0x00000d
+msgid "What do you want from me? I'm retired from FOX."
+msgstr ""
+
+#: slot/0x002088cc/0x2ba8a7/0x00000e
+msgid ""
+"I'm guessing this isn't a social call or you\n"
+"wouldn't have brought the goons."
+msgstr ""
+
+#: slot/0x002088cc/0x2ba8a7/0x00000f
+msgid "Retired?"
+msgstr ""
+
+#: slot/0x002088cc/0x2ba8a7/0x000010
+msgid "Yeah, I suppose you are, to the outside world."
+msgstr ""
+
+#: slot/0x00218ea9/0xe24ed2/0x175039
+msgid "(TPS-L2)"
+msgstr ""
+
+#: slot/0x00218ea9/0xe24ed2/0x5d396e
+#: slot/0x00d9b1f3/0x1331ad/0x1f3cf4
+msgid "PLAY"
+msgstr ""
+
+#: slot/0x00218ea9/0xe24ed2/0x99be67
+msgid "STOP"
+msgstr ""
+
+#: slot/0x00218ea9/0xe24ed2/0x9fb6d5
+msgid "PLAY LIST"
+msgstr ""
+
+#: slot/0x00218ea9/0xe24ed2/0xbfcd35
+msgid "SHUFFLE"
+msgstr ""
+
+#: slot/0x00218ea9/0xe24ed2/0xea0754
+msgid "(WM-2)"
+msgstr ""
+
+#: slot/0x00218ea9/0xe24ed2/0xea0755
+msgid "(WM-EX88)"
+msgstr ""
+
+#: slot/0x00218ea9/0xe24ed2/0xea0756
+msgid "(NWD-W202)"
+msgstr ""
+
+#: slot/0x00218ea9/0xe24ed2/0xf324d0
+msgid "HOLD <I=○> BUTTON DOWN"
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x094d7e
+msgid "An error has occurred.  The connection has failed."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x12c80f
+msgid "The search was canceled because the WLAN/WIRELESS switch was turned off."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x191132
+msgid "The search was canceled because the system entered sleep mode."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x1c9eb3
+msgid ""
+"Unable to locate access point.\n"
+"\n"
+"There do not appear to be any volunteers nearby.\n"
+"Please try again somewhere else."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x1e9b99
+msgid "Unable to join the host because the WLAN/WIRELESS switch has been turned off."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x268f77
+msgid "A connection error has occurred."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x29ae3f
+msgid "Unable to create host because of a connection error."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x2c7fe9
+msgid "OFFLINE"
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x33b9a9
+msgid "Weapons are required on this mission."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x3f0fd6
+msgid ""
+"This mission requires:\n"
+"$1."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x44c1a6
+msgid "Snake is not available."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x4538b3
+msgid ""
+"A uniform that cannot be used in battle has been selected\n"
+"\n"
+"$1"
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x4b117c
+msgid "Unable to start connection because the system entered sleep mode."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x578e75
+msgid "Unable to join the host because of a connection error."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x5a6acf
+msgid ""
+"The following equipment cannot be used on this mission:\n"
+"\n"
+"$1\n"
+"$2\n"
+"$3\n"
+"$4"
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x5afad2
+msgid "Lethal weapons are required on this mission."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x61f444
+#: slot/0x0022b9c8/0xc44774/0xb45145
+msgid "The connection has been terminated because the WLAN/WIRELESS switch was turned off."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x645811
+#: slot/0x0022b9c8/0xc44774/0x6d2c97
+msgid ""
+"Connection failed.\n"
+"The WLAN/WIRELESS switch is not turned on.\n"
+"Please change the switch to the ON position and try again."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x65a23d
+#: slot/0x0022b9c8/0xc44774/0x8e4e0b
+#: slot/0x0022b9c8/0xc44774/0xfe97db
+msgid "The connection was interrupted because the system entered sleep mode."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x693748
+msgid ""
+"The following equipment cannot be used on this mission:\n"
+"\n"
+"$1\n"
+"$2\n"
+"$3\n"
+"$4\n"
+"\n"
+"To continue anyway, select OK."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x693868
+msgid ""
+"The following equipment cannot be used:\n"
+"\n"
+"$1\n"
+"$2\n"
+"$3\n"
+"$4"
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x6ce686
+msgid "Snake is not available on this mission."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x75d179
+msgid "No weapons / items can be equipped on this mission."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x82c55f
+msgid "Other"
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0x938273
+msgid "Unable to join the host because the system entered sleep mode."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0xa45893
+msgid "ONLINE"
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0xa6d60e
+msgid "Snake is the only character available on this mission."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0xc2a3dd
+msgid "The connection with the host was interrupted."
+msgstr ""
+
+#: slot/0x0022b9c8/0xc44774/0xd74d33
+msgid "The search was canceled because of a connection error."
+msgstr ""
+
+#: slot/0x0022e834/0x5e83f2/0x000000
+msgid "(Quiet!)"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x01fbc4
+msgid ""
+"Join a game created by another player. \n"
+"Select soldiers to deploy from staff assigned to the Combat Unit."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x043e43
+msgid "Set the time spent in the BRIEFING MENU before a battle."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x07d590
+msgid "Deathmatch: Tickets"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x0a57d1
+msgid "Check detailed settings."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x0d0e80
+#: slot/0x0068bf67/0x7c7faa/0x769f6b
+msgid "EDIT"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x0d1046
+msgid "ENTER PASSWORD"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x0d345a
+msgid "VR MODE (Training Mode)"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x13ba80
+msgid "Join the game on the current host."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x13c90e
+msgid "When disabled, players' attacks will not harm teammates."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x146e0b
+msgid "Set the number of tickets for Team Deathmatches."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x17d2d7
+msgid "Check versus rules and map settings."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x1b22e1
+msgid " min"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x1c280f
+msgid "Set password."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x1d6be9
+msgid "Set whether or not players can use Snake."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x1d749e
+msgid "Detailed Rule Settings: Set game rules."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x1ecb74
+msgid "Team Kill Kick"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x1f0b39
+msgid "Select a host."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x1f4227
+msgid "VERSUS OPS HELP"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x2092d6
+msgid "TOP MENU"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x2291c7
+msgid "Press <I=DEC> to enable/disable the password."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x265341
+msgid ""
+"This is a list of hosts that were found.\n"
+"Select the host you want to join."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x2a372a
+msgid "Set versus game rules and stages."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x2d35d2
+msgid "Dedicated Host"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x2de59b
+msgid "Set the maximum number of simultaneous players."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x2e7af8
+msgid "Team Auto-Balancing"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x322e8c
+msgid "Set the round time for Base Missions."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x327810
+#: slot/0x002362b8/0x19f879/0x494630
+msgid "ST."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x338df7
+msgid "99 min"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x34a358
+#: slot/0x002362b8/0x19f879/0x3d36db
+msgid "STAGE SETTINGS"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x357f4a
+msgid "WEAPON RESTRICTION SETTINGS"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x397af1
+msgid "Set the number of rounds for Base Missions."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x3a4e9a
+msgid "Snake Availability"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x3a9955
+msgid "CHECK RULE OPTIONS"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x3a9bd5
+msgid "DETAILED RULE SETTINGS"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x3b7023
+msgid "DEATHMATCH SETTINGS"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x3fb3c6
+msgid "Max Players"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x405ece
+msgid ""
+"When enabled, teams are assigned automatically.\n"
+"When disabled, teams can be selected manually."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x435e66
+#: slot/0x002362b8/0x19f879/0x6ad4f0
+msgid "DETAILED SETTINGS"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x44a731
+#: slot/0x0083b291/0x77a106/0xc2385b
+#: slot/0x0083b291/0xff8cbc/0x35225b
+msgid "MAP"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x45ed15
+msgid "Connecting..."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x466bf1
+msgid "1 min"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x467b73
+msgid ""
+"Use the up/down buttons to select a channel.\n"
+"Press <I=DEC> button to start searching for a host."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x46ebf1
+msgid "2 min"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x476bf1
+msgid "3 min"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x478c77
+msgid "Set the number of rounds for Capture Missions."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x486bf1
+msgid "5 min"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x4b5317
+#: slot/0x00b96275/0x947b26/0xb577cd
+#: slot/0x00d9b1f3/0x1331ad/0xb577cd
+msgid "DELETE"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x4cf5de
+msgid "Available"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x4cfc89
+msgid "Set the number of rounds for Deathmatches."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x4e336d
+msgid "Team Deathmatch: Tickets"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x4f59ce
+msgid "Check detailed game settings."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x55cae2
+msgid "Base Mission: Round Time"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x563b59
+msgid "Start a game with the current settings."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x564258
+msgid "Delete this stage."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x577a88
+msgid "Unable to join.  Host channel is currently full."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x584af7
+msgid "SELECT HOST"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x5a5a9b
+msgid "Check settings for the stage."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x5d155e
+msgid "Capture Mission: Rounds"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x5d49f4
+msgid "HOST NAME"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x5e057c
+msgid "SELECT HOST CHANNEL"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x6035de
+msgid "Start search."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x61aa94
+#: slot/0x0083b291/0xff8cbc/0x6da6dd
+#: slot/0x0083b291/0xff8cbc/0xa71b2b
+msgid "RULES"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x61f1c3
+msgid "CHECK RULES / MAP LIST"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x620320
+#: slot/0x002362b8/0x19f879/0x7612df
+#: slot/0x002362b8/0x19f879/0xb86086
+msgid "SET PASSWORD"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x6455c3
+msgid "MODE"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x6458a2
+msgid "Change character selection/equipment."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x65c7f8
+msgid "Unavailable"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x666f79
+msgid "Friendly Fire"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x668dca
+msgid ""
+"Create and host and a new versus game.\n"
+"Select soldiers to deploy from staff assigned to the Combat Unit."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x66b19b
+msgid "Versus Options Check Menu"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x68291f
+msgid "Assault Rifles"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x683f39
+msgid "Grenade Launchers"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x68439b
+msgid "Handguns"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x685714
+msgid "Machine Guns"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x685919
+msgid "Missile Launchers"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x687031
+msgid "Shields"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x687054
+msgid "Submachine Guns"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x68707f
+msgid "Sniper Rifles"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x687134
+msgid "Shotguns"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x6873bf
+msgid "Throwing Weapons"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x6874fd
+msgid "Placeable Weapons"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x689f83
+msgid "10"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x689fa3
+msgid "20"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x689fc3
+msgid "30"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x689fe3
+msgid "40"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x68a003
+msgid "50"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x68a023
+msgid "60"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x68a043
+msgid "70"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x68a063
+msgid "80"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x68a08c
+msgid "99"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x69714b
+msgid "Check stage settings, rules, and map"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x6dff37
+msgid "CAPTURE TARGET SETTINGS"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x6e4394
+msgid "TEAM DEATHMATCH SETTINGS"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x6ef38f
+msgid "CREATE RULES / MAP LIST"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x6f3ccf
+msgid "Set the possession time for Capture Missions."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x731a0e
+msgid "Enter the password"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x742267
+msgid "START GAME"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x75954d
+msgid "SELECT CHANNEL TO SEARCH"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x7f3e3e
+msgid "Set a password to join your game."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x827550
+msgid ""
+"When enabled, players that have killed a\n"
+"teammate three or more times will be kicked."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x8454e2
+msgid "The password is incorrect."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x84bf02
+msgid "<Add Stage>"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x84c5b6
+msgid "Capture Mission: Possession Time"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x85a8d0
+msgid "Deathmatch: Rounds"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x85d65f
+msgid "HOST MENU"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x892148
+msgid "Select a character and change equipment."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x8b3ec0
+msgid "GENERAL SETTINGS"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x8ce2c9
+msgid "When disabled, headshots are treated as normal damage."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x8f02b6
+msgid "Briefing Time"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x8f3a58
+msgid ""
+"VERSUS OPS is a competitive game mode that allows\n"
+"up to 6 players to engage in battle against each other.\n"
+"\n"
+"There are 4 game types (rules) available:\n"
+"\n"
+" DEATH MATCH\n"
+" TEAM DEATH MATCH\n"
+" CAPTURE MISSION\n"
+" BASE MISSION\n"
+"\n"
+"--------\n"
+"\n"
+"Please note that VERSUS OPS play may differ from\n"
+"MAIN OPS in the following ways:\n"
+"\n"
+" - Weapon and equipment power and effects may vary.\n"
+" - CO-OP Ring radius and effects may vary.\n"
+" - Camaraderie and Heroism effects may vary.\n"
+" - Certain staff skills may have no effect.\n"
+" - Certain weapons may be prohibited.\n"
+" - Certain types of equipment may be prohibited.\n"
+" - CO-OPS COMM. effects may vary.\n"
+" - LIFE and PSYCHE do not recover,\n"
+"    even if you stay still.\n"
+"\n"
+"--------\n"
+"\n"
+"CPR\n"
+"\n"
+"As with other OPS, VERSUS OPS allow you to use\n"
+"CPR to revive teammates that are near death, but\n"
+"there are some important differences, which are\n"
+"noted below:\n"
+"\n"
+" - The number of chest compressions necessary\n"
+"    for revival differs.\n"
+" - Teammates die if they are not revived within\n"
+"    10 seconds.\n"
+" - If you want to get back into the action quickly and\n"
+"    can't wait for a teammate to revive you, tap the\n"
+"    Action Button repeatedly to shorten the time."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x9188c1
+msgid "Select a map to play in this stage."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x92ac58
+msgid "Challenge nearby players to a VS match using an Ad Hoc connection.  2 teams of up to 3 players are allowed."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x95b119
+msgid "EDIT MENU:"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x98ed16
+msgid "When enabled, players that are idle for 10 minutes will be kicked."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x9b44fa
+#: slot/0x00eeea4a/0x3d5436/0xdc6a24
+msgid "1"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x9b44fb
+#: slot/0x00eeea4a/0x3d5436/0xdc6a25
+msgid "2"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x9b44fc
+#: slot/0x00eeea4a/0x3d5436/0xdc6a26
+msgid "3"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x9b44fd
+#: slot/0x00eeea4a/0x3d5436/0xdc6a27
+msgid "4"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x9b44fe
+#: slot/0x00eeea4a/0x3d5436/0xdc6a28
+msgid "5"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x9b44ff
+#: slot/0x00eeea4a/0x3d5436/0xdc6a29
+msgid "6"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x9b4500
+#: slot/0x00eeea4a/0x3d5436/0xdc6a2a
+msgid "7"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x9b4501
+#: slot/0x00eeea4a/0x3d5436/0xdc6a2b
+msgid "8"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x9b4502
+#: slot/0x00eeea4a/0x3d5436/0xdc6a2c
+msgid "9"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x9cede3
+msgid "Joining game... "
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0x9ebc3f
+msgid "Enable"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xa179df
+msgid "Quit and return to Mother Base?"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xa2618e
+msgid "Set round time for Deathmatches."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xa34ae0
+msgid "Select a channel"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xa4ea91
+msgid "Channel selection:"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xa5788e
+msgid "CLIENT MENU"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xa57bdd
+msgid ""
+"Use the up/down buttons to select a channel.\n"
+"Press <I=DEC> to start hosting."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xa57c30
+msgid "Capture Mission: Round Time"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xa68da4
+msgid "Team Deathmatch: Round Time"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xa69f8f
+msgid "GAME MODE"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xaf0df6
+msgid "10 min"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xb4bef7
+#: slot/0x0074a6ca/0xcc177c/0x609ff4
+#: slot/0x0074a6ca/0xcc177c/0x8dd7a0
+#: slot/0x0097f0b2/0xbe101c/0xffaebf
+#: slot/0x0097f0b2/0xcd1d58/0x714d48
+#: slot/0x00d9af4c/0x1bed50/0x251dd0
+msgid "HELP"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xb7a88d
+msgid "Change Password"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xb7ea75
+msgid "Deathmatch: Round Time"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xbb8801
+msgid "VR"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xbf6792
+msgid "CONTROL BASE SETTINGS "
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xc297b4
+msgid "Press <I=DEC> to change the password using an onscreen keyboard."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xc48fb1
+msgid "Important information on versus battles."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xc7fb79
+msgid "Password: Disabled"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xc906ad
+msgid "HOST a new VS game.  Select soldiers to deploy from staff assigned to the Combat Unit."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xc92b14
+msgid "Check rule settings"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xca63aa
+msgid "VR (Training Mode)"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xcb3e60
+msgid "Attack or defend the bases on the map."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xcbc65d
+msgid "Stage Settings Menu: Edit rules and maps."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xcbd2fb
+msgid "Set whether or not assault rifles can be used."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xcbe915
+msgid "Set whether or not grenade launchers can be used."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xcbed77
+msgid "Set whether or not handguns can be used."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xcc00f0
+msgid "Set whether or not machine guns can be used."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xcc02f5
+msgid "Set whether or not missile launchers can be used."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xcc1a0d
+msgid "Set whether or not shields can be used."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xcc1a30
+msgid "Set whether or not submachine guns can be used."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xcc1a5b
+msgid "Set whether or not sniper rifles can be used."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xcc1b10
+msgid "Set whether or not shotguns can be used."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xcc1d9b
+msgid "Set whether or not throwing weapons can be used."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xcc1ed9
+msgid "Set whether or not placeable weapons can be used."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xcf0df6
+msgid "30 min"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xd41ca2
+msgid "Change password settings for versus games."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xd4a760
+msgid ""
+"Select \"YES\" if you will not be playing and want to\n"
+"be a dedicated server for other players."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xd7ccaf
+msgid "Password"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xdd513b
+msgid "Edit the settings for this stage."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xde5ded
+msgid "Capture the quetzal."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xdea24a
+msgid "Team battle between the red team and the blue team."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xded2f0
+msgid "INSERT"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xdedb69
+msgid ""
+"Set stage.\n"
+"Select <Add Stage> to add a stage."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xe0a617
+msgid "Set detailed game settings."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xe372ea
+msgid "Start the game."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xe5713a
+#: slot/0x007b474a/0xbf29c8/0x061918
+msgid "Headshots"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xe79502
+msgid "Set the number of rounds for team Deathmatches."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xe9c231
+msgid "Insert a new stage at this point."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xea0ca4
+msgid "Set a password that is at least $1 characters long."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xea97d3
+msgid "Base Mission: Rounds"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xed4513
+msgid "Password: Enabled"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xee3baa
+msgid ""
+"VERSUS OPS\n"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xeef318
+msgid "Free-for-all battle with no teams."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xf17540
+msgid "HOST GAME"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xf17b87
+msgid "Idle Kick"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xf45f4d
+msgid "Set the round time for Capture Missions."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xf570c1
+msgid "Set the round time for Team Deathmatches."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xf60764
+msgid "Set the number of tickets for Deathmatches."
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xf6e0ef
+msgid "Disable"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xf70e0a
+msgid "JOIN GAME"
+msgstr ""
+
+#: slot/0x002362b8/0x19f879/0xfd1de9
+msgid "Team Deathmatch: Rounds"
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0x0a0b3b
+msgid "Searching hosts..."
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0x194fb7
+msgid "Connection with trading partner was lost."
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0x1acb4f
+msgid "USERNAME"
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0x20450b
+msgid ""
+"No staff in the Trade Waiting Room.\n"
+"Returning to Mother Base."
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0x2c3126
+msgid "Trade staff with this player. "
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0x36e94e
+msgid ""
+"The WLAN/WIRELESS switch is not turned on.\n"
+"Turn it on and select OK.\n"
+"Select Cancel to return to Mother Base."
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0x375974
+msgid "Are you sure you want to trade staff with this player?"
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0x41dad4
+msgid "The WLAN/WIRELESS switch is not turned on."
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0x54cef4
+#: slot/0x0024c900/0xb767d9/0x597586
+msgid "Are you sure you want to return to the TRADE menu?"
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0x5f03f5
+msgid "TRADE LOBBY"
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0x7183c7
+msgid "Search existing hosts."
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0x85c256
+#: slot/0x0024c900/0x6c8948/0xf2450a
+msgid "Select a channel."
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0x92ca64
+msgid "Are you sure you want to return to Mother Base?"
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0x9b5f15
+msgid "Requesting connection to host..."
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0xbb77b0
+msgid "Serve as host and trade staff."
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0xcb9fd5
+msgid "Connection with host was lost."
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0xd71eb4
+msgid "Select a player to trade with. You can change channels in HOST SEARCH."
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0xdec424
+msgid "  HOST SEARCH"
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0xe03d5f
+msgid "CREATE HOST"
+msgstr ""
+
+#: slot/0x0024c900/0x6c8948/0xef1b6e
+msgid ""
+"The system entered sleep mode.\n"
+"Returning to TRADE menu."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x10a2d6
+msgid "Staff to Receive"
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x16bbbe
+msgid "Trade complete."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x208043
+msgid "This is the final confirmation screen. Review the conditions of the trade and press <I=DEC> to confirm."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x2b08d5
+msgid "Host has ended the trade. Returning to the LOBBY menu."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x319f91
+msgid "Now trading..."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x3d49ca
+msgid "（不要）Your List"
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x3d49d0
+msgid "（不要）Partner's List"
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x4b1615
+msgid "Preparing to trade..."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x4e6e3d
+msgid "Confirming staff to be traded..."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x50476b
+msgid "Select the staff you want."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x54282d
+msgid "Selecting staff..."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x589ae1
+#: slot/0x0024c900/0xb767d9/0xe0f520
+msgid "Executing trade..."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x5903de
+msgid "Staff to Give"
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x5e167e
+msgid ""
+"This member has already been received at the same time and with the same CO-OPS teammate.\n"
+"Due to the staff member already existing in your Mother Base, you are unable to trade.\n"
+"Please select a different staff member."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x62799f
+msgid "Waiting for trading partner..."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x65d9ca
+msgid "EXECUTE TRADE"
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x77199a
+msgid "Here is a list of selected staff. Proceed by pressing <I=DEC>."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x7b1cf7
+msgid "Neither you nor your partner has selected any staff."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x7ede22
+msgid "Trade finished. Waiting for partner to complete processing..."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x80d74e
+msgid "These staff members cannot be traded because their difference in ability is too great.  Please select staff whose highest abilities are of the same rank."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x86d9a7
+msgid "Trade finished."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x89b9b4
+msgid "This will complete staff selection. Are you sure you want to proceed?"
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x91e92a
+msgid "This will cancel the trade with your current partner and return you to the LOBBY screen. Are you sure you want to proceed?"
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0x91f6a5
+msgid "Staff confirmation complete."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0xbb1650
+msgid "Selection complete."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0xbf3442
+msgid "Waiting for partner to accept..."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0xc76899
+msgid "Trade complete. Returning to the TRADE menu."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0xc831c6
+msgid "This will cancel the trade with your current partner and return you to the TRADE menu. Are you sure you want to proceed?"
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0xd1399a
+msgid "Beginning trade. You can cancel by pressing <I=CAN>."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0xdc7c67
+msgid "Waiting for partner to select..."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0xe642d7
+msgid "An error has occurred. Returning to the LOBBY menu."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0xe6532f
+msgid "Are you sure you want to execute this trade?"
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0xe6d1ea
+msgid "Trading partner has canceled the trade."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0xf433ef
+msgid ""
+"Both you and your partner have completed staff selection.\n"
+"After confirming the staff to be traded, select OK."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0xf4dd7e
+msgid "Waiting for partner..."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0xfc62ef
+msgid "Trading partner has canceled."
+msgstr ""
+
+#: slot/0x0024c900/0xb767d9/0xfcd419
+msgid "Waiting for partner to select staff..."
+msgstr ""
+
+#: slot/0x00272813/0x2d0e66/0xf19383
+#: slot/0x00272813/0x2d0e6b/0xf19383
+msgid "Camera Button"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e66/0xf29383
+msgid "Use these controls for Up/Down camera movement"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e67/0xf19383
+#: slot/0x00272813/0x2d0e68/0xf19383
+#: slot/0x00272813/0x2d0e69/0xf19383
+#: slot/0x00272813/0x2d0e6a/0xf19383
+#: slot/0x00272813/0x2d0e6c/0xf19383
+#: slot/0x00272813/0x2d0e6d/0xf19383
+#: slot/0x00272813/0x2d0e6e/0xf19383
+#: slot/0x00272813/0x2d0e85/0xf19383
+#: slot/0x00f1b9c2/0x188473/0x48112c
+#: slot/0x00f1b9c2/0x188473/0xd0903a
+#: slot/0x00f1b9c2/0x188473/0xe7407f
+msgid "Action Button"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e67/0xf29383
+msgid ""
+"Press the Action Button to confirm \n"
+"<I=△> button: Look Up \n"
+"<I=×> button: Look Down"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e68/0xf29383
+msgid ""
+"Press the Action Button to confirm \n"
+"<I=△> button: Look Down \n"
+"<I=×> button: Look Up"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e69/0xf29383
+msgid ""
+"Press the Action Button to confirm \n"
+"Up button: Look Up\n"
+"Down button: Look Down"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e6a/0xf29383
+msgid ""
+"Press the Action Button to confirm \n"
+"Up button: Look Down\n"
+"Down button: Look Up"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e6b/0xf29383
+msgid "Use these controls for Left/Right camera movement"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e6c/0xf29383
+msgid ""
+"Press the Action Button to confirm \n"
+"<I=□> button: Look Left \n"
+"<I=○> button: Look Right"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e6d/0xf29383
+msgid ""
+"Press the Action Button to confirm \n"
+"<I=□> button: Look Right \n"
+"<I=○> button: Look Left"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e6e/0xf29383
+msgid ""
+"Press the Action Button to confirm \n"
+"Left button: Look Left \n"
+"Right button: Look Right"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e85/0xf29383
+msgid ""
+"Press the Action Button to confirm \n"
+"Left button: Look Right \n"
+"Right button: Look Left"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e86/0xf19383
+msgid "Crouch Button"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e87/0xf19383
+#: slot/0x00272813/0x2d0ea5/0xf19383
+#: slot/0x005a5b84/0x9c12db/0x697e47
+msgid "analog stick"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e88/0xf19383
+msgid "analog stick + (tap) Attack Button"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e88/0xf29383
+#: slot/0x00272813/0x2d0e89/0xf29383
+msgid ""
+"When the enemy is far away \n"
+"and you are running"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e89/0xf19383
+msgid "analog stick + Crouch Button"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e8a/0xf19383
+#: slot/0x00272813/0x2d0e8e/0xf19383
+#: slot/0x00272813/0x2d0ea6/0xf19383
+msgid "Attack Button"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e8b/0xf19383
+msgid "Aim Button + Attack Button"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e8c/0xf19383
+msgid "Aim Button (<I=△>) + Attack Button (<I=△>)"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e8d/0xf19383
+msgid "Analog stick + Attack Button"
+msgstr ""
+
+#: slot/0x00272813/0x2d0e8d/0xf29383
+#: slot/0x00272813/0x2d0e8e/0xf29383
+#: slot/0x00272813/0x2d0ea8/0xf29383
+#: slot/0x00272813/0x2d0ea9/0xf29383
+msgid ""
+"When the enemy is nearby, \n"
+"and the icon appears"
+msgstr ""
+
+#: slot/0x00272813/0x2d0ea5/0xf29383
+msgid "When restraining the enemy"
+msgstr ""
+
+#: slot/0x00272813/0x2d0ea6/0xf29383
+#: slot/0x00272813/0x2d0eab/0xf29383
+msgid "When throwing the enemy"
+msgstr ""
+
+#: slot/0x00272813/0x2d0ea8/0xf19383
+msgid "Analog stick + Hand-to-Hand Attack Button (<I=□>)"
+msgstr ""
+
+#: slot/0x00272813/0x2d0ea9/0xf19383
+#: slot/0x00272813/0x2d0eaa/0xf19383
+#: slot/0x00272813/0x2d0eab/0xf19383
+msgid "Hand-to-Hand Attack Button (<I=□>)"
+msgstr ""
+
+#: slot/0x002b7c21/0x014c8f/0x09e2e4
+msgid "YOU LOSE"
+msgstr ""
+
+#: slot/0x002b7c21/0x014c8f/0x09e53f
+msgid "TIME PENALTY -$1sec"
+msgstr ""
+
+#: slot/0x002b7c21/0x014c8f/0x635f42
+msgid "TIME EXTENSION +$1sec"
+msgstr ""
+
+#: slot/0x002b7c21/0x014c8f/0xf87b0f
+msgid "YOU WIN"
+msgstr ""
+
+#: slot/0x002dccc3/0x0f92df/0x969098
+msgid "A custom Mi-24A. It has been field-upgraded to increase its overall offensive and defensive power."
+msgstr ""
+
+#: slot/0x002dccc3/0x2d87ab/0x9d6343
+msgid ""
+"A prototype next-generation tank developed as a joint project between the U.S. and West Germany, the two leading tank manufacturers in the West; this is the West German version. The KPz 70's armament is impressive: in addition to its 120mm smoothbore gun, it is armed with a 20mm anti-aircraft gun. Moreover, it is fully loaded with all the latest technology, including a night-vision device, an automatic reloading system, and spaced armor.\n"
+"\n"
+"Paired with infantry escorts, this tank is a formidable foe in battle. Focus your efforts on getting rid of those escorts!"
+msgstr ""
+
+#: slot/0x002dccc3/0x3f92df/0xc69098
+msgid "A custom Mi-24D. It has been field-upgraded to increase its overall offensive and defensive power."
+msgstr ""
+
+#: slot/0x002dccc3/0x576286/0x1ae163
+msgid ""
+"A revamped, more heavily armed version of the T-72. The addition of a side skirt and experimental explosive reactive armor (ERA) to the front strengthens the tank's defenses. It is equipped with a smoke disperser that works by mixing fuel into the exhaust, a commonly seen feature on Soviet military vehicles.\n"
+"\n"
+"Punching through this tank's beefed-up defenses will require a suitably powerful arsenal centered on heavy weaponry. Keep this in mind when choosing your gear."
+msgstr ""
+
+#: slot/0x002dccc3/0x57629a/0x1ae177
+msgid ""
+"The Soviet Union's state-of-the-art main battle tank. Its design is a deft balance of offense, defense, and mobility. In particular, its main 125mm smoothbore gun is as powerful as anything the West has to offer. It looks set to become a staple of conventional land forces in the Eastern Bloc.\n"
+"\n"
+"The tank is powerful enough by itself, but when accompanied by infantry escorts, it becomes almost unstoppable. Be sure to have enough anti-infantry weaponry on hand to take out those escorts before you get overwhelmed."
+msgstr ""
+
+#: slot/0x002dccc3/0x5b5ed6/0xe25c8f
+msgid "A custom AH56A-B. It has been field-upgraded to increase its overall offensive and defensive power."
+msgstr ""
+
+#: slot/0x002dccc3/0x635ed6/0xea5c8f
+msgid "A custom AH56A-R. It has been field-upgraded to increase its overall offensive and defensive power."
+msgstr ""
+
+#: slot/0x002dccc3/0x664ed9/0x61c1e7
+msgid ""
+"A prototype next-generation tank developed as a joint project between the U.S. and West Germany, the two leading tank manufacturers in the West; this is the American version. It aims to achieve a substantial increase in firepower with its 152mm gun launcher, a revolutionary new weapon system that fires both traditional cannon shells and missiles. Its design also places a heavy emphasis on defense, with added fireproof bulkheads and a blowout section on the ammo chamber.\n"
+"\n"
+"How well you fare in combat against this tank will depend on how well you can neutralize these inherent advantages."
+msgstr ""
+
+#: slot/0x002dccc3/0x6c1ab5/0x678dc3
+msgid ""
+"A prototype attack helicopter and product of the Advanced Aerial Fire Support System (AAFSS) concept. It is a compound helicopter equipped with a thrusting propeller that allows it to travel at up to 360 kph, record-shattering speed for a craft of its type.\n"
+"\n"
+"Armed with devastatingly powerful freefall bombs, guaranteed to cause heavy damage to anything unfortunate enough to get hit. Make sure you don't get caught underneath when it passes overhead!"
+msgstr ""
+
+#: slot/0x002dccc3/0x6c1ac5/0x678dd3
+msgid ""
+"An anti-tank variation of the AH56. While its basic specs are the same, its main weapons have been replaced with anti-tank missiles capable of striking at longer ranges.\n"
+"\n"
+"Essentially an extremely powerful flying tank. If you've got anti-air missiles, now's the time to use them!"
+msgstr ""
+
+#: slot/0x002dccc3/0x7a9411/0x46cbff
+msgid "A custom T-72A. It has been field-upgraded to increase its overall offensive and defensive power."
+msgstr ""
+
+#: slot/0x002dccc3/0x933bc7/0x5f73b5
+msgid "A custom LAV-Type C. It has been field-upgraded to increase its overall offensive and defensive power."
+msgstr ""
+
+#: slot/0x002dccc3/0xa74f5f/0x172af8
+msgid ""
+"An attack helicopter created by expanding an existing general-purpose chopper and fitting it with heavier weaponry. It was developed as a multi-purpose gunship capable of performing a variety of missions, from troop transport to air-to-ground strikes.\n"
+"\n"
+"This is the first model of the Mi-24A, and it has a somewhat generic flavor to it, with a large payload of ground troops. You'll need plenty of anti-infantry gear and anti-air capable weapons to take it on."
+msgstr ""
+
+#: slot/0x002dccc3/0xa74f62/0x172afb
+msgid ""
+"An advanced variant of the Mi-24A attack helicopter. Its distinctive tandem cockpit and huge size have earned it the nickname \"Crocodile\" among Soviet troops. It is truly the embodiment of the \"gunship,\" excelling in both firepower and defense.\n"
+"\n"
+"Without a sufficiently powerful, anti-air capable weapon such as a rocket launcher, your chances of winning are slim to none. Choose your weapons accordingly, but don't forget to prepare for infantry combat as well."
+msgstr ""
+
+#: slot/0x002dccc3/0xb7c6b6/0x3ec470
+msgid "A custom BTR-60 PA. It has been field-upgraded to increase its overall offensive and defensive power."
+msgstr ""
+
+#: slot/0x002dccc3/0xb846b6/0x3f4470
+msgid "A custom BTR-60 PB. It has been field-upgraded to increase its overall offensive and defensive power."
+msgstr ""
+
+#: slot/0x002dccc3/0xba9412/0x86cc00
+msgid "A custom T-72U. It has been field-upgraded to increase its overall offensive and defensive power."
+msgstr ""
+
+#: slot/0x002dccc3/0xc7f663/0x4ef41d
+msgid "A custom KPz 70. It has been field-upgraded to increase its overall offensive and defensive power."
+msgstr ""
+
+#: slot/0x002dccc3/0xd33bc7/0x9f73b5
+msgid "A custom LAV-Type G. It has been field-upgraded to increase its overall offensive and defensive power."
+msgstr ""
+
+#: slot/0x002dccc3/0xe1dde7/0xa55cc4
+msgid ""
+"A heavily armed version of the LAV. Its main gun has been upgraded to 76mm to boost its solo combat capabilities. At the same time, it boasts plenty of carrying capacity, making it a well-rounded threat. Don't treat it like just another armored vehicle, or you'll be sorry.\n"
+"\n"
+"Carrying some powerful - preferably explosive - weapons with you would be a good idea."
+msgstr ""
+
+#: slot/0x002dccc3/0xe1ddeb/0xa55cc8
+msgid ""
+"An experimental assault personnel carrier, believed to have been provided to CIA mercenary forces in secret as part of its field test cycle. Its twin screws give it excellent mobility on both land and water. The \"G\" variant sacrifices heavier armament in favor of greater troop carrying capacity.\n"
+"\n"
+"You can expect to engage in some heavy infantry fighting when facing this vehicle. Choose your gear carefully!"
+msgstr ""
+
+#: slot/0x002dccc3/0xedefe7/0x5c51a7
+msgid ""
+"The main armored personnel carrier of the Soviet Union. Not only does it have an eight-wheeled drive system for easy road mobility, it also comes equipped with water jets for over-water transport. A 7.62mm machine gun provides standard-level firepower, and when loaded with a full contingent of infantry it can really shine in combat.\n"
+"\n"
+"Finding a way to deal with the infantry should be the core of any battle strategy against this vehicle."
+msgstr ""
+
+#: slot/0x002dccc3/0xedefe8/0x5c51a8
+msgid ""
+"A more heavily armed version of the BTR-60 PA. Its primary weapon has been upgraded to a much more powerful 25mm machine gun. When supplemented by a deployable infantry escort, this built-in firepower makes it a well-balanced and dangerous foe in combat.\n"
+"\n"
+"A well-stocked arsenal of anti-vehicle weaponry will be key to getting the job done."
+msgstr ""
+
+#: slot/0x002dccc3/0xf9d123/0x80cedd
+msgid "A custom MBTk-70. It has been field-upgraded to increase its overall offensive and defensive power."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x002d8b
+msgid ""
+"Metal Gear ZEKE is not complete.\n"
+"All MAIN PARTS must be set."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x00f276
+msgid "View the memory boards in the AI pod. Collect additional boards to improve your AI's capabilities.  There are 4 types of boards: \"Mobility\" affects movement, \"Sense\"affects search capability, \"Attack\" affects offensive capability, and \"Control\" affects response time."
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x032e73
+#: slot/0x0056a63d/0x22af99/0x00016c
+#: slot/0x0083b291/0x77a106/0xc24ccf
+#: slot/0x00b4d9c8/0x4e7980/0x00016c
+msgid "RED"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871b1
+msgid "Ctl-Pupa-001Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871b2
+msgid "Ctl-Pupa-002Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871b3
+msgid "Ctl-Pupa-003Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871b4
+msgid "Ctl-Pupa-004Fe"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871b5
+msgid "Ctl-Pupa-005Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871b6
+msgid "Ctl-Pupa-006Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871b7
+msgid "Ctl-Pupa-007Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871b8
+msgid "Ctl-Pupa-008Cu"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871b9
+msgid "Ctl-Pupa-009Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871d0
+msgid "Ctl-Pupa-010Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871d1
+msgid "Ctl-Pupa-011Ag"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871d2
+msgid "Ctl-Pupa-012Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871d3
+msgid "Ctl-Pupa-013Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871d4
+msgid "Ctl-Pupa-014Au"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871d5
+msgid "Ctl-Pupa-015Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871d6
+msgid "Ctl-Pupa-016Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871d7
+msgid "Ctl-Pupa-017Pt"
+msgstr ""
+
+#: slot/0x002e0fee/0x1a3e77/0x0871d8
+msgid "Ctl-Chrysalis-018Fe"
+msgstr ""

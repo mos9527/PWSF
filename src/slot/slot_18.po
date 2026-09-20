@@ -1,0 +1,1706 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF slot 18/26\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: slot\n"
+"X-PWSF-Entries: 400\n"
+
+
+#: slot/0x007b474a/0xbf29c8/0xbca890
+msgid "Enemies Put to Sleep"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca891
+msgid "Enemies Left Near Death"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca892
+msgid "Enemies Held Up"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca893
+msgid "Enemy Headshots"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8aa
+msgid "Exorcisms"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8ac
+msgid "Teammate Damage Healed"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8ae
+msgid "Friendly Fire Taken Count"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8af
+msgid "Enemies Neutralized with White \"!\" Displayed"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8b0
+msgid "Enemies Neutralized During Wire Attack"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8b1
+msgid "Enemies Neutralized During CQC Capture"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8b2
+msgid "Enemies Neutralized With Co-Op Weapons"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8b3
+msgid "Items Lent"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8ca
+msgid "Lent Items Used"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8cb
+msgid "Submissions to Torture"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8cc
+msgid "Mini-boss Weakpoints (of current weapon) Destroyed "
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8cd
+msgid "Boss Tramples Resisted"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8ce
+msgid "Bosses Blown Away"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8cf
+msgid "AI Pod Damage (memory board removal phase)"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8d0
+msgid "AI Rampages (memory board removal phase)"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8d1
+msgid "Memory Boards"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8d3
+msgid "Head Parts Damage Rate"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8ea
+msgid "Optional Parts"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8eb
+msgid "Optional Parts Damage Rate"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8ec
+msgid "Generic Parts"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8ed
+msgid "\"Monster Hunter\" Monster Parts Destroyed"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8ef
+msgid "Items Acquired"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8f0
+msgid "Marksmanship Targets Destroyed"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8f1
+msgid "Marksmanship Target Points"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8f2
+msgid "Targets Destroyed"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca8f3
+msgid "Bases Defended"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca90a
+msgid "Claymores Disarmed"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca90b
+msgid "Good Photos Taken"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca90c
+msgid "Total Good Photos Taken"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca90d
+msgid "Sleep Count"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca90e
+msgid "Knockouts"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca90f
+msgid "CQC Captures/Throws"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca910
+msgid "Consecutive Tortures"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca911
+msgid "Supplies Defended"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xbca912
+msgid "Missiles Intercepted"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xc36b4c
+msgid "Target Point"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xd5e543
+#: slot/0x00b96275/0x947b26/0x3c52b6
+msgid "CO-OP Ring Activations"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xd5e544
+msgid "Distance Traveled During Snake Formation"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xd5e545
+msgid "Distance Traveled While Leading Snake Formation"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xd5e546
+msgid "Time in Love Box"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xd5e547
+msgid "Distance Traveled While in Love Box"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xd5e548
+msgid "Time in Cardboard Tank"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xd5e549
+msgid "Distance Traveled While in Cardboard Tank"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xd5e54a
+msgid "Stealth Mat Uses"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xd8304e
+msgid "Abductees Rescued"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xe9864e
+msgid "You were unable to earn an S Rank because you used special CO-OPS Comm. Battle Cry effects. "
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xec82b8
+msgid "Enemy Searches"
+msgstr ""
+
+#: slot/0x007b474a/0xbf29c8/0xf2afde
+msgid "Total Prisoners Killed"
+msgstr ""
+
+#: slot/0x007b474a/0xd231ac/0x765dec
+#: slot/0x007b474a/0xff329e/0x765dec
+#: slot/0x007b474a/0xff329e/0xf87c36
+msgid "MISSION RESULT"
+msgstr ""
+
+#: slot/0x007b474a/0xff329e/0xef9533
+msgid "Clear Rank"
+msgstr ""
+
+#: slot/0x007e43b7/0x46cdac/0x000001
+msgid "REPTILE POD"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x000064
+msgid "No, don't!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0000c8
+msgid "I don't know anything!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00012c
+msgid "What are you doing! You're gonna regret this!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x000190
+msgid "H-help...!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0001f4
+msgid "There's a prisoner..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x000258
+#: slot/0x0081443c/0xa270a1/0x000a28
+msgid "...in a room to the north."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0002bc
+#: slot/0x0081443c/0xa270a1/0x000a8c
+msgid "...in a room to the northeast."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x000320
+#: slot/0x0081443c/0xa270a1/0x000af0
+msgid "...in a room to the east."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x000384
+#: slot/0x0081443c/0xa270a1/0x000b54
+msgid "...in a room to the southeast."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0003e8
+#: slot/0x0081443c/0xa270a1/0x000bb8
+msgid "...in a room to the south."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00044c
+#: slot/0x0081443c/0xa270a1/0x000c1c
+msgid "...in a room to the southwest."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0004b0
+#: slot/0x0081443c/0xa270a1/0x000c80
+msgid "...in a room to the west."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x000514
+#: slot/0x0081443c/0xa270a1/0x000ce4
+msgid "...in a room to the northwest."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x000578
+msgid "There's a high-skill soldier..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0005dc
+#: slot/0x0081443c/0xa270a1/0x000d48
+msgid "...to the north."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x000640
+#: slot/0x0081443c/0xa270a1/0x000dac
+msgid "...to the northeast."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0006a4
+#: slot/0x0081443c/0xa270a1/0x000e10
+msgid "...to the east."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x000708
+#: slot/0x0081443c/0xa270a1/0x000e74
+msgid "...to the southeast."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00076c
+#: slot/0x0081443c/0xa270a1/0x000ed8
+msgid "...to the south."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0007d0
+#: slot/0x0081443c/0xa270a1/0x000f3c
+msgid "...to the southwest."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x000834
+#: slot/0x0081443c/0xa270a1/0x000fa0
+msgid "...to the west."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x000898
+#: slot/0x0081443c/0xa270a1/0x001004
+msgid "...to the northwest."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0008fc
+#: slot/0x0081443c/0xa270a1/0x001068
+msgid "...up above."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x000960
+#: slot/0x0081443c/0xa270a1/0x0010cc
+msgid "...down below."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0009c4
+msgid "There's an item..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001130
+msgid "...but, not here!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001194
+msgid "...but it's not here!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0011f8
+msgid "Come for the prisoner, have you?!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00125c
+msgid "I-I'll show you where the prisoner is."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0012c0
+msgid "So THIS is what you're after!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001324
+msgid "I-I'll show you where the item is."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001388
+msgid "I-I'll show you where the guard is."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0013ec
+msgid "My comrades... "
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001450
+msgid "...are something special."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0014b4
+msgid "...are pretty damn average."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001518
+msgid "Try checking to the north."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00157c
+msgid "Try checking to the northeast."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0015e0
+msgid "Try checking to the east."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001644
+msgid "Try checking to the southeast."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0016a8
+msgid "Try checking to the south."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00170c
+msgid "Try checking to the southwest."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001770
+msgid "Try checking to the west."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0017d4
+msgid "Try checking to the northwest."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001838
+msgid "Try checking above."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00189c
+msgid "Try checking below."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001900
+msgid "There's a highly-skilled soldier around. So I heard, anyway."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0019c8
+msgid "I-I have a daughter and she's just turning 5..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001a2c
+msgid "I-I have parents to take care of..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001a90
+msgid "...Not!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001af4
+msgid "Nooo! I don't wanna die!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001b58
+msgid "Y-you heard about this?"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001c20
+msgid "Killing me won't change anything!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001c84
+msgid "So you're the reason all these men have disappeared..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001ce8
+msgid "If you're going to kill me, then kill me. I'm no snitch."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001d4c
+msgid "I-I'm not even worth killing!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001db0
+msgid "Oh, no... Is this it?"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001e14
+msgid "I-I don't know anything..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001e78
+msgid "You're the one behind all this?"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001f40
+msgid "Please, spare me!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x001fa4
+msgid "You know, I can get you information..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002008
+msgid "What do you have to lose, right? Heh heh..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00206c
+msgid "You don't have to do this!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0020d0
+msgid "I don't think you want to kill me..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002134
+msgid "Not bad."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002198
+msgid "Not many people sneak up on me."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0021fc
+msgid "I wouldn't mind joining someone like you."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002260
+msgid "I, uh, I want to join you!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0022c4
+msgid "Join me and we can take over the world..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00238c
+msgid "You know, I DO have special powers..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002454
+msgid "...Maybe so."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0024b8
+msgid "...That's possible."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00251c
+msgid "You can hang from suspension bridges."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002580
+msgid "Some places you can only reach with a partner."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0026ac
+msgid "I-I saw a dinosaur around here before."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002710
+msgid ""
+"The faster you press the button with a cardiac\n"
+"massage, the faster the person will recover."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0028a0
+msgid "Helmets are normally bullet-proof."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002a30
+msgid ""
+"I'll tell you what I know.\n"
+"Just promise you'll let me go."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002a94
+msgid "Aaah! Please, just calm down and listen to me!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002af8
+msgid "I don't wanna die... I don't wanna die!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002c88
+msgid "You smell nice..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002cec
+msgid "H-hey! Your beard is scratching me..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002d50
+msgid "I know about you."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002db4
+msgid "Coward! Fight like a man!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002e18
+msgid "You... Do you have any children?"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002ee0
+msgid "Do you think I'm here because I want to be?!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x002fa8
+msgid "What did I ever do to you?"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00300c
+msgid "Ooohhhhh, my stomach... Not now!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003070
+msgid "I'm gonna wet myself here..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0030d4
+msgid "Say, don't you think it's about time you got some sleep?"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003264
+msgid "Hold up. Don't I get a last smoke?"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003458
+msgid "I'll tell you something you'll wanna hear."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0034bc
+msgid "I never expected to meet you like this…"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003520
+msgid "Could this be fate again?"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0035e8
+msgid "Hands off the merchandise!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00364c
+msgid "Hey! Get your hands away from there!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003714
+msgid "I-I'm on your side! Okay?!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003778
+msgid "What are you thinking, at a time like this!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0037dc
+msgid "The beauty of a gun's pure functionality never ceases to amaze me."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003908
+msgid "I don't care what you to do me."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00396c
+msgid "Wh... what's going on...?"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003a34
+msgid "Ever hear the saying, \"Knowledge is universal\"?"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003afc
+msgid "You won't get any items... if you kill someone."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003b60
+msgid "CO-OP IN allows you to share weapons and equipment."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003bc4
+msgid "When you go Snake In, your camo index will change to match the person with the highest index."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003c28
+msgid "When you go Snake In, you can move with the speed of an advance guard."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003c8c
+msgid "When you go Snake In, your shield defense area expands."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003cf0
+msgid "When you go Snake In, your Snake Sync goes up."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003d54
+msgid "When you're Snake Synced, your camo index goes up."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003db8
+msgid "When you're Snake Synced, your defensive power increases significantly."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003e1c
+msgid "The controls can be changed under OPTIONS."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003e80
+msgid "The words of a hero can inspire the hearts of men."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003ee4
+msgid "I hear if your level of camaraderie is high, CO-OP effects will also be higher."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x003fac
+msgid "The equipment you have affects your camo index."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x004010
+msgid "Too much equipment will lower your camo index."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x004074
+msgid "Don't forget water and metal both conduct electricity."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0040d8
+msgid "Water and metal should make that weapon of yours more effective."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0041a0
+msgid "You can still use a Fulton recovery... on someone close to death."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x004204
+msgid "Shoot someone's arms and legs to neutralize them more easily."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x004268
+msgid "There are snipers... up ahead."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0042cc
+msgid "There's an ambush waiting for you... up ahead."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x004650
+msgid "Let me go! If you don't..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x004b64
+msgid "Please! I don't know anything!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x004bc8
+msgid "I swear I don't know anything!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x004c2c
+msgid "Ugghhh... Please, let me go..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x004c90
+msgid "I'll talk, I'll talk, all right?"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x004d58
+msgid "My unit will be here any minute!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x005078
+msgid "AI mechs... share certain weak points."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0050dc
+msgid "Chaff works well against AI mechs."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x005208
+msgid "Take a good look at the falls... You can see a rainbow."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00526c
+msgid "You should go for a chopper's tail."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0052d0
+msgid "Using the surround indicator will help in locating the Chrysalis."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0054c4
+msgid "If you attack the canopy when fighting a chopper..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x005528
+msgid "Grab someone and throw them into a wall... for big damage."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0055f0
+msgid "AUTO AIM makes hold-ups a lot easier."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0056b8
+msgid "If you're discovered, quickly take the person out with CQC."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00571c
+msgid "If someone sees you from a distance, lie down straight away to disappear."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0057e4
+msgid "Be sure to use AUTO-AIM if you want an easy time against the kidnapper."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0058ac
+msgid "Just between us..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x005910
+msgid "If shooting's difficult for you... use AUTO AIM."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x005974
+msgid "AUTO AIM's capabilities... vary by weapon."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0059d8
+msgid "Hold still and your hand will eventually stop shaking."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x005a3c
+msgid "You can stop your hands from shaking when you shoot by crouching."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x005b04
+msgid "Urrgh! You're pretty good..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x005dc0
+msgid "Come near me and there's gonna be hell to pay!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x005e24
+msgid "Looks like this is the end for me, too..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00607c
+msgid "L-let go of me!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x006144
+msgid "Oh, no, I can feel it coming!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x006270
+msgid "It's me! What are you doing? That hurts!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0062d4
+msgid ""
+"Come on, don't you remember?!\n"
+"It's me!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x006720
+msgid "S-stop it! I-I can't breathe!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x006784
+msgid "(wheeze, wheeze)"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0067e8
+msgid "W-who's excited? N-not me!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00684c
+msgid "Urrggh... judo?!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0068b0
+msgid "This supposed to hurt or something?!"
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x006914
+msgid "I've got... four items hidden on me."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x006978
+msgid "Hold-ups... will get you a lot of items."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0069dc
+msgid "Armor-piercing bullets go right through helmets and shields."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x006a40
+msgid "A ghillie suit won't hide you from night-vision goggles."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x006b08
+msgid "I'm the only one guarding this area."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x006b6c
+msgid "You can... drop a cardboard box."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x006cfc
+msgid "Use a cardboard box... for cover against a chopper's downwash."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x006e8c
+msgid "I've heard you can climb on top of a cardboard box."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x006ef0
+msgid "Rations taste great when you cook them golden brown."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x006f54
+msgid "Soldiers accompanying tanks and armored vehicles couldn't care less about magazines."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x006fb8
+msgid "The prisoner is safe. Somewhere nearby."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0070e4
+msgid "I heard there are creatures called the Trenyas around here."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x007148
+msgid "People say there's a creature that will give you something if you know how to talk to it."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x007210
+msgid "I came across these big-ass footprints in a swamp."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x007274
+msgid "If you... destroy the Chrysalis's radome..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0072d8
+msgid "...it won't be able to dodge missiles or RPGs."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00733c
+msgid "Up in the trees... There's nothing up there. No fruit or nothing."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0073a0
+msgid "A weapon with high penetrative power will pierce a helmet."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x007530
+msgid "I'll send HQ a bogus report for you."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x007724
+msgid "You won't find what you're looking for around here."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0079e0
+msgid "I saw this strange-looking cardboard box around here."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x007c38
+msgid "There's... another guard besides me around here."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x007c9c
+msgid "There are... two more guards besides me around here."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x007d00
+msgid "There are... three more guards besides me around here."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x007d64
+msgid "There are... four more guards besides me around here."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x007dc8
+msgid "There are... five more guards besides me around here."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x007e2c
+msgid "Heroes will always attract soldiers..."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x007e90
+msgid "Try giving a friend a call if you ever get stuck."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x007ef4
+msgid "Use the radio if you run into a problem."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x007f58
+msgid "You can break a high fall by landing in straw."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x007fbc
+msgid "Some weapons can unleash some heavy firepower if you have the people to help you."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x008020
+msgid "They say you can change all sorts of settings under OPTIONS."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x008084
+msgid "Enemy Search is good for scouting."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0080e8
+msgid "Check your map."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00814c
+msgid "The more you use a weapon, the easier it'll be to exploit its full potential."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0081b0
+msgid ""
+"If you wanna get to grips with a weapon fast,\n"
+"go for headshots."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x008214
+msgid "A person's codename reflects their play style."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x008278
+msgid "Your heroism will rise as your acquire more insignias."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0082dc
+msgid "A tranq round will slowly take effect over time."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x008340
+msgid "An analyzer will tell you all sorts of information."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0083a4
+msgid "Some soldiers possess special skills."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x008408
+msgid "Every weapon has a critical rate."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x00846c
+msgid "Damage triples when you deliver a critical hit."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0084d0
+msgid "Handguns have high critical rates."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x008534
+msgid "I heard... some of the prisoners are women."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x008598
+msgid "The butt... is another weak point."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0085fc
+msgid "If the combined weight of your weapons is too heavy... your camo index will go down."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x008660
+msgid "The weapon you have equipped... changes your camo index."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x0086c4
+#: slot/0x0081443c/0xa270a1/0x008728
+#: slot/0x0081443c/0xa270a1/0x00878c
+#: slot/0x0081443c/0xa270a1/0x0087f0
+#: slot/0x0081443c/0xa270a1/0x008854
+#: slot/0x0081443c/0xa270a1/0x0088b8
+#: slot/0x0081443c/0xa270a1/0x00891c
+#: slot/0x0081443c/0xa270a1/0x008980
+#: slot/0x0081443c/0xa270a1/0x0089e4
+#: slot/0x0081443c/0xa270a1/0x008a48
+msgid "I-I'll show you where the classified doc is."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x008aac
+msgid "If you walk slowly, you can get close to the enemy without them hearing you."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x008b10
+msgid "Pushing the START button will open the menu window."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x008b74
+#: slot/0x0081443c/0xa270a1/0x008bd8
+#: slot/0x0081443c/0xa270a1/0x008c3c
+#: slot/0x0081443c/0xa270a1/0x008ca0
+#: slot/0x0081443c/0xa270a1/0x008d04
+#: slot/0x0081443c/0xa270a1/0x008d68
+msgid "I-I'll show you where the equipment is."
+msgstr ""
+
+#: slot/0x0081443c/0xa270a1/0x008dcc
+msgid "I'm...a prisoner!"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0x187c96
+msgid "Soldier Information"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0x2a922b
+msgid "RANK:"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0x3bf3c3
+msgid "A prisoner has been found."
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0x48b8cb
+msgid "A:"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0x48b8cc
+msgid "B:"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0x48b8cd
+msgid "C:"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0x48b8ce
+msgid "D:"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0x48b8cf
+msgid "E:"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0x48b8dd
+msgid "S:"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0x4bd476
+msgid "OTHER INFORMATION"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0x54e529
+msgid "Mission Record"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0x795c91
+msgid "TOTAL:"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0x834b4e
+msgid "RECORD"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0x88f31b
+msgid "- - -"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0xb2b783
+msgid "Item 05"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0xb2b784
+msgid "Item 06"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0xc8dd10
+#: slot/0x008aed23/0x94ae2b/0x4a87a1
+#: slot/0x00b96275/0x919326/0xf26e7f
+msgid "SUPPORT"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0xdf90e5
+#: slot/0x0081e50b/0x6420cf/0xe59461
+msgid "(There are no other reports.)"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0xec6cb6
+msgid "Lowest Kill Count"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0xeefc10
+msgid "Lowest Alert Count"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0xefccf5
+msgid "Best Clear Rank"
+msgstr ""
+
+#: slot/0x0081e50b/0x6420cf/0xf0eccf
+msgid "Fastest Clear Time"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0x333be2
+msgid "READY"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0x33bcf2
+msgid "FINAL ROUND"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0x388d0d
+msgid "ROUND"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0x418c1d
+#: slot/0x0083b291/0xdff91d/0x4e982f
+msgid "BASE"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0x42758e
+msgid "SCORE"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0x462b44
+msgid "KILLS"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0x465f73
+msgid "TEAM SELECT"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0x49db3d
+msgid "RULE"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0x4a5866
+#: slot/0x0083b291/0x77a106/0xeb60e9
+msgid "STUNS"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0x4aab5d
+msgid "TIME"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0x4c0aec
+msgid "WAIT"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0x533dd0
+msgid "DEATHS"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0x5e1132
+msgid "HEADSHOTS"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0x5e120d
+msgid "ON"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0x65fa82
+msgid "TEAM RED"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0xa0cdbb
+msgid "STUNS RECEIVED"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0xa8961e
+msgid "TICKETS"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0xb76eb1
+msgid "TEAM BLUE"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0xc240f1
+msgid "OFF"
+msgstr ""
+
+#: slot/0x0083b291/0x77a106/0xd993ee
+msgid "HS"
+msgstr ""
+
+#: slot/0x0083b291/0x948830/0x030657
+msgid "Bring GA-KO back to the goal!"
+msgstr ""
+
+#: slot/0x0083b291/0x948830/0x031072
+msgid "Defend GA-KO from the attacking team!"
+msgstr ""
+
+#: slot/0x0083b291/0x948830/0x273c3a
+msgid "Bring the QUETZAL to the goal and protect it!"
+msgstr ""
+
+#: slot/0x0083b291/0x948830/0x513a0b
+msgid "Defeat everyone you encounter!"
+msgstr ""
+
+#: slot/0x0083b291/0x948830/0x613c19
+msgid "Defeat characters on the Red Team!"
+msgstr ""
+
+#: slot/0x0083b291/0x948830/0xa348ed
+msgid "Defeat characters on the Blue Team!"
+msgstr ""
+
+#: slot/0x0083b291/0x948830/0xe707e9
+msgid "Capture and hold the base!"
+msgstr ""
+
+#: slot/0x0083b291/0xb676ab/0x1bbece
+msgid "Create Game"
+msgstr ""
+
+#: slot/0x0083b291/0xb676ab/0x71a742
+#: slot/0x0083b291/0xff8cbc/0xa69ada
+#: slot/0x00b9910a/0x2c4b0f/0x8bb38f
+msgid "QUIT"
+msgstr ""
+
+#: slot/0x0083b291/0xb676ab/0xebf2f8
+msgid "Join Game"
+msgstr ""
+
+#: slot/0x0083b291/0xbc9eeb/0x1f6006
+msgid "Select a base."
+msgstr ""
+
+#: slot/0x0083b291/0xbc9eeb/0x1f96c7
+msgid "RED - $1"
+msgstr ""
+
+#: slot/0x0083b291/0xbc9eeb/0x411342
+msgid "MAIN BASE"
+msgstr ""
+
+#: slot/0x0083b291/0xbc9eeb/0x7d6643
+msgid "SELECT BASE"
+msgstr ""
+
+#: slot/0x0083b291/0xbc9eeb/0xad48d9
+msgid "NEUTRAL - $1"
+msgstr ""
+
+#: slot/0x0083b291/0xbc9eeb/0xeaf748
+msgid "BLUE - $1"
+msgstr ""
+
+#: slot/0x0083b291/0xc60c3b/0x82e72f
+msgid "Soviet Patrol Base"
+msgstr ""
+
+#: slot/0x0083b291/0xc60c3b/0x837f2f
+msgid "Silo Entrance"
+msgstr ""
+
+#: slot/0x0083b291/0xc60c3b/0x83e72f
+msgid "Pillbox Purgatory"
+msgstr ""
+
+#: slot/0x0083b291/0xc60c3b/0xa559c5
+msgid "Miners' Residence (Night)"
+msgstr ""
+
+#: slot/0x0083b291/0xc60c3b/0xa55dbf
+msgid "Bosque del Alba (Night)"
+msgstr ""
+
+#: slot/0x0083b291/0xc60c3b/0xa55dc1
+msgid "Aldea Los Despiertos (Night)"
+msgstr ""
+
+#: slot/0x0083b291/0xc60c3b/0xa561c1
+msgid "El Cadalso (Night)"
+msgstr ""
+
+#: slot/0x0083b291/0xc60c3b/0xa565c3
+msgid "Ruinas de Xochiquetzal (Night)"
+msgstr ""
+
+#: slot/0x0083b291/0xc60c3b/0xa571bf
+msgid "Bananal Fruta de Oro: Farm (Night)"
+msgstr ""
+
+#: slot/0x0083b291/0xcfb2e5/0x31a5c1
+msgid "QUETZAL"
+msgstr ""
+
+#: slot/0x0083b291/0xcfb2e5/0x3f2e79
+msgid ""
+"$1 dropped $2! \n"
+"Capture it!"
+msgstr ""
+
+#: slot/0x0083b291/0xcfb2e5/0x499ef3
+msgid "The enemy is trying to capture Base $1!"
+msgstr ""
+
+#: slot/0x0083b291/0xcfb2e5/0x4b4a26
+msgid "Your team captured Base$1!"
+msgstr ""
+
+#: slot/0x0083b291/0xcfb2e5/0x522058
+msgid ""
+"$1 dropped $2! \n"
+"Get it back!"
+msgstr ""
+
+#: slot/0x0083b291/0xcfb2e5/0x5943a7
+msgid ""
+"$1 took $2 back to their goal! \n"
+"Stop them!"
+msgstr ""
+
+#: slot/0x0083b291/0xcfb2e5/0xa3c74e
+msgid ""
+"$1 has captured $2! \n"
+"Head for the goal!"
+msgstr ""
+
+#: slot/0x0083b291/0xcfb2e5/0xa94c0e
+msgid "The position of $1 has been reset!"
+msgstr ""
+
+#: slot/0x0083b291/0xcfb2e5/0xab2fbf
+msgid ""
+"$1 has captured your $2! \n"
+"Get it back!"
+msgstr ""
+
+#: slot/0x0083b291/0xcfb2e5/0xb1fd46
+msgid "Your team is attacking Base $1!"
+msgstr ""
+
+#: slot/0x0083b291/0xcfb2e5/0xb77f89
+msgid ""
+"$1 brought $2 back to your goal! \n"
+"Defend it at all costs!"
+msgstr ""
+
+#: slot/0x0083b291/0xcfb2e5/0xbbb528
+msgid "The enemy is attacking your main base!"
+msgstr ""
+
+#: slot/0x0083b291/0xcfb2e5/0xc2619e
+msgid "Your team is attacking the enemy's main base!"
+msgstr ""
+
+#: slot/0x0083b291/0xcfb2e5/0xd2e488
+msgid "The enemy captured Base$1!"
+msgstr ""
+
+#: slot/0x0083b291/0xcfb2e5/0xf5a858
+msgid "Sudden Death!"
+msgstr ""
+
+#: slot/0x0083b291/0xcfb2e5/0xff0c23
+msgid "KEROTAN"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x090d76
+msgid "DRAW!"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x09727a
+msgid "CARRY"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x0a816b
+#: slot/0x00a7d875/0xfc51c8/0x923252
+#: slot/0x00a7d875/0xfc51c8/0xa84d46
+#: slot/0x00a7d876/0xfc51c8/0x923252
+#: slot/0x00a7d876/0xfc51c8/0xa84d46
+#: slot/0x00a7d877/0xfc51c8/0x923252
+#: slot/0x00a7d877/0xfc51c8/0xa84d46
+#: slot/0x00a7d878/0xfc51c8/0x923252
+#: slot/0x00a7d878/0xfc51c8/0xa84d46
+#: slot/0x00a7d879/0xfc51c8/0x923252
+#: slot/0x00a7d879/0xfc51c8/0xa84d46
+#: slot/0x00a7d87a/0xfc51c8/0x923252
+#: slot/0x00a7d87a/0xfc51c8/0xa84d46
+#: slot/0x00a7d87b/0xfc51c8/0x923252
+#: slot/0x00a7d87b/0xfc51c8/0xa84d46
+msgid "GOAL"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x0c6acb
+msgid "KILL COUNT"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x0da067
+msgid "TEAM FULTON COUNT"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x1097ed
+msgid "STUN COUNT"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x14664a
+msgid "CONTROL( MAIN BASE )"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x17a6f4
+msgid "MISSION COMPLETE!"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x1b2ea9
+msgid "DEATH COUNT"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x1d79a7
+msgid "RESULTS - $1 ($2)"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x1e51c7
+msgid "1st PLACE PC FULTONS"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x1ef931
+msgid "FIRST TARGET CAPTURE COUNT"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x2017d0
+msgid "1st PLACE PC ENEMY FULTON"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x29f147
+msgid "HEADSHOT 1st PC"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x2b06f1
+msgid "STUN 1st PC"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x2c768f
+msgid "ENEMY FULTON"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x2e7471
+msgid "FULTON COUNT"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x2f1b76
+msgid "NEXT: ROUND $1"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x348931
+msgid "TARGET CAPTURE COUNT"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x3fc2c2
+msgid "HEADSHOT COUNT"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x43d5d8
+msgid "TEAM KILL"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x455e0b
+#: slot/0x0083b291/0xdac0c9/0xe50ec6
+msgid "ROUND $1/$2"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x4d8d18
+msgid "$1 x $2 = $3"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x63da06
+msgid "CQC COUNT"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x6543ea
+msgid "BLUE GOAL"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x67626d
+msgid "RED TEAM WON!"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x8ad66d
+msgid "TAKE OVER"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x8af083
+msgid "PLAYER SCORE"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x90dcd2
+msgid "ROUND SET"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x96a289
+msgid "ROUND $1"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0x994758
+msgid ""
+"The soldier named \"$2\"\n"
+"was lost."
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0xa64496
+msgid "FAINT COUNT"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0xaf3515
+msgid "RESULTS"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0xb809da
+msgid "TEAM STUN"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0xbc6f72
+msgid "TAKE OVER TIME"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0xc232a7
+msgid "You snatched $1's soldier \"$2\""
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0xd1b8d3
+msgid "Ranking"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0xd54550
+msgid "TAKE OVER TIME( MAIN BASE )"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0xde2cc1
+msgid "1st PLACE PC KILLS"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0xe0e745
+msgid "DEATH 1st PC"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0xe44c58
+msgid "RED GOAL"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0xe5704c
+msgid "WAKE COUNT"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0xe58805
+msgid "RULE SCORE"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0xf36a29
+msgid "BLUE TEAM WON!"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0xf89355
+msgid "WIN"
+msgstr ""
+
+#: slot/0x0083b291/0xdac0c9/0xfda7f1
+msgid "RESCUE COUNT"
+msgstr ""
+
+#: slot/0x0083b291/0xdff91d/0x18af36
+#: slot/0x0083b291/0xdff91d/0x67d275
+msgid "BASE MISSION"
+msgstr ""
+
+#: slot/0x0083b291/0xdff91d/0x244675
+#: slot/0x0083b291/0xdff91d/0xf41a3d
+msgid "DEATHMATCH"
+msgstr ""
+
+#: slot/0x0083b291/0xdff91d/0x5278bc
+msgid "CAP"
+msgstr ""
+
+#: slot/0x0083b291/0xdff91d/0x52bd19
+msgid "TDM"
+msgstr ""
+
+#: slot/0x0083b291/0xdff91d/0x6293ef
+msgid "DM"
+msgstr ""
+
+#: slot/0x0083b291/0xdff91d/0x6fcfab
+msgid ""
+"Capture the QUETZAL.\n"
+"\n"
+"Capture the target, take it back to your team's goal, and guard it until the timer reaches zero.\n"
+"\n"
+"If neither team wins before time runs out, the match will enter sudden death without the target timer being reset."
+msgstr ""
+
+#: slot/0x0083b291/0xdff91d/0x700c2e
+msgid ""
+"Battle over the fate of GA-KO!\n"
+"\n"
+"The attacking team must bring GA-KO back to its goal to win.\n"
+"The defending team guards GA-KO.\n"
+"\n"
+"You can also win by defeating all\r members of opposing team."
+msgstr ""
+
+#: slot/0x0083b291/0xdff91d/0x701408
+msgid ""
+"Red Team vs. Blue Team.\n"
+"\n"
+"Win by fighting alongside your teammates and reducing the other team's tickets to zero."
+msgstr ""
+
+#: slot/0x0083b291/0xdff91d/0x83428e
+#: slot/0x0083b291/0xdff91d/0x88c974
+msgid "CAPTURE MISSION"
+msgstr ""

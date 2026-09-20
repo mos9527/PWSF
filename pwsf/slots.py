@@ -22,11 +22,13 @@ from pathlib import Path
 
 from . import config
 from .crypto import name_hash, buffer_xor_decrypt
+from .slotdat import unescape
 from .olang import OlangTable, parse, string_at
 from .olang_build import OlangBuilder
 
 OLANG = "olang"
 CODEC = "codec"
+SLOT = "slot"          # olang tables embedded in SLOT.DAT, ANALYSIS/08 §5.7
 
 
 @dataclass(frozen=True)
@@ -54,14 +56,34 @@ class CodecRef:
         return f"{CODEC}/{self.group}/{self.sector}/{self.off:#x}/{self.line}"
 
 
+@dataclass(frozen=True)
+class SlotRef:
+    """A string inside one of the olang tables embedded in SLOT.DAT.
+
+    `table_id` is the RBX table id (e.g. 0x003af54d for the offshore-plant
+    cutscene); the same table is stored in several records and every copy was
+    verified identical, so write-back patches all of them.
+    """
+    table: int
+    group: int
+    entry: int
+
+    kind = SLOT
+
+    def __str__(self) -> str:
+        return f"{SLOT}/{self.table:#010x}/{self.group:#08x}/{self.entry:#08x}"
+
+
 def parse_ref(ref: str):
-    """OlangRef / CodecRef for a `#:` reference, or ValueError."""
+    """OlangRef / CodecRef / SlotRef for a `#:` reference, or ValueError."""
     parts = ref.split("/")
     try:
         if parts[0] == OLANG and len(parts) == 4:
             return OlangRef(parts[1], int(parts[2], 0), int(parts[3], 0))
         if parts[0] == CODEC and len(parts) == 5:
             return CodecRef(*(int(p, 0) for p in parts[1:]))
+        if parts[0] == SLOT and len(parts) == 4:
+            return SlotRef(int(parts[1], 0), int(parts[2], 0), int(parts[3], 0))
     except ValueError:
         pass
     raise ValueError(f"unparseable reference: {ref!r}")
@@ -143,6 +165,34 @@ def codec_sources() -> dict:
         ref = (f"{CODEC}/{c[col['group']]}/{c[col['sector']]}/"
                f"{c[col['off']]}/{c[col['line']]}")
         out[ref] = c[col["text"]].replace("\\n", "\n")
+    return out
+
+
+def slot_sources(lang: int = config.LANG_EN) -> dict:
+    """reference -> English line, for the olang tables inside SLOT.DAT.
+
+    Read from `_slot_olang_lines.tsv` rather than re-scanning the 544 MB
+    container: the TSV is the extraction product and holds the same rows plus
+    the record/pool location of every copy.
+
+    NOT part of `sources()` yet -- po_import has no SLOT.DAT write-back
+    (`slotdat_build`), so exporting these into a .po would create entries the
+    pipeline cannot install.  po_export exposes them behind --slot.
+    """
+    path = config.SLOT_OLANG_TSV
+    if not path.is_file():
+        return {}
+    rows = path.read_text(encoding="utf-8").splitlines()
+    col = {n: i for i, n in enumerate(rows[0].split("\t"))}
+    out = {}
+    for r in rows[1:]:
+        c = r.split("\t")
+        if len(c) <= col["text"] or c[col["lang"]] != \
+                config.LANG_KEYS.get(lang, "en"):
+            continue
+        ref = str(SlotRef(int(c[col["table_id"]], 0), int(c[col["group"]], 0),
+                          int(c[col["entry"]], 0)))
+        out[ref] = unescape(c[col["text"]])
     return out
 
 
