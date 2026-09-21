@@ -25,13 +25,19 @@ Layout (measured on pool 0x1c79f20b / record 84, blocks with n = 1,2,3,5):
                language, e.g. `Je t\\xe2The signal is unidirectional.`
                -> a line reads as pool[start : next NUL]
 
-`a` and `b` are still UNIDENTIFIED (they can exceed the pool, so they are not
-offsets into it).  Write-back therefore never changes a pool's length: a
-translation is written at the line's own offset and zero-filled up to the NUL
-that terminated the English, so every offset in the header -- including a and b
--- keeps pointing where it did.  That is the same bargain `pwsf.briefing_build`
-makes with its pool budget (ANALYSIS/03 §9); the budget is reported by
-`po_lint` as `gtt-budget`.
+`a` and `b` are the line's TIMING, not pointers (`_probe_gtt8.py`): they exceed
+the pool length 618 / 3,672 times over the whole corpus, so they cannot be
+offsets; `a[i+1] - b[i]` has median 3 (the next line starts a few frames after
+the one before it ended) and `(b - a)` tracks the line length at a median of
+1.35 frames per character.  So the group reads
+`[start_frame, end_frame, 1, X,X,X, Y,Y,Y, Y]`.
+
+Write-back nevertheless never changes a pool's length: every offset in the
+header -- X, Y and the unknown fields of the fixed part -- keeps pointing where
+it did, and the shipped timing is left alone (the Chinese line simply shows for
+the duration the English one had).  That is the same bargain
+`pwsf.briefing_build` makes with its pool budget (ANALYSIS/03 §9); the budget
+is reported by `po_lint` as `gtt-budget`.
 """
 
 import struct
