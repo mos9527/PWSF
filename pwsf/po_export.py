@@ -263,6 +263,59 @@ def collect_slot(ref_langs=REF_LANGS, only=None, pixel: bool = False) -> list:
     return out
 
 
+def collect_stage(ref_langs=REF_LANGS, pixel: bool = False) -> list:
+    """The olang tables packed inside STAGEDAT (ANALYSIS/09 §4).
+
+    Source is `_stage_olang_lines.tsv`, the product of `pwsf.stage` -- reading
+    the 487 MB container here would mean decrypting and inflating every payload
+    on each run.
+
+    READ-ONLY: there is no write-back for STAGEDAT yet, so po_import ignores
+    these references and po_lint warns when one is translated.  The corpus is
+    still exported because it is real player-facing text (mission info, stage
+    telops, Mother Base staff comments, item and weapon text) and 10,570 of its
+    strings exist nowhere else.
+    """
+    path = config.STAGE_OLANG_TSV
+    if not path.is_file():
+        raise SystemExit(f"{path} is missing; run `python -m pwsf.stage` first")
+    rows = path.read_text(encoding="utf-8").splitlines()
+    col = {n: i for i, n in enumerate(rows[0].split("\t"))}
+
+    agg, meta_of, order = {}, {}, []
+    for r in rows[1:]:
+        c = r.split("\t")
+        if len(c) <= col["text"]:
+            continue
+        key = (int(c[col["rec"]]), c[col["file"]],
+               int(c[col["group"]], 0), int(c[col["entry"]], 0))
+        if key not in agg:
+            agg[key] = {}
+            order.append(key)
+        agg[key][c[col["lang"]]] = c[col["text"]]
+        if c[col["lang"]] == "en":
+            meta_of[key] = int(c[col["meta"]], 0)
+
+    out = []
+    for key in order:
+        by_lang = agg[key]
+        en = by_lang.get("en", "")
+        if not en.strip():
+            continue
+        if meta_of.get(key) == slots.META_PIXEL_FONT and not pixel:
+            continue
+        comments = [f"{lang}: {by_lang[lang]}"
+                    for lang in ref_langs
+                    if by_lang.get(lang) and by_lang[lang] != en]
+        comments.append(f"STAGEDAT entry {key[0]}, {key[1]} -- read-only: "
+                        f"STAGEDAT has no write-back yet, po_import skips it")
+        out.append(dict(
+            ref=str(slots.StageRef(*key)),
+            msgid=en.replace("\\n", "\n"), comments=comments, sort=key))
+    out.sort(key=lambda e: e["sort"])
+    return out
+
+
 def merge(records: list, do_merge: bool) -> list:
     """Collapse records that share an msgid, keeping every reference."""
     merged = OrderedDict()
@@ -320,6 +373,10 @@ def main() -> None:
                     help="export the olang tables embedded in SLOT.DAT "
                          "(default all; pwsf cannot install them yet, see "
                          "ANALYSIS/08 §8.1)")
+    ap.add_argument("--stage", choices=("all", "none"), default="all",
+                    help="export the olang tables packed inside STAGEDAT "
+                         "(default all; read-only: pwsf cannot write them back "
+                         "yet, see ANALYSIS/09 §4)")
     ap.add_argument("--fresh", action="store_true",
                     help="do not carry over msgstr from the existing .po files")
     ap.add_argument("--pixel-font", action="store_true",
@@ -351,6 +408,8 @@ def main() -> None:
     if args.slot != "none":
         corpora.append(("slot", collect_slot(ref_langs, args.slot,
                                              args.pixel_font)))
+    if args.stage != "none":
+        corpora.append(("stage", collect_stage(ref_langs, args.pixel_font)))
     if not args.pixel_font:
         print(f"left out {len(slots.pixel_font_refs())} pixel-font slot(s) "
               f"(key.meta == 1: drawn with the ASCII-only 512x512 atlas in "

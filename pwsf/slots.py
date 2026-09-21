@@ -8,6 +8,13 @@ Reference syntax is fixed by po_export:
 
     olang/<table_stem>/<group_key>/<entry_key>   olang/009c9ea4/0x9b86ab/0x0198da
     codec/<group>/<sector>/<off>/<line>          codec/1/0/0/0
+    slot/<table_id>/<group_key>/<entry_key>      slot/0x003af54d/0x9b86ab/0x0198da
+    stage/<rec>/<file>/<group_key>/<entry_key>   stage/15/lang_mission_info_en.olang/0x215635/0x4936c0
+
+`stage` is the STAGEDAT corpus (ANALYSIS/09): the olang tables packed inside
+009645fa.PDT.  It is READ-ONLY -- `pwsf.stage` extracts it, but there is no
+write-back yet, so po_import ignores these references and po_lint warns if one
+is translated.
 
 Group and entry keys are written with `#08x`, but anything `int(x, 0)` accepts
 is parsed, so hand-written references work too.
@@ -29,6 +36,8 @@ from .olang_build import OlangBuilder
 OLANG = "olang"
 CODEC = "codec"
 SLOT = "slot"          # olang tables embedded in SLOT.DAT, ANALYSIS/08 §5.7
+STAGE = "stage"        # olang tables embedded in STAGEDAT, ANALYSIS/09 §4
+                       # (extract-only: no write-back, po_import ignores it)
 
 
 @dataclass(frozen=True)
@@ -74,8 +83,28 @@ class SlotRef:
         return f"{SLOT}/{self.table:#010x}/{self.group:#08x}/{self.entry:#08x}"
 
 
+@dataclass(frozen=True)
+class StageRef:
+    """A string in one of the olang tables packed inside STAGEDAT.
+
+    `rec` is the container entry index, `file` the inner file name -- the same
+    logical table (table_id) is stored per language in several entries, so the
+    address has to name the copy.  Read-only for now: ANALYSIS/09 §4.
+    """
+    rec: int
+    file: str
+    group: int
+    entry: int
+
+    kind = STAGE
+
+    def __str__(self) -> str:
+        return f"{STAGE}/{self.rec}/{self.file}/{self.group:#08x}/" \
+               f"{self.entry:#08x}"
+
+
 def parse_ref(ref: str):
-    """OlangRef / CodecRef / SlotRef for a `#:` reference, or ValueError."""
+    """OlangRef / CodecRef / SlotRef / StageRef for a `#:` reference."""
     parts = ref.split("/")
     try:
         if parts[0] == OLANG and len(parts) == 4:
@@ -84,6 +113,9 @@ def parse_ref(ref: str):
             return CodecRef(*(int(p, 0) for p in parts[1:]))
         if parts[0] == SLOT and len(parts) == 4:
             return SlotRef(int(parts[1], 0), int(parts[2], 0), int(parts[3], 0))
+        if parts[0] == STAGE and len(parts) == 5:
+            return StageRef(int(parts[1], 0), parts[2],
+                            int(parts[3], 0), int(parts[4], 0))
     except ValueError:
         pass
     raise ValueError(f"unparseable reference: {ref!r}")
@@ -194,6 +226,49 @@ def slot_sources(lang: int = config.LANG_EN) -> dict:
     return out
 
 
+def stage_sources(lang: int = config.LANG_EN) -> dict:
+    """reference -> line, for the olang tables inside STAGEDAT (ANALYSIS/09).
+
+    Same shape as slot_sources: the TSV written by `pwsf.stage` is the source
+    of record, because re-reading the 487 MB container means decrypting and
+    inflating every payload on every lint run.
+    """
+    path = config.STAGE_OLANG_TSV
+    if not path.is_file():
+        return {}
+    rows = path.read_text(encoding="utf-8").splitlines()
+    col = {n: i for i, n in enumerate(rows[0].split("\t"))}
+    want = config.LANG_KEYS.get(lang, "en")
+    out = {}
+    for r in rows[1:]:
+        c = r.split("\t")
+        if len(c) <= col["text"] or c[col["lang"]] != want:
+            continue
+        out[str(StageRef(int(c[col["rec"]]), c[col["file"]],
+                         int(c[col["group"]], 0), int(c[col["entry"]], 0)))] = \
+            c[col["text"]].replace("\\n", "\n")
+    return out
+
+
+def stage_pixel_refs() -> frozenset:
+    """stage references drawn with the ASCII-only pixel atlas (meta == 1)."""
+    path = config.STAGE_OLANG_TSV
+    if not path.is_file():
+        return frozenset()
+    rows = path.read_text(encoding="utf-8").splitlines()
+    col = {n: i for i, n in enumerate(rows[0].split("\t"))}
+    out = set()
+    for r in rows[1:]:
+        c = r.split("\t")
+        if len(c) <= col["text"] or c[col["lang"]] != "en":
+            continue
+        if int(c[col["meta"]], 0) != META_PIXEL_FONT:
+            continue
+        out.add(str(StageRef(int(c[col["rec"]]), c[col["file"]],
+                             int(c[col["group"]], 0), int(c[col["entry"]], 0))))
+    return frozenset(out)
+
+
 # olang key.meta is the font selector (ANALYSIS/05_font.md §15, proven by
 # RenderDoc: the title screen's "PRESS START BUTTON" is meta 0x1 and every
 # quad of it samples the 512x512 BC3 atlas inside Text/*.txp, which has no
@@ -234,7 +309,7 @@ def pixel_font_refs() -> frozenset:
             out.add(str(SlotRef(int(c[col["table_id"]], 0),
                                 int(c[col["group"]], 0),
                                 int(c[col["entry"]], 0))))
-    return frozenset(out)
+    return frozenset(out | set(stage_pixel_refs()))
 
 
 @functools.lru_cache(maxsize=1)
@@ -243,4 +318,5 @@ def sources() -> dict:
     out = olang_sources()
     out.update(codec_sources())
     out.update(slot_sources())
+    out.update(stage_sources())
     return out

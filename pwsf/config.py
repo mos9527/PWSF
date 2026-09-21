@@ -184,6 +184,9 @@ ARCHIVE_INDEX_TSV = ANALYSIS_DIR / "_archive_index.tsv"
 # research/TOOLS/_probe_slot25.py
 SLOT_OLANG_TSV = ANALYSIS_DIR / "_slot_olang_lines.tsv"
 CUTSCENE_TSV = ANALYSIS_DIR / "_cutscene_lines.tsv"
+# olang tables carried inside STAGEDAT (009645fa.PDT), ANALYSIS/09 §4,
+# written by pwsf.stage
+STAGE_OLANG_TSV = ANALYSIS_DIR / "_stage_olang_lines.tsv"
 
 # --------------------------------------------------------------- font build
 

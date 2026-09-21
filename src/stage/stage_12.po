@@ -1,0 +1,735 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF stage 12/12\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: stage\n"
+"X-PWSF-Entries: 122\n"
+
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0x676664
+msgid "M134 Design"
+msgstr "M134图纸"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0x7293c5
+msgid "EM Weapons Design"
+msgstr "EM武器设计图"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0x78a1bc
+msgid "AI Development Technology"
+msgstr "AI开发技术"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0x7a85c0
+msgid "Japanese Patriot"
+msgstr "日本爱国者"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0x812dbc
+msgid "Bipedal Weapons Design"
+msgstr "双足武器设计图"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0x829ec9
+msgid "Gunsmith (Assault Rifles)"
+msgstr "枪械师(突击步枪)"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0x82a361
+msgid "Gunsmith (Sniper Rifles)"
+msgstr "枪械师(狙击枪)"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0x8c79bb
+msgid "Optical Technology"
+msgstr "光学技术"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0x8e0127
+msgid "FSLN Comandante"
+msgstr "FSLN 指挥官"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0x945f6e
+msgid "Engineering"
+msgstr "工程"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0x947a45
+msgid "Radio Technology"
+msgstr "无线电技术"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0x9d01b9
+msgid "Pharmacist"
+msgstr "药剂师"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0x9e984e
+msgid "Expert Pharmacist"
+msgstr "药剂师专家"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0xaf2d02
+msgid "Mother Base Deputy Commander"
+msgstr "母基地副司令"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0xb7a536
+msgid "Gunsmith (Machine Guns)"
+msgstr "枪械师（机枪）"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0xb9d1ac
+msgid "Surgeon"
+msgstr "外科"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0xbd884d
+msgid "Green Beret"
+msgstr "贝雷帽"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0xc14351
+msgid "Gunsmith (Submachine Guns)"
+msgstr "枪械师（冲锋枪）"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0xca3c60
+msgid "Three-Star Chef"
+msgstr "三星主厨"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0xcaff60
+msgid "Four-Star Chef"
+msgstr "四星主厨"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0xd552f5
+msgid "Home Cooking"
+msgstr "家常菜"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0xd821e3
+msgid "Physician "
+msgstr "医生"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0xe93f78
+msgid "Sidekick"
+msgstr "搭档"
+
+#. STAGEDAT entry 174, lang_myouter_staff_skill_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_staff_skill_en.olang/0xb910e6/0xf01d9b
+msgid "Anti-tank Rifle Design"
+msgstr "反坦克枪设计图"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000001
+msgid "STUN ROD"
+msgstr "电棍"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000002
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000003
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000004
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000005
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000006
+msgid "MK.22"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000007
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000008
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000009
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00000a
+msgid "EZ GUN(LR)"
+msgstr "EZ枪(LR)"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00000b
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00000c
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00000d
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00000e
+msgid "EZ GUN(PR)"
+msgstr "EZ枪(PR)"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000011
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000012
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000013
+msgid "M1911(CT)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00001a
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00001b
+msgid "K.PISTOL"
+msgstr "K.手枪"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000025
+msgid "BANANA"
+msgstr "香蕉"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000029
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00002a
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00002b
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00002c
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00002d
+msgid "TWIN BRL."
+msgstr "双管"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00002e
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00002f
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000030
+msgid "TWIN B.(R)"
+msgstr "双管(R)"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000035
+msgid "M37(LB)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000036
+msgid "M37(ACM)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000041
+msgid "M10(SP)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000042
+msgid "M10(BJ)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000046
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000047
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000048
+msgid "UZ61"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00004b
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000231
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000232
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000233
+msgid "VZ61"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00004f
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000050
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000051
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000052
+msgid "M16A1(STG)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000053
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000054
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000055
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000056
+msgid "M16A1(GL)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000057
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000058
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000059
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00005a
+msgid "M16A1(SGL)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00005b
+msgid "PATRIOT"
+msgstr "爱国者"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00005e
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00005f
+msgid "M653(GL)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000060
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000061
+msgid "M653(STG)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000062
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000063
+msgid "M653(SGL)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000065
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000066
+msgid "RK47(GL)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000067
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000068
+msgid "RK47(SGL)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000073
+msgid "MUSKET"
+msgstr "火枪"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00008a
+msgid "M60(AP)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00008b
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00008c
+msgid "M60(SB)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000096
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000097
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000098
+msgid "MG3 (AP)"
+msgstr "MG3 (AP)"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000099
+msgid "M134"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00009a
+msgid "EMW GUN"
+msgstr "EMW枪"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00009b
+msgid "DSHK"
+msgstr "DSHK"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000a1
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000a2
+msgid "M1C (PR)"
+msgstr "M1C (PR)"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000a7
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000a8
+msgid "M700(BB)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000a9
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000aa
+msgid "M700(LR)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000ab
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000ac
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000ad
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000ae
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000af
+msgid "M.NAGANT"
+msgstr "M.NAGANT"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000b2
+msgid "SVD(HC)"
+msgstr "SVD(HC)"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000b3
+msgid "SVD(NV)"
+msgstr "SVD(NV)"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000ba
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000bb
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000bc
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00020a
+msgid "RAILGUN"
+msgstr "电磁"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000bd
+msgid "RG DYNAMO"
+msgstr "RG DYNAMO"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000da
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000db
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000dc
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000dd
+msgid "C.GUSTAV"
+msgstr "C.GUSTAV"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000de
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000df
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000e0
+msgid "C.GSTV(MP)"
+msgstr "C.GSTV(MP)"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000e1
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000e2
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000e3
+msgid "C.GSTV(FR)"
+msgstr "C.GSTV(FR)"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000e5
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000e6
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000e7
+msgid "STLTH GUN"
+msgstr "STLTH GUN"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000e8
+msgid "SLING POST"
+msgstr "SLING POST"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000e9
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000ea
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000eb
+msgid "SLING BAND"
+msgstr "SLING BAND"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000f8
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000f9
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000fa
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000fb
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000fc
+msgid "GRENADE"
+msgstr "GRENADE"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000fd
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000fe
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0000ff
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000100
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000101
+msgid "STUN G."
+msgstr "STUN G."
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000102
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000103
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000104
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000105
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000106
+msgid "CHAFF G."
+msgstr "CHAFF G."
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000107
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000108
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000109
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00010a
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00010b
+msgid "SMOKE G."
+msgstr "SMOKE G."
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00010c
+msgid "SMK G.(R)"
+msgstr "SMK G.(R)"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00010d
+msgid "SMK G.(B)"
+msgstr "SMK G.(B)"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00010e
+msgid "SMK G.(G)"
+msgstr "SMK G.(G)"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00010f
+msgid "SMK G.(Y)"
+msgstr "SMK G.(Y)"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000110
+msgid "SMK G.(BK)"
+msgstr "SMK G.(BK)"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000111
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000112
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000113
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000114
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000115
+msgid "SLEEP G."
+msgstr "SLEEP G."
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000116
+msgid "EMPTY MAG."
+msgstr "EMPTY MAG."
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000119
+msgid "EM NET"
+msgstr "EM NET"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00011f
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000120
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000121
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000122
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000123
+msgid "CLAYMORE"
+msgstr "CLAYMORE"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000124
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000125
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000126
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000127
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000128
+msgid "MAGAZINE"
+msgstr "杂志"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00012e
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00012f
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000130
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000131
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000132
+msgid "COOKBOOK"
+msgstr "菜谱"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000133
+msgid "SOLID M."
+msgstr "固蛇"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000134
+msgid "LIQUID M."
+msgstr "LIQUID M."
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000135
+msgid "SOLIDUS M."
+msgstr "索利达斯"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000136
+msgid "SUPER M."
+msgstr "超级M"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000137
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000248
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000249
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00024a
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00024b
+msgid "HOBBY MAG."
+msgstr "兴趣志"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000138
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000139
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00013a
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00013b
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00013c
+msgid "AT MINE"
+msgstr "反坦克雷"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00013d
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00013e
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00013f
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000140
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000141
+msgid "DECOY"
+msgstr "诱饵"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000142
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000143
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000144
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000145
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000146
+msgid "AERIAL M."
+msgstr "空投杂志"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000148
+msgid "FULTON M."
+msgstr "富尔顿杂志"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00014b
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00014c
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00014d
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00014e
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00014f
+msgid "NOTHING"
+msgstr "无"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000190
+msgid "12.7MM MG"
+msgstr "12.7MM机枪"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000191
+msgid "7.62MM MG"
+msgstr "7.62MM机枪"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000192
+msgid "14.5MM MG"
+msgstr "14.5MM机枪"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000193
+msgid "25MM MG"
+msgstr "25MM机枪"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000194
+msgid "20MM AAG"
+msgstr "20MM高射炮"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0001ca
+msgid "152MM GL"
+msgstr "152MM榴弹"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0001cb
+msgid "120MM SG"
+msgstr "120MM霰弹"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0001cc
+msgid "125MM SG"
+msgstr "125MM霰弹"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x0001cd
+msgid "76MM RG"
+msgstr "76MM火箭炮"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000206
+msgid "GUN POD"
+msgstr "枪荚"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000207
+msgid "AT MISSILE"
+msgstr "反坦克导弹"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000208
+msgid "ROCKET LC"
+msgstr "火箭发射器"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00020b
+msgid "MACHINEGUN"
+msgstr "机枪"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00020c
+msgid "E.CHARGE"
+msgstr "蓄力"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00020e
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00020f
+msgid "MISSILE"
+msgstr "导弹"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000211
+msgid "CANNON"
+msgstr "炮"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000217
+msgid "PETRIF.ATK"
+msgstr "石化攻"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000225
+msgid "IRN BOMB"
+msgstr "铁弹"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000226
+msgid "30MM MG"
+msgstr "30MM机枪"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000227
+msgid "30MM CG"
+msgstr "30MM机炮"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00024c
+msgid "CT GUN(SM)"
+msgstr "麻醉枪(小)"
+
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00024d
+msgid "CT GUN(ST)"
+msgstr "麻醉枪(标)"
+
+#. STAGEDAT entry 180, lang_title_nameentry_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/180/lang_title_nameentry_en.olang/0xda3cb1/0x390b2c
+msgid "Input your player name."
+msgstr ""
+
+#. STAGEDAT entry 180, lang_title_nameentry_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/180/lang_title_nameentry_en.olang/0xda3cb1/0x3a0b2c
+msgid "Is this name OK?"
+msgstr ""
+
+#. STAGEDAT entry 180, lang_titlemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/180/lang_titlemenu_en.olang/0xfb5d7b/0x7bdc4a
+msgid "A Memory<I=BL>Stick<I=TM> with at least 30MB of free space is required to play this game."
+msgstr ""
+
+#. STAGEDAT entry 180, lang_titlemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/180/lang_titlemenu_en.olang/0xfb5d7b/0x8ec58a
+msgid "Select your language."
+msgstr ""
+
+#. STAGEDAT entry 180, lang_titlemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/180/lang_titlemenu_en.olang/0xfb5d7b/0x92af89
+msgid "This game saves data automatically at certain points. Do not remove the Memory<I=BL>Stick<I=TM> or turn off the power when the access indicator is flashing."
+msgstr ""
+
+#. STAGEDAT entry 180, lang_titlemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/180/lang_titlemenu_en.olang/0xfb5d7b/0xebba48
+msgid "This game uses one save file continuously. Removing the Memory<I=BL>Stick<I=TM> during the game or deleting this file may render it impossible to continue your game."
+msgstr ""

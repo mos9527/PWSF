@@ -140,7 +140,7 @@ def lint(po_dir=None, lang: int = config.LANG_EN, allow_ruby_drop: bool = False,
     targets = None if lang == config.LANG_EN else set(slots.olang_sources(lang))
     owner = {}          # reference -> (where, msgstr) of the entry that claims it
     counts = dict(files=len(po.po_files(po_dir)), entries=0, translated=0,
-                  refs=0, olang_slots=0, codec_slots=0)
+                  refs=0, olang_slots=0, codec_slots=0, stage_slots=0)
 
     for path, e in po.iter_entries(po_dir):
         where = f"{path.name}:{e.lineno}"
@@ -207,6 +207,11 @@ def lint(po_dir=None, lang: int = config.LANG_EN, allow_ruby_drop: bool = False,
             rep.translations[r] = e.msgstr
             if r.startswith(slots.CODEC + "/"):
                 counts["codec_slots"] += 1
+            elif r.startswith(slots.STAGE + "/"):
+                # ANALYSIS/09 §4: STAGEDAT has no write-back, so the slot is
+                # checked like any other but cannot be built.  Warn once per
+                # run instead of per slot (see below).
+                counts["stage_slots"] += 1
             else:
                 counts["olang_slots"] += 1
                 if targets is not None and r not in targets:
@@ -214,6 +219,14 @@ def lint(po_dir=None, lang: int = config.LANG_EN, allow_ruby_drop: bool = False,
                             f"{r} has no {config.LANG_KEYS[lang]} key to write "
                             f"into; that slot only ships some of the six "
                             f"languages")
+
+    if counts["stage_slots"]:
+        rep.add(WARN, "stage-readonly", "-",
+                f"{counts['stage_slots']} STAGEDAT slot(s) translated, but "
+                f"STAGEDAT (009645fa.PDT) has no write-back yet: po_import "
+                f"skips them (ANALYSIS/09 §4). The text is still worth "
+                f"translating -- it is mission info, stage telops and Mother "
+                f"Base staff comments -- it just will not appear in game yet")
 
     if counts["codec_slots"] and lang != config.LANG_EN:
         rep.add(ERROR, "target", "-",

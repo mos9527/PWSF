@@ -8,10 +8,11 @@
 olang/olang_NN.po  UI 文字 + 游戏内字幕    4 个文件 /  1,513 条   能写回
 codec/codec_NN.po  CODEC / 简报台词       12 个文件 /  4,746 条   能写回
 slot/slot_NN.po    SLOT.DAT 内嵌文本      26 个文件 / 10,073 条   能写回
+stage/stage_NN.po  STAGEDAT 内嵌文本      12 个文件 /  4,522 条   【只读】
 MANIFEST.tsv       分块索引（条目数 / 覆盖槽位数 / 原文字符数）
 ```
 
-合计 16,332 条。一个文件约 400 条，可以一人认领一个文件并行推进。
+合计 20,854 条。一个文件约 400 条，可以一人认领一个文件并行推进。
 
 > 下一次 `po_export` 会降到 15,773 条：那 559 条是像素字体槽位，按 §15 的结论
 > 不再导出（详见文末「有一批文字不要译」）。
@@ -20,6 +21,17 @@ MANIFEST.tsv       分块索引（条目数 / 覆盖槽位数 / 原文字符数�
 主体在 `slot_05`–`slot_10`；其余是同一批内嵌文本里的 UI 说明文。
 它们的文本不在磁盘那 17 个 `.olang` 里，而是塞在 `MLG/disc0_rel/002aba34.DAT`
 中，详见 [`research/ANALYSIS/08_cutscene_text.md`](../research/ANALYSIS/08_cutscene_text.md)。
+
+## `stage/` 是只读语料（暂时）
+
+`stage/` 是 **STAGEDAT**（`MLG/disc0_rel/009645fa.PDT`）里那 738 张内嵌 olang
+表：任务说明、关卡提示、Mother Base 队员吐槽、道具/武器说明文。其中 10,570 条
+在别处都没有。
+
+它**现在还写不回**：`po_import` 会跳过 `stage/...` 引用，`po_lint` 会给你一条
+`stage-readonly` 警告。翻了不会出错、也不会进游戏——先翻着，等写回链路打通。
+格式与来龙去脉见
+[`research/ANALYSIS/09_stagedat_payload.md`](../research/ANALYSIS/09_stagedat_payload.md)。
 
 > 以前这里有份 `pwsf.pot`，现在默认不再生成 —— 它只是所有语料合并成的空
 > 模板，`po_lint` / `po_import` 都不读它，在里面翻译不生效。需要时 `--pot`。

@@ -61,6 +61,10 @@ research/
 
 # Status
 - UI 文字、游戏内字幕、CODEC 台词、过场（漫画）文字已全量提取
+- STAGEDAT（`009645fa.PDT`，唯一 mode 0x40 容器）payload 已破：zlib + 内嵌文件
+  归档 → 738 张 olang / 97,989 条文本，其中 **10,570 条是 SLOT 之外的新语料**
+  （`09_stagedat_payload.md`）。已导出为 `src/stage/*.po`（12 文件 / 4,522 条），
+  **只读**：`po_import` 跳过、`po_lint` 报 `stage-readonly`，写回链路待补
 - 汉化管线 olang 与过场两侧都已闭环：在 `.po` 里填译文 → 校验 → 编译
   （重建文本表 / 重建 `SLOT.DAT`（544 MB）+ 自动补字形，`--rebuild-font`
   可整表重建字库）→ 备份后装入游戏 → 一键还原
@@ -116,6 +120,7 @@ python -m pwsf.config --print-default  # 只打印内容，不落盘
 python -m pwsf.subtitle          # 游戏内字幕 -> research/ANALYSIS/subtitle_ingame.tsv
 python -m pwsf.briefing -o research/ANALYSIS/_briefing_lines.tsv    # CODEC 台词
 python -m pwsf.archive_index     # 全盘归档索引
+python -m pwsf.stage             # STAGEDAT 内嵌文本 -> research/ANALYSIS/_stage_olang_lines.tsv
 
 # 翻译语料
 python -m pwsf.po_export                           # 英文原文 -> src/ 下 42 个 .po
@@ -152,6 +157,14 @@ python research\TOOLS\_probe_po4.py   # 每条校验各自触发，正确译文�
 python research\TOOLS\_probe_po5.py   # 安装状态机与拒绝路径
 python research\TOOLS\_probe_bri53.py # CODEC 池预算 + 写回是恒等变换
 python research\TOOLS\_probe_bri54.py # CODEC 回写端到端（含 lint 拦截）
+
+# 未收集语料的全盘预览（找漏网文本）
+python research\TOOLS\_probe_textscan.py --jobs 8            # 非容器文件 raw+xor
+python research\TOOLS\_probe_pkg_scan.py  --jobs 8 --skip-exlang  # 全容器 payload 分类
+python research\TOOLS\_probe_pkg_peek.py "MLG\disc0_rel\009645fa.PDT" --zlib-text
+python research\TOOLS\_probe_stagedat.py                     # mode 0x40 LCG 播种（CRC oracle）
+python research\TOOLS\_probe_inner_layout.py 15              # 内嵌归档布局穷举
+python research\TOOLS\_probe_stagedat_inner.py --dump-dir research\BUILD\x --dump-ext ohd
 ```
 
 # Translation workflow
@@ -160,6 +173,7 @@ src/
   olang/olang_01..04.po   UI 文字 + 游戏内字幕    1,461 条   能写回
   codec/codec_01..12.po   CODEC / 简报台词        4,746 条   能写回（池预算紧，见下）
   slot/slot_01..24.po     SLOT.DAT 内嵌文本       9,566 条   能写回（过场 1,858 条）
+  stage/stage_01..12.po   STAGEDAT 内嵌文本       4,522 条   只读，暂不可写回
   MANIFEST.tsv            分块索引
 ```
 
@@ -237,6 +251,7 @@ python -m pwsf.install --restore
 | `pwsf.xpr` / `pwsf.font` / `pwsf.font_build` | XPR2 容器、ATG 字体、字形补齐与整表重建 |
 | `pwsf.subtitle` | 游戏内字幕导出 |
 | `pwsf.po` / `pwsf.po_export` | gettext `.po` 读取与语料导出 |
+| `pwsf.stage` | STAGEDAT：payload 解密 + 内嵌文件归档 + 内嵌 olang 抽取（`09` 号文档） |
 | `pwsf.slots` | `.po` 引用 ↔ 二进制槽位，校验与写回共用 |
 | `pwsf.po_lint` | 译文编译前的全部校验，error 即阻断 |
 | `pwsf.slotdat` / `pwsf.slotdat_build` | `SLOT.DAT`（过场文字所在）：两层 XOR 解密 / 重建整个容器 |

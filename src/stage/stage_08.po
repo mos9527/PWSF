@@ -1,0 +1,2669 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF stage 8/12\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: stage\n"
+"X-PWSF-Entries: 400\n"
+
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x48404d/0x000002
+#: stage/168/lang_gameover_en.olang/0x48404d/0x000002
+msgid "We'll put the operation on hold."
+msgstr "行动先搁置。"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x484051/0x000000
+#: stage/168/lang_gameover_en.olang/0x484051/0x000000
+msgid "Looks like you're out of ammo."
+msgstr "看来你没弹药了。"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x484051/0x000001
+#: stage/168/lang_gameover_en.olang/0x484051/0x000001
+msgid "Maybe I underestimated... Anyway, back to base."
+msgstr "也许是我低估了…总之，回基地。"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x4840e5/0x000000
+#: stage/168/lang_gameover_en.olang/0x4840e5/0x000000
+msgid "Aaaaaaaaaah!"
+msgstr "啊啊啊啊啊！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x484141/0x000000
+#: stage/168/lang_gameover_en.olang/0x484141/0x000000
+msgid "Everyone, get those fires out! Dammit - we'll never catch up! Argh!"
+msgstr "快灭火！该死，追不上了！呃啊！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x484145/0x000000
+#: stage/168/lang_gameover_en.olang/0x484145/0x000000
+msgid "Mom... Is that you, Mom...? Aarrgh!!"
+msgstr "妈妈…是你吗，妈妈…？啊啊啊！！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x484149/0x000000
+#: stage/168/lang_gameover_en.olang/0x484149/0x000000
+msgid "What are you doing? I told you to keep him alive!"
+msgstr "你在干什么？我说了要留活口！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x48414d/0x000000
+#: stage/168/lang_gameover_en.olang/0x48414d/0x000000
+msgid "They spotted you? Training is over - come on back."
+msgstr "被发现了？训练结束——回来吧。"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x4841d9/0x000000
+#: stage/168/lang_gameover_en.olang/0x4841d9/0x000000
+msgid "No! They got the researcher - mission failed!"
+msgstr "不！研究员被抓，任务失败！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x486feb/0x000000
+#: stage/168/lang_gameover_en.olang/0x486feb/0x000000
+msgid "Time's up. You failed the mission."
+msgstr "时间到。任务失败。"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x487047/0x000000
+#: stage/168/lang_gameover_en.olang/0x487047/0x000000
+msgid "You're out of time... Mission incomplete..."
+msgstr "时间不够了…任务未完成…"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x48704b/0x000000
+#: stage/168/lang_gameover_en.olang/0x48704b/0x000000
+msgid "Forget it, you'll never make it in time. The mission's over."
+msgstr "算了，你赶不上了。任务结束。"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x48d0eb/0x000000
+#: stage/168/lang_gameover_en.olang/0x48d0eb/0x000000
+msgid "Snake... Peace Walker launched the nuke."
+msgstr ""
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x48d147/0x000000
+#: stage/168/lang_gameover_en.olang/0x48d147/0x000000
+msgid "Snake... The nuke was launched."
+msgstr "SNAKE…核弹发射了。"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x48d147/0x000001
+#: stage/168/lang_gameover_en.olang/0x48d147/0x000001
+msgid "Those bastards from the Pentagon just plunged the world into a nuclear apocalypse!"
+msgstr "五角大楼那帮混蛋把世界推入了核浩劫！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x48d14b/0x000000
+#: stage/156/lang_gameover_en.olang/0x48d14c/0x000000
+#: stage/156/lang_gameover_en.olang/0x48d14d/0x000000
+#: stage/156/lang_gameover_en.olang/0x48d14e/0x000000
+#: stage/156/lang_gameover_en.olang/0x48d14f/0x000000
+#: stage/156/lang_gameover_en.olang/0x48d150/0x000000
+#: stage/168/lang_gameover_en.olang/0x48d14b/0x000000
+#: stage/168/lang_gameover_en.olang/0x48d14c/0x000000
+#: stage/168/lang_gameover_en.olang/0x48d14d/0x000000
+#: stage/168/lang_gameover_en.olang/0x48d14e/0x000000
+#: stage/168/lang_gameover_en.olang/0x48d14f/0x000000
+#: stage/168/lang_gameover_en.olang/0x48d150/0x000000
+msgid "The mission's a failure. Return to base!"
+msgstr "任务失败。返回基地！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x584def/0x000000
+#: stage/168/lang_gameover_en.olang/0x584def/0x000000
+msgid "Snake, what happened?! Say something! Snaaaaaaake!"
+msgstr "SNAKE，怎么了？！说话！SNAAAAAAKE！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x584df3/0x000000
+#: stage/168/lang_gameover_en.olang/0x584df3/0x000000
+msgid "This can't be happening... Tell me you're OK, Snake! Snaaaake!"
+msgstr "这不可能…告诉我你没事，SNAKE！SNAAAKE！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x584df7/0x000000
+#: stage/168/lang_gameover_en.olang/0x584df7/0x000000
+msgid "Get up, Snake! Without you, Costa Rica's finished! Snaaake!"
+msgstr "起来，SNAKE！没有你，哥斯达黎加就完了！SNAAAKE！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x584dfb/0x000000
+#: stage/168/lang_gameover_en.olang/0x584dfb/0x000000
+msgid "What happened?! Say something!"
+msgstr "怎么了？！说话！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x584dff/0x000000
+#: stage/168/lang_gameover_en.olang/0x584dff/0x000000
+msgid "No, don't tell me... I don't want to see anyone else die!"
+msgstr "不，别告诉我…我不想再看到有人死了！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x584e03/0x000000
+#: stage/168/lang_gameover_en.olang/0x584e03/0x000000
+msgid "Please, get up! Costa Rica needs you!"
+msgstr "求你了，起来！哥斯达黎加需要你！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x5f2371/0x000000
+#: stage/168/lang_gameover_en.olang/0x5f2371/0x000000
+msgid "Paz (Tara Strong)"
+msgstr "帕兹（Tara Strong）"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df642/0x000000
+#: stage/168/lang_gameover_en.olang/0x6df642/0x000000
+msgid "What happened, Snake?! Snaaaaaaaake!"
+msgstr "怎么了，SNAKE？！SNAAAAAAKE！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df646/0x000000
+#: stage/168/lang_gameover_en.olang/0x6df646/0x000000
+msgid "This cannot be... Snake!"
+msgstr "这不可能……SNAKE！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df646/0x000001
+#: stage/168/lang_gameover_en.olang/0x6df646/0x000001
+msgid "There is so much more I wanted to learn from you... Snaaaaaake!"
+msgstr "我还想从你身上学好多东西……SNAAAAAAKE！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df64a/0x000000
+#: stage/168/lang_gameover_en.olang/0x6df64a/0x000000
+msgid "Get up, Snake, please! I cannot lose another comandante! Snaaaaaake!"
+msgstr "起来，SNAKE，求你了！我不能再失去一个指挥官了！SNAAAAAAKE！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df64e/0x000000
+#: stage/168/lang_gameover_en.olang/0x6df64e/0x000000
+msgid "Snake, no! You were... you were so close!"
+msgstr "SNAKE，不要！你……你明明就差一点了！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df652/0x000000
+#: stage/168/lang_gameover_en.olang/0x6df652/0x000000
+msgid "What happened?! Can you hear me? Say something!"
+msgstr "怎么了？！能听见我吗？说句话！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df6ae/0x000000
+#: stage/168/lang_gameover_en.olang/0x6df6ae/0x000000
+msgid "What is going on? Are you injured? Please, come in!"
+msgstr "发生什么了？你受伤了吗？请回答！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df6b2/0x000000
+#: stage/168/lang_gameover_en.olang/0x6df6b2/0x000000
+msgid "No! Talk to me! We still have to liberate Nicaragua together!"
+msgstr "不！跟我说话！我们还要一起解放尼加拉瓜！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df6b6/0x000000
+#: stage/168/lang_gameover_en.olang/0x6df6b6/0x000000
+msgid "Snake, return to base! We have to abort."
+msgstr "SNAKE，回基地！必须中止。"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df6b6/0x000001
+#: stage/168/lang_gameover_en.olang/0x6df6b6/0x000001
+msgid "Your partner has taken a fall!"
+msgstr "你的搭档倒下了！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df6ba/0x000000
+#: stage/168/lang_gameover_en.olang/0x6df6ba/0x000000
+msgid "Snake, we are aborting the operation! "
+msgstr "SNAKE，我们中止行动！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df6ba/0x000001
+#: stage/168/lang_gameover_en.olang/0x6df6ba/0x000001
+msgid "Your partner took a fall... How could you take your eyes off our compas?! "
+msgstr "你的搭档倒下了……你怎么能不看住同伴？！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df6ba/0x000002
+#: stage/168/lang_gameover_en.olang/0x6df6ba/0x000002
+msgid "You are supposed to be the Boss!"
+msgstr "你可是BOSS啊！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df6be/0x000000
+#: stage/168/lang_gameover_en.olang/0x6df6be/0x000000
+msgid "Return to base! We're aborting. "
+msgstr "回基地！中止行动。"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df6be/0x000001
+#: stage/168/lang_gameover_en.olang/0x6df6be/0x000001
+msgid "Unfortunately, your partner took a fall..."
+msgstr "很遗憾，你的搭档倒下了……"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df6c2/0x000000
+#: stage/168/lang_gameover_en.olang/0x6df6c2/0x000000
+msgid "The operation is aborted. Your partner has taken a fall. "
+msgstr "行动中止。你的搭档倒下了。"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x6df6c2/0x000001
+#: stage/168/lang_gameover_en.olang/0x6df6c2/0x000001
+msgid "Why did this have to happen...?"
+msgstr "为什么会这样……？"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x74cb70/0x000000
+#: stage/168/lang_gameover_en.olang/0x74cb70/0x000000
+msgid "Amanda (Grey DeLisle)"
+msgstr "阿曼达（Grey DeLisle）"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x89095a/0x000000
+#: stage/168/lang_gameover_en.olang/0x89095a/0x000000
+msgid "Snake! What happened?! Snaaaaaake!"
+msgstr "SNAKE！怎么了？！SNAAAAAAKE！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x89095e/0x000000
+#: stage/168/lang_gameover_en.olang/0x89095e/0x000000
+msgid "What is going on?  Snake, Answer me! Snaaake!"
+msgstr "怎么了？SNAKE，回答我！SNAAAKE！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x890962/0x000000
+#: stage/168/lang_gameover_en.olang/0x890962/0x000000
+msgid "The birds are weeping... What happened?  Snake?  "
+msgstr "鸟儿在哭泣……怎么了？SNAKE？"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x890962/0x000001
+#: stage/168/lang_gameover_en.olang/0x890962/0x000001
+msgid "Say something!"
+msgstr "说句话！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x890966/0x000000
+#: stage/168/lang_gameover_en.olang/0x890966/0x000000
+msgid "Snake, get up, please! "
+msgstr "SNAKE，起来，求你了！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x890966/0x000001
+#: stage/168/lang_gameover_en.olang/0x890966/0x000001
+msgid "Here, I'll do a quetzal for you! Kyoooh, kyoooh..."
+msgstr "来，我给你学个凤尾绿咬鹃！叽——叽——……"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x89096a/0x000000
+#: stage/168/lang_gameover_en.olang/0x89096a/0x000000
+msgid "Hey, what happened?! Please, answer me!"
+msgstr "喂，怎么了？！回答我！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x89096e/0x000000
+#: stage/168/lang_gameover_en.olang/0x89096e/0x000000
+msgid "Talk to me! Are you there?  Oh, what happened?"
+msgstr "说话！你在吗？哦，怎么了？"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x890972/0x000000
+#: stage/168/lang_gameover_en.olang/0x890972/0x000000
+msgid "Have you... taken to the skies yourself now?"
+msgstr "你……现在也自己飞上天了吗？"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8909ce/0x000000
+#: stage/168/lang_gameover_en.olang/0x8909ce/0x000000
+msgid "What do we do, Snake?! Your friend has fallen! Come back immediately!"
+msgstr "怎么办，SNAKE？！你的同伴倒下了！马上回来！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8909d2/0x000000
+#: stage/168/lang_gameover_en.olang/0x8909d2/0x000000
+msgid "Come back, Snake! Your friend has fallen... If only man had wings..."
+msgstr "回来，SNAKE！同伴倒下了……人有翅膀多好……"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8909d6/0x000000
+#: stage/168/lang_gameover_en.olang/0x8909d6/0x000000
+msgid "Hurry back! Your friend has fallen! Oh mon Dieu..."
+msgstr "快回来！同伴倒下了！哦天哪……"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8909da/0x000000
+#: stage/168/lang_gameover_en.olang/0x8909da/0x000000
+msgid "I cannot believe this... Your friend has fallen... Come back!"
+msgstr "不敢相信……同伴倒下了……回来！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8b7462/0x000000
+#: stage/168/lang_gameover_en.olang/0x8b7462/0x000000
+msgid "Snake, what happened?! Answer me! Snaaaaake!"
+msgstr "SNAKE，出什么事了？！回答我！SNAAAAKE！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8b7466/0x000000
+#: stage/168/lang_gameover_en.olang/0x8b7466/0x000000
+msgid "Snake! What's going on? We still gotta look for UMAs together! Snaaaaake!"
+msgstr "SNAKE！怎么了？我们还得一起找未知生物呢！SNAAAAKE！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8b746a/0x000000
+#: stage/168/lang_gameover_en.olang/0x8b746a/0x000000
+msgid "Come on, Snake! You can't just leave us like this! Snaaaaaaake!"
+msgstr "别这样，SNAKE！不能丢下我们！SNAAAAAAKE！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8b746e/0x000000
+#: stage/168/lang_gameover_en.olang/0x8b746e/0x000000
+msgid "What the heck happened?! Talk to me! Please!"
+msgstr "怎么了？！说话啊！求你！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8b7472/0x000000
+#: stage/168/lang_gameover_en.olang/0x8b7472/0x000000
+msgid "What's going on?! Can you still hear me? Come in!"
+msgstr "怎么了？！还听得到我吗？请回答！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8b7476/0x000000
+#: stage/168/lang_gameover_en.olang/0x8b7476/0x000000
+msgid "We were going to go back to Nicaragua together!"
+msgstr "我们本来说好一起回尼加拉瓜的！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8b7476/0x000001
+#: stage/168/lang_gameover_en.olang/0x8b7476/0x000001
+msgid "Say something! No...!"
+msgstr "说句话啊！不……！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8b747a/0x000000
+#: stage/168/lang_gameover_en.olang/0x8b747a/0x000000
+msgid "Return to base, Snake! The mission's aborted. Your partner took a fall..."
+msgstr "返回基地，SNAKE！任务中止。你的搭档倒下了……"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8b747e/0x000000
+#: stage/168/lang_gameover_en.olang/0x8b747e/0x000000
+msgid "Your partner took a fall... Better come back, Snake."
+msgstr "你的搭档倒下了……最好回来，SNAKE。"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8b747e/0x000001
+#: stage/168/lang_gameover_en.olang/0x8b747e/0x000001
+msgid "Why weren't you watching them?!"
+msgstr "你怎么没看好他们？！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8b7482/0x000000
+#: stage/168/lang_gameover_en.olang/0x8b7482/0x000000
+msgid "No! It can't be over yet!"
+msgstr "不！不能就这么结束！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8b74de/0x000000
+#: stage/168/lang_gameover_en.olang/0x8b74de/0x000000
+msgid "Return to base! A compa fell! We gotta reorganize things."
+msgstr "回基地！同伴倒下了！得重整。"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x8feb70/0x000000
+#: stage/168/lang_gameover_en.olang/0x8feb70/0x000000
+msgid "Cécile (Cathrine Taber)"
+msgstr "塞西尔（Cathrine Taber）"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x924770/0x000000
+#: stage/168/lang_gameover_en.olang/0x924770/0x000000
+msgid "Chico (Antony Del Rio)"
+msgstr "奇科（Antony Del Rio）"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0x953f71/0x000000
+#: stage/168/lang_gameover_en.olang/0x953f71/0x000000
+msgid "Snake (David Hayter)"
+msgstr "SNAKE（David Hayter）"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xa10742/0x000000
+#: stage/168/lang_gameover_en.olang/0xa10742/0x000000
+msgid "What's going on? What happened, Snake? Acknowledge! SNA-A-AKE!!"
+msgstr "怎么了？出什么事，SNAKE？回答！SNA-A-AKE！！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xa10746/0x000000
+#: stage/168/lang_gameover_en.olang/0xa10746/0x000000
+msgid "Don't quit on me now, Snake! You call yourself her disciple?!"
+msgstr "别放弃，SNAKE！你自称她弟子？！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xa1074a/0x000000
+#: stage/168/lang_gameover_en.olang/0xa1074a/0x000000
+msgid "You disappoint me, Snake... It seems I misjudged you..."
+msgstr "你真让我失望，SNAKE……看来是我看错你了……"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xa1074e/0x000000
+#: stage/168/lang_gameover_en.olang/0xa1074e/0x000000
+msgid "What's happened? Give me a status report! Acknowledge!"
+msgstr "发生了什么？给我状况报告！回答！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xa10752/0x000000
+#: stage/168/lang_gameover_en.olang/0xa10752/0x000000
+msgid "Respond, soldier! At least give me a status report... or is it too late..."
+msgstr "回答，士兵！至少报个状况……还是已经太迟……"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xa10756/0x000000
+#: stage/168/lang_gameover_en.olang/0xa10756/0x000000
+msgid "No... This can't be the right outcome..."
+msgstr "不……这不该是正确结果……"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xa1075a/0x000000
+#: stage/168/lang_gameover_en.olang/0xa1075a/0x000000
+msgid "Return to base, Snake! Your teammate's had a fall. The mission is aborted!!"
+msgstr "回基地，SNAKE！你的队友倒下了。任务中止！！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xa1075e/0x000000
+#: stage/168/lang_gameover_en.olang/0xa1075e/0x000000
+msgid "Return to base, your teammate's fallen! Where were you?"
+msgstr "回基地，你的队友倒下了！你当时在哪？"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xa1075e/0x000001
+#: stage/168/lang_gameover_en.olang/0xa1075e/0x000001
+msgid "SHE would never have abandoned her comrades like that!"
+msgstr "她绝不会那样抛弃同伴！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xa10762/0x000000
+#: stage/168/lang_gameover_en.olang/0xa10762/0x000000
+msgid "Your companion has fallen. Return to base and regroup!"
+msgstr "你的同伴倒下了。回基地重整旗鼓！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xa107be/0x000000
+#: stage/168/lang_gameover_en.olang/0xa107be/0x000000
+msgid "Mission aborted, your companion's fallen. Humans are such fragile creatures..."
+msgstr "任务中止，你的同伴倒下了。人类真是脆弱的生物……"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xa7eb70/0x000000
+#: stage/168/lang_gameover_en.olang/0xa7eb70/0x000000
+msgid "Strangelove (Vanessa Marshall)"
+msgstr "斯特兰奇洛夫（Vanessa Marshall）"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xae66e6/0x000000
+#: stage/156/lang_gameover_en.olang/0xae66e6/0x000001
+#: stage/168/lang_gameover_en.olang/0xae66e6/0x000000
+#: stage/168/lang_gameover_en.olang/0xae66e6/0x000001
+msgid "The End!"
+msgstr "终焉"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xc2cb14/0x000000
+#: stage/168/lang_gameover_en.olang/0xc2cb14/0x000000
+msgid "Paz, wait! PA-A-AZ!"
+msgstr "帕兹，等等！帕——兹！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xc2cb70/0x000000
+#: stage/168/lang_gameover_en.olang/0xc2cb70/0x000000
+msgid "Paz, I'm sorry! Don't walk away! PA-A-AZ!"
+msgstr "帕兹，对不起！别走！帕兹！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xc2cb74/0x000000
+#: stage/168/lang_gameover_en.olang/0xc2cb74/0x000000
+msgid "Hey, Kaz, come back! KA-A-AZ!"
+msgstr "嘿，卡兹，回来！卡——兹！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xc2cb78/0x000000
+#: stage/168/lang_gameover_en.olang/0xc2cb78/0x000000
+msgid "Kaz, I'm sorry! I didn't mean it! C'mon! KA-A-AZ!"
+msgstr "卡兹，对不起！我不是那个意思！别走！卡——兹！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xcbb801/0x4a4f2c
+#: stage/168/lang_gameover_en.olang/0xcbb801/0x4a4f2c
+msgid "When count reaches 0, game will continue automatically."
+msgstr "计数归零后，游戏将自动继续。"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xcbb801/0x75081c
+#: stage/168/lang_gameover_en.olang/0xcbb801/0x75081c
+msgid "Waiting for the host."
+msgstr "正在等待主机。"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xcbb801/0xcfe5d3
+#: stage/168/lang_gameover_en.olang/0xcbb801/0xcfe5d3
+msgid "Waiting for other players."
+msgstr "等待其他玩家。"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xe24d3a/0x000000
+#: stage/168/lang_gameover_en.olang/0xe24d3a/0x000000
+msgid "Snake, what happened? Answer me! SNA-A-AKE!!"
+msgstr "SNAKE，怎么了？回答我！SNAKE！！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xe24d3e/0x000000
+#: stage/168/lang_gameover_en.olang/0xe24d3e/0x000000
+msgid "Snake, you OK?! C'mon, shake it off! SNA-A-AKE!!"
+msgstr "SNAKE，没事吧？！振作点！SNAKE！！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xe24d42/0x000000
+#: stage/168/lang_gameover_en.olang/0xe24d42/0x000000
+msgid "Don't die on me, Snake! Who's gonna stop Peace Walker now?!"
+msgstr "别死啊，SNAKE！还有谁能阻止和平行者？！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xe24d42/0x000001
+#: stage/168/lang_gameover_en.olang/0xe24d42/0x000001
+msgid "SNA-A-AKE!"
+msgstr "SNAKE！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xe24d46/0x000000
+#: stage/168/lang_gameover_en.olang/0xe24d46/0x000000
+msgid "Snake! Get up, Snake!"
+msgstr "SNAKE！起来，SNAKE！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xe24d46/0x000001
+#: stage/168/lang_gameover_en.olang/0xe24d46/0x000001
+msgid "Don't quit...at least deliver the letter..."
+msgstr "别放弃……至少把信送到……"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xe24d4a/0x000000
+#: stage/168/lang_gameover_en.olang/0xe24d4a/0x000000
+msgid "What happened? Are you OK?"
+msgstr "怎么了？还好吗？"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xe24d4a/0x000001
+#: stage/168/lang_gameover_en.olang/0xe24d4a/0x000001
+msgid "Your circuit's still live! Answer me!"
+msgstr "你的回路还通着！回答我！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xe24d4e/0x000000
+#: stage/168/lang_gameover_en.olang/0xe24d4e/0x000000
+msgid "What's going on? Respond!"
+msgstr "怎么了？快回话！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xe24d4e/0x000001
+#: stage/168/lang_gameover_en.olang/0xe24d4e/0x000001
+msgid "You want the world to be nuked into oblivion...?!"
+msgstr "你想让世界被核平吗……？！"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xe24d52/0x000000
+#: stage/168/lang_gameover_en.olang/0xe24d52/0x000000
+msgid "By my own creation... Please forgive me..."
+msgstr "毁于我的造物……原谅我……"
+
+#. STAGEDAT entry 156, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_gameover_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_gameover_en.olang/0xe91f70/0x000000
+#: stage/168/lang_gameover_en.olang/0xe91f70/0x000000
+msgid "Huey (Christopher Randolph)"
+msgstr "休伊（C. Randolph）"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x08758f
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x08758f
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x08758f
+msgid "Default"
+msgstr "默认"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x0a6de1
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x0a6de1
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x0a6de1
+msgid "Inverse"
+msgstr "反向"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x1dfdd6
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x1dfdd6
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x1dfdd6
+msgid "Toggle on/off when Action Button is pressed"
+msgstr "按动作键时切换开关"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x267795
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x267795
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x267795
+msgid "2 Slot Swap"
+msgstr "2槽切换"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x2ef7a1
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0xdfeb1c
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x2ef7a1
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0xdfeb1c
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x2ef7a1
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0xdfeb1c
+msgid "Enabled"
+msgstr "启用"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x36ebc6
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x36ebc6
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x36ebc6
+msgid "Hunter Type"
+msgstr "猎人型"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x3b0b33
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x3b0b33
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x3b0b33
+msgid "On"
+msgstr "开"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x613534
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x613534
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x613534
+msgid "Camera Direction"
+msgstr "镜头方向"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x613ece
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x613ece
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x613ece
+msgid "English"
+msgstr "英语"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x614355
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x614355
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x614355
+msgid "French"
+msgstr "法语"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x6145b9
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x6145b9
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x6145b9
+msgid "German"
+msgstr "德语"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x614f88
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x614f88
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x614f88
+msgid "Italian"
+msgstr "意语"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x6165cd
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x6165cd
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x6165cd
+msgid "Off"
+msgstr "关"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x617708
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x617708
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x617708
+msgid "Spanish"
+msgstr "西语"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x7e713d
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x7e713d
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x7e713d
+msgid "Normal"
+msgstr "普通"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x7ed7da
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0xd8e20e
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x7ed7da
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0xd8e20e
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x7ed7da
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0xd8e20e
+msgid "Disabled"
+msgstr "禁用"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x7f849b
+#: stage/156/lang_pausemenu_en.olang/0x6b2d56/0x579231
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0x80113c
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0x8ecf11
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x7f849b
+#: stage/168/lang_pausemenu_en.olang/0x6b2d56/0x579231
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0x80113c
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0x8ecf11
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x7f849b
+#: stage/180/lang_pausemenu_en.olang/0x6b2d56/0x579231
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0x80113c
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0x8ecf11
+msgid "xxx"
+msgstr "xxx"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0x8b9f51
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0x8b9f51
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0x8b9f51
+msgid "Action Type"
+msgstr "动作类型"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0xa5ce44
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0xa5ce44
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0xa5ce44
+msgid "CO-OPS Communication"
+msgstr "合作任务通讯"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0xae8886
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0xae8886
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0xae8886
+msgid "Codec Call"
+msgstr "CODEC通话"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0xd83025
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0xd83025
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0xd83025
+msgid "Character Direction"
+msgstr "角色方向"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0xdddbd5
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0xdddbd5
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0xdddbd5
+msgid "3 Slot Cycle"
+msgstr "3槽循环"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0xe29dea
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0xe29dea
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0xe29dea
+msgid "Equip / Unequip"
+msgstr "装备／卸下"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0xe6a857
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0xe6a857
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0xe6a857
+msgid "Active only while Action Button is held down"
+msgstr "仅按住动作键时有效"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0xea6bcf
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0xea6bcf
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0xea6bcf
+msgid "Shooter Type"
+msgstr "射手型"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x21535e/0xeb2595
+#: stage/168/lang_pausemenu_en.olang/0x21535e/0xeb2595
+#: stage/180/lang_pausemenu_en.olang/0x21535e/0xeb2595
+msgid "Auto Aim Switch"
+msgstr "自动瞄准"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x2c4b0f/0x3311ec
+#: stage/168/lang_pausemenu_en.olang/0x2c4b0f/0x3311ec
+#: stage/180/lang_pausemenu_en.olang/0x2c4b0f/0x3311ec
+msgid "CODEC CALL"
+msgstr "CODEC 呼叫"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x2c4b0f/0x3bb333
+#: stage/168/lang_pausemenu_en.olang/0x2c4b0f/0x3bb333
+#: stage/180/lang_pausemenu_en.olang/0x2c4b0f/0x3bb333
+msgid "OPTIONS"
+msgstr "选项"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x2c4b0f/0x4465e0
+#: stage/168/lang_pausemenu_en.olang/0x2c4b0f/0x4465e0
+#: stage/180/lang_pausemenu_en.olang/0x2c4b0f/0x4465e0
+msgid "REGION MAP"
+msgstr "区域图"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x2c4b0f/0x545ec0
+#: stage/168/lang_pausemenu_en.olang/0x2c4b0f/0x545ec0
+#: stage/180/lang_pausemenu_en.olang/0x2c4b0f/0x545ec0
+msgid "RETRY"
+msgstr "重试"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x2c4b0f/0x6971dc
+#: stage/168/lang_pausemenu_en.olang/0x2c4b0f/0x6971dc
+#: stage/180/lang_pausemenu_en.olang/0x2c4b0f/0x6971dc
+msgid "ENEMY INFO"
+msgstr "敌情"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x2c4b0f/0x6b4e67
+#: stage/168/lang_pausemenu_en.olang/0x2c4b0f/0x6b4e67
+#: stage/180/lang_pausemenu_en.olang/0x2c4b0f/0x6b4e67
+msgid "MISSION DETAILS"
+msgstr "任务详情"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x2c4b0f/0x8bb38f
+#: stage/168/lang_pausemenu_en.olang/0x2c4b0f/0x8bb38f
+#: stage/180/lang_pausemenu_en.olang/0x2c4b0f/0x8bb38f
+msgid "QUIT"
+msgstr "退出"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x2c4b0f/0xb993c3
+#: stage/168/lang_pausemenu_en.olang/0x2c4b0f/0xb993c3
+#: stage/180/lang_pausemenu_en.olang/0x2c4b0f/0xb993c3
+msgid "AREA MAP"
+msgstr "区域地图"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x2c4b0f/0xc5c894
+#: stage/168/lang_pausemenu_en.olang/0x2c4b0f/0xc5c894
+#: stage/180/lang_pausemenu_en.olang/0x2c4b0f/0xc5c894
+msgid "CO-OPS COMMUNICATION"
+msgstr "合作任务通信"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x32b0cb/0x0d700f
+#: stage/168/lang_pausemenu_en.olang/0x32b0cb/0x0d700f
+#: stage/180/lang_pausemenu_en.olang/0x32b0cb/0x0d700f
+msgid "CALL"
+msgstr "呼叫"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x32b0cb/0x99a9a1
+#: stage/168/lang_pausemenu_en.olang/0x32b0cb/0x99a9a1
+#: stage/180/lang_pausemenu_en.olang/0x32b0cb/0x99a9a1
+msgid "Use Codec?"
+msgstr "使用 CODEC？"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x6b2d56/0x346d94
+#: stage/168/lang_pausemenu_en.olang/0x6b2d56/0x346d94
+#: stage/180/lang_pausemenu_en.olang/0x6b2d56/0x346d94
+msgid "END MISSION AND RETURN TO SELECTION SCREEN"
+msgstr "结束任务并返回选择画面"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x6b2d56/0x6bb005
+#: stage/168/lang_pausemenu_en.olang/0x6b2d56/0x6bb005
+#: stage/180/lang_pausemenu_en.olang/0x6b2d56/0x6bb005
+msgid "RESTART MISSION"
+msgstr "重开任务"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x6bb005/0x8c30f4
+#: stage/168/lang_pausemenu_en.olang/0x6bb005/0x8c30f4
+#: stage/180/lang_pausemenu_en.olang/0x6bb005/0x8c30f4
+msgid "Return to Mission Selection Menu"
+msgstr "返回任务选择菜单"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x6bb005/0x8d30f4
+#: stage/168/lang_pausemenu_en.olang/0x6bb005/0x8d30f4
+#: stage/180/lang_pausemenu_en.olang/0x6bb005/0x8d30f4
+msgid "Restart Mission"
+msgstr "重开任务"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0x0238fe
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0x0238fe
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0x0238fe
+msgid "Snake Formation"
+msgstr "SNAKE阵型"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0x13b907
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0x13b907
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0x13b907
+msgid "System Voice (CO-OP Out)"
+msgstr "系统语音（合作 出）"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0x29f1eb
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0x29f1eb
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0x29f1eb
+msgid "Item Select Settings"
+msgstr "道具选择设置"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0x29f72c
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0x29f72c
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0x29f72c
+msgid "System Voice (Snake In)"
+msgstr "系统语音（SNAKE 入）"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0x2b2705
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0x2b2705
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0x2b2705
+msgid "LANGUAGE SELECTION"
+msgstr "语言选择"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0x2b5da9
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0x2b5da9
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0x2b5da9
+msgid "Aim Assist"
+msgstr "瞄准辅助"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0x3efed9
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0x3efed9
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0x3efed9
+msgid "System Voice (Snake Out)"
+msgstr "系统语音（SNAKE 出）"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0x989cfd
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0x989cfd
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0x989cfd
+msgid "System Voice (CO-OP In)"
+msgstr "系统语音（合作 入）"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0x9bceee
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0x9bceee
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0x9bceee
+msgid "Normal View: Rotation Speed"
+msgstr "普通视角：旋转速度"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0xb8e28d
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0xb8e28d
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0xb8e28d
+msgid "Weapon Select Settings"
+msgstr "武器选择设置"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0xd1ff23
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0xd1ff23
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0xd1ff23
+msgid "Analog stick Sensitivity"
+msgstr "摇杆灵敏度"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0xd4d546
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0xd4d546
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0xd4d546
+msgid "(dummy text)"
+msgstr "（占位文本）"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0xd4ddb6
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0xd4ddb6
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0xd4ddb6
+msgid "Normal View: Left/Right"
+msgstr "普通视角：左右"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0xd4dec8
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0xd4dec8
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0xd4dec8
+msgid "Normal View: Up/Down"
+msgstr "普通视角:上下"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0xd55d45
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0xd55d45
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0xd55d45
+msgid "Aim Mode Initial Direction"
+msgstr "瞄准模式初始方向"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0xdaa6d9
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0xdaa6d9
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0xdaa6d9
+msgid "Data Install"
+msgstr "数据安装"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0xe6da15
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0xe6da15
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0xe6da15
+msgid "DISPLAY SUBTITLES"
+msgstr "显示字幕"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0xec75b7
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0xec75b7
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0xec75b7
+msgid "Aim Mode View: Left/Right"
+msgstr "瞄准视角：左/右"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0xec76c9
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0xec76c9
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0xec76c9
+msgid "Aim Mode View: Up/Down"
+msgstr "瞄准模式视角：上/下"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0xf12e33
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0xf12e33
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0xf12e33
+msgid "Auto Aim"
+msgstr "自动瞄准"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0x9dc379/0xfb08d5
+#: stage/168/lang_pausemenu_en.olang/0x9dc379/0xfb08d5
+#: stage/180/lang_pausemenu_en.olang/0x9dc379/0xfb08d5
+msgid "Control Config"
+msgstr "操作设置"
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0xc01bdf/0xa3ae18
+#: stage/168/lang_pausemenu_en.olang/0xc01bdf/0xa3ae18
+#: stage/180/lang_pausemenu_en.olang/0xc01bdf/0xa3ae18
+msgid "Quit this mission, and return to"
+msgstr ""
+
+#. STAGEDAT entry 156, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 180, lang_pausemenu_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_pausemenu_en.olang/0xc01be0/0xa3ae18
+#: stage/168/lang_pausemenu_en.olang/0xc01be0/0xa3ae18
+#: stage/180/lang_pausemenu_en.olang/0xc01be0/0xa3ae18
+msgid "Restart this mission."
+msgstr ""
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa884e0/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa884e0/0x08f1c2
+msgid "MSF Base"
+msgstr "MSF营"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa884e1/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa884e1/0x08f1c2
+msgid "Playa del Alba"
+msgstr "黎明海滩"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa884e2/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa884e2/0x08f1c2
+msgid "Bosque del Alba"
+msgstr "黎明森林"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa884e3/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa884e3/0x08f1c2
+msgid "Puerto del Alba"
+msgstr "黎明港"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa884e4/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa884e4/0x08f1c2
+msgid "El Cenagal: Jungle"
+msgstr "泥沼地：丛林"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa884e5/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa884e5/0x08f1c2
+msgid "El Cenagal: Ravine"
+msgstr "泥沼地：峡谷"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa884e6/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa884e6/0x08f1c2
+msgid "El Cenagal: Swamp"
+msgstr "泥沼：沼泽"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa884e7/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa884e7/0x08f1c2
+msgid "Río del Jade"
+msgstr "翡翠河"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa884e8/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa884e8/0x08f1c2
+msgid "Bananal Fruta de Oro: Sorting Shed"
+msgstr "黄金果香蕉园：分拣棚"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa884ff/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa884ff/0x08f1c2
+msgid "Bananal Fruta de Oro: Farm"
+msgstr "金果蕉园：农场"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88500/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88500/0x08f1c2
+msgid "Camino de Lava: Hillside"
+msgstr "熔岩之路：山坡"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88501/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88501/0x08f1c2
+msgid "Camino de Lava: Junction"
+msgstr "熔岩之路：岔路口"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88502/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88502/0x08f1c2
+msgid "Cafetal Aroma Encantado: Mill"
+msgstr "迷香咖啡园：加工厂"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88503/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88503/0x08f1c2
+msgid "Aldea Los Despiertos"
+msgstr "觉醒者村"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88504/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88504/0x08f1c2
+msgid "El Cadalso"
+msgstr "绞刑台"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88505/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88505/0x08f1c2
+msgid "Los Cantos: Canyon"
+msgstr "洛斯坎托斯：峡谷"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88506/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88506/0x08f1c2
+msgid "Los Cantos: Ridge"
+msgstr "洛斯坎托斯：山脊"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88507/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88507/0x08f1c2
+msgid "Fuerte La Ladera"
+msgstr "山坡要塞"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88508/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88508/0x08f1c2
+msgid "Crater Base"
+msgstr "火山口基地"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa8851f/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa8851f/0x08f1c2
+msgid "Selva de la Leche: Jungle"
+msgstr "奶之丛林：丛林"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88520/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88520/0x08f1c2
+msgid "Selva de la Leche: Hillside"
+msgstr "奶之丛林：山坡"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88521/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88521/0x08f1c2
+msgid "Catarata de la Muerte"
+msgstr "死亡瀑布"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88522/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88522/0x08f1c2
+msgid "Selva de la Muerte: Bottom of Cliff"
+msgstr "死亡丛林：崖底"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88523/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88523/0x08f1c2
+msgid "Selva de la Muerte: Top of Cliff"
+msgstr "死亡丛林：悬崖顶"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88524/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88524/0x08f1c2
+msgid "Ruinas de Xochiquetzal"
+msgstr "索奇克察尔遗迹"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88525/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88525/0x08f1c2
+msgid "AI Laboratory"
+msgstr "AI 研究所"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88526/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88526/0x08f1c2
+msgid "Miners' Residence"
+msgstr "矿工宿舍"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88527/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88527/0x08f1c2
+msgid "Mining Pit"
+msgstr "采掘坑"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88528/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88528/0x08f1c2
+msgid "AI Weapon Hangar"
+msgstr "AI 兵器机库"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa8853f/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa8853f/0x08f1c2
+msgid "Underground Passage A"
+msgstr "地下通道 A"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88540/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88540/0x08f1c2
+msgid "Underground Passage B"
+msgstr "地下通道 B"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88541/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88541/0x08f1c2
+msgid "Torture Chamber"
+msgstr "拷问室"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88542/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88542/0x08f1c2
+msgid "Back Gate"
+msgstr "后门"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88543/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88543/0x08f1c2
+msgid "Small Maintenance Dock"
+msgstr "小型维修船坞"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88544/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88544/0x08f1c2
+msgid "Rooftop"
+msgstr "屋顶"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88545/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88545/0x08f1c2
+msgid "Main Maintenance Dock"
+msgstr "主维修船坞"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88546/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88546/0x08f1c2
+msgid "Runway"
+msgstr "跑道"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88547/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88547/0x08f1c2
+msgid "Kill House"
+msgstr "射击屋"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88548/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88548/0x08f1c2
+msgid "Deck"
+msgstr "甲板"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa8855f/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa8855f/0x08f1c2
+msgid "Isla del Monstruo"
+msgstr "怪物岛"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88560/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88560/0x08f1c2
+msgid "st_region0041"
+msgstr ""
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88561/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88561/0x08f1c2
+msgid "st_region0042"
+msgstr ""
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88562/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88562/0x08f1c2
+msgid "st_region0043"
+msgstr ""
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88563/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88563/0x08f1c2
+msgid "st_region0044"
+msgstr ""
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88564/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88564/0x08f1c2
+msgid "st_region0045"
+msgstr ""
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88565/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88565/0x08f1c2
+msgid "st_region0046"
+msgstr ""
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88566/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88566/0x08f1c2
+msgid "st_region0047"
+msgstr ""
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88567/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88567/0x08f1c2
+msgid "st_region0048"
+msgstr ""
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88568/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88568/0x08f1c2
+msgid "st_region0049"
+msgstr ""
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa8857f/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa8857f/0x08f1c2
+msgid "Cafetal Aroma Encantado: Entrance"
+msgstr "芳香咖啡园：入口"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88580/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88580/0x08f1c2
+msgid "Underpass"
+msgstr "地下道"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88581/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88581/0x08f1c2
+msgid "Shooting Range"
+msgstr "靶场"
+
+#. STAGEDAT entry 156, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_stagetelop_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_stagetelop_en.olang/0xa88582/0x08f1c2
+#: stage/168/lang_stagetelop_en.olang/0xa88582/0x08f1c2
+msgid "Heliport"
+msgstr "直升机坪"
+
+#. STAGEDAT entry 156, lang_walkman_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 168, lang_walkman_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/156/lang_walkman_en.olang/0xe24ed2/0xf324d0
+#: stage/168/lang_walkman_en.olang/0xe24ed2/0xf324d0
+msgid "HOLD <I=○> BUTTON DOWN"
+msgstr "按住<I=○>键"
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0x0be9e1
+msgid "Select equipment."
+msgstr "选择装备。"
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0x2f3ea0
+msgid "Select weapon."
+msgstr "选武器"
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0x4ca424
+msgid "Select the weapons, equipment, outfit, and CO-OPS Comm. messages to use during the mission."
+msgstr "选择任务中使用的武器、装备、服装及合作任务通讯信息。"
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0x545a31
+msgid "Select outfit."
+msgstr "选服装。"
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0x658cd4
+msgid "Select character."
+msgstr "选择角色。"
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0x743b1e
+msgid "SAND"
+msgstr "沙"
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0x743b20
+msgid "JUNGLE "
+msgstr "丛林"
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0x743b22
+msgid "CONCRETE"
+msgstr "水泥"
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0x743b24
+msgid "SWAMP"
+msgstr "沼泽"
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0x743b26
+msgid "TREE"
+msgstr "树"
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0x743b28
+msgid "DIRT"
+msgstr "土"
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0x743b2a
+msgid "ROCK"
+msgstr "石"
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0x743b2c
+msgid "RUINS"
+msgstr "废墟"
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0x85cccb
+msgid "DOWNLOADED UNIFORMS"
+msgstr "已下载制服"
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0x955f7d
+msgid "Unable to acquire data."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0x9c651e
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0xeb30bc
+msgid "BACK: <I=CAN>"
+msgstr "返回: <I=CAN>"
+
+#. STAGEDAT entry 174, lang_charaedit_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_charaedit_en.olang/0x7c7faa/0xa618eb
+msgid "Select preset CO-OPS Comm. messages."
+msgstr "选择预设合作通讯消息。"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x0f18fa
+msgid "FOXHOUND"
+msgstr "FOXHOUND"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x1a9995
+msgid "WOLF"
+msgstr "WOLF"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x1c4cb7
+msgid "BUTTERFLY"
+msgstr "BUTTERFLY"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x2091ad
+msgid "GULL"
+msgstr "GULL"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x2101dd
+msgid "WHALE"
+msgstr "WHALE"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x27b9af
+msgid "SCORPION"
+msgstr "SCORPION"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x35962d
+msgid "PUMA"
+msgstr "PUMA"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x395de0
+msgid "BEE"
+msgstr "BEE"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x3fa427
+msgid "SWALLOW"
+msgstr "SWALLOW"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x405dec
+msgid "EEL"
+msgstr "EEL"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x468fec
+msgid "DEER"
+msgstr "DEER"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x49aeb0
+msgid "RAVEN"
+msgstr "RAVEN"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x4cea48
+msgid "DOBERMAN"
+msgstr "DOBERMAN"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x5f15ad
+msgid "HOUND"
+msgstr "HOUND"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x685ddd
+msgid "ANT"
+msgstr "蚂蚁"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x6eaead
+msgid "PIRANHA"
+msgstr "水虎"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x7f91de
+msgid "HAWK"
+msgstr "鹰"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x86b08b
+msgid "FIREFLY"
+msgstr "萤"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0x8c5df1
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001b3
+msgid "FOX"
+msgstr "FOX"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0xa60212
+msgid "KANGAROO"
+msgstr "袋鼠"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0xc68eeb
+msgid "BEAR"
+msgstr "熊"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0xc85de3
+msgid "CAT"
+msgstr "猫"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0xd4d5b6
+msgid "OCTOPUS"
+msgstr "章鱼"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x1b1303/0xf5959f
+msgid "ORCA"
+msgstr "虎鲸"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0x00b421
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0x00b521
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfddd20
+msgid "Awarded for scoring $1 or more headshots in a row in VS"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0x00b621
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0x00b721
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0x00b821
+msgid "Awarded for capturing over $1 bases (Heroism increases"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0x00b921
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0x00ba21
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0x00bb21
+msgid "Awarded for getting the target to the goal (count to 0) over"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfcfc20
+msgid "Awarded for sharing weapons/items and having allies use them"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfcfd20
+msgid "Awarded for being in a cardboard box with someone else for"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfd1420
+msgid "Awarded for trading staff over $1 times (Heroism"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfd1520
+msgid "Awarded for generously giving over $1 weapons/items to"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfd1d20
+msgid "Awarded for tagging over $1 enemies in Enemy Search"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfd3420
+msgid "Awarded for enduring over $1 hours in a cardboard box"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfd3520
+msgid "Awarded for taking over $1 photos (Heroism increases by $2)."
+msgstr "拍摄照片超过$1张（英雄度增加$2）。"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfd3720
+msgid "Awarded for sending over $1 CO-OPS messages (Heroism"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfdda20
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfddb20
+#: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfddc20
+msgid "Awarded for getting $1 or more kills in a row in VS (Heroism"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0x00b421
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0x00b521
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfddd20
+msgid "VS Headshot Streak Master"
+msgstr "对战爆头连击大师"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0x00b621
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0x00b721
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0x00b821
+msgid "Base Specialist"
+msgstr "基地专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0x00b921
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0x00ba21
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0x00bb21
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfdd620
+msgid "Capture Pro"
+msgstr "占领高手"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0x00bc21
+msgid "VS Fulton Recovery Specialist (Rank C)"
+msgstr "对战富尔顿回收专家（C 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0x00bd21
+msgid "VS Fulton Recovery Specialist (Rank B)"
+msgstr "对战富尔顿回收专家（B 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0x00d421
+msgid "VS Fulton Recovery Specialist (Rank A)"
+msgstr "对战富尔顿回收专家（A 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcb520
+msgid "Stealth Master (Rank C)"
+msgstr "潜行大师（C 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcb620
+msgid "Stealth Master (Rank B)"
+msgstr "潜行大师（B 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcb720
+msgid "Stealth Master (Rank A)"
+msgstr "潜行大师（A 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcb820
+msgid "Master of Non-Lethal Force (Rank C)"
+msgstr "非致命武力大师（C 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcb920
+msgid "Master of Non-Lethal Force (Rank B)"
+msgstr "非致命武力大师（B 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcba20
+msgid "Master of Non-Lethal Force (Rank A)"
+msgstr "非致命武力大师（A 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcbb20
+msgid "Hold-Up Master (Rank C)"
+msgstr "挟持大师（C 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcbc20
+msgid "Hold-Up Master (Rank B)"
+msgstr "挟持大师（B 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcbd20
+msgid "Hold-Up Master (Rank A)"
+msgstr "挟持大师（A 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcd420
+msgid "No-Recovery Master (Rank C)"
+msgstr "零回收大师（C 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcd520
+msgid "No-Recovery Master (Rank B)"
+msgstr "零回收大师（B 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcd620
+msgid "No-Recovery Master (Rank A)"
+msgstr "零回收大师（A 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcd720
+msgid "CQC Master (Rank C)"
+msgstr "CQC 大师（C 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcd820
+msgid "CQC Master (Rank B)"
+msgstr "CQC 大师（B 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcd920
+msgid "CQC Master (Rank A)"
+msgstr "CQC 大师（A 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcda20
+msgid "Headshot Master (Rank C)"
+msgstr "爆头大师（C 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcdb20
+msgid "Headshot Master (Rank B)"
+msgstr "爆头大师（B 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcdc20
+msgid "Headshot Master (Rank A)"
+msgstr "爆头大师（A 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcdd20
+msgid "CO-OPS Specialist (Rank C)"
+msgstr "合作任务专家（C 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcf420
+msgid "CO-OPS Specialist (Rank B)"
+msgstr "合作任务专家（B 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcf520
+msgid "CO-OPS Specialist (Rank A)"
+msgstr "合作任务专家（A 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcf620
+msgid "Medic Master (Rank C)"
+msgstr "医疗大师（C 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcf720
+msgid "Medic Master (Rank B)"
+msgstr "医疗大师（B 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcf820
+msgid "Medic Master (Rank A)"
+msgstr "医疗大师（A 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcf920
+msgid "CO-OP In Specialist"
+msgstr "合作任务达人"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcfa20
+msgid "Snake Formation Specialist"
+msgstr "SNAKE 阵型专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcfb20
+msgid "Sync Specialist"
+msgstr "同步专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcfc20
+msgid "Item Sharing Specialist"
+msgstr "道具共享专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfcfd20
+msgid "Love Box Specialist"
+msgstr "爱之箱专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd1420
+msgid "Personnel Manager"
+msgstr "人事管理者"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd1520
+msgid "Present Enthusiast"
+msgstr "礼物爱好者"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd1620
+msgid "Mission Completion Specialist (Rank C)"
+msgstr "任务完成专家（C 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd1720
+msgid "Mission Completion Specialist (Rank B)"
+msgstr "任务完成专家（B 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd1820
+msgid "Mission Completion Specialist (Rank A)"
+msgstr "任务完成专家（A 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd1920
+msgid "OUTER OPS Specialist (Rank C)"
+msgstr "外线任务专家（C 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd1a20
+msgid "OUTER OPS Specialist (Rank B)"
+msgstr "外线任务专家（B 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd1b20
+msgid "OUTER OPS Specialist (Rank A)"
+msgstr "外线任务专家（A 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd1c20
+msgid "Mission Completion Pro"
+msgstr "任务完成高手"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd1d20
+msgid "Enemy Search Specialist"
+msgstr "搜索敌人专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd3420
+msgid "Cardboard Box Lover"
+msgstr "纸箱爱好者"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd3520
+msgid "Photo Specialist"
+msgstr "摄影专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd3620
+msgid "Naked Enthusiast"
+msgstr "裸装爱好者"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd3720
+msgid "CO-OPS Messages Specialist"
+msgstr "合作任务讯息专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd3820
+msgid "Fulton Recovery Specialist (Rank C)"
+msgstr "富尔顿回收专家（C 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd3920
+msgid "Fulton Recovery Specialist (Rank B)"
+msgstr "富尔顿回收专家（B 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd3a20
+msgid "Fulton Recovery Specialist (Rank A)"
+msgstr "富尔顿回收专家（A 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd3b20
+msgid "Parts Recovery Specialist (Rank C)"
+msgstr "部件回收专家（C 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd3c20
+msgid "Parts Recovery Specialist (Rank B)"
+msgstr "部件回收专家（B 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd3d20
+msgid "Parts Recovery Specialist (Rank A)"
+msgstr "部件回收专家（A 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd5420
+msgid "Monster Hunting Specialist (Rank C)"
+msgstr "怪物狩猎专家（C 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd5520
+msgid "Monster Hunting Specialist (Rank B)"
+msgstr "怪物狩猎专家（B 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd5620
+msgid "Monster Hunting Specialist (Rank A)"
+msgstr "怪物狩猎专家（A 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd5720
+msgid "Insignia Collection Specialist (Rank C)"
+msgstr "徽章收集专家（C 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd5820
+msgid "Insignia Collection Specialist (Rank B)"
+msgstr "徽章收集专家（B 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd5920
+msgid "Insignia Collection Specialist (Rank A)"
+msgstr "徽章收集专家（A 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd5a20
+msgid "Codename Collection Specialist (Rank C)"
+msgstr "代号收集专家（C 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd5b20
+msgid "Codename Collection Specialist (Rank B)"
+msgstr "代号收集专家（B 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd5c20
+msgid "Codename Collection Specialist (Rank A)"
+msgstr "代号收集专家（A 级）"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd5d20
+msgid "WAC Coordinator"
+msgstr "WAC 协调员"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd7420
+msgid "Item Creator"
+msgstr "道具制作员"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd7520
+msgid "Weapon Creator"
+msgstr "武器制作"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd7620
+msgid "Mech Hunting Specialist"
+msgstr "机甲狩猎专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd7720
+msgid "Handgun Specialist"
+msgstr "手枪专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd7820
+msgid "Submachine Gun Specialist"
+msgstr "冲锋枪专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd7920
+msgid "Shotgun Specialist"
+msgstr "霰弹枪专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd7a20
+msgid "Assault Rifle Specialist"
+msgstr "突击步枪专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd7b20
+msgid "Sniper Rifle Specialist"
+msgstr "狙击步枪专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd7c20
+msgid "Machine Gun Specialist"
+msgstr "机枪专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd7d20
+msgid "Missile Specialist"
+msgstr "导弹专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd9420
+msgid "Grenade Specialist"
+msgstr "手榴弹专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd9520
+msgid "Explosives Specialist"
+msgstr "爆破专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd9620
+msgid "Stun Rod Specialist"
+msgstr "电击棒专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd9720
+msgid "Weapon Master"
+msgstr "武器大师"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd9820
+msgid "Mother Base Development Specialist"
+msgstr "母基地开发专家"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd9920
+msgid "Mother Base Master"
+msgstr "母基地大师"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd9a20
+msgid "VS Rookie"
+msgstr "VS新手"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd9b20
+msgid "VS Enthusiast (Rank C)"
+msgstr "VS爱好者(C级)"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd9c20
+msgid "VS Enthusiast (Rank B)"
+msgstr "VS爱好者(B级)"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfd9d20
+msgid "VS Enthusiast (Rank A)"
+msgstr "VS爱好者(A级)"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfdb720
+msgid "VS Master (Rank C)"
+msgstr "VS大师(C级)"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfdb820
+msgid "VS Master (Rank B)"
+msgstr "VS大师(B级)"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfdb920
+msgid "VS Master (Rank A)"
+msgstr "VS大师(A级)"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfdbd20
+msgid "Deathmatch Master"
+msgstr "死斗大师"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfdd420
+msgid "Team Deathmatch Master"
+msgstr "团队死斗大师"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfdd520
+msgid "Base Master"
+msgstr "基地大师"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfdd720
+msgid "VS Battle Master (Rank C)"
+msgstr "VS战斗大师(C级)"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfdd820
+msgid "VS Battle Master (Rank B)"
+msgstr "VS战斗大师(B级)"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfdd920
+msgid "VS Battle Master (Rank A)"
+msgstr "VS战斗大师(A级)"
+
+#. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfdda20
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfddb20
+#: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0xfddc20
+msgid "VS Kill Streak Master"
+msgstr "对战连杀大师"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00003f
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000040
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000041
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000042
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000043
+msgid "RATION"
+msgstr "RATION"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000044
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000045
+msgid "S.CURRY"
+msgstr "S.CURRY"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000046
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000047
+msgid "G.CURRY"
+msgstr "咖喱"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000048
+msgid "F.CURRY"
+msgstr "速食咖喱"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000049
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00004a
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00004b
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00004c
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00004d
+msgid "BATTERY"
+msgstr "电池"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00004e
+msgid "COLOGNE"
+msgstr "古龙水"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000053
+msgid "LETTER"
+msgstr "信件"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000054
+msgid "JIGSAW"
+msgstr "拼图"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000055
+msgid "ID CARD(P)"
+msgstr "ID卡(P)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000056
+msgid "ID CARD(H)"
+msgstr "ID卡(H)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000057
+msgid "CAMERA"
+msgstr "镜头"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000058
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000059
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00005a
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00005b
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00005c
+msgid "ANALYZER"
+msgstr "分析仪"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00005d
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00005e
+msgid "STLTH MAT"
+msgstr "隐身垫"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00005f
+msgid "STLTH CAMO"
+msgstr "隐身迷彩"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000060
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000061
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000062
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000063
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000064
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000065
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000066
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000067
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000068
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000069
+msgid "LOVE BOX"
+msgstr "爱箱"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00006a
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00006b
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00006c
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00006d
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00006e
+msgid "BOX-TANK"
+msgstr "箱型坦克"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00006f
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000070
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000071
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000072
+msgid "BOX-T(STN)"
+msgstr "箱型坦克(晕)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000073
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000074
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000075
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000076
+msgid "BOX-T(SMK)"
+msgstr "箱型坦克(烟)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000077
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000078
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000079
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00007a
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00007b
+msgid "NVG"
+msgstr "夜视仪"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00007c
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00007d
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00007e
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00007f
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000080
+msgid "FULTON SYS"
+msgstr "富尔顿"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000081
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000082
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000083
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000084
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000085
+msgid "SHIELD"
+msgstr "盾牌"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000086
+msgid "SHLD(R)"
+msgstr "盾(R)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000087
+msgid "SHLD(B)"
+msgstr "盾(B)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000088
+msgid "SHLD(G)"
+msgstr "盾(G)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000089
+msgid "SHLD(Y)"
+msgstr "盾(Y)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00008a
+msgid "SHLD(BK)"
+msgstr "盾(BK)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00008b
+msgid "BINOS"
+msgstr "望远镜"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00008c
+msgid "BANDANA"
+msgstr "头巾"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00008d
+msgid "12 GAUGE"
+msgstr "12号霰弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00008e
+msgid "14.5X114MM"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00008f
+msgid "19.5X76MM"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000090
+msgid "32ACP"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000091
+msgid "357 MAGNUM"
+msgstr ".357马格南"

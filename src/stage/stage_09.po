@@ -1,0 +1,2381 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF stage 9/12\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: stage\n"
+"X-PWSF-Entries: 400\n"
+
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000092
+msgid "4.73X33MM"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000093
+msgid "40MM G."
+msgstr "40mm榴弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000094
+msgid "40MM G.(R)"
+msgstr "40mm榴弹(R)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000095
+msgid "45ACP"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000096
+msgid "5.56X45MM"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000097
+msgid "7.62X39MM"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000098
+msgid "7.62X51MM"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000099
+msgid "7.62X54R"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00009a
+msgid "7.62X63MM"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00009b
+msgid "9X19MM"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00009c
+msgid "9X18MM"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00009d
+msgid "HEAT"
+msgstr "燃烧弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00009e
+msgid "P.RCV."
+msgstr "遥控回收"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00009f
+msgid "L.RCV."
+msgstr "远程回收"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000a0
+msgid "ANEST.(S)"
+msgstr "麻醉弹(S)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000a1
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000a2
+msgid "SRND. IND."
+msgstr "声呐感应"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000a3
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000a4
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000a5
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000a6
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000a7
+msgid "SOLITON R."
+msgstr "孤子雷达"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000a8
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000a9
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000aa
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000ab
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000ac
+msgid "SONIC EYE"
+msgstr "声波眼"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000ad
+msgid "LIME SODA"
+msgstr "青柠苏打"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000ae
+msgid "Z.C.SODA"
+msgstr "零卡苏打"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000af
+msgid "T.CHIPS"
+msgstr "玉米片"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000b0
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000b1
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000b2
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000b3
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000b4
+msgid "BOX BOMB"
+msgstr "纸箱炸弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000b5
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000b6
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000b7
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000b8
+msgid "STUN BOX"
+msgstr "眩晕纸箱"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000b9
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000ba
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000bb
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000bc
+msgid "SMOKE BOX"
+msgstr "烟雾纸箱"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000bd
+msgid "LEAVE NOW"
+msgstr "速离纸箱"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000be
+msgid "ASSN. BOX"
+msgstr "刺杀纸箱"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000bf
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000c0
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000c1
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000c2
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000c3
+msgid "RESCUE BOX"
+msgstr "救援纸箱"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000c4
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000c5
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000c6
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000c7
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000c8
+msgid "R.RATION"
+msgstr "即食口粮"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000c9
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000ca
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000cb
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000cc
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000cd
+msgid "WD.RATION"
+msgstr "野战口粮"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000ce
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000cf
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000d0
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000d1
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000d2
+msgid "BT.RATION"
+msgstr "战斗口粮"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000d3
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000d4
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000d5
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000d6
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000d7
+msgid "MATE"
+msgstr "伙伴"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000d8
+msgid "12G.(RBR)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000d9
+msgid "40 SMK"
+msgstr "40烟雾弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000da
+msgid "40 SMK (R)"
+msgstr "40烟雾弹(R)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000db
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000022
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000023
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000024
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000118
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00014a
+msgid "STRIKE MK."
+msgstr "打击弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 174, lang_weapon_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000dc
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x00001f
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000020
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000021
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000117
+#: stage/174/lang_weapon_short_name_en.olang/0xae0b2a/0x000149
+msgid "SUPPLY MK."
+msgstr "补给弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000dd
+msgid "BALL"
+msgstr "球"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000de
+msgid "ANEST.(L)"
+msgstr "麻醉弹(L)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000df
+msgid "7.62X51AP"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000e0
+msgid "RAIL AMMO"
+msgstr "轨道炮弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000e1
+msgid "RPG2 AMMO"
+msgstr "RPG2弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000e2
+msgid "RPG7 AMMO"
+msgstr "RPG7弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000e3
+msgid "CG AMMO"
+msgstr "CG弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000e4
+msgid "CG HEAT"
+msgstr "CG破甲弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000e5
+msgid "COMBO AMMO"
+msgstr "组合弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000e6
+msgid "FIM43 AMMO"
+msgstr "FIM43弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000e7
+msgid "XFIM92 AM."
+msgstr "XFIM92麻"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000e8
+msgid "M47 AMMO"
+msgstr "M47弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000e9
+msgid "LAW AMMO"
+msgstr "LAW弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000ea
+msgid "M202 AMMO"
+msgstr "M202弹"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000eb
+msgid "CG.FLTN AM"
+msgstr "CG燃烧"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000ec
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000ed
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000ee
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000ef
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000f0
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000f1
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000f2
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000f3
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000f4
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000f5
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000f6
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000f7
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000f8
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000f9
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000fa
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000fb
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000fc
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000fd
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000fe
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0000ff
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000100
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000101
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000102
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000103
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000104
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000105
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000106
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000107
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000108
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000109
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00010a
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00010b
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00010c
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00010d
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00010e
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00010f
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000110
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000111
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000112
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000113
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000114
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000115
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000116
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000117
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000118
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000119
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00011a
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00011b
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00011c
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00011d
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00011e
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00011f
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000120
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000121
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000122
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000123
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000124
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000125
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000126
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000127
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000128
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000129
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00012a
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00012b
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00012c
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00012d
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00012e
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00012f
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000130
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000131
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000132
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000133
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000134
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000135
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000136
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000137
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000138
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000139
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00013a
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00013b
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00013c
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00013d
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00013e
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00013f
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000140
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000141
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000142
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000143
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000144
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000145
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000146
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000147
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000148
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000149
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00014a
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00014b
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00014c
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00014d
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00014e
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00014f
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000150
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000151
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000152
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000153
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000154
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000155
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000156
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000157
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000158
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000159
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00015a
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00015b
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00015c
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00015d
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00015e
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00015f
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000160
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000161
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001fb
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001fc
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001fd
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001fe
+msgid "CNFDTL DOC"
+msgstr "密件"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000162
+msgid "RATH WING"
+msgstr "拉翼"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000163
+msgid "TIG FANG"
+msgstr "虎牙"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000164
+msgid "GEAR MUC."
+msgstr "黏液"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000165
+msgid "GEAR CON."
+msgstr "容器"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000166
+msgid "GEAR EXT."
+msgstr "提取"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000167
+msgid "J.FATIGUES"
+msgstr "丛林服"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000168
+msgid "BLACK"
+msgstr "黑"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000169
+msgid "KHAKI"
+msgstr "卡其"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00016a
+msgid "NAVY BLUE"
+msgstr "藏青"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00016b
+msgid "WHITE"
+msgstr "白"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00016c
+msgid "RED"
+msgstr "红"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00016d
+msgid "YELLOW"
+msgstr "黄"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00016e
+msgid "PINK"
+msgstr "粉"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00016f
+msgid "GREEN"
+msgstr "绿"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000170
+msgid "LEAF"
+msgstr "叶"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000171
+msgid "T.STRIPE"
+msgstr "T.STRIPE"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000172
+msgid "WATER"
+msgstr "水"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000173
+msgid "CHOCO-CHIP"
+msgstr "巧克力碎"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000174
+msgid "AUSCAM"
+msgstr "澳迷彩"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000175
+msgid "SQUARES"
+msgstr "方格"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000176
+msgid "TREE BARK"
+msgstr "树皮"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000177
+msgid "SPLITTER"
+msgstr "分裂"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000178
+msgid "SNAKE"
+msgstr "SNAKE"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000179
+msgid "COMRADE"
+msgstr "战友"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00017a
+msgid "G&J"
+msgstr "G&J"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00017b
+msgid "NEO MOSS"
+msgstr "新苔"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00017c
+msgid "STENCH"
+msgstr "恶臭"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00017d
+msgid "TIGREX"
+msgstr "轰龙"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00017e
+msgid "RATHALOS"
+msgstr "火龙"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00017f
+msgid "GEAR REX"
+msgstr "霸王"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000180
+msgid "SNEAKING"
+msgstr "潜行"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000181
+msgid "BATTLE"
+msgstr "战斗"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000182
+msgid "BATTLE W/H"
+msgstr "战斗W/H"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000183
+msgid "NAKED"
+msgstr "裸装"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000184
+msgid "NKD(BLACK)"
+msgstr "裸(黑)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000185
+msgid "NKD(KHAKI)"
+msgstr "裸装（卡其）"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000186
+msgid "NKD(N.BLU)"
+msgstr "裸装(深蓝)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000187
+msgid "NKD(WHITE)"
+msgstr "裸(白)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000188
+msgid "NKD(RED)"
+msgstr "裸装(红)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000189
+msgid "NKD(YELW)"
+msgstr "裸(黄)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00018a
+msgid "NKD(PINK)"
+msgstr "裸(粉)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00018b
+msgid "NKD(GRN)"
+msgstr "裸装(绿)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00018c
+msgid "NKD(LEAF)"
+msgstr "裸装(叶)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00018d
+msgid "NKD(TIGER)"
+msgstr "裸装虎"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00018e
+msgid "NKD(WATR)"
+msgstr "裸(水)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00018f
+msgid "NKD(CHOCO)"
+msgstr "裸装巧"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000190
+msgid "NKD(AUSY)"
+msgstr "裸装(澳)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000191
+msgid "NKD(SQRS)"
+msgstr "裸装(方)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000192
+msgid "NKD(T.B)"
+msgstr "裸装(树皮)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000193
+msgid "NKD(SPLIT)"
+msgstr "裸装分"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000194
+msgid "NKD(SNAKE)"
+msgstr "裸装蛇"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000195
+msgid "TUXEDO"
+msgstr "燕尾服"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000196
+msgid "MILLER"
+msgstr "米勒"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000197
+msgid "AMANDA"
+msgstr "阿曼达"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000198
+msgid "SWIM TRNKS"
+msgstr "泳裤"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x000199
+msgid "BIKINI TOP"
+msgstr "比基尼"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00019d
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001a7
+msgid "UT(N425D)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00019e
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x00019f
+msgid "UT(N425E)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001a1
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001a8
+msgid "UT(N425G)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001a2
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001a3
+msgid "UT(N425H)"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001a6
+msgid "UT(LOGO)"
+msgstr "UT标"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001a9
+msgid "T-SHIRT"
+msgstr "T恤"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001b0
+msgid "NKD(DPM)"
+msgstr "裸装(迷彩)"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001b4
+msgid "R.COMMANDO"
+msgstr "R.突击队"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001b5
+msgid "R.SOLDIER"
+msgstr "R.士兵"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001b6
+msgid "SCOUT"
+msgstr "侦察兵"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001b7
+msgid "GUARD"
+msgstr "卫兵"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001b8
+msgid "COMMANDO"
+msgstr "突击"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001b9
+msgid "M.POW"
+msgstr "男俘"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001ba
+msgid "PATROLMAN"
+msgstr "巡逻兵"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001bb
+msgid "F.POW"
+msgstr "女俘"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001bc
+msgid "MECHANIC"
+msgstr "机械"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001bd
+msgid "ESCORT"
+msgstr "护卫"
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001be
+msgid "5.56X45AP"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001bf
+msgid "7.62X54AP"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_item_short_name_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_item_short_name_en.olang/0x4e7980/0x0001fa
+msgid "ID CARD(C)"
+msgstr "ID卡(C)"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x03b163
+msgid "\"MOBILITY\" Memory Boards Obtained: $1"
+msgstr "已获得\"机动性\"存储板：$1"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x12c9a2
+msgid "\"Mobility\" Parts Obtained: $1"
+msgstr "已获\"机动性\"零件：$1"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x235e66
+msgid "You have been awarded a new insignia."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x24629c
+msgid "Obtained design specs for the following weapon/item:"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x285030
+msgid "You obtained Paz's Diary Part 1."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x285031
+msgid "You obtained Paz's Diary Part 2."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x285032
+msgid "You obtained Paz's Diary Part 3."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x285033
+msgid "You obtained Paz's Diary Part 4."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x285034
+msgid "You obtained Paz's Diary Part 5."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x285035
+msgid "You obtained Paz's Diary Part 6."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x285036
+msgid "You obtained Paz's Diary Part 7."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x285037
+msgid "You obtained Paz's Diary Part 8."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x285038
+msgid "You obtained Paz's Diary Part 9."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x28504f
+msgid "You obtained Paz's Diary Part 10."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c004d
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c004e
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c004f
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0050
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0051
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0052
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0053
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0054
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0055
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c006c
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c006d
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c006e
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c006f
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0070
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0071
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0072
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0073
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0074
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0075
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c008c
+msgid "New camouflage developed:"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c008d
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c008e
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c008f
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0090
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0091
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0092
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0093
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x2c0094
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x5738f3
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x5738f4
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x5738f5
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x5738f6
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x5738f7
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x5738f8
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x5738f9
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x5738fa
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x5738fb
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x573912
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x654d96
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xb13e1f
+msgid "New uniform developed:"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x306594
+msgid "\"ATTACK\" Memory Boards Obtained: $1"
+msgstr "获得“ATTACK”存储板：$1"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x30d1d6
+msgid "\"SENSE\" Memory Boards Obtained: $1"
+msgstr "获得“SENSE”存储板：$1"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x40295a
+msgid "\"Attack\" Parts Obtained: $1"
+msgstr "获得“Attack”零件：$1"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x40959c
+msgid "\"Sense\" Parts Obtained: $1"
+msgstr "获得“Sense”零件：$1"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x44bfdc
+msgid "You have obtained a wiretapped recording."
+msgstr "获得了一份窃听录音。"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x48302c
+msgid "You have been awarded a new codename."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x485449
+msgid "You have obtained Strangelove's audio cassette."
+msgstr "你获得了斯特兰奇洛夫的录音带。"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x49bcef
+msgid "\"CONTROL\" Memory Boards Obtained: $1"
+msgstr "已获得“CONTROL”存储板：$1"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb6b
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb6c
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb6d
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb6e
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb6f
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb70
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb71
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb72
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb73
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb8a
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb8b
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb8c
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb8d
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb8e
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb8f
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb90
+msgid "The following stage can now be selected in VERSUS OPS:"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x512b52
+msgid "You obtained Strangelove's Cassette Tape #1."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x512b53
+msgid "You obtained Strangelove's Cassette Tape #2."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x512b54
+msgid "You obtained Strangelove's Cassette Tape #3."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x573913
+msgid "A new VERSUS OPS uniform has been developed."
+msgstr "已开发出新的对战任务制服。"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x58d52e
+msgid "\"Control\" Parts Obtained: $1"
+msgstr "获得“控制”部件：$1"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x62f5f0
+#, c-format
+msgid "Pupa Head Parts: $1 %"
+msgstr "蛹头部部件：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3d3
+#, c-format
+msgid "Captured BTR-60 PA Life Remaining: $1 %"
+msgstr "缴获的BTR-60 PA剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3d4
+#, c-format
+msgid "Captured BTR-60 PA Custom Life Remaining: $1 %"
+msgstr "缴获的BTR-60 PA Custom剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3d5
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b435
+#, c-format
+msgid "Captured BTR-60 PB Life Remaining: $1 %"
+msgstr "缴获的BTR-60 PB剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3d6
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b436
+#, c-format
+msgid "Captured BTR-60 PB Custom Life Remaining: $1 %"
+msgstr "缴获的BTR-60 PB Custom剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3d7
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b438
+#, c-format
+msgid "Captured LAV-Type G Custom Life Remaining: $1 %"
+msgstr "缴获的LAV-Type G Custom剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3d8
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b439
+#, c-format
+msgid "Captured LAV-Type C Life Remaining: $1 %"
+msgstr "缴获的LAV-Type C剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3d9
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b43a
+#, c-format
+msgid "Captured LAV-Type C Custom Life Remaining: $1 %"
+msgstr "缴获的LAV-Type C Custom剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3da
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x99a23c
+#, c-format
+msgid "Captured T-72U Life Remaining: $1 %"
+msgstr "缴获的T-72U剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3db
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b416
+#, c-format
+msgid "Captured T-72U Custom Life Remaining: $1 %"
+msgstr "缴获的T-72U Custom剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3f2
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b417
+#, c-format
+msgid "Captured T-72A Life Remaining: $1 %"
+msgstr "缴获的T-72A剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3f3
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b418
+#, c-format
+msgid "Captured T-72A Custom Life Remaining: $1 %"
+msgstr "缴获的T-72A Custom剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3f4
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b419
+#, c-format
+msgid "Captured KPz 70 Life Remaining: $1 %"
+msgstr "缴获的KPz 70剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3f5
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b41a
+#, c-format
+msgid "Captured KPz 70 Custom Life Remaining: $1 %"
+msgstr "缴获的KPz 70 Custom剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3f6
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b41b
+#, c-format
+msgid "Captured MBTk-70 Life Remaining: $1 %"
+msgstr "缴获的MBTk-70剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3f7
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b432
+#, c-format
+msgid "Captured MBTk-70 Custom Life Remaining: $1 %"
+msgstr "捕获的MBTk-70 Custom剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3f8
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x99a59c
+#, c-format
+msgid "Captured Mi-24A Life Remaining: $1 %"
+msgstr "捕获的Mi-24A剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3f9
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b43b
+#, c-format
+msgid "Captured Mi-24A Custom Life Remaining: $1 %"
+msgstr "捕获的Mi-24A Custom剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3fa
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b452
+#, c-format
+msgid "Captured Mi-24D Life Remaining: $1 %"
+msgstr "捕获的Mi-24D剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b3fb
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b453
+#, c-format
+msgid "Captured Mi-24D Custom Life Remaining: $1 %"
+msgstr "捕获的Mi-24D Custom剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b412
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b454
+#, c-format
+msgid "Captured AH56A-Bomber Life Remaining: $1 %"
+msgstr "捕获的AH56A-Bomber剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b413
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b455
+#, c-format
+msgid "Captured AH56A-Bomber Custom Life Remaining: $1 %"
+msgstr "捕获的AH56A-Bomber Custom剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b414
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b456
+#, c-format
+msgid "Captured AH56A-Raider Life Remaining: $1 %"
+msgstr "捕获的AH56A-Raider剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b415
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b457
+#, c-format
+msgid "Captured AH56A-Raider Custom Life Remaining: $1 %"
+msgstr "捕获的AH56A-Raider Custom剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b433
+#, c-format
+msgid "Captured BTR-60PA Life Remaining: $1 %"
+msgstr "捕获的BTR-60PA剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b434
+#, c-format
+msgid "Captured BTR-60PA Custom Life Remaining: $1 %"
+msgstr "捕获的BTR-60PA Custom剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72b437
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x99a1dc
+#, c-format
+msgid "Captured LAV-Type G Life Remaining: $1 %"
+msgstr "捕获的LAV-Type G剩余耐久：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x72f5f0
+#, c-format
+msgid "Chrysalis Head Parts: $1 %"
+msgstr "蝶蛹头部零件：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x7fca12
+msgid "You have obtained Paz's diary."
+msgstr "你获得了帕兹的日记。"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x82f5f0
+#, c-format
+msgid "Cocoon Head Parts: $1 %"
+msgstr "茧头部零件：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e62d
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e62e
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e62f
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e631
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e632
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e633
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e635
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e636
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e64d
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e64f
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e650
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e651
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e653
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e655
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e656
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e66d
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e66f
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e670
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e671
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e673
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e674
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e675
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e68d
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e68e
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e68f
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e690
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e692
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e693
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e694
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e696
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e6ad
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e6ae
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e6b0
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e6b4
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e6b5
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e6b6
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e6ce
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e6cf
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e6d0
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e6d2
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e6d4
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e6d6
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e6ee
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e6f0
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x90e6f1
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87b0
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87b1
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87b2
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87b4
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87b5
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87b6
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87b8
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87cf
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87d0
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87d2
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87d3
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87d4
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87d6
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87d7
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87ef
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87f1
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87f3
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87f5
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec87f7
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec880f
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec8810
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec8811
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec8813
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec8815
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec8816
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec8817
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec882f
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec8830
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec8831
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec8833
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec8835
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xec8837
+msgid "The following words can now be infused with heroic spirit:"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x92f5f0
+#, c-format
+msgid "PW Head Parts: $1 %"
+msgstr "PW头部零件：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x93e240
+msgid "Enemy soldiers extracted with Fulton: $1"
+msgstr "用富尔顿回收的敌兵：$1"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0x9ec369
+#, c-format
+msgid "Boss Damage Ratio: $1 %"
+msgstr "BOSS伤害率：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xaf7df9
+msgid "Memory Boards Obtained: $1"
+msgstr "已获得存储板：$1"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xb309ec
+msgid "You received new CO-OPS Comm. messages."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xb57c73
+#, c-format
+msgid "Pupa Jet-Unique Parts: $1 %"
+msgstr "蛹喷气机专属零件：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xc57c73
+#, c-format
+msgid "Chrysalis Railgun-Unique Parts: $1 %"
+msgstr "蝶蛹电磁炮专属零件：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xd57c73
+#, c-format
+msgid "Chrysalis Radome-Unique Parts: $1 %"
+msgstr "蝶蛹天线罩专属零件：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xdfc680
+msgid "Prisoners extracted with Fulton: $1"
+msgstr "用富尔顿回收的俘虏：$1"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xe57c73
+#, c-format
+msgid "Cocoon Armor-Unique Parts: $1 %"
+msgstr "茧装甲专属零件：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x03c205/0xf57c73
+#, c-format
+msgid "PW Leg Parts: $1 %"
+msgstr "PW腿部零件：$1 %"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x261769/0x6069c1
+msgid "+$2 LV. $1"
+msgstr "+$2 LV. $1"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x261769/0xf46512
+msgid "LV. $1"
+msgstr "LV. $1"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0x3eb145/0x743e57
+msgid "(caption content undecided)"
+msgstr "（字幕内容未定）"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618b1
+msgid "CQC Count"
+msgstr "CQC次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618b2
+msgid "Times Captured/Thrown by CQC"
+msgstr "被CQC擒拿/投掷次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618b3
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xcee88a
+msgid "Love Box Usage Time"
+msgstr "爱之箱用时"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618b4
+msgid "Cardboard Boxes Used"
+msgstr "纸箱使用数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618b5
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8ad
+msgid "Friendly Fire Count"
+msgstr "误伤次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618b6
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8ab
+msgid "Magazines Placed"
+msgstr "放置杂志数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618b7
+msgid "Magazines Read"
+msgstr "读杂志数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618b8
+msgid "DM Kills"
+msgstr "DM击杀"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618b9
+msgid "TDM Kills"
+msgstr "TDM击杀"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618ba
+msgid "CAP Kills"
+msgstr "CAP击杀"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618d1
+msgid "BASE Kills"
+msgstr "BASE击杀"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618d2
+msgid "DM Deaths"
+msgstr "DM死亡"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618d3
+msgid "TDM Deaths"
+msgstr "TDM死亡"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618d4
+msgid "CAP Deaths"
+msgstr "CAP死亡"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618d5
+msgid "BASE Deaths"
+msgstr "BASE死亡"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618d6
+msgid "DM Knockouts"
+msgstr "DM击晕"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618d7
+msgid "TDM Knockouts"
+msgstr "TDM击晕"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618d8
+msgid "CAP Knockouts"
+msgstr "CAP击倒"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618d9
+msgid "BASE Knockouts"
+msgstr "BASE击倒"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618da
+msgid "Times Knocked Out (DM)"
+msgstr "被击倒次数 (DM)"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618f1
+msgid "Times Knocked Out (TDM)"
+msgstr "被击倒次数 (TDM)"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618f2
+msgid "Times Knocked Out (CAP)"
+msgstr "被击倒次数 (CAP)"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618f3
+msgid "Times Knocked Out (BASE)"
+msgstr "被击倒次数 (BASE)"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618f4
+msgid "Targets Placed for Win"
+msgstr "获胜目标放置数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618f5
+msgid "Targets Placed"
+msgstr "目标数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618f6
+msgid "Targets Acquired"
+msgstr "目标获取数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618f7
+msgid "Bases Held"
+msgstr "据点"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618f8
+msgid "Base Hold Time"
+msgstr "占领时间"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618f9
+msgid "Consecutive Kills"
+msgstr "连续击杀"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0618fa
+msgid "Consecutive Headshots"
+msgstr "连续爆头"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x061911
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca88c
+msgid "Self-Destructs"
+msgstr "自爆次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x061912
+msgid "Self-Destruct Knockouts"
+msgstr "自爆击倒"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x061913
+msgid "Battle Cry Uses"
+msgstr "战吼次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x061914
+msgid "Rolls"
+msgstr "翻滚次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x061915
+msgid "Combo Hits"
+msgstr "连击"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x061916
+msgid "NVG Uses"
+msgstr "夜视仪使用次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x061917
+msgid "Violations"
+msgstr "违规"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x061918
+msgid "Headshots"
+msgstr "爆头"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x061919
+msgid "MSF Soldiers Utilized"
+msgstr "MSF士兵使用数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x06191a
+msgid "Teammates Killed"
+msgstr "队友阵亡数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x061931
+msgid "Teammates Woken Up"
+msgstr "队友唤醒数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x061932
+msgid "Fulton Extractions"
+msgstr "富尔顿回收数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x061933
+msgid "Times Extracted via Fulton"
+msgstr "被富尔顿回收次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0830c4
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xd5e542
+msgid "CO-OP Ring Active Time"
+msgstr "合作环激活时间"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0830c5
+msgid "DM Play Count"
+msgstr "DM游玩数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0830c6
+msgid "TDM Play Count"
+msgstr "TDM游玩数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0830c7
+msgid "CAP Play Count"
+msgstr "CAP游玩数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0830c8
+msgid "BASE Play Count"
+msgstr "BASE游玩数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0830c9
+msgid "DM Wins"
+msgstr "DM胜利次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0830ca
+msgid "TDM Wins"
+msgstr "TDM胜利次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0830cb
+msgid "CAP Wins"
+msgstr "CAP胜利次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x0830cc
+msgid "BASE Wins"
+msgstr "BASE胜利次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x28f6fb
+msgid "Door Support Failures"
+msgstr "开门支援失败次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x2ed85b
+msgid "Total Alert Phases"
+msgstr "总警戒次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x2fe904
+msgid "Heroism"
+msgstr "英雄度"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x349c54
+msgid "Doors Supported"
+msgstr "开门支援次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x3803ee
+msgid "Kills"
+msgstr "击杀数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x3c8407
+msgid "Clear Time"
+msgstr "通关时间"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x3e6b99
+msgid "Total Kills"
+msgstr "总击杀"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x483b99
+msgid "Distance Traveled During Snake-In"
+msgstr "潜入期间移动距离"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x505e6e
+msgid "CQC Knockdowns"
+msgstr "CQC击倒数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x61e2fa
+msgid "Alert Phases"
+msgstr "警戒次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x6c2db7
+msgid "CPR Rescues"
+msgstr "心肺复苏救援数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x6f76e0
+msgid "Level of Camaraderie"
+msgstr "羁绊等级"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x6fd3ea
+msgid "Hold-ups"
+msgstr "挟持次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x738816
+msgid "Miller Affinity"
+msgstr "米勒好感度"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x74a20e
+msgid "Number of Enemy Soldiers/Prisoners extracted with Fulton "
+msgstr "用富尔顿回收的敌兵/俘虏数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x7bd823
+msgid "Consecutive CQCs"
+msgstr "连续CQC"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x7c6df5
+msgid "Cutscene Interaction Bonus"
+msgstr "过场互动奖励"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x812473
+msgid "You were unable to earn an S Rank because you used Stealth Camo."
+msgstr "使用隐形迷彩，无法获得S评价。"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x81e0d8
+msgid "Clear Count"
+msgstr "通关数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x8985bf
+msgid "Quick CPR Rescues"
+msgstr "快速CPR救援"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x8f657f
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8ee
+msgid "Interrogations"
+msgstr "审讯次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x91e2e9
+msgid "Prisoners Killed"
+msgstr "杀害俘虏数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x91fbe3
+msgid "ALPHA"
+msgstr "ALPHA"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x91fbe4
+msgid "BRAVO"
+msgstr "BRAVO"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x91fbe5
+msgid "CHARLIE"
+msgstr "CHARLIE"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x91fbe6
+msgid "DELTA"
+msgstr "DELTA"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x92b205
+msgid "Target Points"
+msgstr "目标分数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x95cb8a
+msgid "Mission Statistics"
+msgstr "任务统计"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x9613f1
+msgid "Paz Affinity"
+msgstr "帕兹好感度"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x98726d
+msgid "Near-Deaths"
+msgstr "濒死数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x9ba32b
+msgid "Weapon Experience"
+msgstr "武器经验"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0x9be99f
+msgid "Abductions"
+msgstr "绑架"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xa252b4
+msgid "Boss Damage Ratio"
+msgstr "BOSS伤害比"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xabce08
+msgid "You were unable to earn an S Rank because you used the EM Net."
+msgstr "使用电磁网，无法获得S评价。"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca88a
+msgid "Enemies Tagged"
+msgstr "标记敌数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca88b
+msgid "Tagged Enemies Defeated"
+msgstr "击败标记敌人数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca88d
+msgid "Automatic Ration Uses"
+msgstr "自动口粮次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca88e
+msgid "Total Damage"
+msgstr "总伤害"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca88f
+msgid "Enemies Knocked Out"
+msgstr "击晕敌人数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca890
+msgid "Enemies Put to Sleep"
+msgstr "使敌人昏睡"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca891
+msgid "Enemies Left Near Death"
+msgstr "敌人濒死"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca892
+msgid "Enemies Held Up"
+msgstr "胁迫敌人"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca893
+msgid "Enemy Headshots"
+msgstr "敌人爆头"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8aa
+msgid "Exorcisms"
+msgstr "驱魔"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8ac
+msgid "Teammate Damage Healed"
+msgstr "治疗队友伤害"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8ae
+msgid "Friendly Fire Taken Count"
+msgstr "承受友军伤害次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8af
+msgid "Enemies Neutralized with White \"!\" Displayed"
+msgstr "在显示白色\"!\"时制服敌人"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8b0
+msgid "Enemies Neutralized During Wire Attack"
+msgstr "钢丝攻击中制服敌人"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8b1
+msgid "Enemies Neutralized During CQC Capture"
+msgstr "CQC擒拿中制服敌人"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8b2
+msgid "Enemies Neutralized With Co-Op Weapons"
+msgstr "用合作武器制服敌人"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8b3
+msgid "Items Lent"
+msgstr "借出"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8ca
+msgid "Lent Items Used"
+msgstr "使用借出道具"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8cb
+msgid "Submissions to Torture"
+msgstr "屈服于拷问"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8cc
+msgid "Mini-boss Weakpoints (of current weapon) Destroyed "
+msgstr "迷你BOSS弱点（当前武器）破坏"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8cd
+msgid "Boss Tramples Resisted"
+msgstr "抵抗BOSS践踏"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8ce
+msgid "Bosses Blown Away"
+msgstr "击飞BOSS"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8cf
+msgid "AI Pod Damage (memory board removal phase)"
+msgstr "AI舱伤害（拆除存储板阶段）"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8d0
+msgid "AI Rampages (memory board removal phase)"
+msgstr "AI暴走（拆除存储板阶段）"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8d1
+msgid "Memory Boards"
+msgstr "存储板"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8d2
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x5af266
+msgid "Head Parts"
+msgstr "头部部件"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8d3
+msgid "Head Parts Damage Rate"
+msgstr "头部零件破坏率"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8ea
+msgid "Optional Parts"
+msgstr "可选零件"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8eb
+msgid "Optional Parts Damage Rate"
+msgstr "可选零件破坏率"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8ec
+msgid "Generic Parts"
+msgstr "通用零件"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8ed
+msgid "\"Monster Hunter\" Monster Parts Destroyed"
+msgstr "\"怪物猎人\"怪物零件破坏"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8ef
+msgid "Items Acquired"
+msgstr "获得道具"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8f0
+msgid "Marksmanship Targets Destroyed"
+msgstr "击破射击目标"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8f1
+msgid "Marksmanship Target Points"
+msgstr "射击目标得分"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8f2
+msgid "Targets Destroyed"
+msgstr "击破目标"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca8f3
+msgid "Bases Defended"
+msgstr "防守基地"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca90a
+msgid "Claymores Disarmed"
+msgstr "拆除克莱莫"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca90b
+msgid "Good Photos Taken"
+msgstr "拍摄好照片"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca90c
+msgid "Total Good Photos Taken"
+msgstr "好照片总数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca90d
+msgid "Sleep Count"
+msgstr "催眠数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca90e
+msgid "Knockouts"
+msgstr "击晕次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca90f
+msgid "CQC Captures/Throws"
+msgstr "CQC擒拿/投摔"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca910
+msgid "Consecutive Tortures"
+msgstr "连续拷问"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca911
+msgid "Supplies Defended"
+msgstr "防守补给"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xbca912
+msgid "Missiles Intercepted"
+msgstr "拦截导弹"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xc36b4c
+msgid "Target Point"
+msgstr "目标得分"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xd5e543
+msgid "CO-OP Ring Activations"
+msgstr "合作环发动次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xd5e544
+msgid "Distance Traveled During Snake Formation"
+msgstr "蛇形阵移动距离"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xd5e545
+msgid "Distance Traveled While Leading Snake Formation"
+msgstr "领队蛇形阵移动距离"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xd5e546
+msgid "Time in Love Box"
+msgstr "爱箱时间"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xd5e547
+msgid "Distance Traveled While in Love Box"
+msgstr "爱情箱内移动距离"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xd5e548
+msgid "Time in Cardboard Tank"
+msgstr "纸箱坦克内时间"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xd5e549
+msgid "Distance Traveled While in Cardboard Tank"
+msgstr "纸箱坦克内移动距离"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xd5e54a
+msgid "Stealth Mat Uses"
+msgstr "隐身垫次数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xd8304e
+msgid "Abductees Rescued"
+msgstr "救出被绑者"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xe9864e
+msgid "You were unable to earn an S Rank because you used special CO-OPS Comm. Battle Cry effects. "
+msgstr "你使用了合作任务通讯的战吼效果，因此无法获得S评价。"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xec82b8
+msgid "Enemy Searches"
+msgstr "敌搜索数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xbf29c8/0xf2afde
+msgid "Total Prisoners Killed"
+msgstr "被杀害囚犯总数"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xff329e/0x2a0e0b
+msgid "RANK"
+msgstr "等级"
+
+#. STAGEDAT entry 174, lang_mission_result_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_mission_result_en.olang/0xff329e/0xef9533
+msgid "Clear Rank"
+msgstr "通关评价"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x002d8b
+msgid "Metal Gear ZEKE is not complete."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x00f276
+msgid "View the memory boards in the AI pod. Collect additional boards to improve your AI's capabilities.  There are 4 types of boards: \"Mobility\" affects movement, \"Sense\"affects search capability, \"Attack\" affects offensive capability, and \"Control\" affects response time."
+msgstr "查看AI舱内的记忆板。收集更多记忆板可提升AI能力。记忆板分4类：机动影响移动，感知影响搜索能力，攻击影响攻击能力，控制影响反应时间。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871b1
+msgid "Ctl-Pupa-001Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871b2
+msgid "Ctl-Pupa-002Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871b3
+msgid "Ctl-Pupa-003Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871b4
+msgid "Ctl-Pupa-004Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871b5
+msgid "Ctl-Pupa-005Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871b6
+msgid "Ctl-Pupa-006Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871b7
+msgid "Ctl-Pupa-007Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871b8
+msgid "Ctl-Pupa-008Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871b9
+msgid "Ctl-Pupa-009Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871d0
+msgid "Ctl-Pupa-010Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871d1
+msgid "Ctl-Pupa-011Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871d2
+msgid "Ctl-Pupa-012Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871d3
+msgid "Ctl-Pupa-013Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871d4
+msgid "Ctl-Pupa-014Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871d5
+msgid "Ctl-Pupa-015Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871d6
+msgid "Ctl-Pupa-016Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871d7
+msgid "Ctl-Pupa-017Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871d8
+msgid "Ctl-Chrysalis-018Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871d9
+msgid "Ctl-Chrysalis-019Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871f0
+msgid "Ctl-Chrysalis-020Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871f1
+msgid "Ctl-Chrysalis-021Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871f2
+msgid "Ctl-Chrysalis-022Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871f3
+msgid "Ctl-Chrysalis-023Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871f4
+msgid "Ctl-Chrysalis-024Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871f5
+msgid "Ctl-Chrysalis-025Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871f6
+msgid "Ctl-Cocoon-026Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871f7
+msgid "Ctl-Cocoon-027Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871f8
+msgid "Ctl-Cocoon-028Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0871f9
+msgid "Ctl-Cocoon-029Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087210
+msgid "Ctl-Cocoon-030Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087211
+msgid "Ctl-Cocoon-031Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087212
+msgid "Ctl-Cocoon-032Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087213
+msgid "Ctl-Cocoon-033Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087214
+msgid "Ctl-Cocoon-034Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087215
+msgid "Ctl-Cocoon-035Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087216
+msgid "Ctl-Cocoon-036Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087217
+msgid "Ctl-Cocoon-037Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087218
+msgid "Ctl-Cocoon-038Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087219
+msgid "Ctl-Cocoon-039Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087230
+msgid "Ctl-Cocoon-040Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087231
+msgid "Ctl-Cocoon-041Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087232
+msgid "Ctl-Cocoon-042Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087233
+msgid "Ctl-Cocoon-043Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087234
+msgid "Ctl-Cocoon-044Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087235
+msgid "Ctl-Cocoon-045Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087236
+msgid "Ctl-Cocoon-046Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087237
+msgid "Ctl-Cocoon-047Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087238
+msgid "Ctl-Cocoon-048Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087239
+msgid "Ctl-Cocoon-049Pt"
+msgstr ""

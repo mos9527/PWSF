@@ -1,0 +1,2010 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF stage 10/12\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: stage\n"
+"X-PWSF-Entries: 400\n"
+
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087250
+msgid "Ctl-Cocoon-050Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087251
+msgid "Ctl-Aurelia-051Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087252
+msgid "Ctl-Aurelia-052Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087253
+msgid "Ctl-Aurelia-053Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087254
+msgid "Ctl-Aurelia-054Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087255
+msgid "Ctl-Aurelia-055Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087256
+msgid "Ctl-Aurelia-056Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087257
+msgid "Ctl-Aurelia-057Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087258
+msgid "Ctl-Aurelia-058Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087259
+msgid "Ctl-Aurelia-059Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087270
+msgid "Ctl-Aurelia-060Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087271
+msgid "Ctl-Aurelia-061Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087272
+msgid "Ctl-Aurelia-062Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087273
+msgid "Ctl-Aurelia-063Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087274
+msgid "Ctl-Aurelia-064Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087275
+msgid "Ctl-Aurelia-065Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087276
+msgid "Ctl-Aurelia-066Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087277
+msgid "Ctl-Aurelia-067Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087278
+msgid "Ctl-Aurelia-068Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087279
+msgid "Ctl-Aurelia-069Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087290
+msgid "Ctl-Aurelia-070Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087291
+msgid "Ctl-Aurelia-071Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087292
+msgid "Ctl-Aurelia-072Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087293
+msgid "Ctl-Aurelia-073Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087294
+msgid "Ctl-Aurelia-074Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087295
+msgid "Ctl-Aurelia-075Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087296
+msgid "Ctl-Aurelia-076Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087297
+msgid "Ctl-Aurelia-077Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087298
+msgid "Ctl-Aurelia-078Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x087299
+msgid "Ctl-Aurelia-079Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872b0
+msgid "Ctl-Aurelia-080Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872b1
+msgid "Ctl-Aurelia-081Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872b2
+msgid "Ctl-Aurelia-082Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872b3
+msgid "Ctl-Aurelia-083Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872b4
+msgid "Ctl-Aurelia-084Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872b5
+msgid "Ctl-Aurelia-085Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872b6
+msgid "Ctl-Aurelia-086Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872b7
+msgid "Ctl-Aurelia-087Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872b8
+msgid "Ctl-Aurelia-088Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872b9
+msgid "Ctl-Aurelia-089Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872d0
+msgid "Ctl-Aurelia-090Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872d1
+msgid "Ctl-Aurelia-091Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872d2
+msgid "Ctl-Aurelia-092Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872d3
+msgid "Ctl-Aurelia-093Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872d4
+msgid "Ctl-Aurelia-094Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872d5
+msgid "Ctl-Aurelia-095Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872d6
+msgid "Ctl-Aurelia-096Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872d7
+msgid "Ctl-Aurelia-097Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872d8
+msgid "Ctl-Aurelia-098Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0872d9
+msgid "Ctl-Aurelia-099Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0875b0
+msgid "Ctl-Aurelia-100Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0e97d2
+msgid "Head parts for Metal Gear ZEKE. Equipped with a machine gun with high initial velocity."
+msgstr "合金装备·吉克头部零件。装备高初速机枪。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x0f73f6
+msgid "STATUS NOTIFICATION"
+msgstr "状态通知"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x160fc6
+msgid "Head parts taken from Pupa. Can unleash powerful electric shock attack."
+msgstr "取自蛹的头部零件。可释放强力电击攻击。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x209a11
+msgid "Dispatch Requirements"
+msgstr "派遣条件"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x23ecf0
+msgid "A jet pack. Increases evasion."
+msgstr "喷气背包。提升回避。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x2448a1
+msgid "Leg parts taken from Peace Walker. Bipedal locomotion system with exceptional mobility."
+msgstr "取自和平行者的腿部零件。机动性优异的双足行走系统。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x246367
+msgid "Head parts taken from Peace Walker. Unleashes the poison of the basilisk as a beam."
+msgstr "取自和平行者的头部零件。可释放蛇怪之毒光束。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x2a2ec1
+msgid "Additional armor. Increases defense."
+msgstr "追加装甲。提升防御。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x2c74c6
+msgid "View the memory boards in the AI pod."
+msgstr "查看AI舱内的记忆板。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x3157eb
+msgid "A radome. Increases accuracy."
+msgstr "雷达罩。提升命中。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x33bfbf
+msgid "Set Metal Gear ZEKE's optional parts."
+msgstr "设置合金装备·吉克的可选部件。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x352d1e
+msgid "Mobility"
+msgstr "机动"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x352d1f
+msgid "Sense"
+msgstr "感知"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x352d21
+msgid "Control"
+msgstr "操控"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x429493
+msgid "A railgun. Increases attack."
+msgstr "电磁炮，提升攻击。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x48b10e
+msgid "A damaged power unit. When you collect enough, you complete a functional power unit."
+msgstr "损坏的动力单元。收集足够后可组装成完整的动力单元。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x4e1477
+msgid "Change power unit. You can store up to 3 power units in your inventory."
+msgstr "更换动力单元。库存最多可存放3个动力单元。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x52b2bf
+msgid "TEST"
+msgstr "测试"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x59e230
+msgid "Change leg parts. You can store up to 3 leg parts of each leg type in your inventory."
+msgstr "更换腿部部件。每种腿部部件库存最多可存放3个。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x5a1c36
+msgid "Leg Parts"
+msgstr "腿部部件"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x5ab860
+msgid "Change head parts. You can store up to 5 head parts of each head type in your inventory."
+msgstr "更换头部部件。每种头部部件库存最多可存放5个。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x5ce94b
+msgid "Leg parts for Metal Gear ZEKE. Bipedal locomotion system with high mobility."
+msgstr "合金装备·吉克的腿部部件。高机动性双足行走系统。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x5e4319
+msgid "Change Metal Gear ZEKE's paint job. Set both BODY COLOR and LINE COLOR."
+msgstr "改吉克涂装。设置车身色和线条色。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x6263cd
+msgid "Walk Unit"
+msgstr "步行组件"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x63ba35
+msgid "(不要)テロップサンプル"
+msgstr "(不要)テロップサンプル"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x661b16
+msgid "A power unit for Metal Gear ZEKE. Supplies power to head and leg parts."
+msgstr "合金装备·吉克的动力组件。为头部和腿部组件供电。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x6a33a6
+msgid "Enlarge: L button"
+msgstr "放大：L 键"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x6a33a7
+msgid "Reduce: R button"
+msgstr "缩小：R 键"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x6a33a8
+msgid "Rotate Camera: Analog stick"
+msgstr "旋转镜头：摇杆"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x6a6c8c
+msgid "View Metal Gear ZEKE's current capabilities."
+msgstr "查看合金装备·吉克当前性能。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x7254af
+msgid "Select the timing for dialogue playback."
+msgstr "选择台词播放时机。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x7254b0
+msgid "Select the dialogue to play."
+msgstr "选择要播放的台词。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x7765dc
+msgid "Discard this part?"
+msgstr "丢弃此组件？"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x7dc1d0
+msgid "Set the VOCALOID in Metal Gear ZEKE."
+msgstr "设置吉克的 VOCALOID。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x90d5b5
+msgid "REMOVE EQUIPMENT / DISCARD"
+msgstr "卸下装备 / 丢弃"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x91f2a0
+msgid "Change Metal Gear ZEKE's paint job."
+msgstr "改吉克涂装。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x95f2a5
+msgid "AI Pod Damaged"
+msgstr "AI 舱受损"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x95f2a6
+msgid "Leg Parts Damaged"
+msgstr "腿部受损"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x95f2a7
+msgid "Head Parts Damaged"
+msgstr "头部组件受损"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x95f2a8
+msgid "Walk Unit Damaged"
+msgstr "步行组件受损"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x95f2a9
+msgid "Power Unit Damaged"
+msgstr "动力组件受损"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x95f2aa
+msgid "Additional Armor Damaged"
+msgstr "追加装甲受损"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x95f2ab
+msgid "Jet Pack Damaged"
+msgstr "喷射包损坏"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x97e770
+msgid "Customize Metal Gear ZEKE's parts by setting the walk unit, power unit, leg parts, head parts, and optional parts."
+msgstr "设置步行、动力、腿部、头部及可选组件，定制合金装备·吉克部件。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x99d00d
+msgid "A walk unit for Metal Gear ZEKE. The most basic part."
+msgstr "合金装备·吉克的步行组件。最基础的部件。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xa087ff
+msgid "Head parts taken from Chrysalis. Equipped with a built-in guided missile launcher."
+msgstr "取自蝶蛹的头部组件。内置制导导弹发射器。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xa67781
+msgid "Head parts taken from Cocoon. Equipped with a large-caliber cannon."
+msgstr "取自茧的头部组件。装备大口径加农炮。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xac387c
+msgid "The Memory<I=BL>Stick<I=TM> does not contain the required VOCALOID voice data."
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xbade3d
+msgid "View the current development status of Metal Gear ZEKE."
+msgstr "查看合金装备·吉克的当前开发状况。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xbb4c90
+msgid "Number of Dialogue Lines Available"
+msgstr "可用对话行数"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xc0c84f
+msgid "Select the dialogue to use."
+msgstr "选择要使用的对话。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xc97b67
+msgid "DISCARD"
+msgstr "丢弃"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1331
+msgid "Readying for Trample Attack"
+msgstr "准备践踏攻击"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1332
+msgid "Charging Railgun (Small)"
+msgstr "电磁炮充能（小）"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1333
+msgid "Charging Railgun (Large)"
+msgstr "蓄力电磁炮（大）"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1334
+msgid "Readying for Large Jump"
+msgstr "准备大跳"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1335
+msgid "Readying for Boost Dash"
+msgstr "准备加速冲刺"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1336
+msgid "Firing Missile"
+msgstr "发射导弹"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1337
+msgid "Starting Attack on Gun Platform"
+msgstr "开始攻击炮台"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1338
+msgid "Unexpected Error"
+msgstr "意外错误"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1339
+msgid "Firing S Mine"
+msgstr "发射S地雷"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1350
+msgid "General Attack 1"
+msgstr "通用攻击1"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1351
+msgid "General Attack 2"
+msgstr "通用攻击2"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1352
+msgid "General Attack 3"
+msgstr "通用攻击3"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1353
+msgid "Firing Guided Missile"
+msgstr "发射制导导弹"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1354
+msgid "Electric Shock Attack"
+msgstr "电击攻击"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1355
+msgid "Charging Electric Shock"
+msgstr "蓄力电击"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1356
+msgid "Main Gun Attack"
+msgstr "主炮攻击"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xcb1357
+msgid "Peace Walker Head Attack"
+msgstr "和平行者头部攻击"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd5eec1
+msgid "Damaged leg parts. When you collect enough, you complete functional leg parts."
+msgstr "腿部零件已损坏。收集足够后可完成可用腿部零件。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd79b2f
+msgid "Damaged head parts. When you collect enough, you complete functional head parts."
+msgstr "头部零件已损坏。收集足够后可完成可用头部零件。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871b0
+msgid "Mbl-Pupa-001Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871b1
+msgid "Mbl-Pupa-002Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871b2
+msgid "Mbl-Pupa-003Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871b3
+msgid "Mbl-Pupa-004Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871b4
+msgid "Mbl-Pupa-005Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871b5
+msgid "Mbl-Pupa-006Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871b6
+msgid "Mbl-Pupa-007Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871b7
+msgid "Mbl-Pupa-008Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871b8
+msgid "Mbl-Pupa-009Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871cf
+msgid "Mbl-Pupa-010Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871d0
+msgid "Mbl-Pupa-011Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871d1
+msgid "Mbl-Pupa-012Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871d2
+msgid "Mbl-Pupa-013Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871d3
+msgid "Mbl-Pupa-014Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871d4
+msgid "Mbl-Pupa-015Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871d5
+msgid "Mbl-Pupa-016Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871d6
+msgid "Mbl-Pupa-017Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871d7
+msgid "Mbl-Pupa-018Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871d8
+msgid "Mbl-Pupa-019Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871ef
+msgid "Mbl-Pupa-020Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871f0
+msgid "Mbl-Pupa-021Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871f1
+msgid "Mbl-Pupa-022Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871f2
+msgid "Mbl-Pupa-023Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871f3
+msgid "Mbl-Pupa-024Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871f4
+msgid "Mbl-Pupa-025Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871f5
+msgid "Mbl-Pupa-026Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871f6
+msgid "Mbl-Pupa-027Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871f7
+msgid "Mbl-Pupa-028Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd871f8
+msgid "Mbl-Pupa-029Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd8720f
+msgid "Mbl-Pupa-030Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87210
+msgid "Mbl-Pupa-031Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87211
+msgid "Mbl-Pupa-032Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87212
+msgid "Mbl-Pupa-033Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87213
+msgid "Mbl-Pupa-034Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87214
+msgid "Mbl-Pupa-035Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87215
+msgid "Mbl-Pupa-036Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87216
+msgid "Mbl-Pupa-037Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87217
+msgid "Mbl-Pupa-038Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87218
+msgid "Mbl-Pupa-039Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd8722f
+msgid "Mbl-Pupa-040Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87230
+msgid "Mbl-Pupa-041Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87231
+msgid "Mbl-Pupa-042Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87232
+msgid "Mbl-Pupa-043Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87233
+msgid "Mbl-Pupa-044Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87234
+msgid "Mbl-Pupa-045Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87235
+msgid "Mbl-Pupa-046Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87236
+msgid "Mbl-Pupa-047Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87237
+msgid "Mbl-Pupa-048Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87238
+msgid "Mbl-Pupa-049Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd8724f
+msgid "Mbl-Pupa-050Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87250
+msgid "Mbl-Chrysalis-051Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87251
+msgid "Mbl-Chrysalis-052Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87252
+msgid "Mbl-Chrysalis-053Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87253
+msgid "Mbl-Chrysalis-054Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87254
+msgid "Mbl-Chrysalis-055Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87255
+msgid "Mbl-Chrysalis-056Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87256
+msgid "Mbl-Chrysalis-057Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87257
+msgid "Mbl-Chrysalis-058Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87258
+msgid "Mbl-Chrysalis-059Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd8726f
+msgid "Mbl-Chrysalis-060Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87270
+msgid "Mbl-Chrysalis-061Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87271
+msgid "Mbl-Chrysalis-062Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87272
+msgid "Mbl-Chrysalis-063Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87273
+msgid "Mbl-Chrysalis-064Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87274
+msgid "Mbl-Chrysalis-065Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87275
+msgid "Mbl-Chrysalis-066Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87276
+msgid "Mbl-Chrysalis-067Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87277
+msgid "Mbl-Chrysalis-068Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87278
+msgid "Mbl-Chrysalis-069Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd8728f
+msgid "Mbl-Chrysalis-070Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87290
+msgid "Mbl-Chrysalis-071Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87291
+msgid "Mbl-Chrysalis-072Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87292
+msgid "Mbl-Chrysalis-073Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87293
+msgid "Mbl-Chrysalis-074Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87294
+msgid "Mbl-Chrysalis-075Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87295
+msgid "Mbl-Cocoon-076Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87296
+msgid "Mbl-Cocoon-077Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87297
+msgid "Mbl-Cocoon-078Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd87298
+msgid "Mbl-Cocoon-079Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872af
+msgid "Mbl-Cocoon-080Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872b0
+msgid "Mbl-Cocoon-081Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872b1
+msgid "Mbl-Cocoon-082Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872b2
+msgid "Mbl-Cocoon-083Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872b3
+msgid "Mbl-Aurelia-084Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872b4
+msgid "Mbl-Aurelia-085Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872b5
+msgid "Mbl-Aurelia-086Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872b6
+msgid "Mbl-Aurelia-087Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872b7
+msgid "Mbl-Aurelia-088Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872b8
+msgid "Mbl-Aurelia-089Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872cf
+msgid "Mbl-Aurelia-090Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872d0
+msgid "Mbl-Aurelia-091Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872d1
+msgid "Mbl-Aurelia-092Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872d2
+msgid "Mbl-Aurelia-093Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872d3
+msgid "Mbl-Aurelia-094Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872d4
+msgid "Mbl-Aurelia-095Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872d5
+msgid "Mbl-Aurelia-096Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872d6
+msgid "Mbl-Aurelia-097Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872d7
+msgid "Mbl-Aurelia-098Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd872d8
+msgid "Mbl-Aurelia-099Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xd875af
+msgid "Mbl-Aurelia-100Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xdf12c3
+msgid "Set the VOCALOID in Metal Gear ZEKE. Assign songs and dialogue that have been set in EXTRAS under the title menu."
+msgstr "将VOCALOID装入合金装备·吉克。分配已在标题菜单EXTRAS中设置的歌曲与对话。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xdfe3ba
+msgid "Leg parts / power unit cannot be installed until walk unit has been set."
+msgstr "未设置行走组件前无法安装腿部零件/动力组件。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xdfe3bb
+msgid "Head parts cannot be installed until walk unit and power unit have been set."
+msgstr "未设置行走组件与动力组件前无法安装头部零件。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xdfe3bc
+msgid "OPTIONAL PARTS cannot be selected until all MAIN PARTS have been set."
+msgstr "未设置全部主要零件前无法选择可选零件。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe3a53d
+msgid "Power Unit"
+msgstr "动力组"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe67def
+msgid "A damaged walk unit. When you collect enough, you complete a functional walk unit."
+msgstr "损坏的步行单元。收集足够后可组装成完整的步行单元。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe7f1fc
+msgid "Set the basic parts that make up Metal Gear ZEKE."
+msgstr "设置合金装备·吉克的基础部件。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871b0
+msgid "Sns-Pupa-001Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871b1
+msgid "Sns-Pupa-002Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871b2
+msgid "Sns-Pupa-003Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871b3
+msgid "Sns-Pupa-004Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871b4
+msgid "Sns-Pupa-005Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871b5
+msgid "Sns-Pupa-006Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871b6
+msgid "Sns-Pupa-007Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871b7
+msgid "Sns-Pupa-008Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871b8
+msgid "Sns-Pupa-009Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871cf
+msgid "Sns-Pupa-010Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871d0
+msgid "Sns-Pupa-011Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871d1
+msgid "Sns-Pupa-012Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871d2
+msgid "Sns-Pupa-013Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871d3
+msgid "Sns-Pupa-014Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871d4
+msgid "Sns-Pupa-015Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871d5
+msgid "Sns-Pupa-016Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871d6
+msgid "Sns-Pupa-017Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871d7
+msgid "Sns-Pupa-018Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871d8
+msgid "Sns-Pupa-019Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871ef
+msgid "Sns-Pupa-020Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871f0
+msgid "Sns-Pupa-021Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871f1
+msgid "Sns-Pupa-022Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871f2
+msgid "Sns-Pupa-023Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871f3
+msgid "Sns-Pupa-024Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871f4
+msgid "Sns-Pupa-025Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871f5
+msgid "Sns-Chrysalis-026Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871f6
+msgid "Sns-Chrysalis-027Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871f7
+msgid "Sns-Chrysalis-028Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe871f8
+msgid "Sns-Chrysalis-029Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe8720f
+msgid "Sns-Chrysalis-030Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87210
+msgid "Sns-Chrysalis-031Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87211
+msgid "Sns-Chrysalis-032Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87212
+msgid "Sns-Chrysalis-033Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87213
+msgid "Sns-Chrysalis-034Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87214
+msgid "Sns-Chrysalis-035Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87215
+msgid "Sns-Chrysalis-036Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87216
+msgid "Sns-Chrysalis-037Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87217
+msgid "Sns-Chrysalis-038Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87218
+msgid "Sns-Chrysalis-039Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe8722f
+msgid "Sns-Chrysalis-040Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87230
+msgid "Sns-Chrysalis-041Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87231
+msgid "Sns-Chrysalis-042Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87232
+msgid "Sns-Chrysalis-043Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87233
+msgid "Sns-Chrysalis-044Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87234
+msgid "Sns-Chrysalis-045Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87235
+msgid "Sns-Chrysalis-046Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87236
+msgid "Sns-Chrysalis-047Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87237
+msgid "Sns-Chrysalis-048Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87238
+msgid "Sns-Chrysalis-049Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe8724f
+msgid "Sns-Chrysalis-050Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87250
+msgid "Sns-Chrysalis-051Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87251
+msgid "Sns-Chrysalis-052Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87252
+msgid "Sns-Chrysalis-053Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87253
+msgid "Sns-Chrysalis-054Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87254
+msgid "Sns-Chrysalis-055Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87255
+msgid "Sns-Chrysalis-056Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87256
+msgid "Sns-Chrysalis-057Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87257
+msgid "Sns-Chrysalis-058Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87258
+msgid "Sns-Chrysalis-059Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe8726f
+msgid "Sns-Chrysalis-060Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87270
+msgid "Sns-Chrysalis-061Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87271
+msgid "Sns-Chrysalis-062Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87272
+msgid "Sns-Chrysalis-063Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87273
+msgid "Sns-Chrysalis-064Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87274
+msgid "Sns-Chrysalis-065Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87275
+msgid "Sns-Chrysalis-066Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87276
+msgid "Sns-Chrysalis-067Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87277
+msgid "Sns-Chrysalis-068Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87278
+msgid "Sns-Chrysalis-069Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe8728f
+msgid "Sns-Chrysalis-070Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87290
+msgid "Sns-Chrysalis-071Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87291
+msgid "Sns-Chrysalis-072Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87292
+msgid "Sns-Chrysalis-073Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87293
+msgid "Sns-Chrysalis-074Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87294
+msgid "Sns-Chrysalis-075Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87295
+msgid "Sns-Cocoon-076Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87296
+msgid "Sns-Cocoon-077Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87297
+msgid "Sns-Cocoon-078Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe87298
+msgid "Sns-Cocoon-079Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872af
+msgid "Sns-Cocoon-080Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872b0
+msgid "Sns-Cocoon-081Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872b1
+msgid "Sns-Cocoon-082Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872b2
+msgid "Sns-Cocoon-083Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872b3
+msgid "Sns-Cocoon-084Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872b4
+msgid "Sns-Cocoon-085Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872b5
+msgid "Sns-Cocoon-086Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872b6
+msgid "Sns-Cocoon-087Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872b7
+msgid "Sns-Cocoon-088Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872b8
+msgid "Sns-Cocoon-089Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872cf
+msgid "Sns-Cocoon-090Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872d0
+msgid "Sns-Cocoon-091Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872d1
+msgid "Sns-Cocoon-092Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872d2
+msgid "Sns-Aurelia-093Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872d3
+msgid "Sns-Aurelia-094Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872d4
+msgid "Sns-Aurelia-095Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872d5
+msgid "Sns-Aurelia-096Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872d6
+msgid "Sns-Aurelia-097Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872d7
+msgid "Sns-Aurelia-098Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe872d8
+msgid "Sns-Aurelia-099Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xe875af
+msgid "Sns-Aurelia-100Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xebe158
+msgid "Change walk unit. You can store up to 3 walk units in your inventory."
+msgstr "更换步行组件。库存最多可存 3 个步行组件。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf47139
+msgid "Change Metal Gear ZEKE's parts."
+msgstr "更换合金装备·吉克的部件。"
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871b0
+msgid "Atk-Pupa-001Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871b1
+msgid "Atk-Pupa-002Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871b2
+msgid "Atk-Pupa-003Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871b3
+msgid "Atk-Pupa-004Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871b4
+msgid "Atk-Pupa-005Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871b5
+msgid "Atk-Pupa-006Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871b6
+msgid "Atk-Pupa-007Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871b7
+msgid "Atk-Pupa-008Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871b8
+msgid "Atk-Chrysalis-009Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871cf
+msgid "Atk-Chrysalis-010Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871d0
+msgid "Atk-Chrysalis-011Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871d1
+msgid "Atk-Chrysalis-012Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871d2
+msgid "Atk-Chrysalis-013Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871d3
+msgid "Atk-Chrysalis-014Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871d4
+msgid "Atk-Chrysalis-015Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871d5
+msgid "Atk-Chrysalis-016Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871d6
+msgid "Atk-Chrysalis-017Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871d7
+msgid "Atk-Chrysalis-018Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871d8
+msgid "Atk-Chrysalis-019Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871ef
+msgid "Atk-Chrysalis-020Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871f0
+msgid "Atk-Chrysalis-021Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871f1
+msgid "Atk-Chrysalis-022Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871f2
+msgid "Atk-Chrysalis-023Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871f3
+msgid "Atk-Chrysalis-024Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871f4
+msgid "Atk-Chrysalis-025Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871f5
+msgid "Atk-Cocoon-026Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871f6
+msgid "Atk-Cocoon-027Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871f7
+msgid "Atk-Cocoon-028Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf871f8
+msgid "Atk-Cocoon-029Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf8720f
+msgid "Atk-Cocoon-030Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87210
+msgid "Atk-Cocoon-031Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87211
+msgid "Atk-Cocoon-032Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87212
+msgid "Atk-Cocoon-033Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87213
+msgid "Atk-Cocoon-034Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87214
+msgid "Atk-Cocoon-035Fe"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87215
+msgid "Atk-Cocoon-036Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87216
+msgid "Atk-Cocoon-037Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87217
+msgid "Atk-Cocoon-038Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87218
+msgid "Atk-Cocoon-039Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf8722f
+msgid "Atk-Cocoon-040Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87230
+msgid "Atk-Cocoon-041Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87231
+msgid "Atk-Cocoon-042Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87232
+msgid "Atk-Cocoon-043Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87233
+msgid "Atk-Cocoon-044Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87234
+msgid "Atk-Cocoon-045Cu"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87235
+msgid "Atk-Cocoon-046Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87236
+msgid "Atk-Cocoon-047Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87237
+msgid "Atk-Cocoon-048Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87238
+msgid "Atk-Cocoon-049Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf8724f
+msgid "Atk-Cocoon-050Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87250
+msgid "Atk-Cocoon-051Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87251
+msgid "Atk-Cocoon-052Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87252
+msgid "Atk-Cocoon-053Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87253
+msgid "Atk-Cocoon-054Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87254
+msgid "Atk-Cocoon-055Ag"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87255
+msgid "Atk-Cocoon-056Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87256
+msgid "Atk-Cocoon-057Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87257
+msgid "Atk-Cocoon-058Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87258
+msgid "Atk-Cocoon-059Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf8726f
+msgid "Atk-Cocoon-060Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87270
+msgid "Atk-Cocoon-061Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87271
+msgid "Atk-Cocoon-062Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87272
+msgid "Atk-Cocoon-063Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87273
+msgid "Atk-Cocoon-064Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87274
+msgid "Atk-Cocoon-065Au"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87275
+msgid "Atk-Cocoon-066Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87276
+msgid "Atk-Cocoon-067Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87277
+msgid "Atk-Cocoon-068Pt"
+msgstr ""
+
+#. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- read-only: STAGEDAT has no write-back yet, po_import skips it
+#: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0xf87278
+msgid "Atk-Cocoon-069Pt"
+msgstr ""
