@@ -65,7 +65,7 @@ def repack_slot(data: bytes, patch) -> bytes:
     if not pools:
         return data
 
-    blobs = [patch(blob) for _i, _eid, _o, blob in pools]
+    blobs = [patch(blob, eid) for _i, eid, _o, blob in pools]
 
     body = bytearray()
     offsets = {}
@@ -82,11 +82,28 @@ def repack_slot(data: bytes, patch) -> bytes:
     return bytes(table) + bytes(body)
 
 
-def make_patch(by_table: dict, lang: int):
-    """patch(blob) that writes `by_table[table_id]` into the `lang` strings."""
-    counter = [0]
+def make_patch(by_table: dict, lang: int, gtt_by_pool: dict = None):
+    """patch(blob, pool_id) writing the olang and GTT translations.
 
-    def patch(blob: bytes) -> bytes:
+    Two pool types live in a slot: RBX (olang tables, rebuilt through
+    `olang_build`) and GTT (ANALYSIS/11, patched in place by `pwsf.gtt`
+    because the string pool is suffix-merged and only the primary language's
+    runs are known).
+    """
+    from . import gtt
+
+    counter = [0]
+    problems = []
+
+    def patch(blob: bytes, eid: int = 0) -> bytes:
+        if gtt_by_pool and len(blob) >= 0x20 and blob[:4] == b"GTT\x00":
+            texts = gtt_by_pool.get(eid)
+            if not texts:
+                return blob
+            raw = {k: gtt.to_game_text(v) for k, v in texts.items()}
+            out = gtt.patch(blob, raw, problems)
+            counter[0] += len(raw) - len(problems)
+            return out
         if len(blob) < 0x20 or blob[:4] != b"RBX\x00":
             return blob
         tid = struct.unpack_from("<I", blob, 4)[0]
@@ -107,12 +124,17 @@ def make_patch(by_table: dict, lang: int):
         return b.serialize()
 
     patch.written = counter
+    patch.gtt_problems = problems
     return patch
 
 
-def touches(data: bytes, by_table: dict, lang: int) -> bool:
-    """Does this slot hold one of the tables we are translating?"""
-    for _i, _eid, _o, blob in S.slot_pools(data):
+def touches(data: bytes, by_table: dict, lang: int,
+            gtt_by_pool: dict = None) -> bool:
+    """Does this slot hold one of the tables (or GTT pools) we translate?"""
+    for _i, eid, _o, blob in S.slot_pools(data):
+        if gtt_by_pool and len(blob) >= 0x20 and blob[:4] == b"GTT\x00" \
+                and eid in gtt_by_pool:
+            return True
         if len(blob) < 0x20 or blob[:4] != b"RBX\x00":
             continue
         if struct.unpack_from("<I", blob, 4)[0] not in by_table:
@@ -140,12 +162,16 @@ def _norm_translations(translations: dict) -> dict:
 
 
 def rebuild(translations: dict, lang: int = None, outdir: Path = None,
-            level: int = 9, verbose: bool = True) -> tuple:
+            level: int = 9, verbose: bool = True, gtt: dict = None) -> tuple:
     """Write `translations` into a fresh SLOT.DAT / SLOT.KEY under `outdir`.
 
-    Returns (dat_path, key_path, stats).
+    `gtt` is `{(pool_id, block_off, line): text}` -- the GTT corpus,
+    ANALYSIS/11.  Returns (dat_path, key_path, stats).
     """
     lang = config.LANG_EN if lang is None else lang
+    gtt_by_pool = {}
+    for (pool, block, line), text in (gtt or {}).items():
+        gtt_by_pool.setdefault(pool, {})[(block, line)] = text
     outdir = Path(outdir or config.BUILD_DIR)
     outdir.mkdir(parents=True, exist_ok=True)
 
@@ -156,7 +182,7 @@ def rebuild(translations: dict, lang: int = None, outdir: Path = None,
     # original, and the folded stream is generated once for the whole file
     nd = max(r.stored for r in recs) * SECTOR // 4 * 2 + 4096
     ks = S.keystream(nd, state, inc)
-    patch = make_patch(by_table, lang)
+    patch = make_patch(by_table, lang, gtt_by_pool)
 
     src_dat, src_key = S.dat_path(), S.key_path()
     # name the outputs after STEM, not after src_dat.name: the source goes
@@ -185,7 +211,7 @@ def rebuild(translations: dict, lang: int = None, outdir: Path = None,
 
             plain = S.decrypt(main, ks)
             data = S.inflate(plain)
-            if touches(data, by_table, lang):
+            if touches(data, by_table, lang, gtt_by_pool):
                 magic, hdr_size, const, _c, _r = S.parse_header(plain)
                 data = repack_slot(data, patch)
                 comp = zlib.compress(data, level)
@@ -223,6 +249,12 @@ def rebuild(translations: dict, lang: int = None, outdir: Path = None,
 
     stats["strings"] = patch.written[0]
     stats["sectors"] = sector
+    stats["gtt_problems"] = list(patch.gtt_problems)
+    if patch.gtt_problems and verbose:
+        print(f"  {len(patch.gtt_problems)} GTT line(s) did not fit and stay "
+              f"English (budget is the English run's length, ANALYSIS/11 §5)")
+        for p in patch.gtt_problems[:5]:
+            print(f"      {p}")
 
     _write_key(new_records, src_key, out_key)
     if verbose:
@@ -265,10 +297,15 @@ def _write_key(records: list, src_key: Path, out_key: Path) -> None:
 # ------------------------------------------------------------------ verify
 
 def verify(dat_path: Path, key_path: Path, translations: dict,
-           lang: int = None) -> list:
+           lang: int = None, gtt: dict = None) -> list:
     """Read the rebuilt container back.  Returns a list of problems."""
+    from . import gtt as G
+
     lang = config.LANG_EN if lang is None else lang
     by_table = _norm_translations(translations)
+    gtt_by_pool = {}
+    for (pool, block, line), text in (gtt or {}).items():
+        gtt_by_pool.setdefault(pool, {})[(block, line)] = text
     problems = []
 
     recs = S.load_index(key_path)
@@ -294,7 +331,15 @@ def verify(dat_path: Path, key_path: Path, translations: dict,
         if len(data) > rec.a_copy * SECTOR:
             problems.append(f"record {rec.index}: inflated {len(data)} "
                             f"exceeds A {rec.a_copy} sectors")
-        for _i, _eid, _o, blob in S.slot_pools(data):
+        for _i, eid, _o, blob in S.slot_pools(data):
+            if gtt_by_pool and len(blob) >= 0x20 and blob[:4] == b"GTT\x00":
+                texts = gtt_by_pool.get(eid)
+                if texts:
+                    problems += [
+                        f"gtt {eid:#010x}: {p}" for p in
+                        G.verify(blob, {k: G.to_game_text(v)
+                                        for k, v in texts.items()})]
+                continue
             if len(blob) < 0x20 or blob[:4] != b"RBX\x00":
                 continue
             tid = struct.unpack_from("<I", blob, 4)[0]

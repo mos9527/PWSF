@@ -24,6 +24,9 @@ the build wrong.
 CODEC is deliverable now (`pwsf.briefing_build`), with one hard rule of its
 own: a record's string pool cannot grow, so a translation longer than the
 English it replaces is an error, checked here as `codec-budget`.
+
+So is GTT (`pwsf.gtt`, ANALYSIS/11): its pools are patched in place, so the
+same rule applies per line and is reported as `gtt-budget`.
 """
 
 import argparse
@@ -31,7 +34,7 @@ import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
-from . import briefing_build, config, font_build, po, slots
+from . import briefing_build, config, font_build, gtt, po, slots
 
 ICON_RE = re.compile(r"<I=[^>]*>")
 RUBY_RE = re.compile(r"<R=[^>]*>")
@@ -139,8 +142,10 @@ def lint(po_dir=None, lang: int = config.LANG_EN, allow_ruby_drop: bool = False,
     # non-English target only exists for entries that ship that language
     targets = None if lang == config.LANG_EN else set(slots.olang_sources(lang))
     owner = {}          # reference -> (where, msgstr) of the entry that claims it
+    budgets = slots.gtt_budgets()        # GTT: written in place, ANALYSIS/11 §5
     counts = dict(files=len(po.po_files(po_dir)), entries=0, translated=0,
-                  refs=0, olang_slots=0, codec_slots=0, stage_slots=0)
+                  refs=0, olang_slots=0, codec_slots=0, stage_slots=0,
+                  gtt_slots=0)
 
     for path, e in po.iter_entries(po_dir):
         where = f"{path.name}:{e.lineno}"
@@ -205,7 +210,18 @@ def lint(po_dir=None, lang: int = config.LANG_EN, allow_ruby_drop: bool = False,
                         f"{r} is also translated differently at {owner[r][0]}")
             owner[r] = (where, e.msgstr)
             rep.translations[r] = e.msgstr
-            if r.startswith(slots.CODEC + "/"):
+            if r.startswith(slots.GTT + "/"):
+                counts["gtt_slots"] += 1
+                need = len(gtt.to_game_text(e.msgstr))
+                have = budgets.get(r)
+                if have is not None and need > have:
+                    rep.add(ERROR, "gtt-budget", where,
+                            f"{r}: the translation needs {need} B but the "
+                            f"English line leaves {have} B -- GTT pools are "
+                            f"patched in place, so the bytes cannot grow "
+                            f"(ANALYSIS/11 §5). Shorten it, or leave this line "
+                            f"English")
+            elif r.startswith(slots.CODEC + "/"):
                 counts["codec_slots"] += 1
             elif r.startswith(slots.STAGE + "/"):
                 # ANALYSIS/09 §4: STAGEDAT has no write-back, so the slot is
@@ -227,6 +243,14 @@ def lint(po_dir=None, lang: int = config.LANG_EN, allow_ruby_drop: bool = False,
                 f"skips them (ANALYSIS/09 §4). The text is still worth "
                 f"translating -- it is mission info, stage telops and Mother "
                 f"Base staff comments -- it just will not appear in game yet")
+
+    if counts["gtt_slots"] and lang != config.LANG_EN:
+        rep.add(ERROR, "target", "-",
+                f"{counts['gtt_slots']} GTT slot(s) translated, but GTT "
+                f"write-back only targets the English line: a reference names "
+                f"the run the English sits in, and the "
+                f"{config.LANG_KEYS[lang]} copies are the suffix-merged "
+                f"fragments around it (ANALYSIS/11 §3)")
 
     if counts["codec_slots"] and lang != config.LANG_EN:
         rep.add(ERROR, "target", "-",
@@ -283,8 +307,11 @@ def _lint_font(rep: Report, codepoints: set, rebuild: bool = False) -> None:
 def print_report(rep: Report, limit: int = 20) -> None:
     s = rep.stats
     print(f"{s['files']} .po files, {s['entries']} entries, {s['refs']} references")
+    parts = [f"{s['olang_slots']} olang", f"{s['codec_slots']} codec"]
+    if s.get("gtt_slots"):
+        parts.append(f"{s['gtt_slots']} gtt")
     print(f"translated: {s['translated']} entries covering "
-          f"{s['olang_slots']} olang + {s['codec_slots']} codec slots, "
+          f"{' + '.join(parts)} slots, "
           f"{s['codepoints']} distinct code points")
     if "font" in s:
         f = s["font"]

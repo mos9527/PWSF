@@ -108,6 +108,23 @@ def by_slot(translations: dict) -> dict:
     return out
 
 
+def by_gtt(translations: dict) -> dict:
+    """GTT translations: {(pool_id, block_off, line): text}.
+
+    The GTT pools of SLOT.DAT (ANALYSIS/11) hold the in-mission radio and hint
+    lines.  They ride along with the SLOT.DAT rebuild, because that is the
+    container they live in -- the patcher writes them in place, so a pool
+    never changes length.
+    """
+    out = {}
+    for ref, text in translations.items():
+        parsed = slots.parse_ref(ref)
+        if parsed.kind != slots.GTT:
+            continue
+        out[(parsed.pool, parsed.block, parsed.line)] = text
+    return out
+
+
 # ------------------------------------------------------------------- olang
 
 def build_table(stem: str, items: list, lang: int, outdir: Path,
@@ -233,7 +250,7 @@ def main() -> None:
     ap.add_argument("--skip-font", action="store_true",
                     help="do not rebuild the font atlas")
     ap.add_argument("--skip", action="append", default=[], metavar="PART",
-                    choices=["olang", "slot", "codec"],
+                    choices=["olang", "slot", "codec", "gtt"],
                     help="leave a corpus out of the build entirely: its file(s) "
                          "never reach the manifest, so `install` will not touch "
                          "them (repeatable, e.g. --skip codec)")
@@ -286,9 +303,10 @@ def main() -> None:
     tables = {} if "olang" in skip else by_table(rep.translations)
     codec_items = {} if "codec" in skip else by_codec(rep.translations)
     slot_items = {} if "slot" in skip else by_slot(rep.translations)
-    if not tables and not slot_items and not codec_items:
-        raise SystemExit("\nnothing to build: no olang / SLOT / CODEC slot is "
-                         "translated")
+    gtt_items = {} if "gtt" in skip else by_gtt(rep.translations)
+    if not tables and not slot_items and not codec_items and not gtt_items:
+        raise SystemExit("\nnothing to build: no olang / SLOT / CODEC / GTT "
+                         "slot is translated")
 
     args.outdir.mkdir(parents=True, exist_ok=True)
     print(f"\nbuilding into {args.outdir} ({config.LANG_KEYS[lang]} slot)")
@@ -302,6 +320,14 @@ def main() -> None:
             f"the {config.LANG_KEYS[lang]} copy sits in a record whose offset "
             f"the corpus does not carry")
         codec_items = {}
+
+    if gtt_items and lang != config.LANG_EN:
+        problems.append(
+            f"{len(gtt_items)} GTT slot(s) translated, but GTT write-back only "
+            f"targets the English line: a reference names the run the English "
+            f"sits in, and the {config.LANG_KEYS[lang]} copies are the "
+            f"suffix-merged fragments around it (ANALYSIS/11 §3)")
+        gtt_items = {}
 
     if codec_items:
         print(f"\nCODEC: {len(codec_items)} line(s) in "
@@ -320,12 +346,17 @@ def main() -> None:
                                  briefing_build.source_path()))
         print(f"  {st}")
 
-    if slot_items:
-        print(f"\nSLOT.DAT: {len(slot_items)} string(s) -- rebuilding the "
-              f"container (this re-reads all 2,137 records twice)")
-        dat, key, stats = slotdat_build.rebuild(slot_items, lang, args.outdir)
-        problems += slotdat_build.verify(dat, key, slot_items, lang)
+    if slot_items or gtt_items:
+        print(f"\nSLOT.DAT: {len(slot_items)} olang string(s), "
+              f"{len(gtt_items)} GTT line(s) -- rebuilding the container "
+              f"(this re-reads all 2,137 records twice)")
+        dat, key, stats = slotdat_build.rebuild(slot_items, lang, args.outdir,
+                                                gtt=gtt_items)
+        problems += slotdat_build.verify(dat, key, slot_items, lang,
+                                         gtt=gtt_items)
+        problems += [f"gtt: {p}" for p in stats.get("gtt_problems", ())]
         codepoints |= {ord(c) for t in slot_items.values() for c in t}
+        codepoints |= {ord(c) for t in gtt_items.values() for c in t}
         # dest must be the LIVE game path, never S.dat_path(): that goes
         # through config.pristine, so once a .orig backup exists the manifest
         # would name the backup as the install target and install would

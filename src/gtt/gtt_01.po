@@ -1,0 +1,2019 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF gtt 1/6\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: gtt\n"
+"X-PWSF-Entries: 400\n"
+# GTT: in-mission radio and hint lines, from the GTT pools of SLOT.DAT
+# (ANALYSIS/11).  Two rules for every entry here:
+#   - the translation is written IN PLACE, so it must not be longer in bytes
+#     than the English line -- the `budget N B` on each entry is that limit,
+#     and `po_lint` fails the build with `gtt-budget` when it is exceeded;
+#   - the game stores a line break as a two-character `\n`, so keep the same
+#     number of lines as the source.
+
+
+#. GTT pool 0x1c0fb1c9 block 0x0 (id 0x85, record 0), budget 50 B
+#: gtt/0x1c0fb1c9/0x0/0
+msgid "OK, you're done with that area. Head for the goal."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x90 (id 0x78, record 0), budget 52 B
+#: gtt/0x1c0fb1c9/0x90/0
+msgid "Head for the recovery zone. We'll pick you up there."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x110 (id 0x8e, record 0), budget 66 B
+#: gtt/0x1c0fb1c9/0x110/0
+msgid "I see you completed your mission. Now hurry to the recovery point."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1a0 (id 0xa7, record 0), budget 49 B
+#: gtt/0x1c0fb1c9/0x1a0/0
+msgid "Now you just have to make it to the goal point..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1a0 (id 0xa7, record 0), budget 19 B
+#: gtt/0x1c0fb1c9/0x1a0/1
+msgid "Keep your guard up."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x250 (id 0x6f, record 0), budget 46 B
+#: gtt/0x1c0fb1c9/0x250/0
+msgid "Now simply make your way to the recovery zone."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2c0 (id 0x80, record 0), budget 53 B
+#: gtt/0x1c0fb1c9/0x2c0/0
+msgid ""
+"Stay out of sight 'til they've called off\n"
+"the alert."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x420 (id 0x9c, record 0), budget 66 B
+#: gtt/0x1c0fb1c9/0x420/0
+msgid "Still can't find them? Have you tried using a night vision device?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4c0 (id 0x4f, record 0), budget 17 B
+#: gtt/0x1c0fb1c9/0x4c0/0
+msgid "Bravo! Nice work!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x510 (id 0x64, record 0), budget 43 B
+#: gtt/0x1c0fb1c9/0x510/0
+msgid "Now that's what I'm talkin' about! Amazing!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x580 (id 0x5a, record 0), budget 27 B
+#: gtt/0x1c0fb1c9/0x580/0
+msgid "That's the way! Keep it up!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5e0 (id 0x7e, record 0), budget 65 B
+#: gtt/0x1c0fb1c9/0x5e0/0
+msgid "Mission complete! The folks back at Mother Base will be thrilled."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x660 (id 0x5f, record 0), budget 23 B
+#: gtt/0x1c0fb1c9/0x660/0
+msgid "You did it! Keep it up!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6c0 (id 0x77, record 0), budget 45 B
+#: gtt/0x1c0fb1c9/0x6c0/0
+msgid "I knew you could do it. Piece of cake, right?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x740 (id 0x5e, record 0), budget 28 B
+#: gtt/0x1c0fb1c9/0x740/0
+msgid "Mission complete! Great job."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7a0 (id 0x63, record 0), budget 25 B
+#: gtt/0x1c0fb1c9/0x7a0/0
+msgid "Good job! Return to base."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x810 (id 0x8f, record 0), budget 60 B
+#: gtt/0x1c0fb1c9/0x810/0
+msgid "Hey, that was great! Can't wait to see what else you can do."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8a0 (id 0x66, record 0), budget 32 B
+#: gtt/0x1c0fb1c9/0x8a0/0
+msgid "Hello! Come in! Can you hear me?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x910 (id 0x6a, record 0), budget 32 B
+#: gtt/0x1c0fb1c9/0x910/0
+msgid "I don't like this... Be careful."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x980 (id 0x5d, record 0), budget 36 B
+#: gtt/0x1c0fb1c9/0x980/0
+msgid "What the hell's going on out there?!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0xa20 (id 0x59, record 0), budget 21 B
+#: gtt/0x1c0fb1c9/0xa20/0
+msgid "Come in! Do you copy?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0xa80 (id 0x87, record 0), budget 61 B
+#: gtt/0x1c0fb1c9/0xa80/0
+msgid "Be careful, if my info is correct, you're right next to a...!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0xb10 (id 0x65, record 0), budget 36 B
+#: gtt/0x1c0fb1c9/0xb10/0
+msgid "Oh man, there's something out there!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0xb80 (id 0x4b, record 0), budget 16 B
+#: gtt/0x1c0fb1c9/0xb80/0
+msgid "This is The End."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0xbd0 (id 0x61, record 0), budget 30 B
+#: gtt/0x1c0fb1c9/0xbd0/0
+msgid "What's wrong?! I'm right here!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0xc40 (id 0x80, record 0), budget 16 B
+#: gtt/0x1c0fb1c9/0xc40/0
+msgid "I will find you!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0xc40 (id 0x80, record 0), budget 25 B
+#: gtt/0x1c0fb1c9/0xc40/1
+msgid "There's no place to hide."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0xcc0 (id 0x65, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0xcc0/0
+msgid "I can feel it! I can feel your presence!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0xd30 (id 0x6e, record 0), budget 43 B
+#: gtt/0x1c0fb1c9/0xd30/0
+msgid "I am the forest and I am watching over you."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0xda0 (id 0x5a, record 0), budget 20 B
+#: gtt/0x1c0fb1c9/0xda0/0
+msgid "What's up? An enemy?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0xe00 (id 0x7c, record 0), budget 32 B
+#: gtt/0x1c0fb1c9/0xe00/0
+msgid "You see anything? A UMA, maybe?!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0xe80 (id 0x7a, record 0), budget 55 B
+#: gtt/0x1c0fb1c9/0xe80/0
+msgid "You did well. They'll finally be able to rest in peace!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0xf00 (id 0xb0, record 0), budget 15 B
+#: gtt/0x1c0fb1c9/0xf00/0
+msgid "That went well."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0xf00 (id 0xb0, record 0), budget 42 B
+#: gtt/0x1c0fb1c9/0xf00/1
+msgid "Now come on back before you get possessed."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0xfb0 (id 0x83, record 0), budget 51 B
+#: gtt/0x1c0fb1c9/0xfb0/0
+msgid "Looks like the wandering spirits heard you somehow."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1040 (id 0x84, record 0), budget 9 B
+#: gtt/0x1c0fb1c9/0x1040/0
+msgid "Good job."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1040 (id 0x84, record 0), budget 35 B
+#: gtt/0x1c0fb1c9/0x1040/1
+msgid "Rest in peace, wandering spirits..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x10d0 (id 0x9b, record 0), budget 29 B
+#: gtt/0x1c0fb1c9/0x10d0/0
+msgid "Where would a ghost hang out?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x10d0 (id 0x9b, record 0), budget 42 B
+#: gtt/0x1c0fb1c9/0x10d0/1
+msgid "Sorry. I'm clueless at that kind of stuff."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1170 (id 0x68, record 0), budget 31 B
+#: gtt/0x1c0fb1c9/0x1170/0
+msgid "Let your sixth sense guide you."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x11e0 (id 0x7a, record 0), budget 56 B
+#: gtt/0x1c0fb1c9/0x11e0/0
+msgid "The Surround Indicator is picking up a ghostly presence."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1260 (id 0x77, record 0), budget 52 B
+#: gtt/0x1c0fb1c9/0x1260/0
+msgid "Just out of curiosity...do ghosts have legs or what?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x12e0 (id 0x63, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x12e0/0
+msgid "You're not scared or anything...? Wow..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1350 (id 0x6b, record 0), budget 41 B
+#: gtt/0x1c0fb1c9/0x1350/0
+msgid "Los fantasmas really exist after all, eh?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x13c0 (id 0x8d, record 0), budget 60 B
+#: gtt/0x1c0fb1c9/0x13c0/0
+msgid "Hurry and get a picture of a fantasma. I'm dying to see one."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1450 (id 0x73, record 0), budget 29 B
+#: gtt/0x1c0fb1c9/0x1450/0
+msgid "Wow, you got one? Hurry back!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x14d0 (id 0x7a, record 0), budget 52 B
+#: gtt/0x1c0fb1c9/0x14d0/0
+msgid "A photo of a ghost? It's gotta be some kind of hoax."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1550 (id 0xd8, record 0), budget 41 B
+#: gtt/0x1c0fb1c9/0x1550/0
+msgid "Ghosts? I have no inerest in such things."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1550 (id 0xd8, record 0), budget 59 B
+#: gtt/0x1c0fb1c9/0x1550/1
+msgid "Harpies, on the other hand, I wouldn't mind encountering..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1630 (id 0xa3, record 0), budget 35 B
+#: gtt/0x1c0fb1c9/0x1630/0
+msgid "There are NO such things as ghosts."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1630 (id 0xa3, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x1630/1
+msgid "Like they'd really show up in a photo..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x16e0 (id 0x6c, record 0), budget 37 B
+#: gtt/0x1c0fb1c9/0x16e0/0
+msgid "The ghost is... gone?! What'd you do?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1750 (id 0x94, record 0), budget 71 B
+#: gtt/0x1c0fb1c9/0x1750/0
+msgid "It looks like those ghosts can't stray too far from the dying soldiers."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x17f0 (id 0x7a, record 0), budget 43 B
+#: gtt/0x1c0fb1c9/0x17f0/0
+msgid "Your comrades need first aid! Give 'em CPR!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1870 (id 0x85, record 0), budget 54 B
+#: gtt/0x1c0fb1c9/0x1870/0
+msgid "Your fellow MSF members need your help! Give them CPR!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1900 (id 0x91, record 0), budget 34 B
+#: gtt/0x1c0fb1c9/0x1900/0
+msgid "Don't just stand there, save them!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1900 (id 0x91, record 0), budget 14 B
+#: gtt/0x1c0fb1c9/0x1900/1
+msgid "Give them CPR!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x19a0 (id 0xbe, record 0), budget 49 B
+#: gtt/0x1c0fb1c9/0x19a0/0
+msgid "The ghost was sucked into that soldier's body...?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x19a0 (id 0xbe, record 0), budget 53 B
+#: gtt/0x1c0fb1c9/0x19a0/1
+msgid "Whoa! You think that's what brought him back to life?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1a60 (id 0xba, record 0), budget 28 B
+#: gtt/0x1c0fb1c9/0x1a60/0
+msgid "So saving the soldier's life"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1a60 (id 0xba, record 0), budget 46 B
+#: gtt/0x1c0fb1c9/0x1a60/1
+msgid "caused his spirit to reunite with his body...?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1b20 (id 0x85, record 0), budget 64 B
+#: gtt/0x1c0fb1c9/0x1b20/0
+msgid "Damn it, the ghost's been set loose! It's coming after you! RUN!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1bb0 (id 0xb1, record 0), budget 21 B
+#: gtt/0x1c0fb1c9/0x1bb0/0
+msgid "Whoa, this is freaky!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1bb0 (id 0xb1, record 0), budget 39 B
+#: gtt/0x1c0fb1c9/0x1bb0/1
+msgid "What'd you do to make the ghost so mad?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1c70 (id 0xa0, record 0), budget 72 B
+#: gtt/0x1c0fb1c9/0x1c70/0
+msgid "Night vision devices are good for locating prisoners in the dark. Hurry!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1d10 (id 0x72, record 0), budget 48 B
+#: gtt/0x1c0fb1c9/0x1d10/0
+msgid "To the cell on the double! Your buddy needs you!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1d90 (id 0x7e, record 0), budget 61 B
+#: gtt/0x1c0fb1c9/0x1d90/0
+msgid "Your friend's moving fast! Hang in there until he gets there!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1e10 (id 0x7b, record 0), budget 57 B
+#: gtt/0x1c0fb1c9/0x1e10/0
+msgid "Hurry up - your pal's stamina won't hold out much longer!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1e90 (id 0x88, record 0), budget 61 B
+#: gtt/0x1c0fb1c9/0x1e90/0
+msgid "Time's up. We... We weren't able to save him. Return to base."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1f20 (id 0xa7, record 0), budget 51 B
+#: gtt/0x1c0fb1c9/0x1f20/0
+msgid "Never mind, it's too late. Your buddy... He's dead."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1f20 (id 0xa7, record 0), budget 23 B
+#: gtt/0x1c0fb1c9/0x1f20/1
+msgid "The mission has failed."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1fd0 (id 0xc1, record 0), budget 59 B
+#: gtt/0x1c0fb1c9/0x1fd0/0
+msgid "Look for an enemy soldier who's not acting like the others."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x1fd0 (id 0xc1, record 0), budget 23 B
+#: gtt/0x1c0fb1c9/0x1fd0/1
+msgid "That'll be your target."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x20a0 (id 0x69, record 0), budget 36 B
+#: gtt/0x1c0fb1c9/0x20a0/0
+msgid "The one that's acting weird. Got it?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2110 (id 0x73, record 0), budget 55 B
+#: gtt/0x1c0fb1c9/0x2110/0
+msgid "Stop the enemy in their tracks! Don't let them through!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2190 (id 0x5e, record 0), budget 25 B
+#: gtt/0x1c0fb1c9/0x2190/0
+msgid "Please make it in time..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x21f0 (id 0xd8, record 0), budget 34 B
+#: gtt/0x1c0fb1c9/0x21f0/0
+msgid "It doesn't matter where he's from,"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x21f0 (id 0xd8, record 0), budget 48 B
+#: gtt/0x1c0fb1c9/0x21f0/1
+msgid "we cannot allow prisoner abuse to go unanswered."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x21f0 (id 0xd8, record 0), budget 23 B
+#: gtt/0x1c0fb1c9/0x21f0/2
+msgid "You have to rescue him."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x22d0 (id 0xb5, record 0), budget 69 B
+#: gtt/0x1c0fb1c9/0x22d0/0
+msgid "Leaving prisoners out in the open like that smells like a trap to me."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2390 (id 0x61, record 0), budget 23 B
+#: gtt/0x1c0fb1c9/0x2390/0
+msgid "There's no time! Hurry!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2400 (id 0x6b, record 0), budget 41 B
+#: gtt/0x1c0fb1c9/0x2400/0
+msgid "Those guys need your help. Get a move on!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2470 (id 0x7c, record 0), budget 52 B
+#: gtt/0x1c0fb1c9/0x2470/0
+msgid "Something weird about that soldier, don't you think?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x24f0 (id 0x72, record 0), budget 45 B
+#: gtt/0x1c0fb1c9/0x24f0/0
+msgid "Do whatever it takes to help those prisoners."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2570 (id 0xb9, record 0), budget 45 B
+#: gtt/0x1c0fb1c9/0x2570/0
+msgid "That prisoner's a seasoned guerrilla fighter."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2570 (id 0xb9, record 0), budget 44 B
+#: gtt/0x1c0fb1c9/0x2570/1
+msgid "Exactly the type we want to bring back here."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2630 (id 0x82, record 0), budget 60 B
+#: gtt/0x1c0fb1c9/0x2630/0
+msgid "We're running out of time! If you don't hurry, they'll be..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x26c0 (id 0x7c, record 0), budget 64 B
+#: gtt/0x1c0fb1c9/0x26c0/0
+msgid "I would have treated these prisoners with a bit more courtesy..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2740 (id 0x86, record 0), budget 63 B
+#: gtt/0x1c0fb1c9/0x2740/0
+msgid "Watch it! There might be bombs planted next to those prisoners."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x27d0 (id 0x6f, record 0), budget 52 B
+#: gtt/0x1c0fb1c9/0x27d0/0
+msgid "Your current objective is to retrieve the prisoners."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2840 (id 0x68, record 0), budget 35 B
+#: gtt/0x1c0fb1c9/0x2840/0
+msgid "Please, rescue the Frente soldiers."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x28b0 (id 0x76, record 0), budget 44 B
+#: gtt/0x1c0fb1c9/0x28b0/0
+msgid "Please, find our compas as fast as possible!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2930 (id 0x6a, record 0), budget 36 B
+#: gtt/0x1c0fb1c9/0x2930/0
+msgid "Make sure you bring our compas back."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x29a0 (id 0x87, record 0), budget 54 B
+#: gtt/0x1c0fb1c9/0x29a0/0
+msgid "Please, do whatever it takes to bring our compas back!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2a30 (id 0x76, record 0), budget 42 B
+#: gtt/0x1c0fb1c9/0x2a30/0
+msgid "Find those prisoners before it's too late!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2ab0 (id 0x73, record 0), budget 49 B
+#: gtt/0x1c0fb1c9/0x2ab0/0
+msgid "Rescue those prisoners before they're taken away!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2b30 (id 0xf2, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x2b30/0
+msgid "Look for an enemy with unusual equipment"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2b30 (id 0xf2, record 0), budget 31 B
+#: gtt/0x1c0fb1c9/0x2b30/1
+msgid "who moves around like a rookie."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2b30 (id 0xf2, record 0), budget 47 B
+#: gtt/0x1c0fb1c9/0x2b30/2
+msgid "That is the one you want to bring back to base."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2c30 (id 0x88, record 0), budget 60 B
+#: gtt/0x1c0fb1c9/0x2c30/0
+msgid "Unlike the other soldiers, they are unarmed. Look carefully."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2cc0 (id 0x6f, record 0), budget 54 B
+#: gtt/0x1c0fb1c9/0x2cc0/0
+msgid "Your current objective is to retrieve the researchers."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2d30 (id 0x7d, record 0), budget 56 B
+#: gtt/0x1c0fb1c9/0x2d30/0
+msgid "You mean you haven't found the captured researchers yet?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2db0 (id 0xb8, record 0), budget 61 B
+#: gtt/0x1c0fb1c9/0x2db0/0
+msgid "Hurry, secure the researchers with the Fulton recovery system"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2db0 (id 0xb8, record 0), budget 26 B
+#: gtt/0x1c0fb1c9/0x2db0/1
+msgid "before they're taken away."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2e70 (id 0xb9, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x2e70/0
+msgid "Time to stop your pursuer in his tracks."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2e70 (id 0xb9, record 0), budget 28 B
+#: gtt/0x1c0fb1c9/0x2e70/1
+msgid "Show him your sniper skills!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2f30 (id 0xbf, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x2f30/0
+msgid "We're not leaving behind one of our own."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2f30 (id 0xbf, record 0), budget 61 B
+#: gtt/0x1c0fb1c9/0x2f30/1
+msgid "They risked their lives for the mission. You do what you can."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2ff0 (id 0xaa, record 0), budget 39 B
+#: gtt/0x1c0fb1c9/0x2ff0/0
+msgid "I could use their help in the lab here."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x2ff0 (id 0xaa, record 0), budget 36 B
+#: gtt/0x1c0fb1c9/0x2ff0/1
+msgid "Please get them out of there safely."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x30a0 (id 0x9d, record 0), budget 72 B
+#: gtt/0x1c0fb1c9/0x30a0/0
+msgid "Come on, man...! Shoot the magazine and let's get this show on the road!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3140 (id 0x6c, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x3140/0
+msgid "Reading time's over. Shoot the magazine!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x31b0 (id 0x79, record 0), budget 56 B
+#: gtt/0x1c0fb1c9/0x31b0/0
+msgid "The target agent is dead - mission failed. Come on back."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3230 (id 0x101, record 0), budget 36 B
+#: gtt/0x1c0fb1c9/0x3230/0
+msgid "The place is crawling with bad guys."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3230 (id 0x101, record 0), budget 37 B
+#: gtt/0x1c0fb1c9/0x3230/1
+msgid "You can't afford to sneak around them"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3230 (id 0x101, record 0), budget 39 B
+#: gtt/0x1c0fb1c9/0x3230/2
+msgid "- get in there and just start shooting!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3340 (id 0x99, record 0), budget 57 B
+#: gtt/0x1c0fb1c9/0x3340/0
+msgid "That's not gonna cut it - you're way off. Watch your aim!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x33e0 (id 0x7c, record 0), budget 55 B
+#: gtt/0x1c0fb1c9/0x33e0/0
+msgid "Great! Now take those items to the designated location."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3460 (id 0x8b, record 0), budget 66 B
+#: gtt/0x1c0fb1c9/0x3460/0
+msgid "Looks like you've the items. Take them to the designated location."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x34f0 (id 0x7e, record 0), budget 66 B
+#: gtt/0x1c0fb1c9/0x34f0/0
+msgid "Not so fast. You haven't finished collecting everything, have you?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3570 (id 0x74, record 0), budget 39 B
+#: gtt/0x1c0fb1c9/0x3570/0
+msgid "You're not done collecting targets yet!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x35f0 (id 0x67, record 0), budget 45 B
+#: gtt/0x1c0fb1c9/0x35f0/0
+msgid "You are still not finished with the recovery!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3660 (id 0x70, record 0), budget 52 B
+#: gtt/0x1c0fb1c9/0x3660/0
+msgid "You're not finished yet! You have to get everything!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x36d0 (id 0xa9, record 0), budget 33 B
+#: gtt/0x1c0fb1c9/0x36d0/0
+msgid "Are you calling it quits already?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x36d0 (id 0xa9, record 0), budget 54 B
+#: gtt/0x1c0fb1c9/0x36d0/1
+msgid "Finish your mission - collect the rest of the targets!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3780 (id 0xa7, record 0), budget 56 B
+#: gtt/0x1c0fb1c9/0x3780/0
+msgid "One of the soldiers may know the location of the target."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3780 (id 0xa7, record 0), budget 19 B
+#: gtt/0x1c0fb1c9/0x3780/1
+msgid "Go interrogate 'em."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3830 (id 0x94, record 0), budget 69 B
+#: gtt/0x1c0fb1c9/0x3830/0
+msgid "To interrogate someone, grab them with CQC and press <I=INTERROGATE>."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3970 (id 0xb8, record 0), budget 37 B
+#: gtt/0x1c0fb1c9/0x3970/0
+msgid "Take down enemies carrying documents."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3970 (id 0xb8, record 0), budget 55 B
+#: gtt/0x1c0fb1c9/0x3970/1
+msgid "Otherwise, you'll never get your hands on those papers."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3a30 (id 0x75, record 0), budget 45 B
+#: gtt/0x1c0fb1c9/0x3a30/0
+msgid "Documents, huh? I wonder where they could be."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3ab0 (id 0x80, record 0), budget 44 B
+#: gtt/0x1c0fb1c9/0x3ab0/0
+msgid "The key to any treasure hunt is persistence!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3b30 (id 0xb1, record 0), budget 57 B
+#: gtt/0x1c0fb1c9/0x3b30/0
+msgid "Important documents... Gee, I wonder what those could be."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3b30 (id 0xb1, record 0), budget 20 B
+#: gtt/0x1c0fb1c9/0x3b30/1
+msgid "Love letters, maybe?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3bf0 (id 0xaf, record 0), budget 66 B
+#: gtt/0x1c0fb1c9/0x3bf0/0
+msgid "There are documents in here that could be crucial to our research."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3bf0 (id 0xaf, record 0), budget 10 B
+#: gtt/0x1c0fb1c9/0x3bf0/1
+msgid "Find them."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3ca0 (id 0xb3, record 0), budget 60 B
+#: gtt/0x1c0fb1c9/0x3ca0/0
+msgid "Stay out of the enemy's sight as you recover those supplies."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3ca0 (id 0xb3, record 0), budget 19 B
+#: gtt/0x1c0fb1c9/0x3ca0/1
+msgid "And don't get lost!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3d60 (id 0x69, record 0), budget 44 B
+#: gtt/0x1c0fb1c9/0x3d60/0
+msgid "Your objective right now is to gather items."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3dd0 (id 0x51, record 0), budget 19 B
+#: gtt/0x1c0fb1c9/0x3dd0/0
+msgid "That's three to go."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3e30 (id 0x45, record 0), budget 9 B
+#: gtt/0x1c0fb1c9/0x3e30/0
+msgid "Two more."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3e80 (id 0x4c, record 0), budget 14 B
+#: gtt/0x1c0fb1c9/0x3e80/0
+msgid "Only one left!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3ed0 (id 0x6d, record 0), budget 41 B
+#: gtt/0x1c0fb1c9/0x3ed0/0
+msgid "Keep going till you've got all the items!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3f40 (id 0x7c, record 0), budget 45 B
+#: gtt/0x1c0fb1c9/0x3f40/0
+msgid "Get the items and return them safely to base."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x3fc0 (id 0x6f, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x3fc0/0
+msgid "Destroy all enemy supplies with your C4!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4030 (id 0x65, record 0), budget 39 B
+#: gtt/0x1c0fb1c9/0x4030/0
+msgid "Destroy the targets with C4 explosives."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x40a0 (id 0x72, record 0), budget 42 B
+#: gtt/0x1c0fb1c9/0x40a0/0
+msgid "Blow up the enemy's supplies with some C4!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4120 (id 0xc6, record 0), budget 46 B
+#: gtt/0x1c0fb1c9/0x4120/0
+msgid "Gather up all the Boss's equipment. And hurry!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4120 (id 0xc6, record 0), budget 25 B
+#: gtt/0x1c0fb1c9/0x4120/1
+msgid "We gotta get to him ASAP!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x41f0 (id 0xb5, record 0), budget 48 B
+#: gtt/0x1c0fb1c9/0x41f0/0
+msgid "More of the Boss's equipment is still out there."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x41f0 (id 0xb5, record 0), budget 29 B
+#: gtt/0x1c0fb1c9/0x41f0/1
+msgid "Make sure you recover it all."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x42b0 (id 0xa4, record 0), budget 37 B
+#: gtt/0x1c0fb1c9/0x42b0/0
+msgid "That's everything you're looking for."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x42b0 (id 0xa4, record 0), budget 38 B
+#: gtt/0x1c0fb1c9/0x42b0/1
+msgid "Now catch up with us back at the base!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4360 (id 0x85, record 0), budget 49 B
+#: gtt/0x1c0fb1c9/0x4360/0
+msgid "Well done. Now we can focus on rescuing the Boss!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x43f0 (id 0x7e, record 0), budget 53 B
+#: gtt/0x1c0fb1c9/0x43f0/0
+msgid "Hit the targets as fast and as accurately as you can."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4470 (id 0xb9, record 0), budget 47 B
+#: gtt/0x1c0fb1c9/0x4470/0
+msgid "I don't suppose targets are going to fire back,"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4470 (id 0xb9, record 0), budget 35 B
+#: gtt/0x1c0fb1c9/0x4470/1
+msgid "but still, watch what you're doing."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4530 (id 0x6e, record 0), budget 44 B
+#: gtt/0x1c0fb1c9/0x4530/0
+msgid "At least you get a break from the badguys..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x45a0 (id 0x5a, record 0), budget 32 B
+#: gtt/0x1c0fb1c9/0x45a0/0
+msgid "Doing some target practice, huh?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4600 (id 0x63, record 0), budget 28 B
+#: gtt/0x1c0fb1c9/0x4600/0
+msgid "Careful where you shoot, OK?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4670 (id 0xb3, record 0), budget 50 B
+#: gtt/0x1c0fb1c9/0x4670/0
+msgid "You should crouch when you shoot whenever you can."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4670 (id 0xb3, record 0), budget 29 B
+#: gtt/0x1c0fb1c9/0x4670/1
+msgid "Your aim will be more stable."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4730 (id 0x6d, record 0), budget 39 B
+#: gtt/0x1c0fb1c9/0x4730/0
+msgid "This is a target shoot. Don't miss now."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x47a0 (id 0x8d, record 0), budget 74 B
+#: gtt/0x1c0fb1c9/0x47a0/0
+msgid "Shoot the target. Your final objective is to seize those supplies, got it?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4830 (id 0xbb, record 0), budget 75 B
+#: gtt/0x1c0fb1c9/0x4830/0
+msgid "The soldier with the supplies you're after looks different from the others."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x48f0 (id 0x8a, record 0), budget 70 B
+#: gtt/0x1c0fb1c9/0x48f0/0
+msgid "It's just like identifying birds in the field. Home in on the details."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4980 (id 0x7d, record 0), budget 54 B
+#: gtt/0x1c0fb1c9/0x4980/0
+msgid "Nice! Now we've got to recover those supplies - hurry!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4a00 (id 0x68, record 0), budget 30 B
+#: gtt/0x1c0fb1c9/0x4a00/0
+msgid "Yes! Now get over to the goal!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4a70 (id 0x65, record 0), budget 35 B
+#: gtt/0x1c0fb1c9/0x4a70/0
+msgid "First take care of all the targets."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4ae0 (id 0x90, record 0), budget 73 B
+#: gtt/0x1c0fb1c9/0x4ae0/0
+msgid "Shoot carefully. Are you... really going to kill people from here on out?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4b70 (id 0x6b, record 0), budget 33 B
+#: gtt/0x1c0fb1c9/0x4b70/0
+msgid "Great sniping! Now get his items."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4be0 (id 0xa1, record 0), budget 54 B
+#: gtt/0x1c0fb1c9/0x4be0/1
+msgid "Now you just have to go get the item they left behind."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4c90 (id 0x6a, record 0), budget 39 B
+#: gtt/0x1c0fb1c9/0x4c90/0
+msgid "Whatever you do, do not hit any agents."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4d00 (id 0x159, record 0), budget 10 B
+#: gtt/0x1c0fb1c9/0x4d00/0
+msgid "Hey Snake,"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4d00 (id 0x159, record 0), budget 99 B
+#: gtt/0x1c0fb1c9/0x4d00/1
+msgid "did you know, the \"Yan\" in \"Pooyan\" means something like \"Mister\" in the Osaka dialect of Japanese?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4d00 (id 0x159, record 0), budget 66 B
+#: gtt/0x1c0fb1c9/0x4d00/2
+msgid "You stick it on the end of people's names. So you'd be \"Snay-yan.\""
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4d00 (id 0x159, record 0), budget 38 B
+#: gtt/0x1c0fb1c9/0x4d00/3
+msgid "You can call me \"Kaz-yan\" if you want."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4e60 (id 0x74, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x4e60/0
+msgid "Suddenly... I have a craving for pork..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4ee0 (id 0x50, record 0), budget 15 B
+#: gtt/0x1c0fb1c9/0x4ee0/0
+msgid "Relax, relax..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4f30 (id 0x56, record 0), budget 20 B
+#: gtt/0x1c0fb1c9/0x4f30/0
+msgid "Remember to breathe."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x4f90 (id 0x77, record 0), budget 47 B
+#: gtt/0x1c0fb1c9/0x4f90/0
+msgid "Use your brain, Snake. You can figure this out."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5010 (id 0x81, record 0), budget 60 B
+#: gtt/0x1c0fb1c9/0x5010/0
+msgid "Stay calm, and aim carefully. That's the only advice I have."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x50a0 (id 0xbc, record 0), budget 48 B
+#: gtt/0x1c0fb1c9/0x50a0/0
+msgid "You can't win just by shooting people at random."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x50a0 (id 0xbc, record 0), budget 26 B
+#: gtt/0x1c0fb1c9/0x50a0/1
+msgid "You need to use your head."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5160 (id 0x52, record 0), budget 21 B
+#: gtt/0x1c0fb1c9/0x5160/0
+msgid "Bang! Just like that!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x51c0 (id 0x71, record 0), budget 47 B
+#: gtt/0x1c0fb1c9/0x51c0/0
+msgid "Think logically. The solution will come to you."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5240 (id 0xb7, record 0), budget 44 B
+#: gtt/0x1c0fb1c9/0x5240/0
+msgid "Your brain is the only weapon you have left."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5240 (id 0xb7, record 0), budget 35 B
+#: gtt/0x1c0fb1c9/0x5240/1
+msgid "Do whatever it takes to keep going."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5300 (id 0xcb, record 0), budget 51 B
+#: gtt/0x1c0fb1c9/0x5300/0
+msgid "You must not attack the enemy. It will not be easy,"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5300 (id 0xcb, record 0), budget 50 B
+#: gtt/0x1c0fb1c9/0x5300/1
+msgid "but steps like this are part of the road to peace."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x53d0 (id 0x67, record 0), budget 41 B
+#: gtt/0x1c0fb1c9/0x53d0/0
+msgid "See if you can't resolve this peacefully."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5440 (id 0x95, record 0), budget 71 B
+#: gtt/0x1c0fb1c9/0x5440/0
+msgid "If you make sure they don't see you, you can avoid conflict altogether."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x54e0 (id 0x87, record 0), budget 68 B
+#: gtt/0x1c0fb1c9/0x54e0/0
+msgid "You cannot allow yourself to be seen. Try to become one with nature."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5570 (id 0xb0, record 0), budget 37 B
+#: gtt/0x1c0fb1c9/0x5570/0
+msgid "Combat is to be avoided at all costs."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5570 (id 0xb0, record 0), budget 42 B
+#: gtt/0x1c0fb1c9/0x5570/1
+msgid "Leave no trace of yourself as you proceed."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5620 (id 0x4b, record 0), budget 15 B
+#: gtt/0x1c0fb1c9/0x5620/0
+msgid "Ooh, nice shot!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5670 (id 0xb9, record 0), budget 59 B
+#: gtt/0x1c0fb1c9/0x5670/0
+msgid "Mmm, that's some fine photography! I'm thinking Pulitzer..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5670 (id 0xb9, record 0), budget 25 B
+#: gtt/0x1c0fb1c9/0x5670/1
+msgid "OK, maybe not, but still."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5730 (id 0x7f, record 0), budget 59 B
+#: gtt/0x1c0fb1c9/0x5730/0
+msgid "Get a photo of the enemy commander while he's out scouting."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x57b0 (id 0x6d, record 0), budget 36 B
+#: gtt/0x1c0fb1c9/0x57b0/0
+msgid "If anyone spots you, it's game over."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5820 (id 0x139, record 0), budget 42 B
+#: gtt/0x1c0fb1c9/0x5820/0
+msgid "This guy's performance rating will plummet"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5820 (id 0x139, record 0), budget 43 B
+#: gtt/0x1c0fb1c9/0x5820/1
+msgid "if we release a photo of him looking bored."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5820 (id 0x139, record 0), budget 62 B
+#: gtt/0x1c0fb1c9/0x5820/2
+msgid "This is psychological warfare, got it? Just don't tip him off."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5960 (id 0x8e, record 0), budget 76 B
+#: gtt/0x1c0fb1c9/0x5960/0
+msgid "Ha, there's one for the scrapbook. Let's get that developed - hurry on back."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x59f0 (id 0x88, record 0), budget 67 B
+#: gtt/0x1c0fb1c9/0x59f0/0
+msgid "What are you trying to take a picture of? That's just wasting film."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5a80 (id 0x104, record 0), budget 8 B
+#: gtt/0x1c0fb1c9/0x5a80/0
+msgid "No Good,"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5a80 (id 0x104, record 0), budget 70 B
+#: gtt/0x1c0fb1c9/0x5a80/1
+msgid "we need a complete shot of the subject without any objects in the way."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5a80 (id 0x104, record 0), budget 31 B
+#: gtt/0x1c0fb1c9/0x5a80/2
+msgid "And make it as big as possible."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5b90 (id 0xa5, record 0), budget 62 B
+#: gtt/0x1c0fb1c9/0x5b90/0
+msgid "Looks like that commander's got plenty of time on his hands..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5b90 (id 0xa5, record 0), budget 13 B
+#: gtt/0x1c0fb1c9/0x5b90/1
+msgid "Must be nice."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5c40 (id 0xac, record 0), budget 25 B
+#: gtt/0x1c0fb1c9/0x5c40/0
+msgid "A comandante in el Frente"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5c40 (id 0xac, record 0), budget 63 B
+#: gtt/0x1c0fb1c9/0x5c40/1
+msgid "would never have the time on his hands for something like that."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5cf0 (id 0xb5, record 0), budget 45 B
+#: gtt/0x1c0fb1c9/0x5cf0/0
+msgid "Must be nice, having all that free time to..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5cf0 (id 0xb5, record 0), budget 37 B
+#: gtt/0x1c0fb1c9/0x5cf0/1
+msgid "oh, I wasn't talking about you, Boss!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5db0 (id 0x79, record 0), budget 44 B
+#: gtt/0x1c0fb1c9/0x5db0/0
+msgid "The prisoner got spooked and ran. After him!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5e30 (id 0xaf, record 0), budget 39 B
+#: gtt/0x1c0fb1c9/0x5e30/0
+msgid "Those boxes contain important supplies."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5e30 (id 0xaf, record 0), budget 34 B
+#: gtt/0x1c0fb1c9/0x5e30/1
+msgid "Make sure nothing happens to them!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5ee0 (id 0x5f, record 0), budget 29 B
+#: gtt/0x1c0fb1c9/0x5ee0/0
+msgid "Come on! Protect those boxes!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5f40 (id 0x60, record 0), budget 36 B
+#: gtt/0x1c0fb1c9/0x5f40/0
+msgid "Destroy all the trucks with your C4!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5fa0 (id 0xbf, record 0), budget 51 B
+#: gtt/0x1c0fb1c9/0x5fa0/0
+msgid "You should be able to see the road from the bridge."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x5fa0 (id 0xbf, record 0), budget 46 B
+#: gtt/0x1c0fb1c9/0x5fa0/1
+msgid "Destroy the truck that's driving up that road."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6060 (id 0x64, record 0), budget 34 B
+#: gtt/0x1c0fb1c9/0x6060/0
+msgid "Those drums might come in handy..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x60d0 (id 0x6c, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x60d0/0
+msgid "Too late, it's gone... Mission failed..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6140 (id 0x6d, record 0), budget 28 B
+#: gtt/0x1c0fb1c9/0x6140/0
+msgid "Use C4 to blow up the truck."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x61b0 (id 0x52, record 0), budget 20 B
+#: gtt/0x1c0fb1c9/0x61b0/0
+msgid "Take out that truck!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6210 (id 0x60, record 0), budget 35 B
+#: gtt/0x1c0fb1c9/0x6210/0
+msgid "Keep shooting down those tiny UFOs!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6270 (id 0x7d, record 0), budget 50 B
+#: gtt/0x1c0fb1c9/0x6270/0
+msgid "Get control of all the enemies by holding them up!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x62f0 (id 0x89, record 0), budget 61 B
+#: gtt/0x1c0fb1c9/0x62f0/0
+msgid "Hold up all enemies! If you're discovered the mission's over."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6380 (id 0xe0, record 0), budget 58 B
+#: gtt/0x1c0fb1c9/0x6380/0
+msgid "No one's stupid enough to tempt fate and step on a banana."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6380 (id 0xe0, record 0), budget 53 B
+#: gtt/0x1c0fb1c9/0x6380/1
+msgid "I wouldn't bother trying to place them on the ground."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6460 (id 0x71, record 0), budget 34 B
+#: gtt/0x1c0fb1c9/0x6460/0
+msgid "Isn't a banana just a tasty snack?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x64e0 (id 0xa5, record 0), budget 63 B
+#: gtt/0x1c0fb1c9/0x64e0/0
+msgid "Pesticides from banana plantations could be killing off Macaws,"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x64e0 (id 0xa5, record 0), budget 11 B
+#: gtt/0x1c0fb1c9/0x64e0/1
+msgid "you know..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6590 (id 0xac, record 0), budget 41 B
+#: gtt/0x1c0fb1c9/0x6590/0
+msgid "Your objective is to hold up all enemies."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6590 (id 0xac, record 0), budget 26 B
+#: gtt/0x1c0fb1c9/0x6590/1
+msgid "Please, don't hurt anyone."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6640 (id 0x7e, record 0), budget 51 B
+#: gtt/0x1c0fb1c9/0x6640/0
+msgid "Your objective this time is to hold-up all enemies."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x66c0 (id 0xb9, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x66c0/0
+msgid "Don't be reckless and fire off your gun."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x66c0 (id 0xb9, record 0), budget 46 B
+#: gtt/0x1c0fb1c9/0x66c0/1
+msgid "Your objective is to hold all the soldiers up."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6780 (id 0xc6, record 0), budget 34 B
+#: gtt/0x1c0fb1c9/0x6780/0
+msgid "You can't just hide there forever."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6780 (id 0xc6, record 0), budget 63 B
+#: gtt/0x1c0fb1c9/0x6780/1
+msgid "Look for opportunities to slip by, and head for the goal point."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6850 (id 0x6c, record 0), budget 51 B
+#: gtt/0x1c0fb1c9/0x6850/0
+msgid "The enemy's out there looking for you. Use caution."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x68c0 (id 0x6f, record 0), budget 44 B
+#: gtt/0x1c0fb1c9/0x68c0/0
+msgid "Do not let the enemy find out where you are!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6930 (id 0x64, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x6930/0
+msgid "Listen to the trees and the mountains..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x69a0 (id 0xc1, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x69a0/0
+msgid "I know it's tough to find those snipers,"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x69a0 (id 0xc1, record 0), budget 42 B
+#: gtt/0x1c0fb1c9/0x69a0/1
+msgid "but keep at it...we need them neutralized."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6a70 (id 0x60, record 0), budget 29 B
+#: gtt/0x1c0fb1c9/0x6a70/0
+msgid "I'm sweating it, too, Boss..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6ad0 (id 0xc3, record 0), budget 71 B
+#: gtt/0x1c0fb1c9/0x6ad0/0
+msgid "All you need to do is take out the soldiers sitting in the gun turrets."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6ad0 (id 0xc3, record 0), budget 21 B
+#: gtt/0x1c0fb1c9/0x6ad0/1
+msgid "I know you can do it."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6ba0 (id 0xa7, record 0), budget 39 B
+#: gtt/0x1c0fb1c9/0x6ba0/0
+msgid "The only soldiers you need to take down"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6ba0 (id 0xa7, record 0), budget 37 B
+#: gtt/0x1c0fb1c9/0x6ba0/1
+msgid "are the ones manning the gun turrets."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6c50 (id 0x5b, record 0), budget 23 B
+#: gtt/0x1c0fb1c9/0x6c50/0
+msgid "Neutralize all enemies!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6cb0 (id 0xb5, record 0), budget 30 B
+#: gtt/0x1c0fb1c9/0x6cb0/0
+msgid "Stop the enemy reinforcements!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6cb0 (id 0xb5, record 0), budget 37 B
+#: gtt/0x1c0fb1c9/0x6cb0/1
+msgid "Don't let them get in the Boss's way!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6d70 (id 0x7f, record 0), budget 56 B
+#: gtt/0x1c0fb1c9/0x6d70/0
+msgid "Protect the Boss! Don't let any more enemies get to him!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6df0 (id 0x49, record 0), budget 11 B
+#: gtt/0x1c0fb1c9/0x6df0/0
+msgid "Venceremos!"
+msgstr "必胜！"
+
+#. GTT pool 0x1c0fb1c9 block 0x6e40 (id 0x56, record 0), budget 19 B
+#: gtt/0x1c0fb1c9/0x6e40/0
+msgid "Keep our Boss safe!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6ea0 (id 0x66, record 0), budget 34 B
+#: gtt/0x1c0fb1c9/0x6ea0/0
+msgid "Please, we need Boss to stop it..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6f10 (id 0x80, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x6f10/0
+msgid "It is do or die now! It's all up to you!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6f90 (id 0x57, record 0), budget 30 B
+#: gtt/0x1c0fb1c9/0x6f90/0
+msgid "You doing all right in there?!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x6ff0 (id 0x4e, record 0), budget 14 B
+#: gtt/0x1c0fb1c9/0x6ff0/0
+msgid "Keep it up...!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7040 (id 0x4f, record 0), budget 18 B
+#: gtt/0x1c0fb1c9/0x7040/0
+msgid "We almost got 'em!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7090 (id 0x71, record 0), budget 46 B
+#: gtt/0x1c0fb1c9/0x7090/0
+msgid "Mission complete. See you back at Mother Base."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7110 (id 0x69, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x7110/0
+msgid "Mission accomplished! Returning to base!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7180 (id 0x67, record 0), budget 37 B
+#: gtt/0x1c0fb1c9/0x7180/0
+msgid "That should do it. Nice work, people!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x71f0 (id 0x76, record 0), budget 59 B
+#: gtt/0x1c0fb1c9/0x71f0/0
+msgid "Objective complete. Returning to base. Everybody, pull out!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7270 (id 0x69, record 0), budget 46 B
+#: gtt/0x1c0fb1c9/0x7270/0
+msgid "Mission accomplished. Everybody still with me?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x72e0 (id 0x65, record 0), budget 31 B
+#: gtt/0x1c0fb1c9/0x72e0/0
+msgid "Neutralize all enemy attackers!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7350 (id 0x5f, record 0), budget 30 B
+#: gtt/0x1c0fb1c9/0x7350/0
+msgid "You have to protect that area!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x73b0 (id 0x66, record 0), budget 32 B
+#: gtt/0x1c0fb1c9/0x73b0/0
+msgid "Make sure you protect that area!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7420 (id 0x8e, record 0), budget 58 B
+#: gtt/0x1c0fb1c9/0x7420/0
+msgid "Neutralize all enemy soldiers. Keep them alive if you can."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x74b0 (id 0x8e, record 0), budget 70 B
+#: gtt/0x1c0fb1c9/0x74b0/0
+msgid "Defend your point long enough and the enemy should eventually give up."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7540 (id 0x6b, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x7540/0
+msgid "The enemy's taken over one of the bases."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x75b0 (id 0x67, record 0), budget 17 B
+#: gtt/0x1c0fb1c9/0x75b0/0
+msgid "Get it back ASAP!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7620 (id 0xe0, record 0), budget 36 B
+#: gtt/0x1c0fb1c9/0x7620/0
+msgid "To use Fulton recovery on a soldier,"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7700 (id 0x8a, record 0), budget 55 B
+#: gtt/0x1c0fb1c9/0x7700/0
+msgid "Use Fulton recovery to bring back knocked-out soldiers."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7790 (id 0x97, record 0), budget 74 B
+#: gtt/0x1c0fb1c9/0x7790/0
+msgid "Your objective is to retrieve the unconscious soldier via Fulton recovery."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7830 (id 0xbd, record 0), budget 55 B
+#: gtt/0x1c0fb1c9/0x7830/0
+msgid "Hurry up and send those knocked out soldiers back here."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7830 (id 0xbd, record 0), budget 43 B
+#: gtt/0x1c0fb1c9/0x7830/1
+msgid "Don't mess around or they're gonna wake up."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x78f0 (id 0x78, record 0), budget 56 B
+#: gtt/0x1c0fb1c9/0x78f0/0
+msgid "Retrieve those soldiers while they're still unconscious."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7970 (id 0xc5, record 0), budget 52 B
+#: gtt/0x1c0fb1c9/0x7970/0
+msgid "You need to use Fulton recovery on all the soldiers."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7970 (id 0xc5, record 0), budget 31 B
+#: gtt/0x1c0fb1c9/0x7970/1
+msgid "Be careful not to kill anybody."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7a40 (id 0xb7, record 0), budget 48 B
+#: gtt/0x1c0fb1c9/0x7a40/0
+msgid "Neutralize all the soldiers without killing them"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7a40 (id 0xb7, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x7a40/1
+msgid "and then use the Fulton recovery system."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7b00 (id 0x66, record 0), budget 35 B
+#: gtt/0x1c0fb1c9/0x7b00/0
+msgid "Looks like that soldier's out cold."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7b70 (id 0x7a, record 0), budget 33 B
+#: gtt/0x1c0fb1c9/0x7b70/0
+msgid "Try using Fulton recovery on 'em."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7bf0 (id 0x91, record 0), budget 64 B
+#: gtt/0x1c0fb1c9/0x7bf0/0
+msgid "You can't send a soldier with Fulton recovery after he wakes up."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7c90 (id 0xb5, record 0), budget 38 B
+#: gtt/0x1c0fb1c9/0x7c90/0
+msgid "If you do not hurry they will wake up."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7c90 (id 0xb5, record 0), budget 46 B
+#: gtt/0x1c0fb1c9/0x7c90/1
+msgid "The sooner you can whisk them away the better."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7d50 (id 0x77, record 0), budget 46 B
+#: gtt/0x1c0fb1c9/0x7d50/0
+msgid "Defend Mother Base! Shoot those missiles down!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7dd0 (id 0x7f, record 0), budget 62 B
+#: gtt/0x1c0fb1c9/0x7dd0/0
+msgid "Shoot down all incoming missiles! Everyone is counting on you!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7e50 (id 0xa6, record 0), budget 55 B
+#: gtt/0x1c0fb1c9/0x7e50/0
+msgid "We're going to lose Mother Base unless we do something!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7e50 (id 0xa6, record 0), budget 24 B
+#: gtt/0x1c0fb1c9/0x7e50/1
+msgid "Shoot the missiles down!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7f00 (id 0x5e, record 0), budget 27 B
+#: gtt/0x1c0fb1c9/0x7f00/0
+msgid "Neutralize all the thieves!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7f60 (id 0x90, record 0), budget 58 B
+#: gtt/0x1c0fb1c9/0x7f60/0
+msgid "You have to stop them! We can't let them take what's ours!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x7ff0 (id 0x72, record 0), budget 48 B
+#: gtt/0x1c0fb1c9/0x7ff0/0
+msgid "Hey, he took something from you! Go get it back!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8070 (id 0xb1, record 0), budget 34 B
+#: gtt/0x1c0fb1c9/0x8070/0
+msgid "Try and send some of the good ones"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8070 (id 0xb1, record 0), budget 32 B
+#: gtt/0x1c0fb1c9/0x8070/1
+msgid "back to us with Fulton recovery."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8130 (id 0x63, record 0), budget 42 B
+#: gtt/0x1c0fb1c9/0x8130/0
+msgid "There's still more of them! Hang in there!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x81a0 (id 0xba, record 0), budget 76 B
+#: gtt/0x1c0fb1c9/0x81a0/0
+msgid "As time goes on, they'll start sending better and better soldiers after you."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x81a0 (id 0xba, record 0), budget 18 B
+#: gtt/0x1c0fb1c9/0x81a0/1
+msgid "Stay on your toes."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8260 (id 0x7c, record 0), budget 56 B
+#: gtt/0x1c0fb1c9/0x8260/0
+msgid "Swarm tactics, eh... Not exactly logical, but effective."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x82e0 (id 0x54, record 0), budget 21 B
+#: gtt/0x1c0fb1c9/0x82e0/0
+msgid "Find Zadornov, Snake."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8340 (id 0x51, record 0), budget 17 B
+#: gtt/0x1c0fb1c9/0x8340/0
+msgid "Where's Zadornov?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x83a0 (id 0xb2, record 0), budget 31 B
+#: gtt/0x1c0fb1c9/0x83a0/0
+msgid "Check any out-of-the-way spots."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x83a0 (id 0xb2, record 0), budget 52 B
+#: gtt/0x1c0fb1c9/0x83a0/1
+msgid "I have a sneaking suspicion Zadornov's around there."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8460 (id 0x96, record 0), budget 66 B
+#: gtt/0x1c0fb1c9/0x8460/0
+msgid "There's only so many places to hide. Search every nook and cranny."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8500 (id 0x9a, record 0), budget 72 B
+#: gtt/0x1c0fb1c9/0x8500/0
+msgid "Where the hell'd Zadornov go this time? I'm sick of him and his \"walks\"!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x85a0 (id 0xcf, record 0), budget 45 B
+#: gtt/0x1c0fb1c9/0x85a0/0
+msgid "Thoroughly search every possible hiding spot."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x85a0 (id 0xcf, record 0), budget 45 B
+#: gtt/0x1c0fb1c9/0x85a0/1
+msgid "We're dealing with a real escape artist here."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8670 (id 0x77, record 0), budget 45 B
+#: gtt/0x1c0fb1c9/0x8670/0
+msgid "Does this guy have a Houdini complex or what?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x86f0 (id 0x7f, record 0), budget 53 B
+#: gtt/0x1c0fb1c9/0x86f0/0
+msgid "Good God, the man could swim his way out of Alcatraz."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8770 (id 0x69, record 0), budget 31 B
+#: gtt/0x1c0fb1c9/0x8770/0
+msgid "Search every inch of that area."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x87e0 (id 0x7b, record 0), budget 51 B
+#: gtt/0x1c0fb1c9/0x87e0/0
+msgid "I've got a feeling about that area... Keep looking."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8860 (id 0x7f, record 0), budget 61 B
+#: gtt/0x1c0fb1c9/0x8860/0
+msgid "If Zadornov's anywhere, it's gotta be there, don't you think?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x88e0 (id 0x7e, record 0), budget 35 B
+#: gtt/0x1c0fb1c9/0x88e0/0
+msgid "Zadornov's nearby! I can smell him!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8960 (id 0x6e, record 0), budget 44 B
+#: gtt/0x1c0fb1c9/0x8960/0
+msgid "I have a feeling he's around here somewhere."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x89d0 (id 0x78, record 0), budget 52 B
+#: gtt/0x1c0fb1c9/0x89d0/0
+msgid "Zadornov should be somewhere in that area. Find him."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8a50 (id 0x67, record 0), budget 37 B
+#: gtt/0x1c0fb1c9/0x8a50/0
+msgid "Zadornov is there. No doubt about it."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8ac0 (id 0x8c, record 0), budget 59 B
+#: gtt/0x1c0fb1c9/0x8ac0/0
+msgid "Find Zadornov and bring him back here with Fulton recovery."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8b50 (id 0x94, record 0), budget 63 B
+#: gtt/0x1c0fb1c9/0x8b50/0
+msgid "Once you've found Zadornov, send him back here with the Fulton."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8bf0 (id 0x6c, record 0), budget 34 B
+#: gtt/0x1c0fb1c9/0x8bf0/0
+msgid "Find him! Leave no stone unturned!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8c60 (id 0xc6, record 0), budget 63 B
+#: gtt/0x1c0fb1c9/0x8c60/0
+msgid "Rrrhh! You find that ugly Russian and bring his butt back here!"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8c60 (id 0xc6, record 0), budget 41 B
+#: gtt/0x1c0fb1c9/0x8c60/1
+msgid "I can't believe he tricked Paz like that."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8d30 (id 0x7f, record 0), budget 56 B
+#: gtt/0x1c0fb1c9/0x8d30/0
+msgid "You should have disposed of him when you had the chance."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8db0 (id 0x69, record 0), budget 40 B
+#: gtt/0x1c0fb1c9/0x8db0/0
+msgid "Bet you he's looking for adventure, too."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8e20 (id 0x77, record 0), budget 46 B
+#: gtt/0x1c0fb1c9/0x8e20/0
+msgid "Oh, Snake? Sorry, I'm a little busy right now."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8ea0 (id 0x89, record 0), budget 48 B
+#: gtt/0x1c0fb1c9/0x8ea0/0
+msgid "Any areas you haven't checked yet? Think hard..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8f30 (id 0xae, record 0), budget 65 B
+#: gtt/0x1c0fb1c9/0x8f30/0
+msgid "Hey, weren't you looking for something around there a while back?"
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8f30 (id 0xae, record 0), budget 14 B
+#: gtt/0x1c0fb1c9/0x8f30/1
+msgid "What was it..."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8fe0 (id 0xc9, record 0), budget 36 B
+#: gtt/0x1c0fb1c9/0x8fe0/0
+msgid "Oh, right! The truck with the nukes."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x8fe0 (id 0xc9, record 0), budget 66 B
+#: gtt/0x1c0fb1c9/0x8fe0/1
+msgid "You were checking the backs of all the conspicuous-looking trucks."
+msgstr ""
+
+#. GTT pool 0x1c0fb1c9 block 0x90b0 (id 0x78, record 0), budget 52 B
+#: gtt/0x1c0fb1c9/0x90b0/0
+msgid "Zadornov's inside one of the trucks. I'm sure of it."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x0 (id 0xb1, record 204), budget 45 B
+#: gtt/0x1c677285/0x0/0
+msgid "Careful. If there's enemy scouts around here,"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x0 (id 0xb1, record 204), budget 36 B
+#: gtt/0x1c677285/0x0/1
+msgid "they'll be nearly impossible to see."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0xc0 (id 0x8d, record 204), budget 68 B
+#: gtt/0x1c677285/0xc0/0
+msgid "Keep your eyes peeled. Enemy scouts could be hiding almost anywhere."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x150 (id 0x8d, record 204), budget 70 B
+#: gtt/0x1c677285/0x150/0
+msgid "Watch out. Enemy Search may not spot enemies that are actively hidden."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1e0 (id 0x8c, record 204), budget 69 B
+#: gtt/0x1c677285/0x1e0/0
+msgid "The Surround Indicator is also effective for spotting hidden enemies."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x270 (id 0x92, record 204), budget 72 B
+#: gtt/0x1c677285/0x270/0
+msgid "A fall from there would be certain death...even for a superman like you."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x310 (id 0x7b, record 204), budget 51 B
+#: gtt/0x1c677285/0x310/0
+msgid "Look at that... Mother Nature's paintbrush at work."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x390 (id 0xa5, record 204), budget 33 B
+#: gtt/0x1c677285/0x390/0
+msgid "That pile of rubble's in the way,"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x390 (id 0xa5, record 204), budget 41 B
+#: gtt/0x1c677285/0x390/1
+msgid "but some C4 should make short work of it."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x440 (id 0x10c, record 204), budget 35 B
+#: gtt/0x1c677285/0x440/0
+msgid "Some scouts are really hard to spot"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x440 (id 0x10c, record 204), budget 56 B
+#: gtt/0x1c677285/0x440/1
+msgid "because they use grass or dirt to camouflage themselves."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x440 (id 0x10c, record 204), budget 50 B
+#: gtt/0x1c677285/0x440/2
+msgid "They blend right in with the natural surroundings."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x550 (id 0xc1, record 204), budget 65 B
+#: gtt/0x1c677285/0x550/0
+msgid "You'll be difficult to spot in the jungle wearing a Ghillie suit."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x550 (id 0xc1, record 204), budget 23 B
+#: gtt/0x1c677285/0x550/1
+msgid "Become one with nature."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x620 (id 0xd9, record 204), budget 66 B
+#: gtt/0x1c677285/0x620/0
+msgid "That flower that looks like a crab's claw is Heliconia Latispatha."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x620 (id 0xd9, record 204), budget 51 B
+#: gtt/0x1c677285/0x620/1
+msgid "Hummingbirds will often come to drink their nectar."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x700 (id 0x93, record 204), budget 68 B
+#: gtt/0x1c677285/0x700/0
+msgid "You can't get into the lab without an ID card. Go back and find one."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x7a0 (id 0x6e, record 204), budget 42 B
+#: gtt/0x1c677285/0x7a0/0
+msgid "You need to get yourself an ID card first."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x810 (id 0xc2, record 204), budget 34 B
+#: gtt/0x1c677285/0x810/0
+msgid "Find the soldier with the ID card."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x810 (id 0xc2, record 204), budget 51 B
+#: gtt/0x1c677285/0x810/1
+msgid "The soldier is in the woods near a singing quetzal."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x8e0 (id 0x72, record 204), budget 45 B
+#: gtt/0x1c677285/0x8e0/0
+msgid "Ruins?! Think there's treasure hidden inside?"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x960 (id 0xc4, record 204), budget 78 B
+#: gtt/0x1c677285/0x960/0
+msgid "It'd be nice if I could cobble together a high-performance portable radar unit"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x960 (id 0xc4, record 204), budget 28 B
+#: gtt/0x1c677285/0x960/1
+msgid "for you here at Mother Base."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0xa30 (id 0x8f, record 204), budget 72 B
+#: gtt/0x1c677285/0xa30/0
+msgid "Sighting enemies would be a cinch with a pair of night vision goggles..."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0xac0 (id 0x69, record 204), budget 27 B
+#: gtt/0x1c677285/0xac0/0
+msgid "Shame you left them behind."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0xb30 (id 0x7d, record 204), budget 52 B
+#: gtt/0x1c677285/0xb30/0
+msgid "Snipers and laser sights are a deadly combination..."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0xbb0 (id 0x5c, record 204), budget 29 B
+#: gtt/0x1c677285/0xbb0/0
+msgid "Watch out for the red lasers."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0xc10 (id 0x59, record 204), budget 26 B
+#: gtt/0x1c677285/0xc10/0
+msgid "They've got a bead on you!"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0xc70 (id 0x85, record 204), budget 54 B
+#: gtt/0x1c677285/0xc70/0
+msgid "There may be snipers hidden in the jungle. Be careful."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0xd00 (id 0x6e, record 204), budget 53 B
+#: gtt/0x1c677285/0xd00/0
+msgid "If anything looks suspicious out there, check it out."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0xd70 (id 0x80, record 204), budget 55 B
+#: gtt/0x1c677285/0xd70/0
+msgid "A good sniper changes position as soon as he's spotted."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0xdf0 (id 0x7e, record 204), budget 60 B
+#: gtt/0x1c677285/0xdf0/0
+msgid "Be ready for an ambush. There's too many hiding places here."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0xe70 (id 0x75, record 204), budget 44 B
+#: gtt/0x1c677285/0xe70/0
+msgid "There could be enemies anywhere. Stay sharp."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0xef0 (id 0xca, record 204), budget 40 B
+#: gtt/0x1c677285/0xef0/0
+msgid "There's supposed to be a quetzal singing"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0xef0 (id 0xca, record 204), budget 59 B
+#: gtt/0x1c677285/0xef0/1
+msgid "close to where your target is located. Keep your ears open."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0xfc0 (id 0xc3, record 204), budget 41 B
+#: gtt/0x1c677285/0xfc0/0
+msgid "If you forget what a quetzal sounds like,"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0xfc0 (id 0xc3, record 204), budget 51 B
+#: gtt/0x1c677285/0xfc0/1
+msgid "give Cecile a CALL on the radio. She'll remind you."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1090 (id 0x9c, record 204), budget 32 B
+#: gtt/0x1c677285/0x1090/0
+msgid "The soldier carrying the ID card"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1090 (id 0x9c, record 204), budget 43 B
+#: gtt/0x1c677285/0x1090/1
+msgid "is supposed to be wearing an orange jacket."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1130 (id 0x81, record 204), budget 65 B
+#: gtt/0x1c677285/0x1130/0
+msgid "Make sure you don't kill the soldier when you do your body check."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x11c0 (id 0x80, record 204), budget 61 B
+#: gtt/0x1c677285/0x11c0/0
+msgid "Once you know which soldier has the ID card, do a body check."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1240 (id 0xdc, record 204), budget 68 B
+#: gtt/0x1c677285/0x1240/0
+msgid "To do a body check, first knock the soldier out or put him to sleep."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1240 (id 0xdc, record 204), budget 32 B
+#: gtt/0x1c677285/0x1240/1
+msgid "Or hold him up - that works too."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1320 (id 0x79, record 204), budget 57 B
+#: gtt/0x1c677285/0x1320/0
+msgid "Need a reminder of that quetzal call, hmm? Kyohhh kyohhh."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x13a0 (id 0x6d, record 204), budget 52 B
+#: gtt/0x1c677285/0x13a0/0
+msgid "Kyohhh kyohhh... That is what a quetzal sounds like."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1410 (id 0x62, record 204), budget 40 B
+#: gtt/0x1c677285/0x1410/0
+msgid "Kyohhh kyohhh. ...Well? Pretty good, hm?"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1480 (id 0x8e, record 204), budget 23 B
+#: gtt/0x1c677285/0x1480/0
+msgid "Oink, oink! Oink, oink!"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1480 (id 0x8e, record 204), budget 21 B
+#: gtt/0x1c677285/0x1480/1
+msgid "Oops, that was a pig!"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1510 (id 0x79, record 204), budget 49 B
+#: gtt/0x1c677285/0x1510/0
+msgid "There he is! That is the man who took my ID card!"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1590 (id 0x7e, record 204), budget 56 B
+#: gtt/0x1c677285/0x1590/0
+msgid "Yes...that is definitely the quetzal. He must be nearby!"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1610 (id 0x77, record 204), budget 45 B
+#: gtt/0x1c677285/0x1610/0
+msgid "Now look for a soldier with an orange jacket."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1690 (id 0x78, record 204), budget 52 B
+#: gtt/0x1c677285/0x1690/0
+msgid "What you are hearing is the Rufous-collared Sparrow."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1710 (id 0x74, record 204), budget 47 B
+#: gtt/0x1c677285/0x1710/0
+msgid "The quetzal sounds like this -- kyoooh, kyoooh!"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1790 (id 0x5d, record 204), budget 36 B
+#: gtt/0x1c677285/0x1790/0
+msgid "That is the sound of the House Wren."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x17f0 (id 0x6d, record 204), budget 52 B
+#: gtt/0x1c677285/0x17f0/0
+msgid "I believe that is perhaps...the Common Yellowthroat."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1860 (id 0x52, record 204), budget 18 B
+#: gtt/0x1c677285/0x1860/0
+msgid "Snake, pick it up!"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x18c0 (id 0xb2, record 204), budget 49 B
+#: gtt/0x1c677285/0x18c0/0
+msgid "You'll have to unequip the Fulton recovery device"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x18c0 (id 0xb2, record 204), budget 29 B
+#: gtt/0x1c677285/0x18c0/1
+msgid "before you do the body check."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1980 (id 0xc9, record 204), budget 54 B
+#: gtt/0x1c677285/0x1980/0
+msgid "You wouldn't want to accidentally do a Fulton recovery"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1980 (id 0xc9, record 204), budget 24 B
+#: gtt/0x1c677285/0x1980/1
+msgid "instead of a body check."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1bd0 (id 0x83, record 204), budget 63 B
+#: gtt/0x1c677285/0x1bd0/0
+msgid "Guess this one didn't have the ID card after all. Keep looking."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1c60 (id 0x8b, record 204), budget 25 B
+#: gtt/0x1c677285/0x1c60/0
+msgid "He did not have the card?"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1c60 (id 0x8b, record 204), budget 32 B
+#: gtt/0x1c677285/0x1c60/1
+msgid "It couldn't have been him, then."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1cf0 (id 0x87, record 204), budget 60 B
+#: gtt/0x1c677285/0x1cf0/0
+msgid "I could have sworn it was him... Maybe it was somebody else?"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1d80 (id 0x8b, record 204), budget 63 B
+#: gtt/0x1c677285/0x1d80/0
+msgid "Guess that wasn't the one. I'm not hearing the quetzal, either."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1e10 (id 0x8a, record 204), budget 63 B
+#: gtt/0x1c677285/0x1e10/0
+msgid "I bet you could use that ID card you found to get into the lab."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1ea0 (id 0x6a, record 204), budget 36 B
+#: gtt/0x1c677285/0x1ea0/0
+msgid "That card will get you into the lab."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1f10 (id 0x69, record 204), budget 46 B
+#: gtt/0x1c677285/0x1f10/0
+msgid "Kyohhh kyohhh. ...Hm? Oh, have you had enough?"
+msgstr ""

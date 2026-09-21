@@ -67,6 +67,22 @@ msgstr ""
 """
 
 
+# One remark per corpus, written once at the top of its files.  Anything that
+# applies to every single entry belongs here, not in the per-entry `#.` lines:
+# those are repeated once per slot and drown the file.
+NOTES = {
+    "gtt": """\
+GTT: in-mission radio and hint lines, from the GTT pools of SLOT.DAT
+(ANALYSIS/11).  Two rules for every entry here:
+  - the translation is written IN PLACE, so it must not be longer in bytes
+    than the English line -- the `budget N B` on each entry is that limit,
+    and `po_lint` fails the build with `gtt-budget` when it is exceeded;
+  - the game stores a line break as a two-character `\\n`, so keep the same
+    number of lines as the source.
+""",
+}
+
+
 # ------------------------------------------------------------------ po writing
 
 def po_escape(s: str) -> str:
@@ -102,9 +118,12 @@ def po_comment(tag: str, text: str) -> str:
 
 
 def write_po(path: Path, entries: list, part: str, source: str,
-             translations: dict = None) -> None:
+             translations: dict = None, note: str = None) -> None:
     translations = translations or {}
     lines = [HEADER.format(part=part, source=source, count=len(entries))]
+    if note:
+        # one corpus-level remark, instead of repeating it on all N entries
+        lines[0] += "\n".join(f"# {t}" for t in note.strip().splitlines()) + "\n"
     for e in entries:
         block = []
         for c in e["comments"]:
@@ -316,6 +335,58 @@ def collect_stage(ref_langs=REF_LANGS, pixel: bool = False) -> list:
     return out
 
 
+def collect_gtt() -> list:
+    """The GTT pools of SLOT.DAT (ANALYSIS/11): in-mission radio / hint lines.
+
+    462 pools in records 0..365 -- text no other corpus has: the briefing,
+    radio and advice lines that play while you are in a mission.  It only came
+    to light because `slotdat_find_res_entry` @ 0x1400A61F0 filters resource
+    ids to the 0x20000000 class and these pools are 0x1c??????.
+
+    Source is `_gtt_lines.tsv`, the product of `python -m pwsf.gtt`.
+
+    WRITABLE, with a limit: `pwsf.slotdat_build` patches the pools in place, so
+    a translation may not be longer in bytes than the English line -- see
+    `po_lint`'s `gtt-budget` and ANALYSIS/11 §5.
+    """
+    from . import gtt
+    from .slotdat import unescape
+
+    path = config.GTT_TSV
+    if not path.is_file():
+        raise SystemExit(f"{path} is missing; run `python -m pwsf.gtt` first")
+    rows = path.read_text(encoding="utf-8").splitlines()
+    col = {n: i for i, n in enumerate(rows[0].split("\t"))}
+
+    out, seen = [], set()
+    for r in rows[1:]:
+        c = r.split("\t")
+        if len(c) <= col["text"]:
+            continue
+        key = (int(c[col["pool"]], 0), int(c[col["block"]], 0),
+               int(c[col["line"]]))
+        if key in seen:
+            continue
+        seen.add(key)
+        en = unescape(c[col["text"]]).replace("\\n", "\n")
+        if not en.strip():
+            continue
+        budget = int(c[col["budget"]])
+        comments = [f"GTT pool {key[0]:#010x} block {key[1]:#x} "
+                    f"(id {c[col['ident']]}, record {c[col['record']]}), "
+                    f"budget {budget} B"]
+        out.append(dict(ref=str(slots.GttRef(*key)), msgid=en, budget=budget,
+                        comments=comments, sort=key))
+    out.sort(key=lambda e: e["sort"])
+    # msgid -> budget, so main() can refuse to carry a translation that the
+    # in-place write-back cannot hold (ANALYSIS/11 §5)
+    collect_gtt.budgets = {e["msgid"]: e["budget"] for e in out if "budget" in e}
+    return out
+
+
+collect_gtt.budgets = {}
+
+
 def merge(records: list, do_merge: bool) -> list:
     """Collapse records that share an msgid, keeping every reference."""
     merged = OrderedDict()
@@ -377,6 +448,11 @@ def main() -> None:
                     help="export the olang tables packed inside STAGEDAT "
                          "(default all; read-only: pwsf cannot write them back "
                          "yet, see ANALYSIS/09 §4)")
+    ap.add_argument("--gtt", choices=("all", "none"), default="all",
+                    help="export the GTT pools of SLOT.DAT: in-mission radio "
+                         "and hint lines, ANALYSIS/11 (default all; written in "
+                         "place, so a translation may not be longer than the "
+                         "English line)")
     ap.add_argument("--fresh", action="store_true",
                     help="do not carry over msgstr from the existing .po files")
     ap.add_argument("--pixel-font", action="store_true",
@@ -410,6 +486,8 @@ def main() -> None:
                                              args.pixel_font)))
     if args.stage != "none":
         corpora.append(("stage", collect_stage(ref_langs, args.pixel_font)))
+    if args.gtt != "none":
+        corpora.append(("gtt", collect_gtt()))
     if not args.pixel_font:
         print(f"left out {len(slots.pixel_font_refs())} pixel-font slot(s) "
               f"(key.meta == 1: drawn with the ASCII-only 512x512 atlas in "
@@ -423,6 +501,19 @@ def main() -> None:
     all_entries = []
     written = set()
     for name, records in corpora:
+        # GTT is written in place, so a carried-over translation the line
+        # cannot hold is dropped instead of re-created on every export
+        use = carry
+        if name == "gtt" and carry:
+            from . import gtt as _gtt
+            budget = getattr(collect_gtt, "budgets", {})
+            use = {k: v for k, v in carry.items()
+                   if k not in budget
+                   or len(_gtt.to_game_text(v)) <= budget[k]}
+            dropped = len(carry) - len(use)
+            if dropped:
+                print(f"gtt: {dropped} carried translation(s) dropped: they "
+                      f"do not fit the line's budget (ANALYSIS/11 §5)")
         entries = merge(records, do_merge)
         all_entries += entries
         parts = chunk(entries, args.chunk)
@@ -430,7 +521,8 @@ def main() -> None:
               f"{' (merged)' if do_merge else ''} -> {len(parts)} files")
         for i, part in enumerate(parts, 1):
             fn = args.outdir / name / f"{name}_{i:02d}.po"
-            write_po(fn, part, f"{name} {i}/{len(parts)}", name, carry)
+            write_po(fn, part, f"{name} {i}/{len(parts)}", name, use,
+                     note=NOTES.get(name))
             written.add(fn)
             refs = sum(len(e["refs"]) for e in part)
             chars = sum(len(e["msgid"]) for e in part)

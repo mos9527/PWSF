@@ -187,6 +187,8 @@ CUTSCENE_TSV = ANALYSIS_DIR / "_cutscene_lines.tsv"
 # olang tables carried inside STAGEDAT (009645fa.PDT), ANALYSIS/09 §4,
 # written by pwsf.stage
 STAGE_OLANG_TSV = ANALYSIS_DIR / "_stage_olang_lines.tsv"
+# GTT pools of SLOT.DAT: the in-mission radio / hint lines (ANALYSIS/11)
+GTT_TSV = ANALYSIS_DIR / "_gtt_lines.tsv"
 
 # --------------------------------------------------------------- font build
 

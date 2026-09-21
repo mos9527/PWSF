@@ -1,0 +1,2055 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PWSF gtt 5/6\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-PWSF-Source: gtt\n"
+"X-PWSF-Entries: 400\n"
+# GTT: in-mission radio and hint lines, from the GTT pools of SLOT.DAT
+# (ANALYSIS/11).  Two rules for every entry here:
+#   - the translation is written IN PLACE, so it must not be longer in bytes
+#     than the English line -- the `budget N B` on each entry is that limit,
+#     and `po_lint` fails the build with `gtt-budget` when it is exceeded;
+#   - the game stores a line break as a two-character `\n`, so keep the same
+#     number of lines as the source.
+
+
+#. GTT pool 0x1c7a730b block 0x1c0 (id 0xba, record 300), budget 31 B
+#: gtt/0x1c7a730b/0x1c0/0
+msgid "Those docks are well appointed."
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0x1c0 (id 0xba, record 300), budget 52 B
+#: gtt/0x1c7a730b/0x1c0/1
+msgid "They'd be great as a base for outfitting AI weapons."
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0x280 (id 0xb0, record 300), budget 24 B
+#: gtt/0x1c7a730b/0x280/0
+msgid "That dock is enormous..."
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0x280 (id 0xb0, record 300), budget 60 B
+#: gtt/0x1c7a730b/0x280/1
+msgid "Just imagine if los nicos had access to something like that."
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0x330 (id 0xb5, record 300), budget 20 B
+#: gtt/0x1c7a730b/0x330/0
+msgid "That place is crazy."
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0x330 (id 0xb5, record 300), budget 57 B
+#: gtt/0x1c7a730b/0x330/1
+msgid "I'm fine in the woods, but I'd get lost there in no time."
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0x3f0 (id 0xc4, record 300), budget 50 B
+#: gtt/0x1c7a730b/0x3f0/0
+msgid "The security is tighter around the central region."
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0x3f0 (id 0xc4, record 300), budget 38 B
+#: gtt/0x1c7a730b/0x3f0/1
+msgid "Might be best to find another route..."
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0x4c0 (id 0xbd, record 300), budget 41 B
+#: gtt/0x1c7a730b/0x4c0/0
+msgid "Looks like this is the end of the road..."
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0x4c0 (id 0xbd, record 300), budget 46 B
+#: gtt/0x1c7a730b/0x4c0/1
+msgid "Head for the communications tower to the west."
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0x580 (id 0x63, record 300), budget 36 B
+#: gtt/0x1c7a730b/0x580/0
+msgid "Your objective lies beyond the gate."
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0x5f0 (id 0xc5, record 300), budget 52 B
+#: gtt/0x1c7a730b/0x5f0/0
+msgid "I'm seeing a heavy enemy presence on the other bank."
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0x5f0 (id 0xc5, record 300), budget 57 B
+#: gtt/0x1c7a730b/0x5f0/1
+msgid "Proceed with caution - you've still got a long way to go."
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0x850 (id 0x8f, record 300), budget 58 B
+#: gtt/0x1c7a730b/0x850/0
+msgid "Don't let them launch that nuke! Get to the control tower!"
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0x8e0 (id 0x7e, record 300), budget 58 B
+#: gtt/0x1c7a730b/0x8e0/0
+msgid "Those poor seabirds... Snake, you have to stop the launch!"
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0x960 (id 0x5b, record 300), budget 27 B
+#: gtt/0x1c7a730b/0x960/0
+msgid "Head for the control tower!"
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0xb50 (id 0x9a, record 300), budget 62 B
+#: gtt/0x1c7a730b/0xb50/0
+msgid "Chaff, that's it! Use a chaff grenade to shut that thing down!"
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0xbf0 (id 0xc0, record 300), budget 70 B
+#: gtt/0x1c7a730b/0xbf0/0
+msgid "That thing has to hover in mid-air occasionally to acquire its target."
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0xbf0 (id 0xc0, record 300), budget 14 B
+#: gtt/0x1c7a730b/0xbf0/1
+msgid "Shoot it then!"
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0xcb0 (id 0xac, record 300), budget 42 B
+#: gtt/0x1c7a730b/0xcb0/0
+msgid "Weapons that cause electronic interference"
+msgstr ""
+
+#. GTT pool 0x1c7a730b block 0xcb0 (id 0xac, record 300), budget 25 B
+#: gtt/0x1c7a730b/0xcb0/1
+msgid "should also be effective!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x0 (id 0xbd, record 342), budget 39 B
+#: gtt/0x1c7a734b/0x0/0
+msgid "Put Mother Base's gun platforms to use."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x0 (id 0xbd, record 342), budget 45 B
+#: gtt/0x1c7a734b/0x0/1
+msgid "The control panel is on the edge of the deck."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0xc0 (id 0xd3, record 342), budget 47 B
+#: gtt/0x1c7a734b/0xc0/0
+msgid "We've got more than one gun platform, you know."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0xc0 (id 0xd3, record 342), budget 58 B
+#: gtt/0x1c7a734b/0xc0/1
+msgid "They each have different attacks - use 'em your advantage!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1a0 (id 0x86, record 342), budget 47 B
+#: gtt/0x1c7a734b/0x1a0/0
+msgid "ZEKE's getting distracted by the gun platforms!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x2a0 (id 0x9a, record 342), budget 61 B
+#: gtt/0x1c7a734b/0x2a0/0
+msgid "The gun platforms won't last long at this rate! Do something!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x340 (id 0x85, record 342), budget 48 B
+#: gtt/0x1c7a734b/0x340/0
+msgid "That cannon's taken a beating! It's useless now!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x3d0 (id 0x8d, record 342), budget 62 B
+#: gtt/0x1c7a734b/0x3d0/0
+msgid "ZEKE's armor is thinner in some areas. Aim for the weak spots!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x460 (id 0x57, record 342), budget 19 B
+#: gtt/0x1c7a734b/0x460/0
+msgid "Aim for the AI pod!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x4c0 (id 0x88, record 342), budget 55 B
+#: gtt/0x1c7a734b/0x4c0/0
+msgid "The gun platform's back up and running! It's all yours!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x550 (id 0x73, record 342), budget 48 B
+#: gtt/0x1c7a734b/0x550/0
+msgid "The rocket launcher's reloaded. Let 'em have it!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x5d0 (id 0x7e, record 342), budget 57 B
+#: gtt/0x1c7a734b/0x5d0/0
+msgid "Supplies are loaded in the transport catapult. Fire away!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x650 (id 0x74, record 342), budget 48 B
+#: gtt/0x1c7a734b/0x650/0
+msgid "Anti-ship missile is loaded and ready to launch!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x6d0 (id 0x7e, record 342), budget 44 B
+#: gtt/0x1c7a734b/0x6d0/0
+msgid "Anti-ground missile is armed. Give 'em hell!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x750 (id 0x9a, record 342), budget 55 B
+#: gtt/0x1c7a734b/0x750/0
+msgid "The gun platforms are already in use. Hold on a minute."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x7f0 (id 0x8b, record 342), budget 60 B
+#: gtt/0x1c7a734b/0x7f0/0
+msgid "That platform's been badly damaged. We're working on it now."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x880 (id 0x73, record 342), budget 40 B
+#: gtt/0x1c7a734b/0x880/0
+msgid "It's out of ammo. Wait for it to reload!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x900 (id 0x8c, record 342), budget 64 B
+#: gtt/0x1c7a734b/0x900/0
+msgid "You can't use the support strike marker. The target's too close."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x990 (id 0x63, record 342), budget 35 B
+#: gtt/0x1c7a734b/0x990/0
+msgid "Use the control panels on the deck."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0xa00 (id 0xbf, record 342), budget 21 B
+#: gtt/0x1c7a734b/0xa00/0
+msgid "Tag the target first."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0xa00 (id 0xbf, record 342), budget 70 B
+#: gtt/0x1c7a734b/0xa00/1
+msgid "Press up against a wall and press <I=ATK> while doing an Enemy Search."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0xac0 (id 0xc0, record 342), budget 68 B
+#: gtt/0x1c7a734b/0xac0/1
+msgid "Press up against a wall and press <I=ETAG> while doing Enemy Search."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0xb80 (id 0xa9, record 342), budget 28 B
+#: gtt/0x1c7a734b/0xb80/0
+msgid "Strike request acknowledged."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0xb80 (id 0xa9, record 342), budget 42 B
+#: gtt/0x1c7a734b/0xb80/1
+msgid "We'll need you to tag the target directly."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0xc30 (id 0x88, record 342), budget 59 B
+#: gtt/0x1c7a734b/0xc30/0
+msgid "First, make sure you're safe by pressing up against a wall."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0xcc0 (id 0xbb, record 342), budget 50 B
+#: gtt/0x1c7a734b/0xcc0/0
+msgid "Then do <I=ESEARCH> to locate the enemy's position"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0xcc0 (id 0xbb, record 342), budget 29 B
+#: gtt/0x1c7a734b/0xcc0/1
+msgid "and press <I=ATK> to tag 'em."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0xd80 (id 0xbc, record 342), budget 30 B
+#: gtt/0x1c7a734b/0xd80/1
+msgid "and press <I=ETAG> to tag 'em."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0xe40 (id 0x5c, record 342), budget 30 B
+#: gtt/0x1c7a734b/0xe40/0
+msgid "Rocket launcher ready to fire!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0xea0 (id 0x67, record 342), budget 35 B
+#: gtt/0x1c7a734b/0xea0/0
+msgid "Transport catapult ready to launch!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0xf10 (id 0x63, record 342), budget 32 B
+#: gtt/0x1c7a734b/0xf10/0
+msgid "Anti-ship missile ready to fire!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0xf80 (id 0x6c, record 342), budget 50 B
+#: gtt/0x1c7a734b/0xf80/0
+msgid "Surface-to-surface guided missile ready to launch!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0xff0 (id 0x55, record 342), budget 23 B
+#: gtt/0x1c7a734b/0xff0/0
+msgid "Locked on target! FIRE!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1050 (id 0x64, record 342), budget 34 B
+#: gtt/0x1c7a734b/0x1050/0
+msgid "Target confirmed! Commence attack!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x10c0 (id 0x64, record 342), budget 32 B
+#: gtt/0x1c7a734b/0x10c0/0
+msgid "Target acknowledged! Bombs away!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1130 (id 0x89, record 342), budget 59 B
+#: gtt/0x1c7a734b/0x1130/0
+msgid "We can't fire from that position. Use a different platform."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x11c0 (id 0x7d, record 342), budget 63 B
+#: gtt/0x1c7a734b/0x11c0/0
+msgid "Do you have a target or not? We're aborting the strike for now."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1240 (id 0x83, record 342), budget 65 B
+#: gtt/0x1c7a734b/0x1240/0
+msgid "You've gotta give the order to fire from the control panel first."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x12d0 (id 0xc8, record 342), budget 39 B
+#: gtt/0x1c7a734b/0x12d0/0
+msgid "We've activated the hatches up on deck."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x12d0 (id 0xc8, record 342), budget 50 B
+#: gtt/0x1c7a734b/0x12d0/1
+msgid "You can use them as cover so long as they're open."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x13a0 (id 0x7c, record 342), budget 53 B
+#: gtt/0x1c7a734b/0x13a0/0
+msgid "You have to stop Paz before she can launch that nuke!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1420 (id 0x91, record 342), budget 14 B
+#: gtt/0x1c7a734b/0x1420/0
+msgid "She was a spy?"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1420 (id 0x91, record 342), budget 32 B
+#: gtt/0x1c7a734b/0x1420/1
+msgid "How could we have been so blind?"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x14c0 (id 0xbd, record 342), budget 45 B
+#: gtt/0x1c7a734b/0x14c0/0
+msgid "This is no AI - that thing has a human pilot!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x14c0 (id 0xbd, record 342), budget 48 B
+#: gtt/0x1c7a734b/0x14c0/1
+msgid "It's gonna be a hell of a lot harder to predict!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1580 (id 0xb7, record 342), budget 36 B
+#: gtt/0x1c7a734b/0x1580/0
+msgid "Don't worry about collateral damage!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1580 (id 0xb7, record 342), budget 45 B
+#: gtt/0x1c7a734b/0x1580/1
+msgid "You have to destroy ZEKE - it's the only way!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1640 (id 0x91, record 342), budget 59 B
+#: gtt/0x1c7a734b/0x1640/0
+msgid "Focus on the battle! If your mind wanders, you're finished."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x16e0 (id 0xa8, record 342), budget 68 B
+#: gtt/0x1c7a734b/0x16e0/0
+msgid "I had a funny feeling about that girl, but to think she was a spy..."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1790 (id 0x76, record 342), budget 32 B
+#: gtt/0x1c7a734b/0x1790/0
+msgid "Paz... And to think I liked you."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1810 (id 0x99, record 342), budget 62 B
+#: gtt/0x1c7a734b/0x1810/0
+msgid "I even told her we should go birdwatching together sometime..."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x18b0 (id 0x77, record 342), budget 56 B
+#: gtt/0x1c7a734b/0x18b0/0
+msgid "I always thought it was strange, her having that tape..."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1930 (id 0xc4, record 342), budget 29 B
+#: gtt/0x1c7a734b/0x1930/0
+msgid "My ZEKE... No, it can't be..."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1930 (id 0xc4, record 342), budget 53 B
+#: gtt/0x1c7a734b/0x1930/1
+msgid "Are all deterrents destined to be used like this...?!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1a00 (id 0x67, record 342), budget 36 B
+#: gtt/0x1c7a734b/0x1a00/0
+msgid "Paz...how could you be so foolish..."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1a70 (id 0x57, record 342), budget 26 B
+#: gtt/0x1c7a734b/0x1a70/0
+msgid "Paz, I...no, never mind..."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1ad0 (id 0x65, record 342), budget 27 B
+#: gtt/0x1c7a734b/0x1ad0/0
+msgid "Snake! Try not to hurt her!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1b40 (id 0x56, record 342), budget 18 B
+#: gtt/0x1c7a734b/0x1b40/0
+msgid "Don't let Paz die!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1ba0 (id 0x60, record 342), budget 28 B
+#: gtt/0x1c7a734b/0x1ba0/0
+msgid "Please, make sure Paz is OK!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1c00 (id 0x6a, record 342), budget 26 B
+#: gtt/0x1c7a734b/0x1c00/0
+msgid "Tranqs won't work on ZEKE!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1c70 (id 0x98, record 342), budget 62 B
+#: gtt/0x1c7a734b/0x1c70/0
+msgid "Make sure your teammates don't get hit by any support strikes."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1d10 (id 0xb5, record 342), budget 57 B
+#: gtt/0x1c7a734b/0x1d10/0
+msgid "Going CO-OP In with ZEKE will supplement your LIFE Gauge."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1d10 (id 0xb5, record 342), budget 25 B
+#: gtt/0x1c7a734b/0x1d10/1
+msgid "Use it to your advantage."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1dd0 (id 0x7f, record 342), budget 53 B
+#: gtt/0x1c7a734b/0x1dd0/0
+msgid "You know you can give ZEKE orders in CO-OPS, as well."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1e50 (id 0xeb, record 342), budget 35 B
+#: gtt/0x1c7a734b/0x1e50/0
+msgid "To tag a target for ZEKE to attack,"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1e50 (id 0xeb, record 342), budget 40 B
+#: gtt/0x1c7a734b/0x1e50/1
+msgid "do <I=ESEARCH> to zoom in on the target,"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x1e50 (id 0xeb, record 342), budget 18 B
+#: gtt/0x1c7a734b/0x1e50/2
+msgid "then push <I=ATK>."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x2000 (id 0xba, record 342), budget 39 B
+#: gtt/0x1c7a734b/0x2000/0
+msgid "ZEKE's actions are controlled by an AI."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x2000 (id 0xba, record 342), budget 37 B
+#: gtt/0x1c7a734b/0x2000/1
+msgid "So it might not always follow orders."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x20c0 (id 0xb0, record 342), budget 32 B
+#: gtt/0x1c7a734b/0x20c0/0
+msgid "We've got guests in Mother Base!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x20c0 (id 0xb0, record 342), budget 48 B
+#: gtt/0x1c7a734b/0x20c0/1
+msgid "Activate ZEKE and take care of them immediately!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x2170 (id 0xa3, record 342), budget 46 B
+#: gtt/0x1c7a734b/0x2170/0
+msgid "We've successfully infiltrated the enemy base!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x2170 (id 0xa3, record 342), budget 26 B
+#: gtt/0x1c7a734b/0x2170/1
+msgid "Neutralize all opposition!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x2220 (id 0x7b, record 342), budget 46 B
+#: gtt/0x1c7a734b/0x2220/0
+msgid "If you fail, we could all be taken prisoner..."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x22a0 (id 0xdf, record 342), budget 63 B
+#: gtt/0x1c7a734b/0x22a0/0
+msgid "This is only a mock battle. Nothing is going to happen to ZEKE."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x22a0 (id 0xdf, record 342), budget 62 B
+#: gtt/0x1c7a734b/0x22a0/1
+msgid "It may appear to become damaged, but that is all in your head."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x2380 (id 0xcf, record 342), budget 34 B
+#: gtt/0x1c7a734b/0x2380/0
+msgid "This is a mock battle. Don't worry"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x2380 (id 0xcf, record 342), budget 63 B
+#: gtt/0x1c7a734b/0x2380/1
+msgid "- you won't actually be doing any damage to ZEKE. So fire away."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x2450 (id 0x89, record 342), budget 62 B
+#: gtt/0x1c7a734b/0x2450/0
+msgid "ZEKE's AI pod is sealed tightly. There's no way to get inside."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x24e0 (id 0xe3, record 342), budget 47 B
+#: gtt/0x1c7a734b/0x24e0/0
+msgid "The Pupa head uses a lot of electrical attacks."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x24e0 (id 0xe3, record 342), budget 55 B
+#: gtt/0x1c7a734b/0x24e0/1
+msgid "You can reduce the damage by wearing the Sneaking Suit."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x25d0 (id 0x102, record 342), budget 50 B
+#: gtt/0x1c7a734b/0x25d0/0
+msgid "The Cocoon head is specialized for cannon attacks."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x25d0 (id 0x102, record 342), budget 47 B
+#: gtt/0x1c7a734b/0x25d0/1
+msgid "The Battle Dress uniform might be your best bet"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x25d0 (id 0x102, record 342), budget 31 B
+#: gtt/0x1c7a734b/0x25d0/2
+msgid "- it's got the highest defense."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x26e0 (id 0xd2, record 342), budget 58 B
+#: gtt/0x1c7a734b/0x26e0/0
+msgid "The Chrysalis head is especially good at tracking targets!"
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x26e0 (id 0xd2, record 342), budget 64 B
+#: gtt/0x1c7a734b/0x26e0/1
+msgid "You're going to want to wear something with a high camo index..."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x27c0 (id 0xa9, record 342), budget 35 B
+#: gtt/0x1c7a734b/0x27c0/0
+msgid "That gun platform's been destroyed."
+msgstr ""
+
+#. GTT pool 0x1c7a734b block 0x27c0 (id 0xa9, record 342), budget 30 B
+#: gtt/0x1c7a734b/0x27c0/1
+msgid "We're working on repairing it."
+msgstr ""
+
+#. GTT pool 0x1c7af20b block 0x0 (id 0x72, record 102), budget 38 B
+#: gtt/0x1c7af20b/0x0/0
+msgid "Looks like you're inside the compound."
+msgstr ""
+
+#. GTT pool 0x1c7af20b block 0x80 (id 0x7a, record 102), budget 30 B
+#: gtt/0x1c7af20b/0x80/0
+msgid "Security is tight. Stay sharp."
+msgstr ""
+
+#. GTT pool 0x1c7af20b block 0x100 (id 0x65, record 102), budget 44 B
+#: gtt/0x1c7af20b/0x100/0
+msgid ""
+"Your objective is the\n"
+"building to the east."
+msgstr ""
+
+#. GTT pool 0x1c7af20b block 0x170 (id 0x8f, record 102), budget 63 B
+#: gtt/0x1c7af20b/0x170/0
+msgid ""
+"Head for the building to the east.\n"
+"We need intel on that base."
+msgstr ""
+
+#. GTT pool 0x1c7af20b block 0x200 (id 0x76, record 102), budget 58 B
+#: gtt/0x1c7af20b/0x200/0
+msgid ""
+"Infiltrate the facility on the\n"
+"east side of the compound."
+msgstr ""
+
+#. GTT pool 0x1c7af20b block 0x280 (id 0x70, record 102), budget 53 B
+#: gtt/0x1c7af20b/0x280/0
+msgid ""
+"You're looking for a two-story\n"
+"building to the east."
+msgstr ""
+
+#. GTT pool 0x1c7af20b block 0x370 (id 0x6b, record 102), budget 50 B
+#: gtt/0x1c7af20b/0x370/0
+msgid ""
+"A cardboard box?\n"
+"What are you gonna use that for?"
+msgstr ""
+
+#. GTT pool 0x1c7af20b block 0x3e0 (id 0xaf, record 102), budget 24 B
+#: gtt/0x1c7af20b/0x3e0/0
+msgid "While you're lying down,"
+msgstr ""
+
+#. GTT pool 0x1c7af20b block 0x3e0 (id 0xaf, record 102), budget 50 B
+#: gtt/0x1c7af20b/0x3e0/1
+msgid "try doing <I=ESEARCH> to check for enemy presence."
+msgstr ""
+
+#. GTT pool 0x1c7af20b block 0x490 (id 0x7a, record 102), budget 61 B
+#: gtt/0x1c7af20b/0x490/0
+msgid "You can do the same thing when you're pressed against a wall."
+msgstr ""
+
+#. GTT pool 0x1c7af24b block 0x0 (id 0x92, record 156), budget 75 B
+#: gtt/0x1c7af24b/0x0/0
+msgid "Looks like we're just in time. Neutralize all enemies and secure the train!"
+msgstr ""
+
+#. GTT pool 0x1c7af24b block 0xa0 (id 0x77, record 156), budget 47 B
+#: gtt/0x1c7af24b/0xa0/0
+msgid "Those tracks are from el basilisco. Be careful."
+msgstr ""
+
+#. GTT pool 0x1c7af24b block 0x120 (id 0x6b, record 156), budget 46 B
+#: gtt/0x1c7af24b/0x120/0
+msgid "El basilisco is at least 30 vara (80 ft) tall."
+msgstr ""
+
+#. GTT pool 0x1c7af24b block 0x190 (id 0x80, record 156), budget 56 B
+#: gtt/0x1c7af24b/0x190/0
+msgid "You saw those tracks. I don't have to tell you it's big."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x0 (id 0xc6, record 264), budget 55 B
+#: gtt/0x1c7af2cb/0x0/0
+msgid "The enemy's still on high alert after that last tangle."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x0 (id 0xc6, record 264), budget 26 B
+#: gtt/0x1c7af2cb/0x0/1
+msgid "Don't get yourself caught."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0xd0 (id 0x76, record 264), budget 37 B
+#: gtt/0x1c7af2cb/0xd0/0
+msgid "Careful now. Security's pretty tight."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x150 (id 0x6c, record 264), budget 42 B
+#: gtt/0x1c7af2cb/0x150/0
+msgid "That elevator should take you underground."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x1c0 (id 0x8c, record 264), budget 68 B
+#: gtt/0x1c7af2cb/0x1c0/0
+msgid "They left the elevator practically unguarded. It's wide open, Snake!"
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x250 (id 0x6f, record 264), budget 44 B
+#: gtt/0x1c7af2cb/0x250/0
+msgid "Peace Walker's down there. Use the elevator."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x2c0 (id 0x7a, record 264), budget 58 B
+#: gtt/0x1c7af2cb/0x2c0/0
+msgid "To use the elevator, press <I=ACT> in front of the switch."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x340 (id 0x93, record 264), budget 61 B
+#: gtt/0x1c7af2cb/0x340/0
+msgid "Hide until the elevator arrives. Don't let anyone detect you."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x3e0 (id 0xc3, record 264), budget 59 B
+#: gtt/0x1c7af2cb/0x3e0/0
+msgid "It's too risky to use the elevator during a state of alert!"
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x3e0 (id 0xc3, record 264), budget 37 B
+#: gtt/0x1c7af2cb/0x3e0/1
+msgid "Wait until things cool down a little."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x4b0 (id 0xd3, record 264), budget 71 B
+#: gtt/0x1c7af2cb/0x4b0/0
+msgid "No it's NOT a good idea to ride the elevator when the enemy's seen you!"
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x4b0 (id 0xd3, record 264), budget 26 B
+#: gtt/0x1c7af2cb/0x4b0/1
+msgid "Get your ass out of sight!"
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x590 (id 0xc4, record 264), budget 49 B
+#: gtt/0x1c7af2cb/0x590/0
+msgid "It's gonna be tough getting onto that elevator..."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x590 (id 0xc4, record 264), budget 44 B
+#: gtt/0x1c7af2cb/0x590/1
+msgid "Can you see any other way to get downstairs?"
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x660 (id 0x8e, record 264), budget 63 B
+#: gtt/0x1c7af2cb/0x660/0
+msgid "Looks like the door won't open with the security level so high."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x6f0 (id 0xb6, record 264), budget 34 B
+#: gtt/0x1c7af2cb/0x6f0/0
+msgid "That thing's pretty high up there."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x6f0 (id 0xb6, record 264), budget 64 B
+#: gtt/0x1c7af2cb/0x6f0/1
+msgid "If you were that high, you might be able to spot hidden enemies."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x7b0 (id 0xb9, record 264), budget 36 B
+#: gtt/0x1c7af2cb/0x7b0/0
+msgid "That tank is tall like el basilisco."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x7b0 (id 0xb9, record 264), budget 56 B
+#: gtt/0x1c7af2cb/0x7b0/1
+msgid "I bet if you climbed on top you'd get a real clear view."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x870 (id 0xb6, record 264), budget 50 B
+#: gtt/0x1c7af2cb/0x870/0
+msgid "It's going to be tough getting near that elevator."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x870 (id 0xb6, record 264), budget 27 B
+#: gtt/0x1c7af2cb/0x870/1
+msgid "Can't you find another way?"
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x930 (id 0x69, record 264), budget 31 B
+#: gtt/0x1c7af2cb/0x930/0
+msgid "Maybe that leads underground..."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x9a0 (id 0x9f, record 264), budget 25 B
+#: gtt/0x1c7af2cb/0x9a0/0
+msgid "The elevator's too risky."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x9a0 (id 0x9f, record 264), budget 37 B
+#: gtt/0x1c7af2cb/0x9a0/1
+msgid "Use the stairway to get below ground."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0xa40 (id 0xa8, record 264), budget 40 B
+#: gtt/0x1c7af2cb/0xa40/0
+msgid "Is something wrong? Keep moving forward."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0xa40 (id 0xa8, record 264), budget 30 B
+#: gtt/0x1c7af2cb/0xa40/1
+msgid "And careful not to get caught."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0xaf0 (id 0x69, record 264), budget 27 B
+#: gtt/0x1c7af2cb/0xaf0/0
+msgid "Push the door! Use <I=ACT>!"
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0xb60 (id 0x66, record 264), budget 36 B
+#: gtt/0x1c7af2cb/0xb60/0
+msgid "Push <I=ACT> to open those shutters!"
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0xbd0 (id 0x6a, record 264), budget 34 B
+#: gtt/0x1c7af2cb/0xbd0/0
+msgid "Tap <I=ACT> when the icon appears."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0xc40 (id 0x97, record 264), budget 60 B
+#: gtt/0x1c7af2cb/0xc40/0
+msgid "These are all... I had no idea they made so many AI weapons."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0xce0 (id 0xc5, record 264), budget 51 B
+#: gtt/0x1c7af2cb/0xce0/0
+msgid "That must be the control panel for loading AI pods."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0xce0 (id 0xc5, record 264), budget 41 B
+#: gtt/0x1c7af2cb/0xce0/1
+msgid "I don't see any AI pods around, though..."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0xdb0 (id 0x87, record 264), budget 62 B
+#: gtt/0x1c7af2cb/0xdb0/0
+msgid "So now your goal's to destroy Peace Walker's AI pod. ...Right?"
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0xe40 (id 0x83, record 264), budget 50 B
+#: gtt/0x1c7af2cb/0xe40/0
+msgid "Find Peace Walker's hangar and destroy the AI pod."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0xed0 (id 0x85, record 264), budget 76 B
+#: gtt/0x1c7af2cb/0xed0/0
+msgid "The hangar where they're storing Peace Walker must be around here somewhere."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0xf60 (id 0x94, record 264), budget 21 B
+#: gtt/0x1c7af2cb/0xf60/0
+msgid "Time's running short."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0xf60 (id 0x94, record 264), budget 38 B
+#: gtt/0x1c7af2cb/0xf60/1
+msgid "Get over to Peace Walker's hangar now."
+msgstr ""
+
+#. GTT pool 0x1c7af2cb block 0x1000 (id 0x76, record 264), budget 52 B
+#: gtt/0x1c7af2cb/0x1000/0
+msgid "They're prepping Peace Walker for activation. Hurry!"
+msgstr ""
+
+#. GTT pool 0x1c7af30b block 0x0 (id 0xa1, record 306), budget 49 B
+#: gtt/0x1c7af30b/0x0/0
+msgid "The control tower that's controlling Peace Walker"
+msgstr ""
+
+#. GTT pool 0x1c7af30b block 0x0 (id 0xa1, record 306), budget 28 B
+#: gtt/0x1c7af30b/0x0/1
+msgid "is located to the northeast."
+msgstr ""
+
+#. GTT pool 0x1c7af30b block 0xb0 (id 0x8c, record 306), budget 58 B
+#: gtt/0x1c7af30b/0xb0/0
+msgid "Go back east the way you came. Then head north from there."
+msgstr ""
+
+#. GTT pool 0x1c7af30b block 0x140 (id 0x7a, record 306), budget 49 B
+#: gtt/0x1c7af30b/0x140/0
+msgid "Careful now. There's almost nowhere to hide here."
+msgstr ""
+
+#. GTT pool 0x1c7af30b block 0x1c0 (id 0x81, record 306), budget 59 B
+#: gtt/0x1c7af30b/0x1c0/0
+msgid "I do not like it, Boss... This place is ripe for an ambush."
+msgstr ""
+
+#. GTT pool 0x1c7af30b block 0x250 (id 0x7f, record 306), budget 54 B
+#: gtt/0x1c7af30b/0x250/0
+msgid "You see the control tower, right?! Keep moving! Hurry!"
+msgstr ""
+
+#. GTT pool 0x1c7af30b block 0x2d0 (id 0x5d, record 306), budget 25 B
+#: gtt/0x1c7af30b/0x2d0/0
+msgid "The control tower! Hurry!"
+msgstr ""
+
+#. GTT pool 0x1c7af30b block 0x330 (id 0x8c, record 306), budget 52 B
+#: gtt/0x1c7af30b/0x330/0
+msgid "Watch your step, Snake. You won't survive that fall."
+msgstr ""
+
+#. GTT pool 0x1c7af30b block 0x3c0 (id 0x70, record 306), budget 41 B
+#: gtt/0x1c7af30b/0x3c0/0
+msgid "Be careful. Birds can fly, but we cannot."
+msgstr ""
+
+#. GTT pool 0x1c7af30b block 0x430 (id 0xbe, record 306), budget 58 B
+#: gtt/0x1c7af30b/0x430/0
+msgid "Don't fall in... unless of course you have rocket boosters"
+msgstr ""
+
+#. GTT pool 0x1c7af30b block 0x430 (id 0xbe, record 306), budget 31 B
+#: gtt/0x1c7af30b/0x430/1
+msgid "on your uniform or something..."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x0 (id 0x8a, record 108), budget 54 B
+#: gtt/0x1c7b720b/0x0/0
+msgid ""
+"Head for the FSLN boathouse.\n"
+"It's northwest of there."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x90 (id 0xb0, record 108), budget 40 B
+#: gtt/0x1c7b720b/0x90/0
+msgid "You can use the radio you just picked up"
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x90 (id 0xb0, record 108), budget 20 B
+#: gtt/0x1c7b720b/0x90/1
+msgid "by opening the menu."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x140 (id 0x7e, record 108), budget 40 B
+#: gtt/0x1c7b720b/0x140/0
+msgid "Use the radio by going to the Radio tab."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x1c0 (id 0x8d, record 108), budget 74 B
+#: gtt/0x1c7b720b/0x1c0/0
+msgid "A truck from that costal facility. Hmm... But it's not carrying any cargo."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x250 (id 0x67, record 108), budget 40 B
+#: gtt/0x1c7b720b/0x250/0
+msgid "It's locked. You can't get inside there."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x2c0 (id 0x91, record 108), budget 67 B
+#: gtt/0x1c7b720b/0x2c0/0
+msgid "That fence seems pretty sturdy...I doubt you could bust through it."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x360 (id 0x77, record 108), budget 43 B
+#: gtt/0x1c7b720b/0x360/0
+msgid "Amanda went across that rope bridge. Hurry."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x3e0 (id 0x91, record 108), budget 67 B
+#: gtt/0x1c7b720b/0x3e0/0
+msgid "You might be able to get past the enemy by hanging from the bridge."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x480 (id 0x85, record 108), budget 49 B
+#: gtt/0x1c7b720b/0x480/0
+msgid "Press <I=ACT> near the bridge's handrail to hang."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x510 (id 0x6f, record 108), budget 42 B
+#: gtt/0x1c7b720b/0x510/0
+msgid "You can't hang down when you're crouching."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x580 (id 0xed, record 108), budget 57 B
+#: gtt/0x1c7b720b/0x580/0
+msgid "The yellow butterflies around there are Juno Silverspots."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x580 (id 0xed, record 108), budget 74 B
+#: gtt/0x1c7b720b/0x580/1
+msgid "They apparently eat poisonous leaves and store the poison in their bodies."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x670 (id 0xb9, record 108), budget 45 B
+#: gtt/0x1c7b720b/0x670/0
+msgid "The river there runs down from the mountains."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x670 (id 0xb9, record 108), budget 41 B
+#: gtt/0x1c7b720b/0x670/1
+msgid "It's pretty deep - even big ships use it."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x730 (id 0x94, record 108), budget 70 B
+#: gtt/0x1c7b720b/0x730/0
+msgid "Their waste fills the river too... This cannot be allowed to continue."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x7d0 (id 0x88, record 108), budget 57 B
+#: gtt/0x1c7b720b/0x7d0/0
+msgid "Maybe they move cargo from the coast over the waterway..."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x860 (id 0xb1, record 108), budget 29 B
+#: gtt/0x1c7b720b/0x860/0
+msgid "Whenever I look at the water,"
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x860 (id 0xb1, record 108), budget 47 B
+#: gtt/0x1c7b720b/0x860/1
+msgid "I always get this feeling of dread. Wonder why."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x920 (id 0x87, record 108), budget 58 B
+#: gtt/0x1c7b720b/0x920/0
+msgid "Dinosaur footprints? Nah, must be some sort of large bird."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0x9b0 (id 0x6b, record 108), budget 41 B
+#: gtt/0x1c7b720b/0x9b0/0
+msgid "A dinosaur footprint... It's that island!"
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0xa20 (id 0x76, record 108), budget 42 B
+#: gtt/0x1c7b720b/0xa20/0
+msgid "Look at that... A real dinosaur footprint!"
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0xaa0 (id 0x84, record 108), budget 55 B
+#: gtt/0x1c7b720b/0xaa0/0
+msgid "Look, we can talk about it later. Focus on the mission!"
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0xb30 (id 0x86, record 108), budget 66 B
+#: gtt/0x1c7b720b/0xb30/0
+msgid "That almost looks like a dinosaur's footprint. What could have...?"
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0xbc0 (id 0x72, record 108), budget 44 B
+#: gtt/0x1c7b720b/0xbc0/0
+msgid "The boathouse is to the east. Head eastward."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0xc40 (id 0x63, record 108), budget 33 B
+#: gtt/0x1c7b720b/0xc40/0
+msgid "Head for the FSLN hideout, Snake."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0xcb0 (id 0xc1, record 108), budget 42 B
+#: gtt/0x1c7b720b/0xcb0/0
+msgid "Amanda should be over in the supply depot."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0xcb0 (id 0xc1, record 108), budget 43 B
+#: gtt/0x1c7b720b/0xcb0/1
+msgid "Check what's left of the banana plantation."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0xd80 (id 0x67, record 108), budget 39 B
+#: gtt/0x1c7b720b/0xd80/0
+msgid "Snake, try to make contact with Amanda."
+msgstr ""
+
+#. GTT pool 0x1c7b720b block 0xdf0 (id 0x87, record 108), budget 62 B
+#: gtt/0x1c7b720b/0xdf0/0
+msgid "Amanda should be at the supply depot on the banana plantation."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x0 (id 0x65, record 174), budget 32 B
+#: gtt/0x1c7b724b/0x0/0
+msgid "Cross the bridge and head north."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x70 (id 0xcf, record 174), budget 30 B
+#: gtt/0x1c7b724b/0x70/0
+msgid "I can see the transport route."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x70 (id 0xcf, record 174), budget 74 B
+#: gtt/0x1c7b724b/0x70/1
+msgid "And it seems the truck that we saw at the train terminal used it recently."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x140 (id 0xbc, record 174), budget 23 B
+#: gtt/0x1c7b724b/0x140/0
+msgid "See the opposite shore?"
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x140 (id 0xbc, record 174), budget 56 B
+#: gtt/0x1c7b724b/0x140/1
+msgid "That's the route the truck took from the train terminal."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x200 (id 0x81, record 174), budget 54 B
+#: gtt/0x1c7b724b/0x200/0
+msgid "You can use the walkway along the water main to cross."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x290 (id 0x70, record 174), budget 55 B
+#: gtt/0x1c7b724b/0x290/0
+msgid "It's a two-level walkway, one path on top of the other."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x300 (id 0x8a, record 174), budget 66 B
+#: gtt/0x1c7b724b/0x300/0
+msgid "The upper route's falling apart, but the lower one should be fine."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x390 (id 0x70, record 174), budget 53 B
+#: gtt/0x1c7b724b/0x390/0
+msgid "You should be able to climb up there with two people."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x5a0 (id 0x83, record 174), budget 66 B
+#: gtt/0x1c7b724b/0x5a0/0
+msgid "Quick, while the enemy's not looking, hang down from the handrail."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x630 (id 0x80, record 174), budget 50 B
+#: gtt/0x1c7b724b/0x630/0
+msgid "I think I'd wet my pants if I had to cross that..."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x6b0 (id 0x84, record 174), budget 67 B
+#: gtt/0x1c7b724b/0x6b0/0
+msgid ""
+"Good, you've reached the\n"
+"transport route. Follow it to their base."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x740 (id 0x9f, record 174), budget 66 B
+#: gtt/0x1c7b724b/0x740/0
+msgid ""
+"That's a truck route you're on.\n"
+"Their base is up ahead. Move out."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x7e0 (id 0x77, record 174), budget 49 B
+#: gtt/0x1c7b724b/0x7e0/0
+msgid "Their base should be beyond that transport route."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x860 (id 0x66, record 174), budget 42 B
+#: gtt/0x1c7b724b/0x860/0
+msgid "None of us have ever been that far before."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x8d0 (id 0x7a, record 174), budget 61 B
+#: gtt/0x1c7b724b/0x8d0/0
+msgid ""
+"They've got the road blocked off.\n"
+"Think you can cut through?"
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x950 (id 0xa9, record 174), budget 61 B
+#: gtt/0x1c7b724b/0x950/0
+msgid ""
+"Damn, those guys are just hanging\n"
+"around that stopped truck."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0x950 (id 0xa9, record 174), budget 26 B
+#: gtt/0x1c7b724b/0x950/1
+msgid "You've got to cut through."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0xa00 (id 0xab, record 174), budget 37 B
+#: gtt/0x1c7b724b/0xa00/0
+msgid "There's a bunker on the mountainside."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0xa00 (id 0xab, record 174), budget 41 B
+#: gtt/0x1c7b724b/0xa00/1
+msgid "Put the odds in your favor by seizing it."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0xab0 (id 0xb6, record 174), budget 36 B
+#: gtt/0x1c7b724b/0xab0/0
+msgid "That bunker's in a perfect position."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0xab0 (id 0xb6, record 174), budget 49 B
+#: gtt/0x1c7b724b/0xab0/1
+msgid "The battle will be much easier if you capture it."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0xb70 (id 0x94, record 174), budget 62 B
+#: gtt/0x1c7b724b/0xb70/0
+msgid "Please, Snake. Make sure they can never use that bunker again."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0xc10 (id 0x91, record 174), budget 68 B
+#: gtt/0x1c7b724b/0xc10/0
+msgid "The enemy base is in the mountains to the north. Keep heading north."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0xcb0 (id 0x85, record 174), budget 68 B
+#: gtt/0x1c7b724b/0xcb0/0
+msgid "Looks like the entrance is on the mountainside. Better hurry, Snake."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0xd40 (id 0x71, record 174), budget 35 B
+#: gtt/0x1c7b724b/0xd40/0
+msgid "Even we have never been past there."
+msgstr ""
+
+#. GTT pool 0x1c7b724b block 0xdc0 (id 0x8b, record 174), budget 70 B
+#: gtt/0x1c7b724b/0xdc0/0
+msgid "There should be an entrance about halfway up the mountain. Be careful."
+msgstr ""
+
+#. GTT pool 0x1c7b72cb block 0x0 (id 0xc2, record 270), budget 55 B
+#: gtt/0x1c7b72cb/0x0/0
+msgid "That door won't open until the state of alert's lifted."
+msgstr ""
+
+#. GTT pool 0x1c7b72cb block 0x0 (id 0xc2, record 270), budget 21 B
+#: gtt/0x1c7b72cb/0x0/1
+msgid "Hang tight 'til then."
+msgstr ""
+
+#. GTT pool 0x1c7b72cb block 0x160 (id 0xc0, record 270), budget 76 B
+#: gtt/0x1c7b72cb/0x160/0
+msgid "Enemies that coordinate their attacks are too much trouble when you're solo."
+msgstr ""
+
+#. GTT pool 0x1c7b72cb block 0x160 (id 0xc0, record 270), budget 17 B
+#: gtt/0x1c7b72cb/0x160/1
+msgid "Just steer clear."
+msgstr ""
+
+#. GTT pool 0x1c7b730b block 0x0 (id 0xb6, record 312), budget 43 B
+#: gtt/0x1c7b730b/0x0/0
+msgid "This terrain leaves you completely exposed."
+msgstr ""
+
+#. GTT pool 0x1c7b730b block 0x0 (id 0xb6, record 312), budget 45 B
+#: gtt/0x1c7b730b/0x0/1
+msgid "Can't you make something to conceal yourself?"
+msgstr ""
+
+#. GTT pool 0x1c7b730b block 0xc0 (id 0x63, record 312), budget 30 B
+#: gtt/0x1c7b730b/0xc0/0
+msgid "RPGs... This could be trouble."
+msgstr ""
+
+#. GTT pool 0x1c7b730b block 0x130 (id 0x7c, record 312), budget 45 B
+#: gtt/0x1c7b730b/0x130/0
+msgid "Rocket launchers... Great, just what we need."
+msgstr ""
+
+#. GTT pool 0x1c7b730b block 0x1b0 (id 0xa0, record 312), budget 68 B
+#: gtt/0x1c7b730b/0x1b0/0
+msgid "Bet you could really screw the enemy over by dropping that bridge..."
+msgstr ""
+
+#. GTT pool 0x1c7b730b block 0x250 (id 0x77, record 312), budget 53 B
+#: gtt/0x1c7b730b/0x250/0
+msgid "Taking down that bridge could be to your advantage..."
+msgstr ""
+
+#. GTT pool 0x1c7b730b block 0x2d0 (id 0xc8, record 312), budget 42 B
+#: gtt/0x1c7b730b/0x2d0/0
+msgid "Are you trying to get killed?! Find cover!"
+msgstr ""
+
+#. GTT pool 0x1c7b730b block 0x2d0 (id 0xc8, record 312), budget 52 B
+#: gtt/0x1c7b730b/0x2d0/1
+msgid "There's gotta be something around there you can use!"
+msgstr ""
+
+#. GTT pool 0x1c7b730b block 0x7f0 (id 0x72, record 312), budget 46 B
+#: gtt/0x1c7b730b/0x7f0/0
+msgid "The control tower! Head for the control tower!"
+msgstr ""
+
+#. GTT pool 0x1c7bf20b block 0x0 (id 0xd6, record 114), budget 33 B
+#: gtt/0x1c7bf20b/0x0/0
+msgid "The boathouse should be close by."
+msgstr ""
+
+#. GTT pool 0x1c7bf20b block 0x0 (id 0xd6, record 114), budget 69 B
+#: gtt/0x1c7bf20b/0x0/1
+msgid ""
+"Neutralize the security detail and\n"
+"make contact with the comandante."
+msgstr ""
+
+#. GTT pool 0x1c7bf20b block 0xe0 (id 0x69, record 114), budget 47 B
+#: gtt/0x1c7bf20b/0xe0/0
+msgid ""
+"You'll have to neutralize all of\n"
+"those guards."
+msgstr ""
+
+#. GTT pool 0x1c7bf20b block 0x150 (id 0x6d, record 114), budget 46 B
+#: gtt/0x1c7bf20b/0x150/0
+msgid ""
+"Neutralize that security detail.\n"
+"All of them."
+msgstr ""
+
+#. GTT pool 0x1c7bf20b block 0x1c0 (id 0x8b, record 114), budget 70 B
+#: gtt/0x1c7bf20b/0x1c0/0
+msgid "Neutralize the soldiers. You might even tranquilize or knock them out."
+msgstr ""
+
+#. GTT pool 0x1c7bf20b block 0x250 (id 0x6f, record 114), budget 38 B
+#: gtt/0x1c7bf20b/0x250/0
+msgid "Another enemy soldier. Neutralize him."
+msgstr ""
+
+#. GTT pool 0x1c7bf20b block 0x2c0 (id 0x6c, record 114), budget 43 B
+#: gtt/0x1c7bf20b/0x2c0/0
+msgid "You've gotta take out those soldiers first!"
+msgstr ""
+
+#. GTT pool 0x1c7bf20b block 0x330 (id 0xa8, record 114), budget 31 B
+#: gtt/0x1c7bf20b/0x330/0
+msgid "They've got prisoners up above."
+msgstr ""
+
+#. GTT pool 0x1c7bf20b block 0x330 (id 0xa8, record 114), budget 51 B
+#: gtt/0x1c7bf20b/0x330/1
+msgid "But first, you'll have to deal with those soldiers."
+msgstr ""
+
+#. GTT pool 0x1c7bf20b block 0x3e0 (id 0x8e, record 114), budget 69 B
+#: gtt/0x1c7bf20b/0x3e0/0
+msgid ""
+"Good. Now, meet with the FSLN\n"
+"comandante. He's inside the boathouse."
+msgstr ""
+
+#. GTT pool 0x1c7bf20b block 0x470 (id 0x66, record 114), budget 43 B
+#: gtt/0x1c7bf20b/0x470/0
+msgid "Careful. They've got reinforcements coming."
+msgstr ""
+
+#. GTT pool 0x1c7bf20b block 0x4e0 (id 0xc3, record 114), budget 20 B
+#: gtt/0x1c7bf20b/0x4e0/0
+msgid "To use a gun turret,"
+msgstr ""
+
+#. GTT pool 0x1c7bf20b block 0x4e0 (id 0xc3, record 114), budget 61 B
+#: gtt/0x1c7bf20b/0x4e0/1
+msgid "get close enough so that an icon appears, then press <I=ACT>!"
+msgstr ""
+
+#. GTT pool 0x1c7bf20b block 0x5b0 (id 0x67, record 114), budget 37 B
+#: gtt/0x1c7bf20b/0x5b0/0
+msgid "Use <I=CAMERA> to aim at your target."
+msgstr ""
+
+#. GTT pool 0x1c7bf20b block 0x620 (id 0x7b, record 114), budget 43 B
+#: gtt/0x1c7bf20b/0x620/0
+msgid "Use <I=AIM> to zoom in and <I=ATK> to fire!"
+msgstr ""
+
+#. GTT pool 0x1c7bf20b block 0x780 (id 0x88, record 114), budget 54 B
+#: gtt/0x1c7bf20b/0x780/0
+msgid "Use <I=MACHINGUN_ZOOM> to zoom in and <I=ATK> to fire!"
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x0 (id 0x82, record 180), budget 65 B
+#: gtt/0x1c7bf24b/0x0/0
+msgid ""
+"The base is beyond that fort.\n"
+"You've got to get past it somehow."
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x90 (id 0x7b, record 180), budget 60 B
+#: gtt/0x1c7bf24b/0x90/0
+msgid ""
+"You have to get through that fort.\n"
+"Their base is beyond it."
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x110 (id 0x6a, record 180), budget 33 B
+#: gtt/0x1c7bf24b/0x110/0
+msgid "There may be snipers on the roof."
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x180 (id 0x55, record 180), budget 24 B
+#: gtt/0x1c7bf24b/0x180/0
+msgid "Look out for those guns!"
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x1e0 (id 0xc0, record 180), budget 51 B
+#: gtt/0x1c7bf24b/0x1e0/0
+msgid "Looks like there's ladder leading down to the fort."
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x1e0 (id 0xc0, record 180), budget 36 B
+#: gtt/0x1c7bf24b/0x1e0/1
+msgid "I'll bet security's extremely tight."
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x2a0 (id 0x6e, record 180), budget 46 B
+#: gtt/0x1c7bf24b/0x2a0/0
+msgid "Isn't there some other way besides the ladder?"
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x310 (id 0x67, record 180), budget 44 B
+#: gtt/0x1c7bf24b/0x310/0
+msgid "They will be watching those ladders closely."
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x380 (id 0xb4, record 180), budget 63 B
+#: gtt/0x1c7bf24b/0x380/0
+msgid "Charging in right through the center is asking for a firefight."
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x380 (id 0xb4, record 180), budget 18 B
+#: gtt/0x1c7bf24b/0x380/1
+msgid "Way too dangerous."
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x440 (id 0x65, record 180), budget 36 B
+#: gtt/0x1c7bf24b/0x440/0
+msgid "Isn't there any other way to get in?"
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x4b0 (id 0x97, record 180), budget 75 B
+#: gtt/0x1c7bf24b/0x4b0/0
+msgid "Can't you get in through there? I don't thinking climbing up's an option..."
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x550 (id 0x6f, record 180), budget 45 B
+#: gtt/0x1c7bf24b/0x550/0
+msgid "Can you get around to the outside from there?"
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x5c0 (id 0x83, record 180), budget 61 B
+#: gtt/0x1c7bf24b/0x5c0/0
+msgid "Is there a ledge between the basement and first floor levels?"
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x650 (id 0x84, record 180), budget 73 B
+#: gtt/0x1c7bf24b/0x650/0
+msgid "If you can find a handhold somewhere, you might be able to move along it."
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x6e0 (id 0x67, record 180), budget 42 B
+#: gtt/0x1c7bf24b/0x6e0/0
+msgid "Looks like you could get in from the side."
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x750 (id 0x65, record 180), budget 33 B
+#: gtt/0x1c7bf24b/0x750/0
+msgid "Can you make it there by hanging?"
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x7c0 (id 0x6a, record 180), budget 47 B
+#: gtt/0x1c7bf24b/0x7c0/0
+msgid "Great! It looks like you can get in from there!"
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x830 (id 0x6b, record 180), budget 34 B
+#: gtt/0x1c7bf24b/0x830/0
+msgid "Good, you're in. Keep going, Boss."
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x8a0 (id 0x90, record 180), budget 75 B
+#: gtt/0x1c7bf24b/0x8a0/0
+msgid "Once you get through there, you'll be at the enemy base. Keep going, Snake!"
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x930 (id 0x83, record 180), budget 59 B
+#: gtt/0x1c7bf24b/0x930/0
+msgid "You're almost at the enemy base. Just a little bit farther!"
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x9c0 (id 0xb2, record 180), budget 27 B
+#: gtt/0x1c7bf24b/0x9c0/0
+msgid "That's some camouflage job."
+msgstr ""
+
+#. GTT pool 0x1c7bf24b block 0x9c0 (id 0xb2, record 180), budget 60 B
+#: gtt/0x1c7bf24b/0x9c0/1
+msgid "You couldn't even see this place from the satellite shots..."
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x0 (id 0xa3, record 234), budget 23 B
+#: gtt/0x1c7bf28b/0x0/0
+msgid "Take out the Chrysalis!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x0 (id 0xa3, record 234), budget 51 B
+#: gtt/0x1c7bf28b/0x0/1
+msgid "That thing needs to be eliminated once and for all!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0xb0 (id 0x6a, record 234), budget 35 B
+#: gtt/0x1c7bf28b/0xb0/0
+msgid "Neutralize the Chrysalis AI weapon!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x120 (id 0x85, record 234), budget 43 B
+#: gtt/0x1c7bf28b/0x120/0
+msgid "Hit the hatch to the AI pod until it opens!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x1b0 (id 0x64, record 234), budget 22 B
+#: gtt/0x1c7bf28b/0x1b0/0
+msgid "Now! Board the AI pod!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x220 (id 0x5e, record 234), budget 28 B
+#: gtt/0x1c7bf28b/0x220/0
+msgid "Hit that thing with rockets!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x280 (id 0x8f, record 234), budget 64 B
+#: gtt/0x1c7bf28b/0x280/0
+msgid ""
+"Those rounds will chew through\n"
+"any wall you try to hide behind!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x310 (id 0x7b, record 234), budget 48 B
+#: gtt/0x1c7bf28b/0x310/0
+msgid ""
+"You have to shoot open the hatch\n"
+"on its AI pod!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x540 (id 0x76, record 234), budget 38 B
+#: gtt/0x1c7bf28b/0x540/0
+msgid ""
+"Use this chance to get in\n"
+"the AI pod!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x5c0 (id 0x57, record 234), budget 24 B
+#: gtt/0x1c7bf28b/0x5c0/0
+msgid "Tear out those AI parts!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x620 (id 0x6f, record 234), budget 39 B
+#: gtt/0x1c7bf28b/0x620/0
+msgid "Shake it off, Snake! Don't stop moving!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x690 (id 0x65, record 234), budget 27 B
+#: gtt/0x1c7bf28b/0x690/0
+msgid "Use <I=MOVE> to break free!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x770 (id 0x5c, record 234), budget 27 B
+#: gtt/0x1c7bf28b/0x770/0
+msgid "Shake it off with <I=MOVE>!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x830 (id 0x7b, record 234), budget 60 B
+#: gtt/0x1c7bf28b/0x830/0
+msgid "Watch out for those little UFOs! They'll try and snatch you!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x8b0 (id 0x62, record 234), budget 34 B
+#: gtt/0x1c7bf28b/0x8b0/0
+msgid "Use the terrain to your advantage!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x920 (id 0x83, record 234), budget 53 B
+#: gtt/0x1c7bf28b/0x920/0
+msgid "It would be suicide to attack now - focus on defense."
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x9b0 (id 0x62, record 234), budget 26 B
+#: gtt/0x1c7bf28b/0x9b0/0
+msgid "Think defensively for now!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0xa20 (id 0x5b, record 234), budget 26 B
+#: gtt/0x1c7bf28b/0xa20/0
+msgid "Now's your chance! Attack!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0xa80 (id 0x59, record 234), budget 23 B
+#: gtt/0x1c7bf28b/0xa80/0
+msgid "Now is your chance, Go!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0xae0 (id 0x65, record 234), budget 28 B
+#: gtt/0x1c7bf28b/0xae0/0
+msgid "Now's your chance to attack!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0xb50 (id 0xb1, record 234), budget 39 B
+#: gtt/0x1c7bf28b/0xb50/0
+msgid "That thing claimed many of my compas..."
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0xb50 (id 0xb1, record 234), budget 26 B
+#: gtt/0x1c7bf28b/0xb50/1
+msgid "Pay it back for me, Snake!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0xc10 (id 0x5f, record 234), budget 22 B
+#: gtt/0x1c7bf28b/0xc10/0
+msgid "Get him for me, Snake!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0xc70 (id 0xa6, record 234), budget 43 B
+#: gtt/0x1c7bf28b/0xc70/0
+msgid "That voice is similar to that of the person"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0xc70 (id 0xa6, record 234), budget 33 B
+#: gtt/0x1c7bf28b/0xc70/1
+msgid "who took care of me at the lab..."
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0xd20 (id 0x84, record 234), budget 66 B
+#: gtt/0x1c7bf28b/0xd20/0
+msgid "Fog's getting thick. Careful you don't lose sight of that chopper."
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0xdb0 (id 0xad, record 234), budget 33 B
+#: gtt/0x1c7bf28b/0xdb0/0
+msgid "The chopper had a red lamp on it."
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0xdb0 (id 0xad, record 234), budget 47 B
+#: gtt/0x1c7bf28b/0xdb0/1
+msgid "You should be able to see that through the fog."
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0xe60 (id 0x85, record 234), budget 55 B
+#: gtt/0x1c7bf28b/0xe60/0
+msgid "If you lose sight of the enemy, look for the red light!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0xef0 (id 0x9f, record 234), budget 76 B
+#: gtt/0x1c7bf28b/0xef0/0
+msgid "The Surround Indicator lets you locate enemies even when you can't see them."
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0xf90 (id 0x92, record 234), budget 73 B
+#: gtt/0x1c7bf28b/0xf90/0
+msgid "Use the Surround Indicator to help you get a fix on the enemy's position!"
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x18f0 (id 0x73, record 234), budget 33 B
+#: gtt/0x1c7bf28b/0x18f0/0
+msgid "Boss...you can't change the past."
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x1970 (id 0x58, record 234), budget 31 B
+#: gtt/0x1c7bf28b/0x1970/0
+msgid "That's such a beautiful flower."
+msgstr ""
+
+#. GTT pool 0x1c7bf28b block 0x19d0 (id 0x69, record 234), budget 37 B
+#: gtt/0x1c7bf28b/0x19d0/0
+msgid "Stars of Bethlehem... I planted them."
+msgstr ""
+
+#. GTT pool 0x1c7bf2cb block 0x0 (id 0x87, record 276), budget 42 B
+#: gtt/0x1c7bf2cb/0x0/0
+msgid "Alright, Peace Walker can't be far! Hurry!"
+msgstr ""
+
+#. GTT pool 0x1c7bf2cb block 0x90 (id 0xce, record 276), budget 59 B
+#: gtt/0x1c7bf2cb/0x90/0
+msgid "Maybe a little elbow grease will get those shutters open..."
+msgstr ""
+
+#. GTT pool 0x1c7bf2cb block 0x90 (id 0xce, record 276), budget 39 B
+#: gtt/0x1c7bf2cb/0x90/1
+msgid "Try tapping <I=ACT> as fast as you can!"
+msgstr ""
+
+#. GTT pool 0x1c7bf2cb block 0x160 (id 0xbd, record 276), budget 55 B
+#: gtt/0x1c7bf2cb/0x160/0
+msgid "Maybe a little elbow grease will open those shutters..."
+msgstr ""
+
+#. GTT pool 0x1c7bf2cb block 0x160 (id 0xbd, record 276), budget 20 B
+#: gtt/0x1c7bf2cb/0x160/1
+msgid "Try tapping <I=ACT>!"
+msgstr ""
+
+#. GTT pool 0x1c7bf2cb block 0x290 (id 0x5f, record 276), budget 30 B
+#: gtt/0x1c7bf2cb/0x290/0
+msgid "Open the shutter with <I=ACT>!"
+msgstr ""
+
+#. GTT pool 0x1c7bf2cb block 0x360 (id 0x65, record 276), budget 35 B
+#: gtt/0x1c7bf2cb/0x360/0
+msgid "Press <I=ACT> to open the shutters!"
+msgstr ""
+
+#. GTT pool 0x1c7bf2cb block 0x3d0 (id 0xae, record 276), budget 39 B
+#: gtt/0x1c7bf2cb/0x3d0/0
+msgid "Peace Walker's behind those shutters..."
+msgstr ""
+
+#. GTT pool 0x1c7bf2cb block 0x3d0 (id 0xae, record 276), budget 38 B
+#: gtt/0x1c7bf2cb/0x3d0/1
+msgid "This is it. Push <I=ACT> to open them."
+msgstr ""
+
+#. GTT pool 0x1c7bf2cb block 0x480 (id 0xa6, record 276), budget 30 B
+#: gtt/0x1c7bf2cb/0x480/0
+msgid "Peace Walker is just up ahead."
+msgstr ""
+
+#. GTT pool 0x1c7bf2cb block 0x480 (id 0xa6, record 276), budget 37 B
+#: gtt/0x1c7bf2cb/0x480/1
+msgid "Open the shutters and proceed inside."
+msgstr ""
+
+#. GTT pool 0x1c7bf2cb block 0x530 (id 0xc2, record 276), budget 41 B
+#: gtt/0x1c7bf2cb/0x530/0
+msgid "So much for the frontal approach... Wait,"
+msgstr ""
+
+#. GTT pool 0x1c7bf2cb block 0x530 (id 0xc2, record 276), budget 49 B
+#: gtt/0x1c7bf2cb/0x530/1
+msgid "what if you got behind them from the upstairs...?"
+msgstr ""
+
+#. GTT pool 0x1c7bf2cb block 0x600 (id 0x97, record 276), budget 69 B
+#: gtt/0x1c7bf2cb/0x600/0
+msgid "Nice, Snake! From here it's a straight shot to Peace Walker's hangar!"
+msgstr ""
+
+#. GTT pool 0x1c7bf2cb block 0x6a0 (id 0xd7, record 276), budget 66 B
+#: gtt/0x1c7bf2cb/0x6a0/0
+msgid "That was some crazy button tapping, Snake! I knew you could do it!"
+msgstr ""
+
+#. GTT pool 0x1c7bf2cb block 0x6a0 (id 0xd7, record 276), budget 46 B
+#: gtt/0x1c7bf2cb/0x6a0/1
+msgid "Only a little bit further to Peace Walker now!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x0 (id 0x6b, record 318), budget 40 B
+#: gtt/0x1c7bf30b/0x0/0
+msgid "Remember what it does before it charges!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x70 (id 0x66, record 318), budget 34 B
+#: gtt/0x1c7bf30b/0x70/0
+msgid "The world is in your hands, Snake!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x160 (id 0x57, record 318), budget 18 B
+#: gtt/0x1c7bf30b/0x160/0
+msgid "Be careful, Snake!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x1c0 (id 0x90, record 318), budget 52 B
+#: gtt/0x1c7bf30b/0x1c0/0
+msgid "Evade those horizontal jumps by rolling to the side."
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x250 (id 0x46, record 318), budget 10 B
+#: gtt/0x1c7bf30b/0x250/0
+msgid "Careful..."
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x2a0 (id 0x9a, record 318), budget 34 B
+#: gtt/0x1c7bf30b/0x2a0/0
+msgid "Looks like she does a sweep attack"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x2a0 (id 0x9a, record 318), budget 29 B
+#: gtt/0x1c7bf30b/0x2a0/1
+msgid "right after throwing a punch!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x340 (id 0x6a, record 318), budget 34 B
+#: gtt/0x1c7bf30b/0x340/0
+msgid "Move forward or backward to dodge!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x3b0 (id 0x76, record 318), budget 49 B
+#: gtt/0x1c7bf30b/0x3b0/0
+msgid "The basilisk's poison turns its victims to stone."
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x430 (id 0x6a, record 318), budget 33 B
+#: gtt/0x1c7bf30b/0x430/0
+msgid "El basilisco is truly fearsome..."
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x4a0 (id 0x69, record 318), budget 23 B
+#: gtt/0x1c7bf30b/0x4a0/0
+msgid "Use <I=MOVE> to resist!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x510 (id 0x51, record 318), budget 14 B
+#: gtt/0x1c7bf30b/0x510/0
+msgid "You can do it!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x5e0 (id 0x5a, record 318), budget 24 B
+#: gtt/0x1c7bf30b/0x5e0/0
+msgid "Have your partner shoot!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x640 (id 0x7d, record 318), budget 52 B
+#: gtt/0x1c7bf30b/0x640/0
+msgid "Duck behind the warehouse when it's about to charge!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x6c0 (id 0x86, record 318), budget 62 B
+#: gtt/0x1c7bf30b/0x6c0/0
+msgid "Those drill missiles burrow underground to reach their target."
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x750 (id 0x75, record 318), budget 52 B
+#: gtt/0x1c7bf30b/0x750/0
+msgid "Take out those missiles before they go below ground!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x7d0 (id 0x63, record 318), budget 40 B
+#: gtt/0x1c7bf30b/0x7d0/0
+msgid "Keep an eye on where it's going to land!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x840 (id 0x66, record 318), budget 34 B
+#: gtt/0x1c7bf30b/0x840/0
+msgid "It can fire rockets behind itself."
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x8b0 (id 0x73, record 318), budget 49 B
+#: gtt/0x1c7bf30b/0x8b0/0
+msgid "Try to get a read on its rockets' firing pattern."
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x930 (id 0x8d, record 318), budget 50 B
+#: gtt/0x1c7bf30b/0x930/0
+msgid "When that cluster bomb hatch opens, run like hell!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x9c0 (id 0x64, record 318), budget 23 B
+#: gtt/0x1c7bf30b/0x9c0/0
+msgid "Aim for the leg joints!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0xa30 (id 0x93, record 318), budget 72 B
+#: gtt/0x1c7bf30b/0xa30/0
+msgid "It's leaking electromagnetic radiation. The missiles aren't operational."
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0xad0 (id 0xa5, record 318), budget 28 B
+#: gtt/0x1c7bf30b/0xad0/0
+msgid "The missiles won't work now."
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0xad0 (id 0xa5, record 318), budget 39 B
+#: gtt/0x1c7bf30b/0xad0/1
+msgid "It's leaking electromagnetic radiation."
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0xc00 (id 0x4e, record 318), budget 21 B
+#: gtt/0x1c7bf30b/0xc00/0
+msgid "Keep it up, everyone!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0xc50 (id 0x73, record 318), budget 52 B
+#: gtt/0x1c7bf30b/0xc50/0
+msgid "How could anyone possibly throw a monster like that?"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0xcd0 (id 0x4f, record 318), budget 18 B
+#: gtt/0x1c7bf30b/0xcd0/0
+msgid "It is a miracle..."
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0xd90 (id 0xa3, record 318), budget 31 B
+#: gtt/0x1c7bf30b/0xd90/0
+msgid "You've got to stop Peace Walker"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0xd90 (id 0xa3, record 318), budget 31 B
+#: gtt/0x1c7bf30b/0xd90/1
+msgid "before she can launch her nuke!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0xe40 (id 0xaf, record 318), budget 42 B
+#: gtt/0x1c7bf30b/0xe40/0
+msgid "She's going back into nuclear launch mode!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0xe40 (id 0xaf, record 318), budget 16 B
+#: gtt/0x1c7bf30b/0xe40/1
+msgid "Stop her, Snake!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0xef0 (id 0x98, record 318), budget 48 B
+#: gtt/0x1c7bf30b/0xef0/0
+msgid "We're running out of time! It's about to launch!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0xef0 (id 0x98, record 318), budget 7 B
+#: gtt/0x1c7bf30b/0xef0/1
+msgid "Hurry!!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0xf90 (id 0x6b, record 318), budget 36 B
+#: gtt/0x1c7bf30b/0xf90/0
+msgid "It's gonna launch...! Do something!!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x1000 (id 0x66, record 318), budget 27 B
+#: gtt/0x1c7bf30b/0x1000/0
+msgid "We're too late... oh God..."
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x1450 (id 0x79, record 318), budget 50 B
+#: gtt/0x1c7bf30b/0x1450/0
+msgid "Snake! You have to stop that data from being sent!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x14d0 (id 0x54, record 318), budget 20 B
+#: gtt/0x1c7bf30b/0x14d0/0
+msgid "Do something, Snake!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x1530 (id 0x42, record 318), budget 8 B
+#: gtt/0x1c7bf30b/0x1530/0
+msgid "Snake..."
+msgstr "SNAKE..."
+
+#. GTT pool 0x1c7bf30b block 0x1580 (id 0x5c, record 318), budget 28 B
+#: gtt/0x1c7bf30b/0x1580/0
+msgid "Is there nothing we can do?!"
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x15e0 (id 0x6a, record 318), budget 42 B
+#: gtt/0x1c7bf30b/0x15e0/0
+msgid "Oh, this will mean the end of the world..."
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x1650 (id 0x53, record 318), budget 21 B
+#: gtt/0x1c7bf30b/0x1650/0
+msgid "I'm scared, Amanda..."
+msgstr ""
+
+#. GTT pool 0x1c7bf30b block 0x16b0 (id 0x5e, record 318), budget 28 B
+#: gtt/0x1c7bf30b/0x16b0/0
+msgid "Oh God, we're all doomed...!"
+msgstr ""
+
+#. GTT pool 0x1c7c720b block 0x0 (id 0x7e, record 120), budget 59 B
+#: gtt/0x1c7c720b/0x0/0
+msgid "Careful, now. They might be holding FSLN soldiers prisoner."
+msgstr ""
+
+#. GTT pool 0x1c7c720b block 0x80 (id 0xd6, record 120), budget 36 B
+#: gtt/0x1c7c720b/0x80/0
+msgid "Press <I=ACT> in front of a prisoner"
+msgstr ""
+
+#. GTT pool 0x1c7c720b block 0x80 (id 0xd6, record 120), budget 61 B
+#: gtt/0x1c7c720b/0x80/1
+msgid "to take them to Mother Base using the Fulton recovery system."
+msgstr ""
+
+#. GTT pool 0x1c7c720b block 0x160 (id 0x96, record 120), budget 68 B
+#: gtt/0x1c7c720b/0x160/0
+msgid "To send a prisoner to Mother Base, equip the Fulton Recovery System."
+msgstr ""
+
+#. GTT pool 0x1c7c720b block 0x460 (id 0x94, record 120), budget 71 B
+#: gtt/0x1c7c720b/0x460/0
+msgid "You could transport the prisoner to Mother Base - if you had a balloon."
+msgstr ""
+
+#. GTT pool 0x1c7c720b block 0x500 (id 0x9f, record 120), budget 25 B
+#: gtt/0x1c7c720b/0x500/0
+msgid "You're gonna have to pass"
+msgstr ""
+
+#. GTT pool 0x1c7c720b block 0x500 (id 0x9f, record 120), budget 52 B
+#: gtt/0x1c7c720b/0x500/1
+msgid "through the sorting area to get to the other side..."
+msgstr ""
+
+#. GTT pool 0x1c7c720b block 0x5a0 (id 0x126, record 120), budget 64 B
+#: gtt/0x1c7c720b/0x5a0/0
+msgid "It looks like there are Zebra Longwing butterflies around there."
+msgstr ""
+
+#. GTT pool 0x1c7c720b block 0x5a0 (id 0x126, record 120), budget 51 B
+#: gtt/0x1c7c720b/0x5a0/1
+msgid "The larvae eat passionflowers, which are poisonous,"
+msgstr ""
+
+#. GTT pool 0x1c7c720b block 0x5a0 (id 0x126, record 120), budget 52 B
+#: gtt/0x1c7c720b/0x5a0/2
+msgid "and they retain that poison when they become adults."
+msgstr ""
+
+#. GTT pool 0x1c7c720b block 0x6d0 (id 0xbe, record 120), budget 49 B
+#: gtt/0x1c7c720b/0x6d0/0
+msgid "See any Orange-barred Sulphur butterflies around?"
+msgstr ""
+
+#. GTT pool 0x1c7c720b block 0x6d0 (id 0xbe, record 120), budget 50 B
+#: gtt/0x1c7c720b/0x6d0/1
+msgid "You'll find them in parks and even in cities, too."
+msgstr ""
+
+#. GTT pool 0x1c7c720b block 0x790 (id 0xf8, record 120), budget 72 B
+#: gtt/0x1c7c720b/0x790/0
+msgid "You often see Idomeneus Giant Owl butterflies around banana plantations."
+msgstr ""
+
+#. GTT pool 0x1c7c720b block 0x790 (id 0xf8, record 120), budget 62 B
+#: gtt/0x1c7c720b/0x790/1
+msgid "They're considered a pest, since the larvae eat banana leaves."
+msgstr ""
+
+#. GTT pool 0x1c7c724b block 0x0 (id 0x88, record 186), budget 57 B
+#: gtt/0x1c7c724b/0x0/0
+msgid "That's an AI weapon - The Pupa! It's fast, so be careful!"
+msgstr ""
+
+#. GTT pool 0x1c7c724b block 0x90 (id 0x65, record 186), budget 30 B
+#: gtt/0x1c7c724b/0x90/0
+msgid "Neutralize the Pupa AI weapon!"
+msgstr ""
+
+#. GTT pool 0x1c7c724b block 0x100 (id 0x82, record 186), budget 46 B
+#: gtt/0x1c7c724b/0x100/0
+msgid "Lie flat to avoid getting hit when it charges!"
+msgstr ""
+
+#. GTT pool 0x1c7c724b block 0x190 (id 0x7c, record 186), budget 50 B
+#: gtt/0x1c7c724b/0x190/0
+msgid "Destroying that part should stop it from charging!"
+msgstr ""
+
+#. GTT pool 0x1c7c724b block 0x210 (id 0x70, record 186), budget 47 B
+#: gtt/0x1c7c724b/0x210/0
+msgid "Taking those out will prevent it from punching!"
+msgstr ""
+
+#. GTT pool 0x1c7c724b block 0x280 (id 0x7d, record 186), budget 61 B
+#: gtt/0x1c7c724b/0x280/0
+msgid "Destroying that will take its electroshock functions offline!"
+msgstr ""
+
+#. GTT pool 0x1c7c724b block 0x300 (id 0x61, record 186), budget 29 B
+#: gtt/0x1c7c724b/0x300/0
+msgid "You destroyed the machinegun!"
+msgstr ""
+
+#. GTT pool 0x1c7c724b block 0x370 (id 0x55, record 186), budget 22 B
+#: gtt/0x1c7c724b/0x370/0
+msgid "High voltage incoming!"
+msgstr ""
+
+#. GTT pool 0x1c7c724b block 0x3d0 (id 0x84, record 186), budget 67 B
+#: gtt/0x1c7c724b/0x3d0/0
+msgid "Take those lightning rods out! They direct its electroshock attack!"
+msgstr ""
+
+#. GTT pool 0x1c7c724b block 0x460 (id 0x85, record 186), budget 58 B
+#: gtt/0x1c7c724b/0x460/0
+msgid "The electroshock unit's trying to repair itself! Shoot it!"
+msgstr ""
+
+#. GTT pool 0x1c7c724b block 0x4f0 (id 0x66, record 186), budget 26 B
+#: gtt/0x1c7c724b/0x4f0/0
+msgid "Aaagh! Shoot THEM, not ME!"
+msgstr ""
+
+#. GTT pool 0x1c7c724b block 0x560 (id 0xc1, record 186), budget 33 B
+#: gtt/0x1c7c724b/0x560/0
+msgid "You'll never beat it like that..."
+msgstr ""
+
+#. GTT pool 0x1c7c724b block 0x560 (id 0xc1, record 186), budget 58 B
+#: gtt/0x1c7c724b/0x560/1
+msgid "You need to hit it with armor piercing rounds or an RPG..."
+msgstr ""

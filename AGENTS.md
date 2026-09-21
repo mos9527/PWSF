@@ -121,6 +121,7 @@ python -m pwsf.subtitle          # 游戏内字幕 -> research/ANALYSIS/subtitle
 python -m pwsf.briefing -o research/ANALYSIS/_briefing_lines.tsv    # CODEC 台词
 python -m pwsf.archive_index     # 全盘归档索引
 python -m pwsf.stage             # STAGEDAT 内嵌文本 -> research/ANALYSIS/_stage_olang_lines.tsv
+python -m pwsf.gtt               # SLOT.DAT 的 GTT 池 -> research/ANALYSIS/_gtt_lines.tsv
 
 # 翻译语料
 python -m pwsf.po_export                           # 英文原文 -> src/ 下 42 个 .po
@@ -128,6 +129,7 @@ python -m pwsf.po_export --chunk 200               # 改分块粒度
 python -m pwsf.po_export --ref-langs fr,de,it,es   # 附带其他语言参考译文
 python -m pwsf.po_export --slot cutscene           # 只带过场语料（43 张表）
 python -m pwsf.po_export --slot none               # 不带 SLOT.DAT 内嵌语料
+python -m pwsf.po_export --gtt none                # 不带 GTT 语料（任务内无线台台词）
 python -m pwsf.po_export --fresh                   # 不保留已有译文（默认保留）
 python -m pwsf.po_export --pixel-font              # 连没有汉字的像素字槽位也导出
 
@@ -157,6 +159,9 @@ python research\TOOLS\_probe_po4.py   # 每条校验各自触发，正确译文�
 python research\TOOLS\_probe_po5.py   # 安装状态机与拒绝路径
 python research\TOOLS\_probe_bri53.py # CODEC 池预算 + 写回是恒等变换
 python research\TOOLS\_probe_bri54.py # CODEC 回写端到端（含 lint 拦截）
+python research\TOOLS\_probe_gtt7.py  # GTT 462 池往返字节一致 + 预算分布
+python research\TOOLS\_poc_gtt_writeback.py       # GTT 端到端写回 SLOT.DAT
+python research\TOOLS\_poc_gtt_writeback.py --lint # gtt-budget 拦截冒烟
 
 # 未收集语料的全盘预览（找漏网文本）
 python research\TOOLS\_probe_textscan.py --jobs 8            # 非容器文件 raw+xor
@@ -174,10 +179,17 @@ src/
   codec/codec_01..12.po   CODEC / 简报台词        4,746 条   能写回（池预算紧，见下）
   slot/slot_01..24.po     SLOT.DAT 内嵌文本       9,566 条   能写回（过场 1,858 条）
   stage/stage_01..12.po   STAGEDAT 内嵌文本       4,522 条   只读，暂不可写回
+  gtt/gtt_01..06.po       SLOT.DAT 的 GTT 池       2,238 条  能写回（行内原地，见下）
   MANIFEST.tsv            分块索引
 ```
 
-合计 15,773 条。**只改这三个子目录里的 `.po`**，往 `msgstr ""` 里填中文。
+合计 22,533 条。**只改这些子目录里的 `.po`**，往 `msgstr ""` 里填中文。
+
+> `gtt/` 是 2026-09-21 才挖出来的第四套语料（`ANALYSIS/11_gtt_text.md`）：任务内
+> 无线台与提示台词，原先谁都没提取过 —— `slotdat_find_res_entry` 只认 `0x20` 类
+> 资源 id，GTT 池是 `0x1c` 类。写回是**原地**的：一条译文的字节数不能超过它替掉
+> 的英文行（条目上标 `budget N B`，中位 43 B，`>=12 B` 的占 98%），超了
+> `po_lint` 报 `gtt-budget`，那句只能先留英文。规则写在每个 `gtt_*.po` 的文件头。
 
 > 另有 2,051 个槽位**不导出**：`key.meta == 1` 的文字用 `Text/*.txp` 里那张
 > 512×512 像素字图集绘制，一个汉字都没有，保持英文

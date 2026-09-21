@@ -9,18 +9,34 @@ olang/olang_NN.po  UI 文字 + 游戏内字幕    4 个文件 /  1,513 条   能
 codec/codec_NN.po  CODEC / 简报台词       12 个文件 /  4,746 条   能写回
 slot/slot_NN.po    SLOT.DAT 内嵌文本      26 个文件 / 10,073 条   能写回
 stage/stage_NN.po  STAGEDAT 内嵌文本      12 个文件 /  4,522 条   【只读】
+gtt/gtt_NN.po      SLOT.DAT 的 GTT 池      6 个文件 /  2,238 条   能写回
 MANIFEST.tsv       分块索引（条目数 / 覆盖槽位数 / 原文字符数）
 ```
 
-合计 20,854 条。一个文件约 400 条，可以一人认领一个文件并行推进。
+合计 23,092 条。一个文件约 400 条，可以一人认领一个文件并行推进。
 
-> 下一次 `po_export` 会降到 15,773 条：那 559 条是像素字体槽位，按 §15 的结论
+> 下一次 `po_export` 会降到 22,533 条：那 559 条是像素字体槽位，按 §15 的结论
 > 不再导出（详见文末「有一批文字不要译」）。
 
 `slot/` 里带 `#. comic cutscene` 注释的那 1,858 条是**过场（漫画）台词**，
 主体在 `slot_05`–`slot_10`；其余是同一批内嵌文本里的 UI 说明文。
 它们的文本不在磁盘那 17 个 `.olang` 里，而是塞在 `MLG/disc0_rel/002aba34.DAT`
 中，详见 [`research/ANALYSIS/08_cutscene_text.md`](../research/ANALYSIS/08_cutscene_text.md)。
+
+## `gtt/` 是任务内无线台台词（有字节上限）
+
+`gtt/` 是 **SLOT.DAT** 里 462 个 `GTT\x00` 池装的台词：任务里 Miller / Kaz 的
+无线电呼叫、提示、"往北走"这类喊话。它原先谁都没提取过 ——
+`slotdat_find_res_entry` 只认 `0x20` 类资源 id，而 GTT 池是 `0x1c` 类。
+格式与来龙去脉见
+[`research/ANALYSIS/11_gtt_text.md`](../research/ANALYSIS/11_gtt_text.md)。
+
+**每条有字节上限**：写回是原地的，译文的字节数不能超过它替掉的英文行，上限标在
+条目上（`budget N B`，中位 43 B，98% 的行 ≥12 B）。超了 `po_lint` 报
+`gtt-budget` 并指出是哪条 —— 改短，或者留空让它保持英文。`Hm?` `Huh?` 这类
+只有 3~4 字节的极短喊话基本放不下中文，直接留英文即可。
+
+换行照常：`\n` 在游戏里是两个字符，行数要和原文一致。
 
 ## `stage/` 是只读语料（暂时）
 

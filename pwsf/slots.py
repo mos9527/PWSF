@@ -38,6 +38,9 @@ CODEC = "codec"
 SLOT = "slot"          # olang tables embedded in SLOT.DAT, ANALYSIS/08 §5.7
 STAGE = "stage"        # olang tables embedded in STAGEDAT, ANALYSIS/09 §4
                        # (extract-only: no write-back, po_import ignores it)
+GTT = "gtt"            # the GTT pools of SLOT.DAT, ANALYSIS/11
+                       # in-mission radio / hint lines; written in place, so a
+                       # translation may not be longer than the English string
 
 
 @dataclass(frozen=True)
@@ -103,8 +106,31 @@ class StageRef:
                f"{self.entry:#08x}"
 
 
+@dataclass(frozen=True)
+class GttRef:
+    """A line of a GTT pool in SLOT.DAT (ANALYSIS/11).
+
+    `pool` is the resource-entry id (0x1c?????? -- outside the 0x20000000 class
+    slotdat_find_res_entry @ 0x1400A61F0 accepts, which is why these pools were
+    never extracted before), `block` the offset of the `GTT\\x00` block inside
+    the pool, `line` the index within that block.
+
+    The same pool id is stored in several records (region copies, one per build)
+    and every copy was verified identical, so write-back patches all of them --
+    same contract as SlotRef.
+    """
+    pool: int
+    block: int
+    line: int
+
+    kind = GTT
+
+    def __str__(self) -> str:
+        return f"{GTT}/{self.pool:#010x}/{self.block:#x}/{self.line}"
+
+
 def parse_ref(ref: str):
-    """OlangRef / CodecRef / SlotRef / StageRef for a `#:` reference."""
+    """OlangRef / CodecRef / SlotRef / StageRef / GttRef for a `#:` reference."""
     parts = ref.split("/")
     try:
         if parts[0] == OLANG and len(parts) == 4:
@@ -116,6 +142,8 @@ def parse_ref(ref: str):
         if parts[0] == STAGE and len(parts) == 5:
             return StageRef(int(parts[1], 0), parts[2],
                             int(parts[3], 0), int(parts[4], 0))
+        if parts[0] == GTT and len(parts) == 4:
+            return GttRef(int(parts[1], 0), int(parts[2], 0), int(parts[3], 0))
     except ValueError:
         pass
     raise ValueError(f"unparseable reference: {ref!r}")
@@ -312,11 +340,58 @@ def pixel_font_refs() -> frozenset:
     return frozenset(out | set(stage_pixel_refs()))
 
 
+def gtt_sources() -> dict:
+    """reference -> English line, for the GTT pools of SLOT.DAT (ANALYSIS/11).
+
+    Read from `_gtt_lines.tsv`, the product of `python -m pwsf.gtt`, like the
+    other corpora do -- walking the 544 MB container on every lint run would
+    cost a minute and give the same rows.
+    """
+    path = config.GTT_TSV
+    if not path.is_file():
+        return {}
+    rows = path.read_text(encoding="utf-8").splitlines()
+    col = {n: i for i, n in enumerate(rows[0].split("\t"))}
+    out = {}
+    for r in rows[1:]:
+        c = r.split("\t")
+        if len(c) <= col["text"]:
+            continue
+        # the game stores a line break as a two-character `\n` escape; the .po
+        # and the CODEC corpus both carry a real newline instead
+        out[str(GttRef(int(c[col["pool"]], 0), int(c[col["block"]], 0),
+                       int(c[col["line"]])))] = \
+            unescape(c[col["text"]]).replace("\\n", "\n")
+    return out
+
+
+def gtt_budgets() -> dict:
+    """reference -> bytes a translation may use (the English run's length).
+
+    GTT write-back is in place (ANALYSIS/11 §5), so this is the hard limit
+    `po_lint`'s `gtt-budget` reports on.
+    """
+    path = config.GTT_TSV
+    if not path.is_file():
+        return {}
+    rows = path.read_text(encoding="utf-8").splitlines()
+    col = {n: i for i, n in enumerate(rows[0].split("\t"))}
+    out = {}
+    for r in rows[1:]:
+        c = r.split("\t")
+        if len(c) <= col["budget"]:
+            continue
+        out[str(GttRef(int(c[col["pool"]], 0), int(c[col["block"]], 0),
+                       int(c[col["line"]])))] = int(c[col["budget"]])
+    return out
+
+
 @functools.lru_cache(maxsize=1)
 def sources() -> dict:
-    """Every exportable slot, all three corpora, keyed by reference."""
+    """Every exportable slot, all corpora, keyed by reference."""
     out = olang_sources()
     out.update(codec_sources())
     out.update(slot_sources())
     out.update(stage_sources())
+    out.update(gtt_sources())
     return out

@@ -170,3 +170,88 @@ Reinitializing platform. | Flamethrower engaged. | Launching S mines. | ...
 2. **`SP` 容器**（DLCVOICE、`.sep`）：头部 `SP`+版本，载荷就是 Ogg，没有文本子文件。
 3. 那句台词本身：若它确实来自本盘，只可能在 1 里；下一步要么从 IDA 反查这条
    codec 条的文本来源函数，要么确认截图是否出自别的版本 / 打了别的 MOD。
+
+---
+
+## 9 §1/§8 的覆盖面补正（2026-09-21，**旧结论保留，覆盖缺口已填**）
+
+§1 那张表的「ADEMO / ADEMOHQ ❌」和 §8.1 的「抽样无文本」都是**欠扫**的结论，
+不是全量结论。判据：
+
+| 旧扫描 | 上限 | 后果 |
+|---|---|---|
+| `_probe_pkg_scan.py --budget-mb 512 --max-entry-mb 256` | 每容器 512 MB、单条目 256 MB | 12 个巨型条目（259~518 MB）**从未解密** |
+| `_probe_textscan.py --budget-mb 512 --max-entry-mb 128` | 单条目 128 MB | 同上，且更严 |
+| 两者都带 `--skip-exlang` | — | **EXLANG 的 `0001112d` / `00b2b2a8` / `00b2b475` / `00b2b4b6` 四个包 0 条命中**（446 MB） |
+
+实测（`_probe_fel_cover.py / _probe_gap.py`）：
+
+```
+任务包在盘上 6,635 MB | 从未检索 3,952 MB（60%），集中在 12 个条目
+全盘容器 payload 7,617 MB | 从未进 _pkgscan_kinds.tsv 的 4,400 MB / 3,229 条目
+```
+
+补扫结果（纯 Python MT 5.6 MB/s，改用 **ProcessPoolExecutor ×24**，32C/191 GB 机器）：
+
+* 12 个巨型任务包条目全解密 + needle 搜：118 s，**0 命中**
+* 全盘 3,229 个漏网条目（含 zlib 解压后再搜）：117 s，**0 命中**
+* 另查：`EXLANG/disc0_rel/0076531d.DAT`（比 MLG 那份大 24,416 B，非逐字节副本）
+  也解密搜过，0 命中（脚本 `_probe_briefing_exlang.py`）；根目录 exe 明文直搜 0 命中；
+  UTF-16LE/BE 直搜 0 命中；`no one` / `nobody` / `why not` 模糊检索 0 命中。
+
+**所以 §1 的"❌"现在成立，但理由从"抽样没看到"变成"7.6 GB payload 全量解密
+检索过"。** §8.1 剩下的「FEL 内部成员没破」这条也在 §10 里合上了。
+
+---
+
+## 10 `FEL\x07` 是什么（2026-09-21）
+
+SLOT.DAT 的过场记录里也有同样的块（181 个，208 B ~ 7 KB，`_probe_slot26.py`），
+拿它当小样本正好把格式读到底（`_probe_fel2.py`）。头 48 字节**全盘一致**：
+
+| 偏移 | 值 | 说明 |
+|---|---|---|
+| `+0x00` | `46 45 4c 07` | 魔数 `FEL\x07` |
+| `+0x04` | `0` | |
+| `+0x08` | `00 00 04 04` | |
+| `+0x0c` | `300` | 常量，所有 FEL 都一样 |
+| `+0x10` | `0x8a0`（SLOT）/ `0x6c80`（ADEMO） | 数据区相关长度 |
+| `+0x14` | `u16 n1, u16 n2` | SLOT `(1,1)`；ADEMO `(51,52)` |
+| `+0x18` | 表 | SLOT：`u32`；ADEMO：51 个 `u16`（`0x1a00|idx`，是 0..51 的一个排列） |
+| `+0x30` | `u32` 偏移表 | 递增、步长 8/12 交替 → 记录长度交替 |
+
+记录本体 = `u16 opcode, u16 size, size-4 字节操作数`：SLOT 样例里
+`op=3,size=8`（1 个 u32）、`op=4,size=0xc`（2 个 u32）交替出现 ——
+**是脚本/命令流，不是文本**。ADEMO 那边 `+0x80` 起是 `(u16 idx, u16 offset)`
+对（offset 均 < payload 长度），`+0x150` 之后是成片的 u16/u32 数值表
+（0x6000 处是 `0a64/1502` 这类成对 u32），像动画/模型/媒体的索引数据。
+
+### 10.1 「FEL 里有没有文本」—— 证否
+
+| 范围 | 判据 | 结果 |
+|---|---|---|
+| ADEMO + ADEMOHQ 全部 532 条目 / 6,635 MB | 全解密，统计每个 payload 最长 ASCII 串（`_probe_fel_cover.py --sweep --all --ascii --procs 24`，116 s） | **含 ≥12 字符 ASCII 串的 payload：0** |
+| SLOT.DAT 全部 181 个 FEL 块 | 同上，阈值放宽到 8（`_probe_fel2.py --slot-all`） | **0** |
+
+即 FEL 既不含那句台词，也不含任何可读文本。
+
+### 10.2 IDB 侧：没人按这个魔数分派
+
+* `METAL GEAR SOLID PEACE WALKER.exe`（18,409,032 B）里 `FEL\x07` 出现 **0 次**；
+  `FEL` 的 17 次命中全在脏话词表（`FELCH` / `FELATIO` / `FELLATIO` …）。
+* 立即数 `0x074C4546` / `0x004C4546`：**0 处**（`search_text` 全图扫）。
+* 没有 `FEL` 字面量字符串。→ FEL 是作为「已知类型」整块交给子系统的。
+* 条目 id 也不走文本通路：`slotdat_find_res_entry` @ `0x1400A61F0` 只收
+  `(id & 0x7F000000) == 0x20000000` 的条目，而 FEL 池的 id 是
+  `0x5e395f10` / `0x5e325ef1` / `0x5e525ef3` / `0x5e625f73` /
+  `0x5e325df5` / `0x5e925df8`（`& 0x7F000000 = 0x5E000000`），不在该类里。
+* ADEMO / ADEMOHQ 文件名一一对应、209 MB vs 6.4 GB，由
+  `path_resolve_install` @ `0x140043DA0` 的 `/ADEMO` `/ADEMOHQ` 分支选；
+  pt 语言下它们与 `/CAMO` 一样**不**改走 `EXLANG` → 是「安装」用的一对画质档。
+
+### 10.3 还剩什么
+
+盘上所有容器 payload（7.6 GB）现在都解密 + needle 检索过，FEL 也证否了，
+那句 Miller 台词**在本盘数据里不存在**。剩下的解释只有：截图来自别的版本 /
+打了别的 MOD，或这句是运行时拼出来的（非静态语料）。要继续就只能从 IDA 反查
+「任务内无线台字幕」的取文本函数，看它到底读哪个 group / 哪张表。
