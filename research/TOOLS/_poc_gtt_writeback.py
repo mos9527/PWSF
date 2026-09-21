@@ -77,6 +77,28 @@ def lint_smoke() -> None:
               f"{not any(key in p.message for p in fired)}")
 
 
+def check_built(pool: int, block: int, line: int) -> None:
+    """Read one GTT line out of the built SLOT.DAT, from every copy of its pool.
+
+    Used when the build says a line was not found: it shows whether the record
+    that holds the pool fell back (English) or the write genuinely failed.
+    """
+    dat = config.BUILD_DIR / f"{S.STEM}.DAT"
+    key = config.BUILD_DIR / f"{S.STEM}.KEY"
+    recs = S.load_index(key)
+    state, inc = S.lcg_params(key)
+    nd = max(r.stored for r in recs) * S.SECTOR // 4 + 16
+    ks = S.keystream(nd, state, inc)
+    print(f"{dat} ({dat.stat().st_size} bytes)")
+    for rec_i, eid, blob in gtt.pool_blobs(ks, dat):
+        if eid != pool:
+            continue
+        for b in gtt.parse(blob):
+            if b.off != block:
+                continue
+            print(f"  record {rec_i}: {b.line(line).decode('utf-8')!r}")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--keep", action="store_true",
@@ -85,9 +107,15 @@ def main() -> None:
                     help="translate every line whose budget allows (slow)")
     ap.add_argument("--lint", action="store_true",
                     help="only run the po_lint budget smoke test")
+    ap.add_argument("--check", nargs=3, metavar=("POOL", "BLOCK", "LINE"),
+                    help="read one line back out of the BUILT container")
     args = ap.parse_args()
     if args.lint:
         lint_smoke()
+        return
+    if args.check:
+        check_built(int(args.check[0], 0), int(args.check[1], 0),
+                    int(args.check[2]))
         return
 
     budgets = {r: b for r, b in

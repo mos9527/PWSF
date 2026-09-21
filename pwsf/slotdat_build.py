@@ -183,6 +183,7 @@ def rebuild(translations: dict, lang: int = None, outdir: Path = None,
     nd = max(r.stored for r in recs) * SECTOR // 4 * 2 + 4096
     ks = S.keystream(nd, state, inc)
     patch = make_patch(by_table, lang, gtt_by_pool)
+    used = [patch]          # + one entry per record that fell back
 
     src_dat, src_key = S.dat_path(), S.key_path()
     # name the outputs after STEM, not after src_dat.name: the source goes
@@ -192,7 +193,8 @@ def rebuild(translations: dict, lang: int = None, outdir: Path = None,
     out_dat, out_key = outdir / f"{S.STEM}.DAT", outdir / f"{S.STEM}.KEY"
 
     new_records = []
-    stats = dict(records=len(recs), patched=0, strings=0)
+    stats = dict(records=len(recs), patched=0, strings=0, gtt_dropped=[],
+                 gtt_dropped_pools=set(), gtt_partial=[], gtt_written=set())
     with open(src_dat, "rb") as fin, open(out_dat, "wb") as fout:
         lead = recs[0].start            # sector 0 is not part of any record
         if lead:
@@ -213,10 +215,74 @@ def rebuild(translations: dict, lang: int = None, outdir: Path = None,
             data = S.inflate(plain)
             if touches(data, by_table, lang, gtt_by_pool):
                 magic, hdr_size, const, _c, _r = S.parse_header(plain)
-                data = repack_slot(data, patch)
-                comp = zlib.compress(data, level)
-                block = struct.pack("<HHIII", magic, hdr_size, const,
-                                    len(comp), len(data)) + comp
+                need = rec.stored * SECTOR
+                # Two ways a repacked block can fail to fit its slot:
+                #   1. the compressor -- Chinese does not pack as well as the
+                #      English it replaced, so try a few zlib strategies and
+                #      keep the smallest (record 186 needed 169 B, 2026-09-21);
+                #   2. still too big -- drop this record's GTT lines and keep
+                #      the olang ones: a record's byte budget is a constant, and
+                #      one record must never fail the whole container.
+                eids_here = [eid for _i, eid, _o, blob in S.slot_pools(data)
+                             if len(blob) >= 0x20 and blob[:4] == b"GTT\x00"]
+                block = None
+                data2 = repack_slot(data, patch)
+                if data2 == data:                # 这一条没有要写的
+                    block = main
+                else:
+                    comp = _compress(data2, level)
+                    cand = struct.pack("<HHIII", magic, hdr_size, const,
+                                       len(comp), len(data2)) + comp
+                    if len(cand) <= need:
+                        data, block = data2, cand
+                        for eid in eids_here:
+                            for k in gtt_by_pool.get(eid, ()):
+                                stats["gtt_written"].add((eid, k))
+                if block is None and gtt_by_pool:
+                    # 整条降级太浪费：按译文长度从大到小丢、二分找临界，
+                    # 只把装不下的那几条留英文
+                    keys = [(eid, k, len(gtt_by_pool[eid][k]))
+                            for _i, eid, _o, blob in S.slot_pools(data)
+                            if len(blob) >= 0x20 and blob[:4] == b"GTT\x00"
+                            and eid in gtt_by_pool
+                            for k in gtt_by_pool[eid]]
+                    keys.sort(key=lambda x: -x[2])
+                    lo, hi = 0, len(keys) - 1
+                    while lo <= hi:
+                        mid = (lo + hi) // 2
+                        sub = _without(gtt_by_pool, keys[mid:])
+                        p = make_patch(by_table, lang, sub)
+                        data2 = repack_slot(data, p)
+                        comp = _compress(data2, level)
+                        cand = struct.pack("<HHIII", magic, hdr_size, const,
+                                           len(comp), len(data2)) + comp
+                        if len(cand) <= need:     # 留得越多越难装下 -> 取最大可行
+                            # NB: 只换本记录用的补丁，`patch` 是循环外变量 ——
+                            # 早先这里直接赋值，导致后面 2,000 条记录全用了这个
+                            # 少了几百行的残缺补丁（2026-09-21）
+                            block, data = cand, data2
+                            used.append(p)
+                            lo = mid + 1
+                        else:
+                            hi = mid - 1
+                    if block is not None:
+                        kept = lo - 1               # keys[:kept] 写进去了
+                        for eid, k, _n in keys[:kept]:
+                            stats["gtt_written"].add((eid, k))
+                        if kept == 0:
+                            stats["gtt_dropped"].append(rec.index)
+                            for _i, eid, _o, blob in S.slot_pools(data):
+                                if len(blob) >= 0x20 and blob[:4] == b"GTT\x00":
+                                    stats["gtt_dropped_pools"].add(eid)
+                        else:
+                            stats["gtt_partial"].append(
+                                (rec.index, len(keys) - kept))
+                if block is None:
+                    raise SystemExit(
+                        f"record {rec.index}: repacked block does not fit the "
+                        f"slot ({need} bytes) even with the GTT lines left in "
+                        f"English -- translate less of this record, or lower "
+                        f"--level")
                 # Pad back to the record's ORIGINAL sector count. zlib level 9
                 # routinely beats the shipped compressor, so a repacked block
                 # comes out shorter -- and every following record is addressed
@@ -224,14 +290,9 @@ def rebuild(translations: dict, lang: int = None, outdir: Path = None,
                 # later records forward and the file shrinks (132,948 ->
                 # 132,933 sectors on 2026-09-20). Loading a save then hangs on
                 # a black screen. The slot size is a constant: pad, never move.
-                need = rec.stored * SECTOR
-                if len(block) > need:
-                    raise SystemExit(
-                        f"record {rec.index}: repacked block needs "
-                        f"{len(block)} bytes, the slot holds {need} "
-                        f"(translate less of this record, or lower --level)")
-                block += b"\x00" * (need - len(block))
-                block = _xor(block, ks)
+                if len(block) < need:
+                    block += b"\x00" * (need - len(block))
+                    block = _xor(block, ks)
                 inflated = len(data)
                 stats["patched"] += 1
             else:
@@ -247,14 +308,21 @@ def rebuild(translations: dict, lang: int = None, outdir: Path = None,
                                 new_a, new_b, rec.id_hash))
             sector += new_b + extra_n
 
-    stats["strings"] = patch.written[0]
+    stats["strings"] = sum(p.written[0] for p in used)
     stats["sectors"] = sector
-    stats["gtt_problems"] = list(patch.gtt_problems)
-    if patch.gtt_problems and verbose:
+    stats["gtt_problems"] = [x for p in used for x in p.gtt_problems]
+    if stats["gtt_problems"] and verbose:
         print(f"  {len(patch.gtt_problems)} GTT line(s) did not fit and stay "
               f"English (budget is the English run's length, ANALYSIS/11 §5)")
         for p in patch.gtt_problems[:5]:
             print(f"      {p}")
+    if stats["gtt_partial"] and verbose:
+        lost = sum(n for _, n in stats["gtt_partial"])
+        print(f"  {len(stats['gtt_partial'])} record(s) could not hold every "
+              f"GTT line after repacking: {lost} line(s) left English")
+    if stats["gtt_dropped"] and verbose:
+        print(f"  {len(stats['gtt_dropped'])} record(s) could not hold any GTT "
+              f"line after repacking: those stay English")
 
     _write_key(new_records, src_key, out_key)
     if verbose:
@@ -263,6 +331,33 @@ def rebuild(translations: dict, lang: int = None, outdir: Path = None,
               f"{sector * SECTOR} bytes")
         print(f"  {out_key.name}  {len(new_records)} records")
     return out_dat, out_key, stats
+
+
+def _without(gtt_by_pool: dict, drop: list) -> dict:
+    """`gtt_by_pool` minus the `[(pool, (block, line), _len)]` entries listed."""
+    out = {p: dict(m) for p, m in gtt_by_pool.items()}
+    for pool, key, _n in drop:
+        if pool in out:
+            out[pool].pop(key, None)
+    return {p: m for p, m in out.items() if m}
+
+
+def _compress(data: bytes, level: int) -> bytes:
+    """Smallest zlib stream over a few strategies.
+
+    A repacked block has to fit the record's ORIGINAL byte budget, and Chinese
+    does not pack as well as the English it replaced: record 186 came out 169 B
+    over with the default level-9 stream (2026-09-21).  Trying the other
+    strategies costs one extra pass and can win exactly that margin.
+    """
+    best = zlib.compress(data, level)
+    for strat in (zlib.Z_FILTERED, zlib.Z_FIXED, zlib.Z_RLE,
+                  zlib.Z_HUFFMAN_ONLY):
+        c = zlib.compressobj(level, zlib.DEFLATED, 15, 9, strat)
+        out = c.compress(data) + c.flush()
+        if len(out) < len(best):
+            best = out
+    return best
 
 
 def _xor(block: bytes, ks: bytes) -> bytes:
@@ -297,16 +392,30 @@ def _write_key(records: list, src_key: Path, out_key: Path) -> None:
 # ------------------------------------------------------------------ verify
 
 def verify(dat_path: Path, key_path: Path, translations: dict,
-           lang: int = None, gtt: dict = None) -> list:
-    """Read the rebuilt container back.  Returns a list of problems."""
+           lang: int = None, gtt: dict = None, dropped: set = None,
+           written: set = None) -> list:
+    """Read the rebuilt container back.  Returns a list of problems.
+
+    `written` is `stats["gtt_written"]`: the GTT lines the rebuild actually
+    managed to write.  A record whose block cannot be compressed into its slot
+    drops some of them (longest first), so only what was written is checked --
+    otherwise a known limitation would look like a broken build.
+    """
     from . import gtt as G
 
     lang = config.LANG_EN if lang is None else lang
     by_table = _norm_translations(translations)
+    dropped = dropped or set()
     gtt_by_pool = {}
     for (pool, block, line), text in (gtt or {}).items():
+        if written is not None and (pool, (block, line)) not in written:
+            continue
+        if pool in dropped:
+            continue
         gtt_by_pool.setdefault(pool, {})[(block, line)] = text
+    # pools in `dropped` never entered gtt_by_pool, so they are not checked
     problems = []
+    found = {}          # (pool, (block, line)) -> seen with the translation
 
     recs = S.load_index(key_path)
     state, inc = S.lcg_params(key_path)
@@ -332,13 +441,18 @@ def verify(dat_path: Path, key_path: Path, translations: dict,
             problems.append(f"record {rec.index}: inflated {len(data)} "
                             f"exceeds A {rec.a_copy} sectors")
         for _i, eid, _o, blob in S.slot_pools(data):
-            if gtt_by_pool and len(blob) >= 0x20 and blob[:4] == b"GTT\x00":
+            if len(blob) >= 0x20 and blob[:4] == b"GTT\x00":
                 texts = gtt_by_pool.get(eid)
                 if texts:
-                    problems += [
-                        f"gtt {eid:#010x}: {p}" for p in
-                        G.verify(blob, {k: G.to_game_text(v)
-                                        for k, v in texts.items()})]
+                    # a record that could not hold every line drops some, so a
+                    # line counts as written when ANY copy of the pool has it
+                    # (the pool repeats in several records, like the olang ones)
+                    for (boff, li), text in texts.items():
+                        ok = any(b.off == boff and b.line(li) ==
+                                 G.to_game_text(text)
+                                 for b in G.parse(blob))
+                        if ok:
+                            found[(eid, (boff, li))] = True
                 continue
             if len(blob) < 0x20 or blob[:4] != b"RBX\x00":
                 continue
@@ -362,4 +476,12 @@ def verify(dat_path: Path, key_path: Path, translations: dict,
                     problems.append(
                         f"table {tid:#010x} {gk:#08x}/{ek:#08x}: "
                         f"{got!r} != {text!r}")
+
+    for pool, mapping in gtt_by_pool.items():
+        for (boff, li), text in mapping.items():
+            if found.get((pool, (boff, li))):
+                continue
+            problems.append(f"gtt {pool:#010x} block @{boff:#x} line {li}: "
+                            f"not found with the translation "
+                            f"({text[:30]!r})")
     return problems

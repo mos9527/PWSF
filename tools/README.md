@@ -27,7 +27,12 @@ python tools/translate.py --group olang --limit 40
 # 3. 正式批量（按分区跑，别一次全开）
 python tools/translate.py --group olang --workers 6
 python tools/translate.py --group slot  --workers 6
-python tools/translate.py --group codec --workers 6   # 最严：有字节预算
+python tools/translate.py --group codec --workers 6   # 有字节预算
+python tools/translate.py --group gtt   --workers 6   # 最严：每条都有字节预算
+
+# 3.4 gtt 翻完也可能要压一轮：编译时报「record N 装不下」就把那几行再压短
+python research\TOOLS\_poc_gtt_writeback.py --check POOL BLOCK LINE  # 看某条落盘没有
+
 
 # 3.5 codec 有字节预算，翻完基本必然要压一轮
 python research\TOOLS\_probe_codec_budget.py              # 行级账目，超在哪一行
@@ -49,7 +54,7 @@ python -m pwsf.po_import --install
 | 参数 | 默认 | 说明 |
 |---|---|---|
 | `--file` | — | 指定 .po，可多次；与 `--group` 二选一 |
-| `--group` | — | `olang` / `codec` / `slot`，逗号分隔 |
+| `--group` | — | `olang` / `codec` / `slot` / `gtt`，逗号分隔 |
 | `--limit N` | — | 最多处理多少条（试跑用） |
 | `--batch` | 25 | 每请求多少条。太大模型会漏换行，20~30 合适 |
 | `--workers` | 4 | 并发 |
@@ -77,6 +82,20 @@ python -m pwsf.po_import --install
 > 历史 bug：写回曾拿启动时的行快照当基底整文件重写，同文件多批并发会
 > 互相覆盖，表现为 diff 位置每轮都变且不累积。2026-09 修掉，改成
 > `poio.commit` 重读 + per-file lock。
+
+## gtt 组的三条额外规则
+
+`gtt`（`ANALYSIS/11`）写回是**原地**的，每条的 UTF-8 字节数不能超过该条的预算：
+
+1. 预算从条目的 `#. budget N B` 注释读 —— 工具不依赖 `pwsf` 包，所以不去查
+   `research/ANALYSIS/_gtt_lines.tsv`。
+2. 预算 `< MIN_GTT_BUDGET`（12）的行**不送翻**（`Hm?` `Huh?` 这类三四个字节的
+   喊话，怎么译都装不下），记进 `translate.log` 的 `budget-too-small`。
+3. 译完后超预算的走 `shrink` 压一轮；压不动就**丢弃不写**（记 `over-budget`），
+   免得 `po_lint` 的 `gtt-budget` 堵住整个构建。
+
+换行按游戏里的算法：一个换行占 **2 字节**（存的是 `\n` 两个字符），压缩时别靠
+加换行凑。
 
 ## 术语表 terms.tsv
 

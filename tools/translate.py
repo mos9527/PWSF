@@ -48,6 +48,12 @@ GROUP_HINT = {
              "小于英文原文，中文天然更短，但禁止扩写、禁止加注释、禁止加引号。",
     "slot": "这是内嵌文本，包含过场漫画台词与 UI 说明。台词口语化，"
             "说明文简洁。",
+    "gtt": "这是任务进行中的无线电呼叫与提示台词（Miller / Kaz 的战场提醒、"
+           "“往北走”这类短喊话），一句话一条，玩家边打边看。"
+           "硬约束最紧：译文写回是原地的，每条的 UTF-8 字节数必须**不超过该条的预算**"
+           "（budget，等于英文原文的长度）。绝大多数行中文装得下，"
+           "但 `Hm?` `Huh?` 这种只有三四个字节的极短喊话装不下 —— 那种宁可极短："
+           "一个字、两个字都行，别加标点以外的东西。",
 }
 
 SYSTEM = """你是《合金装备：和平行者》(Metal Gear Solid: Peace Walker) 的英译中本地化译者。
@@ -112,6 +118,27 @@ def check(src, dst):
 
 def byte_len(s):
     return len(s.encode("utf-8"))
+
+
+# GTT writes the translation in place, so each line has a hard byte budget that
+# po_export prints into the entry as `#. ... budget N B` (ANALYSIS/11 §5).  The
+# game also stores a line break as a two-character `\n`, which costs 2 bytes.
+BUDGET_RE = re.compile(r"budget (\d+) B")
+MIN_GTT_BUDGET = 12      # 两个汉字就要 6~9 B；预算低于这个的直接不送翻
+
+
+def budget_of(entry):
+    """The byte budget of a GTT entry, or None for every other corpus."""
+    for c in entry.comments:
+        m = BUDGET_RE.search(c)
+        if m:
+            return int(m.group(1))
+    return None
+
+
+def stored_len(s):
+    """Bytes as the game stores them (a line break is `\\n`, two characters)."""
+    return len(s.replace("\n", "\\n").encode("utf-8"))
 
 
 # ---------------------------------------------------------------- 术语
@@ -227,6 +254,14 @@ def collect(args):
                 continue
             if not args.include_all and looks_untranslatable(e.msgid):
                 continue
+            if path.parent.name == "gtt":
+                b = budget_of(e)
+                if b is None or b < MIN_GTT_BUDGET:
+                    # 3~4 B 的行连两个汉字都放不下，送翻也只会失败（ANALYSIS/11 §5）
+                    STATS["skip"] += 1
+                    log_error(str(path), e.msgid,
+                              f"budget-too-small {b}")
+                    continue
             out.append((str(path), e, path.parent.name))
         if args.limit and len(out) >= args.limit:
             out = out[:args.limit]
@@ -338,9 +373,19 @@ def run_batch(batch, args, terms, session):
             fixed, bad = repair_by_line(bad, args, session)
             ok.update(fixed)
 
-    for path, e, _ in batch:
+    for path, e, group in batch:
         val = ok.get(e)
-        if val and byte_len(val) > byte_len(e.msgid):
+        if not val:
+            continue
+        if group == "gtt":
+            b = budget_of(e)
+            if b is not None and stored_len(val) > b:
+                # 压不动就别写：写进去 po_lint 会报 gtt-budget 堵住整个构建
+                ok.pop(e, None)
+                STATS["long"] += 1
+                log_error(path, e.msgid,
+                          f"over-budget {b}<{stored_len(val)}")
+        elif byte_len(val) > byte_len(e.msgid):
             STATS["long"] += 1
             log_error(path, e.msgid,
                       f"longer {byte_len(e.msgid)}->{byte_len(val)}")
@@ -480,23 +525,33 @@ def _path_of(entry, bad):
     return ""
 
 
-SHRINK_SYSTEM = """你是本地化审校。下列中文译文的 UTF-8 字节数超过了英文原文，游戏文本池装不下。
+SHRINK_SYSTEM = """你是本地化审校。下列中文译文的 UTF-8 字节数超过了允许的上限（bytes_max），游戏文本池装不下。
 
 要求：
 1. 不改变意思、不丢失换行数、不动 `<I=XX>` 与 `%d` 这类占位符。
-2. 压缩到 UTF-8 字节数小于英文原文（中文一个字 3 字节，省两三个字通常就够）。
+2. 压缩到 UTF-8 字节数小于 bytes_max（中文一个字 3 字节，省两三个字通常就够）。
+   注意：一个换行在游戏里占 2 字节，别靠加换行凑。
 3. 优先删冗余：把"——"换成逗号或空格、"的"字能省就省、书面语改口语。
 4. 只输出 JSON：{"编号": "缩短后的译文"}。"""
 
 
 def shrink(ok, args, session):
-    """把超长译文再压一轮；压不动就保留并记录。"""
-    longs = {str(i): (e, v) for i, (e, v) in enumerate(ok.items(), 1)
-             if byte_len(v) > byte_len(e.msgid)}
+    """把超长译文再压一轮；压不动就保留并记录（GTT 由调用方丢弃）。
+
+    上限对 CODEC/olang 是英文原文长度，对 GTT 是那条自己的 budget。
+    """
+    longs, meta = {}, {}
+    for i, (e, v) in enumerate(ok.items(), 1):
+        b = budget_of(e)
+        mx = b if b is not None else byte_len(e.msgid)
+        now = stored_len(v) if b is not None else byte_len(v)
+        if now > mx:
+            longs[str(i)] = (e, v)
+            meta[str(i)] = (now, mx)
     if not longs:
         return ok
     items = {k: {"en": e.msgid, "zh": v,
-                 "bytes_now": byte_len(v), "bytes_max": byte_len(e.msgid)}
+                 "bytes_now": meta[k][0], "bytes_max": meta[k][1]}
              for k, (e, v) in longs.items()}
     payload = {
         "model": args.model,
@@ -525,7 +580,10 @@ def shrink(ok, args, session):
         val = fix_newlines(e.msgid, val.strip())
         if check(e.msgid, val):
             continue
-        if byte_len(val) < byte_len(e.msgid):
+        b = budget_of(e)
+        now = stored_len(val) if b is not None else byte_len(val)
+        mx = b if b is not None else byte_len(e.msgid)
+        if now < mx:
             ok[e] = val
             STATS["shrunk"] += 1
     return ok
@@ -535,7 +593,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--src", default=None, help="src 目录，默认 ../src")
     ap.add_argument("--file", action="append", help="指定 .po（可多次）")
-    ap.add_argument("--group", help="olang / codec / slot，逗号分隔")
+    ap.add_argument("--group", help="olang / codec / slot / gtt，逗号分隔")
     ap.add_argument("--limit", type=int, help="最多处理多少条")
     ap.add_argument("--batch", type=int, default=25, help="每请求多少条")
     ap.add_argument("--workers", type=int, default=4)
@@ -618,8 +676,9 @@ def main():
 
     print()
     print(f"完成：ok={STATS['ok']} fail={STATS['fail']} "
-          f"重译修复={STATS['repaired']} 压缩={STATS['shrunk']} "
-          f"仍超长={STATS['long']} 用时 {int(time.time() - t0)}s")
+          f"跳过={STATS['skip']} 重译修复={STATS['repaired']} "
+          f"压缩={STATS['shrunk']} 仍超长={STATS['long']} "
+          f"用时 {int(time.time() - t0)}s")
     print(f"失败明细 -> {LOG_PATH}")
 
 

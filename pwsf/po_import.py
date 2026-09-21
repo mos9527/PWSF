@@ -353,8 +353,17 @@ def main() -> None:
         dat, key, stats = slotdat_build.rebuild(slot_items, lang, args.outdir,
                                                 gtt=gtt_items)
         problems += slotdat_build.verify(dat, key, slot_items, lang,
-                                         gtt=gtt_items)
+                                         gtt=gtt_items,
+                                         dropped=stats["gtt_dropped_pools"],
+                                         written=stats["gtt_written"])
         problems += [f"gtt: {p}" for p in stats.get("gtt_problems", ())]
+        if stats["gtt_dropped"]:
+            notes.append(
+                f"{len(stats['gtt_dropped'])} SLOT.DAT record(s) "
+                f"({', '.join(str(i) for i in stats['gtt_dropped'][:8])}) "
+                f"could not be compressed into their slot with the GTT lines "
+                f"translated: those lines stay English "
+                f"(ANALYSIS/11 §5, slotdat_build._compress)")
         codepoints |= {ord(c) for t in slot_items.values() for c in t}
         codepoints |= {ord(c) for t in gtt_items.values() for c in t}
         # dest must be the LIVE game path, never S.dat_path(): that goes
