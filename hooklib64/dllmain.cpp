@@ -46,7 +46,7 @@ static inline uintptr_t pwsfModuleBase()
 {
     return reinterpret_cast<uintptr_t>(GetModuleHandleA(HOOKLIB_MODULE_NAME));
 }
-#define FONT_LOAD_XPR_HINT (pwsfModuleBase() + 0x42E20ull)
+#define FONT_LOAD_XPR_HINT (pwsfModuleBase())
 
 // ---- sigscan: font_load_xpr（现行构建实测 RVA 0x42E20）-------------------------
 // 40 55 53 56 57 41 54 41 55 41 56 41 57   push rbp/rbx/rsi/rdi/r12-r15 (8 个)
