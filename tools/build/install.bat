@@ -3,8 +3,8 @@ chcp 65001 >nul
 setlocal EnableExtensions
 rem PWSF — Peace Walker Sans Frontiers, 汉化补丁安装器（静态 helper）
 rem 用法: 双击运行后按提示粘贴游戏目录（含 FONT 和 MLG 的 mgspw）回车，
-rem       再选注入 DLL 装成 winmm.dll（默认）/ pwsf.asi / none
-rem 依赖同目录的 files.tsv（dest,payload）、files\ 目录和 pwsf.dll（可选）
+rem       装 pwsf.asi；游戏目录没有 ASI loader 时才补一个 winmm.dll
+rem 依赖同目录的 files.tsv（dest,payload）、files\ 目录、pwsf.asi 与 winmm.dll
 rem 不校验游戏原版：装之前请自己确认 Steam 游戏是最新原版
 set "SRC=%~dp0"
 
@@ -47,14 +47,15 @@ echo   [已装] %REL%
 exit /b 0
 
 :hook
-rem 注入 DLL：包里只带一个 pwsf.dll，装成什么名字由用户选（默认 winmm.dll）
-if not exist "%SRC%pwsf.dll" (echo 这一包没带注入 DLL（pwsf.dll），跳过字体 hook。 & exit /b 0)
-set "HOOKMODE=winmm"
-set /p "HOOKMODE=注入 DLL 装成 [winmm/asi/none]（回车=winmm）: "
-if /i "%HOOKMODE%"=="none" (echo 跳过注入 DLL。 & exit /b 0)
-if /i "%HOOKMODE%"=="asi" (set "HOOKNAME=pwsf.asi") else (set "HOOKNAME=winmm.dll")
-if "%HOOKNAME%"=="pwsf.asi" (if exist "%GDIR%\winmm.dll" del /q "%GDIR%\winmm.dll" >nul) else (if exist "%GDIR%\pwsf.asi" del /q "%GDIR%\pwsf.asi" >nul)
-copy /y "%SRC%pwsf.dll" "%GDIR%\%HOOKNAME%" >nul
-if errorlevel 1 (echo   [注入失败] %HOOKNAME% & exit /b 1)
-echo   [已装注入 DLL] %HOOKNAME%
+rem 注入 DLL：只出 pwsf.asi 一种 —— 伪装 winmm.dll 会加载在 exe 解密之前，扫不到
+if not exist "%SRC%pwsf.asi" (echo 这一包没带注入 DLL（pwsf.asi），跳过字体 hook。 & exit /b 0)
+copy /y "%SRC%pwsf.asi" "%GDIR%\pwsf.asi" >nul
+if errorlevel 1 (echo   [注入失败] pwsf.asi & exit /b 1)
+echo   [已装注入 DLL] pwsf.asi
+rem ASI loader：只在游戏目录还没有 winmm.dll 时才放，免得抢别的 mod 的 loader
+if exist "%GDIR%\winmm.dll" (echo   [保留] winmm.dll（已有 ASI loader，不动） & exit /b 0)
+if not exist "%SRC%winmm.dll" (echo   [警告] 包里没有 ASI loader，pwsf.asi 不会被加载。 & exit /b 0)
+copy /y "%SRC%winmm.dll" "%GDIR%\winmm.dll" >nul
+if errorlevel 1 (echo   [loader 失败] winmm.dll & exit /b 1)
+echo   [已装 ASI loader] winmm.dll
 exit /b 0

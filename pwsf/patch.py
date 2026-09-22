@@ -116,17 +116,24 @@ def build(build_dir: Path, pkg_dir: Path, lang: str = "en",
                              f"expected the static installers in tools/build/")
         shutil.copy2(src_bat, pkg_dir / bat)
 
-    # 注入 DLL 整包带着（名字恒为 pwsf.dll）；装成 winmm.dll 还是 pwsf.asi
-    # 由 install.bat（问用户）/ --hook 决定，构建侧不掺和。
-    # 这里强制按 PWSF_DEBUG=OFF 重编一次，避免把 --debug-hook 那版发出去。
+    # 注入 DLL：只有 pwsf.asi 一种形态（伪装成 winmm.dll 会加载在 exe 解密之前，
+    # sigscan 扫不到，2026-09-22 实测）。强制按 PWSF_DEBUG=OFF 重编一次，
+    # 免得把 --debug-hook 那版发出去。
     inst.build_hook(debug=False)
     hook = inst.find_hook_artifact()
     if hook:
-        shutil.copy2(hook, pkg_dir / hook.name)
-        print(f"  hook {hook.name} -> {pkg_dir / hook.name}")
+        shutil.copy2(hook, pkg_dir / inst.HOOK_ASI)
+        print(f"  hook {hook.name} -> {pkg_dir / inst.HOOK_ASI}")
     else:
         print(f"  hook: {inst.HOOK_DLL} not built, shipping without the "
               f"injection DLL")
+    # ASI loader：整包带着，install.bat 只在游戏目录没有 winmm.dll 时才放
+    loader = inst.find_loader_artifact()
+    if loader:
+        shutil.copy2(loader, pkg_dir / inst.HOOK_WINMM)
+        print(f"  loader {loader.name} -> {pkg_dir / inst.HOOK_WINMM}")
+    else:
+        print("  loader: repo carries no ASI loader, shipping without one")
 
     print(f"  {copied} file(s), {total:,} bytes -> {pkg_dir}")
     print(f"  version {version}")
@@ -220,9 +227,8 @@ def readme_text(version: str, items: list, lang: str, total: int) -> str:
         "",
         "【没有 Python 怎么装】",
         "  双击 install.bat，按提示把游戏目录（含 FONT 和 MLG 的 mgspw 文件夹）",
-        "  粘贴进去回车，再选注入 DLL 装成哪个名字：直接回车 = winmm.dll",
-        "  （推荐，伪装系统 winmm 会被自动加载），输 asi 装成 pwsf.asi",
-        "  （给扫描游戏根目录的 ASI loader 用），输 none 就不装。",
+        "  粘贴进去回车就行。它会装 pwsf.asi（字体注入），并在游戏目录还没有",
+        "  ASI loader 时补一个 winmm.dll —— 已经有的话原样保留，不动别的 mod。",
         "  它不自动找 Steam、也不读任何配置文件，每次都问你。",
         "",
         "【有 Python 怎么装】",
@@ -240,7 +246,8 @@ def readme_text(version: str, items: list, lang: str, total: int) -> str:
         "",
         "【这一包里有什么】",
         "  files\\  按游戏目录原样摆放的替换文件",
-        "  pwsf.dll  字体注入 DLL（装的时候拷成 winmm.dll 或 pwsf.asi）",
+        "  pwsf.asi   字体注入 DLL（由 ASI loader 加载）",
+        "  winmm.dll  自带的 ASI loader（仅当游戏目录没有时才装）",
         "  MANIFEST.tsv  每个文件的目标路径 / 补丁后哈希 / 原版哈希",
         "  PATCH.txt     版本、构建时间、逐文件哈希（人工核对用）",
         "",
@@ -271,10 +278,10 @@ def main() -> None:
                     help="language slot the build writes into; recorded in "
                          "PATCH.txt / README.txt only")
     ap.add_argument("--note", default="", help="free-form line in PATCH.txt")
-    ap.add_argument("--hook", choices=inst.HOOK_MODES, default="winmm",
-                    help="with --install, deploy the package's pwsf.dll as "
-                         "winmm.dll (default) or pwsf.asi; install.bat asks "
-                         "the same question")
+    ap.add_argument("--hook", choices=inst.HOOK_MODES, default="asi",
+                    help="with --install, deploy the package's pwsf.asi "
+                         "(default), adding the bundled ASI loader only when "
+                         "the game directory has none")
     args = ap.parse_args()
 
     if args.build:

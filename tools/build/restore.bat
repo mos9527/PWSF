@@ -39,12 +39,10 @@ echo   [已还原] %~1
 exit /b 0
 
 :unhook
-rem 装进去的注入 DLL 不进 files.tsv，得单独删：两个名字都试一遍
-for %%n in (winmm.dll pwsf.asi) do (
-  if exist "%GDIR%\%%n" (
-    del /q "%GDIR%\%%n" >nul
-    if errorlevel 1 (echo   [删除失败] %%n & exit /b 1)
-    echo   [已删注入 DLL] %%n
-  )
+rem 只删我们装的 pwsf.asi；winmm.dll 可能是玩家/别的 mod 的 ASI loader，一律不动
+if exist "%GDIR%\pwsf.asi" (
+  del /q "%GDIR%\pwsf.asi" >nul
+  if errorlevel 1 (echo   [删除失败] pwsf.asi & exit /b 1)
+  echo   [已删注入 DLL] pwsf.asi
 )
 exit /b 0

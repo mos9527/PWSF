@@ -106,14 +106,19 @@ BOOL APIENTRY DllMain(HMODULE hModule,
         HMODULE target = GetModuleHandleA(HOOKLIB_MODULE_NAME);
         void* addr = fontLoadXpr();          // cached scan; rescans if it was 0
         PWSF_LOG("target module \"%s\" = %p", HOOKLIB_MODULE_NAME, (void*)target);
-        PWSF_LOG("sigscan font_load_xpr = %p (caller expects %p)",
-                 addr, (void*)((char*)target + 0x42C60));
+        PWSF_LOG("sigscan font_load_xpr = %p (base + 0x%llX)",
+                 addr, (unsigned long long)((char*)addr - (char*)target));
 
         if (addr) {
+            // 静态初始化那时若没扫到，originalfont_load_xpr 会是 0，detour 前补上
+            originalfont_load_xpr =
+                reinterpret_cast<decltype(originalfont_load_xpr)>(addr);
             HOOKLIB_INSTALL_HOOK(font_load_xpr);
             PWSF_LOG("hook installed");
         } else {
-            PWSF_LOG("sigscan FAILED -> hook NOT installed");
+            PWSF_LOG("sigscan FAILED -> hook NOT installed (deploy as "
+                     "pwsf.asi: winmm.dll loads during import resolution, "
+                     "before the exe is decrypted)");
         }
     }
     else if (ul_reason_for_call == DLL_PROCESS_DETACH) {

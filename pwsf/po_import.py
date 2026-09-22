@@ -294,10 +294,10 @@ def main() -> None:
     ap.add_argument("--install", action="store_true",
                     help="install the build straight after verifying it "
                          "(see pwsf.install)")
-    ap.add_argument("--hook", choices=("winmm", "asi", "none"),
-                    default="winmm",
+    ap.add_argument("--hook", choices=("asi", "none"), default="asi",
                     help="with --install, deploy hooklib64's pwsf.dll as "
-                         "winmm.dll (default) or pwsf.asi, or not at all")
+                         "pwsf.asi (default; an ASI loader is added only if "
+                         "the game directory has none), or not at all")
     ap.add_argument("--debug-hook", action="store_true",
                     help="with --install, build the injection DLL with "
                          "-DPWSF_DEBUG=ON: it allocates a console and prints "

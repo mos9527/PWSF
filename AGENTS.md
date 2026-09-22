@@ -303,7 +303,9 @@ python -m pwsf.launch --build-shim     # 只编译到 research/BUILD/
 ```
 
 - 需要 Visual Studio 的 `cl`（自动探测 `VsDevCmd.bat`）
-- 注入 DLL（`hooklib64/`）同样要 MSVC + CMake，但不用手跑：`po_import --install` 自己 `cmake -S hooklib64 -B hooklib64/build -A x64 [-DPWSF_DEBUG=ON]` + `cmake --build … --config Release`（`install.build_hook`），产物恒为 `pwsf.dll`；装成 `winmm.dll`（默认）还是 `pwsf.asi` 由 `--hook winmm|asi|none` 决定（`pwsf.install` 同），打包则由 `install.bat` 问用户
+- 注入 DLL（`hooklib64/`）同样要 MSVC + CMake，但不用手跑：`po_import --install` 自己 `cmake -S hooklib64 -B hooklib64/build -A x64 [-DPWSF_DEBUG=ON]` + `cmake --build … --config Release`（`install.build_hook`），产物恒为 `pwsf.dll`
+- **只出 `pwsf.asi` 一种形态**：伪装成 `winmm.dll` 会在导入解析阶段就加载，跑在 exe 解密之前，sigscan 扫不到（2026-09-22 实测 `sigscan=0`）。`--hook asi|none`，默认 asi
+- 随包带一个 ASI loader（`tools/loader/winmm.dll`，Ultimate ASI Loader x64），**只在游戏目录没有 `winmm.dll` 时才放**；已有则保留，不动别的 mod 的 loader。还原只删 `pwsf.asi`
 - `--debug-hook` = 按 `-DPWSF_DEBUG=ON` 重编，弹控制台打印 hook 每一步（排查用，别发版）；`patch --build` 反过来会强制 `PWSF_DEBUG=OFF` 重编，防止调试版被打包
 - 源码 `pwsf/shim/launcher_shim.c`，**不反编译原启动器**，只是「切目录 →
   起游戏 → 等它退出」，等退出是为了让 Steam 一直显示「运行中」

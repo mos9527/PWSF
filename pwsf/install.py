@@ -24,14 +24,17 @@ Usage:
     python -m pwsf.install --restore
     python -m pwsf.install --restore --all   # every *.orig in the game dir
 
-hooklib64 builds exactly one artifact, `pwsf.dll`; what it is called once
-installed is a deployment decision (`--hook winmm` -> `winmm.dll`, default;
-`--hook asi` -> `pwsf.asi`; `--hook none` -> not deployed).  The game must find
-it in the same directory as `mgspw.exe` for the font hook to load.  It is not
-part of `MANIFEST.tsv`, so `install` copies `pwsf.dll` under the requested name
-and records that name in `pwsf_hook.txt`; `restore` removes exactly the name
-that was recorded.  A `winmm.dll` that is not ours (e.g. the player's own ASI
-loader) is never clobbered or deleted.  Build it first:
+hooklib64 builds exactly one artifact, `pwsf.dll`, and it is only ever deployed
+as `pwsf.asi` (`--hook asi`, default; `--hook none` skips it).  Shipping as
+`winmm.dll` does not work: that loads us during import resolution, before the
+exe finishes decrypting, so the sigscan finds nothing (measured 2026-09-22).
+
+`pwsf.asi` needs an ASI loader.  The repo carries one in `tools/loader/`, and
+`install` writes it **only when the game directory has no `winmm.dll` at all** --
+an existing one belongs to whoever put it there (another mod) and is left alone.
+The game must find both in the same directory as `mgspw.exe`.  Neither is part of
+`MANIFEST.tsv`; `install` records the hook name in `pwsf_hook.txt` and `restore`
+removes exactly that.  Build the hook first:
 
     cd hooklib64
     cmake -S . -B build -G "Visual Studio 18 2026" -A x64
@@ -178,26 +181,26 @@ def restore_all() -> None:
         print(f"  restored {dest.relative_to(config.GAME_DIR)}")
 
 
-# --- injection DLL (hooklib64 build output) ---------------------------------
-# Additive file living next to mgspw.exe; not part of MANIFEST.tsv.  hooklib64
-# builds one artifact (`pwsf.dll`); what it is called once deployed is this
-# module's call (--hook winmm|asi|none).
+# --- injection DLL (hooklib64 build output) + ASI loader ---------------------
+# 只有一种形态：hooklib64 产 `pwsf.dll`，装成 `pwsf.asi`，由 ASI loader 加载。
+# 不再伪装成 winmm.dll —— 那样会在导入解析阶段就加载，跑在 exe 解密之前，
+# sigscan 扫不到（2026-09-22 实测 WINMM.dll 版 sigscan = 0）。
+# 游戏目录没有 winmm.dll 时才补一个自带的 loader，已有则原样保留（别的 mod 的）。
 
-# hooklib64 只产一个 pwsf.dll；装进游戏时叫什么名字由 --hook 决定
 HOOK_DLL = "pwsf.dll"
-HOOK_WINMM = "winmm.dll"
 HOOK_ASI = "pwsf.asi"
-HOOK_NAMES = (HOOK_WINMM, HOOK_ASI)
-HOOK_MODES = ("winmm", "asi", "none")
+HOOK_WINMM = "winmm.dll"      # 只用来识别「已存在的 ASI loader」，不覆盖也不删
+HOOK_NAMES = (HOOK_ASI, HOOK_WINMM)
+HOOK_MODES = ("asi", "none")
 
-
-# 记录"我们装了哪个名字"。游戏目录里的 winmm.dll 可能是用户自己的 ASI loader
-# （3.6 MB 那种），绝不能当成我们的产物来覆盖或删除。
+# 记录"我们装了哪个名字"：还原时只删这个，绝不碰外来/原样保留的 loader
 HOOK_MARK = "pwsf_hook.txt"
 
 
-def hook_name(mode: str) -> str:
-    return HOOK_WINMM if mode == "winmm" else HOOK_ASI
+def find_loader_artifact() -> Path | None:
+    """The bundled ASI loader (`winmm.dll`), if the repo carries one."""
+    p = config.REPO_ROOT / "tools" / "loader" / HOOK_WINMM
+    return p if p.is_file() else None
 
 
 def _hook_mark() -> Path:
@@ -273,37 +276,49 @@ def build_hook(debug: bool = False, verbose: bool = True) -> bool:
     return True
 
 
-def status_hook(mode: str = "winmm") -> None:
+def status_hook(mode: str = "asi") -> None:
     art = find_hook_artifact()
-    want = hook_name(mode)
     ours = _deployed_names()
-    shown = False
-    for name in HOOK_NAMES:
-        dst = config.GAME_DIR / name
-        if not dst.is_file():
-            continue
-        shown = True
-        if name in ours or _is_ours(dst):
-            note = "" if name == want else f"  (stale, --hook wants {want})"
-            print(f"  hook      installed  {name}{note}")
+    dst = config.GAME_DIR / HOOK_ASI
+    if dst.is_file():
+        if HOOK_ASI in ours or _is_ours(dst):
+            if art is not None and sha256(dst) == sha256(art):
+                print(f"  hook      installed  {HOOK_ASI}")
+            else:
+                print(f"  hook      differs    {HOOK_ASI} "
+                      f"(rebuild, then --install)")
         elif not art:
-            print(f"  hook      present    {name} ({HOOK_DLL} not built)")
+            print(f"  hook      present    {HOOK_ASI} ({HOOK_DLL} not built)")
         else:
-            print(f"  hook      foreign    {name} (not ours, left alone)")
-    if not shown:
-        if not art:
-            print(f"  hook      not built  {HOOK_DLL} "
-                  f"(cd hooklib64 && cmake --build build)")
-        else:
-            print(f"  hook      missing    {want} (--install to deploy)")
+            print(f"  hook      foreign    {HOOK_ASI} (not ours, left alone)")
+    elif not art:
+        print(f"  hook      not built  {HOOK_DLL} "
+              f"(cd hooklib64 && cmake --build build)")
+    else:
+        print(f"  hook      missing    {HOOK_ASI} (--install to deploy)")
+
+    loader = config.GAME_DIR / HOOK_WINMM
+    if loader.is_file():
+        kind = "ours(fake)" if _is_ours(loader) else "kept"
+        print(f"  loader    {kind:9}  {HOOK_WINMM}")
+    elif find_loader_artifact():
+        print(f"  loader    missing    {HOOK_WINMM} (--install adds the "
+              f"bundled one)")
+    else:
+        print(f"  loader    none       (repo carries no ASI loader)")
 
 
-def deploy_hook(mode: str = "winmm", force: bool = False) -> None:
-    """Copy hooklib64's pwsf.dll next to mgspw.exe under its deploy name.
+def deploy_hook(mode: str = "asi", force: bool = False) -> None:
+    """Install `pwsf.asi` next to mgspw.exe, plus an ASI loader if none exists.
 
-    Refuses to clobber an existing file that is neither this build nor a hook
-    we installed before: with an ASI loader in the game directory, a foreign
-    `winmm.dll` is someone else's and must survive.  --force overrides.
+    Only the asi shape is shipped: pretending to be `winmm.dll` loads us during
+    import resolution, before the exe finishes decrypting, and the sigscan finds
+    nothing (measured 2026-09-22).
+
+    The bundled loader is written **only when the game directory has no
+    `winmm.dll` at all** -- an existing one belongs to whoever put it there
+    (another mod) and must survive.  --force only relaxes the guard on our own
+    `pwsf.asi`.
     """
     if mode == "none":
         remove_hook()
@@ -314,27 +329,37 @@ def deploy_hook(mode: str = "winmm", force: bool = False) -> None:
         print(f"  (hook: {HOOK_DLL} not built -- "
               f"cd hooklib64 && cmake --build build)")
         return
-    target = hook_name(mode)
-    other = HOOK_WINMM if mode == "asi" else HOOK_ASI
-    stale = config.GAME_DIR / other
-    if stale.is_file() and (other in _deployed_names() or _is_ours(stale)):
-        stale.unlink()          # never leave both: that would double-inject
-        print(f"  removed {other} (switching to {target})")
-    dst = config.GAME_DIR / target
+
+    dst = config.GAME_DIR / HOOK_ASI
     if dst.is_file() and sha256(dst) == sha256(art):
-        _mark_deployed(target)
-        print(f"  unchanged {target} (hook already installed)")
+        print(f"  unchanged {HOOK_ASI} (hook already installed)")
+    else:
+        if dst.is_file() and not _is_ours(dst) \
+                and HOOK_ASI not in _deployed_names() and not force:
+            raise SystemExit(
+                f"{HOOK_ASI}: a file with that name already exists in the game "
+                f"directory and is not a hook we installed. Refusing to "
+                f"overwrite it; pass --force if you really mean it.")
+        shutil.copy2(art, dst)
+        print(f"  installed {HOOK_ASI} (hook, from {art.name})")
+    _mark_deployed(HOOK_ASI)
+
+    bundled = find_loader_artifact()
+    loader = config.GAME_DIR / HOOK_WINMM
+    if loader.is_file():
+        if _is_ours(loader) and bundled:
+            # 我们自己的 dll 顶在 winmm.dll 上（早加载会扫不到），换回真 loader
+            shutil.copy2(bundled, loader)
+            print(f"  replaced {HOOK_WINMM} (our own dll) with the bundled "
+                  f"ASI loader")
+        else:
+            print(f"  kept {HOOK_WINMM} (an ASI loader is already there)")
         return
-    if dst.is_file() and not _is_ours(dst) \
-            and target not in _deployed_names() and not force:
-        raise SystemExit(
-            f"{target}: a file with that name already exists in the game "
-            f"directory and is not a hook we installed -- it may be your own "
-            f"ASI loader. Refusing to overwrite it; pass --force if you "
-            f"really mean it, or pick another --hook mode.")
-    shutil.copy2(art, dst)
-    _mark_deployed(target)
-    print(f"  installed {target} (hook, from {art.name})")
+    if not bundled:
+        print(f"  (repo carries no ASI loader: {HOOK_ASI} will not load)")
+        return
+    shutil.copy2(bundled, loader)
+    print(f"  installed {HOOK_WINMM} (bundled ASI loader, none was present)")
 
 
 def remove_hook() -> None:
@@ -371,9 +396,11 @@ def main() -> None:
     ap.add_argument("--force", action="store_true",
                     help="with --install, overwrite game files whose content "
                          "is not recognised (the original may be lost)")
-    ap.add_argument("--hook", choices=HOOK_MODES, default="winmm",
+    ap.add_argument("--hook", choices=HOOK_MODES, default="asi",
                     help="with --install, deploy hooklib64's pwsf.dll as "
-                         "winmm.dll (default) or pwsf.asi, or not at all")
+                         "pwsf.asi (default; needs an ASI loader -- the bundled "
+                         "one is added only if the game directory has none), "
+                         "or not at all")
     args = ap.parse_args()
     config.require_game()
 

@@ -36,10 +36,13 @@ python -m pwsf.config --init
 python -m pwsf.po_import --install
 ```
 
-- `--hook asi` 装成 `pwsf.asi`（需要已有 Ultimate ASI Loader），`--hook none` 不装
+- 注入 DLL 只有一种形态：编出的 `pwsf.dll` 装成 **`pwsf.asi`**（`--hook asi`，
+  默认；`--hook none` 不装）。伪装成 `winmm.dll` 会在 exe 解密之前加载，扫不到代码
+- 自带的 ASI loader（`winmm.dll`）**只在游戏目录没有时才补一个**；已有则原样保留，
+  不抢别的 mod 的 loader
 - `--debug-hook` 按 `-DPWSF_DEBUG=ON` 重编：弹控制台并打印 hook 每一步
 
-还原：`python -m pwsf.install --restore`   # 也会把装进去的注入 DLL 删掉
+还原：`python -m pwsf.install --restore`   # 删掉装进去的 pwsf.asi（loader 保留）
 
 可选，启动器直接启动游戏：
 
@@ -52,8 +55,8 @@ python -m pwsf.launch --install-shim
 
 ```text
 install.bat "游戏目录\mgspw"     # 装之前先确认 Steam 游戏是最新原版
-                                  # 会问注入 DLL 装成 winmm.dll（默认）还是 pwsf.asi
-restore.bat "游戏目录\mgspw"     # 还原 *.orig 备份，并删掉注入 DLL
+                                  # 装 pwsf.asi；缺 ASI loader 时才补一个 winmm.dll
+restore.bat "游戏目录\mgspw"     # 还原 *.orig 备份，并删掉 pwsf.asi（loader 保留）
 ```
 
 其余见 [`AGENTS.md`](AGENTS.md)
