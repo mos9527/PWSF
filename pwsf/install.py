@@ -23,6 +23,19 @@ Usage:
     python -m pwsf.install --install
     python -m pwsf.install --restore
     python -m pwsf.install --restore --all   # every *.orig in the game dir
+
+hooklib64 builds exactly one artifact, `pwsf.dll`; what it is called once
+installed is a deployment decision (`--hook winmm` -> `winmm.dll`, default;
+`--hook asi` -> `pwsf.asi`; `--hook none` -> not deployed).  The game must find
+it in the same directory as `mgspw.exe` for the font hook to load.  It is not
+part of `MANIFEST.tsv`, so `install` copies `pwsf.dll` under the requested name
+and records that name in `pwsf_hook.txt`; `restore` removes exactly the name
+that was recorded.  A `winmm.dll` that is not ours (e.g. the player's own ASI
+loader) is never clobbered or deleted.  Build it first:
+
+    cd hooklib64
+    cmake -S . -B build -G "Visual Studio 18 2026" -A x64
+    cmake --build build --config Release     # -> build/Release/pwsf.dll
 """
 
 import argparse
@@ -164,6 +177,154 @@ def restore_all() -> None:
         print(f"  restored {dest.relative_to(config.GAME_DIR)}")
 
 
+# --- injection DLL (hooklib64 build output) ---------------------------------
+# Additive file living next to mgspw.exe; not part of MANIFEST.tsv.  hooklib64
+# builds one artifact (`pwsf.dll`); what it is called once deployed is this
+# module's call (--hook winmm|asi|none).
+
+# hooklib64 只产一个 pwsf.dll；装进游戏时叫什么名字由 --hook 决定
+HOOK_DLL = "pwsf.dll"
+HOOK_WINMM = "winmm.dll"
+HOOK_ASI = "pwsf.asi"
+HOOK_NAMES = (HOOK_WINMM, HOOK_ASI)
+HOOK_MODES = ("winmm", "asi", "none")
+
+
+# 记录"我们装了哪个名字"。游戏目录里的 winmm.dll 可能是用户自己的 ASI loader
+# （3.6 MB 那种），绝不能当成我们的产物来覆盖或删除。
+HOOK_MARK = "pwsf_hook.txt"
+
+
+def hook_name(mode: str) -> str:
+    return HOOK_WINMM if mode == "winmm" else HOOK_ASI
+
+
+def _hook_mark() -> Path:
+    return config.GAME_DIR / HOOK_MARK
+
+
+def _deployed_names() -> list:
+    p = _hook_mark()
+    if not p.is_file():
+        return []
+    return [ln.strip() for ln in p.read_text(encoding="utf-8").splitlines()
+            if ln.strip()]
+
+
+def _mark_deployed(name: str) -> None:
+    _hook_mark().write_text(name + "\n", encoding="utf-8")
+
+
+def _is_ours(dst: Path) -> bool:
+    """True only when `dst` is the artifact hooklib64 built.
+
+    The game directory can legitimately hold a foreign `winmm.dll` -- an ASI
+    loader the player put there -- which must never be clobbered or deleted.
+    """
+    art = find_hook_artifact()
+    return art is not None and dst.is_file() and sha256(dst) == sha256(art)
+
+
+def _hooklib_dir() -> Path:
+    return Path(__file__).resolve().parents[1] / "hooklib64"
+
+
+def find_hook_artifact() -> Path | None:
+    """The built hooklib64 artifact: `pwsf.dll`, whatever it gets deployed as."""
+    root = _hooklib_dir()
+    for cand in (root / HOOK_DLL, root / "build" / "Release" / HOOK_DLL):
+        if cand.is_file():
+            return cand
+    return None
+
+
+def status_hook(mode: str = "winmm") -> None:
+    art = find_hook_artifact()
+    want = hook_name(mode)
+    ours = _deployed_names()
+    shown = False
+    for name in HOOK_NAMES:
+        dst = config.GAME_DIR / name
+        if not dst.is_file():
+            continue
+        shown = True
+        if name in ours or _is_ours(dst):
+            note = "" if name == want else f"  (stale, --hook wants {want})"
+            print(f"  hook      installed  {name}{note}")
+        elif not art:
+            print(f"  hook      present    {name} ({HOOK_DLL} not built)")
+        else:
+            print(f"  hook      foreign    {name} (not ours, left alone)")
+    if not shown:
+        if not art:
+            print(f"  hook      not built  {HOOK_DLL} "
+                  f"(cd hooklib64 && cmake --build build)")
+        else:
+            print(f"  hook      missing    {want} (--install to deploy)")
+
+
+def deploy_hook(mode: str = "winmm", force: bool = False) -> None:
+    """Copy hooklib64's pwsf.dll next to mgspw.exe under its deploy name.
+
+    Refuses to clobber an existing file that is neither this build nor a hook
+    we installed before: with an ASI loader in the game directory, a foreign
+    `winmm.dll` is someone else's and must survive.  --force overrides.
+    """
+    if mode == "none":
+        remove_hook()
+        print("  hook      skipped    (--hook none)")
+        return
+    art = find_hook_artifact()
+    if not art:
+        print(f"  (hook: {HOOK_DLL} not built -- "
+              f"cd hooklib64 && cmake --build build)")
+        return
+    target = hook_name(mode)
+    other = HOOK_WINMM if mode == "asi" else HOOK_ASI
+    stale = config.GAME_DIR / other
+    if stale.is_file() and (other in _deployed_names() or _is_ours(stale)):
+        stale.unlink()          # never leave both: that would double-inject
+        print(f"  removed {other} (switching to {target})")
+    dst = config.GAME_DIR / target
+    if dst.is_file() and sha256(dst) == sha256(art):
+        _mark_deployed(target)
+        print(f"  unchanged {target} (hook already installed)")
+        return
+    if dst.is_file() and not _is_ours(dst) \
+            and target not in _deployed_names() and not force:
+        raise SystemExit(
+            f"{target}: a file with that name already exists in the game "
+            f"directory and is not a hook we installed -- it may be your own "
+            f"ASI loader. Refusing to overwrite it; pass --force if you "
+            f"really mean it, or pick another --hook mode.")
+    shutil.copy2(art, dst)
+    _mark_deployed(target)
+    print(f"  installed {target} (hook, from {art.name})")
+
+
+def remove_hook() -> None:
+    """Delete the hook we installed -- and nothing else.
+
+    Names come from the marker file if it exists; otherwise only a file that
+    is byte-for-byte the built artifact is removed.  A foreign `winmm.dll`
+    (an ASI loader) is never touched.
+    """
+    names = _deployed_names()
+    if names:
+        for name in names:
+            dst = config.GAME_DIR / name
+            if dst.is_file():
+                dst.unlink()
+                print(f"  removed {name} (hook)")
+        _hook_mark().unlink(missing_ok=True)
+        return
+    for name in HOOK_NAMES:
+        dst = config.GAME_DIR / name
+        if _is_ours(dst):
+            dst.unlink()
+            print(f"  removed {name} (hook)")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--build-dir", type=Path, default=config.BUILD_DIR)
@@ -175,6 +336,9 @@ def main() -> None:
     ap.add_argument("--force", action="store_true",
                     help="with --install, overwrite game files whose content "
                          "is not recognised (the original may be lost)")
+    ap.add_argument("--hook", choices=HOOK_MODES, default="winmm",
+                    help="with --install, deploy hooklib64's pwsf.dll as "
+                         "winmm.dll (default) or pwsf.asi, or not at all")
     args = ap.parse_args()
     config.require_game()
 
@@ -187,10 +351,13 @@ def main() -> None:
     print(f"{len(items)} file(s) in {args.build_dir / MANIFEST}")
     if args.install:
         install(items, args.force)
+        deploy_hook(args.hook, args.force)
     elif args.restore:
         restore(items)
+        remove_hook()
     else:
         status(items)
+        status_hook(args.hook)
         print("\n--install to write these into the game, --restore to undo")
 
 

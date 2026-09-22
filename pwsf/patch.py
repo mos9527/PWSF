@@ -116,6 +116,16 @@ def build(build_dir: Path, pkg_dir: Path, lang: str = "en",
                              f"expected the static installers in tools/build/")
         shutil.copy2(src_bat, pkg_dir / bat)
 
+    # 注入 DLL 整包带着（名字恒为 pwsf.dll）；装成 winmm.dll 还是 pwsf.asi
+    # 由 install.bat（问用户）/ --hook 决定，构建侧不掺和
+    hook = inst.find_hook_artifact()
+    if hook:
+        shutil.copy2(hook, pkg_dir / hook.name)
+        print(f"  hook {hook.name} -> {pkg_dir / hook.name}")
+    else:
+        print(f"  hook: {inst.HOOK_DLL} not built, shipping without the "
+              f"injection DLL")
+
     print(f"  {copied} file(s), {total:,} bytes -> {pkg_dir}")
     print(f"  version {version}")
     return pkg_dir
@@ -208,7 +218,10 @@ def readme_text(version: str, items: list, lang: str, total: int) -> str:
         "",
         "【没有 Python 怎么装】",
         "  双击 install.bat，按提示把游戏目录（含 FONT 和 MLG 的 mgspw 文件夹）",
-        "  粘贴进去回车就行。它不自动找 Steam、也不读任何配置文件，每次都问你。",
+        "  粘贴进去回车，再选注入 DLL 装成哪个名字：直接回车 = winmm.dll",
+        "  （推荐，伪装系统 winmm 会被自动加载），输 asi 装成 pwsf.asi",
+        "  （给扫描游戏根目录的 ASI loader 用），输 none 就不装。",
+        "  它不自动找 Steam、也不读任何配置文件，每次都问你。",
         "",
         "【有 Python 怎么装】",
         "  在本仓库根目录：",
@@ -216,7 +229,8 @@ def readme_text(version: str, items: list, lang: str, total: int) -> str:
         "",
         "【还原】",
         "  restore.bat（带 Python 就 python -m pwsf.patch --restore）",
-        "  会把 *.orig 拷回去。想连备份一起清掉，手动删 *.orig。",
+        "  会把 *.orig 拷回去，并删掉装进去的注入 DLL。",
+        "  想连备份一起清掉，手动删 *.orig。",
         "",
         "【游戏更新后】",
         "  先还原，再让 Steam 更新，然后重新打补丁：更新会覆盖原文件，",
@@ -224,6 +238,7 @@ def readme_text(version: str, items: list, lang: str, total: int) -> str:
         "",
         "【这一包里有什么】",
         "  files\\  按游戏目录原样摆放的替换文件",
+        "  pwsf.dll  字体注入 DLL（装的时候拷成 winmm.dll 或 pwsf.asi）",
         "  MANIFEST.tsv  每个文件的目标路径 / 补丁后哈希 / 原版哈希",
         "  PATCH.txt     版本、构建时间、逐文件哈希（人工核对用）",
         "",
@@ -254,6 +269,10 @@ def main() -> None:
                     help="language slot the build writes into; recorded in "
                          "PATCH.txt / README.txt only")
     ap.add_argument("--note", default="", help="free-form line in PATCH.txt")
+    ap.add_argument("--hook", choices=inst.HOOK_MODES, default="winmm",
+                    help="with --install, deploy the package's pwsf.dll as "
+                         "winmm.dll (default) or pwsf.asi; install.bat asks "
+                         "the same question")
     args = ap.parse_args()
 
     if args.build:
@@ -271,9 +290,11 @@ def main() -> None:
         # shipped installer: no game-original hash gate (player confirms Steam
         # is up to date); just back up + overwrite.
         inst.install(inst.read_manifest(args.pkg_dir), verify_game=False)
+        inst.deploy_hook(args.hook, True)
         print("restore with: python -m pwsf.patch --restore")
     elif args.restore:
         inst.restore(inst.read_manifest(args.pkg_dir))
+        inst.remove_hook()
     else:
         inst.status(inst.read_manifest(args.pkg_dir))
         print("\n--install to apply, --restore to undo")

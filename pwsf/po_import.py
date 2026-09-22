@@ -294,6 +294,10 @@ def main() -> None:
     ap.add_argument("--install", action="store_true",
                     help="install the build straight after verifying it "
                          "(see pwsf.install)")
+    ap.add_argument("--hook", choices=("winmm", "asi", "none"),
+                    default="winmm",
+                    help="with --install, deploy hooklib64's pwsf.dll as "
+                         "winmm.dll (default) or pwsf.asi, or not at all")
     ap.add_argument("--force", action="store_true",
                     help="with --install, overwrite game files whose content "
                          "is not recognised (the original may be lost)")
@@ -426,9 +430,22 @@ def main() -> None:
                                  config.pristine(config.FONT_DIR / built.name)))
         if not font_problems:
             print("  verified: " + ("shipped metrics and inherited pixels "
-                                    "unchanged, everything mapped non-blank"
-                                    if args.rebuild_font else
-                                    "every code point has a non-blank glyph"))
+                                   "unchanged, everything mapped non-blank"
+                                   if args.rebuild_font else
+                                   "every code point has a non-blank glyph"))
+        # 路线 A：把 000ebbe8.xpr 写成 0007ccd8.xpr 的字节副本。小字体界面因此
+        # 拿到同一张全字库图集；DLL 只把它的 2048x1024 加载尺寸改成 4096x4096，
+        # 不动资源名（改名字会撞同名资源重入，2026-09-22 崩过）。走 manifest，
+        # 所以 install 会留 .orig、restore 能还原。
+        small = args.outdir / f"{config.FONT_SMALL}.xpr"
+        small.write_bytes(built.read_bytes())
+        if sha256(small) != sha256(built):
+            problems.append("font: the small-font mirror is not a byte copy of "
+                            "the large atlas")
+        rows.append(manifest_row(small, config.FONT_DIR / small.name, "font",
+                                 config.pristine(config.FONT_DIR / small.name)))
+        print(f"  {small.name} <- byte copy of {built.name} "
+              f"({small.stat().st_size} bytes)")
 
     if problems:
         print(f"\n{len(problems)} VERIFICATION FAILURE(S):")
@@ -452,6 +469,7 @@ def main() -> None:
     from . import install
     print(f"\ninstalling into {config.GAME_DIR}")
     install.install(install.read_manifest(args.outdir), args.force)
+    install.deploy_hook(args.hook, args.force)
     print("restore with: python -m pwsf.install --restore")
 
     if args.launch:

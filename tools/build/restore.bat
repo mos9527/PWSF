@@ -3,7 +3,7 @@ chcp 65001 >nul
 setlocal EnableExtensions
 rem PWSF — Peace Walker Sans Frontiers, 汉化补丁还原器（静态 helper）
 rem 用法: 双击运行后按提示粘贴游戏目录（含 FONT 和 MLG 的 mgspw）回车
-rem 把每个被替换文件的 *.orig 拷回游戏文件
+rem 把每个被替换文件的 *.orig 拷回游戏文件，并删掉装进去的注入 DLL
 set "SRC=%~dp0"
 
 set /p GDIR=游戏目录（含 FONT 和 MLG 的 mgspw）: 
@@ -15,6 +15,7 @@ if not exist "%GDIR%\MLG\" echo 不是游戏目录: %GDIR% & exit /b 1
 echo 游戏目录: %GDIR%
 echo 正在还原原版（*.orig -^> 游戏文件）...
 for /f "usebackq skip=1 tokens=1 delims=," %%a in ("%SRC%files.tsv") do call :undo "%%a" || goto :fail
+call :unhook || goto :fail
 echo.
 echo 已还原。*.orig 备份保留着，确认没问题后可以手动删。
 endlocal
@@ -35,4 +36,15 @@ if not exist "%BAK%" echo   [没备份] %~1 本就是原版？ & exit /b 0
 copy /y "%BAK%" "%LIVE%" >nul
 if errorlevel 1 echo   [还原失败] %~1 & exit /b 1
 echo   [已还原] %~1
+exit /b 0
+
+:unhook
+rem 装进去的注入 DLL 不进 files.tsv，得单独删：两个名字都试一遍
+for %%n in (winmm.dll pwsf.asi) do (
+  if exist "%GDIR%\%%n" (
+    del /q "%GDIR%\%%n" >nul
+    if errorlevel 1 (echo   [删除失败] %%n & exit /b 1)
+    echo   [已删注入 DLL] %%n
+  )
+)
 exit /b 0

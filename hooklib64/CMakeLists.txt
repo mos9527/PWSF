@@ -10,14 +10,15 @@ link_libraries(${CMAKE_SOURCE_DIR}/detours/lib/detours.lib)
 add_library(dllmain SHARED dllmain.cpp)
 target_compile_options(dllmain PUBLIC /GR- /GS-)
 
-# 默认产出 winmm.dll（伪装 winmm 导出，ASI loader 也能扫到）。
-# cmake -DPWSF_ASI=ON 改为产出 pwsf.asi（给扫描游戏根目录的 ASI loader）。
-option(PWSF_ASI "Emit pwsf.asi instead of winmm.dll" OFF)
-if(PWSF_ASI)
-  set_target_properties(dllmain PROPERTIES OUTPUT_NAME "pwsf" SUFFIX ".asi")
-else()
-  set_target_properties(dllmain PROPERTIES OUTPUT_NAME "winmm")
+# 诊断：AllocConsole + printf（排查用，出发布包前 -DPWSF_DEBUG=OFF）
+option(PWSF_DEBUG "Alloc a console and print hook diagnostics" ON)
+if(PWSF_DEBUG)
+  target_compile_definitions(dllmain PRIVATE PWSF_DEBUG=1)
 endif()
+
+# 产物恒为 pwsf.dll。装进游戏时它叫 winmm.dll 还是 pwsf.asi，是安装侧的事
+# （pwsf.install --hook winmm|asi|none / install.bat 问用户），构建不掺和。
+set_target_properties(dllmain PROPERTIES OUTPUT_NAME "pwsf")
 
 # 顺手把产物丢到工程根目录，方便部署
 add_custom_command(TARGET dllmain POST_BUILD

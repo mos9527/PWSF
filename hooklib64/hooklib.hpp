@@ -47,7 +47,7 @@ FORCEINLINE const MODULEINFO* hooklibGetModuleInfo()
         return _moduleInfo;
 
     _moduleInfo = new MODULEINFO();
-    ZeroMemory(&_moduleInfo, sizeof(MODULEINFO));
+    ZeroMemory(_moduleInfo, sizeof(MODULEINFO));
     if (!GetModuleInformation(GetCurrentProcess(), GetModuleHandle((LPCSTR)HOOKLIB_MODULE_NAME), _moduleInfo, sizeof(MODULEINFO)))
         delete _moduleInfo, _moduleInfo = nullptr;
     return _moduleInfo;

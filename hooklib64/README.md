@@ -15,7 +15,7 @@ Currently, the DLL can be spoofed as:
 Identical files will be copied into the `artifacts/` directory. Copying those to applications that use them will allow the DLL to be loaded instead of the original.
 
 ## Examples
-MSVC (Visual Studio) and CMake is required to compile the DLL due to the usage of `#pragma comment(lib, ...)`
+MSVC (the **Visual Studio Build Tools** workload -- the `MSVC` and `Windows SDK` components) and CMake are required to compile the DLL, because it relies on `#pragma comment(lib, ...)`. A full Visual Studio install works too.
 
 ### Win32 API Hooks
 Hides the tray icon from the taskbar if the application creates one

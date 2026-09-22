@@ -3,10 +3,21 @@
 目标二进制：`METAL GEAR SOLID PEACE WALKER.exe`（Steam，x64，原生 D3D11 + MediaFoundation）
 ```
 base 0x140000000  size 0x1964000
+
+# 分析时的二进制 —— 已过期：Steam 更新过，与现行文件不是同一个
 md5    5bfe6b2cdbb77c3f0f3cff05fcad22bd
 sha256 5bc5756166e611d7f15e84e8032ac417771a9633d8cc072dab20a7613e588fff
 IDB    C:\Program Files (x86)\Steam\steamapps\common\MGS_PW\mgspw\*.i64
+
+# 现行二进制（2026-09-22 实测）
+md5    b2a4d3ae03b8eb02f0bc9fcc8b47d8a6
+sha256 e9c2e7241438ca70cdc5470b36504995deedd1e5f731a3b2609ff8a96a894305
 ```
+
+> **⚠ 二进制已漂移**：`font_load_xpr` 从 RVA `0x42C60` 挪到 `0x42E20`（+0x1C0），
+> 见 ANALYSIS/05_font.md §13.8。本文及 ANALYSIS/ 里所有 `0x1400…` 绝对地址
+> 对现行构建都可能偏移 —— **数据格式结论不受影响，地址型结论需重新核对**。
+> 注入 DLL 因此一律用 sigscan，不写死地址。
 
 ## 工作原则（来自 AGENTS.md）
 
