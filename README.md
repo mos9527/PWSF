@@ -26,27 +26,26 @@ pip install pillow
 
 > [!NOTE]
 > 需要 **Visual Studio Build Tools**（MSVC `cl` + Windows SDK）和 `cmake`：
-> 注入 DLL（`hooklib64/`）和启动器 shim（`pwsf/shim/`）都靠 MSVC 编，
-> 纯 Python 的 `po_import` 汉化链路本身不依赖它。
+> 注入 DLL（`hooklib64/`）由 `po_import --install` 自动调 cmake 编，启动器
+> shim（`pwsf/shim/`）靠 `cl` 编。纯 Python 的汉化链路本身不依赖它。
 
 在根目录执行。
 
-- 前置 DLL 构建 -> `pwsf.dll`（名字固定，装成 winmm.dll 还是 pwsf.asi 由安装侧选）
-```powershell
-cmake -S hooklib64 -B hooklib64/build -A x64
-cmake --build hooklib64/build --config Release
-```
-
-- 根目录下安装
-- `pwsf.dll` 默认装成 `winmm.dll`
-- `--hook asi` 装成 `pwsf.asi`（需要已有 Ultimate ASI Loader），`--hook none `不装
 ```powershell
 python -m pwsf.config --init
 python -m pwsf.po_import --install
 ```
 
+- `--hook asi` 装成 `pwsf.asi`（需要已有 Ultimate ASI Loader），`--hook none` 不装
+- `--debug-hook` 按 `-DPWSF_DEBUG=ON` 重编：弹控制台并打印 hook 每一步
+
 还原：`python -m pwsf.install --restore`   # 也会把装进去的注入 DLL 删掉
 
+可选，启动器直接启动游戏：
+
+```powershell
+python -m pwsf.launch --install-shim
+```
 ## 补丁构建
 
 `python -m pwsf.patch --build` 可生成补丁包。

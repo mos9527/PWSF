@@ -40,6 +40,7 @@ loader) is never clobbered or deleted.  Build it first:
 
 import argparse
 import shutil
+import subprocess
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -236,6 +237,40 @@ def find_hook_artifact() -> Path | None:
         if cand.is_file():
             return cand
     return None
+
+
+def build_hook(debug: bool = False, verbose: bool = True) -> bool:
+    """Configure and build hooklib64's `pwsf.dll` with cmake.
+
+    Folded into the pipeline so `po_import --install` produces the injection DLL
+    on its own instead of asking for a hand-run cmake.  Needs Visual Studio
+    Build Tools (MSVC + Windows SDK) and cmake on PATH.
+
+    Returns False -- with a warning, never an exception -- when cmake is not
+    there or the build fails; the deploy then reports the artifact as missing.
+    """
+    root = _hooklib_dir()
+    build = root / "build"
+    flag = "ON" if debug else "OFF"
+    steps = [
+        ["cmake", "-S", str(root), "-B", str(build), "-A", "x64",
+         f"-DPWSF_DEBUG={flag}"],
+        ["cmake", "--build", str(build), "--config", "Release"],
+    ]
+    for cmd in steps:
+        try:
+            r = subprocess.run(cmd, capture_output=True, text=True, timeout=900)
+        except (OSError, subprocess.SubprocessError) as exc:
+            print(f"  hook: cannot run cmake ({exc}); skipping the hook build")
+            return False
+        if r.returncode != 0:
+            print(f"  hook: {' '.join(cmd)} failed (exit {r.returncode})")
+            for line in (r.stderr or "").splitlines()[-5:]:
+                print(f"    {line}")
+            return False
+    if verbose:
+        print(f"  hook: {HOOK_DLL} built (PWSF_DEBUG={flag})")
+    return True
 
 
 def status_hook(mode: str = "winmm") -> None:

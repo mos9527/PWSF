@@ -303,7 +303,8 @@ python -m pwsf.launch --build-shim     # 只编译到 research/BUILD/
 ```
 
 - 需要 Visual Studio 的 `cl`（自动探测 `VsDevCmd.bat`）
-- 注入 DLL（`hooklib64/`）同样要 MSVC + CMake：`cmake -S . -B build -G "Visual Studio 18 2026" -A x64 && cmake --build build --config Release`，产物恒为 `pwsf.dll`；装成 `winmm.dll`（默认）还是 `pwsf.asi` 由安装侧选：`pwsf.install --hook winmm|asi|none`（`po_import --install` 同），打包则由 `install.bat` 问用户
+- 注入 DLL（`hooklib64/`）同样要 MSVC + CMake，但不用手跑：`po_import --install` 自己 `cmake -S hooklib64 -B hooklib64/build -A x64 [-DPWSF_DEBUG=ON]` + `cmake --build … --config Release`（`install.build_hook`），产物恒为 `pwsf.dll`；装成 `winmm.dll`（默认）还是 `pwsf.asi` 由 `--hook winmm|asi|none` 决定（`pwsf.install` 同），打包则由 `install.bat` 问用户
+- `--debug-hook` = 按 `-DPWSF_DEBUG=ON` 重编，弹控制台打印 hook 每一步（排查用，别发版）；`patch --build` 反过来会强制 `PWSF_DEBUG=OFF` 重编，防止调试版被打包
 - 源码 `pwsf/shim/launcher_shim.c`，**不反编译原启动器**，只是「切目录 →
   起游戏 → 等它退出」，等退出是为了让 Steam 一直显示「运行中」
 - 编出来是 `/subsystem:windows`，不会闪控制台窗口

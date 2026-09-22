@@ -117,7 +117,9 @@ def build(build_dir: Path, pkg_dir: Path, lang: str = "en",
         shutil.copy2(src_bat, pkg_dir / bat)
 
     # 注入 DLL 整包带着（名字恒为 pwsf.dll）；装成 winmm.dll 还是 pwsf.asi
-    # 由 install.bat（问用户）/ --hook 决定，构建侧不掺和
+    # 由 install.bat（问用户）/ --hook 决定，构建侧不掺和。
+    # 这里强制按 PWSF_DEBUG=OFF 重编一次，避免把 --debug-hook 那版发出去。
+    inst.build_hook(debug=False)
     hook = inst.find_hook_artifact()
     if hook:
         shutil.copy2(hook, pkg_dir / hook.name)

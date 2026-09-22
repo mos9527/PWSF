@@ -298,6 +298,10 @@ def main() -> None:
                     default="winmm",
                     help="with --install, deploy hooklib64's pwsf.dll as "
                          "winmm.dll (default) or pwsf.asi, or not at all")
+    ap.add_argument("--debug-hook", action="store_true",
+                    help="with --install, build the injection DLL with "
+                         "-DPWSF_DEBUG=ON: it allocates a console and prints "
+                         "every hook step. Diagnostics only, never ship it")
     ap.add_argument("--force", action="store_true",
                     help="with --install, overwrite game files whose content "
                          "is not recognised (the original may be lost)")
@@ -472,6 +476,8 @@ def main() -> None:
     from . import install
     print(f"\ninstalling into {config.GAME_DIR}")
     install.install(install.read_manifest(args.outdir), args.force)
+    if args.hook != "none":
+        install.build_hook(args.debug_hook)   # cmake -> hooklib64/pwsf.dll
     install.deploy_hook(args.hook, args.force)
     print("restore with: python -m pwsf.install --restore")
 
