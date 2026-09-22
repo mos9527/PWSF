@@ -21,6 +21,7 @@ proportions are preserved.  See ANALYSIS/05_font.md sections 8 and 9.
 """
 
 import argparse
+import struct
 from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
@@ -56,9 +57,14 @@ WHITESPACE = {0x20, 0x0A, 0x0D, 0x09}
 NOTDEF_PROBE = 0xFF00
 
 
-def calibrate(ttf: Path, cell_h: int) -> tuple:
+def calibrate(ttf: Path, cell_h: int, ink_target: int = INK_HEIGHT,
+              cw: int = CELL_W, ink_top: int = INK_TOP,
+              ink_left: int = INK_LEFT) -> tuple:
     best = None
-    for size in range(40, cell_h + 12):
+    # the large font searches 40..cell_h+12; small cells (<48) need a lower
+    # floor or the loop is empty.  Large-font output is unchanged (lo stays 40).
+    lo = 40 if cell_h >= 48 else max(6, cell_h - 20)
+    for size in range(lo, cell_h + 12):
         f = ImageFont.truetype(str(ttf), size)
         probe = Image.new("L", (cell_h * 4, cell_h * 4))
         ImageDraw.Draw(probe).text((cell_h, cell_h * 2), CALIBRATION_CHAR,
@@ -67,31 +73,32 @@ def calibrate(ttf: Path, cell_h: int) -> tuple:
         if box is None:
             continue
         h = box[3] - box[1]
-        if best is None or abs(h - INK_HEIGHT) < abs(best[1] - INK_HEIGHT):
+        if best is None or abs(h - ink_target) < abs(best[1] - ink_target):
             best = (size, h, box)
     size, h, box = best
-    dx = cell_h + (INK_LEFT - box[0])
-    dy = cell_h * 2 + (INK_TOP - box[1])
+    dx = cell_h + (ink_left - box[0])
+    dy = cell_h * 2 + (ink_top - box[1])
     return ImageFont.truetype(str(ttf), size), dx, dy, size, h
 
 
-def render(cp: int, face, dx: int, dy: int, cell_h: int) -> Image.Image:
-    img = Image.new("L", (CELL_W, cell_h))
+def render(cp: int, face, dx: int, dy: int, cell_h: int, cw: int = CELL_W) -> Image.Image:
+    img = Image.new("L", (cw, cell_h))
     ImageDraw.Draw(img).text((dx, dy), chr(cp), font=face, fill=255, anchor="ls")
     return img
 
 
-def unrenderable(codepoints, face, dx: int, dy: int, cell_h: int) -> list:
+def unrenderable(codepoints, face, dx: int, dy: int, cell_h: int,
+                cw: int = CELL_W) -> list:
     """The code points `face` has no glyph of its own for.
 
     Blank output and .notdef output both count: a substituted box would be
     pasted into the atlas as if it were a character, and the game would show
     tofu with no indication anything went wrong.
     """
-    notdef = render(NOTDEF_PROBE, face, dx, dy, cell_h).tobytes()
+    notdef = render(NOTDEF_PROBE, face, dx, dy, cell_h, cw).tobytes()
     out = []
     for cp in codepoints:
-        img = render(cp, face, dx, dy, cell_h)
+        img = render(cp, face, dx, dy, cell_h, cw)
         if img.getbbox() is None or img.tobytes() == notdef:
             out.append(cp)
     return out

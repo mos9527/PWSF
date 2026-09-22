@@ -52,8 +52,8 @@ import hashlib
 from pathlib import Path
 
 from . import config, po_lint, slots
-from .font_build import (build_font, rebuild_font, verify_coverage,
-                         verify_rebuild)
+from .font_build import (build_font, rebuild_font,
+                         verify_coverage, verify_rebuild)
 from .olang import parse, string_at
 from .olang_build import OlangBuilder
 from . import briefing_build

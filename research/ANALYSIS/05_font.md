@@ -642,6 +642,29 @@ python research\TOOLS\_poc_font_cn.py --small --restore  # 还原
 
 只占 4 行里的 2 行（实测：459 → 512 字形，剩 2 行）。
 
+### 13.6 实机确认 + 方案 B 落地（2026-09-22）
+
+**路线 C 已实机确认**：DATABASE 人员档案（帕兹自述 `我叫帕兹…`，olang
+`009c9ea4`/`00d0c740` 的 `0x21f416`）在实机走小字体——`g_font_index` 确实变成 1，
+而 `000ebbe8` 只带 155 个汉字，于是出豆腐。这一铁证把 §6.5 的"运行时可达"坐实，
+小字体的容量约束真实存在（`_probe_font_cov.py` 逐字对照截图）。
+
+**路线 B 已实现并接进管线**（`pwsf.font_build.rebuild_small_font` +
+`po_import.build_small_atlas`，证据 `_probe_smallfont_build.py` /
+`_probe_font_smallcap.py`）：
+
+- `000ebbe8.xpr`（2048×1024）按目标 cell **24** 重排：字形从 TTF 按 24/68 同比重绘，
+  `metrics[0]` 设为 24.0 → 小字体界面渲染到 **36%** 大小，不变 exe。
+- 容量：cell=24 在 2048×1024 放下 ~2700 字（语料全量 2518~2766 码点全覆盖，
+  余 13~16 行），比原生 510 槽多 5 倍。
+- glyph 0 由原生兜底字缩放而来，未映射码点仍出框；`verify_small_font` 卡
+  空白 / 越格 / `width == trunc(metrics[0])` 误判空格三条。
+- `po_import` 现在同时构建大、小两张字体，都进 `MANIFEST.tsv`；`install` 首次装
+  会自动备份 `000ebbe8.xpr.orig`、可 `--restore`。
+
+代价就是小字体界面文字约 1/3 大小（advance 同比缩放，排版等比、不溢出）。若日后想
+让小字体界面也满尺寸，只能走路线 A（exe 重定向，见 `_probe_font_redirect.py`）。
+
 ### 13.5 走小字体的是"哪批文本"：机制能定，清单定不了
 
 两个切小字体的判据都是**控件/批次上的标志位，与文本内容无关**：

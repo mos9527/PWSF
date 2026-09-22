@@ -1,0 +1,13 @@
+.vs*
+Source/.vs*
+Source/x64*
+*.tmp
+x64/*
+out/
+artifacts/
+
+# cmake 构建目录与编译产物（可由源码复现，不入库）
+build/
+CMakeSettings.json
+*.dll
+*.asi

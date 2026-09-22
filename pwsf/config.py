@@ -233,10 +233,12 @@ def _detect_font_ttf():
 
 FONT_TTF = (_setting("PWSF_FONT_TTF", "font_ttf")
             or _detect_font_ttf() or BUNDLED_FONT_TTF)
-FONT_LARGE = "0007ccd8"    # 4096x4096; the only font the build pipeline touches
-FONT_SMALL = "000ebbe8"    # 2048x1024; reachable -- g_font_index IS written at
-                           # runtime (§6.5) -- but no build path touches it:
-                           # 15 rows x 34 = 510 slots against 2,477 code points
+FONT_LARGE = "0007ccd8"    # 4096x4096; rebuilt at cell=68 by the pipeline
+FONT_SMALL = "000ebbe8"    # 2048x1024; g_font_index IS written at runtime (§6.5),
+                           # so small-font screens (e.g. DATABASE bios) need it.
+                           # Pipeline rebuilds it at cell=24 (05_font.md §13.7 B):
+                           # 510 shipped slots -> ~2700, covering the full corpus;
+                           # small-font screens then render at 24/67 (~36%) size.
                            # the corpus needs (§13, _probe_font10.py)
 
 # ------------------------------------------------------------------ olang
