@@ -8,7 +8,9 @@ link_libraries(${CMAKE_SOURCE_DIR}/detours/lib/detours.lib)
 
 # 注入 DLL：字体路线 A（sigscan + detour on font_load_xpr）
 add_library(dllmain SHARED dllmain.cpp)
-target_compile_options(dllmain PUBLIC /GR- /GS-)
+# /utf-8: 源文件是 UTF-8（中文注释 + MessageBox 文案）。不加的话 MSVC 会按当前
+# ANSI 代码页去解源码，宽字符串里的汉字会变乱码。
+target_compile_options(dllmain PUBLIC /GR- /GS- /utf-8)
 
 # 诊断：AllocConsole + printf。默认关 —— 发布包不该弹控制台；
 # 排查时 cmake -DPWSF_DEBUG=ON 重编。

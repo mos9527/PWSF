@@ -79,6 +79,23 @@ HOOKLIB_HOOK(int, __fastcall, font_load_xpr, fontLoadXprAddr,
     return originalfont_load_xpr(font, name, w, h);
 }
 
+// hook 装不上时必须让玩家知道：小字体文件已被换成 4096x4096 图集，而 exe 写死
+// 按 2048x1024 载入 —— 不自洽会在进小字体界面时直接崩，不能默默崩掉。
+// 用单独的线程弹框：DllMain 在 loader lock 下，直接 MessageBox 有死锁风险。
+static DWORD WINAPI warnNotHooked(LPVOID)
+{
+    MessageBoxW(nullptr,
+        L"PWSF 字体注入没能装上：没在游戏代码里定位到 font_load_xpr。\r\n\r\n"
+        L"此时小字体文件已被换成 4096x4096 的图集，而游戏仍按 2048x1024 读取，"
+        L"进入小字体界面可能会崩溃。\r\n\r\n"
+        L"请运行补丁目录里的 restore.bat 还原，并确认游戏目录下同时有：\r\n"
+        L"    pwsf.asi\r\n"
+        L"    winmm.dll（ASI loader）",
+        L"PWSF — font hook not installed",
+        MB_OK | MB_ICONWARNING | MB_SETFOREGROUND | MB_TOPMOST);
+    return 0;
+}
+
 BOOL APIENTRY DllMain(HMODULE hModule,
     DWORD  ul_reason_for_call,
     LPVOID lpReserved)
@@ -119,6 +136,9 @@ BOOL APIENTRY DllMain(HMODULE hModule,
             PWSF_LOG("sigscan FAILED -> hook NOT installed (deploy as "
                      "pwsf.asi: winmm.dll loads during import resolution, "
                      "before the exe is decrypted)");
+            HANDLE t = CreateThread(nullptr, 0, warnNotHooked, nullptr, 0,
+                                    nullptr);
+            if (t) CloseHandle(t);
         }
     }
     else if (ul_reason_for_call == DLL_PROCESS_DETACH) {
