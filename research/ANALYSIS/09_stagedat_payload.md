@@ -255,3 +255,71 @@ SLOT.DAT 的过场记录里也有同样的块（181 个，208 B ~ 7 KB，`_probe
 那句 Miller 台词**在本盘数据里不存在**。剩下的解释只有：截图来自别的版本 /
 打了别的 MOD，或这句是运行时拼出来的（非静态语料）。要继续就只能从 IDA 反查
 「任务内无线台字幕」的取文本函数，看它到底读哪个 group / 哪张表。
+
+---
+
+## 11 STAGEDAT 写回（2026-09-22）
+
+`pwsf.stage_build.rebuild(translations, lang, outdir)` 重建整个 `009645fa.PDT`，
+把译文写进 `*_en.olang` 成员。已接进 `po_import`（manifest kind=`stage`）与
+`install`（通用按清单拷贝，见 `06_localization_pipeline.md`）。
+
+### 11.1 链条（每条都是 §2/§3 提取的逆）
+
+```
+容器条目（0x800 对齐、连续排布，ANALYSIS/04 §3）
+  -> buffer_xor_decrypt(name_hash(stem)) + 每条独立 LCG 解扰（stage.seeding，§2）
+  -> u32 = 解压后长度，然后 zlib 流
+  -> 内嵌文件归档（§3）
+  -> *.olang 成员：RBX 表，由 pwsf.olang_build 重建
+```
+
+写回前先钉死三件事，否则产物不可信：
+
+* **`entry.b == CRC-32(明文 payload)`**（`crc32(payload[:len & ~3])`），不是加密后的。
+  证据 `_probe_stage_wb.py`：每条 `crc(plain)==entry.b`，`crc(enc)` 从不等。
+* **zlib 前的 `u32 == 解压后 body 长度**。证据同上：每条 `u32 == len(body)`。
+* **内嵌归档逐字节吃满**。证据 `_probe_stage_wb.py --check`：92 个真归档
+  re-pack 后与源逐字节一致；但另有 36 个条目会被 `inner_files` 误解析（count
+  碰巧合法、实则不是归档），它们贡献 0 行语料 —— 所以 `stage_build` 强制要求
+  `walk_end(body, files) == len(body)` 才动手，否则整条跳过、原样拷回。
+
+容器头 40 字节**原样保留**：游戏会自己 unmask `hdr+0x0C..0x27` 并把它清零，
+直接发原始字节既正确又能让 LCG 流对齐。
+
+### 11.2 容器表（index + names）的重加密
+
+index（12 B/条目：`a`=size, `b`=CRC32(明文), `c`=offset）与 names（24 B/条目，
+名字 BST）两层都「先 LCG 掩码、再 MT-xor」，且 **LCG 流从 header scratch →
+index → names 连续**，所以重加密必须按这个顺序：
+
+```
+state = _unmask_lcg(原始 header scratch, stage.seeding(arc))
+state = _unmask_lcg(index_明文, state)        # 改过的 index
+_unmask_lcg(names_明文, state)                # names 不变
+buf   = MT-xor( 原始头40 + index + names )     # MT 流从头连续，头部结果丢弃
+```
+
+只动了 13 个带译文的条目（共 557，占 10,100 条译文）；其余 544 个 payload 从源
+文件原样拷。偏移按 0x800 重新算，故某条目变长也无妨。验证：重建后 `arc_verify`
+通过，全 557 条目解码结构与源同构（128 个真内嵌归档 + 429 个非归档）。
+
+### 11.3 验证
+
+* `stage_build.verify`：重建文件重读，译文逐槽读回一致；未译文件与源逐字节相同。
+* `po_import` 构建后报 `verified: translations read back identical, every other
+  slot byte-identical to the original`。
+* `_probe_stage_built.py`：重建产物 557 条全解码，128 个解析为内嵌归档（含 36 个
+  源里就有的伪解析）+ 429 个非归档，与源完全同构；抽查一条已译中文
+  `$1 已离开任务。` 读回一致。
+* 往返 oracle `python -m pwsf.stage_build --check`：空译文集下每个真内嵌归档
+  re-pack 后与源字节一致。
+
+### 11.4 与 SLOT.DAT 写回的区别
+
+SLOT.DAT 是记录级重排 + 压缩回原扇区；STAGEDAT 是**整容器重建**（557 个 0x800
+对齐的条目整体重排偏移）。代价是每次重写 487 MB，好处是条目可任意变长、无需管
+块的扇区预算。
+
+证据：`_probe_stage_wb.py`（CRC/u32 oracle）、`_probe_stage_wb2.py`（13 个目标
+条目精确性）、`_probe_stage_built.py`（产物复检）。

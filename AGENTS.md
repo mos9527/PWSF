@@ -64,7 +64,8 @@ research/
 - STAGEDAT（`009645fa.PDT`，唯一 mode 0x40 容器）payload 已破：zlib + 内嵌文件
   归档 → 738 张 olang / 97,989 条文本，其中 **10,570 条是 SLOT 之外的新语料**
   （`09_stagedat_payload.md`）。已导出为 `src/stage/*.po`（12 文件 / 4,522 条），
-  **只读**：`po_import` 跳过、`po_lint` 报 `stage-readonly`，写回链路待补
+  **写回链路已闭环**：`pwsf.stage_build` 重建整个容器，把译文写进 `*_en.olang`
+  成员（`po_import` 接好、`po_lint` 不再报 `stage-readonly`，见该文档 §4）
 - 汉化管线 olang 与过场两侧都已闭环：在 `.po` 里填译文 → 校验 → 编译
   （重建文本表 / 重建 `SLOT.DAT`（544 MB）+ 自动补字形，`--rebuild-font`
   可整表重建字库）→ 备份后装入游戏 → 一键还原
@@ -178,7 +179,7 @@ src/
   olang/olang_01..04.po   UI 文字 + 游戏内字幕    1,461 条   能写回
   codec/codec_01..12.po   CODEC / 简报台词        4,746 条   能写回（池预算紧，见下）
   slot/slot_01..24.po     SLOT.DAT 内嵌文本       9,566 条   能写回（过场 1,858 条）
-  stage/stage_01..12.po   STAGEDAT 内嵌文本       4,522 条   只读，暂不可写回
+  stage/stage_01..12.po   STAGEDAT 内嵌文本       4,522 条   能写回（pwsf.stage_build 重建容器）
   gtt/gtt_01..06.po       SLOT.DAT 的 GTT 池       2,238 条  能写回（行内原地，见下）
   MANIFEST.tsv            分块索引
 ```

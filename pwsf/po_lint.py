@@ -227,9 +227,6 @@ def lint(po_dir=None, lang: int = config.LANG_EN, allow_ruby_drop: bool = False,
             elif r.startswith(slots.CODEC + "/"):
                 counts["codec_slots"] += 1
             elif r.startswith(slots.STAGE + "/"):
-                # ANALYSIS/09 §4: STAGEDAT has no write-back, so the slot is
-                # checked like any other but cannot be built.  Warn once per
-                # run instead of per slot (see below).
                 counts["stage_slots"] += 1
             else:
                 counts["olang_slots"] += 1
@@ -239,13 +236,13 @@ def lint(po_dir=None, lang: int = config.LANG_EN, allow_ruby_drop: bool = False,
                             f"into; that slot only ships some of the six "
                             f"languages")
 
-    if counts["stage_slots"]:
-        rep.add(WARN, "stage-readonly", "-",
+    if counts["stage_slots"] and lang != config.LANG_EN:
+        rep.add(ERROR, "target", "-",
                 f"{counts['stage_slots']} STAGEDAT slot(s) translated, but "
-                f"STAGEDAT (009645fa.PDT) has no write-back yet: po_import "
-                f"skips them (ANALYSIS/09 §4). The text is still worth "
-                f"translating -- it is mission info, stage telops and Mother "
-                f"Base staff comments -- it just will not appear in game yet")
+                f"STAGEDAT write-back only targets the English file: a "
+                f"reference names the `*_en.olang` member it came from, and "
+                f"the {config.LANG_KEYS[lang]} copy is a different inner file "
+                f"the corpus does not address (ANALYSIS/09 §4)")
 
     if counts["gtt_slots"] and lang != config.LANG_EN:
         rep.add(ERROR, "target", "-",

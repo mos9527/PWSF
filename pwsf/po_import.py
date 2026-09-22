@@ -3,6 +3,7 @@ r"""Compile the translated .po files back into game files.
     src/**/*.po --> po_lint --> olang rebuild --> re-encrypt --> BUILD/*.olang
                             \-> CODEC 0076531d.DAT: pools rewritten in place
                             \-> SLOT.DAT rebuilt
+                            \-> STAGEDAT 009645fa.PDT rebuilt
                             \-> code points --> font rebuild --> BUILD/*.xpr
                                              \-> BUILD/MANIFEST.tsv
 
@@ -58,6 +59,8 @@ from .olang_build import OlangBuilder
 from . import briefing_build
 from . import slotdat as S
 from . import slotdat_build
+from . import stage
+from . import stage_build
 
 MANIFEST = "MANIFEST.tsv"
 MANIFEST_HEADER = "dest\tbuilt\tkind\tsize\tsha256\torig_sha256"
@@ -105,6 +108,22 @@ def by_slot(translations: dict) -> dict:
         if parsed.kind != slots.SLOT:
             continue
         out[(parsed.table, parsed.group, parsed.entry)] = text
+    return out
+
+
+def by_stage(translations: dict) -> dict:
+    """STAGEDAT translations: {(rec, file, group, entry): text}.
+
+    The olang tables packed inside `009645fa.PDT` (ANALYSIS/09) -- mission info,
+    stage telops, Mother Base staff comments.  Write-back is `pwsf.stage_build`
+    and rides on its own container rebuild.
+    """
+    out = {}
+    for ref, text in translations.items():
+        parsed = slots.parse_ref(ref)
+        if parsed.kind != slots.STAGE:
+            continue
+        out[(parsed.rec, parsed.file, parsed.group, parsed.entry)] = text
     return out
 
 
@@ -250,7 +269,7 @@ def main() -> None:
     ap.add_argument("--skip-font", action="store_true",
                     help="do not rebuild the font atlas")
     ap.add_argument("--skip", action="append", default=[], metavar="PART",
-                    choices=["olang", "slot", "codec", "gtt"],
+                    choices=["olang", "slot", "codec", "gtt", "stage"],
                     help="leave a corpus out of the build entirely: its file(s) "
                          "never reach the manifest, so `install` will not touch "
                          "them (repeatable, e.g. --skip codec)")
@@ -304,9 +323,10 @@ def main() -> None:
     codec_items = {} if "codec" in skip else by_codec(rep.translations)
     slot_items = {} if "slot" in skip else by_slot(rep.translations)
     gtt_items = {} if "gtt" in skip else by_gtt(rep.translations)
-    if not tables and not slot_items and not codec_items and not gtt_items:
-        raise SystemExit("\nnothing to build: no olang / SLOT / CODEC / GTT "
-                         "slot is translated")
+    stage_items = {} if "stage" in skip else by_stage(rep.translations)
+    if not (tables or slot_items or codec_items or gtt_items or stage_items):
+        raise SystemExit("\nnothing to build: no olang / SLOT / CODEC / GTT / "
+                         "STAGEDAT slot is translated")
 
     args.outdir.mkdir(parents=True, exist_ok=True)
     print(f"\nbuilding into {args.outdir} ({config.LANG_KEYS[lang]} slot)")
@@ -378,6 +398,17 @@ def main() -> None:
                                  S.key_path()))
         print(f"  {stats['patched']} record(s) repacked, {stats['strings']} "
               f"string(s) written")
+
+    if stage_items:
+        print(f"\nSTAGEDAT: {len(stage_items)} slot(s) in "
+              f"{len({rec for rec, _f, _g, _e in stage_items})} container "
+              f"entry/entries -- rebuilding 009645fa.PDT")
+        dat, stats = stage_build.rebuild(stage_items, lang, args.outdir)
+        problems += [f"stage: {p}" for p in stats["problems"]]
+        problems += stage_build.verify(dat, stage_items, lang)
+        codepoints |= {ord(c) for t in stage_items.values() for c in t}
+        rows.append(manifest_row(dat, config.DISC0_DIR / f"{stage.STEM}.PDT",
+                                 "stage", stage_build.source_path()))
 
     for stem, items in tables.items():
         built, written = build_table(stem, items, lang, args.outdir)

@@ -232,9 +232,9 @@ def collect_slot(ref_langs=REF_LANGS, only=None, pixel: bool = False) -> list:
 
     `only` = "cutscene" keeps just the comic-cutscene tables.
 
-    There is no write-back for these yet (`pwsf.slotdat_build` does not
-    exist), so this corpus is opt-in via --slot: exporting it into the default
-    run would produce entries the installer cannot apply.
+    WRITE-BACK EXISTS: `pwsf.slotdat_build` rebuilds SLOT.DAT with the
+    translations (ANALYSIS/08 §7), so these references are applied like any
+    other and the corpus is on by default.
     """
     from . import slotdat
     unescape = slotdat.unescape
@@ -291,11 +291,11 @@ def collect_stage(ref_langs=REF_LANGS, pixel: bool = False) -> list:
     the 487 MB container here would mean decrypting and inflating every payload
     on each run.
 
-    READ-ONLY: there is no write-back for STAGEDAT yet, so po_import ignores
-    these references and po_lint warns when one is translated.  The corpus is
-    still exported because it is real player-facing text (mission info, stage
-    telops, Mother Base staff comments, item and weapon text) and 10,570 of its
-    strings exist nowhere else.
+    WRITE-BACK EXISTS: `pwsf.stage_build` rebuilds `009645fa.PDT` with the
+    translations written into the `*_en.olang` members, so these references are
+    applied like any other (ANALYSIS/09 §11).  The corpus is real player-facing
+    text (mission info, stage telops, Mother Base staff comments, item and
+    weapon text) and 10,570 of its strings exist nowhere else.
     """
     path = config.STAGE_OLANG_TSV
     if not path.is_file():
@@ -328,8 +328,8 @@ def collect_stage(ref_langs=REF_LANGS, pixel: bool = False) -> list:
         comments = [f"{lang}: {by_lang[lang]}"
                     for lang in ref_langs
                     if by_lang.get(lang) and by_lang[lang] != en]
-        comments.append(f"STAGEDAT entry {key[0]}, {key[1]} -- read-only: "
-                        f"STAGEDAT has no write-back yet, po_import skips it")
+        comments.append(f"STAGEDAT entry {key[0]}, {key[1]} -- written back by "
+                        f"pwsf.stage_build into 009645fa.PDT")
         out.append(dict(
             ref=str(slots.StageRef(*key)),
             msgid=en.replace("\\n", "\n"), comments=comments, sort=key))
@@ -468,8 +468,8 @@ def main() -> None:
                          "ANALYSIS/08 §8.1)")
     ap.add_argument("--stage", choices=("all", "none"), default="all",
                     help="export the olang tables packed inside STAGEDAT "
-                         "(default all; read-only: pwsf cannot write them back "
-                         "yet, see ANALYSIS/09 §4)")
+                         "(default all; written back by pwsf.stage_build into "
+                         "009645fa.PDT, see ANALYSIS/09 §11)")
     ap.add_argument("--gtt", choices=("all", "none"), default="all",
                     help="export the GTT pools of SLOT.DAT: in-mission radio "
                          "and hint lines, ANALYSIS/11 (default all; the block "

@@ -12,9 +12,9 @@ Reference syntax is fixed by po_export:
     stage/<rec>/<file>/<group_key>/<entry_key>   stage/15/lang_mission_info_en.olang/0x215635/0x4936c0
 
 `stage` is the STAGEDAT corpus (ANALYSIS/09): the olang tables packed inside
-009645fa.PDT.  It is READ-ONLY -- `pwsf.stage` extracts it, but there is no
-write-back yet, so po_import ignores these references and po_lint warns if one
-is translated.
+009645fa.PDT (mission info, stage telops, Mother Base staff comments, item and
+weapon text).  `pwsf.stage` extracts it and `pwsf.stage_build` writes the
+translations back into a rebuilt `009645fa.PDT` (ANALYSIS/09 §4).
 
 Group and entry keys are written with `#08x`, but anything `int(x, 0)` accepts
 is parsed, so hand-written references work too.
@@ -37,7 +37,7 @@ OLANG = "olang"
 CODEC = "codec"
 SLOT = "slot"          # olang tables embedded in SLOT.DAT, ANALYSIS/08 §5.7
 STAGE = "stage"        # olang tables embedded in STAGEDAT, ANALYSIS/09 §4
-                       # (extract-only: no write-back, po_import ignores it)
+                       # written back by pwsf.stage_build (rebuilt container)
 GTT = "gtt"            # the GTT pools of SLOT.DAT, ANALYSIS/11
                        # in-mission radio / hint lines; the block is re-laid-out
                        # on write-back, so a translation may be longer than the
@@ -93,7 +93,8 @@ class StageRef:
 
     `rec` is the container entry index, `file` the inner file name -- the same
     logical table (table_id) is stored per language in several entries, so the
-    address has to name the copy.  Read-only for now: ANALYSIS/09 §4.
+    address has to name the copy.  Written back by `pwsf.stage_build`
+    (ANALYSIS/09 §11).
     """
     rec: int
     file: str
