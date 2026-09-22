@@ -236,9 +236,10 @@ FONT_TTF = (_setting("PWSF_FONT_TTF", "font_ttf")
 FONT_LARGE = "0007ccd8"    # 4096x4096; rebuilt at cell=68 by the pipeline
 FONT_SMALL = "000ebbe8"    # 2048x1024; g_font_index IS written at runtime (§6.5),
                            # so small-font screens (e.g. DATABASE bios) need it.
-                           # 路线 A：po_import 把它写成 FONT_LARGE 的字节副本，
-                           # DLL 只把加载尺寸 2048x1024 改成 4096x4096，小字体
-                           # 界面直接用同一张全字库图集（05_font.md §13.7 A）。
+                           # 路线 A：po_import 把它换成 FONT_LARGE 的内容，并用
+                           # FONT_SMALL 自己的密钥重新加密（XPR2 密钥按文件名播种，
+                           # 直接拷字节会解成垃圾）；DLL 只把加载尺寸 2048x1024
+                           # 改成 4096x4096，界面直接用同一张全字库图集（§13.9）。
 
 # ------------------------------------------------------------------ olang
 

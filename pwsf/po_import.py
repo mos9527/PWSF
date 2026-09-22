@@ -51,7 +51,7 @@ import argparse
 import hashlib
 from pathlib import Path
 
-from . import config, po_lint, slots
+from . import config, po_lint, slots, xpr
 from .font_build import (build_font, rebuild_font,
                          verify_coverage, verify_rebuild)
 from .olang import parse, string_at
@@ -433,19 +433,22 @@ def main() -> None:
                                    "unchanged, everything mapped non-blank"
                                    if args.rebuild_font else
                                    "every code point has a non-blank glyph"))
-        # 路线 A：把 000ebbe8.xpr 写成 0007ccd8.xpr 的字节副本。小字体界面因此
-        # 拿到同一张全字库图集；DLL 只把它的 2048x1024 加载尺寸改成 4096x4096，
-        # 不动资源名（改名字会撞同名资源重入，2026-09-22 崩过）。走 manifest，
-        # 所以 install 会留 .orig、restore 能还原。
+        # 路线 A：小字体文件换成大字体内容。必须用 FONT_SMALL 自己的密钥**重新
+        # 加密** —— XPR2 的密钥由文件名 hash 播种（见 xpr.py docstring），原样
+        # 拷贝 0007ccd8.xpr 的字节会被游戏用 000ebbe8 的密钥解成垃圾：加载不报错，
+        # 一用小字体渲染就 AV（2026-09-22 现场，font_glyph_metrics -> rect 取值）。
+        # DLL 只把 2048x1024 的加载尺寸改成 4096x4096，资源名不动（改名字会撞
+        # 同名资源重入）。走 manifest，所以 install 留 .orig、restore 能还原。
         small = args.outdir / f"{config.FONT_SMALL}.xpr"
-        small.write_bytes(built.read_bytes())
-        if sha256(small) != sha256(built):
-            problems.append("font: the small-font mirror is not a byte copy of "
-                            "the large atlas")
+        xpr.XprPackage.load(built).save(small)
+        if (xpr.XprPackage.load(small).build()
+                != xpr.XprPackage.load(built).build()):
+            problems.append("font: the small-font mirror does not decode to the "
+                            "large atlas")
         rows.append(manifest_row(small, config.FONT_DIR / small.name, "font",
                                  config.pristine(config.FONT_DIR / small.name)))
-        print(f"  {small.name} <- byte copy of {built.name} "
-              f"({small.stat().st_size} bytes)")
+        print(f"  {small.name} <- {built.name} re-encrypted for the "
+              f"{config.FONT_SMALL} key ({small.stat().st_size} bytes)")
 
     if problems:
         print(f"\n{len(problems)} VERIFICATION FAILURE(S):")

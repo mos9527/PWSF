@@ -12,8 +12,8 @@
 // 部署：名字由安装侧决定 —— pwsf.install --hook winmm（默认，装成 winmm.dll）
 //       或 --hook asi（装成 pwsf.asi），都落到游戏 exe 同目录（…\MGS_PW\mgspw\）。
 //
-// 诊断：-DPWSF_DEBUG=ON（默认）会 AllocConsole 并 printf 每一步；出发布包前
-//       用 -DPWSF_DEBUG=OFF 关掉。不写日志文件。
+// 诊断：-DPWSF_DEBUG=ON 会 AllocConsole 并 printf 每一步（默认关，发布包不弹
+//       控制台；排查时重编加这个选项）。不写日志文件。
 //
 // 调用约定：font_load_xpr(font, name, w, h)  ->  RCX=font, RDX=name, R8=w, R9=h
 //          返回 int（版本不符时返回 0）。

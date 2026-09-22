@@ -750,6 +750,23 @@ _slot_olang_lines.tsv:12418  SLOT.DAT 内嵌表 0x00396407  槽 0x2b4caf  en
 这种 IDA 绝对地址在 ASLR 下永远落在模块外，hint 会被跳过、退化成全模块扫描
 （2026-09-22 就是这样白扫了 26 MB）。
 
+### 13.9 落地：路线 A 的最终实现（2026-09-22，实机通过）
+
+两条一起，缺一不可：
+
+1. **数据侧**（`pwsf/po_import.py`）：`000ebbe8.xpr` 换写成 `0007ccd8.xpr` 的
+   内容，但**必须用 `000ebbe8` 自己的密钥重新加密**。XPR2 的密钥由文件名 hash
+   播种（§2），原样拷贝密文字节会被游戏用错密钥解成垃圾 —— 加载阶段不校验、
+   不报错，一用小字体渲染就 AV（`font_glyph_metrics` → `font_glyph_rect_for_char`
+   取值）。2026-09-22 实测：raw-copy 用 `000ebbe8` 密钥解出非 `XPR2`，用
+   `0007ccd8` 密钥才是 `XPR2`。实现是 `xpr.XprPackage.load(big).save(small)`
+   （`save()` 按目标路径的 stem 播种），并以「解开等于大字体明文」自校验。
+2. **加载侧**（`hooklib64/dllmain.cpp`）：detour `font_load_xpr`，把 `2048x1024`
+   的调用改成 `4096x4096`，**资源名与其它参数一律不动**。不能改资源名 ——
+   重定向到 `0007ccd8.xpr` 会在加载中崩（同名资源重入），实测。
+
+实机确认：DATABASE 人员档案（Galvez Mena 自述）出满尺寸中文，排版正常。
+
 ## 14 第三种字形图集：`Text/*.txp` 里的 512×512 BC3 像素字
 
 §1 说"全部字形图集只有两个"，那是**XPR2 / FontData 体系**内的结论，仍然成立

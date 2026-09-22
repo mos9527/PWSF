@@ -10,8 +10,9 @@ link_libraries(${CMAKE_SOURCE_DIR}/detours/lib/detours.lib)
 add_library(dllmain SHARED dllmain.cpp)
 target_compile_options(dllmain PUBLIC /GR- /GS-)
 
-# 诊断：AllocConsole + printf（排查用，出发布包前 -DPWSF_DEBUG=OFF）
-option(PWSF_DEBUG "Alloc a console and print hook diagnostics" ON)
+# 诊断：AllocConsole + printf。默认关 —— 发布包不该弹控制台；
+# 排查时 cmake -DPWSF_DEBUG=ON 重编。
+option(PWSF_DEBUG "Alloc a console and print hook diagnostics" OFF)
 if(PWSF_DEBUG)
   target_compile_definitions(dllmain PRIVATE PWSF_DEBUG=1)
 endif()
