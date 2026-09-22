@@ -32,12 +32,26 @@ the one before it ended) and `(b - a)` tracks the line length at a median of
 1.35 frames per character.  So the group reads
 `[start_frame, end_frame, 1, X,X,X, Y,Y,Y, Y]`.
 
-Write-back nevertheless never changes a pool's length: every offset in the
-header -- X, Y and the unknown fields of the fixed part -- keeps pointing where
-it did, and the shipped timing is left alone (the Chinese line simply shows for
-the duration the English one had).  That is the same bargain
-`pwsf.briefing_build` makes with its pool budget (ANALYSIS/03 §9); the budget
-is reported by `po_lint` as `gtt-budget`.
+### Write-back: the block is re-laid-out, its length never changes
+
+`a` / `b` being timing (and every language having its own pool) is what makes a
+rebuild safe: no other structure points into the string area except the line
+starts themselves, and all of them are known.  A block's runs are laid out
+`boundary = [0, start_1 .. start_{n-1}, end_of_strings]` and the header array
+is nothing but copies of that list:
+
+    array[0..3]      = boundary[1]
+    X(i) = array[..] = boundary[i + 1]       (words 3,4,5 of group i)
+    Y(i)             = boundary[i + 2]       (words 6..9 of group i)
+    group n-1        = zero padding
+
+(proved on every English block: `_probe_gtt_rebuild.py`, 5,878 blocks rebuilt
+and read back byte-identical).  So `rebuild_block` drops the suffix merging,
+writes the runs back to back and zero-fills the rest -- **the pool keeps its
+exact length**, so the SLOT.DAT record's byte budget is untouched, while the
+fragments' bytes become slack a translation can grow into.  Over the whole
+corpus that is 146,764 B reclaimed against 266,616 B of translations, i.e. the
+budget stops being a constraint at all (ANALYSIS/11 §5.2).
 """
 
 import struct
@@ -89,15 +103,27 @@ class Block:
         j = self.pool.find(b"\x00", st)
         return self.pool[st:] if j < 0 else self.pool[st:j]
 
-    def budget(self, i: int) -> int:
-        """How many bytes a translation may use (the English run's length)."""
-        return len(self.line(i))
+    @property
+    def slack(self) -> int:
+        """Bytes of the pool no line needs: the suffix-merged fragments.
 
-    def limit(self, i: int) -> int:
-        """Offset the line may NOT write into (the NUL that ends the run)."""
-        st = self.starts[i]
-        j = self.pool.find(b"\x00", st)
-        return len(self.pool) if j < 0 else j
+        `rebuild_block` drops those fragments, so this is what a translation
+        may grow into.  Measured over all 5,878 English blocks: 146,764 B,
+        median 23 B per block, and only 11 blocks have none.
+        """
+        return len(self.pool) - sum(len(self.line(i)) + 1
+                                    for i in range(len(self.starts)))
+
+    def budget(self, i: int) -> int:
+        """How many bytes a translation may use.
+
+        The block is re-laid-out unmerged, so a line is no longer capped at its
+        English length -- it may also take the fragments' bytes.  The share
+        quoted here is `slack // n`, which every line of the block can take
+        simultaneously (the build itself only needs the block total to fit).
+        """
+        n = len(self.starts)
+        return len(self.line(i)) + (max(self.slack, 0) // n if n else 0)
 
 
 def block_offsets(blob: bytes) -> list:
@@ -140,44 +166,106 @@ def lines(blob: bytes) -> list:
 
 # ------------------------------------------------------------------ write-back
 
+def rebuild_block(blob: bytes, texts: dict) -> bytes:
+    """Re-lay-out one `GTT\\x00` block; returns the same number of bytes.
+
+    `texts` is `{line_index: bytes}`; lines it omits keep their English.  The
+    runs are written back to back at the start of the pool and the rest is
+    zero-filled, which drops the suffix-merged fragments and frees their bytes
+    for longer translations -- without changing the block's length, so the
+    SLOT.DAT record still has exactly the byte budget it had.
+
+    The header array is then rebuilt from the new boundaries
+    (`boundary = [0, start_1 .. start_{n-1}, end_of_strings]`):
+
+        array[0..3] = boundary[1]
+        X(i)        = boundary[i + 1]      group i, words 3,4,5
+        Y(i)        = boundary[i + 2]      group i, words 6..9
+
+    Group `n-1` is zero padding and `a` / `b` (the timing) are left alone.
+    Raises `ValueError` when the runs do not fit.
+    """
+    b = parse_block(blob, 0, len(blob))
+    n = len(b.starts)
+    runs = []
+    for i in range(n):
+        raw = texts.get(i)
+        if raw is None:
+            raw = b.line(i)
+        raw = raw.encode("utf-8") if isinstance(raw, str) else bytes(raw)
+        if b"\x00" in raw:
+            raise ValueError(f"line {i}: NUL in the text")
+        runs.append(raw)
+    need = sum(len(r) + 1 for r in runs)
+    if need > len(b.pool):
+        raise ValueError(f"the lines need {need} B, the pool holds "
+                         f"{len(b.pool)} B")
+
+    pool = bytearray(len(b.pool))
+    starts, at = [], 0
+    for r in runs:
+        starts.append(at)
+        pool[at:at + len(r)] = r
+        at += len(r) + 1                    # the NUL
+    boundary = starts + [at]
+
+    arr = list(b.array)
+    for i in range(n - 1):
+        g = PREFIX + GROUP * i
+        if g + GROUP > len(arr) or i + 1 >= len(boundary):
+            break
+        arr[g + 3] = arr[g + 4] = arr[g + 5] = boundary[i + 1] & MASK16
+        if i + 2 < len(boundary):
+            arr[g + 6] = arr[g + 7] = arr[g + 8] = arr[g + 9] = \
+                boundary[i + 2] & MASK16
+    if len(arr) >= 4:
+        arr[0] = arr[1] = arr[2] = arr[3] = boundary[1] & MASK16
+    head = bytearray(blob[:b.pool_off])
+    struct.pack_into("<%dH" % len(arr), head, ARRAY_AT, *arr)
+    return bytes(head) + bytes(pool)
+
+
 def patch(blob: bytes, changes: dict, problems: list = None) -> bytes:
-    """Write `{(block_offset, line_index): text}` into a pool, in place.
+    """Write `{(block_offset, line_index): text}` into a pool.
 
     Blocks are addressed by their offset in the pool, not by their index: the
     offset is what a `gtt/...` reference carries and it does not move when an
     earlier block is skipped.
 
-    The pool length never changes: the new bytes are written at the line's
-    offset and the rest of the original run is zero-filled, so the NUL that
-    ended the English line stays where it was.  A change that does not fit is
-    skipped and reported through `problems`.
+    Every block that carries a change is rebuilt by `rebuild_block`, so a line
+    is no longer capped at its English byte length -- it may grow into the
+    slack the suffix-merged fragments used to occupy.  The block length, and
+    with it the record's byte budget, never changes.  A block whose lines do
+    not all fit is left alone and reported through `problems`.
     """
     problems = [] if problems is None else problems
     by_off = {b.off: b for b in parse(blob)}
-    out = bytearray(blob)
+    per_block = {}
     for (boff, li), text in sorted(changes.items()):
+        per_block.setdefault(boff, {})[li] = text
+    out = bytearray(blob)
+    for boff, texts in sorted(per_block.items()):
         b = by_off.get(boff)
         if b is None:
             problems.append(f"block @{boff:#x} does not exist")
             continue
-        if li >= len(b.starts):
-            problems.append(f"block @{boff:#x} line {li} does not exist")
+        raw = {}
+        for li, text in sorted(texts.items()):
+            if li >= len(b.starts):
+                problems.append(f"block @{boff:#x} line {li} does not exist")
+                continue
+            raw[li] = text
+        if not raw:
             continue
-        raw = text.encode("utf-8") if isinstance(text, str) else bytes(text)
-        if b"\x00" in raw:
-            problems.append(f"block @{boff:#x} line {li}: NUL in the "
-                            f"translation")
+        try:
+            rebuilt = rebuild_block(blob[b.off:b.end], raw)
+        except ValueError as exc:
+            problems.append(f"block @{boff:#x}: {exc}")
             continue
-        budget = b.budget(li)
-        if len(raw) > budget:
-            problems.append(f"block @{boff:#x} line {li}: needs {len(raw)} B, "
-                            f"budget {budget} B ({b.line(li)[:40]!r})")
+        if len(rebuilt) != b.end - b.off:
+            problems.append(f"block @{boff:#x}: rebuilt length changed")
             continue
-        st = b.off + b.pool_off + b.starts[li]
-        limit = b.off + b.pool_off + b.limit(li)
-        out[st:st + len(raw)] = raw
-        if st + len(raw) < limit:
-            out[st + len(raw):limit] = b"\x00" * (limit - st - len(raw))
+        out[b.off:b.end] = rebuilt
     return bytes(out)
 
 
@@ -272,11 +360,18 @@ def dump(out=None, verbose: bool = True) -> int:
                     non_ascii.append((f"{eid:#010x}", s[:40]))
                 rows.append((f"{eid:#010x}", f"{b.off:#x}", f"{b.ident:#x}",
                              str(li), str(b.budget(li)), str(rec), escape(s)))
+    # Deduplicate by ADDRESS, not by text: one pool lives in several records
+    # (so its rows repeat), but the same English sentence also sits at several
+    # different addresses inside one pool -- and an address that is not listed
+    # here gets no reference, so its line stays English even though the very
+    # same words are translated elsewhere.  `po_export` merges by msgid, so
+    # this costs no extra entries, only extra `#:` lines.
     seen, uniq = set(), []
     for r in rows:
-        if r[6] in seen:
+        key = (r[0], r[1], r[3])
+        if key in seen:
             continue
-        seen.add(r[6])
+        seen.add(key)
         uniq.append(r)
     out.parent.mkdir(parents=True, exist_ok=True)
     with out.open("w", encoding="utf-8") as fh:
@@ -284,9 +379,11 @@ def dump(out=None, verbose: bool = True) -> int:
         for r in uniq:
             fh.write("\t".join(r) + "\n")
     if verbose:
+        texts = {r[6] for r in uniq}
         print(f"{len(ids)} GTT pools, {len(keep)} English "
               f"({len(ids) - len(keep)} other-language copies dropped)")
-        print(f"wrote {len(uniq)} lines ({len(rows)} with duplicates) -> "
+        print(f"wrote {len(uniq)} addresses / {len(texts)} distinct texts "
+              f"({len(rows)} rows, the rest are other records' copies) -> "
               f"{out}")
         if non_ascii:
             print(f"  {len(non_ascii)} non-ASCII line(s) in an English pool "

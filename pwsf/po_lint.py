@@ -25,8 +25,10 @@ CODEC is deliverable now (`pwsf.briefing_build`), with one hard rule of its
 own: a record's string pool cannot grow, so a translation longer than the
 English it replaces is an error, checked here as `codec-budget`.
 
-So is GTT (`pwsf.gtt`, ANALYSIS/11): its pools are patched in place, so the
-same rule applies per line and is reported as `gtt-budget`.
+GTT is the other way round (`pwsf.gtt`, ANALYSIS/11 §5.2): the block is
+re-laid-out when it is written back, so a line MAY be longer than the English
+it replaces -- but only up to its share of the block's slack, reported as
+`gtt-budget`.
 """
 
 import argparse
@@ -142,7 +144,7 @@ def lint(po_dir=None, lang: int = config.LANG_EN, allow_ruby_drop: bool = False,
     # non-English target only exists for entries that ship that language
     targets = None if lang == config.LANG_EN else set(slots.olang_sources(lang))
     owner = {}          # reference -> (where, msgstr) of the entry that claims it
-    budgets = slots.gtt_budgets()        # GTT: written in place, ANALYSIS/11 §5
+    budgets = slots.gtt_budgets()        # GTT: re-laid-out, ANALYSIS/11 §5.2
     counts = dict(files=len(po.po_files(po_dir)), entries=0, translated=0,
                   refs=0, olang_slots=0, codec_slots=0, stage_slots=0,
                   gtt_slots=0)
@@ -216,11 +218,12 @@ def lint(po_dir=None, lang: int = config.LANG_EN, allow_ruby_drop: bool = False,
                 have = budgets.get(r)
                 if have is not None and need > have:
                     rep.add(ERROR, "gtt-budget", where,
-                            f"{r}: the translation needs {need} B but the "
-                            f"English line leaves {have} B -- GTT pools are "
-                            f"patched in place, so the bytes cannot grow "
-                            f"(ANALYSIS/11 §5). Shorten it, or leave this line "
-                            f"English")
+                            f"{r}: the translation needs {need} B but this "
+                            f"line's share of the block is {have} B -- the "
+                            f"block is re-laid-out, so a line may grow into "
+                            f"the slack the merged fragments left, but only "
+                            f"that far (ANALYSIS/11 §5.2). Shorten it, or "
+                            f"leave this line English")
             elif r.startswith(slots.CODEC + "/"):
                 counts["codec_slots"] += 1
             elif r.startswith(slots.STAGE + "/"):

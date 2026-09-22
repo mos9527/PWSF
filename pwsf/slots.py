@@ -39,8 +39,9 @@ SLOT = "slot"          # olang tables embedded in SLOT.DAT, ANALYSIS/08 §5.7
 STAGE = "stage"        # olang tables embedded in STAGEDAT, ANALYSIS/09 §4
                        # (extract-only: no write-back, po_import ignores it)
 GTT = "gtt"            # the GTT pools of SLOT.DAT, ANALYSIS/11
-                       # in-mission radio / hint lines; written in place, so a
-                       # translation may not be longer than the English string
+                       # in-mission radio / hint lines; the block is re-laid-out
+                       # on write-back, so a translation may be longer than the
+                       # English string (ANALYSIS/11 §5.2)
 
 
 @dataclass(frozen=True)
@@ -366,10 +367,11 @@ def gtt_sources() -> dict:
 
 
 def gtt_budgets() -> dict:
-    """reference -> bytes a translation may use (the English run's length).
+    """reference -> bytes a translation may use.
 
-    GTT write-back is in place (ANALYSIS/11 §5), so this is the hard limit
-    `po_lint`'s `gtt-budget` reports on.
+    GTT write-back re-lays the block out (ANALYSIS/11 §5.2), so a line may be
+    longer than its English -- up to its share of the block's slack.  That share
+    is what `po_lint`'s `gtt-budget` reports on.
     """
     path = config.GTT_TSV
     if not path.is_file():

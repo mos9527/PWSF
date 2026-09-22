@@ -86,9 +86,10 @@ def make_patch(by_table: dict, lang: int, gtt_by_pool: dict = None):
     """patch(blob, pool_id) writing the olang and GTT translations.
 
     Two pool types live in a slot: RBX (olang tables, rebuilt through
-    `olang_build`) and GTT (ANALYSIS/11, patched in place by `pwsf.gtt`
-    because the string pool is suffix-merged and only the primary language's
-    runs are known).
+    `olang_build`) and GTT (ANALYSIS/11, re-laid-out by `pwsf.gtt`: the runs
+    are re-packed unmerged and the header array is rebuilt from the new line
+    boundaries, which keeps the block length -- and so the record's byte
+    budget -- exactly as it was).
     """
     from . import gtt
 

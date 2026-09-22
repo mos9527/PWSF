@@ -73,10 +73,12 @@ msgstr ""
 NOTES = {
     "gtt": """\
 GTT: in-mission radio and hint lines, from the GTT pools of SLOT.DAT
-(ANALYSIS/11).  Two rules for every entry here:
-  - the translation is written IN PLACE, so it must not be longer in bytes
-    than the English line -- the `budget N B` on each entry is that limit,
-    and `po_lint` fails the build with `gtt-budget` when it is exceeded;
+(ANALYSIS/11).  Rules for every entry here:
+  - the block is re-laid-out when it is written back, so a translation may be
+    LONGER than the English line -- it can grow into the bytes the suffix-merged
+    fragments used to occupy.  `budget N B` is this line's share of that slack
+    (English length + slack/n), and `po_lint` fails the build with
+    `gtt-budget` when it is exceeded;
   - the game stores a line break as a two-character `\\n`, so keep the same
     number of lines as the source.
 """,
@@ -345,9 +347,10 @@ def collect_gtt() -> list:
 
     Source is `_gtt_lines.tsv`, the product of `python -m pwsf.gtt`.
 
-    WRITABLE, with a limit: `pwsf.slotdat_build` patches the pools in place, so
-    a translation may not be longer in bytes than the English line -- see
-    `po_lint`'s `gtt-budget` and ANALYSIS/11 §5.
+    WRITABLE: `pwsf.gtt` re-lays the block out when it writes back, so a
+    translation MAY be longer in bytes than the English line -- it grows into
+    the slack the suffix-merged fragments used to occupy (ANALYSIS/11 §5.2).
+    `budget` is this line's share of that slack; see `po_lint`'s `gtt-budget`.
     """
     from . import gtt
     from .slotdat import unescape
@@ -378,9 +381,18 @@ def collect_gtt() -> list:
         out.append(dict(ref=str(slots.GttRef(*key)), msgid=en, budget=budget,
                         comments=comments, sort=key))
     out.sort(key=lambda e: e["sort"])
-    # msgid -> budget, so main() can refuse to carry a translation that the
-    # in-place write-back cannot hold (ANALYSIS/11 §5)
-    collect_gtt.budgets = {e["msgid"]: e["budget"] for e in out if "budget" in e}
+    # msgid -> budget, so main() can refuse to carry a translation the line's
+    # share of the block cannot hold (ANALYSIS/11 §5.2)
+    # one text can sit at several addresses with different budgets: keep the
+    # tightest, so a carried-over translation is never accepted for a line it
+    # would not fit
+    collect_gtt.budgets = {}
+    for e in out:
+        if "budget" not in e:
+            continue
+        b = e["budget"]
+        if e["msgid"] not in collect_gtt.budgets or b < collect_gtt.budgets[e["msgid"]]:
+            collect_gtt.budgets[e["msgid"]] = b
     return out
 
 
@@ -409,24 +421,34 @@ def chunk(entries: list, size: int) -> list:
     return [entries[i:i + size] for i in range(0, len(entries), size)]
 
 
-def existing_translations(outdir: Path) -> dict:
-    """msgid -> msgstr from every .po already under `outdir`.
+def existing_translations(outdir: Path) -> tuple:
+    """(msgid -> msgstr, corpus -> {msgid: msgstr}) from the .po files there.
 
     Re-exporting regenerates the whole tree, so without this every round
     would throw away whatever has been translated so far.  Keyed on msgid
     only: the exporter merges slots by msgid, and a source string that changed
     simply misses and comes back empty, which is the safe failure.
+
+    The second map is the same thing per corpus, and it wins over the first:
+    one English line often lives in two corpora (a CODEC call and a slot
+    hint, say) and the two are rarely translated alike.  Taking only the
+    global map lets whichever corpus sorts first silently overwrite the other
+    -- seen 2026-09-22, "And one Snake..." came back from `codec/` and
+    replaced the `slot/` wording, which was the better of the two.
     """
     from .po import parse_po
 
-    out = {}
+    out, by_corpus = {}, {}
     if not outdir.is_dir():
-        return out
+        return out, by_corpus
     for p in sorted(outdir.rglob("*.po")):
+        corpus = p.parent.name
         for e in parse_po(p):
-            if e.msgid and e.msgstr and e.msgid not in out:
-                out[e.msgid] = e.msgstr
-    return out
+            if not (e.msgid and e.msgstr):
+                continue
+            out.setdefault(e.msgid, e.msgstr)
+            by_corpus.setdefault(corpus, {}).setdefault(e.msgid, e.msgstr)
+    return out, by_corpus
 
 
 def main() -> None:
@@ -450,9 +472,9 @@ def main() -> None:
                          "yet, see ANALYSIS/09 §4)")
     ap.add_argument("--gtt", choices=("all", "none"), default="all",
                     help="export the GTT pools of SLOT.DAT: in-mission radio "
-                         "and hint lines, ANALYSIS/11 (default all; written in "
-                         "place, so a translation may not be longer than the "
-                         "English line)")
+                         "and hint lines, ANALYSIS/11 (default all; the block "
+                         "is re-laid-out, so a translation may be longer than "
+                         "the English line)")
     ap.add_argument("--fresh", action="store_true",
                     help="do not carry over msgstr from the existing .po files")
     ap.add_argument("--pixel-font", action="store_true",
@@ -493,7 +515,10 @@ def main() -> None:
               f"(key.meta == 1: drawn with the ASCII-only 512x512 atlas in "
               f"Text/*.txp); --pixel-font to export them anyway")
 
-    carry = {} if args.fresh else existing_translations(args.outdir)
+    if args.fresh:
+        carry, carry_by_corpus = {}, {}
+    else:
+        carry, carry_by_corpus = existing_translations(args.outdir)
     if carry:
         print(f"carrying over {len(carry)} existing translation(s)")
 
@@ -501,9 +526,12 @@ def main() -> None:
     all_entries = []
     written = set()
     for name, records in corpora:
-        # GTT is written in place, so a carried-over translation the line
-        # cannot hold is dropped instead of re-created on every export
-        use = carry
+        # A GTT line may grow into the block's slack but not past its share,
+        # so a carried-over translation that overshoots is dropped instead of
+        # being re-created on every export.  A corpus's own wording wins over
+        # another corpus's for a shared line (see existing_translations).
+        use = dict(carry)
+        use.update(carry_by_corpus.get(name, {}))
         if name == "gtt" and carry:
             from . import gtt as _gtt
             budget = getattr(collect_gtt, "budgets", {})

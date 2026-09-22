@@ -113,8 +113,8 @@ def by_gtt(translations: dict) -> dict:
 
     The GTT pools of SLOT.DAT (ANALYSIS/11) hold the in-mission radio and hint
     lines.  They ride along with the SLOT.DAT rebuild, because that is the
-    container they live in -- the patcher writes them in place, so a pool
-    never changes length.
+    container they live in -- the patcher re-lays a block out but keeps its
+    length, so the record's byte budget is untouched (ANALYSIS/11 §5.2).
     """
     out = {}
     for ref, text in translations.items():

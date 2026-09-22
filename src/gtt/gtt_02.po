@@ -8,1488 +8,1568 @@ msgstr ""
 "X-PWSF-Source: gtt\n"
 "X-PWSF-Entries: 400\n"
 # GTT: in-mission radio and hint lines, from the GTT pools of SLOT.DAT
-# (ANALYSIS/11).  Two rules for every entry here:
-#   - the translation is written IN PLACE, so it must not be longer in bytes
-#     than the English line -- the `budget N B` on each entry is that limit,
-#     and `po_lint` fails the build with `gtt-budget` when it is exceeded;
+# (ANALYSIS/11).  Rules for every entry here:
+#   - the block is re-laid-out when it is written back, so a translation may be
+#     LONGER than the English line -- it can grow into the bytes the suffix-merged
+#     fragments used to occupy.  `budget N B` is this line's share of that slack
+#     (English length + slack/n), and `po_lint` fails the build with
+#     `gtt-budget` when it is exceeded;
 #   - the game stores a line break as a two-character `\n`, so keep the same
 #     number of lines as the source.
 
 
-#. GTT pool 0x1c677285 block 0x1f80 (id 0x67, record 204), budget 37 B
+#. GTT pool 0x1c677285 block 0x1b20 (id 0xb0, record 204), budget 28 B
+#. GTT pool 0x1c767903 block 0x65c0 (id 0xb0, record 0), budget 28 B
+#: gtt/0x1c677285/0x1b20/1
+#: gtt/0x1c767903/0x65c0/1
+msgid "then DROP it."
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1bd0 (id 0x83, record 204), budget 87 B
+#: gtt/0x1c677285/0x1bd0/0
+msgid "Guess this one didn't have the ID card after all. Keep looking."
+msgstr "看来这家伙身上没有ID卡。继续找。"
+
+#. GTT pool 0x1c677285 block 0x1c60 (id 0x8b, record 204), budget 29 B
+#: gtt/0x1c677285/0x1c60/0
+msgid "He did not have the card?"
+msgstr "他身上没有卡？"
+
+#. GTT pool 0x1c677285 block 0x1c60 (id 0x8b, record 204), budget 36 B
+#: gtt/0x1c677285/0x1c60/1
+msgid "It couldn't have been him, then."
+msgstr "那就不是他了。"
+
+#. GTT pool 0x1c677285 block 0x1cf0 (id 0x87, record 204), budget 87 B
+#: gtt/0x1c677285/0x1cf0/0
+msgid "I could have sworn it was him... Maybe it was somebody else?"
+msgstr "我明明记得是他……难道是别人？"
+
+#. GTT pool 0x1c677285 block 0x1d80 (id 0x8b, record 204), budget 87 B
+#: gtt/0x1c677285/0x1d80/0
+msgid "Guess that wasn't the one. I'm not hearing the quetzal, either."
+msgstr "看来不是这个。我也没听到凤尾绿咬鹃的叫声。"
+
+#. GTT pool 0x1c677285 block 0x1e10 (id 0x8a, record 204), budget 87 B
+#: gtt/0x1c677285/0x1e10/0
+msgid "I bet you could use that ID card you found to get into the lab."
+msgstr "你找到的ID卡应该能进实验室。"
+
+#. GTT pool 0x1c677285 block 0x1ea0 (id 0x6a, record 204), budget 55 B
+#: gtt/0x1c677285/0x1ea0/0
+msgid "That card will get you into the lab."
+msgstr "那张卡能让你进实验室。"
+
+#. GTT pool 0x1c677285 block 0x1f10 (id 0x69, record 204), budget 55 B
+#. GTT pool 0x1c79f2cb block 0xaa0 (id 0x69, record 240), budget 55 B
+#: gtt/0x1c677285/0x1f10/0
+#: gtt/0x1c79f2cb/0xaa0/0
+msgid "Kyohhh kyohhh. ...Hm? Oh, have you had enough?"
+msgstr ""
+
+#. GTT pool 0x1c677285 block 0x1f80 (id 0x67, record 204), budget 55 B
 #: gtt/0x1c677285/0x1f80/0
 msgid "I got you into the lab! Hee hee, yay."
 msgstr ""
 
-#. GTT pool 0x1c677285 block 0x1ff0 (id 0x94, record 204), budget 75 B
+#. GTT pool 0x1c677285 block 0x1ff0 (id 0x94, record 204), budget 103 B
 #: gtt/0x1c677285/0x1ff0/0
 msgid "Head for the ruins. With the ID card, you should be able to access the lab."
 msgstr "去遗迹。有ID卡应该能进实验室。"
 
-#. GTT pool 0x1c677285 block 0x2090 (id 0xba, record 204), budget 55 B
+#. GTT pool 0x1c677285 block 0x2090 (id 0xba, record 204), budget 63 B
 #: gtt/0x1c677285/0x2090/0
 msgid "Time's running short. You need to get back to the ruins"
 msgstr "时间不多了。你得赶回遗迹"
 
-#. GTT pool 0x1c677285 block 0x2090 (id 0xba, record 204), budget 43 B
+#. GTT pool 0x1c677285 block 0x2090 (id 0xba, record 204), budget 51 B
 #: gtt/0x1c677285/0x2090/1
 msgid "as quickly as possible and destroy that AI."
 msgstr "尽快摧毁那个AI。"
 
-#. GTT pool 0x1c677285 block 0x2150 (id 0xbf, record 204), budget 33 B
+#. GTT pool 0x1c677285 block 0x2150 (id 0xbf, record 204), budget 49 B
 #: gtt/0x1c677285/0x2150/0
 msgid "Good thing you found the ID card."
 msgstr "幸好你找到了ID卡。"
 
-#. GTT pool 0x1c677285 block 0x2150 (id 0xbf, record 204), budget 49 B
+#. GTT pool 0x1c677285 block 0x2150 (id 0xbf, record 204), budget 65 B
 #: gtt/0x1c677285/0x2150/1
 msgid "Maybe Quetzalcoatl had something to do with it..."
 msgstr "也许羽蛇神跟这事有关……"
 
-#. GTT pool 0x1c677285 block 0x2210 (id 0xc3, record 204), budget 68 B
+#. GTT pool 0x1c677285 block 0x2210 (id 0xc3, record 204), budget 79 B
 #: gtt/0x1c677285/0x2210/0
 msgid "You got a good ear, being able to pick out a quetzal call like that."
 msgstr "你耳朵真灵，居然听出凤尾绿咬鹃的叫声。"
 
-#. GTT pool 0x1c677285 block 0x2210 (id 0xc3, record 204), budget 40 B
+#. GTT pool 0x1c677285 block 0x2210 (id 0xc3, record 204), budget 51 B
 #: gtt/0x1c677285/0x2210/1
 msgid "It's something like this, right? Kyoooh!"
 msgstr "是这样叫的吧？啾——！"
 
-#. GTT pool 0x1c677285 block 0x22e0 (id 0xc0, record 204), budget 59 B
+#. GTT pool 0x1c677285 block 0x22e0 (id 0xc0, record 204), budget 68 B
 #: gtt/0x1c677285/0x22e0/0
 msgid "Hey, uh... you mind if I have a look at that ID card later?"
 msgstr "嘿，那个……回头能让我看看那张ID卡吗？"
 
-#. GTT pool 0x1c677285 block 0x22e0 (id 0xc0, record 204), budget 37 B
+#. GTT pool 0x1c677285 block 0x22e0 (id 0xc0, record 204), budget 46 B
 #: gtt/0x1c677285/0x22e0/1
 msgid "Er, for research purposes, of course."
 msgstr "呃，当然是为了研究。"
 
-#. GTT pool 0x1c677285 block 0x23a0 (id 0x66, record 204), budget 45 B
+#. GTT pool 0x1c677285 block 0x23a0 (id 0x66, record 204), budget 55 B
 #: gtt/0x1c677285/0x23a0/0
 msgid "Oh... Never thought she hated me that much..."
 msgstr "哦……没想到她那么恨我……"
 
-#. GTT pool 0x1c677285 block 0x2410 (id 0xab, record 204), budget 47 B
+#. GTT pool 0x1c677285 block 0x2410 (id 0xab, record 204), budget 61 B
 #: gtt/0x1c677285/0x2410/0
 msgid "That American, Huey... can we really trust him?"
 msgstr "那个美国人休伊……真能信他吗？"
 
-#. GTT pool 0x1c677285 block 0x2410 (id 0xab, record 204), budget 22 B
+#. GTT pool 0x1c677285 block 0x2410 (id 0xab, record 204), budget 36 B
 #: gtt/0x1c677285/0x2410/1
 msgid "That letter bother me."
 msgstr "那封信让我不安"
 
-#. GTT pool 0x1c677285 block 0x24c0 (id 0x7a, record 204), budget 47 B
+#. GTT pool 0x1c677285 block 0x24c0 (id 0x7a, record 204), budget 71 B
 #: gtt/0x1c677285/0x24c0/0
 msgid "I wouldn't mind reading Huey's letter myself..."
 msgstr "我倒想自己读读休伊的信……"
 
-#. GTT pool 0x1c677285 block 0x2540 (id 0x83, record 204), budget 61 B
+#. GTT pool 0x1c677285 block 0x2540 (id 0x83, record 204), budget 87 B
 #: gtt/0x1c677285/0x2540/0
 msgid "A letter to Dr. Strangelove... Heh, wonder what that's about."
 msgstr "给斯特兰奇洛夫博士的信……呵，不知写了啥"
 
-#. GTT pool 0x1c677285 block 0x25d0 (id 0x5f, record 204), budget 34 B
+#. GTT pool 0x1c677285 block 0x25d0 (id 0x5f, record 204), budget 39 B
 #: gtt/0x1c677285/0x25d0/0
 msgid "Did you... read Mr. Huey's letter?"
 msgstr "你……读了休伊的信？"
 
-#. GTT pool 0x1c677285 block 0x2630 (id 0x93, record 204), budget 75 B
+#. GTT pool 0x1c677285 block 0x2630 (id 0x93, record 204), budget 103 B
 #: gtt/0x1c677285/0x2630/0
 msgid "Come on, Snake! That letter could contain information vital to our mission."
 msgstr "拜托，SNAKE！那封信可能有任务的关键情报。"
 
-#. GTT pool 0x1c677285 block 0x26d0 (id 0xbd, record 204), budget 4 B
+#. GTT pool 0x1c677285 block 0x26d0 (id 0xbd, record 204), budget 22 B
 #: gtt/0x1c677285/0x26d0/0
 msgid "Man,"
 msgstr ""
 
-#. GTT pool 0x1c677285 block 0x26d0 (id 0xbd, record 204), budget 74 B
+#. GTT pool 0x1c677285 block 0x26d0 (id 0xbd, record 204), budget 92 B
 #: gtt/0x1c677285/0x26d0/1
 msgid "nice to see someone is relaxed enough these days to compose a love letter."
 msgstr "真难得，这年头还有人闲得写情书。"
 
-#. GTT pool 0x1c677285 block 0x2790 (id 0x7f, record 204), budget 60 B
+#. GTT pool 0x1c677285 block 0x2790 (id 0x7f, record 204), budget 71 B
 #: gtt/0x1c677285/0x2790/0
 msgid "It was a love letter? You'll have to show it to me sometime."
 msgstr "是情书？回头得给我看看。"
 
-#. GTT pool 0x1c677285 block 0x2810 (id 0x96, record 204), budget 74 B
+#. GTT pool 0x1c677285 block 0x2810 (id 0x96, record 204), budget 103 B
 #: gtt/0x1c677285/0x2810/0
 msgid "Ha ha ha! What do you know, a love letter. Never thought he had it in him!"
 msgstr "哈哈哈！想不到啊，情书。真没看出他有这本事！"
 
-#. GTT pool 0x1c677285 block 0x28b0 (id 0xb5, record 204), budget 30 B
+#. GTT pool 0x1c677285 block 0x28b0 (id 0xb5, record 204), budget 45 B
 #: gtt/0x1c677285/0x28b0/0
 msgid "I can't believe you would poke"
 msgstr "真不敢相信你竟然去"
 
-#. GTT pool 0x1c677285 block 0x28b0 (id 0xb5, record 204), budget 54 B
+#. GTT pool 0x1c677285 block 0x28b0 (id 0xb5, record 204), budget 69 B
 #: gtt/0x1c677285/0x28b0/1
 msgid "your nose into someone else's personal life like that."
 msgstr "打探别人的私生活。"
 
-#. GTT pool 0x1c677285 block 0x2970 (id 0xce, record 204), budget 65 B
+#. GTT pool 0x1c677285 block 0x2970 (id 0xce, record 204), budget 76 B
 #: gtt/0x1c677285/0x2970/0
 msgid "Your objective is a research facility disguised as ancient ruins."
 msgstr "目标是伪装成古代遗迹的研究设施。"
 
-#. GTT pool 0x1c677285 block 0x2970 (id 0xce, record 204), budget 43 B
+#. GTT pool 0x1c677285 block 0x2970 (id 0xce, record 204), budget 54 B
 #: gtt/0x1c677285/0x2970/1
 msgid "It's on the other side of the cloud forest."
 msgstr "在云雾林另一边。"
 
-#. GTT pool 0x1c677285 block 0x2a40 (id 0x61, record 204), budget 27 B
+#. GTT pool 0x1c677285 block 0x2a40 (id 0x61, record 204), budget 55 B
 #: gtt/0x1c677285/0x2a40/0
 msgid "Head for Strangelove's lab."
 msgstr ""
 
-#. GTT pool 0x1c677285 block 0x2ab0 (id 0x69, record 204), budget 38 B
+#. GTT pool 0x1c677285 block 0x2ab0 (id 0x69, record 204), budget 55 B
 #: gtt/0x1c677285/0x2ab0/0
 msgid "Promise me you won't read that letter."
 msgstr "答应我，别看那封信。"
 
-#. GTT pool 0x1c677285 block 0x2b20 (id 0x6d, record 204), budget 40 B
+#. GTT pool 0x1c677285 block 0x2b20 (id 0x6d, record 204), budget 55 B
 #: gtt/0x1c677285/0x2b20/0
 msgid "I wonder what Dr. Strangelove is like..."
 msgstr "斯特兰奇洛夫博士什么样…"
 
-#. GTT pool 0x1c677285 block 0x2b90 (id 0x87, record 204), budget 58 B
+#. GTT pool 0x1c677285 block 0x2b90 (id 0x87, record 204), budget 87 B
 #: gtt/0x1c677285/0x2b90/0
 msgid "Dr. Strangelove's lab can't be much further. Hurry, Snake."
 msgstr "博士实验室不远了。快，SNAKE。"
 
-#. GTT pool 0x1c677285 block 0x2c20 (id 0x74, record 204), budget 52 B
+#. GTT pool 0x1c677285 block 0x2c20 (id 0x74, record 204), budget 71 B
 #: gtt/0x1c677285/0x2c20/0
 msgid "Shouldn't be long before you get to those ruins now."
 msgstr "你应该很快就能到那片遗迹了。"
 
-#. GTT pool 0x1c677285 block 0x2ca0 (id 0x74, record 204), budget 54 B
+#. GTT pool 0x1c677285 block 0x2ca0 (id 0x74, record 204), budget 71 B
 #: gtt/0x1c677285/0x2ca0/0
 msgid "The lab seems to be located in a vast series of ruins."
 msgstr "实验室似乎位于一大片遗迹之中。"
 
-#. GTT pool 0x1c677285 block 0x2d20 (id 0xb4, record 204), budget 50 B
+#. GTT pool 0x1c677285 block 0x2d20 (id 0xb4, record 204), budget 71 B
 #: gtt/0x1c677285/0x2d20/0
 msgid "Go to the lab and destroy Peace Walker's cerebrum."
 msgstr "去实验室，摧毁和平行者的大脑。"
 
-#. GTT pool 0x1c677285 block 0x2d20 (id 0xb4, record 204), budget 21 B
+#. GTT pool 0x1c677285 block 0x2d20 (id 0xb4, record 204), budget 42 B
 #: gtt/0x1c677285/0x2d20/1
 msgid "You can do it, Snake!"
 msgstr "你能行，SNAKE！"
 
-#. GTT pool 0x1c677285 block 0x2de0 (id 0x7c, record 204), budget 48 B
+#. GTT pool 0x1c677285 block 0x2de0 (id 0x7c, record 204), budget 71 B
 #: gtt/0x1c677285/0x2de0/0
 msgid "Strangelove's lab is north of there. Head north."
 msgstr "博士实验室在北边。往北走。"
 
-#. GTT pool 0x1c677285 block 0x2e60 (id 0x5e, record 204), budget 30 B
+#. GTT pool 0x1c677285 block 0x2e60 (id 0x5e, record 204), budget 39 B
 #: gtt/0x1c677285/0x2e60/0
 msgid "Head for the lab to the north."
 msgstr "往北边的实验室去。"
 
-#. GTT pool 0x1c677285 block 0x2ec0 (id 0x84, record 204), budget 63 B
+#. GTT pool 0x1c677285 block 0x2ec0 (id 0x84, record 204), budget 87 B
 #: gtt/0x1c677285/0x2ec0/0
 msgid "First cut over to the east. You'll find the lab north of there."
 msgstr "先往东走。实验室就在那北边。"
 
-#. GTT pool 0x1c677285 block 0x2f50 (id 0x7f, record 204), budget 58 B
+#. GTT pool 0x1c677285 block 0x2f50 (id 0x7f, record 204), budget 71 B
 #: gtt/0x1c677285/0x2f50/0
 msgid "We had a mule at my house once. He was a real hard worker."
 msgstr "我家曾养过一头骡子。它干活真卖力。"
 
-#. GTT pool 0x1c677285 block 0x2fd0 (id 0xc1, record 204), budget 76 B
+#. GTT pool 0x1c677285 block 0x2fd0 (id 0xc1, record 204), budget 94 B
 #: gtt/0x1c677285/0x2fd0/0
 msgid "Sorry, but even just hearing el colibri's song makes me weak in the knees..."
 msgstr "抱歉，光是听到蜂鸟的歌声我就腿软…"
 
-#. GTT pool 0x1c677285 block 0x2fd0 (id 0xc1, record 204), budget 18 B
+#. GTT pool 0x1c677285 block 0x2fd0 (id 0xc1, record 204), budget 36 B
 #: gtt/0x1c677285/0x2fd0/1
 msgid "Some soldier, huh?"
 msgstr ""
 
-#. GTT pool 0x1c677285 block 0x30a0 (id 0x7c, record 204), budget 36 B
+#. GTT pool 0x1c677285 block 0x30a0 (id 0x7c, record 204), budget 71 B
 #: gtt/0x1c677285/0x30a0/0
 msgid "I wonder if the mule made it home..."
 msgstr "骡子回到家了吗…"
 
-#. GTT pool 0x1c677285 block 0x3120 (id 0x78, record 204), budget 51 B
+#. GTT pool 0x1c677285 block 0x3120 (id 0x78, record 204), budget 71 B
 #: gtt/0x1c677285/0x3120/0
 msgid "I've never been that far before. Be careful, Snake."
 msgstr "我从没去过那么远。小心，SNAKE。"
 
-#. GTT pool 0x1c677285 block 0x31a0 (id 0xc7, record 204), budget 42 B
+#. GTT pool 0x1c677285 block 0x31a0 (id 0xc7, record 204), budget 60 B
 #: gtt/0x1c677285/0x31a0/0
 msgid "Snake, I'm a sucker for French women, too,"
 msgstr "SNAKE，我也迷法国的女人，"
 
-#. GTT pool 0x1c677285 block 0x31a0 (id 0xc7, record 204), budget 52 B
+#. GTT pool 0x1c677285 block 0x31a0 (id 0xc7, record 204), budget 70 B
 #: gtt/0x1c677285/0x31a0/1
 msgid "but right now I need you to go meet Dr. Strangelove."
 msgstr "但现在你得去见斯特兰奇洛夫博士。"
 
-#. GTT pool 0x1c677285 block 0x3270 (id 0x56, record 204), budget 27 B
+#. GTT pool 0x1c677285 block 0x3270 (id 0x56, record 204), budget 39 B
 #: gtt/0x1c677285/0x3270/0
 msgid "Ah, une petite Parisenne..."
 msgstr "啊，一个巴黎小妞…"
 
-#. GTT pool 0x1c677285 block 0x32d0 (id 0x46, record 204), budget 12 B
+#. GTT pool 0x1c677285 block 0x32d0 (id 0x46, record 204), budget 23 B
 #: gtt/0x1c677285/0x32d0/0
 msgid "Je t'aime..."
 msgstr "我爱你…"
 
-#. GTT pool 0x1c677285 block 0x3320 (id 0x74, record 204), budget 54 B
+#. GTT pool 0x1c677285 block 0x3320 (id 0x74, record 204), budget 71 B
 #: gtt/0x1c677285/0x3320/0
 msgid "Better hope Xochiquetzal's watching over you, Snake..."
 msgstr "最好指望女神保佑你，SNAKE…"
 
-#. GTT pool 0x1c677285 block 0x33a0 (id 0x7f, record 204), budget 69 B
+#. GTT pool 0x1c677285 block 0x33a0 (id 0x7f, record 204), budget 71 B
 #: gtt/0x1c677285/0x33a0/0
 msgid "Bet those butterflies don't have anything to worry about at all, huh?"
 msgstr "那些蝴蝶肯定什么都不用担心吧？"
 
-#. GTT pool 0x1c677285 block 0x3420 (id 0xb8, record 204), budget 65 B
+#. GTT pool 0x1c677285 block 0x3420 (id 0xb8, record 204), budget 77 B
 #: gtt/0x1c677285/0x3420/0
 msgid "I heard in Japan they have Morpho butterflies almost 6 feet long!"
 msgstr "我听说日本有近六英尺长的闪蝶！"
 
-#. GTT pool 0x1c677285 block 0x3420 (id 0xb8, record 204), budget 25 B
+#. GTT pool 0x1c677285 block 0x3420 (id 0xb8, record 204), budget 37 B
 #: gtt/0x1c677285/0x3420/1
 msgid "I, I wonder if it's true."
 msgstr ""
 
-#. GTT pool 0x1c677285 block 0x34e0 (id 0x65, record 204), budget 42 B
+#. GTT pool 0x1c677285 block 0x34e0 (id 0x65, record 204), budget 55 B
 #: gtt/0x1c677285/0x34e0/0
 msgid "Morpho butterflies... Pretty, aren't they?"
 msgstr "闪蝶…挺漂亮的，是吧？"
 
-#. GTT pool 0x1c677285 block 0x3550 (id 0x80, record 204), budget 64 B
+#. GTT pool 0x1c677285 block 0x3550 (id 0x80, record 204), budget 71 B
 #: gtt/0x1c677285/0x3550/0
 msgid "Look at the structural coloring on these morphos... fascinating!"
 msgstr "看这些闪蝶的结构色…真迷人！"
 
-#. GTT pool 0x1c767903 block 0x0 (id 0x65, record 0), budget 37 B
+#. GTT pool 0x1c767903 block 0x0 (id 0x65, record 0), budget 55 B
 #: gtt/0x1c767903/0x0/0
 msgid "That area is not part of the mission."
 msgstr "该区域不属于本次任务。"
 
-#. GTT pool 0x1c767903 block 0x70 (id 0x69, record 0), budget 41 B
+#. GTT pool 0x1c767903 block 0x70 (id 0x69, record 0), budget 55 B
 #: gtt/0x1c767903/0x70/0
 msgid "That's outside the scope of this mission."
 msgstr "这超出了本次任务范围。"
 
-#. GTT pool 0x1c767903 block 0xe0 (id 0x67, record 0), budget 35 B
+#. GTT pool 0x1c767903 block 0xe0 (id 0x67, record 0), budget 55 B
 #: gtt/0x1c767903/0xe0/0
 msgid "Stay focused on the mission, Snake."
 msgstr "专注任务，SNAKE。"
 
-#. GTT pool 0x1c767903 block 0x150 (id 0x65, record 0), budget 27 B
+#. GTT pool 0x1c767903 block 0x150 (id 0x65, record 0), budget 55 B
 #: gtt/0x1c767903/0x150/0
 msgid "Focus! You're on a mission."
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x1c0 (id 0x5e, record 0), budget 24 B
+#. GTT pool 0x1c767903 block 0x1c0 (id 0x5e, record 0), budget 39 B
+#. GTT pool 0x1c7b730b block 0x790 (id 0x5e, record 312), budget 39 B
+#. GTT pool 0x1c7c730b block 0xbc0 (id 0x5e, record 324), budget 39 B
 #: gtt/0x1c767903/0x1c0/0
+#: gtt/0x1c7b730b/0x790/0
+#: gtt/0x1c7c730b/0xbc0/0
 msgid "Hey, nothing over there."
 msgstr "嘿，那边没东西"
 
-#. GTT pool 0x1c767903 block 0x220 (id 0x82, record 0), budget 55 B
+#. GTT pool 0x1c767903 block 0x220 (id 0x82, record 0), budget 87 B
 #: gtt/0x1c767903/0x220/0
 msgid ""
 "You won't get up there alone.\n"
 "With some help, maybe..."
-msgstr "你一个人上不去。\n有人帮忙也许行……"
+msgstr ""
+"你一个人上不去。\n"
+"有人帮忙也许行……"
 
-#. GTT pool 0x1c767903 block 0x2b0 (id 0x91, record 0), budget 69 B
+#. GTT pool 0x1c767903 block 0x2b0 (id 0x91, record 0), budget 103 B
 #: gtt/0x1c767903/0x2b0/0
 msgid ""
 "You could probably climb that if you\n"
 "had someone to lend you a hand."
-msgstr "如果有人搭把手，\n你大概能爬上去。"
+msgstr ""
+"如果有人搭把手，\n"
+"你大概能爬上去。"
 
-#. GTT pool 0x1c767903 block 0x350 (id 0x88, record 0), budget 65 B
+#. GTT pool 0x1c767903 block 0x350 (id 0x88, record 0), budget 87 B
 #: gtt/0x1c767903/0x350/0
 msgid ""
 "Hmm, that's too tall to climb.\n"
 "If only you had some equipment..."
-msgstr "嗯，太高了爬不上去。\n要是有装备就好了……"
+msgstr ""
+"嗯，太高了爬不上去。\n"
+"要是有装备就好了……"
 
-#. GTT pool 0x1c767903 block 0x3e0 (id 0x8e, record 0), budget 67 B
+#. GTT pool 0x1c767903 block 0x3e0 (id 0x8e, record 0), budget 87 B
 #: gtt/0x1c767903/0x3e0/0
 msgid ""
 "If you had something to stand on,\n"
 "you could probably reach that..."
-msgstr "要是有东西垫脚，\n你大概够得到……"
+msgstr ""
+"要是有东西垫脚，\n"
+"你大概够得到……"
 
-#. GTT pool 0x1c767903 block 0x470 (id 0x84, record 0), budget 73 B
+#. GTT pool 0x1c767903 block 0x470 (id 0x84, record 0), budget 87 B
 #: gtt/0x1c767903/0x470/0
 msgid "If you work as a pair, you should be able to climb small cliffs together."
 msgstr "两人合作应该能一起爬上小悬崖。"
 
-#. GTT pool 0x1c767903 block 0x500 (id 0x6c, record 0), budget 43 B
+#. GTT pool 0x1c767903 block 0x500 (id 0x6c, record 0), budget 55 B
 #: gtt/0x1c767903/0x500/0
 msgid ""
 "It'd take two people to\n"
 "get through there."
-msgstr "要两个人才能\n通过那里。"
+msgstr ""
+"要两个人才能\n"
+"通过那里。"
 
-#. GTT pool 0x1c767903 block 0x570 (id 0x7c, record 0), budget 55 B
+#. GTT pool 0x1c767903 block 0x570 (id 0x7c, record 0), budget 71 B
 #: gtt/0x1c767903/0x570/0
 msgid ""
 "You've gotta wait for backup\n"
 "before going any farther."
-msgstr "你得等增援\n才能继续前进。"
+msgstr ""
+"你得等增援\n"
+"才能继续前进。"
 
-#. GTT pool 0x1c767903 block 0x5f0 (id 0x47, record 0), budget 9 B
+#. GTT pool 0x1c767903 block 0x5f0 (id 0x47, record 0), budget 23 B
 #: gtt/0x1c767903/0x5f0/0
 msgid "Awwright!"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x640 (id 0x45, record 0), budget 7 B
+#. GTT pool 0x1c767903 block 0x640 (id 0x45, record 0), budget 23 B
 #: gtt/0x1c767903/0x640/0
 msgid "Niiice!"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x690 (id 0x71, record 0), budget 42 B
+#. GTT pool 0x1c767903 block 0x690 (id 0x71, record 0), budget 71 B
 #: gtt/0x1c767903/0x690/0
 msgid "Fulton Recovery to helicopter is complete."
 msgstr "富尔顿回收至直升机完成。"
 
-#. GTT pool 0x1c767903 block 0x710 (id 0x7a, record 0), budget 53 B
+#. GTT pool 0x1c767903 block 0x710 (id 0x7a, record 0), budget 71 B
 #: gtt/0x1c767903/0x710/0
 msgid "Fulton Recovery subject confirmed onboard helicopter."
 msgstr "富尔顿回收目标已确认在机上。"
 
-#. GTT pool 0x1c767903 block 0x790 (id 0x4f, record 0), budget 12 B
+#. GTT pool 0x1c767903 block 0x790 (id 0x4f, record 0), budget 23 B
 #: gtt/0x1c767903/0x790/0
 msgid "What a haul!"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x7e0 (id 0x64, record 0), budget 24 B
+#. GTT pool 0x1c767903 block 0x7e0 (id 0x64, record 0), budget 55 B
 #: gtt/0x1c767903/0x7e0/0
 msgid "Great! You did it again!"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x850 (id 0x46, record 0), budget 8 B
+#. GTT pool 0x1c767903 block 0x850 (id 0x46, record 0), budget 23 B
 #: gtt/0x1c767903/0x850/0
 msgid "Amazing!"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x8a0 (id 0xb9, record 0), budget 26 B
+#. GTT pool 0x1c767903 block 0x8a0 (id 0xb9, record 0), budget 46 B
 #: gtt/0x1c767903/0x8a0/0
 msgid "The chopper's almost full!"
 msgstr "直升机快满了！"
 
-#. GTT pool 0x1c767903 block 0x8a0 (id 0xb9, record 0), budget 48 B
+#. GTT pool 0x1c767903 block 0x8a0 (id 0xb9, record 0), budget 68 B
 #: gtt/0x1c767903/0x8a0/1
 msgid "You won't be able to use the Fulton much longer."
 msgstr "富尔顿很快就不能再用了。"
 
-#. GTT pool 0x1c767903 block 0x960 (id 0xc3, record 0), budget 35 B
+#. GTT pool 0x1c767903 block 0x960 (id 0xc3, record 0), budget 52 B
 #: gtt/0x1c767903/0x960/0
 msgid "The Fulton recovery chopper's full."
 msgstr "富尔顿回收直升机已满。"
 
-#. GTT pool 0x1c767903 block 0x960 (id 0xc3, record 0), budget 60 B
+#. GTT pool 0x1c767903 block 0x960 (id 0xc3, record 0), budget 77 B
 #: gtt/0x1c767903/0x960/1
 msgid "We'll have to suspend recoveries until it gets back to base."
 msgstr "得暂停回收，等它回基地。"
 
-#. GTT pool 0x1c767903 block 0xa30 (id 0xc3, record 0), budget 36 B
+#. GTT pool 0x1c767903 block 0xa30 (id 0xc3, record 0), budget 57 B
 #: gtt/0x1c767903/0xa30/0
 msgid "The chopper's bursting at the seams!"
 msgstr "直升机快撑爆了！"
 
-#. GTT pool 0x1c767903 block 0xa30 (id 0xc3, record 0), budget 51 B
+#. GTT pool 0x1c767903 block 0xa30 (id 0xc3, record 0), budget 72 B
 #: gtt/0x1c767903/0xa30/1
 msgid "No more Fulton recoveries until it returns to base."
 msgstr "回基地前不能再富尔顿回收。"
 
-#. GTT pool 0x1c767903 block 0xb00 (id 0xe6, record 0), budget 77 B
+#. GTT pool 0x1c767903 block 0xb00 (id 0xe6, record 0), budget 92 B
 #: gtt/0x1c767903/0xb00/0
 msgid "That last Fulton recovery of yours is still twirling around below the chopper"
 msgstr "你上次富尔顿回收的还在直升机下打转"
 
-#. GTT pool 0x1c767903 block 0xb00 (id 0xe6, record 0), budget 55 B
+#. GTT pool 0x1c767903 block 0xb00 (id 0xe6, record 0), budget 70 B
 #: gtt/0x1c767903/0xb00/1
 msgid "- there's no more room. Lay off the recoveries for now."
 msgstr "——没地方了。暂时别回收了。"
 
-#. GTT pool 0x1c767903 block 0xbf0 (id 0xc4, record 0), budget 34 B
+#. GTT pool 0x1c767903 block 0xbf0 (id 0xc4, record 0), budget 55 B
 #: gtt/0x1c767903/0xbf0/0
 msgid "Mother Base is already jam-packed."
 msgstr "母基地已经塞满了。"
 
-#. GTT pool 0x1c767903 block 0xbf0 (id 0xc4, record 0), budget 54 B
+#. GTT pool 0x1c767903 block 0xbf0 (id 0xc4, record 0), budget 75 B
 #: gtt/0x1c767903/0xbf0/1
 msgid "Lay off the Fulton recoveries until there's more room."
 msgstr "母基地满员前，暂停富尔顿回收。"
 
-#. GTT pool 0x1c767903 block 0xcc0 (id 0x107, record 0), budget 39 B
+#. GTT pool 0x1c767903 block 0xcc0 (id 0x107, record 0), budget 56 B
 #: gtt/0x1c767903/0xcc0/0
 msgid "Mother Base is practically overflowing."
 msgstr "母基地已经快装不下了。"
 
-#. GTT pool 0x1c767903 block 0xcc0 (id 0x107, record 0), budget 64 B
+#. GTT pool 0x1c767903 block 0xcc0 (id 0x107, record 0), budget 81 B
 #: gtt/0x1c767903/0xcc0/1
 msgid "Until some of these people leave, further Fulton recoveries are-"
 msgstr "在有些人离开之前，继续富尔顿回收会——"
 
-#. GTT pool 0x1c767903 block 0xcc0 (id 0x107, record 0), budget 18 B
+#. GTT pool 0x1c767903 block 0xcc0 (id 0x107, record 0), budget 35 B
 #: gtt/0x1c767903/0xcc0/2
 msgid "hey, stop pushing!"
 msgstr "喂，别推了！"
 
-#. GTT pool 0x1c767903 block 0xdd0 (id 0xff, record 0), budget 34 B
+#. GTT pool 0x1c767903 block 0xdd0 (id 0xff, record 0), budget 50 B
 #: gtt/0x1c767903/0xdd0/0
 msgid "No more Fulton recoveries for now."
 msgstr "现在不能富尔顿回收了。"
 
-#. GTT pool 0x1c767903 block 0xdd0 (id 0xff, record 0), budget 50 B
+#. GTT pool 0x1c767903 block 0xdd0 (id 0xff, record 0), budget 66 B
 #: gtt/0x1c767903/0xdd0/1
 msgid "Mother Base is so packed, it's standing room only."
 msgstr "母基地挤得连站的地方都没有了。"
 
-#. GTT pool 0x1c767903 block 0xdd0 (id 0xff, record 0), budget 23 B
+#. GTT pool 0x1c767903 block 0xdd0 (id 0xff, record 0), budget 39 B
 #: gtt/0x1c767903/0xdd0/2
 msgid "Damn it! Man overboard!"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0xed0 (id 0xe9, record 0), budget 43 B
+#. GTT pool 0x1c767903 block 0xed0 (id 0xe9, record 0), budget 74 B
 #: gtt/0x1c767903/0xed0/0
 msgid "To use Fulton recovery on a downed soldier,"
 msgstr "对倒地士兵用富尔顿回收，"
 
-#. GTT pool 0x1c767903 block 0xed0 (id 0xe9, record 0), budget 57 B
-#: gtt/0x1c767903/0xed0/1
-msgid "get up next to them so the icon appears and push <I=ACT>."
-msgstr "靠近他让图标出现，然后按<I=ACT>。"
-
-#. GTT pool 0x1c767903 block 0xfc0 (id 0xd8, record 0), budget 62 B
+#. GTT pool 0x1c767903 block 0xfc0 (id 0xd8, record 0), budget 87 B
 #: gtt/0x1c767903/0xfc0/0
 msgid "To use the Fulton recovery system on an incapacitated soldier,"
 msgstr "对无力士兵用富尔顿回收系统，"
 
-#. GTT pool 0x1c767903 block 0xfc0 (id 0xd8, record 0), budget 34 B
+#. GTT pool 0x1c767903 block 0xfc0 (id 0xd8, record 0), budget 59 B
 #: gtt/0x1c767903/0xfc0/1
 msgid "get next to him and press <I=ACT>."
 msgstr "靠近他并按<I=ACT>。"
 
-#. GTT pool 0x1c767903 block 0x10a0 (id 0xaf, record 0), budget 48 B
+#. GTT pool 0x1c767903 block 0x10a0 (id 0xaf, record 0), budget 58 B
 #: gtt/0x1c767903/0x10a0/0
 msgid "We're not seeing any large weapons in that area."
 msgstr "该区域没有发现大型武器。"
 
-#. GTT pool 0x1c767903 block 0x10a0 (id 0xaf, record 0), budget 29 B
+#. GTT pool 0x1c767903 block 0x10a0 (id 0xaf, record 0), budget 39 B
 #: gtt/0x1c767903/0x10a0/1
 msgid "No point in using the EM Net."
 msgstr "用电磁网没有意义。"
 
-#. GTT pool 0x1c767903 block 0x1150 (id 0x8d, record 0), budget 76 B
+#. GTT pool 0x1c767903 block 0x1150 (id 0x8d, record 0), budget 87 B
 #: gtt/0x1c767903/0x1150/0
 msgid "The EM Net is useless unless you're in the vicinity of a large-scale weapon."
 msgstr "除非在大型武器附近，否则电磁网没用。"
 
-#. GTT pool 0x1c767903 block 0x11e0 (id 0x7d, record 0), budget 59 B
+#. GTT pool 0x1c767903 block 0x11e0 (id 0x7d, record 0), budget 71 B
+#. GTT pool 0x1c7c724b block 0xd50 (id 0x7d, record 186), budget 71 B
 #: gtt/0x1c767903/0x11e0/0
+#: gtt/0x1c7c724b/0xd50/0
 msgid "Too big, Snake. Not even the EM Net can pick that thing up."
 msgstr "太大了，SNAKE。连电磁网都吊不起来。"
 
-#. GTT pool 0x1c767903 block 0x1260 (id 0x71, record 0), budget 40 B
+#. GTT pool 0x1c767903 block 0x1260 (id 0x71, record 0), budget 71 B
+#. GTT pool 0x1c7bf28b block 0x1030 (id 0x71, record 234), budget 71 B
 #: gtt/0x1c767903/0x1260/0
+#: gtt/0x1c7bf28b/0x1030/0
 msgid "The EM Net won't work on flying targets."
 msgstr "电磁网对飞行目标无效。"
 
-#. GTT pool 0x1c767903 block 0x12e0 (id 0x5e, record 0), budget 32 B
+#. GTT pool 0x1c767903 block 0x12e0 (id 0x5e, record 0), budget 39 B
 #: gtt/0x1c767903/0x12e0/0
 msgid "The Net's already active, Snake."
 msgstr "网已经启动了，SNAKE。"
 
-#. GTT pool 0x1c767903 block 0x1340 (id 0x91, record 0), budget 67 B
+#. GTT pool 0x1c767903 block 0x1340 (id 0x91, record 0), budget 103 B
 #: gtt/0x1c767903/0x1340/0
 msgid "Mother Base is full. We can't take on any more large-scale weapons."
 msgstr "母基地满了。我们无法再接收大型武器。"
 
-#. GTT pool 0x1c767903 block 0x13e0 (id 0xc1, record 0), budget 32 B
+#. GTT pool 0x1c767903 block 0x13e0 (id 0xc1, record 0), budget 56 B
 #: gtt/0x1c767903/0x13e0/0
 msgid "Mother Base is at full capacity."
 msgstr "母基地已达容量上限。"
 
-#. GTT pool 0x1c767903 block 0x13e0 (id 0xc1, record 0), budget 50 B
+#. GTT pool 0x1c767903 block 0x13e0 (id 0xc1, record 0), budget 74 B
 #: gtt/0x1c767903/0x13e0/1
 msgid "We can't accommodate any more large-scale weapons."
 msgstr "我们无法再容纳更多大型武器。"
 
-#. GTT pool 0x1c767903 block 0x14b0 (id 0xf5, record 0), budget 20 B
+#. GTT pool 0x1c767903 block 0x14b0 (id 0xf5, record 0), budget 35 B
 #: gtt/0x1c767903/0x14b0/0
 msgid "We just got a report"
 msgstr "刚收到报告"
 
-#. GTT pool 0x1c767903 block 0x14b0 (id 0xf5, record 0), budget 63 B
+#. GTT pool 0x1c767903 block 0x14b0 (id 0xf5, record 0), budget 78 B
 #: gtt/0x1c767903/0x14b0/1
 msgid "that an enemy soldier managed to hang on to the Fulton chopper."
 msgstr "有敌兵扒住了富尔顿回收直升机。"
 
-#. GTT pool 0x1c767903 block 0x14b0 (id 0xf5, record 0), budget 28 B
+#. GTT pool 0x1c767903 block 0x14b0 (id 0xf5, record 0), budget 43 B
 #: gtt/0x1c767903/0x14b0/2
 msgid "What's going on down there?!"
 msgstr "下面怎么回事？！"
 
-#. GTT pool 0x1c767903 block 0x15b0 (id 0xbf, record 0), budget 39 B
+#. GTT pool 0x1c767903 block 0x15b0 (id 0xbf, record 0), budget 56 B
 #: gtt/0x1c767903/0x15b0/0
 msgid "The chopper got snagged by another one."
 msgstr "直升机被另一架勾住了。"
 
-#. GTT pool 0x1c767903 block 0x15b0 (id 0xbf, record 0), budget 41 B
+#. GTT pool 0x1c767903 block 0x15b0 (id 0xbf, record 0), budget 58 B
 #: gtt/0x1c767903/0x15b0/1
 msgid "Weird... Wonder how that keeps happening."
 msgstr "奇怪……怎么会老是这样。"
 
-#. GTT pool 0x1c767903 block 0x1670 (id 0x9a, record 0), budget 13 B
+#. GTT pool 0x1c767903 block 0x1670 (id 0x9a, record 0), budget 28 B
 #: gtt/0x1c767903/0x1670/0
 msgid "Wh... Again?!"
 msgstr "又来？！"
 
-#. GTT pool 0x1c767903 block 0x1670 (id 0x9a, record 0), budget 38 B
+#. GTT pool 0x1c767903 block 0x1670 (id 0x9a, record 0), budget 53 B
 #: gtt/0x1c767903/0x1670/1
 msgid "Another enemy got hold of the chopper!"
 msgstr "直升机又被敌人抢了！"
 
-#. GTT pool 0x1c767903 block 0x1710 (id 0xb9, record 0), budget 47 B
+#. GTT pool 0x1c767903 block 0x1710 (id 0xb9, record 0), budget 63 B
 #: gtt/0x1c767903/0x1710/0
 msgid "They've okayed the request for supporting fire."
 msgstr "支援射击的请求批下来了。"
 
-#. GTT pool 0x1c767903 block 0x1710 (id 0xb9, record 0), budget 34 B
+#. GTT pool 0x1c767903 block 0x1710 (id 0xb9, record 0), budget 50 B
 #: gtt/0x1c767903/0x1710/1
 msgid "It should commence any second now."
 msgstr "马上就开始。"
 
-#. GTT pool 0x1c767903 block 0x17d0 (id 0xa6, record 0), budget 56 B
+#. GTT pool 0x1c767903 block 0x17d0 (id 0xa6, record 0), budget 71 B
 #: gtt/0x1c767903/0x17d0/0
 msgid "They're about to commence the requested supporting fire."
 msgstr "请求的支援射击即将开始。"
 
-#. GTT pool 0x1c767903 block 0x17d0 (id 0xa6, record 0), budget 11 B
+#. GTT pool 0x1c767903 block 0x17d0 (id 0xa6, record 0), budget 26 B
 #: gtt/0x1c767903/0x17d0/1
 msgid "Stay clear."
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x1880 (id 0x76, record 0), budget 48 B
+#. GTT pool 0x1c767903 block 0x1880 (id 0x76, record 0), budget 71 B
 #: gtt/0x1c767903/0x1880/0
 msgid "We can't fire these things at the drop of a hat."
 msgstr "这东西不能说打就打。"
 
-#. GTT pool 0x1c767903 block 0x1900 (id 0x5e, record 0), budget 16 B
+#. GTT pool 0x1c767903 block 0x1900 (id 0x5e, record 0), budget 39 B
 #: gtt/0x1c767903/0x1900/0
 msgid "Try again later."
 msgstr "回头再试。"
 
-#. GTT pool 0x1c767903 block 0x1960 (id 0x60, record 0), budget 23 B
+#. GTT pool 0x1c767903 block 0x1960 (id 0x60, record 0), budget 39 B
 #: gtt/0x1c767903/0x1960/0
 msgid "We need time to reload."
 msgstr "装填需要时间。"
 
-#. GTT pool 0x1c767903 block 0x19c0 (id 0x58, record 0), budget 26 B
+#. GTT pool 0x1c767903 block 0x19c0 (id 0x58, record 0), budget 39 B
 #: gtt/0x1c767903/0x19c0/0
 msgid "You'll have to wait a bit."
 msgstr "你得等一会儿。"
 
-#. GTT pool 0x1c767903 block 0x1a20 (id 0x76, record 0), budget 53 B
+#. GTT pool 0x1c767903 block 0x1a20 (id 0x76, record 0), budget 71 B
 #: gtt/0x1c767903/0x1a20/0
 msgid "You're asking for the impossible - we need some time!"
 msgstr "这要求办不到，得给点时间！"
 
-#. GTT pool 0x1c767903 block 0x1aa0 (id 0xb7, record 0), budget 39 B
+#. GTT pool 0x1c767903 block 0x1aa0 (id 0xb7, record 0), budget 52 B
 #: gtt/0x1c767903/0x1aa0/0
 msgid "They've okayed the request for support."
 msgstr "支援请求批下来了。"
 
-#. GTT pool 0x1c767903 block 0x1aa0 (id 0xb7, record 0), budget 48 B
+#. GTT pool 0x1c767903 block 0x1aa0 (id 0xb7, record 0), budget 61 B
 #: gtt/0x1c767903/0x1aa0/1
 msgid "They're sending out a cardboard box as we speak."
 msgstr "纸箱正在送过去。"
 
-#. GTT pool 0x1c767903 block 0x1b60 (id 0xa4, record 0), budget 48 B
+#. GTT pool 0x1c767903 block 0x1b60 (id 0xa4, record 0), budget 60 B
 #: gtt/0x1c767903/0x1b60/0
 msgid "They've okayed your request for a cardboard box."
 msgstr "纸箱的请求批下来了。"
 
-#. GTT pool 0x1c767903 block 0x1b60 (id 0xa4, record 0), budget 26 B
+#. GTT pool 0x1c767903 block 0x1b60 (id 0xa4, record 0), budget 38 B
 #: gtt/0x1c767903/0x1b60/1
 msgid "It'll be sent out shortly."
 msgstr "很快就送到。"
 
-#. GTT pool 0x1c767903 block 0x1c10 (id 0x8e, record 0), budget 66 B
+#. GTT pool 0x1c767903 block 0x1c10 (id 0x8e, record 0), budget 87 B
 #: gtt/0x1c767903/0x1c10/0
 msgid "There're too many barriers in the way. We can't support you there."
 msgstr "障碍物太多，那边没法支援。"
 
-#. GTT pool 0x1c767903 block 0x1ca0 (id 0xba, record 0), budget 38 B
+#. GTT pool 0x1c767903 block 0x1ca0 (id 0xba, record 0), budget 58 B
 #: gtt/0x1c767903/0x1ca0/0
 msgid "No support available in that location!"
 msgstr "该地点无法支援！"
 
-#. GTT pool 0x1c767903 block 0x1ca0 (id 0xba, record 0), budget 35 B
+#. GTT pool 0x1c767903 block 0x1ca0 (id 0xba, record 0), budget 55 B
 #: gtt/0x1c767903/0x1ca0/1
 msgid "Get to a place with fewer barriers!"
 msgstr "去障碍物少的地方！"
 
-#. GTT pool 0x1c767903 block 0x1d60 (id 0xef, record 0), budget 57 B
+#. GTT pool 0x1c767903 block 0x1d60 (id 0xef, record 0), budget 91 B
 #: gtt/0x1c767903/0x1d60/0
 msgid "If you need more ammo or items, send us a support request"
 msgstr "缺弹药或道具就发支援请求，"
 
-#. GTT pool 0x1c767903 block 0x1d60 (id 0xef, record 0), budget 36 B
+#. GTT pool 0x1c767903 block 0x1d60 (id 0xef, record 0), budget 70 B
 #: gtt/0x1c767903/0x1d60/1
 msgid "by dropping a support supply marker."
 msgstr "投下支援补给标记。"
 
-#. GTT pool 0x1c767903 block 0x1e50 (id 0x8c, record 0), budget 61 B
+#. GTT pool 0x1c767903 block 0x1e50 (id 0x8c, record 0), budget 87 B
 #: gtt/0x1c767903/0x1e50/0
 msgid "Do you have enough ammo and items? Send us a support request!"
 msgstr "弹药和道具够吗？发支援请求！"
 
-#. GTT pool 0x1c767903 block 0x1ee0 (id 0xb8, record 0), budget 27 B
+#. GTT pool 0x1c767903 block 0x1ee0 (id 0xb8, record 0), budget 49 B
 #: gtt/0x1c767903/0x1ee0/0
 msgid "Use a Support Supply Marker"
 msgstr "用支援补给标记"
 
-#. GTT pool 0x1c767903 block 0x1ee0 (id 0xb8, record 0), budget 43 B
+#. GTT pool 0x1c767903 block 0x1ee0 (id 0xb8, record 0), budget 65 B
 #: gtt/0x1c767903/0x1ee0/1
 msgid "to indicate the drop zone for the supplies."
 msgstr "指定补给投放点。"
 
-#. GTT pool 0x1c767903 block 0x1fa0 (id 0x8e, record 0), budget 53 B
+#. GTT pool 0x1c767903 block 0x1fa0 (id 0x8e, record 0), budget 87 B
 #: gtt/0x1c767903/0x1fa0/0
 msgid "Mother Base support strike preparations are complete!"
 msgstr "母基地支援攻击准备完毕！"
 
-#. GTT pool 0x1c767903 block 0x2030 (id 0x82, record 0), budget 51 B
+#. GTT pool 0x1c767903 block 0x2030 (id 0x82, record 0), budget 87 B
 #: gtt/0x1c767903/0x2030/0
 msgid "Use a Support Strike Marker to indicate the target!"
 msgstr "用支援攻击标记指定目标！"
 
-#. GTT pool 0x1c767903 block 0x20c0 (id 0x77, record 0), budget 44 B
+#. GTT pool 0x1c767903 block 0x20c0 (id 0x77, record 0), budget 71 B
 #: gtt/0x1c767903/0x20c0/0
 msgid "We're out of room to store AI weapons parts."
 msgstr "AI武器零件没地方放了。"
 
-#. GTT pool 0x1c767903 block 0x2140 (id 0x80, record 0), budget 66 B
+#. GTT pool 0x1c767903 block 0x2140 (id 0x80, record 0), budget 71 B
+#. GTT pool 0x1cc27647 block 0x27b0 (id 0x80, record 126), budget 71 B
 #: gtt/0x1c767903/0x2140/0
+#: gtt/0x1cc27647/0x27b0/0
 msgid "Sorry, but you're gonna have to forget about capturing that thing."
 msgstr "抱歉，那东西你带不走了。"
 
-#. GTT pool 0x1c767903 block 0x21c0 (id 0x84, record 0), budget 53 B
+#. GTT pool 0x1c767903 block 0x21c0 (id 0x84, record 0), budget 87 B
 #: gtt/0x1c767903/0x21c0/0
 msgid "Not enough room, huh? We'll keep it here at the base."
 msgstr "没地方放是吧？先留在基地。"
 
-#. GTT pool 0x1c767903 block 0x2250 (id 0xac, record 0), budget 29 B
+#. GTT pool 0x1c767903 block 0x2250 (id 0xac, record 0), budget 40 B
 #: gtt/0x1c767903/0x2250/0
 msgid "You haven't got a chance now."
 msgstr "你现在没机会了。"
 
-#. GTT pool 0x1c767903 block 0x2250 (id 0xac, record 0), budget 47 B
+#. GTT pool 0x1c767903 block 0x2250 (id 0xac, record 0), budget 58 B
 #: gtt/0x1c767903/0x2250/1
 msgid "You need to pull back and stock up on supplies!"
 msgstr "你得撤回去补充物资！"
 
-#. GTT pool 0x1c767903 block 0x2300 (id 0xec, record 0), budget 66 B
+#. GTT pool 0x1c767903 block 0x2300 (id 0xec, record 0), budget 86 B
 #: gtt/0x1c767903/0x2300/0
 msgid "You don't have any supply markers. Are you gonna have enough ammo?"
 msgstr "你没有补给标记。弹药够吗？"
 
-#. GTT pool 0x1c767903 block 0x2300 (id 0xec, record 0), budget 55 B
+#. GTT pool 0x1c767903 block 0x2300 (id 0xec, record 0), budget 75 B
 #: gtt/0x1c767903/0x2300/1
 msgid "Maybe you should pull back and reorganize things first?"
 msgstr "不如先撤回去重整一下？"
 
-#. GTT pool 0x1c767903 block 0x23f0 (id 0xd1, record 0), budget 46 B
+#. GTT pool 0x1c767903 block 0x23f0 (id 0xd1, record 0), budget 67 B
 #: gtt/0x1c767903/0x23f0/0
 msgid "We're all out of supplies ourselves right now."
 msgstr "我们自己的补给也用光了。"
 
-#. GTT pool 0x1c767903 block 0x23f0 (id 0xd1, record 0), budget 58 B
+#. GTT pool 0x1c767903 block 0x23f0 (id 0xd1, record 0), budget 79 B
 #: gtt/0x1c767903/0x23f0/1
 msgid "Why don't you come back and get Mother Base back in order?"
 msgstr "不如回来把母基地整顿好？"
 
-#. GTT pool 0x1c767903 block 0x24d0 (id 0x71, record 0), budget 47 B
+#. GTT pool 0x1c767903 block 0x24d0 (id 0x71, record 0), budget 71 B
 #: gtt/0x1c767903/0x24d0/0
 msgid "They heard you. They're gonna come take a look."
 msgstr "他们听见了。要过来查看。"
 
-#. GTT pool 0x1c767903 block 0x2550 (id 0x8a, record 0), budget 61 B
+#. GTT pool 0x1c767903 block 0x2550 (id 0x8a, record 0), budget 87 B
 #: gtt/0x1c767903/0x2550/0
 msgid "They know someone's there. They'll be coming to check it out."
 msgstr "他们知道有人。会来查看。"
 
-#. GTT pool 0x1c767903 block 0x25e0 (id 0x5f, record 0), budget 38 B
+#. GTT pool 0x1c767903 block 0x25e0 (id 0x5f, record 0), budget 39 B
 #: gtt/0x1c767903/0x25e0/0
 msgid "They've spotted you! Get out of there!"
 msgstr "他们发现你了！快撤！"
 
-#. GTT pool 0x1c767903 block 0x2640 (id 0xbb, record 0), budget 32 B
+#. GTT pool 0x1c767903 block 0x2640 (id 0xbb, record 0), budget 46 B
 #: gtt/0x1c767903/0x2640/0
 msgid "You've been spotted. Run for it!"
 msgstr "你被发现了。快跑！"
 
-#. GTT pool 0x1c767903 block 0x2640 (id 0xbb, record 0), budget 54 B
+#. GTT pool 0x1c767903 block 0x2640 (id 0xbb, record 0), budget 68 B
 #: gtt/0x1c767903/0x2640/1
 msgid "It's either that or take out every last enemy solider!"
 msgstr "要么这样，要么干掉所有敌人！"
 
-#. GTT pool 0x1c767903 block 0x2700 (id 0x8a, record 0), budget 58 B
+#. GTT pool 0x1c767903 block 0x2700 (id 0x8a, record 0), budget 87 B
 #: gtt/0x1c767903/0x2700/0
 msgid "The enemy's called for backup! You're can't beat them all!"
 msgstr "敌人叫援兵了！你打不过全部！"
 
-#. GTT pool 0x1c767903 block 0x2790 (id 0xc0, record 0), budget 52 B
+#. GTT pool 0x1c767903 block 0x2790 (id 0xc0, record 0), budget 60 B
 #: gtt/0x1c767903/0x2790/0
 msgid "The reinforcements are just going to keep on coming."
 msgstr "增援会源源不断地来。"
 
-#. GTT pool 0x1c767903 block 0x2790 (id 0xc0, record 0), budget 46 B
+#. GTT pool 0x1c767903 block 0x2790 (id 0xc0, record 0), budget 54 B
 #: gtt/0x1c767903/0x2790/1
 msgid "Forget about fighting - focus on getting away."
 msgstr "别打了，专心逃跑。"
 
-#. GTT pool 0x1c767903 block 0x2850 (id 0x89, record 0), budget 56 B
+#. GTT pool 0x1c767903 block 0x2850 (id 0x89, record 0), budget 87 B
 #: gtt/0x1c767903/0x2850/0
 msgid "Lie low long enough, and you won't have to fight at all!"
 msgstr "躲久一点，就根本不用打！"
 
-#. GTT pool 0x1c767903 block 0x28e0 (id 0x86, record 0), budget 61 B
+#. GTT pool 0x1c767903 block 0x28e0 (id 0x86, record 0), budget 87 B
 #: gtt/0x1c767903/0x28e0/0
 msgid "Stay out of sight until the enemy gives up and stops looking."
 msgstr "藏好，等敌人放弃搜索。"
 
-#. GTT pool 0x1c767903 block 0x2970 (id 0xcf, record 0), budget 66 B
+#. GTT pool 0x1c767903 block 0x2970 (id 0xcf, record 0), budget 80 B
 #: gtt/0x1c767903/0x2970/0
 msgid "Looks like they're not getting backup. If this is all they've got,"
 msgstr "看来他们没援兵。就这些的话，"
 
-#. GTT pool 0x1c767903 block 0x2970 (id 0xcf, record 0), budget 36 B
+#. GTT pool 0x1c767903 block 0x2970 (id 0xcf, record 0), budget 50 B
 #: gtt/0x1c767903/0x2970/1
 msgid "you might be able to take them on..."
 msgstr "你也许能对付他们……"
 
-#. GTT pool 0x1c767903 block 0x2a40 (id 0xaf, record 0), budget 20 B
+#. GTT pool 0x1c767903 block 0x2a40 (id 0xaf, record 0), budget 35 B
 #: gtt/0x1c767903/0x2a40/0
 msgid "You've been spotted!"
 msgstr "你被发现了！"
 
-#. GTT pool 0x1c767903 block 0x2a40 (id 0xaf, record 0), budget 48 B
+#. GTT pool 0x1c767903 block 0x2a40 (id 0xaf, record 0), budget 63 B
 #: gtt/0x1c767903/0x2a40/1
 msgid "Take 'em out before they can call their friends!"
 msgstr "趁他们叫人来之前干掉！"
 
-#. GTT pool 0x1c767903 block 0x2af0 (id 0x9c, record 0), budget 18 B
+#. GTT pool 0x1c767903 block 0x2af0 (id 0x9c, record 0), budget 33 B
 #: gtt/0x1c767903/0x2af0/0
 msgid "Take that guy out,"
 msgstr "干掉那家伙，"
 
-#. GTT pool 0x1c767903 block 0x2af0 (id 0x9c, record 0), budget 33 B
+#. GTT pool 0x1c767903 block 0x2af0 (id 0x9c, record 0), budget 48 B
 #: gtt/0x1c767903/0x2af0/1
 msgid "before more of 'em get called in!"
 msgstr "别让更多敌人被叫来！"
 
-#. GTT pool 0x1c767903 block 0x2b90 (id 0xbd, record 0), budget 33 B
+#. GTT pool 0x1c767903 block 0x2b90 (id 0xbd, record 0), budget 49 B
 #: gtt/0x1c767903/0x2b90/0
 msgid "Take out the enemies close to you"
 msgstr "干掉附近的敌人"
 
-#. GTT pool 0x1c767903 block 0x2b90 (id 0xbd, record 0), budget 49 B
+#. GTT pool 0x1c767903 block 0x2b90 (id 0xbd, record 0), budget 65 B
 #: gtt/0x1c767903/0x2b90/1
 msgid "and you might buy yourself enough time to escape."
 msgstr "也许能争取到足够时间逃跑。"
 
-#. GTT pool 0x1c767903 block 0x2c50 (id 0x5e, record 0), budget 30 B
+#. GTT pool 0x1c767903 block 0x2c50 (id 0x5e, record 0), budget 39 B
 #: gtt/0x1c767903/0x2c50/0
 msgid "You are not safe there! Hurry!"
 msgstr "那里不安全！快！"
 
-#. GTT pool 0x1c767903 block 0x2cb0 (id 0x70, record 0), budget 40 B
+#. GTT pool 0x1c767903 block 0x2cb0 (id 0x70, record 0), budget 55 B
 #: gtt/0x1c767903/0x2cb0/0
 msgid "If you cannot run, you'll have to fight!"
 msgstr "跑不了就只能打了！"
 
-#. GTT pool 0x1c767903 block 0x2d20 (id 0x56, record 0), budget 12 B
+#. GTT pool 0x1c767903 block 0x2d20 (id 0x56, record 0), budget 39 B
 #: gtt/0x1c767903/0x2d20/0
 msgid "Quick, hide!"
 msgstr "快躲！"
 
-#. GTT pool 0x1c767903 block 0x2d80 (id 0x57, record 0), budget 25 B
+#. GTT pool 0x1c767903 block 0x2d80 (id 0x57, record 0), budget 39 B
 #: gtt/0x1c767903/0x2d80/0
 msgid "You can get through this!"
 msgstr "你能挺过去的！"
 
-#. GTT pool 0x1c767903 block 0x2de0 (id 0x58, record 0), budget 22 B
+#. GTT pool 0x1c767903 block 0x2de0 (id 0x58, record 0), budget 39 B
 #: gtt/0x1c767903/0x2de0/0
 msgid "Better hide, and fast!"
 msgstr "快躲，要快！"
 
-#. GTT pool 0x1c767903 block 0x2e40 (id 0x60, record 0), budget 29 B
+#. GTT pool 0x1c767903 block 0x2e40 (id 0x60, record 0), budget 39 B
 #: gtt/0x1c767903/0x2e40/0
 msgid "Just try to get away for now!"
 msgstr "先想办法脱身！"
 
-#. GTT pool 0x1c767903 block 0x2ea0 (id 0x70, record 0), budget 35 B
+#. GTT pool 0x1c767903 block 0x2ea0 (id 0x70, record 0), budget 55 B
 #: gtt/0x1c767903/0x2ea0/0
 msgid "Hurry, Snake! Find a place to hide!"
 msgstr "快，SNAKE！找个地方躲！"
 
-#. GTT pool 0x1c767903 block 0x2f10 (id 0x6d, record 0), budget 41 B
+#. GTT pool 0x1c767903 block 0x2f10 (id 0x6d, record 0), budget 55 B
 #: gtt/0x1c767903/0x2f10/0
 msgid "Don't fight them! Remember her sacrifice!"
 msgstr "别打！别辜负她的牺牲！"
 
-#. GTT pool 0x1c767903 block 0x2f80 (id 0x64, record 0), budget 30 B
+#. GTT pool 0x1c767903 block 0x2f80 (id 0x64, record 0), budget 55 B
 #: gtt/0x1c767903/0x2f80/0
 msgid "Quick! Find somewhere to hide!"
 msgstr "快！找个地方躲！"
 
-#. GTT pool 0x1c767903 block 0x2ff0 (id 0x79, record 0), budget 38 B
+#. GTT pool 0x1c767903 block 0x2ff0 (id 0x79, record 0), budget 71 B
 #: gtt/0x1c767903/0x2ff0/0
 msgid "Is there no way to avoid a firefight?!"
 msgstr "就没办法避免交火吗？！"
 
-#. GTT pool 0x1c767903 block 0x3070 (id 0x5d, record 0), budget 18 B
+#. GTT pool 0x1c767903 block 0x3070 (id 0x5d, record 0), budget 39 B
 #: gtt/0x1c767903/0x3070/0
 msgid "Hide Snake, quick!"
 msgstr "躲SNAKE，快！"
 
-#. GTT pool 0x1c767903 block 0x30d0 (id 0x5c, record 0), budget 32 B
+#. GTT pool 0x1c767903 block 0x30d0 (id 0x5c, record 0), budget 39 B
 #: gtt/0x1c767903/0x30d0/0
 msgid "Please, Snake! Get out of there!"
 msgstr "求你，SNAKE！快走！"
 
-#. GTT pool 0x1c767903 block 0x3130 (id 0xbd, record 0), budget 20 B
+#. GTT pool 0x1c767903 block 0x3130 (id 0xbd, record 0), budget 36 B
 #: gtt/0x1c767903/0x3130/0
 msgid "Good, you shook 'em."
 msgstr "好，甩掉了。"
 
-#. GTT pool 0x1c767903 block 0x3130 (id 0xbd, record 0), budget 61 B
+#. GTT pool 0x1c767903 block 0x3130 (id 0xbd, record 0), budget 77 B
 #: gtt/0x1c767903/0x3130/1
 msgid ""
 "They're still looking, though\n"
 "- don't make it easy for them."
-msgstr "不过他们还在找\n——别让他们得逞。"
+msgstr ""
+"不过他们还在找\n"
+"——别让他们得逞。"
 
-#. GTT pool 0x1c767903 block 0x31f0 (id 0xab, record 0), budget 49 B
+#. GTT pool 0x1c767903 block 0x31f0 (id 0xab, record 0), budget 68 B
 #: gtt/0x1c767903/0x31f0/0
 msgid ""
 "You've lost them,\n"
 "but they're still on the hunt."
-msgstr "你甩掉他们了，\n但他们还在搜。"
-
-#. GTT pool 0x1c767903 block 0x31f0 (id 0xab, record 0), budget 11 B
-#: gtt/0x1c767903/0x31f0/1
-msgid "Stay sharp."
 msgstr ""
+"你甩掉他们了，\n"
+"但他们还在搜。"
 
-#. GTT pool 0x1c767903 block 0x32a0 (id 0x6b, record 0), budget 29 B
+#. GTT pool 0x1c767903 block 0x32a0 (id 0x6b, record 0), budget 55 B
 #: gtt/0x1c767903/0x32a0/0
 msgid "You have to shake them. Hide!"
 msgstr "你得甩掉他们。躲！"
 
-#. GTT pool 0x1c767903 block 0x3310 (id 0x61, record 0), budget 40 B
+#. GTT pool 0x1c767903 block 0x3310 (id 0x61, record 0), budget 55 B
 #: gtt/0x1c767903/0x3310/0
 msgid "They're still looking for you. Silencio!"
 msgstr "他们还在找你。安静！"
 
-#. GTT pool 0x1c767903 block 0x3380 (id 0x77, record 0), budget 5 B
+#. GTT pool 0x1c767903 block 0x3380 (id 0x77, record 0), budget 14 B
 #: gtt/0x1c767903/0x3380/0
 msgid "Phew,"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x3380 (id 0x77, record 0), budget 27 B
+#. GTT pool 0x1c767903 block 0x3380 (id 0x77, record 0), budget 36 B
 #: gtt/0x1c767903/0x3380/1
 msgid "looks like you shook 'em..."
 msgstr "看来甩掉了……"
 
-#. GTT pool 0x1c767903 block 0x3400 (id 0x61, record 0), budget 25 B
+#. GTT pool 0x1c767903 block 0x3400 (id 0x61, record 0), budget 55 B
 #: gtt/0x1c767903/0x3400/0
 msgid "Don't relax just yet, eh?"
 msgstr "先别松懈，嗯？"
 
-#. GTT pool 0x1c767903 block 0x3470 (id 0x66, record 0), budget 42 B
+#. GTT pool 0x1c767903 block 0x3470 (id 0x66, record 0), budget 55 B
 #: gtt/0x1c767903/0x3470/0
 msgid "Well done. You should be able to get away."
 msgstr "干得好。应该能脱身了。"
 
-#. GTT pool 0x1c767903 block 0x34e0 (id 0x62, record 0), budget 25 B
+#. GTT pool 0x1c767903 block 0x34e0 (id 0x62, record 0), budget 55 B
 #: gtt/0x1c767903/0x34e0/0
 msgid "Try not to be seen again."
 msgstr "尽量别再被看到。"
 
-#. GTT pool 0x1c767903 block 0x3550 (id 0x5f, record 0), budget 33 B
+#. GTT pool 0x1c767903 block 0x3550 (id 0x5f, record 0), budget 39 B
 #: gtt/0x1c767903/0x3550/0
 msgid "You've got it made! Almost there."
 msgstr "稳了！就快到了。"
 
-#. GTT pool 0x1c767903 block 0x35b0 (id 0x66, record 0), budget 34 B
+#. GTT pool 0x1c767903 block 0x35b0 (id 0x66, record 0), budget 55 B
 #: gtt/0x1c767903/0x35b0/0
 msgid "Do whatever it takes to shake 'em!"
 msgstr "不惜一切甩掉他们！"
 
-#. GTT pool 0x1c767903 block 0x3620 (id 0x63, record 0), budget 34 B
+#. GTT pool 0x1c767903 block 0x3620 (id 0x63, record 0), budget 55 B
 #: gtt/0x1c767903/0x3620/0
 msgid "Keep running! You're almost clear!"
 msgstr "继续跑！就快脱险了！"
 
-#. GTT pool 0x1c767903 block 0x3690 (id 0x5f, record 0), budget 27 B
+#. GTT pool 0x1c767903 block 0x3690 (id 0x5f, record 0), budget 39 B
 #: gtt/0x1c767903/0x3690/0
 msgid "Find somewhere safe, Snake."
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x36f0 (id 0xc6, record 0), budget 75 B
+#. GTT pool 0x1c767903 block 0x36f0 (id 0xc6, record 0), budget 95 B
 #: gtt/0x1c767903/0x36f0/0
 msgid ""
 "They've called off the search, but\n"
 "security has definitely been tightened."
-msgstr "搜索取消了，但\n警戒明显加强了。"
+msgstr ""
+"搜索取消了，但\n"
+"警戒明显加强了。"
 
-#. GTT pool 0x1c767903 block 0x36f0 (id 0xc6, record 0), budget 14 B
+#. GTT pool 0x1c767903 block 0x36f0 (id 0xc6, record 0), budget 34 B
 #: gtt/0x1c767903/0x36f0/1
 msgid "Tread lightly."
 msgstr "轻点走。"
 
-#. GTT pool 0x1c767903 block 0x37c0 (id 0xc7, record 0), budget 70 B
+#. GTT pool 0x1c767903 block 0x37c0 (id 0xc7, record 0), budget 94 B
 #: gtt/0x1c767903/0x37c0/0
 msgid ""
 "The search is off, but you're still\n"
 "dealing with heightened security."
-msgstr "搜索停了，但警戒\n依然森严。"
-
-#. GTT pool 0x1c767903 block 0x37c0 (id 0xc7, record 0), budget 11 B
-#: gtt/0x1c767903/0x37c0/1
-msgid "Be careful."
 msgstr ""
+"搜索停了，但警戒\n"
+"依然森严。"
 
-#. GTT pool 0x1c767903 block 0x3890 (id 0x97, record 0), budget 18 B
+#. GTT pool 0x1c767903 block 0x3890 (id 0x97, record 0), budget 32 B
 #: gtt/0x1c767903/0x3890/0
 msgid "Better be careful."
 msgstr "最好小心点。"
 
-#. GTT pool 0x1c767903 block 0x3890 (id 0x97, record 0), budget 36 B
+#. GTT pool 0x1c767903 block 0x3890 (id 0x97, record 0), budget 50 B
 #: gtt/0x1c767903/0x3890/1
 msgid "The enemy's still searching for you."
 msgstr "敌人还在搜你。"
 
-#. GTT pool 0x1c767903 block 0x3930 (id 0x66, record 0), budget 34 B
+#. GTT pool 0x1c767903 block 0x3930 (id 0x66, record 0), budget 55 B
 #: gtt/0x1c767903/0x3930/0
 msgid "Try and throw them off your trail!"
 msgstr "想办法甩掉他们！"
 
-#. GTT pool 0x1c767903 block 0x39a0 (id 0x7f, record 0), budget 35 B
+#. GTT pool 0x1c767903 block 0x39a0 (id 0x7f, record 0), budget 71 B
 #: gtt/0x1c767903/0x39a0/0
 msgid "No use, Boss. Security's too tight."
 msgstr "没用，BOSS。警戒太严。"
 
-#. GTT pool 0x1c767903 block 0x3a20 (id 0x92, record 0), budget 62 B
+#. GTT pool 0x1c767903 block 0x3a20 (id 0x92, record 0), budget 103 B
 #: gtt/0x1c767903/0x3a20/0
 msgid ""
 "There's no way you can charge\n"
 "in now. Shake those guys first."
-msgstr "现在没法冲进去。\n先甩掉那些人。"
+msgstr ""
+"现在没法冲进去。\n"
+"先甩掉那些人。"
 
-#. GTT pool 0x1c767903 block 0x3ac0 (id 0xe4, record 0), budget 51 B
+#. GTT pool 0x1c767903 block 0x3ac0 (id 0xe4, record 0), budget 78 B
 #: gtt/0x1c767903/0x3ac0/0
 msgid "You can't move on if the enemy knows where you are!"
 msgstr "敌人知道你在哪就没法前进！"
 
-#. GTT pool 0x1c767903 block 0x3ac0 (id 0xe4, record 0), budget 56 B
+#. GTT pool 0x1c767903 block 0x3ac0 (id 0xe4, record 0), budget 83 B
 #: gtt/0x1c767903/0x3ac0/1
 msgid "Lie low for a while and wait for them to lift the alert."
 msgstr "先躲一阵，等他们解除警报。"
 
-#. GTT pool 0x1c767903 block 0x3bb0 (id 0xad, record 0), budget 29 B
+#. GTT pool 0x1c767903 block 0x3bb0 (id 0xad, record 0), budget 43 B
 #: gtt/0x1c767903/0x3bb0/0
 msgid "To move into Snake Formation,"
 msgstr "要进入蛇形队形，"
 
-#. GTT pool 0x1c767903 block 0x3bb0 (id 0xad, record 0), budget 41 B
+#. GTT pool 0x1c767903 block 0x3bb0 (id 0xad, record 0), budget 55 B
 #: gtt/0x1c767903/0x3bb0/1
 msgid "press <I=ACT> while next to your partner."
 msgstr "在同伴旁边按<I=ACT>。"
 
-#. GTT pool 0x1c767903 block 0x3c60 (id 0xab, record 0), budget 39 B
+#. GTT pool 0x1c767903 block 0x3c60 (id 0xab, record 0), budget 55 B
 #: gtt/0x1c767903/0x3c60/0
 msgid "Press <I=ACT> when next to your partner"
 msgstr "在同伴旁边按<I=ACT>"
 
-#. GTT pool 0x1c767903 block 0x3c60 (id 0xab, record 0), budget 26 B
+#. GTT pool 0x1c767903 block 0x3c60 (id 0xab, record 0), budget 42 B
 #: gtt/0x1c767903/0x3c60/1
 msgid "to assume Snake Formation."
 msgstr "即可列蛇形队形。"
 
-#. GTT pool 0x1c767903 block 0x3d10 (id 0x81, record 0), budget 53 B
+#. GTT pool 0x1c767903 block 0x3d10 (id 0x81, record 0), budget 87 B
 #: gtt/0x1c767903/0x3d10/0
 msgid "Okay, looks like you've got Snake Formation down pat."
 msgstr "好，看来你已熟练掌握蛇形队形。"
 
-#. GTT pool 0x1c767903 block 0x3da0 (id 0x73, record 0), budget 41 B
+#. GTT pool 0x1c767903 block 0x3da0 (id 0x73, record 0), budget 71 B
 #: gtt/0x1c767903/0x3da0/0
 msgid "Why are you firing on friendlies, Snake?!"
 msgstr "你为什么打自己人，SNAKE？！"
 
-#. GTT pool 0x1c767903 block 0x3e20 (id 0x98, record 0), budget 13 B
+#. GTT pool 0x1c767903 block 0x3e20 (id 0x98, record 0), budget 28 B
 #: gtt/0x1c767903/0x3e20/0
 msgid "C'mon, Snake!"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x3e20 (id 0x98, record 0), budget 38 B
+#. GTT pool 0x1c767903 block 0x3e20 (id 0x98, record 0), budget 53 B
 #: gtt/0x1c767903/0x3e20/1
 msgid "You're shooting your own team members!"
 msgstr "你在打自己的队友！"
 
-#. GTT pool 0x1c767903 block 0x3ec0 (id 0x8d, record 0), budget 30 B
+#. GTT pool 0x1c767903 block 0x3ec0 (id 0x8d, record 0), budget 37 B
 #: gtt/0x1c767903/0x3ec0/0
 msgid "What's your problem, soldier?!"
 msgstr "你怎么回事，士兵？！"
 
-#. GTT pool 0x1c767903 block 0x3ec0 (id 0x8d, record 0), budget 21 B
+#. GTT pool 0x1c767903 block 0x3ec0 (id 0x8d, record 0), budget 28 B
 #: gtt/0x1c767903/0x3ec0/1
 msgid "Those are friendlies!"
 msgstr "那是自己人！"
 
-#. GTT pool 0x1c767903 block 0x3f50 (id 0x94, record 0), budget 10 B
+#. GTT pool 0x1c767903 block 0x3f50 (id 0x94, record 0), budget 28 B
 #: gtt/0x1c767903/0x3f50/0
 msgid "You idiot!"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x3f50 (id 0x94, record 0), budget 36 B
+#. GTT pool 0x1c767903 block 0x3f50 (id 0x94, record 0), budget 54 B
 #: gtt/0x1c767903/0x3f50/1
 msgid "Stop shooting your own team members!"
 msgstr "别打自己的队友！"
 
-#. GTT pool 0x1c767903 block 0x3ff0 (id 0x90, record 0), budget 54 B
+#. GTT pool 0x1c767903 block 0x3ff0 (id 0x90, record 0), budget 87 B
 #: gtt/0x1c767903/0x3ff0/0
 msgid ""
 "Your partner's down! Quick,\n"
 "use CPR - bring him back!"
-msgstr "同伴倒下了！快，\n用心肺复苏救他！"
+msgstr ""
+"同伴倒下了！快，\n"
+"用心肺复苏救他！"
 
-#. GTT pool 0x1c767903 block 0x4080 (id 0x70, record 0), budget 45 B
+#. GTT pool 0x1c767903 block 0x4080 (id 0x70, record 0), budget 55 B
 #: gtt/0x1c767903/0x4080/0
 msgid ""
 "You have to go help him!\n"
 "There's still time!"
-msgstr "你得去救他！\n还来得及！"
+msgstr ""
+"你得去救他！\n"
+"还来得及！"
 
-#. GTT pool 0x1c767903 block 0x40f0 (id 0x7a, record 0), budget 41 B
+#. GTT pool 0x1c767903 block 0x40f0 (id 0x7a, record 0), budget 71 B
 #: gtt/0x1c767903/0x40f0/0
 msgid "Tap <I=ACT> repeatedly to recover faster."
 msgstr "连按<I=ACT>可加快恢复。"
 
-#. GTT pool 0x1c767903 block 0x4170 (id 0xa9, record 0), budget 25 B
+#. GTT pool 0x1c767903 block 0x4170 (id 0xa9, record 0), budget 42 B
 #: gtt/0x1c767903/0x4170/0
 msgid "Your teammate needs help!"
 msgstr "队友需要帮助！"
 
-#. GTT pool 0x1c767903 block 0x4170 (id 0xa9, record 0), budget 38 B
+#. GTT pool 0x1c767903 block 0x4170 (id 0xa9, record 0), budget 55 B
+#. GTT pool 0x1c7a72cb block 0x2e30 (id 0x6f, record 246), budget 55 B
+#. GTT pool 0x1c7bf30b block 0xd20 (id 0x6f, record 318), budget 55 B
 #: gtt/0x1c767903/0x4170/1
+#: gtt/0x1c7a72cb/0x2e30/0
+#: gtt/0x1c7bf30b/0xd20/0
 msgid "Quick, tap <I=ACT> as fast as you can!"
 msgstr "快，尽可能快地按<I=ACT>！"
 
-#. GTT pool 0x1c767903 block 0x4220 (id 0x6d, record 0), budget 51 B
+#. GTT pool 0x1c767903 block 0x4220 (id 0x6d, record 0), budget 55 B
 #: gtt/0x1c767903/0x4220/0
 msgid "Someone's on their way to help you now! Hold tight!"
 msgstr "有人正赶去救你！坚持住！"
 
-#. GTT pool 0x1c767903 block 0x4290 (id 0x7a, record 0), budget 54 B
+#. GTT pool 0x1c767903 block 0x4290 (id 0x7a, record 0), budget 71 B
 #: gtt/0x1c767903/0x4290/0
 msgid "Don't give up on me! Help's on the way. Hang in there!"
 msgstr "别放弃！救援马上到。撑住！"
 
-#. GTT pool 0x1c767903 block 0x4310 (id 0x65, record 0), budget 24 B
+#. GTT pool 0x1c767903 block 0x4310 (id 0x65, record 0), budget 55 B
 #: gtt/0x1c767903/0x4310/0
 msgid "Hurry and give them CPR!"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x4380 (id 0x76, record 0), budget 38 B
+#. GTT pool 0x1c767903 block 0x4380 (id 0x76, record 0), budget 71 B
 #: gtt/0x1c767903/0x4380/0
 msgid "One of your compas is dying! Help 'em!"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x4400 (id 0x8f, record 0), budget 71 B
+#. GTT pool 0x1c767903 block 0x4400 (id 0x8f, record 0), budget 87 B
 #: gtt/0x1c767903/0x4400/0
 msgid "Your teammate needs first aid! It's not too late to save them with CPR!"
 msgstr "队友需要急救！做心肺复苏还来得及！"
 
-#. GTT pool 0x1c767903 block 0x4490 (id 0x85, record 0), budget 59 B
+#. GTT pool 0x1c767903 block 0x4490 (id 0x85, record 0), budget 87 B
 #: gtt/0x1c767903/0x4490/0
 msgid "Try giving them CPR. You might be able to save their lives."
 msgstr "试试心肺复苏，也许能救回他们。"
 
-#. GTT pool 0x1c767903 block 0x4520 (id 0x5c, record 0), budget 30 B
+#. GTT pool 0x1c767903 block 0x4520 (id 0x5c, record 0), budget 39 B
 #: gtt/0x1c767903/0x4520/0
 msgid "Please, you have to help them!"
 msgstr "拜托，你得救救他们！"
 
-#. GTT pool 0x1c767903 block 0x4580 (id 0xc4, record 0), budget 35 B
+#. GTT pool 0x1c767903 block 0x4580 (id 0xc4, record 0), budget 59 B
+#. GTT pool 0x1c767903 block 0x4830 (id 0xcb, record 0), budget 57 B
 #: gtt/0x1c767903/0x4580/0
+#: gtt/0x1c767903/0x4830/0
 msgid "To communicate with your teammates,"
 msgstr "要与队友通信，"
 
-#. GTT pool 0x1c767903 block 0x4580 (id 0xc4, record 0), budget 47 B
+#. GTT pool 0x1c767903 block 0x4580 (id 0xc4, record 0), budget 71 B
 #: gtt/0x1c767903/0x4580/1
 msgid "use the CO-OPS Comms option in the menu window."
 msgstr "用菜单里的合作任务通信选项。"
 
-#. GTT pool 0x1c767903 block 0x4650 (id 0x104, record 0), budget 45 B
+#. GTT pool 0x1c767903 block 0x4650 (id 0x104, record 0), budget 64 B
 #: gtt/0x1c767903/0x4650/0
 msgid "You can also assign this function to whatever"
 msgstr "你也可以将此功能分配到任意"
 
-#. GTT pool 0x1c767903 block 0x4650 (id 0x104, record 0), budget 48 B
+#. GTT pool 0x1c767903 block 0x4650 (id 0x104, record 0), budget 67 B
 #: gtt/0x1c767903/0x4650/1
 msgid "button you want by going to CONTROLLER SETTINGS."
 msgstr "按键，进入控制器设置"
 
-#. GTT pool 0x1c767903 block 0x4650 (id 0x104, record 0), budget 23 B
+#. GTT pool 0x1c767903 block 0x4650 (id 0x104, record 0), budget 42 B
 #: gtt/0x1c767903/0x4650/2
 msgid "and choosing \"OPTIONS.\""
 msgstr "并选“选项”。"
 
-#. GTT pool 0x1c767903 block 0x4760 (id 0xc8, record 0), budget 53 B
+#. GTT pool 0x1c767903 block 0x4760 (id 0xc8, record 0), budget 72 B
 #: gtt/0x1c767903/0x4760/0
 msgid "CO-OPS Comms lets you communicate with your teammates"
 msgstr "合作任务通信让你与队友交流"
 
-#. GTT pool 0x1c767903 block 0x4760 (id 0xc8, record 0), budget 39 B
+#. GTT pool 0x1c767903 block 0x4760 (id 0xc8, record 0), budget 58 B
 #: gtt/0x1c767903/0x4760/1
 msgid "without alerting the people around you."
 msgstr "而不会惊动周围的人。"
 
-#. GTT pool 0x1c767903 block 0x4830 (id 0xcb, record 0), budget 50 B
+#. GTT pool 0x1c767903 block 0x4830 (id 0xcb, record 0), budget 72 B
 #: gtt/0x1c767903/0x4830/1
 msgid "push the <I=COOPS_COMMS> to activate CO-OPS Comms."
 msgstr "按<I=COOPS_COMMS>启动合作任务通信。"
 
-#. GTT pool 0x1c767903 block 0x4900 (id 0xd0, record 0), budget 65 B
+#. GTT pool 0x1c767903 block 0x4900 (id 0xd0, record 0), budget 83 B
 #: gtt/0x1c767903/0x4900/0
 msgid "If you're out of rations, try lying down and resting for a while."
 msgstr "如果口粮用完了，试着躺下休息一会儿。"
 
-#. GTT pool 0x1c767903 block 0x4900 (id 0xd0, record 0), budget 28 B
+#. GTT pool 0x1c767903 block 0x4900 (id 0xd0, record 0), budget 46 B
 #: gtt/0x1c767903/0x4900/1
 msgid "Find someplace safe, though."
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x49d0 (id 0x8d, record 0), budget 73 B
+#. GTT pool 0x1c767903 block 0x49d0 (id 0x8d, record 0), budget 87 B
 #: gtt/0x1c767903/0x49d0/0
 msgid "Keep rations equipped to automatically recover LIFE when it reaches zero."
 msgstr "保持装备口粮，生命值归零时会自动恢复。"
 
-#. GTT pool 0x1c767903 block 0x4a60 (id 0xca, record 0), budget 48 B
+#. GTT pool 0x1c767903 block 0x4a60 (id 0xca, record 0), budget 69 B
 #: gtt/0x1c767903/0x4a60/0
 msgid "Heal often so that your LIFE never gets too low."
 msgstr "经常治疗，别让生命值降得太低。"
 
-#. GTT pool 0x1c767903 block 0x4a60 (id 0xca, record 0), budget 39 B
+#. GTT pool 0x1c767903 block 0x4a60 (id 0xca, record 0), budget 60 B
 #: gtt/0x1c767903/0x4a60/1
 msgid "It's a good idea to keep rations handy."
 msgstr "随身备些口粮是个好主意。"
 
-#. GTT pool 0x1c767903 block 0x4b30 (id 0x88, record 0), budget 53 B
+#. GTT pool 0x1c767903 block 0x4b30 (id 0x88, record 0), budget 87 B
 #: gtt/0x1c767903/0x4b30/0
 msgid "Heal frequently. It's all over if your LIFE runs out."
 msgstr "经常治疗。生命值耗尽就完了。"
 
-#. GTT pool 0x1c767903 block 0x4bc0 (id 0x83, record 0), budget 61 B
+#. GTT pool 0x1c767903 block 0x4bc0 (id 0x83, record 0), budget 87 B
 #: gtt/0x1c767903/0x4bc0/0
 msgid "You must be hungry, I'm sure. Why don't you eat some rations?"
 msgstr "你肯定饿了吧。吃点口粮如何？"
 
-#. GTT pool 0x1c767903 block 0x4c50 (id 0x6a, record 0), budget 41 B
+#. GTT pool 0x1c767903 block 0x4c50 (id 0x6a, record 0), budget 55 B
 #: gtt/0x1c767903/0x4c50/0
 msgid "You wanna die or what?! Eat some rations!"
 msgstr "你想死吗？！吃点口粮！"
 
-#. GTT pool 0x1c767903 block 0x4cc0 (id 0x6f, record 0), budget 40 B
+#. GTT pool 0x1c767903 block 0x4cc0 (id 0x6f, record 0), budget 55 B
 #: gtt/0x1c767903/0x4cc0/0
 msgid "Use a ration! You're almost out of LIFE!"
 msgstr "快用口粮！生命值快没了！"
 
-#. GTT pool 0x1c767903 block 0x4d30 (id 0x70, record 0), budget 32 B
+#. GTT pool 0x1c767903 block 0x4d30 (id 0x70, record 0), budget 55 B
 #: gtt/0x1c767903/0x4d30/0
 msgid "Look at your LIFE! Use a ration!"
 msgstr "看生命值！快用口粮！"
 
-#. GTT pool 0x1c767903 block 0x4da0 (id 0xae, record 0), budget 24 B
+#. GTT pool 0x1c767903 block 0x4da0 (id 0xae, record 0), budget 34 B
 #: gtt/0x1c767903/0x4da0/0
 msgid "Look at your LIFE gauge!"
 msgstr "看看生命值槽！"
 
-#. GTT pool 0x1c767903 block 0x4da0 (id 0xae, record 0), budget 53 B
+#. GTT pool 0x1c767903 block 0x4da0 (id 0xae, record 0), budget 63 B
 #: gtt/0x1c767903/0x4da0/1
 msgid "Is this really the time to be chatting on the radio?!"
 msgstr "现在是闲聊的时候吗？！"
 
-#. GTT pool 0x1c767903 block 0x4e50 (id 0xba, record 0), budget 32 B
+#. GTT pool 0x1c767903 block 0x4e50 (id 0xba, record 0), budget 49 B
 #: gtt/0x1c767903/0x4e50/0
 msgid "Even if you do not have rations,"
 msgstr "就算没有口粮，"
 
-#. GTT pool 0x1c767903 block 0x4e50 (id 0xba, record 0), budget 47 B
+#. GTT pool 0x1c767903 block 0x4e50 (id 0xba, record 0), budget 64 B
 #: gtt/0x1c767903/0x4e50/1
 msgid "you can recover LIFE by lying down for a while."
 msgstr "趴下一会儿也能恢复生命值。"
 
-#. GTT pool 0x1c767903 block 0x4f10 (id 0xc3, record 0), budget 46 B
+#. GTT pool 0x1c767903 block 0x4f10 (id 0xc3, record 0), budget 68 B
 #: gtt/0x1c767903/0x4f10/0
 msgid "Staying focused is a matter of life and death."
 msgstr "保持专注关乎生死。"
 
-#. GTT pool 0x1c767903 block 0x4f10 (id 0xc3, record 0), budget 39 B
+#. GTT pool 0x1c767903 block 0x4f10 (id 0xc3, record 0), budget 61 B
 #: gtt/0x1c767903/0x4f10/1
 msgid "That means taking a break now and then."
 msgstr "也就是说要时不时休息。"
 
-#. GTT pool 0x1c767903 block 0x4fe0 (id 0xf0, record 0), budget 58 B
+#. GTT pool 0x1c767903 block 0x4fe0 (id 0xf0, record 0), budget 83 B
 #: gtt/0x1c767903/0x4fe0/0
 msgid "Snake, I don't have to remind you how dangerous combat is."
 msgstr "SNAKE，战斗有多危险不用我提醒。"
 
-#. GTT pool 0x1c767903 block 0x4fe0 (id 0xf0, record 0), budget 54 B
+#. GTT pool 0x1c767903 block 0x4fe0 (id 0xf0, record 0), budget 79 B
 #: gtt/0x1c767903/0x4fe0/1
 msgid "You can't stay focused unless you rest once in awhile."
 msgstr "不时常休息就没法保持专注。"
 
-#. GTT pool 0x1c767903 block 0x50d0 (id 0x7e, record 0), budget 52 B
+#. GTT pool 0x1c767903 block 0x50d0 (id 0x7e, record 0), budget 71 B
 #: gtt/0x1c767903/0x50d0/0
 msgid "Take a break now and then. That's an order, soldier!"
 msgstr "时不时休息下。这是命令，士兵！"
 
-#. GTT pool 0x1c767903 block 0x5150 (id 0x68, record 0), budget 33 B
+#. GTT pool 0x1c767903 block 0x5150 (id 0x68, record 0), budget 55 B
 #: gtt/0x1c767903/0x5150/0
 msgid "Is it not about time for a break?"
 msgstr "差不多该休息了吧？"
 
-#. GTT pool 0x1c767903 block 0x51c0 (id 0xfe, record 0), budget 71 B
+#. GTT pool 0x1c767903 block 0x51c0 (id 0xfe, record 0), budget 81 B
 #: gtt/0x1c767903/0x51c0/0
 msgid "If there's anything you want to know, just give me a call on the radio."
 msgstr "想知道什么，用无线电呼我就行。"
 
-#. GTT pool 0x1c767903 block 0x51c0 (id 0xfe, record 0), budget 20 B
+#. GTT pool 0x1c767903 block 0x51c0 (id 0xfe, record 0), budget 30 B
 #: gtt/0x1c767903/0x51c0/1
 msgid "Open the menu window"
 msgstr "打开菜单窗口"
 
-#. GTT pool 0x1c767903 block 0x51c0 (id 0xfe, record 0), budget 34 B
+#. GTT pool 0x1c767903 block 0x51c0 (id 0xfe, record 0), budget 44 B
 #: gtt/0x1c767903/0x51c0/2
 msgid "then choose the Radio CALL option."
 msgstr "然后选无线电呼叫。"
 
-#. GTT pool 0x1c767903 block 0x52c0 (id 0x6a, record 0), budget 43 B
+#. GTT pool 0x1c767903 block 0x52c0 (id 0x6a, record 0), budget 55 B
 #: gtt/0x1c767903/0x52c0/0
 msgid "This is Miller. Hearing you loud and clear."
 msgstr "我是米勒。听得很清楚。"
 
-#. GTT pool 0x1c767903 block 0x5330 (id 0xba, record 0), budget 65 B
+#. GTT pool 0x1c767903 block 0x5330 (id 0xba, record 0), budget 72 B
 #: gtt/0x1c767903/0x5330/0
 msgid ""
 "Press <I=ATK> near the enemy \n"
 "to initiate close-quarters combat."
-msgstr "在敌人附近按<I=ATK>\n发动近身格斗。"
+msgstr ""
+"在敌人附近按<I=ATK>\n"
+"发动近身格斗。"
 
-#. GTT pool 0x1c767903 block 0x5330 (id 0xba, record 0), budget 34 B
+#. GTT pool 0x1c767903 block 0x5330 (id 0xba, record 0), budget 41 B
 #: gtt/0x1c767903/0x5330/1
 msgid "to initiate close-quarters combat."
 msgstr "发动近身格斗。"
 
-#. GTT pool 0x1c767903 block 0x53f0 (id 0x80, record 0), budget 48 B
+#. GTT pool 0x1c767903 block 0x53f0 (id 0x80, record 0), budget 71 B
 #: gtt/0x1c767903/0x53f0/0
 msgid "To reload, aim your weapon and press <I=RELOAD>."
 msgstr "要装弹，瞄准武器按<I=RELOAD>。"
 
-#. GTT pool 0x1c767903 block 0x5470 (id 0x7e, record 0), budget 50 B
+#. GTT pool 0x1c767903 block 0x5470 (id 0x7e, record 0), budget 71 B
 #: gtt/0x1c767903/0x5470/0
 msgid "Aim your weapon and press <I=RELOAD> to reload it."
 msgstr "瞄准武器按<I=RELOAD>装弹。"
 
-#. GTT pool 0x1c767903 block 0x54f0 (id 0xab, record 0), budget 32 B
+#. GTT pool 0x1c767903 block 0x54f0 (id 0xab, record 0), budget 47 B
 #: gtt/0x1c767903/0x54f0/0
 msgid "You can use <I=RELOAD> to reload"
 msgstr "可用<I=RELOAD>装弹"
 
-#. GTT pool 0x1c767903 block 0x54f0 (id 0xab, record 0), budget 35 B
+#. GTT pool 0x1c767903 block 0x54f0 (id 0xab, record 0), budget 50 B
 #: gtt/0x1c767903/0x54f0/1
 msgid "even when there's no icon onscreen."
 msgstr "即使屏幕上没有图标。"
 
-#. GTT pool 0x1c767903 block 0x55a0 (id 0x84, record 0), budget 49 B
+#. GTT pool 0x1c767903 block 0x55a0 (id 0x84, record 0), budget 87 B
 #: gtt/0x1c767903/0x55a0/0
 msgid "You can't use weapons while you're on your belly."
 msgstr "趴着时无法使用武器。"
 
-#. GTT pool 0x1c767903 block 0x5630 (id 0xb3, record 0), budget 47 B
+#. GTT pool 0x1c767903 block 0x5630 (id 0xb3, record 0), budget 57 B
 #: gtt/0x1c767903/0x5630/0
 msgid "You won't have to worry about that one anymore."
 msgstr "那个不用再担心了。"
 
-#. GTT pool 0x1c767903 block 0x5630 (id 0xb3, record 0), budget 47 B
+#. GTT pool 0x1c767903 block 0x5630 (id 0xb3, record 0), budget 57 B
 #: gtt/0x1c767903/0x5630/1
 msgid "So long as none of his buddies show up, anyway."
 msgstr "只要他的同伴不出现就行。"
 
-#. GTT pool 0x1c767903 block 0x56f0 (id 0x8c, record 0), budget 56 B
+#. GTT pool 0x1c767903 block 0x56f0 (id 0x8c, record 0), budget 87 B
 #: gtt/0x1c767903/0x56f0/0
 msgid "Go ahead and use Fulton recovery to bring the target in."
 msgstr "用富尔顿回收把目标带回来。"
 
-#. GTT pool 0x1c767903 block 0x5780 (id 0x5e, record 0), budget 28 B
+#. GTT pool 0x1c767903 block 0x5780 (id 0x5e, record 0), budget 39 B
 #: gtt/0x1c767903/0x5780/0
 msgid "Careful, the enemy's nearby."
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x57e0 (id 0x6f, record 0), budget 45 B
+#. GTT pool 0x1c767903 block 0x57e0 (id 0x6f, record 0), budget 55 B
 #: gtt/0x1c767903/0x57e0/0
 msgid "Looks like they haven't caught on to you yet."
 msgstr "看来他们还没发现你。"
 
-#. GTT pool 0x1c767903 block 0x5850 (id 0x63, record 0), budget 38 B
+#. GTT pool 0x1c767903 block 0x5850 (id 0x63, record 0), budget 55 B
 #: gtt/0x1c767903/0x5850/0
 msgid "Now's your chance to put 'em to sleep."
 msgstr "趁现在让他们睡一觉。"
 
-#. GTT pool 0x1c767903 block 0x58c0 (id 0x7d, record 0), budget 47 B
+#. GTT pool 0x1c767903 block 0x58c0 (id 0x7d, record 0), budget 71 B
 #: gtt/0x1c767903/0x58c0/0
 msgid "To pick up a Claymore, approach it from behind."
 msgstr "从背后靠近可拾取阔剑地雷。"
 
-#. GTT pool 0x1c767903 block 0x5940 (id 0x72, record 0), budget 35 B
+#. GTT pool 0x1c767903 block 0x5940 (id 0x72, record 0), budget 71 B
 #: gtt/0x1c767903/0x5940/0
 msgid "Push <I=ACT> to pick up a Claymore!"
 msgstr "按<I=ACT>拾取阔剑地雷！"
 
-#. GTT pool 0x1c767903 block 0x59c0 (id 0x82, record 0), budget 57 B
+#. GTT pool 0x1c767903 block 0x59c0 (id 0x82, record 0), budget 87 B
 #: gtt/0x1c767903/0x59c0/0
 msgid "Be careful, if you bump into an enemy, the box comes off."
 msgstr "小心，撞到敌人箱子会掉。"
 
-#. GTT pool 0x1c767903 block 0x5a50 (id 0x84, record 0), budget 63 B
+#. GTT pool 0x1c767903 block 0x5a50 (id 0x84, record 0), budget 87 B
 #: gtt/0x1c767903/0x5a50/0
 msgid "You can use your weapons to attack even when you're in the box."
 msgstr "在箱子里也能用武器攻击。"
 
-#. GTT pool 0x1c767903 block 0x5ae0 (id 0x78, record 0), budget 54 B
+#. GTT pool 0x1c767903 block 0x5ae0 (id 0x78, record 0), budget 71 B
 #: gtt/0x1c767903/0x5ae0/0
 msgid "You, uh, really think the enemy's gonna fall for that?"
 msgstr "你真觉得敌人会上当？"
 
-#. GTT pool 0x1c767903 block 0x5b60 (id 0x77, record 0), budget 36 B
+#. GTT pool 0x1c767903 block 0x5b60 (id 0x77, record 0), budget 71 B
 #: gtt/0x1c767903/0x5b60/0
 msgid "I wonder what that box was used for?"
 msgstr "那箱子是干什么用的？"
 
-#. GTT pool 0x1c767903 block 0x5be0 (id 0x6f, record 0), budget 40 B
+#. GTT pool 0x1c767903 block 0x5be0 (id 0x6f, record 0), budget 55 B
 #: gtt/0x1c767903/0x5be0/0
 msgid "A cardboard box, huh? Pretty neat trick."
 msgstr "纸箱？挺妙的招。"
 
-#. GTT pool 0x1c767903 block 0x5c50 (id 0x57, record 0), budget 21 B
+#. GTT pool 0x1c767903 block 0x5c50 (id 0x57, record 0), budget 39 B
 #: gtt/0x1c767903/0x5c50/0
 msgid "Aha, a clever move..."
 msgstr "啊，好棋……"
 
-#. GTT pool 0x1c767903 block 0x5cb0 (id 0x60, record 0), budget 28 B
+#. GTT pool 0x1c767903 block 0x5cb0 (id 0x60, record 0), budget 39 B
 #: gtt/0x1c767903/0x5cb0/0
 msgid "What on earth are you doing?"
 msgstr "你到底在干什么？"
 
-#. GTT pool 0x1c767903 block 0x5d10 (id 0x60, record 0), budget 35 B
+#. GTT pool 0x1c767903 block 0x5d10 (id 0x60, record 0), budget 39 B
 #: gtt/0x1c767903/0x5d10/0
 msgid "Uh, you like being in tight spaces?"
 msgstr "你喜欢待在窄地方？"
 
-#. GTT pool 0x1c767903 block 0x5d70 (id 0x78, record 0), budget 43 B
+#. GTT pool 0x1c767903 block 0x5d70 (id 0x78, record 0), budget 71 B
 #: gtt/0x1c767903/0x5d70/0
 msgid "What, may I ask, are you doing in there...?"
 msgstr "请问你在里面做什么……？"
 
-#. GTT pool 0x1c767903 block 0x5df0 (id 0xdc, record 0), budget 54 B
+#. GTT pool 0x1c767903 block 0x5df0 (id 0xdc, record 0), budget 79 B
 #: gtt/0x1c767903/0x5df0/0
 msgid "The guy in back can use <I=AIM> to control the turret."
 msgstr "后座可用<I=AIM>操控炮塔。"
 
-#. GTT pool 0x1c767903 block 0x5df0 (id 0xdc, record 0), budget 42 B
+#. GTT pool 0x1c767903 block 0x5df0 (id 0xdc, record 0), budget 67 B
 #: gtt/0x1c767903/0x5df0/1
 msgid "Aim at a target and press <I=ATK> to fire."
 msgstr "瞄准目标按<I=ATK>开火。"
 
-#. GTT pool 0x1c767903 block 0x5ed0 (id 0x67, record 0), budget 37 B
+#. GTT pool 0x1c767903 block 0x5ed0 (id 0x67, record 0), budget 55 B
 #: gtt/0x1c767903/0x5ed0/0
 msgid "You're... actually going to use that?"
 msgstr "你……真要用那个？"
 
-#. GTT pool 0x1c767903 block 0x5f40 (id 0x88, record 0), budget 79 B
+#. GTT pool 0x1c767903 block 0x5f40 (id 0x88, record 0), budget 87 B
 #: gtt/0x1c767903/0x5f40/0
 msgid "Ha ha ha... now there is a tank that looks a bit more environmentally-friendly."
 msgstr "哈哈哈……这坦克倒是挺环保。"
 
-#. GTT pool 0x1c767903 block 0x5fd0 (id 0x5e, record 0), budget 23 B
+#. GTT pool 0x1c767903 block 0x5fd0 (id 0x5e, record 0), budget 39 B
 #: gtt/0x1c767903/0x5fd0/0
 msgid "A cardboard tank? Cool!"
 msgstr "纸箱坦克？酷！"
 
-#. GTT pool 0x1c767903 block 0x6030 (id 0x75, record 0), budget 44 B
+#. GTT pool 0x1c767903 block 0x6030 (id 0x75, record 0), budget 71 B
 #: gtt/0x1c767903/0x6030/0
 msgid "Yes, perhaps idiocy is the best deterrent..."
 msgstr "是啊，也许愚蠢最能威慑……"
 
-#. GTT pool 0x1c767903 block 0x60b0 (id 0x62, record 0), budget 41 B
+#. GTT pool 0x1c767903 block 0x60b0 (id 0x62, record 0), budget 55 B
 #: gtt/0x1c767903/0x60b0/0
 msgid "Is that some sort of game you're playing?"
 msgstr "你在玩什么游戏吗？"
 
-#. GTT pool 0x1c767903 block 0x6120 (id 0xa9, record 0), budget 54 B
+#. GTT pool 0x1c767903 block 0x6120 (id 0xa9, record 0), budget 71 B
 #: gtt/0x1c767903/0x6120/0
 msgid "A tank that walks on its own legs instead of treads..."
 msgstr "用腿走而不是履带的坦克……"
 
-#. GTT pool 0x1c767903 block 0x6120 (id 0xa9, record 0), budget 10 B
+#. GTT pool 0x1c767903 block 0x6120 (id 0xa9, record 0), budget 27 B
 #: gtt/0x1c767903/0x6120/1
 msgid "I like it!"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x61d0 (id 0x129, record 0), budget 33 B
+#. GTT pool 0x1c767903 block 0x61d0 (id 0x129, record 0), budget 51 B
 #: gtt/0x1c767903/0x61d0/0
 msgid "Back in the time of the Crusades,"
 msgstr "早在十字军东征时，"
 
-#. GTT pool 0x1c767903 block 0x61d0 (id 0x129, record 0), budget 78 B
+#. GTT pool 0x1c767903 block 0x61d0 (id 0x129, record 0), budget 96 B
 #: gtt/0x1c767903/0x61d0/1
 msgid "members of the order of Assassins used what is called the Assassin's Straw Box"
 msgstr "阿萨辛派成员用过所谓的刺客草箱"
 
-#. GTT pool 0x1c767903 block 0x61d0 (id 0x129, record 0), budget 39 B
+#. GTT pool 0x1c767903 block 0x61d0 (id 0x129, record 0), budget 57 B
 #: gtt/0x1c767903/0x61d0/2
 msgid "to hide and get close to their enemies."
 msgstr "潜行接近敌人。"
 
-#. GTT pool 0x1c767903 block 0x6300 (id 0x9a, record 0), budget 29 B
+#. GTT pool 0x1c767903 block 0x6300 (id 0x9a, record 0), budget 38 B
 #: gtt/0x1c767903/0x6300/0
 msgid "There's some straw below you."
 msgstr "你下方有干草。"
 
-#. GTT pool 0x1c767903 block 0x6300 (id 0x9a, record 0), budget 34 B
+#. GTT pool 0x1c767903 block 0x6300 (id 0x9a, record 0), budget 43 B
 #: gtt/0x1c767903/0x6300/1
 msgid "You can dive into it with <I=ACT>."
 msgstr "按<I=ACT>可潜入。"
 
-#. GTT pool 0x1c767903 block 0x63a0 (id 0x88, record 0), budget 60 B
+#. GTT pool 0x1c767903 block 0x63a0 (id 0x88, record 0), budget 87 B
 #: gtt/0x1c767903/0x63a0/0
 msgid "You can fit up to two people inside an Assassin's Straw Box."
 msgstr "刺客草箱最多藏两人。"
 
-#. GTT pool 0x1c767903 block 0x6430 (id 0x56, record 0), budget 24 B
+#. GTT pool 0x1c767903 block 0x6430 (id 0x56, record 0), budget 39 B
 #: gtt/0x1c767903/0x6430/0
 msgid "Drag 'em inside the box!"
 msgstr "把他们拖进箱里！"
@@ -1499,553 +1579,539 @@ msgstr "把他们拖进箱里！"
 msgid "Now THAT'S how an assassin operates...!"
 msgstr "这才是刺客的手段……！"
 
-#. GTT pool 0x1c767903 block 0x64f0 (id 0xc7, record 0), budget 31 B
-#: gtt/0x1c767903/0x64f0/0
-msgid "You're carrying too much stuff."
-msgstr "你带的东西太多了。"
-
-#. GTT pool 0x1c767903 block 0x64f0 (id 0xc7, record 0), budget 55 B
-#: gtt/0x1c767903/0x64f0/1
-msgid "You gotta drop something before you pick up a new item."
-msgstr "捡新道具前得先扔东西。"
-
-#. GTT pool 0x1c767903 block 0x65c0 (id 0xb0, record 0), budget 55 B
-#: gtt/0x1c767903/0x65c0/0
-msgid "Open the item window, choose the item you want to drop,"
-msgstr "打开道具栏，选中要扔的道具，"
-
-#. GTT pool 0x1c767903 block 0x65c0 (id 0xb0, record 0), budget 13 B
-#: gtt/0x1c767903/0x65c0/1
-msgid "then DROP it."
-msgstr ""
-
-#. GTT pool 0x1c767903 block 0x6670 (id 0x62, record 0), budget 37 B
+#. GTT pool 0x1c767903 block 0x6670 (id 0x62, record 0), budget 55 B
 #: gtt/0x1c767903/0x6670/0
 msgid "Please! Try to spare them if you can."
 msgstr "拜托！尽量留他们一命。"
 
-#. GTT pool 0x1c767903 block 0x66e0 (id 0x64, record 0), budget 37 B
+#. GTT pool 0x1c767903 block 0x66e0 (id 0x64, record 0), budget 55 B
 #: gtt/0x1c767903/0x66e0/0
 msgid "You're going to... kill those people?"
 msgstr "你要……杀那些人？"
 
-#. GTT pool 0x1c767903 block 0x6750 (id 0x7f, record 0), budget 55 B
+#. GTT pool 0x1c767903 block 0x6750 (id 0x7f, record 0), budget 71 B
 #: gtt/0x1c767903/0x6750/0
 msgid "They may be the enemy, but they are still human beings."
 msgstr "他们虽是敌人，但也是人。"
 
-#. GTT pool 0x1c767903 block 0x67d0 (id 0x53, record 0), budget 21 B
+#. GTT pool 0x1c767903 block 0x67d0 (id 0x53, record 0), budget 39 B
 #: gtt/0x1c767903/0x67d0/0
 msgid "You've killed them..."
 msgstr "你杀了他们……"
 
-#. GTT pool 0x1c767903 block 0x6830 (id 0x65, record 0), budget 30 B
+#. GTT pool 0x1c767903 block 0x6830 (id 0x65, record 0), budget 55 B
 #: gtt/0x1c767903/0x6830/0
 msgid "So this is a warrior's fate..."
 msgstr "这就是战士的宿命……"
 
-#. GTT pool 0x1c767903 block 0x68a0 (id 0x54, record 0), budget 16 B
+#. GTT pool 0x1c767903 block 0x68a0 (id 0x54, record 0), budget 39 B
 #: gtt/0x1c767903/0x68a0/0
 msgid "You killed them?"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x6900 (id 0x5a, record 0), budget 31 B
+#. GTT pool 0x1c767903 block 0x6900 (id 0x5a, record 0), budget 39 B
 #: gtt/0x1c767903/0x6900/0
 msgid "You do not have to kill them..."
 msgstr "你不必杀他们……"
 
-#. GTT pool 0x1c767903 block 0x6960 (id 0x5a, record 0), budget 33 B
+#. GTT pool 0x1c767903 block 0x6960 (id 0x5a, record 0), budget 39 B
 #: gtt/0x1c767903/0x6960/0
 msgid "Did you really have to kill them?"
 msgstr "你真有必要杀他们吗？"
 
-#. GTT pool 0x1c767903 block 0x69c0 (id 0x65, record 0), budget 42 B
+#. GTT pool 0x1c767903 block 0x69c0 (id 0x65, record 0), budget 55 B
 #: gtt/0x1c767903/0x69c0/0
 msgid "Is that your only way to protect yourself?"
 msgstr "那是你自保的唯一方式？"
 
-#. GTT pool 0x1c767903 block 0x6a30 (id 0x72, record 0), budget 46 B
+#. GTT pool 0x1c767903 block 0x6a30 (id 0x72, record 0), budget 71 B
 #: gtt/0x1c767903/0x6a30/0
 msgid "I suppose you'll say it's self-defense, right?"
 msgstr "我猜你会说是自卫，对吧？"
 
-#. GTT pool 0x1c767903 block 0x6ab0 (id 0xa2, record 0), budget 54 B
+#. GTT pool 0x1c767903 block 0x6ab0 (id 0xa2, record 0), budget 61 B
 #: gtt/0x1c767903/0x6ab0/0
 msgid "Just because they are the enemy, does not mean that..."
 msgstr "就算他们是敌人，也不代表……"
 
-#. GTT pool 0x1c767903 block 0x6ab0 (id 0xa2, record 0), budget 30 B
+#. GTT pool 0x1c767903 block 0x6ab0 (id 0xa2, record 0), budget 37 B
 #: gtt/0x1c767903/0x6ab0/1
 msgid "That is taking things too far!"
 msgstr "这太过分了！"
 
-#. GTT pool 0x1c767903 block 0x6b60 (id 0x7b, record 0), budget 65 B
+#. GTT pool 0x1c767903 block 0x6b60 (id 0x7b, record 0), budget 71 B
 #: gtt/0x1c767903/0x6b60/0
 msgid "I'm finding it hard to believe that you were ever her disciple..."
 msgstr "我很难相信你曾是她的弟子……"
 
-#. GTT pool 0x1c767903 block 0x6be0 (id 0x70, record 0), budget 53 B
+#. GTT pool 0x1c767903 block 0x6be0 (id 0x70, record 0), budget 55 B
 #: gtt/0x1c767903/0x6be0/0
 msgid "You barbarian! Do you really enjoy killing that much?"
 msgstr "你这野蛮人！就这么爱杀人？"
 
-#. GTT pool 0x1c767903 block 0x6c50 (id 0x85, record 0), budget 53 B
+#. GTT pool 0x1c767903 block 0x6c50 (id 0x85, record 0), budget 87 B
 #: gtt/0x1c767903/0x6c50/0
 msgid "They may be the enemy, but... I cannot believe you..."
 msgstr "他们虽是敌人，但……我不敢信你……"
 
-#. GTT pool 0x1c767903 block 0x6ce0 (id 0x68, record 0), budget 39 B
+#. GTT pool 0x1c767903 block 0x6ce0 (id 0x68, record 0), budget 55 B
 #: gtt/0x1c767903/0x6ce0/0
 msgid "All those people...they had families..."
 msgstr "那些人也有家人……"
 
-#. GTT pool 0x1c767903 block 0x6d50 (id 0x59, record 0), budget 28 B
+#. GTT pool 0x1c767903 block 0x6d50 (id 0x59, record 0), budget 39 B
 #: gtt/0x1c767903/0x6d50/0
 msgid "Please... No more killing..."
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x6db0 (id 0xcc, record 0), budget 30 B
+#. GTT pool 0x1c767903 block 0x6db0 (id 0xcc, record 0), budget 51 B
+#. GTT pool 0x1c767903 block 0x6e80 (id 0xcc, record 0), budget 51 B
+#. GTT pool 0x1c767903 block 0x6f50 (id 0xcd, record 0), budget 51 B
+#. GTT pool 0x1c767903 block 0x7020 (id 0xd3, record 0), budget 55 B
 #: gtt/0x1c767903/0x6db0/0
+#: gtt/0x1c767903/0x6e80/0
+#: gtt/0x1c767903/0x6f50/0
+#: gtt/0x1c767903/0x7020/0
 msgid "When you're up against a wall,"
 msgstr "被逼到墙边时，"
 
-#. GTT pool 0x1c767903 block 0x6db0 (id 0xcc, record 0), budget 58 B
+#. GTT pool 0x1c767903 block 0x6db0 (id 0xcc, record 0), budget 79 B
+#. GTT pool 0x1c767903 block 0x6e80 (id 0xcc, record 0), budget 79 B
 #: gtt/0x1c767903/0x6db0/1
+#: gtt/0x1c767903/0x6e80/1
 msgid ""
 "press <I=ATK> to tap on it and get\n"
 "the enemy's attention."
-msgstr "按<I=ATK>敲墙，\n吸引敌人注意。"
+msgstr ""
+"按<I=ATK>敲墙，\n"
+"吸引敌人注意。"
 
-#. GTT pool 0x1c767903 block 0x6f50 (id 0xcd, record 0), budget 57 B
+#. GTT pool 0x1c767903 block 0x6f50 (id 0xcd, record 0), budget 78 B
 #: gtt/0x1c767903/0x6f50/1
 msgid "press <I=ATK> to tap on it and get the enemy's attention."
 msgstr "按<I=ATK>敲墙，吸引敌人注意。"
 
-#. GTT pool 0x1c767903 block 0x7020 (id 0xd3, record 0), budget 65 B
+#. GTT pool 0x1c767903 block 0x7020 (id 0xd3, record 0), budget 90 B
 #: gtt/0x1c767903/0x7020/1
 msgid ""
 "press <I=KNOCK_WALL> to tap on it and get the\n"
 "enemy's attention."
-msgstr "按<I=KNOCK_WALL>敲墙，\n吸引敌人注意。"
+msgstr ""
+"按<I=KNOCK_WALL>敲墙，\n"
+"吸引敌人注意。"
 
-#. GTT pool 0x1c767903 block 0x7100 (id 0xdb, record 0), budget 56 B
-#: gtt/0x1c767903/0x7100/0
-msgid "To neutralize an enemy, put him to sleep, knock him out,"
-msgstr "要制伏敌人，可让他睡着、打晕，"
-
-#. GTT pool 0x1c767903 block 0x7100 (id 0xdb, record 0), budget 63 B
-#: gtt/0x1c767903/0x7100/1
-msgid "or leave him in a near-death state - whatever floats your boat."
-msgstr "或留他半死不活——随你高兴。"
-
-#. GTT pool 0x1c767903 block 0x71e0 (id 0x87, record 0), budget 66 B
+#. GTT pool 0x1c767903 block 0x71e0 (id 0x87, record 0), budget 87 B
 #: gtt/0x1c767903/0x71e0/0
 msgid ""
 "Stay out of the water. That's beyond\n"
 "the scope of this operation."
-msgstr "别下水。这超出\n本次行动范围。"
+msgstr ""
+"别下水。这超出\n"
+"本次行动范围。"
 
-#. GTT pool 0x1c767903 block 0x7270 (id 0x7f, record 0), budget 46 B
+#. GTT pool 0x1c767903 block 0x7270 (id 0x7f, record 0), budget 71 B
 #: gtt/0x1c767903/0x7270/0
 msgid "Bad idea, Snake. Your gear's going to get wet."
 msgstr "馊主意，SNAKE。装备会湿的。"
 
-#. GTT pool 0x1c767903 block 0x72f0 (id 0x6b, record 0), budget 50 B
+#. GTT pool 0x1c767903 block 0x72f0 (id 0x6b, record 0), budget 55 B
 #: gtt/0x1c767903/0x72f0/0
 msgid "If you want to go swimming, do it some other time."
 msgstr "想游泳，改天再说。"
 
-#. GTT pool 0x1c767903 block 0x7360 (id 0x69, record 0), budget 38 B
+#. GTT pool 0x1c767903 block 0x7360 (id 0x69, record 0), budget 55 B
 #: gtt/0x1c767903/0x7360/0
 msgid "You want to go for a swim? Now? Ugh..."
 msgstr "现在想游泳？唉……"
 
-#. GTT pool 0x1c767903 block 0x73d0 (id 0x6e, record 0), budget 49 B
+#. GTT pool 0x1c767903 block 0x73d0 (id 0x6e, record 0), budget 55 B
 #: gtt/0x1c767903/0x73d0/0
 msgid "Why don't you save the swimming for another time?"
 msgstr "游泳还是留到别的时候吧？"
 
-#. GTT pool 0x1c767903 block 0x7440 (id 0xcd, record 0), budget 47 B
+#. GTT pool 0x1c767903 block 0x7440 (id 0xcd, record 0), budget 57 B
 #: gtt/0x1c767903/0x7440/0
 msgid "Snipers will get a bead on you from a distance."
 msgstr "狙击手会从远处瞄准你。"
 
-#. GTT pool 0x1c767903 block 0x7440 (id 0xcd, record 0), budget 63 B
+#. GTT pool 0x1c767903 block 0x7440 (id 0xcd, record 0), budget 73 B
 #: gtt/0x1c767903/0x7440/1
 msgid "Just because you can't see them doesn't mean they're not there."
 msgstr "看不见不代表他们不在。"
 
-#. GTT pool 0x1c767903 block 0x7510 (id 0xbc, record 0), budget 34 B
+#. GTT pool 0x1c767903 block 0x7510 (id 0xbc, record 0), budget 54 B
 #: gtt/0x1c767903/0x7510/0
 msgid "Keep your eyes peeled for snipers."
 msgstr "小心狙击手。"
 
-#. GTT pool 0x1c767903 block 0x7510 (id 0xbc, record 0), budget 40 B
+#. GTT pool 0x1c767903 block 0x7510 (id 0xbc, record 0), budget 60 B
 #: gtt/0x1c767903/0x7510/1
 msgid "A good one can hit you from a mile away."
 msgstr "好手能在一英里外打中你。"
 
-#. GTT pool 0x1c767903 block 0x75d0 (id 0xc6, record 0), budget 46 B
+#. GTT pool 0x1c767903 block 0x75d0 (id 0xc6, record 0), budget 71 B
 #: gtt/0x1c767903/0x75d0/0
 msgid "Rockets can travel a long way to their target."
 msgstr "火箭能飞很远命中目标。"
 
-#. GTT pool 0x1c767903 block 0x75d0 (id 0xc6, record 0), budget 33 B
+#. GTT pool 0x1c767903 block 0x75d0 (id 0xc6, record 0), budget 58 B
 #: gtt/0x1c767903/0x75d0/1
 msgid "Never assume you're out of range."
 msgstr "别以为你在射程外。"
 
-#. GTT pool 0x1c767903 block 0x76a0 (id 0xcb, record 0), budget 35 B
+#. GTT pool 0x1c767903 block 0x76a0 (id 0xcb, record 0), budget 47 B
 #: gtt/0x1c767903/0x76a0/0
 msgid "Watch out for faraway enemies, too."
 msgstr "也要小心远处的敌人。"
 
-#. GTT pool 0x1c767903 block 0x76a0 (id 0xcb, record 0), budget 71 B
+#. GTT pool 0x1c767903 block 0x76a0 (id 0xcb, record 0), budget 83 B
 #: gtt/0x1c767903/0x76a0/1
 msgid "If they've got a rocket launcher, they'll start firing from a distance."
 msgstr "有火箭筒的话，他们会远距离开火。"
 
-#. GTT pool 0x1c767903 block 0x7770 (id 0x56, record 0), budget 29 B
+#. GTT pool 0x1c767903 block 0x7770 (id 0x56, record 0), budget 39 B
 #: gtt/0x1c767903/0x7770/0
 msgid "They've got rocket launchers!"
 msgstr "他们有火箭筒！"
 
-#. GTT pool 0x1c767903 block 0x77d0 (id 0x58, record 0), budget 28 B
+#. GTT pool 0x1c767903 block 0x77d0 (id 0x58, record 0), budget 39 B
 #: gtt/0x1c767903/0x77d0/0
 msgid "Watch out for those rockets!"
 msgstr "小心那些火箭！"
 
-#. GTT pool 0x1c767903 block 0x7830 (id 0x7b, record 0), budget 46 B
+#. GTT pool 0x1c767903 block 0x7830 (id 0x7b, record 0), budget 71 B
 #: gtt/0x1c767903/0x7830/0
 msgid "Take out the guys with rocket launchers first!"
 msgstr "先干掉拿火箭筒的！"
 
-#. GTT pool 0x1c767903 block 0x78b0 (id 0xb5, record 0), budget 62 B
+#. GTT pool 0x1c767903 block 0x78b0 (id 0xb5, record 0), budget 80 B
 #: gtt/0x1c767903/0x78b0/0
 msgid "The guys with helmets will not go down with a single headshot."
 msgstr "戴头盔的一枪爆头打不倒。"
 
-#. GTT pool 0x1c767903 block 0x78b0 (id 0xb5, record 0), budget 15 B
+#. GTT pool 0x1c767903 block 0x78b0 (id 0xb5, record 0), budget 33 B
 #: gtt/0x1c767903/0x78b0/1
 msgid "Watch yourself."
 msgstr "小心点。"
 
-#. GTT pool 0x1c767903 block 0x7970 (id 0x6a, record 0), budget 41 B
+#. GTT pool 0x1c767903 block 0x7970 (id 0x6a, record 0), budget 55 B
 #: gtt/0x1c767903/0x7970/0
 msgid "Ah! Taking some fashion cues from me, eh?"
 msgstr "哈！学我穿衣打扮？"
 
-#. GTT pool 0x1c767903 block 0x79e0 (id 0x51, record 0), budget 20 B
+#. GTT pool 0x1c767903 block 0x79e0 (id 0x51, record 0), budget 39 B
 #: gtt/0x1c767903/0x79e0/0
 msgid "Nice uniform, Snake."
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x7a40 (id 0xb2, record 0), budget 22 B
+#. GTT pool 0x1c767903 block 0x7a40 (id 0xb2, record 0), budget 43 B
 #: gtt/0x1c767903/0x7a40/0
 msgid "Sorry about the smell."
 msgstr "抱歉有味道。"
 
-#. GTT pool 0x1c767903 block 0x7a40 (id 0xb2, record 0), budget 50 B
+#. GTT pool 0x1c767903 block 0x7a40 (id 0xb2, record 0), budget 71 B
 #: gtt/0x1c767903/0x7a40/1
 msgid "I lent you a dirty uniform instead of a clean one."
 msgstr "借你的是脏制服，不是干净的。"
 
-#. GTT pool 0x1c767903 block 0x7b00 (id 0x63, record 0), budget 32 B
+#. GTT pool 0x1c767903 block 0x7b00 (id 0x63, record 0), budget 55 B
 #: gtt/0x1c767903/0x7b00/0
 msgid "It's like looking in a mirror..."
 msgstr "像在照镜子……"
 
-#. GTT pool 0x1c767903 block 0x7b70 (id 0x7b, record 0), budget 63 B
+#. GTT pool 0x1c767903 block 0x7b70 (id 0x7b, record 0), budget 71 B
 #: gtt/0x1c767903/0x7b70/0
 msgid "Just don't go causing any trouble while you're dressed like me."
 msgstr "穿成我这样，可别惹事。"
 
-#. GTT pool 0x1c767903 block 0x7bf0 (id 0x5b, record 0), budget 16 B
+#. GTT pool 0x1c767903 block 0x7bf0 (id 0x5b, record 0), budget 39 B
 #: gtt/0x1c767903/0x7bf0/0
 msgid "Hey, same as me!"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x7c50 (id 0xae, record 0), budget 33 B
+#. GTT pool 0x1c767903 block 0x7c50 (id 0xae, record 0), budget 39 B
 #: gtt/0x1c767903/0x7c50/0
 msgid "If you're going to dress like me,"
 msgstr "既然你要穿成我这样，"
 
-#. GTT pool 0x1c767903 block 0x7c50 (id 0xae, record 0), budget 53 B
+#. GTT pool 0x1c767903 block 0x7c50 (id 0xae, record 0), budget 59 B
 #: gtt/0x1c767903/0x7c50/1
 msgid "keep in mind you'll have to live up to my reputation."
 msgstr "就得配得上我的名声。"
 
-#. GTT pool 0x1c767903 block 0x7d00 (id 0xe7, record 0), budget 18 B
+#. GTT pool 0x1c767903 block 0x7d00 (id 0xe7, record 0), budget 30 B
 #: gtt/0x1c767903/0x7d00/0
 msgid "What do you think?"
 msgstr "你觉得呢？"
 
-#. GTT pool 0x1c767903 block 0x7d00 (id 0xe7, record 0), budget 46 B
+#. GTT pool 0x1c767903 block 0x7d00 (id 0xe7, record 0), budget 58 B
 #: gtt/0x1c767903/0x7d00/1
 msgid "Easy to move around in that uniform, isn't it?"
 msgstr "那身制服活动方便吧？"
 
-#. GTT pool 0x1c767903 block 0x7d00 (id 0xe7, record 0), budget 40 B
+#. GTT pool 0x1c767903 block 0x7d00 (id 0xe7, record 0), budget 52 B
 #: gtt/0x1c767903/0x7d00/2
 msgid "It's helped keep me alive all this time."
 msgstr "它一直保我活命。"
 
-#. GTT pool 0x1c767903 block 0x7df0 (id 0x74, record 0), budget 48 B
+#. GTT pool 0x1c767903 block 0x7df0 (id 0x74, record 0), budget 71 B
 #: gtt/0x1c767903/0x7df0/0
 msgid "Make sure you wash that before you give it back."
 msgstr "还我之前记得洗。"
 
-#. GTT pool 0x1c767903 block 0x7e70 (id 0x5b, record 0), budget 24 B
+#. GTT pool 0x1c767903 block 0x7e70 (id 0x5b, record 0), budget 39 B
 #: gtt/0x1c767903/0x7e70/0
 msgid "Amanda? No, it can't be."
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x7ed0 (id 0x54, record 0), budget 23 B
+#. GTT pool 0x1c767903 block 0x7ed0 (id 0x54, record 0), budget 39 B
 #: gtt/0x1c767903/0x7ed0/0
 msgid "Whoa! Look out, ladies!"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x7f30 (id 0x9a, record 0), budget 25 B
+#. GTT pool 0x1c767903 block 0x7f30 (id 0x9a, record 0), budget 36 B
 #: gtt/0x1c767903/0x7f30/0
 msgid "A bandanna with a tuxedo?"
 msgstr "头巾配燕尾服？"
 
-#. GTT pool 0x1c767903 block 0x7f30 (id 0x9a, record 0), budget 35 B
+#. GTT pool 0x1c767903 block 0x7f30 (id 0x9a, record 0), budget 46 B
 #: gtt/0x1c767903/0x7f30/1
 msgid "..OK, if it's that important to ya."
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x7fd0 (id 0xe5, record 0), budget 34 B
+#. GTT pool 0x1c767903 block 0x7fd0 (id 0xe5, record 0), budget 50 B
 #: gtt/0x1c767903/0x7fd0/0
 msgid "That's no way for a lady to dress."
 msgstr "女士可不该这么穿。"
 
-#. GTT pool 0x1c767903 block 0x7fd0 (id 0xe5, record 0), budget 34 B
+#. GTT pool 0x1c767903 block 0x7fd0 (id 0xe5, record 0), budget 50 B
 #: gtt/0x1c767903/0x7fd0/1
 msgid "But if you need a date to a party,"
 msgstr "但要是你需要舞伴，"
 
-#. GTT pool 0x1c767903 block 0x7fd0 (id 0xe5, record 0), budget 23 B
+#. GTT pool 0x1c767903 block 0x7fd0 (id 0xe5, record 0), budget 39 B
 #: gtt/0x1c767903/0x7fd0/2
 msgid "I'd be happy to oblige."
 msgstr "我很乐意奉陪。"
 
-#. GTT pool 0x1c767903 block 0x80c0 (id 0x6c, record 0), budget 51 B
+#. GTT pool 0x1c767903 block 0x80c0 (id 0x6c, record 0), budget 55 B
 #: gtt/0x1c767903/0x80c0/0
 msgid "Oh, my... Are you going to invite me out to dinner?"
 msgstr "哎呀……你要请我吃晚饭吗？"
 
-#. GTT pool 0x1c767903 block 0x8130 (id 0x5f, record 0), budget 38 B
+#. GTT pool 0x1c767903 block 0x8130 (id 0x5f, record 0), budget 39 B
 #: gtt/0x1c767903/0x8130/0
 msgid "Whoa, what are you all dressed up for?"
 msgstr "哇，你打扮成这样干嘛？"
 
-#. GTT pool 0x1c767903 block 0x8190 (id 0x7b, record 0), budget 55 B
+#. GTT pool 0x1c767903 block 0x8190 (id 0x7b, record 0), budget 71 B
 #: gtt/0x1c767903/0x8190/0
 msgid "Whoa you look like body guard! Who are you working for?"
 msgstr "哇，你像保镖！替谁干活？"
 
-#. GTT pool 0x1c767903 block 0x8210 (id 0x68, record 0), budget 35 B
+#. GTT pool 0x1c767903 block 0x8210 (id 0x68, record 0), budget 55 B
 #: gtt/0x1c767903/0x8210/0
 msgid "What are you dressed like that for?"
 msgstr "你穿成这样干嘛？"
 
-#. GTT pool 0x1c767903 block 0x8280 (id 0xa7, record 0), budget 24 B
+#. GTT pool 0x1c767903 block 0x8280 (id 0xa7, record 0), budget 32 B
 #: gtt/0x1c767903/0x8280/0
 msgid "Have you lost your mind?"
 msgstr "你疯了吗？"
 
-#. GTT pool 0x1c767903 block 0x8280 (id 0xa7, record 0), budget 57 B
+#. GTT pool 0x1c767903 block 0x8280 (id 0xa7, record 0), budget 65 B
 #: gtt/0x1c767903/0x8280/1
 msgid "What kind of guerilla goes around in something like that?"
 msgstr "这算什么游击队员，穿成这样？"
 
-#. GTT pool 0x1c767903 block 0x8330 (id 0x89, record 0), budget 70 B
+#. GTT pool 0x1c767903 block 0x8330 (id 0x89, record 0), budget 87 B
 #: gtt/0x1c767903/0x8330/0
 msgid "What an irrational choice of clothes. If only she could see you now..."
 msgstr "这衣服选得真没道理。真该让她看看你现在这样……"
 
-#. GTT pool 0x1c767903 block 0x83c0 (id 0x60, record 0), budget 35 B
+#. GTT pool 0x1c767903 block 0x83c0 (id 0x60, record 0), budget 39 B
 #: gtt/0x1c767903/0x83c0/0
 msgid "That's a rather...extravagant look."
 msgstr "这打扮……挺奢侈的。"
 
-#. GTT pool 0x1c767903 block 0x8420 (id 0x87, record 0), budget 75 B
+#. GTT pool 0x1c767903 block 0x8420 (id 0x87, record 0), budget 87 B
 #: gtt/0x1c767903/0x8420/0
 msgid "What are you wearing there... is that... wait... is this some kind of joke?"
 msgstr "你穿的是什么……那是……等等……这是在开玩笑吗？"
 
-#. GTT pool 0x1c767903 block 0x84b0 (id 0xa6, record 0), budget 28 B
+#. GTT pool 0x1c767903 block 0x84b0 (id 0xa6, record 0), budget 46 B
 #: gtt/0x1c767903/0x84b0/0
 msgid "Hey, that looks good on you."
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x84b0 (id 0xa6, record 0), budget 33 B
+#. GTT pool 0x1c767903 block 0x84b0 (id 0xa6, record 0), budget 51 B
 #: gtt/0x1c767903/0x84b0/1
 msgid "Maybe if I wore one, she would..."
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x8560 (id 0x9a, record 0), budget 32 B
+#. GTT pool 0x1c767903 block 0x8560 (id 0x9a, record 0), budget 39 B
 #: gtt/0x1c767903/0x8560/0
 msgid "You know, that's not a bad look."
 msgstr "说真的，这打扮不赖。"
 
-#. GTT pool 0x1c767903 block 0x8560 (id 0x9a, record 0), budget 36 B
+#. GTT pool 0x1c767903 block 0x8560 (id 0x9a, record 0), budget 43 B
 #: gtt/0x1c767903/0x8560/1
 msgid "I think it's classy even on a woman."
 msgstr "我觉得女人穿也很优雅。"
 
-#. GTT pool 0x1c767903 block 0x8600 (id 0x51, record 0), budget 22 B
+#. GTT pool 0x1c767903 block 0x8600 (id 0x51, record 0), budget 39 B
 #: gtt/0x1c767903/0x8600/0
 msgid "Looking good, Snake..."
 msgstr "挺帅，SNAKE……"
 
-#. GTT pool 0x1c767903 block 0x8660 (id 0x87, record 0), budget 59 B
+#. GTT pool 0x1c767903 block 0x8660 (id 0x87, record 0), budget 87 B
 #: gtt/0x1c767903/0x8660/0
 msgid "Very classy. We should throw a party once this is all over."
 msgstr "很有格调。等这事结束，我们办个派对。"
 
-#. GTT pool 0x1c767903 block 0x86f0 (id 0xaf, record 0), budget 40 B
+#. GTT pool 0x1c767903 block 0x86f0 (id 0xaf, record 0), budget 48 B
 #: gtt/0x1c767903/0x86f0/0
 msgid "What the... Snake, you're our commander."
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x86f0 (id 0xaf, record 0), budget 41 B
+#. GTT pool 0x1c767903 block 0x86f0 (id 0xaf, record 0), budget 49 B
 #: gtt/0x1c767903/0x86f0/1
 msgid "The least you could do is dress like one."
 msgstr "至少穿得像个指挥官吧。"
 
-#. GTT pool 0x1c767903 block 0x87a0 (id 0xcf, record 0), budget 25 B
+#. GTT pool 0x1c767903 block 0x87a0 (id 0xcf, record 0), budget 33 B
 #: gtt/0x1c767903/0x87a0/0
 msgid "In case you're wondering,"
 msgstr "想知道的话，"
 
-#. GTT pool 0x1c767903 block 0x87a0 (id 0xcf, record 0), budget 29 B
+#. GTT pool 0x1c767903 block 0x87a0 (id 0xcf, record 0), budget 37 B
 #: gtt/0x1c767903/0x87a0/1
 msgid "no, you CAN'T take those off."
 msgstr "不行，不能脱那些。"
 
-#. GTT pool 0x1c767903 block 0x87a0 (id 0xcf, record 0), budget 30 B
+#. GTT pool 0x1c767903 block 0x87a0 (id 0xcf, record 0), budget 38 B
 #: gtt/0x1c767903/0x87a0/2
 msgid "So don't even think about it!!"
 msgstr "所以想都别想！！"
 
-#. GTT pool 0x1c767903 block 0x8870 (id 0xc2, record 0), budget 58 B
+#. GTT pool 0x1c767903 block 0x8870 (id 0xc2, record 0), budget 77 B
 #: gtt/0x1c767903/0x8870/0
 msgid "OK, I'm sorry. I'll quit teasing you about your code name."
 msgstr "好吧，抱歉。我不再拿你的代号开玩笑了。"
 
-#. GTT pool 0x1c767903 block 0x8870 (id 0xc2, record 0), budget 34 B
+#. GTT pool 0x1c767903 block 0x8870 (id 0xc2, record 0), budget 53 B
 #: gtt/0x1c767903/0x8870/1
 msgid "Just put some clothes on! PLEASE!!"
 msgstr "快把衣服穿上！求你！！"
 
-#. GTT pool 0x1c767903 block 0x8940 (id 0xba, record 0), budget 38 B
+#. GTT pool 0x1c767903 block 0x8940 (id 0xba, record 0), budget 56 B
 #: gtt/0x1c767903/0x8940/0
 msgid "Fine. You want me to strip down, too?!"
 msgstr "行。你也想让我脱光吗？！"
 
-#. GTT pool 0x1c767903 block 0x8940 (id 0xba, record 0), budget 39 B
+#. GTT pool 0x1c767903 block 0x8940 (id 0xba, record 0), budget 57 B
 #: gtt/0x1c767903/0x8940/1
 msgid "There! How'dya like THAT!! Huh? Happy?!"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x8a00 (id 0x9f, record 0), budget 28 B
+#. GTT pool 0x1c767903 block 0x8a00 (id 0x9f, record 0), budget 37 B
 #: gtt/0x1c767903/0x8a00/0
 msgid "All right! No more uniforms!"
 msgstr "好！不穿制服了！"
 
-#. GTT pool 0x1c767903 block 0x8a00 (id 0x9f, record 0), budget 35 B
+#. GTT pool 0x1c767903 block 0x8a00 (id 0x9f, record 0), budget 44 B
 #: gtt/0x1c767903/0x8a00/1
 msgid "From now on, we're all going NAKED!"
 msgstr "从现在起，我们全裸奔！"
 
-#. GTT pool 0x1c767903 block 0x8aa0 (id 0x75, record 0), budget 60 B
+#. GTT pool 0x1c767903 block 0x8aa0 (id 0x75, record 0), budget 71 B
 #: gtt/0x1c767903/0x8aa0/0
 msgid "Uh, you know, that's...actually kind of a good look for you."
 msgstr "呃，说真的，这……其实挺适合你的。"
 
-#. GTT pool 0x1c767903 block 0x8b20 (id 0xb7, record 0), budget 34 B
+#. GTT pool 0x1c767903 block 0x8b20 (id 0xb7, record 0), budget 52 B
 #: gtt/0x1c767903/0x8b20/0
 msgid "Will you please not dress in a way"
 msgstr "你能不能别穿得让"
 
-#. GTT pool 0x1c767903 block 0x8b20 (id 0xb7, record 0), budget 43 B
+#. GTT pool 0x1c767903 block 0x8b20 (id 0xb7, record 0), budget 61 B
 #: gtt/0x1c767903/0x8b20/1
 msgid "that makes MSF look like a bunch of freaks?"
 msgstr "MSF看起来像一群怪人？"
 
-#. GTT pool 0x1c767903 block 0x8be0 (id 0xd8, record 0), budget 51 B
+#. GTT pool 0x1c767903 block 0x8be0 (id 0xd8, record 0), budget 70 B
 #: gtt/0x1c767903/0x8be0/0
 msgid "You trying to say something, soldier? OK, I get it."
 msgstr "你想说什么吗，士兵？好，我明白了。"
 
-#. GTT pool 0x1c767903 block 0x8be0 (id 0xd8, record 0), budget 56 B
+#. GTT pool 0x1c767903 block 0x8be0 (id 0xd8, record 0), budget 75 B
 #: gtt/0x1c767903/0x8be0/1
 msgid "Next time I get drunk, I'll keep my pants on, all right?"
 msgstr "下次喝醉，我会穿好裤子，行吗？"
 
-#. GTT pool 0x1c767903 block 0x8cc0 (id 0x97, record 0), budget 15 B
+#. GTT pool 0x1c767903 block 0x8cc0 (id 0x97, record 0), budget 24 B
 #: gtt/0x1c767903/0x8cc0/0
 msgid "You're a woman."
 msgstr "你是女人。"
 
-#. GTT pool 0x1c767903 block 0x8cc0 (id 0x97, record 0), budget 49 B
+#. GTT pool 0x1c767903 block 0x8cc0 (id 0x97, record 0), budget 58 B
 #: gtt/0x1c767903/0x8cc0/1
 msgid "Shouldn't you be taking better care of your skin?"
 msgstr "你该好好保养皮肤吧？"
 
-#. GTT pool 0x1c767903 block 0x8d60 (id 0x9d, record 0), budget 37 B
+#. GTT pool 0x1c767903 block 0x8d60 (id 0x9d, record 0), budget 46 B
 #: gtt/0x1c767903/0x8d60/0
 msgid "The mosquitoes are going to love you."
 msgstr "蚊子会爱上你的。"
 
-#. GTT pool 0x1c767903 block 0x8d60 (id 0x9d, record 0), budget 27 B
+#. GTT pool 0x1c767903 block 0x8d60 (id 0x9d, record 0), budget 36 B
 #: gtt/0x1c767903/0x8d60/1
 msgid "Do you WANT to get malaria?"
 msgstr "你想得疟疾吗？"
 
-#. GTT pool 0x1c767903 block 0x8e00 (id 0x7e, record 0), budget 4 B
+#. GTT pool 0x1c767903 block 0x8e00 (id 0x7e, record 0), budget 10 B
+#. GTT pool 0x1c767903 block 0x8e80 (id 0x66, record 0), budget 13 B
 #: gtt/0x1c767903/0x8e00/0
+#: gtt/0x1c767903/0x8e80/0
 msgid "Ooh,"
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x8e00 (id 0x7e, record 0), budget 33 B
+#. GTT pool 0x1c767903 block 0x8e00 (id 0x7e, record 0), budget 39 B
 #: gtt/0x1c767903/0x8e00/1
 msgid "let me wrap my arms around you..."
 msgstr "让我抱住你……"
 
-#. GTT pool 0x1c767903 block 0x8e80 (id 0x66, record 0), budget 12 B
+#. GTT pool 0x1c767903 block 0x8e80 (id 0x66, record 0), budget 21 B
 #: gtt/0x1c767903/0x8e80/1
 msgid "sooo sexy..."
 msgstr ""
 
-#. GTT pool 0x1c767903 block 0x8ef0 (id 0x4c, record 0), budget 19 B
+#. GTT pool 0x1c767903 block 0x8ef0 (id 0x4c, record 0), budget 23 B
 #: gtt/0x1c767903/0x8ef0/0
 msgid "Such big muscles..."
 msgstr "肌肉好大…"
 
-#. GTT pool 0x1c767903 block 0x8f40 (id 0x7f, record 0), budget 52 B
+#. GTT pool 0x1c767903 block 0x8f40 (id 0x7f, record 0), budget 71 B
 #: gtt/0x1c767903/0x8f40/0
 msgid "If I keep training, one day I'll look like that too."
 msgstr "继续练，总有一天我也能那样。"
 
-#. GTT pool 0x1c767903 block 0x8fc0 (id 0x78, record 0), budget 54 B
+#. GTT pool 0x1c767903 block 0x8fc0 (id 0x78, record 0), budget 71 B
 #: gtt/0x1c767903/0x8fc0/0
 msgid "Hey, hey, hey! What are you doing? Are you teasing me?"
 msgstr "喂喂喂！你干嘛？逗我玩？"
 
-#. GTT pool 0x1c767903 block 0x9040 (id 0xa2, record 0), budget 71 B
+#. GTT pool 0x1c767903 block 0x9040 (id 0xa2, record 0), budget 119 B
 #: gtt/0x1c767903/0x9040/0
 msgid "Not to be rude, but naked men are not my cup of tea. Would you mind...?"
 msgstr "无意冒犯，裸男不是我的菜。能否……？"
 
-#. GTT pool 0x1c767903 block 0x90f0 (id 0x6c, record 0), budget 41 B
+#. GTT pool 0x1c767903 block 0x90f0 (id 0x6c, record 0), budget 55 B
 #: gtt/0x1c767903/0x90f0/0
 msgid "You know, you don't have to stop there..."
 msgstr "其实，你不必停手……"
 
-#. GTT pool 0x1c767903 block 0x9160 (id 0xa4, record 0), budget 30 B
+#. GTT pool 0x1c767903 block 0x9160 (id 0xa4, record 0), budget 40 B
 #: gtt/0x1c767903/0x9160/0
 msgid "Mmm, I like the way you think."
 msgstr "嗯，我喜欢你的想法。"
