@@ -9,71 +9,6 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
-#: codec/1/190/0xbecf0/9
-msgid ""
-"Why do you think they're called \"sloths\"?\n"
-msgstr ""
-
-#: codec/1/190/0xbecf0/10
-msgid ""
-"They hardly move, so they hardly burn any energy.\n"
-msgstr ""
-
-#: codec/1/190/0xbecf0/11
-msgid ""
-"They're also able to maintain a low body\n"
-"temperature, lowering their metabolism further,\n"
-msgstr ""
-
-#: codec/1/190/0xbecf0/12
-msgid ""
-"and allowing them to survive on very little.\n"
-msgstr ""
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
-#. timeline 445..1309
-#: codec/1/191/0xbf3b0/0
-msgid ""
-"La Ruinas de Xochiquetzal will be around there.\n"
-msgstr ""
-"索奇克察尔遗迹就在那附近。\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
-#. timeline 1337..2619
-#: codec/1/191/0xbf3b0/1
-msgid ""
-"They have not been restored at all, so they may\n"
-"well be covered in plants.\n"
-msgstr ""
-"它们完全没被修复过，所以很可能\n"
-"被植物覆盖了。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0230_000_0
-#. timeline 2702..3106
-#: codec/1/191/0xbf3b0/2
-msgid ""
-"Xochiquetzal?\n"
-msgstr ""
-"索奇克察尔？\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
-#. timeline 3134..3970
-#: codec/1/191/0xbf3b0/3
-msgid ""
-"An Aztec goddess of fertility and beauty.\n"
-msgstr ""
-"阿兹特克的丰饶与美丽女神。\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
-#. timeline 4068..5154
-#: codec/1/191/0xbf3b0/4
-msgid ""
-"They say she was always accompanied by birds\n"
-"and butterflies.\n"
-msgstr ""
-"据说她身边总有鸟儿\n"
-"和蝴蝶相伴。\n"
-
 #. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
 #. timeline 5210..6506
 #: codec/1/191/0xbf3b0/5
@@ -269,7 +204,6 @@ msgstr ""
 #: codec/2/910/0x38e660/0
 #: codec/2/911/0x38f200/0
 #: codec/2/911/0x38f200/14
-#: codec/2/923/0x39b540/8
 msgid ""
 "Snake...\n"
 msgstr ""
@@ -655,6 +589,8 @@ msgid ""
 "It has been 40 years since the Somoza family\n"
 "became the rulers of Nicaragua.\n"
 msgstr ""
+"索摩查家族统治尼加拉瓜，\n"
+"已经四十年了。\n"
 
 #: codec/1/193/0xc16a0/0
 msgid ""
@@ -791,57 +727,74 @@ msgid ""
 "The Managua Earthquake struck two years ago,\n"
 "the day before Christmas Eve.\n"
 msgstr ""
+"两年前的马那瓜大地震，\n"
+"发生在平安夜的前一天。\n"
 
 #: codec/1/193/0xc1d60/1
 msgid ""
 "Giant cracks opened up in the streets.\n"
 msgstr ""
+"街道裂开了巨大的缝隙。\n"
 
 #: codec/1/193/0xc1d60/2
 msgid ""
 "Sleeping children were crushed in collapsing\n"
 "houses.\n"
 msgstr ""
+"熟睡的孩子被压在\n"
+"倒塌的房屋下。\n"
 
 #: codec/1/193/0xc1d60/3
 msgid ""
 "No chance to escape. No visit from Santa Claus.\n"
 msgstr ""
+"无处可逃，也没有圣诞老人到来。\n"
 
 #: codec/1/193/0xc1d60/4
 msgid ""
 "Thanks to Somoza, the old houses could not even\n"
 "get rebuilt... It was a nightmare.\n"
 msgstr ""
+"因为索摩查，旧房连重建都做不到……\n"
+"那是一场噩梦。\n"
 
 #: codec/1/193/0xc1d60/5
 msgid ""
 "I heard the epicenter was right in the middle of the\n"
 "city.\n"
 msgstr ""
+"听说震中\n"
+"就在市区正中。\n"
 
 #: codec/1/193/0xc1d60/6
 msgid ""
 "Even today, it's too dangerous to build on top of\n"
 "the fault line.\n"
 msgstr ""
+"直到今天，断层线上\n"
+"仍然危险到无法盖房。\n"
 
 #: codec/1/193/0xc1d60/7
 msgid ""
 "The city center is still in ruins.\n"
 msgstr ""
+"市中心至今还是废墟。\n"
 
 #: codec/1/193/0xc1d60/8
 msgid ""
 "And to make things worse, Somoza stole the\n"
 "recovery money.\n"
 msgstr ""
+"更糟的是，索摩查\n"
+"还贪污了救灾款。\n"
 
 #: codec/1/193/0xc1d60/9
 msgid ""
 "We must not fail. We owe it to those who lost their\n"
 "lives.\n"
 msgstr ""
+"我们不能失败。\n"
+"要对得起那些逝去的人。\n"
 
 #: codec/1/194/0xc2170/0
 msgid ""
@@ -1402,71 +1355,89 @@ msgstr ""
 msgid ""
 "A revolution to bring peace to your country, huh.\n"
 msgstr ""
+"为祖国带来和平的革命，是吗。\n"
 
 #: codec/1/195/0xc3d40/1
 msgid ""
 "No matter how much we fight, peace never gets\n"
 "any closer, does it?\n"
 msgstr ""
+"无论怎么战斗，\n"
+"和平都没有更近一步。\n"
 
 #: codec/1/195/0xc3d40/2
 msgid ""
 "I do not like it, but it is the only way.\n"
 msgstr ""
+"我也不喜欢，但别无他法。\n"
 
 #: codec/1/195/0xc3d40/3
 msgid ""
 "If we do not fight back, they'll just keep exploiting\n"
 "us.\n"
 msgstr ""
+"不反抗，他们就\n"
+"会一直压榨我们。\n"
 
 #: codec/1/195/0xc3d40/4
 msgid ""
 "You want proof? Look at our country's history.\n"
 msgstr ""
+"要证据？看看我国的历史。\n"
 
 #: codec/1/195/0xc3d40/5
 msgid ""
 "Revolution is a means and not an end, I know.\n"
 msgstr ""
+"我知道，革命是手段而非目的。\n"
 
 #: codec/1/195/0xc3d40/6
 msgid ""
 "When the revolution is victorious, I want my\n"
 "country to be at peace.\n"
 msgstr ""
+"革命胜利后，\n"
+"我希望祖国能享有和平。\n"
 
 #: codec/1/195/0xc3d40/7
 msgid ""
 "But to bring peace, we have to first eliminate that\n"
 "traitorous scum.\n"
 msgstr ""
+"但要实现和平，\n"
+"就得先除掉那个叛徒败类。\n"
 
 #: codec/1/195/0xc3d40/8
 msgid ""
 "It's an old saying: \"We make war that we may live\n"
 "in peace.\"\n"
 msgstr ""
+"有句老话：「我们发动战争，\n"
+"是为了能生活在和平中。」\n"
 
 #: codec/1/195/0xc3d40/9
 msgid ""
 "Who said it?\n"
 msgstr ""
+"谁说的？\n"
 
 #: codec/1/195/0xc3d40/10
 msgid ""
 "Aristotle.\n"
 msgstr ""
+"亚里士多德。\n"
 
 #: codec/1/195/0xc3d40/11
 msgid ""
 "You know your history.\n"
 msgstr ""
+"你很懂历史。\n"
 
 #: codec/1/195/0xc3d40/12
 msgid ""
 "I had a good teacher.\n"
 msgstr ""
+"我有个好老师。\n"
 
 #: codec/1/196/0xc4280/0
 msgid ""
@@ -2165,23 +2136,29 @@ msgstr ""
 msgid ""
 "Claymores are directional anti-personnel landmines.\n"
 msgstr ""
+"阔刀地雷是定向杀伤人员地雷。\n"
 
 #: codec/1/197/0xc5eb0/1
 msgid ""
 "Their blast radius is approximately 70 vara (60 yd),\n"
 msgstr ""
+"杀伤半径约70瓦拉（60码），\n"
 
 #: codec/1/197/0xc5eb0/2
 msgid ""
 "sending over 700 metal fragments through the air\n"
 "at a 60º angle.\n"
 msgstr ""
+"以60度角抛射出\n"
+"700多枚金属破片。\n"
 
 #: codec/1/197/0xc5eb0/3
 msgid ""
 "But since they're directional, you can simply disarm\n"
 "them from their blind side.\n"
 msgstr ""
+"不过因为它是定向的，\n"
+"从背面就能直接拆除。\n"
 
 #: codec/1/198/0xc62d0/0
 msgid ""
@@ -2417,22 +2394,27 @@ msgstr ""
 msgid ""
 "La CIA calls their new toy Peace Walker, eh?\n"
 msgstr ""
+"中情局把他们的新玩具叫和平行者？\n"
 
 #: codec/1/198/0xc6ed0/1
 msgid ""
 "Yeah... So?\n"
 msgstr ""
+"是啊……怎么了？\n"
 
 #: codec/1/198/0xc6ed0/2
 msgid ""
 "It is a insult to us Nicos.\n"
 msgstr ""
+"这对我们尼加拉瓜人是种侮辱。\n"
 
 #: codec/1/198/0xc6ed0/3
 msgid ""
 "Because of the guy you were talking about?\n"
 "Walker?\n"
 msgstr ""
+"因为你们说的\n"
+"那个人？沃克？\n"
 
 #: codec/1/199/0xc76f0/0
 msgid ""
@@ -3055,3 +3037,71 @@ msgid ""
 msgstr ""
 "对桑地诺\n"
 "指挥官也不会有别的期待。\n"
+
+#: codec/1/201/0xc91f0/7
+msgid ""
+"Enough flattery.\n"
+msgstr ""
+"别拍马屁。\n"
+
+#: codec/1/201/0xc91f0/8
+msgid ""
+"But seriously, it does not feel right for me to be\n"
+"sitting here while my compas are out risking their\n"
+"lives.\n"
+msgstr ""
+"但说真的，战友们在外\n"
+"拼命，我却坐在这里，\n"
+"心里不是滋味。\n"
+
+#: codec/1/201/0xc91f0/9
+msgid ""
+"One thing's for sure. Having you out in the field\n"
+"would be a big boost to Sandinista morale.\n"
+msgstr ""
+"有一点可以肯定。有你亲临前线，\n"
+"会大大鼓舞桑地诺的士气。\n"
+
+#: codec/1/201/0xc91f0/10
+msgid ""
+"Of course, our ultimate goal is still the overthrow\n"
+"of Somoza.\n"
+msgstr ""
+"当然，我们的最终目标仍然是推翻\n"
+"索摩查。\n"
+
+#: codec/1/201/0xc91f0/11
+msgid ""
+"But until we get ourselves back in order, we will\n"
+"follow your lead, wherever it takes us.\n"
+msgstr ""
+"但在我们重整旗鼓之前，我们会\n"
+"追随你的领导，无论去向何方。\n"
+
+#: codec/1/201/0xc91f0/12
+msgid ""
+"Glad to have you on board.\n"
+msgstr ""
+"很高兴你加入。\n"
+
+#: codec/1/201/0xc9700/0
+msgid ""
+"Amanda, you getting used to Mother Base?\n"
+msgstr ""
+"阿曼达，在母基地还习惯吗？\n"
+
+#: codec/1/201/0xc9700/1
+msgid ""
+"Yes, it is Heaven compared to living in the\n"
+"mountains.\n"
+msgstr ""
+"是啊，比起山里，\n"
+"这里就是天堂。\n"
+
+#: codec/1/201/0xc9700/2
+msgid ""
+"We're no longer constantly on the run from la\n"
+"Guardia or mercenaries.\n"
+msgstr ""
+"我们不再需要时刻躲避国民警卫队\n"
+"或雇佣兵了。\n"

@@ -9,88 +9,6 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
-#. speaker 0x0e28dce6 voice v_bri_chc0080_020_0
-#. timeline 459..1393
-#: codec/1/211/0xd3310/0
-msgid ""
-"Gotta admit, I've never heard of Mono Grande.\n"
-msgstr ""
-"说实话，我没听过大脚怪。\n"
-
-#. speaker 0x0e559953 voice v_bri_chc0080_020_0
-#. timeline 1407..2814
-#: codec/1/211/0xd3310/1
-msgid ""
-"Yeah, he's not as famous as Bigfoot. He's similar,\n"
-"but he lives in Venezuela.\n"
-msgstr ""
-"对，他没大脚怪那么出名。很像，\n"
-"但他住在委内瑞拉。\n"
-
-#. speaker 0x0e559953 voice v_bri_chc0080_020_0
-#. timeline 2856..3622
-#: codec/1/211/0xd3310/2
-msgid ""
-"He's not that big - less than two vara (5.5 ft)\n"
-msgstr ""
-"他没那么大——不到两巴拉（5.5英尺）\n"
-
-#. speaker 0x0e559953 voice v_bri_chc0080_020_0
-#. timeline 3678..4374
-#: codec/1/211/0xd3310/3
-msgid ""
-"- but he's way more ferocious than Bigfoot.\n"
-msgstr ""
-"——但比大脚怪凶残多了。\n"
-
-#. speaker 0x0e559953 voice v_bri_chc0080_020_0
-#. timeline 4820..6199
-#: codec/1/211/0xd3310/4
-msgid ""
-"I wonder just how mean he is? Like when he\n"
-"catches his prey, does he punch it to death...?\n"
-msgstr ""
-"不知道他到底多凶？比如抓到猎物时，\n"
-"会不会把它揍死……？\n"
-
-#. speaker 0x0e28dce6 voice v_bri_chc0080_020_0
-#. timeline 6213..7941
-#: codec/1/211/0xd3310/5
-msgid ""
-"That's the law of the wild: you catch your prey,\n"
-"you kill it, and you eat it.\n"
-msgstr ""
-"这就是丛林法则：抓住猎物，\n"
-"杀死它，然后吃掉。\n"
-
-#. speaker 0x0e559953 voice v_bri_chc0080_020_0
-#. timeline 7955..8888
-#: codec/1/211/0xd3310/6
-msgid ""
-"Yeah! Yeah! But punching is way more ferocious\n"
-"than biting.\n"
-msgstr ""
-"对！对！但拳打可比嘴咬凶狠多了\n"
-"。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_chc0080_020_0
-#. timeline 9083..10017
-#: codec/1/211/0xd3310/7
-msgid ""
-"Maybe it seems that way because that's what\n"
-"humans do.\n"
-msgstr ""
-"也许因为人类这么干，\n"
-"才显得凶残。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_chc0080_020_0
-#. timeline 10044..10783
-#: codec/1/211/0xd3310/8
-msgid ""
-"...You really love UMAs, don't you, Chico?\n"
-msgstr ""
-"……你真的很喜欢未知生物啊，奇科？\n"
-
 #. speaker 0x0e559953 voice v_bri_chc0080_020_0
 #. timeline 10811..11953
 #: codec/1/211/0xd3310/9
@@ -555,12 +473,16 @@ msgid ""
 "UFOs kidnap people, too - you know, alien\n"
 "abductions.\n"
 msgstr ""
+"UFO也会绑架人类，\n"
+"就是所谓的外星人劫持。\n"
 
 #: codec/1/212/0xd4f20/1
 msgid ""
 "You've heard of the Hill Abduction, right? That\n"
 "couple back in the 60s.\n"
 msgstr ""
+"你听说过希尔夫妇劫持案吧？\n"
+"就是60年代的那对夫妇。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0100_030_0
 #. timeline 459..1532
@@ -809,39 +731,50 @@ msgid ""
 "Snake, legend has it a place called Isla del\n"
 "Monstruo is near Costa Rica.\n"
 msgstr ""
+"Snake，传说哥斯达黎加附近\n"
+"有个叫怪物岛的地方。\n"
 
 #: codec/1/213/0xd5dd0/1
 msgid ""
 "Isla del Monstruo?\n"
 msgstr ""
+"怪物岛？\n"
 
 #: codec/1/213/0xd5dd0/2
 msgid ""
 "It was discovered in the 18th century by\n"
 "Caribbean pirates sailing over to the Pacific.\n"
 msgstr ""
+"18世纪时，前往太平洋的\n"
+"加勒比海盗发现了它。\n"
 
 #: codec/1/213/0xd5dd0/3
 msgid ""
 "And the island in \"Treasure Island\" - it's based on\n"
 "one near Costa Rica, too.\n"
 msgstr ""
+"《金银岛》里的那座岛，\n"
+"原型也在哥斯达黎加附近。\n"
 
 #: codec/1/213/0xd5dd0/4
 msgid ""
 "\"Treasure Island?\" I remember reading that.\n"
 msgstr ""
+"《金银岛》？我记得读过。\n"
 
 #: codec/1/213/0xd5dd0/5
 msgid ""
 "You've read it too? That makes things easier.\n"
 msgstr ""
+"你也读过？那就好说了。\n"
 
 #: codec/1/213/0xd5dd0/6
 msgid ""
 "In Nicaragua we too have a story about a group of\n"
 "pirates that encountered\n"
 msgstr ""
+"我们尼加拉瓜也有个传说，\n"
+"讲一群海盗遭遇了……\n"
 
 #: codec/1/214/0xd63b0/0
 msgid ""
@@ -1047,44 +980,55 @@ msgstr ""
 msgid ""
 "I used to have this book full of pirate lore.\n"
 msgstr ""
+"我以前有本讲海盗传说的书。\n"
 
 #: codec/1/214/0xd6dc0/1
 msgid ""
 "It had this story about Rathalos, King of the Skies.\n"
 msgstr ""
+"书里写了天空之王火龙的传说。\n"
 
 #: codec/1/214/0xd6dc0/2
 msgid ""
 "Most accounts describe it as a dragon with wings,\n"
 "or a wyvern.\n"
 msgstr ""
+"多数记载说它是有翼的龙，\n"
+"或者说是双足飞龙。\n"
 
 #: codec/1/214/0xd6dc0/3
 msgid ""
 "A wyvern... A two-legged dragon. Vlad the Impaler's\n"
 "coat of arms had one on it.\n"
 msgstr ""
+"双足飞龙……两条腿的龙。\n"
+"穿刺公弗拉德的纹章上就有。\n"
 
 #: codec/1/214/0xd6dc0/4
 msgid ""
 "Yeah, and he was the model for Count Dracula.\n"
 msgstr ""
+"对，他还是德古拉伯爵的原型。\n"
 
 #: codec/1/214/0xd6dc0/5
 msgid ""
 "There are reports of ships being attacked out in\n"
 "the middle of the ocean,\n"
 msgstr ""
+"有报告称船只在\n"
+"大洋中央遭到袭击，\n"
 
 #: codec/1/214/0xd6dc0/6
 msgid ""
 "so Rathalos must be able to fly great distances.\n"
 msgstr ""
+"所以火龙一定能长距离飞行。\n"
 
 #: codec/1/214/0xd6dc0/7
 msgid ""
 "And what's more, Rathalos is said to breathe fire!\n"
 msgstr ""
+"而且据说火龙还会喷火！\n"
 
 #: codec/1/215/0xd71b0/0
 msgid ""
@@ -1659,69 +1603,86 @@ msgid ""
 "Amanda is so bossy. It's always \"Follow me\" or\n"
 "\"Stay here.\"\n"
 msgstr ""
+"阿曼达太爱发号施令了，\n"
+"不是「跟我来」就是「待在这儿」。\n"
 
 #: codec/1/216/0xd8d60/1
 msgid ""
 "The other day she told me, \"Chew your gallo pinto\n"
 "before you swallow.\"\n"
 msgstr ""
+"前两天她还跟我说：\n"
+"「把豆饭嚼碎了再咽。」\n"
 
 #: codec/1/216/0xd8d60/2
 msgid ""
 "Can you believe it?\n"
 msgstr ""
+"你能信吗？\n"
 
 #: codec/1/216/0xd8d60/3
 msgid ""
 "Knowing your sister? Yeah, I can.\n"
 msgstr ""
+"你姐姐的性子？我信。\n"
 
 #: codec/1/216/0xd8d60/4
 msgid ""
 "The enemy could strike at any time.\n"
 msgstr ""
+"敌人随时可能来袭。\n"
 
 #: codec/1/216/0xd8d60/5
 msgid ""
 "I can't sit around taking my sweet time eating!\n"
 msgstr ""
+"我哪能慢悠悠地坐着吃饭！\n"
 
 #: codec/1/216/0xd8d60/6
 msgid ""
 "I'm a Sandinista just like the others.\n"
 msgstr ""
+"我跟其他人一样是桑地诺主义者。\n"
 
 #: codec/1/216/0xd8d60/7
 msgid ""
 "I don't need some woman telling me what to do!\n"
 msgstr ""
+"用不着一个女人来指使我！\n"
 
 #: codec/1/216/0xd8d60/8
 msgid ""
 "...Some woman? She's your sister,\n"
 msgstr ""
+"……一个女人？她是你姐姐，\n"
 
 #: codec/1/216/0xd8d60/9
 msgid ""
 "and she's doing the best she can to fill your\n"
 "father's shoes.\n"
 msgstr ""
+"她已经在尽力\n"
+"接替你父亲的位置了。\n"
 
 #: codec/1/216/0xd8d60/10
 msgid ""
 "I know, I know, but... lately, she hasn't been doing\n"
 "so good.\n"
 msgstr ""
+"我知道，我知道，可是……\n"
+"最近她状态不太好。\n"
 
 #: codec/1/216/0xd8d60/11
 msgid ""
 "I... Should be strong for her.\n"
 msgstr ""
+"我……该为她坚强起来。\n"
 
 #: codec/1/216/0xd8d60/12
 msgid ""
 "Now you're talking.\n"
 msgstr ""
+"这才像话。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_chc0020_000_0
 #. timeline 459..891
@@ -2078,11 +2039,14 @@ msgid ""
 "Hey Snake, are there any jobs for me here at\n"
 "Mother Base? I can do anything!\n"
 msgstr ""
+"Snake，母基地有我能做的活吗？\n"
+"我什么都能干！\n"
 
 #: codec/1/217/0xd9f30/1
 msgid ""
 "You don't have to work, you know.\n"
 msgstr ""
+"你不用工作也没关系。\n"
 
 #: codec/1/218/0xda210/0
 msgid ""
@@ -2673,110 +2637,140 @@ msgid ""
 "Let's say, hypothetically, there really was an\n"
 "intelligent machine.\n"
 msgstr ""
+"假设真的存在\n"
+"有智能的机器。\n"
 
 #: codec/1/219/0xdbb50/1
 msgid ""
 "How would you prove it?\n"
 msgstr ""
+"你要怎么证明？\n"
 
 #: codec/1/219/0xdbb50/2
 msgid ""
 "What's the difference between a high-level\n"
 "computer and an AI?\n"
 msgstr ""
+"高性能计算机和AI\n"
+"有什么区别？\n"
 
 #: codec/1/219/0xdbb50/3
 msgid ""
 "It depends on what you choose to define as\n"
 "intelligence...\n"
 msgstr ""
+"这取决于你如何\n"
+"定义「智能」……\n"
 
 #: codec/1/219/0xdbb50/4
 msgid ""
 "For example, Snake, listen to my voice talking to\n"
 "you now. Suppose it were an AI?\n"
 msgstr ""
+"比如Snake，你现在听着我的声音。\n"
+"假如我是AI呢？\n"
 
 #: codec/1/219/0xdbb50/5
 msgid ""
 "Say what?\n"
 msgstr ""
+"什么？\n"
 
 #: codec/1/219/0xdbb50/6
 msgid ""
 "What if the living, breathing me, sitting here\n"
 "drinking tea and talking to you,\n"
 msgstr ""
+"假如这个有血有肉、\n"
+"坐着喝茶跟你说话的我，\n"
 
 #: codec/1/219/0xdbb50/7
 msgid ""
 "were actually an AI, programmed to simulate my\n"
 "thoughts and my voice?\n"
 msgstr ""
+"其实是个AI，\n"
+"被设定来模仿我的思想和声音？\n"
 
 #: codec/1/219/0xdbb50/8
 msgid ""
 "You're nuts.\n"
 msgstr ""
+"你疯了。\n"
 
 #: codec/1/219/0xdbb50/9
 msgid ""
 "No, I'm not. You couldn't prove I was a real human\n"
 "being, could you?\n"
 msgstr ""
+"我没疯。你也证明不了\n"
+"我是真正的人类，对吧？\n"
 
 #: codec/1/219/0xdbb50/10
 msgid ""
 "It'd be... No.\n"
 msgstr ""
+"那……不会。\n"
 
 #: codec/1/219/0xdbb50/11
 msgid ""
 "Hm. So if an AI is so advanced you can't tell it\n"
 "from the real thing,\n"
 msgstr ""
+"嗯。那么如果AI先进到\n"
+"你分不清真假，\n"
 
 #: codec/1/219/0xdbb50/12
 msgid ""
 "wouldn't you call that intelligence?\n"
 msgstr ""
+"那不就是智能吗？\n"
 
 #: codec/1/219/0xdbb50/13
 msgid ""
 "I'm not quite convinced.\n"
 msgstr ""
+"我还是不太信服。\n"
 
 #: codec/1/219/0xdbb50/14
 msgid ""
 "But that's only one way to look at it.\n"
 msgstr ""
+"不过这也只是一种看法。\n"
 
 #: codec/1/219/0xdbb50/15
 msgid ""
 "It's roughly how Dr. Turing explained artificial\n"
 "intelligence.\n"
 msgstr ""
+"这大致就是图灵博士\n"
+"对人工智能的解释。\n"
 
 #: codec/1/219/0xdbb50/16
 msgid ""
 "The test I described is called the Turing Test in his\n"
 "honor.\n"
 msgstr ""
+"我说的那个测试，\n"
+"为纪念他而叫图灵测试。\n"
 
 #: codec/1/219/0xdbb50/17
 msgid ""
 "Yeah, well, it sounds like a bad joke to me.\n"
 msgstr ""
+"哼，我听着像个拙劣的玩笑。\n"
 
 #: codec/1/219/0xdbb50/18
 msgid ""
 "That singing monster of yours put me through hell.\n"
 msgstr ""
+"你那只唱歌的怪物可把我害惨了。\n"
 
 #: codec/1/219/0xdbb50/19
 msgid ""
 "If I never meet one again, it'll be too soon.\n"
 msgstr ""
+"最好再也别让我碰上。\n"
 
 #: codec/1/220/0xdc290/0
 msgid ""
@@ -3019,3 +3013,81 @@ msgid ""
 "It can't turn to anyone else for advice.\n"
 msgstr ""
 "它不能向任何人求助。\n"
+
+#. speaker 0x0ebd8542 voice v_bri_dsl0030_000_1
+#. timeline 13207..14781
+#: codec/1/220/0xdc990/12
+msgid ""
+"It can't do its job if it's not prepared to take sole\n"
+"responsibility for the fate of the world.\n"
+msgstr ""
+"若没准备好独自为世界命运\n"
+"担责，它就无法履职。\n"
+
+#. speaker 0x0ebd8542 voice v_bri_dsl0030_000_1
+#. timeline 14879..15840
+#: codec/1/220/0xdc990/13
+msgid ""
+"I know of no other human being who could bear\n"
+"that burden.\n"
+msgstr ""
+"我不知道还有哪个人类能承受\n"
+"这重担。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_dsl0030_000_1
+#. timeline 15868..16091
+#: codec/1/220/0xdc990/14
+msgid ""
+"...That's it?\n"
+msgstr ""
+"……就这样？\n"
+
+#. speaker 0x0ebd8542 voice v_bri_dsl0030_000_1
+#. timeline 16133..17818
+#: codec/1/220/0xdc990/15
+msgid ""
+"There were technical considerations, of course. To\n"
+"begin with, the female brain\n"
+msgstr ""
+"当然，也有技术上的考量。首先，\n"
+"女性的大脑\n"
+
+#. speaker 0x0ebd8542 voice v_bri_dsl0030_000_1
+#. timeline 17902..18543
+#: codec/1/220/0xdc990/16
+msgid ""
+"is a more appropriate model for an AI.\n"
+msgstr ""
+"更适合作为AI的模型。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_dsl0030_000_1
+#. timeline 18543..19365
+#: codec/1/220/0xdc990/17
+msgid ""
+"Wait...the female brain?\n"
+msgstr ""
+"等等……女性大脑？\n"
+
+#: codec/1/221/0xdda20/0
+msgid ""
+"Is it really necessary to make machines think like\n"
+"humans?\n"
+msgstr ""
+"真有必要让机器\n"
+"像人一样思考吗？\n"
+
+#: codec/1/221/0xdda20/1
+msgid ""
+"I'd think empathy would get in the way of making\n"
+"the decision to retaliate.\n"
+msgstr ""
+"我觉得同理心反而会妨碍\n"
+"做出反击的决定。\n"
+
+#: codec/1/221/0xdda20/2
+msgid ""
+"I admit, human thought may not be fully compatible\n"
+"with level-headed decision making.\n"
+msgstr ""
+"我承认，人类思维未必\n"
+"完全适合理性决策。\n"

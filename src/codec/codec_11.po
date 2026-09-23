@@ -9,156 +9,6 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
-#: codec/1/255/0xff000/4
-msgid ""
-"Well, next time you see her, make sure she gets it.\n"
-msgstr ""
-"下次见到她，务必交给她。\n"
-
-#: codec/1/255/0xff000/5
-msgid ""
-"Oh, yeah, sure.\n"
-msgstr ""
-"哦，好。\n"
-
-#: codec/1/255/0xff000/6
-msgid ""
-"Better for you if she doesn't...\n"
-msgstr ""
-"她没看对你更好……\n"
-
-#: codec/1/255/0xff000/7
-#: codec/2/904/0x388570/1
-#: codec/2/907/0x38b170/17
-msgid ""
-"Snake!\n"
-msgstr ""
-"SNAKE！\n"
-
-#: codec/1/255/0xff000/9
-msgid ""
-"Tell me you didn't read the letter.\n"
-msgstr ""
-"别告诉我你看了那封信。\n"
-
-#: codec/1/255/0xff000/10
-msgid ""
-"N-no...\n"
-msgstr ""
-"没、没有……\n"
-
-#: codec/1/255/0xff000/11
-msgid ""
-"You did!\n"
-msgstr ""
-"你看了！\n"
-
-#: codec/1/255/0xff000/12
-msgid ""
-"I mean...\n"
-msgstr ""
-"我是说……\n"
-
-#: codec/1/255/0xff000/13
-msgid ""
-"You never know what kind of information could\n"
-"affect the outcome of an operation, right?\n"
-msgstr ""
-"你永远不知道什么样的信息会\n"
-"影响行动的结局，对吧？\n"
-
-#: codec/1/255/0xff000/14
-msgid ""
-"So I...\n"
-msgstr ""
-"所以我……\n"
-
-#: codec/1/255/0xff000/15
-msgid ""
-"So you read the letter. After I specifically told you\n"
-"not to!\n"
-msgstr ""
-"所以你还是看了那封信。我明确\n"
-"说过别看！\n"
-
-#: codec/1/255/0xff000/16
-msgid ""
-"...What do you expect people to do when you tell\n"
-"them not to read something...?\n"
-msgstr ""
-"……你叫别人别看某样东西时，\n"
-"觉得他们会怎么做……？\n"
-
-#: codec/1/255/0xff000/17
-msgid ""
-"I thought I knew you, Snake! I thought I could trust\n"
-"you!!\n"
-msgstr ""
-"我以为我了解你，Snake！我以为能信\n"
-"你！！\n"
-
-#: codec/1/255/0xff000/18
-msgid ""
-"But now I see I was wrong!\n"
-msgstr ""
-"现在看来我错了！\n"
-
-#: codec/1/255/0xff000/19
-msgid ""
-"...Look, I'm sorry. But I just don't get what you see\n"
-"in her.\n"
-msgstr ""
-"……抱歉。可我不懂你看上\n"
-"她哪点。\n"
-
-#: codec/1/255/0xff000/20
-msgid ""
-"Well, I wouldn't expect a barbarian who opens\n"
-msgstr ""
-"哼，不指望拆信的野蛮人\n"
-
-#: codec/1/255/0xff000/21
-msgid ""
-"other people's private correspondence to\n"
-"understand.\n"
-msgstr ""
-"别人的私人信件\n"
-"去理解。\n"
-
-#: codec/1/255/0xff000/22
-msgid ""
-"Fine, then. Deliver it yourself.\n"
-msgstr ""
-"行，那你自己去送吧。\n"
-
-#: codec/1/255/0xff000/23
-msgid ""
-"Huh?! N-no, I... No way, I could never...\n"
-msgstr ""
-"啊？！不、不行，我……我做不到……\n"
-
-#: codec/1/255/0xff000/24
-msgid ""
-"You've got a long way to go, Huey...\n"
-msgstr ""
-"你还差得远呢，休伊……\n"
-
-#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
-#. timeline 445..1476
-#: codec/1/255/0xff720/0
-msgid ""
-"You ever see the movie \"2001: A Space Odyssey\"?\n"
-msgstr ""
-"你看过《2001太空漫游》吗？\n"
-
-#. speaker 0x0e28dce6 voice v_bri_huy0190_000_0
-#. timeline 1476..1852
-#: codec/1/255/0xff720/1
-msgid ""
-"Can't say I have.\n"
-msgstr ""
-"没看过。\n"
-
 #. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
 #. timeline 1852..3301
 #: codec/1/255/0xff720/2
@@ -324,41 +174,54 @@ msgid ""
 "The Pupa increases its mobility by using\n"
 "compressed air to hover its rear section.\n"
 msgstr ""
+"Pupa靠压缩空气悬浮后部\n"
+"来提高机动性。\n"
 
 #: codec/1/255/0xffda0/1
 msgid ""
 "It moves by means of its treads and boosters.\n"
 msgstr ""
+"它靠履带和助推器移动。\n"
 
 #: codec/1/255/0xffda0/2
 msgid ""
 "Those boosters also provide the propulsion needed\n"
 "for high-speed movement.\n"
 msgstr ""
+"助推器还提供高速移动\n"
+"所需的推进力。\n"
 
 #: codec/1/255/0xffda0/3
 msgid ""
 "So if I take out the boosters, it won't be able to\n"
 "charge?\n"
 msgstr ""
+"那么打掉助推器，\n"
+"它就无法冲锋了？\n"
 
 #: codec/1/255/0xffda0/5
 msgid ""
 "I suppose you could also avoid its attacks by lying\n"
 "down beneath it...\n"
 msgstr ""
+"或者躺在它下面\n"
+"也能躲开攻击……\n"
 
 #: codec/1/255/0xffda0/6
 msgid ""
 "The Pupa is also equipped with electrical shock\n"
 "units.\n"
 msgstr ""
+"Pupa还装备了\n"
+"电击装置。\n"
 
 #: codec/1/255/0xffda0/7
 msgid ""
 "It uses these devices - they look like lightning rods\n"
 "- to direct discharge.\n"
 msgstr ""
+"它用这些形似避雷针的装置\n"
+"来定向放电。\n"
 
 #: codec/1/256/0x1003f0/0
 msgid ""
@@ -1047,735 +910,917 @@ msgid ""
 "I'm about to leave for Costa Rica, a place\n"
 "completely unfamiliar to me.\n"
 msgstr ""
+"我即将前往哥斯达黎加，\n"
+"一个完全陌生的地方。\n"
 
 #: codec/1/258/0x102280/1
 msgid ""
 "And on a top-secret mission for the CIA, no less.\n"
 msgstr ""
+"而且还是为中情局执行绝密任务。\n"
 
 #: codec/1/258/0x102280/2
 msgid ""
 "No guarantees I'll come back alive. Might even get\n"
 "rubbed out by the CIA itself.\n"
 msgstr ""
+"能不能活着回来没有保证，\n"
+"甚至可能被中情局灭口。\n"
 
 #: codec/1/258/0x102280/3
 msgid ""
 "So I'm leaving behind this record, for her sake... for\n"
 "The Boss' honor.\n"
 msgstr ""
+"所以我留下这份记录，为她……\n"
+"也为The Boss的荣光。\n"
 
 #: codec/1/258/0x102280/4
 msgid ""
 "Ever since I was a child, I've loved to look up at\n"
 "the night sky.\n"
 msgstr ""
+"从小我就喜欢\n"
+"仰望夜空。\n"
 
 #: codec/1/258/0x102280/5
 msgid ""
 "I'd go outside after sunset and drink in the cold air.\n"
 msgstr ""
+"日落后出门，呼吸寒冷的空气。\n"
 
 #: codec/1/258/0x102280/6
 msgid ""
 "The moon, Venus, so many stars floating on the\n"
 "edge of infinity...\n"
 msgstr ""
+"月亮、金星，无数星辰\n"
+"漂浮在无垠的边际……\n"
 
 #: codec/1/258/0x102280/7
 msgid ""
 "In Manchester, it wasn't very often you saw the\n"
 "night sky in all its star-studded glory.\n"
 msgstr ""
+"在曼彻斯特，很少能见到\n"
+"满天繁星的夜空。\n"
 
 #: codec/1/258/0x102280/8
 msgid ""
 "But it was enough to stir a deep longing inside me.\n"
 msgstr ""
+"但那已足以唤起我深深的向往。\n"
 
 #: codec/1/258/0x102280/9
 msgid ""
 "Even as others cowered beneath Nazi air raids,\n"
 msgstr ""
+"即使在别人躲着纳粹空袭时，\n"
 
 #: codec/1/258/0x102280/10
 msgid ""
 "I was out there watching the skies, dreaming of\n"
 "one day reaching the heavens.\n"
 msgstr ""
+"我也在外面仰望天空，\n"
+"梦想有朝一日飞向太空。\n"
 
 #: codec/1/258/0x102280/11
 msgid ""
 "There were, of course, more practical concerns.\n"
 msgstr ""
+"当然，还有更现实的原因。\n"
 
 #: codec/1/258/0x102280/12
 msgid ""
 "My skin was incredibly sensitive. Even the slightest\n"
 "bit of sun would turn it an angry shade of red.\n"
 msgstr ""
+"我的皮肤异常敏感，\n"
+"稍微晒点太阳就会红肿发炎。\n"
 
 #: codec/1/258/0x102280/13
 msgid ""
 "Playing outside during the day was completely out\n"
 "of the question.\n"
 msgstr ""
+"白天在外面玩\n"
+"根本不可能。\n"
 
 #: codec/1/258/0x102280/14
 msgid ""
 "Naturally, I hardly ever had the chance to play with\n"
 "other children my age.\n"
 msgstr ""
+"自然，我几乎没机会\n"
+"和同龄的孩子一起玩。\n"
 
 #: codec/1/258/0x102280/15
 msgid ""
 "But I never felt lonely for it.\n"
 msgstr ""
+"但我并不觉得寂寞。\n"
 
 #: codec/1/258/0x102280/16
 msgid ""
 "Their way of thinking was irrational, making them\n"
 "simple, easy to predict.\n"
 msgstr ""
+"他们的思维毫无逻辑，\n"
+"简单又容易预测。\n"
 
 #: codec/1/258/0x102280/17
 msgid ""
 "The boys would talk of tanks and aeroplanes and\n"
 "creepy, crawly bugs...\n"
 msgstr ""
+"男孩们谈论坦克、飞机\n"
+"和爬来爬去的小虫……\n"
 
 #: codec/1/258/0x102280/18
 msgid ""
 "the girls of pretty dresses, glass beads and tea\n"
 "and cakes. Of boys they liked...\n"
 msgstr ""
+"女孩们谈论漂亮的裙子、玻璃珠、\n"
+"茶点，还有喜欢的男生……\n"
 
 #: codec/1/258/0x102280/19
 msgid ""
 "I never had much to say on such matters.\n"
 msgstr ""
+"这些话题我无话可说。\n"
 
 #: codec/1/258/0x102280/20
 msgid ""
 "The curious thing is, adults really aren't all that\n"
 "different.\n"
 msgstr ""
+"奇怪的是，大人其实\n"
+"也没什么两样。\n"
 
 #: codec/1/258/0x102280/21
 msgid ""
 "They're simple, capricious. Especially men.\n"
 msgstr ""
+"他们简单又善变。男人尤其如此。\n"
 
 #: codec/1/258/0x102280/22
 msgid ""
 "As they get older, their heads fill with thoughts of\n"
 "women and more women.\n"
 msgstr ""
+"年纪越大，他们脑子里\n"
+"就越是塞满了女人。\n"
 
 #: codec/1/258/0x102280/23
 msgid ""
 "Thankfully, I always did have a head for\n"
 "mathematics.\n"
 msgstr ""
+"好在我在数学上\n"
+"一直很有天分。\n"
 
 #: codec/1/258/0x102280/24
 msgid ""
 "When I was about ten, I'd visit a Dr. Turing, who\n"
 "lived nearby.\n"
 msgstr ""
+"十岁左右，我常去拜访\n"
+"住在附近的图灵博士。\n"
 
 #: codec/1/258/0x102280/25
 msgid ""
 "We'd sit and discuss mathematical logic.\n"
 msgstr ""
+"我们坐在一起讨论数理逻辑。\n"
 
 #: codec/1/258/0x102280/26
 msgid ""
 "The lights were always on at his house, even in the\n"
 "dead of night.\n"
 msgstr ""
+"他家总是亮着灯，\n"
+"即使在深夜。\n"
 
 #: codec/1/258/0x102280/27
 msgid ""
 "\"Theoretically,\" he'd say, \"there's no algorithm that\n"
 "a computing machine couldn't reproduce.\"\n"
 msgstr ""
+"「从理论上讲，」他常说，\n"
+"「没有计算机无法复现的算法。」\n"
 
 #: codec/1/258/0x102280/28
 msgid ""
 "Dr. Turing wasn't foolish like other men,\n"
 msgstr ""
+"图灵博士不像别的男人那么愚蠢，\n"
 
 #: codec/1/258/0x102280/29
 msgid ""
 "although I didn't find out why until later... after he\n"
 "died.\n"
 msgstr ""
+"尽管我是很久以后，\n"
+"在他死后才知道原因……\n"
 
 #: codec/1/258/0x102280/30
 msgid ""
 "\"The time will come,\" he'd say, \"when computers will\n"
 "be able to think for themselves.\"\n"
 msgstr ""
+"「总有一天，」他常说，\n"
+"「计算机能自己思考。」\n"
 
 #: codec/1/258/0x102280/31
 msgid ""
 "That idea rocked me to my core.\n"
 msgstr ""
+"这个想法深深震撼了我。\n"
 
 #: codec/1/258/0x102280/32
 msgid ""
 "My aptitude for mathematics brought me closer to\n"
 "the stars.\n"
 msgstr ""
+"我的数学天赋\n"
+"让我离星星更近。\n"
 
 #: codec/1/258/0x102280/33
 msgid ""
 "I breezed through school, then went to America for\n"
 "university.\n"
 msgstr ""
+"我一路跳级，\n"
+"又去美国念了大学。\n"
 
 #: codec/1/258/0x102280/34
 msgid ""
 "While I was studying at Caltech, NASA was\n"
 "established.\n"
 msgstr ""
+"我在加州理工读书时，\n"
+"NASA成立了。\n"
 
 #: codec/1/258/0x102280/35
 msgid ""
 "I signed up in a heartbeat.\n"
 msgstr ""
+"我立刻报了名。\n"
 
 #: codec/1/258/0x102280/36
 msgid ""
 "I was a pretty good computer engineer at the time,\n"
 "and NASA needed skills like mine.\n"
 msgstr ""
+"当时我是个不错的计算机工程师，\n"
+"NASA正需要我这样的技术。\n"
 
 #: codec/1/258/0x102280/37
 msgid ""
 "The work was enjoyable. Even though I'd given up\n"
 "on going into space myself,\n"
 msgstr ""
+"工作很愉快。虽然我已放弃\n"
+"自己飞上太空，\n"
 
 #: codec/1/258/0x102280/38
 msgid ""
 "it was a pleasure just being a part of it all.\n"
 msgstr ""
+"能参与其中就已足够快乐。\n"
 
 #: codec/1/258/0x102280/39
 msgid ""
 "I was assigned to Project Mercury, America's effort\n"
 "to compete with the Soviets in manned space flight.\n"
 msgstr ""
+"我被分到水星计划——美国为\n"
+"与苏联竞逐载人航天而设的项目。\n"
 
 #: codec/1/258/0x102280/40
 msgid ""
 "Seven men were chosen as pilot candidates for\n"
 "the program,\n"
 msgstr ""
+"七个人被选为\n"
+"该计划的飞行员候选人，\n"
 
 #: codec/1/258/0x102280/41
 msgid ""
 "becoming heroes overnight. People called them the\n"
 "\"Mercury Seven.\"\n"
 msgstr ""
+"一夜之间成了英雄。\n"
+"人称「水星七杰」。\n"
 
 #: codec/1/258/0x102280/42
 msgid ""
 "The project made good progress, more or less. We\n"
 "had all the funds and materials we needed.\n"
 msgstr ""
+"项目进展大体顺利，\n"
+"资金和物资都很充足。\n"
 
 #: codec/1/258/0x102280/43
 msgid ""
 "After countless hours of analysis, we even had\n"
 "plans for something on par with Sputnik.\n"
 msgstr ""
+"经过无数小时的分析，\n"
+"我们甚至做出了对标斯普特尼克的方案。\n"
 
 #: codec/1/258/0x102280/44
 msgid ""
 "We thought it'd be only a matter of time before we\n"
 "caught up with the Russians.\n"
 msgstr ""
-
-#: codec/1/258/0x102280/59
-msgid "w"
-msgstr ""
-
-#: codec/1/258/0x102280/74
-msgid ","
-msgstr ""
-
-#: codec/1/258/0x102280/80
-msgid "ki|Ӫ"
-msgstr ""
-
-#: codec/1/258/0x102280/82
-msgid "~"
-msgstr ""
+"我们以为追上苏联人\n"
+"只是时间问题。\n"
 
 #: codec/1/260/0x104860/0
 msgid ""
 "I spoke out against her going,\n"
 msgstr ""
+"我曾反对让她去，\n"
 
 #: codec/1/260/0x104860/1
 msgid ""
 "submitting a report stating the ray shielding was\n"
 "inadequate.\n"
 msgstr ""
+"并提交报告指出\n"
+"射线防护不足。\n"
 
 #: codec/1/260/0x104860/2
 msgid ""
 "But the brass's response was brusque:\n"
 msgstr ""
+"但上层的回复很生硬：\n"
 
 #: codec/1/260/0x104860/3
 msgid ""
 "\"She's already been exposed to a nuclear test in\n"
 "Nevada. She's the perfect candidate.\"\n"
 msgstr ""
+"「她在内华达已经经历过核试验。\n"
+"她是最佳人选。」\n"
 
 #: codec/1/260/0x104860/4
 msgid ""
 "It was completely irrational.\n"
 msgstr ""
+"这完全不讲道理。\n"
 
 #: codec/1/260/0x104860/5
 msgid ""
 "Repeated exposure to radiation would only\n"
 "increase the danger.\n"
 msgstr ""
+"反复接受辐射\n"
+"只会增加危险。\n"
 
 #: codec/1/260/0x104860/6
 msgid ""
 "But the government was still reeling from the\n"
 "Soviets' success with Sputnik.\n"
 msgstr ""
+"可政府仍被苏联的\n"
+"斯普特尼克成功打击着。\n"
 
 #: codec/1/260/0x104860/7
 msgid ""
 "There was no hope of getting a rational response.\n"
 "They were simply too panicked.\n"
 msgstr ""
+"别指望得到理性的回应。\n"
+"他们只是太慌乱了。\n"
 
 #: codec/1/260/0x104860/8
 msgid ""
 "People can be so obtuse when it comes to things\n"
 "they can't see.\n"
 msgstr ""
+"对于看不见的东西，\n"
+"人们总是如此迟钝。\n"
 
 #: codec/1/260/0x104860/9
 msgid ""
 "I, however, understood all too well.\n"
 msgstr ""
+"而我再清楚不过。\n"
 
 #: codec/1/260/0x104860/10
 msgid ""
 "Just as invisible ultraviolet radiation scorched my\n"
 "skin,\n"
 msgstr ""
+"正如看不见的紫外线\n"
+"会灼伤我的皮肤，\n"
 
 #: codec/1/260/0x104860/11
 msgid ""
 "heavy particle radiation from space would cause\n"
 "irreparable harm to human tissue.\n"
 msgstr ""
+"来自太空的重粒子辐射\n"
+"会给人体组织造成不可逆的伤害。\n"
 
 #: codec/1/260/0x104860/12
 msgid ""
 "In a word, she was expendable.\n"
 msgstr ""
+"一句话，她是可以牺牲的。\n"
 
 #: codec/1/260/0x104860/13
 msgid ""
 "It was during The Boss's pre-flight checkup\n"
 msgstr ""
+"在The Boss的飞行前体检中，\n"
 
 #: codec/1/260/0x104860/14
 msgid ""
 "that I noticed something strange on the X-ray of\n"
 "her skull.\n"
 msgstr ""
+"我发现她头骨X光片上\n"
+"有些异常。\n"
 
 #: codec/1/260/0x104860/15
 msgid ""
 "Part of the right hemisphere of her brain was\n"
 "damaged.\n"
 msgstr ""
+"她右脑的一部分\n"
+"受到了损伤。\n"
 
 #: codec/1/260/0x104860/16
 msgid ""
 "It seemed inexplicable given her keen intelligence\n"
 "and amazing physical prowess.\n"
 msgstr ""
+"以她敏锐的头脑和惊人的体能，\n"
+"这实在匪夷所思。\n"
 
 #: codec/1/260/0x104860/17
 msgid ""
 "But there it was, and I decided to report it.\n"
 msgstr ""
+"可事实就在眼前，我决定上报。\n"
 
 #: codec/1/260/0x104860/18
 msgid ""
 "I hoped that perhaps my discovery of a physical\n"
 "defect\n"
 msgstr ""
+"我希望，发现这种\n"
+"身体缺陷\n"
 
 #: codec/1/260/0x104860/19
 msgid ""
 "would result in the flight being canceled.\n"
 msgstr ""
+"能让这次飞行被取消。\n"
 
 #: codec/1/260/0x104860/20
 msgid ""
 "...But as I went to make my report, she stopped me.\n"
 msgstr ""
+"……可我正要去报告时，她拦住了我。\n"
 
 #: codec/1/260/0x104860/21
 msgid ""
 "\"Why?\" I demanded. \"How can you let yourself be\n"
 "their guinea pig?!\"\n"
 msgstr ""
+"「为什么？」我质问道。\n"
+"「你怎么能当他们的试验品？！」\n"
 
 #: codec/1/260/0x104860/22
 msgid ""
 "Ignoring my protests, she took me up to the roof\n"
 "of the lab.\n"
 msgstr ""
+"她不顾我的反对，\n"
+"把我带到了实验室天台。\n"
 
 #: codec/1/260/0x104860/23
 msgid ""
 "The night sky was ablaze with stars.\n"
 msgstr ""
+"夜空中繁星闪烁。\n"
 
 #: codec/1/260/0x104860/24
 msgid ""
 "It was there that I learned how she had wounded\n"
 "her head.\n"
 msgstr ""
+"就是在那里，我得知了\n"
+"她头部受伤的缘由。\n"
 
 #: codec/1/260/0x104860/25
 msgid ""
 "1943, Los Alamos.\n"
 msgstr ""
-
-#: codec/1/260/0x104860/29
-msgid "$"
-msgstr ""
-
-#: codec/1/260/0x104860/99
-msgid "Lwt"
-msgstr ""
+"1943年，洛斯阿拉莫斯。\n"
 
 #: codec/1/263/0x107150/0
 msgid ""
 "The days that followed were spent training\n"
 "tirelessly for our first space flight.\n"
 msgstr ""
+"接下来的日子都用来\n"
+"为首次太空飞行不懈训练。\n"
 
 #: codec/1/263/0x107150/1
 msgid ""
 "The Boss endured conditioning that tested the\n"
 "limits of human capability,\n"
 msgstr ""
+"The Boss承受着挑战\n"
+"人体极限的训练，\n"
 
 #: codec/1/263/0x107150/2
 msgid ""
 "and I supported her. Those were happy days.\n"
 msgstr ""
+"我负责支持她。那段日子很幸福。\n"
 
 #: codec/1/263/0x107150/3
 msgid ""
 "On April 12th, the spacecraft carrying The Boss\n"
 "left the Earth's atmosphere.\n"
 msgstr ""
+"4月12日，搭载The Boss的飞船\n"
+"飞出了地球大气层。\n"
 
 #: codec/1/263/0x107150/4
 msgid ""
 "Although it was only 20 minutes of ballistic flight,\n"
 "it was nothing short of miraculous,\n"
 msgstr ""
+"虽然只是20分钟的弹道飞行，\n"
+"却堪称奇迹，\n"
 
 #: codec/1/263/0x107150/5
 msgid ""
 "considering how little time we'd had. The first\n"
 "human in space. We were ecstatic.\n"
 msgstr ""
+"毕竟我们准备时间太短。\n"
+"第一个进入太空的人类。我们欣喜若狂。\n"
 
 #: codec/1/263/0x107150/6
 msgid ""
 "Then something went wrong.\n"
 msgstr ""
+"然后出了问题。\n"
 
 #: codec/1/263/0x107150/7
 msgid ""
 "The reentry angle was slightly off, warping the\n"
 "outer hull.\n"
 msgstr ""
+"再入角度略有偏差，\n"
+"外壳发生了变形。\n"
 
 #: codec/1/263/0x107150/8
 msgid ""
 "The cause was clear - it was the\n"
 "hastily-constructed window we'd installed.\n"
 msgstr ""
+"原因很清楚——\n"
+"就是那个匆忙装上的舷窗。\n"
 
 #: codec/1/263/0x107150/9
 msgid ""
 "Her capsule missed the projected splashdown point\n"
 "by a long shot.\n"
 msgstr ""
+"她的返回舱\n"
+"远远偏离了预定落点。\n"
 
 #: codec/1/263/0x107150/10
 msgid ""
 "As we raced towards the capsule, a breaking news\n"
 "broadcast came over the radio.\n"
 msgstr ""
+"我们赶往返回舱时，\n"
+"收音机里传来一条突发新闻。\n"
 
 #: codec/1/263/0x107150/11
 msgid ""
 "It was the news report of the successful launch of\n"
 "the Vostock rocket,\n"
 msgstr ""
+"那是东方号火箭\n"
+"成功发射的报道，\n"
 
 #: codec/1/263/0x107150/12
 msgid ""
 "piloted by the cosmonaut Yuri Gagarin. They'd\n"
 "beaten us into space by the slimmest of margins.\n"
 msgstr ""
+"由宇航员尤里·加加林驾驶。\n"
+"他们以微弱优势抢先进入了太空。\n"
 
 #: codec/1/263/0x107150/13
 msgid ""
 "When we arrived, the capsule had already\n"
 "disappeared beneath the waves.\n"
 msgstr ""
+"我们赶到时，返回舱\n"
+"已经沉入海浪之下。\n"
 
 #: codec/1/263/0x107150/14
 msgid ""
 "The Boss was floating on the surface.\n"
 msgstr ""
+"The Boss漂浮在海面上。\n"
 
 #: codec/1/263/0x107150/15
 msgid ""
 "I... can't really recall what happened next.\n"
 msgstr ""
+"我……记不清后来发生了什么。\n"
 
 #: codec/1/263/0x107150/16
 msgid ""
 "They told me later that I gave a strange scream\n"
 "and plunged into the sea,\n"
 msgstr ""
+"后来他们告诉我，我发出一声怪叫\n"
+"就冲进了海里，\n"
 
 #: codec/1/263/0x107150/17
 msgid ""
 "not caring whether my skin would burn.\n"
 msgstr ""
+"根本顾不上皮肤会不会灼伤。\n"
 
 #: codec/1/263/0x107150/18
 msgid ""
 "She didn't wake up.\n"
 msgstr ""
+"她没有醒来。\n"
 
 #: codec/1/263/0x107150/19
 msgid ""
 "Her entire body was bruised, burnt, scorched by\n"
 "cosmic rays.\n"
 msgstr ""
+"她全身瘀伤、烧伤，\n"
+"被宇宙射线灼烤过。\n"
 
 #: codec/1/263/0x107150/20
 #: codec/1/284/0x11c2d0/5
 msgid ""
 "It was a miracle she was still alive.\n"
 msgstr ""
+"她能活下来已是奇迹。\n"
 
 #: codec/1/263/0x107150/21
 msgid ""
 "Every day, propaganda boasting of the shining\n"
 "accomplishment flowed out of the Soviet Union.\n"
 msgstr ""
+"苏联每天都在宣传\n"
+"这项辉煌成就。\n"
 
 #: codec/1/263/0x107150/22
 msgid ""
 "The hardest part was having to read the report\n"
 "the next morning from Izvestia,\n"
 msgstr ""
+"最难受的是第二天早上\n"
+"读到《消息报》的报道，\n"
 
 #: codec/1/263/0x107150/23
 msgid ""
 "the Soviet governmental paper.\n"
 msgstr ""
+"苏联的政府机关报。\n"
 
 #: codec/1/263/0x107150/24
 msgid ""
 "Written there after the report were those\n"
 "legendary words of Major Gargarin -\n"
 msgstr ""
+"报道之后还写着\n"
+"加加林少校那句名言——\n"
 
 #: codec/1/263/0x107150/25
 msgid ""
 "\"The Earth is blue.\"\n"
 msgstr ""
+"「地球是蓝色的。」\n"
 
 #: codec/1/263/0x107150/26
 msgid ""
 "The person who should have said those words,\n"
 "though, was incapacitated, confined to a bed.\n"
 msgstr ""
+"可本该说出这句话的人，\n"
+"却卧床不起，动弹不得。\n"
 
 #: codec/1/263/0x107150/27
 msgid ""
 "NASA opted to pretend the flight had never\n"
 "happened.\n"
 msgstr ""
+"NASA决定\n"
+"当这次飞行从未发生。\n"
 
 #: codec/1/263/0x107150/28
 msgid ""
 "The Soviets had orbited a man around the Earth\n"
 "and returned him safely.\n"
 msgstr ""
+"苏联人把人送上地球轨道\n"
+"又安全接了回来。\n"
 
 #: codec/1/263/0x107150/29
 msgid ""
 "We'd barely managed to escape the atmosphere\n"
 "and achieve ballistic flight.\n"
 msgstr ""
+"而我们只是勉强冲出大气层，\n"
+"完成了弹道飞行。\n"
 
 #: codec/1/263/0x107150/30
 msgid ""
 "Even worse, the pilot was horribly mangled and\n"
 "the spacecraft lost altogether...\n"
 msgstr ""
+"更糟的是，飞行员重伤，\n"
+"飞船也彻底丢失……\n"
 
 #: codec/1/263/0x107150/31
 msgid ""
 "As they saw it,\n"
 msgstr ""
+"在他们看来，\n"
 
 #: codec/1/263/0x107150/32
 msgid ""
 "covering it up was the only alternative to seeing\n"
 "the nation's pride dealt yet another blow.\n"
 msgstr ""
+"要想不让国家颜面\n"
+"再受一次打击，只能掩盖。\n"
 
 #: codec/1/263/0x107150/33
 msgid ""
 "I've been told\n"
 msgstr ""
+"我听说\n"
 
 #: codec/1/263/0x107150/34
 msgid ""
 "military records show The Boss was taking part in\n"
 "the Bay of Pigs incident at the time.\n"
 msgstr ""
+"军方记录显示，The Boss当时\n"
+"正在参与猪湾事件。\n"
 
 #: codec/1/263/0x107150/35
 msgid ""
 "They were that desperate to erase the whole affair.\n"
 msgstr ""
+"他们急于把整件事抹得一干二净。\n"
 
 #: codec/1/263/0x107150/36
 msgid ""
 "In the end,\n"
 msgstr ""
+"结果，\n"
 
 #: codec/1/263/0x107150/37
 msgid ""
 "Alan Shepard's ballistic flight one month later\n"
 "became known as America's first space flight.\n"
 msgstr ""
+"一个月后艾伦·谢泼德的弹道飞行\n"
+"被称为美国首次太空飞行。\n"
 
 #: codec/1/263/0x107150/38
 msgid ""
 "Shepard's flight owed its success to insights\n"
 "earned through The Boss's sacrifice.\n"
 msgstr ""
+"谢泼德的成功，\n"
+"得益于The Boss牺牲换来的经验。\n"
 
 #: codec/1/263/0x107150/39
 msgid ""
 "But to me, none of that mattered. I prayed day and\n"
 "night for her recovery,\n"
 msgstr ""
+"但对我来说这些都不重要。\n"
+"我日夜祈祷她康复，\n"
 
 #: codec/1/263/0x107150/40
 msgid ""
 "never leaving her side, not even for a moment.\n"
 msgstr ""
+"片刻也不离开她身边。\n"
 
 #: codec/1/263/0x107150/41
 msgid ""
 "Then, as summer ended and the chill of winter\n"
 "approached, she spoke.\n"
 msgstr ""
+"夏去冬来，寒意渐近时，\n"
+"她开口了。\n"
 
 #: codec/1/263/0x107150/42
 msgid ""
 "\"Give me water...\"\n"
 msgstr ""
+"「给我水……」\n"
 
 #: codec/1/263/0x107150/43
 msgid ""
 "I threw myself on her breast, and she embraced me.\n"
 msgstr ""
+"我扑进她怀里，她也抱住了我。\n"
 
 #: codec/1/263/0x107150/44
 msgid ""
 "It was all I needed.\n"
 msgstr ""
+"这就足够了。\n"
 
 #: codec/1/263/0x107150/45
 msgid ""
 "I thought she would tell me about space.\n"
 msgstr ""
+"我以为她会讲太空的事。\n"
 
 #: codec/1/263/0x107150/46
 msgid ""
 "The true sky, where the stars don't twinkle.\n"
 msgstr ""
+"真正的天空，星星不会闪烁的天空。\n"
 
 #: codec/1/263/0x107150/47
 msgid ""
 "But the only thing she'd speak of was Earth.\n"
 msgstr ""
+"可她只谈地球。\n"
 
 #: codec/1/263/0x107150/48
 msgid ""
 "Our home - as she'd seen it from space. So\n"
 "fleeting, so irreplaceable.\n"
 msgstr ""
+"我们的家园——她从太空看到的模样。\n"
+"如此短暂，如此无可替代。\n"
 
 #: codec/1/263/0x107150/49
 msgid ""
 "I was ashamed. I'd been enamored for so long with\n"
 "the sky that\n"
 msgstr ""
+"我很羞愧。我迷恋天空太久，\n"
+"以至于\n"
 
 #: codec/1/263/0x107150/50
 msgid ""
 "I'd never thought to look beneath my feet... at the\n"
 "ground upon which I stood.\n"
 msgstr ""
+"从未想过低头看看……\n"
+"脚下这片土地。\n"
 
 #: codec/1/263/0x107150/51
 msgid ""
 "As soon as her rehab was over, she was gone.\n"
 msgstr ""
+"康复训练一结束，她就走了。\n"
 
 #: codec/1/263/0x107150/52
 msgid ""
 "It happened without warning. No one informed me,\n"
 "and the higher-ups wouldn't say a word.\n"
 msgstr ""
+"毫无预兆。没人通知我，\n"
+"上层也只字不提。\n"
 
 #: codec/1/263/0x107150/53
 msgid ""
 "It wasn't so strange or surprising, really.\n"
 msgstr ""
+"其实也不算奇怪。\n"
 
 #: codec/1/263/0x107150/54
 msgid ""
 "I simply assumed she was off to complete her next\n"
 "mission.\n"
 msgstr ""
+"我只当她是去执行\n"
+"下一个任务了。\n"
 
 #: codec/1/265/0x109080/0
 msgid ""
@@ -2571,3 +2616,191 @@ msgid ""
 "As I cast my line and waited for a bite,\n"
 msgstr ""
 "我抛下鱼线等鱼上钩，\n"
+
+#: codec/1/267/0x10b0e0/15
+msgid ""
+"the soldiers began to ask me all sorts of questions.\n"
+msgstr ""
+"士兵们开始问我各种问题。\n"
+
+#: codec/1/267/0x10b0e0/16
+msgid ""
+"As always,\n"
+msgstr ""
+"一如既往，\n"
+
+#: codec/1/267/0x10b0e0/17
+msgid ""
+"I answered according to our pre-defined scenario,\n"
+"feigning a smile.\n"
+msgstr ""
+"我按照我们预先设定的剧本回答，\n"
+"假装微笑。\n"
+
+#: codec/1/267/0x10b0e0/18
+msgid ""
+"As I sat there feeding them lies, the fish began to\n"
+"bite,\n"
+msgstr ""
+"我坐着灌他们谎话，鱼开始\n"
+"上钩了，\n"
+
+#: codec/1/267/0x10b0e0/19
+msgid ""
+"and the soldiers began to focus on their prey.\n"
+msgstr ""
+"士兵们也开始专注自己的猎物。\n"
+
+#: codec/1/267/0x10b0e0/20
+msgid ""
+"Chico had his bait stolen by a fish,\n"
+msgstr ""
+"奇科的鱼饵被鱼叼走了，\n"
+
+#: codec/1/267/0x10b0e0/21
+msgid ""
+"and got so angry that he stood up and nearly fell\n"
+"into the sea.\n"
+msgstr ""
+"他气得站了起来，差点\n"
+"掉进海里。\n"
+
+#: codec/1/267/0x10b0e0/22
+msgid ""
+"Everybody laughed.\n"
+msgstr ""
+"大家都笑了。\n"
+
+#: codec/1/267/0x10b0e0/23
+msgid ""
+"It almost made me want to join in, too.\n"
+msgstr ""
+"我几乎也想跟着笑。\n"
+
+#: codec/1/267/0x10b0e0/24
+msgid ""
+"At some point, I got a bite myself.\n"
+msgstr ""
+"后来，我也钓到一条。\n"
+
+#: codec/1/267/0x10b0e0/25
+msgid ""
+"The instant after I felt that first gentle tug,\n"
+msgstr ""
+"感到那轻轻一拽的瞬间，\n"
+
+#: codec/1/267/0x10b0e0/26
+msgid ""
+"the fish yanked the line with astonishing strength,\n"
+msgstr ""
+"鱼以惊人的力气猛拉鱼线，\n"
+
+#: codec/1/267/0x10b0e0/27
+msgid ""
+"and I let out a cry of surprise.\n"
+msgstr ""
+"我惊叫出声。\n"
+
+#: codec/1/267/0x10b0e0/28
+msgid ""
+"I thought it was going to be huge.\n"
+msgstr ""
+"我以为会很大。\n"
+
+#: codec/1/267/0x10b0e0/29
+msgid ""
+"It was my first time fishing, and I was a bit\n"
+"flustered,\n"
+msgstr ""
+"那是我第一次钓鱼，我有点\n"
+"手忙脚乱，\n"
+
+#: codec/1/267/0x10b0e0/30
+msgid ""
+"so the soldier beside me helped by supporting the\n"
+"pole from behind.\n"
+msgstr ""
+"于是我旁边的士兵从后面帮我撑住\n"
+"鱼竿。\n"
+
+#: codec/1/267/0x10b0e0/31
+msgid ""
+"\"Reel it in!\" they shouted.\n"
+msgstr ""
+"\"收线！\"他们喊道。\n"
+
+#: codec/1/267/0x10b0e0/32
+msgid ""
+"I nodded, turning the handle as fast as I could.\n"
+msgstr ""
+"我点点头，拼命转动手柄。\n"
+
+#: codec/1/267/0x10b0e0/33
+msgid ""
+"I wondered what kind of fish live below the surface,\n"
+msgstr ""
+"我猜水面下有什么鱼，\n"
+
+#: codec/1/267/0x10b0e0/34
+msgid ""
+"and thought back to the deep-sea dives I had to\n"
+"do as part of training.\n"
+msgstr ""
+"然后回想起训练时\n"
+"不得不做的深海潜水。\n"
+
+#: codec/1/267/0x10b0e0/35
+msgid ""
+"Those were difficult days,\n"
+msgstr ""
+"那段日子很苦，\n"
+
+#: codec/1/267/0x10b0e0/36
+msgid ""
+"but I remember finding the multi-colored fish\n"
+"gliding through the water incredibly soothing.\n"
+msgstr ""
+"但我记得发现那些五彩斑斓的鱼\n"
+"在水中滑行，令人无比舒缓。\n"
+
+#: codec/1/267/0x10b0e0/37
+msgid ""
+"After a hard fight, I pulled it up. To my surprise,\n"
+msgstr ""
+"苦战后，我拉它上来。没想到，\n"
+
+#: codec/1/267/0x10b0e0/38
+msgid ""
+"it wasn't even half a vara (16 in). Rather\n"
+"anti-climactic.\n"
+msgstr ""
+"还不到半巴拉（16英寸）。真\n"
+"扫兴。\n"
+
+#: codec/1/267/0x10b0e0/39
+msgid ""
+"But I wasn't doing it for fun, so I wasn't the least\n"
+"bit disappointed.\n"
+msgstr ""
+"但我不是为了好玩才做的，所以我一点也不\n"
+"失望。\n"
+
+#: codec/1/267/0x10b0e0/40
+msgid ""
+"Nuke was hovering nearby with an expectant look\n"
+"on his face, so I gave the fish to him.\n"
+msgstr ""
+"Nuke 带着期待的表情在附近徘徊，\n"
+"于是我把鱼给了他。\n"
+
+#: codec/1/267/0x10b0e0/41
+msgid ""
+"All in all, a thoroughly wasted day.\n"
+msgstr ""
+"总之，白费了一天。\n"
+
+#: codec/1/267/0x10be70/0
+msgid ""
+"Preparations are coming along nicely.\n"
+msgstr ""
+"准备工作进展顺利。\n"

@@ -186,6 +186,71 @@ def collect_olang(ref_langs=REF_LANGS, pixel: bool = False) -> list:
     return out
 
 
+#: 英语台词里基本不会出现的重音/标点（é è 剔除：英文里 "coup d'état" 就有）
+_FOREIGN_ACCENT = set("àâçêëîïôùûœñáíóúäöüß¿¡")
+
+
+def _codec_wrong_lang(rows, col) -> set:
+    """{(group, off)}：位置判据标成 en、实际是别种语言的 codec 记录。
+
+    第二种记录格式（03 号文档 §10）的语言块边界和 LANG_BLOCKS 不完全重合：
+    0x11f960 / 0x39a800 / 0x39b540 落在 en 的扇区范围里，台词却是法语
+    （那里是法语副本）。按位置导出就会把法语当英文语料，译出来会写进法语
+    槽位。判据：整条记录的停用词判据（`briefing.judge_lang`）明确指向非
+    en（千分比 >= 400 且高于 en），**并且**至少含 2 个英语里不出现的重音
+    字符 —— 两道门槛一起才判错标，实测 444 条 en 记录里命中 3 条、0 误伤。
+    """
+    import collections
+    from pwsf import briefing as B
+
+    by_rec = collections.defaultdict(list)
+    for r in rows:
+        c = r.split("\t")
+        if len(c) > col["text"] and c[col["lang"]] == "en":
+            by_rec[(c[col["group"]], c[col["off"]])].append(c[col["text"]])
+    bad = set()
+    for key, texts in by_rec.items():
+        sc = collections.Counter()
+        acc = 0
+        for t in texts:
+            lang, s = B.judge_lang(t)
+            for k, v in s.items():
+                sc[k] += v
+            acc += sum(1 for ch in t if ch in _FOREIGN_ACCENT)
+        tot = sum(sc.values()) or 1
+        top = max(sc, key=lambda k: sc[k])
+        if top != "en" and sc[top] * 1000 // tot >= 400 \
+                and sc[top] > sc["en"] and acc >= 2:
+            bad.add(key)
+    return bad
+
+
+def _codec_junk(text: str) -> bool:
+    """True = 这不是台词，是二进制碎片被当成串读出来的。
+
+    第二种记录格式（03 号文档 §10）里，表尾部若干项指进文本之后的二进制
+    块，偶尔会撞出 '\x0f,'、'Q]'、'6WUp' 这种 1~4 字节的碎片 —— 它们不含
+    替换字符，光靠 U+FFFD 过滤拦不住。判据：含控制字符 / 含英语和日语里
+    都不会出现的字符（西里尔、希腊、亚美尼亚……）/ 长度 <= 4 且只有 0~1 个
+    拉丁字母。
+    """
+    body = text.replace("\n", "").strip()
+    if not body:
+        return True
+    if set(body) <= set("......—–?!…"):   # "..."、"……" 这类真台词
+        return False
+    for ch in body:
+        o = ord(ch)
+        if o < 0x20 or 0x7F <= o <= 0x9F:
+            return True
+        if 0x180 <= o < 0x3000:          # 拉丁扩展 B 之后、CJK 之前
+            return True
+        if o > 0x9FFF and not (0xFF00 <= o <= 0xFFEF):
+            return True
+    letters = sum(1 for ch in body if ch.isascii() and ch.isalpha())
+    return letters <= 1 and len(body) <= 4
+
+
 def collect_codec() -> list:
     rows = config.BRIEFING_TSV.read_text(encoding="utf-8").splitlines()
     head = rows[0].split("\t")
@@ -196,10 +261,13 @@ def collect_codec() -> list:
     # line with its French/German/Italian/Spanish counterpart.
     out = []
     seen = set()
+    skip_rec = _codec_wrong_lang(rows[1:], col)
     for r in rows[1:]:
         c = r.split("\t")
         if len(c) <= col["text"] or c[col["lang"]] != "en":
             continue
+        if (c[col["group"]], c[col["off"]]) in skip_rec:
+            continue      # 位置判据标成 en、实际是别的语种，译了会写坏该槽
         if not c[col["text"]].strip():
             continue
         # 第二种记录格式（03 号文档「脚本按引用共享」）：表尾部若干项指进
@@ -207,7 +275,7 @@ def collect_codec() -> list:
         # 游戏真台词都是合法 UTF-8，所以含**任何一个** U+FFFD 的行都是提取
         # 伪影 —— 不进语料、保持英文，也避免它经 msgid 合并继承已有译文后
         # 撑爆 codec-budget（po_lint 会点名整条记录）。
-        if "\ufffd" in c[col["text"]]:
+        if "\ufffd" in c[col["text"]] or _codec_junk(c[col["text"]]):
             continue
         ref = (f"codec/{c[col['group']]}/{c[col['sector']]}/"
                f"{c[col['off']]}/{c[col['line']]}")

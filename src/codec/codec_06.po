@@ -9,74 +9,6 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
-#: codec/1/201/0xc91f0/7
-msgid ""
-"Enough flattery.\n"
-msgstr ""
-"别拍马屁。\n"
-
-#: codec/1/201/0xc91f0/8
-msgid ""
-"But seriously, it does not feel right for me to be\n"
-"sitting here while my compas are out risking their\n"
-"lives.\n"
-msgstr ""
-"但说真的，战友们在外\n"
-"拼命，我却坐在这里，\n"
-"心里不是滋味。\n"
-
-#: codec/1/201/0xc91f0/9
-msgid ""
-"One thing's for sure. Having you out in the field\n"
-"would be a big boost to Sandinista morale.\n"
-msgstr ""
-"有一点可以肯定。有你亲临前线，\n"
-"会大大鼓舞桑地诺的士气。\n"
-
-#: codec/1/201/0xc91f0/10
-msgid ""
-"Of course, our ultimate goal is still the overthrow\n"
-"of Somoza.\n"
-msgstr ""
-"当然，我们的最终目标仍然是推翻\n"
-"索摩查。\n"
-
-#: codec/1/201/0xc91f0/11
-msgid ""
-"But until we get ourselves back in order, we will\n"
-"follow your lead, wherever it takes us.\n"
-msgstr ""
-"但在我们重整旗鼓之前，我们会\n"
-"追随你的领导，无论去向何方。\n"
-
-#: codec/1/201/0xc91f0/12
-msgid ""
-"Glad to have you on board.\n"
-msgstr ""
-"很高兴你加入。\n"
-
-#: codec/1/201/0xc9700/0
-msgid ""
-"Amanda, you getting used to Mother Base?\n"
-msgstr ""
-"阿曼达，在母基地还习惯吗？\n"
-
-#: codec/1/201/0xc9700/1
-msgid ""
-"Yes, it is Heaven compared to living in the\n"
-"mountains.\n"
-msgstr ""
-"是啊，比起山里，\n"
-"这里就是天堂。\n"
-
-#: codec/1/201/0xc9700/2
-msgid ""
-"We're no longer constantly on the run from la\n"
-"Guardia or mercenaries.\n"
-msgstr ""
-"我们不再需要时刻躲避国民警卫队\n"
-"或雇佣兵了。\n"
-
 #: codec/1/201/0xc9700/3
 msgid ""
 "Some of the new guys we've recruited used to be\n"
@@ -1973,16 +1905,20 @@ msgid ""
 "The enemy has launched an attack now that they\n"
 "know where our base is.\n"
 msgstr ""
+"敌人已经知道了基地位置，\n"
+"于是发动了进攻。\n"
 
 #: codec/1/206/0xceef0/1
 msgid ""
 "The time for hiding is over.\n"
 msgstr ""
+"躲藏的日子结束了。\n"
 
 #: codec/1/206/0xceef0/2
 msgid ""
 "We have no choice but to fight back.\n"
 msgstr ""
+"我们别无选择，只能反击。\n"
 
 #: codec/1/207/0xcf360/0
 msgid ""
@@ -2827,66 +2763,84 @@ msgid ""
 "What about the Ogopogo? And what kind of name\n"
 "is that, anyway?\n"
 msgstr ""
+"那奥戈波戈呢？\n"
+"这名字到底算什么？\n"
 
 #: codec/1/209/0xd1d30/1
 msgid ""
 "Ogopogo is a monster that lives in Okanagan Lake\n"
 "- in Canada.\n"
 msgstr ""
+"奥戈波戈是住在加拿大\n"
+"奥卡纳根湖里的怪物。\n"
 
 #: codec/1/209/0xd1d30/2
 msgid ""
 "I guess it's an Indian name, 'cause it's a legend\n"
 "passed down by the Indians.\n"
 msgstr ""
+"大概是印第安语的名字，\n"
+"因为是印第安人流传的传说。\n"
 
 #: codec/1/209/0xd1d30/3
 msgid ""
 "A legend, huh. Then it's probably not...\n"
 msgstr ""
+"传说啊，那大概就不是……\n"
 
 #: codec/1/209/0xd1d30/4
 msgid ""
 "There're written records of it, too. The first one\n"
 "was in 1872,\n"
 msgstr ""
+"也有文字记载。\n"
+"最早的一次是在1872年，\n"
 
 #: codec/1/209/0xd1d30/5
 msgid ""
 "and there's been more sightings since the start of\n"
 "the 20th century.\n"
 msgstr ""
+"进入20世纪后\n"
+"目击记录更多了。\n"
 
 #: codec/1/209/0xd1d30/6
 msgid ""
 "Uh huh...\n"
 msgstr ""
+"嗯哼……\n"
 
 #: codec/1/209/0xd1d30/7
 msgid ""
 "You starting to get into UMAs, too, Snake?\n"
 msgstr ""
+"你也开始迷上未确认生物了，Snake？\n"
 
 #: codec/1/209/0xd1d30/8
 msgid ""
 "Yeah, maybe...\n"
 msgstr ""
+"嗯，也许吧……\n"
 
 #: codec/1/209/0xd1d30/9
 msgid ""
 "UMA hunting... Now that's a real man's adventure!\n"
 msgstr ""
+"狩猎未确认生物……这才是男子汉的冒险！\n"
 
 #: codec/1/209/0xd1d30/10
 msgid ""
 "What do you say, Snake?\n"
 msgstr ""
+"你觉得呢，Snake？\n"
 
 #: codec/1/209/0xd1d30/11
 msgid ""
 "After Nicaragua's at peace again, you wanna go\n"
 "exploring together?\n"
 msgstr ""
+"等尼加拉瓜恢复和平，\n"
+"要不要一起去探险？\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0070_040_0
 #. timeline 445..2048
@@ -3149,52 +3103,149 @@ msgid ""
 "Bigfoot is an ape man that lives in the Rocky\n"
 "Mountains.\n"
 msgstr ""
+"大脚怪是栖息在\n"
+"落基山脉的猿人。\n"
 
 #: codec/1/210/0xd2d60/1
 msgid ""
 "In the local Indian language he's known as\n"
 "Sasquatch.\n"
 msgstr ""
+"当地印第安语称它为\n"
+"萨斯科奇人。\n"
 
 #: codec/1/210/0xd2d60/2
 msgid ""
 "And get this: he's over three vara (8 ft)! Can you\n"
 "believe that?\n"
 msgstr ""
+"还有：它超过3瓦拉（8英尺）！\n"
+"你敢信吗？\n"
 
 #: codec/1/210/0xd2d60/3
 msgid ""
 "So he's kind've like a gorilla?\n"
 msgstr ""
+"那它有点像大猩猩？\n"
 
 #: codec/1/210/0xd2d60/4
 msgid ""
 "Completely different! Even the biggest gorillas only\n"
 "get to about two vara (5.5 ft).\n"
 msgstr ""
+"完全不同！最大的大猩猩\n"
+"也只有约2瓦拉（5.5英尺）。\n"
 
 #: codec/1/210/0xd2d60/5
 msgid ""
 "And they walk on their knuckles.\n"
 msgstr ""
+"而且它们用指关节行走。\n"
 
 #: codec/1/210/0xd2d60/6
 msgid ""
 "Bigfoot's... big. And he walks on two feet like people.\n"
 msgstr ""
+"大脚怪……很大，还像人一样用两条腿走路。\n"
 
 #: codec/1/210/0xd2d60/7
 msgid ""
 "So he's more man than ape?\n"
 msgstr ""
+"那它更像人而不是猿？\n"
 
 #: codec/1/210/0xd2d60/8
 msgid ""
 "Probably. His ancestors must have split off from\n"
 "humans at some point,\n"
 msgstr ""
+"大概吧。它的祖先\n"
+"应该很早就与人类分道扬镳，\n"
 
 #: codec/1/210/0xd2d60/9
 msgid ""
 "like before they started using tools and stuff.\n"
 msgstr ""
+"早在使用工具之前。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0080_020_0
+#. timeline 459..1393
+#: codec/1/211/0xd3310/0
+msgid ""
+"Gotta admit, I've never heard of Mono Grande.\n"
+msgstr ""
+"说实话，我没听过大脚怪。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0080_020_0
+#. timeline 1407..2814
+#: codec/1/211/0xd3310/1
+msgid ""
+"Yeah, he's not as famous as Bigfoot. He's similar,\n"
+"but he lives in Venezuela.\n"
+msgstr ""
+"对，他没大脚怪那么出名。很像，\n"
+"但他住在委内瑞拉。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0080_020_0
+#. timeline 2856..3622
+#: codec/1/211/0xd3310/2
+msgid ""
+"He's not that big - less than two vara (5.5 ft)\n"
+msgstr ""
+"他没那么大——不到两巴拉（5.5英尺）\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0080_020_0
+#. timeline 3678..4374
+#: codec/1/211/0xd3310/3
+msgid ""
+"- but he's way more ferocious than Bigfoot.\n"
+msgstr ""
+"——但比大脚怪凶残多了。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0080_020_0
+#. timeline 4820..6199
+#: codec/1/211/0xd3310/4
+msgid ""
+"I wonder just how mean he is? Like when he\n"
+"catches his prey, does he punch it to death...?\n"
+msgstr ""
+"不知道他到底多凶？比如抓到猎物时，\n"
+"会不会把它揍死……？\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0080_020_0
+#. timeline 6213..7941
+#: codec/1/211/0xd3310/5
+msgid ""
+"That's the law of the wild: you catch your prey,\n"
+"you kill it, and you eat it.\n"
+msgstr ""
+"这就是丛林法则：抓住猎物，\n"
+"杀死它，然后吃掉。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0080_020_0
+#. timeline 7955..8888
+#: codec/1/211/0xd3310/6
+msgid ""
+"Yeah! Yeah! But punching is way more ferocious\n"
+"than biting.\n"
+msgstr ""
+"对！对！但拳打可比嘴咬凶狠多了\n"
+"。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0080_020_0
+#. timeline 9083..10017
+#: codec/1/211/0xd3310/7
+msgid ""
+"Maybe it seems that way because that's what\n"
+"humans do.\n"
+msgstr ""
+"也许因为人类这么干，\n"
+"才显得凶残。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0080_020_0
+#. timeline 10044..10783
+#: codec/1/211/0xd3310/8
+msgid ""
+"...You really love UMAs, don't you, Chico?\n"
+msgstr ""
+"……你真的很喜欢未知生物啊，奇科？\n"

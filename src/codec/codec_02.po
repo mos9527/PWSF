@@ -334,17 +334,22 @@ msgid ""
 "The U.S. has military forces stationed in Japan,\n"
 "right?\n"
 msgstr ""
+"美国在日本驻有军队，\n"
+"对吧？\n"
 
 #: codec/1/158/0x9ecf0/1
 msgid ""
 "Right. Even though the Allied occupation ended,\n"
 msgstr ""
+"对。虽然盟军的占领已经结束，\n"
 
 #: codec/1/158/0x9ecf0/2
 msgid ""
 "American forces are still stationed there under the\n"
 "U.S.-Japan Security Treaty.\n"
 msgstr ""
+"但依据《日美安保条约》，\n"
+"美军仍然驻扎在那里。\n"
 
 #: codec/1/158/0x9ecf0/3
 #: codec/1/182/0xb66e0/4
@@ -357,48 +362,51 @@ msgstr ""
 msgid ""
 "Part of it stems from the occupation,\n"
 msgstr ""
+"一部分源于当年的占领，\n"
 
 #: codec/1/158/0x9ecf0/5
 msgid ""
 "but Japan also occupies a key strategic position\n"
 "from America's perspective.\n"
 msgstr ""
+"但在美国看来，日本\n"
+"还占据着关键的战略位置。\n"
 
 #: codec/1/158/0x9ecf0/6
 msgid ""
 "It's next door to the Soviet Union, and close to\n"
 "China and North Korea as well.\n"
 msgstr ""
+"它紧邻苏联，\n"
+"也靠近中国和朝鲜。\n"
 
 #: codec/1/158/0x9ecf0/7
 msgid ""
 "It's integral to the security of Pacific Asia.\n"
 msgstr ""
+"它是亚太安全不可或缺的一环。\n"
 
 #: codec/1/158/0x9ecf0/8
 msgid ""
 "For America, Japan represents a barrier against\n"
 "communism.\n"
 msgstr ""
+"对美国来说，日本是\n"
+"抵挡共产主义的屏障。\n"
 
 #: codec/1/158/0x9ecf0/9
 msgid ""
 "What about for Japan?\n"
 msgstr ""
+"那对日本呢？\n"
 
 #: codec/1/158/0x9ecf0/10
 msgid ""
 "As you might expect, there's deep-rooted\n"
 "opposition to the alliance.\n"
 msgstr ""
-
-#: codec/1/158/0x9ecf0/19
-msgid ","
-msgstr ""
-
-#: codec/1/158/0x9ecf0/23
-msgid "Q]"
-msgstr ""
+"不出所料，反对这个同盟的\n"
+"声音根深蒂固。\n"
 
 #: codec/1/159/0x9f870/0
 msgid ""
@@ -537,6 +545,8 @@ msgid ""
 "\"Japan shall not possess, manufacture, or allow the\n"
 "introduction of nuclear weapons into Japan\"...\n"
 msgstr ""
+"「日本不得拥有、制造核武器，\n"
+"也不得允许其运入日本」……\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0330_000_0
 #. timeline 473..1727
@@ -930,366 +940,452 @@ msgid ""
 "March 10, 1945. 381,300 cluster bombs were\n"
 "dropped on Tokyo.\n"
 msgstr ""
+"1945年3月10日，\n"
+"东京遭到38万枚集束炸弹轰炸。\n"
 
 #: codec/1/161/0xa15f0/1
 msgid ""
 "Japanese houses at the time were almost all made\n"
 "of wood.\n"
 msgstr ""
+"当时日本的房子\n"
+"几乎都是木造的。\n"
 
 #: codec/1/161/0xa15f0/2
 msgid ""
 "In that single day, a third of Tokyo burned to the\n"
 "ground.\n"
 msgstr ""
+"仅仅一天，东京就有三分之一\n"
+"化为灰烬。\n"
 
 #: codec/1/161/0xa15f0/3
 msgid ""
 "My mom lost her family and home in that raid.\n"
 msgstr ""
+"我母亲在那次空袭中家破人亡。\n"
 
 #: codec/1/161/0xa15f0/4
 msgid ""
 "She had to move to Yokosuka and live with her\n"
 "cousin.\n"
 msgstr ""
+"她只好搬到横须贺，\n"
+"投靠亲戚。\n"
 
 #: codec/1/161/0xa15f0/5
 msgid ""
 "The B-29s kept on coming, razing other major\n"
 "cities throughout Japan without mercy.\n"
 msgstr ""
+"B-29持续来袭，\n"
+"毫不留情地把日本各地主要城市夷为平地。\n"
 
 #: codec/1/161/0xa15f0/6
 msgid ""
 "Then, in August, they dropped atomic bombs on\n"
 "Hiroshima and Nagasaki,\n"
 msgstr ""
+"到了八月，\n"
+"广岛和长崎又落下了原子弹，\n"
 
 #: codec/1/161/0xa15f0/7
 msgid ""
 "and Japan surrendered to the United States at last.\n"
 msgstr ""
+"日本终于向美国投降。\n"
 
 #: codec/1/161/0xa15f0/8
 msgid ""
 "After that, Yokosuka was flooded with American\n"
 "soldiers come to occupy the country.\n"
 msgstr ""
+"此后，前来占领的美军士兵\n"
+"涌满了横须贺。\n"
 
 #: codec/1/161/0xa15f0/9
 msgid ""
 "My mother was still in her mid-teens, and she\n"
 "learned from her cousin\n"
 msgstr ""
+"母亲当时还不到二十岁，\n"
+"她从亲戚那里学会了\n"
 
 #: codec/1/161/0xa15f0/10
 msgid ""
 "how to survive in that town - by servicing the\n"
 "troops.\n"
 msgstr ""
+"如何在那镇上活下去：\n"
+"靠招待大兵。\n"
 
 #: codec/1/161/0xa15f0/11
 msgid ""
 "That's how she met my father. And how I was born.\n"
 msgstr ""
+"她就是这样认识我父亲的，我也因此出生。\n"
 
 #: codec/1/161/0xa15f0/12
 msgid ""
 "My father was an officer\n"
 msgstr ""
+"我父亲是一名军官，\n"
 
 #: codec/1/161/0xa15f0/13
 msgid ""
 "serving with the Government Section of Allied GHQ,\n"
 "under General Whitney.\n"
 msgstr ""
+"在盟军总司令部民政局服役，\n"
+"隶属惠特尼将军麾下。\n"
 
 #: codec/1/161/0xa15f0/14
 msgid ""
 "Whitney was known as MacArthur's shadow,\n"
 msgstr ""
+"惠特尼人称麦克阿瑟的影子，\n"
 
 #: codec/1/161/0xa15f0/15
 msgid ""
 "and my father rode his coattails to a pretty high\n"
 "rank.\n"
 msgstr ""
+"我父亲借着他的提携，\n"
+"一路升到相当高的军衔。\n"
 
 #: codec/1/161/0xa15f0/16
 msgid ""
 "While he was in Japan, he treated my mom like a\n"
 "wife.\n"
 msgstr ""
+"在日本期间，\n"
+"他待我母亲如同妻子。\n"
 
 #: codec/1/161/0xa15f0/17
 msgid ""
 "After he went back to the States, though, she\n"
 "never heard from him.\n"
 msgstr ""
+"可他一回到美国，\n"
+"就再没有音信。\n"
 
 #: codec/1/161/0xa15f0/18
 msgid ""
 "I wasn't born until after he went back.\n"
 msgstr ""
+"他走之后我才出生。\n"
 
 #: codec/1/161/0xa15f0/19
 msgid ""
 "My mom raised me as a single mother.\n"
 msgstr ""
+"母亲一个人把我拉扯大。\n"
 
 #: codec/1/161/0xa15f0/20
 msgid ""
 "She used the money my father left her to open a\n"
 "shop,\n"
 msgstr ""
+"她用我父亲留下的钱\n"
+"开了家店，\n"
 
 #: codec/1/161/0xa15f0/21
 msgid ""
 "selling cigarettes and stuff to occupation troops.\n"
 msgstr ""
+"卖香烟之类的东西给占领军。\n"
 
 #: codec/1/161/0xa15f0/22
 msgid ""
 "It was a decent living. But I didn't have citizenship.\n"
 msgstr ""
+"日子还过得去。但我没有国籍。\n"
 
 #: codec/1/161/0xa15f0/23
 msgid ""
 "They're working to change the law now, but back\n"
 "then, if your father was unknown,\n"
 msgstr ""
+"现在他们在推动修法，\n"
+"可在当时，如果生父不明，\n"
 
 #: codec/1/161/0xa15f0/24
 msgid ""
 "you couldn't get onto the Japanese family register\n"
 msgstr ""
+"就上不了日本的户籍，\n"
 
 #: codec/1/161/0xa15f0/25
 msgid ""
 "- and in Japan, that means you can't be Japanese.\n"
 msgstr ""
+"——在日本，这就意味着你不是日本人。\n"
 
 #: codec/1/161/0xa15f0/26
 msgid ""
 "So as I watched the American soldiers around\n"
 "town, I said to myself:\n"
 msgstr ""
+"看着镇上四处走动的美军士兵，\n"
+"我对自己说：\n"
 
 #: codec/1/161/0xa15f0/27
 msgid ""
 "I'm a son of America, the victor.\n"
 msgstr ""
+"我是战胜国美国的儿子。\n"
 
 #: codec/1/161/0xa15f0/28
 msgid ""
 "My hair and eyes were different from the skinny,\n"
 "downtrodden Japanese around me.\n"
 msgstr ""
+"我的头发和眼睛，都和周围那些\n"
+"瘦弱憔悴的日本人不同。\n"
 
 #: codec/1/161/0xa15f0/29
 msgid ""
 "I told myself I'd leave this country someday and\n"
 "return to my true homeland..\n"
 msgstr ""
+"我告诉自己，总有一天要离开这里，\n"
+"回到真正的祖国……\n"
 
 #: codec/1/161/0xa15f0/30
 msgid ""
 "When I was around 10 years old, my mom fell ill,\n"
 msgstr ""
+"我十岁左右时，母亲病倒了，\n"
 
 #: codec/1/161/0xa15f0/31
 msgid ""
 "pretty much leaving me to run the shop in her\n"
 "place.\n"
 msgstr ""
+"店里的事基本\n"
+"就落到了我身上。\n"
 
 #: codec/1/161/0xa15f0/32
 msgid ""
 "One day, I found a single picture of my father in\n"
 "the back of a drawer in the shop.\n"
 msgstr ""
+"有一天，我在店铺抽屉深处\n"
+"发现了父亲的一张照片。\n"
 
 #: codec/1/161/0xa15f0/33
 msgid ""
 "I'd show it to the American soldiers who came in to\n"
 "the store.\n"
 msgstr ""
+"我把它拿给\n"
+"来店里的大兵们看。\n"
 
 #: codec/1/161/0xa15f0/34
 msgid ""
 "A few years went by before one of them told me\n"
 "who he was.\n"
 msgstr ""
+"过了几年，才有个人\n"
+"告诉我他是谁。\n"
 
 #: codec/1/161/0xa15f0/35
 msgid ""
 "\"I know him. That's Miller.\"\n"
 msgstr ""
-
-#: codec/1/161/0xa15f0/40
-msgid "a"
-msgstr ""
-
-#: codec/1/161/0xa15f0/67
-msgid ""
-msgstr ""
-
-#: codec/1/161/0xa15f0/73
-msgid "m"
-msgstr ""
+"「我认识他。那是米勒。」\n"
 
 #: codec/1/163/0xa3900/0
 msgid ""
 "Life's funny sometimes, isn't it?\n"
 msgstr ""
+"人生有时真奇妙，不是吗？\n"
 
 #: codec/1/163/0xa3900/1
 msgid ""
 "What brought that on?\n"
 msgstr ""
+"怎么突然说起这个？\n"
 
 #: codec/1/163/0xa3900/2
 msgid ""
 "We first met as enemies on the battlefield, and\n"
 "now here we are fighting side by side.\n"
 msgstr ""
+"我们最初是在战场上相遇的敌人，\n"
+"如今却并肩作战。\n"
 
 #: codec/1/163/0xa3900/3
 msgid ""
 "You mean Colombia?\n"
 msgstr ""
+"你是说哥伦比亚？\n"
 
 #: codec/1/163/0xa3900/4
 msgid ""
 "Yeah. After I quit the JSDF, I made my way there\n"
 "and got myself a position\n"
 msgstr ""
+"对。我退出自卫队后就去了那里，\n"
+"谋了个职位——\n"
 
 #: codec/1/163/0xa3900/5
 msgid ""
 "as a drill sergeant for a band of revolutionaries,\n"
 msgstr ""
+"给一帮革命军当教官，\n"
 
 #: codec/1/163/0xa3900/6
 msgid ""
 "despite the fact that I'd never seen a day of\n"
 "combat.\n"
 msgstr ""
+"尽管我一天\n"
+"实战经验都没有。\n"
 
 #: codec/1/163/0xa3900/7
 msgid ""
 "I see you had the gift for talking business in\n"
 "Spanish even back then.\n"
 msgstr ""
+"看来你那时就很有\n"
+"用西班牙语谈生意的天赋。\n"
 
 #: codec/1/163/0xa3900/8
 msgid ""
 "C'mon, stop it, you're making me blush.\n"
 msgstr ""
+"行了行了，别说得我不好意思。\n"
 
 #: codec/1/163/0xa3900/9
 msgid ""
 "Unlucky for me, though, you were in the service of\n"
 "the Colombian Army.\n"
 msgstr ""
+"可我不走运，你当时\n"
+"效力于哥伦比亚政府军。\n"
 
 #: codec/1/163/0xa3900/10
 msgid ""
 "I remember it like it was yesterday. It all happened\n"
 "in an instant.\n"
 msgstr ""
+"那件事我记忆犹新，\n"
+"一切都发生在一瞬间。\n"
 
 #: codec/1/163/0xa3900/11
 msgid ""
 "You guys ambushed us, and half my unit was taken\n"
 "out.\n"
 msgstr ""
+"你们伏击了我们，\n"
+"我半个分队都被打掉了。\n"
 
 #: codec/1/163/0xa3900/12
 msgid ""
 "My mind went totally blank. I couldn't keep it\n"
 "together... My whole unit was wiped out...\n"
 msgstr ""
+"我脑子里一片空白，完全慌了神……\n"
+"整个分队都被歼灭了……\n"
 
 #: codec/1/163/0xa3900/13
 msgid ""
 "and I was left half-dead from a bomb blast.\n"
 msgstr ""
+"我也被炸得半死。\n"
 
 #: codec/1/163/0xa3900/14
 msgid ""
 "Then, as I was leaving, you yelled out at me...\n"
 msgstr ""
+"就在我准备撤退时，你冲我喊道……\n"
 
 #: codec/1/163/0xa3900/15
 msgid ""
 "\"I came all the way from Japan to be here. My\n"
 "place is on the battlefield.\"\n"
 msgstr ""
+"「我从日本远道而来，\n"
+"我的归宿就是战场。」\n"
 
 #: codec/1/163/0xa3900/16
 msgid ""
 "Then you asked for my help, saying, \"I want to be\n"
 "the one to end it.\"\n"
 msgstr ""
+"然后你向我求助，说：\n"
+"「我要亲手结束这一切。」\n"
 
 #: codec/1/163/0xa3900/17
 msgid ""
 "I remember being surprised that there were still\n"
 "samurai in Japan.\n"
 msgstr ""
+"我记得当时很惊讶：\n"
+"日本竟然还有武士。\n"
 
 #: codec/1/163/0xa3900/18
 msgid ""
 "You guys came over to me. I had a grenade hidden\n"
 "under me.\n"
 msgstr ""
+"你们向我走来。\n"
+"我身下藏着一枚手榴弹。\n"
 
 #: codec/1/163/0xa3900/19
 msgid ""
 "But even then you were too fast. The second I\n"
 "pulled the pin,\n"
 msgstr ""
+"可即便如此，你还是太快了。\n"
+"我刚拉掉保险销，\n"
 
 #: codec/1/163/0xa3900/20
 msgid ""
 "you grabbed the hand I was using to hold the\n"
 "grenade with both palms.\n"
 msgstr ""
+"你就用双手\n"
+"抓住了我握弹的那只手。\n"
 
 #: codec/1/163/0xa3900/21
 msgid ""
 "I didn't want it to go off. I'd heard samurai were a\n"
 "proud bunch. I wanted to know\n"
 msgstr ""
+"我不想让它爆炸。听说武士很骄傲，\n"
+"我想知道\n"
 
 #: codec/1/163/0xa3900/22
 msgid ""
 "why one of them would stoop so low as to try and\n"
 "take his opponent with him.\n"
 msgstr ""
+"为什么有人会卑劣到\n"
+"想把对手一起拖下水。\n"
 
 #: codec/1/163/0xa3900/23
 msgid ""
 "And I said, \"I'll never lose again... We'll never lose\n"
 "again.\"\n"
 msgstr ""
+"于是我说：「我再也不会输了……\n"
+"我们再也不会输。」\n"
 
 #: codec/1/163/0xa3900/24
 msgid ""
 "Yeah. \"We'll do whatever it takes, but we'll never be\n"
 "beaten again.\"\n"
 msgstr ""
+"对。「我们不惜一切，\n"
+"也绝不再败。」\n"
 
 #: codec/1/163/0xa3900/25
 msgid ""
 "Then I passed out from the blood loss.\n"
 msgstr ""
-
-#: codec/1/163/0xa3900/31
-msgid ""
-msgstr ""
+"然后我就因失血昏迷了。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0010_000_0
 #. timeline 445..1156
@@ -1473,16 +1569,20 @@ msgid ""
 "You can steal items from soldiers by putting them\n"
 "to sleep\n"
 msgstr ""
+"让士兵睡着\n"
+"就能偷走他们的物品，\n"
 
 #: codec/1/164/0xa4f10/1
 msgid ""
 "or knocking them out and then doing a body check.\n"
 msgstr ""
+"或者打晕他们再搜身。\n"
 
 #: codec/1/164/0xa4f10/2
 msgid ""
 "Get close to the unconscious soldier\n"
 msgstr ""
+"靠近失去意识的士兵，\n"
 
 #: codec/1/165/0xa5290/0
 msgid ""
@@ -2120,6 +2220,8 @@ msgid ""
 "In CO-OPS, you can trade weapons and equipment\n"
 "with your teammates.\n"
 msgstr ""
+"在联机合作中，你可以和队友\n"
+"交换武器与装备。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0080_000_0
 #. timeline 445..1866
@@ -2378,45 +2480,58 @@ msgid ""
 "Building trust with your teammates is essential to\n"
 "success in CO-OPS.\n"
 msgstr ""
+"与队友建立信任，是联机合作\n"
+"取胜的关键。\n"
 
 #: codec/1/167/0xa7dc0/1
 msgid ""
 "That goes without saying.\n"
 msgstr ""
+"那还用说。\n"
 
 #: codec/1/167/0xa7dc0/2
 msgid ""
 "I'm not gonna let somebody I can't trust cover my\n"
 "ass.\n"
 msgstr ""
+"我可不会让信不过的人\n"
+"掩护我。\n"
 
 #: codec/1/167/0xa7dc0/3
 msgid ""
 "The measure of that trust is called \"camaraderie.\"\n"
 msgstr ""
+"衡量这种信任的指标叫「战友情」。\n"
 
 #: codec/1/167/0xa7dc0/4
 msgid ""
 "Think of it as an indicator of how strong your bond\n"
 "is with your CO-OPS teammates.\n"
 msgstr ""
+"可以把它看作你与联机队友\n"
+"羁绊强弱的指标。\n"
 
 #: codec/1/167/0xa7dc0/5
 msgid ""
 "The friendlier you act toward them, the greater\n"
 "your camaraderie.\n"
 msgstr ""
+"你对他们越友善，\n"
+"战友情就越高。\n"
 
 #: codec/1/167/0xa7dc0/6
 msgid ""
 "Give me an example.\n"
 msgstr ""
+"举个例子。\n"
 
 #: codec/1/167/0xa7dc0/7
 msgid ""
 "Your camaraderie will be higher if you're \"CO-OP In\"\n"
 "than standing apart.\n"
 msgstr ""
+"保持「联机待命」时的战友情，\n"
+"会比各自为战更高。\n"
 
 #: codec/1/168/0xa84e0/0
 msgid ""
@@ -2659,16 +2774,20 @@ msgid ""
 "Seems the R&D team's been busy working on CO-OPS\n"
 "only weapons.\n"
 msgstr ""
+"研发组似乎一直在忙着做\n"
+"联机专用的武器。\n"
 
 #: codec/1/168/0xa8f00/1
 msgid ""
 "CO-OPS only?\n"
 msgstr ""
+"联机专用？\n"
 
 #: codec/1/168/0xa8f00/2
 msgid ""
 "Like a gun with extreme firepower...\n"
 msgstr ""
+"比如火力极其凶猛的枪……\n"
 
 #: codec/1/169/0xa9240/0
 msgid ""
@@ -2711,12 +2830,6 @@ msgid ""
 "Now, about CO-OPS Comms.\n"
 msgstr ""
 "说说合作通讯。\n"
-
-#: codec/1/169/0xa9240/6
-msgid ""
-"CO-OPS Comms…\n"
-msgstr ""
-"合作通讯……\n"
 
 #: codec/1/169/0xa9240/7
 msgid ""
@@ -2978,11 +3091,13 @@ msgstr ""
 msgid ""
 "Snake, about cardboard boxes...\n"
 msgstr ""
+"Snake，关于纸箱……\n"
 
 #: codec/1/169/0xa9f40/1
 msgid ""
 "Ahh!\n"
 msgstr ""
+"啊！\n"
 
 #: codec/1/170/0xaa690/0
 msgid ""
@@ -3021,3 +3136,47 @@ msgid ""
 "So... Same as Snake Formation, huh.\n"
 msgstr ""
 "跟SNAKE阵型一样啊。\n"
+
+#: codec/1/170/0xaa690/6
+msgid ""
+"Exactly the same. In fact, when you put on a\n"
+"cardboard box when Snake In,\n"
+msgstr ""
+"完全一样。实际上，当Snake In穿上\n"
+"纸箱时，\n"
+
+#: codec/1/170/0xaa690/7
+msgid ""
+"both of you can climb inside.\n"
+msgstr ""
+"两人都能钻进去。\n"
+
+#: codec/1/170/0xaa690/8
+msgid ""
+"A box big enough to hold me and my buddy...\n"
+msgstr ""
+"能装下我和队友的大纸箱……\n"
+
+#: codec/1/170/0xaa690/9
+msgid ""
+"These are fine times we live in, eh, Kaz?\n"
+msgstr ""
+"真是个好时代啊，卡兹？\n"
+
+#: codec/1/170/0xaa690/10
+msgid ""
+"Yyyyeah, sure, Boss...\n"
+msgstr ""
+"是……是啊，BOSS……\n"
+
+#: codec/1/170/0xaaa10/0
+msgid ""
+"Snake, the R&D team came up with something new...\n"
+msgstr ""
+"SNAKE，研发组搞出了新东西……\n"
+
+#: codec/1/170/0xaaa10/1
+msgid ""
+"What is this?!\n"
+msgstr ""
+"这啥？！\n"

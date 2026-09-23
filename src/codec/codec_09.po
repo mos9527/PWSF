@@ -9,66 +9,6 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
-#: codec/1/232/0xe8030/16
-msgid ""
-"Densuke's a nickname that comes from the name\n"
-"of an old manga character.\n"
-msgstr ""
-"densuke是绰号，来自一部老漫画\n"
-"角色的名字。\n"
-
-#: codec/1/232/0xe8030/17
-msgid ""
-"Was he some recording nerd, too?\n"
-msgstr ""
-"他也是个录音宅？\n"
-
-#: codec/1/232/0xe8030/18
-msgid ""
-"Don't gimme that! Recording atmospheric noises is\n"
-"an exhilarating art!\n"
-msgstr ""
-"别这么说！录环境音可是\n"
-"一门刺激的艺术！\n"
-
-#: codec/1/232/0xe8030/19
-msgid ""
-"There's nothing like capturing the real world in\n"
-"action on tape!\n"
-msgstr ""
-"把真实世界录进磁带里的感觉\n"
-"无可替代！\n"
-
-#: codec/1/232/0xe8030/20
-msgid ""
-"It's just like taking pictures with a camera,\n"
-msgstr ""
-"就跟用镜头拍照一样，\n"
-
-#: codec/1/232/0xe8030/21
-msgid ""
-"only with a microphone instead of a viewfinder.\n"
-msgstr ""
-"只不过用麦克风代替取景器。\n"
-
-#: codec/1/232/0xe8030/22
-msgid ""
-"Sure...\n"
-msgstr ""
-"当然\n"
-
-#: codec/1/232/0xe8030/23
-msgid ""
-"Listen to a tape with your eyes closed\n"
-msgstr ""
-"闭上眼听磁带\n"
-
-#: codec/1/232/0xe8030/24
-msgid ""
-"and the scene just bursts to life in your mind's eye.\n"
-msgstr ""
-"脑中的画面便鲜活起来。\n"
-
 #: codec/1/232/0xe8030/25
 msgid ""
 "Tell him, Cécile.\n"
@@ -191,39 +131,49 @@ msgstr ""
 msgid ""
 "Alright, what do you want to know about quetzals?\n"
 msgstr ""
+"好吧，你想了解凤尾绿咬鹃什么？\n"
 
 #: codec/1/232/0xe8da0/1
 msgid ""
 "Hmm... Give me the basics, something that'll help\n"
 "me find one.\n"
 msgstr ""
+"嗯……先讲点基础的，\n"
+"能帮我找到它的就行。\n"
 
 #: codec/1/232/0xe8da0/2
 msgid ""
 "OK, then. First of all, as I'm sure you remember,\n"
 msgstr ""
+"好。首先，你肯定记得，\n"
 
 #: codec/1/232/0xe8da0/3
 msgid ""
 "the quetzal's wings and back are emerald green\n"
 msgstr ""
+"凤尾绿咬鹃的翅膀和背部是翠绿色的，\n"
 
 #: codec/1/232/0xe8da0/4
 msgid ""
 "- a dazzling blend of viridian fading into blue.\n"
 msgstr ""
+"——是青绿色渐变成蓝色的炫目色泽。\n"
 
 #: codec/1/232/0xe8da0/5
 msgid ""
 "Its belly is brilliant red, and its tail feathers are\n"
 "white. Such a gorgeous bird...\n"
 msgstr ""
+"腹部鲜红，尾羽雪白。\n"
+"真是美丽的鸟……\n"
 
 #: codec/1/232/0xe8da0/6
 msgid ""
 "Also, the male has two long decorative feathers,\n"
 "but only during breeding season.\n"
 msgstr ""
+"雄鸟还有两根长饰羽，\n"
+"不过只在繁殖期才有。\n"
 
 #: codec/1/232/0xe8da0/24
 msgid "6WUp"
@@ -761,34 +711,43 @@ msgstr ""
 msgid ""
 "Do you know the national bird of Costa Rica?\n"
 msgstr ""
+"你知道哥斯达黎加的国鸟吗？\n"
 
 #: codec/1/234/0xeae40/1
 msgid ""
 "Honestly! And you call yourself an ornithologist?\n"
 msgstr ""
+"真是的！还好意思说自己是鸟类学家？\n"
 
 #: codec/1/234/0xeae40/2
 msgid ""
 "The national bird of Costa Rica is the Clay-colored\n"
 "Robin.\n"
 msgstr ""
+"哥斯达黎加的国鸟\n"
+"是黏土色鸫。\n"
 
 #: codec/1/234/0xeae40/3
 msgid ""
 "It's a plain-looking brown bird found throughout the\n"
 "country.\n"
 msgstr ""
+"那是一种貌不惊人的褐色鸟，\n"
+"全国各地都有。\n"
 
 #: codec/1/234/0xeae40/4
 msgid ""
 "Why'd they make it the national bird, then?\n"
 msgstr ""
+"那为什么选它当国鸟？\n"
 
 #: codec/1/234/0xeae40/5
 msgid ""
 "Aren't there all kinds of better-looking birds, like\n"
 "the quetzal?\n"
 msgstr ""
+"不是有更好看的鸟吗，\n"
+"比如凤尾绿咬鹃？\n"
 
 #. speaker 0x0ec8dda0 voice v_bri_ccl0150_000_0
 #. timeline 445..1351
@@ -1004,33 +963,11 @@ msgid ""
 msgstr ""
 "等等……\n"
 
-#: codec/1/235/0xeb860/13
-msgid ""
-"Cécile Cosima Caminades... Cosima Caminades...\n"
-"Hey, that’s close to...\n"
-msgstr ""
-"塞西尔·科西玛·卡米纳德斯……科西玛·卡米纳德斯……\n"
-"嘿，这很像……\n"
-
 #: codec/1/235/0xeb860/14
 msgid ""
 "Close to what?\n"
 msgstr ""
 "像什么？\n"
-
-#: codec/1/235/0xeb860/15
-msgid ""
-"Your name... It sounds almost like the sentence\n"
-"“Kojima, kaminandesu” in Japanese.\n"
-msgstr ""
-"你的名字……听起来几乎就是日语里的\n"
-"“小岛，卡米南德斯”。\n"
-
-#: codec/1/235/0xeb860/16
-msgid ""
-"And what does it mean, s’il vous plait?\n"
-msgstr ""
-"请问，那是什么意思？\n"
 
 #: codec/1/235/0xeb860/17
 msgid ""
@@ -1057,12 +994,6 @@ msgid ""
 "\"Kojima is God\"... Cecile's name is a message!\n"
 msgstr ""
 "\"小岛是神\"…塞西尔名字是讯息！\n"
-
-#: codec/1/235/0xeb860/21
-msgid ""
-"I don’t believe it... Kojima is God... Kojima is God...\n"
-msgstr ""
-"难以置信……小岛是神……小岛是神……\n"
 
 #: codec/1/235/0xeb860/22
 msgid ""
@@ -1996,26 +1927,31 @@ msgstr ""
 msgid ""
 "Do you have an interest in the visual arts, Snake?\n"
 msgstr ""
+"Snake，你对美术感兴趣吗？\n"
 
 #: codec/1/238/0xeee70/1
 msgid ""
 "Not really. Please, no deep conversation...\n"
 msgstr ""
+"不太感兴趣。别聊太深奥的……\n"
 
 #: codec/1/238/0xeee70/2
 msgid ""
 "But you have heard of Picasso, yes?\n"
 msgstr ""
+"但你总听说过毕加索吧？\n"
 
 #: codec/1/238/0xeee70/3
 msgid ""
 "Yeah, I've heard the name.\n"
 msgstr ""
+"嗯，听过这名字。\n"
 
 #: codec/1/238/0xeee70/4
 msgid ""
 "Sadly, Monsieur Picasso, co-founder of cubism,\n"
 msgstr ""
+"可惜，立体主义的创始人毕加索先生，\n"
 
 #: codec/1/239/0xef830/0
 msgid ""
@@ -2478,46 +2414,60 @@ msgid ""
 "You seem like a very... how do I put this...\n"
 "uninhibited woman.\n"
 msgstr ""
+"你看起来非常……\n"
+"怎么说呢……洒脱。\n"
 
 #: codec/1/240/0xf0d60/1
 msgid ""
 "You think so? I am no different from other Parisian\n"
 "women. Not since May 1968.\n"
 msgstr ""
+"是吗？我和巴黎女人没两样。\n"
+"1968年五月之后更是如此。\n"
 
 #: codec/1/240/0xf0d60/2
 msgid ""
 "May 1968... The general strike that almost brought\n"
 "down the president?\n"
 msgstr ""
+"1968年五月……那场差点\n"
+"让总统下台的总罢工？\n"
 
 #: codec/1/240/0xf0d60/3
 msgid ""
 "Right. But it was more than just a strike.\n"
 msgstr ""
+"对。但那不只是一场罢工。\n"
 
 #: codec/1/240/0xf0d60/4
 msgid ""
 "It started with the student movement at\n"
 "Strasbourg University in '66.\n"
 msgstr ""
+"它始于66年\n"
+"斯特拉斯堡大学的学生运动。\n"
 
 #: codec/1/240/0xf0d60/5
 msgid ""
 "They did not want anything from the country, but\n"
 "instead sought reform at the school.\n"
 msgstr ""
+"他们不是向国家索取，\n"
+"而是要求学校改革。\n"
 
 #: codec/1/240/0xf0d60/6
 msgid ""
 "That helped ignite a fire in the hearts of scores of\n"
 "dissatisfied young people,\n"
 msgstr ""
+"这点燃了无数不满的\n"
+"年轻人心中之火，\n"
 
 #: codec/1/240/0xf0d60/7
 msgid ""
 "and the movement spread all over France.\n"
 msgstr ""
+"运动随即蔓延到全法国。\n"
 
 #: codec/1/240/0xf0d60/17
 msgid "!"
@@ -2731,43 +2681,49 @@ msgstr ""
 msgid ""
 "August 6, 1945 - Hiroshima. August 9 - Nagasaki.\n"
 msgstr ""
+"1945年8月6日广岛，8月9日长崎。\n"
 
 #: codec/1/241/0xf1dc0/1
 msgid ""
 "The atom bomb attacks on Japan.\n"
 msgstr ""
+"对日本的原子弹轰炸。\n"
 
 #: codec/1/241/0xf1dc0/2
 msgid ""
 "My father was married to his work.\n"
 msgstr ""
+"我父亲把一生献给了工作。\n"
 
 #: codec/1/241/0xf1dc0/3
 msgid ""
 "I don't have a single memory of going places or\n"
 "doing stuff with him on weekends.\n"
 msgstr ""
+"我完全不记得周末\n"
+"跟他出去玩过。\n"
 
 #: codec/1/241/0xf1dc0/4
 msgid ""
 "But even as a kid I knew on some level that it was\n"
 "for his family - I respected him.\n"
 msgstr ""
+"但小时候我就隐约明白\n"
+"他是为了家——我尊敬他。\n"
 
 #: codec/1/241/0xf1dc0/5
 msgid ""
 "My mother used to tell me all the time, \"Your\n"
 "father is a brilliant scientist.\"\n"
 msgstr ""
+"母亲总对我说：\n"
+"「你父亲是位杰出的科学家。」\n"
 
 #: codec/1/241/0xf1dc0/6
 msgid ""
 "\"He saved countless American boys from death.\"\n"
 msgstr ""
-
-#: codec/1/241/0xf1dc0/11
-msgid "]q7"
-msgstr ""
+"「他让无数美国小伙子免于一死。」\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0020_000_0
 #. timeline 445..1546
@@ -2910,60 +2866,177 @@ msgid ""
 "So you've been doing nuclear research your whole\n"
 "life?\n"
 msgstr ""
+"那你一辈子\n"
+"都在做核研究？\n"
 
 #: codec/1/242/0xf2c30/1
 msgid ""
 "No, not really. At first I wanted to be an aerospace\n"
 "engineer.\n"
 msgstr ""
+"也不全是。起初我想当\n"
+"航空航天工程师。\n"
 
 #: codec/1/242/0xf2c30/2
 msgid ""
 "For me, the Sputnik launch was a good shock, not\n"
 "a bad one.\n"
 msgstr ""
+"对我来说，斯普特尼克发射\n"
+"是惊喜而非打击。\n"
 
 #: codec/1/242/0xf2c30/3
 msgid ""
 "I thought the age when science was used for war\n"
 "was over,\n"
 msgstr ""
+"我以为科学用于战争的时代\n"
+"已经结束，\n"
 
 #: codec/1/242/0xf2c30/4
 msgid ""
 "and that a glorious age of space exploration was\n"
 "dawning.\n"
 msgstr ""
+"太空探索的辉煌时代\n"
+"即将到来。\n"
 
 #: codec/1/242/0xf2c30/5
 msgid ""
 "The year I skipped ahead and got into MIT,\n"
 msgstr ""
+"我跳级考进麻省理工那一年，\n"
 
 #: codec/1/242/0xf2c30/6
 msgid ""
 "Gagarin went into orbit, which made me more\n"
 "excited than ever.\n"
 msgstr ""
+"加加林进入太空轨道，\n"
+"让我无比兴奋。\n"
 
 #: codec/1/242/0xf2c30/7
 msgid ""
 "Of course, even back then,\n"
 msgstr ""
+"当然，即便那时，\n"
 
 #: codec/1/242/0xf2c30/8
 msgid ""
 "I knew the space race was just another facet of\n"
 "the Cold War...\n"
 msgstr ""
+"我也知道太空竞赛\n"
+"只是冷战的另一面……\n"
 
 #: codec/1/242/0xf2c30/9
 msgid ""
 "Moscow had a leg up on us, and we were\n"
 "desperate to catch up.\n"
 msgstr ""
+"莫斯科领先我们一步，\n"
+"我们拼命追赶。\n"
 
 #: codec/1/242/0xf2c30/10
 msgid ""
 "I know. But for me it was a happy time.\n"
 msgstr ""
+"我知道。但那段时间我很快乐。\n"
+
+#: codec/1/242/0xf2c30/11
+msgid ""
+"I joined NASA - got to do the kind of research I\n"
+"loved.\n"
+msgstr ""
+"我进了NASA，\n"
+"能做自己喜欢的研究。\n"
+
+#: codec/1/242/0xf2c30/12
+msgid ""
+"Our nation's prestige hinged on our work.\n"
+msgstr ""
+"国家的声望系于我们的工作。\n"
+
+#: codec/1/242/0xf2c30/13
+msgid ""
+"They gave us whatever resources we asked for.\n"
+msgstr ""
+"我们要什么资源他们就给什么。\n"
+
+#: codec/1/242/0xf2c30/14
+msgid ""
+"I knew you could turn a rocket into an ICBM by\n"
+"fitting it with a nuclear warhead,\n"
+msgstr ""
+"我知道火箭装上核弹头\n"
+"就能变成洲际导弹，\n"
+
+#: codec/1/243/0xf34f0/0
+msgid ""
+"But you know... there's something I've never been\n"
+"able to figure out.\n"
+msgstr ""
+"但你知道……有件事我一直\n"
+"想不明白。\n"
+
+#: codec/1/243/0xf34f0/1
+msgid ""
+"Is the Cold War really a war, or is it really peace...?\n"
+msgstr ""
+"冷战究竟是战争，还是和平……？\n"
+
+#: codec/1/243/0xf34f0/2
+msgid ""
+"Doc, what are you...?\n"
+msgstr ""
+"博士，你在……？\n"
+
+#: codec/1/243/0xf34f0/3
+msgid ""
+"People called it a \"cold war,\" but I disagreed.\n"
+msgstr ""
+"人们称之为\"冷战\"，但我不同意。\n"
+
+#: codec/1/243/0xf34f0/4
+msgid ""
+"Sure, nuclear stockpiles are increasing, threats are\n"
+"multiplying,\n"
+msgstr ""
+"没错，核武库在增加，威胁在\n"
+"倍增，\n"
+
+#: codec/1/243/0xf34f0/5
+msgid ""
+"the U.S. and the Soviet Union have enough power\n"
+msgstr ""
+"美苏两国的力量足以\n"
+
+#: codec/1/243/0xf34f0/6
+msgid ""
+"to destroy the human race a hundred times over.\n"
+msgstr ""
+"毁灭人类上百次。\n"
+
+#: codec/1/243/0xf34f0/7
+msgid ""
+"But nobody's actually being killed. Small-scale\n"
+"conflicts and proxy wars, maybe...\n"
+msgstr ""
+"但实际没人被杀。小规模\n"
+"冲突和代理人战争，也许……\n"
+
+#: codec/1/243/0xf34f0/8
+msgid ""
+"But nuclear deterrence has averted another world\n"
+"war.\n"
+msgstr ""
+"但核威慑避免了另一场世界\n"
+"大战。\n"
+
+#: codec/1/243/0xf34f0/9
+msgid ""
+"The world's far more peaceful today than it was\n"
+"before.\n"
+msgstr ""
+"如今的世界比以往\n"
+"和平得多。\n"

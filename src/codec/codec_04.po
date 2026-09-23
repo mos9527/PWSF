@@ -9,58 +9,6 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
-#: codec/1/180/0xb48c0/10
-msgid ""
-"From the first time we met.\n"
-msgstr ""
-"初见就看穿了。\n"
-
-#: codec/1/180/0xb48c0/11
-msgid ""
-"I wish you'd told me...\n"
-msgstr ""
-"真希望你告诉过我……\n"
-
-#: codec/1/180/0xb48c0/12
-msgid ""
-"Sorry. I didn't know if it'd be right.\n"
-msgstr ""
-"抱歉。我不确定该不该说。\n"
-
-#: codec/1/180/0xb48c0/13
-msgid ""
-"You might have gotten mixed up in things you\n"
-"shouldn't.\n"
-msgstr ""
-"你可能卷入了你\n"
-"不该卷入的事情。\n"
-
-#: codec/1/180/0xb48c0/14
-msgid ""
-"That is impressive, though. Sizing him up him at a\n"
-"single glance.\n"
-msgstr ""
-"不过那真厉害。一眼就\n"
-"看穿了他。\n"
-
-#: codec/1/180/0xb48c0/15
-msgid ""
-"He reeked.\n"
-msgstr ""
-"他一身味儿。\n"
-
-#: codec/1/180/0xb48c0/16
-msgid ""
-"Reeked?\n"
-msgstr ""
-"味？\n"
-
-#: codec/1/180/0xb48c0/17
-msgid ""
-"He had this unmistakable air about him...\n"
-msgstr ""
-"他身上有股藏不住的气息……\n"
-
 #: codec/1/180/0xb48c0/18
 msgid ""
 "The air of someone who's been given a mission\n"
@@ -99,6 +47,7 @@ msgstr ""
 msgid ""
 "...\n"
 msgstr ""
+"……\n"
 
 #. speaker 0x0e28dce6 voice v_bri_paz0070_000_1
 #. timeline 473..1365
@@ -251,100 +200,128 @@ msgid ""
 "Paz. How does your country defend itself without\n"
 "an army?\n"
 msgstr ""
+"帕兹，你们国家没有军队，\n"
+"靠什么自卫？\n"
 
 #: codec/1/181/0xb5b70/1
 msgid ""
 "Especially in a rough neighborhood like Central\n"
 "America.\n"
 msgstr ""
+"尤其是在中美洲\n"
+"这种不太平的地带。\n"
 
 #: codec/1/181/0xb5b70/2
 msgid ""
 "With the right kind of diplomacy.\n"
 msgstr ""
+"靠正确的外交。\n"
 
 #: codec/1/181/0xb5b70/3
 msgid ""
 "If we live up to our ideals and earn the respect of\n"
 "other countries,\n"
 msgstr ""
+"只要坚守理想、\n"
+"赢得他国尊重，\n"
 
 #: codec/1/181/0xb5b70/4
 msgid ""
 "the international community will support us.\n"
 msgstr ""
+"国际社会就会支持我们。\n"
 
 #: codec/1/181/0xb5b70/5
 msgid ""
 "The two times Nicaragua actually did invade,\n"
 msgstr ""
+"尼加拉瓜真正入侵过两次，\n"
 
 #: codec/1/181/0xb5b70/6
 msgid ""
 "the conflict was resolved diplomatically under OAS\n"
 "(Organization of American States) auspices.\n"
 msgstr ""
+"两次都在美洲国家组织（OAS）\n"
+"斡旋下通过外交解决。\n"
 
 #: codec/1/181/0xb5b70/7
 msgid ""
 "Doesn't that leave you depending on the U.S. after\n"
 "all?\n"
 msgstr ""
+"到头来不还是\n"
+"得依赖美国？\n"
 
 #: codec/1/181/0xb5b70/8
 msgid ""
 "American influence is unmatched, it is true.\n"
 msgstr ""
+"美国的影响力确实无人能及。\n"
 
 #: codec/1/181/0xb5b70/9
 msgid ""
 "San Jose was critical of American policy at the\n"
 "time...\n"
 msgstr ""
+"圣何塞当时批评过\n"
+"美国的政策……\n"
 
 #: codec/1/181/0xb5b70/10
 msgid ""
 "But America supported us all the same. It was\n"
 "because we practiced peaceful diplomacy...\n"
 msgstr ""
+"但美国照样支持了我们。\n"
+"因为我们奉行和平外交……\n"
 
 #: codec/1/181/0xb5b70/11
 msgid ""
 "That is what I like to think.\n"
 msgstr ""
+"我愿意这样想。\n"
 
 #: codec/1/181/0xb5b70/12
 msgid ""
 "That's one way to approach it, sure.\n"
 msgstr ""
+"这确实是一种思路。\n"
 
 #: codec/1/181/0xb5b70/13
 msgid ""
 "But there are countries out there who'll use force\n"
 "no matter how bad it looks.\n"
 msgstr ""
+"可有的国家不管多难看，\n"
+"照样会动武。\n"
 
 #: codec/1/181/0xb5b70/14
 msgid ""
 "Maybe so... I know my way of thinking probably\n"
 "looks naïve to you.\n"
 msgstr ""
+"也许吧……我知道我的想法\n"
+"在你看来大概很天真。\n"
 
 #: codec/1/181/0xb5b70/15
 msgid ""
 "But it's not like we expect peace without working\n"
 "for it.\n"
 msgstr ""
+"但我们并不指望\n"
+"不付出就能换来和平。\n"
 
 #: codec/1/181/0xb5b70/16
 msgid ""
 "Diplomacy is a battle in itself.\n"
 msgstr ""
+"外交本身就是一场战斗。\n"
 
 #: codec/1/181/0xb5b70/17
 msgid ""
 "And we have to make the effort\n"
 msgstr ""
+"而且我们必须付出努力。\n"
 
 #. speaker 0x0e55d959 voice v_bri_paz0090_000_0
 #. timeline 473..1783
@@ -917,23 +894,30 @@ msgid ""
 "You know that butterfly painted on Peace Walker -\n"
 "any idea what that is?\n"
 msgstr ""
+"和平行者身上画的那只蝴蝶，\n"
+"你知道是什么吗？\n"
 
 #: codec/1/183/0xb7ea0/1
 msgid ""
 "...It is a Morpho. A Peleides Morpho, if I'm not\n"
 "mistaken.\n"
 msgstr ""
+"……是闪蝶。如果没记错，\n"
+"是佩莱德斯闪蝶。\n"
 
 #: codec/1/183/0xb7ea0/2
 msgid ""
 "Peleides Morpho?\n"
 msgstr ""
+"佩莱德斯闪蝶？\n"
 
 #: codec/1/183/0xb7ea0/3
 msgid ""
 "Uh huh. It is the most common type of Morpho in\n"
 "Costa Rica.\n"
 msgstr ""
+"嗯。它是哥斯达黎加\n"
+"最常见的闪蝶。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_huy0160_010_0
 #. timeline 5739..5935
@@ -1193,17 +1177,21 @@ msgstr ""
 msgid ""
 "My mother was the one who named me \"Paz.\"\n"
 msgstr ""
+"「帕兹」这名字是我母亲取的。\n"
 
 #: codec/1/184/0xb8ee0/1
 msgid ""
 "She said it was an expression of her wish that the\n"
 "country stay at peace.\n"
 msgstr ""
+"她说，这寄托了她希望\n"
+"国家永享和平的心愿。\n"
 
 #: codec/1/184/0xb8ee0/2
 msgid ""
 "It's a pretty common name in Central America.\n"
 msgstr ""
+"这名字在中美洲很常见。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_paz0040_000_0
 #. timeline 473..975
@@ -1536,16 +1524,16 @@ msgid ""
 "Playa del Alba means \"beach of dawn.\" The morning\n"
 "sun is so beautiful over the Caribbean.\n"
 msgstr ""
+"Playa del Alba意为「黎明之滨」。\n"
+"加勒比海的晨曦美极了。\n"
 
 #: codec/1/185/0xb9ef0/1
 msgid ""
 "Beach of Dawn, huh? Perfect place to start a\n"
 "mission.\n"
 msgstr ""
-
-#: codec/1/185/0xb9ef0/4
-msgid "7"
-msgstr ""
+"黎明之滨？倒是很适合\n"
+"作为任务的起点。\n"
 
 #: codec/1/185/0xb9ef0/7
 msgid "AQ"
@@ -2818,85 +2806,110 @@ msgid ""
 "Paz, what was the government thinking building a\n"
 "power plant at the top of a mountain?\n"
 msgstr ""
+"帕兹，政府怎么会想到\n"
+"在山顶建发电站？\n"
 
 #: codec/1/189/0xbdbd0/1
 msgid ""
 "With no river to replenish the water, the lake would\n"
 "dry up pretty quick...\n"
 msgstr ""
+"没有河流补水，\n"
+"湖水很快就会干涸……\n"
 
 #: codec/1/189/0xbdbd0/2
 msgid ""
 "...If it were an ordinary power plant. But the plan\n"
 "called for a pumped storage power plant.\n"
 msgstr ""
+"……如果是普通发电站的话。\n"
+"但方案是抽水蓄能发电站。\n"
 
 #: codec/1/189/0xbdbd0/3
 msgid ""
 "Pumped storage power plant? Kaz mentioned that,\n"
 "too. What is that?\n"
 msgstr ""
+"抽水蓄能发电站？\n"
+"卡兹也提过。那是什么？\n"
 
 #: codec/1/189/0xbdbd0/4
 msgid ""
 "It's a facility that generates electricity by pumping\n"
 "water up to the lake,\n"
 msgstr ""
+"它把水抽到湖里，\n"
+"再靠放水来发电，\n"
 
 #: codec/1/189/0xbdbd0/5
 msgid ""
 "then letting it run back down.\n"
 msgstr ""
+"如此循环往复。\n"
 
 #: codec/1/189/0xbdbd0/6
 msgid ""
 "Seems Sisyphean to me.\n"
 msgstr ""
+"听起来像西西弗斯式的徒劳。\n"
 
 #: codec/1/189/0xbdbd0/7
 msgid ""
 "If they turned the water into electricity as soon as\n"
 "they'd pumped it up, sure.\n"
 msgstr ""
+"要是抽上去就马上发电，\n"
+"那确实是徒劳。\n"
 
 #: codec/1/189/0xbdbd0/8
 msgid ""
 "But a pumped storage plant acts as a kind of\n"
 "battery.\n"
 msgstr ""
+"但抽水蓄能电站\n"
+"相当于一块电池。\n"
 
 #: codec/1/189/0xbdbd0/9
 msgid ""
 "A battery?\n"
 msgstr ""
+"电池？\n"
 
 #: codec/1/189/0xbdbd0/10
 msgid ""
 "For instance, they could pump at night,\n"
 msgstr ""
+"比如可以在夜间抽水，\n"
 
 #: codec/1/189/0xbdbd0/11
 msgid ""
 "when there's surplus electricity, and store it for\n"
 "later use.\n"
 msgstr ""
+"把多余的电力\n"
+"储存起来备用。\n"
 
 #: codec/1/189/0xbdbd0/12
 msgid ""
 "If they need extra power during the day,\n"
 msgstr ""
+"白天需要额外电力时，\n"
 
 #: codec/1/189/0xbdbd0/13
 msgid ""
 "they can generate it using water pumped up during\n"
 "the night.\n"
 msgstr ""
+"就用夜里抽上去的水\n"
+"来发电。\n"
 
 #: codec/1/189/0xbdbd0/14
 msgid ""
 "I get it. It's a little more difficult to adjust output\n"
 "with thermal or nuclear plants.\n"
 msgstr ""
+"我明白了。火电和核电\n"
+"更难调节输出。\n"
 
 #. speaker 0x0e55d959 voice v_bri_mis_paz0190_000_0
 #. timeline 445..2410
@@ -3132,45 +3145,126 @@ msgstr ""
 msgid ""
 "Selba de la Muerte, huh?\n"
 msgstr ""
+"Selba de la Muerte，是吧？\n"
 
 #: codec/1/190/0xbecf0/1
 msgid ""
 "\"Forest of Death.\" Wouldn't want to get lost here.\n"
 msgstr ""
+"「死亡森林」。可别在这里迷路。\n"
 
 #: codec/1/190/0xbecf0/2
 msgid ""
 "Sure wouldn't. But do not worry, I will be your guide.\n"
 msgstr ""
+"确实。不过别担心，我来带路。\n"
 
 #: codec/1/190/0xbecf0/3
 msgid ""
 "Happy to hear it.\n"
 msgstr ""
+"那我就放心了。\n"
 
 #: codec/1/190/0xbecf0/4
 msgid ""
 "By the way, Snake, you know much about sloths?\n"
 msgstr ""
+"对了Snake，你了解树懒吗？\n"
 
 #: codec/1/190/0xbecf0/5
 msgid ""
 "Just the name.\n"
 msgstr ""
+"只知道名字。\n"
 
 #: codec/1/190/0xbecf0/6
 msgid ""
 "They are amazing. Sloths spend almost all their\n"
 "lives up in trees,\n"
 msgstr ""
+"它们很神奇。树懒一生\n"
+"几乎都在树上度过，\n"
 
 #: codec/1/190/0xbecf0/7
 msgid ""
 "except for when they have to go to the bathroom.\n"
 "Plus, they barely eat a thing.\n"
 msgstr ""
+"除了要上厕所的时候。\n"
+"而且几乎不吃东西。\n"
 
 #: codec/1/190/0xbecf0/8
 msgid ""
 "What? How do they survive?\n"
 msgstr ""
+"什么？那怎么活下来的？\n"
+
+#: codec/1/190/0xbecf0/9
+msgid ""
+"Why do you think they're called \"sloths\"?\n"
+msgstr ""
+"你知道它们为什么叫「树懒」吗？\n"
+
+#: codec/1/190/0xbecf0/10
+msgid ""
+"They hardly move, so they hardly burn any energy.\n"
+msgstr ""
+"它们几乎不动，自然几乎不消耗能量。\n"
+
+#: codec/1/190/0xbecf0/11
+msgid ""
+"They're also able to maintain a low body\n"
+"temperature, lowering their metabolism further,\n"
+msgstr ""
+"它们还能维持较低的体温，\n"
+"进一步降低新陈代谢，\n"
+
+#: codec/1/190/0xbecf0/12
+msgid ""
+"and allowing them to survive on very little.\n"
+msgstr ""
+"因此靠极少的东西就能活。\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
+#. timeline 445..1309
+#: codec/1/191/0xbf3b0/0
+msgid ""
+"La Ruinas de Xochiquetzal will be around there.\n"
+msgstr ""
+"索奇克察尔遗迹就在那附近。\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
+#. timeline 1337..2619
+#: codec/1/191/0xbf3b0/1
+msgid ""
+"They have not been restored at all, so they may\n"
+"well be covered in plants.\n"
+msgstr ""
+"它们完全没被修复过，所以很可能\n"
+"被植物覆盖了。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_paz0230_000_0
+#. timeline 2702..3106
+#: codec/1/191/0xbf3b0/2
+msgid ""
+"Xochiquetzal?\n"
+msgstr ""
+"索奇克察尔？\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
+#. timeline 3134..3970
+#: codec/1/191/0xbf3b0/3
+msgid ""
+"An Aztec goddess of fertility and beauty.\n"
+msgstr ""
+"阿兹特克的丰饶与美丽女神。\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
+#. timeline 4068..5154
+#: codec/1/191/0xbf3b0/4
+msgid ""
+"They say she was always accompanied by birds\n"
+"and butterflies.\n"
+msgstr ""
+"据说她身边总有鸟儿\n"
+"和蝴蝶相伴。\n"

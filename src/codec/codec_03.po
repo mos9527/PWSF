@@ -9,50 +9,6 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
-#: codec/1/170/0xaa690/6
-msgid ""
-"Exactly the same. In fact, when you put on a\n"
-"cardboard box when Snake In,\n"
-msgstr ""
-"完全一样。实际上，当Snake In穿上\n"
-"纸箱时，\n"
-
-#: codec/1/170/0xaa690/7
-msgid ""
-"both of you can climb inside.\n"
-msgstr ""
-"两人都能钻进去。\n"
-
-#: codec/1/170/0xaa690/8
-msgid ""
-"A box big enough to hold me and my buddy...\n"
-msgstr ""
-"能装下我和队友的大纸箱……\n"
-
-#: codec/1/170/0xaa690/9
-msgid ""
-"These are fine times we live in, eh, Kaz?\n"
-msgstr ""
-"真是个好时代啊，卡兹？\n"
-
-#: codec/1/170/0xaa690/10
-msgid ""
-"Yyyyeah, sure, Boss...\n"
-msgstr ""
-"是……是啊，BOSS……\n"
-
-#: codec/1/170/0xaaa10/0
-msgid ""
-"Snake, the R&D team came up with something new...\n"
-msgstr ""
-"SNAKE，研发组搞出了新东西……\n"
-
-#: codec/1/170/0xaaa10/1
-msgid ""
-"What is this?!\n"
-msgstr ""
-"这啥？！\n"
-
 #: codec/1/170/0xaaa10/2
 msgid ""
 "It's a cardboard tank. It's got enough room for two\n"
@@ -517,12 +473,15 @@ msgstr ""
 msgid ""
 "To get to your next objective,\n"
 msgstr ""
+"要前往下一个目标，\n"
 
 #: codec/1/171/0xabf10/1
 msgid ""
 "you'll need to backtrack along the way you came\n"
 "for a bit.\n"
 msgstr ""
+"你得沿原路\n"
+"往回走一段。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0020_000_0
 #. timeline 445..1852
@@ -764,18 +723,24 @@ msgid ""
 "Apparently each part of an AI weapon is\n"
 "connected to a memory board inside the AI pod.\n"
 msgstr ""
+"据说AI兵器的每个部件，\n"
+"都连着AI舱内的一块记忆板。\n"
 
 #: codec/1/172/0xaced0/1
 msgid ""
 "Destroying a part will release the lock on the\n"
 "memory board.\n"
 msgstr ""
+"摧毁部件就能\n"
+"解开记忆板的锁定。\n"
 
 #: codec/1/172/0xaced0/2
 msgid ""
 "After that, climb in the pod and you'll be able to\n"
 "grab whichever boards you've unlocked.\n"
 msgstr ""
+"之后钻进舱里，\n"
+"就能取走已解锁的记忆板。\n"
 
 #: codec/1/173/0xad140/0
 msgid ""
@@ -1315,44 +1280,50 @@ msgid ""
 "In this mission, you're prohibited from killing any\n"
 "enemy combatants.\n"
 msgstr ""
+"这次任务禁止杀伤\n"
+"任何敌方战斗人员。\n"
 
 #: codec/1/174/0xaee20/1
 msgid ""
 "And if you're spotted even once, you fail.\n"
 msgstr ""
+"而且只要被发现一次就算失败。\n"
 
 #: codec/1/174/0xaee20/2
 msgid ""
 "Bottom line: proceed with caution.\n"
 msgstr ""
+"总之：谨慎行事。\n"
 
 #: codec/1/174/0xaee20/3
 msgid ""
 "Stay low to the ground. If there are any enemies\n"
 "nearby,\n"
 msgstr ""
-
-#: codec/1/174/0xaee20/4
-msgid ""
-"walk slowly and don't make a sound…\n"
-msgstr ""
+"压低身子。\n"
+"附近有敌人的话，\n"
 
 #: codec/1/174/0xaee20/5
 msgid ""
 "Another good technique is to hide behind\n"
 "something\n"
 msgstr ""
+"还有个好办法是\n"
+"躲在什么东西后面，\n"
 
 #: codec/1/174/0xaee20/6
 msgid ""
 "and do <I=ESEARCH> to check out your enemies.\n"
 msgstr ""
+"再用 <I=ESEARCH> 查看敌人。\n"
 
 #: codec/1/174/0xaee20/7
 msgid ""
 "And then there's always the classic trick of\n"
 "throwing\n"
 msgstr ""
+"另外还有\n"
+"经典的一招：扔出\n"
 
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0350_000_0
 #. timeline 459..1546
@@ -1631,23 +1602,30 @@ msgid ""
 "It'll take more than one missile to sink Mother\n"
 "Base, but if we do get hit,\n"
 msgstr ""
+"一发导弹还不足以让母基地沉没，\n"
+"可一旦真被击中，\n"
 
 #: codec/1/175/0xafea0/1
 msgid ""
 "we'll obviously need time, manpower, and materials\n"
 "to repair the damage.\n"
 msgstr ""
+"修复损伤显然需要\n"
+"时间、人力和物资。\n"
 
 #: codec/1/175/0xafea0/2
 msgid ""
 "Do everything you can to keep Mother Base safe.\n"
 msgstr ""
+"竭尽全力保住母基地。\n"
 
 #: codec/1/175/0xafea0/3
 msgid ""
 "And, ah, at the risk of stating the obvious: if a\n"
 "missile hits you,\n"
 msgstr ""
+"还有，虽然是废话：\n"
+"要是导弹命中你，\n"
 
 #: codec/1/176/0xb00d0/0
 msgid ""
@@ -3196,3 +3174,55 @@ msgid ""
 "But you did?\n"
 msgstr ""
 "那你看穿了？\n"
+
+#: codec/1/180/0xb48c0/10
+msgid ""
+"From the first time we met.\n"
+msgstr ""
+"初见就看穿了。\n"
+
+#: codec/1/180/0xb48c0/11
+msgid ""
+"I wish you'd told me...\n"
+msgstr ""
+"真希望你告诉过我……\n"
+
+#: codec/1/180/0xb48c0/12
+msgid ""
+"Sorry. I didn't know if it'd be right.\n"
+msgstr ""
+"抱歉。我不确定该不该说。\n"
+
+#: codec/1/180/0xb48c0/13
+msgid ""
+"You might have gotten mixed up in things you\n"
+"shouldn't.\n"
+msgstr ""
+"你可能卷入了你\n"
+"不该卷入的事情。\n"
+
+#: codec/1/180/0xb48c0/14
+msgid ""
+"That is impressive, though. Sizing him up him at a\n"
+"single glance.\n"
+msgstr ""
+"不过那真厉害。一眼就\n"
+"看穿了他。\n"
+
+#: codec/1/180/0xb48c0/15
+msgid ""
+"He reeked.\n"
+msgstr ""
+"他一身味儿。\n"
+
+#: codec/1/180/0xb48c0/16
+msgid ""
+"Reeked?\n"
+msgstr ""
+"味？\n"
+
+#: codec/1/180/0xb48c0/17
+msgid ""
+"He had this unmistakable air about him...\n"
+msgstr ""
+"他身上有股藏不住的气息……\n"
