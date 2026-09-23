@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PWSF codec 2/12\n"
+"Project-Id-Version: PWSF codec 2/15\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -8,6 +8,174 @@ msgstr ""
 "X-PWSF-Source: codec\n"
 "X-PWSF-Entries: 400\n"
 
+
+#: codec/1/157/0x9dc70/4
+msgid ""
+"It was a gift, OK? It wouldn't be right to get rid of\n"
+"it.\n"
+msgstr ""
+"那是礼物，行吗？把它扔掉\n"
+"不合适。\n"
+
+#: codec/1/157/0x9dc70/5
+msgid ""
+"It was? OK, then... Speaking of which,\n"
+msgstr ""
+"是吗？那行…说起来，\n"
+
+#: codec/1/157/0x9dc70/6
+msgid ""
+"Che supposedly had a black scarf he used to take\n"
+"everywhere with him.\n"
+msgstr ""
+"据说切有一条黑围巾，他以前走到哪儿\n"
+"都带着。\n"
+
+#: codec/1/157/0x9dc70/7
+msgid ""
+"A scarf?\n"
+msgstr ""
+"围巾?\n"
+
+#: codec/1/157/0x9dc70/8
+msgid ""
+"One of his comrades gave it to him when he broke\n"
+"his arm in battle.\n"
+msgstr ""
+"他战斗中摔断手臂时，一位战友\n"
+"把围巾给了他。\n"
+
+#: codec/1/157/0x9dc70/9
+msgid ""
+"Che used that silk scarf as a sling...\n"
+msgstr ""
+"切拿那条丝巾当吊带……\n"
+
+#: codec/1/157/0x9dc70/10
+msgid ""
+"and the comrade who gave it to him became his\n"
+"second wife.\n"
+msgstr ""
+"给他围巾的战友后来成了他\n"
+"第二任妻子。\n"
+
+#: codec/1/157/0x9dc70/11
+msgid ""
+"Aleida, right?\n"
+msgstr ""
+"阿蕾达？\n"
+
+#: codec/1/157/0x9dc70/12
+msgid ""
+"Even after his arm healed up, he never went\n"
+"anywhere without that scarf.\n"
+msgstr ""
+"手臂痊愈后，他也从未\n"
+"不带那条围巾出门。\n"
+
+#: codec/1/157/0x9dc70/13
+msgid ""
+"What about you? You get that bandanna from\n"
+"someone special?\n"
+msgstr ""
+"那你呢？头巾是\n"
+"某个特别的人给的？\n"
+
+#: codec/1/157/0x9dc70/14
+msgid ""
+"No, nothing like that. It's... important to me, that's all.\n"
+msgstr ""
+"不，不是。只是……对我很重要。\n"
+
+#: codec/1/158/0x9e190/0
+msgid ""
+"You were saying Japan has a peace constitution,\n"
+"too?\n"
+msgstr ""
+"你刚才说日本也有和平宪法，\n"
+"对吧？\n"
+
+#: codec/1/158/0x9e190/1
+msgid ""
+"Yep. Japan renounced war in Article 9 of its\n"
+"constitution.\n"
+msgstr ""
+"是的。日本宪法第九条\n"
+"放弃了战争。\n"
+
+#: codec/1/158/0x9e190/2
+msgid ""
+"Aspiring sincerely to an international peace based\n"
+"on justice and order...\n"
+msgstr ""
+"真诚地渴望基于正义与秩序\n"
+"的国际和平……\n"
+
+#: codec/1/158/0x9e190/3
+msgid ""
+"...the Japanese people forever renounce war as a\n"
+"sovereign right of the nation\n"
+msgstr ""
+"……日本人民永远放弃以国家主权\n"
+"发动战争的权利\n"
+
+#: codec/1/158/0x9e190/4
+msgid ""
+"and the threat or use of force as means of\n"
+"settling international disputes.\n"
+msgstr ""
+"以及以武力威胁或行使武力\n"
+"作为解决国际争端的手段。\n"
+
+#: codec/1/158/0x9e190/5
+msgid ""
+"In order to accomplish the aim of the preceding\n"
+"paragraph,\n"
+msgstr ""
+"为了实现前款\n"
+"所述之目的，\n"
+
+#: codec/1/158/0x9e190/6
+msgid ""
+"land, sea, and air forces, as well as other war\n"
+"potential, will never be maintained.\n"
+msgstr ""
+"陆、海、空力量以及其他战争\n"
+"潜力，将永不保持。\n"
+
+#: codec/1/158/0x9e190/7
+msgid ""
+"The right of belligerency of the state will not be\n"
+"recognized.\n"
+msgstr ""
+"国家的交战权将不被\n"
+"承认。\n"
+
+#: codec/1/158/0x9e190/8
+msgid ""
+"You know it by heart?\n"
+msgstr ""
+"你背下来了？\n"
+
+#: codec/1/158/0x9e190/9
+msgid ""
+"Some things you never forget.\n"
+msgstr ""
+"有些事永远忘不了。\n"
+
+#: codec/1/158/0x9e190/10
+msgid ""
+"Impressive. There were some parts I didn't quite\n"
+"get, though\n"
+msgstr ""
+"令人印象深刻。不过有些部分我\n"
+"不太明白\n"
+
+#: codec/1/158/0x9e190/11
+msgid ""
+"- like the whole \"means of settling conflicts\" thing.\n"
+msgstr ""
+"比如“解决争端的手段”那句。\n"
 
 #: codec/1/158/0x9e190/12
 msgid ""
@@ -161,6 +329,77 @@ msgstr ""
 "不管怎么说，这都是典型的日本式\n"
 "解释方式。\n"
 
+#: codec/1/158/0x9ecf0/0
+msgid ""
+"The U.S. has military forces stationed in Japan,\n"
+"right?\n"
+msgstr ""
+
+#: codec/1/158/0x9ecf0/1
+msgid ""
+"Right. Even though the Allied occupation ended,\n"
+msgstr ""
+
+#: codec/1/158/0x9ecf0/2
+msgid ""
+"American forces are still stationed there under the\n"
+"U.S.-Japan Security Treaty.\n"
+msgstr ""
+
+#: codec/1/158/0x9ecf0/3
+#: codec/1/182/0xb66e0/4
+msgid ""
+"Unlike Costa Rica.\n"
+msgstr ""
+"哥斯达黎加则不然。\n"
+
+#: codec/1/158/0x9ecf0/4
+msgid ""
+"Part of it stems from the occupation,\n"
+msgstr ""
+
+#: codec/1/158/0x9ecf0/5
+msgid ""
+"but Japan also occupies a key strategic position\n"
+"from America's perspective.\n"
+msgstr ""
+
+#: codec/1/158/0x9ecf0/6
+msgid ""
+"It's next door to the Soviet Union, and close to\n"
+"China and North Korea as well.\n"
+msgstr ""
+
+#: codec/1/158/0x9ecf0/7
+msgid ""
+"It's integral to the security of Pacific Asia.\n"
+msgstr ""
+
+#: codec/1/158/0x9ecf0/8
+msgid ""
+"For America, Japan represents a barrier against\n"
+"communism.\n"
+msgstr ""
+
+#: codec/1/158/0x9ecf0/9
+msgid ""
+"What about for Japan?\n"
+msgstr ""
+
+#: codec/1/158/0x9ecf0/10
+msgid ""
+"As you might expect, there's deep-rooted\n"
+"opposition to the alliance.\n"
+msgstr ""
+
+#: codec/1/158/0x9ecf0/19
+msgid ","
+msgstr ""
+
+#: codec/1/158/0x9ecf0/23
+msgid "Q]"
+msgstr ""
+
 #: codec/1/159/0x9f870/0
 msgid ""
 "You know that today, Japan is under the American\n"
@@ -292,6 +531,12 @@ msgid ""
 "When you get down to it, it's all smoke and mirrors.\n"
 msgstr ""
 "说到底，全是虚张声势。\n"
+
+#: codec/1/159/0x9ff20/0
+msgid ""
+"\"Japan shall not possess, manufacture, or allow the\n"
+"introduction of nuclear weapons into Japan\"...\n"
+msgstr ""
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0330_000_0
 #. timeline 473..1727
@@ -680,6 +925,372 @@ msgid ""
 msgstr ""
 "别急，卡兹。\n"
 
+#: codec/1/161/0xa15f0/0
+msgid ""
+"March 10, 1945. 381,300 cluster bombs were\n"
+"dropped on Tokyo.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/1
+msgid ""
+"Japanese houses at the time were almost all made\n"
+"of wood.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/2
+msgid ""
+"In that single day, a third of Tokyo burned to the\n"
+"ground.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/3
+msgid ""
+"My mom lost her family and home in that raid.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/4
+msgid ""
+"She had to move to Yokosuka and live with her\n"
+"cousin.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/5
+msgid ""
+"The B-29s kept on coming, razing other major\n"
+"cities throughout Japan without mercy.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/6
+msgid ""
+"Then, in August, they dropped atomic bombs on\n"
+"Hiroshima and Nagasaki,\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/7
+msgid ""
+"and Japan surrendered to the United States at last.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/8
+msgid ""
+"After that, Yokosuka was flooded with American\n"
+"soldiers come to occupy the country.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/9
+msgid ""
+"My mother was still in her mid-teens, and she\n"
+"learned from her cousin\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/10
+msgid ""
+"how to survive in that town - by servicing the\n"
+"troops.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/11
+msgid ""
+"That's how she met my father. And how I was born.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/12
+msgid ""
+"My father was an officer\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/13
+msgid ""
+"serving with the Government Section of Allied GHQ,\n"
+"under General Whitney.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/14
+msgid ""
+"Whitney was known as MacArthur's shadow,\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/15
+msgid ""
+"and my father rode his coattails to a pretty high\n"
+"rank.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/16
+msgid ""
+"While he was in Japan, he treated my mom like a\n"
+"wife.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/17
+msgid ""
+"After he went back to the States, though, she\n"
+"never heard from him.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/18
+msgid ""
+"I wasn't born until after he went back.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/19
+msgid ""
+"My mom raised me as a single mother.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/20
+msgid ""
+"She used the money my father left her to open a\n"
+"shop,\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/21
+msgid ""
+"selling cigarettes and stuff to occupation troops.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/22
+msgid ""
+"It was a decent living. But I didn't have citizenship.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/23
+msgid ""
+"They're working to change the law now, but back\n"
+"then, if your father was unknown,\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/24
+msgid ""
+"you couldn't get onto the Japanese family register\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/25
+msgid ""
+"- and in Japan, that means you can't be Japanese.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/26
+msgid ""
+"So as I watched the American soldiers around\n"
+"town, I said to myself:\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/27
+msgid ""
+"I'm a son of America, the victor.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/28
+msgid ""
+"My hair and eyes were different from the skinny,\n"
+"downtrodden Japanese around me.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/29
+msgid ""
+"I told myself I'd leave this country someday and\n"
+"return to my true homeland..\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/30
+msgid ""
+"When I was around 10 years old, my mom fell ill,\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/31
+msgid ""
+"pretty much leaving me to run the shop in her\n"
+"place.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/32
+msgid ""
+"One day, I found a single picture of my father in\n"
+"the back of a drawer in the shop.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/33
+msgid ""
+"I'd show it to the American soldiers who came in to\n"
+"the store.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/34
+msgid ""
+"A few years went by before one of them told me\n"
+"who he was.\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/35
+msgid ""
+"\"I know him. That's Miller.\"\n"
+msgstr ""
+
+#: codec/1/161/0xa15f0/40
+msgid "a"
+msgstr ""
+
+#: codec/1/161/0xa15f0/67
+msgid ""
+msgstr ""
+
+#: codec/1/161/0xa15f0/73
+msgid "m"
+msgstr ""
+
+#: codec/1/163/0xa3900/0
+msgid ""
+"Life's funny sometimes, isn't it?\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/1
+msgid ""
+"What brought that on?\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/2
+msgid ""
+"We first met as enemies on the battlefield, and\n"
+"now here we are fighting side by side.\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/3
+msgid ""
+"You mean Colombia?\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/4
+msgid ""
+"Yeah. After I quit the JSDF, I made my way there\n"
+"and got myself a position\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/5
+msgid ""
+"as a drill sergeant for a band of revolutionaries,\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/6
+msgid ""
+"despite the fact that I'd never seen a day of\n"
+"combat.\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/7
+msgid ""
+"I see you had the gift for talking business in\n"
+"Spanish even back then.\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/8
+msgid ""
+"C'mon, stop it, you're making me blush.\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/9
+msgid ""
+"Unlucky for me, though, you were in the service of\n"
+"the Colombian Army.\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/10
+msgid ""
+"I remember it like it was yesterday. It all happened\n"
+"in an instant.\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/11
+msgid ""
+"You guys ambushed us, and half my unit was taken\n"
+"out.\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/12
+msgid ""
+"My mind went totally blank. I couldn't keep it\n"
+"together... My whole unit was wiped out...\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/13
+msgid ""
+"and I was left half-dead from a bomb blast.\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/14
+msgid ""
+"Then, as I was leaving, you yelled out at me...\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/15
+msgid ""
+"\"I came all the way from Japan to be here. My\n"
+"place is on the battlefield.\"\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/16
+msgid ""
+"Then you asked for my help, saying, \"I want to be\n"
+"the one to end it.\"\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/17
+msgid ""
+"I remember being surprised that there were still\n"
+"samurai in Japan.\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/18
+msgid ""
+"You guys came over to me. I had a grenade hidden\n"
+"under me.\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/19
+msgid ""
+"But even then you were too fast. The second I\n"
+"pulled the pin,\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/20
+msgid ""
+"you grabbed the hand I was using to hold the\n"
+"grenade with both palms.\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/21
+msgid ""
+"I didn't want it to go off. I'd heard samurai were a\n"
+"proud bunch. I wanted to know\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/22
+msgid ""
+"why one of them would stoop so low as to try and\n"
+"take his opponent with him.\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/23
+msgid ""
+"And I said, \"I'll never lose again... We'll never lose\n"
+"again.\"\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/24
+msgid ""
+"Yeah. \"We'll do whatever it takes, but we'll never be\n"
+"beaten again.\"\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/25
+msgid ""
+"Then I passed out from the blood loss.\n"
+msgstr ""
+
+#: codec/1/163/0xa3900/31
+msgid ""
+msgstr ""
+
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0010_000_0
 #. timeline 445..1156
 #: codec/1/164/0xa47a0/0
@@ -856,6 +1467,22 @@ msgid ""
 msgstr ""
 "不过要是能随时\n"
 "富尔顿回收任何人就好了……\n"
+
+#: codec/1/164/0xa4f10/0
+msgid ""
+"You can steal items from soldiers by putting them\n"
+"to sleep\n"
+msgstr ""
+
+#: codec/1/164/0xa4f10/1
+msgid ""
+"or knocking them out and then doing a body check.\n"
+msgstr ""
+
+#: codec/1/164/0xa4f10/2
+msgid ""
+"Get close to the unconscious soldier\n"
+msgstr ""
 
 #: codec/1/165/0xa5290/0
 msgid ""
@@ -1488,6 +2115,12 @@ msgid ""
 msgstr ""
 "行动越方便。\n"
 
+#: codec/1/166/0xa6f50/0
+msgid ""
+"In CO-OPS, you can trade weapons and equipment\n"
+"with your teammates.\n"
+msgstr ""
+
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0080_000_0
 #. timeline 445..1866
 #: codec/1/167/0xa7370/0
@@ -1740,6 +2373,51 @@ msgid ""
 msgstr ""
 "然后就结束了。\n"
 
+#: codec/1/167/0xa7dc0/0
+msgid ""
+"Building trust with your teammates is essential to\n"
+"success in CO-OPS.\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/1
+msgid ""
+"That goes without saying.\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/2
+msgid ""
+"I'm not gonna let somebody I can't trust cover my\n"
+"ass.\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/3
+msgid ""
+"The measure of that trust is called \"camaraderie.\"\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/4
+msgid ""
+"Think of it as an indicator of how strong your bond\n"
+"is with your CO-OPS teammates.\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/5
+msgid ""
+"The friendlier you act toward them, the greater\n"
+"your camaraderie.\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/6
+msgid ""
+"Give me an example.\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/7
+msgid ""
+"Your camaraderie will be higher if you're \"CO-OP In\"\n"
+"than standing apart.\n"
+msgstr ""
+
 #: codec/1/168/0xa84e0/0
 msgid ""
 "Stand still when you're Snake In and you and your\n"
@@ -1975,6 +2653,22 @@ msgid ""
 "Knock it off.\n"
 msgstr ""
 "少来。\n"
+
+#: codec/1/168/0xa8f00/0
+msgid ""
+"Seems the R&D team's been busy working on CO-OPS\n"
+"only weapons.\n"
+msgstr ""
+
+#: codec/1/168/0xa8f00/1
+msgid ""
+"CO-OPS only?\n"
+msgstr ""
+
+#: codec/1/168/0xa8f00/2
+msgid ""
+"Like a gun with extreme firepower...\n"
+msgstr ""
 
 #: codec/1/169/0xa9240/0
 msgid ""
@@ -2280,6 +2974,16 @@ msgstr ""
 "话语的力量多种多样。你自己\n"
 "也试试看吧。\n"
 
+#: codec/1/169/0xa9f40/0
+msgid ""
+"Snake, about cardboard boxes...\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/1
+msgid ""
+"Ahh!\n"
+msgstr ""
+
 #: codec/1/170/0xaa690/0
 msgid ""
 "Up to two people can fit inside a cardboard box.\n"
@@ -2317,935 +3021,3 @@ msgid ""
 "So... Same as Snake Formation, huh.\n"
 msgstr ""
 "跟SNAKE阵型一样啊。\n"
-
-#: codec/1/170/0xaa690/6
-msgid ""
-"Exactly the same. In fact, when you put on a\n"
-"cardboard box when Snake In,\n"
-msgstr ""
-"完全一样。实际上，当Snake In穿上\n"
-"纸箱时，\n"
-
-#: codec/1/170/0xaa690/7
-msgid ""
-"both of you can climb inside.\n"
-msgstr ""
-"两人都能钻进去。\n"
-
-#: codec/1/170/0xaa690/8
-msgid ""
-"A box big enough to hold me and my buddy...\n"
-msgstr ""
-"能装下我和队友的大纸箱……\n"
-
-#: codec/1/170/0xaa690/9
-msgid ""
-"These are fine times we live in, eh, Kaz?\n"
-msgstr ""
-"真是个好时代啊，卡兹？\n"
-
-#: codec/1/170/0xaa690/10
-msgid ""
-"Yyyyeah, sure, Boss...\n"
-msgstr ""
-"是……是啊，BOSS……\n"
-
-#: codec/1/170/0xaaa10/0
-msgid ""
-"Snake, the R&D team came up with something new...\n"
-msgstr ""
-"SNAKE，研发组搞出了新东西……\n"
-
-#: codec/1/170/0xaaa10/1
-msgid ""
-"What is this?!\n"
-msgstr ""
-"这啥？！\n"
-
-#: codec/1/170/0xaaa10/2
-msgid ""
-"It's a cardboard tank. It's got enough room for two\n"
-"people,\n"
-msgstr ""
-"这是一辆纸板坦克。它足够容纳两\n"
-"个人，\n"
-
-#: codec/1/170/0xaaa10/3
-msgid ""
-"same as any other cardboard box.\n"
-msgstr ""
-"跟普通纸箱一样。\n"
-
-#: codec/1/170/0xaaa10/4
-msgid ""
-"Apparently the guy in front drives, and the guy in\n"
-"back is the gunner...\n"
-msgstr ""
-"据说前面的人负责驾驶，后面的人\n"
-"是炮手……\n"
-
-#: codec/1/170/0xaaa10/5
-msgid ""
-"Hold on. Kaz, who the hell came up this thing?!\n"
-msgstr ""
-"等等。卡兹，谁搞出这玩意的？！\n"
-
-#: codec/1/170/0xaaa10/6
-msgid ""
-"I'm sorry, Boss. He meant well, I swear.\n"
-msgstr ""
-"抱歉，BOSS。他真是好意。\n"
-
-#: codec/1/170/0xaaa10/7
-msgid ""
-"I know it's nowhere near as good as a real tank,\n"
-"but still...\n"
-msgstr ""
-"我知道它远不如真正的坦克，\n"
-"但还是……\n"
-
-#: codec/1/170/0xaaa10/8
-msgid ""
-"It's BRILLIANT!!\n"
-msgstr ""
-"太棒了！！\n"
-
-#: codec/1/170/0xaaa10/9
-#: codec/1/195/0xc38b0/10
-#: codec/1/240/0xf0320/28
-msgid ""
-"Huh?\n"
-msgstr ""
-"啊？\n"
-
-#: codec/1/170/0xaaa10/10
-msgid ""
-"The perfect synthesis of stealth and attack power.\n"
-msgstr ""
-"隐匿与攻击力的完美结合。\n"
-
-#: codec/1/170/0xaaa10/11
-msgid ""
-"Compact, elegant design. The finest example of a\n"
-"weapon I've ever seen!\n"
-msgstr ""
-"紧凑、优雅的设计。这是我见过\n"
-"最精良的武器典范！\n"
-
-#: codec/1/170/0xaaa10/12
-msgid ""
-"Seriously, Kaz, I need to meet the guy who made\n"
-"this. I wanna shake his hand.\n"
-msgstr ""
-"说真的，Kaz，我得见见做这个的\n"
-"人。我想跟他握个手。\n"
-
-#: codec/1/170/0xaaa10/13
-msgid ""
-"Y-you're serious? Snake, look at it, it's...\n"
-msgstr ""
-"你、当真？SNAKE，看它，这……\n"
-
-#: codec/1/170/0xaaa10/14
-msgid ""
-"It's a masterpiece, in every sense of the word. You\n"
-"don't agree?\n"
-msgstr ""
-"无论从哪方面说，这都是杰作。你\n"
-"不同意？\n"
-
-#: codec/1/170/0xaaa10/15
-msgid ""
-"N-no, I...!\n"
-msgstr ""
-"不、不是，我……！\n"
-
-#: codec/1/170/0xaaa10/16
-msgid ""
-"Ooh, what's that? A tank? I like it!\n"
-msgstr ""
-"哦，那是什么？坦克？我喜欢！\n"
-
-#: codec/1/170/0xaaa10/17
-msgid ""
-"Paz?!\n"
-msgstr ""
-"帕兹？！\n"
-
-#: codec/1/170/0xaaa10/18
-msgid ""
-"I hate tanks, but this one I think I could get used\n"
-"to.\n"
-msgstr ""
-"我讨厌坦克，但这辆我能慢慢\n"
-"习惯。\n"
-
-#: codec/1/170/0xaaa10/19
-msgid ""
-"I love that it's a zero emissions vehicle - it will not\n"
-"hurt the forests of Costa Rica.\n"
-msgstr ""
-"我喜欢它是零排放车辆——不会\n"
-"伤害哥斯达黎加的森林。\n"
-
-#: codec/1/170/0xaaa10/20
-#: codec/2/912/0x3904c0/1
-msgid ""
-"What?!\n"
-msgstr ""
-"什么？！\n"
-
-#: codec/1/170/0xaaa10/21
-msgid ""
-"Nice work, Kaz. I see I made the right choice\n"
-"making you second in command.\n"
-msgstr ""
-"干得好，卡兹。看来我选你当\n"
-"副手没选错。\n"
-
-#: codec/1/170/0xaaa10/22
-msgid ""
-"But I... Is there something wrong with me?!\n"
-msgstr ""
-"可是我……我有什么问题吗？！\n"
-
-#: codec/1/171/0xab160/0
-msgid ""
-"Snake, about that cassette player Gálvez was\n"
-"carrying...\n"
-msgstr ""
-"SNAKE，加尔维斯带的那个\n"
-"磁带播放器……\n"
-
-#: codec/1/171/0xab160/1
-msgid ""
-"What about it?\n"
-msgstr ""
-"怎么了？\n"
-
-#: codec/1/171/0xab160/2
-msgid ""
-"That was no Russian imitation.\n"
-msgstr ""
-"那不是苏联仿制品。\n"
-
-#: codec/1/171/0xab160/3
-msgid ""
-"It was the real deal - a prototype developed by a\n"
-"Japanese company.\n"
-msgstr ""
-"那是真货——一家日本公司\n"
-"开发的试制品。\n"
-
-#: codec/1/171/0xab160/4
-msgid ""
-"Get out of here!\n"
-msgstr ""
-"别逗了！\n"
-
-#: codec/1/171/0xab160/5
-msgid ""
-"It's true. It had the Sony logo on it. The product\n"
-"name is \"WALKMAN.\"\n"
-msgstr ""
-"没错。上面有索尼的标志。产品名\n"
-"叫“WALKMAN”。\n"
-
-#: codec/1/171/0xab160/6
-msgid ""
-"WALKMAN...\n"
-msgstr ""
-"WALKMAN……\n"
-
-#: codec/1/171/0xab160/7
-msgid ""
-"It's a revolutionary new concept. Music you can\n"
-"listen to on the go.\n"
-msgstr ""
-"这是革命性的新概念。随时随地\n"
-"听音乐。\n"
-
-#: codec/1/171/0xab160/8
-msgid ""
-"You can take with you when you leave the house.\n"
-msgstr ""
-"出门也能带着走。\n"
-
-#: codec/1/171/0xab160/9
-msgid ""
-"I gave it a listen,\n"
-msgstr ""
-"我听了听，\n"
-
-#: codec/1/171/0xab160/10
-msgid ""
-"and you wouldn't believe how good the sound\n"
-"quality is for something so tiny.\n"
-msgstr ""
-"这么小的东西，音质好得\n"
-"难以置信。\n"
-
-#: codec/1/171/0xab160/11
-msgid ""
-"And in stereo, too. Think of the technology that\n"
-"must have gone into it.\n"
-msgstr ""
-"还是立体声。想想得用上\n"
-"多少技术。\n"
-
-#: codec/1/171/0xab160/12
-msgid ""
-"And that tape is equally amazing.\n"
-msgstr ""
-"那磁带也一样惊人。\n"
-
-#: codec/1/171/0xab160/13
-msgid ""
-"The treble range is clearly superior to any other\n"
-"cassette ever made. Stylish, too.\n"
-msgstr ""
-"高音明显胜过以往任何磁带。\n"
-"还很时髦。\n"
-
-#: codec/1/171/0xab160/14
-msgid ""
-"How'd Gálvez get his hands on a model that's not\n"
-"even out yet?\n"
-msgstr ""
-"加尔维斯怎么弄到还没上市的\n"
-"型号的？\n"
-
-#: codec/1/171/0xab160/15
-msgid ""
-"Beats me. It's not the kind of thing I'd expect some\n"
-"stodgy Soviet to be into.\n"
-msgstr ""
-"不知道。这不像古板苏联人\n"
-"会喜欢的东西。\n"
-
-#: codec/1/171/0xab160/16
-msgid ""
-"Me neither. Tell you what, though, it's a fine piece\n"
-"of work.\n"
-msgstr ""
-"我也一样。不过说真的，这活儿\n"
-"干得漂亮。\n"
-
-#: codec/1/171/0xab160/17
-msgid ""
-"It'd let me listen to my music when I want, where I\n"
-"want.\n"
-msgstr ""
-"这样我就能随时听音乐，\n"
-"想听就听。\n"
-
-#: codec/1/171/0xab160/18
-msgid ""
-"I... never thought I'd hear you say that. But I have\n"
-"to agree.\n"
-msgstr ""
-"我……没想过你会这么说。但我\n"
-"得承认。\n"
-
-#: codec/1/171/0xab160/19
-msgid ""
-"Me, I'm a recording freak,\n"
-msgstr ""
-"我可是个录音狂，\n"
-
-#: codec/1/171/0xab160/20
-msgid ""
-"and I always used to laugh at the idea of a\n"
-"portable player.\n"
-msgstr ""
-"我以前总是嘲笑便携播放器\n"
-"这种想法。\n"
-
-#: codec/1/171/0xab160/21
-msgid ""
-"But now that I've seen it in action, I've changed my\n"
-"mind.\n"
-msgstr ""
-"但亲眼见它实际效果后，我\n"
-"改主意了。\n"
-
-#: codec/1/171/0xab160/22
-msgid ""
-"Being able to take your music with you...\n"
-msgstr ""
-"能把音乐随身带着……\n"
-
-#: codec/1/171/0xab160/23
-msgid ""
-"This could be the start of a revolution in music.\n"
-msgstr ""
-"这可能是音乐革命的开始。\n"
-
-#: codec/1/171/0xab160/24
-msgid ""
-"Could be.\n"
-msgstr ""
-"有可能。\n"
-
-#: codec/1/171/0xab160/25
-msgid ""
-"I'm having the guys at Mother Base study and\n"
-"analyze it. Who knows?\n"
-msgstr ""
-"我让母基地的人研究\n"
-"分析它。谁知道呢？\n"
-
-#: codec/1/171/0xab160/26
-msgid ""
-"They might be able to come up with something\n"
-"even better.\n"
-msgstr ""
-"他们也许能做出\n"
-"更好的东西。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0170_000_0
-#. timeline 445..1421
-#: codec/1/171/0xaba60/0
-msgid ""
-"Going by this map, you've got a lot of different\n"
-"terrain types between\n"
-msgstr ""
-"看这地图，从你到关押桑地诺\n"
-"指挥官的小屋之间\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0170_000_0
-#. timeline 1421..2396
-#: codec/1/171/0xaba60/1
-msgid ""
-"you and the hut where the Sandinista\n"
-"comandante's being held.\n"
-msgstr ""
-"要经过许多不同的\n"
-"地形类型。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_kaz0170_000_0
-#. timeline 2674..3566
-#: codec/1/171/0xaba60/2
-msgid ""
-"Looks that way, doesn't it. Starting with jungle.\n"
-msgstr ""
-"看起来是这样。先是丛林。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0170_000_0
-#. timeline 3580..4304
-#: codec/1/171/0xaba60/3
-msgid ""
-"The enemy won't be able to see you very well,\n"
-msgstr ""
-"敌人不容易看到你，\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0170_000_0
-#. timeline 4318..5433
-#: codec/1/171/0xaba60/4
-msgid ""
-"but your visibility won't be so hot, either. Stay alert.\n"
-msgstr ""
-"但你的视野也不怎么样。保持警惕。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0170_000_0
-#. timeline 5489..6213
-#: codec/1/171/0xaba60/5
-msgid ""
-"Next you've got the swamps along the river.\n"
-msgstr ""
-"接下来是河边的沼泽。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0170_000_0
-#. timeline 6255..7537
-#: codec/1/171/0xaba60/6
-msgid ""
-"Make sure you get a good feel for how robust\n"
-"surveillance is before diving in.\n"
-msgstr ""
-"潜入之前，务必摸清\n"
-"监视的严密程度。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_kaz0170_000_0
-#. timeline 7565..7857
-#. speaker 0x0e28dce6 voice v_bri_kaz0040_000_0
-#. timeline 12329..12636
-#: codec/1/171/0xaba60/7
-#: codec/1/172/0xaca30/12
-msgid ""
-"Will do.\n"
-msgstr ""
-"好。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0170_000_0
-#. timeline 7941..9292
-#: codec/1/171/0xaba60/8
-msgid ""
-"Finally, there's the boat repair cabin - the\n"
-"comandante's in there.\n"
-msgstr ""
-"最后是修船小屋——\n"
-"指挥官就在那里。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0170_000_0
-#. timeline 9362..10421
-#: codec/1/171/0xaba60/9
-msgid ""
-"It's a key enemy outpost, and security is going to\n"
-"be tight.\n"
-msgstr ""
-"那是敌人的重要前哨，安保会\n"
-"非常严密。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0170_000_0
-#. timeline 10448..11270
-#: codec/1/171/0xaba60/10
-msgid ""
-"You may have to let brute force do the talking.\n"
-msgstr ""
-"可能得靠硬闯了。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0170_000_0
-#. timeline 11312..11897
-#: codec/1/171/0xaba60/11
-msgid ""
-"You still have a long way to go, Snake.\n"
-msgstr ""
-"你还有很长的路要走，SNAKE。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0170_000_0
-#. timeline 11911..12928
-#: codec/1/171/0xaba60/12
-msgid ""
-"Use caution, and don't make a racket out there.\n"
-"Got it?\n"
-msgstr ""
-"小心，别弄出太大动静。\n"
-"明白吗？\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0020_000_0
-#. timeline 445..1852
-#: codec/1/172/0xac500/0
-msgid ""
-"To destroy the barricade north of the village, you'll\n"
-"need Composition 4 explosive.\n"
-msgstr ""
-"要炸毁村庄北面的路障，你需要\n"
-"C4炸药。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0020_000_0
-#. timeline 1866..2549
-#: codec/1/172/0xac500/1
-msgid ""
-"You've handled C4 before, right, Snake?\n"
-msgstr ""
-"你以前用过C4吧，SNAKE？\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_kaz0020_000_0
-#. timeline 2563..3970
-#: codec/1/172/0xac500/2
-msgid ""
-"Yeah. I've been a regular user since the days of C3.\n"
-msgstr ""
-"是啊，从C3那会儿我就一直用它。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0020_000_0
-#. timeline 3970..4750
-#: codec/1/172/0xac500/3
-msgid ""
-"C3... oh yeah, I remember.\n"
-msgstr ""
-"C3…对，我记得。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0020_000_0
-#. timeline 4750..5865
-#: codec/1/172/0xac500/4
-msgid ""
-"That stuff got brittle and useless in cold\n"
-"temperatures, so they upgraded.\n"
-msgstr ""
-"那种东西在低温下会变脆失效，\n"
-"所以他们升级了。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0020_000_0
-#. timeline 5893..6659
-#: codec/1/172/0xac500/5
-msgid ""
-"C4's a moldable plastic explosive.\n"
-msgstr ""
-"C4是可塑炸药。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0020_000_0
-#. timeline 6673..7634
-#: codec/1/172/0xac500/6
-msgid ""
-"It's very stable and won't explode without a special\n"
-"detonator.\n"
-msgstr ""
-"它非常稳定，没有专用雷管\n"
-"是不会爆炸的。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0020_000_0
-#. timeline 7662..8414
-#: codec/1/172/0xac500/7
-msgid ""
-"Light it on fire and all it does is burn.\n"
-msgstr ""
-"用火点它只会燃烧。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_kaz0020_000_0
-#. timeline 8428..9418
-#: codec/1/172/0xac500/8
-msgid ""
-"A lot of American soldiers in Vietnam used to use\n"
-"it as fuel.\n"
-msgstr ""
-"越战时很多美军士兵\n"
-"拿它当燃料用。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0020_000_0
-#. timeline 9445..10504
-#: codec/1/172/0xac500/9
-msgid ""
-"Place it near the barricade and move to a safe\n"
-"location,\n"
-msgstr ""
-"放路障附近，然后转移到\n"
-"安全位置，\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0020_000_0
-#. timeline 10532..11215
-#: codec/1/172/0xac500/10
-msgid ""
-"then hit the detonator button to blow it up\n"
-msgstr ""
-"再按起爆按钮炸掉它\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_kaz0020_000_0
-#. timeline 11215..11563
-#: codec/1/172/0xac500/11
-msgid ""
-"I'm on it.\n"
-msgstr ""
-"我来。\n"
-
-#: codec/1/172/0xac930/0
-msgid ""
-"We've completed work on the C4 charges. Equip\n"
-"them at the entry gate and take them with you on\n"
-"the mission.\n"
-msgstr ""
-"C4炸药我们已经完成了。在入口大门处\n"
-"装备好，执行任务时\n"
-"随身带上。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_kaz0040_000_0
-#. timeline 515..1685
-#: codec/1/172/0xaca30/0
-msgid ""
-"Those giant footprints near the terminal... What do\n"
-"you think they were, Kaz?\n"
-msgstr ""
-"终端附近那些巨大的脚印……你觉得\n"
-"那是什么，Kaz？\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0040_000_0
-#. timeline 1699..2814
-#: codec/1/172/0xaca30/1
-msgid ""
-"It beats me... They're way too big, even for an\n"
-"elephant.\n"
-msgstr ""
-"我也搞不懂……那太大了，就算是\n"
-"大象也没那么大。\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0040_000_0
-#. timeline 2869..3887
-#: codec/1/172/0xaca30/2
-msgid ""
-"Made me think of that basilisco Chico was talking\n"
-"about.\n"
-msgstr ""
-"让我想起了Chico说的\n"
-"那种蛇怪。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_kaz0040_000_0
-#. timeline 4096..4513
-#: codec/1/172/0xaca30/3
-msgid ""
-"Hope it's not for real...\n"
-msgstr ""
-"希望不是真的……\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0040_000_0
-#. timeline 4527..5530
-#: codec/1/172/0xaca30/4
-msgid ""
-"Same here. If they really do have that kind of\n"
-"weapon...\n"
-msgstr ""
-"我也是。如果它们真有那种\n"
-"武器……\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0040_000_0
-#. timeline 5544..6492
-#: codec/1/172/0xaca30/5
-msgid ""
-"we could be dealing with a basilisk in more than\n"
-"just looks.\n"
-msgstr ""
-"那我们面对的蛇怪可能不只是\n"
-"外表像而已。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_kaz0040_000_0
-#. timeline 6492..6729
-#. speaker 0x0ebd8542 voice v_bri_dsl0030_000_1
-#. timeline 1434..1685
-#. speaker 0x0e28dce6 voice v_bri_huy0110_000_0
-#. timeline 3691..4012
-#: codec/1/172/0xaca30/6
-#: codec/1/220/0xdc990/1
-#: codec/1/249/0xf9500/2
-#: codec/2/915/0x393270/15
-msgid ""
-"What do you mean?\n"
-msgstr ""
-"什么意思？\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0040_000_0
-#. timeline 6729..8038
-#: codec/1/172/0xaca30/7
-msgid ""
-"There's a medieval encyclopedia that describes the\n"
-"basilisk like this:\n"
-msgstr ""
-"有一本中世纪百科全书是这样描述\n"
-"蛇怪的：\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0040_000_0
-#. timeline 8066..9835
-#: codec/1/172/0xaca30/8
-msgid ""
-"\"The basilisk is the king of snakes. All snakes fear\n"
-"the basilisk and flee at its sight...\"\n"
-msgstr ""
-"“蛇怪是蛇中之王。所有蛇都惧怕\n"
-"蛇怪，一见它就逃……”\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0040_000_0
-#. timeline 9849..10546
-#: codec/1/172/0xaca30/9
-msgid ""
-"\"Lest they be slain by its foul breath.\"\n"
-msgstr ""
-"“以免被它的毒气杀死。”\n"
-
-#. speaker 0x0e28dce6 voice v_bri_kaz0040_000_0
-#. timeline 10546..11243
-#: codec/1/172/0xaca30/10
-msgid ""
-"A snake to take out a snake, huh?\n"
-msgstr ""
-"以蛇制蛇，是吧？\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0040_000_0
-#. timeline 11270..12315
-#: codec/1/172/0xaca30/11
-msgid ""
-"I don't mean to scare you or anything... but it never\n"
-"hurts to be careful.\n"
-msgstr ""
-"我不是想吓你什么的……但小心\n"
-"总没坏处。\n"
-
-#: codec/1/173/0xad140/0
-msgid ""
-"Damn, that base is even more heavily guarded than\n"
-"Amanda's men said it would be...\n"
-msgstr ""
-"该死，那个基地的守卫比\n"
-"Amanda的人说的还要森严……\n"
-
-#: codec/1/173/0xad140/1
-msgid ""
-"No kidding. It's gonna be tough to crack without\n"
-"some serious hardware.\n"
-msgstr ""
-"可不是嘛。没有点重装备\n"
-"可不好攻进去。\n"
-
-#: codec/1/173/0xad140/2
-msgid ""
-"You may end up having to fight fire with fire, so be\n"
-"ready to use force if necessary.\n"
-msgstr ""
-"你可能不得不以牙还牙，所以必要时要做好\n"
-"使用武力的准备。\n"
-
-#: codec/1/173/0xad140/3
-msgid ""
-"Take as many weapons and items as you can\n"
-"carry.\n"
-msgstr ""
-"尽量多带武器和\n"
-"物品。\n"
-
-#: codec/1/173/0xad140/4
-msgid ""
-"The more protection you have, the better.\n"
-msgstr ""
-"防护越多越好。\n"
-
-#: codec/1/173/0xad140/5
-msgid ""
-"Roger. I'll keep that in mind when I pick my suit.\n"
-msgstr ""
-"收到，选衣服时我会记住。\n"
-
-#: codec/1/173/0xad140/6
-msgid ""
-"I'll meet up with you ASAP, Snake. Hang tight for\n"
-"just a little longer.\n"
-msgstr ""
-"我会尽快和你碰头，Snake。再坚持\n"
-"一小会儿。\n"
-
-#: codec/1/173/0xad140/7
-#: codec/2/918/0x396100/10
-msgid ""
-"You got it.\n"
-msgstr ""
-"明白。\n"
-
-#: codec/1/173/0xad470/0
-msgid ""
-"Right now there don't appear to be any enemy\n"
-"soldiers in the area.\n"
-msgstr ""
-"目前该区域似乎没有任何敌方\n"
-"士兵。\n"
-
-#: codec/1/173/0xad470/1
-msgid ""
-"Relax and concentrate on your target practice.\n"
-msgstr ""
-"放松，专心打靶。\n"
-
-#: codec/1/173/0xad470/2
-msgid ""
-"And don't forget to look for targets in the shadows\n"
-"near the crates and forklifts.\n"
-msgstr ""
-"别忘了在板条箱和叉车附近的阴影中\n"
-"寻找目标。\n"
-
-#: codec/1/173/0xad470/3
-msgid ""
-"These are medium-range targets.\n"
-msgstr ""
-"这些是中距离目标。\n"
-
-#: codec/1/173/0xad470/4
-msgid ""
-"You may want to consider taking something like an\n"
-"assault rifle with you.\n"
-msgstr ""
-"你可以考虑带上类似突击步枪的\n"
-"武器。\n"
-
-#: codec/1/173/0xad470/5
-msgid ""
-"But I'll leave that up to you. Use whatever weapon\n"
-"you want to get some practice.\n"
-msgstr ""
-"但这由你决定。用你想用的任何武器\n"
-"来练练手吧。\n"
-
-#: codec/1/173/0xad710/0
-msgid ""
-"We've already taken care of the enemy soldiers in\n"
-"there.\n"
-msgstr ""
-"我们已经解决了那里的敌方\n"
-"士兵。\n"
-
-#: codec/1/173/0xad710/1
-msgid ""
-"It should be deserted.\n"
-msgstr ""
-"应该空无一人。\n"
-
-#: codec/1/173/0xad710/2
-msgid ""
-"All you need to do is focus on hitting those targets.\n"
-msgstr ""
-"你只管专心打中那些目标。\n"
-
-#: codec/1/173/0xad710/3
-msgid ""
-"It's geared toward long-range target practice.\n"
-msgstr ""
-"这里适合远距离打靶。\n"
-
-#: codec/1/173/0xad710/4
-msgid ""
-"You should think about bringing something like a\n"
-"sniper rifle.\n"
-msgstr ""
-"你应该考虑带上类似狙击步枪的\n"
-"武器。\n"
-
-#: codec/1/173/0xad710/5
-msgid ""
-"Then again, nothing's stopping you from giving it a\n"
-"shot with a handgun, either.\n"
-msgstr ""
-"不过话说回来，用手枪试一试也\n"
-"没什么不可以。\n"
-
-#: codec/1/173/0xad980/0
-msgid ""
-"We've cleared this prison out already.\n"
-msgstr ""
-"这座监狱我们已经清空了。\n"
-
-#: codec/1/173/0xad980/1
-msgid ""
-"No enemies to worry about in there.\n"
-msgstr ""
-"里面没有敌人。\n"
-
-#: codec/1/173/0xad980/2
-msgid ""
-"I'm thinking you could use these twisty streets for\n"
-"urban combat training.\n"
-msgstr ""
-"我觉得你可以利用这些蜿蜒的街道进行\n"
-"城市战斗训练。\n"
-
-#: codec/1/173/0xad980/3
-msgid ""
-"This could be the perfect place to practice with\n"
-"throwing weapons.\n"
-msgstr ""
-"这可能是练习投掷武器的完美\n"
-"地点。\n"
-
-#: codec/1/173/0xad980/4
-msgid ""
-"What do you think?\n"
-msgstr ""
-"你觉得呢？\n"
-
-#: codec/1/173/0xadb70/0
-msgid ""
-"No sign of the enemy in there. You should be clear\n"
-"to focus on training.\n"
-msgstr ""
-"那里没有敌人的迹象。你应该可以放心\n"
-"专注于训练。\n"
-
-#: codec/1/173/0xadb70/1
-msgid ""
-"Some of the targets might be a little hard to spot,\n"
-msgstr ""
-"有些目标可能不太好找，\n"

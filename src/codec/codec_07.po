@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PWSF codec 7/12\n"
+"Project-Id-Version: PWSF codec 7/15\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -8,6 +8,2145 @@ msgstr ""
 "X-PWSF-Source: codec\n"
 "X-PWSF-Entries: 400\n"
 
+
+#. speaker 0x0e28dce6 voice v_bri_chc0080_020_0
+#. timeline 459..1393
+#: codec/1/211/0xd3310/0
+msgid ""
+"Gotta admit, I've never heard of Mono Grande.\n"
+msgstr ""
+"说实话，我没听过大脚怪。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0080_020_0
+#. timeline 1407..2814
+#: codec/1/211/0xd3310/1
+msgid ""
+"Yeah, he's not as famous as Bigfoot. He's similar,\n"
+"but he lives in Venezuela.\n"
+msgstr ""
+"对，他没大脚怪那么出名。很像，\n"
+"但他住在委内瑞拉。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0080_020_0
+#. timeline 2856..3622
+#: codec/1/211/0xd3310/2
+msgid ""
+"He's not that big - less than two vara (5.5 ft)\n"
+msgstr ""
+"他没那么大——不到两巴拉（5.5英尺）\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0080_020_0
+#. timeline 3678..4374
+#: codec/1/211/0xd3310/3
+msgid ""
+"- but he's way more ferocious than Bigfoot.\n"
+msgstr ""
+"——但比大脚怪凶残多了。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0080_020_0
+#. timeline 4820..6199
+#: codec/1/211/0xd3310/4
+msgid ""
+"I wonder just how mean he is? Like when he\n"
+"catches his prey, does he punch it to death...?\n"
+msgstr ""
+"不知道他到底多凶？比如抓到猎物时，\n"
+"会不会把它揍死……？\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0080_020_0
+#. timeline 6213..7941
+#: codec/1/211/0xd3310/5
+msgid ""
+"That's the law of the wild: you catch your prey,\n"
+"you kill it, and you eat it.\n"
+msgstr ""
+"这就是丛林法则：抓住猎物，\n"
+"杀死它，然后吃掉。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0080_020_0
+#. timeline 7955..8888
+#: codec/1/211/0xd3310/6
+msgid ""
+"Yeah! Yeah! But punching is way more ferocious\n"
+"than biting.\n"
+msgstr ""
+"对！对！但拳打可比嘴咬凶狠多了\n"
+"。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0080_020_0
+#. timeline 9083..10017
+#: codec/1/211/0xd3310/7
+msgid ""
+"Maybe it seems that way because that's what\n"
+"humans do.\n"
+msgstr ""
+"也许因为人类这么干，\n"
+"才显得凶残。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0080_020_0
+#. timeline 10044..10783
+#: codec/1/211/0xd3310/8
+msgid ""
+"...You really love UMAs, don't you, Chico?\n"
+msgstr ""
+"……你真的很喜欢未知生物啊，奇科？\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0080_020_0
+#. timeline 10811..11953
+#: codec/1/211/0xd3310/9
+msgid ""
+"You know what I think? I think UMAs should be\n"
+"dangerous.\n"
+msgstr ""
+"你知道我怎么想？未知生物\n"
+"就该危险。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0080_020_0
+#. timeline 12037..12775
+#: codec/1/211/0xd3310/10
+msgid ""
+"Otherwise where's the fun in hunting them?\n"
+msgstr ""
+"不然猎捕它们还有什么乐趣？\n"
+
+#: codec/1/211/0xd3750/0
+msgid ""
+"Did you see a quetzal, Snake?\n"
+msgstr ""
+"你看到凤尾绿咬鹃了吗，SNAKE？\n"
+
+#: codec/1/211/0xd3750/1
+#: codec/2/915/0x3939d0/28
+msgid ""
+"Yep.\n"
+msgstr ""
+"看到了。\n"
+
+#: codec/1/211/0xd3750/2
+msgid ""
+"What do you think? Did it look like a snake?\n"
+msgstr ""
+"你觉得呢？它看起来像蛇吗？\n"
+
+#: codec/1/211/0xd3750/3
+msgid ""
+"Huh? No, it didn't look like a snake.\n"
+msgstr ""
+"啊？不，它不像蛇。\n"
+
+#: codec/1/211/0xd3750/4
+msgid ""
+"Oh, really? ...Must be different from the\n"
+"quetzalcoatl, then.\n"
+msgstr ""
+"哦，是吗？……那肯定和\n"
+"羽蛇神不一样。\n"
+
+#: codec/1/211/0xd3750/5
+msgid ""
+"Quetzalcoatl?\n"
+msgstr ""
+"羽蛇神？\n"
+
+#: codec/1/211/0xd3750/6
+msgid ""
+"A winged snake from Mayan and Aztec legend.\n"
+msgstr ""
+"玛雅和阿兹特克传说中长翅膀的蛇。\n"
+
+#: codec/1/211/0xd3750/7
+msgid ""
+"A winged snake...\n"
+msgstr ""
+"长翅膀的蛇……\n"
+
+#: codec/1/211/0xd3750/8
+msgid ""
+"Weird, right? I bet it's a UMA.\n"
+msgstr ""
+"很怪吧？我赌它是未知生物。\n"
+
+#: codec/1/211/0xd3750/9
+msgid ""
+"Amanda and everybody says Quetzalcoatl is a\n"
+"quetzal in the form of a god.\n"
+msgstr ""
+"阿曼达他们说羽蛇神是\n"
+"凤尾绿咬鹃化成的神。\n"
+
+#: codec/1/211/0xd3750/10
+msgid ""
+"But there's no way anybody'd mistake a snake for\n"
+"a bird,\n"
+msgstr ""
+"但谁也不可能把蛇错认成\n"
+"鸟，\n"
+
+#: codec/1/211/0xd3750/11
+msgid ""
+"I think the legend of Quetzalcoatl came first.\n"
+msgstr ""
+"我觉得羽蛇神的传说更早。\n"
+
+#: codec/1/211/0xd3750/12
+msgid ""
+"Somebody saw it and adopted it as their god,\n"
+"before they saw the quetzal.\n"
+msgstr ""
+"有人先看到它，奉为神，\n"
+"之后才看到凤尾绿咬鹃。\n"
+
+#: codec/1/211/0xd3750/13
+msgid ""
+"After that, somebody saw a bird that looked like\n"
+"the image of the god,\n"
+msgstr ""
+"后来有人看到一只鸟长得像\n"
+"神的形象，\n"
+
+#: codec/1/211/0xd3750/14
+msgid ""
+"and so they named it \"quetzal.\"\n"
+msgstr ""
+"就把它命名为“凤尾绿咬鹃”。\n"
+
+#: codec/1/211/0xd3750/15
+msgid ""
+"You mean it happened the other way around?\n"
+msgstr ""
+"你是说反过来了？\n"
+
+#: codec/1/211/0xd3750/16
+msgid ""
+"If you ask me, the quetzalcoatl was probably a\n"
+"pterosaur that survived.\n"
+msgstr ""
+"要我说，羽蛇神很可能就是幸存下来的\n"
+"翼龙。\n"
+
+#: codec/1/211/0xd3750/17
+msgid ""
+"I mean, it's got wings, and it's a reptile, so it\n"
+"probably looks kind of like a snake, right?\n"
+msgstr ""
+"它有翅膀，又是爬行动物，所以\n"
+"大概有点像蛇，对吧？\n"
+
+#: codec/1/211/0xd3750/18
+msgid ""
+"Pterosaurs live on in Africa even today. They're\n"
+"called the Kongamato and the Olitiau.\n"
+msgstr ""
+"翼龙至今仍生活在非洲。它们\n"
+"被称为孔加马托和奥利提奥。\n"
+
+#: codec/1/211/0xd3750/19
+msgid ""
+"So it makes sense that there'd be pterosaurs on\n"
+"the American continent, too,\n"
+msgstr ""
+"所以美洲大陆上也有翼龙，\n"
+"这也说得通，\n"
+
+#: codec/1/211/0xd3750/20
+msgid ""
+"and that they survived until the Mayan and Aztec\n"
+"eras.\n"
+msgstr ""
+"它们一直活到玛雅和阿兹特克\n"
+"时代。\n"
+
+#: codec/1/211/0xd3750/21
+msgid ""
+"Lucky for us they're not still around today.\n"
+msgstr ""
+"幸好它们现在不在了。\n"
+
+#: codec/1/211/0xd3750/22
+msgid ""
+"Who says they aren't? The dinosaurs supposedly\n"
+"died out 65 million years ago,\n"
+msgstr ""
+"谁说不是呢？据说恐龙\n"
+"在6500万年前就灭绝了，\n"
+
+#: codec/1/211/0xd3750/23
+msgid ""
+"and the Aztec civilization only arose about 600\n"
+"years ago.\n"
+msgstr ""
+"而阿兹特克文明大约在600\n"
+"年前才兴起。\n"
+
+#: codec/1/211/0xd3750/24
+msgid ""
+"If they managed to survive 65 million years, surely\n"
+"they couldn't be wiped out in 600.\n"
+msgstr ""
+"如果它们能存活6500万年，那肯定\n"
+"不可能在600年里就被消灭。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_000_0
+#. timeline 445..1922
+#: codec/1/212/0xd43b0/0
+msgid ""
+"A base disguised as a mine? We never made it\n"
+"that far.\n"
+msgstr ""
+"伪装成矿场的基地？我们从来没到过\n"
+"那么远的地方。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_000_0
+#. timeline 1964..3162
+#: codec/1/212/0xd43b0/1
+msgid ""
+"I don't know what kind of place it is, but you'd\n"
+"better be careful - just in case.\n"
+msgstr ""
+"我不知道那是什么地方，但你\n"
+"最好小心点——以防万一。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0100_000_0
+#. timeline 3190..3496
+#: codec/1/212/0xd43b0/2
+msgid ""
+"I plan to.\n"
+msgstr ""
+"会的。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_000_0
+#. timeline 3510..5196
+#: codec/1/212/0xd43b0/3
+msgid ""
+"I've heard that the American army keeps dead alien\n"
+"bodies and UFOs in secret bases.\n"
+msgstr ""
+"我听说美军把外星人尸体和UFO\n"
+"藏在秘密基地里。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0100_000_0
+#. timeline 5461..5726
+#: codec/1/212/0xd43b0/4
+msgid ""
+"Aliens?\n"
+msgstr ""
+"外星人？\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_000_0
+#. timeline 5726..6325
+#: codec/1/212/0xd43b0/5
+msgid ""
+"There are billions of stars in space.\n"
+msgstr ""
+"太空里有几十亿颗恒星。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_000_0
+#. timeline 6394..7523
+#: codec/1/212/0xd43b0/6
+msgid ""
+"You've gotta think that at least a few have\n"
+"civilizations more advanced than ours.\n"
+msgstr ""
+"你肯定得想，至少有几个\n"
+"文明比我们更先进。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_000_0
+#. timeline 7648..8526
+#: codec/1/212/0xd43b0/7
+msgid ""
+"I'll bet they visit Earth in UFOs.\n"
+msgstr ""
+"我赌他们坐UFO来过地球。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_000_0
+#. timeline 8596..9055
+#: codec/1/212/0xd43b0/8
+msgid ""
+"In 1947,\n"
+msgstr ""
+"1947年\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_000_0
+#. timeline 9083..10602
+#: codec/1/212/0xd43b0/9
+msgid ""
+"the army actually announced they'd caught a flying,\n"
+"disc-shaped object near Roswell, New Mexico.\n"
+msgstr ""
+"军方竟宣布在新墨西哥州罗斯威尔附近\n"
+"抓到个飞行的碟形物体。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_000_0
+#. timeline 10699..11828
+#: codec/1/212/0xd43b0/10
+msgid ""
+"Maybe you don't know about it, but those army\n"
+"guys, they all know!\n"
+msgstr ""
+"也许你不知道，但那些军方\n"
+"的人全知道！\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0100_000_0
+#. timeline 12176..12455
+#: codec/1/212/0xd43b0/11
+msgid ""
+"You don't say...\n"
+msgstr ""
+"不会吧……\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_000_0
+#. timeline 12455..13736
+#: codec/1/212/0xd43b0/12
+msgid ""
+"Anyway, there's no telling what kind of mystery\n"
+"weapons they might have stashed up there.\n"
+msgstr ""
+"总之，谁也说不准他们在那里藏了\n"
+"什么样的神秘武器。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_000_0
+#. timeline 13848..14182
+#: codec/1/212/0xd43b0/13
+msgid ""
+"Watch your back.\n"
+msgstr ""
+"小心点。\n"
+
+#: codec/1/212/0xd4880/0
+msgid ""
+"Apparently, UFOs are connected to cattle\n"
+"mutilations.\n"
+msgstr ""
+"据说，UFO与牛只\n"
+"残杀事件有关。\n"
+
+#: codec/1/212/0xd4880/1
+msgid ""
+"Cattle mutations?\n"
+msgstr ""
+"牛变异了？\n"
+
+#: codec/1/212/0xd4880/2
+msgid ""
+"Not mutations. Mutilations... It's a word I'd never\n"
+"heard before.\n"
+msgstr ""
+"不是变异，是残杀……这词我以前\n"
+"从没听过。\n"
+
+#: codec/1/212/0xd4880/3
+msgid ""
+"People have been reporting their livestock dying\n"
+msgstr ""
+"有人报告自家牲口死得\n"
+
+#: codec/1/212/0xd4880/4
+msgid ""
+"in mysterious ways near the same places where\n"
+"UFOs have been sighted.\n"
+msgstr ""
+"很蹊跷，地点都在目击UFO的\n"
+"附近。\n"
+
+#: codec/1/212/0xd4880/5
+msgid ""
+"They say\n"
+msgstr ""
+"他们说\n"
+
+#: codec/1/212/0xd4880/6
+msgid ""
+"the bodies are drained of blood and the eyeballs\n"
+"and sexual organs are gouged out.\n"
+msgstr ""
+"尸体被抽干了血，眼球和\n"
+"生殖器都被挖走了。\n"
+
+#: codec/1/212/0xd4880/7
+msgid ""
+"When you leave a corpse cut open in a field\n"
+"somewhere, the ground soaks up the blood.\n"
+msgstr ""
+"把尸体剖开扔在野地里，\n"
+"血会被土地吸干。\n"
+
+#: codec/1/212/0xd4880/8
+msgid ""
+"Yeah, but supposedly these cows weren't cut up\n"
+"by any man-made means.\n"
+msgstr ""
+"是啊，但据说这些牛不是\n"
+"人为切割的。\n"
+
+#: codec/1/212/0xd4880/9
+msgid ""
+"Maybe maggots got to 'em?\n"
+msgstr ""
+"也许是蛆啃的？\n"
+
+#: codec/1/212/0xd4880/10
+msgid ""
+"In some cases they detected radiation.\n"
+msgstr ""
+"有些案例还检测到了辐射。\n"
+
+#: codec/1/212/0xd4880/11
+msgid ""
+"Radiation...\n"
+msgstr ""
+"辐射……\n"
+
+#: codec/1/212/0xd4880/12
+msgid ""
+"Even in our own town we had goats that died in\n"
+"strange ways.\n"
+msgstr ""
+"就连我们镇上也有山羊\n"
+"死得很怪。\n"
+
+#: codec/1/212/0xd4880/13
+msgid ""
+"Some said they saw a monster\n"
+msgstr ""
+"有人说见过怪物\n"
+
+#: codec/1/212/0xd4880/14
+msgid ""
+"- a lizard on two legs, covered in spines from its\n"
+"head all the way down its back.\n"
+msgstr ""
+"——两条腿的蜥蜴，从脑袋到\n"
+"后背全长满尖刺。\n"
+
+#: codec/1/212/0xd4880/15
+msgid ""
+"I wonder if that's what the aliens look like,\n"
+msgstr ""
+"不知道外星人是不是就长这样，\n"
+
+#: codec/1/212/0xd4880/16
+msgid ""
+"or if it was some pet they brought with them...\n"
+msgstr ""
+"还是他们带来的宠物……\n"
+
+#: codec/1/212/0xd4880/17
+msgid ""
+"...Either way, it doesn't sound like a very advanced\n"
+"civilization to me.\n"
+msgstr ""
+"……不管怎样，听起来都不像\n"
+"什么高级文明。\n"
+
+#: codec/1/212/0xd4880/18
+msgid ""
+"If you see one, tell it I said \"hi!\"\n"
+msgstr ""
+"见到就替我向它问好！\n"
+
+#: codec/1/212/0xd4880/19
+msgid ""
+"Sure... if it speaks human.\n"
+msgstr ""
+"行……前提是它说人话。\n"
+
+#: codec/1/212/0xd4f20/0
+msgid ""
+"UFOs kidnap people, too - you know, alien\n"
+"abductions.\n"
+msgstr ""
+
+#: codec/1/212/0xd4f20/1
+msgid ""
+"You've heard of the Hill Abduction, right? That\n"
+"couple back in the 60s.\n"
+msgstr ""
+
+#. speaker 0x0e559953 voice v_bri_chc0100_030_0
+#. timeline 459..1532
+#: codec/1/213/0xd53f0/0
+msgid ""
+"You wanna know something? I once met an alien\n"
+"cat.\n"
+msgstr ""
+"跟你说，我见过一只外星\n"
+"猫。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0100_030_0
+#. timeline 1546..2229
+#: codec/1/213/0xd53f0/1
+msgid ""
+"An alien... cat?\n"
+msgstr ""
+"外星猫？\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_030_0
+#. timeline 2243..3051
+#: codec/1/213/0xd53f0/2
+msgid ""
+"Yep. It was dark out so I couldn't see too well,\n"
+msgstr ""
+"对。当时天很黑，看不太清，\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_030_0
+#. timeline 3120..3956
+#: codec/1/213/0xd53f0/3
+msgid ""
+"but it was a cat with a huge long tail.\n"
+msgstr ""
+"但那猫的尾巴又大又长。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_030_0
+#. timeline 3998..4500
+#: codec/1/213/0xd53f0/4
+msgid ""
+"Its eyes shined in the dark, too.\n"
+msgstr ""
+"眼睛在黑暗里还发光。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0100_030_0
+#. timeline 4513..4987
+#: codec/1/213/0xd53f0/5
+msgid ""
+"Most cats' eyes do...\n"
+msgstr ""
+"猫的眼睛大多都这样……\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_030_0
+#. timeline 5001..6854
+#: codec/1/213/0xd53f0/6
+msgid ""
+"At first I thought it was a regular cat. But then it\n"
+"started talking to me - inside my head.\n"
+msgstr ""
+"一开始我以为只是只普通的猫。但它\n"
+"开始跟我说话——在我脑子里。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0100_030_0
+#. timeline 6868..7230
+#: codec/1/213/0xd53f0/7
+msgid ""
+"...Inside your head?\n"
+msgstr ""
+"……在你脑子里？\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_030_0
+#. timeline 7230..8345
+#: codec/1/213/0xd53f0/8
+msgid ""
+"He said his name was Altargozo Elbakki Munyudar.\n"
+msgstr ""
+"它说自己叫Altargozo Elbakki Munyudar。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_030_0
+#. timeline 8400..9682
+#: codec/1/213/0xd53f0/9
+msgid ""
+"He'd come to Earth from the Andromeda Galaxy to\n"
+"check out Earth's nuclear weapons...\n"
+msgstr ""
+"它从仙女座星系来到地球，\n"
+"调查地球的核武器……\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0100_030_0
+#. timeline 9724..10992
+#: codec/1/213/0xd53f0/10
+msgid ""
+"The Andromeda Galaxy... Mankind's barely made it\n"
+"to the moon.\n"
+msgstr ""
+"仙女座星系……人类才勉强\n"
+"登上月球。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0100_030_0
+#. timeline 11089..11702
+#: codec/1/213/0xd53f0/11
+msgid ""
+"We couldn't possibly launch nukes that far.\n"
+msgstr ""
+"我们不可能把核弹发射那么远。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_030_0
+#. timeline 11716..13054
+#: codec/1/213/0xd53f0/12
+msgid ""
+"Elbakki said he was watching over us - to make\n"
+"sure we don't destroy ourselves with nukes.\n"
+msgstr ""
+"Elbakki说它在守护我们——确保\n"
+"我们不会用核弹毁灭自己。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_030_0
+#. timeline 13123..14113
+#: codec/1/213/0xd53f0/13
+msgid ""
+"Until the day we humans are ready to join the\n"
+"Space Federation...\n"
+msgstr ""
+"直到人类准备好加入\n"
+"星际联邦的那一天……\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0100_030_0
+#. timeline 14489..15659
+#: codec/1/213/0xd53f0/14
+msgid ""
+"...It's a shame. This is supposed to be the era of\n"
+"Détente,\n"
+msgstr ""
+"……真可悲。这明明该是\n"
+"缓和的年代，\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0100_030_0
+#. timeline 15729..16899
+#: codec/1/213/0xd53f0/15
+msgid ""
+"and still we've got people pulling stunts like\n"
+"bringing nukes into peaceful countries.\n"
+msgstr ""
+"却还有人把核武器带进\n"
+"和平国家，搞这种把戏。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0100_030_0
+#. timeline 16941..18111
+#: codec/1/213/0xd53f0/16
+msgid ""
+"If something ever went wrong and set off a chain\n"
+"reaction of retaliation...\n"
+msgstr ""
+"万一出了差错，引发报复的\n"
+"连锁反应……\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0100_030_0
+#. timeline 18111..19379
+#: codec/1/213/0xd53f0/17
+msgid ""
+"I know. This planet could destroy itself at anytime.\n"
+msgstr ""
+"我知道。这颗星球随时可能自我毁灭。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0110_000_0
+#. timeline 459..1393
+#: codec/1/213/0xd5a60/0
+msgid ""
+"Snake, is it true you took a picture of el colibri?\n"
+msgstr ""
+"SNAKE，你真的拍到蜂鸟了吗？\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0110_000_0
+#. timeline 1393..1964
+#: codec/1/213/0xd5a60/1
+msgid ""
+"Yep. Got it right here.\n"
+msgstr ""
+"对。就在这儿。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0110_000_0
+#. timeline 1978..4026
+#: codec/1/213/0xd5a60/2
+msgid ""
+"Whoa! It's like an actual UFO! I knew it - los\n"
+"yanquis are working with the aliens!\n"
+msgstr ""
+"哇！简直像真的UFO！我就知道——\n"
+"美国佬在跟外星人合作！\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0110_000_0
+#. timeline 4221..4973
+#: codec/1/213/0xd5a60/3
+msgid ""
+"I know it kind of looks that way, but...\n"
+msgstr ""
+"我知道看起来有点像，但……\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0110_000_0
+#. timeline 4987..5684
+#: codec/1/213/0xd5a60/4
+msgid ""
+"Hey Snake, can you make me a copy of that?\n"
+msgstr ""
+"嘿SNAKE，能给我复制一份吗？\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0110_000_0
+#. timeline 5698..6506
+#: codec/1/213/0xd5a60/5
+msgid ""
+"I don't see why not. What for?\n"
+msgstr ""
+"行啊。干嘛？\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0110_000_0
+#. timeline 6520..7871
+#: codec/1/213/0xd5a60/6
+msgid ""
+"People pay good money for this stuff. We can use\n"
+"it to raise money for MSF.\n"
+msgstr ""
+"这东西能卖不少钱。我们可以\n"
+"用它给MSF筹款。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0110_000_0
+#. timeline 7927..9181
+#: codec/1/213/0xd5a60/7
+msgid ""
+"Ha, sure, kid. You go out and get us a good price\n"
+"for it.\n"
+msgstr ""
+"哈，行啊小子。你去给我们\n"
+"卖个好价钱。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0110_000_0
+#. timeline 9195..10518
+#: codec/1/213/0xd5a60/8
+msgid ""
+"You don't believe me, do you? I'll get the money.\n"
+"You'll see!\n"
+msgstr ""
+"你不信我，是吧？我会拿到钱。\n"
+"你等着瞧！\n"
+
+#: codec/1/213/0xd5dd0/0
+msgid ""
+"Snake, legend has it a place called Isla del\n"
+"Monstruo is near Costa Rica.\n"
+msgstr ""
+
+#: codec/1/213/0xd5dd0/1
+msgid ""
+"Isla del Monstruo?\n"
+msgstr ""
+
+#: codec/1/213/0xd5dd0/2
+msgid ""
+"It was discovered in the 18th century by\n"
+"Caribbean pirates sailing over to the Pacific.\n"
+msgstr ""
+
+#: codec/1/213/0xd5dd0/3
+msgid ""
+"And the island in \"Treasure Island\" - it's based on\n"
+"one near Costa Rica, too.\n"
+msgstr ""
+
+#: codec/1/213/0xd5dd0/4
+msgid ""
+"\"Treasure Island?\" I remember reading that.\n"
+msgstr ""
+
+#: codec/1/213/0xd5dd0/5
+msgid ""
+"You've read it too? That makes things easier.\n"
+msgstr ""
+
+#: codec/1/213/0xd5dd0/6
+msgid ""
+"In Nicaragua we too have a story about a group of\n"
+"pirates that encountered\n"
+msgstr ""
+
+#: codec/1/214/0xd63b0/0
+msgid ""
+"Chico. I, uh... I met that talking cat.\n"
+msgstr ""
+"奇科。我，呃……我见到那只说话的猫了。\n"
+
+#: codec/1/214/0xd63b0/1
+msgid ""
+"The legendary Trenya? Really?!\n"
+msgstr ""
+"传说Trenya？真的？！\n"
+
+#: codec/1/214/0xd63b0/2
+msgid ""
+"Trenya? Yeah, that's what it called itself. Is it\n"
+"famous?\n"
+msgstr ""
+"Trenya？对，它这么自称。它\n"
+"很有名吗？\n"
+
+#: codec/1/214/0xd63b0/3
+msgid ""
+"In certain circles, yeah.\n"
+msgstr ""
+"在某些圈子里，是的。\n"
+
+#: codec/1/214/0xd63b0/4
+msgid ""
+"I'm still having trouble believing it.\n"
+msgstr ""
+"我还是难以相信。\n"
+
+#: codec/1/214/0xd63b0/5
+msgid ""
+"I never thought I'd be talking to an animal one day.\n"
+"What a world.\n"
+msgstr ""
+"没想到有一天我会跟动物说话。\n"
+"这世道啊。\n"
+
+#: codec/1/214/0xd63b0/6
+msgid ""
+"Amazing you could understand its language.\n"
+msgstr ""
+"你居然能听懂它的话，厉害。\n"
+
+#: codec/1/214/0xd63b0/7
+msgid ""
+"Picking up the local lingo is one of the basics of\n"
+"intelligence work.\n"
+msgstr ""
+"学会当地的语言是\n"
+"情报工作的基本功之一。\n"
+
+#: codec/1/214/0xd63b0/8
+msgid ""
+"That's what makes you the Boss, Boss! Hey, say\n"
+"something in Trenya's language, will you?\n"
+msgstr ""
+"所以你是老板，老板！嘿，用特雷尼亚的话\n"
+"说点什么吧？\n"
+
+#: codec/1/214/0xd63b0/9
+msgid ""
+"Meow? Meow... Meow meow meow...\n"
+msgstr ""
+"喵？喵……喵喵喵……\n"
+
+#: codec/1/214/0xd63b0/10
+msgid ""
+"Wow! I have no idea what you're saying!\n"
+msgstr ""
+"哇！我完全听不懂！\n"
+
+#: codec/1/214/0xd63b0/11
+msgid ""
+"...Of course you wouldn't.\n"
+msgstr ""
+"……你当然不懂。\n"
+
+#: codec/1/214/0xd63b0/12
+msgid ""
+"So what did Trenya say?\n"
+msgstr ""
+"Trenya说了啥？\n"
+
+#: codec/1/214/0xd63b0/13
+msgid ""
+"It said it would take me to that island you talked\n"
+"about.\n"
+msgstr ""
+"它说会带我去你提到的\n"
+"那座岛。\n"
+
+#: codec/1/214/0xd63b0/14
+msgid ""
+"Really?! Take me too, Boss! Please, please!\n"
+msgstr ""
+"真的？！BOSS带我去！求你了！\n"
+
+#: codec/1/214/0xd63b0/15
+msgid ""
+"I know you must be excited, but we don't know\n"
+"what's out there.\n"
+msgstr ""
+"我知道你很兴奋，但我们不知道\n"
+"那里有什么。\n"
+
+#: codec/1/214/0xd63b0/16
+msgid ""
+"It could be dangerous. I'll scout it out first.\n"
+msgstr ""
+"可能有危险。我先去侦察。\n"
+
+#: codec/1/214/0xd63b0/17
+msgid ""
+"No fair!\n"
+msgstr ""
+"不公平！\n"
+
+#: codec/1/214/0xd63b0/18
+msgid ""
+"Come on, Chico. This isn't as cut and dry as you\n"
+"think.\n"
+msgstr ""
+"别这样，奇科。这事可不像你\n"
+"想的那么简单。\n"
+
+#: codec/1/214/0xd63b0/19
+msgid ""
+"You can come next time, depending on what I find.\n"
+msgstr ""
+"看情况，下次带你去。\n"
+
+#: codec/1/214/0xd63b0/20
+msgid ""
+"I'll take some photos if I get the chance. Sorry,\n"
+"kid, but that's life.\n"
+msgstr ""
+"有机会就拍些照片。抱歉，\n"
+"孩子，生活就是这样。\n"
+
+#: codec/1/214/0xd6a70/0
+msgid ""
+"Apparently there are other cats that talk besides\n"
+"Trenya on Isla del Monstruo.\n"
+msgstr ""
+"据说怪物岛上，除了特雷尼亚，\n"
+"还有别的猫会说话。\n"
+
+#: codec/1/214/0xd6a70/1
+msgid ""
+"There's more of them?\n"
+msgstr ""
+"还有更多？\n"
+
+#: codec/1/214/0xd6a70/2
+msgid ""
+"Yep. They're called the Felynes, but supposedly\n"
+"they don't ever come to Costa Rica.\n"
+msgstr ""
+"没错。它们叫随从猫，但据说\n"
+"它们从来不会来哥斯达黎加。\n"
+
+#: codec/1/214/0xd6a70/3
+msgid ""
+"You should try talking to them if you spot them.\n"
+"Who knows what kinda stuff they have to say.\n"
+msgstr ""
+"如果你看到它们，应该试着和它们说话。\n"
+"谁知道它们会说些什么呢。\n"
+
+#: codec/1/214/0xd6a70/4
+msgid ""
+"Yeah. Just when you think things can't get any\n"
+"crazier...\n"
+msgstr ""
+"是啊。就在你以为事情不能再\n"
+"更疯狂的时候……\n"
+
+#: codec/1/214/0xd6a70/5
+msgid ""
+"Also, the Felynes are nice to humans, so you be\n"
+"sure and be nice back.\n"
+msgstr ""
+"还有，随从猫对人类很友善，所以你\n"
+"也一定要对它们友善。\n"
+
+#: codec/1/214/0xd6a70/6
+msgid ""
+"Don't you go attacking them or anything.\n"
+msgstr ""
+"别去攻击它们。\n"
+
+#: codec/1/214/0xd6a70/7
+msgid ""
+"I would never hurt a defenseless little kitty.\n"
+msgstr ""
+"我绝不会伤害毫无防备的小猫。\n"
+
+#: codec/1/214/0xd6dc0/0
+msgid ""
+"I used to have this book full of pirate lore.\n"
+msgstr ""
+
+#: codec/1/214/0xd6dc0/1
+msgid ""
+"It had this story about Rathalos, King of the Skies.\n"
+msgstr ""
+
+#: codec/1/214/0xd6dc0/2
+msgid ""
+"Most accounts describe it as a dragon with wings,\n"
+"or a wyvern.\n"
+msgstr ""
+
+#: codec/1/214/0xd6dc0/3
+msgid ""
+"A wyvern... A two-legged dragon. Vlad the Impaler's\n"
+"coat of arms had one on it.\n"
+msgstr ""
+
+#: codec/1/214/0xd6dc0/4
+msgid ""
+"Yeah, and he was the model for Count Dracula.\n"
+msgstr ""
+
+#: codec/1/214/0xd6dc0/5
+msgid ""
+"There are reports of ships being attacked out in\n"
+"the middle of the ocean,\n"
+msgstr ""
+
+#: codec/1/214/0xd6dc0/6
+msgid ""
+"so Rathalos must be able to fly great distances.\n"
+msgstr ""
+
+#: codec/1/214/0xd6dc0/7
+msgid ""
+"And what's more, Rathalos is said to breathe fire!\n"
+msgstr ""
+
+#: codec/1/215/0xd71b0/0
+msgid ""
+"Tigrex is a wyvern just like Rathalos.\n"
+msgstr ""
+"轰龙和火龙一样是飞龙。\n"
+
+#: codec/1/215/0xd71b0/1
+msgid ""
+"But it's good at moving around on land, too.\n"
+msgstr ""
+"但它在陆地上也很灵活。\n"
+
+#: codec/1/215/0xd71b0/2
+msgid ""
+"It can blast you with rocks from a distance, or\n"
+"rush at you with incredible speed.\n"
+msgstr ""
+"它能在远处用岩石轰击你，或者\n"
+"以惊人的速度冲向你。\n"
+
+#: codec/1/215/0xd71b0/3
+msgid ""
+"People have seen it on land?\n"
+msgstr ""
+"有人在陆地见过它？\n"
+
+#: codec/1/215/0xd71b0/4
+msgid ""
+"Sí.\n"
+msgstr ""
+"是。\n"
+
+#: codec/1/215/0xd71b0/5
+msgid ""
+"It's said that these two lady pirates, Anne and\n"
+"Mary, visited Isla del Monstruo.\n"
+msgstr ""
+"据说这两位女海盗，安妮和\n"
+"玛丽，曾到访过怪物岛。\n"
+
+#: codec/1/215/0xd71b0/6
+msgid ""
+"It was there that they did battle with Tigrex.\n"
+msgstr ""
+"她们在那里与轰龙交战。\n"
+
+#: codec/1/215/0xd71b0/7
+msgid ""
+"Anne was quite a marksman, wasn't she?\n"
+msgstr ""
+"安妮枪法很准吧？\n"
+
+#: codec/1/215/0xd71b0/8
+msgid ""
+"Must've been a heck of a battle. I wish I'd been\n"
+"there.\n"
+msgstr ""
+"那一定是场恶战。真希望我当时\n"
+"在场。\n"
+
+#: codec/1/215/0xd71b0/9
+msgid ""
+"You know, I'm not so bad with guns myself...\n"
+msgstr ""
+"说起来，我枪法也不差……\n"
+
+#: codec/1/215/0xd71b0/10
+msgid ""
+"I've already seen how good you are.\n"
+msgstr ""
+"你的本事我见识过了。\n"
+
+#: codec/1/215/0xd7560/0
+msgid ""
+"Anne and Mary also saw little dinosaurs running\n"
+"around the island.\n"
+msgstr ""
+"安妮和玛丽还看到小恐龙在\n"
+"岛上四处奔跑。\n"
+
+#: codec/1/215/0xd7560/1
+msgid ""
+"Velocipreys?\n"
+msgstr ""
+"迅猛龙？\n"
+
+#: codec/1/215/0xd7560/2
+msgid ""
+"Yup. As you'd expect they're very nimble - but no\n"
+"match for a firearm.\n"
+msgstr ""
+"没错。如你所料，它们很敏捷，但\n"
+"敌不过火器。\n"
+
+#: codec/1/215/0xd7560/3
+msgid ""
+"You wouldn't want to get surrounded by them,\n"
+"though.\n"
+msgstr ""
+"不过，你可不想被它们\n"
+"包围。\n"
+
+#: codec/1/215/0xd7560/4
+msgid ""
+"I'll bet. Nobody wants to be outnumbered in battle.\n"
+msgstr ""
+"那是。没人想在战斗中被围。\n"
+
+#: codec/1/215/0xd7560/5
+msgid ""
+"Right. Your best move would be to make sure they\n"
+"cannot encircle you.\n"
+msgstr ""
+"对。你最好的做法是确保它们\n"
+"无法包围你。\n"
+
+#: codec/1/215/0xd7560/6
+msgid ""
+"Well, stealth is the basis of all solo sneaking\n"
+"missions...\n"
+msgstr ""
+"嗯，潜行是所有单人潜入\n"
+"任务的基础……\n"
+
+#: codec/1/215/0xd7560/7
+msgid ""
+"While it makes battle tougher,\n"
+msgstr ""
+"虽然战斗会更艰难，\n"
+
+#: codec/1/215/0xd7560/8
+msgid ""
+"working alone has its advantages when it comes to\n"
+"infiltration.\n"
+msgstr ""
+"在渗透方面，独自\n"
+"行动有它的优势。\n"
+
+#: codec/1/215/0xd7560/9
+msgid ""
+"That's what makes you the boss, Boss! You don't\n"
+"need any advice from me.\n"
+msgstr ""
+"所以你是老大，老大！你\n"
+"不用听我的建议。\n"
+
+#: codec/1/215/0xd7560/10
+msgid ""
+"Not bad for an old-timer, eh Chico?\n"
+msgstr ""
+"老将宝刀未老吧，奇科？\n"
+
+#: codec/1/215/0xd7560/11
+msgid ""
+"Nope. Still, be careful.\n"
+msgstr ""
+"对，但要小心。\n"
+
+#: codec/1/215/0xd79a0/0
+msgid ""
+"Have you heard the legend about the dinosaur that\n"
+"came back to life as a zombie\n"
+msgstr ""
+"你听说过那个关于恐龙\n"
+"作为僵尸复活的传说吗\n"
+
+#: codec/1/215/0xd79a0/1
+msgid ""
+"and attacked people?\n"
+msgstr ""
+"袭击人类？\n"
+
+#: codec/1/215/0xd79a0/2
+msgid ""
+"Zombie?! You mean the living dead?\n"
+msgstr ""
+"僵尸？！你是说活死人？\n"
+
+#: codec/1/215/0xd79a0/3
+msgid ""
+"Yeah. Dinosaurs may be extinct,\n"
+msgstr ""
+"对。恐龙虽然灭绝了，\n"
+
+#: codec/1/215/0xd79a0/4
+msgid ""
+"but technically it would be possible for one to\n"
+"come back to life as a zombie.\n"
+msgstr ""
+"但理论上有可能\n"
+"以僵尸形态复活。\n"
+
+#: codec/1/215/0xd79a0/5
+msgid ""
+"Not so fast. Dinosaurs were real, zombies... not so\n"
+"much.\n"
+msgstr ""
+"别急。恐龙是真的，僵尸……\n"
+"可不一定。\n"
+
+#: codec/1/215/0xd79a0/6
+msgid ""
+"What are you talking about, Boss!\n"
+msgstr ""
+"BOSS，你在说什么！\n"
+
+#: codec/1/215/0xd79a0/7
+msgid ""
+"Zombies have been used as slaves on Haitian\n"
+"plantations for years.\n"
+msgstr ""
+"多年来僵尸一直被当作奴隶\n"
+"用在海地种植园里。\n"
+
+#: codec/1/215/0xd79a0/8
+msgid ""
+"In Haiti they've handed down a secret zombie\n"
+"powder for generations.\n"
+msgstr ""
+"在海地，一种秘密的僵尸粉\n"
+"代代相传。\n"
+
+#: codec/1/215/0xd79a0/10
+msgid ""
+"People from long ago must have used that same\n"
+"stuff on dinosaur remains.\n"
+msgstr ""
+"古人肯定把同样的东西\n"
+"用在了恐龙遗骸上。\n"
+
+#: codec/1/215/0xd79a0/11
+msgid ""
+"But dinosaurs had been extinct for millions of\n"
+"years before the first humans-\n"
+msgstr ""
+"可恐龙早在人类出现前\n"
+"几百万年就灭绝了——\n"
+
+#: codec/1/215/0xd79a0/12
+msgid ""
+"That hypothesis has to be wrong.\n"
+msgstr ""
+"那个假设肯定不对。\n"
+
+#: codec/1/215/0xd79a0/13
+msgid ""
+"...In any case, this zombie was incredibly powerful.\n"
+msgstr ""
+"……总之，这只僵尸强得离谱。\n"
+
+#: codec/1/215/0xd79a0/14
+msgid ""
+"Its name was Gear REX. They say nothing could kill\n"
+"it.\n"
+msgstr ""
+"它的名字叫“齿轮暴龙”。据说没有什么能杀死\n"
+"它。\n"
+
+#: codec/1/215/0xd79a0/15
+msgid ""
+"Some say its bodily fluids would burn right through\n"
+"your flesh.\n"
+msgstr ""
+"有人说它的体液能直接烧穿\n"
+"你的皮肉。\n"
+
+#: codec/1/215/0xd79a0/16
+msgid ""
+"Then the spines that fell off its back would impale\n"
+"you,\n"
+msgstr ""
+"然后从它背上脱落的尖刺会刺穿\n"
+"你，\n"
+
+#: codec/1/215/0xd79a0/17
+msgid ""
+"the pain made even worse by the deafening roar\n"
+"rattling every bone in your body.\n"
+msgstr ""
+"震耳欲聋的咆哮震得你全身骨头\n"
+"咯咯响，痛上加痛。\n"
+
+#: codec/1/215/0xd79a0/18
+msgid ""
+"...You sure it wasn't just some really strong\n"
+"monster?\n"
+msgstr ""
+"……你确定它不是\n"
+"某种特别强的怪物？\n"
+
+#: codec/1/215/0xd79a0/19
+msgid ""
+"Who knows what kind of dinosaurs were out there.\n"
+msgstr ""
+"谁知道世上有什么恐龙。\n"
+
+#: codec/1/215/0xd79a0/20
+msgid ""
+"We could be talking about something strong\n"
+"enough to resist small arms fire.\n"
+msgstr ""
+"我们说的可能是种\n"
+"能扛住轻武器射击的东西。\n"
+
+#: codec/1/215/0xd79a0/21
+msgid ""
+"Are you afraid of zombies, Boss?\n"
+msgstr ""
+"BOSS，你怕僵尸吗？\n"
+
+#: codec/1/215/0xd79a0/22
+msgid ""
+"...No. I just find the whole thing hard to believe.\n"
+msgstr ""
+"……不。我只是觉得难以置信。\n"
+
+#: codec/1/216/0xd81a0/0
+msgid ""
+"A fantasma is an espiritu that wanders this plane\n"
+"instead of going to el Cielo.\n"
+msgstr ""
+"fantasma是一种espiritu，\n"
+"不去el Cielo，而在人间游荡。\n"
+
+#: codec/1/216/0xd81a0/1
+msgid ""
+"There are different interpretations, of course, but\n"
+"that's what I think.\n"
+msgstr ""
+"当然有不同解释，\n"
+"但我是这么理解的。\n"
+
+#: codec/1/216/0xd81a0/2
+msgid ""
+"See, the fantasma has a reason for remaining in\n"
+"this world.\n"
+msgstr ""
+"你看，fantasma留在世上\n"
+"是有原因的。\n"
+
+#: codec/1/216/0xd81a0/3
+msgid ""
+"And if that were, say, a deep hatred for someone,\n"
+msgstr ""
+"如果那原因是对某人的深仇大恨，\n"
+
+#: codec/1/216/0xd81a0/4
+msgid ""
+"they just might be capable of inflicting harm on\n"
+"that person.\n"
+msgstr ""
+"它们或许真的能够伤害到\n"
+"那个人。\n"
+
+#: codec/1/216/0xd81a0/5
+msgid ""
+"You probably realize this, but your weapons or\n"
+"CQC won't work on fantasma.\n"
+msgstr ""
+"你应该也明白，武器和\n"
+"CQC对幻影没用。\n"
+
+#: codec/1/216/0xd81a0/6
+msgid ""
+"And since they're not physical beings, they can\n"
+"pass right through solid objects.\n"
+msgstr ""
+"它们不是实体，能直接\n"
+"穿过固体。\n"
+
+#: codec/1/216/0xd81a0/7
+msgid ""
+"But, if you can eliminate their reason for remaining\n"
+"here,\n"
+msgstr ""
+"但只要你能消灭它们\n"
+"留在这里的理由，\n"
+
+#: codec/1/216/0xd81a0/8
+msgid ""
+"you should be able to help them reach el Cielo.\n"
+msgstr ""
+"就能帮它们抵达天堂。\n"
+
+#: codec/1/216/0xd81a0/9
+msgid ""
+"People say words can work wonders on fantasma.\n"
+msgstr ""
+"据说言语对幻影有奇效。\n"
+
+#: codec/1/216/0xd81a0/10
+msgid ""
+"You could try talking to them through CO-OPS\n"
+"communication.\n"
+msgstr ""
+"可以试试用合作任务\n"
+"通讯跟它们说话。\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0030_000_0
+#. timeline 459..1504
+#: codec/1/216/0xd8610/0
+msgid ""
+"You can't always see fantasma with your naked eye.\n"
+msgstr ""
+"幻影不一定肉眼可见。\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0030_000_0
+#. timeline 1518..2967
+#: codec/1/216/0xd8610/1
+msgid ""
+"If some unseen presence is making a noise, you\n"
+"can be sure one is around.\n"
+msgstr ""
+"如果有无形之物发出声响，\n"
+"那附近肯定有一只。\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0030_000_0
+#. timeline 2967..3956
+#: codec/1/216/0xd8610/2
+msgid ""
+"When that happens, try taking photos in the area.\n"
+msgstr ""
+"这时试着在周围拍照。\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0030_000_0
+#. timeline 3970..4583
+#: codec/1/216/0xd8610/3
+msgid ""
+"You should be able to see what's causing it.\n"
+msgstr ""
+"应该能拍到元凶。\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0030_000_0
+#. timeline 4597..5126
+#: codec/1/216/0xd8610/4
+msgid ""
+"Why do they show up on photos?\n"
+msgstr ""
+"为什么照片能拍到？\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0030_000_0
+#. timeline 5168..5739
+#: codec/1/216/0xd8610/5
+msgid ""
+"I'm not the one to ask about that, but...\n"
+msgstr ""
+"这我可答不上来，不过……\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0030_000_0
+#. timeline 5753..7537
+#: codec/1/216/0xd8610/6
+msgid ""
+"Maybe fantasma are somehow able to deceive our\n"
+"minds - on a subconscious level.\n"
+msgstr ""
+"也许幻影能在潜意识层面\n"
+"欺骗我们的心智。\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0030_000_0
+#. timeline 7551..9153
+#: codec/1/216/0xd8610/7
+msgid ""
+"They're right there in front of us, but they whisper,\n"
+"\"Hey, we're not really here!\"\n"
+msgstr ""
+"它们就在眼前，却低语：\n"
+"“嘿，我们不在那儿！”\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0030_000_0
+#. timeline 9153..10616
+#: codec/1/216/0xd8610/8
+msgid ""
+"But a camera is a machine, so they can't do\n"
+"anything to it.\n"
+msgstr ""
+"但相机是机器，它们\n"
+"拿它没办法。\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0030_000_0
+#. timeline 10616..11466
+#: codec/1/216/0xd8610/9
+msgid ""
+"Yeah, that's it! That's gotta be it!\n"
+msgstr ""
+"对，就是这样！肯定是！\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0040_000_0
+#. timeline 445..1337
+#: codec/1/216/0xd89e0/0
+msgid ""
+"That's a rangefinder camera you have, right, Snake?\n"
+msgstr ""
+"你拿的是测距相机吧，SNAKE？\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0040_000_0
+#. timeline 1337..2020
+#: codec/1/216/0xd89e0/1
+msgid ""
+"Mi viejo used to talk about rangefinder cameras,\n"
+msgstr ""
+"我老爸以前常提测距相机，\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0040_000_0
+#. timeline 2020..3274
+#: codec/1/216/0xd89e0/2
+msgid ""
+"and how they can focus just as well as any other\n"
+"camera, despite their size.\n"
+msgstr ""
+"说它们虽小，对焦却\n"
+"不输任何相机。\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0040_000_0
+#. timeline 3315..4193
+#: codec/1/216/0xd89e0/3
+msgid ""
+"He also said they don't have much picture blur,\n"
+"either.\n"
+msgstr ""
+"他还说这种相机\n"
+"拍出来也不怎么糊。\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0040_000_0
+#. timeline 4207..4834
+#: codec/1/216/0xd89e0/4
+msgid ""
+"To bring an object into focus,\n"
+msgstr ""
+"要对焦物体时，\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0040_000_0
+#. timeline 4834..5893
+#: codec/1/216/0xd89e0/5
+msgid ""
+"make sure the two images overlap before taking\n"
+"the picture.\n"
+msgstr ""
+"拍照前先让两个影像\n"
+"重叠。\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0040_000_0
+#. timeline 5907..6631
+#: codec/1/216/0xd89e0/6
+msgid ""
+"But you could probably do that in your sleep,\n"
+"couldn't you?\n"
+msgstr ""
+"但你大概闭着眼睛都能做到，\n"
+"对吧？\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0040_000_0
+#. timeline 6631..7871
+#: codec/1/216/0xd89e0/7
+msgid ""
+"All you need to worry about is making sure your\n"
+"subject is in the frame.\n"
+msgstr ""
+"你只需确保\n"
+"被摄物在取景框内。\n"
+
+#. speaker 0x0e559953 voice v_bri_mis_chc0040_000_0
+#. timeline 7899..9181
+#: codec/1/216/0xd89e0/8
+msgid ""
+"Remember, Snake, photography is all about timing.\n"
+msgstr ""
+"记住，SNAKE，摄影全靠时机。\n"
+
+#: codec/1/216/0xd8d60/0
+msgid ""
+"Amanda is so bossy. It's always \"Follow me\" or\n"
+"\"Stay here.\"\n"
+msgstr ""
+
+#: codec/1/216/0xd8d60/1
+msgid ""
+"The other day she told me, \"Chew your gallo pinto\n"
+"before you swallow.\"\n"
+msgstr ""
+
+#: codec/1/216/0xd8d60/2
+msgid ""
+"Can you believe it?\n"
+msgstr ""
+
+#: codec/1/216/0xd8d60/3
+msgid ""
+"Knowing your sister? Yeah, I can.\n"
+msgstr ""
+
+#: codec/1/216/0xd8d60/4
+msgid ""
+"The enemy could strike at any time.\n"
+msgstr ""
+
+#: codec/1/216/0xd8d60/5
+msgid ""
+"I can't sit around taking my sweet time eating!\n"
+msgstr ""
+
+#: codec/1/216/0xd8d60/6
+msgid ""
+"I'm a Sandinista just like the others.\n"
+msgstr ""
+
+#: codec/1/216/0xd8d60/7
+msgid ""
+"I don't need some woman telling me what to do!\n"
+msgstr ""
+
+#: codec/1/216/0xd8d60/8
+msgid ""
+"...Some woman? She's your sister,\n"
+msgstr ""
+
+#: codec/1/216/0xd8d60/9
+msgid ""
+"and she's doing the best she can to fill your\n"
+"father's shoes.\n"
+msgstr ""
+
+#: codec/1/216/0xd8d60/10
+msgid ""
+"I know, I know, but... lately, she hasn't been doing\n"
+"so good.\n"
+msgstr ""
+
+#: codec/1/216/0xd8d60/11
+msgid ""
+"I... Should be strong for her.\n"
+msgstr ""
+
+#: codec/1/216/0xd8d60/12
+msgid ""
+"Now you're talking.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_chc0020_000_0
+#. timeline 459..891
+#: codec/1/217/0xd9190/0
+msgid ""
+"Sorry to hear about your dad.\n"
+msgstr ""
+"你父亲的事，我很遗憾。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_000_0
+#. timeline 905..2229
+#: codec/1/217/0xd9190/1
+msgid ""
+"Don't be. He was... He is a guerrilla warrior.\n"
+msgstr ""
+"不必。他曾是……游击战士。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_000_0
+#. timeline 2326..3134
+#: codec/1/217/0xd9190/2
+msgid ""
+"We pledge our lives to our country and its people...\n"
+msgstr ""
+"我们为祖国和人民献出生命……\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_000_0
+#. timeline 3190..3705
+#: codec/1/217/0xd9190/3
+msgid ""
+"I'm ready to die, too, if I have to.\n"
+msgstr ""
+"必要时，我也准备赴死。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0020_000_0
+#. timeline 3733..3984
+#: codec/1/217/0xd9190/4
+msgid ""
+"You sure?\n"
+msgstr ""
+"你确定？\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_000_0
+#. timeline 4054..5600
+#: codec/1/217/0xd9190/5
+msgid ""
+"You'd better believe it! Like mi viejo used to say,\n"
+"\"Patria o Muerte.\"\n"
+msgstr ""
+"当然！就像我老爹常说的，\n"
+"“祖国或死亡。”\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0020_000_0
+#. timeline 5948..6325
+#: codec/1/217/0xd9190/6
+msgid ""
+"Che said it first.\n"
+msgstr ""
+"切先说的。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_000_0
+#. timeline 6339..6924
+#: codec/1/217/0xd9190/7
+msgid ""
+"My dad used to tell us all kinds of stories.\n"
+msgstr ""
+"我爸常给我们讲各种故事。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_000_0
+#. timeline 7007..7857
+#: codec/1/217/0xd9190/8
+msgid ""
+"About General Sandino and his fight against la\n"
+"Guardia...\n"
+msgstr ""
+"关于桑地诺将军和他对抗\n"
+"国民警卫队……\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_000_0
+#. timeline 7927..8470
+#: codec/1/217/0xd9190/9
+msgid ""
+"And about my mom before she left us.\n"
+msgstr ""
+"还有我妈离开前的事。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0020_000_0
+#. timeline 8512..8860
+#: codec/1/217/0xd9190/10
+msgid ""
+"You didn't want to go with her?\n"
+msgstr ""
+"你不想跟她走？\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_000_0
+#. timeline 8874..10072
+#: codec/1/217/0xd9190/11
+msgid ""
+"It's not like that. La revolución comes first, that's all.\n"
+msgstr ""
+"不是那样。革命优先，仅此而已。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0020_000_0
+#. timeline 10142..10657
+#: codec/1/217/0xd9190/12
+msgid ""
+"You must wish you could see her, though.\n"
+msgstr ""
+"不过你一定想见她。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_000_0
+#. timeline 10671..12496
+#: codec/1/217/0xd9190/13
+msgid ""
+"I dunno. But I know I'll see her again when this is\n"
+"all over. Somehow I just know it.\n"
+msgstr ""
+"不知道。但我知道等一切结束后\n"
+"会再见到她。我就是知道。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_000_0
+#. timeline 12566..13890
+#: codec/1/217/0xd9190/14
+msgid ""
+"When I do, me and mamá and papá are all going to\n"
+"live together again.\n"
+msgstr ""
+"到那时，我和妈妈、爸爸\n"
+"会重新住在一起。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_000_0
+#. timeline 14210..14475
+#: codec/1/217/0xd9190/15
+msgid ""
+"At least...\n"
+msgstr ""
+"至少…\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_000_0
+#. timeline 15241..15631
+#: codec/1/217/0xd9190/16
+msgid ""
+"At least, that's what I thought.\n"
+msgstr ""
+"至少，我是这么想的。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0020_000_0
+#. timeline 17512..18529
+#: codec/1/217/0xd9190/17
+msgid ""
+"Hang in there, Chico. Your sister needs you.\n"
+msgstr ""
+"撑住，奇科。你姐姐需要你。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_010_0
+#. timeline 459..1880
+#: codec/1/217/0xd9750/0
+msgid ""
+"Have you ever heard, \"Shoot, coward, you are only\n"
+"going to kill a man\"?\n"
+msgstr ""
+"你听过“开枪吧，懦夫，你不过\n"
+"杀一个人”吗？\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0020_010_0
+#. timeline 2256..2716
+#: codec/1/217/0xd9750/1
+msgid ""
+"Che's last words.\n"
+msgstr ""
+"切的遗言。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0020_010_0
+#. timeline 2730..3260
+#: codec/1/217/0xd9750/2
+msgid ""
+"He'd been captured in Bolivia,\n"
+msgstr ""
+"他在玻利维亚被捕，\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0020_010_0
+#. timeline 3315..4207
+#: codec/1/217/0xd9750/3
+msgid ""
+"and said it to the soldiers just as they were about\n"
+"to execute him.\n"
+msgstr ""
+"并在士兵们即将处决他时\n"
+"对他们说了这句话。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_010_0
+#. timeline 4207..5182
+#: codec/1/217/0xd9750/4
+msgid ""
+"El Che... He was something, wasn't he?\n"
+msgstr ""
+"切……他真了不起，对吧？\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_010_0
+#. timeline 5252..6227
+#: codec/1/217/0xd9750/5
+msgid ""
+"Coming up with a line like that knowing he was\n"
+"about to die.\n"
+msgstr ""
+"明知自己即将死去，\n"
+"还能想出这样一句话。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0020_010_0
+#. timeline 6241..6743
+#: codec/1/217/0xd9750/6
+msgid ""
+"After the Cuban Revolution,\n"
+msgstr ""
+"古巴革命之后，\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0020_010_0
+#. timeline 6743..8094
+#: codec/1/217/0xd9750/7
+msgid ""
+"Che gave up his position in the new government to\n"
+"aide in revolutions in other countries.\n"
+msgstr ""
+"切放弃了新政府中的职位，去\n"
+"援助他国的革命。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0020_010_0
+#. timeline 8317..9473
+#: codec/1/217/0xd9750/8
+msgid ""
+"He knew he could die at any time, and he was\n"
+"ready for it.\n"
+msgstr ""
+"他知道随时可能死，也早已\n"
+"准备好了。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_010_0
+#. timeline 9487..10365
+#: codec/1/217/0xd9750/9
+msgid ""
+"Me, I couldn't take even a little torture...\n"
+msgstr ""
+"而我，连一点拷打都受不了……\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0020_010_0
+#. timeline 10407..11661
+#: codec/1/217/0xd9750/10
+msgid ""
+"But you've been reborn, as an hombre nuevo.\n"
+"Right, Chico?\n"
+msgstr ""
+"但你已重生，成为了新人。\n"
+"对吧，奇科？\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0020_010_0
+#. timeline 11674..11925
+#: codec/1/217/0xd9750/11
+msgid ""
+"Right...\n"
+msgstr ""
+"对…\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0030_000_0
+#. timeline 445..1253
+#: codec/1/217/0xd9b70/0
+msgid ""
+"Don't you ever get lonely living away from your\n"
+"mom?\n"
+msgstr ""
+"离开妈妈生活，你从不觉得\n"
+"孤单吗？\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0030_000_0
+#. timeline 1267..2173
+#: codec/1/217/0xd9b70/1
+msgid ""
+"Not really. My compas are my family now.\n"
+msgstr ""
+"还好。同伴就是家人。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0030_000_0
+#. timeline 2270..2786
+#: codec/1/217/0xd9b70/2
+msgid ""
+"A lot of them are from the same village as me.\n"
+msgstr ""
+"他们很多人和我来自同一个村子。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0030_000_0
+#. timeline 2814..3538
+#: codec/1/217/0xd9b70/3
+msgid ""
+"So you had plenty of people to take care of you.\n"
+msgstr ""
+"所以有很多人照顾你。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0030_000_0
+#. timeline 3566..4890
+#: codec/1/217/0xd9b70/4
+msgid ""
+"Take care of me?! I'm a warrior, like any other\n"
+"Sandinista!\n"
+msgstr ""
+"照顾我？！我是战士，和任何\n"
+"桑地诺派一样！\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0030_000_0
+#. timeline 4987..5809
+#: codec/1/217/0xd9b70/5
+msgid ""
+"We look out for each other. That is how it works.\n"
+msgstr ""
+"我们互相照应。就是这样。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_chc0030_000_0
+#. timeline 5879..6645
+#: codec/1/217/0xd9b70/6
+msgid ""
+"Sorry. Guess I misspoke.\n"
+msgstr ""
+"抱歉。我说错话了。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0030_000_0
+#. timeline 6659..8150
+#: codec/1/217/0xd9b70/7
+msgid ""
+"Now we're scattered because of that colibri... I\n"
+"wonder where everybody went.\n"
+msgstr ""
+"现在我们因那只蜂鸟而四散……\n"
+"不知道大家都去了哪里。\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0030_000_0
+#. timeline 8345..9724
+#: codec/1/217/0xd9b70/8
+msgid ""
+"Hey, Snake. If you see any Frente prisoners, please\n"
+"you gotta get them out, OK?\n"
+msgstr ""
+"嘿，SNAKE。看到Frente俘虏，请\n"
+"一定救他们出来，确定？\n"
+
+#. speaker 0x0e559953 voice v_bri_chc0030_000_0
+#. timeline 9766..10964
+#: codec/1/217/0xd9b70/9
+msgid ""
+"Those guys are solid - every one. You could use\n"
+"them in MSF.\n"
+msgstr ""
+"那些家伙个个靠得住。你可以在\n"
+"MSF用他们。\n"
+
+#: codec/1/217/0xd9f30/0
+msgid ""
+"Hey Snake, are there any jobs for me here at\n"
+"Mother Base? I can do anything!\n"
+msgstr ""
+
+#: codec/1/217/0xd9f30/1
+msgid ""
+"You don't have to work, you know.\n"
+msgstr ""
+
+#: codec/1/218/0xda210/0
+msgid ""
+"What's with all this sighing? You're not your usual\n"
+"self.\n"
+msgstr ""
+"怎么一直叹气？你不太像平时的\n"
+"自己。\n"
+
+#: codec/1/218/0xda210/1
+msgid ""
+"Oh. Snake.\n"
+msgstr ""
+"哦。SNAKE。\n"
+
+#: codec/1/218/0xda210/2
+msgid ""
+"Something on your mind?\n"
+msgstr ""
+"有心事？\n"
+
+#: codec/1/218/0xda210/3
+msgid ""
+"Huh? No, not... really. Not really... I guess...\n"
+msgstr ""
+"嗯？没，没……真的。真的没有……大概吧……\n"
+
+#: codec/1/218/0xda210/4
+msgid ""
+"Hey, Snake...\n"
+msgstr ""
+"嘿，SNAKE……\n"
+
+#: codec/1/218/0xda210/5
+msgid ""
+"Uh huh?\n"
+msgstr ""
+"嗯？\n"
+
+#: codec/1/218/0xda210/6
+msgid ""
+"Girls are funny, y'know?\n"
+msgstr ""
+"女孩真难懂，你知道吗？\n"
+
+#: codec/1/218/0xda210/7
+msgid ""
+"You can never tell what they're thinking, they're\n"
+"always doing their own thing.\n"
+msgstr ""
+"你永远猜不透她们在想什么，总是\n"
+"我行我素。\n"
+
+#: codec/1/218/0xda210/8
+msgid ""
+"Maybe they really are different from us men...\n"
+msgstr ""
+"也许她们真和我们男人不一样……\n"
+
+#: codec/1/218/0xda210/9
+msgid ""
+"Wh-what's this about now?\n"
+msgstr ""
+"什、怎么突然说这个？\n"
 
 #: codec/1/218/0xda210/10
 msgid ""
@@ -406,6 +2545,7 @@ msgstr ""
 #. speaker 0x0e559953 voice v_bri_chc0130_010_0
 #. timeline 13736..13973
 #: codec/1/219/0xdb190/14
+#: codec/2/909/0x38db70/1
 #: codec/2/910/0x38e660/1
 msgid ""
 "Yeah...\n"
@@ -527,6 +2667,116 @@ msgid ""
 msgstr ""
 "这叫机器中的幽灵，SNAKE……它\n"
 "确实存在。\n"
+
+#: codec/1/219/0xdbb50/0
+msgid ""
+"Let's say, hypothetically, there really was an\n"
+"intelligent machine.\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/1
+msgid ""
+"How would you prove it?\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/2
+msgid ""
+"What's the difference between a high-level\n"
+"computer and an AI?\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/3
+msgid ""
+"It depends on what you choose to define as\n"
+"intelligence...\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/4
+msgid ""
+"For example, Snake, listen to my voice talking to\n"
+"you now. Suppose it were an AI?\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/5
+msgid ""
+"Say what?\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/6
+msgid ""
+"What if the living, breathing me, sitting here\n"
+"drinking tea and talking to you,\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/7
+msgid ""
+"were actually an AI, programmed to simulate my\n"
+"thoughts and my voice?\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/8
+msgid ""
+"You're nuts.\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/9
+msgid ""
+"No, I'm not. You couldn't prove I was a real human\n"
+"being, could you?\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/10
+msgid ""
+"It'd be... No.\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/11
+msgid ""
+"Hm. So if an AI is so advanced you can't tell it\n"
+"from the real thing,\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/12
+msgid ""
+"wouldn't you call that intelligence?\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/13
+msgid ""
+"I'm not quite convinced.\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/14
+msgid ""
+"But that's only one way to look at it.\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/15
+msgid ""
+"It's roughly how Dr. Turing explained artificial\n"
+"intelligence.\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/16
+msgid ""
+"The test I described is called the Turing Test in his\n"
+"honor.\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/17
+msgid ""
+"Yeah, well, it sounds like a bad joke to me.\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/18
+msgid ""
+"That singing monster of yours put me through hell.\n"
+msgstr ""
+
+#: codec/1/219/0xdbb50/19
+msgid ""
+"If I never meet one again, it'll be too soon.\n"
+msgstr ""
 
 #: codec/1/220/0xdc290/0
 msgid ""
@@ -769,2450 +3019,3 @@ msgid ""
 "It can't turn to anyone else for advice.\n"
 msgstr ""
 "它不能向任何人求助。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0030_000_1
-#. timeline 13207..14781
-#: codec/1/220/0xdc990/12
-msgid ""
-"It can't do its job if it's not prepared to take sole\n"
-"responsibility for the fate of the world.\n"
-msgstr ""
-"若没准备好独自为世界命运\n"
-"担责，它就无法履职。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0030_000_1
-#. timeline 14879..15840
-#: codec/1/220/0xdc990/13
-msgid ""
-"I know of no other human being who could bear\n"
-"that burden.\n"
-msgstr ""
-"我不知道还有哪个人类能承受\n"
-"这重担。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0030_000_1
-#. timeline 15868..16091
-#: codec/1/220/0xdc990/14
-msgid ""
-"...That's it?\n"
-msgstr ""
-"……就这样？\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0030_000_1
-#. timeline 16133..17818
-#: codec/1/220/0xdc990/15
-msgid ""
-"There were technical considerations, of course. To\n"
-"begin with, the female brain\n"
-msgstr ""
-"当然，也有技术上的考量。首先，\n"
-"女性的大脑\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0030_000_1
-#. timeline 17902..18543
-#: codec/1/220/0xdc990/16
-msgid ""
-"is a more appropriate model for an AI.\n"
-msgstr ""
-"更适合作为AI的模型。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0030_000_1
-#. timeline 18543..19365
-#: codec/1/220/0xdc990/17
-msgid ""
-"Wait...the female brain?\n"
-msgstr ""
-"等等……女性大脑？\n"
-
-#: codec/1/222/0xde520/0
-msgid ""
-"So what's an 'expert system?'\n"
-msgstr ""
-"啥是“专家系统”？\n"
-
-#: codec/1/222/0xde520/1
-msgid ""
-"The AI housed within Peace Walker began\n"
-"development as such a system.\n"
-msgstr ""
-"和平行者搭载的AI最初就是作为\n"
-"这种系统开发的。\n"
-
-#: codec/1/222/0xde520/2
-msgid ""
-"An expert system is a type of proxy program\n"
-msgstr ""
-"专家系统是一种代理程序，\n"
-
-#: codec/1/222/0xde520/3
-msgid ""
-"by which a computer makes decisions as an expert\n"
-"would.\n"
-msgstr ""
-"by which a computer makes decisions as an expert\n"
-"would.\n"
-
-#: codec/1/222/0xde520/4
-msgid ""
-"The program \"MYCIN,\" for example,\n"
-msgstr ""
-"比如“MYCIN”程序，\n"
-
-#: codec/1/222/0xde520/5
-msgid ""
-"is a system that decides which kinds of antibiotics\n"
-"to prescribe.\n"
-msgstr ""
-"is a system that decides which kinds of antibiotics\n"
-"to prescribe.\n"
-
-#: codec/1/222/0xde520/6
-msgid ""
-"The system asks the patient a series of questions\n"
-msgstr ""
-"系统会向病人问一系列问题，\n"
-
-#: codec/1/222/0xde520/7
-msgid ""
-"to narrow down the range of appropriate drugs.\n"
-msgstr ""
-"以缩小适用药物的范围。\n"
-
-#: codec/1/222/0xde520/8
-msgid ""
-"So you programmed Peace Walker to prescribe live\n"
-"nuclear warheads instead of penicillin.\n"
-msgstr ""
-"所以你把和平行者编成开核弹头\n"
-"而不是青霉素。\n"
-
-#: codec/1/222/0xde520/9
-msgid ""
-"What I realized, however, was that a simple expert\n"
-"system wasn't up to the task.\n"
-msgstr ""
-"但我意识到，单纯的专家系统\n"
-"无法胜任。\n"
-
-#: codec/1/222/0xde520/10
-msgid ""
-"You need more than expertise to launch a nuke.\n"
-msgstr ""
-"发射核弹光靠专业知识不够。\n"
-
-#: codec/1/222/0xde520/11
-msgid ""
-"Indeed. Expertise is a necessary prerequisite but\n"
-"insufficient on its own.\n"
-msgstr ""
-"没错。专业知识是必要前提，\n"
-"但本身不够。\n"
-
-#: codec/1/222/0xde520/12
-msgid ""
-"Deciding to launch a retaliatory strike requires\n"
-"consideration of a wider range of factors.\n"
-msgstr ""
-"决定发动报复性打击需要\n"
-"考虑更广泛的因素。\n"
-
-#: codec/1/222/0xde520/13
-msgid ""
-"In such a scenario, the entire global situation\n"
-"becomes the criterion for making a decision.\n"
-msgstr ""
-"这种情况下，全球局势\n"
-"本身就是决策标准。\n"
-
-#: codec/1/222/0xde520/14
-msgid ""
-"Makes sense. You screw up the prescription, and\n"
-"the whole world goes into anaphylactic shock.\n"
-msgstr ""
-"有道理。你开错药，\n"
-"全世界都会过敏性休克。\n"
-
-#: codec/1/222/0xde520/15
-msgid ""
-"A \"weak AI\"\n"
-msgstr ""
-"“弱AI”\n"
-
-#: codec/1/222/0xde520/16
-msgid ""
-"that has only a limited range of knowledge upon\n"
-"which to base its decisions won't cut it.\n"
-msgstr ""
-"只有有限知识作为决策依据，\n"
-"是不够的。\n"
-
-#: codec/1/222/0xde520/17
-msgid ""
-"Therefore, I had the AI study The Boss' thought\n"
-"patterns,\n"
-msgstr ""
-"因此，我让AI学习了THE BOSS的\n"
-"思维模式，\n"
-
-#: codec/1/222/0xde520/18
-msgid ""
-"thus creating a true expert system - a \"strong AI.\"\n"
-msgstr ""
-"从而造出真正专家系统，即“强AI”。\n"
-
-#: codec/1/222/0xde520/19
-msgid ""
-"You couldn't leave the world in the hands of\n"
-"something\n"
-msgstr ""
-"你不能把世界交到\n"
-"某种东西手里\n"
-
-#: codec/1/222/0xde520/20
-msgid ""
-"with anything less than an absolute worldview.\n"
-msgstr ""
-"没有绝对世界观的东西。\n"
-
-#: codec/1/222/0xde520/21
-msgid ""
-"I could have built a simple expert system in no\n"
-"time at all.\n"
-msgstr ""
-"我本可以很快造出\n"
-"简单的专家系统。\n"
-
-#: codec/1/222/0xde520/22
-msgid ""
-"Say, how would you like a system that decides\n"
-"which guns you should equip\n"
-msgstr ""
-"想不想要套系统，按任务参数\n"
-"决定你带什么枪？\n"
-
-#: codec/1/222/0xde520/23
-msgid ""
-"according to the mission's parameters?\n"
-msgstr ""
-"免了。我可不想把命交给别人的判断。\n"
-
-#: codec/1/222/0xde520/24
-msgid ""
-"I'll pass. I'm not gonna leave my life up to\n"
-"somebody else's judgment.\n"
-msgstr ""
-"我拒绝。我不会把自己的人生交给\n"
-"别人的判断。\n"
-
-#: codec/1/222/0xde520/25
-msgid ""
-"Especially not a machine.\n"
-msgstr ""
-"相反的方向……什么意思？\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0060_010_0
-#. timeline 473..1462
-#: codec/1/223/0xdf350/0
-msgid ""
-"The opposite direction... What does that mean?\n"
-msgstr ""
-"越来越多的AI正变成专精大规模信息处理的系统，\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0060_010_0
-#. timeline 1490..3092
-#: codec/1/223/0xdf350/1
-msgid ""
-"More and more AI are becoming systems that\n"
-"specialize in mass information processing\n"
-msgstr ""
-"越来越多的AI正在成为专门\n"
-"处理海量信息的系统\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0060_010_0
-#. timeline 3176..4304
-#: codec/1/223/0xdf350/2
-msgid ""
-"- without human intelligence, thought, or emotion.\n"
-msgstr ""
-"一种没有个性、没有自我的机器，\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0060_010_0
-#. timeline 4388..5349
-#: codec/1/223/0xdf350/3
-msgid ""
-"A machine that has no individualism or sense of\n"
-"self,\n"
-msgstr ""
-"一台没有个体意识或自我\n"
-"意识的机器，\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0060_010_0
-#. timeline 5461..7077
-#: codec/1/223/0xdf350/4
-msgid ""
-"but rather behaves as a collective, exhibiting the\n"
-"qualities of a society.\n"
-msgstr ""
-"而是作为一个集体运作，展现出\n"
-"社会的特质。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0060_010_0
-#. timeline 7091..7453
-#: codec/1/223/0xdf350/5
-msgid ""
-"Like a beehive?\n"
-msgstr ""
-"像蜂巢？\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0060_010_0
-#. timeline 7509..9557
-#: codec/1/223/0xdf350/6
-msgid ""
-"Yes. It aggregates data collected by individuals and\n"
-"determines how the collective will act\n"
-msgstr ""
-"是的。它汇总个体收集的数据，并\n"
-"决定集体将如何行动\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0060_010_0
-#. timeline 9613..10685
-#: codec/1/223/0xdf350/7
-msgid ""
-"just as honeybees travel between the hive and\n"
-"flowers.\n"
-msgstr ""
-"就像蜜蜂在蜂巢与\n"
-"花朵之间往返。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0060_010_0
-#. timeline 10769..11939
-#: codec/1/223/0xdf350/8
-msgid ""
-"The key to achieving that will be networking AI\n"
-"together.\n"
-msgstr ""
-"实现这目标的关键是把AI\n"
-"连成网络。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0060_010_0
-#. timeline 11995..13193
-#: codec/1/223/0xdf350/9
-msgid ""
-"I don't know how to say this, but... that kind of\n"
-"gives me the creeps.\n"
-msgstr ""
-"我不知道该怎么说，但……那种\n"
-"让我毛骨悚然。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0060_010_0
-#. timeline 13221..14586
-#: codec/1/223/0xdf350/10
-msgid ""
-"But if your goal is to control society, it's the better\n"
-"model to use.\n"
-msgstr ""
-"但若目标是控制社会，那它是更\n"
-"好用的模型。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0060_010_0
-#. timeline 14642..16133
-#: codec/1/223/0xdf350/11
-msgid ""
-"It lets you filter data - disseminate only what you\n"
-"want disseminated.\n"
-msgstr ""
-"它能让你筛选数据——只传播你\n"
-"想传播的内容。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0060_010_0
-#. timeline 16202..17707
-#: codec/1/223/0xdf350/12
-msgid ""
-"Of course, I myself have no interest in an AI\n"
-"without a shred of life to it.\n"
-msgstr ""
-"当然，我本人对一个毫无\n"
-"生命气息的AI没有兴趣。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0070_000_0
-#. timeline 473..2452
-#: codec/1/223/0xdf880/0
-msgid ""
-"Earlier, you called the Mammal Pod a butterfly. Not\n"
-"a pupa or a cocoon, but an imago.\n"
-msgstr ""
-"之前你称哺乳动物舱为蝴蝶。不是\n"
-"蛹，不是茧，是成虫。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0070_000_0
-#. timeline 2507..3873
-#: codec/1/223/0xdf880/1
-msgid ""
-"Yes. The AI that came before the Mammal Pod\n"
-"were works in progress.\n"
-msgstr ""
-"是的。哺乳动物舱之前的AI\n"
-"都是未完成的作品。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0070_000_0
-#. timeline 3928..4332
-#: codec/1/223/0xdf880/2
-msgid ""
-"Works in progress?\n"
-msgstr ""
-"它们足以维持机体运转。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0070_000_0
-#. timeline 4346..4931
-#: codec/1/223/0xdf880/3
-msgid ""
-"They were enough to keep the frame running.\n"
-msgstr ""
-"但不足以决定核报复。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0070_000_0
-#. timeline 4931..6018
-#: codec/1/223/0xdf880/4
-msgid ""
-"But not enough to make decisions about nuclear\n"
-"retaliation.\n"
-msgstr ""
-"但还不足以做出核\n"
-"报复的决定。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0070_000_0
-#. timeline 6060..6965
-#: codec/1/223/0xdf880/5
-msgid ""
-"They weren't quite complete. They were pupae.\n"
-msgstr ""
-"它们还不完整，是蛹。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0070_000_0
-#. timeline 7035..8359
-#: codec/1/223/0xdf880/6
-msgid ""
-"Only when I added The Boss' data did the AI take\n"
-"on its true form,\n"
-msgstr ""
-"只有加入The Boss数据后，AI才\n"
-"显出真身，\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0070_000_0
-#. timeline 8512..9376
-#: codec/1/223/0xdf880/7
-msgid ""
-"becoming a butterfly and taking flight.\n"
-msgstr ""
-"化蝶起飞。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0070_000_0
-#. timeline 9404..10448
-#: codec/1/223/0xdf880/8
-msgid ""
-"And that's why the nose art on Peace Walker was\n"
-"a butterfly...\n"
-msgstr ""
-"所以和平行者机头的图案才是\n"
-"蝴蝶……\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0070_000_0
-#. timeline 10476..11730
-#: codec/1/223/0xdf880/9
-msgid ""
-"I gave the Mammal AI the code name \"BS-Imago.\"\n"
-msgstr ""
-"我给哺乳AI起代号“BS-Imago”。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0070_000_0
-#. timeline 11828..12705
-#: codec/1/223/0xdf880/10
-msgid ""
-"\"BS\" is short for Boss.\n"
-msgstr ""
-"“BS”是BOSS的缩写。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0080_000_0
-#. timeline 571..1267
-#: codec/1/224/0xe0230/0
-msgid ""
-"What did you mean by \"the Ghost in the Machine\"?\n"
-msgstr ""
-"你说的“机器中的幽灵”啥意思？\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 1281..2633
-#: codec/1/224/0xe0230/1
-msgid ""
-"Oh, that... It's a term coined by the philosopher\n"
-"Gilbert Ryle.\n"
-msgstr ""
-"那个啊……哲学家\n"
-"吉尔伯特·赖尔提出的。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 2661..3232
-#: codec/1/224/0xe0230/2
-msgid ""
-"You've heard of Descartes, yes?\n"
-msgstr ""
-"你知道笛卡尔吧？\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0080_000_0
-#. timeline 3260..3817
-#: codec/1/224/0xe0230/3
-msgid ""
-"\"I think, therefore I am...\"\n"
-msgstr ""
-"“我思故我在……”\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 3845..5419
-#: codec/1/224/0xe0230/4
-msgid ""
-"That is the one. Descartes espoused the dualistic\n"
-"theory of mind and body.\n"
-msgstr ""
-"正是他。笛卡尔主张\n"
-"心物二元论。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 5433..6715
-#: codec/1/224/0xe0230/5
-msgid ""
-"He believed that our thinking minds exist in a\n"
-"separate dimension from our bodies,\n"
-msgstr ""
-"他认为思考的心灵存在于\n"
-"与肉体不同的维度，\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 6743..7397
-#: codec/1/224/0xe0230/6
-msgid ""
-"which are governed by the laws of physics.\n"
-msgstr ""
-"而肉体受物理法则支配。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 7467..9041
-#: codec/1/224/0xe0230/7
-msgid ""
-"But if that were true, then couldn't you say that a\n"
-"mechanical \"body\"\n"
-msgstr ""
-"若真如此，那被幽灵“心灵”\n"
-"寄居的机械“肉体”，\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 9125..10337
-#: codec/1/224/0xe0230/8
-msgid ""
-"inhabited by a ghost \"mind\" is a human being?\n"
-msgstr ""
-"岂不也能算是人？\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 10407..11340
-#: codec/1/224/0xe0230/9
-msgid ""
-"Ryle criticized Descartes on those grounds,\n"
-msgstr ""
-"赖尔正是以此批判笛卡尔，\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 11340..12469
-#: codec/1/224/0xe0230/10
-msgid ""
-"saying such a thing surely wouldn't be human.\n"
-msgstr ""
-"说那种东西绝不可能是人。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0080_000_0
-#. timeline 12469..12817
-#: codec/1/224/0xe0230/11
-msgid ""
-"Why'd you bring it up?\n"
-msgstr ""
-"你提这干嘛？\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 12845..13848
-#: codec/1/224/0xe0230/12
-msgid ""
-"I wasn't thinking of Ryle in particular when I said it.\n"
-msgstr ""
-"我说的时候并没特意想到赖尔。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 13904..15450
-#: codec/1/224/0xe0230/13
-msgid ""
-"I simply thought that if a person is composed of a\n"
-"machine and a ghost,\n"
-msgstr ""
-"我只是想，若人由\n"
-"机械与幽灵构成，\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 15575..16272
-#: codec/1/224/0xe0230/14
-msgid ""
-"perhaps the opposite is true as well.\n"
-msgstr ""
-"或许反过来也成立。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 16342..18752
-#: codec/1/224/0xe0230/15
-msgid ""
-"Perhaps by placing a ghost inside a machine, we\n"
-"could in effect give birth to a new person.\n"
-msgstr ""
-"把幽灵放进机械里，或许就能\n"
-"造出新的生命。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0080_000_0
-#. timeline 18780..19462
-#: codec/1/224/0xe0230/16
-msgid ""
-"And that was your idea for the Boss AI?\n"
-msgstr ""
-"这就是你造BOSS AI的构想？\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 19490..20953
-#: codec/1/224/0xe0230/17
-msgid ""
-"The moment you ripped the memory board out, the\n"
-"Mammal Pod ceased to function.\n"
-msgstr ""
-"你拔出存储板那一刻，\n"
-"哺乳舱就停止运转了。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 21023..21441
-#: codec/1/224/0xe0230/18
-msgid ""
-"It should have been dead.\n"
-msgstr ""
-"它本该已经死了。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 21524..23252
-#: codec/1/224/0xe0230/19
-msgid ""
-"And yet Peace Walker righted itself, singing a song\n"
-"of peace.\n"
-msgstr ""
-"可和平行者却自己站起，\n"
-"唱起和平之歌。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0080_000_0
-#. timeline 23294..25161
-#: codec/1/224/0xe0230/20
-msgid ""
-"I couldn't help but feel... that her soul had come to\n"
-"inhabit Peace Walker.\n"
-msgstr ""
-"我不禁觉得……她的灵魂\n"
-"寄居到了和平行者里。\n"
-
-#: codec/1/224/0xe0990/0
-msgid ""
-"Are you familiar with the film \"2001: A Space\n"
-"Odyssey\"?\n"
-msgstr ""
-"你看过电影《2001太空\n"
-"漫游》吗？\n"
-
-#: codec/1/224/0xe0990/1
-msgid ""
-"I've heard of it, but...\n"
-msgstr ""
-"听说过，但……\n"
-
-#: codec/1/224/0xe0990/2
-msgid ""
-"Of course not. I didn't expect you to be cultured\n"
-"enough to appreciate such things.\n"
-msgstr ""
-"当然没有。我也没指望你有文化\n"
-"到能欣赏这种东西。\n"
-
-#: codec/1/224/0xe0990/3
-msgid ""
-"Yeah, thanks. Anyway...\n"
-msgstr ""
-"谢了。总之……\n"
-
-#: codec/1/224/0xe0990/4
-msgid ""
-"\"2001\" features an AI called HAL,\n"
-msgstr ""
-"《2001》里有个AI叫HAL，\n"
-
-#: codec/1/224/0xe0990/5
-msgid ""
-"a highly advanced system that controls an\n"
-"exploration spacecraft.\n"
-msgstr ""
-"是个控制探索飞船的\n"
-"高度先进系统。\n"
-
-#: codec/1/224/0xe0990/6
-msgid ""
-"It can converse with people, and even play chess.\n"
-msgstr ""
-"它能跟人对话，甚至下棋。\n"
-
-#: codec/1/224/0xe0990/7
-msgid ""
-"Huh. Now where have I heard that before...\n"
-msgstr ""
-"嗯。这话我在哪儿听过……\n"
-
-#: codec/1/224/0xe0990/8
-msgid ""
-"The way HAL was portrayed was truly superb.\n"
-msgstr ""
-"HAL的刻画真是绝了。\n"
-
-#: codec/1/224/0xe0990/10
-msgid ""
-"HAL is given secret orders that not even the\n"
-"ship's captain knows about.\n"
-msgstr ""
-"HAL接到了连船长\n"
-"都不知道的密令。\n"
-
-#: codec/1/224/0xe0990/11
-msgid ""
-"Naturally, he's not allowed to divulge them to the\n"
-"crew. The stress of it causes HAL to crack.\n"
-msgstr ""
-"它自然不能向船员泄露。\n"
-"这种压力让它崩溃了。\n"
-
-#: codec/1/224/0xe0990/12
-msgid ""
-"Crack?\n"
-msgstr ""
-"崩溃？\n"
-
-#: codec/1/224/0xe0990/13
-msgid ""
-"Go crazy. Though there are those who interpret it\n"
-"differently.\n"
-msgstr ""
-"发疯。不过也有人\n"
-"有别的解读。\n"
-
-#: codec/1/224/0xe0990/14
-msgid ""
-"One by one, HAL kills off the crew until the captain\n"
-"finally shuts it down...\n"
-msgstr ""
-"HAL一个个杀掉船员，直到船长\n"
-"最终把它关掉……\n"
-
-#: codec/1/224/0xe0990/15
-msgid ""
-"The film offers amazing insights into AI - their\n"
-"growth, their utility, their faults - and their fear of\n"
-"death.\n"
-msgstr ""
-"这部电影对AI见解惊人，它们的\n"
-"成长、功用、缺陷，以及对\n"
-"死亡的恐惧。\n"
-
-#: codec/1/224/0xe0990/16
-msgid ""
-"You must have found it useful in your research,\n"
-"then.\n"
-msgstr ""
-"那你研究中一定觉得它有用\n"
-"吧。\n"
-
-#: codec/1/224/0xe0990/17
-msgid ""
-"Must you always be so... utilitarian?\n"
-msgstr ""
-"你就非得这么……功利吗？\n"
-
-#: codec/1/224/0xe0990/18
-msgid ""
-"It doesn't matter whether or not it's useful. What\n"
-"matters is that it inspired me.\n"
-msgstr ""
-"有没有用不重要。重要的是\n"
-"它启发了我。\n"
-
-#: codec/1/224/0xe0990/19
-msgid ""
-"Then it was USEFUL.\n"
-msgstr ""
-"那就是有用。\n"
-
-#: codec/1/224/0xe0990/20
-msgid ""
-"Never mind. The portrayal of HAL wasn't the only\n"
-"wonderful thing about the film.\n"
-msgstr ""
-"算了。HAL的刻画并不是\n"
-"这片子唯一精彩之处。\n"
-
-#: codec/1/224/0xe0990/21
-msgid ""
-"It was full of hints about the future of human\n"
-"evolution. Truly a film for the ages.\n"
-msgstr ""
-"它充满了对人类进化未来的暗示。\n"
-"真是传世之作。\n"
-
-#: codec/1/225/0xe1160/0
-msgid ""
-"Strangelove, when did you and The Boss first\n"
-"meet?\n"
-msgstr ""
-"斯特兰奇洛夫，你和THE BOSS\n"
-"最初是怎么认识的？\n"
-
-#: codec/1/225/0xe1160/1
-msgid ""
-"...Did she ever tell you about what she saw in\n"
-"space?\n"
-msgstr ""
-"……她跟你讲过她在太空\n"
-"看到啥了吗？\n"
-
-#: codec/1/225/0xe1160/3
-msgid ""
-"I saw the same thing along with her.\n"
-msgstr ""
-"我和她看到一样的东西。\n"
-
-#: codec/1/225/0xe1160/4
-msgid ""
-"The Soviets beat America into space with Sputnik,\n"
-msgstr ""
-"苏联用斯普特尼克抢先进入太空，\n"
-
-#: codec/1/225/0xe1160/5
-msgid ""
-"and so America rushed to be first in manned\n"
-"spaceflight.\n"
-msgstr ""
-"于是美国急着争当\n"
-"载人航天第一。\n"
-
-#: codec/1/225/0xe1160/6
-msgid ""
-"NASA used her as their top-secret guinea pig,\n"
-"launching her deep into the cold blackness of\n"
-"space.\n"
-msgstr ""
-"NASA将她用作绝密实验豚鼠，\n"
-"把她发射到寒冷漆黑的\n"
-"太空中。\n"
-
-#: codec/1/225/0xe1160/7
-msgid ""
-"I took part in the project. As a scientist.\n"
-msgstr ""
-"我以科学家身份参与了计划。\n"
-
-#: codec/1/225/0xe1160/8
-msgid ""
-"You were there with her...?\n"
-msgstr ""
-"你和她一起在那里……？\n"
-
-#: codec/1/225/0xe1160/9
-msgid ""
-"Yes... For a brief time, we were one and the same,\n"
-"she and I.\n"
-msgstr ""
-"是的……有段时间，她和我\n"
-"如同一体。\n"
-
-#: codec/1/225/0xe1160/10
-msgid ""
-"We sought each other out... Completed each other.\n"
-msgstr ""
-"我们彼此寻找……彼此补全。\n"
-
-#: codec/1/225/0xe1160/11
-msgid ""
-"Did you know that inside every woman there's a\n"
-"universe,\n"
-msgstr ""
-"你知道每个女人体内都有一个\n"
-"宇宙吗，\n"
-
-#: codec/1/225/0xe1160/12
-msgid ""
-"and that we are able to sense this in each other.\n"
-msgstr ""
-"而我们能互相感知到它。\n"
-
-#: codec/1/225/0xe1160/13
-msgid ""
-"We connected because of our empathetic female\n"
-"brains.\n"
-msgstr ""
-"我们因女性同理心\n"
-"大脑而相通。\n"
-
-#: codec/1/225/0xe1160/14
-msgid ""
-"As time went on... I began to have doubts about\n"
-"offering such a noble soul as sacrifice.\n"
-msgstr ""
-"随着时间推移……我开始怀疑，\n"
-"是否该牺牲如此高贵的灵魂。\n"
-
-#: codec/1/225/0xe1160/15
-msgid ""
-"Why would they...? Why did she have to...?\n"
-msgstr ""
-"他们为什么要……？她为何非得……？\n"
-
-#: codec/1/225/0xe1160/16
-msgid ""
-"...The flight test was a narrow success, and she\n"
-"miraculously made it back alive.\n"
-msgstr ""
-"……飞行试验勉强成功，她\n"
-"奇迹般活着回来了。\n"
-
-#: codec/1/225/0xe1160/17
-msgid ""
-"But her mind and body were horribly mangled, and\n"
-"there was nothing I could do for her.\n"
-msgstr ""
-"但她的身心已支离破碎，\n"
-"我无能为力。\n"
-
-#: codec/1/225/0xe1160/18
-msgid ""
-"We were no longer one and the same.\n"
-msgstr ""
-"我们不再是一体了。\n"
-
-#: codec/1/225/0xe1160/19
-msgid ""
-"She went away, and I, having nothing else to live\n"
-"for, immersed myself in AI research.\n"
-msgstr ""
-"她走了，我别无寄托，\n"
-"便投身于AI研究。\n"
-
-#: codec/1/225/0xe1160/20
-msgid ""
-"Hoping that no one would ever have to make her\n"
-"sacrifice again.\n"
-msgstr ""
-"只盼再无人需要像她那样\n"
-"牺牲。\n"
-
-#: codec/1/225/0xe1160/21
-msgid ""
-"I never knew...\n"
-msgstr ""
-"我从未知道……\n"
-
-#: codec/1/225/0xe1160/22
-msgid ""
-"It's not really worth knowing.\n"
-msgstr ""
-"不知道也罢。\n"
-
-#: codec/1/225/0xe1160/23
-msgid ""
-"We were ships passing in the night, that's all.\n"
-msgstr ""
-"我们只是夜里擦肩而过的船。\n"
-
-#: codec/1/225/0xe1160/24
-msgid ""
-"Perhaps someday I'll tell you the long version, if\n"
-"you're interested.\n"
-msgstr ""
-"若你有兴趣，改天我讲\n"
-"详细版。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0120_000_1
-#. timeline 445..1448
-#: codec/1/225/0xe1a10/0
-msgid ""
-"That was quite a warm welcome you gave me at\n"
-"the base in Costa Rica.\n"
-msgstr ""
-"你在哥斯达黎加基地\n"
-"可真够热情地迎接我。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0120_000_1
-#. timeline 1476..2465
-#: codec/1/225/0xe1a10/1
-msgid ""
-"...Sorry about that. But I simply had to know.\n"
-msgstr ""
-"……抱歉。但我必须弄清楚。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0120_000_1
-#. timeline 2493..2953
-#: codec/1/225/0xe1a10/2
-msgid ""
-"The Boss' final act?\n"
-msgstr ""
-"THE BOSS最后的行动？\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0120_000_1
-#. timeline 2981..4778
-#: codec/1/225/0xe1a10/3
-msgid ""
-"Yes. By inputting her thoughts and actions into the\n"
-"AI, I was imbuing it with her mind.\n"
-msgstr ""
-"是的。把她的思想与行动输入AI，\n"
-"便是将她的心智注入其中。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0120_000_1
-#. timeline 4848..5921
-#: codec/1/225/0xe1a10/4
-msgid ""
-"The only thing I couldn't understand was her final\n"
-"act.\n"
-msgstr ""
-"唯独她最后的行动，\n"
-"我无法理解。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0120_000_1
-#. timeline 5935..6450
-#: codec/1/225/0xe1a10/5
-msgid ""
-"Operation Snake Eater...\n"
-msgstr ""
-"食蛇者行动……\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0120_000_1
-#. timeline 6478..8874
-#: codec/1/225/0xe1a10/6
-msgid ""
-"Official history says she betrayed her homeland\n"
-"and defected to the enemy... and was killed by you.\n"
-msgstr ""
-"官方说法是她背叛祖国\n"
-"投敌……然后被你杀死。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0120_000_1
-#. timeline 8944..10644
-#: codec/1/225/0xe1a10/7
-msgid ""
-"...But it didn't make sense. The Boss would be the\n"
-"last person on earth to betray her country.\n"
-msgstr ""
-"……但这说不通。THE BOSS\n"
-"绝不可能背叛自己的国家。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0120_000_1
-#. timeline 10699..11326
-#: codec/1/225/0xe1a10/8
-msgid ""
-"It was logically inconsistent.\n"
-msgstr ""
-"逻辑上自相矛盾。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0120_000_1
-#. timeline 11368..11744
-#: codec/1/225/0xe1a10/9
-msgid ""
-"...It was, wasn't it?\n"
-msgstr ""
-"……没错吧？\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0120_000_1
-#. timeline 11772..13096
-#: codec/1/225/0xe1a10/10
-msgid ""
-"That internal inconsistency prevented the AI from\n"
-"activating properly -\n"
-msgstr ""
-"这种内部矛盾让AI无法\n"
-"正常启动——\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0120_000_1
-#. timeline 13151..13862
-#: codec/1/225/0xe1a10/11
-msgid ""
-"just as HAL malfunctioned in the film.\n"
-msgstr ""
-"就像电影里HAL出故障一样。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0120_000_1
-#. timeline 13904..14907
-#: codec/1/225/0xe1a10/12
-msgid ""
-"I understood the reasoning. But I had to have\n"
-"proof.\n"
-msgstr ""
-"我理解这个推理。但我需要\n"
-"证据。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0120_000_1
-#. timeline 15004..16495
-#: codec/1/225/0xe1a10/13
-msgid ""
-"Proof of her final act. Her true intentions. One way\n"
-"or another!\n"
-msgstr ""
-"她最后行动的证明。她真正的意图。无论如何\n"
-"都要找到！\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0120_000_1
-#. timeline 16509..17233
-#: codec/1/225/0xe1a10/14
-msgid ""
-"So you tried to squeeze it out of me, huh?\n"
-msgstr ""
-"所以你想逼我说出来？\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0120_000_1
-#. timeline 17247..19560
-#: codec/1/225/0xe1a10/15
-msgid ""
-"As a matter of fact, I did. Your silence was the\n"
-"very answer I was looking for.\n"
-msgstr ""
-"没错。你的沉默正是\n"
-"我要找的答案。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0140_000_1
-#. timeline 459..1156
-#: codec/1/226/0xe2720/0
-msgid ""
-"What did you think of Peace Walker's final act?\n"
-msgstr ""
-"你怎么看和平行者的最后行动？\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0140_000_1
-#. timeline 1170..2089
-#: codec/1/226/0xe2720/1
-msgid ""
-"I recreated her thought patterns exactly.\n"
-msgstr ""
-"我精确复现了她的思维模式。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0140_000_1
-#. timeline 2159..2800
-#: codec/1/226/0xe2720/2
-msgid ""
-"It was exactly what she would have done.\n"
-msgstr ""
-"那正是她会做的事。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0140_000_1
-#. timeline 2883..4249
-#: codec/1/226/0xe2720/3
-msgid ""
-"The world's most empathetic mind weighed the\n"
-"past, the future,\n"
-msgstr ""
-"世界上最富共情的心智权衡了\n"
-"过去、未来，\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0140_000_1
-#. timeline 4304..5544
-#: codec/1/226/0xe2720/4
-msgid ""
-"and the entire world... and decided not to retaliate.\n"
-msgstr ""
-"以及整个世界……决定不予报复。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0140_000_1
-#. timeline 5670..6339
-#: codec/1/226/0xe2720/5
-msgid ""
-"Merely knowing that is enough for me.\n"
-msgstr ""
-"知道这点，我就够了。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0140_000_1
-#. timeline 6436..7801
-#: codec/1/226/0xe2720/6
-msgid ""
-"...So what you're saying is, we don't need\n"
-"deterrence to have peace?\n"
-msgstr ""
-"……所以你是说，我们不需要\n"
-"威慑也能有和平？\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0140_000_1
-#. timeline 7815..9278
-#: codec/1/226/0xe2720/7
-msgid ""
-"I didn't say that. What's important is that we wish\n"
-"for peace.\n"
-msgstr ""
-"我没那么说。重要的是我们\n"
-"渴望和平。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0140_000_1
-#. timeline 9320..10532
-#: codec/1/226/0xe2720/8
-msgid ""
-"MSF needs a way to protect itself from the might\n"
-"of nations.\n"
-msgstr ""
-"MSF需要保护自己免受\n"
-"各国武力威胁的手段。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0140_000_1
-#. timeline 10588..11661
-#: codec/1/226/0xe2720/9
-msgid ""
-"Survival requires pragmatic thought and action.\n"
-msgstr ""
-"生存需要务实的思想和行动。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0140_000_1
-#. timeline 11758..12552
-#: codec/1/226/0xe2720/10
-msgid ""
-"But, you still must retain your ideals.\n"
-msgstr ""
-"但你必须始终坚守理想。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0140_000_1
-#. timeline 12705..14224
-#: codec/1/226/0xe2720/11
-msgid ""
-"If the gap between reality and those ideals ever\n"
-"leads you to lose them...\n"
-msgstr ""
-"如果现实与理想的差距\n"
-"让你失去了理想……\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0140_000_1
-#. timeline 14363..15088
-#: codec/1/226/0xe2720/12
-msgid ""
-"I doubt MSF will survive.\n"
-msgstr ""
-"MSF恐怕无法存续。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0160_000_1
-#. timeline 487..1407
-#: codec/1/227/0xe3280/0
-msgid ""
-"So you were with ARPA before you came here,\n"
-"huh?\n"
-msgstr ""
-"你来这里之前是在ARPA工作，\n"
-"对吧？\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0160_000_1
-#. timeline 1476..3037
-#: codec/1/227/0xe3280/1
-msgid ""
-"Yes. Back then it was really the only place I could\n"
-"make a living from my AI research.\n"
-msgstr ""
-"是的。那时那是我唯一能靠\n"
-"AI研究谋生的地方。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0160_000_1
-#. timeline 3120..3413
-#: codec/1/227/0xe3280/2
-msgid ""
-"And before that?\n"
-msgstr ""
-"那之前呢？\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0160_000_1
-#. timeline 3441..4388
-#: codec/1/227/0xe3280/3
-msgid ""
-"I started out at NASA. That's where I met her.\n"
-msgstr ""
-"我最早在NASA，就在那遇见她。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0160_000_1
-#. timeline 4416..4890
-#: codec/1/227/0xe3280/4
-msgid ""
-"When Boss went into space...\n"
-msgstr ""
-"BOSS上太空时……\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0160_000_1
-#. timeline 4917..6339
-#: codec/1/227/0xe3280/5
-msgid ""
-"...Yes. It was that incident that turned me away\n"
-"from aerospace engineering.\n"
-msgstr ""
-"……对。正是那次事故让我离开了\n"
-"航天工程。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0160_000_1
-#. timeline 6422..7397
-#: codec/1/227/0xe3280/6
-msgid ""
-"Space is entirely too hazardous a place for human\n"
-"beings.\n"
-msgstr ""
-"太空对人类\n"
-"太危险了。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0160_000_1
-#. timeline 7467..8373
-#: codec/1/227/0xe3280/7
-msgid ""
-"That was why I felt an immediate need to develop\n"
-"AI.\n"
-msgstr ""
-"这就是为什么我感到迫切需要开发\n"
-"AI。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0160_000_1
-#. timeline 8442..10267
-#: codec/1/227/0xe3280/8
-msgid ""
-"As it turned out, rockets later became much safer,\n"
-"and mankind reached the surface of the moon...\n"
-msgstr ""
-"后来火箭安全多了，\n"
-"人类也登上了月球……\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0160_000_1
-#. timeline 10351..11466
-#: codec/1/227/0xe3280/9
-msgid ""
-"In any event, it was a hollow Cold War victory.\n"
-msgstr ""
-"总之，那只是冷战的空洞胜利。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0160_000_1
-#. timeline 11563..13096
-#: codec/1/227/0xe3280/10
-msgid ""
-"When you get down to it, a nuclear missile is just a\n"
-"rocket with a nuclear warhead strapped to it.\n"
-msgstr ""
-"说到底，核导弹不过是绑了核弹头的\n"
-"火箭。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0160_000_1
-#. timeline 13165..14698
-#: codec/1/227/0xe3280/11
-msgid ""
-"Thus, taking the initiative in the space race was\n"
-"tantamount to a military show of force.\n"
-msgstr ""
-"所以太空竞赛抢先就等于\n"
-"军事示威。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0160_000_1
-#. timeline 14795..16021
-#: codec/1/227/0xe3280/12
-msgid ""
-"But the budgetary strain was too big for\n"
-"Washington or Moscow to handle.\n"
-msgstr ""
-"但预算压力太大，华盛顿或莫斯科都\n"
-"无法承受。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0160_000_1
-#. timeline 16021..17916
-#: codec/1/227/0xe3280/13
-msgid ""
-"Yes, and then there was the Cuban Missile Crisis\n"
-"and the Vietnam War. And then came Détente...\n"
-msgstr ""
-"对，接着是古巴导弹危机和越南战争，\n"
-"然后是缓和……\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0160_000_1
-#. timeline 17986..20020
-#: codec/1/227/0xe3280/14
-msgid ""
-"Having leapt ahead of the Soviet Union with its\n"
-"moon landing, America shut down the Apollo\n"
-"program in '72.\n"
-msgstr ""
-"凭借登月领先于苏联后，美国于72年\n"
-"关闭了阿波罗\n"
-"计划。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0160_000_1
-#. timeline 20075..22068
-#: codec/1/227/0xe3280/15
-msgid ""
-"It was around then that ARPA was downsized and\n"
-"renamed DARPA, the \"D\" standing for \"defense.\"\n"
-msgstr ""
-"差不多那时ARPA缩编改名DARPA，\n"
-"那个D就是防务。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0160_000_1
-#. timeline 22151..24144
-#: codec/1/227/0xe3280/16
-msgid ""
-"With few prospects for continuing my AI research,\n"
-"Coldman's invitation was a godsend.\n"
-msgstr ""
-"我的AI研究前途渺茫，\n"
-"科尔德曼的邀请是天赐良机。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0160_000_1
-#. timeline 24325..25370
-#: codec/1/227/0xe3280/17
-msgid ""
-"It was also a chance to have them collect data on\n"
-"her.\n"
-msgstr ""
-"也是让他们收集她数据的\n"
-"机会。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0160_000_1
-#. timeline 25397..25955
-#: codec/1/227/0xe3280/18
-msgid ""
-"The end result being this mess.\n"
-msgstr ""
-"结果就成了这烂摊子。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0160_000_1
-#. timeline 25969..27557
-#: codec/1/227/0xe3280/19
-msgid ""
-"But we did learn something valuable from her - the\n"
-"nobility of peace.\n"
-msgstr ""
-"但我们从她身上学到宝贵东西，\n"
-"和平的崇高。\n"
-
-#: codec/1/227/0xe3aa0/0
-msgid ""
-"Why'd you agree to come here - to Mother Base?\n"
-msgstr ""
-"你为什么答应来母基地？\n"
-
-#: codec/1/227/0xe3aa0/1
-msgid ""
-"You intrigued me.\n"
-msgstr ""
-"你让我感兴趣。\n"
-
-#: codec/1/227/0xe3aa0/2
-msgid ""
-"Me? ...Hold on, you're not planning on modeling\n"
-"your next AI after me...\n"
-msgstr ""
-"我？……等等，你不是打算照我\n"
-"做下一个AI吧……\n"
-
-#: codec/1/227/0xe3aa0/3
-msgid ""
-"Not a bad idea. But I have no intention of ever\n"
-"again attempting to transplant\n"
-msgstr ""
-"主意不坏。但我无意再次\n"
-"尝试移植\n"
-
-#: codec/1/227/0xe3aa0/4
-msgid ""
-"human thought into machines.\n"
-msgstr ""
-"人类思维移入机器。\n"
-
-#: codec/1/227/0xe3aa0/5
-msgid ""
-"...That's a relief.\n"
-msgstr ""
-"……放心了。\n"
-
-#: codec/1/227/0xe3aa0/6
-msgid ""
-"You are the man who inherited The Boss's will.\n"
-msgstr ""
-"你是继承THE BOSS遗志的人。\n"
-
-#: codec/1/227/0xe3aa0/7
-msgid ""
-"You're gathering people around you even now,\n"
-msgstr ""
-"你到现在还在招兵买马，\n"
-
-#: codec/1/227/0xe3aa0/8
-msgid ""
-"shaping them, building a new organization. I'd like\n"
-"to see how it turns out.\n"
-msgstr ""
-"塑造他们，组建新组织。我倒想\n"
-"看看会变成什么样。\n"
-
-#: codec/1/227/0xe3aa0/9
-msgid ""
-"You're not planning to go back to AI research?\n"
-msgstr ""
-"你不打算回去做AI研究了？\n"
-
-#: codec/1/227/0xe3aa0/10
-msgid ""
-"I never said such a thing. Of course my work will\n"
-"continue...\n"
-msgstr ""
-"我可没这么说。我的工作当然会\n"
-"继续……\n"
-
-#: codec/1/227/0xe3aa0/11
-msgid ""
-"Here?\n"
-msgstr ""
-"在这儿？\n"
-
-#: codec/1/227/0xe3aa0/12
-msgid ""
-"In my eyes, the growth of MSF\n"
-msgstr ""
-"在我看来，MSF\n"
-
-#: codec/1/227/0xe3aa0/13
-msgid ""
-"as an organization is analogous to the development\n"
-"of the nervous system.\n"
-msgstr ""
-"这个组织的成长，就好比神经系统的\n"
-"发育。\n"
-
-#: codec/1/227/0xe3aa0/14
-msgid ""
-"The way you become intertwined, stimulate each\n"
-"other,\n"
-msgstr ""
-"你们彼此纠缠、相互刺激，\n"
-"彼此，\n"
-
-#: codec/1/227/0xe3aa0/15
-msgid ""
-"branch out in new directions... It's really quite\n"
-"inspirational.\n"
-msgstr ""
-"再向新方向延伸……真是\n"
-"令人深受启发。\n"
-
-#: codec/1/227/0xe3aa0/16
-msgid ""
-"Interesting way to put it.\n"
-msgstr ""
-"这说法有意思。\n"
-
-#: codec/1/227/0xe3aa0/17
-msgid ""
-"Of course, I intend to repay you for your\n"
-"hospitality.\n"
-msgstr ""
-"当然，我会报答你的\n"
-"收留之恩。\n"
-
-#: codec/1/227/0xe3aa0/18
-msgid ""
-"The fruits of my research will be at your disposal.\n"
-msgstr ""
-"我的研究成果随你使用。\n"
-
-#: codec/1/227/0xe3aa0/19
-msgid ""
-"Why not assign me to the R&D team? I promise you\n"
-"won't be disappointed.\n"
-msgstr ""
-"不如把我编进研发组？我保证\n"
-"不会让你失望。\n"
-
-#: codec/1/228/0xe4140/0
-msgid ""
-"You know, that ID card I got from Huey wouldn't\n"
-"let me into the lab.\n"
-msgstr ""
-"话说，休伊给我的那张ID卡\n"
-"进不了实验室。\n"
-
-#: codec/1/228/0xe4140/1
-msgid ""
-"Of course not. I deactivated it.\n"
-msgstr ""
-"当然不。我注销了。\n"
-
-#: codec/1/228/0xe4140/3
-msgid ""
-"As though I'd let him into my lab!\n"
-msgstr ""
-"我哪会让他进实验室！\n"
-
-#: codec/1/228/0xe4140/4
-msgid ""
-"You don't seem to care for him much. Even though\n"
-"you two are in the same field.\n"
-msgstr ""
-"你好像不太待见他。明明\n"
-"你们是同行。\n"
-
-#: codec/1/228/0xe4140/5
-msgid ""
-"Oh, please. For starters, I can't stand that\n"
-"wishy-washy attitude of his.\n"
-msgstr ""
-"得了吧。首先，我就受不了他那副\n"
-"优柔寡断的样子。\n"
-
-#: codec/1/228/0xe4140/6
-msgid ""
-"If he's got something to say to me, he should be a\n"
-"man and come say it in person,\n"
-msgstr ""
-"有话想跟我说，就该像个男人\n"
-"当面来讲，\n"
-
-#: codec/1/228/0xe4140/7
-msgid ""
-"not write some furtive letter.\n"
-msgstr ""
-"而不是写什么密信。\n"
-
-#: codec/1/228/0xe4140/8
-msgid ""
-"But if his card doesn't work, how's he supposed to...\n"
-msgstr ""
-"可他的卡要是不管用，他怎么……\n"
-
-#: codec/1/228/0xe4140/9
-msgid ""
-"And another thing! The way he always demeans\n"
-"himself.\n"
-msgstr ""
-"还有！他老是那样\n"
-"贬低自己。\n"
-
-#: codec/1/228/0xe4140/10
-msgid ""
-"Every other sentence begins with \"I could be\n"
-"wrong, but...\"\n"
-msgstr ""
-"每两句就有一句是“也许我\n"
-"错了，但……”\n"
-
-#: codec/1/228/0xe4140/11
-msgid ""
-"Why can't he just do what he does and be\n"
-"confident about it?!\n"
-msgstr ""
-"他就不能干好自己的事，\n"
-"有点自信吗？！\n"
-
-#: codec/1/228/0xe4140/12
-msgid ""
-"Well, there was the thing about his dissertation\n"
-"being plagiarized...\n"
-msgstr ""
-"说起来，他的论文不是被\n"
-"剽窃过吗……\n"
-
-#: codec/1/228/0xe4140/13
-msgid ""
-"The real problem is, he doesn't have a whit of\n"
-"independence in him.\n"
-msgstr ""
-"问题是，他\n"
-"毫无独立性。\n"
-
-#: codec/1/228/0xe4140/14
-msgid ""
-"In Costa Rica, and even back at NASA he was\n"
-"always following people around\n"
-msgstr ""
-"在哥斯达黎加，甚至回NASA后他\n"
-"总跟着人转\n"
-
-#: codec/1/228/0xe4140/15
-msgid ""
-"asking if there was some way he could help.\n"
-msgstr ""
-"问能不能帮上什么忙。\n"
-
-#: codec/1/228/0xe4140/16
-msgid ""
-"Why doesn't he stop his whining, take a stand, and\n"
-"face up to me?\n"
-msgstr ""
-"他为什么不停止抱怨，站出来，\n"
-"当面跟我讲？\n"
-
-#: codec/1/228/0xe4140/17
-msgid ""
-"I think I know how he feels....\n"
-msgstr ""
-"我想我懂他的感受……\n"
-
-#: codec/1/228/0xe4140/18
-msgid ""
-"And to top it all off, he seems to enjoy referring to\n"
-"himself by that nickname I gave him.\n"
-msgstr ""
-"更糟的是，他似乎很喜欢用我给他起的\n"
-"那个绰号称呼自己。\n"
-
-#: codec/1/228/0xe4140/19
-msgid ""
-"I simply don't get it. How can he be so submissive?\n"
-msgstr ""
-"我真不明白。他怎么能这么顺从？\n"
-
-#: codec/1/228/0xe4140/20
-msgid ""
-"So Huey was a nickname you gave him...\n"
-msgstr ""
-"所以休伊是你给他起的绰号……\n"
-
-#: codec/1/228/0xe4140/21
-msgid ""
-"That's right. I took it from the name of a drone in\n"
-"the science fiction film \"Silent Running.\"\n"
-msgstr ""
-"没错。取自科幻片《宇宙静悄悄》里\n"
-"一架无人机的名字。\n"
-
-#: codec/1/228/0xe4140/22
-msgid ""
-"Drone?\n"
-msgstr ""
-"无人机？\n"
-
-#: codec/1/228/0xe4140/23
-msgid ""
-"It's a type of worker robot.\n"
-msgstr ""
-"一种工作机器人。\n"
-
-#: codec/1/228/0xe4140/24
-msgid ""
-"The way he follows people, just waiting for them to\n"
-"boss him around, is so similar. I couldn't help myself.\n"
-msgstr ""
-"他跟着人转、等着被使唤的样子太像了。\n"
-"我忍不住。\n"
-
-#: codec/1/228/0xe4140/25
-msgid ""
-"Oh.. It's an American film directed by Douglas\n"
-"Trumbull,\n"
-msgstr ""
-"哦……那是道格拉斯·特朗布尔执导的\n"
-"美国电影，\n"
-
-#: codec/1/228/0xe4140/26
-msgid ""
-"the man who did the special effects for \"2001: A\n"
-"Space Odyssey.\"\n"
-msgstr ""
-"就是给《2001太空漫游》\n"
-"做特效的那位。\n"
-
-#: codec/1/228/0xe4140/27
-msgid ""
-"Imagine that. A scientist who likes science fiction...\n"
-msgstr ""
-"真想不到。科学家居然喜欢科幻……\n"
-
-#: codec/1/228/0xe4140/28
-msgid ""
-"And that's not all!\n"
-msgstr ""
-"还不止这些！\n"
-
-#: codec/1/228/0xe4140/29
-msgid ""
-"There's more?\n"
-msgstr ""
-"还有？\n"
-
-#: codec/1/228/0xe4140/30
-msgid ""
-"He's a man!\n"
-msgstr ""
-"他是个男人！\n"
-
-#: codec/1/228/0xe4140/31
-msgid ""
-"...Hang on, I seem to remember you saying he\n"
-"should be more of a man.\n"
-msgstr ""
-"……等等，我记得你说过他\n"
-"该更有男人样。\n"
-
-#: codec/1/228/0xe4140/32
-msgid ""
-"...Yes, well, he is an awfully good scientist.\n"
-msgstr ""
-"……对，他确实是位出色科学家。\n"
-
-#: codec/1/228/0xe4140/33
-msgid ""
-"Without his Reptile Pod, my Mammal Pod wouldn't\n"
-"function.\n"
-msgstr ""
-"没他爬虫舱，我哺乳舱\n"
-"就无法运转。\n"
-
-#: codec/1/228/0xe4140/34
-msgid ""
-"Just as the cerebrum can't exist without the\n"
-"cerebellum and the brain stem.\n"
-msgstr ""
-"就像没有小脑和脑干，\n"
-"大脑就无法存在。\n"
-
-#: codec/1/228/0xe4140/35
-msgid ""
-"He did a fine job of designing it, I'll give him that.\n"
-msgstr ""
-"设计得确实不错，这点我承认。\n"
-
-#: codec/1/228/0xe4140/36
-msgid ""
-"That sounded suspiciously like praise...\n"
-msgstr ""
-"这话听着像是在夸奖……\n"
-
-#: codec/1/228/0xe4140/37
-msgid ""
-"Hmph. It's merely an objective observation.\n"
-msgstr ""
-"哼。只是客观评价。\n"
-
-#: codec/1/228/0xe4140/38
-msgid ""
-"I like people who possess the will to move forward.\n"
-msgstr ""
-"我喜欢有前进意志的人。\n"
-
-#: codec/1/228/0xe4140/39
-msgid ""
-"I have no time for those who refuse to take\n"
-"control of their lives.\n"
-msgstr ""
-"我没时间理会那些不愿掌控\n"
-"自己人生的人。\n"
-
-#: codec/1/228/0xe4140/40
-msgid ""
-"Until he does, my opinion remains the same.\n"
-msgstr ""
-"在那之前，我的看法不变。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_mis_dsl0010_000_0
-#. timeline 487..1407
-#: codec/1/229/0xe5620/0
-msgid ""
-"Huey's probably mentioned this, but just to be clear,\n"
-msgstr ""
-"休伊大概提过，但先说清楚，\n"
-
-#. speaker 0x0ebd8542 voice v_bri_mis_dsl0010_000_0
-#. timeline 1448..2507
-#: codec/1/229/0xe5620/1
-msgid ""
-"there's a limit to the parts we can produce here at\n"
-"Mother Base.\n"
-msgstr ""
-"我们在Mother Base\n"
-"零件产量有限。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_mis_dsl0010_000_0
-#. timeline 2549..4123
-#: codec/1/229/0xe5620/2
-msgid ""
-"Therefore, I've built ZEKE's AI using memory boards\n"
-"you pulled from other AI weapons.\n"
-msgstr ""
-"所以，吉克的AI用的是从其他AI武器上\n"
-"拆下的记忆板。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_dsl0010_000_0
-#. timeline 4123..4388
-#: codec/1/229/0xe5620/3
-msgid ""
-"Will that work?\n"
-msgstr ""
-"行吗？\n"
-
-#. speaker 0x0ebd8542 voice v_bri_mis_dsl0010_000_0
-#. timeline 4402..5726
-#: codec/1/229/0xe5620/4
-msgid ""
-"In the human brain, individual functions are spread\n"
-"across multiple regions.\n"
-msgstr ""
-"人脑中，各项功能分散在\n"
-"多个区域。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_mis_dsl0010_000_0
-#. timeline 5767..7746
-#: codec/1/229/0xe5620/5
-msgid ""
-"The same is true of AI. Multiple parts sharing the\n"
-"same function interlink to strengthen that function.\n"
-msgstr ""
-"AI也一样。多个部件分担同一功能，\n"
-"互相连接来强化该功能。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_mis_dsl0010_000_0
-#. timeline 7760..8874
-#: codec/1/229/0xe5620/6
-msgid ""
-"For example, the more sensor memory boards you\n"
-"have,\n"
-msgstr ""
-"For example, the more sensor memory boards you\n"
-"have,\n"
-
-#. speaker 0x0ebd8542 voice v_bri_mis_dsl0010_000_0
-#. timeline 8888..9975
-#: codec/1/229/0xe5620/7
-msgid ""
-"the greater ZEKE's search-and-detect capabilities\n"
-"will be.\n"
-msgstr ""
-"吉克的搜索探测能力\n"
-"就越强。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_mis_dsl0010_000_0
-#. timeline 10031..11215
-#: codec/1/229/0xe5620/8
-msgid ""
-"Install more movement boards and you'll increase\n"
-"its mobility.\n"
-msgstr ""
-"装上更多运动板就能提升\n"
-"机动性。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_dsl0010_000_0
-#. timeline 11215..12496
-#: codec/1/229/0xe5620/9
-msgid ""
-"Meaning the AI's capabilities change depending on\n"
-"how much memory we give it?\n"
-msgstr ""
-"也就是说AI的能力取决于\n"
-"我们给它多少记忆？\n"
-
-#. speaker 0x0ebd8542 voice v_bri_mis_dsl0010_000_0
-#. timeline 12510..14113
-#: codec/1/229/0xe5620/10
-msgid ""
-"Exactly. The more boards you install, the more\n"
-"powerful a function will be.\n"
-msgstr ""
-"没错。装的板越多，\n"
-"功能就越强。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0090_000_0
-#. timeline 459..1239
-#: codec/1/229/0xe5ac0/0
-msgid ""
-"How's the ZEKE AI different from Peace Walker's?\n"
-msgstr ""
-"吉克的AI和和平行者的有何不同？\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0090_000_0
-#. timeline 1239..2452
-#: codec/1/229/0xe5ac0/1
-msgid ""
-"ZEKE's AI isn't a replica of the human thought\n"
-"process.\n"
-msgstr ""
-"吉克的AI不是人类思维\n"
-"的复制。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0090_000_0
-#. timeline 2452..3622
-#: codec/1/229/0xe5ac0/2
-msgid ""
-"It isn't programmed to make decisions about\n"
-"nuclear retaliation.\n"
-msgstr ""
-"它没有被编程去做\n"
-"核报复决策。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0090_000_0
-#. timeline 3775..5126
-#: codec/1/229/0xe5ac0/3
-msgid ""
-"On the other hand, it is capable of highly\n"
-"independent action in combat\n"
-msgstr ""
-"但另一方面，它在战斗中能高度\n"
-"独立行动，\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0090_000_0
-#. timeline 5126..5879
-#: codec/1/229/0xe5ac0/4
-msgid ""
-"when given orders from a pilot.\n"
-msgstr ""
-"只要驾驶员下达命令。\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0090_000_0
-#. timeline 5921..7718
-#: codec/1/229/0xe5ac0/5
-msgid ""
-"It can protect infantry, destroy the enemy, and, if\n"
-"ordered...\n"
-msgstr ""
-"它能保护步兵、消灭敌人，如下\n"
-"令的话……\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0090_000_0
-#. timeline 7760..8052
-#: codec/1/229/0xe5ac0/6
-msgid ""
-"Launch a nuke.\n"
-msgstr ""
-"发射核弹\n"
-
-#. speaker 0x0ebd8542 voice v_bri_dsl0090_000_0
-#. timeline 8080..8902
-#: codec/1/229/0xe5ac0/7
-msgid ""
-"Let us hope it never comes to that.\n"
-msgstr ""
-"但愿永远不会到那一步。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_dsl0090_000_0
-#. timeline 8930..9529
-#: codec/1/229/0xe5ac0/8
-msgid ""
-"My sentiments exactly.\n"
-msgstr ""
-"我完全同意。\n"
-
-#: codec/1/230/0xe6480/0
-msgid ""
-"That was some escape you made from\n"
-"Strangelove's lab.\n"
-msgstr ""
-"你从斯特兰奇洛夫实验室\n"
-"逃得真漂亮。\n"
-
-#: codec/1/230/0xe6480/1
-msgid ""
-"Security inside was not so tight.\n"
-msgstr ""
-"里面安保不算严。\n"
-
-#: codec/1/230/0xe6480/2
-msgid ""
-"The door to my room was locked from the outside,\n"
-"of course.\n"
-msgstr ""
-"我房间的门从外面锁上了，\n"
-"当然是这样。\n"
-
-#: codec/1/230/0xe6480/3
-msgid ""
-"But she took off the blindfold at bath time - so she\n"
-"could wash my hair...\n"
-msgstr ""
-"但洗澡时她摘了眼罩，好帮我\n"
-"洗头……\n"
-
-#: codec/1/230/0xe6480/4
-msgid ""
-"Pretty luxurious treatment for a prisoner.\n"
-msgstr ""
-"对囚犯来说待遇真奢侈。\n"
-
-#: codec/1/230/0xe6480/5
-msgid ""
-"Wasn't it? She wouldn't undo the handcuffs, but\n"
-"she washed my body for me instead.\n"
-msgstr ""
-"不是吗？她不肯解开手铐，但\n"
-"她替我洗了身体。\n"
-
-#: codec/1/230/0xe6480/6
-msgid ""
-"And with such gentle care...\n"
-msgstr ""
-"还那么温柔……\n"
-
-#: codec/1/230/0xe6480/7
-msgid ""
-"Why'd you run away? Didn't she say you could go\n"
-"home in a month?\n"
-msgstr ""
-"你为何逃跑？她不是说一个月后\n"
-"就能回家吗？\n"
-
-#: codec/1/230/0xe6480/8
-msgid ""
-"If your escape attempt failed, you'd be in greater\n"
-"danger than before.\n"
-msgstr ""
-"逃跑失败，你会比之前\n"
-"更危险。\n"
-
-#: codec/1/230/0xe6480/9
-msgid ""
-"I was supposed to be giving a presentation\n"
-msgstr ""
-"我本该去做一场报告，\n"
-
-#: codec/1/230/0xe6480/10
-msgid ""
-"on the distribution of Costa Rican bird species at a\n"
-"conference.\n"
-msgstr ""
-"在会议上，关于哥斯达黎加鸟类的\n"
-"分布。\n"
-
-#: codec/1/230/0xe6480/11
-msgid ""
-"The date was approaching quickly.\n"
-msgstr ""
-"日子越来越近了。\n"
-
-#: codec/1/230/0xe6480/12
-msgid ""
-"So I pretended I had to use the toilet and made\n"
-"my escape.\n"
-msgstr ""
-"于是我假装要上厕所，趁机\n"
-"逃跑了。\n"
-
-#: codec/1/230/0xe6480/13
-msgid ""
-"I found an ID card and searched everywhere for\n"
-"my equipment and my tape...\n"
-msgstr ""
-"我找到张身份证，到处找\n"
-"我的装备和磁带……\n"
-
-#: codec/1/230/0xe6480/14
-msgid ""
-"But a soldier saw me. It was a miracle I managed\n"
-"to get away.\n"
-msgstr ""
-"但一个士兵看见了我。能\n"
-"逃脱真是奇迹。\n"
-
-#: codec/1/230/0xe6480/15
-msgid ""
-"There was no time to find the tape.\n"
-msgstr ""
-"没时间找磁带了。\n"
-
-#: codec/1/230/0xe6480/16
-msgid ""
-"I don't care about the conference. I'm lucky\n"
-"enough to still be in one piece.\n"
-msgstr ""
-"我不在乎那个会议。我能\n"
-"安然无恙就已经很幸运了。\n"
-
-#: codec/1/230/0xe6480/17
-msgid ""
-"You bounce back quick.\n"
-msgstr ""
-"你恢复得真快。\n"
-
-#: codec/1/230/0xe6480/18
-msgid ""
-"You don't?\n"
-msgstr ""
-"你不是吗？\n"
-
-#: codec/1/230/0xe6480/19
-msgid ""
-"....Not sure. I try not to dwell too much on the past,\n"
-"but...\n"
-msgstr ""
-"……不确定。我尽量不多想过去，\n"
-"但……\n"
-
-#: codec/1/230/0xe6480/20
-msgid ""
-"Then don't. There's no point. I'm so glad to be out\n"
-"of there.\n"
-msgstr ""
-"那就别想。没意义。我很高兴能离开\n"
-"那里。\n"
-
-#: codec/1/230/0xe6480/21
-msgid ""
-"I never felt safe, you know?\n"
-msgstr ""
-"我从没觉得安全过，你知道吗？\n"
-
-#: codec/1/230/0xe6480/22
-msgid ""
-"Tell me about it.\n"
-msgstr ""
-"可不是嘛。\n"
-
-#: codec/1/230/0xe6480/23
-msgid ""
-"Well... I think she's interested in women. And I think\n"
-"she took a fancy to me.\n"
-msgstr ""
-"嗯……我觉得她对女人感兴趣。而且我觉得\n"
-"她看上了我。\n"
-
-#: codec/1/230/0xe6480/24
-msgid ""
-"That's, uh.... huh.\n"
-msgstr ""
-"那，呃…哦。\n"
-
-#: codec/1/230/0xe6480/25
-msgid ""
-"Besides, it's much nicer here.\n"
-msgstr ""
-"再说，这里好多了。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_ccl0030_000_0
-#. timeline 459..1072
-#: codec/1/231/0xe75f0/0
-msgid ""
-"Let's go over this one more time.\n"
-msgstr ""
-"我们再过一遍。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_ccl0030_000_0
-#. timeline 1072..2020
-#: codec/1/231/0xe75f0/1
-msgid ""
-"First, I need an ID card to get into the lab.\n"
-msgstr ""
-"首先，我得有ID卡才能进实验室。\n"
-
-#. speaker 0x0ec8dda0 voice v_bri_ccl0030_000_0
-#. timeline 2020..3385
-#: codec/1/231/0xe75f0/2
-msgid ""
-"That is correct. From the outside it looks like any\n"
-"other ruin.\n"
-msgstr ""
-"没错。从外面看，它就像任何\n"
-"其他废墟一样。\n"
-
-#. speaker 0x0ec8dda0 voice v_bri_ccl0030_000_0
-#. timeline 3427..4778
-#: codec/1/231/0xe75f0/3
-msgid ""
-"But on the inside it is a state-of-the-art research\n"
-"facility.\n"
-msgstr ""
-"但内部却是一座最先进的研究\n"
-"设施。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_ccl0030_000_0
-#. timeline 4806..6185
-#: codec/1/231/0xe75f0/4
-msgid ""
-"And your ID card got taken away from you by\n"
-"some guy in an orange jacket.\n"
-msgstr ""
-"而且你的ID卡被一个穿橙色夹克的\n"
-"家伙拿走了。\n"
-
-#. speaker 0x0ec8dda0 voice v_bri_ccl0030_000_0
-#. timeline 6255..7314
-#: codec/1/231/0xe75f0/5
-msgid ""
-"Exactly. I heard a quetzal singing nearby.\n"
-msgstr ""
-"正是。我听到附近有凤尾绿咬鹃在叫。\n"
-
-#. speaker 0x0ec8dda0 voice v_bri_ccl0030_000_0
-#. timeline 7453..8164
-#: codec/1/231/0xe75f0/6
-msgid ""
-"It has not been that long since it happened.\n"
-msgstr ""
-"事情发生还没过多久。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_ccl0030_000_0
-#. timeline 8568..10072
-#: codec/1/231/0xe75f0/7
-msgid ""
-"It could be tricky if he's out on patrol, but if he's a\n"
-"stationary sentry...\n"
-msgstr ""
-"他在外巡逻可能有点麻烦，但如果是\n"
-"固定哨兵……\n"
-
-#. speaker 0x0e28dce6 voice v_bri_ccl0030_000_0
-#. timeline 10114..10741
-#: codec/1/231/0xe75f0/8
-msgid ""
-"You don't think the quetzal's moved?\n"
-msgstr ""
-"你觉得那只凤尾绿咬鹃没挪窝？\n"
-
-#. speaker 0x0ec8dda0 voice v_bri_ccl0030_000_0
-#. timeline 10825..12441
-#: codec/1/231/0xe75f0/9
-msgid ""
-"Its nest is probably nearby. I do not think it will go\n"
-"away anytime soon.\n"
-msgstr ""
-"它的巢穴大概就在附近。我觉得它不会\n"
-"很快离开。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_ccl0030_000_0
-#. timeline 12483..13318
-#: codec/1/231/0xe75f0/10
-msgid ""
-"Good. I'll get on looking for that soldier.\n"
-msgstr ""
-"好。我去找那个士兵。\n"
-
-#. speaker 0x0ec8dda0 voice v_bri_ccl0030_000_0
-#. timeline 13332..14572
-#: codec/1/231/0xe75f0/11
-msgid ""
-"If you forget what it sounds like, I'll do the call for\n"
-"you again.\n"
-msgstr ""
-"如果你忘了它的叫声，我可以再\n"
-"给你演示一遍。\n"
-
-#. speaker 0x0ec8dda0 voice v_bri_ccl0030_000_0
-#. timeline 14642..15729
-#: codec/1/231/0xe75f0/12
-msgid ""
-"Just give me a call anytime you'd like to hear it.\n"
-msgstr ""
-"想听随时呼我。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_ccl0030_000_0
-#. timeline 16049..16425
-#: codec/1/231/0xe75f0/13
-msgid ""
-"I'll do that.\n"
-msgstr ""
-"我会的。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_ccl0090_000_0
-#. timeline 459..1866
-#: codec/1/231/0xe7ae0/0
-msgid ""
-"Let me get this straight. You were in Costa Rica\n"
-"as a birdwatcher?\n"
-msgstr ""
-"让我理清楚。你在哥斯达黎加\n"
-"是作为观鸟者？\n"
-
-#. speaker 0x0ec8dda0 voice v_bri_ccl0090_000_0
-#. timeline 1894..3413
-#: codec/1/231/0xe7ae0/1
-msgid ""
-"Yes, I was. Not for pleasure, though - I am a\n"
-"researcher, after all.\n"
-msgstr ""
-"是的。不过不是消遣，毕竟我\n"
-"是个研究员。\n"
-
-#. speaker 0x0ec8dda0 voice v_bri_ccl0090_000_0
-#. timeline 3496..4639
-#: codec/1/231/0xe7ae0/2
-msgid ""
-"I am studying the distribution of Latin American\n"
-"bird species.\n"
-msgstr ""
-"我正在研究拉丁美洲\n"
-"鸟类的分布。\n"
-
-#. speaker 0x0ec8dda0 voice v_bri_ccl0090_000_0
-#. timeline 4764..5614
-#: codec/1/231/0xe7ae0/3
-msgid ""
-"With today's compact cassette tape recorders,\n"
-msgstr ""
-"有了如今的紧凑型盒式录音机，\n"
-
-#. speaker 0x0ec8dda0 voice v_bri_ccl0090_000_0
-#. timeline 5656..6896
-#: codec/1/231/0xe7ae0/4
-msgid ""
-"even a woman like me can carry her recording\n"
-"equipment by herself.\n"
-msgstr ""
-"即使像我这样的女人也能独自携带\n"
-"录音设备。\n"
-
-#. speaker 0x0ec8dda0 voice v_bri_ccl0090_000_0
-#. timeline 7077..7843
-#: codec/1/231/0xe7ae0/5
-msgid ""
-"But it was a mistake to come alone.\n"
-msgstr ""
-"但独自前来是个错误。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_ccl0090_000_0
-#. timeline 7913..9445
-#: codec/1/231/0xe7ae0/6
-msgid ""
-"Mmm. Even so, there sure are a lot of wild birds in\n"
-"Costa Rica.\n"
-msgstr ""
-"嗯。即便如此，哥斯达黎加的野鸟\n"
-"确实很多。\n"
-
-#. speaker 0x0ec8dda0 voice v_bri_ccl0090_000_0
-#. timeline 9696..10685
-#: codec/1/231/0xe7ae0/7
-msgid ""
-"Aren't there? Over 800 different species,\n"
-msgstr ""
-"可不是吗？800多个不同物种，\n"
-
-#. speaker 0x0ec8dda0 voice v_bri_ccl0090_000_0
-#. timeline 10741..11925
-#: codec/1/231/0xe7ae0/8
-#, c-format
-msgid ""
-"said to be more than 10% of all living bird species\n"
-"on Earth.\n"
-msgstr ""
-"据说超过地球上所有现存鸟类物种的\n"
-"10%。\n"
-
-#. speaker 0x0ec8dda0 voice v_bri_ccl0090_000_0
-#. timeline 12092..13235
-#: codec/1/231/0xe7ae0/9
-msgid ""
-"How many can you name, Mr. Ornithologist?\n"
-msgstr ""
-"你能叫出多少种，鸟类学家先生？\n"
-
-#. speaker 0x0e28dce6 voice v_bri_ccl0090_000_0
-#. timeline 13332..14349
-#: codec/1/231/0xe7ae0/10
-msgid ""
-"Hey, I was just trying not to scare you...\n"
-msgstr ""
-"嘿，我只是不想吓到你……\n"
-
-#. speaker 0x0ec8dda0 voice v_bri_ccl0090_000_0
-#. timeline 14391..15325
-#: codec/1/231/0xe7ae0/11
-msgid ""
-"You should at least have a basic knowledge of\n"
-"Costa Rica.\n"
-msgstr ""
-"你至少应该对哥斯达黎加有\n"
-"基本的了解。\n"

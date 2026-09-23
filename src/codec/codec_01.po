@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PWSF codec 1/12\n"
+"Project-Id-Version: PWSF codec 1/15\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -904,6 +904,7 @@ msgstr ""
 #: codec/1/164/0xa47a0/2
 #: codec/1/200/0xc8b50/1
 #: codec/1/203/0xcb100/7
+#: codec/1/255/0xffda0/4
 #: codec/2/908/0x38c3b0/10
 msgid ""
 "Right.\n"
@@ -1221,6 +1222,41 @@ msgid ""
 "A big, swollen emptiness... just like outer space.\n"
 msgstr ""
 "巨大而膨胀的空虚……就像外太空。\n"
+
+#: codec/1/151/0x97df0/0
+msgid ""
+"Costa Rica isn't alone.\n"
+msgstr ""
+
+#: codec/1/151/0x97df0/1
+msgid ""
+"All of Latin America is getting swept up in the\n"
+"superpowers' Cold War.\n"
+msgstr ""
+
+#: codec/1/151/0x97df0/2
+msgid ""
+"The whole ideological split between East and\n"
+"West...\n"
+msgstr ""
+
+#: codec/1/151/0x97df0/3
+msgid ""
+"In the end, it's just a greedy scramble for wealth\n"
+"by the ruling classes.\n"
+msgstr ""
+
+#: codec/1/151/0x97df0/4
+msgid ""
+"The Western bourgeois stand to lose everything if\n"
+"their countries go communist.\n"
+msgstr ""
+
+#: codec/1/151/0x97df0/5
+msgid ""
+"After all, the communists want to abolish private\n"
+"property altogether.\n"
+msgstr ""
 
 #. speaker 0x0e463a34 voice v_bri_kaz0120_000_1
 #. timeline 501..1239
@@ -1771,6 +1807,102 @@ msgid ""
 "I guess you could call it a fourth principle.\n"
 msgstr ""
 "可以说它是第四项原则。\n"
+
+#: codec/1/153/0x99b80/0
+msgid ""
+"So Costa Rica abolished its army back in, what,\n"
+"1949?\n"
+msgstr ""
+
+#: codec/1/153/0x99b80/1
+msgid ""
+"Pretty gutsy move for a Central American nation\n"
+"at the time.\n"
+msgstr ""
+
+#: codec/1/153/0x99b80/2
+msgid ""
+"Yeah, well, they'd just come out of a civil war.\n"
+msgstr ""
+
+#: codec/1/153/0x99b80/3
+msgid ""
+"I'm sure they were driven by a desire to avoid\n"
+"another tragedy, like Paz said.\n"
+msgstr ""
+
+#: codec/1/153/0x99b80/4
+msgid ""
+"But I think they had a more compelling reason.\n"
+msgstr ""
+
+#: codec/1/153/0x99b80/5
+msgid ""
+"Army coups d'état are a way of life in so many\n"
+"Latin American countries.\n"
+msgstr ""
+
+#: codec/1/153/0x99b80/6
+msgid ""
+"Imagine seeing that up close...\n"
+msgstr ""
+
+#: codec/1/153/0x99b80/7
+msgid ""
+"No army, no coups... Makes sense.\n"
+msgstr ""
+
+#: codec/1/153/0x99b80/8
+msgid ""
+"Plus their economy was in ruins,\n"
+msgstr ""
+
+#: codec/1/153/0x99b80/9
+msgid ""
+"so they honestly didn't have any money to spend\n"
+"on an army anyway.\n"
+msgstr ""
+
+#: codec/1/153/0x99b80/10
+msgid ""
+"Yeah, but weren't they on less-than-friendly terms\n"
+"with Nicaragua?\n"
+msgstr ""
+
+#: codec/1/153/0x99b80/11
+msgid ""
+"Yeah, and in fact Nicaragua did end up invading.\n"
+"But the Civil Guard fought back,\n"
+msgstr ""
+
+#: codec/1/153/0x99b80/12
+msgid ""
+"and the OAS (Organization of American States)\n"
+"brokered a cease-fire.\n"
+msgstr ""
+
+#: codec/1/153/0x99b80/13
+msgid ""
+"The U.S. and the rest of OAS had their back, and\n"
+"they used it to full advantage.\n"
+msgstr ""
+
+#: codec/1/153/0x99b80/14
+msgid ""
+"For a quarter century, they've survived in the\n"
+"powder keg of Central America.\n"
+msgstr ""
+
+#: codec/1/153/0x99b80/15
+msgid ""
+"That must've taken some serious diplomacy.\n"
+msgstr ""
+
+#: codec/1/153/0x99b80/16
+msgid ""
+"Even if the Civil Guard is pretty decked out for a\n"
+"police force.\n"
+msgstr ""
 
 #. speaker 0x0e463a34 voice v_bri_kaz0160_000_0
 #. timeline 487..1128
@@ -3141,171 +3273,3 @@ msgid ""
 msgstr ""
 "拜托，咱老大可不能戴\n"
 "那么破旧的东西……\n"
-
-#: codec/1/157/0x9dc70/4
-msgid ""
-"It was a gift, OK? It wouldn't be right to get rid of\n"
-"it.\n"
-msgstr ""
-"那是礼物，行吗？把它扔掉\n"
-"不合适。\n"
-
-#: codec/1/157/0x9dc70/5
-msgid ""
-"It was? OK, then... Speaking of which,\n"
-msgstr ""
-"是吗？那行…说起来，\n"
-
-#: codec/1/157/0x9dc70/6
-msgid ""
-"Che supposedly had a black scarf he used to take\n"
-"everywhere with him.\n"
-msgstr ""
-"据说切有一条黑围巾，他以前走到哪儿\n"
-"都带着。\n"
-
-#: codec/1/157/0x9dc70/7
-msgid ""
-"A scarf?\n"
-msgstr ""
-"围巾?\n"
-
-#: codec/1/157/0x9dc70/8
-msgid ""
-"One of his comrades gave it to him when he broke\n"
-"his arm in battle.\n"
-msgstr ""
-"他战斗中摔断手臂时，一位战友\n"
-"把围巾给了他。\n"
-
-#: codec/1/157/0x9dc70/9
-msgid ""
-"Che used that silk scarf as a sling...\n"
-msgstr ""
-"切拿那条丝巾当吊带……\n"
-
-#: codec/1/157/0x9dc70/10
-msgid ""
-"and the comrade who gave it to him became his\n"
-"second wife.\n"
-msgstr ""
-"给他围巾的战友后来成了他\n"
-"第二任妻子。\n"
-
-#: codec/1/157/0x9dc70/11
-msgid ""
-"Aleida, right?\n"
-msgstr ""
-"阿蕾达？\n"
-
-#: codec/1/157/0x9dc70/12
-msgid ""
-"Even after his arm healed up, he never went\n"
-"anywhere without that scarf.\n"
-msgstr ""
-"手臂痊愈后，他也从未\n"
-"不带那条围巾出门。\n"
-
-#: codec/1/157/0x9dc70/13
-msgid ""
-"What about you? You get that bandanna from\n"
-"someone special?\n"
-msgstr ""
-"那你呢？头巾是\n"
-"某个特别的人给的？\n"
-
-#: codec/1/157/0x9dc70/14
-msgid ""
-"No, nothing like that. It's... important to me, that's all.\n"
-msgstr ""
-"不，不是。只是……对我很重要。\n"
-
-#: codec/1/158/0x9e190/0
-msgid ""
-"You were saying Japan has a peace constitution,\n"
-"too?\n"
-msgstr ""
-"你刚才说日本也有和平宪法，\n"
-"对吧？\n"
-
-#: codec/1/158/0x9e190/1
-msgid ""
-"Yep. Japan renounced war in Article 9 of its\n"
-"constitution.\n"
-msgstr ""
-"是的。日本宪法第九条\n"
-"放弃了战争。\n"
-
-#: codec/1/158/0x9e190/2
-msgid ""
-"Aspiring sincerely to an international peace based\n"
-"on justice and order...\n"
-msgstr ""
-"真诚地渴望基于正义与秩序\n"
-"的国际和平……\n"
-
-#: codec/1/158/0x9e190/3
-msgid ""
-"...the Japanese people forever renounce war as a\n"
-"sovereign right of the nation\n"
-msgstr ""
-"……日本人民永远放弃以国家主权\n"
-"发动战争的权利\n"
-
-#: codec/1/158/0x9e190/4
-msgid ""
-"and the threat or use of force as means of\n"
-"settling international disputes.\n"
-msgstr ""
-"以及以武力威胁或行使武力\n"
-"作为解决国际争端的手段。\n"
-
-#: codec/1/158/0x9e190/5
-msgid ""
-"In order to accomplish the aim of the preceding\n"
-"paragraph,\n"
-msgstr ""
-"为了实现前款\n"
-"所述之目的，\n"
-
-#: codec/1/158/0x9e190/6
-msgid ""
-"land, sea, and air forces, as well as other war\n"
-"potential, will never be maintained.\n"
-msgstr ""
-"陆、海、空力量以及其他战争\n"
-"潜力，将永不保持。\n"
-
-#: codec/1/158/0x9e190/7
-msgid ""
-"The right of belligerency of the state will not be\n"
-"recognized.\n"
-msgstr ""
-"国家的交战权将不被\n"
-"承认。\n"
-
-#: codec/1/158/0x9e190/8
-msgid ""
-"You know it by heart?\n"
-msgstr ""
-"你背下来了？\n"
-
-#: codec/1/158/0x9e190/9
-msgid ""
-"Some things you never forget.\n"
-msgstr ""
-"有些事永远忘不了。\n"
-
-#: codec/1/158/0x9e190/10
-msgid ""
-"Impressive. There were some parts I didn't quite\n"
-"get, though\n"
-msgstr ""
-"令人印象深刻。不过有些部分我\n"
-"不太明白\n"
-
-#: codec/1/158/0x9e190/11
-msgid ""
-"- like the whole \"means of settling conflicts\" thing.\n"
-msgstr ""
-"比如“解决争端的手段”那句。\n"

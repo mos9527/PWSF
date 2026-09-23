@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PWSF codec 4/12\n"
+"Project-Id-Version: PWSF codec 4/15\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -8,6 +8,1228 @@ msgstr ""
 "X-PWSF-Source: codec\n"
 "X-PWSF-Entries: 400\n"
 
+
+#: codec/1/180/0xb48c0/10
+msgid ""
+"From the first time we met.\n"
+msgstr ""
+"初见就看穿了。\n"
+
+#: codec/1/180/0xb48c0/11
+msgid ""
+"I wish you'd told me...\n"
+msgstr ""
+"真希望你告诉过我……\n"
+
+#: codec/1/180/0xb48c0/12
+msgid ""
+"Sorry. I didn't know if it'd be right.\n"
+msgstr ""
+"抱歉。我不确定该不该说。\n"
+
+#: codec/1/180/0xb48c0/13
+msgid ""
+"You might have gotten mixed up in things you\n"
+"shouldn't.\n"
+msgstr ""
+"你可能卷入了你\n"
+"不该卷入的事情。\n"
+
+#: codec/1/180/0xb48c0/14
+msgid ""
+"That is impressive, though. Sizing him up him at a\n"
+"single glance.\n"
+msgstr ""
+"不过那真厉害。一眼就\n"
+"看穿了他。\n"
+
+#: codec/1/180/0xb48c0/15
+msgid ""
+"He reeked.\n"
+msgstr ""
+"他一身味儿。\n"
+
+#: codec/1/180/0xb48c0/16
+msgid ""
+"Reeked?\n"
+msgstr ""
+"味？\n"
+
+#: codec/1/180/0xb48c0/17
+msgid ""
+"He had this unmistakable air about him...\n"
+msgstr ""
+"他身上有股藏不住的气息……\n"
+
+#: codec/1/180/0xb48c0/18
+msgid ""
+"The air of someone who's been given a mission\n"
+"and will see it through no matter what.\n"
+msgstr ""
+"那种被赋予使命、无论如何都要\n"
+"完成的人的气质。\n"
+
+#: codec/1/180/0xb48c0/19
+msgid ""
+"Like me. I could just smell it.\n"
+msgstr ""
+"跟我一样。一闻就知。\n"
+
+#: codec/1/180/0xb48c0/20
+msgid ""
+"That is amazing, Snake!\n"
+msgstr ""
+"太厉害了，SNAKE！\n"
+
+#: codec/1/180/0xb48c0/21
+msgid ""
+"Nah, I'm just kidding. It was his prosthetic hand.\n"
+msgstr ""
+"哪有，开玩笑的。是他的假手。\n"
+
+#: codec/1/180/0xb48c0/22
+msgid ""
+"Why would a professor from a peace university\n"
+"need a tool for assassination?\n"
+msgstr ""
+"和平大学的教授\n"
+"要暗杀工具做什么？\n"
+
+#: codec/1/180/0xb48c0/23
+msgid ""
+"...\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_paz0070_000_1
+#. timeline 473..1365
+#: codec/1/181/0xb54b0/0
+msgid ""
+"Are there any large-scale ruins in Costa Rica, Paz?\n"
+msgstr ""
+"哥斯达黎加有大型遗迹吗，帕兹？\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0070_000_1
+#. timeline 1407..2410
+#: codec/1/181/0xb54b0/1
+msgid ""
+"There's a place east of Cartago called Guayabo.\n"
+msgstr ""
+"卡塔戈东边有个地方叫瓜亚沃。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0070_000_1
+#. timeline 2493..3232
+#: codec/1/181/0xb54b0/2
+msgid ""
+"They have ruins there, but they're not especially\n"
+"big.\n"
+msgstr ""
+"那里有遗迹，但不算\n"
+"特别大。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0070_000_1
+#. timeline 3650..4486
+#: codec/1/181/0xb54b0/3
+msgid ""
+"Not the place I'm thinking of... Any others?\n"
+msgstr ""
+"不是我想的地方……还有别的？\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0070_000_1
+#. timeline 4527..5935
+#: codec/1/181/0xb54b0/4
+msgid ""
+"Well, if you go a little way across the border into\n"
+"Nicaragua,\n"
+msgstr ""
+"嗯，越过边境进入\n"
+"尼加拉瓜不远，\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0070_000_1
+#. timeline 6004..8219
+#: codec/1/181/0xb54b0/5
+msgid ""
+"there's a place called La Fortaleza de la\n"
+"Inmaculada Concepción. That's the only famous one.\n"
+msgstr ""
+"有个地方叫拉福塔莱萨·德·拉\n"
+"因玛库拉达·康塞普西翁。就它出名。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0070_000_1
+#. timeline 8261..9195
+#: codec/1/181/0xb54b0/6
+msgid ""
+"Then what were those ruins I saw from up on\n"
+"Irazu...?\n"
+msgstr ""
+"那我在伊拉苏山上\n"
+"看到的遗迹是……？\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0070_000_1
+#. timeline 9250..10783
+#: codec/1/181/0xb54b0/7
+msgid ""
+"There are a lot of things we still do not know\n"
+"about Costa Rica's ancient civilizations.\n"
+msgstr ""
+"关于哥斯达黎加的古代文明，\n"
+"我们还有很多未知。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0070_000_1
+#. timeline 10839..11730
+#: codec/1/181/0xb54b0/8
+msgid ""
+"There are giant stone spheres throughout the\n"
+"country.\n"
+msgstr ""
+"全国各地都有巨大的\n"
+"石球。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0070_000_1
+#. timeline 11814..12719
+#: codec/1/181/0xb54b0/9
+msgid ""
+"What they were used for is still a mystery.\n"
+msgstr ""
+"用途至今是个谜。\n"
+
+#: codec/1/181/0xb58a0/0
+msgid ""
+"Paz, you said Costa Rica has no army, right?\n"
+msgstr ""
+"帕兹，你说过哥斯达黎加没有军队吧？\n"
+
+#: codec/1/181/0xb58a0/1
+msgid ""
+"Correct. Article 12 of the constitution declared\n"
+msgstr ""
+"没错。宪法第12条宣布\n"
+
+#: codec/1/181/0xb58a0/2
+msgid ""
+"that the army as a permanent institution is\n"
+"abolished.\n"
+msgstr ""
+"军队作为一个常设机构\n"
+"被废除。\n"
+
+#: codec/1/181/0xb58a0/3
+msgid ""
+"It does permit us to organize armed forces for\n"
+"national defense\n"
+msgstr ""
+"它确实允许我们组织武装力量用于\n"
+"国防\n"
+
+#: codec/1/181/0xb58a0/4
+msgid ""
+"based on inter-American treaties.\n"
+msgstr ""
+"按美洲国家条约组建。\n"
+
+#: codec/1/181/0xb58a0/5
+msgid ""
+"Only temporarily, then.\n"
+msgstr ""
+"那只是暂时的。\n"
+
+#: codec/1/181/0xb58a0/6
+msgid ""
+"In effect, yes. But in the years since the\n"
+"constitution took effect,\n"
+msgstr ""
+"实际上，是的。但自\n"
+"宪法生效以来的这些年里，\n"
+
+#: codec/1/181/0xb58a0/7
+msgid ""
+"Costa Rica has not once raised an army.\n"
+msgstr ""
+"哥斯达黎加从未组建军队。\n"
+
+#: codec/1/181/0xb5b70/0
+msgid ""
+"Paz. How does your country defend itself without\n"
+"an army?\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/1
+msgid ""
+"Especially in a rough neighborhood like Central\n"
+"America.\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/2
+msgid ""
+"With the right kind of diplomacy.\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/3
+msgid ""
+"If we live up to our ideals and earn the respect of\n"
+"other countries,\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/4
+msgid ""
+"the international community will support us.\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/5
+msgid ""
+"The two times Nicaragua actually did invade,\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/6
+msgid ""
+"the conflict was resolved diplomatically under OAS\n"
+"(Organization of American States) auspices.\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/7
+msgid ""
+"Doesn't that leave you depending on the U.S. after\n"
+"all?\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/8
+msgid ""
+"American influence is unmatched, it is true.\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/9
+msgid ""
+"San Jose was critical of American policy at the\n"
+"time...\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/10
+msgid ""
+"But America supported us all the same. It was\n"
+"because we practiced peaceful diplomacy...\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/11
+msgid ""
+"That is what I like to think.\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/12
+msgid ""
+"That's one way to approach it, sure.\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/13
+msgid ""
+"But there are countries out there who'll use force\n"
+"no matter how bad it looks.\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/14
+msgid ""
+"Maybe so... I know my way of thinking probably\n"
+"looks naïve to you.\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/15
+msgid ""
+"But it's not like we expect peace without working\n"
+"for it.\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/16
+msgid ""
+"Diplomacy is a battle in itself.\n"
+msgstr ""
+
+#: codec/1/181/0xb5b70/17
+msgid ""
+"And we have to make the effort\n"
+msgstr ""
+
+#. speaker 0x0e55d959 voice v_bri_paz0090_000_0
+#. timeline 473..1783
+#: codec/1/182/0xb62e0/0
+msgid ""
+"The army was abolished 25 years ago, the year\n"
+"after the civil war.\n"
+msgstr ""
+"军队在25年前被废除，也就是\n"
+"内战后的第二年。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0090_000_0
+#. timeline 1894..2869
+#: codec/1/182/0xb62e0/1
+msgid ""
+"I learned about the sorrow of civil war from a very\n"
+"young age.\n"
+msgstr ""
+"我从很小的时候\n"
+"就了解到内战的悲伤。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0090_000_0
+#. timeline 2995..4165
+#: codec/1/182/0xb62e0/2
+msgid ""
+"The futility of countrymen fighting each other, and\n"
+"the tragedy...\n"
+msgstr ""
+"同胞互相残杀的徒劳，以及\n"
+"那场悲剧……\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0090_000_0
+#. timeline 4291..5377
+#: codec/1/182/0xb62e0/3
+msgid ""
+"Costa Rica learned the hard way. That is why it\n"
+"abolished its army.\n"
+msgstr ""
+"哥斯达黎加吃了大亏。所以才\n"
+"废除了军队。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0090_000_0
+#. timeline 5489..6394
+#: codec/1/182/0xb62e0/4
+msgid ""
+"It decided to pour its efforts into education\n"
+"instead.\n"
+msgstr ""
+"它决定转而将努力投入到\n"
+"教育中。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0090_000_0
+#. timeline 6548..7272
+#: codec/1/182/0xb62e0/5
+msgid ""
+"\"More teachers than soldiers\" was the slogan.\n"
+msgstr ""
+"口号是“教师多于士兵”。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0090_000_0
+#. timeline 7314..8080
+#: codec/1/182/0xb62e0/6
+msgid ""
+"Education is essential, no question.\n"
+msgstr ""
+"教育必不可少。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0090_000_0
+#. timeline 8247..9334
+#: codec/1/182/0xb62e0/7
+msgid ""
+"Even Che used to teach reading and writing in\n"
+"between guerrilla campaigns.\n"
+msgstr ""
+"就连切·格瓦拉也曾在\n"
+"游击战间隙教人读书写字。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0090_000_0
+#. timeline 9418..10644
+#: codec/1/182/0xb62e0/8
+msgid ""
+"Costa Rica was poor at the time. We didn't have\n"
+"many resources.\n"
+msgstr ""
+"当时哥斯达黎加很穷。我们\n"
+"没有多少资源。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0090_000_0
+#. timeline 10811..12246
+#: codec/1/182/0xb62e0/9
+msgid ""
+"I suppose we had to pick one or the other - the\n"
+"military or the schools.\n"
+msgstr ""
+"我想我们只能二选一——要么\n"
+"军队，要么学校。\n"
+
+#: codec/1/182/0xb66e0/0
+msgid ""
+"Kaz was telling me Japan has a peace constitution,\n"
+"too.\n"
+msgstr ""
+"卡兹告诉我，日本也有\n"
+"一部和平宪法。\n"
+
+#: codec/1/182/0xb66e0/1
+msgid ""
+"That is right. Apparently when Costa Rica was\n"
+"drafting its constitution,\n"
+msgstr ""
+"没错。据说哥斯达黎加在\n"
+"起草宪法时，\n"
+
+#: codec/1/182/0xb66e0/2
+msgid ""
+"they looked to the Japanese as a model.\n"
+msgstr ""
+"就以日本为范本。\n"
+
+#: codec/1/182/0xb66e0/3
+msgid ""
+"Only Japan's constitution renounces war itself.\n"
+msgstr ""
+"只是日本宪法连战争权都放弃了。\n"
+
+#: codec/1/182/0xb66e0/5
+msgid ""
+"But... Japan has a Self-Defense Force, right? That I\n"
+"do not get.\n"
+msgstr ""
+"但……日本有自卫队，对吧？这我\n"
+"就不懂了。\n"
+
+#: codec/1/182/0xb66e0/6
+msgid ""
+"I think I will ask Mr. Miller about it next time I see\n"
+"him. He said he used to be in the JSDF.\n"
+msgstr ""
+"我想下次见到米勒先生时问问他。\n"
+"他说他以前在自卫队待过。\n"
+
+#: codec/1/182/0xb66e0/7
+msgid ""
+"You're a curious one, aren't you? Don't study too\n"
+"hard.\n"
+msgstr ""
+"你真好奇。别太\n"
+"用功了。\n"
+
+#: codec/1/182/0xb6a00/0
+msgid ""
+"What was that you were saying... \"peace is not the\n"
+"natural state of men\"?\n"
+msgstr ""
+"你刚才说什么来着……“和平并非\n"
+"人类的天性”？\n"
+
+#: codec/1/182/0xb6a00/1
+msgid ""
+"You said you learned it in school.\n"
+msgstr ""
+"你说这是在学校学的。\n"
+
+#: codec/1/182/0xb6a00/2
+msgid ""
+"That's right. They're the words of the German\n"
+"philosopher Immanuel Kant.\n"
+msgstr ""
+"没错。这是德国\n"
+"哲学家伊曼努尔·康德的话。\n"
+
+#: codec/1/182/0xb6a00/3
+msgid ""
+"In 1795 he wrote a book titled \"Perpetual Peace.\"\n"
+msgstr ""
+"1795年他写了本书叫《永久和平》。\n"
+
+#: codec/1/182/0xb6a00/4
+msgid ""
+"Kant argued that it's precisely because peace is\n"
+"unnatural\n"
+msgstr ""
+"康德认为，正因为和平是\n"
+"非自然的，\n"
+
+#: codec/1/182/0xb6a00/5
+msgid ""
+"that we have to make it ourselves.\n"
+msgstr ""
+"才要靠我们自己去创造。\n"
+
+#: codec/1/182/0xb6a00/6
+msgid ""
+"How?\n"
+msgstr ""
+"怎么创造？\n"
+
+#: codec/1/182/0xb6a00/7
+msgid ""
+"That's what his book is about. Is the concept\n"
+"starting to sound interesting now?\n"
+msgstr ""
+"他书里就讲这个。现在这理念\n"
+"听着有意思了？\n"
+
+#: codec/1/182/0xb6a00/8
+msgid ""
+"Not really... I belong in a more natural world.\n"
+msgstr ""
+"还好……我更适合自然的世界。\n"
+
+#: codec/1/182/0xb6a00/9
+msgid ""
+"Is that so...\n"
+msgstr ""
+"是吗……\n"
+
+#: codec/1/182/0xb6a00/10
+msgid ""
+"...My grandparents died in the civil war.\n"
+msgstr ""
+"……我祖父母死于内战。\n"
+
+#: codec/1/182/0xb6a00/11
+msgid ""
+"If only we'd been at peace, they wouldn't have lost\n"
+"their lives.\n"
+msgstr ""
+"要是我们身处和平，他们就不会\n"
+"丧命了。\n"
+
+#: codec/1/182/0xb6a00/12
+msgid ""
+"You actually wish for war?\n"
+msgstr ""
+"你其实渴望战争？\n"
+
+#: codec/1/182/0xb6a00/13
+msgid ""
+"It's not like I want to hurt innocent civilians.\n"
+msgstr ""
+"我又不是想伤害无辜平民。\n"
+
+#: codec/1/182/0xb6a00/14
+msgid ""
+"But if someone attacks you, what are you\n"
+"supposed to do?\n"
+msgstr ""
+"但如果有人攻击你，你\n"
+"该怎么办？\n"
+
+#: codec/1/182/0xb6a00/15
+msgid ""
+"A country needs the strength to defend itself.\n"
+msgstr ""
+"国家必须有自卫的力量。\n"
+
+#: codec/1/182/0xb6a00/16
+msgid ""
+"Otherwise it faces invasion, oppression, political\n"
+"subjugation.\n"
+msgstr ""
+"否则它就会面临侵略、压迫、政治\n"
+"征服。\n"
+
+#: codec/1/182/0xb6a00/17
+msgid ""
+"If they'd simply stop using force to tangle with\n"
+"each other,\n"
+msgstr ""
+"如果他们干脆停止使用武力来互相\n"
+"纠缠，\n"
+
+#: codec/1/182/0xb6a00/18
+msgid ""
+"countries wouldn't need force to defend themselves.\n"
+msgstr ""
+"国家就不需要武力自卫。\n"
+
+#: codec/1/182/0xb6a00/19
+msgid ""
+"And how would you guarantee that?\n"
+msgstr ""
+"那你怎么保证？\n"
+
+#: codec/1/182/0xb6a00/20
+msgid ""
+"I...\n"
+msgstr ""
+"我……\n"
+
+#: codec/1/182/0xb6a00/21
+msgid ""
+"...Sorry. But you have to understand how the world\n"
+"works\n"
+msgstr ""
+"……抱歉。但你得明白世界\n"
+"怎么运转\n"
+
+#: codec/1/182/0xb6a00/22
+msgid ""
+"in order to protect the ones you love.\n"
+msgstr ""
+"才能保护你所爱的人。\n"
+
+#: codec/1/182/0xb6a00/23
+msgid ""
+"That's not to say ideals aren't important, too. They\n"
+"are.\n"
+msgstr ""
+"这并不是说理想就不重要。它们\n"
+"很重要。\n"
+
+#: codec/1/182/0xb6a00/24
+msgid ""
+"You are right, Snake... Thanks. Peace!\n"
+msgstr ""
+"你说得对，SNAKE……谢谢。和平！\n"
+
+#: codec/1/183/0xb71f0/0
+msgid ""
+"Costa Rica's forests are more diverse than you\n"
+"might expect.\n"
+msgstr ""
+"哥斯达黎加的森林比你\n"
+"想象的更加多样。\n"
+
+#: codec/1/183/0xb71f0/1
+msgid ""
+"Not all of them are tropical rain forests.\n"
+msgstr ""
+"不全是热带雨林。\n"
+
+#: codec/1/183/0xb71f0/2
+msgid ""
+"Costa Rica is close to the Equator, it is true, but it\n"
+"is also very mountainous.\n"
+msgstr ""
+"哥斯达黎加确实靠近赤道，但它\n"
+"也非常多山。\n"
+
+#: codec/1/183/0xb71f0/3
+msgid ""
+"I see what you mean.\n"
+msgstr ""
+"我懂你意思。\n"
+
+#: codec/1/183/0xb71f0/4
+msgid ""
+"Go up 4,000 feet in elevation and the temperature\n"
+"drops more than seven degrees.\n"
+msgstr ""
+"海拔每升高4000英尺，气温\n"
+"就会下降超过七度。\n"
+
+#: codec/1/183/0xb71f0/5
+msgid ""
+"There are basically three types of forests.\n"
+msgstr ""
+"森林基本分三类。\n"
+
+#: codec/1/183/0xb71f0/6
+msgid ""
+"The lowlands are covered in tropical rain forests,\n"
+"the highlands by tropical cloud forests.\n"
+msgstr ""
+"低地覆盖着热带雨林，\n"
+"高地则覆盖着热带云雾林。\n"
+
+#: codec/1/183/0xb71f0/7
+msgid ""
+"And areas where there is a dry season have\n"
+"tropical dry forests.\n"
+msgstr ""
+"而有旱季的地区则分布着\n"
+"热带干燥森林。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0120_010_0
+#. timeline 473..2034
+#: codec/1/183/0xb7530/0
+msgid ""
+"The lowlands along the Caribbean coast are mostly\n"
+"covered by hot, humid tropical rain forests.\n"
+msgstr ""
+"加勒比海岸沿线的低地大部分\n"
+"覆盖着炎热潮湿的热带雨林。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0120_010_0
+#. timeline 2131..2897
+#: codec/1/183/0xb7530/1
+msgid ""
+"What most people envision when they think of\n"
+"\"jungle.\"\n"
+msgstr ""
+"多数人想到\n"
+"“丛林”时的画面。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0120_010_0
+#. timeline 3009..4374
+#: codec/1/183/0xb7530/2
+msgid ""
+"The closely packed trees spread their branches\n"
+"out at great heights to soak up the sun.\n"
+msgstr ""
+"茂密拥挤的树木在高处\n"
+"伸展枝叶，以吸收阳光。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0120_010_0
+#. timeline 4527..5530
+#: codec/1/183/0xb7530/3
+msgid ""
+"Their shade makes it dark near the ground, so be\n"
+"careful.\n"
+msgstr ""
+"树荫让地面附近很暗，要\n"
+"小心。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0120_010_0
+#. timeline 5600..6757
+#: codec/1/183/0xb7530/4
+msgid ""
+"Of course, with so little light few plants can grow\n"
+"on the ground,\n"
+msgstr ""
+"当然，光太少，没几株植物能长在\n"
+"地上，\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0120_010_0
+#. timeline 6812..7439
+#: codec/1/183/0xb7530/5
+msgid ""
+"so it might actually be easier to walk.\n"
+msgstr ""
+"那走路可能反而更轻松。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0120_010_0
+#. timeline 7481..8791
+#: codec/1/183/0xb7530/6
+msgid ""
+"So even if you could photosynthesize, it wouldn't\n"
+"do you any good.\n"
+msgstr ""
+"所以就算你能光合作用，也没\n"
+"好处。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0120_010_0
+#. timeline 8860..9738
+#: codec/1/183/0xb7530/7
+msgid ""
+"Photosynthesize? People cannot do that.\n"
+msgstr ""
+"光合作用？人做不到。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0120_010_0
+#. timeline 10128..10602
+#: codec/1/183/0xb7530/8
+msgid ""
+"Most people, anyway.\n"
+msgstr ""
+"多数人不行。\n"
+
+#: codec/1/183/0xb78c0/0
+msgid ""
+"Areas with a distinct dry season, like the Pacific\n"
+"coast, have tropical dry forests.\n"
+msgstr ""
+"有明显旱季的地区，比如太平洋沿岸，\n"
+"分布着热带干林。\n"
+
+#: codec/1/183/0xb78c0/1
+msgid ""
+"During the dry season, the trees drop their leaves.\n"
+"It gives you a clearer view,\n"
+msgstr ""
+"旱季时，树木会落叶。\n"
+"这让你视野更清晰，\n"
+
+#: codec/1/183/0xb78c0/2
+msgid ""
+"but at the same time there are fewer places to\n"
+"hide, so be careful.\n"
+msgstr ""
+"但同时也少了可以\n"
+"躲藏的地方，所以要小心。\n"
+
+#: codec/1/183/0xb78c0/3
+msgid ""
+"Sounds dull.\n"
+msgstr ""
+"听着挺无聊。\n"
+
+#: codec/1/183/0xb78c0/4
+msgid ""
+"It is not, really. A lot of trees flower during the dry\n"
+"season.\n"
+msgstr ""
+"其实并不是。很多树在旱季\n"
+"开花。\n"
+
+#: codec/1/183/0xb78c0/5
+msgid ""
+"Including my favorite, the tabebuia.\n"
+msgstr ""
+"包括我最喜欢的黄花风铃木。\n"
+
+#: codec/1/183/0xb78c0/6
+msgid ""
+"It has these amazingly vivid yellow flowers.\n"
+msgstr ""
+"开着极其鲜艳的黄花。\n"
+
+#: codec/1/183/0xb7b80/0
+msgid ""
+"The cloud forests cover the central mountainous\n"
+"region of the country.\n"
+msgstr ""
+"云雾林覆盖着该国的中部\n"
+"山区。\n"
+
+#: codec/1/183/0xb7b80/1
+msgid ""
+"They're perpetually shrouded in fog. You get wet\n"
+"just standing there.\n"
+msgstr ""
+"它们常年笼罩在雾中。你光是\n"
+"站在那里就会湿透。\n"
+
+#: codec/1/183/0xb7b80/2
+msgid ""
+"It is as if the entire forest is inside a cloud.\n"
+msgstr ""
+"仿佛整片森林都在云里。\n"
+
+#: codec/1/183/0xb7b80/3
+msgid ""
+"Must make for poor visibility.\n"
+msgstr ""
+"那视野肯定很差。\n"
+
+#: codec/1/183/0xb7b80/4
+msgid ""
+"It does. But beauty, too. It is like being lost in some\n"
+"mystical, green labyrinth.\n"
+msgstr ""
+"确实。但也美。像迷失在某个\n"
+"神秘绿色迷宫。\n"
+
+#: codec/1/183/0xb7b80/5
+msgid ""
+"...I'd rather not get lost if that's OK.\n"
+msgstr ""
+"……可以的话，我不想迷路。\n"
+
+#: codec/1/183/0xb7b80/6
+msgid ""
+"The forests are also home to lots of rare animals.\n"
+msgstr ""
+"森林里还栖息着许多珍稀动物。\n"
+
+#: codec/1/183/0xb7b80/7
+msgid ""
+"Especially brightly colored frogs. They like the\n"
+"humidity.\n"
+msgstr ""
+"尤其是色彩鲜艳的青蛙。它们喜欢\n"
+"潮湿。\n"
+
+#: codec/1/183/0xb7ea0/0
+msgid ""
+"You know that butterfly painted on Peace Walker -\n"
+"any idea what that is?\n"
+msgstr ""
+
+#: codec/1/183/0xb7ea0/1
+msgid ""
+"...It is a Morpho. A Peleides Morpho, if I'm not\n"
+"mistaken.\n"
+msgstr ""
+
+#: codec/1/183/0xb7ea0/2
+msgid ""
+"Peleides Morpho?\n"
+msgstr ""
+
+#: codec/1/183/0xb7ea0/3
+msgid ""
+"Uh huh. It is the most common type of Morpho in\n"
+"Costa Rica.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_huy0160_010_0
+#. timeline 5739..5935
+#: codec/1/183/0xb7ea0/4
+#: codec/1/235/0xeb860/4
+#: codec/1/252/0xfc8d0/6
+msgid ""
+"Huh.\n"
+msgstr ""
+"哦。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0140_000_0
+#. timeline 473..1825
+#: codec/1/184/0xb8540/0
+msgid ""
+"Costa Rica is said to have about 87,000 species\n"
+"of living things.\n"
+msgstr ""
+"据说哥斯达黎加约有87,000种\n"
+"生物。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0140_000_0
+#. timeline 1922..2925
+#: codec/1/184/0xb8540/1
+#, c-format
+msgid ""
+"That's about 5% of all the known species in the\n"
+"world.\n"
+msgstr ""
+"这大约占世界上所有已知物种的\n"
+"5%。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0140_000_0
+#. timeline 2967..4235
+#: codec/1/184/0xb8540/2
+msgid ""
+"A tiny place like this? I'll be damned.\n"
+msgstr ""
+"这么小的地方？真没想到。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0140_000_0
+#. timeline 4263..5057
+#: codec/1/184/0xb8540/3
+msgid ""
+"I want to protect that biological diversity.\n"
+msgstr ""
+"我想保护这种生物多样性。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0140_000_0
+#. timeline 5154..6102
+#: codec/1/184/0xb8540/4
+msgid ""
+"When diversity is lost, the environment weakens.\n"
+msgstr ""
+"多样性一失，环境就弱。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0140_000_0
+#. timeline 6185..6729
+#: codec/1/184/0xb8540/5
+msgid ""
+"Just look at the plantations.\n"
+msgstr ""
+"看看种植园吧。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0140_000_0
+#. timeline 6784..8192
+#: codec/1/184/0xb8540/6
+msgid ""
+"I think I know what you mean. It's like trying to\n"
+"assemble a unit from similar guys\n"
+msgstr ""
+"我懂你的意思。就像用一群相似的人\n"
+"组队\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0140_000_0
+#. timeline 8331..8958
+#: codec/1/184/0xb8540/7
+msgid ""
+"- it usually doesn't work out.\n"
+msgstr ""
+"往往行不通。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0140_000_0
+#. timeline 8986..10017
+#: codec/1/184/0xb8540/8
+msgid ""
+"Throw a few square pegs in there and everything\n"
+"falls into place.\n"
+msgstr ""
+"掺几个格格不入的人进去，一切\n"
+"就顺了。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0140_000_0
+#. timeline 10058..11243
+#: codec/1/184/0xb8540/9
+msgid ""
+"There are so many species here that a lot of them\n"
+"have not even been classified yet.\n"
+msgstr ""
+"这里物种太多了，很多\n"
+"连分类都还没做。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0140_000_0
+#. timeline 11312..12678
+#: codec/1/184/0xb8540/10
+msgid ""
+"I'm hoping I can help do that someday. Kind of like\n"
+"a parataxonomist.\n"
+msgstr ""
+"希望有朝一日我也能帮上忙。有点像\n"
+"副分类学家。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0140_000_0
+#. timeline 12692..13527
+#: codec/1/184/0xb8540/11
+msgid ""
+"Para... say that again?\n"
+msgstr ""
+"副……再说？\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0140_000_0
+#. timeline 13555..14503
+#: codec/1/184/0xb8540/12
+msgid ""
+"Parataxonomist. Someone who helps a taxonomist.\n"
+msgstr ""
+"副分类学家。协助分类学家的人。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0140_000_0
+#. timeline 14517..16147
+#: codec/1/184/0xb8540/13
+msgid ""
+"Oh. Huh. I thought you were going to say it had\n"
+"something to do with parachutes.\n"
+msgstr ""
+"哦。哈。我还以为你要说\n"
+"跟降落伞有关。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0140_000_0
+#. timeline 16551..16913
+#: codec/1/184/0xb8540/14
+msgid ""
+"You're weird...\n"
+msgstr ""
+"你真怪……\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0150_000_0
+#. timeline 473..2131
+#: codec/1/184/0xb8a90/0
+msgid ""
+"The Development Corporation of Costa Rica, or\n"
+"CODESA, was established two years ago.\n"
+msgstr ""
+"哥斯达黎加开发公司，简称\n"
+"CODESA，两年前成立。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0150_000_0
+#. timeline 2215..3023
+#: codec/1/184/0xb8a90/1
+msgid ""
+"Since President Oduber was elected this year,\n"
+msgstr ""
+"今年奥杜贝尔总统当选后，\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0150_000_0
+#. timeline 3092..3914
+#: codec/1/184/0xb8a90/2
+msgid ""
+"the state has been putting a lot more effort into\n"
+"development.\n"
+msgstr ""
+"国家在开发上投入了更多\n"
+"精力。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0150_000_0
+#. timeline 4012..4736
+#: codec/1/184/0xb8a90/3
+msgid ""
+"The corporate state, so to speak.\n"
+msgstr ""
+"可以说是公司化国家。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0150_000_0
+#. timeline 4778..5767
+#: codec/1/184/0xb8a90/4
+msgid ""
+"Growth is good and all, but there's one thing that\n"
+"bugs me.\n"
+msgstr ""
+"发展是好事，但有件事让我\n"
+"在意。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0150_000_0
+#. timeline 5767..5976
+#: codec/1/184/0xb8a90/5
+#: codec/2/911/0x38f200/37
+msgid ""
+"What's that?\n"
+msgstr ""
+"什么事？\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0150_000_0
+#. timeline 6004..7258
+#: codec/1/184/0xb8a90/6
+msgid ""
+"I cannot help but wonder whether CODESA is not\n"
+"just a front for la CIA.\n"
+msgstr ""
+"我不禁怀疑CODESA是不是\n"
+"CIA的幌子。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0150_000_0
+#. timeline 7286..7843
+#: codec/1/184/0xb8a90/7
+msgid ""
+"You mean what the \"professor\" was saying\n"
+msgstr ""
+"你是说那位“教授”说的\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0150_000_0
+#. timeline 7843..8721
+#: codec/1/184/0xb8a90/8
+msgid ""
+"about the CIA mercenaries posing as security\n"
+"guards?\n"
+msgstr ""
+"CIA雇佣兵冒充保安\n"
+"的事？\n"
+
+#. speaker 0x0e28dce6 voice v_bri_paz0150_000_0
+#. timeline 8763..9404
+#: codec/1/184/0xb8a90/9
+msgid ""
+"They were using CODESA as camouflage...\n"
+msgstr ""
+"他们拿CODESA当掩护……\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0150_000_0
+#. timeline 9431..10295
+#: codec/1/184/0xb8a90/10
+msgid ""
+"I'm worried that development is going to destroy\n"
+"the forests...\n"
+msgstr ""
+"我担心开发会毁掉\n"
+"森林……\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0150_000_0
+#. timeline 10435..11257
+#: codec/1/184/0xb8a90/11
+msgid ""
+"but I do not suppose it has anything to do with this.\n"
+msgstr ""
+"但我想这跟那事无关。\n"
+
+#: codec/1/184/0xb8ee0/0
+msgid ""
+"My mother was the one who named me \"Paz.\"\n"
+msgstr ""
+
+#: codec/1/184/0xb8ee0/1
+msgid ""
+"She said it was an expression of her wish that the\n"
+"country stay at peace.\n"
+msgstr ""
+
+#: codec/1/184/0xb8ee0/2
+msgid ""
+"It's a pretty common name in Central America.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_paz0040_000_0
+#. timeline 473..975
+#: codec/1/185/0xb9250/0
+msgid ""
+"You like the peace sign, huh?\n"
+msgstr ""
+"你喜欢和平手势啊？\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0040_000_0
+#. timeline 1003..2340
+#: codec/1/185/0xb9250/1
+msgid ""
+"Sí. As a gesture it connects every peace-loving\n"
+"person.\n"
+msgstr ""
+"是。这个手势连接着每个\n"
+"爱好和平的人。\n"
+
+#. speaker 0x0e55d959 voice v_bri_paz0040_000_0
+#. timeline 2452..3441
+#: codec/1/185/0xb9250/2
+msgid ""
+"Here, you try it, Snake. Peace!\n"
+msgstr ""
+"来，你试试，SNAKE。和平！\n"
 
 #. speaker 0x0e28dce6 voice v_bri_paz0040_000_0
 #. timeline 3496..4388
@@ -308,6 +1530,26 @@ msgid ""
 "Sounds like a plan.\n"
 msgstr ""
 "就这么定了。\n"
+
+#: codec/1/185/0xb9ef0/0
+msgid ""
+"Playa del Alba means \"beach of dawn.\" The morning\n"
+"sun is so beautiful over the Caribbean.\n"
+msgstr ""
+
+#: codec/1/185/0xb9ef0/1
+msgid ""
+"Beach of Dawn, huh? Perfect place to start a\n"
+"mission.\n"
+msgstr ""
+
+#: codec/1/185/0xb9ef0/4
+msgid "7"
+msgstr ""
+
+#: codec/1/185/0xb9ef0/7
+msgid "AQ"
+msgstr ""
 
 #: codec/1/186/0xba290/0
 msgid ""
@@ -1571,6 +2813,91 @@ msgid ""
 msgstr ""
 "我正有此意。\n"
 
+#: codec/1/189/0xbdbd0/0
+msgid ""
+"Paz, what was the government thinking building a\n"
+"power plant at the top of a mountain?\n"
+msgstr ""
+
+#: codec/1/189/0xbdbd0/1
+msgid ""
+"With no river to replenish the water, the lake would\n"
+"dry up pretty quick...\n"
+msgstr ""
+
+#: codec/1/189/0xbdbd0/2
+msgid ""
+"...If it were an ordinary power plant. But the plan\n"
+"called for a pumped storage power plant.\n"
+msgstr ""
+
+#: codec/1/189/0xbdbd0/3
+msgid ""
+"Pumped storage power plant? Kaz mentioned that,\n"
+"too. What is that?\n"
+msgstr ""
+
+#: codec/1/189/0xbdbd0/4
+msgid ""
+"It's a facility that generates electricity by pumping\n"
+"water up to the lake,\n"
+msgstr ""
+
+#: codec/1/189/0xbdbd0/5
+msgid ""
+"then letting it run back down.\n"
+msgstr ""
+
+#: codec/1/189/0xbdbd0/6
+msgid ""
+"Seems Sisyphean to me.\n"
+msgstr ""
+
+#: codec/1/189/0xbdbd0/7
+msgid ""
+"If they turned the water into electricity as soon as\n"
+"they'd pumped it up, sure.\n"
+msgstr ""
+
+#: codec/1/189/0xbdbd0/8
+msgid ""
+"But a pumped storage plant acts as a kind of\n"
+"battery.\n"
+msgstr ""
+
+#: codec/1/189/0xbdbd0/9
+msgid ""
+"A battery?\n"
+msgstr ""
+
+#: codec/1/189/0xbdbd0/10
+msgid ""
+"For instance, they could pump at night,\n"
+msgstr ""
+
+#: codec/1/189/0xbdbd0/11
+msgid ""
+"when there's surplus electricity, and store it for\n"
+"later use.\n"
+msgstr ""
+
+#: codec/1/189/0xbdbd0/12
+msgid ""
+"If they need extra power during the day,\n"
+msgstr ""
+
+#: codec/1/189/0xbdbd0/13
+msgid ""
+"they can generate it using water pumped up during\n"
+"the night.\n"
+msgstr ""
+
+#: codec/1/189/0xbdbd0/14
+msgid ""
+"I get it. It's a little more difficult to adjust output\n"
+"with thermal or nuclear plants.\n"
+msgstr ""
+
 #. speaker 0x0e55d959 voice v_bri_mis_paz0190_000_0
 #. timeline 445..2410
 #: codec/1/190/0xbe2c0/0
@@ -1801,1505 +3128,49 @@ msgid ""
 msgstr ""
 "谢谢。小心点，SNAKE。和平！\n"
 
-#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
-#. timeline 445..1309
-#: codec/1/191/0xbf3b0/0
+#: codec/1/190/0xbecf0/0
 msgid ""
-"La Ruinas de Xochiquetzal will be around there.\n"
+"Selba de la Muerte, huh?\n"
 msgstr ""
-"索奇克察尔遗迹就在那附近。\n"
 
-#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
-#. timeline 1337..2619
-#: codec/1/191/0xbf3b0/1
+#: codec/1/190/0xbecf0/1
 msgid ""
-"They have not been restored at all, so they may\n"
-"well be covered in plants.\n"
+"\"Forest of Death.\" Wouldn't want to get lost here.\n"
 msgstr ""
-"它们完全没被修复过，所以很可能\n"
-"被植物覆盖了。\n"
 
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0230_000_0
-#. timeline 2702..3106
-#: codec/1/191/0xbf3b0/2
+#: codec/1/190/0xbecf0/2
 msgid ""
-"Xochiquetzal?\n"
+"Sure wouldn't. But do not worry, I will be your guide.\n"
 msgstr ""
-"索奇克察尔？\n"
 
-#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
-#. timeline 3134..3970
-#: codec/1/191/0xbf3b0/3
+#: codec/1/190/0xbecf0/3
 msgid ""
-"An Aztec goddess of fertility and beauty.\n"
+"Happy to hear it.\n"
 msgstr ""
-"阿兹特克的丰饶与美丽女神。\n"
 
-#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
-#. timeline 4068..5154
-#: codec/1/191/0xbf3b0/4
+#: codec/1/190/0xbecf0/4
 msgid ""
-"They say she was always accompanied by birds\n"
-"and butterflies.\n"
+"By the way, Snake, you know much about sloths?\n"
 msgstr ""
-"据说她身边总有鸟儿\n"
-"和蝴蝶相伴。\n"
 
-#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
-#. timeline 5210..6506
-#: codec/1/191/0xbf3b0/5
+#: codec/1/190/0xbecf0/5
 msgid ""
-"One theory states she was the mother of the god\n"
-"known as Quetzalcoatl.\n"
+"Just the name.\n"
 msgstr ""
-"有一种说法称她是神明\n"
-"魁札尔科亚特尔之母。\n"
 
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0230_000_0
-#. timeline 6575..6993
-#: codec/1/191/0xbf3b0/6
+#: codec/1/190/0xbecf0/6
 msgid ""
-"Quetzalcoatl...\n"
+"They are amazing. Sloths spend almost all their\n"
+"lives up in trees,\n"
 msgstr ""
-"羽蛇神……\n"
 
-#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
-#. timeline 7035..8400
-#: codec/1/191/0xbf3b0/7
+#: codec/1/190/0xbecf0/7
 msgid ""
-"The quetzal is said to be an incarnation of\n"
-"Quetzalcoatl, hence its name.\n"
+"except for when they have to go to the bathroom.\n"
+"Plus, they barely eat a thing.\n"
 msgstr ""
-"凤尾绿咬鹃据说是羽蛇神的化身，\n"
-"因此得名。\n"
 
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0230_000_0
-#. timeline 8442..10309
-#: codec/1/191/0xbf3b0/8
+#: codec/1/190/0xbecf0/8
 msgid ""
-"I get it. Well, this place definitely matches the\n"
-"atmosphere of a cloud forest.\n"
+"What? How do they survive?\n"
 msgstr ""
-"明白了。这地方确实符合\n"
-"云雾林的气氛。\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
-#. timeline 10323..11535
-#: codec/1/191/0xbf3b0/9
-msgid ""
-"Now, it may have seen better days, but that is still\n"
-"a temple.\n"
-msgstr ""
-"虽说它已不复往昔，但那仍是\n"
-"一座神庙。\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
-#. timeline 11591..12399
-#: codec/1/191/0xbf3b0/10
-msgid ""
-"So, be sure to show respect when you're inside.\n"
-msgstr ""
-"所以进去后务必表示敬意。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0230_000_0
-#. timeline 12427..12901
-#: codec/1/191/0xbf3b0/11
-msgid ""
-"If the mood strikes me.\n"
-msgstr ""
-"看我心情。\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
-#. timeline 12956..14001
-#: codec/1/191/0xbf3b0/12
-msgid ""
-"Hmph! Well, you've got no one to blame but yourself\n"
-msgstr ""
-"哼！那要是索奇克察尔惩罚你，\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
-#. timeline 14043..14698
-#: codec/1/191/0xbf3b0/13
-msgid ""
-"if Xochiquetzal strikes you down.\n"
-msgstr ""
-"你也只能怪自己。\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0240_000_0
-#. timeline 445..1434
-#: codec/1/191/0xbf890/0
-msgid ""
-"I do not know if I recall such large ruins being\n"
-"there...\n"
-msgstr ""
-"我不记得那里有\n"
-"如此庞大的遗迹……\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0240_000_0
-#. timeline 1630..2897
-#: codec/1/191/0xbf890/1
-msgid ""
-"Well, didn't you say there's a lot we don't know\n"
-"about Costa Rica's ancient civilizations?\n"
-msgstr ""
-"你不是说哥斯达黎加的古文明\n"
-"还有很多未知吗？\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0240_000_0
-#. timeline 2925..4193
-#: codec/1/191/0xbf890/2
-msgid ""
-"You talked about some giant stone balls, too. What\n"
-"are those?\n"
-msgstr ""
-"你也提到过一些巨大的石球。那些\n"
-"是什么？\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0240_000_0
-#. timeline 4235..5154
-#: codec/1/191/0xbf890/3
-msgid ""
-"Oh, the Stone Spheres of Costa Rica?\n"
-msgstr ""
-"哦，哥斯达黎加石球？\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0240_000_0
-#. timeline 5266..6074
-#: codec/1/191/0xbf890/4
-msgid ""
-"They're an assortment of giant spheres carved\n"
-"from stone\n"
-msgstr ""
-"它们是一批石雕的巨大球体，\n"
-"种类繁多\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0240_000_0
-#. timeline 6074..7383
-#: codec/1/191/0xbf890/5
-msgid ""
-"that were discovered in the jungles of Costa Rica\n"
-"about 50 years ago.\n"
-msgstr ""
-"大约50年前在哥斯达黎加的丛林中被\n"
-"发现。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0240_000_0
-#. timeline 7411..7941
-#: codec/1/191/0xbf890/6
-msgid ""
-"What's so special about that?\n"
-msgstr ""
-"那有什么特别的？\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0240_000_0
-#. timeline 7983..9041
-#: codec/1/191/0xbf890/7
-msgid ""
-"What if I told you some of them are nearly perfect\n"
-"spheres?\n"
-msgstr ""
-"如果我告诉你其中一些几乎是完美\n"
-"球体呢？\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0240_000_0
-#. timeline 9167..10407
-#: codec/1/191/0xbf890/8
-msgid ""
-"And that they were carved out of granite, which is\n"
-"quite a hard substance.\n"
-msgstr ""
-"而且它们由花岗岩雕成，这是一种\n"
-"相当坚硬的物质。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0240_000_0
-#. timeline 10448..11493
-#: codec/1/191/0xbf890/9
-msgid ""
-"Hmm, could be good for laying a trap.\n"
-msgstr ""
-"嗯，用来设陷阱不错。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0240_000_0
-#. timeline 11605..12483
-#: codec/1/191/0xbf890/10
-msgid ""
-"And if they're spherical, they'd roll easily, too...\n"
-msgstr ""
-"球形的还容易滚动……\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0240_000_0
-#. timeline 12496..12845
-#. speaker 0x0e3bb338 voice 
-#. timeline 1017..1281
-#: codec/1/191/0xbf890/11
-#: codec/2/902/0x3861c0/8
-#: codec/2/903/0x3879e0/1
-#: codec/2/908/0x38c3b0/0
-#: codec/2/910/0x38e660/0
-#: codec/2/911/0x38f200/0
-#: codec/2/911/0x38f200/14
-msgid ""
-"Snake...\n"
-msgstr ""
-"SNAKE\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0250_000_0
-#. timeline 445..1365
-#: codec/1/191/0xbfcf0/0
-msgid ""
-"So tell me, what do they mine around here?\n"
-msgstr ""
-"那这附近采什么矿？\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0250_000_0
-#. timeline 1393..1936
-#: codec/1/191/0xbfcf0/1
-msgid ""
-"Gold, if I am not mistaken.\n"
-msgstr ""
-"没记错，是金矿。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0250_000_0
-#. timeline 1978..3733
-#: codec/1/191/0xbfcf0/2
-msgid ""
-"Gold?! No kidding. I wonder what'd be the fastest\n"
-"way to...\n"
-msgstr ""
-"黄金？！没开玩笑吧。我想知道最快的\n"
-"办法是什么……\n"
-
-#: codec/1/191/0xbfcf0/3
-msgid ""
-"I do not know how much success they've had.\n"
-msgstr ""
-"不知道他们收益如何。\n"
-
-#: codec/1/191/0xbfcf0/4
-msgid ""
-"You do not hear of anyone still operating mines\n"
-"around here.\n"
-msgstr ""
-"你没听说这附近还有人仍在经营\n"
-"矿场。\n"
-
-#: codec/1/191/0xbfcf0/6
-msgid ""
-"Generally speaking, people here are not too thrilled\n"
-"with outside capital\n"
-msgstr ""
-"一般来说，这里的人对外来资本\n"
-"并不太欢迎\n"
-
-#: codec/1/191/0xbfcf0/7
-msgid ""
-"coming in and taking away the country's natural\n"
-"resources.\n"
-msgstr ""
-"进来并拿走这个国家的自然\n"
-"资源。\n"
-
-#: codec/1/191/0xbfcf0/8
-msgid ""
-"Four years ago, a group of protestors hurled\n"
-"stones at the parliament building\n"
-msgstr ""
-"四年前，一群抗议者向\n"
-"议会大楼投掷石块\n"
-
-#: codec/1/191/0xbfcf0/9
-msgid ""
-"when people found out the country had been\n"
-"bestowing mining rights to foreign companies.\n"
-msgstr ""
-"当人们发现这个国家一直在\n"
-"将采矿权授予外国公司时。\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0260_000_0
-#. timeline 445..1783
-#: codec/1/192/0xc00b0/0
-msgid ""
-"They must have had to clear a considerable\n"
-"amount of forest to open up that mine.\n"
-msgstr ""
-"他们肯定不得不清理相当\n"
-"数量的森林来开辟那座矿场。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0260_000_0
-#. timeline 2020..3092
-#: codec/1/192/0xc00b0/1
-msgid ""
-"No doubt. So much for any hiding places, too.\n"
-msgstr ""
-"没错。藏身之处也没了。\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0260_000_0
-#. timeline 3120..4207
-#: codec/1/192/0xc00b0/2
-msgid ""
-"And it is not just the forest. Without the proper\n"
-"precautions,\n"
-msgstr ""
-"而且不仅是森林。如果没有适当\n"
-"预防措施，\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0260_000_0
-#. timeline 4277..5113
-#: codec/1/192/0xc00b0/3
-msgid ""
-"the mine's waste water could pollute the\n"
-"groundwater.\n"
-msgstr ""
-"矿场的废水可能会污染\n"
-"地下水。\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0260_000_0
-#. timeline 5182..6339
-#: codec/1/192/0xc00b0/4
-msgid ""
-"And to top it all off, they're developing nuclear\n"
-"weapons there, too.\n"
-msgstr ""
-"最糟糕的是，他们还在那里开发核\n"
-"武器。\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0260_000_0
-#. timeline 6450..7328
-#: codec/1/192/0xc00b0/5
-msgid ""
-"How can people care so little about their own\n"
-"country?\n"
-msgstr ""
-"人们怎么能对自己国家\n"
-"如此漠不关心？\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0260_000_0
-#. timeline 7370..8038
-#: codec/1/192/0xc00b0/6
-msgid ""
-"...I'm not the one to ask about that.\n"
-msgstr ""
-"……这问题别问我。\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0260_000_0
-#. timeline 8038..8930
-#: codec/1/192/0xc00b0/7
-msgid ""
-"Well, you may have abandoned your country,\n"
-msgstr ""
-"你也许抛弃了自己的国家，\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0260_000_0
-#. timeline 9055..9752
-#: codec/1/192/0xc00b0/8
-msgid ""
-"but you still treasure where you came from.\n"
-msgstr ""
-"但你依然珍视自己的故乡。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0260_000_0
-#. timeline 10198..10504
-#: codec/1/192/0xc00b0/9
-#: codec/1/235/0xeb860/10
-#: codec/2/914/0x392460/23
-msgid ""
-"You think so?\n"
-msgstr ""
-"是吗？\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0260_000_0
-#. timeline 10518..11312
-#: codec/1/192/0xc00b0/10
-msgid ""
-"Sure. I know you do.\n"
-msgstr ""
-"当然。我知道你是这样。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0260_000_0
-#. timeline 11424..13931
-#: codec/1/192/0xc00b0/11
-msgid ""
-"Paz, you... I... Whatever you do, never stop loving\n"
-"your country.\n"
-msgstr ""
-"帕兹，你……我……无论你做什么，永远不要停止热爱\n"
-"your country。\n"
-
-#: codec/1/192/0xc04e0/0
-msgid ""
-"Since it was founded, my country has not once\n"
-"been able to choose its own path.\n"
-msgstr ""
-"自建国以来，我的国家从未\n"
-"能够选择自己的道路。\n"
-
-#: codec/1/192/0xc04e0/1
-msgid ""
-"First Spain, then America. Over one hundred years\n"
-"of this...\n"
-msgstr ""
-"先是西班牙，然后是美洲。一百多年来\n"
-"都是如此……\n"
-
-#: codec/1/192/0xc04e0/2
-#: codec/1/197/0xc5540/11
-msgid ""
-"I know.\n"
-msgstr ""
-"我知道。\n"
-
-#: codec/1/192/0xc04e0/3
-msgid ""
-"In the 19th century,\n"
-msgstr ""
-"19世纪，\n"
-
-#: codec/1/192/0xc04e0/4
-msgid ""
-"an American mercenary named William Walker\n"
-"seized power in Nicaragua.\n"
-msgstr ""
-"一位名叫威廉·沃克的美国雇佣兵\n"
-"夺取了尼加拉瓜的政权。\n"
-
-#: codec/1/192/0xc04e0/5
-msgid ""
-"I'd heard he exploited rivalries between the political\n"
-"parties.\n"
-msgstr ""
-"我听说他利用了政党之间的\n"
-"敌对关系。\n"
-
-#: codec/1/192/0xc04e0/6
-msgid ""
-"Even after we expelled him,\n"
-msgstr ""
-"即便我们赶走他，\n"
-
-#: codec/1/192/0xc04e0/7
-msgid ""
-"the Americans sent in their Marines under the\n"
-"pretext of quelling political unrest.\n"
-msgstr ""
-"美国人以平息政治动乱为\n"
-"借口，派出了他们的海军陆战队。\n"
-
-#: codec/1/192/0xc04e0/8
-msgid ""
-"And the real reason?\n"
-msgstr ""
-"真正原因？\n"
-
-#: codec/1/192/0xc04e0/9
-msgid ""
-"To intimidate the government and thwart the\n"
-"construction of the Nicaragua Canal.\n"
-msgstr ""
-"为了恐吓政府并阻挠\n"
-"尼加拉瓜运河的建设。\n"
-
-#: codec/1/192/0xc0880/0
-msgid ""
-"I thought the U.S. already has the rights to build a\n"
-"canal in Nicaragua...\n"
-msgstr ""
-"我以为美国已经拥有在尼加拉瓜\n"
-"修建运河的权利……\n"
-
-#: codec/1/192/0xc0880/1
-msgid ""
-"They never intended to build a canal there. They\n"
-"had already started digging in Panama.\n"
-msgstr ""
-"他们从未打算在那里修建运河。他们\n"
-"已经在巴拿马开始挖掘了。\n"
-
-#: codec/1/192/0xc0880/2
-msgid ""
-"A canal in Nicaragua would break up the Panama\n"
-"Canal's monopoly,\n"
-msgstr ""
-"尼加拉瓜的运河会打破巴拿马\n"
-"运河的垄断，\n"
-
-#: codec/1/192/0xc0880/3
-msgid ""
-"reason enough for America to stick its nose into\n"
-"our affairs.\n"
-msgstr ""
-"这足以让美国插手\n"
-"我们的事务。\n"
-
-#: codec/1/192/0xc0880/4
-msgid ""
-"They snagged the rights so nobody else could\n"
-"build there...\n"
-msgstr ""
-"他们抢了权利，别人就没法\n"
-"在那修建……\n"
-
-#: codec/1/192/0xc0880/5
-msgid ""
-"It was General Sandino who finally stood up to los\n"
-"yanquis.\n"
-msgstr ""
-"是桑地诺将军最终挺身对抗\n"
-"美国佬。\n"
-
-#: codec/1/192/0xc0b40/0
-msgid ""
-"General Sandino waged a guerrilla war against the\n"
-"Marines,\n"
-msgstr ""
-"桑地诺将军对海军陆战队\n"
-"发动了游击战，\n"
-
-#: codec/1/192/0xc0b40/1
-msgid ""
-"at last driving them out. He was a true hero, and -\n"
-"to us Sandinistas - like a father.\n"
-msgstr ""
-"最终赶走了他们。他是真英雄，\n"
-"对我们桑地诺人，就像父亲。\n"
-
-#: codec/1/192/0xc0b40/2
-msgid ""
-"But when they pulled out, the Americans left us\n"
-"something to remember them by.\n"
-msgstr ""
-"但他们撤走时，美国人留给我们\n"
-"一样东西作纪念。\n"
-
-#: codec/1/192/0xc0b40/3
-msgid ""
-"The National Guard.\n"
-msgstr ""
-"国民警卫队。\n"
-
-#: codec/1/192/0xc0b40/4
-msgid ""
-"Yes, la Guardia. In name, a peacekeeping force.\n"
-msgstr ""
-"没错，国民警卫队。名义上是维和部队。\n"
-
-#: codec/1/192/0xc0b40/5
-msgid ""
-"But in reality, Commander Somoza's personal army,\n"
-"answering to no one else.\n"
-msgstr ""
-"实际上是索摩查司令的私人军队，\n"
-"只听命于他一人。\n"
-
-#: codec/1/192/0xc0b40/6
-msgid ""
-"Unable to stay silent, General Sandino went to\n"
-"protest...\n"
-msgstr ""
-"桑地诺将军无法保持沉默，前去\n"
-"抗议……\n"
-
-#: codec/1/192/0xc0b40/7
-msgid ""
-"and was assassinated by Somoza as he made his\n"
-"way home.\n"
-msgstr ""
-"并在回家的路上\n"
-"被索摩查暗杀。\n"
-
-#: codec/1/192/0xc0b40/8
-msgid ""
-"It was then that Somoza and los sapos\n"
-msgstr ""
-"就在那时，索摩查和蟾蜍\n"
-
-#: codec/1/192/0xc0b40/9
-msgid ""
-"began to eat our country alive, from the inside.\n"
-msgstr ""
-"开始从内部活活吞噬我们的国家。\n"
-
-#: codec/1/193/0xc16a0/0
-msgid ""
-"The first Somoza was originally no more than the\n"
-"commander of la Guardia.\n"
-msgstr ""
-"第一代索摩查原本不过是\n"
-"国民警卫队的司令。\n"
-
-#: codec/1/193/0xc16a0/1
-msgid ""
-"Ordinarily, a man of his station could never hope to\n"
-"become president.\n"
-msgstr ""
-"按常理，以他的身份绝无可能\n"
-"当上总统。\n"
-
-#: codec/1/193/0xc16a0/2
-msgid ""
-"But the president at the time had no power to\n"
-"back him.\n"
-msgstr ""
-"但当时的总统无力\n"
-"支持他。\n"
-
-#: codec/1/193/0xc16a0/3
-msgid ""
-"The only one with the strength to oppose him was\n"
-"General Sandino.\n"
-msgstr ""
-"唯一有力量反对他的，只有\n"
-"桑地诺将军。\n"
-
-#: codec/1/193/0xc16a0/4
-msgid ""
-"....No. Better to say the General was the only one\n"
-"who dared oppose him.\n"
-msgstr ""
-"……不。不如说，将军是唯一\n"
-"敢于反对他的人。\n"
-
-#: codec/1/193/0xc16a0/5
-msgid ""
-"There was nothing special about him.\n"
-msgstr ""
-"他并没有什么特别之处。\n"
-
-#: codec/1/193/0xc16a0/6
-msgid ""
-"Above all, it takes a strong will to see justice done.\n"
-"That is what he taught us.\n"
-msgstr ""
-"关键是，伸张正义需坚强意志。\n"
-"这是他教我们的。\n"
-
-#: codec/1/193/0xc16a0/7
-msgid ""
-"It's also what motivated Somoza to have him killed...\n"
-msgstr ""
-"也正是这一点促使索摩查杀了他……\n"
-
-#: codec/1/193/0xc16a0/8
-msgid ""
-"Yes. The rest was easy. He got rid of the\n"
-"president, taking office in a sham election.\n"
-msgstr ""
-"是的。剩下的就简单了。他除掉了\n"
-"总统，靠一场假选举上台。\n"
-
-#: codec/1/193/0xc16a0/9
-msgid ""
-"And once he had power, he never gave it up.\n"
-msgstr ""
-"一旦掌权，他就再也没放手。\n"
-
-#: codec/1/193/0xc16a0/10
-msgid ""
-"Talk about heavy-handed.\n"
-msgstr ""
-"真是够强硬的。\n"
-
-#: codec/1/193/0xc16a0/11
-msgid ""
-"He had the Americans backing him, that's why.\n"
-msgstr ""
-"那是因为有美国人给他撑腰。\n"
-
-#: codec/1/193/0xc16a0/12
-msgid ""
-"They didn't want to hand over power to a\n"
-"rebellious general.\n"
-msgstr ""
-"他们不想把权力交给一个\n"
-"叛逆的将军。\n"
-
-#: codec/1/193/0xc16a0/13
-msgid ""
-"Even so, it's hard to believe Washington would give\n"
-"its blessing to a guy like that.\n"
-msgstr ""
-"即便如此，也很难相信华盛顿会\n"
-"祝福那种家伙。\n"
-
-#: codec/1/193/0xc16a0/14
-msgid ""
-"The American President at the time put it this way:\n"
-msgstr ""
-"当时的美国总统是这么说的：\n"
-
-#: codec/1/193/0xc16a0/15
-msgid ""
-"\"Somoza may be a son of a bitch, but he's our son\n"
-"of a bitch.\"\n"
-msgstr ""
-"“索摩查也许是个狗娘养的，但他是\n"
-"咱们的狗娘养的。”\n"
-
-#: codec/1/193/0xc16a0/16
-msgid ""
-"In other words, better a dog or los sapos (Somoza\n"
-"and counter-revolutionaries)\n"
-msgstr ""
-"换句话说，宁可要条狗或蟾蜍（索摩查\n"
-"和反革命分子）\n"
-
-#: codec/1/193/0xc16a0/17
-msgid ""
-"than an anti-US regime.\n"
-msgstr ""
-"比反美政权更甚。\n"
-
-#: codec/1/194/0xc2170/0
-msgid ""
-"The river that flows between Nicaragua and Costa\n"
-"Rica is el Río San Juan.\n"
-msgstr ""
-"流经尼加拉瓜和哥斯\n"
-"黎巴嫩之间的河流是圣胡安河。\n"
-
-#: codec/1/194/0xc2170/1
-msgid ""
-"It connects Lago Cocibolca to el Mar Caribe.\n"
-msgstr ""
-"它连接科西博尔卡湖与加勒比海。\n"
-
-#: codec/1/194/0xc2170/2
-msgid ""
-"It is a gentle river, safe even for small boats. You\n"
-"have to watch out for the sharks, though.\n"
-msgstr ""
-"这是一条平缓的河流，连小船也能安全通行。不过\n"
-"你得小心鲨鱼。\n"
-
-#: codec/1/194/0xc2170/3
-msgid ""
-"Sharks? In a river?\n"
-msgstr ""
-"鲨鱼？在河？\n"
-
-#: codec/1/194/0xc2170/4
-msgid ""
-"El tiburón toro live in the river. But there's nothing\n"
-"to fear. San Juan will protect you always.\n"
-msgstr ""
-"公牛鲨生活在河里。但没什么\n"
-"好怕的。圣胡安会永远保护你。\n"
-
-#: codec/1/194/0xc2170/5
-msgid ""
-"Juan?\n"
-msgstr ""
-"胡安？\n"
-
-#: codec/1/194/0xc2170/6
-msgid ""
-"The Rio San Juan takes its name from San Juan,\n"
-"the man who baptized Jesús.\n"
-msgstr ""
-"圣胡安河得名于圣胡安，\n"
-"就是为耶稣施洗的人。\n"
-
-#: codec/1/194/0xc2170/7
-msgid ""
-"The man you call John the Baptist in your country.\n"
-msgstr ""
-"在你们国家叫施洗约翰。\n"
-
-#: codec/1/194/0xc2170/8
-msgid ""
-"John, huh... I'll be careful anyway. I'd hate to drown\n"
-"- end up a John Doe.\n"
-msgstr ""
-"约翰，嗯……我还是小心点。我可不想淹死\n"
-"成无名氏。\n"
-
-#: codec/1/194/0xc2510/0
-msgid ""
-"There is a volcanic island in Lago Cocibolca called\n"
-"Ometepe.\n"
-msgstr ""
-"科西博尔卡湖有座火山岛，名叫\n"
-"奥梅特佩。\n"
-
-#: codec/1/194/0xc2510/1
-msgid ""
-"It's formed from two connected volcanoes, shaped\n"
-"like a porongo (gourd).\n"
-msgstr ""
-"它由两座相连火山构成，形状\n"
-"像葫芦（porongo）。\n"
-
-#: codec/1/194/0xc2510/2
-msgid ""
-"The one with smoke coming out of it?\n"
-msgstr ""
-"就是那座冒烟的？\n"
-
-#: codec/1/194/0xc2510/3
-msgid ""
-"That's the one. The smoking volcano is\n"
-"Concepción. It erupts once in a while.\n"
-msgstr ""
-"就是那座。冒烟的火山是\n"
-"康塞普西翁。它偶尔喷发。\n"
-
-#: codec/1/194/0xc2510/4
-msgid ""
-"The other one is Maderas.\n"
-msgstr ""
-"另一座是马德拉斯。\n"
-
-#: codec/1/194/0xc2510/5
-msgid ""
-"It's never erupted in recorded history. There's a\n"
-"lake in the caldera at the top.\n"
-msgstr ""
-"有历史记录以来它从未喷发过。山顶的\n"
-"火山口里有一个湖。\n"
-
-#: codec/1/194/0xc2510/6
-msgid ""
-"A crater lake... Let's hope there's not another\n"
-"underground factory inside...\n"
-msgstr ""
-"火山口湖……希望里面没有另一个\n"
-"地下工厂……\n"
-
-#: codec/1/194/0xc2510/7
-msgid ""
-"Don't say that!\n"
-msgstr ""
-"别这么说！\n"
-
-#: codec/1/194/0xc2510/8
-msgid ""
-"If Peace Walker's nukes detonated there, it would\n"
-"destabilize the magma underneath.\n"
-msgstr ""
-"如果和平行者号的核弹在那里引爆，会\n"
-"破坏下方岩浆的稳定。\n"
-
-#: codec/1/194/0xc2510/9
-msgid ""
-"It could cause the volcano to erupt again.\n"
-msgstr ""
-"可能导致火山再次喷发。\n"
-
-#: codec/1/194/0xc2510/10
-msgid ""
-"If that happens, my country is doomed. Snake, you\n"
-"must stop Peace Walker!\n"
-msgstr ""
-"那样我国就完了。斯内克，你\n"
-"必须阻止和平行者！\n"
-
-#: codec/1/194/0xc2950/0
-msgid ""
-"We are Sandinistas, the heirs of General Sandino's\n"
-"will.\n"
-msgstr ""
-"我们是桑地诺人，继承桑地诺将军\n"
-"遗志。\n"
-
-#: codec/1/194/0xc2950/1
-msgid ""
-"Sandino... the father of modern guerrilla warfare.\n"
-msgstr ""
-"桑地诺……现代游击战之父。\n"
-
-#: codec/1/194/0xc2950/2
-msgid ""
-"To you, maybe. To us, he's more like a real father.\n"
-msgstr ""
-"对你或许。对我们，他更像真父亲。\n"
-
-#: codec/1/194/0xc2950/3
-msgid ""
-"That why you named yourselves after him?\n"
-msgstr ""
-"所以你们以他命名？\n"
-
-#: codec/1/194/0xc2950/4
-msgid ""
-"Of course. La Frente Sandinista de Liberación\n"
-"Nacional...\n"
-msgstr ""
-"当然。桑地诺民族解放\n"
-"阵线……\n"
-
-#: codec/1/194/0xc2950/5
-msgid ""
-"the Sandinista National Liberation Front is named\n"
-"in his honor.\n"
-msgstr ""
-"桑地诺民族解放阵线以\n"
-"他命名，以示纪念。\n"
-
-#: codec/1/194/0xc2950/6
-msgid ""
-"We share the General's goal - to take back our\n"
-"country's freedom.\n"
-msgstr ""
-"我们和将军目标一致，夺回我们\n"
-"国家的自由。\n"
-
-#: codec/1/194/0xc2950/7
-msgid ""
-"In his day, from America. In ours, from the despot\n"
-"Somoza.\n"
-msgstr ""
-"他那时，敌人来自美国。我们这时，敌人是暴君\n"
-"索摩查。\n"
-
-#: codec/1/194/0xc2950/8
-msgid ""
-"Times have changed, but the song remains the\n"
-"same.\n"
-msgstr ""
-"时代变了，但歌还是那首\n"
-"歌。\n"
-
-#: codec/1/194/0xc2950/9
-msgid ""
-"\"Patria Libre o Morir\"... That is our slogan.\n"
-msgstr ""
-"“自由祖国或死亡”……这是我们的口号。\n"
-
-#: codec/1/194/0xc2950/10
-msgid ""
-"El Che used to say the same thing, you know?\n"
-msgstr ""
-"切也曾说过同样的话。\n"
-
-#: codec/1/194/0xc2950/11
-msgid ""
-"\"Patria o Muerte\"... the slogan of the Cuban\n"
-"Revolution.\n"
-msgstr ""
-"“祖国或死亡”……古巴\n"
-"革命的标语。\n"
-
-#: codec/1/194/0xc2950/12
-msgid ""
-"So you're fighting for a socialist revolution, too,\n"
-"then?\n"
-msgstr ""
-"这么说你们也是在为社会主义革命而战，\n"
-"是吗？\n"
-
-#: codec/1/194/0xc2950/13
-msgid ""
-"No. It's not about ideology. We only want to live\n"
-"normal lives.\n"
-msgstr ""
-"不。无关意识形态。我们只想\n"
-"正常生活。\n"
-
-#: codec/1/194/0xc2950/14
-msgid ""
-"We are sick of living in a country where you can\n"
-"be beaten for walking down the street.\n"
-msgstr ""
-"我们受够了生活在一个可能因为走在街上\n"
-"就被殴打的国家。\n"
-
-#: codec/1/194/0xc2950/15
-msgid ""
-"Where you never know if your neighbor is snitching\n"
-"on you.\n"
-msgstr ""
-"在那儿，你不知邻居会不会背后\n"
-"告发你。\n"
-
-#: codec/1/194/0xc2950/16
-msgid ""
-"Our goal is to give back the country to its people.\n"
-msgstr ""
-"我们的目标是把国家还给人民。\n"
-
-#: codec/1/194/0xc2950/17
-msgid ""
-"Yeah. The Cuban Revolution started out like that,\n"
-"too...\n"
-msgstr ""
-"是啊。古巴革命当初也这样开始，\n"
-"也是……\n"
-
-#: codec/1/194/0xc2950/18
-msgid ""
-"We are few in number, but we will win.\n"
-msgstr ""
-"我们人少，但会赢。\n"
-
-#: codec/1/194/0xc2950/19
-msgid ""
-"Victoria o muerte. For a revolutionary, there is no\n"
-"other fate.\n"
-msgstr ""
-"胜利或死亡。对革命者来说，没有\n"
-"别的命运。\n"
-
-#: codec/1/195/0xc3080/0
-msgid ""
-"Augusto César Sandino... general and hero of\n"
-"Nicaragua.\n"
-msgstr ""
-"奥古斯托·塞萨尔·桑地诺……尼加拉瓜的\n"
-"将军和英雄。\n"
-
-#: codec/1/195/0xc3080/1
-msgid ""
-"Fifty years ago, conflict broke out between the\n"
-"political parties of Nicaragua.\n"
-msgstr ""
-"五十年前，尼加拉瓜各政党之间\n"
-"爆发了冲突。\n"
-
-#: codec/1/195/0xc3080/2
-msgid ""
-"The U.S. Marines intervened in the name of\n"
-"restoring order.\n"
-msgstr ""
-"美国海军陆战队以恢复秩序为名\n"
-"干预。\n"
-
-#: codec/1/195/0xc3080/3
-msgid ""
-"The only one who refused to listen to their call for\n"
-"reconciliation was General Sandino.\n"
-msgstr ""
-"唯一拒绝响应他们和解呼吁的人，\n"
-"就是桑地诺将军。\n"
-
-#: codec/1/195/0xc3080/4
-msgid ""
-"One man against the Marines... That takes guts.\n"
-msgstr ""
-"一人对抗海军陆战队……真有种。\n"
-
-#: codec/1/195/0xc3080/5
-msgid ""
-"The General wasn't a professional soldier. Neither\n"
-"were his compadres.\n"
-msgstr ""
-"将军不是职业军人。他的\n"
-"兄弟们也不是。\n"
-
-#: codec/1/195/0xc3080/6
-msgid ""
-"And they certainly could not match the Marines'\n"
-"equipment.\n"
-msgstr ""
-"他们当然无法匹敌海军陆战队的\n"
-"装备。\n"
-
-#: codec/1/195/0xc3080/7
-msgid ""
-"But he used the land to his advantage, lurking in\n"
-"the fields and hills of Nicaragua,\n"
-msgstr ""
-"但他利用地形优势，潜伏在\n"
-"尼加拉瓜的田野和山丘之中，\n"
-
-#: codec/1/195/0xc3080/8
-msgid ""
-"and using surprise attacks to harass the Marines.\n"
-msgstr ""
-"用突袭骚扰海军陆战队。\n"
-
-#: codec/1/195/0xc3080/9
-msgid ""
-"I know. I've read plenty of textbooks on guerrilla\n"
-"warfare.\n"
-msgstr ""
-"我知道。我读过不少关于游击战的\n"
-"教科书。\n"
-
-#: codec/1/195/0xc3080/10
-msgid ""
-"In the end, he drove them out. He was truly a role\n"
-"model for us.\n"
-msgstr ""
-"最终，他赶走了他们。他真是我们的\n"
-"榜样。\n"
-
-#: codec/1/195/0xc3080/11
-msgid ""
-"Yeah, but that was the '30s - didn't the Depression\n"
-"have something to do with it?\n"
-msgstr ""
-"是啊，但那是30年代——大萧条\n"
-"跟这没关系吗？\n"
-
-#: codec/1/195/0xc3080/12
-msgid ""
-"It takes cash to wage war.\n"
-msgstr ""
-"打仗得花钱。\n"
-
-#: codec/1/195/0xc3080/13
-msgid ""
-"Perhaps. But there is no denying what the General\n"
-"accomplished.\n"
-msgstr ""
-"也许吧。但将军的成就\n"
-"无可否认。\n"
-
-#: codec/1/195/0xc3080/14
-msgid ""
-"The people hailed him as the \"General de Hombres\n"
-"Libres\" - the general of free men.\n"
-msgstr ""
-"人民称他为“自由人将军”\n"
-"——General de Hombres Libres。\n"
-
-#: codec/1/195/0xc3080/15
-msgid ""
-"They loved him. And then...\n"
-msgstr ""
-"他们爱戴他。然后……\n"
-
-#: codec/1/195/0xc3080/16
-msgid ""
-"He was assassinated - by Anastasio Somoza\n"
-"Garcia, commander of la Guardia.\n"
-msgstr ""
-"他被暗杀了——凶手是安纳斯塔西奥·索摩查·\n"
-"加西亚，国民警卫队司令。\n"
-
-#: codec/1/195/0xc3080/17
-msgid ""
-"The father of the current Somoza.\n"
-msgstr ""
-"现任索摩查的父亲。\n"
-
-#: codec/1/195/0xc3080/18
-msgid ""
-"Somoza had the Americans' backing. That is the\n"
-"way things were.\n"
-msgstr ""
-"索摩查有美国人的支持。事情\n"
-"就是这样。\n"
-
-#: codec/1/195/0xc3080/19
-msgid ""
-"The General may be dead, and the times may have\n"
-"changed,\n"
-msgstr ""
-"将军可能已经死了，时代可能已经\n"
-"变了，\n"
-
-#: codec/1/195/0xc3080/20
-msgid ""
-"but his will lives on inside each of us.\n"
-msgstr ""
-"但他意志活在我们每人心中。\n"
-
-#: codec/1/195/0xc3080/21
-msgid ""
-"We are the sons and daughters of General Sandino.\n"
-msgstr ""
-"我们是桑地诺将军的儿女。\n"
-
-#: codec/1/195/0xc38b0/0
-msgid ""
-"Hey. How's the watermelon business these days?\n"
-msgstr ""
-"嘿，最近西瓜生意怎么样？\n"
-
-#: codec/1/195/0xc38b0/1
-msgid ""
-"Not bad. I hear the compas back home are hanging\n"
-"in there, too.\n"
-msgstr ""
-"不错。我听说家乡的同志们也\n"
-"在坚持。\n"
-
-#: codec/1/195/0xc38b0/2
-msgid ""
-"Good to hear.\n"
-msgstr ""
-"那就好。\n"
-
-#: codec/1/195/0xc38b0/3
-msgid ""
-"...You know our nickname. I'm impressed.\n"
-msgstr ""
-"……你竟知我们绰号，佩服。\n"
-
-#: codec/1/195/0xc38b0/4
-msgid ""
-"No wonder they call you Boss.\n"
-msgstr ""
-"难怪人家叫你BOSS。\n"
-
-#: codec/1/195/0xc38b0/5
-msgid ""
-"You used to hide your weapons in hollowed-out\n"
-"watermelons,\n"
-msgstr ""
-"你们以前把武器藏在挖空的\n"
-"西瓜里，\n"
-
-#: codec/1/195/0xc38b0/6
-msgid ""
-"smuggle 'em right past the National Guard.\n"
-msgstr ""
-"就这么混过国民警卫队。\n"
-
-#: codec/1/195/0xc38b0/7
-msgid ""
-"You even transported pineapple grenades that\n"
-"way.\n"
-msgstr ""
-"你们甚至那样\n"
-"运菠萝手榴弹。\n"
-
-#: codec/1/195/0xc38b0/8
-msgid ""
-"The name caught on among sympathizers in the\n"
-"region and...\n"
-msgstr ""
-"这名字在地区同情者中\n"
-"传开，而且……\n"
-
-#: codec/1/195/0xc38b0/9
-#: codec/2/908/0x38c3b0/39
-#: codec/2/914/0x392460/18
-msgid ""
-"What are you talking about?\n"
-msgstr ""
-"你在说什么？\n"
-
-#: codec/1/195/0xc38b0/11
-msgid ""
-"They call us watermelon sellers because the\n"
-"General's name\n"
-msgstr ""
-"他们叫我们西瓜贩子，因为\n"
-"将军的名字\n"
-
-#: codec/1/195/0xc38b0/12
-msgid ""
-"sounds like the word for watermelon, sandía.\n"
-msgstr ""
-"听起来像西瓜，sandía。\n"
-
-#: codec/1/195/0xc38b0/13
-#: codec/1/215/0xd79a0/9
-msgid ""
-"...Really?\n"
-msgstr ""
-"…真？\n"
-
-#: codec/1/195/0xc38b0/14
-msgid ""
-"Si.\n"
-msgstr ""
-"是。\n"
-
-#: codec/1/195/0xc38b0/15
-msgid ""
-"Dammit, Kaz...\n"
-msgstr ""
-"可恶，卡兹…\n"
-
-#: codec/1/196/0xc4280/0
-msgid ""
-"I noticed you call Che Guevara \"El Che.\"\n"
-msgstr ""
-"你管切·格瓦拉叫“El Che”。\n"
-
-#: codec/1/196/0xc4280/1
-msgid ""
-"Not just us. Everyone in these parts does.\n"
-msgstr ""
-"不只我们。这的人都这么叫。\n"
-
-#: codec/1/196/0xc4280/2
-msgid ""
-"\"Che\" was always his nickname. It does not feel\n"
-"right to call him by his last name.\n"
-msgstr ""
-"“切”一直是他的昵称。叫他\n"
-"姓，感觉不对。\n"
-
-#: codec/1/196/0xc4280/3
-msgid ""
-"...I was shocked the first time I saw you. You look\n"
-"so much like him.\n"
-msgstr ""
-"…我第一次见你时很震惊。你太像\n"
-"他了。\n"
-
-#: codec/1/196/0xc4280/4
-msgid ""
-"I look like \"El Che\", huh?\n"
-msgstr ""
-"我像“El Che”？\n"
-
-#: codec/1/196/0xc4280/5
-msgid ""
-"Sort of. Not in the face. It's more... the way you\n"
-"carry yourself...\n"
-msgstr ""
-"有点像。不是脸。更像是…你的\n"
-"举手投足…\n"
-
-#. speaker 0x0e28dce6 voice v_bri_amd0090_000_0
-#. timeline 7397..8136
-#: codec/1/196/0xc4280/6
-msgid ""
-"I guess Che's a hero to the Sandinistas, too?\n"
-msgstr ""
-"切对桑地诺派来说也是英雄吧？\n"
-
-#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
-#. timeline 8164..10156
-#: codec/1/196/0xc4280/7
-msgid ""
-"Of course. The FSLN was formed in the spirit of\n"
-"the ideologies championed by El Che and Fidel.\n"
-msgstr ""
-"当然。FSLN正是本着El Che和\n"
-"菲德尔所倡导的思想成立的。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_amd0090_000_0
-#. timeline 10421..12775
-#: codec/1/196/0xc4280/8
-msgid ""
-"Fidel... Fidel Castro. So you're trying to bring the\n"
-"Cuban Revolution to Nicaragua.\n"
-msgstr ""
-"菲德尔…卡斯特罗。你们想把\n"
-"古巴革命带到尼加拉瓜。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
-#. timeline 12845..14642
-#: codec/1/196/0xc4280/9
-msgid ""
-"Well, we were. But Cuba isn't what it once was...\n"
-"Not since El Che left.\n"
-msgstr ""
-"曾经是。但古巴已不复当年…\n"
-"自El Che走后。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
-#. timeline 14740..16314
-#: codec/1/196/0xc4280/10
-msgid ""
-"El Che was a true revolutionary. He fought - and\n"
-"died - for the people.\n"
-msgstr ""
-"El Che是真正的革命者。他为人民\n"
-"战斗——并牺牲。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
-#. timeline 16370..17387
-#: codec/1/196/0xc4280/11
-msgid ""
-"He worked harder than anybody, and he was a\n"
-"righteous man.\n"
-msgstr ""
-"他比谁都努力，他是个\n"
-"正直的人。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
-#. timeline 17442..19045
-#: codec/1/196/0xc4280/12
-msgid ""
-"Even as a minister of Cuba, he gave up his\n"
-"weekends to work on the farms and public works.\n"
-msgstr ""
-"即使身为古巴部长，他也放弃周末\n"
-"去农场和公共工程干活。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
-#. timeline 19100..19560
-#: codec/1/196/0xc4280/13
-msgid ""
-"As a volunteer, no less.\n"
-msgstr ""
-"还是当志愿者。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_amd0090_000_0
-#. timeline 19644..20271
-#: codec/1/196/0xc4280/14
-msgid ""
-"Yeah, I've heard the stories.\n"
-msgstr ""
-"是啊，故事我听过。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_amd0090_000_0
-#. timeline 20326..21441
-#: codec/1/196/0xc4280/15
-msgid ""
-"But when you think about it, wasn't it that\n"
-"obsession that did him in?\n"
-msgstr ""
-"但想想看，不正是那份\n"
-"执念害了他吗？\n"
-
-#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
-#. timeline 21483..21831
-#. speaker 0x0ea8e31c voice v_bri_huy0010_000_0
-#. timeline 2048..2326
-#: codec/1/196/0xc4280/16
-#: codec/1/241/0xf15f0/1
-msgid ""
-"How do you mean?\n"
-msgstr ""
-"什么意思？\n"
-
-#. speaker 0x0e28dce6 voice v_bri_amd0090_000_0
-#. timeline 21887..23517
-#: codec/1/196/0xc4280/17
-msgid ""
-"We can't all be supermen. He thought the ideals he\n"
-"applied in Cuba would work in Bolivia.\n"
-msgstr ""
-"我们不可能都是超人。他以为古巴\n"
-"行得通的理想，玻利维亚也行。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_amd0090_000_0
-#. timeline 23558..25077
-#: codec/1/196/0xc4280/18
-msgid ""
-"But, he failed to win converts and the support of\n"
-"the peasants, and it cost him his life.\n"
-msgstr ""
-"但他没能争取到皈依者和\n"
-"农民的支持，为此丢了命。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
-#. timeline 25175..25927
-#: codec/1/196/0xc4280/19
-msgid ""
-"Maybe... maybe you're right.\n"
-msgstr ""
-"也许…你说得对。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
-#. timeline 26010..27278
-#: codec/1/196/0xc4280/20
-msgid ""
-"But at least he did not steal from those peasants,\n"
-"no matter how hard things got.\n"
-msgstr ""
-"但至少他没偷农民的东西，\n"
-"再难也没偷。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_amd0090_000_0
-#. timeline 27320..27473
-#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
-#. timeline 1309..1476
-#: codec/1/196/0xc4280/21
-#: codec/1/201/0xc9700/14
-#: codec/1/206/0xce040/7
-#: codec/1/225/0xe1160/2
-#: codec/1/254/0xfe0a0/1
-#: codec/2/908/0x38c3b0/12
-#: codec/2/913/0x391bb0/1
-msgid ""
-"Yeah.\n"
-msgstr ""
-"是啊。\n"

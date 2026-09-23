@@ -202,6 +202,13 @@ def collect_codec() -> list:
             continue
         if not c[col["text"]].strip():
             continue
+        # 第二种记录格式（03 号文档「脚本按引用共享」）：表尾部若干项指进
+        # 池内文本之后的二进制块，解出的串带重叠垃圾、个别还会跨过 off3。
+        # 游戏真台词都是合法 UTF-8，所以含**任何一个** U+FFFD 的行都是提取
+        # 伪影 —— 不进语料、保持英文，也避免它经 msgid 合并继承已有译文后
+        # 撑爆 codec-budget（po_lint 会点名整条记录）。
+        if "\ufffd" in c[col["text"]]:
+            continue
         ref = (f"codec/{c[col['group']]}/{c[col['sector']]}/"
                f"{c[col['off']]}/{c[col['line']]}")
         if ref in seen:

@@ -5,18 +5,19 @@
 条目引用 —— 先提交再重跑更稳妥。
 
 ```
-olang/olang_NN.po  UI 文字 + 游戏内字幕    4 个文件 /  1,513 条   能写回
-codec/codec_NN.po  CODEC / 简报台词       12 个文件 /  4,746 条   能写回
-slot/slot_NN.po    SLOT.DAT 内嵌文本      26 个文件 / 10,073 条   能写回
-stage/stage_NN.po  STAGEDAT 内嵌文本      12 个文件 /  4,522 条   【只读】
+olang/olang_NN.po  UI 文字 + 游戏内字幕    4 个文件 /  1,461 条   能写回
+codec/codec_NN.po  CODEC / 简报台词       15 个文件 /  5,911 条   能写回
+slot/slot_NN.po    SLOT.DAT 内嵌文本      24 个文件 /  9,566 条   能写回
+stage/stage_NN.po  STAGEDAT 内嵌文本      12 个文件 /  4,522 条   能写回
 gtt/gtt_NN.po      SLOT.DAT 的 GTT 池      6 个文件 /  2,238 条   能写回
 MANIFEST.tsv       分块索引（条目数 / 覆盖槽位数 / 原文字符数）
 ```
 
-合计 23,092 条。一个文件约 400 条，可以一人认领一个文件并行推进。
+合计 23,698 条。一个文件约 400 条，可以一人认领一个文件并行推进。
 
-> 下一次 `po_export` 会降到 22,533 条：那 559 条是像素字体槽位，按 §15 的结论
-> 不再导出（详见文末「有一批文字不要译」）。
+> 2026-09-23：codec 从 4,746 涨到 5,911 —— CODEC 容器里还藏着第二种
+> 记录格式（脚本按引用共享），此前被提取器的入口白名单误杀，585 条记录、
+> 约 1,200 句台词补收进语料，详见 `research/ANALYSIS/03_codec.md` §10。
 
 `slot/` 里带 `#. comic cutscene` 注释的那 1,858 条是**过场（漫画）台词**，
 主体在 `slot_05`–`slot_10`；其余是同一批内嵌文本里的 UI 说明文。

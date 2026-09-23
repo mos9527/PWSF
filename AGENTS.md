@@ -6,7 +6,7 @@ METAL GEAR SOLID PEACE WALKER (STEAM) 本土化工作
 - [x] UI 文字【提取】 → `research/ANALYSIS/_dump_olang.tsv`（137,358 行）
 - [x] 字幕文字【提取】 → `research/ANALYSIS/subtitle_ingame.tsv`（4,128 行）
       影片字幕在 Steam 版无数据，见 `research/ANALYSIS/02_movie_subtitle.md` §6.1
-- [x] CODEC【提取】 → `research/ANALYSIS/_briefing_lines.tsv`（24,438 行）
+- [x] CODEC【提取】 → `research/ANALYSIS/_briefing_lines.tsv`（39,887 行）
 - [x] 写回链路实机验证：olang 文本 + 字体扩字形
 - [x] 汉化管线闭环：`pwsf.po_lint` / `po_import` / `install`，见 `research/PLANS/06` §9
 - [x] 可分发补丁 `pwsf.patch`：整文件打包 + 两个静态 `.bat`（install/restore），
@@ -69,9 +69,10 @@ research/
 - 汉化管线 olang 与过场两侧都已闭环：在 `.po` 里填译文 → 校验 → 编译
   （重建文本表 / 重建 `SLOT.DAT`（544 MB）+ 自动补字形，`--rebuild-font`
   可整表重建字库）→ 备份后装入游戏 → 一键还原
-- CODEC 已闭环：2049 条记录 / 24,438 行全量导出，`briefing_build` 原地重写
-  文本池写回 `0076531d.DAT`（产物与原文等长，改动仅限目标记录的池区间）。
-  唯一硬约束是池预算：两个 en 块只剩 555 字节余量，译文必须比英文短
+- CODEC 已闭环：2634 条记录 / 39,887 行全量导出（2026-09-23 收编第二种
+  记录格式，此前被入口启发式误杀 585 条，见 `ANALYSIS/03_codec.md` §10），
+  `briefing_build` 原地重写文本池写回 `0076531d.DAT`（产物与原文等长，
+  改动仅限目标记录的池区间）。唯一硬约束是池预算：译文必须比英文短
   （`ANALYSIS/03_codec.md` §9）
 
 过场文字不在磁盘那 17 个 `.olang` 里，而是塞在 `MLG/disc0_rel/002aba34.DAT`
@@ -80,8 +81,8 @@ research/
 
 # Layout (detail)
 ```
-src/         翻译工作区，40 个分块 .po（olang 4 + codec 12 + slot 24）
-             译者须知见 src/README.md
+src/         翻译工作区，61 个分块 .po（olang 4 + codec 15 + slot 24
+             + stage 12 + gtt 6）；译者须知见 src/README.md
 ```
 
 # Config
@@ -160,6 +161,7 @@ python research\TOOLS\_probe_po4.py   # 每条校验各自触发，正确译文�
 python research\TOOLS\_probe_po5.py   # 安装状态机与拒绝路径
 python research\TOOLS\_probe_bri53.py # CODEC 池预算 + 写回是恒等变换
 python research\TOOLS\_probe_bri54.py # CODEC 回写端到端（含 lint 拦截）
+python research\TOOLS\_probe_bri55.py # 第二种记录格式：入口白名单误杀 621 头
 python research\TOOLS\_probe_gtt7.py  # GTT 462 池往返字节一致 + 预算分布
 python research\TOOLS\_poc_gtt_writeback.py       # GTT 端到端写回 SLOT.DAT
 python research\TOOLS\_poc_gtt_writeback.py --lint # gtt-budget 拦截冒烟
@@ -177,14 +179,14 @@ python research\TOOLS\_probe_stagedat_inner.py --dump-dir research\BUILD\x --dum
 ```
 src/
   olang/olang_01..04.po   UI 文字 + 游戏内字幕    1,461 条   能写回
-  codec/codec_01..12.po   CODEC / 简报台词        4,746 条   能写回（池预算紧，见下）
+  codec/codec_01..15.po   CODEC / 简报台词        5,911 条   能写回（池预算紧，见下）
   slot/slot_01..24.po     SLOT.DAT 内嵌文本       9,566 条   能写回（过场 1,858 条）
   stage/stage_01..12.po   STAGEDAT 内嵌文本       4,522 条   能写回（pwsf.stage_build 重建容器）
   gtt/gtt_01..06.po       SLOT.DAT 的 GTT 池       2,238 条  能写回（行内原地，见下）
   MANIFEST.tsv            分块索引
 ```
 
-合计 22,533 条。**只改这些子目录里的 `.po`**，往 `msgstr ""` 里填中文。
+合计 23,698 条。**只改这些子目录里的 `.po`**，往 `msgstr ""` 里填中文。
 
 > `gtt/` 是 2026-09-21 才挖出来的第四套语料（`ANALYSIS/11_gtt_text.md`）：任务内
 > 无线台与提示台词，原先谁都没提取过 —— `slotdat_find_res_entry` 只认 `0x20` 类

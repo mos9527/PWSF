@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PWSF codec 5/12\n"
+"Project-Id-Version: PWSF codec 5/15\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -8,6 +8,1667 @@ msgstr ""
 "X-PWSF-Source: codec\n"
 "X-PWSF-Entries: 400\n"
 
+
+#: codec/1/190/0xbecf0/9
+msgid ""
+"Why do you think they're called \"sloths\"?\n"
+msgstr ""
+
+#: codec/1/190/0xbecf0/10
+msgid ""
+"They hardly move, so they hardly burn any energy.\n"
+msgstr ""
+
+#: codec/1/190/0xbecf0/11
+msgid ""
+"They're also able to maintain a low body\n"
+"temperature, lowering their metabolism further,\n"
+msgstr ""
+
+#: codec/1/190/0xbecf0/12
+msgid ""
+"and allowing them to survive on very little.\n"
+msgstr ""
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
+#. timeline 445..1309
+#: codec/1/191/0xbf3b0/0
+msgid ""
+"La Ruinas de Xochiquetzal will be around there.\n"
+msgstr ""
+"索奇克察尔遗迹就在那附近。\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
+#. timeline 1337..2619
+#: codec/1/191/0xbf3b0/1
+msgid ""
+"They have not been restored at all, so they may\n"
+"well be covered in plants.\n"
+msgstr ""
+"它们完全没被修复过，所以很可能\n"
+"被植物覆盖了。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_paz0230_000_0
+#. timeline 2702..3106
+#: codec/1/191/0xbf3b0/2
+msgid ""
+"Xochiquetzal?\n"
+msgstr ""
+"索奇克察尔？\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
+#. timeline 3134..3970
+#: codec/1/191/0xbf3b0/3
+msgid ""
+"An Aztec goddess of fertility and beauty.\n"
+msgstr ""
+"阿兹特克的丰饶与美丽女神。\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
+#. timeline 4068..5154
+#: codec/1/191/0xbf3b0/4
+msgid ""
+"They say she was always accompanied by birds\n"
+"and butterflies.\n"
+msgstr ""
+"据说她身边总有鸟儿\n"
+"和蝴蝶相伴。\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
+#. timeline 5210..6506
+#: codec/1/191/0xbf3b0/5
+msgid ""
+"One theory states she was the mother of the god\n"
+"known as Quetzalcoatl.\n"
+msgstr ""
+"有一种说法称她是神明\n"
+"魁札尔科亚特尔之母。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_paz0230_000_0
+#. timeline 6575..6993
+#: codec/1/191/0xbf3b0/6
+msgid ""
+"Quetzalcoatl...\n"
+msgstr ""
+"羽蛇神……\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
+#. timeline 7035..8400
+#: codec/1/191/0xbf3b0/7
+msgid ""
+"The quetzal is said to be an incarnation of\n"
+"Quetzalcoatl, hence its name.\n"
+msgstr ""
+"凤尾绿咬鹃据说是羽蛇神的化身，\n"
+"因此得名。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_paz0230_000_0
+#. timeline 8442..10309
+#: codec/1/191/0xbf3b0/8
+msgid ""
+"I get it. Well, this place definitely matches the\n"
+"atmosphere of a cloud forest.\n"
+msgstr ""
+"明白了。这地方确实符合\n"
+"云雾林的气氛。\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
+#. timeline 10323..11535
+#: codec/1/191/0xbf3b0/9
+msgid ""
+"Now, it may have seen better days, but that is still\n"
+"a temple.\n"
+msgstr ""
+"虽说它已不复往昔，但那仍是\n"
+"一座神庙。\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
+#. timeline 11591..12399
+#: codec/1/191/0xbf3b0/10
+msgid ""
+"So, be sure to show respect when you're inside.\n"
+msgstr ""
+"所以进去后务必表示敬意。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_paz0230_000_0
+#. timeline 12427..12901
+#: codec/1/191/0xbf3b0/11
+msgid ""
+"If the mood strikes me.\n"
+msgstr ""
+"看我心情。\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
+#. timeline 12956..14001
+#: codec/1/191/0xbf3b0/12
+msgid ""
+"Hmph! Well, you've got no one to blame but yourself\n"
+msgstr ""
+"哼！那要是索奇克察尔惩罚你，\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
+#. timeline 14043..14698
+#: codec/1/191/0xbf3b0/13
+msgid ""
+"if Xochiquetzal strikes you down.\n"
+msgstr ""
+"你也只能怪自己。\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0240_000_0
+#. timeline 445..1434
+#: codec/1/191/0xbf890/0
+msgid ""
+"I do not know if I recall such large ruins being\n"
+"there...\n"
+msgstr ""
+"我不记得那里有\n"
+"如此庞大的遗迹……\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_paz0240_000_0
+#. timeline 1630..2897
+#: codec/1/191/0xbf890/1
+msgid ""
+"Well, didn't you say there's a lot we don't know\n"
+"about Costa Rica's ancient civilizations?\n"
+msgstr ""
+"你不是说哥斯达黎加的古文明\n"
+"还有很多未知吗？\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_paz0240_000_0
+#. timeline 2925..4193
+#: codec/1/191/0xbf890/2
+msgid ""
+"You talked about some giant stone balls, too. What\n"
+"are those?\n"
+msgstr ""
+"你也提到过一些巨大的石球。那些\n"
+"是什么？\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0240_000_0
+#. timeline 4235..5154
+#: codec/1/191/0xbf890/3
+msgid ""
+"Oh, the Stone Spheres of Costa Rica?\n"
+msgstr ""
+"哦，哥斯达黎加石球？\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0240_000_0
+#. timeline 5266..6074
+#: codec/1/191/0xbf890/4
+msgid ""
+"They're an assortment of giant spheres carved\n"
+"from stone\n"
+msgstr ""
+"它们是一批石雕的巨大球体，\n"
+"种类繁多\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0240_000_0
+#. timeline 6074..7383
+#: codec/1/191/0xbf890/5
+msgid ""
+"that were discovered in the jungles of Costa Rica\n"
+"about 50 years ago.\n"
+msgstr ""
+"大约50年前在哥斯达黎加的丛林中被\n"
+"发现。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_paz0240_000_0
+#. timeline 7411..7941
+#: codec/1/191/0xbf890/6
+msgid ""
+"What's so special about that?\n"
+msgstr ""
+"那有什么特别的？\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0240_000_0
+#. timeline 7983..9041
+#: codec/1/191/0xbf890/7
+msgid ""
+"What if I told you some of them are nearly perfect\n"
+"spheres?\n"
+msgstr ""
+"如果我告诉你其中一些几乎是完美\n"
+"球体呢？\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0240_000_0
+#. timeline 9167..10407
+#: codec/1/191/0xbf890/8
+msgid ""
+"And that they were carved out of granite, which is\n"
+"quite a hard substance.\n"
+msgstr ""
+"而且它们由花岗岩雕成，这是一种\n"
+"相当坚硬的物质。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_paz0240_000_0
+#. timeline 10448..11493
+#: codec/1/191/0xbf890/9
+msgid ""
+"Hmm, could be good for laying a trap.\n"
+msgstr ""
+"嗯，用来设陷阱不错。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_paz0240_000_0
+#. timeline 11605..12483
+#: codec/1/191/0xbf890/10
+msgid ""
+"And if they're spherical, they'd roll easily, too...\n"
+msgstr ""
+"球形的还容易滚动……\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0240_000_0
+#. timeline 12496..12845
+#. speaker 0x0e3bb338 voice 
+#. timeline 1017..1281
+#: codec/1/191/0xbf890/11
+#: codec/1/276/0x1145f0/4
+#: codec/2/902/0x3861c0/8
+#: codec/2/903/0x3879e0/1
+#: codec/2/908/0x38c3b0/0
+#: codec/2/909/0x38db70/0
+#: codec/2/910/0x38e660/0
+#: codec/2/911/0x38f200/0
+#: codec/2/911/0x38f200/14
+#: codec/2/923/0x39b540/8
+msgid ""
+"Snake...\n"
+msgstr ""
+"SNAKE\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_paz0250_000_0
+#. timeline 445..1365
+#: codec/1/191/0xbfcf0/0
+msgid ""
+"So tell me, what do they mine around here?\n"
+msgstr ""
+"那这附近采什么矿？\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0250_000_0
+#. timeline 1393..1936
+#: codec/1/191/0xbfcf0/1
+msgid ""
+"Gold, if I am not mistaken.\n"
+msgstr ""
+"没记错，是金矿。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_paz0250_000_0
+#. timeline 1978..3733
+#: codec/1/191/0xbfcf0/2
+msgid ""
+"Gold?! No kidding. I wonder what'd be the fastest\n"
+"way to...\n"
+msgstr ""
+"黄金？！没开玩笑吧。我想知道最快的\n"
+"办法是什么……\n"
+
+#: codec/1/191/0xbfcf0/3
+msgid ""
+"I do not know how much success they've had.\n"
+msgstr ""
+"不知道他们收益如何。\n"
+
+#: codec/1/191/0xbfcf0/4
+msgid ""
+"You do not hear of anyone still operating mines\n"
+"around here.\n"
+msgstr ""
+"你没听说这附近还有人仍在经营\n"
+"矿场。\n"
+
+#: codec/1/191/0xbfcf0/6
+msgid ""
+"Generally speaking, people here are not too thrilled\n"
+"with outside capital\n"
+msgstr ""
+"一般来说，这里的人对外来资本\n"
+"并不太欢迎\n"
+
+#: codec/1/191/0xbfcf0/7
+msgid ""
+"coming in and taking away the country's natural\n"
+"resources.\n"
+msgstr ""
+"进来并拿走这个国家的自然\n"
+"资源。\n"
+
+#: codec/1/191/0xbfcf0/8
+msgid ""
+"Four years ago, a group of protestors hurled\n"
+"stones at the parliament building\n"
+msgstr ""
+"四年前，一群抗议者向\n"
+"议会大楼投掷石块\n"
+
+#: codec/1/191/0xbfcf0/9
+msgid ""
+"when people found out the country had been\n"
+"bestowing mining rights to foreign companies.\n"
+msgstr ""
+"当人们发现这个国家一直在\n"
+"将采矿权授予外国公司时。\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0260_000_0
+#. timeline 445..1783
+#: codec/1/192/0xc00b0/0
+msgid ""
+"They must have had to clear a considerable\n"
+"amount of forest to open up that mine.\n"
+msgstr ""
+"他们肯定不得不清理相当\n"
+"数量的森林来开辟那座矿场。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_paz0260_000_0
+#. timeline 2020..3092
+#: codec/1/192/0xc00b0/1
+msgid ""
+"No doubt. So much for any hiding places, too.\n"
+msgstr ""
+"没错。藏身之处也没了。\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0260_000_0
+#. timeline 3120..4207
+#: codec/1/192/0xc00b0/2
+msgid ""
+"And it is not just the forest. Without the proper\n"
+"precautions,\n"
+msgstr ""
+"而且不仅是森林。如果没有适当\n"
+"预防措施，\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0260_000_0
+#. timeline 4277..5113
+#: codec/1/192/0xc00b0/3
+msgid ""
+"the mine's waste water could pollute the\n"
+"groundwater.\n"
+msgstr ""
+"矿场的废水可能会污染\n"
+"地下水。\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0260_000_0
+#. timeline 5182..6339
+#: codec/1/192/0xc00b0/4
+msgid ""
+"And to top it all off, they're developing nuclear\n"
+"weapons there, too.\n"
+msgstr ""
+"最糟糕的是，他们还在那里开发核\n"
+"武器。\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0260_000_0
+#. timeline 6450..7328
+#: codec/1/192/0xc00b0/5
+msgid ""
+"How can people care so little about their own\n"
+"country?\n"
+msgstr ""
+"人们怎么能对自己国家\n"
+"如此漠不关心？\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_paz0260_000_0
+#. timeline 7370..8038
+#: codec/1/192/0xc00b0/6
+msgid ""
+"...I'm not the one to ask about that.\n"
+msgstr ""
+"……这问题别问我。\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0260_000_0
+#. timeline 8038..8930
+#: codec/1/192/0xc00b0/7
+msgid ""
+"Well, you may have abandoned your country,\n"
+msgstr ""
+"你也许抛弃了自己的国家，\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0260_000_0
+#. timeline 9055..9752
+#: codec/1/192/0xc00b0/8
+msgid ""
+"but you still treasure where you came from.\n"
+msgstr ""
+"但你依然珍视自己的故乡。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_paz0260_000_0
+#. timeline 10198..10504
+#: codec/1/192/0xc00b0/9
+#: codec/1/235/0xeb860/10
+#: codec/2/914/0x392460/23
+msgid ""
+"You think so?\n"
+msgstr ""
+"是吗？\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0260_000_0
+#. timeline 10518..11312
+#: codec/1/192/0xc00b0/10
+msgid ""
+"Sure. I know you do.\n"
+msgstr ""
+"当然。我知道你是这样。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_paz0260_000_0
+#. timeline 11424..13931
+#: codec/1/192/0xc00b0/11
+msgid ""
+"Paz, you... I... Whatever you do, never stop loving\n"
+"your country.\n"
+msgstr ""
+"帕兹，你……我……无论你做什么，永远不要停止热爱\n"
+"your country。\n"
+
+#: codec/1/192/0xc04e0/0
+msgid ""
+"Since it was founded, my country has not once\n"
+"been able to choose its own path.\n"
+msgstr ""
+"自建国以来，我的国家从未\n"
+"能够选择自己的道路。\n"
+
+#: codec/1/192/0xc04e0/1
+msgid ""
+"First Spain, then America. Over one hundred years\n"
+"of this...\n"
+msgstr ""
+"先是西班牙，然后是美洲。一百多年来\n"
+"都是如此……\n"
+
+#: codec/1/192/0xc04e0/2
+#: codec/1/197/0xc5540/11
+msgid ""
+"I know.\n"
+msgstr ""
+"我知道。\n"
+
+#: codec/1/192/0xc04e0/3
+msgid ""
+"In the 19th century,\n"
+msgstr ""
+"19世纪，\n"
+
+#: codec/1/192/0xc04e0/4
+msgid ""
+"an American mercenary named William Walker\n"
+"seized power in Nicaragua.\n"
+msgstr ""
+"一位名叫威廉·沃克的美国雇佣兵\n"
+"夺取了尼加拉瓜的政权。\n"
+
+#: codec/1/192/0xc04e0/5
+msgid ""
+"I'd heard he exploited rivalries between the political\n"
+"parties.\n"
+msgstr ""
+"我听说他利用了政党之间的\n"
+"敌对关系。\n"
+
+#: codec/1/192/0xc04e0/6
+msgid ""
+"Even after we expelled him,\n"
+msgstr ""
+"即便我们赶走他，\n"
+
+#: codec/1/192/0xc04e0/7
+msgid ""
+"the Americans sent in their Marines under the\n"
+"pretext of quelling political unrest.\n"
+msgstr ""
+"美国人以平息政治动乱为\n"
+"借口，派出了他们的海军陆战队。\n"
+
+#: codec/1/192/0xc04e0/8
+msgid ""
+"And the real reason?\n"
+msgstr ""
+"真正原因？\n"
+
+#: codec/1/192/0xc04e0/9
+msgid ""
+"To intimidate the government and thwart the\n"
+"construction of the Nicaragua Canal.\n"
+msgstr ""
+"为了恐吓政府并阻挠\n"
+"尼加拉瓜运河的建设。\n"
+
+#: codec/1/192/0xc0880/0
+msgid ""
+"I thought the U.S. already has the rights to build a\n"
+"canal in Nicaragua...\n"
+msgstr ""
+"我以为美国已经拥有在尼加拉瓜\n"
+"修建运河的权利……\n"
+
+#: codec/1/192/0xc0880/1
+msgid ""
+"They never intended to build a canal there. They\n"
+"had already started digging in Panama.\n"
+msgstr ""
+"他们从未打算在那里修建运河。他们\n"
+"已经在巴拿马开始挖掘了。\n"
+
+#: codec/1/192/0xc0880/2
+msgid ""
+"A canal in Nicaragua would break up the Panama\n"
+"Canal's monopoly,\n"
+msgstr ""
+"尼加拉瓜的运河会打破巴拿马\n"
+"运河的垄断，\n"
+
+#: codec/1/192/0xc0880/3
+msgid ""
+"reason enough for America to stick its nose into\n"
+"our affairs.\n"
+msgstr ""
+"这足以让美国插手\n"
+"我们的事务。\n"
+
+#: codec/1/192/0xc0880/4
+msgid ""
+"They snagged the rights so nobody else could\n"
+"build there...\n"
+msgstr ""
+"他们抢了权利，别人就没法\n"
+"在那修建……\n"
+
+#: codec/1/192/0xc0880/5
+msgid ""
+"It was General Sandino who finally stood up to los\n"
+"yanquis.\n"
+msgstr ""
+"是桑地诺将军最终挺身对抗\n"
+"美国佬。\n"
+
+#: codec/1/192/0xc0b40/0
+msgid ""
+"General Sandino waged a guerrilla war against the\n"
+"Marines,\n"
+msgstr ""
+"桑地诺将军对海军陆战队\n"
+"发动了游击战，\n"
+
+#: codec/1/192/0xc0b40/1
+msgid ""
+"at last driving them out. He was a true hero, and -\n"
+"to us Sandinistas - like a father.\n"
+msgstr ""
+"最终赶走了他们。他是真英雄，\n"
+"对我们桑地诺人，就像父亲。\n"
+
+#: codec/1/192/0xc0b40/2
+msgid ""
+"But when they pulled out, the Americans left us\n"
+"something to remember them by.\n"
+msgstr ""
+"但他们撤走时，美国人留给我们\n"
+"一样东西作纪念。\n"
+
+#: codec/1/192/0xc0b40/3
+msgid ""
+"The National Guard.\n"
+msgstr ""
+"国民警卫队。\n"
+
+#: codec/1/192/0xc0b40/4
+msgid ""
+"Yes, la Guardia. In name, a peacekeeping force.\n"
+msgstr ""
+"没错，国民警卫队。名义上是维和部队。\n"
+
+#: codec/1/192/0xc0b40/5
+msgid ""
+"But in reality, Commander Somoza's personal army,\n"
+"answering to no one else.\n"
+msgstr ""
+"实际上是索摩查司令的私人军队，\n"
+"只听命于他一人。\n"
+
+#: codec/1/192/0xc0b40/6
+msgid ""
+"Unable to stay silent, General Sandino went to\n"
+"protest...\n"
+msgstr ""
+"桑地诺将军无法保持沉默，前去\n"
+"抗议……\n"
+
+#: codec/1/192/0xc0b40/7
+msgid ""
+"and was assassinated by Somoza as he made his\n"
+"way home.\n"
+msgstr ""
+"并在回家的路上\n"
+"被索摩查暗杀。\n"
+
+#: codec/1/192/0xc0b40/8
+msgid ""
+"It was then that Somoza and los sapos\n"
+msgstr ""
+"就在那时，索摩查和蟾蜍\n"
+
+#: codec/1/192/0xc0b40/9
+msgid ""
+"began to eat our country alive, from the inside.\n"
+msgstr ""
+"开始从内部活活吞噬我们的国家。\n"
+
+#: codec/1/192/0xc0f10/0
+msgid ""
+"It has been 40 years since the Somoza family\n"
+"became the rulers of Nicaragua.\n"
+msgstr ""
+
+#: codec/1/193/0xc16a0/0
+msgid ""
+"The first Somoza was originally no more than the\n"
+"commander of la Guardia.\n"
+msgstr ""
+"第一代索摩查原本不过是\n"
+"国民警卫队的司令。\n"
+
+#: codec/1/193/0xc16a0/1
+msgid ""
+"Ordinarily, a man of his station could never hope to\n"
+"become president.\n"
+msgstr ""
+"按常理，以他的身份绝无可能\n"
+"当上总统。\n"
+
+#: codec/1/193/0xc16a0/2
+msgid ""
+"But the president at the time had no power to\n"
+"back him.\n"
+msgstr ""
+"但当时的总统无力\n"
+"支持他。\n"
+
+#: codec/1/193/0xc16a0/3
+msgid ""
+"The only one with the strength to oppose him was\n"
+"General Sandino.\n"
+msgstr ""
+"唯一有力量反对他的，只有\n"
+"桑地诺将军。\n"
+
+#: codec/1/193/0xc16a0/4
+msgid ""
+"....No. Better to say the General was the only one\n"
+"who dared oppose him.\n"
+msgstr ""
+"……不。不如说，将军是唯一\n"
+"敢于反对他的人。\n"
+
+#: codec/1/193/0xc16a0/5
+msgid ""
+"There was nothing special about him.\n"
+msgstr ""
+"他并没有什么特别之处。\n"
+
+#: codec/1/193/0xc16a0/6
+msgid ""
+"Above all, it takes a strong will to see justice done.\n"
+"That is what he taught us.\n"
+msgstr ""
+"关键是，伸张正义需坚强意志。\n"
+"这是他教我们的。\n"
+
+#: codec/1/193/0xc16a0/7
+msgid ""
+"It's also what motivated Somoza to have him killed...\n"
+msgstr ""
+"也正是这一点促使索摩查杀了他……\n"
+
+#: codec/1/193/0xc16a0/8
+msgid ""
+"Yes. The rest was easy. He got rid of the\n"
+"president, taking office in a sham election.\n"
+msgstr ""
+"是的。剩下的就简单了。他除掉了\n"
+"总统，靠一场假选举上台。\n"
+
+#: codec/1/193/0xc16a0/9
+msgid ""
+"And once he had power, he never gave it up.\n"
+msgstr ""
+"一旦掌权，他就再也没放手。\n"
+
+#: codec/1/193/0xc16a0/10
+msgid ""
+"Talk about heavy-handed.\n"
+msgstr ""
+"真是够强硬的。\n"
+
+#: codec/1/193/0xc16a0/11
+msgid ""
+"He had the Americans backing him, that's why.\n"
+msgstr ""
+"那是因为有美国人给他撑腰。\n"
+
+#: codec/1/193/0xc16a0/12
+msgid ""
+"They didn't want to hand over power to a\n"
+"rebellious general.\n"
+msgstr ""
+"他们不想把权力交给一个\n"
+"叛逆的将军。\n"
+
+#: codec/1/193/0xc16a0/13
+msgid ""
+"Even so, it's hard to believe Washington would give\n"
+"its blessing to a guy like that.\n"
+msgstr ""
+"即便如此，也很难相信华盛顿会\n"
+"祝福那种家伙。\n"
+
+#: codec/1/193/0xc16a0/14
+msgid ""
+"The American President at the time put it this way:\n"
+msgstr ""
+"当时的美国总统是这么说的：\n"
+
+#: codec/1/193/0xc16a0/15
+msgid ""
+"\"Somoza may be a son of a bitch, but he's our son\n"
+"of a bitch.\"\n"
+msgstr ""
+"“索摩查也许是个狗娘养的，但他是\n"
+"咱们的狗娘养的。”\n"
+
+#: codec/1/193/0xc16a0/16
+msgid ""
+"In other words, better a dog or los sapos (Somoza\n"
+"and counter-revolutionaries)\n"
+msgstr ""
+"换句话说，宁可要条狗或蟾蜍（索摩查\n"
+"和反革命分子）\n"
+
+#: codec/1/193/0xc16a0/17
+msgid ""
+"than an anti-US regime.\n"
+msgstr ""
+"比反美政权更甚。\n"
+
+#: codec/1/193/0xc1d60/0
+msgid ""
+"The Managua Earthquake struck two years ago,\n"
+"the day before Christmas Eve.\n"
+msgstr ""
+
+#: codec/1/193/0xc1d60/1
+msgid ""
+"Giant cracks opened up in the streets.\n"
+msgstr ""
+
+#: codec/1/193/0xc1d60/2
+msgid ""
+"Sleeping children were crushed in collapsing\n"
+"houses.\n"
+msgstr ""
+
+#: codec/1/193/0xc1d60/3
+msgid ""
+"No chance to escape. No visit from Santa Claus.\n"
+msgstr ""
+
+#: codec/1/193/0xc1d60/4
+msgid ""
+"Thanks to Somoza, the old houses could not even\n"
+"get rebuilt... It was a nightmare.\n"
+msgstr ""
+
+#: codec/1/193/0xc1d60/5
+msgid ""
+"I heard the epicenter was right in the middle of the\n"
+"city.\n"
+msgstr ""
+
+#: codec/1/193/0xc1d60/6
+msgid ""
+"Even today, it's too dangerous to build on top of\n"
+"the fault line.\n"
+msgstr ""
+
+#: codec/1/193/0xc1d60/7
+msgid ""
+"The city center is still in ruins.\n"
+msgstr ""
+
+#: codec/1/193/0xc1d60/8
+msgid ""
+"And to make things worse, Somoza stole the\n"
+"recovery money.\n"
+msgstr ""
+
+#: codec/1/193/0xc1d60/9
+msgid ""
+"We must not fail. We owe it to those who lost their\n"
+"lives.\n"
+msgstr ""
+
+#: codec/1/194/0xc2170/0
+msgid ""
+"The river that flows between Nicaragua and Costa\n"
+"Rica is el Río San Juan.\n"
+msgstr ""
+"流经尼加拉瓜和哥斯\n"
+"黎巴嫩之间的河流是圣胡安河。\n"
+
+#: codec/1/194/0xc2170/1
+msgid ""
+"It connects Lago Cocibolca to el Mar Caribe.\n"
+msgstr ""
+"它连接科西博尔卡湖与加勒比海。\n"
+
+#: codec/1/194/0xc2170/2
+msgid ""
+"It is a gentle river, safe even for small boats. You\n"
+"have to watch out for the sharks, though.\n"
+msgstr ""
+"这是一条平缓的河流，连小船也能安全通行。不过\n"
+"你得小心鲨鱼。\n"
+
+#: codec/1/194/0xc2170/3
+msgid ""
+"Sharks? In a river?\n"
+msgstr ""
+"鲨鱼？在河？\n"
+
+#: codec/1/194/0xc2170/4
+msgid ""
+"El tiburón toro live in the river. But there's nothing\n"
+"to fear. San Juan will protect you always.\n"
+msgstr ""
+"公牛鲨生活在河里。但没什么\n"
+"好怕的。圣胡安会永远保护你。\n"
+
+#: codec/1/194/0xc2170/5
+msgid ""
+"Juan?\n"
+msgstr ""
+"胡安？\n"
+
+#: codec/1/194/0xc2170/6
+msgid ""
+"The Rio San Juan takes its name from San Juan,\n"
+"the man who baptized Jesús.\n"
+msgstr ""
+"圣胡安河得名于圣胡安，\n"
+"就是为耶稣施洗的人。\n"
+
+#: codec/1/194/0xc2170/7
+msgid ""
+"The man you call John the Baptist in your country.\n"
+msgstr ""
+"在你们国家叫施洗约翰。\n"
+
+#: codec/1/194/0xc2170/8
+msgid ""
+"John, huh... I'll be careful anyway. I'd hate to drown\n"
+"- end up a John Doe.\n"
+msgstr ""
+"约翰，嗯……我还是小心点。我可不想淹死\n"
+"成无名氏。\n"
+
+#: codec/1/194/0xc2510/0
+msgid ""
+"There is a volcanic island in Lago Cocibolca called\n"
+"Ometepe.\n"
+msgstr ""
+"科西博尔卡湖有座火山岛，名叫\n"
+"奥梅特佩。\n"
+
+#: codec/1/194/0xc2510/1
+msgid ""
+"It's formed from two connected volcanoes, shaped\n"
+"like a porongo (gourd).\n"
+msgstr ""
+"它由两座相连火山构成，形状\n"
+"像葫芦（porongo）。\n"
+
+#: codec/1/194/0xc2510/2
+msgid ""
+"The one with smoke coming out of it?\n"
+msgstr ""
+"就是那座冒烟的？\n"
+
+#: codec/1/194/0xc2510/3
+msgid ""
+"That's the one. The smoking volcano is\n"
+"Concepción. It erupts once in a while.\n"
+msgstr ""
+"就是那座。冒烟的火山是\n"
+"康塞普西翁。它偶尔喷发。\n"
+
+#: codec/1/194/0xc2510/4
+msgid ""
+"The other one is Maderas.\n"
+msgstr ""
+"另一座是马德拉斯。\n"
+
+#: codec/1/194/0xc2510/5
+msgid ""
+"It's never erupted in recorded history. There's a\n"
+"lake in the caldera at the top.\n"
+msgstr ""
+"有历史记录以来它从未喷发过。山顶的\n"
+"火山口里有一个湖。\n"
+
+#: codec/1/194/0xc2510/6
+msgid ""
+"A crater lake... Let's hope there's not another\n"
+"underground factory inside...\n"
+msgstr ""
+"火山口湖……希望里面没有另一个\n"
+"地下工厂……\n"
+
+#: codec/1/194/0xc2510/7
+msgid ""
+"Don't say that!\n"
+msgstr ""
+"别这么说！\n"
+
+#: codec/1/194/0xc2510/8
+msgid ""
+"If Peace Walker's nukes detonated there, it would\n"
+"destabilize the magma underneath.\n"
+msgstr ""
+"如果和平行者号的核弹在那里引爆，会\n"
+"破坏下方岩浆的稳定。\n"
+
+#: codec/1/194/0xc2510/9
+msgid ""
+"It could cause the volcano to erupt again.\n"
+msgstr ""
+"可能导致火山再次喷发。\n"
+
+#: codec/1/194/0xc2510/10
+msgid ""
+"If that happens, my country is doomed. Snake, you\n"
+"must stop Peace Walker!\n"
+msgstr ""
+"那样我国就完了。斯内克，你\n"
+"必须阻止和平行者！\n"
+
+#: codec/1/194/0xc2950/0
+msgid ""
+"We are Sandinistas, the heirs of General Sandino's\n"
+"will.\n"
+msgstr ""
+"我们是桑地诺人，继承桑地诺将军\n"
+"遗志。\n"
+
+#: codec/1/194/0xc2950/1
+msgid ""
+"Sandino... the father of modern guerrilla warfare.\n"
+msgstr ""
+"桑地诺……现代游击战之父。\n"
+
+#: codec/1/194/0xc2950/2
+msgid ""
+"To you, maybe. To us, he's more like a real father.\n"
+msgstr ""
+"对你或许。对我们，他更像真父亲。\n"
+
+#: codec/1/194/0xc2950/3
+msgid ""
+"That why you named yourselves after him?\n"
+msgstr ""
+"所以你们以他命名？\n"
+
+#: codec/1/194/0xc2950/4
+msgid ""
+"Of course. La Frente Sandinista de Liberación\n"
+"Nacional...\n"
+msgstr ""
+"当然。桑地诺民族解放\n"
+"阵线……\n"
+
+#: codec/1/194/0xc2950/5
+msgid ""
+"the Sandinista National Liberation Front is named\n"
+"in his honor.\n"
+msgstr ""
+"桑地诺民族解放阵线以\n"
+"他命名，以示纪念。\n"
+
+#: codec/1/194/0xc2950/6
+msgid ""
+"We share the General's goal - to take back our\n"
+"country's freedom.\n"
+msgstr ""
+"我们和将军目标一致，夺回我们\n"
+"国家的自由。\n"
+
+#: codec/1/194/0xc2950/7
+msgid ""
+"In his day, from America. In ours, from the despot\n"
+"Somoza.\n"
+msgstr ""
+"他那时，敌人来自美国。我们这时，敌人是暴君\n"
+"索摩查。\n"
+
+#: codec/1/194/0xc2950/8
+msgid ""
+"Times have changed, but the song remains the\n"
+"same.\n"
+msgstr ""
+"时代变了，但歌还是那首\n"
+"歌。\n"
+
+#: codec/1/194/0xc2950/9
+msgid ""
+"\"Patria Libre o Morir\"... That is our slogan.\n"
+msgstr ""
+"“自由祖国或死亡”……这是我们的口号。\n"
+
+#: codec/1/194/0xc2950/10
+msgid ""
+"El Che used to say the same thing, you know?\n"
+msgstr ""
+"切也曾说过同样的话。\n"
+
+#: codec/1/194/0xc2950/11
+msgid ""
+"\"Patria o Muerte\"... the slogan of the Cuban\n"
+"Revolution.\n"
+msgstr ""
+"“祖国或死亡”……古巴\n"
+"革命的标语。\n"
+
+#: codec/1/194/0xc2950/12
+msgid ""
+"So you're fighting for a socialist revolution, too,\n"
+"then?\n"
+msgstr ""
+"这么说你们也是在为社会主义革命而战，\n"
+"是吗？\n"
+
+#: codec/1/194/0xc2950/13
+msgid ""
+"No. It's not about ideology. We only want to live\n"
+"normal lives.\n"
+msgstr ""
+"不。无关意识形态。我们只想\n"
+"正常生活。\n"
+
+#: codec/1/194/0xc2950/14
+msgid ""
+"We are sick of living in a country where you can\n"
+"be beaten for walking down the street.\n"
+msgstr ""
+"我们受够了生活在一个可能因为走在街上\n"
+"就被殴打的国家。\n"
+
+#: codec/1/194/0xc2950/15
+msgid ""
+"Where you never know if your neighbor is snitching\n"
+"on you.\n"
+msgstr ""
+"在那儿，你不知邻居会不会背后\n"
+"告发你。\n"
+
+#: codec/1/194/0xc2950/16
+msgid ""
+"Our goal is to give back the country to its people.\n"
+msgstr ""
+"我们的目标是把国家还给人民。\n"
+
+#: codec/1/194/0xc2950/17
+msgid ""
+"Yeah. The Cuban Revolution started out like that,\n"
+"too...\n"
+msgstr ""
+"是啊。古巴革命当初也这样开始，\n"
+"也是……\n"
+
+#: codec/1/194/0xc2950/18
+msgid ""
+"We are few in number, but we will win.\n"
+msgstr ""
+"我们人少，但会赢。\n"
+
+#: codec/1/194/0xc2950/19
+msgid ""
+"Victoria o muerte. For a revolutionary, there is no\n"
+"other fate.\n"
+msgstr ""
+"胜利或死亡。对革命者来说，没有\n"
+"别的命运。\n"
+
+#: codec/1/195/0xc3080/0
+msgid ""
+"Augusto César Sandino... general and hero of\n"
+"Nicaragua.\n"
+msgstr ""
+"奥古斯托·塞萨尔·桑地诺……尼加拉瓜的\n"
+"将军和英雄。\n"
+
+#: codec/1/195/0xc3080/1
+msgid ""
+"Fifty years ago, conflict broke out between the\n"
+"political parties of Nicaragua.\n"
+msgstr ""
+"五十年前，尼加拉瓜各政党之间\n"
+"爆发了冲突。\n"
+
+#: codec/1/195/0xc3080/2
+msgid ""
+"The U.S. Marines intervened in the name of\n"
+"restoring order.\n"
+msgstr ""
+"美国海军陆战队以恢复秩序为名\n"
+"干预。\n"
+
+#: codec/1/195/0xc3080/3
+msgid ""
+"The only one who refused to listen to their call for\n"
+"reconciliation was General Sandino.\n"
+msgstr ""
+"唯一拒绝响应他们和解呼吁的人，\n"
+"就是桑地诺将军。\n"
+
+#: codec/1/195/0xc3080/4
+msgid ""
+"One man against the Marines... That takes guts.\n"
+msgstr ""
+"一人对抗海军陆战队……真有种。\n"
+
+#: codec/1/195/0xc3080/5
+msgid ""
+"The General wasn't a professional soldier. Neither\n"
+"were his compadres.\n"
+msgstr ""
+"将军不是职业军人。他的\n"
+"兄弟们也不是。\n"
+
+#: codec/1/195/0xc3080/6
+msgid ""
+"And they certainly could not match the Marines'\n"
+"equipment.\n"
+msgstr ""
+"他们当然无法匹敌海军陆战队的\n"
+"装备。\n"
+
+#: codec/1/195/0xc3080/7
+msgid ""
+"But he used the land to his advantage, lurking in\n"
+"the fields and hills of Nicaragua,\n"
+msgstr ""
+"但他利用地形优势，潜伏在\n"
+"尼加拉瓜的田野和山丘之中，\n"
+
+#: codec/1/195/0xc3080/8
+msgid ""
+"and using surprise attacks to harass the Marines.\n"
+msgstr ""
+"用突袭骚扰海军陆战队。\n"
+
+#: codec/1/195/0xc3080/9
+msgid ""
+"I know. I've read plenty of textbooks on guerrilla\n"
+"warfare.\n"
+msgstr ""
+"我知道。我读过不少关于游击战的\n"
+"教科书。\n"
+
+#: codec/1/195/0xc3080/10
+msgid ""
+"In the end, he drove them out. He was truly a role\n"
+"model for us.\n"
+msgstr ""
+"最终，他赶走了他们。他真是我们的\n"
+"榜样。\n"
+
+#: codec/1/195/0xc3080/11
+msgid ""
+"Yeah, but that was the '30s - didn't the Depression\n"
+"have something to do with it?\n"
+msgstr ""
+"是啊，但那是30年代——大萧条\n"
+"跟这没关系吗？\n"
+
+#: codec/1/195/0xc3080/12
+msgid ""
+"It takes cash to wage war.\n"
+msgstr ""
+"打仗得花钱。\n"
+
+#: codec/1/195/0xc3080/13
+msgid ""
+"Perhaps. But there is no denying what the General\n"
+"accomplished.\n"
+msgstr ""
+"也许吧。但将军的成就\n"
+"无可否认。\n"
+
+#: codec/1/195/0xc3080/14
+msgid ""
+"The people hailed him as the \"General de Hombres\n"
+"Libres\" - the general of free men.\n"
+msgstr ""
+"人民称他为“自由人将军”\n"
+"——General de Hombres Libres。\n"
+
+#: codec/1/195/0xc3080/15
+msgid ""
+"They loved him. And then...\n"
+msgstr ""
+"他们爱戴他。然后……\n"
+
+#: codec/1/195/0xc3080/16
+msgid ""
+"He was assassinated - by Anastasio Somoza\n"
+"Garcia, commander of la Guardia.\n"
+msgstr ""
+"他被暗杀了——凶手是安纳斯塔西奥·索摩查·\n"
+"加西亚，国民警卫队司令。\n"
+
+#: codec/1/195/0xc3080/17
+msgid ""
+"The father of the current Somoza.\n"
+msgstr ""
+"现任索摩查的父亲。\n"
+
+#: codec/1/195/0xc3080/18
+msgid ""
+"Somoza had the Americans' backing. That is the\n"
+"way things were.\n"
+msgstr ""
+"索摩查有美国人的支持。事情\n"
+"就是这样。\n"
+
+#: codec/1/195/0xc3080/19
+msgid ""
+"The General may be dead, and the times may have\n"
+"changed,\n"
+msgstr ""
+"将军可能已经死了，时代可能已经\n"
+"变了，\n"
+
+#: codec/1/195/0xc3080/20
+msgid ""
+"but his will lives on inside each of us.\n"
+msgstr ""
+"但他意志活在我们每人心中。\n"
+
+#: codec/1/195/0xc3080/21
+msgid ""
+"We are the sons and daughters of General Sandino.\n"
+msgstr ""
+"我们是桑地诺将军的儿女。\n"
+
+#: codec/1/195/0xc38b0/0
+msgid ""
+"Hey. How's the watermelon business these days?\n"
+msgstr ""
+"嘿，最近西瓜生意怎么样？\n"
+
+#: codec/1/195/0xc38b0/1
+msgid ""
+"Not bad. I hear the compas back home are hanging\n"
+"in there, too.\n"
+msgstr ""
+"不错。我听说家乡的同志们也\n"
+"在坚持。\n"
+
+#: codec/1/195/0xc38b0/2
+msgid ""
+"Good to hear.\n"
+msgstr ""
+"那就好。\n"
+
+#: codec/1/195/0xc38b0/3
+msgid ""
+"...You know our nickname. I'm impressed.\n"
+msgstr ""
+"……你竟知我们绰号，佩服。\n"
+
+#: codec/1/195/0xc38b0/4
+msgid ""
+"No wonder they call you Boss.\n"
+msgstr ""
+"难怪人家叫你BOSS。\n"
+
+#: codec/1/195/0xc38b0/5
+msgid ""
+"You used to hide your weapons in hollowed-out\n"
+"watermelons,\n"
+msgstr ""
+"你们以前把武器藏在挖空的\n"
+"西瓜里，\n"
+
+#: codec/1/195/0xc38b0/6
+msgid ""
+"smuggle 'em right past the National Guard.\n"
+msgstr ""
+"就这么混过国民警卫队。\n"
+
+#: codec/1/195/0xc38b0/7
+msgid ""
+"You even transported pineapple grenades that\n"
+"way.\n"
+msgstr ""
+"你们甚至那样\n"
+"运菠萝手榴弹。\n"
+
+#: codec/1/195/0xc38b0/8
+msgid ""
+"The name caught on among sympathizers in the\n"
+"region and...\n"
+msgstr ""
+"这名字在地区同情者中\n"
+"传开，而且……\n"
+
+#: codec/1/195/0xc38b0/9
+#: codec/2/908/0x38c3b0/39
+#: codec/2/914/0x392460/18
+msgid ""
+"What are you talking about?\n"
+msgstr ""
+"你在说什么？\n"
+
+#: codec/1/195/0xc38b0/11
+msgid ""
+"They call us watermelon sellers because the\n"
+"General's name\n"
+msgstr ""
+"他们叫我们西瓜贩子，因为\n"
+"将军的名字\n"
+
+#: codec/1/195/0xc38b0/12
+msgid ""
+"sounds like the word for watermelon, sandía.\n"
+msgstr ""
+"听起来像西瓜，sandía。\n"
+
+#: codec/1/195/0xc38b0/13
+#: codec/1/215/0xd79a0/9
+msgid ""
+"...Really?\n"
+msgstr ""
+"…真？\n"
+
+#: codec/1/195/0xc38b0/14
+msgid ""
+"Si.\n"
+msgstr ""
+"是。\n"
+
+#: codec/1/195/0xc38b0/15
+msgid ""
+"Dammit, Kaz...\n"
+msgstr ""
+"可恶，卡兹…\n"
+
+#: codec/1/195/0xc3d40/0
+msgid ""
+"A revolution to bring peace to your country, huh.\n"
+msgstr ""
+
+#: codec/1/195/0xc3d40/1
+msgid ""
+"No matter how much we fight, peace never gets\n"
+"any closer, does it?\n"
+msgstr ""
+
+#: codec/1/195/0xc3d40/2
+msgid ""
+"I do not like it, but it is the only way.\n"
+msgstr ""
+
+#: codec/1/195/0xc3d40/3
+msgid ""
+"If we do not fight back, they'll just keep exploiting\n"
+"us.\n"
+msgstr ""
+
+#: codec/1/195/0xc3d40/4
+msgid ""
+"You want proof? Look at our country's history.\n"
+msgstr ""
+
+#: codec/1/195/0xc3d40/5
+msgid ""
+"Revolution is a means and not an end, I know.\n"
+msgstr ""
+
+#: codec/1/195/0xc3d40/6
+msgid ""
+"When the revolution is victorious, I want my\n"
+"country to be at peace.\n"
+msgstr ""
+
+#: codec/1/195/0xc3d40/7
+msgid ""
+"But to bring peace, we have to first eliminate that\n"
+"traitorous scum.\n"
+msgstr ""
+
+#: codec/1/195/0xc3d40/8
+msgid ""
+"It's an old saying: \"We make war that we may live\n"
+"in peace.\"\n"
+msgstr ""
+
+#: codec/1/195/0xc3d40/9
+msgid ""
+"Who said it?\n"
+msgstr ""
+
+#: codec/1/195/0xc3d40/10
+msgid ""
+"Aristotle.\n"
+msgstr ""
+
+#: codec/1/195/0xc3d40/11
+msgid ""
+"You know your history.\n"
+msgstr ""
+
+#: codec/1/195/0xc3d40/12
+msgid ""
+"I had a good teacher.\n"
+msgstr ""
+
+#: codec/1/196/0xc4280/0
+msgid ""
+"I noticed you call Che Guevara \"El Che.\"\n"
+msgstr ""
+"你管切·格瓦拉叫“El Che”。\n"
+
+#: codec/1/196/0xc4280/1
+msgid ""
+"Not just us. Everyone in these parts does.\n"
+msgstr ""
+"不只我们。这的人都这么叫。\n"
+
+#: codec/1/196/0xc4280/2
+msgid ""
+"\"Che\" was always his nickname. It does not feel\n"
+"right to call him by his last name.\n"
+msgstr ""
+"“切”一直是他的昵称。叫他\n"
+"姓，感觉不对。\n"
+
+#: codec/1/196/0xc4280/3
+msgid ""
+"...I was shocked the first time I saw you. You look\n"
+"so much like him.\n"
+msgstr ""
+"…我第一次见你时很震惊。你太像\n"
+"他了。\n"
+
+#: codec/1/196/0xc4280/4
+msgid ""
+"I look like \"El Che\", huh?\n"
+msgstr ""
+"我像“El Che”？\n"
+
+#: codec/1/196/0xc4280/5
+msgid ""
+"Sort of. Not in the face. It's more... the way you\n"
+"carry yourself...\n"
+msgstr ""
+"有点像。不是脸。更像是…你的\n"
+"举手投足…\n"
+
+#. speaker 0x0e28dce6 voice v_bri_amd0090_000_0
+#. timeline 7397..8136
+#: codec/1/196/0xc4280/6
+msgid ""
+"I guess Che's a hero to the Sandinistas, too?\n"
+msgstr ""
+"切对桑地诺派来说也是英雄吧？\n"
+
+#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
+#. timeline 8164..10156
+#: codec/1/196/0xc4280/7
+msgid ""
+"Of course. The FSLN was formed in the spirit of\n"
+"the ideologies championed by El Che and Fidel.\n"
+msgstr ""
+"当然。FSLN正是本着El Che和\n"
+"菲德尔所倡导的思想成立的。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_amd0090_000_0
+#. timeline 10421..12775
+#: codec/1/196/0xc4280/8
+msgid ""
+"Fidel... Fidel Castro. So you're trying to bring the\n"
+"Cuban Revolution to Nicaragua.\n"
+msgstr ""
+"菲德尔…卡斯特罗。你们想把\n"
+"古巴革命带到尼加拉瓜。\n"
+
+#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
+#. timeline 12845..14642
+#: codec/1/196/0xc4280/9
+msgid ""
+"Well, we were. But Cuba isn't what it once was...\n"
+"Not since El Che left.\n"
+msgstr ""
+"曾经是。但古巴已不复当年…\n"
+"自El Che走后。\n"
+
+#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
+#. timeline 14740..16314
+#: codec/1/196/0xc4280/10
+msgid ""
+"El Che was a true revolutionary. He fought - and\n"
+"died - for the people.\n"
+msgstr ""
+"El Che是真正的革命者。他为人民\n"
+"战斗——并牺牲。\n"
+
+#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
+#. timeline 16370..17387
+#: codec/1/196/0xc4280/11
+msgid ""
+"He worked harder than anybody, and he was a\n"
+"righteous man.\n"
+msgstr ""
+"他比谁都努力，他是个\n"
+"正直的人。\n"
+
+#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
+#. timeline 17442..19045
+#: codec/1/196/0xc4280/12
+msgid ""
+"Even as a minister of Cuba, he gave up his\n"
+"weekends to work on the farms and public works.\n"
+msgstr ""
+"即使身为古巴部长，他也放弃周末\n"
+"去农场和公共工程干活。\n"
+
+#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
+#. timeline 19100..19560
+#: codec/1/196/0xc4280/13
+msgid ""
+"As a volunteer, no less.\n"
+msgstr ""
+"还是当志愿者。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_amd0090_000_0
+#. timeline 19644..20271
+#: codec/1/196/0xc4280/14
+msgid ""
+"Yeah, I've heard the stories.\n"
+msgstr ""
+"是啊，故事我听过。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_amd0090_000_0
+#. timeline 20326..21441
+#: codec/1/196/0xc4280/15
+msgid ""
+"But when you think about it, wasn't it that\n"
+"obsession that did him in?\n"
+msgstr ""
+"但想想看，不正是那份\n"
+"执念害了他吗？\n"
+
+#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
+#. timeline 21483..21831
+#. speaker 0x0ea8e31c voice v_bri_huy0010_000_0
+#. timeline 2048..2326
+#: codec/1/196/0xc4280/16
+#: codec/1/241/0xf15f0/1
+msgid ""
+"How do you mean?\n"
+msgstr ""
+"什么意思？\n"
+
+#. speaker 0x0e28dce6 voice v_bri_amd0090_000_0
+#. timeline 21887..23517
+#: codec/1/196/0xc4280/17
+msgid ""
+"We can't all be supermen. He thought the ideals he\n"
+"applied in Cuba would work in Bolivia.\n"
+msgstr ""
+"我们不可能都是超人。他以为古巴\n"
+"行得通的理想，玻利维亚也行。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_amd0090_000_0
+#. timeline 23558..25077
+#: codec/1/196/0xc4280/18
+msgid ""
+"But, he failed to win converts and the support of\n"
+"the peasants, and it cost him his life.\n"
+msgstr ""
+"但他没能争取到皈依者和\n"
+"农民的支持，为此丢了命。\n"
+
+#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
+#. timeline 25175..25927
+#: codec/1/196/0xc4280/19
+msgid ""
+"Maybe... maybe you're right.\n"
+msgstr ""
+"也许…你说得对。\n"
+
+#. speaker 0x0e3bb338 voice v_bri_amd0090_000_0
+#. timeline 26010..27278
+#: codec/1/196/0xc4280/20
+msgid ""
+"But at least he did not steal from those peasants,\n"
+"no matter how hard things got.\n"
+msgstr ""
+"但至少他没偷农民的东西，\n"
+"再难也没偷。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_amd0090_000_0
+#. timeline 27320..27473
+#. speaker 0x0ea8e31c voice v_bri_huy0210_000_0
+#. timeline 1309..1476
+#: codec/1/196/0xc4280/21
+#: codec/1/201/0xc9700/14
+#: codec/1/206/0xce040/7
+#: codec/1/225/0xe1160/2
+#: codec/1/246/0xf6dc0/2
+#: codec/1/254/0xfe0a0/1
+#: codec/2/908/0x38c3b0/12
+#: codec/2/913/0x391bb0/1
+msgid ""
+"Yeah.\n"
+msgstr ""
+"是啊。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_amd0090_000_0
 #. timeline 27515..28017
@@ -500,6 +2161,28 @@ msgid ""
 msgstr ""
 "你会没事，你有这本事。\n"
 
+#: codec/1/197/0xc5eb0/0
+msgid ""
+"Claymores are directional anti-personnel landmines.\n"
+msgstr ""
+
+#: codec/1/197/0xc5eb0/1
+msgid ""
+"Their blast radius is approximately 70 vara (60 yd),\n"
+msgstr ""
+
+#: codec/1/197/0xc5eb0/2
+msgid ""
+"sending over 700 metal fragments through the air\n"
+"at a 60º angle.\n"
+msgstr ""
+
+#: codec/1/197/0xc5eb0/3
+msgid ""
+"But since they're directional, you can simply disarm\n"
+"them from their blind side.\n"
+msgstr ""
+
 #: codec/1/198/0xc62d0/0
 msgid ""
 "The land in our country belongs to us, and yet it\n"
@@ -729,6 +2412,27 @@ msgid ""
 msgstr ""
 "不，只是怕。怕中美洲\n"
 "落入共产党手。\n"
+
+#: codec/1/198/0xc6ed0/0
+msgid ""
+"La CIA calls their new toy Peace Walker, eh?\n"
+msgstr ""
+
+#: codec/1/198/0xc6ed0/1
+msgid ""
+"Yeah... So?\n"
+msgstr ""
+
+#: codec/1/198/0xc6ed0/2
+msgid ""
+"It is a insult to us Nicos.\n"
+msgstr ""
+
+#: codec/1/198/0xc6ed0/3
+msgid ""
+"Because of the guy you were talking about?\n"
+"Walker?\n"
+msgstr ""
 
 #: codec/1/199/0xc76f0/0
 msgid ""
@@ -1351,1834 +3055,3 @@ msgid ""
 msgstr ""
 "对桑地诺\n"
 "指挥官也不会有别的期待。\n"
-
-#: codec/1/201/0xc91f0/7
-msgid ""
-"Enough flattery.\n"
-msgstr ""
-"别拍马屁。\n"
-
-#: codec/1/201/0xc91f0/8
-msgid ""
-"But seriously, it does not feel right for me to be\n"
-"sitting here while my compas are out risking their\n"
-"lives.\n"
-msgstr ""
-"但说真的，战友们在外\n"
-"拼命，我却坐在这里，\n"
-"心里不是滋味。\n"
-
-#: codec/1/201/0xc91f0/9
-msgid ""
-"One thing's for sure. Having you out in the field\n"
-"would be a big boost to Sandinista morale.\n"
-msgstr ""
-"有一点可以肯定。有你亲临前线，\n"
-"会大大鼓舞桑地诺的士气。\n"
-
-#: codec/1/201/0xc91f0/10
-msgid ""
-"Of course, our ultimate goal is still the overthrow\n"
-"of Somoza.\n"
-msgstr ""
-"当然，我们的最终目标仍然是推翻\n"
-"索摩查。\n"
-
-#: codec/1/201/0xc91f0/11
-msgid ""
-"But until we get ourselves back in order, we will\n"
-"follow your lead, wherever it takes us.\n"
-msgstr ""
-"但在我们重整旗鼓之前，我们会\n"
-"追随你的领导，无论去向何方。\n"
-
-#: codec/1/201/0xc91f0/12
-msgid ""
-"Glad to have you on board.\n"
-msgstr ""
-"很高兴你加入。\n"
-
-#: codec/1/201/0xc9700/0
-msgid ""
-"Amanda, you getting used to Mother Base?\n"
-msgstr ""
-"阿曼达，在母基地还习惯吗？\n"
-
-#: codec/1/201/0xc9700/1
-msgid ""
-"Yes, it is Heaven compared to living in the\n"
-"mountains.\n"
-msgstr ""
-"是啊，比起山里，\n"
-"这里就是天堂。\n"
-
-#: codec/1/201/0xc9700/2
-msgid ""
-"We're no longer constantly on the run from la\n"
-"Guardia or mercenaries.\n"
-msgstr ""
-"我们不再需要时刻躲避国民警卫队\n"
-"或雇佣兵了。\n"
-
-#: codec/1/201/0xc9700/3
-msgid ""
-"Some of the new guys we've recruited used to be\n"
-"mercenaries...\n"
-msgstr ""
-"我们招募的一些新人以前就是\n"
-"雇佣兵……\n"
-
-#: codec/1/201/0xc9700/4
-msgid ""
-"We're getting along. It was difficult at first,\n"
-msgstr ""
-"我们处得来。一开始挺难的，\n"
-
-#: codec/1/201/0xc9700/5
-msgid ""
-"but once you talk to them you realize we've got\n"
-"plenty in common.\n"
-msgstr ""
-"但一交谈，就会发现我们\n"
-"有很多共同点。\n"
-
-#: codec/1/201/0xc9700/6
-msgid ""
-"I see. Good to hear.\n"
-msgstr ""
-"嗯，那就好。\n"
-
-#: codec/1/201/0xc9700/7
-msgid ""
-"We may be enemies, but we're all still human\n"
-"beings...\n"
-msgstr ""
-"我们也许是敌人，但终究都是\n"
-"人类……\n"
-
-#: codec/1/201/0xc9700/8
-msgid ""
-"La CIA's soldiers, la Guardia... The same goes for\n"
-"the people of America.\n"
-msgstr ""
-"中情局士兵、国民警卫队……\n"
-"美国人民也一样。\n"
-
-#: codec/1/201/0xc9700/9
-msgid ""
-"What's gotten into you?\n"
-msgstr ""
-"你怎么了？\n"
-
-#: codec/1/201/0xc9700/10
-msgid ""
-"Mi viejo got involved with drugs in order to scrape\n"
-"together money for la revolución.\n"
-msgstr ""
-"我老爸为了给革命凑钱，\n"
-"卷入了毒品交易。\n"
-
-#: codec/1/201/0xc9700/11
-msgid ""
-"He did whatever the KGB said.\n"
-msgstr ""
-"克格勃让他干什么他就干什么。\n"
-
-#: codec/1/201/0xc9700/12
-msgid ""
-"All for Nicaragua... or so he told himself.\n"
-msgstr ""
-"全为尼加拉瓜，他这么想。\n"
-
-#: codec/1/201/0xc9700/13
-msgid ""
-"But I realize now... In the end all he did was help\n"
-"poison young people of America.\n"
-msgstr ""
-"但我现在明白……到头来他只是帮\n"
-"毒害美国年轻人。\n"
-
-#: codec/1/201/0xc9700/15
-msgid ""
-"...I've made up my mind. Even when I leave Mother\n"
-"Base and return to la revolución,\n"
-msgstr ""
-"……我已经下定决心。即使我离开母基地\n"
-"回到革命中，\n"
-
-#: codec/1/201/0xc9700/16
-msgid ""
-"I will never turn to drugs. Nor will I look to the KGB\n"
-"for help.\n"
-msgstr ""
-"我绝不碰毒品。也不向克格勃\n"
-"求助。\n"
-
-#: codec/1/201/0xc9700/17
-msgid ""
-"If we topple Somoza using the KGB and drug\n"
-"money, we will lose the people's hearts.\n"
-msgstr ""
-"如果我们用克格勃和毒品资金\n"
-"推翻索摩查，我们将失去民心。\n"
-
-#: codec/1/201/0xc9700/18
-msgid ""
-"So you're choosing a different path from your\n"
-"father.\n"
-msgstr ""
-"所以你选了条与你父亲\n"
-"不同的路。\n"
-
-#: codec/1/201/0xc9700/19
-msgid ""
-"I still respect him. But I will not do things the way\n"
-"he did.\n"
-msgstr ""
-"我仍尊敬他。但不会照\n"
-"他的方式行事。\n"
-
-#: codec/1/201/0xc9700/20
-msgid ""
-"Well, I'm sure Chico will be glad to hear that.\n"
-msgstr ""
-"奇科听到肯定高兴。\n"
-
-#: codec/1/201/0xc9700/21
-msgid ""
-"Chico is a grown soldier now. I could not face him\n"
-"otherwise.\n"
-msgstr ""
-"奇科现在是真正战士了。\n"
-"不然我没脸见他。\n"
-
-#: codec/1/201/0xc9700/22
-msgid ""
-"Well said, Amanda. Those are the words of a true\n"
-"comandante.\n"
-msgstr ""
-"说得好，阿曼达。这是\n"
-"真正指挥官的话。\n"
-
-#: codec/1/201/0xc9700/23
-msgid ""
-"Stop... I was inspired by the greatest comandante I\n"
-"have ever known, Boss.\n"
-msgstr ""
-"别……我是受我所见过\n"
-"最伟大的指挥官BOSS鼓舞。\n"
-
-#: codec/1/202/0xca000/0
-msgid ""
-"Amanda, how do I get to the prison camp?\n"
-msgstr ""
-"阿曼达，怎么去战俘营？\n"
-
-#: codec/1/202/0xca000/1
-msgid ""
-"First head up the narrow mountain path.\n"
-msgstr ""
-"先沿狭窄的山路上行。\n"
-
-#: codec/1/202/0xca000/2
-msgid ""
-"The path will gradually open up, and you'll come to\n"
-"a fork in the road.\n"
-msgstr ""
-"道路会逐渐开阔，你会来到\n"
-"一个岔路口。\n"
-
-#: codec/1/202/0xca000/3
-msgid ""
-"Watch yourself up there.\n"
-msgstr ""
-"上面小心点。\n"
-
-#: codec/1/202/0xca000/4
-msgid ""
-"You'll be lower than the surrounding terrain,\n"
-msgstr ""
-"你会处于周围地形之下，\n"
-
-#: codec/1/202/0xca000/5
-msgid ""
-"so if you head down the middle you'll make for an\n"
-"easy target.\n"
-msgstr ""
-"所以走中间，就会成为\n"
-"容易的目标。\n"
-
-#: codec/1/202/0xca000/6
-msgid ""
-"Thanks for the heads-up.\n"
-msgstr ""
-"多谢提醒。\n"
-
-#: codec/1/202/0xca000/7
-msgid ""
-"Take the leftward path to reach the prison camp.\n"
-msgstr ""
-"走左边的路就能到战俘营。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0020_010_0
-#. timeline 431..1030
-#: codec/1/202/0xca2d0/0
-msgid ""
-"What can you tell me about the prison camp?\n"
-msgstr ""
-"战俘营的情况怎么样？\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0020_010_0
-#. timeline 1058..2117
-#: codec/1/202/0xca2d0/1
-msgid ""
-"Well, it used to be a village - until they took control\n"
-"of it.\n"
-msgstr ""
-"嗯，这里曾是村庄，直到他们\n"
-"控制了它。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0020_010_0
-#. timeline 2145..3065
-#: codec/1/202/0xca2d0/2
-msgid ""
-"It is a maze of paths, so watch out for soldiers on\n"
-"patrol.\n"
-msgstr ""
-"这里道路交错，要小心\n"
-"巡逻的士兵。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0020_010_0
-#. timeline 3301..3956
-#: codec/1/202/0xca2d0/3
-msgid ""
-"I'll be sure not to stop and say \"hi.\"\n"
-msgstr ""
-"我肯定不会停下来打招呼。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0020_010_0
-#. timeline 3984..4931
-#: codec/1/202/0xca2d0/4
-msgid ""
-"Use the paths carefully and you should be able to\n"
-"stay out of view.\n"
-msgstr ""
-"小心利用这些道路，你应该能够\n"
-"避开视线。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0020_010_0
-#. timeline 4959..5489
-#: codec/1/202/0xca2d0/5
-msgid ""
-"Where are they holding Chico?\n"
-msgstr ""
-"他们把奇科关在哪？\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0020_010_0
-#. timeline 5530..6645
-#: codec/1/202/0xca2d0/6
-msgid ""
-"One of the houses, most likely. You can peek\n"
-"through the doors.\n"
-msgstr ""
-"很可能在某间房里。可从\n"
-"门缝偷看。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0020_010_0
-#. timeline 6659..7523
-#: codec/1/202/0xca2d0/7
-msgid ""
-"Just press <I=ACT> when the Icon appears.\n"
-msgstr ""
-"图标出现时按<I=ACT>。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0020_010_0
-#. timeline 7718..8735
-#: codec/1/202/0xca2d0/8
-msgid ""
-"You could also listen to any sounds inside for clues.\n"
-msgstr ""
-"也可以听听里面的声音找线索。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0020_010_0
-#. timeline 8749..9013
-#: codec/1/202/0xca2d0/9
-msgid ""
-"Good idea.\n"
-msgstr ""
-"好。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0020_010_0
-#. timeline 9041..10198
-#: codec/1/202/0xca2d0/10
-msgid ""
-"Guards will still be on the move while you're looking\n"
-"inside. Make sure you don't get caught.\n"
-msgstr ""
-"你查看里面时，守卫仍在移动。\n"
-"确保不要被抓到。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0020_010_0
-#. timeline 10212..10407
-#: codec/1/202/0xca2d0/11
-msgid ""
-"And Snake...\n"
-msgstr ""
-"SNAKE……\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0020_010_0
-#. timeline 10421..11187
-#: codec/1/202/0xca2d0/12
-msgid ""
-"I know. I'll bring him back.\n"
-msgstr ""
-"知道，我带他回来。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0020_010_0
-#. timeline 11201..12051
-#: codec/1/202/0xca2d0/13
-msgid ""
-"Thank you. I know I can count on you.\n"
-msgstr ""
-"谢谢。我就知道能靠你。\n"
-
-#: codec/1/202/0xca770/0
-msgid ""
-"Amanda, do you know the way to the rail terminal?\n"
-msgstr ""
-"阿曼达，去铁路终端怎么走？\n"
-
-#: codec/1/202/0xca770/1
-msgid ""
-"Remember the locomotive? By the fork in the road\n"
-"before the village?\n"
-msgstr ""
-"还记得那辆机车吗？就在村庄前\n"
-"的那个岔路口？\n"
-
-#: codec/1/202/0xca770/2
-msgid ""
-"Yeah, back in the jungle.\n"
-msgstr ""
-"嗯，丛林里那台。\n"
-
-#: codec/1/202/0xca770/3
-msgid ""
-"Follow the train tracks from there and you'll come\n"
-"to the terminal.\n"
-msgstr ""
-"从那里沿着铁轨走，你就会到达\n"
-"终点站。\n"
-
-#: codec/1/202/0xca770/4
-msgid ""
-"But there's a plant along the way.\n"
-msgstr ""
-"但路上有个工厂。\n"
-
-#: codec/1/202/0xca770/5
-msgid ""
-"Disguised as a coffee factory?\n"
-msgstr ""
-"伪装成咖啡厂那个？\n"
-
-#: codec/1/202/0xca770/6
-msgid ""
-"...Yes, it is their drug refining plant. La CIA controls\n"
-"it now.\n"
-msgstr ""
-"……是的，那是他们的毒品提炼厂。现在由中情局控制\n"
-"着。\n"
-
-#: codec/1/202/0xca770/7
-msgid ""
-"Cutting through there is the shortest way, but it'll\n"
-"be crawling with soldiers.\n"
-msgstr ""
-"从那里穿过去是最短的路，但那里\n"
-"会布满士兵。\n"
-
-#: codec/1/202/0xca770/8
-msgid ""
-"If you want go around...\n"
-msgstr ""
-"想绕路的话……\n"
-
-#: codec/1/202/0xca770/9
-msgid ""
-"No, forget it. If that's the shortest way, that's the\n"
-"way I'll take.\n"
-msgstr ""
-"不，算了。如果那是最短的路，那我就走那\n"
-"条路。\n"
-
-#: codec/1/202/0xca770/10
-msgid ""
-"Besides, it's one of their bases. It'll be good intel.\n"
-msgstr ""
-"何况那是他们的基地，能搞到情报。\n"
-
-#: codec/1/202/0xca770/11
-msgid ""
-"Very good. A number of the guards at the plant\n"
-"are positioned on high walkways.\n"
-msgstr ""
-"很好。工厂里的一些守卫\n"
-"驻守在高处的走道上。\n"
-
-#: codec/1/202/0xca770/12
-msgid ""
-"Be sure to study their movements before you\n"
-"advance.\n"
-msgstr ""
-"前进前一定要摸清他们的\n"
-"行动规律。\n"
-
-#: codec/1/202/0xca770/13
-msgid ""
-"Or I could just snipe them first...\n"
-msgstr ""
-"或者先狙掉他们……\n"
-
-#: codec/1/202/0xca770/14
-msgid ""
-"The plant's layout is another maze, I'm afraid. Stay\n"
-"cool.\n"
-msgstr ""
-"恐怕工厂布局又是个迷宫。保持\n"
-"冷静。\n"
-
-#: codec/1/202/0xca770/15
-msgid ""
-"Make your way out of the plant and you'll arrive at\n"
-"the terminal.\n"
-msgstr ""
-"从工厂里出去，你就会到达\n"
-"终点站。\n"
-
-#: codec/1/202/0xca770/16
-msgid ""
-"You know a lot about this place...\n"
-msgstr ""
-"你对这地方很熟……\n"
-
-#: codec/1/202/0xca770/17
-msgid ""
-"What are you saying? I've been there before -\n"
-"when the KGB ran it - yes,\n"
-msgstr ""
-"你说啥？我以前去过那，\n"
-"当时克格勃管的，是的，\n"
-
-#: codec/1/202/0xca770/18
-msgid ""
-"but it is not as if I enjoyed it.\n"
-msgstr ""
-"但我可没觉得享受。\n"
-
-#: codec/1/202/0xca770/19
-msgid ""
-"No, I just meant you know a lot about how the\n"
-"enemy works.\n"
-msgstr ""
-"不，我只是说你很了解\n"
-"敌人的运作方式。\n"
-
-#: codec/1/202/0xca770/20
-msgid ""
-"I hope so.\n"
-msgstr ""
-"但愿如此。\n"
-
-#: codec/1/202/0xca770/21
-msgid ""
-"Anyway, did you talk to Chico about the terminal?\n"
-msgstr ""
-"对了，你跟奇科聊过终端吗？\n"
-
-#: codec/1/202/0xca770/22
-msgid ""
-"He said it's where they transfer the cargo onto\n"
-"trucks.\n"
-msgstr ""
-"他说那是把货物转到\n"
-"卡车上的地方。\n"
-
-#: codec/1/202/0xca770/23
-msgid ""
-"Meaning the facility is of considerable importance\n"
-"to them. Don't get careless.\n"
-msgstr ""
-"这意味着该设施对他们来说相当重要。\n"
-"别大意。\n"
-
-#: codec/1/202/0xca770/24
-msgid ""
-"I won't.\n"
-msgstr ""
-"不会的。\n"
-
-#: codec/1/202/0xca770/25
-msgid ""
-"By the way,\n"
-msgstr ""
-"对了，\n"
-
-#: codec/1/202/0xca770/26
-msgid ""
-"I've heard of a shortcut that cuts straight to the\n"
-"coffee factory to the east of the village,\n"
-msgstr ""
-"我听说有条近路能直接通到村子东边的\n"
-"咖啡工厂，\n"
-
-#: codec/1/202/0xca770/27
-msgid ""
-"but I've never used it myself. Check it out if you're\n"
-"interested.\n"
-msgstr ""
-"不过我自己没走过。有兴趣的话\n"
-"去看看吧。\n"
-
-#: codec/1/202/0xca770/28
-msgid ""
-"Thanks for the tip.\n"
-msgstr ""
-"谢了。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0040_000_0
-#. timeline 445..1226
-#: codec/1/203/0xcb100/0
-msgid ""
-"An enemy tank! Is there somewhere you can hide,\n"
-"Boss?\n"
-msgstr ""
-"敌方坦克！Boss，有地方躲\n"
-"吗？\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0040_000_0
-#. timeline 1253..2215
-#: codec/1/203/0xcb100/1
-msgid ""
-"There are train cars, but they won't hold up\n"
-"against a gun like that.\n"
-msgstr ""
-"有火车车厢，但它们挡不住\n"
-"那样的炮火。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0040_000_0
-#. timeline 2243..2869
-#: codec/1/203/0xcb100/2
-msgid ""
-"Even a freight train? Incredible!\n"
-msgstr ""
-"连货运列车都挡不住？厉害！\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0040_000_0
-#. timeline 3009..3887
-#: codec/1/203/0xcb100/3
-msgid ""
-"But they'd keep me out of sight - temporarily.\n"
-msgstr ""
-"但至少能暂时让我不被发现。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0040_000_0
-#. timeline 3914..5196
-#: codec/1/203/0xcb100/4
-msgid ""
-"Use them to look for an opportunity to hit its\n"
-"treads or the fuel tank at the back, but...\n"
-msgstr ""
-"利用它们寻找机会攻击它的\n"
-"履带或后方的油箱，但是……\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0040_000_0
-#. timeline 5196..5781
-#: codec/1/203/0xcb100/5
-msgid ""
-"Don't forget about that gun, huh?\n"
-msgstr ""
-"别忘了那门炮。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0040_000_0
-#. timeline 5795..6506
-#: codec/1/203/0xcb100/6
-msgid ""
-"Or the soldiers. They may try to flank you.\n"
-msgstr ""
-"还有士兵。他们可能会包抄你。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0040_000_0
-#. timeline 6645..8219
-#: codec/1/203/0xcb100/8
-msgid ""
-"You can also stop it by taking out all the soldiers.\n"
-"You can do it, Snake!\n"
-msgstr ""
-"消灭所有士兵也能阻止它。\n"
-"你能行，Snake！\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0050_000_0
-#. timeline 445..1657
-#: codec/1/203/0xcb450/0
-msgid ""
-"Amanda, do I have to take the fork in the road\n"
-"back to the village?\n"
-msgstr ""
-"Amanda，我必须走那个岔路口\n"
-"回村庄吗？\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0050_000_0
-#. timeline 1685..2925
-#: codec/1/203/0xcb450/1
-msgid ""
-"People say there is a shortcut. Go back to the\n"
-"coffee factory entrance,\n"
-msgstr ""
-"人们说有一条捷径。回到\n"
-"咖啡工厂入口，\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0050_000_0
-#. timeline 2939..3469
-#: codec/1/203/0xcb450/2
-msgid ""
-"then follow the path on the right.\n"
-msgstr ""
-"然后走右边的路。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0050_000_0
-#. timeline 3496..4082
-#: codec/1/203/0xcb450/3
-msgid ""
-"That will take you straight to the village.\n"
-msgstr ""
-"就能直接到村子。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0050_000_0
-#. timeline 4109..4820
-#: codec/1/203/0xcb450/4
-msgid ""
-"They may have increased security in that area,\n"
-"though.\n"
-msgstr ""
-"不过他们可能加强了那片的\n"
-"安保。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0050_000_0
-#. timeline 5015..6534
-#: codec/1/203/0xcb450/5
-msgid ""
-"Not surprising, after what happened with the tank.\n"
-"What do I do once I'm back at the village?\n"
-msgstr ""
-"在坦克那件事之后，这并不奇怪。\n"
-"回到村庄后我该做什么？\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0050_000_0
-#. timeline 6561..8010
-#: codec/1/203/0xcb450/6
-msgid ""
-"Destroy the barricade at the north side. From\n"
-"there you can reconnect with the transport route.\n"
-msgstr ""
-"摧毁北侧的路障。从\n"
-"那里你可以重新接上运输路线。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0050_000_0
-#. timeline 8024..8874
-#: codec/1/203/0xcb450/7
-msgid ""
-"Hmm... I'll need C4 for that.\n"
-msgstr ""
-"嗯……那需要C4。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0050_000_0
-#. timeline 8888..9738
-#: codec/1/203/0xcb450/8
-msgid ""
-"The explosion will bring everyone running too.\n"
-msgstr ""
-"爆炸也会把所有人引过来。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0050_000_0
-#. timeline 9766..10727
-#: codec/1/203/0xcb450/9
-msgid ""
-"There's probably going to be a fight - one way or\n"
-"the other.\n"
-msgstr ""
-"很可能会有一场战斗——不管\n"
-"怎样。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0050_000_0
-#. timeline 10755..11730
-#: codec/1/203/0xcb450/10
-msgid ""
-"They might not see you if you stick to the\n"
-"narrower pathways.\n"
-msgstr ""
-"走\n"
-"窄路，他们可能看不到你。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0050_000_0
-#. timeline 11800..12552
-#: codec/1/203/0xcb450/11
-msgid ""
-"Then just climb over any obstacles.\n"
-msgstr ""
-"遇到障碍直接翻过去。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0050_000_0
-#. timeline 12566..13583
-#: codec/1/203/0xcb450/12
-msgid ""
-"Don't let your guard down after taking out the\n"
-"barricade, either.\n"
-msgstr ""
-"摧毁路障后也不要\n"
-"放松警惕。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0060_000_0
-#. timeline 445..1226
-#: codec/1/203/0xcb950/0
-msgid ""
-"Chico says there's a bridge north of the village.\n"
-msgstr ""
-"奇科说村北有座桥。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0060_000_0
-#. timeline 1253..2020
-#: codec/1/203/0xcb950/1
-msgid ""
-"Yes, a narrow one - for crossing the pipe.\n"
-msgstr ""
-"对，很窄，只能过管道。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0060_000_0
-#. timeline 2159..2981
-#: codec/1/203/0xcb950/2
-msgid ""
-"On the other side of that is the road the trucks\n"
-"use,\n"
-msgstr ""
-"在另一侧是卡车\n"
-"使用的道路，\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0060_000_0
-#. timeline 3023..3482
-#: codec/1/203/0xcb950/3
-msgid ""
-"though it's collapsed in places.\n"
-msgstr ""
-"不过有些地方塌了。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0060_000_0
-#. timeline 3622..4249
-#: codec/1/203/0xcb950/4
-msgid ""
-"I'll have nowhere to run if they spot me.\n"
-msgstr ""
-"被他们发现我就没处跑了。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0060_000_0
-#. timeline 4263..4792
-#: codec/1/203/0xcb950/5
-msgid ""
-"They could be blocking the road, too.\n"
-msgstr ""
-"他们可能也封了路。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0060_000_0
-#. timeline 4820..5182
-#: codec/1/203/0xcb950/6
-msgid ""
-"Is there another way?\n"
-msgstr ""
-"还有别的路？\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0060_000_0
-#. timeline 5196..5851
-#: codec/1/203/0xcb950/7
-msgid ""
-"There is a path along the cliff.\n"
-msgstr ""
-"悬崖边有条小路。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0060_000_0
-#. timeline 5879..6993
-#: codec/1/203/0xcb950/8
-msgid ""
-"After you cross the bridge, there are ruins of a\n"
-"fort on the mountain.\n"
-msgstr ""
-"过桥后，山上有一座\n"
-"堡垒废墟。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0060_000_0
-#. timeline 7049..7704
-#: codec/1/203/0xcb950/9
-msgid ""
-"Going through there would be a little easier.\n"
-msgstr ""
-"从那儿走会容易些。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0060_000_0
-#. timeline 7746..8888
-#: codec/1/203/0xcb950/10
-msgid ""
-"Once you come to the end of the mountain path,\n"
-"you'll be at the fort.\n"
-msgstr ""
-"山路走到头，\n"
-"就到堡垒了。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0060_010_0
-#. timeline 431..1950
-#: codec/1/203/0xcbd00/0
-msgid ""
-"That fort was built during the civil war. It seems la\n"
-"CIA's troops are occupying it, now.\n"
-msgstr ""
-"那堡垒是内战时期建的。现在\n"
-"似乎被CIA的部队占了。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0060_010_0
-#. timeline 2187..2856
-#: codec/1/203/0xcbd00/1
-msgid ""
-"This just gets better and better.\n"
-msgstr ""
-"真是越来越妙了。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0060_010_0
-#. timeline 2883..3859
-#: codec/1/203/0xcbd00/2
-msgid ""
-"They've got gun turrets set up all around, from the\n"
-"looks of it.\n"
-msgstr ""
-"看样子，周围\n"
-"架满了炮塔。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0060_010_0
-#. timeline 3887..4959
-#: codec/1/203/0xcbd00/3
-msgid ""
-"Attract too much attention and you'll really stir up\n"
-"the hornet's nest.\n"
-msgstr ""
-"太引人注意的话，\n"
-"你会捅了马蜂窝。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0060_010_0
-#. timeline 4973..5558
-#: codec/1/203/0xcbd00/4
-msgid ""
-"Maybe I'll try and find a way around.\n"
-msgstr ""
-"也许我该另找条路。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0060_010_0
-#. timeline 5600..6854
-#: codec/1/203/0xcbd00/5
-msgid ""
-"You could always commandeer one of the turrets -\n"
-"a little target practice, perhaps?\n"
-msgstr ""
-"你随时可以夺下一座炮塔——\n"
-"顺便练练枪？\n"
-
-#: codec/1/203/0xcbd00/6
-msgid ""
-"Just like Krasnogorje.\n"
-msgstr ""
-"就像克拉斯诺戈里那样。\n"
-
-#: codec/1/203/0xcbd00/7
-msgid ""
-"Krasno-what?\n"
-msgstr ""
-"克拉斯诺什么？\n"
-
-#: codec/1/203/0xcbd00/8
-msgid ""
-"Sorry, just... thinking about old times.\n"
-msgstr ""
-"抱歉，只是……想起了往事。\n"
-
-#: codec/1/204/0xcc050/0
-msgid ""
-"Watch out! It's el galápago!\n"
-msgstr ""
-"当心！是el galápago！\n"
-
-#: codec/1/204/0xcc050/1
-msgid ""
-"It reduces its body weight by blasting air\n"
-"underneath it.\n"
-msgstr ""
-"它靠往下喷气\n"
-"减轻体重。\n"
-
-#: codec/1/204/0xcc050/2
-msgid ""
-"That makes it a lot faster than any tank. It also\n"
-"has a tight turning radius.\n"
-msgstr ""
-"所以比坦克快得多，\n"
-"转向也灵活。\n"
-
-#: codec/1/204/0xcc050/3
-msgid ""
-"Any weak points?\n"
-msgstr ""
-"弱点在哪？\n"
-
-#: codec/1/204/0xcc050/4
-msgid ""
-"Taking out its boosters could reduce its\n"
-"acceleration...\n"
-msgstr ""
-"打掉助推器可以降低\n"
-"它的加速……\n"
-
-#: codec/1/204/0xcc050/5
-msgid ""
-"You could also try destroying its machine guns.\n"
-msgstr ""
-"也可以试试打掉它的机枪。\n"
-
-#: codec/1/204/0xcc050/6
-msgid ""
-"I'll give it a shot.\n"
-msgstr ""
-"我试试看。\n"
-
-#: codec/1/204/0xcc050/7
-msgid ""
-"We've lost many compas to that thing. Send it to\n"
-"the scrapyard!\n"
-msgstr ""
-"它害我们损失不少弟兄。送它去\n"
-"废铁场！\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0080_000_0
-#. timeline 459..1894
-#: codec/1/204/0xcc320/0
-msgid ""
-"From here on in you'll be in a cloud forest. The\n"
-"ground is covered in vegetation.\n"
-msgstr ""
-"从这里开始就是云雾林了。地面\n"
-"被植被覆盖。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0080_000_0
-#. timeline 1922..2897
-#: codec/1/204/0xcc320/1
-msgid ""
-"You'll have plenty of hiding places, but so will the\n"
-"enemy.\n"
-msgstr ""
-"你有不少藏身之处，但敌人\n"
-"也一样。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0080_000_0
-#. timeline 2925..3496
-#: codec/1/204/0xcc320/2
-msgid ""
-"I'll keep an eye out for scouts.\n"
-msgstr ""
-"我会留意侦察兵。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0080_000_0
-#. timeline 3524..4360
-#: codec/1/204/0xcc320/3
-msgid ""
-"Trying to force your way through would be suicide.\n"
-msgstr ""
-"硬闯等于送死。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0080_000_0
-#. timeline 4388..5377
-#: codec/1/204/0xcc320/4
-msgid ""
-"Know the enemy's location before making any\n"
-"moves.\n"
-msgstr ""
-"行动前先摸清敌人\n"
-"位置。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0080_000_0
-#. timeline 5405..6004
-#: codec/1/204/0xcc320/5
-msgid ""
-"Too bad you don't have some sort of radar.\n"
-msgstr ""
-"可惜你没有雷达之类的东西。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0080_000_0
-#. timeline 6227..6715
-#: codec/1/204/0xcc320/6
-msgid ""
-"I could try night vision.\n"
-msgstr ""
-"我可以试试夜视。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0080_000_0
-#. timeline 6729..7843
-#: codec/1/204/0xcc320/7
-msgid ""
-"Once you know where an enemy is, decide how you\n"
-"want to handle him.\n"
-msgstr ""
-"一旦知道敌人的位置，就决定怎么\n"
-"对付他。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0080_000_0
-#. timeline 7871..8373
-#: codec/1/204/0xcc320/8
-msgid ""
-"You could get into his blindspots...\n"
-msgstr ""
-"你可以绕进他的盲区……\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0080_000_0
-#. timeline 8414..9626
-#: codec/1/204/0xcc320/9
-msgid ""
-"Or drop him from a distance before he even has a\n"
-"clue someone's around.\n"
-msgstr ""
-"或者在他还没察觉有人靠近时\n"
-"就远距离放倒他。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0080_000_0
-#. timeline 9640..10267
-#: codec/1/204/0xcc320/10
-msgid ""
-"An eye for an eye, right?\n"
-msgstr ""
-"以眼还眼，对吧？\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0090_000_0
-#. timeline 431..1323
-#: codec/1/204/0xcc700/0
-msgid ""
-"Don't even think about facing a chopper head-on.\n"
-msgstr ""
-"想都别想正面硬刚直升机。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0090_000_0
-#. timeline 1351..2145
-#: codec/1/204/0xcc700/1
-msgid ""
-"Guerilla tactics would work well in a place like that.\n"
-msgstr ""
-"那种地形打游击最合适。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0090_000_0
-#. timeline 2159..3357
-#: codec/1/204/0xcc700/2
-msgid ""
-"Moving from tree to tree will make it hard to get a\n"
-"fix on you from the air.\n"
-msgstr ""
-"在树与树之间移动，空中就很难\n"
-"锁定你。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0090_000_0
-#. timeline 3385..3747
-#: codec/1/204/0xcc700/3
-msgid ""
-"That's your best chance.\n"
-msgstr ""
-"那是你最好的机会。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0090_000_0
-#. timeline 3761..4862
-#: codec/1/204/0xcc700/4
-msgid ""
-"Good thinking, comandante. You clearly know your\n"
-"way around a battlefield.\n"
-msgstr ""
-"好主意，指挥官。你显然熟悉\n"
-"战场。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0090_000_0
-#. timeline 4876..6060
-#: codec/1/204/0xcc700/5
-msgid ""
-"Enough, Boss. Time to stop talking and start using\n"
-"your ears.\n"
-msgstr ""
-"够了，Boss。别说了，用\n"
-"耳朵听。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0090_000_0
-#. timeline 6074..7035
-#: codec/1/204/0xcc700/6
-msgid ""
-"When you're hiding, you won't be able to see the\n"
-"chopper that well.\n"
-msgstr ""
-"躲起来时，你看不太清\n"
-"直升机。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0090_000_0
-#. timeline 7063..8052
-#: codec/1/204/0xcc700/7
-msgid ""
-"It's important to use sound to get a read on its\n"
-"position.\n"
-msgstr ""
-"靠声音判断它的位置\n"
-"很重要。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0090_000_0
-#. timeline 8066..9543
-#: codec/1/204/0xcc700/8
-msgid ""
-"You could also try taking out its tail rotor. That\n"
-"would greatly reduce its mobility.\n"
-msgstr ""
-"也可以试试打掉它的尾桨。那会\n"
-"大大降低它的机动性。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0090_000_0
-#. timeline 9571..10044
-#: codec/1/204/0xcc700/9
-msgid ""
-"And watch out for ground troops.\n"
-msgstr ""
-"还要小心地面部队。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0090_000_0
-#. timeline 10058..10630
-#: codec/1/204/0xcc700/10
-msgid ""
-"Copy that, comandante.\n"
-msgstr ""
-"收到，指挥官。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0100_000_0
-#. timeline 445..1226
-#: codec/1/204/0xccb20/0
-msgid ""
-"The paths there are buried in vegetation.\n"
-msgstr ""
-"那里植被茂密，路都被埋了。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0100_000_0
-#. timeline 1239..2410
-#: codec/1/204/0xccb20/1
-msgid ""
-"Work with nature to conceal yourself, and you'll be\n"
-"much harder to spot.\n"
-msgstr ""
-"利用自然环境隐蔽自己，\n"
-"就很难被发现。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0100_000_0
-#. timeline 2563..3204
-#: codec/1/204/0xccb20/2
-msgid ""
-"A ghillie suit would be perfect here.\n"
-msgstr ""
-"这里穿吉利服最合适。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0100_000_0
-#. timeline 3232..4667
-#: codec/1/204/0xccb20/3
-msgid ""
-"In any case, take caution when advancing. Don't\n"
-"wear anything that stands out.\n"
-msgstr ""
-"总之，前进时要小心。别穿\n"
-"显眼的衣服。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0100_000_0
-#. timeline 4681..5642
-#: codec/1/204/0xccb20/4
-msgid ""
-"The ruins are a labyrinth, so try and keep your\n"
-"bearings.\n"
-msgstr ""
-"遗迹像迷宫一样，注意\n"
-"别迷失方向。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0100_000_0
-#. timeline 5656..6408
-#: codec/1/204/0xccb20/5
-msgid ""
-"I can use those walls to stay out of sight.\n"
-msgstr ""
-"我可以借那些墙来藏身。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0100_000_0
-#. timeline 6436..7481
-#: codec/1/204/0xccb20/6
-msgid ""
-"Once a sniper is spotted, he'll move to another\n"
-"location.\n"
-msgstr ""
-"狙击手一旦暴露，就会转移到\n"
-"别的位置。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0100_000_0
-#. timeline 7495..8178
-#: codec/1/204/0xccb20/7
-msgid ""
-"You shouldn't stick to the same place, either.\n"
-msgstr ""
-"你也不能老待在一个地方。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0100_000_0
-#. timeline 8317..9348
-#: codec/1/204/0xccb20/8
-msgid ""
-"I know. I learned all about that in the Soviet Union.\n"
-msgstr ""
-"我知道。我在苏联都学过。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0100_000_0
-#. timeline 9376..10825
-#: codec/1/204/0xccb20/9
-msgid ""
-"It's not necessarily a good idea to try to engage a\n"
-"sniper in close-quarters combat.\n"
-msgstr ""
-"跟狙击手打近身战\n"
-"未必是好主意。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0100_000_0
-#. timeline 10853..12134
-#: codec/1/204/0xccb20/10
-msgid ""
-"Finally, once you've found a place to hide don't let\n"
-"them take you from behind.\n"
-msgstr ""
-"最后，找到藏身处后别让\n"
-"他们从背后偷袭你。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0100_000_0
-#. timeline 12176..13277
-#: codec/1/204/0xccb20/11
-msgid ""
-"Don't worry. No one sneaks up on me.\n"
-msgstr ""
-"放心。没人能靠近我。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0120_000_0
-#. timeline 445..1504
-#: codec/1/205/0xcd210/0
-msgid ""
-"El colibri may be powerful, but he can be defeated.\n"
-msgstr ""
-"蜂鸟虽强，但并非不可战胜。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0120_000_0
-#. timeline 1532..2326
-#: codec/1/205/0xcd210/1
-msgid ""
-"Looks like you have a lot of places to hide there.\n"
-msgstr ""
-"看来那里能藏身的地方很多。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0120_000_0
-#. timeline 2354..3650
-#: codec/1/205/0xcd210/2
-msgid ""
-"Remember your fight with the other chopper.\n"
-"Guerilla tactics will be key.\n"
-msgstr ""
-"回想你跟另一架直升机的战斗。\n"
-"游击战术是关键。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0120_000_0
-#. timeline 3678..4555
-#: codec/1/205/0xcd210/3
-msgid ""
-"Only this one's got a few more aces up its sleeve.\n"
-msgstr ""
-"只不过这架还藏着几张王牌。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0120_000_0
-#. timeline 4569..5586
-#: codec/1/205/0xcd210/4
-msgid ""
-"Yes. It might try to crush you by taking out the\n"
-"pillars.\n"
-msgstr ""
-"对。它可能会打掉柱子\n"
-"来压你。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0120_000_0
-#. timeline 5614..7077
-#: codec/1/205/0xcd210/5
-msgid ""
-"Also, watch out for the smaller craft that abducted\n"
-"Chico, the chicolibrí.\n"
-msgstr ""
-"还要小心抓走奇科的那架小飞机，\n"
-"奇科蜂鸟。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0120_000_0
-#. timeline 7105..7509
-#: codec/1/205/0xcd210/6
-msgid ""
-"Chicolibrí...\n"
-msgstr ""
-"奇科蜂鸟\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0120_000_0
-#. timeline 7537..9055
-#: codec/1/205/0xcd210/7
-msgid ""
-"It means \"son of colibri.\" If it gets you, you'll just\n"
-"have to wriggle your way out.\n"
-msgstr ""
-"意思是“蜂鸟之子”。要是被抓住，\n"
-"你只能挣扎着脱身。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0120_000_0
-#. timeline 9069..9599
-#: codec/1/205/0xcd210/8
-msgid ""
-"You might get away if you're lucky.\n"
-msgstr ""
-"运气好的话也许能逃掉。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0120_000_0
-#. timeline 9613..10240
-#: codec/1/205/0xcd210/9
-msgid ""
-"I'd rather not have to take that chance.\n"
-msgstr ""
-"我可不想冒那个险。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0120_000_0
-#. timeline 10267..10992
-#: codec/1/205/0xcd210/10
-msgid ""
-"Indeed, that would be best.\n"
-msgstr ""
-"确实，那样最好。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0140_000_0
-#. timeline 445..919
-#: codec/1/205/0xcd600/0
-msgid ""
-"I remember those barracks.\n"
-msgstr ""
-"我记得那些营房。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0140_000_0
-#. timeline 947..2061
-#: codec/1/205/0xcd600/1
-msgid ""
-"They're full of criss-crossing pathways so visibility\n"
-"is terrible.\n"
-msgstr ""
-"里面小路纵横交错，\n"
-"视野极差。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0140_000_0
-#. timeline 2382..2842
-#: codec/1/205/0xcd600/2
-msgid ""
-"Perfect for sneaking.\n"
-msgstr ""
-"适合潜行。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0140_000_0
-#. timeline 2869..4207
-#: codec/1/205/0xcd600/3
-msgid ""
-"That may be true, but it will also be easy to lose\n"
-"your fix on where you are.\n"
-msgstr ""
-"话虽如此，但也容易迷失\n"
-"方位。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0140_000_0
-#. timeline 4235..5182
-#: codec/1/205/0xcd600/4
-msgid ""
-"You could end up bumping into enemies when\n"
-"rounding corners, too.\n"
-msgstr ""
-"转角处还可能\n"
-"撞上敌人。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0140_000_0
-#. timeline 5948..7314
-#: codec/1/205/0xcd600/6
-msgid ""
-"You will get a better view on the roof, but naturally\n"
-"you will be more easily spotted,\n"
-msgstr ""
-"屋顶视野好，但自然\n"
-"更容易被发现，\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0140_000_0
-#. timeline 7328..8289
-#: codec/1/205/0xcd600/7
-msgid ""
-"and there are few places to hide. If you're going up\n"
-"there,\n"
-msgstr ""
-"而且藏身处很少。你要上去\n"
-"那里，\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0140_000_0
-#. timeline 8303..9097
-#: codec/1/205/0xcd600/8
-msgid ""
-"get a quick lay of the land and then come back\n"
-"down.\n"
-msgstr ""
-"先快速摸清地形再\n"
-"下来。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0140_000_0
-#. timeline 9139..10198
-#: codec/1/205/0xcd600/9
-msgid ""
-"The soldiers there do not have access to many\n"
-"long-range weapons.\n"
-msgstr ""
-"那里的士兵没有多少\n"
-"远程武器。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0140_000_0
-#. timeline 10226..10755
-#: codec/1/205/0xcd600/10
-msgid ""
-"Most likely because of the terrain.\n"
-msgstr ""
-"多半是地形所致。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0140_000_0
-#. timeline 10783..11730
-#: codec/1/205/0xcd600/11
-msgid ""
-"A sniper rifle could be really advantageous there.\n"
-msgstr ""
-"狙击枪在那儿会很有优势。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0140_000_0
-#. timeline 11758..12120
-#: codec/1/205/0xcd600/12
-msgid ""
-"I'll keep that in mind.\n"
-msgstr ""
-"我记住了。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0140_000_0
-#. timeline 12148..12580
-#: codec/1/205/0xcd600/13
-msgid ""
-"Good luck, Snake.\n"
-msgstr ""
-"祝你好运，SNAKE。\n"
-
-#: codec/1/205/0xcdac0/0
-msgid ""
-"Take a look, Snake.\n"
-msgstr ""
-"看吧，SNAKE。\n"
-
-#: codec/1/205/0xcdac0/1
-msgid ""
-"That place is as wide open as a soccer stadium.\n"
-msgstr ""
-"那地方开阔得像足球场。\n"
-
-#: codec/1/205/0xcdac0/2
-msgid ""
-"Best to use a long-range weapon you can snipe\n"
-"with.\n"
-msgstr ""
-"最好用能狙击的\n"
-"远程武器。\n"
-
-#: codec/1/205/0xcdac0/3
-msgid ""
-"I can see several exits.\n"
-msgstr ""
-"我能看到好几个出口。\n"
-
-#: codec/1/205/0xcdac0/4
-msgid ""
-"Right. Don't get too focused on any one of them.\n"
-msgstr ""
-"对。别只盯着一个。\n"
-
-#: codec/1/205/0xcdac0/5
-#: codec/2/917/0x395bd0/13
-msgid ""
-"Copy that.\n"
-msgstr ""
-"收到。\n"
-
-#: codec/1/205/0xcdac0/6
-msgid ""
-"Go get 'em, Snake!\n"
-msgstr ""
-"上吧，SNAKE！\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0130_000_0
-#. timeline 445..1086
-#: codec/1/205/0xcdce0/0
-msgid ""
-"That is el escarabajo - the beetle.\n"
-msgstr ""
-"那是el escarabajo——甲虫。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0130_000_0
-#. timeline 1114..2020
-#: codec/1/205/0xcdce0/1
-msgid ""
-"Even we don't know the escarabajo's weaknesses.\n"
-msgstr ""
-"连我们也不知道甲虫的弱点。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0130_000_0
-#. timeline 2048..2633
-#: codec/1/205/0xcdce0/2
-msgid ""
-"That's not what I wanted to hear.\n"
-msgstr ""
-"这可不是我想听的。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0130_000_0
-#. timeline 2661..3636
-#: codec/1/205/0xcdce0/3
-msgid ""
-"You could try asking that scientist... Huey, right?\n"
-msgstr ""
-"问问那科学家……休伊，对吧？\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0130_000_0
-#. timeline 3664..5154
-#: codec/1/205/0xcdce0/4
-msgid ""
-"This is just common sense, but once it fires a\n"
-"missile, it must take time to reload.\n"
-msgstr ""
-"常识而已，它发射导弹后\n"
-"装填需要时间。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0130_000_0
-#. timeline 5182..6060
-#: codec/1/205/0xcdce0/5
-msgid ""
-"And moving a machine of that size must require\n"
-"the release of\n"
-msgstr ""
-"而且移动那么大的机器肯定需要\n"
-"释放\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0130_000_0
-#. timeline 6074..6548
-#: codec/1/205/0xcdce0/6
-msgid ""
-"considerable amounts of heat.\n"
-msgstr ""
-"大量热量。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0130_000_0
-#. timeline 30818..49118
-#: codec/1/205/0xcdce0/7
-msgid ""
-"Another option would be to take out its weapons.\n"
-msgstr ""
-"另一个办法是打掉它的武器。\n"
-
-#: codec/1/205/0xcdce0/8
-msgid ""
-"Sorry I wasn't much help.\n"
-msgstr ""
-"抱歉没帮上忙。\n"
-
-#: codec/1/205/0xcdce0/9
-msgid ""
-"No, you've given me some ideas.\n"
-msgstr ""
-"不，你给了我思路。\n"
-
-#: codec/1/206/0xce040/0
-msgid ""
-"Wow, you made it all the way to el basilisco's\n"
-"hangar.\n"
-msgstr ""
-"哇，你居然一路到了el basilisco的\n"
-"机库。\n"
-
-#: codec/1/206/0xce040/1
-msgid ""
-"None of us has ever gone that far. I have no idea\n"
-"what the underground base is like.\n"
-msgstr ""
-"我们谁都没到过那么深。地下基地\n"
-"什么样我完全不知道。\n"
-
-#: codec/1/206/0xce040/2
-msgid ""
-"Wish I could say the same.\n"
-msgstr ""
-"我倒希望我也是。\n"
-
-#: codec/1/206/0xce040/3
-msgid ""
-"It'll most likely be some kind of building, so...\n"
-msgstr ""
-"多半是某种建筑，所以……\n"
-
-#: codec/1/206/0xce040/4
-msgid ""
-"...Plenty of places to hide.\n"
-msgstr ""
-"……藏身地多的是。\n"
-
-#: codec/1/206/0xce040/5
-msgid ""
-"Right, but security will be extremely tight.\n"
-msgstr ""
-"对，但戒备会极其森严。\n"
-
-#: codec/1/206/0xce040/6
-msgid ""
-"Do not forget that the odds are stacked heavily\n"
-"against you.\n"
-msgstr ""
-"别忘了你面对的胜算极其\n"
-"渺茫。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0170_000_0
-#. timeline 445..877
-#: codec/1/206/0xce300/0
-msgid ""
-"Any word from Snake?\n"
-msgstr ""
-"SNAKE有消息？\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_amd0170_000_0
-#. timeline 905..1699
-#: codec/1/206/0xce300/1
-msgid ""
-"I can't get through. Strangelove must still have him.\n"
-msgstr ""
-"联系不上。斯特兰奇洛夫还扣着他。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0170_000_0
-#. timeline 1727..1978
-#: codec/1/206/0xce300/2
-msgid ""
-"No!\n"
-msgstr ""
-"不！\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_amd0170_000_0
-#. timeline 2006..2772
-#: codec/1/206/0xce300/3
-msgid ""
-"We just have to trust the Boss - and wait.\n"
-msgstr ""
-"只能相信BOSS——然后等。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0170_000_0
-#. timeline 2800..3134
-#: codec/1/206/0xce300/4
-msgid ""
-"For how long?\n"
-msgstr ""
-"等多久？\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_amd0170_000_0
-#. timeline 3162..4151
-#: codec/1/206/0xce300/5
-msgid ""
-"Amanda, you're cute when you're angry, but please,\n"
-"calm down.\n"
-msgstr ""
-"阿曼达，你生气很可爱，但拜托，\n"
-"冷静点。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_amd0170_000_0
-#. timeline 4179..4806
-#: codec/1/206/0xce300/6
-msgid ""
-"He's prepared for situations like this.\n"
-msgstr ""
-"他为这种情况做过准备。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0170_000_0
-#. timeline 4820..5712
-#: codec/1/206/0xce300/7
-msgid ""
-"With what? They'll find whatever he has on him.\n"
-msgstr ""
-"靠啥？他身上有啥都会被搜出。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_amd0170_000_0
-#. timeline 5726..7007
-#: codec/1/206/0xce300/8
-msgid ""
-"No they won't, because this is something a lot\n"
-"more personal than equipment.\n"
-msgstr ""
-"不会的，因为这东西比装备\n"
-"私人得多。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_amd0170_000_0
-#. timeline 7035..7704
-#: codec/1/206/0xce300/9
-msgid ""
-"And Snake would never have gotten rid of it.\n"
-msgstr ""
-"而SNAKE绝不会丢掉它。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0190_000_0
-#. timeline 445..1811
-#: codec/1/206/0xce6b0/0
-msgid ""
-"Be careful, Snake! I have no advice on dealing with\n"
-"el basilisco's attacks.\n"
-msgstr ""
-"小心，SNAKE！对付el basilisco的攻击\n"
-"我没什么建议。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0190_000_0
-#. timeline 1839..2647
-#: codec/1/206/0xce6b0/1
-msgid ""
-"But you may be able to use its size against it.\n"
-msgstr ""
-"但也许能利用它的体型。\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0190_000_0
-#. timeline 2674..3524
-#: codec/1/206/0xce6b0/2
-msgid ""
-"Its movements will probably be just as big,\n"
-msgstr ""
-"它的动作多半也很大，\n"
-
-#. speaker 0x0e3bb338 voice v_bri_mis_amd0190_000_0
-#. timeline 3538..4583
-#: codec/1/206/0xce6b0/3
-msgid ""
-"meaning it should give some kind of warning before\n"
-"most of its attacks.\n"
-msgstr ""
-"也就是说大多数攻击前应该会有\n"
-"某种预兆。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0190_000_0
-#. timeline 4611..4890
-#: codec/1/206/0xce6b0/4
-msgid ""
-"That's true.\n"
-msgstr ""
-"确实。\n"

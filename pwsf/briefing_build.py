@@ -102,6 +102,19 @@ def needed(lines) -> int:
     return sum(len(s.encode("utf-8")) + 1 for s in lines)
 
 
+def display_lines(lines) -> list:
+    """Blank out extraction artifacts before any budget/rewrite math.
+
+    The second record format (ANALYSIS/03, "script by reference") keeps table
+    entries that point into the binary blob that follows the text; the strings
+    decoded there carry U+FFFD and, worse, no NUL anywhere near, so their
+    lengths are fiction.  Nothing displays them (they never enter the corpus;
+    po_export filters them), so they rewrite as empty strings -- the table
+    keeps all its entries, they just all point at one NUL.
+    """
+    return ["" if "\ufffd" in t else t for t in lines]
+
+
 def rewrite(data, rec: B.Record, lines) -> tuple:
     """Re-lay `lines` into `rec`'s pool -> (bytes, need), or (None, need).
 
@@ -191,7 +204,7 @@ def rebuild(translations: dict, lang: int = None, outdir: Path = None,
                 st.missing.append((group, off, line))
                 continue
             lines[line] = text
-        blob, need = rewrite(data, rec, lines)
+        blob, need = rewrite(data, rec, display_lines(lines))
         if blob is None:
             st.overflow.append((group, off, need, pool_of(rec).budget))
             continue
@@ -257,8 +270,11 @@ def verify(path: Path, translations: dict, lang: int = None) -> list:
             if rec.lines[line] != text:
                 problems.append(f"codec/{group}/{off:#x}/{line}: "
                                 f"{rec.lines[line]!r} != {text!r}")
-        # every line we were not asked to write must be untouched
-        for i, (a, b) in enumerate(zip(old.lines, rec.lines)):
+        # every line we were not asked to write must be untouched --
+        # extraction artifacts (U+FFFD) are blanked by display_lines on both
+        # sides, so blanking them in the rebuild is not a change
+        expected = display_lines(old.lines)
+        for i, (a, b) in enumerate(zip(expected, rec.lines)):
             if i in by_line:
                 continue
             if a != b:
@@ -303,7 +319,7 @@ def overflows(translations: dict) -> list:
         for line, text in by_line.items():
             if 0 <= line < len(lines):
                 lines[line] = text
-        need = needed(lines)
+        need = needed(display_lines(lines))
         budget = pool_of(rec).budget
         if need > budget:
             out.append((group, off, need, budget))

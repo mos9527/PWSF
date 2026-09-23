@@ -576,30 +576,50 @@ def parse_record(buf, a1: int) -> Record | None:
         lines.append(raw.decode("utf-8", "replace"))
     if v11 + 8 > len(buf):
         return None
-    # 脚本区入口必须是合法字节码。这是剔除魔数碰撞假阳性的决定性判据：
-    # 实测入口合法 2049 条 -> 台词 100% 可解码；入口非法 614 条 -> 601 条含乱码
-    # （_probe_bri18.py）。假阳性的 off0 是随机大数，entry_off 会越界。
+    # 脚本区入口曾是剔除魔数碰撞假阳性的判据：入口合法 2049 条 -> 台词 100%
+    # 可解码；入口非法 614 条 -> 601 条被判「含乱码」（_probe_bri18.py）。
+    #
+    # 2026-09-23 推翻（_probe_bri55.py，截图取证：任务选择 DATE 预览
+    # "The Boss has infiltrated the coastal supply facility" 无 en 语料）：
+    #   * IDA briefing_record_parse @ 0x1400A3230 反编译证明真解析器对入口
+    #     **不做任何检查**（只算指针 A->entry = v11 + u32@v11 + 8）；
+    #   * 「入口非法」的头里有大量真记录（旧白名单口径下全文件 621 个，
+    #     574 个首行 100% 可读：Paz 日记、kaz0650 的 fr/it/es 缺本、
+    #     DATE 电台预览……）；
+    #   * 这些记录的脚本区首 dword 是**会话级常量**（同一通话的 it/en 副本
+    #     逐字节相同，如 0x8a68fbf0），应是「脚本按引用共享」的第二种记录
+    #     格式，入口指针自然无效——但文本提取与池写回不依赖脚本区；
+    #   * 它们的表尾部若干项指进池内文本之后的二进制块（重叠垃圾），行数
+    #     语义未定，故行数保持 cnt 不变（写回表项数不变，游戏端安全），
+    #     垃圾行由 po_export 按替换率过滤、不进语料。
+    # 门槛改为：首行替换字符占比 >= 0.2 视为魔数碰撞假阳性剔除
+    # （_probe_bri55.py [G]：候选 621 个里 574 个首行全净，纯垃圾头首行即乱码）。
     entry = v11 + _u32(buf, v11) + 8
-    if not (v11 + 4 <= entry < len(buf)):
-        return None
-    op = buf[entry]
-    if op & 0xF0 == 0 or op not in (0x8D, 0x8E):
-        return None
-    lo = op & 0x0F
-    if lo == 13:
-        n, body = buf[entry + 1], entry + 2
-    elif lo == 14:
-        n, body = int.from_bytes(buf[entry + 1:entry + 3], "little"), entry + 3
-    else:
-        n, body = lo, entry + 1
-    if body + n > len(buf):
-        return None
+    entry_ok = v11 + 4 <= entry < len(buf)
+    op = buf[entry] if entry_ok else None
+    whitelisted = entry_ok and (op & 0xF0 == 0 or op in (0x8D, 0x8E))
+    if not whitelisted:
+        if not lines or not lines[0] or \
+                lines[0].count("\ufffd") / len(lines[0]) >= 0.2:
+            return None                  # 魔数碰撞假阳性（首行即乱码）
+        prob.append("relaxed-entry")
+    if entry_ok:
+        lo = op & 0x0F
+        if lo == 13:
+            n, body = buf[entry + 1], entry + 2
+        elif lo == 14:
+            n, body = int.from_bytes(buf[entry + 1:entry + 3], "little"), entry + 3
+        else:
+            n, body = lo, entry + 1
+        if body + n > len(buf):
+            return None
     return Record(
         off=a1, sector=a1 // SECTOR, idx=a1 // 16,
         id24=_u24(buf, a1), flags=buf[a1 + 3],
         v10=v10, off0=o0, off1=o1, off2=o2, off3=o3,
         table=table, lines=lines,
-        script_off=v11 + 4, entry_off=v11 + _u32(buf, v11) + 8,
+        script_off=v11 + 4,
+        entry_off=(entry if entry_ok else -1),
         problems=prob,
     )
 
@@ -650,7 +670,8 @@ if __name__ == "__main__":
     from . import config
 
     ap = argparse.ArgumentParser(description="PWSF BRIEFING / CODEC 提取")
-    ap.add_argument("dat", nargs="?", default=str(config.BRIEFING_DAT))
+    ap.add_argument("dat", nargs="?",
+                    default=str(config.pristine(config.BRIEFING_DAT)))
     ap.add_argument("-o", "--out", help="输出 TSV")
     a = ap.parse_args()
 
