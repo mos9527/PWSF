@@ -20,7 +20,7 @@ if(PWSF_DEBUG)
 endif()
 
 # 产物恒为 pwsf.dll。装进游戏时它叫 winmm.dll 还是 pwsf.asi，是安装侧的事
-# （pwsf.install --hook winmm|asi|none / install.bat 问用户），构建不掺和。
+# （pwsf.install --hook asi|none），构建不掺和。
 set_target_properties(dllmain PROPERTIES OUTPUT_NAME "pwsf")
 
 # 顺手把产物丢到工程根目录，方便部署

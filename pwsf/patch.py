@@ -1,12 +1,19 @@
-r"""Package a build as a redistributable patch, and apply it.
+r"""Package a build as a redistributable patch.
 
     BUILD/MANIFEST.tsv + BUILD/*  --build-->  BUILD/pwsf_patch/
                                                  files/<game-relative path>
                                                  MANIFEST.tsv
                                                  PATCH.txt, README.txt
-                                                 install.bat / restore.bat
-                                                 (no Python needed)
+                                                 pwsf.asi (+ winmm.dll
+                                                  ASI loader)
                                    then ->  PWSF-<ver>.zip  in the cwd
+
+There is no installer and no backup: applying the patch is copying `files\`
+over the game directory (same relative paths, overwrite everything) and
+dropping `pwsf.asi` next to `mgspw.exe`.  Undoing it is Steam's own
+"Verify integrity of game files", which re-fetches anything the patch
+replaced -- so nothing here keeps an `*.orig`, and nothing here has to be
+able to put one back.
 
 The payload is the whole replaced file, not a delta.  That is deliberate:
 
@@ -16,22 +23,18 @@ The payload is the whole replaced file, not a delta.  That is deliberate:
   real byte churn: SLOT.DAT 17.4% of 544 MB in 109 scattered regions, the
   font atlas 51% of 17 MB in 3,408 runs.  A delta would be neither small
   nor simple.
-* "install" is then just `copy`, so a player with no Python can apply it
-  from a .bat.
+* whole files mean "install" is `copy`, which anyone can do by hand.
 
-The shipped installer does NOT verify the game's original.  The player is
-expected to confirm Steam has the latest clean build first (right-click ->
-Properties -> Verify integrity of game files); the installer then backs up
-each file (to `*.orig`, `config.BACKUP_SUFFIX`) only if no backup exists yet,
-and overwrites.  The dev-side `pwsf.install` keeps the stricter hash gate
-(`verify_game=True`) for when you are iterating from the repo.  `*.orig`
-backups mean `pwsf.install --restore` and this module undo each other's work.
+The dev-side `pwsf.install` still keeps the hash gate and the `*.orig`
+backups (that backup is also where every extraction path reads its English
+source, `config.pristine`); this module deliberately opts out of both --
+see AGENTS.md / PLANS/07.
 
 Usage:
     python -m pwsf.patch --build            # BUILD/ -> BUILD/pwsf_patch/ +
                                             #   PWSF-<ver>.zip in the cwd
-    python -m pwsf.patch --install          # apply the package
-    python -m pwsf.patch --restore          # put the *.orig backups back
+    python -m pwsf.patch --install          # copy the package over the game
+                                            #   (no backup; no --restore)
 """
 
 import argparse
@@ -50,15 +53,6 @@ PACKAGE_NAME = "pwsf_patch"
 PAYLOAD = "files"
 INFO = "PATCH.txt"
 README = "README.txt"
-FILES_TSV = "files.tsv"           # comma list the static .bats parse
-
-# no-Python path: the installers are static helpers, kept in the repo
-# (tools/build/) and copied verbatim into the package.  They read FILES_TSV
-# for the per-file dest / payload, so nothing about them is regenerated on
-# each build.
-BAT_DIR = config.REPO_ROOT / "tools" / "build"
-INSTALL_BAT = "install.bat"
-RESTORE_BAT = "restore.bat"
 
 
 def git_describe() -> str:
@@ -108,13 +102,6 @@ def build(build_dir: Path, pkg_dir: Path, lang: str = "en",
         info_text(version, items, lang, note, total), encoding="utf-8")
     (pkg_dir / README).write_text(
         readme_text(version, items, lang, total), encoding="utf-8")
-    write_files_tsv(pkg_dir / FILES_TSV, items)
-    for bat in (INSTALL_BAT, RESTORE_BAT):
-        src_bat = BAT_DIR / bat
-        if not src_bat.is_file():
-            raise SystemExit(f"missing helper {src_bat}; "
-                             f"expected the static installers in tools/build/")
-        shutil.copy2(src_bat, pkg_dir / bat)
 
     # 注入 DLL：只有 pwsf.asi 一种形态（伪装成 winmm.dll 会加载在 exe 解密之前，
     # sigscan 扫不到，2026-09-22 实测）。强制按 PWSF_DEBUG=OFF 重编一次，
@@ -127,7 +114,7 @@ def build(build_dir: Path, pkg_dir: Path, lang: str = "en",
     else:
         print(f"  hook: {inst.HOOK_DLL} not built, shipping without the "
               f"injection DLL")
-    # ASI loader：整包带着，install.bat 只在游戏目录没有 winmm.dll 时才放
+    # ASI loader：整包带着，玩家自己判断游戏目录有没有 winmm.dll（没有才放）
     loader = inst.find_loader_artifact()
     if loader:
         shutil.copy2(loader, pkg_dir / inst.HOOK_WINMM)
@@ -138,21 +125,6 @@ def build(build_dir: Path, pkg_dir: Path, lang: str = "en",
     print(f"  {copied} file(s), {total:,} bytes -> {pkg_dir}")
     print(f"  version {version}")
     return pkg_dir
-
-
-def write_files_tsv(path: Path, items: list) -> None:
-    """Comma-separated `dest,payload` for the static bats.
-
-    No hash columns: the shipped installer does not verify the game's original
-    (the player confirms Steam is up to date); it only needs where each file
-    goes and where its replacement sits.  Windows paths never contain a comma,
-    so `delims=,` parses cleanly.
-    """
-    lines = ["dest,payload"]
-    for it in items:
-        rel = it.dest.relative_to(config.GAME_DIR).as_posix()
-        lines.append(f"{rel},{payload_path(rel)}")
-    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def zip_package(pkg_dir: Path, level: int = 6,
@@ -200,7 +172,8 @@ def info_text(version: str, items: list, lang: str, note: str,
         lines.append(f"      {it.kind:8} {it.size:>12,}  {it.sha}")
         lines.append(f"      {'':8} {'original':>12}  {it.orig_sha}")
     lines += ["", "sha256 of this PATCH.txt is for manual spot-checks only; "
-                   "the shipped installer does not verify the game original.",
+                   "applying the patch verifies nothing and keeps no backup "
+                   "(Steam's verify-integrity is the way back).",
               ""]
     return "\n".join(lines) + "\n"
 
@@ -216,38 +189,36 @@ def readme_text(version: str, items: list, lang: str, total: int) -> str:
         f"版本 {version}   语言槽 {lang}   {len(items)} 个文件（{kinds_txt}）"
         f"   共 {total:,} 字节",
         "",
-        "【装之前】",
+        "【怎么装】没有安装器，手动覆盖就行：",
         "  1. 先确认游戏是最新原版：Steam 库里右键 MGS PW → 属性 →",
-        "     「已安装的文件」→ 验证游戏文件的完整性。安装器不再帮你校验",
-        "     原版哈希，版本对不上会把错的文件备份成 *.orig，后续还原/再提取",
-        "     都会出错。",
-        "  2. 每个被替换的文件都会在旁边留一份 *.orig。它是还原的唯一依据，",
-        "     也是下次重新导出英文语料的来源，别删。",
-        "  3. 不需要关 Steam；装完直接开游戏即可。",
+        "     「已安装的文件」→ 验证游戏文件的完整性。这一包不校验原版，",
+        "     版本对不上后果自负。",
+        "  2. 把 files\\ 里的东西按原样复制进游戏目录（含 FONT 和 MLG 的",
+        "     mgspw 文件夹），同名文件一律覆盖。",
+        "     例：files\\MLG\\disc0_rel\\002aba34.DAT",
+        "         -> <游戏目录>\\MLG\\disc0_rel\\002aba34.DAT",
+        "  3. 把 pwsf.asi 复制进 mgspw.exe 所在的同一个目录（字体注入要用）。",
+        "     那个目录里如果还没有 winmm.dll，再把包里的 winmm.dll 也放进去",
+        "     （ASI loader）；已经有的话别动，那是别的 mod 的。",
         "",
-        "【没有 Python 怎么装】",
-        "  双击 install.bat，按提示把游戏目录（含 FONT 和 MLG 的 mgspw 文件夹）",
-        "  粘贴进去回车就行。它会装 pwsf.asi（字体注入），并在游戏目录还没有",
-        "  ASI loader 时补一个 winmm.dll —— 已经有的话原样保留，不动别的 mod。",
-        "  它不自动找 Steam、也不读任何配置文件，每次都问你。",
+        "【怎么卸载 / 回到英文】",
+        "  没有还原脚本，也不留任何备份。回来靠 Steam：",
+        "  Steam 库右键 MGS PW → 属性 → 已安装的文件 → 验证游戏文件的完整性，",
+        "  被改过的文件会被重新拉回来。之后手动删掉游戏目录里的 pwsf.asi",
+        "  （winmm.dll 若本来就是你的 ASI loader，留着无妨）。",
         "",
-        "【有 Python 怎么装】",
+        "【有 Python 也能装】",
         "  在本仓库根目录：",
         "    python -m pwsf.patch --install",
-        "",
-        "【还原】",
-        "  restore.bat（带 Python 就 python -m pwsf.patch --restore）",
-        "  会把 *.orig 拷回去，并删掉装进去的注入 DLL。",
-        "  想连备份一起清掉，手动删 *.orig。",
+        "  它做同样的事（覆盖 + 放 hook），一样不备份。",
         "",
         "【游戏更新后】",
-        "  先还原，再让 Steam 更新，然后重新打补丁：更新会覆盖原文件，",
-        "  *.orig 不受影响，重装补丁即可。",
+        "  更新会覆盖原文件：先按上面「卸载」验证一次，更新完再重新覆盖一遍。",
         "",
         "【这一包里有什么】",
-        "  files\\  按游戏目录原样摆放的替换文件",
-        "  pwsf.asi   字体注入 DLL（由 ASI loader 加载）",
-        "  winmm.dll  自带的 ASI loader（仅当游戏目录没有时才装）",
+        "  files\\  按游戏目录原样摆放的替换文件，直接覆盖同名文件",
+        "  pwsf.asi   字体注入 DLL（放 mgspw.exe 同目录，由 ASI loader 加载）",
+        "  winmm.dll  自带的 ASI loader（只在你还没有时才需要放）",
         "  MANIFEST.tsv  每个文件的目标路径 / 补丁后哈希 / 原版哈希",
         "  PATCH.txt     版本、构建时间、逐文件哈希（人工核对用）",
         "",
@@ -255,11 +226,6 @@ def readme_text(version: str, items: list, lang: str, total: int) -> str:
         "",
     ]) + "\n"
 
-
-# --------------------------------------------------------------- bat files
-#
-# The installers are static helpers in tools/build/ (see write_files_tsv for
-# the FILES_TSV they consume); nothing here generates script text.
 
 # ------------------------------------------------------------------- main
 
@@ -272,8 +238,10 @@ def main() -> None:
                     help="package the build and write PWSF-<ver>.zip into the "
                          "current working directory")
     ap.add_argument("--zip-level", type=int, default=6)
-    ap.add_argument("--install", action="store_true")
-    ap.add_argument("--restore", action="store_true")
+    ap.add_argument("--install", action="store_true",
+                    help="copy the package over the game directory; no backup "
+                         "is taken, so there is no --restore -- undo with "
+                         "Steam's verify-integrity")
     ap.add_argument("--lang", default="en",
                     help="language slot the build writes into; recorded in "
                          "PATCH.txt / README.txt only")
@@ -296,17 +264,15 @@ def main() -> None:
 
     config.require_game()
     if args.install:
-        # shipped installer: no game-original hash gate (player confirms Steam
-        # is up to date); just back up + overwrite.
-        inst.install(inst.read_manifest(args.pkg_dir), verify_game=False)
+        # no hash gate, no backup: the package is meant to be copied over a
+        # clean Steam install, and Steam's verify-integrity is the way back.
+        inst.install(inst.read_manifest(args.pkg_dir), verify_game=False,
+                     backup=False)
         inst.deploy_hook(args.hook, True)
-        print("restore with: python -m pwsf.patch --restore")
-    elif args.restore:
-        inst.restore(inst.read_manifest(args.pkg_dir))
-        inst.remove_hook()
     else:
         inst.status(inst.read_manifest(args.pkg_dir))
-        print("\n--install to apply, --restore to undo")
+        print("\n--install to copy these over the game directory "
+              "(no backup is taken)")
 
 
 if __name__ == "__main__":

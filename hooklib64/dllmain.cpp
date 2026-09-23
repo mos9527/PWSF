@@ -88,7 +88,8 @@ static DWORD WINAPI warnNotHooked(LPVOID)
         L"PWSF 字体注入没能装上：没在游戏代码里定位到 font_load_xpr。\r\n\r\n"
         L"此时小字体文件已被换成 4096x4096 的图集，而游戏仍按 2048x1024 读取，"
         L"进入小字体界面可能会崩溃。\r\n\r\n"
-        L"请运行补丁目录里的 restore.bat 还原，并确认游戏目录下同时有：\r\n"
+        L"请在 Steam 里「验证游戏文件的完整性」还原字体文件，并确认游戏目录下"
+        L"同时有：\r\n"
         L"    pwsf.asi\r\n"
         L"    winmm.dll（ASI loader）",
         L"PWSF — font hook not installed",

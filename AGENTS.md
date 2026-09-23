@@ -232,24 +232,29 @@ python -m pwsf.install --restore
 
 细节与硬性规则（`<I=...>`、格式符、换行）见 `src/README.md`。
 
-# 补丁打包（已实现，见 `research/PLANS/07` 与 `README.md` §给别人装）
+# 补丁打包（已实现，见 `research/PLANS/07` 与 `README.md` §补丁构建）
 `po_lint` / `po_import` / `install` 已落地（见计划 06 §9），「装一份汉化」
 已从跑命令变成发补丁：
 
 1. `pwsf/patch.py` 复用 `po_import` 的构建与 `MANIFEST.tsv`，打成
-   `research/BUILD/pwsf_patch/`：只含被替换的游戏文件 + 清单 + `files.tsv`
-   （`dest,payload` 两列，给 `.bat` 解析）+ 食用说明 + 两个静态 `.bat`。
+   `research/BUILD/pwsf_patch/`：按游戏目录原样摆放的 `files\` + 清单
+   （`MANIFEST.tsv`）+ `PATCH.txt` + 食用说明 `README.txt` + `pwsf.asi`
+   与自带的 ASI loader `winmm.dll`。
 2. 整文件打包，不做 delta：`_probe_patch1.py` 实测 SLOT.DAT 改 17.4%（544MB
    散在 109 处）、字体重建改 51%（17MB / 3408 处），且都嵌套加密/压缩，
    delta 既不小也不好做。
-3. **不校验游戏原版哈希**：安装器只做「无 `.orig` 先备份 + 覆盖」，玩家
-   自己确认 Steam 游戏是最新原版（验证完整性）。理由与取舍见 PLANS/07。
-   开发侧 `pwsf.install` 仍保留 `verify_game=True` 的严格状态机。
-4. 备份与还原沿用 `config.BACKUP_SUFFIX`（`*.orig`）与 `pwsf.install`
-   那套（`pwsf.install --restore` 与成品补丁的 `restore.bat` 互为可逆）。
-5. 入口 `python -m pwsf.patch [--build [--zip] | --install | --restore]`；
+3. **没有安装器、也不校验原版哈希**：装法就是把 `files\` 手动覆盖进游戏目录
+   （外加 `pwsf.asi` 放 `mgspw.exe` 旁边），玩家自己确认 Steam 游戏是最新
+   原版（验证完整性）。理由与取舍见 PLANS/07。
+4. **完全不管备份**：补丁侧不留 `*.orig`、也没有 `--restore`，回到原版靠
+   Steam「验证游戏文件的完整性」。开发侧 `pwsf.install` 仍保留
+   `verify_game=True` 的严格状态机与 `*.orig` 备份（那个备份同时是英文语料
+   的来源，`config.pristine`）—— `pwsf.patch --install` 走
+   `install(verify_game=False, backup=False)` 显式退出这两件事。
+5. 入口 `python -m pwsf.patch [--build [--zip] | --install]`；
    PoC `_poc_text_cn.py` 保留作证据，不再作为安装手段。
-6. 静态 `.bat` 放 `tools/build/`，打包时 `shutil.copy2` 进包，不再内嵌生成。
+6. ~~静态 `.bat`（`tools/build/install.bat` / `restore.bat`）~~ 已于
+   2026-09-23 删除，改用手动覆盖；包里不再带任何脚本。
 
 # Packages
 | 模块 | 作用 |

@@ -107,7 +107,8 @@ def status(items: list) -> None:
         print(f"  {state:9} {rel} ({it.kind}, {it.size} bytes{note})")
 
 
-def install(items: list, force: bool = False, verify_game: bool = True) -> None:
+def install(items: list, force: bool = False, verify_game: bool = True,
+            backup: bool = True) -> None:
     """Write a build into the game.
 
     verify_game=True (dev default): refuse to clobber a file that is neither
@@ -115,8 +116,11 @@ def install(items: list, force: bool = False, verify_game: bool = True) -> None:
     backups trustworthy as a re-extraction source.
 
     verify_game=False (shipped patch): the player is assumed to have confirmed
-    the game is the latest clean Steam build, so we just back up (if no `.orig`
-    yet) and overwrite.  No hash gate -- see AGENTS.md / PLANS/07.
+    the game is the latest clean Steam build, so there is no hash gate -- see
+    AGENTS.md / PLANS/07.
+
+    backup=False (shipped patch): overwrite without leaving an `.orig`, i.e.
+    nothing to restore from -- undoing it means Steam's verify-integrity.
     """
     for it in items:
         rel = it.dest.relative_to(config.GAME_DIR)
@@ -143,7 +147,7 @@ def install(items: list, force: bool = False, verify_game: bool = True) -> None:
                     f"back on. Reinstall the game file, or pass --force to "
                     f"overwrite it (the original would then be unrecoverable).")
         else:
-            if not it.backup.is_file() and it.dest.is_file():
+            if backup and not it.backup.is_file() and it.dest.is_file():
                 shutil.copy2(it.dest, it.backup)
                 print(f"  backed up {rel} -> {it.backup.name}")
 

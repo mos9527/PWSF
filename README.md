@@ -51,13 +51,17 @@ python -m pwsf.launch --install-shim
 ```
 ## 补丁构建
 
-`python -m pwsf.patch --build` 可生成补丁包。
+`python -m pwsf.patch --build` 生成补丁包（`research/BUILD/pwsf_patch/` 与 `PWSF-<ver>.zip`）。
 
-```text
-install.bat "游戏目录\mgspw"     # 装之前先确认 Steam 游戏是最新原版
-                                  # 装 pwsf.asi；缺 ASI loader 时才补一个 winmm.dll
-restore.bat "游戏目录\mgspw"     # 还原 *.orig 备份，并删掉 pwsf.asi（loader 保留）
-```
+没有安装器，也不做备份 —— 装就是手动覆盖：
+
+1. Steam 库里右键 MGS PW → 属性 →「已安装的文件」→ 验证游戏文件的完整性，确认是最新原版
+2. 把包里 `files\` 的内容按目录结构复制进游戏目录（含 `FONT`、`MLG` 的 `mgspw`），同名一律覆盖
+3. 把 `pwsf.asi` 放进 `mgspw.exe` 所在目录；那里还没有 `winmm.dll` 的话再放一个包里的 `winmm.dll`（ASI loader）
+
+想卸掉就再「验证游戏文件的完整性」让 Steam 把文件拉回来，然后手动删掉 `pwsf.asi`。
+
+开发侧 `python -m pwsf.install` 仍会留 `*.orig` 备份（它同时是英文语料的来源）；补丁包刻意不管备份。
 
 其余见 [`AGENTS.md`](AGENTS.md)
 

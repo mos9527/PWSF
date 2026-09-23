@@ -90,3 +90,19 @@ Windows 路径不含逗号，batch 用 `delims=,` 解析）拿到每个文件的
 - 成品 `.bat` 在开发沙箱里无法端到端跑（环境拦了 `certutil` / `reg`），
   但其逻辑只用最基础的 cmd 习惯用法（`copy`、`for /f`、`reg query` 探测
   Steam 目录、`set /p` 读 `game_dir.txt`），在玩家 64 位 Windows 上即开即用。
+
+## 8. 后续变更（2026-09-23）：安装器与备份一并取消
+
+§4、§5 已被推翻，**保留原文**如下依据：
+
+- 静态 helper `tools/build/install.bat` / `restore.bat` 已删除，包里不再带任何
+  脚本；`files.tsv` 与 `patch.write_files_tsv` 同步删掉（它只是给 `.bat` 解析的
+  两列路径，`MANIFEST.tsv` 已含同样的目标路径）。
+- 装法改为**手动覆盖**：`files\` 按游戏目录原样复制进去覆盖同名文件，
+  `pwsf.asi`（必要时加 ASI loader `winmm.dll`）放 `mgspw.exe` 同目录。
+  `README.txt` 就写这三步。
+- **完全不管备份**：`patch --install` 走 `install(verify_game=False,
+  backup=False)`，不留 `*.orig`，`--restore` 参数一并去掉；回到原版靠 Steam
+  「验证游戏文件的完整性」。
+- 开发侧 `pwsf.install` 的哈希门禁与 `*.orig` 备份不变 —— 那份备份同时是
+  `config.pristine` 再提取英文语料的来源，不能丢。
