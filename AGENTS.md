@@ -179,14 +179,14 @@ python research\TOOLS\_probe_stagedat_inner.py --dump-dir research\BUILD\x --dum
 ```
 src/
   olang/olang_01..04.po   UI 文字 + 游戏内字幕    1,461 条   能写回
-  codec/codec_01..15.po   CODEC / 简报台词        5,911 条   能写回（池预算紧，见下）
+  codec/codec_01..15.po   CODEC / 简报台词        5,782 条   能写回（池预算紧，见下）
   slot/slot_01..24.po     SLOT.DAT 内嵌文本       9,566 条   能写回（过场 1,858 条）
   stage/stage_01..12.po   STAGEDAT 内嵌文本       4,522 条   能写回（pwsf.stage_build 重建容器）
   gtt/gtt_01..06.po       SLOT.DAT 的 GTT 池       2,238 条  能写回（行内原地，见下）
   MANIFEST.tsv            分块索引
 ```
 
-合计 23,698 条。**只改这些子目录里的 `.po`**，往 `msgstr ""` 里填中文。
+合计 23,569 条。**只改这些子目录里的 `.po`**，往 `msgstr ""` 里填中文。
 
 > `gtt/` 是 2026-09-21 才挖出来的第四套语料（`ANALYSIS/11_gtt_text.md`）：任务内
 > 无线台与提示台词，原先谁都没提取过 —— `slotdat_find_res_entry` 只认 `0x20` 类
