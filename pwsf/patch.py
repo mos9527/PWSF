@@ -25,6 +25,21 @@ The payload is the whole replaced file, not a delta.  That is deliberate:
   nor simple.
 * whole files mean "install" is `copy`, which anyone can do by hand.
 
+For the same reason the zip is written **stored** (`--zip-level 0`, the
+default).  Measured on 16 MB samples of the shipped payload, `deflate -9`
+gives back 99.3-100.0% of the raw bytes, so it saves nothing and just burns
+CPU (and on the two biggest files it even adds a few hundred KB):
+
+| payload | deflate -9 / raw |
+|---|---|
+| `002aba34.DAT` (SLOT.DAT, 64 MB sample) | 100.03% |
+| `0007ccd8.xpr` (font atlas) | 100.03% |
+| `009645fa.PDT` (STAGEDAT) | 99.76% |
+| `0076531d.DAT` (CODEC, whole file) | 99.34% |
+
+Reproduce with `python research/TOOLS/_probe_patch2.py` (needs a `--build`
+first).  Ask for `--zip-level 9` if you ever want to spend the CPU anyway.
+
 The dev-side `pwsf.install` still keeps the hash gate and the `*.orig`
 backups (that backup is also where every extraction path reads its English
 source, `config.pristine`); this module deliberately opts out of both --
@@ -138,8 +153,13 @@ def zip_package(pkg_dir: Path, level: int = 6,
     if dst.exists():
         dst.unlink()
     files = sorted(p for p in pkg_dir.rglob("*") if p.is_file())
-    with zipfile.ZipFile(dst, "w", zipfile.ZIP_DEFLATED,
-                         compresslevel=level) as z:
+    # 载荷全是加密 + 压缩过的游戏容器，熵值本就接近 1，deflate 白费 CPU
+    # （实测 --zip-level 9 与 store 出的包体量相当）。level<=0 走 ZIP_STORED。
+    if level <= 0:
+        method, kw = zipfile.ZIP_STORED, {}
+    else:
+        method, kw = zipfile.ZIP_DEFLATED, {"compresslevel": level}
+    with zipfile.ZipFile(dst, "w", method, **kw) as z:
         for p in files:
             print(f"  + {p.relative_to(pkg_dir).as_posix()} "
                   f"({p.stat().st_size:,} B)")
@@ -237,7 +257,10 @@ def main() -> None:
     ap.add_argument("--build", action="store_true",
                     help="package the build and write PWSF-<ver>.zip into the "
                          "current working directory")
-    ap.add_argument("--zip-level", type=int, default=6)
+    ap.add_argument("--zip-level", type=int, default=0,
+                    help="0 = store (default: the payload is encrypted and "
+                         "compressed game data, deflate saves nothing and "
+                         "only burns CPU); 1-9 = deflate")
     ap.add_argument("--install", action="store_true",
                     help="copy the package over the game directory; no backup "
                          "is taken, so there is no --restore -- undo with "
