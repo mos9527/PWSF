@@ -1337,7 +1337,7 @@ msgid ""
 "Metal Gear ZEKE is not complete.\n"
 "All MAIN PARTS must be set."
 msgstr ""
-"合金装备·吉克尚未完成。\n"
+"合金装备·ZEKE尚未完成。\n"
 "必须设置所有主要部件。"
 
 #: slot/0x002e0fee/0x1a3e77/0x00f276
@@ -1746,7 +1746,7 @@ msgstr ""
 
 #: slot/0x002e0fee/0x1a3e77/0x0e97d2
 msgid "Head parts for Metal Gear ZEKE. Equipped with a machine gun with high initial velocity."
-msgstr "合金装备·吉克头部零件。装备高初速机枪。"
+msgstr "合金装备·ZEKE头部零件。装备高初速机枪。"
 
 #: slot/0x002e0fee/0x1a3e77/0x0f73f6
 msgid "STATUS NOTIFICATION"
@@ -1786,7 +1786,7 @@ msgstr "雷达罩。提升命中。"
 
 #: slot/0x002e0fee/0x1a3e77/0x33bfbf
 msgid "Set Metal Gear ZEKE's optional parts."
-msgstr "设置合金装备·吉克的可选部件。"
+msgstr "设置合金装备·ZEKE的可选部件。"
 
 #: slot/0x002e0fee/0x1a3e77/0x352d1e
 msgid "Mobility"
@@ -1835,11 +1835,11 @@ msgstr "头部部件"
 
 #: slot/0x002e0fee/0x1a3e77/0x5ce94b
 msgid "Leg parts for Metal Gear ZEKE. Bipedal locomotion system with high mobility."
-msgstr "合金装备·吉克的腿部部件。高机动性双足行走系统。"
+msgstr "合金装备·ZEKE的腿部部件。高机动性双足行走系统。"
 
 #: slot/0x002e0fee/0x1a3e77/0x5e4319
 msgid "Change Metal Gear ZEKE's paint job. Set both BODY COLOR and LINE COLOR."
-msgstr "改吉克涂装。设置车身色和线条色。"
+msgstr "改ZEKE涂装。设置车身色和线条色。"
 
 #: slot/0x002e0fee/0x1a3e77/0x6263cd
 msgid "Walk Unit"
@@ -1851,7 +1851,7 @@ msgstr "(不要)テロップサンプル"
 
 #: slot/0x002e0fee/0x1a3e77/0x661b16
 msgid "A power unit for Metal Gear ZEKE. Supplies power to head and leg parts."
-msgstr "合金装备·吉克的动力组件。为头部和腿部组件供电。"
+msgstr "合金装备·ZEKE的动力组件。为头部和腿部组件供电。"
 
 #: slot/0x002e0fee/0x1a3e77/0x6a33a6
 msgid "Enlarge: L button"
@@ -1882,7 +1882,7 @@ msgstr "返回：<I=CAN>"
 
 #: slot/0x002e0fee/0x1a3e77/0x6a6c8c
 msgid "View Metal Gear ZEKE's current capabilities."
-msgstr "查看合金装备·吉克当前性能。"
+msgstr "查看合金装备·ZEKE当前性能。"
 
 #: slot/0x002e0fee/0x1a3e77/0x7254af
 msgid "Select the timing for dialogue playback."
@@ -1898,7 +1898,7 @@ msgstr "丢弃此组件？"
 
 #: slot/0x002e0fee/0x1a3e77/0x7dc1d0
 msgid "Set the VOCALOID in Metal Gear ZEKE."
-msgstr "设置吉克的 VOCALOID。"
+msgstr "设置ZEKE的 VOCALOID。"
 
 #: slot/0x002e0fee/0x1a3e77/0x90d5b5
 msgid "REMOVE EQUIPMENT / DISCARD"
@@ -1906,7 +1906,7 @@ msgstr "卸下装备 / 丢弃"
 
 #: slot/0x002e0fee/0x1a3e77/0x91f2a0
 msgid "Change Metal Gear ZEKE's paint job."
-msgstr "改吉克涂装。"
+msgstr "改ZEKE涂装。"
 
 #: slot/0x002e0fee/0x1a3e77/0x95f2a5
 msgid "AI Pod Damaged"

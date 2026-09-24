@@ -1126,8 +1126,8 @@ msgid ""
 "Snake and his crew must neutralize Metal Gear ZEKE.\n"
 "  From \"ZEKE Battle\""
 msgstr ""
-"SNAKE一行必须制伏合金装备·吉克。\n"
-"  摘自“吉克战”"
+"SNAKE一行必须制伏合金装备·ZEKE。\n"
+"  摘自“ZEKE战”"
 
 #: slot/0x00514128/0x215635/0x15ac9e
 msgid "Rescue Chico from the Aldea Los Despiertos Prison Facility and locate the route used by the U.S. mercenaries to transport the nuclear material."
@@ -1165,8 +1165,8 @@ msgid ""
 "Mother Base. A few hours after Metal Gear ZEKE falls silent.\n"
 "  From \"ZEKE Battle\""
 msgstr ""
-"母基地。合金装备·吉克沉寂数小时后。\n"
-"  出自“吉克战”"
+"母基地。合金装备·ZEKE沉寂数小时后。\n"
+"  出自“ZEKE战”"
 
 #: slot/0x00514128/0x215635/0x16a373
 #: slot/0x00514128/0x215635/0xc805a5
@@ -1273,7 +1273,7 @@ msgid ""
 "<C=FF4040>Fight a simulated battle<C=R> to help the <C=FF4040>onboard AI<C=R> collect performance data. Since this is a simulation, any damage dealt to the simulated ZEKE will not affect the real ZEKE.\n"
 "The WALKMAN is not allowed."
 msgstr ""
-"<C=FF4040>进行模拟战<C=R>，帮助<C=FF4040>机载AI<C=R>收集性能数据。由于是模拟，对模拟吉克造成的伤害不会影响真正的吉克。\n"
+"<C=FF4040>进行模拟战<C=R>，帮助<C=FF4040>机载AI<C=R>收集性能数据。由于是模拟，对模拟ZEKE造成的伤害不会影响真正的ZEKE。\n"
 "不允许使用WALKMAN。"
 
 #: slot/0x00514128/0x215635/0x1c0d74
@@ -1292,7 +1292,7 @@ msgstr "关于SBM061"
 
 #: slot/0x00514128/0x215635/0x1c1b27
 msgid "Pilot ZEKE by remote control and eliminate the intruders from Mother Base."
-msgstr "远程操控吉克，消灭入侵母基地的敌人。"
+msgstr "远程操控ZEKE，消灭入侵母基地的敌人。"
 
 #: slot/0x00514128/0x215635/0x1d0d74
 #: slot/0x00514128/0x215635/0x484740

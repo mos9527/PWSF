@@ -2301,7 +2301,7 @@ msgid ""
 "Metal Gear ZEKE is not adequately equipped.\n"
 "Please equip it first."
 msgstr ""
-"合金装备·吉克装备不足。\n"
+"合金装备·ZEKE装备不足。\n"
 "请先进行装备。"
 
 #: slot/0x0097f0b2/0x80a608/0x135a40
@@ -2314,7 +2314,7 @@ msgstr "所有TEAM均已派出。"
 
 #: slot/0x0097f0b2/0x80a608/0x135a44
 msgid "Metal Gear ZEKE has already been dispatched."
-msgstr "合金装备·吉克已派出。"
+msgstr "合金装备·ZEKE已派出。"
 
 #: slot/0x0097f0b2/0x80a608/0x22df22
 msgid "$1 has returned."

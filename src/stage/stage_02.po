@@ -481,7 +481,7 @@ msgstr "关于SBM061"
 #: stage/174/lang_mission_info_en.olang/0x215635/0x1c1b27
 #: stage/180/lang_mission_info_en.olang/0x215635/0x1c1b27
 msgid "Pilot ZEKE by remote control and eliminate the intruders from Mother Base."
-msgstr "远程操控吉克，消灭入侵母基地的敌人。"
+msgstr "远程操控ZEKE，消灭入侵母基地的敌人。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2881,7 +2881,7 @@ msgstr "[129] 装甲车战：LAV-TYPE C 定制型"
 #: stage/180/lang_mission_info_en.olang/0x215635/0x4a55c0
 #: stage/180/lang_mission_info_en.olang/0x215635/0x570d7c
 msgid "[120] Metal Gear ZEKE - Mock Battle"
-msgstr "[120] 合金装备·吉克 - 模拟战"
+msgstr "[120] 合金装备·ZEKE - 模拟战"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2899,7 +2899,7 @@ msgstr "[120] 合金装备·吉克 - 模拟战"
 #: stage/180/lang_mission_info_en.olang/0x215635/0x88a028
 #: stage/180/lang_mission_info_en.olang/0x215635/0xf56224
 msgid "[120] METAL GEAR ZEKE - CROSS BATTLE"
-msgstr "[120] 合金装备·吉克 - 交叉战"
+msgstr "[120] 合金装备·ZEKE - 交叉战"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2908,7 +2908,7 @@ msgstr "[120] 合金装备·吉克 - 交叉战"
 #: stage/174/lang_mission_info_en.olang/0x215635/0x4cadd3
 #: stage/180/lang_mission_info_en.olang/0x215635/0x4cadd3
 msgid "Infiltrate the enemy's Mother Base and destroy METAL GEAR ZEKE."
-msgstr "潜入敌方母基地，摧毁合金装备·吉克。"
+msgstr "潜入敌方母基地，摧毁合金装备·ZEKE。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3503,7 +3503,7 @@ msgstr "你猜对了——扎多尔诺夫又逃出了母基地。找到他并带
 #: stage/174/lang_mission_info_en.olang/0x215635/0x75acad
 #: stage/180/lang_mission_info_en.olang/0x215635/0x75acad
 msgid "Paz has taken control of Metal Gear ZEKE. Stop her from launching the nuke and get ZEKE back.  "
-msgstr "帕兹已控制合金装备·吉克。阻止她发射核弹并夺回吉克。"
+msgstr "帕兹已控制合金装备·ZEKE。阻止她发射核弹并夺回ZEKE。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -4364,7 +4364,7 @@ msgstr "扎多尔诺夫搜索2"
 #: stage/180/lang_mission_info_en.olang/0x215635/0xabec64
 #: stage/180/lang_mission_info_en.olang/0x215635/0xb19f02
 msgid "ZEKE Battle"
-msgstr "吉克战"
+msgstr "ZEKE战"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT

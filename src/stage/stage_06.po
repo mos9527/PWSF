@@ -50,7 +50,7 @@ msgstr "合金装备现已可投入实战。从[OUTER OPS]菜单派遣。"
 #: stage/23/lang_myouter_top_en.olang/0x183317/0xd3bca3
 #: stage/174/lang_myouter_top_en.olang/0x183317/0xd3bca3
 msgid "A part for Metal Gear ZEKE has been produced!"
-msgstr "合金装备·吉克零件已生产！"
+msgstr "合金装备·ZEKE零件已生产！"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -323,7 +323,7 @@ msgstr "确定要结束游戏并返回标题菜单吗？"
 #: stage/23/lang_myouter_top_en.olang/0x20dacf/0x3fcec5
 #: stage/174/lang_myouter_top_en.olang/0x20dacf/0x3fcec5
 msgid "Metal Gear ZEKE is currently deployed on an OUTER OPS mission."
-msgstr "合金装备·吉克目前正在执行外线任务。"
+msgstr "合金装备·ZEKE目前正在执行外线任务。"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -381,7 +381,7 @@ msgstr "母基地是支持MSF（无国界军队）行动的海上工厂。它提
 #: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x2a6fef
 #: stage/174/lang_myouter_top_en.olang/0x20dacf/0x641cf8
 msgid "Develop Metal Gear ZEKE."
-msgstr "开发合金装备·吉克。"
+msgstr "开发合金装备·ZEKE。"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -516,7 +516,7 @@ msgstr "研究并开发武器与道具。"
 #: stage/23/lang_myouter_top_en.olang/0x20dacf/0x99bdf5
 #: stage/174/lang_myouter_top_en.olang/0x20dacf/0x99bdf5
 msgid "Developing Metal Gear ZEKE"
-msgstr "开发合金装备·吉克"
+msgstr "开发合金装备·ZEKE"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -642,21 +642,21 @@ msgstr "教程到此结束。"
 #: stage/23/lang_myouter_top_en.olang/0x20dacf/0xc85c98
 #: stage/174/lang_myouter_top_en.olang/0x20dacf/0xc85c98
 msgid "In METAL GEAR, you can develop Metal Gear ZEKE, a bipedal tank."
-msgstr "合金装备里能开发双足坦克合金装备·吉克。"
+msgstr "合金装备里能开发双足坦克合金装备·ZEKE。"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/23/lang_myouter_top_en.olang/0x20dacf/0xc85c99
 #: stage/174/lang_myouter_top_en.olang/0x20dacf/0xc85c99
 msgid "Once Metal Gear ZEKE is complete, you can deploy this powerful new weapon on OUTER OPS and other missions."
-msgstr "合金装备·吉克完成后，你就能在外线任务等任务中投入这件强大的新武器。"
+msgstr "合金装备·ZEKE完成后，你就能在外线任务等任务中投入这件强大的新武器。"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/23/lang_myouter_top_en.olang/0x20dacf/0xc85c9a
 #: stage/174/lang_myouter_top_en.olang/0x20dacf/0xc85c9a
 msgid "Development of Metal Gear ZEKE is dependent on parts collected from all the AI weapons you encounter."
-msgstr "开发合金装备·吉克需要从你遇到的所有AI武器上收集零件。"
+msgstr "开发合金装备·ZEKE需要从你遇到的所有AI武器上收集零件。"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT

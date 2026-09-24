@@ -72,7 +72,7 @@ msgstr "[!] 食物短缺导致队员士气下降。"
 
 #: slot/0x0006a8d5/0x20bac6/0x7e1a2b
 msgid "Metal Gear ZEKE can now be assigned to a field unit."
-msgstr "合金装备·吉克现可分配至前线部队。"
+msgstr "合金装备·ZEKE现可分配至前线部队。"
 
 #: slot/0x0006a8d5/0x20bac6/0x7e1a2d
 msgid "Total number of recruits now over $1!"
@@ -132,7 +132,7 @@ msgstr "已开发全部道具的100%。"
 
 #: slot/0x0006a8d5/0x20bac6/0x7e1a6f
 msgid "ZEKE development has progressed."
-msgstr "吉克的开发有进展了。"
+msgstr "ZEKE的开发有进展了。"
 
 #: slot/0x0006a8d5/0x20bac6/0x7e1a70
 #, c-format
@@ -640,7 +640,7 @@ msgstr "合金装备现已可投入实战。从[OUTER OPS]菜单派遣。"
 
 #: slot/0x0006c8de/0x183317/0xd3bca3
 msgid "A part for Metal Gear ZEKE has been produced!"
-msgstr "合金装备·吉克零件已生产！"
+msgstr "合金装备·ZEKE零件已生产！"
 
 #: slot/0x0006c8de/0x183317/0xd85832
 msgid "MECH"
@@ -815,7 +815,7 @@ msgstr "确定要结束游戏并返回标题菜单吗？"
 
 #: slot/0x0006c8de/0x20dacf/0x3fcec5
 msgid "Metal Gear ZEKE is currently deployed on an OUTER OPS mission."
-msgstr "合金装备·吉克目前正在执行外线任务。"
+msgstr "合金装备·ZEKE目前正在执行外线任务。"
 
 #: slot/0x0006c8de/0x20dacf/0x4ce674
 msgid "The Intel Team carries out mission supply support and support strikes."
@@ -848,7 +848,7 @@ msgstr "母基地是支持MSF（无国界军队）行动的海上工厂。它提
 #: slot/0x0006c8de/0x20dacf/0x641cf8
 #: slot/0x002e0fee/0x1a3e77/0x2a6fef
 msgid "Develop Metal Gear ZEKE."
-msgstr "开发合金装备·吉克。"
+msgstr "开发合金装备·ZEKE。"
 
 #: slot/0x0006c8de/0x20dacf/0x661129
 msgid "Save play data to a Memory<I=BL>Stick<I=TM>."
@@ -930,7 +930,7 @@ msgstr "研究并开发武器与道具。"
 #: slot/0x0006c8de/0x20dacf/0x99bdf5
 #: slot/0x00a60c2a/0xe5eb98/0x2aa139
 msgid "Developing Metal Gear ZEKE"
-msgstr "开发合金装备·吉克"
+msgstr "开发合金装备·ZEKE"
 
 #: slot/0x0006c8de/0x20dacf/0x99df7f
 #: slot/0x00a60c2a/0xe5eb98/0x29a139
@@ -1017,15 +1017,15 @@ msgstr "教程到此结束。"
 
 #: slot/0x0006c8de/0x20dacf/0xc85c98
 msgid "In METAL GEAR, you can develop Metal Gear ZEKE, a bipedal tank."
-msgstr "合金装备里能开发双足坦克合金装备·吉克。"
+msgstr "合金装备里能开发双足坦克合金装备·ZEKE。"
 
 #: slot/0x0006c8de/0x20dacf/0xc85c99
 msgid "Once Metal Gear ZEKE is complete, you can deploy this powerful new weapon on OUTER OPS and other missions."
-msgstr "合金装备·吉克完成后，你就能在外线任务等任务中投入这件强大的新武器。"
+msgstr "合金装备·ZEKE完成后，你就能在外线任务等任务中投入这件强大的新武器。"
 
 #: slot/0x0006c8de/0x20dacf/0xc85c9a
 msgid "Development of Metal Gear ZEKE is dependent on parts collected from all the AI weapons you encounter."
-msgstr "开发合金装备·吉克需要从你遇到的所有AI武器上收集零件。"
+msgstr "开发合金装备·ZEKE需要从你遇到的所有AI武器上收集零件。"
 
 #: slot/0x0006c8de/0x20dacf/0xc85c9b
 msgid "The parts you can obtain include armaments such as jet packs and additional armor. These parts vary by AI."
@@ -1280,7 +1280,7 @@ msgstr "扎多尔诺夫搜索2"
 
 #: slot/0x0009325f/0xb24761/0x29e0fc
 msgid "ZEKE BATTLE"
-msgstr "吉克战"
+msgstr "ZEKE战"
 
 #: slot/0x0009325f/0xb2b762/0x29e0fc
 msgid "[EXTRA OPS: 005]"

@@ -780,7 +780,7 @@ msgstr ""
 
 #: slot/0x00726933/0xdb8c41/0x02f683
 msgid "REQUEST ZEKE SONG CONVERSION"
-msgstr "请求吉克歌曲转换"
+msgstr "请求ZEKE歌曲转换"
 
 #: slot/0x00726933/0xdb8c41/0x033a63
 msgid "Uploading VOCALOID data..."
@@ -800,7 +800,7 @@ msgstr "重装系统数据"
 
 #: slot/0x00726933/0xdb8c41/0x0aa00c
 msgid "ZEKE Voice (VOCALOID Edit)"
-msgstr "吉克语音（VOCALOID编辑）"
+msgstr "ZEKE语音（VOCALOID编辑）"
 
 #: slot/0x00726933/0xdb8c41/0x0b2b3b
 msgid "Conversion Request: CO-OPS Comms"
@@ -862,7 +862,7 @@ msgid ""
 "Any already created Metal Gear ZEKE songs will be overwritten.\n"
 "Are you sure you want to proceed?"
 msgstr ""
-"已创建的合金装备·吉克歌曲将被覆盖。\n"
+"已创建的合金装备·ZEKE歌曲将被覆盖。\n"
 "确定要继续吗？"
 
 #: slot/0x00726933/0xdb8c41/0x2b08a9
@@ -926,7 +926,7 @@ msgid ""
 "VOCALOID Editor to the Voice Conversion Server."
 msgstr ""
 "将用VOCALOID编辑器制作的\n"
-"合金装备·吉克语音数据上传至语音转换服务器。"
+"合金装备·ZEKE语音数据上传至语音转换服务器。"
 
 #: slot/0x00726933/0xdb8c41/0x33f654
 msgid "VIEW TERMS OF USE"
@@ -985,7 +985,7 @@ msgstr "请求数据转换"
 
 #: slot/0x00726933/0xdb8c41/0x45835a
 msgid "REQUEST ZEKE VOICE CONVERSION"
-msgstr "请求吉克语音转换"
+msgstr "请求ZEKE语音转换"
 
 #: slot/0x00726933/0xdb8c41/0x46e31e
 msgid "Upload CO-OPS comm. data created with the VOCALOID Editor to the Voice Conversion Server."
@@ -1045,11 +1045,11 @@ msgid ""
 "VOCALOID Editor to the Voice Conversion Server."
 msgstr ""
 "把VOCALOID编辑器制作的\n"
-"合金装备·吉克歌曲数据上传至语音转换服务器。"
+"合金装备·ZEKE歌曲数据上传至语音转换服务器。"
 
 #: slot/0x00726933/0xdb8c41/0x5ed092
 msgid "Conversion Request: Metal Gear ZEKE Song"
-msgstr "转换请求：合金装备·吉克歌"
+msgstr "转换请求：合金装备·ZEKE歌"
 
 #: slot/0x00726933/0xdb8c41/0x5f5740
 msgid "WALKMAN Data"
@@ -1129,7 +1129,7 @@ msgstr "重装系统数据。"
 
 #: slot/0x00726933/0xdb8c41/0x85865d
 msgid "ZEKE Song (VOCALOID Edit)"
-msgstr "吉克歌曲（VOCALOID编辑）"
+msgstr "ZEKE歌曲（VOCALOID编辑）"
 
 #: slot/0x00726933/0xdb8c41/0x85fa79
 msgid "Return to the NETWORK menu."
@@ -1203,7 +1203,7 @@ msgstr ""
 
 #: slot/0x00726933/0xdb8c41/0x986d60
 msgid "ZEKE Voice"
-msgstr "吉克语音"
+msgstr "ZEKE语音"
 
 #: slot/0x00726933/0xdb8c41/0x9a6dfc
 msgid "Select content."
@@ -1219,7 +1219,7 @@ msgstr "贴图"
 
 #: slot/0x00726933/0xdb8c41/0x9db49d
 msgid "METAL GEAR ZEKE"
-msgstr "合金装备·吉克"
+msgstr "合金装备·ZEKE"
 
 #: slot/0x00726933/0xdb8c41/0xac1f57
 #: slot/0x00726933/0xdb8c41/0xd33751
@@ -1238,11 +1238,11 @@ msgstr ""
 
 #: slot/0x00726933/0xdb8c41/0xb01bc5
 msgid "ZEKE Song"
-msgstr "吉克歌曲"
+msgstr "ZEKE歌曲"
 
 #: slot/0x00726933/0xdb8c41/0xb06b7a
 msgid "Conversion Request: Metal Gear ZEKE Voice"
-msgstr "转换请求：合金装备·吉克语音"
+msgstr "转换请求：合金装备·ZEKE语音"
 
 #: slot/0x00726933/0xdb8c41/0xb1a144
 msgid "Service is no longer available."

@@ -67,7 +67,7 @@ msgstr "$1开始为电磁炮充能。"
 
 #: slot/0x0097f0b2/0xbe101c/0x720435
 msgid "$1 hid in the shadow of Metal Gear ZEKE!"
-msgstr "$1躲进合金装备吉克阴影！"
+msgstr "$1躲进合金装备ZEKE阴影！"
 
 #: slot/0x0097f0b2/0xbe101c/0x741e24
 msgid "$1 lost sight of $2."
@@ -144,11 +144,11 @@ msgstr "$1的$2爆炸！"
 
 #: slot/0x0097f0b2/0xbe101c/0xd93c09
 msgid "ZEKE launches a missile!"
-msgstr "吉克发射导弹！"
+msgstr "ZEKE发射导弹！"
 
 #: slot/0x0097f0b2/0xbe101c/0xfd5d04
 msgid "ZEKE fires the railgun!"
-msgstr "吉克发射电磁炮"
+msgstr "ZEKE发射电磁炮"
 
 #: slot/0x0097f0b2/0xbe101c/0xffaebf
 #: slot/0x0097f0b2/0xcd1d58/0x714d48
@@ -462,7 +462,7 @@ msgstr "查看派遣结果。"
 
 #: slot/0x0097f0b2/0xcd1d58/0x3e8588
 msgid "Assign Metal Gear ZEKE."
-msgstr "分配合金装备·吉克。"
+msgstr "分配合金装备·ZEKE。"
 
 #: slot/0x0097f0b2/0xcd1d58/0x4cfc13
 #: slot/0x0097f0b2/0xcd1d58/0xa37022

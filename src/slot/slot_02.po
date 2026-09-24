@@ -203,15 +203,15 @@ msgstr "攻击"
 
 #: slot/0x00140ca7/0x57202a/0xa5d595
 msgid "ZEKE"
-msgstr "吉克"
+msgstr "ZEKE"
 
 #: slot/0x00140ca7/0x641ed8/0x766780
 msgid "ZEKE: Actions"
-msgstr "吉克：动作"
+msgstr "ZEKE：动作"
 
 #: slot/0x00140ca7/0x641ed8/0x766781
 msgid "ZEKE: Long-range Attacks"
-msgstr "吉克：远程攻击"
+msgstr "ZEKE：远程攻击"
 
 #: slot/0x00140ca7/0x641ed8/0x766782
 msgid "Activating support base."
@@ -219,7 +219,7 @@ msgstr "启动支援基地"
 
 #: slot/0x00140ca7/0x641ed8/0x766783
 msgid "ZEKE: Close-range Attacks"
-msgstr "吉克：近程攻击"
+msgstr "ZEKE：近程攻击"
 
 #: slot/0x00140ca7/0x641ed8/0xc456bc
 msgid "GROUP A"
@@ -742,7 +742,7 @@ msgstr "要查看配送服务的教程吗？"
 
 #: slot/0x0015c941/0x5d8989/0x36fee4
 msgid "Would you like to view the Metal Gear ZEKE development tutorial?"
-msgstr "要查看合金装备·吉克开发的教程吗？"
+msgstr "要查看合金装备·ZEKE开发的教程吗？"
 
 #: slot/0x0015c941/0x5d8989/0x3ade20
 msgid "Female"
@@ -1255,7 +1255,7 @@ msgstr "任务准备"
 
 #: slot/0x001df209/0xe6e4ed/0x16fc9f
 msgid "ZEKE is currently away on assignment with an OUTER OPS team."
-msgstr "吉克目前正随外线任务小队外出执行任务。"
+msgstr "ZEKE目前正随外线任务小队外出执行任务。"
 
 #: slot/0x001df209/0xe6e4ed/0x1d5bc0
 msgid ""
@@ -1434,7 +1434,7 @@ msgstr ""
 
 #: slot/0x001df209/0xe6e4ed/0x6f2997
 msgid "Metal Gear ZEKE cannot be activated at this time."
-msgstr "合金装备·吉克目前无法启动。"
+msgstr "合金装备·ZEKE目前无法启动。"
 
 #: slot/0x001df209/0xe6e4ed/0x748b25
 msgid "After selecting HOST SEARCH and matching the Channel to that of the HOST (recruiter), the mission that is recruiting members will be displayed.  The current number of players and the maximum number of players appears to the right of the mission name."

@@ -350,7 +350,7 @@ msgstr "各有不同攻击——善加利用！"
 #. GTT pool 0x1c7a734b block 0x1a0 (id 0x86, record 342), budget 87 B
 #: gtt/0x1c7a734b/0x1a0/0
 msgid "ZEKE's getting distracted by the gun platforms!"
-msgstr "吉克被炮台吸引了！"
+msgstr "ZEKE被炮台吸引了！"
 
 #. GTT pool 0x1c7a734b block 0x230 (id 0x61, record 342), budget 55 B
 #. GTT pool 0x1c7bf28b block 0xae0 (id 0x65, record 234), budget 55 B
@@ -372,7 +372,7 @@ msgstr "那门炮被打残了！没用了！"
 #. GTT pool 0x1c7a734b block 0x3d0 (id 0x8d, record 342), budget 87 B
 #: gtt/0x1c7a734b/0x3d0/0
 msgid "ZEKE's armor is thinner in some areas. Aim for the weak spots!"
-msgstr "吉克有些部位装甲较薄。瞄准弱点！"
+msgstr "ZEKE有些部位装甲较薄。瞄准弱点！"
 
 #. GTT pool 0x1c7a734b block 0x460 (id 0x57, record 342), budget 39 B
 #: gtt/0x1c7a734b/0x460/0
@@ -571,7 +571,7 @@ msgstr "别管附带损伤！"
 #. GTT pool 0x1c7a734b block 0x1580 (id 0xb7, record 342), budget 61 B
 #: gtt/0x1c7a734b/0x1580/1
 msgid "You have to destroy ZEKE - it's the only way!"
-msgstr "必须摧毁吉克，别无他法！"
+msgstr "必须摧毁ZEKE，别无他法！"
 
 #. GTT pool 0x1c7a734b block 0x1640 (id 0x91, record 342), budget 103 B
 #: gtt/0x1c7a734b/0x1640/0
@@ -601,7 +601,7 @@ msgstr "她有那盘磁带，我一直觉得奇怪。"
 #. GTT pool 0x1c7a734b block 0x1930 (id 0xc4, record 342), budget 53 B
 #: gtt/0x1c7a734b/0x1930/0
 msgid "My ZEKE... No, it can't be..."
-msgstr "吉克…不可能…"
+msgstr "ZEKE…不可能…"
 
 #. GTT pool 0x1c7a734b block 0x1930 (id 0xc4, record 342), budget 77 B
 #: gtt/0x1c7a734b/0x1930/1
@@ -636,7 +636,7 @@ msgstr "请确认帕兹没事！"
 #. GTT pool 0x1c7a734b block 0x1c00 (id 0x6a, record 342), budget 55 B
 #: gtt/0x1c7a734b/0x1c00/0
 msgid "Tranqs won't work on ZEKE!"
-msgstr "麻醉弹对吉克无效"
+msgstr "麻醉弹对ZEKE无效"
 
 #. GTT pool 0x1c7a734b block 0x1c70 (id 0x98, record 342), budget 103 B
 #: gtt/0x1c7a734b/0x1c70/0
@@ -646,7 +646,7 @@ msgstr "别让队友被支援打击命中。"
 #. GTT pool 0x1c7a734b block 0x1d10 (id 0xb5, record 342), budget 73 B
 #: gtt/0x1c7a734b/0x1d10/0
 msgid "Going CO-OP In with ZEKE will supplement your LIFE Gauge."
-msgstr "与吉克合作出击会补充生命值。"
+msgstr "与ZEKE合作出击会补充生命值。"
 
 #. GTT pool 0x1c7a734b block 0x1d10 (id 0xb5, record 342), budget 41 B
 #: gtt/0x1c7a734b/0x1d10/1
@@ -656,14 +656,14 @@ msgstr "好好利用这点。"
 #. GTT pool 0x1c7a734b block 0x1dd0 (id 0x7f, record 342), budget 71 B
 #: gtt/0x1c7a734b/0x1dd0/0
 msgid "You know you can give ZEKE orders in CO-OPS, as well."
-msgstr "合作任务里也能给吉克下指令。"
+msgstr "合作任务里也能给ZEKE下指令。"
 
 #. GTT pool 0x1c7a734b block 0x1e50 (id 0xeb, record 342), budget 51 B
 #. GTT pool 0x1c7a734b block 0x1f40 (id 0xb8, record 342), budget 54 B
 #: gtt/0x1c7a734b/0x1e50/0
 #: gtt/0x1c7a734b/0x1f40/0
 msgid "To tag a target for ZEKE to attack,"
-msgstr "要标记目标让吉克攻击，"
+msgstr "要标记目标让ZEKE攻击，"
 
 #. GTT pool 0x1c7a734b block 0x1e50 (id 0xeb, record 342), budget 56 B
 #. GTT pool 0x1c7a734b block 0x1f40 (id 0xb8, record 342), budget 59 B
@@ -680,7 +680,7 @@ msgstr "然后按<I=ATK>"
 #. GTT pool 0x1c7a734b block 0x2000 (id 0xba, record 342), budget 58 B
 #: gtt/0x1c7a734b/0x2000/0
 msgid "ZEKE's actions are controlled by an AI."
-msgstr "吉克的行动由AI控制。"
+msgstr "ZEKE的行动由AI控制。"
 
 #. GTT pool 0x1c7a734b block 0x2000 (id 0xba, record 342), budget 56 B
 #: gtt/0x1c7a734b/0x2000/1
@@ -695,7 +695,7 @@ msgstr "母基地有客人！"
 #. GTT pool 0x1c7a734b block 0x20c0 (id 0xb0, record 342), budget 57 B
 #: gtt/0x1c7a734b/0x20c0/1
 msgid "Activate ZEKE and take care of them immediately!"
-msgstr "启动吉克，立刻解决他们！"
+msgstr "启动ZEKE，立刻解决他们！"
 
 #. GTT pool 0x1c7a734b block 0x2170 (id 0xa3, record 342), budget 59 B
 #: gtt/0x1c7a734b/0x2170/0
@@ -715,7 +715,7 @@ msgstr "失败的话，我们都可能被俘……"
 #. GTT pool 0x1c7a734b block 0x22a0 (id 0xdf, record 342), budget 73 B
 #: gtt/0x1c7a734b/0x22a0/0
 msgid "This is only a mock battle. Nothing is going to happen to ZEKE."
-msgstr "这只是模拟战。吉克不会有事。"
+msgstr "这只是模拟战。ZEKE不会有事。"
 
 #. GTT pool 0x1c7a734b block 0x22a0 (id 0xdf, record 342), budget 72 B
 #: gtt/0x1c7a734b/0x22a0/1
@@ -730,12 +730,12 @@ msgstr "这是模拟战。别担心"
 #. GTT pool 0x1c7a734b block 0x2380 (id 0xcf, record 342), budget 79 B
 #: gtt/0x1c7a734b/0x2380/1
 msgid "- you won't actually be doing any damage to ZEKE. So fire away."
-msgstr "——你不会真的伤到吉克。尽管开火。"
+msgstr "——你不会真的伤到ZEKE。尽管开火。"
 
 #. GTT pool 0x1c7a734b block 0x2450 (id 0x89, record 342), budget 87 B
 #: gtt/0x1c7a734b/0x2450/0
 msgid "ZEKE's AI pod is sealed tightly. There's no way to get inside."
-msgstr "吉克的AI舱密封很严。进不去的。"
+msgstr "ZEKE的AI舱密封很严。进不去的。"
 
 #. GTT pool 0x1c7a734b block 0x24e0 (id 0xe3, record 342), budget 77 B
 #: gtt/0x1c7a734b/0x24e0/0

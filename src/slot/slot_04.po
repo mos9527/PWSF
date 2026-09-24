@@ -23,11 +23,11 @@ msgstr "喷射包损坏"
 
 #: slot/0x002e0fee/0x1a3e77/0x97e770
 msgid "Customize Metal Gear ZEKE's parts by setting the walk unit, power unit, leg parts, head parts, and optional parts."
-msgstr "设置步行、动力、腿部、头部及可选组件，定制合金装备·吉克部件。"
+msgstr "设置步行、动力、腿部、头部及可选组件，定制合金装备·ZEKE部件。"
 
 #: slot/0x002e0fee/0x1a3e77/0x99d00d
 msgid "A walk unit for Metal Gear ZEKE. The most basic part."
-msgstr "合金装备·吉克的步行组件。最基础的部件。"
+msgstr "合金装备·ZEKE的步行组件。最基础的部件。"
 
 #: slot/0x002e0fee/0x1a3e77/0xa087ff
 msgid "Head parts taken from Chrysalis. Equipped with a built-in guided missile launcher."
@@ -56,7 +56,7 @@ msgstr "电磁炮"
 
 #: slot/0x002e0fee/0x1a3e77/0xbade3d
 msgid "View the current development status of Metal Gear ZEKE."
-msgstr "查看合金装备·吉克的当前开发状况。"
+msgstr "查看合金装备·ZEKE的当前开发状况。"
 
 #: slot/0x002e0fee/0x1a3e77/0xbb4c90
 msgid "Number of Dialogue Lines Available"
@@ -548,7 +548,7 @@ msgstr ""
 
 #: slot/0x002e0fee/0x1a3e77/0xdf12c3
 msgid "Set the VOCALOID in Metal Gear ZEKE. Assign songs and dialogue that have been set in EXTRAS under the title menu."
-msgstr "将VOCALOID装入合金装备·吉克。分配已在标题菜单EXTRAS中设置的歌曲与对话。"
+msgstr "将VOCALOID装入合金装备·ZEKE。分配已在标题菜单EXTRAS中设置的歌曲与对话。"
 
 #: slot/0x002e0fee/0x1a3e77/0xdfe3ba
 msgid "Leg parts / power unit cannot be installed until walk unit has been set."
@@ -579,7 +579,7 @@ msgstr "损坏的步行单元。收集足够后可组装成完整的步行单元
 
 #: slot/0x002e0fee/0x1a3e77/0xe7f1fc
 msgid "Set the basic parts that make up Metal Gear ZEKE."
-msgstr "设置合金装备·吉克的基础部件。"
+msgstr "设置合金装备·ZEKE的基础部件。"
 
 #: slot/0x002e0fee/0x1a3e77/0xe871b0
 msgid "Sns-Pupa-001Fe"
@@ -987,7 +987,7 @@ msgstr "更换步行组件。库存最多可存 3 个步行组件。"
 
 #: slot/0x002e0fee/0x1a3e77/0xf47139
 msgid "Change Metal Gear ZEKE's parts."
-msgstr "更换合金装备·吉克的部件。"
+msgstr "更换合金装备·ZEKE的部件。"
 
 #: slot/0x002e0fee/0x1a3e77/0xf871b0
 msgid "Atk-Pupa-001Fe"

@@ -94,8 +94,8 @@ Sickbay	医务室	place		ci=1
 Mess Hall	食堂	place		ci=1
 Waiting Room	待命室	place
 Metal Gear	合金装备	mech	系列统一译名	ci=1
-Metal Gear ZEKE	合金装备·吉克	mech		ci=1
-ZEKE	吉克	mech	单独出现时
+Metal Gear ZEKE	合金装备·ZEKE	mech		ci=1
+ZEKE	ZEKE	mech	单独出现时
 Gear REX	霸王	mech	Metal Gear REX 的官方译名	ci=1
 Peace Walker	和平行者	mech	机体/计划名；整作标题同此
 Peace Walker Project	和平行者计划	mech

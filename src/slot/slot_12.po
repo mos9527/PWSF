@@ -322,18 +322,18 @@ msgstr "[129] 装甲车战：LAV-TYPE C 定制型"
 #: slot/0x00514128/0x215635/0x4a55c0
 #: slot/0x00514128/0x215635/0x570d7c
 msgid "[120] Metal Gear ZEKE - Mock Battle"
-msgstr "[120] 合金装备·吉克 - 模拟战"
+msgstr "[120] 合金装备·ZEKE - 模拟战"
 
 #: slot/0x00514128/0x215635/0x4a5600
 #: slot/0x00514128/0x215635/0x580d7c
 #: slot/0x00514128/0x215635/0x88a028
 #: slot/0x00514128/0x215635/0xf56224
 msgid "[120] METAL GEAR ZEKE - CROSS BATTLE"
-msgstr "[120] 合金装备·吉克 - 交叉战"
+msgstr "[120] 合金装备·ZEKE - 交叉战"
 
 #: slot/0x00514128/0x215635/0x4cadd3
 msgid "Infiltrate the enemy's Mother Base and destroy METAL GEAR ZEKE."
-msgstr "潜入敌方母基地，摧毁合金装备·吉克。"
+msgstr "潜入敌方母基地，摧毁合金装备·ZEKE。"
 
 #: slot/0x00514128/0x215635/0x4ff3af
 #: slot/0x00514128/0x215635/0xd713f9
@@ -756,7 +756,7 @@ msgstr "你猜对了——扎多尔诺夫又逃出了母基地。找到他并带
 
 #: slot/0x00514128/0x215635/0x75acad
 msgid "Paz has taken control of Metal Gear ZEKE. Stop her from launching the nuke and get ZEKE back.  "
-msgstr "帕兹已控制合金装备·吉克。阻止她发射核弹并夺回吉克。"
+msgstr "帕兹已控制合金装备·ZEKE。阻止她发射核弹并夺回ZEKE。"
 
 #: slot/0x00514128/0x215635/0x75b11d
 msgid "ABOUT M9000"
@@ -1498,7 +1498,7 @@ msgstr "扎多尔诺夫搜索2"
 #: slot/0x00514128/0x215635/0xabec64
 #: slot/0x00514128/0x215635/0xb19f02
 msgid "ZEKE Battle"
-msgstr "吉克战"
+msgstr "ZEKE战"
 
 #: slot/0x00514128/0x215635/0xabf464
 #: slot/0x00514128/0x215635/0xd19f02
@@ -2327,7 +2327,7 @@ msgstr "怎么可能？！"
 
 #: slot/0x0052801a/0x0a7cd6/0x000014
 msgid "ZEKE!"
-msgstr "吉克！"
+msgstr "ZEKE！"
 
 #: slot/0x0052801a/0x0a7cd6/0x000015
 msgid "Damn you, Snake!"
@@ -2414,7 +2414,7 @@ msgstr "检测到系统故障。"
 
 #: slot/0x0052801a/0x0a7cd6/0x000042
 msgid "ZEKE has been terminated."
-msgstr "吉克已被摧毁。"
+msgstr "ZEKE已被摧毁。"
 
 #: slot/0x0052801a/0x0a7cd6/0x000043
 msgid "Battle simulation complete."
