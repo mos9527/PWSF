@@ -102,17 +102,24 @@ def needed(lines) -> int:
     return sum(len(s.encode("utf-8")) + 1 for s in lines)
 
 
-def display_lines(lines) -> list:
-    """Blank out extraction artifacts before any budget/rewrite math.
+def display_lines(lines, n_text: int) -> list:
+    """Blank out the non-dialogue tail (`lines[n_text:]`) before any budget
+    or rewrite math.
 
-    The second record format (ANALYSIS/03, "script by reference") keeps table
-    entries that point into the binary blob that follows the text; the strings
-    decoded there carry U+FFFD and, worse, no NUL anywhere near, so their
-    lengths are fiction.  Nothing displays them (they never enter the corpus;
-    po_export filters them), so they rewrite as empty strings -- the table
-    keeps all its entries, they just all point at one NUL.
+    `n_text` comes from the parser, not from a guess: the pool is laid out
+    back-to-back, so real entries satisfy ``table[i+1] == table[i] + len + 1``
+    and the last one stays inside off3.  Entries past the first violation point
+    into the binary blob behind the text -- the strings read there have no NUL
+    anywhere near and their lengths are fiction (ANALYSIS/03 §10.6,
+    `_probe_bri58.py`).  They never enter the corpus, so they rewrite as empty
+    strings: the table keeps all its entries, they just all point at one NUL.
+
+    2026-09-25 复核（`_probe_bri57.py`）：想改成「原样保留字节」是不行的 ——
+    79 条带伪影行且有译文的记录里，72 条会撑爆池（伪影行原始长度 2~15 KB，
+    比整条记录的预算还大一个量级），长度确实是虚构的。所以清空保留，但
+    不再静默：`Stats.blanked` 会计数。
     """
-    return ["" if "\ufffd" in t else t for t in lines]
+    return [t if i < n_text else "" for i, t in enumerate(lines)]
 
 
 def rewrite(data, rec: B.Record, lines) -> tuple:
@@ -161,13 +168,16 @@ class Stats:
     rewritten: int = 0          # records actually rewritten
     strings: int = 0            # strings written
     bytes_free: int = 0         # budget - needed, over the rewritten records
+    blanked: int = 0            # artifact lines cleared by display_lines
     overflow: list = field(default_factory=list)     # (group, off, need, budget)
     missing: list = field(default_factory=list)      # refs with no record
 
     def __str__(self) -> str:
+        extra = (f", {self.blanked} artifact line(s) blanked"
+                 if self.blanked else "")
         return (f"{self.rewritten}/{self.targeted} record(s) rewritten, "
                 f"{self.strings} string(s), {self.bytes_free} pool byte(s) "
-                f"left over")
+                f"left over" + extra)
 
 
 def rebuild(translations: dict, lang: int = None, outdir: Path = None,
@@ -204,7 +214,9 @@ def rebuild(translations: dict, lang: int = None, outdir: Path = None,
                 st.missing.append((group, off, line))
                 continue
             lines[line] = text
-        blob, need = rewrite(data, rec, display_lines(lines))
+        st.blanked += sum(1 for i in range(rec.n_text, len(lines))
+                          if i not in by_line)
+        blob, need = rewrite(data, rec, display_lines(lines, rec.n_text))
         if blob is None:
             st.overflow.append((group, off, need, pool_of(rec).budget))
             continue
@@ -271,9 +283,9 @@ def verify(path: Path, translations: dict, lang: int = None) -> list:
                 problems.append(f"codec/{group}/{off:#x}/{line}: "
                                 f"{rec.lines[line]!r} != {text!r}")
         # every line we were not asked to write must be untouched --
-        # extraction artifacts (U+FFFD) are blanked by display_lines on both
-        # sides, so blanking them in the rebuild is not a change
-        expected = display_lines(old.lines)
+        # the non-dialogue tail (lines[n_text:]) is blanked by display_lines on
+        # both sides, so blanking it in the rebuild is not a change
+        expected = display_lines(old.lines, old.n_text)
         for i, (a, b) in enumerate(zip(expected, rec.lines)):
             if i in by_line:
                 continue
@@ -319,7 +331,7 @@ def overflows(translations: dict) -> list:
         for line, text in by_line.items():
             if 0 <= line < len(lines):
                 lines[line] = text
-        need = needed(display_lines(lines))
+        need = needed(display_lines(lines, rec.n_text))
         budget = pool_of(rec).budget
         if need > budget:
             out.append((group, off, need, budget))

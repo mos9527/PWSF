@@ -9,6 +9,12 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
+#: codec/1/170/0xaaa10/1
+msgid ""
+"What is this?!\n"
+msgstr ""
+"这啥？！\n"
+
 #: codec/1/170/0xaaa10/2
 msgid ""
 "It's a cardboard tank. It's got enough room for two\n"
@@ -1302,6 +1308,12 @@ msgid ""
 msgstr ""
 "压低身子。\n"
 "附近有敌人的话，\n"
+
+#: codec/1/174/0xaee20/4
+msgid ""
+"walk slowly and don't make a sound…\n"
+msgstr ""
+"慢慢走，别弄出声音…\n"
 
 #: codec/1/174/0xaee20/5
 msgid ""
@@ -3214,15 +3226,3 @@ msgid ""
 "He reeked.\n"
 msgstr ""
 "他一身味儿。\n"
-
-#: codec/1/180/0xb48c0/16
-msgid ""
-"Reeked?\n"
-msgstr ""
-"味？\n"
-
-#: codec/1/180/0xb48c0/17
-msgid ""
-"He had this unmistakable air about him...\n"
-msgstr ""
-"他身上有股藏不住的气息……\n"

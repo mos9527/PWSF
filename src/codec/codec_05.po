@@ -10,6 +10,16 @@ msgstr ""
 
 
 #. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
+#. timeline 4068..5154
+#: codec/1/191/0xbf3b0/4
+msgid ""
+"They say she was always accompanied by birds\n"
+"and butterflies.\n"
+msgstr ""
+"据说她身边总有鸟儿\n"
+"和蝴蝶相伴。\n"
+
+#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
 #. timeline 5210..6506
 #: codec/1/191/0xbf3b0/5
 msgid ""
@@ -3097,11 +3107,3 @@ msgid ""
 msgstr ""
 "是啊，比起山里，\n"
 "这里就是天堂。\n"
-
-#: codec/1/201/0xc9700/2
-msgid ""
-"We're no longer constantly on the run from la\n"
-"Guardia or mercenaries.\n"
-msgstr ""
-"我们不再需要时刻躲避国民警卫队\n"
-"或雇佣兵了。\n"

@@ -9,6 +9,28 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
+#: codec/1/255/0xff000/24
+msgid ""
+"You've got a long way to go, Huey...\n"
+msgstr ""
+"你还差得远呢，休伊……\n"
+
+#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
+#. timeline 445..1476
+#: codec/1/255/0xff720/0
+msgid ""
+"You ever see the movie \"2001: A Space Odyssey\"?\n"
+msgstr ""
+"你看过《2001太空漫游》吗？\n"
+
+#. speaker 0x0e28dce6 voice v_bri_huy0190_000_0
+#. timeline 1476..1852
+#: codec/1/255/0xff720/1
+msgid ""
+"Can't say I have.\n"
+msgstr ""
+"没看过。\n"
+
 #. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
 #. timeline 1852..3301
 #: codec/1/255/0xff720/2
@@ -2784,23 +2806,3 @@ msgid ""
 msgstr ""
 "但我不是为了好玩才做的，所以我一点也不\n"
 "失望。\n"
-
-#: codec/1/267/0x10b0e0/40
-msgid ""
-"Nuke was hovering nearby with an expectant look\n"
-"on his face, so I gave the fish to him.\n"
-msgstr ""
-"Nuke 带着期待的表情在附近徘徊，\n"
-"于是我把鱼给了他。\n"
-
-#: codec/1/267/0x10b0e0/41
-msgid ""
-"All in all, a thoroughly wasted day.\n"
-msgstr ""
-"总之，白费了一天。\n"
-
-#: codec/1/267/0x10be70/0
-msgid ""
-"Preparations are coming along nicely.\n"
-msgstr ""
-"准备工作进展顺利。\n"

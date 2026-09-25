@@ -9,6 +9,18 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
+#: codec/1/180/0xb48c0/16
+msgid ""
+"Reeked?\n"
+msgstr ""
+"味？\n"
+
+#: codec/1/180/0xb48c0/17
+msgid ""
+"He had this unmistakable air about him...\n"
+msgstr ""
+"他身上有股藏不住的气息……\n"
+
 #: codec/1/180/0xb48c0/18
 msgid ""
 "The air of someone who's been given a mission\n"
@@ -1534,10 +1546,6 @@ msgid ""
 msgstr ""
 "黎明之滨？倒是很适合\n"
 "作为任务的起点。\n"
-
-#: codec/1/185/0xb9ef0/7
-msgid "AQ"
-msgstr ""
 
 #: codec/1/186/0xba290/0
 msgid ""
@@ -3258,13 +3266,3 @@ msgid ""
 "An Aztec goddess of fertility and beauty.\n"
 msgstr ""
 "阿兹特克的丰饶与美丽女神。\n"
-
-#. speaker 0x0e55d959 voice v_bri_mis_paz0230_000_0
-#. timeline 4068..5154
-#: codec/1/191/0xbf3b0/4
-msgid ""
-"They say she was always accompanied by birds\n"
-"and butterflies.\n"
-msgstr ""
-"据说她身边总有鸟儿\n"
-"和蝴蝶相伴。\n"

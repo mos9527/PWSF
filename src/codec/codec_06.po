@@ -9,6 +9,14 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
+#: codec/1/201/0xc9700/2
+msgid ""
+"We're no longer constantly on the run from la\n"
+"Guardia or mercenaries.\n"
+msgstr ""
+"我们不再需要时刻躲避国民警卫队\n"
+"或雇佣兵了。\n"
+
 #: codec/1/201/0xc9700/3
 msgid ""
 "Some of the new guys we've recruited used to be\n"
@@ -3241,11 +3249,3 @@ msgid ""
 msgstr ""
 "也许因为人类这么干，\n"
 "才显得凶残。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_chc0080_020_0
-#. timeline 10044..10783
-#: codec/1/211/0xd3310/8
-msgid ""
-"...You really love UMAs, don't you, Chico?\n"
-msgstr ""
-"……你真的很喜欢未知生物啊，奇科？\n"

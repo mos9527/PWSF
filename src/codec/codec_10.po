@@ -9,6 +9,30 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
+#: codec/1/243/0xf34f0/7
+msgid ""
+"But nobody's actually being killed. Small-scale\n"
+"conflicts and proxy wars, maybe...\n"
+msgstr ""
+"但实际没人被杀。小规模\n"
+"冲突和代理人战争，也许……\n"
+
+#: codec/1/243/0xf34f0/8
+msgid ""
+"But nuclear deterrence has averted another world\n"
+"war.\n"
+msgstr ""
+"但核威慑避免了另一场世界\n"
+"大战。\n"
+
+#: codec/1/243/0xf34f0/9
+msgid ""
+"The world's far more peaceful today than it was\n"
+"before.\n"
+msgstr ""
+"如今的世界比以往\n"
+"和平得多。\n"
+
 #: codec/1/243/0xf34f0/10
 msgid ""
 "And the breakthroughs we've made in space\n"
@@ -3242,25 +3266,3 @@ msgid ""
 "Huh?! N-no, I... No way, I could never...\n"
 msgstr ""
 "啊？！不、不行，我……我做不到……\n"
-
-#: codec/1/255/0xff000/24
-msgid ""
-"You've got a long way to go, Huey...\n"
-msgstr ""
-"你还差得远呢，休伊……\n"
-
-#. speaker 0x0ea8e31c voice v_bri_huy0190_000_0
-#. timeline 445..1476
-#: codec/1/255/0xff720/0
-msgid ""
-"You ever see the movie \"2001: A Space Odyssey\"?\n"
-msgstr ""
-"你看过《2001太空漫游》吗？\n"
-
-#. speaker 0x0e28dce6 voice v_bri_huy0190_000_0
-#. timeline 1476..1852
-#: codec/1/255/0xff720/1
-msgid ""
-"Can't say I have.\n"
-msgstr ""
-"没看过。\n"

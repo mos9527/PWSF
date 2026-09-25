@@ -9,6 +9,14 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
+#. speaker 0x0e28dce6 voice v_bri_chc0080_020_0
+#. timeline 10044..10783
+#: codec/1/211/0xd3310/8
+msgid ""
+"...You really love UMAs, don't you, Chico?\n"
+msgstr ""
+"……你真的很喜欢未知生物啊，奇科？\n"
+
 #. speaker 0x0e559953 voice v_bri_chc0080_020_0
 #. timeline 10811..11953
 #: codec/1/211/0xd3310/9
@@ -3083,11 +3091,3 @@ msgid ""
 msgstr ""
 "我觉得同理心反而会妨碍\n"
 "做出反击的决定。\n"
-
-#: codec/1/221/0xdda20/2
-msgid ""
-"I admit, human thought may not be fully compatible\n"
-"with level-headed decision making.\n"
-msgstr ""
-"我承认，人类思维未必\n"
-"完全适合理性决策。\n"

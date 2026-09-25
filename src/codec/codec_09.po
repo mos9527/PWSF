@@ -9,6 +9,12 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
+#: codec/1/232/0xe8030/24
+msgid ""
+"and the scene just bursts to life in your mind's eye.\n"
+msgstr ""
+"脑中的画面便鲜活起来。\n"
+
 #: codec/1/232/0xe8030/25
 msgid ""
 "Tell him, Cécile.\n"
@@ -174,10 +180,6 @@ msgid ""
 msgstr ""
 "雄鸟还有两根长饰羽，\n"
 "不过只在繁殖期才有。\n"
-
-#: codec/1/232/0xe8da0/24
-msgid "6WUp"
-msgstr ""
 
 #: codec/1/233/0xe9630/0
 msgid ""
@@ -963,11 +965,33 @@ msgid ""
 msgstr ""
 "等等……\n"
 
+#: codec/1/235/0xeb860/13
+msgid ""
+"Cécile Cosima Caminades... Cosima Caminades...\n"
+"Hey, that’s close to...\n"
+msgstr ""
+"塞西尔·科西玛·卡米纳德斯…卡米纳德斯…\n"
+"嘿，这跟…很接近\n"
+
 #: codec/1/235/0xeb860/14
 msgid ""
 "Close to what?\n"
 msgstr ""
 "像什么？\n"
+
+#: codec/1/235/0xeb860/15
+msgid ""
+"Your name... It sounds almost like the sentence\n"
+"“Kojima, kaminandesu” in Japanese.\n"
+msgstr ""
+"你的名字…听起来几乎就是日语里的\n"
+"那句“小岛，是神啊”。\n"
+
+#: codec/1/235/0xeb860/16
+msgid ""
+"And what does it mean, s’il vous plait?\n"
+msgstr ""
+"拜托，那是什么意思？\n"
 
 #: codec/1/235/0xeb860/17
 msgid ""
@@ -994,6 +1018,12 @@ msgid ""
 "\"Kojima is God\"... Cecile's name is a message!\n"
 msgstr ""
 "\"小岛是神\"…塞西尔名字是讯息！\n"
+
+#: codec/1/235/0xeb860/21
+msgid ""
+"I don’t believe it... Kojima is God... Kojima is God...\n"
+msgstr ""
+"真不敢相信…小岛是神…小岛是神…\n"
 
 #: codec/1/235/0xeb860/22
 msgid ""
@@ -2469,10 +2499,6 @@ msgid ""
 msgstr ""
 "运动随即蔓延到全法国。\n"
 
-#: codec/1/240/0xf0d60/17
-msgid "!"
-msgstr ""
-
 #. speaker 0x0e28dce6 voice v_bri_huy0010_000_0
 #. timeline 459..2020
 #: codec/1/241/0xf15f0/0
@@ -3016,27 +3042,3 @@ msgid ""
 "to destroy the human race a hundred times over.\n"
 msgstr ""
 "毁灭人类上百次。\n"
-
-#: codec/1/243/0xf34f0/7
-msgid ""
-"But nobody's actually being killed. Small-scale\n"
-"conflicts and proxy wars, maybe...\n"
-msgstr ""
-"但实际没人被杀。小规模\n"
-"冲突和代理人战争，也许……\n"
-
-#: codec/1/243/0xf34f0/8
-msgid ""
-"But nuclear deterrence has averted another world\n"
-"war.\n"
-msgstr ""
-"但核威慑避免了另一场世界\n"
-"大战。\n"
-
-#: codec/1/243/0xf34f0/9
-msgid ""
-"The world's far more peaceful today than it was\n"
-"before.\n"
-msgstr ""
-"如今的世界比以往\n"
-"和平得多。\n"

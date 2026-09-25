@@ -378,10 +378,29 @@ class Record:
     group: int = 0          # 所属语言块组（1 = v_bri 主体，2 = v_fop/v_myo）
     lang: str = ""          # 语言（权威：LANG_BLOCKS 位置判定）
     lang_by_text: str = ""  # 语言（交叉校验：停用词频判定）
+    n_text: int = -1        # 真台词条数；lines[n_text:] 不是台词（见下方）
+
+    def __post_init__(self):
+        if self.n_text < 0:
+            self.n_text = len(self.lines)
 
     @property
     def n_lines(self) -> int:
         return len(self.lines)
+
+    @property
+    def artifacts(self) -> int:
+        """尾部非台词表项数（`lines[n_text:]`）。
+
+        判据是池的排布规则，不是「像不像台词」的启发式：
+        `_probe_bri53.py` [E3] 证明池里的串是 back-to-back 紧挨着的，所以
+        真表项必然满足 ``table[i+1] == table[i] + len(串 i) + 1``，最后一项
+        不越出 off3。第二种记录格式（§10）的表尾部若干项指进池后的二进制
+        块，第一个破坏该不变量的位置就是真台词的终点 ——
+        `_probe_bri58.py`：2,062 条干净记录不变量 100% 成立，572 条带伪影
+        的记录里 559 条切点与「首个 U+FFFD」完全重合。
+        """
+        return len(self.lines) - self.n_text
 
     @property
     def lang_conflict(self) -> bool:
@@ -570,10 +589,22 @@ def parse_record(buf, a1: int) -> Record | None:
     if table[0] != 0:
         prob.append("table[0] != 0")
     lines = []
-    for v in table:
+    n_text = cnt
+    for i, v in enumerate(table):
         e = buf.find(b"\x00", p2 + v, min(len(buf), p2 + v + 8192))
         raw = b"" if e < 0 else buf[p2 + v:e]
         lines.append(raw.decode("utf-8", "replace"))
+        # 真台词数：池是串 back-to-back 紧凑排布（_probe_bri53.py [E3]），
+        # 所以真表项必然 table[i+1] == table[i] + len + 1，最后一项不越出
+        # off3。第一个破坏它的项指进池后的二进制块，不是台词
+        # （_probe_bri58.py）。此前靠 U+FFFD / 字符范围猜，见 §10.5。
+        if n_text == cnt:
+            if i + 1 < cnt:
+                packed = len(raw) + 1 == table[i + 1] - v
+            else:
+                packed = len(raw) + 1 <= (o3 - o2) - v
+            if not packed:
+                n_text = i
     if v11 + 8 > len(buf):
         return None
     # 脚本区入口曾是剔除魔数碰撞假阳性的判据：入口合法 2049 条 -> 台词 100%
@@ -617,7 +648,7 @@ def parse_record(buf, a1: int) -> Record | None:
         off=a1, sector=a1 // SECTOR, idx=a1 // 16,
         id24=_u24(buf, a1), flags=buf[a1 + 3],
         v10=v10, off0=o0, off1=o1, off2=o2, off3=o3,
-        table=table, lines=lines,
+        table=table, lines=lines, n_text=n_text,
         script_off=v11 + 4,
         entry_off=(entry if entry_ok else -1),
         problems=prob,
@@ -710,7 +741,7 @@ if __name__ == "__main__":
     if a.out:
         with open(a.out, "w", encoding="utf-8", newline="") as f:
             f.write("group\tlang\tsector\toff\tidx\tline\t"
-                    "t_start\tt_end\tspeaker\tvoice_ids\ttext\n")
+                    "t_start\tt_end\tspeaker\tvoice_ids\tn_text\ttext\n")
             for r in br.records:
                 vids = "|".join(sorted(set(r.voice_ids(br.data))))
                 cue = {c[0]: c for c in r.cues(br.data)}
@@ -720,5 +751,6 @@ if __name__ == "__main__":
                     c = cue.get(i)
                     ts, te, sp = (c[2], c[3], f"{c[1]:#010x}") if c else ("", "", "")
                     f.write(f"{r.group}\t{r.lang}\t{r.sector}\t{r.off:#x}\t"
-                            f"{r.idx}\t{i}\t{ts}\t{te}\t{sp}\t{vids}\t{t1}\n")
+                            f"{r.idx}\t{i}\t{ts}\t{te}\t{sp}\t{vids}\t"
+                            f"{r.n_text}\t{t1}\n")
         print("已写出：", a.out)

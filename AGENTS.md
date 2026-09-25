@@ -74,6 +74,10 @@ research/
   `briefing_build` 原地重写文本池写回 `0076531d.DAT`（产物与原文等长，
   改动仅限目标记录的池区间）。唯一硬约束是池预算：译文必须比英文短
   （`ANALYSIS/03_codec.md` §9）
+- 「哪些表项是台词」由池的排布规则判定（`Record.n_text`：真表项满足
+  `table[i+1] == table[i] + len + 1`、末项不越出 off3），**不要**再用
+  「像不像台词」的启发式 —— U+FFFD / `_codec_junk` 已于 2026-09-25 退役
+  （`ANALYSIS/03_codec.md` §10.6）
 
 过场文字不在磁盘那 17 个 `.olang` 里，而是塞在 `MLG/disc0_rel/002aba34.DAT`
 （`SLOT.DAT`）内嵌的 144 张 olang 表中 —— 详见

@@ -189,6 +189,9 @@ def collect_olang(ref_langs=REF_LANGS, pixel: bool = False) -> list:
 #: 英语台词里基本不会出现的重音/标点（é è 剔除：英文里 "coup d'état" 就有）
 _FOREIGN_ACCENT = set("àâçêëîïôùûœñáíóúäöüß¿¡")
 
+#: 2026-09-25 退役：曾用来给 `_codec_junk` 放行印刷体标点，而 `_codec_junk`
+#: 本身已被 `n_text` 判据取代（03_codec.md §10.6）。
+
 
 def _codec_wrong_lang(rows, col) -> set:
     """{(group, off)}：位置判据标成 en、实际是别种语言的 codec 记录。
@@ -225,32 +228,6 @@ def _codec_wrong_lang(rows, col) -> set:
     return bad
 
 
-def _codec_junk(text: str) -> bool:
-    """True = 这不是台词，是二进制碎片被当成串读出来的。
-
-    第二种记录格式（03 号文档 §10）里，表尾部若干项指进文本之后的二进制
-    块，偶尔会撞出 '\x0f,'、'Q]'、'6WUp' 这种 1~4 字节的碎片 —— 它们不含
-    替换字符，光靠 U+FFFD 过滤拦不住。判据：含控制字符 / 含英语和日语里
-    都不会出现的字符（西里尔、希腊、亚美尼亚……）/ 长度 <= 4 且只有 0~1 个
-    拉丁字母。
-    """
-    body = text.replace("\n", "").strip()
-    if not body:
-        return True
-    if set(body) <= set("......—–?!…"):   # "..."、"……" 这类真台词
-        return False
-    for ch in body:
-        o = ord(ch)
-        if o < 0x20 or 0x7F <= o <= 0x9F:
-            return True
-        if 0x180 <= o < 0x3000:          # 拉丁扩展 B 之后、CJK 之前
-            return True
-        if o > 0x9FFF and not (0xFF00 <= o <= 0xFFEF):
-            return True
-    letters = sum(1 for ch in body if ch.isascii() and ch.isalpha())
-    return letters <= 1 and len(body) <= 4
-
-
 def collect_codec() -> list:
     rows = config.BRIEFING_TSV.read_text(encoding="utf-8").splitlines()
     head = rows[0].split("\t")
@@ -270,12 +247,18 @@ def collect_codec() -> list:
             continue      # 位置判据标成 en、实际是别的语种，译了会写坏该槽
         if not c[col["text"]].strip():
             continue
-        # 第二种记录格式（03 号文档「脚本按引用共享」）：表尾部若干项指进
-        # 池内文本之后的二进制块，解出的串带重叠垃圾、个别还会跨过 off3。
-        # 游戏真台词都是合法 UTF-8，所以含**任何一个** U+FFFD 的行都是提取
-        # 伪影 —— 不进语料、保持英文，也避免它经 msgid 合并继承已有译文后
-        # 撑爆 codec-budget（po_lint 会点名整条记录）。
-        if "\ufffd" in c[col["text"]] or _codec_junk(c[col["text"]]):
+        # 是不是台词由池的排布规则说了算，不靠「像不像台词」的启发式：
+        # 池里的串 back-to-back 紧挨着，真表项满足
+        # table[i+1] == table[i] + len + 1、末项不越出 off3；第一个破坏它的
+        # 位置就是 `n_text`，其后的表项指进池后的二进制块
+        # （03_codec.md §10.6，_probe_bri58.py：2062 条干净记录 0 例外）。
+        # 这取代了原先的 U+FFFD / _codec_junk 两道猜测。
+        if int(c[col["line"]]) >= int(c[col["n_text"]]):
+            continue
+        # 真台词里若夹着非法 UTF-8，写回时无法无损还原（U+FFFD 会被编码成
+        # EF BF BD，改掉原本的字节）—— 这不是「不像台词」，是写不了，
+        # 保持英文。全库 en 只 3 条，见 03_codec.md §10.6。
+        if "\ufffd" in c[col["text"]]:
             continue
         ref = (f"codec/{c[col['group']]}/{c[col['sector']]}/"
                f"{c[col['off']]}/{c[col['line']]}")

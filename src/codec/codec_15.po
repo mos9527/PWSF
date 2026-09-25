@@ -6,8 +6,44 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-PWSF-Source: codec\n"
-"X-PWSF-Entries: 182\n"
+"X-PWSF-Entries: 186\n"
 
+
+#. speaker 0x0ea8e31c voice v_myo_rad_0080_000_0
+#. timeline 4151..4806
+#: codec/2/916/0x394bd0/5
+msgid ""
+"You can use it in Outer Ops, too.\n"
+msgstr ""
+"外层作战也能用。\n"
+
+#. speaker 0x0ea8e31c voice v_myo_rad_0080_000_0
+#. timeline 4876..5712
+#: codec/2/916/0x394bd0/6
+msgid ""
+"Just select ZEKE when you're forming\n"
+"your unit.\n"
+msgstr ""
+"在组建部队时\n"
+"选择ZEKE即可。\n"
+
+#. speaker 0x0ea8e31c voice v_myo_rad_0080_000_0
+#. timeline 5795..6492
+#: codec/2/916/0x394bd0/7
+msgid ""
+"Be sure to take it out for a field test.\n"
+msgstr ""
+"一定要带它去做实地测试。\n"
+
+#. speaker 0x0ea8e31c voice v_myo_rad_0080_000_0
+#. timeline 6798..7815
+#: codec/2/916/0x394bd0/9
+msgid ""
+"You can change weapons and check\n"
+"memory boards just like before.\n"
+msgstr ""
+"可以像以前一样更换武器、\n"
+"查看记忆板。\n"
 
 #. speaker 0x0ea8e31c voice v_myo_rad_0080_000_0
 #. timeline 7927..9013

@@ -9,6 +9,26 @@ msgstr ""
 "X-PWSF-Entries: 400\n"
 
 
+#: codec/1/282/0x11a440/15
+msgid ""
+"She soon proved herself right.\n"
+msgstr ""
+"很快她就证明了自己。\n"
+
+#: codec/1/282/0x11a440/16
+msgid ""
+"The Boss was more than just a guinea pig.\n"
+msgstr ""
+"The Boss不只是试验品。\n"
+
+#: codec/1/282/0x11a440/17
+msgid ""
+"She drew on her experience to give the staff\n"
+"focused advice exactly where it was needed.\n"
+msgstr ""
+"她凭经验在最关键的地方\n"
+"给出中肯的建议。\n"
+
 #: codec/1/282/0x11a440/18
 msgid ""
 "NASA's space program took off again.\n"
@@ -1955,6 +1975,14 @@ msgid ""
 msgstr ""
 "别担心。\n"
 
+#. speaker 0x0e3bb338 voice 
+#. timeline 10337..11131
+#: codec/2/903/0x3879e0/9
+msgid ""
+"It’s good to be working with you, Boss.\n"
+msgstr ""
+"能和您并肩作战真好，Boss。\n"
+
 #. speaker 0x0e463a34 voice 
 #. timeline 11243..12190
 #: codec/2/903/0x3879e0/10
@@ -2896,31 +2924,3 @@ msgid ""
 msgstr ""
 "要么解决士兵，要么打下直升机！\n"
 "祝你好运！\n"
-
-#: codec/2/907/0x38b020/0
-msgid ""
-"Snake,\n"
-msgstr ""
-"SNAKE\n"
-
-#: codec/2/907/0x38b020/1
-msgid ""
-"infiltrate Dr. Strangelove's research lab\n"
-"and either deactivate or destroy the AI.\n"
-msgstr ""
-"潜入Strangelove博士的研究实验室，\n"
-"并停用或摧毁那个AI。\n"
-
-#: codec/2/907/0x38b020/2
-msgid ""
-"The lab's built into some ancient ruins, so\n"
-"find those first!\n"
-msgstr ""
-"实验室在古代遗迹里，\n"
-"先找到遗迹！\n"
-
-#: codec/2/907/0x38b170/0
-msgid ""
-"Snake?\n"
-msgstr ""
-"SNAKE？\n"
