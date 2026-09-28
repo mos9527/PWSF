@@ -49,16 +49,19 @@ MANIFEST.tsv       分块索引（条目数 / 覆盖槽位数 / 原文字符数�
 
 换行照常：`\n` 在游戏里是两个字符，行数要和原文一致。
 
-## `stage/` 是只读语料（暂时）
+## `stage/` 是 STAGEDAT 的内嵌文本（写回已打通）
 
 `stage/` 是 **STAGEDAT**（`MLG/disc0_rel/009645fa.PDT`）里那 738 张内嵌 olang
 表：任务说明、关卡提示、Mother Base 队员吐槽、道具/武器说明文。其中 10,570 条
 在别处都没有。
 
-它**现在还写不回**：`po_import` 会跳过 `stage/...` 引用，`po_lint` 会给你一条
-`stage-readonly` 警告。翻了不会出错、也不会进游戏——先翻着，等写回链路打通。
+**写回已经打通**（2026-09-22，`pwsf.stage_build`）：它重建整个容器——557 个
+`0x800` 对齐的条目整体重排偏移，译文写进 `*_en.olang` 成员，其余条目原样拷贝，
+已接进 `po_import` 与 `install`。所以翻了**会**进游戏；和其他语料一样，只改英文
+那份。代价是每次重写约 487 MB，不想等就 `--skip stage`。
 格式与来龙去脉见
-[`research/ANALYSIS/09_stagedat_payload.md`](../research/ANALYSIS/09_stagedat_payload.md)。
+[`research/ANALYSIS/09_stagedat_payload.md`](../research/ANALYSIS/09_stagedat_payload.md)
+§11。
 
 > 以前这里有份 `pwsf.pot`，现在默认不再生成 —— 它只是所有语料合并成的空
 > 模板，`po_lint` / `po_import` 都不读它，在里面翻译不生效。需要时 `--pot`。
