@@ -15,6 +15,7 @@ msgstr ""
 msgid ""
 "Guess I should probably pull the plug on those, too.\n"
 msgstr ""
+"看来那些也得由我亲手关掉了。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_mis_huy0010_000_0
 #. timeline 9209..10253
@@ -22,6 +23,7 @@ msgstr ""
 msgid ""
 "Good idea. What else... Well,\n"
 msgstr ""
+"好主意。还有呢……嗯，\n"
 
 #. speaker 0x0ea8e31c voice v_bri_mis_huy0010_000_0
 #. timeline 10253..12009
@@ -30,6 +32,8 @@ msgid ""
 "as with all AI machines, you can incapacitate the\n"
 "entire unit by taking out the AI itself.\n"
 msgstr ""
+"和所有AI兵器一样，只要\n"
+"破坏AI本体，整台就会瘫痪。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_mis_huy0010_000_0
 #. timeline 12023..13235
@@ -38,6 +42,8 @@ msgid ""
 "If you can get the hatch open and climb inside, you\n"
 "can pull out the memory boards -\n"
 msgstr ""
+"只要打开舱盖爬进去，\n"
+"把记忆板拔出来——\n"
 
 #. speaker 0x0ea8e31c voice v_bri_mis_huy0010_000_0
 #. timeline 13249..13722
@@ -45,6 +51,7 @@ msgstr ""
 msgid ""
 "lights out, AI.\n"
 msgstr ""
+"AI就断气了。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_mis_huy0010_000_0
 #. timeline 13736..14544
@@ -52,6 +59,7 @@ msgstr ""
 msgid ""
 "We may be able to use those boards for ourselves.\n"
 msgstr ""
+"那些板子我们也许能自己用上。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_mis_huy0010_000_0
 #. timeline 14558..15701
@@ -60,6 +68,8 @@ msgid ""
 "If you can, try and get inside the AI pod and have\n"
 "a crack at it.\n"
 msgstr ""
+"可以的话，想办法钻进AI舱\n"
+"试试看。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_mis_huy0010_000_0
 #. timeline 15729..17066
@@ -68,6 +78,8 @@ msgid ""
 "You won't be able to do that until you've damaged\n"
 "it enough to stop it from moving, first.\n"
 msgstr ""
+"不过得先把它打伤到动不了，\n"
+"否则你靠不近。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_mis_huy0010_000_0
 #. timeline 17080..17860
@@ -75,6 +87,7 @@ msgstr ""
 msgid ""
 "Got it. Usual tactics first, then.\n"
 msgstr ""
+"明白了。那就先按老办法来。\n"
 
 #: codec/1/256/0x1003f0/0
 msgid ""
@@ -1097,102 +1110,132 @@ msgid ""
 "They'd sent a dog into orbit and brought it back\n"
 "safely to Earth.\n"
 msgstr ""
+"他们把一条狗送上轨道，\n"
+"又安全地带回了地球。\n"
 
 #: codec/1/258/0x102280/46
 msgid ""
 "But NASA top brass dismissed that success as a\n"
 "fluke.\n"
 msgstr ""
+"可NASA的高层把这次成功\n"
+"当成侥幸。\n"
 
 #: codec/1/258/0x102280/47
 msgid ""
 "The Americans recovered their reentry capsules at\n"
 "sea.\n"
 msgstr ""
+"美国人在海上\n"
+"回收他们的返回舱。\n"
 
 #: codec/1/258/0x102280/48
 msgid ""
 "But the only ocean bordering the Soviet Union is\n"
 "the Arctic,\n"
 msgstr ""
+"但苏联濒临的海洋\n"
+"只有北冰洋，\n"
 
 #: codec/1/258/0x102280/49
 msgid ""
 "so their reentry capsules had to make impact on\n"
 "land.\n"
 msgstr ""
+"所以他们的返回舱\n"
+"只能在陆地上着陆。\n"
 
 #: codec/1/258/0x102280/50
 msgid ""
 "A dog was one thing, but human spaceflight would\n"
 "still take some time. Or so we thought.\n"
 msgstr ""
+"送狗是一回事，载人飞行\n"
+"还得等些时日。当时我们这么想。\n"
 
 #: codec/1/258/0x102280/51
 msgid ""
 "At the end of January 1961, we successfully put a\n"
 "chimpanzee named Ham into orbit.\n"
 msgstr ""
+"1961年1月底，我们成功把\n"
+"一只叫哈姆的黑猩猩送上轨道。\n"
 
 #: codec/1/258/0x102280/52
 msgid ""
 "He returned to Earth as healthy as ever.\n"
 msgstr ""
+"它回到地球时健康如初。\n"
 
 #: codec/1/258/0x102280/53
 msgid ""
 "NASA was giddy with success.\n"
 msgstr ""
+"NASA沉浸在成功的喜悦里。\n"
 
 #: codec/1/258/0x102280/54
 msgid ""
 "It was then that a new woman showed up for duty.\n"
 "She was a backup pilot and advisor.\n"
 msgstr ""
+"就在这时，一位新女性到任。\n"
+"她是后备飞行员兼顾问。\n"
 
 #: codec/1/258/0x102280/55
 msgid ""
 "She was beautiful, with blond hair, a strong mouth,\n"
 "and a steely gaze.\n"
 msgstr ""
+"她很美，金发，嘴唇坚毅，\n"
+"目光如钢。\n"
 
 #: codec/1/258/0x102280/56
 msgid ""
 "But there was something else in those eyes,\n"
 msgstr ""
+"但那双眼睛里还有别的东西，\n"
 
 #: codec/1/258/0x102280/57
 msgid ""
 "a twinkle of something warmer... of affection.\n"
 msgstr ""
+"一丝更温暖的光……是温情。\n"
 
 #: codec/1/258/0x102280/58
 msgid ""
 "It was The Boss.\n"
 msgstr ""
+"那是THE BOSS。\n"
 
 #: codec/1/258/0x102280/59
 msgid ""
 "She took one look at us in our revelry and\n"
 "murmured:\n"
 msgstr ""
+"她看了眼狂欢的我们，\n"
+"低声说道：\n"
 
 #: codec/1/258/0x102280/60
 msgid ""
 "\"Savor this joy today. Because tomorrow you'll\n"
 "have to face the truth.\"\n"
 msgstr ""
+"“今天就尽情欢喜吧。因为明天\n"
+"你们就得面对真相。”\n"
 
 #: codec/1/258/0x102280/61
 msgid ""
 "And she was right.\n"
 msgstr ""
+"而她说中了。\n"
 
 #: codec/1/258/0x102280/62
 msgid ""
 "The next day, our project schedule was\n"
 "accelerated.\n"
 msgstr ""
+"第二天，我们的项目进度\n"
+"就被提前了。\n"
 
 #: codec/1/258/0x102280/63
 msgid ""
@@ -1200,209 +1243,271 @@ msgid ""
 "were mere months away from putting a man into\n"
 "space.\n"
 msgstr ""
+"我们收到新情报：苏联\n"
+"距离把人送上太空\n"
+"只剩几个月了。\n"
 
 #: codec/1/258/0x102280/64
 msgid ""
 "The brass had misjudged the Russians.\n"
 msgstr ""
+"高层错估了俄国人。\n"
 
 #: codec/1/258/0x102280/65
 msgid ""
 "We couldn't afford to allow the shock of another\n"
 "Sputnik.\n"
 msgstr ""
+"我们再也承受不起\n"
+"另一个斯普特尼克的冲击。\n"
 
 #: codec/1/258/0x102280/66
 msgid ""
 "Somehow, we had to get a man into space before\n"
 "the Russians did.\n"
 msgstr ""
+"无论如何，我们必须抢在\n"
+"俄国人之前把人送上太空。\n"
 
 #: codec/1/258/0x102280/67
 msgid ""
 "It was an utterly impossible task. We'd only just put\n"
 "our first chimp up.\n"
 msgstr ""
+"这根本是不可能的任务。我们\n"
+"才刚把第一只猩猩送上去。\n"
 
 #: codec/1/258/0x102280/68
 msgid ""
 "With a human on board, failure was not an option.\n"
 msgstr ""
+"载人飞行，绝不允许失败。\n"
 
 #: codec/1/258/0x102280/69
 msgid ""
 "Especially if it were one of the \"Mercury Seven\"\n"
 "golden boys.\n"
 msgstr ""
+"尤其如果搭乘的是“水星七杰”\n"
+"里的天之骄子。\n"
 
 #: codec/1/258/0x102280/70
 msgid ""
 "And on top of that, the brass wanted to put a\n"
 "window in the spacecraft.\n"
 msgstr ""
+"而且高层还要求在飞船上\n"
+"开一扇窗。\n"
 
 #: codec/1/258/0x102280/71
 msgid ""
 "The pilot wouldn't be a test animal this time, they\n"
 "said.\n"
 msgstr ""
+"他们说，这次飞行员\n"
+"不是试验动物。\n"
 
 #: codec/1/258/0x102280/72
 msgid ""
 "And when this hero came back alive and well, they\n"
 "wanted him to describe what he'd seen.\n"
 msgstr ""
+"等这位英雄平安归来，他们要\n"
+"他亲口描述所见的一切。\n"
 
 #: codec/1/258/0x102280/73
 msgid ""
 "It was madness.\n"
 msgstr ""
+"简直是疯了。\n"
 
 #: codec/1/258/0x102280/74
 msgid ""
 "Adding a window to our existing spacecraft would\n"
 "leave it unable to handle the stress.\n"
 msgstr ""
+"在现有飞船上加窗，机身\n"
+"就承受不住应力。\n"
 
 #: codec/1/258/0x102280/75
 msgid ""
 "Not to mention the problem of shielding the\n"
 "occupant from cosmic rays.\n"
 msgstr ""
+"更别说还要为乘员\n"
+"屏蔽宇宙射线。\n"
 
 #: codec/1/258/0x102280/76
 msgid ""
 "But The Boss rose to the task, and splendidly.\n"
 msgstr ""
+"但THE BOSS接下了难题，而且干得漂亮。\n"
 
 #: codec/1/258/0x102280/77
 msgid ""
 "She claimed to be a layman when it came to\n"
 "space,\n"
 msgstr ""
+"她自称在航天方面\n"
+"是外行，\n"
 
 #: codec/1/258/0x102280/78
 msgid ""
 "but caught on keenly to new ideas and concepts.\n"
 msgstr ""
+"却对新概念领悟得极快。\n"
 
 #: codec/1/258/0x102280/79
 msgid ""
 "She was demanding - of herself and of others.\n"
 msgstr ""
+"她很严格——对自己，对别人。\n"
 
 #: codec/1/258/0x102280/80
 msgid ""
 "She seemed rather cold-hearted at times.\n"
 msgstr ""
+"有时她显得相当冷酷。\n"
 
 #: codec/1/258/0x102280/81
 msgid ""
 "But I was smitten. She was beautiful, yes, but more\n"
 "than that she was wise.\n"
 msgstr ""
+"可我着了迷。她很美，但更\n"
+"重要的是她有智慧。\n"
 
 #: codec/1/258/0x102280/82
 msgid ""
 "Her mind was thoroughly rational,\n"
 msgstr ""
+"她的思维完全理性，\n"
 
 #: codec/1/258/0x102280/83
 msgid ""
 "and yet no matter how I tried, I could never predict\n"
 "her actions.\n"
 msgstr ""
+"可无论我怎么想，都猜不透\n"
+"她的下一步。\n"
 
 #: codec/1/258/0x102280/84
 msgid ""
 "It was easy for me to assume that her judgments\n"
 "were drawn from an enormous base of knowledge.\n"
 msgstr ""
+"我很容易认为，她的判断来\n"
+"自庞大的知识积累。\n"
 
 #: codec/1/258/0x102280/85
 msgid ""
 "Quite simply, her life experiences were more\n"
 "diverse - more intense - than anyone else's.\n"
 msgstr ""
+"说白了，她的人生经历比任何\n"
+"人都更复杂、更激烈。\n"
 
 #: codec/1/258/0x102280/86
 msgid ""
 "To me, they seemed boundless in their breadth.\n"
 msgstr ""
+"在我看来，那广博没有边际。\n"
 
 #: codec/1/258/0x102280/87
 msgid ""
 "In her, I saw a reflection of the night sky.\n"
 msgstr ""
+"我在她身上看见了夜空的倒影。\n"
 
 #: codec/1/258/0x102280/88
 msgid ""
 "Perhaps because I too was a woman, she and I\n"
 "became close.\n"
 msgstr ""
+"也许因为同为女性，我和她\n"
+"亲近了起来。\n"
 
 #: codec/1/258/0x102280/89
 msgid ""
 "I couldn't go out in the sun, but she lit up my life.\n"
 msgstr ""
+"我见不得阳光，她却照亮了我的生活。\n"
 
 #: codec/1/258/0x102280/90
 msgid ""
 "Her light was soft, like that of the moon. I was so\n"
 "happy.\n"
 msgstr ""
+"她的光很柔和，像月光。\n"
+"我那时多幸福啊。\n"
 
 #: codec/1/258/0x102280/91
 msgid ""
 "With her unerring guidance, the project steadily\n"
 "regained its footing.\n"
 msgstr ""
+"在她精准的指引下，项目\n"
+"逐渐重回正轨。\n"
 
 #: codec/1/258/0x102280/92
 msgid ""
 "But one issue remained - the pilot's safety.\n"
 msgstr ""
+"但还有一个问题——飞行员的安全。\n"
 
 #: codec/1/258/0x102280/93
 msgid ""
 "When the day came to choose a pilot, the Mercury\n"
 "Seven just quietly walked out.\n"
 msgstr ""
+"到了选飞行员那天，水星七杰\n"
+"只是默默走了出去。\n"
 
 #: codec/1/258/0x102280/94
 msgid ""
 "Who could blame them? It was far too great a risk\n"
 "to take.\n"
 msgstr ""
+"谁能怪他们？那风险\n"
+"实在太大了。\n"
 
 #: codec/1/258/0x102280/95
 msgid ""
 "Even if they'd volunteered, NASA would never have\n"
 "let them go.\n"
 msgstr ""
+"就算他们自愿，NASA也绝\n"
+"不会放人。\n"
 
 #: codec/1/258/0x102280/96
 msgid ""
 "They were national heroes, basking in the media\n"
 "spotlight.\n"
 msgstr ""
+"他们是国家英雄，正沐浴在\n"
+"媒体的聚光灯下。\n"
 
 #: codec/1/258/0x102280/97
 msgid ""
 "There was no way they'd be sent on such a\n"
 "mission.\n"
 msgstr ""
+"绝不可能派他们去执行\n"
+"这种任务。\n"
 
 #: codec/1/258/0x102280/98
 msgid ""
 "The conference room was silent.\n"
 msgstr ""
+"会议室一片寂静。\n"
 
 #: codec/1/258/0x102280/99
 msgid ""
 "Then, slowly, she raised her hand - almost as if\n"
 "acting out a scene from a movie.\n"
 msgstr ""
+"然后，她缓缓举起手——\n"
+"像在演电影里的一个镜头。\n"
 
 #: codec/1/260/0x104860/0
 msgid ""
@@ -1595,479 +1700,618 @@ msgid ""
 "She was serving with the Special Forces when she\n"
 "received new orders.\n"
 msgstr ""
+"她在特种部队服役时\n"
+"接到了新命令。\n"
 
 #: codec/1/260/0x104860/27
 msgid ""
 "A German spy had infiltrated the Manhattan Project,\n"
 msgstr ""
+"一名德国间谍渗入了曼哈顿计划，\n"
 
 #: codec/1/260/0x104860/28
 msgid ""
 "which aimed to build the world's first atomic bomb.\n"
 "She was to eliminate him.\n"
 msgstr ""
+"那项计划要造出世界第一颗\n"
+"原子弹。她要去除掉他。\n"
 
 #: codec/1/260/0x104860/29
 msgid ""
 "His name was John von Neumann, a mathematician\n"
 "with superhuman computational abilities,\n"
 msgstr ""
+"他叫约翰·冯·诺依曼，一位\n"
+"计算能力超人的数学家，\n"
 
 #: codec/1/260/0x104860/30
 msgid ""
 "and the designer of the explosive lens.\n"
 msgstr ""
+"也是爆缩透镜的设计者。\n"
 
 #: codec/1/260/0x104860/31
 msgid ""
 "The Manhattan Project was a top national priority,\n"
 "security accordingly tight.\n"
 msgstr ""
+"曼哈顿计划是国家最高机密，\n"
+"安保自然严密。\n"
 
 #: codec/1/260/0x104860/32
 msgid ""
 "The guards couldn't be allowed to know what was\n"
 "going on.\n"
 msgstr ""
+"不能让守卫知道\n"
+"到底发生了什么。\n"
 
 #: codec/1/260/0x104860/33
 msgid ""
 "She'd have to slip past them and make the death\n"
 "look like an accident.\n"
 msgstr ""
+"她得绕过他们，让那场死亡\n"
+"看起来像意外。\n"
 
 #: codec/1/260/0x104860/34
 msgid ""
 "...It should have been an easy enough mission.\n"
 msgstr ""
+"……本该是个轻松的任务。\n"
 
 #: codec/1/260/0x104860/35
 msgid ""
 "But just before the operation, she received\n"
 "unexpected news:\n"
 msgstr ""
+"但就在行动前，她收到\n"
+"一个意外的消息：\n"
 
 #: codec/1/260/0x104860/36
 msgid ""
 "a new life was growing inside her.\n"
 msgstr ""
+"她体内正孕育着新的生命。\n"
 
 #: codec/1/260/0x104860/37
 msgid ""
 "She was overcome with joy. And for one brief\n"
 "moment, it clouded her judgment.\n"
 msgstr ""
+"她欣喜若狂。而那一瞬间，\n"
+"喜悦蒙蔽了她的判断。\n"
 
 #: codec/1/260/0x104860/38
 msgid ""
 "She accidentally got into a shootout with the\n"
 "guards, and without thinking protected her belly.\n"
 msgstr ""
+"她意外与守卫交火，下意识\n"
+"护住了自己的肚子。\n"
 
 #: codec/1/260/0x104860/39
 msgid ""
 "She was shot in the head.\n"
 msgstr ""
+"她头部中弹。\n"
 
 #: codec/1/260/0x104860/40
 msgid ""
 "The bullet only grazed the surface of her brain,\n"
 msgstr ""
+"子弹只擦过大脑表层，\n"
 
 #: codec/1/260/0x104860/41
 msgid ""
 "but the tissue around the wound was destroyed,\n"
 "leaving her in a coma.\n"
 msgstr ""
+"但伤口周围的组织被毁，\n"
+"她陷入了昏迷。\n"
 
 #: codec/1/260/0x104860/42
 msgid ""
 "She wasn't given much chance of recovery. But\n"
 "three months later, she woke up.\n"
 msgstr ""
+"没人看好她能康复。\n"
+"可三个月后，她醒了过来。\n"
 
 #: codec/1/260/0x104860/43
 msgid ""
 "Within six, she was able to move around as if\n"
 "nothing had happened.\n"
 msgstr ""
+"六个月后，她已行动自如，\n"
+"仿佛什么都没发生过。\n"
 
 #: codec/1/260/0x104860/44
 msgid ""
 "It was functional compensation\n"
 msgstr ""
+"这是功能代偿\n"
 
 #: codec/1/260/0x104860/45
 msgid ""
 "- the other parts of her brain took over for the\n"
 "part that was lost.\n"
 msgstr ""
+"——大脑其他部位顶替了\n"
+"受损的部分。\n"
 
 #: codec/1/260/0x104860/46
 msgid ""
 "It made logical sense. But such a full recovery was\n"
 "nothing short of a miracle.\n"
 msgstr ""
+"这合乎逻辑。但恢复得如此\n"
+"彻底，堪称奇迹。\n"
 
 #: codec/1/260/0x104860/47
 msgid ""
 "Perhaps her superhuman willpower made it\n"
 "possible. Or perhaps...\n"
 msgstr ""
+"也许是她超人的意志力\n"
+"做到了。又或许……\n"
 
 #: codec/1/260/0x104860/48
 msgid ""
 "\"Perhaps my body knew it had to survive for the\n"
 "sake of my unborn child.\"\n"
 msgstr ""
+"“也许我的身体知道，\n"
+"为了腹中的孩子必须活下去。”\n"
 
 #: codec/1/260/0x104860/49
 msgid ""
 "She smiled as she said that... I understand how\n"
 "she must have felt.\n"
 msgstr ""
+"她说这话时笑了……我懂她\n"
+"当时的心情。\n"
 
 #: codec/1/260/0x104860/50
 msgid ""
 "\"Some have taken to calling me 'Ms. Left Lobe,\"\n"
 "she said.\n"
 msgstr ""
+"“有人开始叫我‘左脑女士’，”\n"
+"她说道。\n"
 
 #: codec/1/260/0x104860/51
 msgid ""
 "\"Because I'll do anything for the mission.\"\n"
 msgstr ""
+"“因为为了任务，我什么都做。”\n"
 
 #: codec/1/260/0x104860/52
 msgid ""
 "She was tough, yes. But she had feelings, too. I\n"
 "knew that better than anyone else.\n"
 msgstr ""
+"她确实坚强。但她也有感情。\n"
+"这点我比谁都清楚。\n"
 
 #: codec/1/260/0x104860/53
 msgid ""
 "As it turned out, von Neumann wasn't the spy.\n"
 msgstr ""
+"结果证明，冯·诺依曼不是间谍。\n"
 
 #: codec/1/260/0x104860/54
 msgid ""
 "The assassination order was a deliberate bit of\n"
 "misinformation planted by the Russians.\n"
 msgstr ""
+"那份暗杀命令，是俄国人\n"
+"故意放出的假情报。\n"
 
 #: codec/1/260/0x104860/55
 msgid ""
 "She had been deceived.\n"
 msgstr ""
+"她被骗了。\n"
 
 #: codec/1/260/0x104860/56
 msgid ""
 "The Eastern and Western camps were united on\n"
 "one point - opposition to the Nazis.\n"
 msgstr ""
+"东西方阵营在一点上一致：\n"
+"反对纳粹。\n"
 
 #: codec/1/260/0x104860/57
 msgid ""
 "The Allies needed to develop that bomb before\n"
 "Hitler did.\n"
 msgstr ""
+"盟军必须抢在希特勒之前\n"
+"造出那颗炸弹。\n"
 
 #: codec/1/260/0x104860/58
 msgid ""
 "But in looking ahead,\n"
 msgstr ""
+"但放眼未来，\n"
 
 #: codec/1/260/0x104860/59
 msgid ""
 "the Russians found the Manhattan Project's\n"
 "progress a little too quick for their liking.\n"
 msgstr ""
+"俄国人觉得曼哈顿计划的\n"
+"进展快得让他们不舒服。\n"
 
 #: codec/1/260/0x104860/60
 msgid ""
 "Mass-production of a uranium bomb like the one\n"
 "that was eventually dropped on Hiroshima\n"
 msgstr ""
+"像后来投在广岛那样的铀弹，\n"
+"要量产并不容易。\n"
 
 #: codec/1/260/0x104860/61
 msgid ""
 "would be difficult from a material perspective.\n"
 msgstr ""
+"从材料角度看很困难。\n"
 
 #: codec/1/260/0x104860/62
 msgid ""
 "But a plutonium bomb, once perfected, could be\n"
 "mass-produced and eventually even miniaturized.\n"
 msgstr ""
+"但钚弹一旦成熟，就能量产，\n"
+"甚至最终小型化。\n"
 
 #: codec/1/260/0x104860/63
 msgid ""
 "...And Moscow did not like the idea of America\n"
 "having that kind of head start.\n"
 msgstr ""
+"……而莫斯科不喜欢美国\n"
+"领先这么多。\n"
 
 #: codec/1/260/0x104860/64
 msgid ""
 "Explosive lens technology was critical to the\n"
 "plutonium design.\n"
 msgstr ""
+"爆缩透镜技术是钚弹设计的\n"
+"关键。\n"
 
 #: codec/1/260/0x104860/65
 msgid ""
 "So the plan was to get rid of its pioneer, von\n"
 "Neumann.\n"
 msgstr ""
+"所以计划除掉它的开创者\n"
+"冯·诺依曼。\n"
 
 #: codec/1/260/0x104860/66
 msgid ""
 "And when that plot came to light, the U.S. and the\n"
 "Soviet Union parted ways for good.\n"
 msgstr ""
+"阴谋败露后，美苏就此\n"
+"彻底分道扬镳。\n"
 
 #: codec/1/260/0x104860/67
 msgid ""
 "It was one of the rare cold nights in Florida.\n"
 msgstr ""
+"那是佛罗里达少有的寒夜。\n"
 
 #: codec/1/260/0x104860/68
 msgid ""
 "She put her arm gently around my shivering\n"
 "shoulders.\n"
 msgstr ""
+"她轻轻搂住我\n"
+"颤抖的肩膀。\n"
 
 #: codec/1/260/0x104860/69
 msgid ""
 "As I listened to her voice, I was wrapped in her\n"
 "soothing scent.\n"
 msgstr ""
+"听着她的声音，我被她\n"
+"安心的气息包围。\n"
 
 #: codec/1/260/0x104860/70
 msgid ""
 "I felt as if I were dreaming.\n"
 msgstr ""
+"我恍若身处梦中。\n"
 
 #: codec/1/260/0x104860/71
 msgid ""
 "Even in failure, she seemed perfect\n"
 msgstr ""
+"即便失败，她也完美无缺\n"
 
 #: codec/1/260/0x104860/72
 msgid ""
 "- oddly enough, the failed assassination attempt\n"
 "helped preserve America's edge...\n"
 msgstr ""
+"——说来讽刺，那次失败的暗杀\n"
+"反倒保住了美国的优势……\n"
 
 #: codec/1/260/0x104860/73
 msgid ""
 "A true super genius,\n"
 msgstr ""
+"一位真正的超级天才，\n"
 
 #: codec/1/260/0x104860/74
 msgid ""
 "von Neumann went on to make his mark in\n"
 "numerous fields outside of the Manhattan Project.\n"
 msgstr ""
+"冯·诺依曼后来在曼哈顿计划\n"
+"之外的众多领域都留下名字。\n"
 
 #: codec/1/260/0x104860/75
 msgid ""
 "Economic game theory, stored-program computing...\n"
 msgstr ""
+"经济博弈论、存储程序计算……\n"
 
 #: codec/1/260/0x104860/76
 msgid ""
 "Almost all computers today use stored programs,\n"
 msgstr ""
+"今天几乎所有电脑都用存储程序，\n"
 
 #: codec/1/260/0x104860/77
 msgid ""
 "the so-called \"Von Neumann architecture.\"\n"
 msgstr ""
+"也就是所谓的“冯·诺依曼架构”。\n"
 
 #: codec/1/260/0x104860/78
 msgid ""
 "His death would have set back computing 10 years,\n"
 msgstr ""
+"他若死了，计算技术会倒退十年，\n"
 
 #: codec/1/260/0x104860/79
 msgid ""
 "and I wouldn't be at NASA doing research.\n"
 msgstr ""
+"我也不会在NASA做研究。\n"
 
 #: codec/1/260/0x104860/80
 msgid ""
 "I wouldn't have been there - in her arms - that\n"
 "night.\n"
 msgstr ""
+"我也不会在那个夜晚——\n"
+"躺在她的怀里。\n"
 
 #: codec/1/260/0x104860/81
 msgid ""
 "I thanked the fates for giving me that chance.\n"
 msgstr ""
+"我感谢命运给了我那个机会。\n"
 
 #: codec/1/260/0x104860/82
 msgid ""
 "But then she said something unexpected.\n"
 msgstr ""
+"可接着她说出一句意外的话。\n"
 
 #: codec/1/260/0x104860/83
 msgid ""
 "\"I should have killed von Neumann when I had the\n"
 "chance.\"\n"
 msgstr ""
+"“我该在有机会时杀了\n"
+"冯·诺依曼。”\n"
 
 #: codec/1/260/0x104860/84
 msgid ""
 "\"Why?\" I asked. \"Wasn't the order a Soviet plot?\"\n"
 msgstr ""
+"“为什么？”我问，“那道命令不是苏联的阴谋吗？”\n"
 
 #: codec/1/260/0x104860/85
 msgid ""
 "I looked up at her as she began to explain.\n"
 msgstr ""
+"我抬头看她，她开始解释。\n"
 
 #: codec/1/260/0x104860/86
 msgid ""
 "\"Yes, von Neumann was innocent. And killing the\n"
 "innocent is a grave crime.\n"
 msgstr ""
+"“是的，冯·诺依曼是无辜的。\n"
+"而杀害无辜是重罪。\n"
 
 #: codec/1/260/0x104860/87
 msgid ""
 "But I can't help but wonder, had I succeeded, what\n"
 "would the world be like now?\"\n"
 msgstr ""
+"可我忍不住想，如果我成功了，\n"
+"世界会变成什么样？”\n"
 
 #: codec/1/260/0x104860/88
 msgid ""
 "Even without von Neumann, the explosive lens\n"
 "would have eventually been developed\n"
 msgstr ""
+"就算没有冯·诺依曼，爆缩透镜\n"
+"迟早也会造出来，\n"
 
 #: codec/1/260/0x104860/89
 msgid ""
 "- Von Neumann architecture, too.\n"
 msgstr ""
+"——冯·诺依曼架构也一样。\n"
 
 #: codec/1/260/0x104860/90
 msgid ""
 "But she seemed to believe that if progress had\n"
 "been put off for a few years,\n"
 msgstr ""
+"可她似乎相信，如果这一切\n"
+"推迟几年，\n"
 
 #: codec/1/260/0x104860/91
 msgid ""
 "then perhaps East and West would have had a\n"
 "chance to work hand in hand.\n"
 msgstr ""
+"东西方也许就有机会\n"
+"携手合作。\n"
 
 #: codec/1/260/0x104860/92
 msgid ""
 "I'd never considered such a possibility. But her\n"
 "tone was confident, assertive.\n"
 msgstr ""
+"我从没想过这种可能。但她的\n"
+"语气自信而笃定。\n"
 
 #: codec/1/260/0x104860/93
 msgid ""
 "It was as if she intended to make the two\n"
 "superpowers shake hands herself.\n"
 msgstr ""
+"仿佛她要亲手让两个\n"
+"超级大国握手。\n"
 
 #: codec/1/260/0x104860/94
 msgid ""
 "\"The explosive lens was developed too early,\n"
 msgstr ""
+"“爆缩透镜问世得太早，\n"
 
 #: codec/1/260/0x104860/95
 msgid ""
 "spawning a Cold War and an endless nuclear arms\n"
 "race,\" she continued.\n"
 msgstr ""
+"催生了冷战和无尽的核军备\n"
+"竞赛，”她继续说道。\n"
 
 #: codec/1/260/0x104860/96
 msgid ""
 "\"That mission sprung from deceit, but maybe it was\n"
 "divine providence, too.\"\n"
 msgstr ""
+"“那次任务源于欺骗，但也许\n"
+"也是天意。”\n"
 
 #: codec/1/260/0x104860/97
 msgid ""
 "It was like she was speaking to her own child.\n"
 msgstr ""
+"她像是在对自己的孩子说话。\n"
 
 #: codec/1/260/0x104860/98
 msgid ""
 "Her large, warm hand was on my head.\n"
 msgstr ""
+"她那只大而温暖的手放在我头上。\n"
 
 #: codec/1/260/0x104860/99
 msgid ""
 "\"I failed the mission because I let the mother in me\n"
 "take over.\n"
 msgstr ""
+"“我任务失败，是因为让\n"
+"母亲的本能占了上风。\n"
 
 #: codec/1/260/0x104860/100
 msgid ""
 "I should have killed him, no matter how great the\n"
 "guilt.\"\n"
 msgstr ""
+"我该杀了他，无论背负多大的\n"
+"罪疚。”\n"
 
 #: codec/1/260/0x104860/101
 msgid ""
 "\"If I'd killed him, I might not have prevented\n"
 "Hiroshima,\n"
 msgstr ""
+"“如果我杀了他，也许阻止不了\n"
+"广岛，\n"
 
 #: codec/1/260/0x104860/102
 msgid ""
 "but maybe I could have saved everyone in\n"
 "Nagasaki...\"\n"
 msgstr ""
+"但也许能救下长崎的\n"
+"所有人……”\n"
 
 #: codec/1/260/0x104860/103
 msgid ""
 "I looked up at her and saw her looking up, too... up\n"
 "at the starry sky.\n"
 msgstr ""
+"我抬头看她，发现她也在仰望……\n"
+"仰望星空。\n"
 
 #: codec/1/260/0x104860/104
 msgid ""
 "Her face showed only deep remorse.\n"
 msgstr ""
+"她脸上只有深深的悔恨。\n"
 
 #: codec/1/260/0x104860/105
 msgid ""
 "It was as if she'd convinced herself that she alone\n"
 "was responsible for creating this twisted world...\n"
 msgstr ""
+"仿佛她认定，这个扭曲的世界\n"
+"全是由她一人造成的……\n"
 
 #: codec/1/260/0x104860/106
 msgid ""
 "\"But that's no reason for you to sacrifice yourself\n"
 "for this.\"\n"
 msgstr ""
+"“但这不是你为此牺牲自己的\n"
+"理由。”\n"
 
 #: codec/1/260/0x104860/107
 msgid ""
 "I knew I'd never dissuade her. And yet I still clung\n"
 "to hope.\n"
 msgstr ""
+"我知道劝不动她。可我仍\n"
+"抱着希望。\n"
 
 #: codec/1/260/0x104860/108
 msgid ""
 "\"I know you're concerned, and I thank you. But I\n"
 "have to be loyal to the end.\"\n"
 msgstr ""
+"“我知道你在担心，谢谢你。\n"
+"但我必须忠诚到底。”\n"
 
 #: codec/1/260/0x104860/109
 msgid ""
 "And then she smiled at me.\n"
 msgstr ""
+"然后她对我笑了。\n"
 
 #: codec/1/260/0x104860/110
 msgid ""
 "Loyal to the end... \"Loyal to what?\" I asked. But she\n"
 "didn't answer.\n"
 msgstr ""
+"忠诚到底……“对什么忠诚？”\n"
+"我问。她没有回答。\n"
 
 #: codec/1/263/0x107150/0
 msgid ""
@@ -2470,134 +2714,174 @@ msgstr ""
 msgid ""
 "Because she was loyal, to the end.\n"
 msgstr ""
+"因为她忠诚，直到最后。\n"
 
 #: codec/1/263/0x107150/56
 msgid ""
 "Since then, I've devoted myself to researching\n"
 "artificial intelligence,\n"
 msgstr ""
+"从那以后，我一心投入\n"
+"人工智能的研究，\n"
 
 #: codec/1/263/0x107150/57
 msgid ""
 "so that no one will ever have to make her sacrifice\n"
 "again.\n"
 msgstr ""
+"只为不再有人被迫做出\n"
+"她那样的牺牲。\n"
 
 #: codec/1/263/0x107150/58
 msgid ""
 "No human being should be asked to take on a\n"
 "mission that dangerous.\n"
 msgstr ""
+"不该让任何人去承担那样\n"
+"危险的任务。\n"
 
 #: codec/1/263/0x107150/59
 msgid ""
 "Next time, I'll be the light that shines on someone\n"
 "else...\n"
 msgstr ""
+"下一次，我要成为\n"
+"照亮别人的光……\n"
 
 #: codec/1/263/0x107150/60
 msgid ""
 "I still wonder why she opened up to me on that\n"
 "chilly night in Florida.\n"
 msgstr ""
+"我至今不明白，她为何在\n"
+"佛罗里达那个寒夜向我倾诉。\n"
 
 #: codec/1/263/0x107150/61
 msgid ""
 "That operation was top secret, even if it was all in\n"
 "the past.\n"
 msgstr ""
+"那次行动是最高机密，哪怕\n"
+"早已是往事。\n"
 
 #: codec/1/263/0x107150/62
 msgid ""
 "I like to think it was because she trusted me... but\n"
 "that's probably not the case.\n"
 msgstr ""
+"我宁愿相信是因为她信任我……\n"
+"但恐怕并非如此。\n"
 
 #: codec/1/263/0x107150/63
 msgid ""
 "She wanted someone to listen. And I don't think\n"
 "that someone was me.\n"
 msgstr ""
+"她想找个人倾听。而那个人\n"
+"恐怕不是我。\n"
 
 #: codec/1/263/0x107150/64
 msgid ""
 "Those faraway eyes, the tone of her voice - like\n"
 "she was talking to her own child\n"
 msgstr ""
+"那望向远方的眼神，那语气——\n"
+"像在对自己的孩子说话，\n"
 
 #: codec/1/263/0x107150/65
 msgid ""
 "- those things made it clear that she was speaking\n"
 "to someone else.\n"
 msgstr ""
+"——这些都说明，她是在\n"
+"对另一个人诉说。\n"
 
 #: codec/1/263/0x107150/66
 msgid ""
 "I found myself envying that \"someone.\"\n"
 msgstr ""
+"我竟嫉妒起那个“人”来。\n"
 
 #: codec/1/263/0x107150/67
 msgid ""
 "Four years later I learned of her death. A traitor's\n"
 "death, no less.\n"
 msgstr ""
+"四年后，我得知了她的死讯。\n"
+"而且是叛徒的死法。\n"
 
 #: codec/1/263/0x107150/68
 msgid ""
 "She'd stolen an American nuke and defected to\n"
 "the Soviet Union,\n"
 msgstr ""
+"她偷走美国的核弹，\n"
+"叛逃到苏联，\n"
 
 #: codec/1/263/0x107150/69
 msgid ""
 "where she was killed by her former apprentice... Or\n"
 "so I was told.\n"
 msgstr ""
+"最后被昔日的弟子杀死……\n"
+"至少他们是这么告诉我的。\n"
 
 #: codec/1/263/0x107150/70
 msgid ""
 "I refused to believe it. She'd never do such a thing.\n"
 msgstr ""
+"我不肯相信。她绝不会做那种事。\n"
 
 #: codec/1/263/0x107150/71
 msgid ""
 "I could think of only two possibilities:\n"
 msgstr ""
+"我只能想到两种可能：\n"
 
 #: codec/1/263/0x107150/72
 msgid ""
 "either she really was trying to bring East and West\n"
 "together...\n"
 msgstr ""
+"一是她真的想让东西方\n"
+"走到一起……\n"
 
 #: codec/1/263/0x107150/73
 msgid ""
 "Or she truly did want to be killed...\n"
 msgstr ""
+"二是她真的想求死……\n"
 
 #: codec/1/263/0x107150/74
 msgid ""
 "She believed the world is not the way it's\n"
 "supposed to be.\n"
 msgstr ""
+"她认为这个世界并非它\n"
+"应有的样子。\n"
 
 #: codec/1/263/0x107150/75
 msgid ""
 "That it's been unbalanced by the tenuous peace\n"
 "offered of nuclear deterrence.\n"
 msgstr ""
+"是核威慑带来的脆弱和平\n"
+"让世界失衡。\n"
 
 #: codec/1/263/0x107150/76
 msgid ""
 "And that she was to blame...\n"
 msgstr ""
+"而那都是她的错……\n"
 
 #: codec/1/263/0x107150/77
 msgid ""
 "Perhaps her death was an act of atonement.\n"
 msgstr ""
+"也许她的死是一种赎罪。\n"
 
 #: codec/1/263/0x107150/78
 msgid ""
 "She was loyal to the end - to our world.\n"
 msgstr ""
+"她忠诚到底——对这个世界的忠诚。\n"
