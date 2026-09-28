@@ -15,6 +15,7 @@ msgstr ""
 #: stage/174/lang_myouter_top_en.olang/0x183317/0xcaec53
 msgid "Parameters went up due"
 msgstr ""
+"参数提升原因"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -22,6 +23,7 @@ msgstr ""
 #: stage/174/lang_myouter_top_en.olang/0x183317/0xcbc2cb
 msgid "Accepted a volunteer."
 msgstr ""
+"已接受志愿者。"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -156,6 +158,7 @@ msgstr "现已可从母基地发动支援打击。任务中使用特殊武器即
 #: stage/174/lang_myouter_top_en.olang/0x183317/0xea69b8
 msgid "Combat operations for the dispatched unit have ended."
 msgstr ""
+"派遣部队的战斗任务已结束。"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -678,6 +681,7 @@ msgstr "查看士兵名册并组队。"
 #: stage/174/lang_myouter_top_en.olang/0x20dacf/0xcce522
 msgid "To trade staff, start by placing the staff"
 msgstr ""
+"要交换队员，先把队员"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -779,6 +783,7 @@ msgstr "母基地报告"
 #: stage/174/lang_myouter_top_en.olang/0xc8d6fc/0x6e7b0f
 msgid "Return to Mother Base"
 msgstr ""
+"返回母基地"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -832,6 +837,7 @@ msgstr "模型鉴赏"
 #: stage/23/lang_myouter_util_en.olang/0x1bed50/0xd46323
 msgid "Insufficient GMP (financial power)."
 msgstr ""
+"GMP（资金力）不足。"
 
 #. STAGEDAT entry 23, lang_myouter_util_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/23/lang_myouter_util_en.olang/0x5f753b/0x25075b
@@ -926,6 +932,7 @@ msgstr "(不要)介绍文"
 #: stage/187/lang_psp_keyboard_en.olang/0x9b86ab/0x3f2c7b
 msgid "The entered text is too short."
 msgstr ""
+"输入的文本太短。"
 
 #. STAGEDAT entry 23, lang_psp_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_psp_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -941,6 +948,7 @@ msgstr ""
 #: stage/187/lang_psp_keyboard_en.olang/0x9b86ab/0xa54fd7
 msgid "One or more of the characters entered cannot be used in this game."
 msgstr ""
+"输入的字符中有本游戏无法使用的。"
 
 #. STAGEDAT entry 23, lang_psp_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_psp_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -953,6 +961,7 @@ msgstr ""
 #, c-format
 msgid "Please enter at least %d characters, not including spaces."
 msgstr ""
+"请至少输入%d个字符（不含空格）。"
 
 #. STAGEDAT entry 23, lang_psp_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_psp_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -964,6 +973,7 @@ msgstr ""
 #: stage/187/lang_psp_keyboard_en.olang/0x9b86ab/0x75bf6e
 msgid "One or more of the words entered cannot be used in this game."
 msgstr ""
+"输入的词语中有本游戏无法使用的。"
 
 #. STAGEDAT entry 23, lang_psp_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_psp_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -975,6 +985,7 @@ msgstr ""
 #: stage/187/lang_psp_keyboard_en.olang/0x9b86ab/0xd6be7a
 msgid "The unusable characters have been changed to allowable characters."
 msgstr ""
+"不可用的字符已替换为可用字符。"
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1174,6 +1185,7 @@ msgstr "截图失败。"
 #: stage/180/lang_system_en.olang/0x8b79b6/0x131080
 msgid "Insufficient free space on the "
 msgstr ""
+"可用空间不足"
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1208,6 +1220,7 @@ msgstr "已删除损坏的安装数据。"
 #: stage/180/lang_system_en.olang/0x8b79b6/0x17d9ff
 msgid "An error occurred while reading data from the Memory<I=BL>Stick<I=TM>. Installed data and/or downloaded data may be corrupted."
 msgstr ""
+"从Memory<I=BL>Stick<I=TM>读取数据时发生错误。已安装数据和/或下载数据可能已损坏。"
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1225,6 +1238,7 @@ msgstr ""
 #: stage/180/lang_system_en.olang/0x8b79b6/0x220a93
 msgid "Checking Memory<I=BL>Stick<I=TM>..."
 msgstr ""
+"正在检查Memory<I=BL>Stick<I=TM>……"
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1293,6 +1307,7 @@ msgstr "本游戏依赖初次创建的存档。游玩中请勿拔出存储<I=BL>
 #: stage/180/lang_system_en.olang/0x8b79b6/0x3b222d
 msgid "This game saves data automatically"
 msgstr ""
+"本游戏会自动保存数据"
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1317,6 +1332,7 @@ msgstr ""
 #: stage/180/lang_system_en.olang/0x8b79b6/0xffa130
 msgid "Insufficient free space on"
 msgstr ""
+"可用空间不足"
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1385,6 +1401,7 @@ msgstr "保存截图数据……"
 #: stage/180/lang_system_en.olang/0x8b79b6/0x5f4765
 msgid "The Memory<I=BL>Stick<I=TM> is not inserted"
 msgstr ""
+"未插入Memory<I=BL>Stick<I=TM>"
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1436,6 +1453,7 @@ msgstr "存储<I=BL>卡<I=TM>被拔出或进入睡眠模式。退出菜单。"
 #: stage/180/lang_system_en.olang/0x8b79b6/0x80d48f
 msgid "Features that use data on the Memory<I=BL>Stick<I=TM> were disabled after an error occurred while reading data from it. "
 msgstr ""
+"读取Memory<I=BL>Stick<I=TM>数据出错后，使用该数据的功能已被禁用。 "
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1453,6 +1471,7 @@ msgstr ""
 #: stage/180/lang_system_en.olang/0x8b79b6/0x823848
 msgid "Failed to save."
 msgstr ""
+"保存失败。"
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1470,6 +1489,7 @@ msgstr ""
 #: stage/180/lang_system_en.olang/0x8b79b6/0x82f915
 msgid "Unable to create new save data."
 msgstr ""
+"无法创建新的存档数据。"
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1501,6 +1521,7 @@ msgstr ""
 #: stage/180/lang_system_en.olang/0x8b79b6/0xbb65cf
 msgid "The Memory<I=BL>Stick<I=TM> is not inserted "
 msgstr ""
+"未插入Memory<I=BL>Stick<I=TM> "
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1535,6 +1556,7 @@ msgstr "(不要)クリアデータをセーブしますか？"
 #: stage/180/lang_system_en.olang/0x8b79b6/0x93a0b2
 msgid "Save data does not exist."
 msgstr ""
+"存档数据不存在。"
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1552,6 +1574,7 @@ msgstr ""
 #: stage/180/lang_system_en.olang/0x8b79b6/0xaa0c5c
 msgid "This game uses a Data Installation feature."
 msgstr ""
+"本游戏使用数据安装功能。"
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1610,6 +1633,7 @@ msgstr "正在连接网络……"
 #: stage/180/lang_system_en.olang/0x8b79b6/0xb9cf74
 msgid "Recovered from sleep mode."
 msgstr ""
+"已从休眠模式恢复。"
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1627,6 +1651,7 @@ msgstr ""
 #: stage/180/lang_system_en.olang/0x8b79b6/0xbba0fd
 msgid "Saving... "
 msgstr ""
+"正在保存…… "
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1678,6 +1703,7 @@ msgstr ""
 #: stage/180/lang_system_en.olang/0x8b79b6/0xc792ef
 msgid "Screenshot data saved under the following"
 msgstr ""
+"截图数据已保存到以下"
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1695,6 +1721,7 @@ msgstr ""
 #: stage/180/lang_system_en.olang/0x8b79b6/0xcd693c
 msgid "Data installation features failed to activate."
 msgstr ""
+"数据安装功能启用失败。"
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1712,6 +1739,7 @@ msgstr ""
 #: stage/180/lang_system_en.olang/0x8b79b6/0xd24e1f
 msgid "Failed to initialize data on the Memory<I=BL>Stick<I=TM>."
 msgstr ""
+"Memory<I=BL>Stick<I=TM>上的数据初始化失败。"
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1746,6 +1774,7 @@ msgstr "存储<I=BL>卡<I=TM>中存在损坏的系统数据。是否选择该数
 #: stage/180/lang_system_en.olang/0x8b79b6/0xe19f82
 msgid "A Memory<I=BL>Stick<I=TM> was inserted."
 msgstr ""
+"已插入Memory<I=BL>Stick<I=TM>。"
 
 #. STAGEDAT entry 23, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 31, lang_system_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2093,6 +2122,7 @@ msgstr "瞄准/攻击"
 #: stage/180/lang_title_options_en.olang/0x43f3a5/0x0891fc
 msgid "CONFIRM: <I=DEC> PLAY VOICE: <I=△>"
 msgstr ""
+"确定：<I=DEC> 播放语音：<I=△>"
 
 #. STAGEDAT entry 23, lang_title_options_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_title_options_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2120,6 +2150,7 @@ msgstr "调整操作设置。"
 #: stage/180/lang_title_options_en.olang/0x43f3a5/0x394f17
 msgid "Select your control scheme.  "
 msgstr ""
+"选择你的操作方式。  "
 
 #. STAGEDAT entry 23, lang_title_options_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_title_options_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2154,6 +2185,7 @@ msgstr "读取Memory<I=BL>Stick<I=TM>时发生错误。已下载的数据将不�
 #: stage/88/lang_vocaloid_en.olang/0x5025ed/0x681627
 msgid "Switch between bars with the left/right buttons, and enter lyrics with the CONFIRM button."
 msgstr ""
+"用左右键切换小节，用确定键输入歌词。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2163,6 +2195,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0xf8ef41
 msgid "Select the song to edit."
 msgstr ""
+"选择要编辑的歌曲。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2170,6 +2203,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0x14f360
 msgid "SAVE/DELETE:"
 msgstr ""
+"保存/删除："
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2177,6 +2211,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0x23ce51
 msgid "Lyrics may only be input in English."
 msgstr ""
+"歌词只能用英文输入。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2184,6 +2219,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0x26f760
 msgid "The data you edited has not been saved."
 msgstr ""
+"你编辑的数据尚未保存。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2191,6 +2227,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0x2b0020
 msgid "Edit subtitle display."
 msgstr ""
+"编辑字幕显示。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2198,6 +2235,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0x2e855d
 msgid "SAVE EDITED DATA"
 msgstr ""
+"保存编辑后的数据"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2205,6 +2243,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0x4ca1d8
 msgid "Edit playback speed."
 msgstr ""
+"编辑播放速度。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2212,6 +2251,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0x4ebd4e
 msgid "Edit title."
 msgstr ""
+"编辑标题。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2219,6 +2259,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0x6fe833
 msgid "Edit song information."
 msgstr ""
+"编辑乐曲信息。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2226,6 +2267,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0x71902e
 msgid "Edit pronunciation."
 msgstr ""
+"编辑发音。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2233,6 +2275,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0x80c9bd
 msgid "CHECK PLAYBACK SPEED/PITCH:"
 msgstr ""
+"检查播放速度/音高："
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2240,6 +2283,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0x81b45c
 msgid "Edit lyrics."
 msgstr ""
+"编辑歌词。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2247,6 +2291,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0x82cb48
 msgid "Edit Metal Gear ZEKE voice data."
 msgstr ""
+"编辑METAL GEAR ZEKE语音数据。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2254,6 +2299,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0x8cbaee
 msgid "Create and edit voice data for CO-OPS communications."
 msgstr ""
+"创建并编辑CO-OPS通讯用的语音数据。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2261,6 +2307,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0x90e5d6
 msgid "View VOCALOID editing instructions."
 msgstr ""
+"查看VOCALOID编辑说明。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2270,6 +2317,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0xb915b6
 msgid "Not entered"
 msgstr ""
+"未输入"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2277,6 +2325,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0x9ce8de
 msgid "The VOCALOID Editor lets you create songs and voice "
 msgstr ""
+"用VOCALOID编辑器可以创作歌曲与语音 "
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2284,6 +2333,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0xa18511
 msgid "Edit songwriter."
 msgstr ""
+"编辑作曲者。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2291,6 +2341,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0xabeac6
 msgid "Edit information about the audio."
 msgstr ""
+"编辑音频信息。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 23, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2302,6 +2353,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_keyboard_en.olang/0xd9605f/0x04a55b
 msgid "VOCALOID HELP"
 msgstr ""
+"VOCALOID 帮助"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2309,6 +2361,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0xcb9e60
 msgid "PLAY ORIGINAL SONG:"
 msgstr ""
+"播放原曲："
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2316,6 +2369,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0xd603b2
 msgid "Select the type of VOCALOID data to edit. Refer to the HELP menu for details."
 msgstr ""
+"选择要编辑的VOCALOID数据类型。详情请参阅帮助菜单。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2323,6 +2377,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0xd6098f
 msgid "SAVE/DELETE/EDIT PITCH:"
 msgstr ""
+"保存/删除/编辑音高："
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2330,6 +2385,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0xdaf767
 msgid "Edit system voice data."
 msgstr ""
+"编辑系统语音数据。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2337,6 +2393,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0xe0d4c3
 msgid "You do not have the song data required to edit this data."
 msgstr ""
+"你没有编辑该数据所需的乐曲数据。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2344,6 +2401,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0xea8cb8
 msgid "Edit the lyrics of WALKMAN songs. "
 msgstr ""
+"编辑WALKMAN乐曲的歌词。 "
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2351,6 +2409,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0xf5f405
 msgid "Edit the lyrics of Metal Gear ZEKE songs."
 msgstr ""
+"编辑METAL GEAR ZEKE乐曲的歌词。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2358,6 +2417,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0x8a97df/0xfa75f2
 msgid "Edit author."
 msgstr ""
+"编辑作者。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2365,6 +2425,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0xaa31c9/0xa8390c
 msgid "Select notes with the left/right buttons, and adjust the pitch with the up/down buttons."
 msgstr ""
+"用左右键选择音符，用上下键调整音高。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2372,6 +2433,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0xd237f3/0x2239a0
 msgid "Check edited playback speed and pitch."
 msgstr ""
+"检查编辑后的播放速度与音高。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2379,6 +2441,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0xd237f3/0x25c025
 msgid "Delete saved data."
 msgstr ""
+"删除已保存的数据。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2386,6 +2449,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0xd237f3/0x3aa853
 msgid "Create new data."
 msgstr ""
+"新建数据。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2393,6 +2457,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0xd237f3/0x4896db
 msgid "EDIT PITCH"
 msgstr ""
+"编辑音高"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2400,6 +2465,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0xd237f3/0x54300b
 msgid "Open existing data and continue editing it."
 msgstr ""
+"打开已有数据继续编辑。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2407,6 +2473,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0xd237f3/0x577aac
 msgid "Save editing results."
 msgstr ""
+"保存编辑结果。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2414,6 +2481,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0xd237f3/0x95625d
 msgid "Play the original song."
 msgstr ""
+"播放原曲。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2442,6 +2510,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_en.olang/0xd237f3/0xc34db2
 msgid "Edit the pitch of notes."
 msgstr ""
+"编辑音符音高。"
 
 #. STAGEDAT entry 23, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2456,6 +2525,7 @@ msgstr "删除"
 #: stage/88/lang_vocaloid_keyboard_en.olang/0xd9605f/0x10ef25
 msgid "Edit with phoneme input."
 msgstr ""
+"用音素输入编辑。"
 
 #. STAGEDAT entry 23, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
