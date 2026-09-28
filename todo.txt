@@ -1,0 +1,96 @@
+# PWSF 翻译收尾 TODO（2026-09-28 交接）
+
+## 一句话现状
+
+除 **stage** 外全部语料已翻完（`po_lint` OK）。剩下的是 `src/stage/` 里约 **405 句**
+真文本。翻完即可 `python -m pwsf.po_import --install` 全量装包。
+
+当前体检：`translated: 22968 / 24931 entries`，`lint OK`。
+
+## 剩余可翻文本（按文件，已剔除标识符/日文残留/音素）
+
+```
+stage_01   62      stage_07   80
+stage_02   35      stage_08   15
+stage_03   75      stage_09   27
+stage_04    1      stage_10    1
+stage_05   34      stage_11   40
+stage_06   12      stage_12   23
+合计 ≈ 405
+```
+
+**不翻的部分**（这几类的 msgstr 保持空，游戏里就是英文/原文，与日文版一致）：
+
+- 内部标识符：`Ctl-Aurelia-051Fe`、`Mbl-Pupa-001Fe`（stage_10 的 321 条几乎全是这个）
+- 武器型号代码：`M1911(CT)`、`M16A1(STG)`、`UT(N425A)`（slot_20/09）
+- 倒计时数字：`10!` … `1!`（slot_21、olang_03）
+- 占位符：`$1`、`$1 $2`、`- $1 -`、`: `、`？？？`
+- 标了 `(不要)` 的日文残留（英文表里没清干净的日文，未使用）
+- VOCALOID 音素串：`[bh i: f]`、`b<C=FF4040>ee<C=R>f`
+
+slot / gtt / olang 里剩下的未译条目**全是上面这几类**，没有真文本了。
+
+## 怎么接着干
+
+```
+python _tmp_batch.py dump src/stage/stage_03.po > _dump.txt   # 列未译（顺序=写入顺序）
+# 把译文按同样顺序填进 _tmp_batch.py 的 BATCH["stage_03.po"]
+python _tmp_batch.py apply stage_03.po                        # 写入
+python -m pwsf.po_lint                                        # 体检
+git add src/stage/stage_03.po && git commit
+```
+
+`_tmp_batch.py`（未提交，收尾后删掉）已经处理好的坑：
+
+1. 自动跳过上面那些「不翻」的条目（`_skip()`），dump 和 apply 两侧一致。
+2. **单行 msgstr 的已译条目**会被误判成空条目 → 已修（只有 `msgstr ""` 才算空）。
+   这个坑会静默错位，务必保留。
+3. 不带尾换行的条目不能被多塞一个 `\n` → 已修（只在行间加）。
+4. gtt 有字节上限，apply 前会校验译文不比英文长（报错信息复用「行数不一致」，
+   看到先量字节）。
+
+可以做半个文件：下次 dump 时剩下的条目仍在原顺序里。
+
+## 术语（与既有译文保持一致）
+
+```
+Snake / BOSS / BIG BOSS / CIPHER / ZEKE / METAL GEAR / MSF / CO-OP / CO-OPS
+Fulton / Snake Sync / VOCALOID / WALKMAN / RPG / GMP / JSDF / NASA   → 保持原文
+
+The Boss      → THE BOSS        Kazuhira → 和平（文中明说是「和平」之意）
+Kaz           → 卡兹            Paz → 帕兹    Amanda → 阿曼达
+Cecile        → 塞西尔          Huey → 休伊    Miller → 米勒
+Strangelove   → 斯特兰奇洛夫    Chico → 奇科   Coldman → 寇德曼
+Zadornov      → 扎多尔诺夫      Granin → 格兰宁
+Philosophers  → 哲学家（们）    Mother Base → 母基地
+gallo pinto / frijoles / arroz → 菜名保留 / 黑豆 / 米
+```
+
+## 硬约束（各语料不同）
+
+| 语料 | 约束 | 谁拦 |
+|---|---|---|
+| codec | 池预算固定，译文必须比英文短（en 只剩 695 B） | `po_lint` → `codec-budget` |
+| gtt | 原地写回，译文字节 ≤ 英文行 | `po_lint` → `gtt-budget` |
+| stage | **无字节上限**（整容器重建，条目可任意变长） | — |
+| olang / slot | 无 | — |
+
+换行：所有语料都尽量保持 `\n` 数量一致（不一致只报 warn，但游戏不自动折行）。
+
+## 收尾（stage 翻完后）
+
+```
+python -m pwsf.po_lint
+python -m pwsf.po_import --install      # 体检 + 编译 + 备份 .orig + 装进游戏
+python -m pwsf.install --restore        # 出问题就还原
+```
+
+注意：stage 每次构建要重建 **487 MB** 的 `009645fa.PDT`，所以攒完一起构建，
+不要每翻一个文件就 build。想跳过：`--skip stage`。
+
+## 顺手要做的
+
+- 删掉 `_tmp_batch.py`（临时脚本，未提交）
+- 更新 `AGENTS.md` 的「剩余欠账」那行（现在写的是 stage 1,319 / slot 680 / gtt 149 /
+  olang 31，实际真文本只剩 stage ≈405）
+- `src/README.md` 顶部条目数若再变，同步一下
