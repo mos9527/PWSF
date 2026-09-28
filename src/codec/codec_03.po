@@ -169,6 +169,8 @@ msgid ""
 "You can also display your teammates' inventories\n"
 "from your Weapon or Equipment Menu.\n"
 msgstr ""
+"也可以在武器或装备菜单里\n"
+"查看队友的携带物品。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0070_000_0
 #. timeline 3009..3566
@@ -176,6 +178,7 @@ msgstr ""
 msgid ""
 "Ammo is shared, too, of course.\n"
 msgstr ""
+"弹药当然也是共用的。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0070_000_0
 #. timeline 3580..4639
@@ -183,6 +186,7 @@ msgstr ""
 msgid ""
 "Ammo, sure. How about LIFE? That also shared?\n"
 msgstr ""
+"弹药是。那LIFE呢？也共用？\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0070_000_0
 #. timeline 4653..6102
@@ -191,6 +195,8 @@ msgid ""
 "Yep. You all sink or swim together. Your teammate\n"
 "dies, you die.\n"
 msgstr ""
+"没错。同生共死。\n"
+"队友死了，你也就完了。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0070_000_0
 #. timeline 6213..7272
@@ -199,6 +205,8 @@ msgid ""
 "You need to be within a certain distance of each\n"
 "other to swap items.\n"
 msgstr ""
+"交换物品需要彼此\n"
+"在一定距离之内。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0070_000_0
 #. timeline 7342..8916
@@ -207,6 +215,8 @@ msgid ""
 "Yeah, I know. I've been in this business so long, I\n"
 "can virtually see that distance.\n"
 msgstr ""
+"嗯，我知道。这行干久了，\n"
+"我几乎能看见那个距离。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0070_000_0
 #. timeline 8930..9515
@@ -214,6 +224,7 @@ msgstr ""
 msgid ""
 "Looks kind of like a ring in my head.\n"
 msgstr ""
+"在我脑子里像个圆环。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0070_000_0
 #. timeline 9529..9961
@@ -221,6 +232,7 @@ msgstr ""
 msgid ""
 "That's why you're the Boss.\n"
 msgstr ""
+"所以你才是BOSS。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0070_000_0
 #. timeline 9989..11591
@@ -229,6 +241,8 @@ msgid ""
 "OK, we'll call it the \"CO-OP Ring,\" and entering the\n"
 "ring will be called going \"CO-OP IN.\"\n"
 msgstr ""
+"好，那就叫它“CO-OP圆环”，\n"
+"进入圆环就叫“CO-OP IN”。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0080_000_0
 #. timeline 445..1866
@@ -545,56 +559,72 @@ msgid ""
 "Saving a teammate's life with CPR also strengthens\n"
 "your bonds with them.\n"
 msgstr ""
+"用CPR救回队友，\n"
+"也能加深你们的羁绊。\n"
 
 #: codec/1/167/0xa7dc0/9
 msgid ""
 "Things like hitting a teammate with friendly fire\n"
 msgstr ""
+"比如误伤队友，\n"
 
 #: codec/1/167/0xa7dc0/10
 msgid ""
 "will cause your camaraderie to go down.\n"
 msgstr ""
+"都会让你们的战友情下降。\n"
 
 #: codec/1/167/0xa7dc0/11
 msgid ""
 "Makes sense.\n"
 msgstr ""
+"有道理。\n"
 
 #: codec/1/167/0xa7dc0/12
 msgid ""
 "Camaraderie carries over from mission to mission.\n"
 msgstr ""
+"战友情会跨任务延续。\n"
 
 #: codec/1/167/0xa7dc0/13
 msgid ""
 "The next time you go CO-OPS In with the same\n"
 "guy, you'll start off strong.\n"
 msgstr ""
+"下次再和同一个人\n"
+"CO-OPS IN，起点就更高。\n"
 
 #: codec/1/167/0xa7dc0/14
 msgid ""
 "But be careful. If you keep taking new people with\n"
 "you on missions,\n"
 msgstr ""
+"但要小心。如果总带新人\n"
+"出任务，\n"
 
 #: codec/1/167/0xa7dc0/15
 msgid ""
 "your camaraderie with past teammates eventually\n"
 "reverts back to its original level.\n"
 msgstr ""
+"你和旧队友的战友情\n"
+"最终会回落到初始水平。\n"
 
 #: codec/1/167/0xa7dc0/16
 msgid ""
 "Got it. I'll have to make sure to renew old\n"
 "friendships once in a while.\n"
 msgstr ""
+"明白了。得时不时\n"
+"重温一下旧交情才行。\n"
 
 #: codec/1/167/0xa7dc0/17
 msgid ""
 "The performance benefits gained from Snake Sync\n"
 "in CO-OPS\n"
 msgstr ""
+"在CO-OPS中由Snake Sync\n"
+"带来的能力提升，\n"
 
 #: codec/1/167/0xa7dc0/18
 #: codec/1/168/0xa84e0/9
@@ -608,6 +638,8 @@ msgid ""
 "It's always best to keep things cool with your\n"
 "teammates.\n"
 msgstr ""
+"和队友保持融洽，\n"
+"总归是最好的。\n"
 
 #: codec/1/168/0xa84e0/0
 msgid ""
@@ -872,6 +904,8 @@ msgid ""
 "But only when two people fire it at once. I hear it's\n"
 "still in the concept stage.\n"
 msgstr ""
+"但只有两人同时开火才行。\n"
+"听说还在概念阶段。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0120_000_1
 #. timeline 4374..5224
@@ -880,6 +914,8 @@ msgid ""
 "I know some rocket launchers need two people to\n"
 "operate,\n"
 msgstr ""
+"我知道有些火箭筒需要\n"
+"两人操作，\n"
 
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0120_000_1
 #. timeline 5224..6004
@@ -887,6 +923,7 @@ msgstr ""
 msgid ""
 "but a CO-OPS only weapon...\n"
 msgstr ""
+"但只能CO-OPS用的武器……\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0120_000_1
 #. timeline 6018..6534
@@ -894,6 +931,7 @@ msgstr ""
 msgid ""
 "Hey, if they come up with something good,\n"
 msgstr ""
+"嘿，要是他们搞出好东西，\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0120_000_1
 #. timeline 6534..7258
@@ -901,6 +939,7 @@ msgstr ""
 msgid ""
 "you'll have that much more reason to go CO-OPS.\n"
 msgstr ""
+"你就更有理由去CO-OPS了。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0120_000_1
 #. timeline 7314..8219
@@ -909,6 +948,8 @@ msgid ""
 "Why don't you check in and see how they're doing\n"
 "every once in a while?\n"
 msgstr ""
+"你不妨偶尔去看看\n"
+"他们进展如何？\n"
 
 #: codec/1/169/0xa9240/0
 msgid ""
@@ -1231,121 +1272,154 @@ msgid ""
 "It feels kind of weird, me explaining this stuff to\n"
 "you,\n"
 msgstr ""
+"由我来给你讲这些，\n"
+"感觉挺奇怪的，\n"
 
 #: codec/1/169/0xa9f40/3
 msgid ""
 "but there've been a few recent developments in\n"
 "cardboard box technology.\n"
 msgstr ""
+"不过纸箱技术最近\n"
+"有了些新进展。\n"
 
 #: codec/1/169/0xa9f40/4
 msgid ""
 "So, just to be safe here goes...\n"
 msgstr ""
+"为了保险起见，我就说了……\n"
 
 #: codec/1/169/0xa9f40/5
 msgid ""
 "Go on...\n"
 msgstr ""
+"说吧……\n"
 
 #: codec/1/169/0xa9f40/6
 msgid ""
 "You can do much more with a box than just hide\n"
 "under it.\n"
 msgstr ""
+"纸箱不只是能躲进去，\n"
+"还能做更多事。\n"
 
 #: codec/1/169/0xa9f40/7
 msgid ""
 "You can put it someplace and leave it there.\n"
 msgstr ""
+"你可以把它放在某处就走。\n"
 
 #: codec/1/169/0xa9f40/8
 msgid ""
 "Huh!\n"
 msgstr ""
+"哦！\n"
 
 #: codec/1/169/0xa9f40/9
 msgid ""
 "You can get on top of it and use it to reach high\n"
 "places,\n"
 msgstr ""
+"你可以踩上去，\n"
+"够到高处，\n"
 
 #: codec/1/169/0xa9f40/10
 msgid ""
 "or hide from the enemy in its shadow.\n"
 msgstr ""
+"或者借它的阴影躲开敌人。\n"
 
 #: codec/1/169/0xa9f40/11
 msgid ""
 "I like what I'm hearing so far.\n"
 msgstr ""
+"目前听起来很不错。\n"
 
 #: codec/1/169/0xa9f40/12
 msgid ""
 "And that's not all.\n"
 msgstr ""
+"还不止这些。\n"
 
 #: codec/1/169/0xa9f40/13
 msgid ""
 "You can even put items in it and send them to\n"
 "CO-OPS teammates.\n"
 msgstr ""
+"甚至能把物品放进去，\n"
+"寄给CO-OPS的队友。\n"
 
 #: codec/1/169/0xa9f40/14
 msgid ""
 "Really? I never thought of any of that.\n"
 msgstr ""
+"真的？这些我可从没想过。\n"
 
 #: codec/1/169/0xa9f40/15
 msgid ""
 "Damn, is there anything a cardboard box can't do?\n"
 "Every soldier should have one.\n"
 msgstr ""
+"该死，纸箱还有什么做不到的？\n"
+"每个士兵都该有一个。\n"
 
 #: codec/1/169/0xa9f40/16
 msgid ""
 "Yeah, well... Don't get too excited. This isn't exactly\n"
 "what they were made for.\n"
 msgstr ""
+"嗯……别太兴奋。\n"
+"它们本来不是干这个用的。\n"
 
 #: codec/1/169/0xa9f40/17
 msgid ""
 "Which reminds me.\n"
 msgstr ""
+"说到这个。\n"
 
 #: codec/1/169/0xa9f40/18
 msgid ""
 "Don't you think the boxes around here are a little\n"
 "on the big side?\n"
 msgstr ""
+"你不觉得这里的箱子\n"
+"有点偏大吗？\n"
 
 #: codec/1/169/0xa9f40/19
 msgid ""
 "You're right. I bet two people could fit under one\n"
 "box...\n"
 msgstr ""
+"你说得对。我敢说一个箱子\n"
+"能塞下两个人……\n"
 
 #: codec/1/169/0xa9f40/20
 msgid ""
 "if they packed in tight enough. They call 'em \"love\n"
 "boxes.\"\n"
 msgstr ""
+"只要挤得够紧。\n"
+"他们管这叫“情侣箱”。\n"
 
 #: codec/1/169/0xa9f40/21
 msgid ""
 "Love boxes...\n"
 msgstr ""
+"情侣箱……\n"
 
 #: codec/1/169/0xa9f40/22
 msgid ""
 "Of course, you don't need a love box to fit two\n"
 "people inside.\n"
 msgstr ""
+"当然，也不是非得\n"
+"“情侣箱”才装得下两个人。\n"
 
 #: codec/1/169/0xa9f40/23
 msgid ""
 "Any box of similar size will do.\n"
 msgstr ""
+"差不多大的箱子都行。\n"
 
 #: codec/1/170/0xaa690/0
 msgid ""
@@ -1914,6 +1988,8 @@ msgid ""
 "Don't get too comfortable just because you know\n"
 "the terrain.\n"
 msgstr ""
+"别因为熟悉地形\n"
+"就掉以轻心。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
 #. timeline 2995..4318
@@ -1922,6 +1998,8 @@ msgid ""
 "The enemy knows you're out there now. They'll be\n"
 "out in greater force than before.\n"
 msgstr ""
+"敌人已经知道你在那儿。\n"
+"兵力会比之前更多。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
 #. timeline 4416..4876
@@ -1929,6 +2007,7 @@ msgstr ""
 msgid ""
 "Proceed with caution.\n"
 msgstr ""
+"谨慎行动。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
 #. timeline 4904..6074
@@ -1937,6 +2016,8 @@ msgid ""
 "Refrain from using firearms unless absolutely\n"
 "necessary.\n"
 msgstr ""
+"除非万不得已，\n"
+"不要开枪。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0180_000_0
 #. timeline 6436..7063
@@ -1944,6 +2025,7 @@ msgstr ""
 msgid ""
 "Looks like I'll have to cross the river.\n"
 msgstr ""
+"看来我得过河。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
 #. timeline 7077..7969
@@ -1951,6 +2033,7 @@ msgstr ""
 msgid ""
 "Yeah, there's a suspension bridge you can use.\n"
 msgstr ""
+"嗯，有座吊桥可以走。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
 #. timeline 7996..9404
@@ -1959,6 +2042,8 @@ msgid ""
 "It's the only way across. You'll have to be a little\n"
 "creative to keep from being spotted.\n"
 msgstr ""
+"那是唯一的路。\n"
+"得想点办法别被发现。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0180_000_0
 #. timeline 9418..10295
@@ -1966,6 +2051,7 @@ msgstr ""
 msgid ""
 "So I cross the bridge, go through the swamp....\n"
 msgstr ""
+"那么过桥，穿过沼泽……\n"
 
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0180_000_0
 #. timeline 10295..10894
@@ -1973,6 +2059,7 @@ msgstr ""
 msgid ""
 "and come to a banana plantation.\n"
 msgstr ""
+"然后就到了香蕉种植园。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
 #. timeline 10908..11647
@@ -1980,6 +2067,7 @@ msgstr ""
 msgid ""
 "Complete with its own factory, by the looks of it.\n"
 msgstr ""
+"看样子还自带工厂。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
 #. timeline 11674..12859
@@ -1988,6 +2076,8 @@ msgid ""
 "It's going to feel a lot different moving through\n"
 "that area compared to the forest.\n"
 msgstr ""
+"和森林相比，在那片区域\n"
+"行动的感觉会很不一样。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
 #. timeline 12873..13263
@@ -1995,6 +2085,7 @@ msgstr ""
 msgid ""
 "Stay on your toes.\n"
 msgstr ""
+"保持警惕。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
 #. timeline 13583..14726
@@ -2003,6 +2094,8 @@ msgid ""
 "Also, you may encounter Sandinista prisoners along\n"
 "the way.\n"
 msgstr ""
+"另外，沿途可能会遇到\n"
+"桑地诺派的俘虏。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
 #. timeline 14795..15743
@@ -2011,6 +2104,8 @@ msgid ""
 "Try and save as many as you can with Fulton\n"
 "recovery.\n"
 msgstr ""
+"尽量用富尔顿回收\n"
+"多救几个回来。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0180_000_0
 #. timeline 15743..16230
@@ -2018,6 +2113,7 @@ msgstr ""
 msgid ""
 "I'll keep an eye out.\n"
 msgstr ""
+"我会留意的。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0020_000_0
 #. timeline 445..1852
@@ -2287,11 +2383,14 @@ msgid ""
 "Only thing is, any parts you destroy can't be\n"
 "collected and reused,\n"
 msgstr ""
+"只是，被你破坏的部件\n"
+"就无法回收再利用，\n"
 
 #: codec/1/172/0xaced0/4
 msgid ""
 "so you'll have to decide which is more important.\n"
 msgstr ""
+"所以得权衡哪边更重要。\n"
 
 #: codec/1/173/0xad140/0
 msgid ""
@@ -2904,6 +3003,7 @@ msgstr ""
 msgid ""
 "an empty ammo magazine to distract the enemy.\n"
 msgstr ""
+"用空弹匣引开敌人的注意。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0340_000_0
 #. timeline 8805..9431
@@ -2911,6 +3011,7 @@ msgstr ""
 msgid ""
 "Use your ears as well as your eyes.\n"
 msgstr ""
+"别只用眼睛，也要用耳朵。\n"
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0340_000_0
 #. timeline 9501..10908
@@ -2919,6 +3020,8 @@ msgid ""
 "The Surround Indicator is a handy way to \"see\"\n"
 "sounds as visual data.\n"
 msgstr ""
+"环绕指示器能把声音“看”成\n"
+"视觉信息，很方便。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0350_000_0
 #. timeline 459..1546
