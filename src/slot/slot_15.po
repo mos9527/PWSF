@@ -467,6 +467,12 @@ msgid ""
 "this game, or one with at least 33MB \n"
 "of free space."
 msgstr ""
+"未正确插入Memory<I=BL>Stick<I=TM>。\n"
+"没有Memory<I=BL>Stick<I=TM>就\n"
+"无法进行游戏。请\n"
+"插入存有本游戏存档数据\n"
+"的Memory<I=BL>Stick<I=TM>，\n"
+"或至少有33MB可用空间的一张。"
 
 #: slot/0x005caf77/0x8b79b6/0x8cee30
 msgid "(不要)クリアデータをセーブしますか？"
