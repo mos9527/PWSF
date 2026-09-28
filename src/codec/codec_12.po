@@ -392,6 +392,8 @@ msgid ""
 "Therefore, the adversary can't launch. The AI\n"
 "guarantees it.\n"
 msgstr ""
+"所以对手无法发射。\n"
+"这是AI的保证。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_huy0090_000_0
 #. timeline 26456..27585
@@ -399,6 +401,7 @@ msgstr ""
 msgid ""
 "Even so, launching nukes without authorization...\n"
 msgstr ""
+"即便如此，未经授权就发射核弹……\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0090_000_0
 #. timeline 27599..28867
@@ -407,6 +410,8 @@ msgid ""
 "Boomer captains have the authority to launch if\n"
 "land communications are cut off.\n"
 msgstr ""
+"若陆上通信中断，\n"
+"弹道导弹潜艇舰长有权发射。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0090_000_0
 #. timeline 28867..29298
@@ -414,6 +419,7 @@ msgstr ""
 msgid ""
 "It's the same principle.\n"
 msgstr ""
+"道理是一样的。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_huy0090_000_0
 #. timeline 29312..30288
@@ -422,6 +428,8 @@ msgid ""
 "Not even the captain of a boomer can make that\n"
 "decision alone.\n"
 msgstr ""
+"即便是潜艇舰长，\n"
+"也不能独自做出这个决定。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_huy0090_000_0
 #. timeline 30288..31653
@@ -430,6 +438,8 @@ msgid ""
 "The way I heard it, that's the only situation where\n"
 "insubordination is allowed.\n"
 msgstr ""
+"我听说，那是唯一\n"
+"允许违抗命令的情况。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0090_000_0
 #. timeline 31653..33060
@@ -438,6 +448,8 @@ msgid ""
 "Only because humans are imperfect... That's\n"
 "Coldman's line of thinking.\n"
 msgstr ""
+"只因为人类不完美……\n"
+"寇德曼就是这么想的。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_huy0090_000_0
 #. timeline 9225..0
@@ -445,6 +457,7 @@ msgstr ""
 msgid ""
 "You're saying that machines don't make mistakes?\n"
 msgstr ""
+"你是说机器不会犯错？\n"
 
 #. speaker 0x0e28dce6 voice v_bri_huy0090_000_0
 #. timeline 51721..0
@@ -452,6 +465,7 @@ msgstr ""
 msgid ""
 "That's a myth. Worse than that - it's blind faith.\n"
 msgstr ""
+"那是神话。更糟——那是盲信。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0090_000_0
 #. timeline 9225..0
@@ -460,6 +474,8 @@ msgid ""
 "We wouldn't put our faith - our fate - into the\n"
 "hands of any ordinary machine.\n"
 msgstr ""
+"我们不会把信任——把命运——\n"
+"交给普通的机器。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0090_000_0
 #. timeline 14089..0
@@ -467,6 +483,7 @@ msgstr ""
 msgid ""
 "That's what the AI is for.\n"
 msgstr ""
+"所以才需要AI。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0090_000_0
 #. timeline 57865..0
@@ -475,6 +492,8 @@ msgid ""
 "The decision to launch a retaliatory strike requires\n"
 "high-level judgment.\n"
 msgstr ""
+"决定发动核反击，\n"
+"需要高度的判断力。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0090_000_0
 #. timeline 42761..0
@@ -483,6 +502,8 @@ msgid ""
 "You have to take into account not only the state\n"
 "of the war, but the entire world.\n"
 msgstr ""
+"不仅要考虑战局，\n"
+"还要考虑整个世界。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0090_000_0
 #. timeline 13321..0
@@ -491,6 +512,8 @@ msgid ""
 "And sometimes you need to make a guess based\n"
 "on incomplete information.\n"
 msgstr ""
+"有时还得依据不完整的信息\n"
+"做出推测。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_huy0090_000_0
 #. timeline 55049..0
@@ -498,6 +521,7 @@ msgstr ""
 msgid ""
 "You think an AI can do all that?\n"
 msgstr ""
+"你觉得AI做得到这些？\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0090_000_0
 #. timeline 8457..0
@@ -505,6 +529,7 @@ msgstr ""
 msgid ""
 "Yeah. At least, Dr. Strangelove does.\n"
 msgstr ""
+"嗯。至少斯特兰奇洛夫博士认为可以。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_mis_huy0035_000_0
 #. timeline 445..1490
@@ -1107,6 +1132,8 @@ msgid ""
 "I based the bipedal locomotion technology used in\n"
 "Peace Walker on Soviet research.\n"
 msgstr ""
+"和平行者的双足行走技术，\n"
+"我是基于苏联的研究。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0120_000_0
 #. timeline 2131..3190
@@ -1114,6 +1141,7 @@ msgstr ""
 msgid ""
 "...Actually, I'll be honest with you.\n"
 msgstr ""
+"……其实，我就直说了吧。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0120_000_0
 #. timeline 3385..4193
@@ -1121,6 +1149,7 @@ msgstr ""
 msgid ""
 "I stole most of the basic ideas behind it.\n"
 msgstr ""
+"其中大部分基础构想都是我偷来的。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_huy0120_000_0
 #. timeline 4207..5308
@@ -1128,6 +1157,7 @@ msgstr ""
 msgid ""
 "Soviet... Bipedal... You mean Granin.\n"
 msgstr ""
+"苏联……双足……你是说格兰宁。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0120_000_0
 #. timeline 5322..5670
@@ -1135,6 +1165,7 @@ msgstr ""
 msgid ""
 "You know him?\n"
 msgstr ""
+"你认识他？\n"
 
 #. speaker 0x0e28dce6 voice v_bri_huy0120_000_0
 #. timeline 5684..7370
@@ -1143,6 +1174,8 @@ msgid ""
 "Yeah. I met him at his lab in Russia. He helped me\n"
 "out a little bit.\n"
 msgstr ""
+"嗯。我在俄国的实验室见过他。\n"
+"他帮我过一点忙。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0120_000_0
 #. timeline 7370..8205
@@ -1150,6 +1183,7 @@ msgstr ""
 msgid ""
 "You met him? What were you...?\n"
 msgstr ""
+"你见过他？那你到底是……？\n"
 
 #. speaker 0x0e28dce6 voice v_bri_huy0120_000_0
 #. timeline 8219..9654
@@ -1158,6 +1192,8 @@ msgid ""
 "He was the head of the Granin Design Bureau,\n"
 "creator of countless Soviet weapons....\n"
 msgstr ""
+"他是格兰宁设计局的局长，\n"
+"无数苏联武器的缔造者……\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0120_000_0
 #. timeline 9668..10407
@@ -1165,6 +1201,7 @@ msgstr ""
 msgid ""
 "I'd hit a wall in my research at the time...\n"
 msgstr ""
+"当时我的研究撞上了墙……\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0120_000_0
 #. timeline 10435..11354
@@ -1172,6 +1209,7 @@ msgstr ""
 msgid ""
 "Granin's ideas solved nearly all my problems.\n"
 msgstr ""
+"格兰宁的构想几乎解决了我所有难题。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_huy0120_000_0
 #. timeline 11507..12775
@@ -1180,6 +1218,8 @@ msgid ""
 "There's nothing unusual about using somebody\n"
 "else's work to further your own research, is there?\n"
 msgstr ""
+"借鉴别人的成果推进自己的研究，\n"
+"也没什么不寻常吧？\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0120_000_0
 #. timeline 12817..14308
@@ -1188,6 +1228,8 @@ msgid ""
 "As long as you cite it, yeah. But I wasn't in a\n"
 "position to do that.\n"
 msgstr ""
+"只要注明出处是没什么。\n"
+"可我当时没那个立场。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0120_000_0
 #. timeline 14308..15770
@@ -1196,6 +1238,8 @@ msgid ""
 "His research was classified at the highest level.\n"
 "Soviet research, no less.\n"
 msgstr ""
+"他的研究是最高机密，\n"
+"而且还是苏联的研究。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_huy0120_000_0
 #. timeline 15770..16662
@@ -1203,6 +1247,7 @@ msgstr ""
 msgid ""
 "So you used it without telling anybody?\n"
 msgstr ""
+"所以你谁也没告诉就用了？\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0120_000_0
 #. timeline 16690..18292
@@ -1211,6 +1256,8 @@ msgid ""
 "I wanted to show up my colleagues for once... The\n"
 "ones who never took me seriously!\n"
 msgstr ""
+"我想让同事们见识一次……\n"
+"那些从不把我当回事的家伙！\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0120_000_0
 #. timeline 18306..19017
@@ -1218,6 +1265,7 @@ msgstr ""
 msgid ""
 "But you reap what you sow.\n"
 msgstr ""
+"可种什么因，得什么果。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0120_000_0
 #. timeline 19114..20842
@@ -1226,6 +1274,8 @@ msgid ""
 "Coldman seized on that vulnerability - told me if I\n"
 "quit the project, he'd expose my larceny.\n"
 msgstr ""
+"寇德曼抓住了这个把柄——说我要是退出项目，\n"
+"他就揭发我的剽窃。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_huy0120_000_0
 #. timeline 21079..21636
@@ -1233,6 +1283,7 @@ msgstr ""
 msgid ""
 "He had you by the balls, Doc.\n"
 msgstr ""
+"他捏住了你的命根子，博士。\n"
 
 #: codec/1/250/0xfa640/0
 msgid ""
@@ -1452,6 +1503,7 @@ msgstr ""
 msgid ""
 "I'm curious what it meant.\n"
 msgstr ""
+"我很好奇那是什么意思。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_huy0130_000_0
 #. timeline 2842..4527
@@ -1460,6 +1512,8 @@ msgid ""
 "Exactly what it says. A metal gear... Granin coined\n"
 "the term.\n"
 msgstr ""
+"就是字面意思。metal gear……\n"
+"这个词是格兰宁造的。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0130_000_0
 #. timeline 4527..4876
@@ -1467,6 +1521,7 @@ msgstr ""
 msgid ""
 "Granin did?\n"
 msgstr ""
+"格兰宁造的？\n"
 
 #. speaker 0x0e28dce6 voice v_bri_huy0130_000_0
 #. timeline 4876..6241
@@ -1475,6 +1530,8 @@ msgid ""
 "He thought of his technology as the metal gear\n"
 "that meshes infantry with artillery.\n"
 msgstr ""
+"他把那项技术看作\n"
+"让步兵与炮兵咬合的齿轮。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0130_000_0
 #. timeline 6269..6757
@@ -1482,6 +1539,7 @@ msgstr ""
 msgid ""
 "I like the sound of that.\n"
 msgstr ""
+"听起来不错。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0130_000_0
 #. timeline 6784..7899
@@ -1489,6 +1547,7 @@ msgstr ""
 msgid ""
 "\"Metal Gear\"... it's got a nice ring to it.\n"
 msgstr ""
+"“Metal Gear”……这名字挺响亮。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0130_000_0
 #. timeline 7996..9027
@@ -1497,6 +1556,8 @@ msgid ""
 "Better than an outright lie like \"Peace Walker,\"\n"
 "anyway.\n"
 msgstr ""
+"总比“和平行者”这种\n"
+"彻头彻尾的谎言好。\n"
 
 #: codec/1/251/0xfb280/0
 msgid ""
@@ -1777,82 +1838,104 @@ msgid ""
 "Perfect name for a system that can walk anywhere\n"
 "in Central America, right?\n"
 msgstr ""
+"对一台能在中美洲\n"
+"任意行走的机体来说，很贴切吧？\n"
 
 #: codec/1/251/0xfbe10/8
 msgid ""
 "Plus there are the legends.\n"
 msgstr ""
+"而且还有那些传说。\n"
 
 #: codec/1/251/0xfbe10/9
 msgid ""
 "What legends?\n"
 msgstr ""
+"什么传说？\n"
 
 #: codec/1/251/0xfbe10/10
 msgid ""
 "The basilisks of legend were highly venomous\n"
 "creatures.\n"
 msgstr ""
+"传说中的巴西利斯克\n"
+"是剧毒之物。\n"
 
 #: codec/1/251/0xfbe10/11
 msgid ""
 "There's a story told by the ancient Romans.\n"
 msgstr ""
+"古罗马人讲过一个故事。\n"
 
 #: codec/1/251/0xfbe10/12
 msgid ""
 "A knight slew a basilisk by piercing it with his\n"
 "spear.\n"
 msgstr ""
+"一名骑士用长矛\n"
+"刺穿了巴西利斯克。\n"
 
 #: codec/1/251/0xfbe10/13
 msgid ""
 "The creature's poison seeped up the spear and\n"
 "killed both horse and rider...\n"
 msgstr ""
+"毒液顺着矛杆渗上来，\n"
+"把马和骑士都毒死了……\n"
 
 #: codec/1/251/0xfbe10/14
 msgid ""
 "Remind you of anything, Snake?\n"
 msgstr ""
+"想到什么了吗，斯内克？\n"
 
 #: codec/1/251/0xfbe10/15
 msgid ""
 "Nuclear deterrence.\n"
 msgstr ""
+"核威慑。\n"
 
 #: codec/1/251/0xfbe10/16
 msgid ""
 "Bingo. Kill it, and you die along with it - your hands\n"
 "are bound.\n"
 msgstr ""
+"答对了。杀了它，你也跟着死——\n"
+"你的手就被绑住了。\n"
 
 #: codec/1/251/0xfbe10/17
 msgid ""
 "I wanted Peace Walker to be like that.\n"
 msgstr ""
+"我希望和平行者就是这样。\n"
 
 #: codec/1/251/0xfbe10/18
 msgid ""
 "You should know that people aren't that rational.\n"
 msgstr ""
+"你要知道，人没那么理性。\n"
 
 #: codec/1/251/0xfbe10/19
 msgid ""
 "Sometimes people do things that don't make sense,\n"
 msgstr ""
+"有时人会做出不合常理的事，\n"
 
 #: codec/1/251/0xfbe10/20
 msgid ""
 "even when they know they're going to die - or\n"
 "maybe it's because of that.\n"
 msgstr ""
+"即便明知会死——\n"
+"或许正因为明知会死。\n"
 
 #: codec/1/251/0xfbe10/21
 msgid ""
 "Maybe you're right. But that's exactly what I don't\n"
 "understand.\n"
 msgstr ""
+"也许你是对的。\n"
+"但这正是我不明白的地方。\n"
 
 #. speaker 0x0ea8e31c voice v_bri_huy0160_000_0
 #. timeline 445..1574
