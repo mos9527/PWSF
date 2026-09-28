@@ -47,6 +47,7 @@ msgstr "这家伙给我一种熟悉的感觉。"
 #: gtt/0x1c79f38b/0x18b0/1
 msgid "Like he was born to fight, same as us."
 msgstr ""
+"跟我们一样天生好战。"
 
 #. GTT pool 0x1c79f38b block 0x1980 (id 0xd5, record 192), budget 78 B
 #: gtt/0x1c79f38b/0x1980/0
@@ -62,6 +63,7 @@ msgstr "说不定还能用到我的工作里……"
 #: gtt/0x1c79f38b/0x1a60/0
 msgid "Is that a fierce-looking UMA or what?!"
 msgstr ""
+"那UMA看着真凶悍！"
 
 #. GTT pool 0x1c79f38b block 0x1a60 (id 0xb1, record 192), budget 54 B
 #: gtt/0x1c79f38b/0x1a60/1
@@ -112,6 +114,7 @@ msgstr "你得想别的办法攻击。"
 #: gtt/0x1c79f38b/0x1e20/0
 msgid "That's a BBQ spit."
 msgstr ""
+"那是烤肉叉。"
 
 #. GTT pool 0x1c79f38b block 0x1e20 (id 0xf1, record 192), budget 66 B
 #: gtt/0x1c79f38b/0x1e20/1
@@ -184,16 +187,19 @@ msgstr "这做法也太糙了，你确定能成？"
 #: gtt/0x1c79f38b/0x2580/0
 msgid "Mmm! Looks tasty!"
 msgstr ""
+"嗯！好吃！"
 
 #. GTT pool 0x1c79f38b block 0x25e0 (id 0x51, record 192), budget 39 B
 #: gtt/0x1c79f38b/0x25e0/0
 msgid "Target is down!"
 msgstr ""
+"目标倒下！"
 
 #. GTT pool 0x1c79f38b block 0x2640 (id 0x4e, record 192), budget 23 B
 #: gtt/0x1c79f38b/0x2640/0
 msgid "Nice huntin', Snake!"
 msgstr ""
+"猎得漂亮！"
 
 #. GTT pool 0x1c79f38b block 0x2690 (id 0x6b, record 192), budget 55 B
 #: gtt/0x1c79f38b/0x2690/0
@@ -214,6 +220,7 @@ msgstr "你真会猎大家伙，BOSS！"
 #: gtt/0x1c79f38b/0x27a0/0
 msgid "Yes! Now that's a prize."
 msgstr ""
+"好！这才叫猎物。"
 
 #. GTT pool 0x1c79f38b block 0x27a0 (id 0xb7, record 192), budget 74 B
 #: gtt/0x1c79f38b/0x27a0/1
@@ -364,11 +371,13 @@ msgstr "坏掉的板就别管了。"
 #: gtt/0x1c79f3cb/0x970/0
 msgid "What? What's a tape doing there?"
 msgstr ""
+"怎么会有磁带？"
 
 #. GTT pool 0x1c79f3cb block 0x9e0 (id 0x4e, record 186), budget 23 B
 #: gtt/0x1c79f3cb/0x9e0/0
 msgid "Another tape?"
 msgstr ""
+"又一盘？"
 
 #. GTT pool 0x1c79f3cb block 0xa30 (id 0x85, record 186), budget 87 B
 #: gtt/0x1c79f3cb/0xa30/0
@@ -443,6 +452,7 @@ msgstr "那块锁住了，得先解锁。"
 #: gtt/0x1c79f3cb/0xe30/0
 msgid "So... You found the tape..."
 msgstr ""
+"你找到磁带了……"
 
 #. GTT pool 0x1c79f3cb block 0xe90 (id 0xa2, record 186), budget 22 B
 #: gtt/0x1c79f3cb/0xe90/0
@@ -458,6 +468,7 @@ msgstr "介意我听听吗？"
 #: gtt/0x1c79f3cb/0xe90/2
 msgid "Please?!"
 msgstr ""
+"求你"
 
 #. GTT pool 0x1c79f3cb block 0xf40 (id 0x61, record 186), budget 55 B
 #: gtt/0x1c79f3cb/0xf40/0
@@ -488,6 +499,7 @@ msgstr "\"攻击\"\"控制\"\"机动\"与\"感知\"。"
 #: gtt/0x1c79f3cb/0x2d40/0
 msgid "Jack...!"
 msgstr ""
+"杰克"
 
 #. GTT pool 0x1c79f3cb block 0x10d0 (id 0xa0, record 186), budget 14 B
 #. GTT pool 0x1c79f3cb block 0x1170 (id 0xa0, record 186), budget 14 B
@@ -519,6 +531,7 @@ msgstr "这是……这反应……"
 #: gtt/0x1c79f3cb/0x12b0/1
 msgid "Oh god..."
 msgstr ""
+"天啊"
 
 #. GTT pool 0x1c79f3cb block 0x12b0 (id 0xae, record 186), budget 20 B
 #: gtt/0x1c79f3cb/0x12b0/2
@@ -614,6 +627,7 @@ msgstr "正如我曾创立眼镜蛇。"
 #: gtt/0x1c79f3cb/0x1470/13
 msgid "They are my family."
 msgstr ""
+"是我的家人。"
 
 #. GTT pool 0x1c79f3cb block 0x1470 (id 0x4d6, record 186), budget 52 B
 #: gtt/0x1c79f3cb/0x1470/14
@@ -629,11 +643,13 @@ msgstr "但我仍有家人。"
 #: gtt/0x1c79f3cb/0x1950/0
 msgid "I raised you."
 msgstr ""
+"我养大你"
 
 #. GTT pool 0x1c79f3cb block 0x1950 (id 0x363, record 186), budget 18 B
 #: gtt/0x1c79f3cb/0x1950/1
 msgid "I loved you."
 msgstr ""
+"我爱过你"
 
 #. GTT pool 0x1c79f3cb block 0x1950 (id 0x363, record 186), budget 52 B
 #: gtt/0x1c79f3cb/0x1950/2
@@ -715,6 +731,7 @@ msgstr "杀我吧…"
 #: gtt/0x1c79f3cb/0x1cc0/2
 msgid "Do it."
 msgstr ""
+"动手"
 
 #. GTT pool 0x1c79f3cb block 0x1d50 (id 0x8e, record 186), budget 41 B
 #: gtt/0x1c79f3cb/0x1d50/0
@@ -755,21 +772,25 @@ msgstr "泷山、莺之森、鼓泷"
 #: gtt/0x1c79f3cb/0x1f40/2
 msgid "Tada, Hirano, Ichinotorii,"
 msgstr ""
+"Tada, Hirano, Ichinotorii,"
 
 #. GTT pool 0x1c79f3cb block 0x1f40 (id 0x128, record 186), budget 26 B
 #: gtt/0x1c79f3cb/0x1f40/3
 msgid "Uneno, Yamashita, Sasabe,"
 msgstr ""
+"Uneno, Yamashita, Sasabe,"
 
 #. GTT pool 0x1c79f3cb block 0x1f40 (id 0x128, record 186), budget 33 B
 #: gtt/0x1c79f3cb/0x1f40/4
 msgid "Kofudai, Tokiwadai, Myokenguchi."
 msgstr ""
+"Kofudai, Tokiwadai, Myokenguchi."
 
 #. GTT pool 0x1c79f3cb block 0x2070 (id 0x85, record 186), budget 33 B
 #: gtt/0x1c79f3cb/0x2070/0
 msgid "Pi is equal to 3.141..."
 msgstr ""
+"圆周率是3.141……"
 
 #. GTT pool 0x1c79f3cb block 0x2070 (id 0x85, record 186), budget 33 B
 #: gtt/0x1c79f3cb/0x2070/1
@@ -782,6 +803,7 @@ msgstr ""
 #: gtt/0x1c79f3cb/0x2d90/0
 msgid "Pi is equal to 3.254637369888888...."
 msgstr ""
+"圆周率=3.254637369888888……"
 
 #. GTT pool 0x1c79f3cb block 0x2170 (id 0xdf, record 186), budget 27 B
 #. GTT pool 0x1c79f3cb block 0x2e00 (id 0xa1, record 186), budget 24 B
@@ -791,6 +813,7 @@ msgstr ""
 #: gtt/0x1c79f3cb/0x2e00/1
 msgid "Pi is..."
 msgstr ""
+"π是…"
 
 #. GTT pool 0x1c79f3cb block 0x2170 (id 0xdf, record 186), budget 30 B
 #. GTT pool 0x1c79f3cb block 0x2e00 (id 0xa1, record 186), budget 27 B
@@ -798,6 +821,7 @@ msgstr ""
 #: gtt/0x1c79f3cb/0x2e00/2
 msgid "...about 3."
 msgstr ""
+"……约3"
 
 #. GTT pool 0x1c79f3cb block 0x2250 (id 0x259, record 186), budget 65 B
 #: gtt/0x1c79f3cb/0x2250/0
@@ -818,6 +842,7 @@ msgstr "谢谢……谢谢你听我说。"
 #: gtt/0x1c79f3cb/0x2250/3
 msgid "I feel... content. Snake..."
 msgstr ""
+"好满足……斯内克"
 
 #. GTT pool 0x1c79f3cb block 0x2250 (id 0x259, record 186), budget 36 B
 #: gtt/0x1c79f3cb/0x2250/4
@@ -860,6 +885,7 @@ msgstr "在切腹岩上做生眨眼。"
 #: gtt/0x1c79f3cb/0x24b0/3
 msgid "I need scissors! 61!"
 msgstr ""
+"要剪刀！61！"
 
 #. GTT pool 0x1c79f3cb block 0x2600 (id 0x14c, record 186), budget 63 B
 #: gtt/0x1c79f3cb/0x2600/0
@@ -1618,6 +1644,7 @@ msgstr "互相帮忙的话应该能翻过墙。"
 #: gtt/0x1c7a724b/0x26c0/0
 msgid "Good work, Snake!"
 msgstr ""
+"干得好！"
 
 #. GTT pool 0x1c7a724b block 0x2710 (id 0x96, record 150), budget 103 B
 #: gtt/0x1c7a724b/0x2710/0
@@ -1728,6 +1755,7 @@ msgstr "他唯一能藏的地方就是那些房子……"
 #: gtt/0x1c7a724b/0x3120/0
 msgid "Zadornov's in one of those houses. I just know it!"
 msgstr ""
+"扎多尔诺夫就在那些房子里。"
 
 #. GTT pool 0x1c7a72cb block 0x0 (id 0xb5, record 246), budget 39 B
 #: gtt/0x1c7a72cb/0x0/0
@@ -2151,6 +2179,7 @@ msgstr "用<I=ACT>！别被压扁了！"
 #: gtt/0x1c7a72cb/0x1c70/0
 msgid "Bra-VO! Great job!"
 msgstr ""
+"干得漂亮！"
 
 #. GTT pool 0x1c7a72cb block 0x1cc0 (id 0xb3, record 246), budget 47 B
 #: gtt/0x1c7a72cb/0x1cc0/0

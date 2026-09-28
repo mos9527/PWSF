@@ -162,6 +162,7 @@ msgstr "除了被发射的那个人"
 #: gtt/0x1c767903/0x9d50/1
 msgid "needs to equip their part!"
 msgstr ""
+"得装备部件！"
 
 #. GTT pool 0x1c767903 block 0x9e00 (id 0x73, record 0), budget 71 B
 #: gtt/0x1c767903/0x9e00/0
@@ -234,6 +235,7 @@ msgstr "给飞行人体威慑让路！！"
 #: gtt/0x1c767903/0xa490/0
 msgid "Bullseye!! I salute you, sir!!"
 msgstr ""
+"正中靶心！！长官！！"
 
 #. GTT pool 0x1c767903 block 0xa500 (id 0xb5, record 0), budget 62 B
 #. GTT pool 0x1c767903 block 0xa5c0 (id 0xb5, record 0), budget 62 B
@@ -378,6 +380,7 @@ msgstr "干得好，SNAKE！和平！"
 #: gtt/0x1c767903/0xb190/0
 msgid "Snake, help us reclaim peace."
 msgstr ""
+"帮我们夺回和平。"
 
 #. GTT pool 0x1c767903 block 0xb200 (id 0x55, record 0), budget 39 B
 #: gtt/0x1c767903/0xb200/0
@@ -418,6 +421,7 @@ msgstr "蚂蚁则保护它们免受天敌侵害。"
 #: gtt/0x1c767903/0xb4e0/0
 msgid "Kind of like us, huh?"
 msgstr ""
+"有点像我们吧？"
 
 #. GTT pool 0x1c767903 block 0xb540 (id 0x70, record 0), budget 55 B
 #: gtt/0x1c767903/0xb540/0
@@ -432,21 +436,25 @@ msgstr "我提这个不是这意思……"
 #: gtt/0x1c7c730b/0xca0/0
 msgid "Head north."
 msgstr ""
+"往北"
 
 #. GTT pool 0x1c767903 block 0xb600 (id 0x4f, record 0), budget 23 B
 #: gtt/0x1c767903/0xb600/0
 msgid "Head west."
 msgstr ""
+"往西"
 
 #. GTT pool 0x1c767903 block 0xb650 (id 0x4e, record 0), budget 23 B
 #: gtt/0x1c767903/0xb650/0
 msgid "Head east."
 msgstr ""
+"往东"
 
 #. GTT pool 0x1c767903 block 0xb6a0 (id 0x4f, record 0), budget 23 B
 #: gtt/0x1c767903/0xb6a0/0
 msgid "Head south."
 msgstr ""
+"往南"
 
 #. GTT pool 0x1c767903 block 0xb6f0 (id 0x64, record 0), budget 55 B
 #. GTT pool 0x1c767903 block 0xb960 (id 0x64, record 0), budget 55 B
@@ -454,6 +462,7 @@ msgstr ""
 #: gtt/0x1c767903/0xb960/0
 msgid "Super Co-Op Weapon, Railgun."
 msgstr ""
+"CO-OP武器，电磁炮。"
 
 #. GTT pool 0x1c767903 block 0xb760 (id 0x74, record 0), budget 71 B
 #. GTT pool 0x1c767903 block 0xb9d0 (id 0x74, record 0), budget 71 B
@@ -502,6 +511,7 @@ msgstr "米勒。收到吗，SNAKE？"
 #: gtt/0x1c79f20b/0x0/1
 msgid "I see you've landed."
 msgstr ""
+"你着陆了。"
 
 #. GTT pool 0x1c79f20b block 0x0 (id 0xd6, record 84), budget 46 B
 #: gtt/0x1c79f20b/0x0/2
@@ -629,6 +639,7 @@ msgstr ""
 #: gtt/0x1c79f20b/0x780/0
 msgid "Ah, a perfect target."
 msgstr ""
+"完美的靶子。"
 
 #. GTT pool 0x1c79f20b block 0x780 (id 0x161, record 84), budget 78 B
 #: gtt/0x1c79f20b/0x780/1
@@ -643,6 +654,7 @@ msgstr ""
 #: gtt/0x1c79f20b/0x780/2
 msgid "Some \"peaceful paradise.\""
 msgstr ""
+"好个和平天堂。"
 
 #. GTT pool 0x1c79f20b block 0x780 (id 0x161, record 84), budget 83 B
 #: gtt/0x1c79f20b/0x780/3
@@ -757,6 +769,7 @@ msgstr ""
 #: gtt/0x1c79f20b/0xee0/0
 msgid "I think you got him, Boss."
 msgstr ""
+"你打中他了，BOSS。"
 
 #. GTT pool 0x1c79f20b block 0xf40 (id 0x69, record 84), budget 55 B
 #: gtt/0x1c79f20b/0xf40/0
@@ -1064,6 +1077,7 @@ msgstr ""
 #: gtt/0x1c79f20b/0x2500/0
 msgid "That's it."
 msgstr ""
+"对了。"
 
 #. GTT pool 0x1c79f20b block 0x2550 (id 0xac, record 84), budget 119 B
 #. GTT pool 0x1c7c720b block 0x200 (id 0xac, record 120), budget 119 B
@@ -1171,6 +1185,7 @@ msgstr "现实没法暂停，BOSS。"
 #: gtt/0x1c7a720b/0x10b0/3
 msgid "Not even in lovely Costa Rica."
 msgstr ""
+"这儿也不例外。"
 
 #. GTT pool 0x1c79f20b block 0x2b40 (id 0x83, record 84), budget 87 B
 #: gtt/0x1c79f20b/0x2b40/0
@@ -1287,6 +1302,7 @@ msgstr "你在码头看到怪动物没？"
 #: gtt/0x1c79f20b/0x3290/0
 msgid "Hey, a UMA! Look! By the pier!"
 msgstr ""
+"有UMA！看码头边！"
 
 #. GTT pool 0x1c79f20b block 0x3310 (id 0x76, record 84), budget 71 B
 #: gtt/0x1c79f20b/0x3310/0
@@ -1297,6 +1313,7 @@ msgstr "天哪！活的未知生物！"
 #: gtt/0x1c79f20b/0x3390/0
 msgid "I... I'm dreaming, right?!"
 msgstr ""
+"我在做梦吧？！"
 
 #. GTT pool 0x1c79f20b block 0x3400 (id 0x9b, record 84), budget 103 B
 #: gtt/0x1c79f20b/0x3400/0
@@ -1322,6 +1339,7 @@ msgstr "喵喵喵！"
 #: gtt/0x1c79f20b/0x3520/2
 msgid "...Hm?"
 msgstr ""
+"嗯？"
 
 #. GTT pool 0x1c79f20b block 0x3520 (id 0xc0, record 84), budget 19 B
 #: gtt/0x1c79f20b/0x3520/3
@@ -1515,6 +1533,7 @@ msgstr "BOSS，求你了……帮帮奇科。"
 #: gtt/0x1c7a724b/0x3310/0
 msgid "Please, Snake. Help Chico..."
 msgstr ""
+"救救奇科……"
 
 #. GTT pool 0x1c79f24b block 0x8b0 (id 0x73, record 144), budget 71 B
 #. GTT pool 0x1c7a724b block 0x3370 (id 0x73, record 150), budget 71 B
@@ -1683,6 +1702,7 @@ msgstr "和平行者在你正西方的基地。出发！"
 #: gtt/0x1c79f2cb/0x90/0
 msgid "Go West, Snake. West."
 msgstr ""
+"往西，斯内克。"
 
 #. GTT pool 0x1c79f2cb block 0x100 (id 0xb4, record 240), budget 57 B
 #: gtt/0x1c79f2cb/0x100/0
@@ -1793,6 +1813,7 @@ msgstr "你要去的是伪装成矿场的基地。"
 #: gtt/0x1c79f2cb/0x970/0
 msgid "Snake,"
 msgstr ""
+"喂，"
 
 #. GTT pool 0x1c79f2cb block 0x970 (id 0xa1, record 240), budget 77 B
 #: gtt/0x1c79f2cb/0x970/1
@@ -1902,6 +1923,7 @@ msgstr "他们和抓我的人明显不同。"
 #: gtt/0x1c79f34b/0x0/0
 msgid "This is a kill house."
 msgstr ""
+"这是杀戮屋。"
 
 #. GTT pool 0x1c79f34b block 0x0 (id 0x110, record 336), budget 60 B
 #: gtt/0x1c79f34b/0x0/1
@@ -2037,6 +2059,7 @@ msgstr "别射击举手的目标，否则会被扣分！"
 #: gtt/0x1c79f34b/0xaf0/0
 msgid "Penalty!"
 msgstr ""
+"犯规"
 
 #. GTT pool 0x1c79f34b block 0xaf0 (id 0xa6, record 336), budget 79 B
 #: gtt/0x1c79f34b/0xaf0/1
@@ -2047,6 +2070,7 @@ msgstr "我不是说过别射击举手的目标吗？！"
 #: gtt/0x1c79f34b/0xba0/0
 msgid "Nice! You hit all the targets in your booth."
 msgstr ""
+"漂亮！全靶命中。"
 
 #. GTT pool 0x1c79f34b block 0xba0 (id 0xaf, record 336), budget 39 B
 #: gtt/0x1c79f34b/0xba0/1
@@ -2067,6 +2091,7 @@ msgstr "呃……SNAKE，你已击中该位所有目标。"
 #: gtt/0x1c79f34b/0xce0/1
 msgid "Move on!"
 msgstr ""
+"走！"
 
 #. GTT pool 0x1c79f34b block 0xd90 (id 0x90, record 336), budget 87 B
 #: gtt/0x1c79f34b/0xd90/0
@@ -2102,6 +2127,7 @@ msgstr "击中目标并前进。击中最后目标完成任务。"
 #: gtt/0x1c79f34b/0x1090/0
 msgid "OK, that's the last one."
 msgstr ""
+"这是最后一个。"
 
 #. GTT pool 0x1c79f34b block 0x10f0 (id 0x9c, record 336), budget 103 B
 #: gtt/0x1c79f34b/0x10f0/0
@@ -2219,11 +2245,13 @@ msgstr "看，好酷！"
 #: gtt/0x1c79f38b/0x420/0
 msgid "A Tigrex..."
 msgstr ""
+"轰龙…"
 
 #. GTT pool 0x1c79f38b block 0x470 (id 0x44, record 192), budget 23 B
 #: gtt/0x1c79f38b/0x470/0
 msgid "Rathalos!"
 msgstr ""
+"火龙！"
 
 #. GTT pool 0x1c79f38b block 0x4c0 (id 0x7f, record 192), budget 71 B
 #: gtt/0x1c79f38b/0x4c0/0
@@ -2349,11 +2377,13 @@ msgstr "我试着跟它说话…"
 #: gtt/0x1c79f38b/0x1020/1
 msgid "Raawwwr!"
 msgstr ""
+"吼！"
 
 #. GTT pool 0x1c79f38b block 0x1020 (id 0x99, record 192), budget 12 B
 #: gtt/0x1c79f38b/0x1020/2
 msgid "Rawwr!"
 msgstr ""
+"吼！"
 
 #. GTT pool 0x1c79f38b block 0x10c0 (id 0x7f, record 192), budget 71 B
 #: gtt/0x1c79f38b/0x10c0/0
@@ -2364,6 +2394,7 @@ msgstr "太美了！比我见过的任何鸟都美！"
 #: gtt/0x1c79f38b/0x1140/0
 msgid "A real reptile!"
 msgstr ""
+"真爬虫！"
 
 #. GTT pool 0x1c79f38b block 0x1140 (id 0xde, record 192), budget 70 B
 #: gtt/0x1c79f38b/0x1140/1
@@ -2399,6 +2430,7 @@ msgstr "那是随从猫吧？嘿，去跟它说说话如何？"
 #: gtt/0x1c79f38b/0x1450/0
 msgid "Wow, an actual Felyne!"
 msgstr ""
+"哇，是艾露猫！"
 
 #. GTT pool 0x1c79f38b block 0x1450 (id 0xb5, record 192), budget 83 B
 #: gtt/0x1c79f38b/0x1450/1

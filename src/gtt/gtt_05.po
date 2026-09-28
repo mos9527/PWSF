@@ -103,6 +103,7 @@ msgstr "确定，趁现在！"
 #: gtt/0x1c7bf30b/0x10d0/0
 msgid "Now! Now!"
 msgstr ""
+"现在！"
 
 #. GTT pool 0x1c7a72cb block 0x2d60 (id 0x56, record 246), budget 39 B
 #: gtt/0x1c7a72cb/0x2d60/0
@@ -547,6 +548,7 @@ msgstr "必须阻止帕兹发射核弹！"
 #: gtt/0x1c7a734b/0x1420/0
 msgid "She was a spy?"
 msgstr ""
+"她是间谍"
 
 #. GTT pool 0x1c7a734b block 0x1420 (id 0x91, record 342), budget 50 B
 #: gtt/0x1c7a734b/0x1420/1
@@ -627,6 +629,7 @@ msgstr "SNAKE！别伤到她！"
 #: gtt/0x1c7a734b/0x1b40/0
 msgid "Don't let Paz die!"
 msgstr ""
+"别让帕兹死！"
 
 #. GTT pool 0x1c7a734b block 0x1ba0 (id 0x60, record 342), budget 39 B
 #: gtt/0x1c7a734b/0x1ba0/0
@@ -871,6 +874,7 @@ msgstr "蛇怪至少有30巴拉（80英尺）高。"
 #: gtt/0x1c7af24b/0x190/0
 msgid "You saw those tracks. I don't have to tell you it's big."
 msgstr ""
+"你看到那些脚印了。它很大。"
 
 #. GTT pool 0x1c7af24b block 0x210 (id 0x69, record 156), budget 55 B
 #. GTT pool 0x1c7bf20b block 0xe0 (id 0x69, record 114), budget 55 B
@@ -1779,6 +1783,7 @@ msgstr "太好了！看来能从那儿进去！"
 #: gtt/0x1c7bf24b/0x830/0
 msgid "Good, you're in. Keep going, Boss."
 msgstr ""
+"你进去了。继续，BOSS。"
 
 #. GTT pool 0x1c7bf24b block 0x8a0 (id 0x90, record 180), budget 87 B
 #: gtt/0x1c7bf24b/0x8a0/0
@@ -1824,6 +1829,7 @@ msgstr "打 AI 舱的舱门，直到打开！"
 #: gtt/0x1c7bf28b/0x1b0/0
 msgid "Now! Board the AI pod!"
 msgstr ""
+"快登上AI舱！"
 
 #. GTT pool 0x1c7bf28b block 0x220 (id 0x5e, record 234), budget 39 B
 #: gtt/0x1c7bf28b/0x220/0
@@ -2217,6 +2223,7 @@ msgstr "她又要进入核弹发射模式了！"
 #: gtt/0x1c7bf30b/0xe40/1
 msgid "Stop her, Snake!"
 msgstr ""
+"拦住她！"
 
 #. GTT pool 0x1c7bf30b block 0xef0 (id 0x98, record 318), budget 61 B
 #: gtt/0x1c7bf30b/0xef0/0
@@ -2227,6 +2234,7 @@ msgstr "没时间了！要发射了！"
 #: gtt/0x1c7bf30b/0xef0/1
 msgid "Hurry!!"
 msgstr ""
+"快！"
 
 #. GTT pool 0x1c7bf30b block 0xf90 (id 0x6b, record 318), budget 55 B
 #: gtt/0x1c7bf30b/0xf90/0
@@ -2247,6 +2255,7 @@ msgstr "SNAKE！必须阻止数据发送！"
 #: gtt/0x1c7bf30b/0x14d0/0
 msgid "Do something, Snake!"
 msgstr ""
+"快想想办法！"
 
 #. GTT pool 0x1c7bf30b block 0x1530 (id 0x42, record 318), budget 23 B
 #: gtt/0x1c7bf30b/0x1530/0
@@ -2267,6 +2276,7 @@ msgstr "哦，这意味着世界末日……"
 #: gtt/0x1c7bf30b/0x1650/0
 msgid "I'm scared, Amanda..."
 msgstr ""
+"我好怕……"
 
 #. GTT pool 0x1c7bf30b block 0x16b0 (id 0x5e, record 318), budget 39 B
 #: gtt/0x1c7bf30b/0x16b0/0

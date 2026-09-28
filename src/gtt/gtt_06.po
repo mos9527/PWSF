@@ -127,6 +127,7 @@ msgstr "电击装置在自我修复！打它！"
 #: gtt/0x1c7c724b/0x4f0/0
 msgid "Aaagh! Shoot THEM, not ME!"
 msgstr ""
+"别打我，打他们！"
 
 #. GTT pool 0x1c7c724b block 0x560 (id 0xc1, record 186), budget 52 B
 #: gtt/0x1c7c724b/0x560/0
@@ -232,6 +233,7 @@ msgstr "哇！你看它跑得多快！"
 #: gtt/0x1c7c724b/0x1220/1
 msgid "I amaze myself sometimes... er, sorry,"
 msgstr ""
+"我真厉害……呃，抱歉，"
 
 #. GTT pool 0x1c7c724b block 0x12e0 (id 0xb4, record 186), budget 63 B
 #: gtt/0x1c7c724b/0x12e0/0
@@ -337,6 +339,7 @@ msgstr "有没有什么出口能逃出去？"
 #: gtt/0x1c7c72cb/0x610/2
 msgid "Look around. Look up."
 msgstr ""
+"看四周和上方。"
 
 #. GTT pool 0x1c7c72cb block 0x730 (id 0xc9, record 282), budget 74 B
 #: gtt/0x1c7c72cb/0x730/0
@@ -441,6 +444,7 @@ msgstr "大门！趁它关上之前过去！"
 #: gtt/0x1c7c730b/0x70/0
 msgid "RPGs?! Here?! That's nuts!"
 msgstr ""
+"这有RPG？！疯了！"
 
 #. GTT pool 0x1c7c730b block 0xe0 (id 0x84, record 324), budget 87 B
 #: gtt/0x1c7c730b/0xe0/0
@@ -562,6 +566,7 @@ msgstr "高处可能有守卫。小心。"
 #: gtt/0x1c7cf24b/0x190/0
 msgid "Careful. Guards."
 msgstr ""
+"小心守卫。"
 
 #. GTT pool 0x1c7cf24b block 0x1e0 (id 0x9d, record 198), budget 103 B
 #: gtt/0x1c7cf24b/0x1e0/0
@@ -587,6 +592,7 @@ msgstr "里面可能还有我同伴。求你，救救他们！"
 #: gtt/0x1c7cf24b/0x440/0
 msgid "You have to help my compas. Please."
 msgstr ""
+"你得救我的同伴。"
 
 #. GTT pool 0x1c7cf24b block 0x4b0 (id 0x53, record 198), budget 39 B
 #: gtt/0x1c7cf24b/0x4b0/0
@@ -672,6 +678,7 @@ msgstr "直升机！快打下来！"
 #: gtt/0x1c7cf30b/0x310/0
 msgid "Take 'em out, Snake!"
 msgstr ""
+"干掉他们！"
 
 #. GTT pool 0x1c7cf30b block 0x370 (id 0x81, record 330), budget 87 B
 #: gtt/0x1c7cf30b/0x370/0
@@ -822,6 +829,7 @@ msgstr "先得想办法解决那架直升机！"
 #: gtt/0x1cc27647/0x420/0
 msgid "Bring that chopper down!"
 msgstr ""
+"击落直升机！"
 
 #. GTT pool 0x1cc27647 block 0x480 (id 0x9c, record 126), budget 58 B
 #: gtt/0x1cc27647/0x480/0
@@ -1175,6 +1183,7 @@ msgstr "先干掉所有车组人员，或许还有机会。"
 #: gtt/0x1cc27647/0x2110/0
 msgid "They spotted you!"
 msgstr ""
+"被发现了！"
 
 #. GTT pool 0x1cc27647 block 0x2110 (id 0xb5, record 126), budget 82 B
 #: gtt/0x1cc27647/0x2110/1
@@ -1220,6 +1229,7 @@ msgstr "这能让他们停一阵子。"
 #: gtt/0x1cc27647/0x2480/0
 msgid "You got their fuel tank!"
 msgstr ""
+"打中油箱了！"
 
 #. GTT pool 0x1cc27647 block 0x2480 (id 0xa7, record 126), budget 55 B
 #: gtt/0x1cc27647/0x2480/1

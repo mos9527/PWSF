@@ -86,6 +86,7 @@ msgstr "还找不到？试试夜视仪？"
 #: gtt/0x1c0fb1c9/0x4c0/0
 msgid "Bravo! Nice work!"
 msgstr ""
+"干得漂亮！"
 
 #. GTT pool 0x1c0fb1c9 block 0x510 (id 0x64, record 0), budget 55 B
 #: gtt/0x1c0fb1c9/0x510/0
@@ -171,6 +172,7 @@ msgstr "怎么了？！我就在这！"
 #: gtt/0x1c0fb1c9/0xc40/0
 msgid "I will find you!"
 msgstr ""
+"我会找到你"
 
 #. GTT pool 0x1c0fb1c9 block 0xc40 (id 0x80, record 0), budget 29 B
 #: gtt/0x1c0fb1c9/0xc40/1
@@ -191,6 +193,7 @@ msgstr "我就是森林，我注视着你。"
 #: gtt/0x1c0fb1c9/0xda0/0
 msgid "What's up? An enemy?"
 msgstr ""
+"怎么？敌人？"
 
 #. GTT pool 0x1c0fb1c9 block 0xe00 (id 0x7c, record 0), budget 71 B
 #: gtt/0x1c0fb1c9/0xe00/0
@@ -223,6 +226,7 @@ msgstr "看来游魂不知怎么听到了你。"
 #: gtt/0x1c0fb1c9/0x4be0/0
 msgid "Good job."
 msgstr ""
+"不错。"
 
 #. GTT pool 0x1c0fb1c9 block 0x1040 (id 0x84, record 0), budget 46 B
 #: gtt/0x1c0fb1c9/0x1040/1
@@ -303,6 +307,7 @@ msgstr "它们怎会出现在照片里……"
 #: gtt/0x1c0fb1c9/0x16e0/0
 msgid "The ghost is... gone?! What'd you do?"
 msgstr ""
+"幽灵消失了？你做了什么？"
 
 #. GTT pool 0x1c0fb1c9 block 0x1750 (id 0x94, record 0), budget 103 B
 #: gtt/0x1c0fb1c9/0x1750/0
@@ -328,6 +333,7 @@ msgstr "别愣着，救他们！"
 #: gtt/0x1c0fb1c9/0x1900/1
 msgid "Give them CPR!"
 msgstr ""
+"快做CPR！"
 
 #. GTT pool 0x1c0fb1c9 block 0x19a0 (id 0xbe, record 0), budget 55 B
 #: gtt/0x1c0fb1c9/0x19a0/0
@@ -450,6 +456,7 @@ msgstr "把囚犯晾在外面，我看像陷阱。"
 #: gtt/0x1c767903/0x37c0/1
 msgid "Be careful."
 msgstr ""
+"小心。"
 
 #. GTT pool 0x1c0fb1c9 block 0x2390 (id 0x61, record 0), budget 55 B
 #: gtt/0x1c0fb1c9/0x2390/0
@@ -732,6 +739,7 @@ msgstr "这里有对我们研究至关重要的文件。"
 #: gtt/0x1c0fb1c9/0x3bf0/1
 msgid "Find them."
 msgstr ""
+"找他们"
 
 #. GTT pool 0x1c0fb1c9 block 0x3ca0 (id 0xb3, record 0), budget 77 B
 #: gtt/0x1c0fb1c9/0x3ca0/0
@@ -757,11 +765,13 @@ msgstr "还剩三个。"
 #: gtt/0x1c0fb1c9/0x3e30/0
 msgid "Two more."
 msgstr ""
+"再两个"
 
 #. GTT pool 0x1c0fb1c9 block 0x3e80 (id 0x4c, record 0), budget 23 B
 #: gtt/0x1c0fb1c9/0x3e80/0
 msgid "Only one left!"
 msgstr ""
+"只剩一个"
 
 #. GTT pool 0x1c0fb1c9 block 0x3ed0 (id 0x6d, record 0), budget 55 B
 #: gtt/0x1c0fb1c9/0x3ed0/0
@@ -884,6 +894,7 @@ msgstr "带补给的士兵跟别人不一样。"
 #: gtt/0x1c767903/0x31f0/1
 msgid "Stay sharp."
 msgstr ""
+"别松懈"
 
 #. GTT pool 0x1c0fb1c9 block 0x48f0 (id 0x8a, record 0), budget 87 B
 #: gtt/0x1c0fb1c9/0x48f0/0
@@ -929,6 +940,7 @@ msgstr "无论如何，别打中特工。"
 #: gtt/0x1c0fb1c9/0x4d00/0
 msgid "Hey Snake,"
 msgstr ""
+"斯内克"
 
 #. GTT pool 0x1c0fb1c9 block 0x4d00 (id 0x159, record 0), budget 103 B
 #: gtt/0x1c0fb1c9/0x4d00/1
@@ -954,6 +966,7 @@ msgstr "突然…好想吃猪肉…"
 #: gtt/0x1c0fb1c9/0x4ee0/0
 msgid "Relax, relax..."
 msgstr ""
+"放松，放松"
 
 #. GTT pool 0x1c0fb1c9 block 0x4f30 (id 0x56, record 0), budget 39 B
 #: gtt/0x1c0fb1c9/0x4f30/0
@@ -984,6 +997,7 @@ msgstr "得动动脑子。"
 #: gtt/0x1c0fb1c9/0x5160/0
 msgid "Bang! Just like that!"
 msgstr ""
+"砰！就是这样！"
 
 #. GTT pool 0x1c0fb1c9 block 0x51c0 (id 0x71, record 0), budget 71 B
 #: gtt/0x1c0fb1c9/0x51c0/0
@@ -1039,6 +1053,7 @@ msgstr "前进时不留任何痕迹。"
 #: gtt/0x1c0fb1c9/0x5620/0
 msgid "Ooh, nice shot!"
 msgstr ""
+"好枪法！"
 
 #. GTT pool 0x1c0fb1c9 block 0x5670 (id 0xb9, record 0), budget 74 B
 #: gtt/0x1c0fb1c9/0x5670/0
@@ -1049,6 +1064,7 @@ msgstr "嗯，拍得真不错！我看能拿普利策……"
 #: gtt/0x1c0fb1c9/0x5670/1
 msgid "OK, maybe not, but still."
 msgstr ""
+"好吧，也算吧。"
 
 #. GTT pool 0x1c0fb1c9 block 0x5730 (id 0x7f, record 0), budget 71 B
 #: gtt/0x1c0fb1c9/0x5730/0
@@ -1089,6 +1105,7 @@ msgstr "你在拍什么？纯属浪费胶卷。"
 #: gtt/0x1c0fb1c9/0x5a80/0
 msgid "No Good,"
 msgstr ""
+"不行"
 
 #. GTT pool 0x1c0fb1c9 block 0x5a80 (id 0x104, record 0), budget 91 B
 #: gtt/0x1c0fb1c9/0x5a80/1
@@ -1224,6 +1241,7 @@ msgstr "香蕉园的农药可能正在杀死金刚鹦鹉，"
 #: gtt/0x1c0fb1c9/0x64e0/1
 msgid "you know..."
 msgstr ""
+"你懂的"
 
 #. GTT pool 0x1c0fb1c9 block 0x6590 (id 0xac, record 0), budget 56 B
 #: gtt/0x1c0fb1c9/0x6590/0
@@ -1299,6 +1317,7 @@ msgstr "你只需干掉炮塔里的士兵。"
 #: gtt/0x1c0fb1c9/0x6ad0/1
 msgid "I know you can do it."
 msgstr ""
+"我知道你能行"
 
 #. GTT pool 0x1c0fb1c9 block 0x6ba0 (id 0xa7, record 0), budget 50 B
 #: gtt/0x1c0fb1c9/0x6ba0/0
@@ -1344,6 +1363,7 @@ msgstr "保护BOSS！"
 #: gtt/0x1c0fb1c9/0x6ea0/0
 msgid "Please, we need Boss to stop it..."
 msgstr ""
+"拜托，得让BOSS阻止它……"
 
 #. GTT pool 0x1c0fb1c9 block 0x6f10 (id 0x80, record 0), budget 71 B
 #: gtt/0x1c0fb1c9/0x6f10/0
@@ -1359,6 +1379,7 @@ msgstr "你在里面还好吗？！"
 #: gtt/0x1c0fb1c9/0x6ff0/0
 msgid "Keep it up...!"
 msgstr ""
+"接着干！"
 
 #. GTT pool 0x1c0fb1c9 block 0x7040 (id 0x4f, record 0), budget 23 B
 #: gtt/0x1c0fb1c9/0x7040/0
@@ -1578,6 +1599,7 @@ msgstr "人海战术吗……不太合理，但有效。"
 #: gtt/0x1c79f34b/0x1640/0
 msgid "Find Zadornov, Snake."
 msgstr ""
+"找扎多尔诺夫！"
 
 #. GTT pool 0x1c0fb1c9 block 0x8340 (id 0x51, record 0), budget 39 B
 #. GTT pool 0x1c79f34b block 0x16a0 (id 0x51, record 336), budget 39 B
@@ -1585,6 +1607,7 @@ msgstr ""
 #: gtt/0x1c79f34b/0x16a0/0
 msgid "Where's Zadornov?"
 msgstr ""
+"他在哪？"
 
 #. GTT pool 0x1c0fb1c9 block 0x83a0 (id 0xb2, record 0), budget 46 B
 #: gtt/0x1c0fb1c9/0x83a0/0
@@ -1605,6 +1628,7 @@ msgstr "能藏的地方有限。搜遍每个角落。"
 #: gtt/0x1c0fb1c9/0x8500/0
 msgid "Where the hell'd Zadornov go this time? I'm sick of him and his \"walks\"!"
 msgstr ""
+"扎多尔诺夫这次跑哪了？我受够他和他的「散步」了！"
 
 #. GTT pool 0x1c0fb1c9 block 0x85a0 (id 0xcf, record 0), budget 65 B
 #: gtt/0x1c0fb1c9/0x85a0/0
@@ -1645,6 +1669,7 @@ msgstr "扎多尔诺夫要是在，肯定就在那，你觉得呢？"
 #: gtt/0x1c0fb1c9/0x88e0/0
 msgid "Zadornov's nearby! I can smell him!"
 msgstr ""
+"他在附近！我闻得到！"
 
 #. GTT pool 0x1c0fb1c9 block 0x8960 (id 0x6e, record 0), budget 55 B
 #. GTT pool 0x1c79f34b block 0x1700 (id 0x6e, record 336), budget 55 B
@@ -1721,6 +1746,7 @@ msgstr "嘿，你之前不是在那附近找东西吗？"
 #: gtt/0x1c0fb1c9/0x8f30/1
 msgid "What was it..."
 msgstr ""
+"是什么"
 
 #. GTT pool 0x1c0fb1c9 block 0x8fe0 (id 0xc9, record 0), budget 50 B
 #: gtt/0x1c0fb1c9/0x8fe0/0
@@ -1968,6 +1994,7 @@ msgstr "Kyohhh kyohhh……凤尾绿咬鹃就这么叫。"
 #: gtt/0x1c677285/0x1410/0
 msgid "Kyohhh kyohhh. ...Well? Pretty good, hm?"
 msgstr ""
+"Kyohhh kyohhh。……嗯？不错吧？"
 
 #. GTT pool 0x1c677285 block 0x1480 (id 0x8e, record 204), budget 34 B
 #: gtt/0x1c677285/0x1480/0
@@ -1978,6 +2005,7 @@ msgstr "哼唧！哼唧！"
 #: gtt/0x1c677285/0x1480/1
 msgid "Oops, that was a pig!"
 msgstr ""
+"啊，是猪！"
 
 #. GTT pool 0x1c677285 block 0x1510 (id 0x79, record 204), budget 71 B
 #: gtt/0x1c677285/0x1510/0
