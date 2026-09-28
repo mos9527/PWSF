@@ -97,6 +97,7 @@ msgstr ""
 msgid ""
 "you're toast. So don't get hit.\n"
 msgstr ""
+"你就完了。所以别被打中。\n"
 
 #: codec/1/176/0xb00d0/0
 msgid ""
@@ -1122,22 +1123,27 @@ msgstr ""
 msgid ""
 "Enemies carrying assault rifles and machine guns\n"
 msgstr ""
+"拿着突击步枪和机枪的敌人\n"
 
 #: codec/1/178/0xb2fa0/1
 msgid ""
 "will usually fire at you from farther away.\n"
 msgstr ""
+"通常会在更远处向你开火。\n"
 
 #: codec/1/178/0xb2fa0/2
 msgid ""
 "Use whatever cover you can find,\n"
 msgstr ""
+"利用能找到的一切掩体，\n"
 
 #: codec/1/178/0xb2fa0/3
 msgid ""
 "then return fire with a few well-placed shots of\n"
 "your own.\n"
 msgstr ""
+"再用几发精准的射击\n"
+"还击。\n"
 
 #: codec/1/179/0xb3140/0
 msgid ""
@@ -1770,6 +1776,8 @@ msgid ""
 "That coffee you guys brought us is pretty damn\n"
 "good.\n"
 msgstr ""
+"你们送来的咖啡\n"
+"还真不错。\n"
 
 #. speaker 0x0e55d959 voice v_bri_paz0060_000_0
 #. timeline 1365..2396
@@ -1777,6 +1785,7 @@ msgstr ""
 msgid ""
 "Isn't it? Costa Rican coffee is the best.\n"
 msgstr ""
+"是吧？哥斯达黎加的咖啡最棒。\n"
 
 #. speaker 0x0e55d959 voice v_bri_paz0060_000_0
 #. timeline 2452..3524
@@ -1785,6 +1794,8 @@ msgid ""
 "The Central Basin has all the right conditions for\n"
 "growing coffee.\n"
 msgstr ""
+"中央盆地的条件\n"
+"非常适合种咖啡。\n"
 
 #. speaker 0x0e55d959 voice v_bri_paz0060_000_0
 #. timeline 3594..5085
@@ -1793,6 +1804,8 @@ msgid ""
 "It is high in elevation, with steady temperatures\n"
 "and well-drained, volcanic soils.\n"
 msgstr ""
+"海拔高、气温稳定，\n"
+"还有排水良好的火山土。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_paz0060_000_0
 #. timeline 5126..5809
@@ -1800,6 +1813,7 @@ msgstr ""
 msgid ""
 "The \"professor\" certainly seems attached to it.\n"
 msgstr ""
+"那位“教授”看来很中意它。\n"
 
 #. speaker 0x0e55d959 voice v_bri_paz0060_000_0
 #. timeline 5851..7648
@@ -1808,6 +1822,8 @@ msgid ""
 "The coffee we drank on the boat coming over was\n"
 "awful. It put him in such a terrible mood.\n"
 msgstr ""
+"在船上喝的咖啡难喝极了，\n"
+"害他心情糟透了。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_paz0060_000_0
 #. timeline 7690..8554
@@ -1816,6 +1832,8 @@ msgid ""
 "How come I never hear about Costa Rican coffee,\n"
 "then?\n"
 msgstr ""
+"那我怎么从没听说过\n"
+"哥斯达黎加咖啡？\n"
 
 #. speaker 0x0e55d959 voice v_bri_paz0060_000_0
 #. timeline 8582..9905
@@ -1824,6 +1842,8 @@ msgid ""
 "Because it gets bought up by wholesalers and\n"
 "mixed with beans from other countries...\n"
 msgstr ""
+"因为都被批发商收走，\n"
+"和别国的豆子混在一起……\n"
 
 #. speaker 0x0e55d959 voice v_bri_paz0060_000_0
 #. timeline 10017..11521
@@ -1832,6 +1852,8 @@ msgid ""
 "It is really a shame. Such wonderful beans and\n"
 "nobody knows they're from Costa Rica.\n"
 msgstr ""
+"实在可惜。这么好的豆子，\n"
+"却没人知道它来自哥斯达黎加。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_paz0060_000_0
 #. timeline 11828..12496
@@ -1839,6 +1861,7 @@ msgstr ""
 msgid ""
 "They should launch an ad campaign or something.\n"
 msgstr ""
+"他们该搞个广告活动什么的。\n"
 
 #. speaker 0x0e55d959 voice v_bri_paz0060_000_0
 #. timeline 12524..14099
@@ -1847,6 +1870,8 @@ msgid ""
 "Right! I hope one day people will recognize Costa\n"
 "Rican coffee for what it is.\n"
 msgstr ""
+"就是！希望有朝一日大家\n"
+"能看清哥斯达黎加咖啡的价值。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_paz0060_000_0
 #. timeline 14127..14544
@@ -1854,6 +1879,7 @@ msgstr ""
 msgid ""
 "I'm with you there.\n"
 msgstr ""
+"这点我同意。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_paz0070_000_1
 #. timeline 473..1365
@@ -2172,6 +2198,8 @@ msgid ""
 "to seek out causes of misfortune and nip them in\n"
 "the bud.\n"
 msgstr ""
+"找出不幸的根源，\n"
+"在萌芽时掐掉。\n"
 
 #. speaker 0x0e55d959 voice v_bri_paz0080_010_0
 #. timeline 18849..19978
@@ -2180,6 +2208,8 @@ msgid ""
 "It was that kind of thinking that got me trapped in\n"
 "their base...\n"
 msgstr ""
+"正是这种想法，\n"
+"让我被困在他们的基地……\n"
 
 #. speaker 0x0e28dce6 voice v_bri_paz0080_010_0
 #. timeline 20647..21873
@@ -2188,6 +2218,8 @@ msgid ""
 "I'm not blaming you. You haven't done anything\n"
 "wrong.\n"
 msgstr ""
+"我没有怪你。\n"
+"你没做错什么。\n"
 
 #. speaker 0x0e55d959 voice v_bri_paz0090_000_0
 #. timeline 473..1783
@@ -2800,82 +2832,104 @@ msgid ""
 "It has these gorgeous metallic blue wings that\n"
 "shimmer in the light.\n"
 msgstr ""
+"它有一对漂亮的金属蓝翅膀，\n"
+"在光下闪烁。\n"
 
 #: codec/1/183/0xb7ea0/6
 msgid ""
 "You can see them even from a distance.\n"
 msgstr ""
+"隔着老远也看得见。\n"
 
 #: codec/1/183/0xb7ea0/7
 msgid ""
 "You mean they reflect light?\n"
 msgstr ""
+"你是说它们反光？\n"
 
 #: codec/1/183/0xb7ea0/8
 msgid ""
 "Correct. It's called structural color. Morpho scales\n"
 "have tiny bumps on them\n"
 msgstr ""
+"没错。这叫结构色。\n"
+"闪蝶的鳞片上有微小的凸起，\n"
 
 #: codec/1/183/0xb7ea0/9
 msgid ""
 "that interfere with the light and make them look\n"
 "blue.\n"
 msgstr ""
+"会和光发生干涉，\n"
+"于是看起来是蓝色。\n"
 
 #: codec/1/183/0xb7ea0/10
 msgid ""
 "The space between the bumps corresponds to the\n"
 "wavelength of blue light...\n"
 msgstr ""
+"凸起间的间距，\n"
+"正好对应蓝光的波长……\n"
 
 #: codec/1/183/0xb7ea0/11
 msgid ""
 "Let me see if I get this.\n"
 msgstr ""
+"我看看理解得对不对。\n"
 
 #: codec/1/183/0xb7ea0/12
 msgid ""
 "So if you could change the spacing, you'd end up\n"
 "seeing a different color?\n"
 msgstr ""
+"那么只要改变间距，\n"
+"就会看到不同的颜色？\n"
 
 #: codec/1/183/0xb7ea0/13
 msgid ""
 "That's the principle.\n"
 msgstr ""
+"就是这个原理。\n"
 
 #: codec/1/183/0xb7ea0/14
 msgid ""
 "I heard somewhere it's being researched as a way\n"
 "to color cloth without dye.\n"
 msgstr ""
+"我听说有人在研究\n"
+"用它做无染色的布料。\n"
 
 #: codec/1/183/0xb7ea0/15
 msgid ""
 "Think of the camouflage you could make with that...\n"
 msgstr ""
+"想想能用它做出什么样的迷彩……\n"
 
 #: codec/1/183/0xb7ea0/16
 msgid ""
 "Is that all you can think of?\n"
 msgstr ""
+"你就只想到这个？\n"
 
 #: codec/1/183/0xb7ea0/17
 msgid ""
 "Hey, it's important. What I don't get is why they'd\n"
 "put a butterfly on Peace Walker...\n"
 msgstr ""
+"嘿，这很重要。我不明白的是，\n"
+"为什么要在和平行者上放蝴蝶……\n"
 
 #: codec/1/183/0xb7ea0/18
 msgid ""
 "Maybe because it looks pretty.\n"
 msgstr ""
+"也许只是因为好看。\n"
 
 #: codec/1/183/0xb7ea0/19
 msgid ""
 "I hope that's all it is...\n"
 msgstr ""
+"希望只是这样……\n"
 
 #. speaker 0x0e55d959 voice v_bri_paz0140_000_0
 #. timeline 473..1825
@@ -3146,29 +3200,38 @@ msgid ""
 "My mother always used to tell me, \"Never make\n"
 "war. Always help keep the peace.\"\n"
 msgstr ""
+"母亲总对我说：\n"
+"“永不发动战争。永远守护和平。”\n"
 
 #: codec/1/184/0xb8ee0/4
 msgid ""
 "I remember... Your grandparents.\n"
 msgstr ""
+"我记得……你的祖父母。\n"
 
 #: codec/1/184/0xb8ee0/5
 msgid ""
 "Yes, they died in the civil war. I think that is why\n"
 "my mother hated war so much,\n"
 msgstr ""
+"是的，他们死于内战。\n"
+"我想这就是母亲那么憎恨战争的原因，\n"
 
 #: codec/1/184/0xb8ee0/6
 msgid ""
 "That's another thing you've got in common with\n"
 "Kaz. His mother named him \"Peace,\" too.\n"
 msgstr ""
+"这也是你和卡兹的另一个共同点。\n"
+"他母亲也给他取名叫“和平”。\n"
 
 #: codec/1/184/0xb8ee0/7
 msgid ""
 "Si, because Japan also suffered through war. I\n"
 "think I know how Mr. Miller's mother felt.\n"
 msgstr ""
+"是的，因为日本也饱受战争之苦。\n"
+"我想我能体会米勒母亲的心情。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_paz0040_000_0
 #. timeline 473..975

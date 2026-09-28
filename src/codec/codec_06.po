@@ -565,18 +565,23 @@ msgstr ""
 msgid ""
 "It has always been like this.\n"
 msgstr ""
+"向来如此。\n"
 
 #: codec/1/195/0xc3d40/14
 msgid ""
 "People making the same mistakes, over and over...\n"
 "and still all we can do is fight.\n"
 msgstr ""
+"人一遍遍犯着同样的错……\n"
+"而我们能做的仍然只有战斗。\n"
 
 #: codec/1/195/0xc3d40/15
 msgid ""
 "I hear ya. If you've got a goal, you've got to keep\n"
 "moving forward.\n"
 msgstr ""
+"我明白。既然有目标，\n"
+"就得一直往前走。\n"
 
 #: codec/1/196/0xc4280/0
 msgid ""
@@ -1327,6 +1332,8 @@ msgid ""
 "Get down low and approach the mine from behind,\n"
 "then deactivate and recover it.\n"
 msgstr ""
+"压低身子从后方接近地雷，\n"
+"解除并回收它。\n"
 
 #. speaker 0x0e3bb338 voice v_bri_mis_amd0230_000_0
 #. timeline 6882..7941
@@ -1334,6 +1341,7 @@ msgstr ""
 msgid ""
 "To do this, press <I=ACT> when the Icon appears.\n"
 msgstr ""
+"做法是：出现图标时按<I=ACT>。\n"
 
 #. speaker 0x0e3bb338 voice v_bri_mis_amd0230_000_0
 #. timeline 7955..8805
@@ -1341,6 +1349,7 @@ msgstr ""
 msgid ""
 "You can use any unused Claymores you recover.\n"
 msgstr ""
+"回收的未使用克莱莫地雷可以用。\n"
 
 #. speaker 0x0e3bb338 voice v_bri_mis_amd0230_000_0
 #. timeline 8832..9543
@@ -1348,6 +1357,7 @@ msgstr ""
 msgid ""
 "You can also destroy them by shooting them.\n"
 msgstr ""
+"也可以直接开枪打掉。\n"
 
 #. speaker 0x0e3bb338 voice v_bri_mis_amd0230_000_0
 #. timeline 9571..11034
@@ -1356,6 +1366,8 @@ msgid ""
 "Just keep your distance or you'll get hit by\n"
 "shrapnel. Best to use a sniper rifle.\n"
 msgstr ""
+"注意保持距离，否则会被弹片伤到。\n"
+"最好用狙击步枪。\n"
 
 #. speaker 0x0e3bb338 voice v_bri_mis_amd0230_000_0
 #. timeline 11061..12190
@@ -1364,6 +1376,8 @@ msgid ""
 "The only downside is you can forget about using\n"
 "them yourself.\n"
 msgstr ""
+"唯一的缺点是，\n"
+"你自己就别想再用它们了。\n"
 
 #: codec/1/198/0xc62d0/0
 msgid ""
@@ -1625,12 +1639,15 @@ msgstr ""
 msgid ""
 "Si, although it happened over a hundred years ago.\n"
 msgstr ""
+"是的，尽管那是一百多年前的事了。\n"
 
 #: codec/1/198/0xc6ed0/5
 msgid ""
 "Back then, the political parties in Nicaragua were\n"
 "at each other's throats.\n"
 msgstr ""
+"当时尼加拉瓜的各政党\n"
+"斗得你死我活。\n"
 
 #: codec/1/198/0xc6ed0/6
 msgid ""
@@ -1638,94 +1655,121 @@ msgid ""
 "American mercenary to help counter their enemies,\n"
 "the Conservative Party.\n"
 msgstr ""
+"尼加拉瓜民主党雇了一名\n"
+"美国佣兵来对付敌人——\n"
+"保守党。\n"
 
 #: codec/1/198/0xc6ed0/7
 msgid ""
 "And that was Walker.\n"
 msgstr ""
+"那就是沃克。\n"
 
 #: codec/1/198/0xc6ed0/8
 msgid ""
 "After taking care of the Conservatives,\n"
 msgstr ""
+"解决了保守党之后，\n"
 
 #: codec/1/198/0xc6ed0/9
 msgid ""
 "Walker decided to seize power in Nicaragua for\n"
 "himself, eventually making himself president.\n"
 msgstr ""
+"沃克决定把尼加拉瓜的权力\n"
+"据为己有，最后当上了总统。\n"
 
 #: codec/1/198/0xc6ed0/10
 msgid ""
 "The Democratic Party gave him an inch, and he\n"
 "took the whole country.\n"
 msgstr ""
+"民主党给了他一寸，\n"
+"他就吞下整个国家。\n"
 
 #: codec/1/198/0xc6ed0/11
 msgid ""
 "But it didn't end there.\n"
 msgstr ""
+"但事情还没完。\n"
 
 #: codec/1/198/0xc6ed0/12
 msgid ""
 "Not only did he make English an official language,\n"
 "he tried to reintroduce slavery.\n"
 msgstr ""
+"他不但把英语定为官方语言，\n"
+"还想恢复奴隶制。\n"
 
 #: codec/1/198/0xc6ed0/13
 msgid ""
 "Walker's goal was to build a \"Caribbean Empire\"\n"
 "centered on the American South.\n"
 msgstr ""
+"沃克的目标是建立一个\n"
+"以美国南方为中心的“加勒比帝国”。\n"
 
 #: codec/1/198/0xc6ed0/14
 msgid ""
 "Caribbean Empire... hmh. Sounds kind of like what\n"
 "Coldman is trying to pull off.\n"
 msgstr ""
+"加勒比帝国……嗯。\n"
+"听着有点像寇德曼想干的事。\n"
 
 #: codec/1/198/0xc6ed0/15
 msgid ""
 "The gringos are always like that.\n"
 msgstr ""
+"这些美国佬向来如此。\n"
 
 #: codec/1/198/0xc6ed0/16
 msgid ""
 "They invent some convenient excuse to trample all\n"
 "over foreign countries like they own the place.\n"
 msgstr ""
+"他们总能编出顺手的借口，\n"
+"把别国当自家后院践踏。\n"
 
 #: codec/1/198/0xc6ed0/17
 msgid ""
 "Peace Walker... ha!\n"
 msgstr ""
+"和平行者……哈！\n"
 
 #: codec/1/198/0xc6ed0/18
 msgid ""
 "What happened to Walker in the end?\n"
 msgstr ""
+"沃克最后怎么样了？\n"
 
 #: codec/1/198/0xc6ed0/19
 msgid ""
 "A united Central American army led by Costa Rica\n"
 msgstr ""
+"以哥斯达黎加为首的中美洲联军\n"
 
 #: codec/1/198/0xc6ed0/20
 msgid ""
 "kicked his ass and sent him running back to\n"
 "America.\n"
 msgstr ""
+"把他打得落花流水，\n"
+"赶回了美国。\n"
 
 #: codec/1/198/0xc6ed0/21
 msgid ""
 "Then why don't we do the same? I for one don't\n"
 "intend to let Coldman get his way.\n"
 msgstr ""
+"那我们何不照做？\n"
+"我可不想让寇德曼得逞。\n"
 
 #: codec/1/198/0xc6ed0/22
 msgid ""
 "Good idea... I'm glad we have you, Boss.\n"
 msgstr ""
+"好主意……有你在真好，BOSS。\n"
 
 #: codec/1/199/0xc76f0/0
 msgid ""
