@@ -6,7 +6,7 @@ METAL GEAR SOLID PEACE WALKER (STEAM) 本土化工作
 - [x] UI 文字【提取】 → `research/ANALYSIS/_dump_olang.tsv`（137,358 行）
 - [x] 字幕文字【提取】 → `research/ANALYSIS/subtitle_ingame.tsv`（4,128 行）
       影片字幕在 Steam 版无数据，见 `research/ANALYSIS/02_movie_subtitle.md` §6.1
-- [x] CODEC【提取】 → `research/ANALYSIS/_briefing_lines.tsv`（39,887 行）
+- [x] CODEC【提取】 → `research/ANALYSIS/_briefing_lines.tsv`（41,338 行）
 - [x] 写回链路实机验证：olang 文本 + 字体扩字形
 - [x] 汉化管线闭环：`pwsf.po_lint` / `po_import` / `install`，见 `research/PLANS/06` §9
 - [x] 可分发补丁 `pwsf.patch`：整文件打包 + 两个静态 `.bat`（install/restore），
@@ -16,7 +16,7 @@ METAL GEAR SOLID PEACE WALKER (STEAM) 本土化工作
       可译文本根本不在字节码里。实际做法 = 原地重写文本池 + 重建 u32 偏移表，
       记录尺寸与偏移一字不变（记录由另一个脚本文件的 TOPIC→req 表按文件偏移
       寻址，搬不了家）。已接进 `po_lint` / `po_import`，产物 `0076531d.DAT`。
-      硬约束：池预算几乎用满（两个 en 块 358 条记录只剩 555 字节），
+      硬约束：池预算几乎用满（两个 en 块 455 条记录只剩 695 字节，R 口径），
       译文必须比英文短，超了由 `po_lint` 的 `codec-budget` 点名（§9.4）
 - [x] CODEC 实机验证：`python -m pwsf.po_import --install` 装一份改过的
       `0076531d.DAT`，进 CODEC 通话核对中文台词与语音（§9.5）
@@ -69,11 +69,14 @@ research/
 - 汉化管线 olang 与过场两侧都已闭环：在 `.po` 里填译文 → 校验 → 编译
   （重建文本表 / 重建 `SLOT.DAT`（544 MB）+ 自动补字形，`--rebuild-font`
   可整表重建字库）→ 备份后装入游戏 → 一键还原
-- CODEC 已闭环：2634 条记录 / 39,887 行全量导出（2026-09-23 收编第二种
-  记录格式，此前被入口启发式误杀 585 条，见 `ANALYSIS/03_codec.md` §10），
-  `briefing_build` 原地重写文本池写回 `0076531d.DAT`（产物与原文等长，
-  改动仅限目标记录的池区间）。唯一硬约束是池预算：译文必须比英文短
-  （`ANALYSIS/03_codec.md` §9）
+- CODEC 已闭环：**2026-09-28 解密模型换成「按记录连续」（模型 R），2,716 条
+  记录 / 41,338 行**（旧口径 2,634 / 39,887 作废，见
+  `ANALYSIS/03_codec.md` §11；旧的「逐扇区各自 seed」只在记录首扇区碰巧成立，
+  它造出来的「第二种记录格式 / 伪影行 / `n_text` 截断」全部是同一个错误的
+  症状）。`briefing_build` 原地重写文本池写回 `0076531d.DAT`，**加密也按
+  记录**（旧写法把首扇区之后的改动字节用错密钥段，装进游戏是乱码，
+  `_probe_bri60.py` [C]）。唯一硬约束是池预算：en 455 条记录只剩 695 字节，
+  译文必须比英文短（`ANALYSIS/03_codec.md` §9 / §11.5）
 - 「哪些表项是台词」由池的排布规则判定（`Record.n_text`：真表项满足
   `table[i+1] == table[i] + len + 1`、末项不越出 off3），**不要**再用
   「像不像台词」的启发式 —— U+FFFD / `_codec_junk` 已于 2026-09-25 退役
@@ -85,7 +88,7 @@ research/
 
 # Layout (detail)
 ```
-src/         翻译工作区，61 个分块 .po（olang 4 + codec 15 + slot 24
+src/         翻译工作区，64 个分块 .po（olang 4 + codec 18 + slot 24
              + stage 12 + gtt 6）；译者须知见 src/README.md
 ```
 
@@ -165,7 +168,9 @@ python research\TOOLS\_probe_po4.py   # 每条校验各自触发，正确译文�
 python research\TOOLS\_probe_po5.py   # 安装状态机与拒绝路径
 python research\TOOLS\_probe_bri53.py # CODEC 池预算 + 写回是恒等变换
 python research\TOOLS\_probe_bri54.py # CODEC 回写端到端（含 lint 拦截）
-python research\TOOLS\_probe_bri55.py # 第二种记录格式：入口白名单误杀 621 头
+python research\TOOLS\_probe_bri55.py # 第二种记录格式：入口白名单误杀 621 头（旧解密口径）
+python research\TOOLS\_probe_bri59.py # 推翻逐扇区解密：密钥流按记录连续
+python research\TOOLS\_probe_bri60.py # 模型 R 落地复验：往返恒等 / en 预算 / 写回对照
 python research\TOOLS\_probe_gtt7.py  # GTT 462 池往返字节一致 + 预算分布
 python research\TOOLS\_poc_gtt_writeback.py       # GTT 端到端写回 SLOT.DAT
 python research\TOOLS\_poc_gtt_writeback.py --lint # gtt-budget 拦截冒烟
@@ -183,14 +188,14 @@ python research\TOOLS\_probe_stagedat_inner.py --dump-dir research\BUILD\x --dum
 ```
 src/
   olang/olang_01..04.po   UI 文字 + 游戏内字幕    1,461 条   能写回
-  codec/codec_01..15.po   CODEC / 简报台词        5,782 条   能写回（池预算紧，见下）
+  codec/codec_01..18.po   CODEC / 简报台词        7,144 条   能写回（池预算紧，见下）
   slot/slot_01..24.po     SLOT.DAT 内嵌文本       9,566 条   能写回（过场 1,858 条）
   stage/stage_01..12.po   STAGEDAT 内嵌文本       4,522 条   能写回（pwsf.stage_build 重建容器）
   gtt/gtt_01..06.po       SLOT.DAT 的 GTT 池       2,238 条  能写回（行内原地，见下）
   MANIFEST.tsv            分块索引
 ```
 
-合计 23,569 条。**只改这些子目录里的 `.po`**，往 `msgstr ""` 里填中文。
+合计 24,931 条。**只改这些子目录里的 `.po`**，往 `msgstr ""` 里填中文。
 
 > `gtt/` 是 2026-09-21 才挖出来的第四套语料（`ANALYSIS/11_gtt_text.md`）：任务内
 > 无线台与提示台词，原先谁都没提取过 —— `slotdat_find_res_entry` 只认 `0x20` 类

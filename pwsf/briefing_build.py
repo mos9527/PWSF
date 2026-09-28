@@ -63,19 +63,44 @@ def source_path() -> Path:
     return config.pristine(config.BRIEFING_DAT)
 
 
-def crypt(raw: bytes) -> bytearray:
-    """Decrypt or encrypt: every 4096-byte sector is seeded afresh, so each
-    one gets the same keystream (`briefing.decrypt_sectors`, _probe_bri8.py).
-    XOR is its own inverse, hence one function for both directions."""
-    out = bytearray(raw)
-    for off in range(0, len(out), SECTOR):
-        blk = bytearray(out[off:off + SECTOR])
-        buffer_xor_decrypt(blk, key())
-        out[off:off + len(blk)] = blk
-    return out
+def crypt(raw: bytes, offs=None) -> bytearray:
+    """Decrypt or encrypt with the record-continuous keystream (model R).
+
+    2026-09-25 之前这里是「每个 4096 扇区各自 seed」。它能把原文件还原，
+    只是因为 XOR 对没改的字节是恒等的；**改过的字节只要不在记录首扇区，
+    就会被用错的密钥段加密**，游戏读到的是乱码 —— 实测 654 条记录的文本
+    池伸出首扇区（en 95 条，`_probe_bri59.py` [D]，`ANALYSIS/03` §11.5）。
+
+    `offs` 是记录起点；省略时按**解密**方向自举（扫记录头）。重新加密必须
+    显式传 offs：那是原文解析出来的起点，而原地重写不改任何记录的偏移
+    （§9.3），所以构建前后一样。
+    """
+    if offs is None:
+        return bytearray(B.decrypt_by_record(raw, key()))
+    return B.crypt_by_record(raw, key(), offs)
 
 
 decrypt = encrypt = crypt
+
+
+#: (密文, 明文, 记录起点) 缓存。po_lint / po_import 会连着问好几次，
+#: 每次都重解一遍 4 MB 没必要。按 (路径, mtime, size) 失效。
+_CACHE: dict = {}
+
+
+def source() -> tuple:
+    """(原文密文 bytes, 明文 bytearray, 记录起点 list)。"""
+    src = source_path()
+    st = src.stat()
+    sig = (str(src), st.st_mtime_ns, st.st_size)
+    hit = _CACHE.get(sig)
+    if hit is None:
+        raw = src.read_bytes()
+        data = bytearray(B.decrypt_by_record(raw, key()))
+        hit = (raw, data, B.record_offsets(data))
+        _CACHE.clear()
+        _CACHE[sig] = hit
+    return hit
 
 
 @dataclass
@@ -169,12 +194,17 @@ class Stats:
     strings: int = 0            # strings written
     bytes_free: int = 0         # budget - needed, over the rewritten records
     blanked: int = 0            # artifact lines cleared by display_lines
+    artifacts: int = 0          # records whose pool has non-dialogue entries
     overflow: list = field(default_factory=list)     # (group, off, need, budget)
     missing: list = field(default_factory=list)      # refs with no record
 
     def __str__(self) -> str:
         extra = (f", {self.blanked} artifact line(s) blanked"
                  if self.blanked else "")
+        # 模型 R 下每条记录的 n_text == len(lines)（§11.4），所以这两项必须
+        # 是 0 —— 不是断言，构建不该因为解析回归而崩，但要在日志里看得见
+        if self.artifacts:
+            extra += f", {self.artifacts} record(s) with artifact entries"
         return (f"{self.rewritten}/{self.targeted} record(s) rewritten, "
                 f"{self.strings} string(s), {self.bytes_free} pool byte(s) "
                 f"left over" + extra)
@@ -199,9 +229,11 @@ def rebuild(translations: dict, lang: int = None, outdir: Path = None,
 
     want = by_record(translations)
     src = source_path()
-    data = crypt(src.read_bytes())
-    recs = {r.off: r for r in B.iter_records(bytes(data))}
+    _raw, plain, offs = source()
+    data = bytearray(plain)          # 副本：source() 的明文要给后续调用留着
+    recs = {r.off: r for r in B.iter_records(data)}
     st = Stats(records=len(recs), targeted=len(want))
+    st.artifacts = sum(1 for r in recs.values() if r.artifacts)
 
     for (group, off), by_line in sorted(want.items()):
         rec = recs.get(off)
@@ -227,7 +259,8 @@ def rebuild(translations: dict, lang: int = None, outdir: Path = None,
         st.bytes_free += p.budget - need
 
     out = outdir / f"{STEM}.DAT"
-    out.write_bytes(bytes(crypt(bytes(data))))
+    # 按记录连续加密（模型 R）；offs 来自原文，原地重写不改任何记录的偏移
+    out.write_bytes(bytes(crypt(bytes(data), offs)))
     if verbose:
         print(f"  {out.name}  {st}  ({len(out.read_bytes())} bytes, "
               f"original {src.stat().st_size})")
@@ -254,9 +287,8 @@ def verify(path: Path, translations: dict, lang: int = None) -> list:
     lang = config.LANG_EN if lang is None else lang
     want = by_record(translations)
     problems = []
-    src = source_path()
-    orig = crypt(src.read_bytes())
-    new = crypt(Path(path).read_bytes())
+    _raw, orig, offs = source()
+    new = crypt(Path(path).read_bytes(), offs)
     if len(new) != len(orig):
         problems.append(f"size {len(new)} != original {len(orig)}")
 
@@ -320,8 +352,8 @@ def overflows(translations: dict) -> list:
     `po_lint` runs this so an over-long line is reported at lint time, with
     the .po entry still on screen, instead of halfway through a build.
     """
-    data = crypt(source_path().read_bytes())
-    recs = {r.off: r for r in B.iter_records(bytes(data))}
+    _raw, data, _offs = source()
+    recs = {r.off: r for r in B.iter_records(data)}
     out = []
     for (group, off), by_line in sorted(by_record(translations).items()):
         rec = recs.get(off)
@@ -344,9 +376,9 @@ def budgets(translations: dict = None) -> dict:
     `po_lint` uses this to reject a translation that will not fit before the
     build ever runs; with no argument it returns every record.
     """
-    data = crypt(source_path().read_bytes())
+    _raw, data, _offs = source()
     out = {}
-    for r in B.iter_records(bytes(data)):
+    for r in B.iter_records(data):
         out[(r.group, r.off)] = (pool_of(r).budget, needed(r.lines))
     if translations is None:
         return out

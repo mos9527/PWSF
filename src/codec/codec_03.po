@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PWSF codec 3/15\n"
+"Project-Id-Version: PWSF codec 3/18\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -8,6 +8,1420 @@ msgstr ""
 "X-PWSF-Source: codec\n"
 "X-PWSF-Entries: 400\n"
 
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0060_000_0
+#. timeline 2479..3260
+#: codec/1/166/0xa6910/2
+msgid ""
+"The basic CO-OPS unit is a two-man cell.\n"
+msgstr ""
+"CO-OPS的基本单位是双人小组。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0060_000_0
+#. timeline 3287..4304
+#: codec/1/166/0xa6910/3
+msgid ""
+"Even a single teammate is great to have in enemy\n"
+"territory.\n"
+msgstr ""
+"在敌占区哪怕只有一个队友\n"
+"也强得多。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0060_000_0
+#. timeline 4318..5308
+#: codec/1/166/0xa6910/4
+msgid ""
+"And there are actually quite a few things you can't\n"
+"do by yourself.\n"
+msgstr ""
+"而且有些事一个人\n"
+"还真做不了。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0060_000_0
+#. timeline 5335..6311
+#: codec/1/166/0xa6910/5
+msgid ""
+"You can help each other climb walls, divide up\n"
+"mission roles...\n"
+msgstr ""
+"可以互相帮忙爬墙、\n"
+"分工执行任务……\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0060_000_0
+#. timeline 6394..7634
+#: codec/1/166/0xa6910/6
+msgid ""
+"On the other hand, if one of you is spotted, the\n"
+"other one's screwed, too.\n"
+msgstr ""
+"但反过来说，一人被发现，\n"
+"另一个也完了。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0060_000_0
+#. timeline 7648..8665
+#: codec/1/166/0xa6910/7
+msgid ""
+"And it's kind of tough for two people to hide in one\n"
+"small space.\n"
+msgstr ""
+"而且两个人挤一个小地方\n"
+"挺难的。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0060_000_0
+#. timeline 8679..9626
+#: codec/1/166/0xa6910/8
+msgid ""
+"Good point. But what's more important than\n"
+"anything\n"
+msgstr ""
+"说得好。但比\n"
+"什么都\n"
+"更重要"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0060_000_0
+#. timeline 9626..10309
+#: codec/1/166/0xa6910/9
+msgid ""
+"is how close you are to your comrades.\n"
+msgstr ""
+"是你和同伴的默契。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0060_000_0
+#. timeline 10309..11674
+#: codec/1/166/0xa6910/10
+msgid ""
+"Well said. Working as a two-man cell can make the\n"
+"mission easier or harder\n"
+msgstr ""
+"没错。双人小组能让任务\n"
+"变简单还是变难\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0060_000_0
+#. timeline 11674..12357
+#: codec/1/166/0xa6910/11
+msgid ""
+"depending on how well you work together.\n"
+msgstr ""
+"全看你们配合得如何。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0060_000_0
+#. timeline 12427..13569
+#: codec/1/166/0xa6910/12
+msgid ""
+"It's also good to note that if you've got a clear,\n"
+"specific objective,\n"
+msgstr ""
+"还有，如果你有清晰、\n"
+"具体的目标，\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0060_000_0
+#. timeline 13583..14558
+#: codec/1/166/0xa6910/13
+msgid ""
+"it can be to your advantage to use an even bigger\n"
+"team.\n"
+msgstr ""
+"使用更大的\n"
+"队伍可能对你有利。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0060_000_0
+#. timeline 14600..16021
+#: codec/1/166/0xa6910/14
+msgid ""
+"That said, teams of three or more run a much\n"
+"greater risk of being spotted.\n"
+msgstr ""
+"不过三人以上的队伍被发现的\n"
+"风险会大得多。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0060_000_0
+#. timeline 16035..17303
+#: codec/1/166/0xa6910/15
+msgid ""
+"Yeah. In a sneaking mission, the fewer people you\n"
+"have,\n"
+msgstr ""
+"是啊。在潜行任务中，人越少\n"
+"越好，\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0060_000_0
+#. timeline 17303..17902
+#: codec/1/166/0xa6910/16
+msgid ""
+"the easier it is to get around.\n"
+msgstr ""
+"行动越方便。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0070_000_0
+#. timeline 459..1518
+#: codec/1/166/0xa6f50/0
+msgid ""
+"In CO-OPS, you can trade weapons and equipment\n"
+"with your teammates.\n"
+msgstr ""
+"在联机合作中，你可以和队友\n"
+"交换武器与装备。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0070_000_0
+#. timeline 1616..2953
+#: codec/1/166/0xa6f50/1
+msgid ""
+"You can also display your teammates' inventories\n"
+"from your Weapon or Equipment Menu.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0070_000_0
+#. timeline 3009..3566
+#: codec/1/166/0xa6f50/2
+msgid ""
+"Ammo is shared, too, of course.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0070_000_0
+#. timeline 3580..4639
+#: codec/1/166/0xa6f50/3
+msgid ""
+"Ammo, sure. How about LIFE? That also shared?\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0070_000_0
+#. timeline 4653..6102
+#: codec/1/166/0xa6f50/4
+msgid ""
+"Yep. You all sink or swim together. Your teammate\n"
+"dies, you die.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0070_000_0
+#. timeline 6213..7272
+#: codec/1/166/0xa6f50/5
+msgid ""
+"You need to be within a certain distance of each\n"
+"other to swap items.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0070_000_0
+#. timeline 7342..8916
+#: codec/1/166/0xa6f50/6
+msgid ""
+"Yeah, I know. I've been in this business so long, I\n"
+"can virtually see that distance.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0070_000_0
+#. timeline 8930..9515
+#: codec/1/166/0xa6f50/7
+msgid ""
+"Looks kind of like a ring in my head.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0070_000_0
+#. timeline 9529..9961
+#: codec/1/166/0xa6f50/8
+msgid ""
+"That's why you're the Boss.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0070_000_0
+#. timeline 9989..11591
+#: codec/1/166/0xa6f50/9
+msgid ""
+"OK, we'll call it the \"CO-OP Ring,\" and entering the\n"
+"ring will be called going \"CO-OP IN.\"\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0080_000_0
+#. timeline 445..1866
+#: codec/1/167/0xa7370/0
+msgid ""
+"Another thing - during a mission you can assume\n"
+"what we'll call the Snake Formation.\n"
+msgstr ""
+"还有一点——任务中可以组成\n"
+"所谓的SNAKE阵形。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0080_000_0
+#. timeline 1894..2995
+#: codec/1/167/0xa7370/1
+msgid ""
+"Same as your code name - but probably not\n"
+"standard operating procedure\n"
+msgstr ""
+"和代号一样，但对\n"
+"单打独斗的人\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0080_000_0
+#. timeline 2995..3845
+#: codec/1/167/0xa7370/2
+msgid ""
+"for a guy who specializes in going solo.\n"
+msgstr ""
+"大概不算标准战术。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0080_000_0
+#. timeline 3845..4904
+#: codec/1/167/0xa7370/3
+msgid ""
+"Damn right. There's only room for one Snake.\n"
+msgstr ""
+"没错。SNAKE只能有一个。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0080_000_0
+#. timeline 4931..5851
+#: codec/1/167/0xa7370/4
+msgid ""
+"In CO-OPS, though, it's a highly effective formation.\n"
+msgstr ""
+"合作任务里，这阵形很有效。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0080_000_0
+#. timeline 5851..6979
+#: codec/1/167/0xa7370/5
+msgid ""
+"The signal for Snake Formation is to tap your\n"
+"teammate on the shoulder.\n"
+msgstr ""
+"SNAKE阵形的信号是拍一下\n"
+"队友的肩膀。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0080_000_0
+#. timeline 7244..8512
+#: codec/1/167/0xa7370/6
+msgid ""
+"Can't form up until you're close enough to reach\n"
+"out and touch someone.\n"
+msgstr ""
+"得靠近到能伸手碰到人\n"
+"才能组队。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0080_000_0
+#. timeline 8526..9501
+#: codec/1/167/0xa7370/7
+msgid ""
+"Entering Snake Formation is called going \"Snake In.\"\n"
+msgstr ""
+"进入SNAKE阵形叫“Snake In”。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0080_000_0
+#. timeline 9529..10755
+#: codec/1/167/0xa7370/8
+msgid ""
+"When you're Snake In, the soldier at the front of\n"
+"the line controls movement.\n"
+msgstr ""
+"Snake In时，队首的士兵\n"
+"负责控制移动。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0080_000_0
+#. timeline 10797..11842
+#: codec/1/167/0xa7370/9
+msgid ""
+"The soldiers in back focus on scouting and attack.\n"
+msgstr ""
+"后面的士兵专注侦察和攻击。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0090_000_0
+#. timeline 445..1448
+#: codec/1/167/0xa7780/0
+msgid ""
+"Just because your heart stops doesn't mean you're\n"
+"dead immediately.\n"
+msgstr ""
+"心脏停止跳动并不意味着你会\n"
+"立刻死亡。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0090_000_0
+#. timeline 1476..2521
+#: codec/1/167/0xa7780/1
+msgid ""
+"Right. The heart just circulates blood through the\n"
+"body.\n"
+msgstr ""
+"对。心脏只是负责让血液\n"
+"在体内循环。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0090_000_0
+#. timeline 2549..4221
+#: codec/1/167/0xa7780/2
+msgid ""
+"But stopping it does cut oxygen supply to the\n"
+"brain - you'll be dead soon after.\n"
+msgstr ""
+"但停跳会切断大脑的氧气供应——\n"
+"很快就会死。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0090_000_0
+#. timeline 4249..4862
+#: codec/1/167/0xa7780/3
+msgid ""
+"Which is why we have CPR.\n"
+msgstr ""
+"所以要心肺复苏。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0090_000_0
+#. timeline 4904..5419
+#: codec/1/167/0xa7780/4
+msgid ""
+"Let's say your heart does stop.\n"
+msgstr ""
+"假设你的心脏停跳了。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0090_000_0
+#. timeline 5419..6770
+#: codec/1/167/0xa7780/5
+msgid ""
+"If someone performs CPR before your brain cells\n"
+"die you can recover.\n"
+msgstr ""
+"脑细胞死前有人做心肺复苏，\n"
+"你就能恢复。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0090_000_0
+#. timeline 6826..7871
+#: codec/1/167/0xa7780/6
+msgid ""
+"In CO-OPS, when the LIFE Gauge drops to zero,\n"
+msgstr ""
+"合作任务中，生命值降到零时，\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0090_000_0
+#. timeline 7871..8498
+#: codec/1/167/0xa7780/7
+msgid ""
+"it means you're in a near-death state.\n"
+msgstr ""
+"意味着你处于濒死状态。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0090_000_0
+#. timeline 8498..9250
+#: codec/1/167/0xa7780/8
+msgid ""
+"You won't be able to move or anything else.\n"
+msgstr ""
+"你将无法移动或做任何事。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0090_000_0
+#. timeline 9264..10574
+#: codec/1/167/0xa7780/9
+msgid ""
+"Performing CPR on near-death teammates can\n"
+"bring them back into action.\n"
+msgstr ""
+"对濒死的队友做心肺复苏\n"
+"能让他们重返战斗。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0090_000_0
+#. timeline 10616..11828
+#: codec/1/167/0xa7780/10
+msgid ""
+"Of course, performing CPR in the middle of battle\n"
+"isn't exactly safe.\n"
+msgstr ""
+"当然，在战斗中做心肺复苏\n"
+"并不安全。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0090_000_0
+#. timeline 11842..12427
+#: codec/1/167/0xa7780/11
+msgid ""
+"You're leaving yourself exposed.\n"
+msgstr ""
+"你把自己暴露了。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0090_000_0
+#. timeline 12455..13820
+#: codec/1/167/0xa7780/12
+msgid ""
+"Even so, in CO-OPS you and your teammates are\n"
+"all in the same boat.\n"
+msgstr ""
+"但合作任务里你和队友\n"
+"同舟共济。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0090_000_0
+#. timeline 13820..14684
+#: codec/1/167/0xa7780/13
+msgid ""
+"Don't think you can get away with leaving one of\n"
+"them behind.\n"
+msgstr ""
+"别以为丢下他们中的谁\n"
+"能没事。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0090_000_0
+#. timeline 14712..16035
+#: codec/1/167/0xa7780/14
+msgid ""
+"I wouldn't think of it. And I'd expect them to do the\n"
+"same for me.\n"
+msgstr ""
+"我不会那么想。我也指望他们\n"
+"同样对我。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0090_000_0
+#. timeline 16049..16927
+#: codec/1/167/0xa7780/15
+msgid ""
+"If you let all your teammates die during a mission,\n"
+msgstr ""
+"如果任务中你让所有队友都死了，\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0090_000_0
+#. timeline 16955..17540
+#: codec/1/167/0xa7780/16
+msgid ""
+"there'll be nobody left to save you.\n"
+msgstr ""
+"就没人能来救你了。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0090_000_0
+#. timeline 17540..18320
+#: codec/1/167/0xa7780/17
+msgid ""
+"And then it's game over.\n"
+msgstr ""
+"然后就结束了。\n"
+
+#: codec/1/167/0xa7dc0/0
+msgid ""
+"Building trust with your teammates is essential to\n"
+"success in CO-OPS.\n"
+msgstr ""
+"与队友建立信任，是联机合作\n"
+"取胜的关键。\n"
+
+#: codec/1/167/0xa7dc0/1
+msgid ""
+"That goes without saying.\n"
+msgstr ""
+"那还用说。\n"
+
+#: codec/1/167/0xa7dc0/2
+msgid ""
+"I'm not gonna let somebody I can't trust cover my\n"
+"ass.\n"
+msgstr ""
+"我可不会让信不过的人\n"
+"掩护我。\n"
+
+#: codec/1/167/0xa7dc0/3
+msgid ""
+"The measure of that trust is called \"camaraderie.\"\n"
+msgstr ""
+"衡量这种信任的指标叫「战友情」。\n"
+
+#: codec/1/167/0xa7dc0/4
+msgid ""
+"Think of it as an indicator of how strong your bond\n"
+"is with your CO-OPS teammates.\n"
+msgstr ""
+"可以把它看作你与联机队友\n"
+"羁绊强弱的指标。\n"
+
+#: codec/1/167/0xa7dc0/5
+msgid ""
+"The friendlier you act toward them, the greater\n"
+"your camaraderie.\n"
+msgstr ""
+"你对他们越友善，\n"
+"战友情就越高。\n"
+
+#: codec/1/167/0xa7dc0/6
+msgid ""
+"Give me an example.\n"
+msgstr ""
+"举个例子。\n"
+
+#: codec/1/167/0xa7dc0/7
+msgid ""
+"Your camaraderie will be higher if you're \"CO-OP In\"\n"
+"than standing apart.\n"
+msgstr ""
+"保持「联机待命」时的战友情，\n"
+"会比各自为战更高。\n"
+
+#: codec/1/167/0xa7dc0/8
+msgid ""
+"Saving a teammate's life with CPR also strengthens\n"
+"your bonds with them.\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/9
+msgid ""
+"Things like hitting a teammate with friendly fire\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/10
+msgid ""
+"will cause your camaraderie to go down.\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/11
+msgid ""
+"Makes sense.\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/12
+msgid ""
+"Camaraderie carries over from mission to mission.\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/13
+msgid ""
+"The next time you go CO-OPS In with the same\n"
+"guy, you'll start off strong.\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/14
+msgid ""
+"But be careful. If you keep taking new people with\n"
+"you on missions,\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/15
+msgid ""
+"your camaraderie with past teammates eventually\n"
+"reverts back to its original level.\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/16
+msgid ""
+"Got it. I'll have to make sure to renew old\n"
+"friendships once in a while.\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/17
+msgid ""
+"The performance benefits gained from Snake Sync\n"
+"in CO-OPS\n"
+msgstr ""
+
+#: codec/1/167/0xa7dc0/18
+#: codec/1/168/0xa84e0/9
+msgid ""
+"depend on your camaraderie.\n"
+msgstr ""
+"取决于战友情。\n"
+
+#: codec/1/167/0xa7dc0/19
+msgid ""
+"It's always best to keep things cool with your\n"
+"teammates.\n"
+msgstr ""
+
+#: codec/1/168/0xa84e0/0
+msgid ""
+"Stand still when you're Snake In and you and your\n"
+"teammates will start to get in sync.\n"
+msgstr ""
+"SNAKE IN时站住不动，你和队友\n"
+"就会开始同步。\n"
+
+#: codec/1/168/0xa84e0/1
+msgid ""
+"In sync?\n"
+msgstr ""
+"同步？\n"
+
+#: codec/1/168/0xa84e0/2
+msgid ""
+"That's right. Stay still together and you'll enter\n"
+"Snake Sync mode.\n"
+msgstr ""
+"没错。一起站住不动，就会进入\n"
+"SNAKE同步模式。\n"
+
+#: codec/1/168/0xa84e0/3
+msgid ""
+"The synergy will give you a boost in performance.\n"
+msgstr ""
+"协同效应会提升你的表现。\n"
+
+#: codec/1/168/0xa84e0/4
+msgid ""
+"You'll move faster, recover faster, and have better\n"
+"camouflage.\n"
+msgstr ""
+"移动更快，恢复更快，伪装\n"
+"也更好。\n"
+
+#: codec/1/168/0xa84e0/5
+msgid ""
+"In other words, we're at our best when we're in the\n"
+"same groove.\n"
+msgstr ""
+"就是说，步调一致时\n"
+"我们最强。\n"
+
+#: codec/1/168/0xa84e0/6
+msgid ""
+"You got it. If you've got a big task ahead,\n"
+msgstr ""
+"明白了。如果前面有艰巨任务，\n"
+
+#: codec/1/168/0xa84e0/7
+msgid ""
+"it can't hurt to take some time to get in sync.\n"
+msgstr ""
+"花点时间同步没坏处。\n"
+
+#: codec/1/168/0xa84e0/8
+msgid ""
+"Like I said before, the benefits you get from Snake\n"
+"Sync\n"
+msgstr ""
+"就像我之前说的，你从Snake\n"
+"Sync获得的好处\n"
+
+#: codec/1/168/0xa84e0/10
+msgid ""
+"I hear ya.\n"
+msgstr ""
+"我懂。\n"
+
+#: codec/1/168/0xa84e0/11
+msgid ""
+"It's a lot easier knowing you've got someone you\n"
+"know and trust covering your back.\n"
+msgstr ""
+"知道有信得过的人替你掩护，\n"
+"会轻松很多。\n"
+
+#: codec/1/168/0xa84e0/12
+msgid ""
+"It lets you focus that much more on what you have\n"
+"to do.\n"
+msgstr ""
+"它能让你更加专注于你必须\n"
+"要做的事情。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0110_000_0
+#. timeline 445..1407
+#: codec/1/168/0xa8980/0
+msgid ""
+"If camaraderie represents how much your\n"
+"teammates trust you,\n"
+msgstr ""
+"战友情谊代表\n"
+"队友对你的信任，\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0110_000_0
+#. timeline 1421..2298
+#: codec/1/168/0xa8980/1
+msgid ""
+"then heroism shows how high your reputation is.\n"
+msgstr ""
+"那英雄度就代表你的声望有多高。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0110_000_0
+#. timeline 2312..2688
+#: codec/1/168/0xa8980/2
+msgid ""
+"\"Heroism?\"\n"
+msgstr ""
+"“英雄度？”\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0110_000_0
+#. timeline 2702..3246
+#: codec/1/168/0xa8980/3
+msgid ""
+"That's right, heroism.\n"
+msgstr ""
+"没错，英雄度。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0110_000_0
+#. timeline 3274..4583
+#: codec/1/168/0xa8980/4
+msgid ""
+"Your reputation affects your ability to recruit new\n"
+"members to MSF.\n"
+msgstr ""
+"你的声望影响你招募新成员\n"
+"加入MSF的能力。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0110_000_0
+#. timeline 4611..5948
+#: codec/1/168/0xa8980/5
+msgid ""
+"With higher heroism, it won't take as long to\n"
+"convince guys to join our cause\n"
+msgstr ""
+"英雄度越高，说服别人加入\n"
+"就越快\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0110_000_0
+#. timeline 5948..6673
+#: codec/1/168/0xa8980/6
+msgid ""
+"and send 'em back by Fulton recovery.\n"
+msgstr ""
+"再用富尔顿回收送回来。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0110_000_0
+#. timeline 6854..7857
+#: codec/1/168/0xa8980/7
+msgid ""
+"So how do I get this \"heroism\" thing to go up?\n"
+msgstr ""
+"那怎么提升这个“英雄度”？\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0110_000_0
+#. timeline 7871..9292
+#: codec/1/168/0xa8980/8
+msgid ""
+"Lots of ways. Complete tough missions. Avoid\n"
+"unnecessary bloodshed...\n"
+msgstr ""
+"方法很多。完成高难任务。避免\n"
+"无谓杀戮……\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0110_000_0
+#. timeline 9292..10685
+#: codec/1/168/0xa8980/9
+msgid ""
+"And don't get caught by the enemy like a deer in\n"
+"headlights, or you'll never be heroic.\n"
+msgstr ""
+"别像被车灯照到的鹿一样被敌人抓住，\n"
+"否则永远当不了英雄。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0110_000_0
+#. timeline 10699..11647
+#: codec/1/168/0xa8980/10
+msgid ""
+"Also, getting out there and attacking the enemy in\n"
+"CO-OPS\n"
+msgstr ""
+"还有，主动出击，在\n"
+"合作模式中打敌人\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0110_000_0
+#. timeline 11647..12455
+#: codec/1/168/0xa8980/11
+msgid ""
+"will boost your reputation among your teammates.\n"
+msgstr ""
+"能提升你在队友中的声望。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0110_000_0
+#. timeline 12483..13444
+#: codec/1/168/0xa8980/12
+msgid ""
+"Of course, it'll get the enemy gunning right for you,\n"
+"too.\n"
+msgstr ""
+"当然，这也会让敌人把枪口\n"
+"对准你。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0110_000_0
+#. timeline 13500..14140
+#: codec/1/168/0xa8980/13
+msgid ""
+"But don't sweat it. Be yourself.\n"
+msgstr ""
+"别紧张。做你自己。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0110_000_0
+#. timeline 14154..15520
+#: codec/1/168/0xa8980/14
+msgid ""
+"Be the Boss. From where I'm standing, you're\n"
+"plenty heroic already.\n"
+msgstr ""
+"做BOSS。在我看来，你已经\n"
+"够英雄了。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0110_000_0
+#. timeline 15520..15938
+#: codec/1/168/0xa8980/15
+msgid ""
+"Knock it off.\n"
+msgstr ""
+"少来。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0120_000_1
+#. timeline 445..1685
+#: codec/1/168/0xa8f00/0
+msgid ""
+"Seems the R&D team's been busy working on CO-OPS\n"
+"only weapons.\n"
+msgstr ""
+"研发组似乎一直在忙着做\n"
+"联机专用的武器。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0120_000_1
+#. timeline 1699..2131
+#: codec/1/168/0xa8f00/1
+msgid ""
+"CO-OPS only?\n"
+msgstr ""
+"联机专用？\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0120_000_1
+#. timeline 2145..2883
+#: codec/1/168/0xa8f00/2
+msgid ""
+"Like a gun with extreme firepower...\n"
+msgstr ""
+"比如火力极其凶猛的枪……\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0120_000_1
+#. timeline 2897..4304
+#: codec/1/168/0xa8f00/3
+msgid ""
+"But only when two people fire it at once. I hear it's\n"
+"still in the concept stage.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0120_000_1
+#. timeline 4374..5224
+#: codec/1/168/0xa8f00/4
+msgid ""
+"I know some rocket launchers need two people to\n"
+"operate,\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0120_000_1
+#. timeline 5224..6004
+#: codec/1/168/0xa8f00/5
+msgid ""
+"but a CO-OPS only weapon...\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0120_000_1
+#. timeline 6018..6534
+#: codec/1/168/0xa8f00/6
+msgid ""
+"Hey, if they come up with something good,\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0120_000_1
+#. timeline 6534..7258
+#: codec/1/168/0xa8f00/7
+msgid ""
+"you'll have that much more reason to go CO-OPS.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0120_000_1
+#. timeline 7314..8219
+#: codec/1/168/0xa8f00/8
+msgid ""
+"Why don't you check in and see how they're doing\n"
+"every once in a while?\n"
+msgstr ""
+
+#: codec/1/169/0xa9240/0
+msgid ""
+"In CO-OPS, maintaining close communications with\n"
+"your teammates is crucial.\n"
+msgstr ""
+"合作任务中，与队友保持紧密通讯\n"
+"至关重要。\n"
+
+#: codec/1/169/0xa9240/1
+msgid ""
+"Absolutely. Losing track of each other on the\n"
+"battlefield is a good way\n"
+msgstr ""
+"没错。在战场上失去彼此的踪迹\n"
+"是个好办法\n"
+
+#: codec/1/169/0xa9240/2
+msgid ""
+"for a unit to get itself wiped out.\n"
+msgstr ""
+"整支部队就会被全灭。\n"
+
+#: codec/1/169/0xa9240/3
+msgid ""
+"Enemy positions. Orders. Distress calls.\n"
+msgstr ""
+"敌情。命令。求救。\n"
+
+#: codec/1/169/0xa9240/4
+msgid ""
+"When communications break down, you get picked\n"
+"off one by one.\n"
+msgstr ""
+"当通讯中断时，你会被\n"
+"逐个击破。\n"
+
+#: codec/1/169/0xa9240/5
+msgid ""
+"Now, about CO-OPS Comms.\n"
+msgstr ""
+"说说合作通讯。\n"
+
+#: codec/1/169/0xa9240/6
+msgid ""
+"CO-OPS Comms…\n"
+msgstr ""
+"合作通讯…\n"
+
+#: codec/1/169/0xa9240/7
+msgid ""
+"It's a radio system for communicating with CO-OPS\n"
+"teammates.\n"
+msgstr ""
+"这是与合作模式\n"
+"队友通讯的无线电。\n"
+
+#: codec/1/169/0xa9240/8
+msgid ""
+"First open the menu, then select \"CO-OPS Comms.\"\n"
+msgstr ""
+"先打开菜单，选择“合作通讯”。\n"
+
+#: codec/1/169/0xa9240/9
+msgid ""
+"After that, press one button to choose a category,\n"
+msgstr ""
+"然后按一个键选类别，\n"
+
+#: codec/1/169/0xa9240/10
+msgid ""
+"then another button to select the actual message.\n"
+msgstr ""
+"再按另一个键选具体讯息。\n"
+
+#: codec/1/169/0xa9240/11
+msgid ""
+"So basically you use different combinations of two\n"
+"buttons\n"
+msgstr ""
+"所以基本上，你使用两个按键的\n"
+"不同组合\n"
+
+#: codec/1/169/0xa9240/12
+msgid ""
+"to send different messages.\n"
+msgstr ""
+"发送不同讯息。\n"
+
+#: codec/1/169/0xa9240/13
+msgid ""
+"Easy enough.\n"
+msgstr ""
+"简单。\n"
+
+#: codec/1/169/0xa9240/14
+msgid ""
+"You can set which messages go with which\n"
+"buttons during mission prep.\n"
+msgstr ""
+"任务准备时可设定各按键对应的\n"
+"讯息。\n"
+
+#: codec/1/169/0xa9240/15
+msgid ""
+"Sounds like it's going to be a pain to send\n"
+"messages until I get used to it.\n"
+msgstr ""
+"感觉在习惯之前发送讯息\n"
+"会很麻烦。\n"
+
+#: codec/1/169/0xa9240/16
+msgid ""
+"Then why don't you assign CO-OPS Comms to\n"
+"whatever button you like?\n"
+msgstr ""
+"那不如把合作任务通讯设到\n"
+"你喜欢的按键上？\n"
+
+#: codec/1/169/0xa9240/17
+msgid ""
+"That should make things a little quicker and easier.\n"
+msgstr ""
+"这样应该会更快更轻松。\n"
+
+#: codec/1/169/0xa9240/18
+msgid ""
+"Just go to \"Key Config\".\n"
+msgstr ""
+"进\"按键配置\"。\n"
+
+#: codec/1/169/0xa9240/19
+msgid ""
+"I'll give it a try.\n"
+msgstr ""
+"我试试看。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0130_010_1
+#. timeline 473..1588
+#: codec/1/169/0xa98c0/0
+msgid ""
+"Snake, you familiar with the Japanese word\n"
+"\"kotodama\"?\n"
+msgstr ""
+"SNAKE，你听过日本的\n"
+"\"言灵\"这个词吗？\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0130_010_1
+#. timeline 1880..2368
+#: codec/1/169/0xa98c0/1
+msgid ""
+"Kotodama...?\n"
+msgstr ""
+"言灵？\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0130_010_1
+#. timeline 2382..3329
+#: codec/1/169/0xa98c0/2
+msgid ""
+"Unfortunately, there's no direct equivalent in\n"
+"English...\n"
+msgstr ""
+"很遗憾，英文里没有直接对应的\n"
+"说法……\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0130_010_1
+#. timeline 3329..4458
+#: codec/1/169/0xa98c0/3
+msgid ""
+"But to keep it simple, let's call it a sort of \"Battle\n"
+"Cry.\"\n"
+msgstr ""
+"但简单来说，我们就叫它一种“战\n"
+"吼”吧。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0130_010_1
+#. timeline 4527..5029
+#: codec/1/169/0xa98c0/4
+msgid ""
+"\"Battle Cry,\" huh?\n"
+msgstr ""
+"\"战吼\"啊。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0130_010_1
+#. timeline 5071..6436
+#: codec/1/169/0xa98c0/5
+msgid ""
+"Right. But, Kotodama is actually a deep Japanese\n"
+"concept.\n"
+msgstr ""
+"没错。但言灵其实是日本很深的\n"
+"概念。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0130_010_1
+#. timeline 6561..7565
+#: codec/1/169/0xa98c0/6
+msgid ""
+"\"Koto\" means word, and \"dama\" means spirit.\n"
+msgstr ""
+"\"言\"是词语，\"灵\"是灵魂。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0130_010_1
+#. timeline 7578..8791
+#: codec/1/169/0xa98c0/7
+msgid ""
+"It signifies that words have power that affect our\n"
+"reality...\n"
+msgstr ""
+"它意味着言语拥有影响我们\n"
+"现实的力量……\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0130_010_1
+#. timeline 9306..10128
+#: codec/1/169/0xa98c0/8
+msgid ""
+"Ah... You feeling OK?\n"
+msgstr ""
+"呃……你没事吧？\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0130_010_1
+#. timeline 10128..11103
+#: codec/1/169/0xa98c0/9
+msgid ""
+"Guess I made it sound kind of like mumbo-jumbo,\n"
+"huh.\n"
+msgstr ""
+"看来我说得有点像迷信了，\n"
+"是吧。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0130_010_1
+#. timeline 11229..12580
+#: codec/1/169/0xa98c0/10
+msgid ""
+"Seriously, though, haven't you ever felt energized\n"
+"when a teammate cheered you on?\n"
+msgstr ""
+"不过说真的，队友为你加油时\n"
+"你没觉得浑身是劲吗？\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0130_010_1
+#. timeline 12580..14168
+#: codec/1/169/0xa98c0/11
+msgid ""
+"Or - the other way around - ever had your legs cut\n"
+"out from under you by a thoughtless remark?\n"
+msgstr ""
+"反过来，一句无心之言\n"
+"也可能让你泄气。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0130_010_1
+#. timeline 14349..15645
+#: codec/1/169/0xa98c0/12
+msgid ""
+"I know the feeling. Words can have a powerful\n"
+"mental effect on people.\n"
+msgstr ""
+"我懂。话语能对人的心理\n"
+"产生巨大影响。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0130_010_1
+#. timeline 15659..16272
+#: codec/1/169/0xa98c0/13
+msgid ""
+"Same goes for CO-OPS Comms.\n"
+msgstr ""
+"合作通讯也一样。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0130_010_1
+#. timeline 16300..17359
+#: codec/1/169/0xa98c0/14
+msgid ""
+"Offering praise to somebody could make them run\n"
+"faster than usual.\n"
+msgstr ""
+"对某人给予赞扬可能会让他们跑得\n"
+"比平时更快。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0130_010_1
+#. timeline 17373..18822
+#: codec/1/169/0xa98c0/15
+msgid ""
+"Or make somebody who thinks they're done for get\n"
+"up and fight again... See what I'm saying?\n"
+msgstr ""
+"也能让以为没救的人重新站起来战斗……\n"
+"明白吗？\n"
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0130_010_1
+#. timeline 18822..19825
+#: codec/1/169/0xa98c0/16
+msgid ""
+"I get the picture. So it works in reverse, too.\n"
+msgstr ""
+"我懂了。所以反过来也成立。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0130_010_1
+#. timeline 19853..21329
+#: codec/1/169/0xa98c0/17
+msgid ""
+"The powers of words are many and varied. Try\n"
+"using them for yourself.\n"
+msgstr ""
+"话语的力量多种多样。你自己\n"
+"也试试看吧。\n"
+
+#: codec/1/169/0xa9f40/0
+msgid ""
+"Snake, about cardboard boxes...\n"
+msgstr ""
+"Snake，关于纸箱……\n"
+
+#: codec/1/169/0xa9f40/1
+msgid ""
+"Ahh!\n"
+msgstr ""
+"啊！\n"
+
+#: codec/1/169/0xa9f40/2
+msgid ""
+"It feels kind of weird, me explaining this stuff to\n"
+"you,\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/3
+msgid ""
+"but there've been a few recent developments in\n"
+"cardboard box technology.\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/4
+msgid ""
+"So, just to be safe here goes...\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/5
+msgid ""
+"Go on...\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/6
+msgid ""
+"You can do much more with a box than just hide\n"
+"under it.\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/7
+msgid ""
+"You can put it someplace and leave it there.\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/8
+msgid ""
+"Huh!\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/9
+msgid ""
+"You can get on top of it and use it to reach high\n"
+"places,\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/10
+msgid ""
+"or hide from the enemy in its shadow.\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/11
+msgid ""
+"I like what I'm hearing so far.\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/12
+msgid ""
+"And that's not all.\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/13
+msgid ""
+"You can even put items in it and send them to\n"
+"CO-OPS teammates.\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/14
+msgid ""
+"Really? I never thought of any of that.\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/15
+msgid ""
+"Damn, is there anything a cardboard box can't do?\n"
+"Every soldier should have one.\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/16
+msgid ""
+"Yeah, well... Don't get too excited. This isn't exactly\n"
+"what they were made for.\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/17
+msgid ""
+"Which reminds me.\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/18
+msgid ""
+"Don't you think the boxes around here are a little\n"
+"on the big side?\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/19
+msgid ""
+"You're right. I bet two people could fit under one\n"
+"box...\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/20
+msgid ""
+"if they packed in tight enough. They call 'em \"love\n"
+"boxes.\"\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/21
+msgid ""
+"Love boxes...\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/22
+msgid ""
+"Of course, you don't need a love box to fit two\n"
+"people inside.\n"
+msgstr ""
+
+#: codec/1/169/0xa9f40/23
+msgid ""
+"Any box of similar size will do.\n"
+msgstr ""
+
+#: codec/1/170/0xaa690/0
+msgid ""
+"Up to two people can fit inside a cardboard box.\n"
+msgstr ""
+"纸箱里最多能装两个人。\n"
+
+#: codec/1/170/0xaa690/1
+msgid ""
+"Tell me how!\n"
+msgstr ""
+"怎么弄！\n"
+
+#: codec/1/170/0xaa690/2
+msgid ""
+"Move close to a box with a teammate inside and\n"
+"an Icon will appear.\n"
+msgstr ""
+"靠近有队友的纸箱时，\n"
+"会出现图标。\n"
+
+#: codec/1/170/0xaa690/3
+msgid ""
+"Then press <I=ACT>.\n"
+msgstr ""
+"再按<I=ACT>。\n"
+
+#: codec/1/170/0xaa690/4
+msgid ""
+"You'll stay inside as long as <I=ACT> is pressed.\n"
+msgstr ""
+"按住<I=ACT>就能一直待在里面。\n"
+
+#: codec/1/170/0xaa690/5
+msgid ""
+"So... Same as Snake Formation, huh.\n"
+msgstr ""
+"跟SNAKE阵型一样啊。\n"
+
+#: codec/1/170/0xaa690/6
+msgid ""
+"Exactly the same. In fact, when you put on a\n"
+"cardboard box when Snake In,\n"
+msgstr ""
+"完全一样。实际上，当Snake In穿上\n"
+"纸箱时，\n"
+
+#: codec/1/170/0xaa690/7
+msgid ""
+"both of you can climb inside.\n"
+msgstr ""
+"两人都能钻进去。\n"
+
+#: codec/1/170/0xaa690/8
+msgid ""
+"A box big enough to hold me and my buddy...\n"
+msgstr ""
+"能装下我和队友的大纸箱……\n"
+
+#: codec/1/170/0xaa690/9
+msgid ""
+"These are fine times we live in, eh, Kaz?\n"
+msgstr ""
+"真是个好时代啊，卡兹？\n"
+
+#: codec/1/170/0xaa690/10
+msgid ""
+"Yyyyeah, sure, Boss...\n"
+msgstr ""
+"是……是啊，BOSS……\n"
+
+#: codec/1/170/0xaaa10/0
+msgid ""
+"Snake, the R&D team came up with something new...\n"
+msgstr ""
+"SNAKE，研发组搞出了新东西……\n"
 
 #: codec/1/170/0xaaa10/1
 msgid ""
@@ -475,12 +1889,16 @@ msgstr ""
 "小心，别弄出太大动静。\n"
 "明白吗？\n"
 
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
+#. timeline 445..975
 #: codec/1/171/0xabf10/0
 msgid ""
 "To get to your next objective,\n"
 msgstr ""
 "要前往下一个目标，\n"
 
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
+#. timeline 1003..1992
 #: codec/1/171/0xabf10/1
 msgid ""
 "you'll need to backtrack along the way you came\n"
@@ -488,6 +1906,118 @@ msgid ""
 msgstr ""
 "你得沿原路\n"
 "往回走一段。\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
+#. timeline 2048..2967
+#: codec/1/171/0xabf10/2
+msgid ""
+"Don't get too comfortable just because you know\n"
+"the terrain.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
+#. timeline 2995..4318
+#: codec/1/171/0xabf10/3
+msgid ""
+"The enemy knows you're out there now. They'll be\n"
+"out in greater force than before.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
+#. timeline 4416..4876
+#: codec/1/171/0xabf10/4
+msgid ""
+"Proceed with caution.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
+#. timeline 4904..6074
+#: codec/1/171/0xabf10/5
+msgid ""
+"Refrain from using firearms unless absolutely\n"
+"necessary.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0180_000_0
+#. timeline 6436..7063
+#: codec/1/171/0xabf10/6
+msgid ""
+"Looks like I'll have to cross the river.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
+#. timeline 7077..7969
+#: codec/1/171/0xabf10/7
+msgid ""
+"Yeah, there's a suspension bridge you can use.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
+#. timeline 7996..9404
+#: codec/1/171/0xabf10/8
+msgid ""
+"It's the only way across. You'll have to be a little\n"
+"creative to keep from being spotted.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0180_000_0
+#. timeline 9418..10295
+#: codec/1/171/0xabf10/9
+msgid ""
+"So I cross the bridge, go through the swamp....\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0180_000_0
+#. timeline 10295..10894
+#: codec/1/171/0xabf10/10
+msgid ""
+"and come to a banana plantation.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
+#. timeline 10908..11647
+#: codec/1/171/0xabf10/11
+msgid ""
+"Complete with its own factory, by the looks of it.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
+#. timeline 11674..12859
+#: codec/1/171/0xabf10/12
+msgid ""
+"It's going to feel a lot different moving through\n"
+"that area compared to the forest.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
+#. timeline 12873..13263
+#: codec/1/171/0xabf10/13
+msgid ""
+"Stay on your toes.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
+#. timeline 13583..14726
+#: codec/1/171/0xabf10/15
+msgid ""
+"Also, you may encounter Sandinista prisoners along\n"
+"the way.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0180_000_0
+#. timeline 14795..15743
+#: codec/1/171/0xabf10/16
+msgid ""
+"Try and save as many as you can with Fulton\n"
+"recovery.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0180_000_0
+#. timeline 15743..16230
+#: codec/1/171/0xabf10/17
+msgid ""
+"I'll keep an eye out.\n"
+msgstr ""
 
 #. speaker 0x0e463a34 voice v_bri_mis_kaz0020_000_0
 #. timeline 445..1852
@@ -667,10 +2197,14 @@ msgstr ""
 #. timeline 6492..6729
 #. speaker 0x0ebd8542 voice v_bri_dsl0030_000_1
 #. timeline 1434..1685
+#. speaker 0x0e28dce6 voice v_bri_ccl0180_000_0
+#. timeline 9306..9599
 #. speaker 0x0e28dce6 voice v_bri_huy0110_000_0
 #. timeline 3691..4012
 #: codec/1/172/0xaca30/6
 #: codec/1/220/0xdc990/1
+#: codec/1/225/0xe1ff0/12
+#: codec/1/238/0xeee70/11
 #: codec/1/249/0xf9500/2
 #: codec/2/915/0x393270/15
 msgid ""
@@ -747,6 +2281,17 @@ msgid ""
 msgstr ""
 "之后钻进舱里，\n"
 "就能取走已解锁的记忆板。\n"
+
+#: codec/1/172/0xaced0/3
+msgid ""
+"Only thing is, any parts you destroy can't be\n"
+"collected and reused,\n"
+msgstr ""
+
+#: codec/1/172/0xaced0/4
+msgid ""
+"so you'll have to decide which is more important.\n"
+msgstr ""
 
 #: codec/1/173/0xad140/0
 msgid ""
@@ -1281,6 +2826,8 @@ msgid ""
 msgstr ""
 "记住了？\n"
 
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0340_000_0
+#. timeline 445..1671
 #: codec/1/174/0xaee20/0
 msgid ""
 "In this mission, you're prohibited from killing any\n"
@@ -1289,18 +2836,24 @@ msgstr ""
 "这次任务禁止杀伤\n"
 "任何敌方战斗人员。\n"
 
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0340_000_0
+#. timeline 1671..2465
 #: codec/1/174/0xaee20/1
 msgid ""
 "And if you're spotted even once, you fail.\n"
 msgstr ""
 "而且只要被发现一次就算失败。\n"
 
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0340_000_0
+#. timeline 2507..3371
 #: codec/1/174/0xaee20/2
 msgid ""
 "Bottom line: proceed with caution.\n"
 msgstr ""
 "总之：谨慎行事。\n"
 
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0340_000_0
+#. timeline 3469..4527
 #: codec/1/174/0xaee20/3
 msgid ""
 "Stay low to the ground. If there are any enemies\n"
@@ -1309,12 +2862,16 @@ msgstr ""
 "压低身子。\n"
 "附近有敌人的话，\n"
 
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0340_000_0
+#. timeline 4541..5168
 #: codec/1/174/0xaee20/4
 msgid ""
 "walk slowly and don't make a sound…\n"
 msgstr ""
 "慢慢走，别弄出声音…\n"
 
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0340_000_0
+#. timeline 5335..6185
 #: codec/1/174/0xaee20/5
 msgid ""
 "Another good technique is to hide behind\n"
@@ -1323,12 +2880,16 @@ msgstr ""
 "还有个好办法是\n"
 "躲在什么东西后面，\n"
 
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0340_000_0
+#. timeline 6199..7035
 #: codec/1/174/0xaee20/6
 msgid ""
 "and do <I=ESEARCH> to check out your enemies.\n"
 msgstr ""
 "再用 <I=ESEARCH> 查看敌人。\n"
 
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0340_000_0
+#. timeline 7133..7787
 #: codec/1/174/0xaee20/7
 msgid ""
 "And then there's always the classic trick of\n"
@@ -1336,6 +2897,28 @@ msgid ""
 msgstr ""
 "另外还有\n"
 "经典的一招：扔出\n"
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0340_000_0
+#. timeline 7787..8707
+#: codec/1/174/0xaee20/8
+msgid ""
+"an empty ammo magazine to distract the enemy.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0340_000_0
+#. timeline 8805..9431
+#: codec/1/174/0xaee20/9
+msgid ""
+"Use your ears as well as your eyes.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0340_000_0
+#. timeline 9501..10908
+#: codec/1/174/0xaee20/10
+msgid ""
+"The Surround Indicator is a handy way to \"see\"\n"
+"sounds as visual data.\n"
+msgstr ""
 
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0350_000_0
 #. timeline 459..1546
@@ -1554,1675 +3137,3 @@ msgid ""
 msgstr ""
 "建议在合作任务里\n"
 "两人一组来打。\n"
-
-#: codec/1/175/0xafb40/0
-msgid ""
-"Alternatively, you could try planting Claymores\n"
-"along the routes they walk.\n"
-msgstr ""
-"或者，可以在他们的巡逻路线上\n"
-"埋阔剑地雷。\n"
-
-#: codec/1/175/0xafb40/1
-msgid ""
-"We need you to stop that nuke, Boss.\n"
-msgstr ""
-"BOSS，得阻止那枚核弹。\n"
-
-#: codec/1/175/0xafb40/2
-msgid ""
-"We'll keep you safe, no matter what it takes!\n"
-msgstr ""
-"我们拼了命也会保护你！\n"
-
-#: codec/1/175/0xafca0/0
-msgid ""
-"It's going to take more than small arms fire to take\n"
-"down a truck.\n"
-msgstr ""
-"光靠轻武器打不掉\n"
-"卡车。\n"
-
-#: codec/1/175/0xafca0/1
-msgid ""
-"Some kind of rocket's your best bet.\n"
-msgstr ""
-"最好用火箭筒。\n"
-
-#: codec/1/175/0xafca0/2
-msgid ""
-"Another tactic to try would be setting off an\n"
-"explosion from afar.\n"
-msgstr ""
-"也可以试试从远处\n"
-"引爆。\n"
-
-#: codec/1/175/0xafca0/3
-msgid ""
-"You could also call in a support strike,\n"
-msgstr ""
-"还可以呼叫支援打击，\n"
-
-#: codec/1/175/0xafca0/4
-msgid ""
-"if you can manage to tag them with a marker...\n"
-msgstr ""
-"只要能先用标记器标上他们……\n"
-
-#: codec/1/175/0xafea0/0
-msgid ""
-"It'll take more than one missile to sink Mother\n"
-"Base, but if we do get hit,\n"
-msgstr ""
-"一发导弹还不足以让母基地沉没，\n"
-"可一旦真被击中，\n"
-
-#: codec/1/175/0xafea0/1
-msgid ""
-"we'll obviously need time, manpower, and materials\n"
-"to repair the damage.\n"
-msgstr ""
-"修复损伤显然需要\n"
-"时间、人力和物资。\n"
-
-#: codec/1/175/0xafea0/2
-msgid ""
-"Do everything you can to keep Mother Base safe.\n"
-msgstr ""
-"竭尽全力保住母基地。\n"
-
-#: codec/1/175/0xafea0/3
-msgid ""
-"And, ah, at the risk of stating the obvious: if a\n"
-"missile hits you,\n"
-msgstr ""
-"还有，虽然是废话：\n"
-"要是导弹命中你，\n"
-
-#: codec/1/176/0xb00d0/0
-msgid ""
-"You'll be using C4 for demolition.\n"
-msgstr ""
-"爆破要用C4。\n"
-
-#: codec/1/176/0xb00d0/1
-msgid ""
-"As you might imagine, it's gonna make a big noise\n"
-"when it detonates.\n"
-msgstr ""
-"可以想象，引爆的时候\n"
-"会发出巨大的声响。\n"
-
-#: codec/1/176/0xb00d0/2
-msgid ""
-"For your own safety, make sure you put plenty of\n"
-"distance\n"
-msgstr ""
-"为了自身安全，务必\n"
-"保持足够距离。\n"
-
-#: codec/1/176/0xb00d0/3
-msgid ""
-"between yourself and the C4 before detonating it.\n"
-msgstr ""
-"离C4远一点。\n"
-
-#: codec/1/176/0xb0290/0
-msgid ""
-"Boss, we're not sure where your gear is being\n"
-"stored.\n"
-msgstr ""
-"老大，我们不知你的装备\n"
-"存哪。\n"
-
-#: codec/1/176/0xb0350/0
-msgid ""
-"Amanda and her crew tell me they've managed to\n"
-"identify several different categories\n"
-msgstr ""
-"阿曼达的人告诉我，他们已成功\n"
-"识别出几个不同类别。\n"
-
-#: codec/1/176/0xb0350/1
-msgid ""
-"of mercenaries employed by the CIA.\n"
-msgstr ""
-"几类雇佣兵。\n"
-
-#: codec/1/176/0xb0350/2
-msgid ""
-"Give me a rundown. Sounds like info I could use.\n"
-msgstr ""
-"说说看。听起来有用。\n"
-
-#: codec/1/176/0xb0350/3
-msgid ""
-"No problem. I'll go through them in order.\n"
-msgstr ""
-"没问题，我按顺序讲。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0520_000_0
-#. timeline 445..1058
-#: codec/1/176/0xb0510/0
-msgid ""
-"The type of enemy you'll be seeing most\n"
-msgstr ""
-"最常见的敌人类型，\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0520_000_0
-#. timeline 1058..2368
-#: codec/1/176/0xb0510/1
-msgid ""
-"is the type that patrols and guards a specific\n"
-"operational area.\n"
-msgstr ""
-"是负责巡逻和守卫特定\n"
-"作战区域的类型。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0520_000_0
-#. timeline 2396..3775
-#: codec/1/176/0xb0510/2
-msgid ""
-"For the sake of convenience, Amanda's crew calls\n"
-"the outdoor ones \"patrolmen,\"\n"
-msgstr ""
-"为方便起见，阿曼达的人把\n"
-"室外的称为“巡逻兵”，\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0520_000_0
-#. timeline 3775..4374
-#: codec/1/176/0xb0510/3
-msgid ""
-"and the indoor ones \"guards.\"\n"
-msgstr ""
-"室内的叫“守卫”。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0520_000_0
-#. timeline 4388..5043
-#: codec/1/176/0xb0510/4
-msgid ""
-"They might look like they're just out for a stroll,\n"
-msgstr ""
-"他们看似只是在闲逛，\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0520_000_0
-#. timeline 5043..5907
-#: codec/1/176/0xb0510/5
-msgid ""
-"but don't be fooled - they're sharper than they\n"
-"look.\n"
-msgstr ""
-"但别被骗了，他们比看起来\n"
-"敏锐得多。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0520_000_0
-#. timeline 5948..6757
-#: codec/1/176/0xb0510/6
-msgid ""
-"All of their senses are finely honed.\n"
-msgstr ""
-"五感都极为灵敏。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0520_000_0
-#. timeline 6812..7592
-#: codec/1/176/0xb0510/7
-msgid ""
-"Normally they'll patrol along fixed routes,\n"
-msgstr ""
-"通常沿固定路线巡逻，\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0520_000_0
-#. timeline 7592..8818
-#: codec/1/176/0xb0510/8
-msgid ""
-"but when the alert level is raised they'll assume a\n"
-"more efficient alert posture\n"
-msgstr ""
-"但当警戒等级提升时，他们会采取\n"
-"更高效的警戒姿态，\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0520_000_0
-#. timeline 8818..10156
-#: codec/1/176/0xb0510/9
-msgid ""
-"and focus on defending specific points. That's bad\n"
-"for you.\n"
-msgstr ""
-"并专注于防守特定点位。这对你\n"
-"很不利。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0520_000_0
-#. timeline 10253..10978
-#: codec/1/176/0xb0510/10
-msgid ""
-"Obviously they can hold their own in combat,\n"
-msgstr ""
-"他们战斗力自然不弱，\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0520_000_0
-#. timeline 10978..12051
-#: codec/1/176/0xb0510/11
-msgid ""
-"and with body armor it'll be even harder to take\n"
-"them down.\n"
-msgstr ""
-"而且有了防弹衣，就更难\n"
-"干掉他们了。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0520_000_0
-#. timeline 12106..12692
-#: codec/1/176/0xb0510/12
-msgid ""
-"If they're wearing a bulletproof helmet,\n"
-msgstr ""
-"要是戴着防弹头盔，\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0520_000_0
-#. timeline 12705..13876
-#: codec/1/176/0xb0510/13
-msgid ""
-"you can forget about one-shot kills. Just a heads\n"
-"up.\n"
-msgstr ""
-"别想一枪毙命了。就\n"
-"提醒你下。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0520_000_0
-#. timeline 13945..15116
-#: codec/1/176/0xb0510/14
-msgid ""
-"You'll need to be smart about using camo and pick\n"
-"your routes.\n"
-msgstr ""
-"你必须善用迷彩，并谨慎选择\n"
-"行进路线。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0520_000_0
-#. timeline 15144..16063
-#: codec/1/176/0xb0510/15
-msgid ""
-"The most important thing is to avoid detection.\n"
-msgstr ""
-"最重要的是别被发现。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0530_000_0
-#. timeline 445..1852
-#: codec/1/176/0xb0af0/0
-msgid ""
-"When the enemy spots you and goes on alert, they\n"
-"may call in a backup strike team.\n"
-msgstr ""
-"敌人发现你并警戒时，他们\n"
-"可能呼叫后备突击队。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0530_000_0
-#. timeline 1866..3120
-#: codec/1/176/0xb0af0/1
-msgid ""
-"These assault teams are heavily armed, well\n"
-"trained, and highly dangerous.\n"
-msgstr ""
-"这些突击队装备精良、训练有素，\n"
-"而且极其危险。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0530_000_0
-#. timeline 3134..3873
-#: codec/1/176/0xb0af0/2
-msgid ""
-"Amanda's crew calls them \"commandos.\"\n"
-msgstr ""
-"阿曼达的人管他们叫“突击兵”。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0530_000_0
-#. timeline 3900..5670
-#: codec/1/176/0xb0af0/3
-msgid ""
-"Unlike the patrolmen, these guys will actively,\n"
-"relentlessly track and hunt you down - like hounds.\n"
-msgstr ""
-"与巡逻兵不同，这些家伙会主动、\n"
-"无情地追踪猎杀你，像猎犬一样。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_kaz0530_000_0
-#. timeline 6032..7216
-#: codec/1/176/0xb0af0/4
-msgid ""
-"Hounds to hunt a former FOXHOUND... Bring it on.\n"
-msgstr ""
-"猎犬来猎前FOXHOUND……放马过来。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0530_000_0
-#. timeline 7244..8080
-#: codec/1/176/0xb0af0/5
-msgid ""
-"They won't give up easily even if they lose sight of\n"
-"you.\n"
-msgstr ""
-"即使跟丢了你，他们也不会\n"
-"轻易放弃。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0530_000_0
-#. timeline 8080..9083
-#: codec/1/176/0xb0af0/6
-msgid ""
-"They'll clear out any likely hiding places they come\n"
-"across.\n"
-msgstr ""
-"他们会搜查沿途遇到的\n"
-"任何可能藏身之处。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0530_000_0
-#. timeline 9097..10267
-#: codec/1/176/0xb0af0/7
-msgid ""
-"So don't get too comfy in one spot or you might\n"
-"get caught again.\n"
-msgstr ""
-"所以别在一处待太舒服，否则可能\n"
-"再次被抓。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0530_000_0
-#. timeline 10281..11173
-#: codec/1/176/0xb0af0/8
-msgid ""
-"Keep your eyes fixed on them and what they're\n"
-"doing.\n"
-msgstr ""
-"时刻盯紧他们以及他们\n"
-"在做什么。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0530_000_0
-#. timeline 11229..12329
-#: codec/1/176/0xb0af0/9
-msgid ""
-"Also, be aware that commando gear includes body\n"
-"armor.\n"
-msgstr ""
-"另外注意，突击队装备包括\n"
-"防弹衣。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0530_000_0
-#. timeline 12329..13305
-#: codec/1/176/0xb0af0/10
-msgid ""
-"So don't think you can deal with them by going in\n"
-"guns blazing.\n"
-msgstr ""
-"所以别以为你可以靠\n"
-"猛冲猛打来对付他们。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_kaz0530_000_0
-#. timeline 13305..14405
-#: codec/1/176/0xb0af0/11
-msgid ""
-"All I've got to do is find an exposed weak point\n"
-"and...\n"
-msgstr ""
-"我只需找到暴露的弱点\n"
-"然后……\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0530_000_0
-#. timeline 14405..14767
-#: codec/1/176/0xb0af0/12
-msgid ""
-"Exactly.\n"
-msgstr ""
-"对。\n"
-
-#: codec/1/177/0xb1000/0
-msgid ""
-"There's one type of commando you really need to\n"
-"watch out for,\n"
-msgstr ""
-"有一种突击队员你特别需要\n"
-"小心，\n"
-
-#: codec/1/177/0xb1000/1
-msgid ""
-"and that's the kind toting shotguns.\n"
-msgstr ""
-"就是拿霰弹枪的那种。\n"
-
-#: codec/1/177/0xb1000/2
-msgid ""
-"They can take a few hits and still keep charging\n"
-"you.\n"
-msgstr ""
-"他们能挨几枪，却仍继续向你\n"
-"冲来。\n"
-
-#: codec/1/177/0xb1000/3
-msgid ""
-"And believe me, you don't want them closing in\n"
-"between those shotgun blasts.\n"
-msgstr ""
-"相信我，你绝不想让他们在霰弹枪射击间隙\n"
-"逼近你。\n"
-
-#: codec/1/177/0xb1000/4
-msgid ""
-"When they start charging, you need to stop them\n"
-"immediately.\n"
-msgstr ""
-"当他们开始冲锋时，你必须立刻\n"
-"阻止他们。\n"
-
-#: codec/1/177/0xb1000/5
-msgid ""
-"Use something with serious stopping power.\n"
-msgstr ""
-"用制止力强的武器。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0550_000_0
-#. timeline 459..1643
-#: codec/1/177/0xb1290/0
-msgid ""
-"We've also confirmed that some of the enemies\n"
-"specialize in ambushes.\n"
-msgstr ""
-"我们还确认，有些敌人\n"
-"专门擅长伏击。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0550_000_0
-#. timeline 1657..2424
-#: codec/1/177/0xb1290/1
-msgid ""
-"Amanda's crew calls them \"scouts.\"\n"
-msgstr ""
-"阿曼达的人管他们叫“侦察兵”。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0550_000_0
-#. timeline 2479..3510
-#: codec/1/177/0xb1290/2
-msgid ""
-"They'll blend themselves in with the terrain and the\n"
-"vegetation.\n"
-msgstr ""
-"他们会把自己与地形和\n"
-"植被融为一体。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0550_000_0
-#. timeline 3538..4263
-#: codec/1/177/0xb1290/3
-msgid ""
-"Then, when they see you, they'll swoop in.\n"
-msgstr ""
-"然后一看到你，就扑上来。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0550_000_0
-#. timeline 4318..4876
-#: codec/1/177/0xb1290/4
-msgid ""
-"They fight pretty much like commandos\n"
-msgstr ""
-"他们打法跟特种兵差不多\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0550_000_0
-#. timeline 4876..5670
-#: codec/1/177/0xb1290/5
-msgid ""
-"and will use clearing techniques to flush you out.\n"
-msgstr ""
-"会用清场战术把你逼出来。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0550_000_0
-#. timeline 5726..7049
-#: codec/1/177/0xb1290/6
-msgid ""
-"In addition to wielding normal weapons, the scouts\n"
-"also carry wires.\n"
-msgstr ""
-"侦察兵除了普通武器，\n"
-"还带着钢丝。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_kaz0550_000_0
-#. timeline 7077..8178
-#: codec/1/177/0xb1290/7
-msgid ""
-"Hm... Sounds like these guys know their CQC.\n"
-msgstr ""
-"嗯……看来这帮人懂CQC。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0550_000_0
-#. timeline 8192..9640
-#: codec/1/177/0xb1290/8
-msgid ""
-"Could be. We've been getting reports of CQC\n"
-"attacks being blocked by wires.\n"
-msgstr ""
-"有可能。我们收到报告说\n"
-"CQC攻击被钢丝挡住了。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0550_000_0
-#. timeline 9668..10031
-#: codec/1/177/0xb1290/9
-msgid ""
-"Stay alert.\n"
-msgstr ""
-"警惕。\n"
-
-#: codec/1/177/0xb1640/0
-msgid ""
-"Scouts are outfitted with camouflage to help them\n"
-"hide.\n"
-msgstr ""
-"侦察兵配有迷彩，\n"
-"方便隐蔽。\n"
-
-#: codec/1/177/0xb1640/1
-msgid ""
-"Some of them look kind of weird, like they've got\n"
-"seaweed growing all over them.\n"
-msgstr ""
-"有些看着挺怪，\n"
-"像长了一身海藻。\n"
-
-#: codec/1/177/0xb1640/2
-msgid ""
-"Ah, ghillie suits.\n"
-msgstr ""
-"啊，吉利服。\n"
-
-#: codec/1/177/0xb1640/3
-msgid ""
-"Not much difference between them and any other\n"
-"scout in terms of combat ability,\n"
-msgstr ""
-"战斗力跟其他侦察兵\n"
-"没多大差别，\n"
-
-#: codec/1/177/0xb1640/4
-msgid ""
-"but it does make them harder to spot.\n"
-msgstr ""
-"但确实更难发现。\n"
-
-#: codec/1/177/0xb1640/5
-msgid ""
-"I'm sure it does.\n"
-msgstr ""
-"那肯定。\n"
-
-#: codec/1/177/0xb1640/6
-msgid ""
-"You've come across these before?\n"
-msgstr ""
-"你以前遇到过？\n"
-
-#: codec/1/177/0xb1640/7
-msgid ""
-"Yeah. The Soviet Union...\n"
-msgstr ""
-"嗯。苏联……\n"
-
-#: codec/1/177/0xb1640/8
-msgid ""
-"The first time, it took me a full hour to find the\n"
-"guy and take him out...\n"
-msgstr ""
-"第一次我花了整整一小时\n"
-"才找到他干掉……\n"
-
-#: codec/1/177/0xb1640/9
-msgid ""
-"Kaz, do you know if they shine?\n"
-msgstr ""
-"卡兹，他们会发光吗？\n"
-
-#: codec/1/177/0xb1640/10
-msgid ""
-"...Shine. Like how?\n"
-msgstr ""
-"……发光。怎么发？\n"
-
-#: codec/1/177/0xb1640/11
-msgid ""
-"Like from their heads.\n"
-msgstr ""
-"从头上。\n"
-
-#: codec/1/177/0xb1640/12
-msgid ""
-"Their heads?\n"
-msgstr ""
-"头上？\n"
-
-#: codec/1/177/0xb1640/13
-msgid ""
-"How about their hair? Do they have a lot of it?\n"
-msgstr ""
-"头发呢？多不多？\n"
-
-#: codec/1/177/0xb1640/14
-msgid ""
-"What are you talking about? How the hell would I\n"
-"know?\n"
-msgstr ""
-"你在说什么？我他妈怎么\n"
-"会知道？\n"
-
-#: codec/1/177/0xb1640/15
-msgid ""
-"How about a parrot? Did anybody hear a parrot\n"
-"squawk?\n"
-msgstr ""
-"鹦鹉怎么样？有人听到鹦鹉\n"
-"叫吗？\n"
-
-#: codec/1/177/0xb1640/16
-msgid ""
-"A parrot? Look, Snake, you're talking to the wrong\n"
-"guy.\n"
-msgstr ""
-"鹦鹉？听着，Snake，你找错\n"
-"人了。\n"
-
-#: codec/1/177/0xb1640/17
-msgid ""
-"I mean, Cecile's the bird expert...\n"
-msgstr ""
-"塞西尔才是鸟类专家……\n"
-
-#: codec/1/177/0xb1640/18
-msgid ""
-"Wait a second, what am I saying? You're not\n"
-"making any sense to begin with!\n"
-msgstr ""
-"等等，我在说什么？\n"
-"你本来就说得没头没脑！\n"
-
-#: codec/1/177/0xb1640/19
-msgid ""
-"Never mind. It's... a long story. I'll figure out another\n"
-"way. Forget about it.\n"
-msgstr ""
-"算了。这事……说来话长。我再想别的\n"
-"办法吧。别管了。\n"
-
-#: codec/1/177/0xb1640/20
-msgid ""
-"Yeah, I'll do that.\n"
-msgstr ""
-"好，就这么办。\n"
-
-#: codec/1/177/0xb1640/21
-msgid ""
-"Anyway, we've already lost too many good people\n"
-"to these surprise encounters.\n"
-msgstr ""
-"总之，这些遭遇战已经让我们损失了太多\n"
-"好手。\n"
-
-#: codec/1/177/0xb1640/22
-msgid ""
-"Make sure you don't end up like one of them.\n"
-msgstr ""
-"别让自己也变成其中之一。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0570_000_0
-#. timeline 445..1128
-#: codec/1/177/0xb1db0/0
-msgid ""
-"There are areas out there where enemy soldiers\n"
-"are\n"
-msgstr ""
-"有些区域里，敌人士兵\n"
-"会\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0570_000_0
-#. timeline 1128..2048
-#: codec/1/177/0xb1db0/1
-msgid ""
-"deployed in multiple layers for extra coverage.\n"
-msgstr ""
-"多层布防，覆盖更严密。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0570_000_0
-#. timeline 2075..2995
-#: codec/1/177/0xb1db0/2
-msgid ""
-"More than a few of those will be attacking you\n"
-"from a distance\n"
-msgstr ""
-"其中不少人会从远处\n"
-"向你发起攻击\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0570_000_0
-#. timeline 60749..11426
-#: codec/1/177/0xb1db0/3
-msgid ""
-"- rooftops and far-off vantage points.\n"
-msgstr ""
-"——屋顶和远处的制高点。\n"
-
-#: codec/1/177/0xb1db0/4
-msgid ""
-"Try not to get too distracted by nearby enemies,\n"
-msgstr ""
-"别被近处的敌人分散太多注意，\n"
-
-#: codec/1/177/0xb1db0/5
-msgid ""
-"because you could be leaving yourself wide open\n"
-"to longer-range attacks.\n"
-msgstr ""
-"因为那样你会完全暴露在\n"
-"更远距离的攻击下。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_paz0050_000_0
-#. timeline 7356..7787
-#. speaker 0x0e28dce6 voice v_bri_mis_amd0140_000_0
-#. timeline 5517..5921
-#: codec/1/177/0xb1db0/6
-#: codec/1/186/0xbab50/8
-#: codec/1/205/0xcd600/5
-msgid ""
-"I'll be careful.\n"
-msgstr ""
-"我会小心。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0580_000_0
-#. timeline 445..1030
-#: codec/1/178/0xb2060/0
-msgid ""
-"Enemy tanks, armored vehicles,\n"
-msgstr ""
-"敌方坦克、装甲车\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0580_000_0
-#. timeline 1030..2173
-#: codec/1/178/0xb2060/1
-msgid ""
-"and attack choppers are always accompanied by a\n"
-"combat squad.\n"
-msgstr ""
-"而攻击直升机身边总跟着一支\n"
-"战斗小队。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0580_000_0
-#. timeline 2229..3051
-#: codec/1/178/0xb2060/2
-msgid ""
-"The soldiers aren't particularly tough on their own.\n"
-msgstr ""
-"那些士兵单打独斗并不算强。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0580_000_0
-#. timeline 3078..4263
-#: codec/1/178/0xb2060/3
-msgid ""
-"What makes them formidable is how well they work\n"
-"together as a team.\n"
-msgstr ""
-"它们难对付，就在于配合得\n"
-"像一支队伍般默契。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0580_000_0
-#. timeline 4291..5126
-#: codec/1/178/0xb2060/4
-msgid ""
-"As if you didn't have enough to worry about with\n"
-"the machine.\n"
-msgstr ""
-"好像光应付那台机器还不够你\n"
-"操心似的。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_kaz0580_000_0
-#. timeline 5140..5795
-#: codec/1/178/0xb2060/5
-msgid ""
-"Good. I like a challenge.\n"
-msgstr ""
-"好。我喜欢挑战。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0580_000_0
-#. timeline 5809..7035
-#: codec/1/178/0xb2060/6
-msgid ""
-"Yeah, well, see how you feel when you actually\n"
-"have to face them in battle.\n"
-msgstr ""
-"是啊，等你真在战斗中\n"
-"面对它们，再看是什么感觉吧。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0580_000_0
-#. timeline 7091..8052
-#: codec/1/178/0xb2060/7
-msgid ""
-"Snake, whatever you do, don't let them surround\n"
-"you.\n"
-msgstr ""
-"Snake，千万别让它们把你\n"
-"包围了。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0580_000_0
-#. timeline 8066..9097
-#: codec/1/178/0xb2060/8
-msgid ""
-"The last thing you need is to get pushed into the\n"
-"vehicle's kill zone.\n"
-msgstr ""
-"你最不想遇到的就是被逼进\n"
-"载具的杀伤区。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0580_000_0
-#. timeline 9153..10086
-#: codec/1/178/0xb2060/9
-msgid ""
-"And pay attention to what your enemies say to\n"
-"each other.\n"
-msgstr ""
-"还要注意听敌人彼此之间\n"
-"在说什么。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0580_000_0
-#. timeline 10114..11201
-#: codec/1/178/0xb2060/10
-msgid ""
-"You can improve your chances by figuring out\n"
-"what they're planning\n"
-msgstr ""
-"弄清他们\n"
-"在谋划什么，能提高你的胜算\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0580_000_0
-#. timeline 11215..11939
-#: codec/1/178/0xb2060/11
-msgid ""
-"and using it to preempt their movements.\n"
-msgstr ""
-"并借此抢先行动。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0580_000_0
-#. timeline 11967..12845
-#: codec/1/178/0xb2060/12
-msgid ""
-"You don't always have to go toe to toe to win a\n"
-"fight.\n"
-msgstr ""
-"要赢一场战斗，并不非得\n"
-"正面硬拼。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0580_000_0
-#. timeline 12873..13500
-#: codec/1/178/0xb2060/13
-msgid ""
-"Think like a guerrilla.\n"
-msgstr ""
-"像游击队员那样思考。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0590_000_0
-#. timeline 459..1476
-#: codec/1/178/0xb25a0/0
-msgid ""
-"Enemies carrying shields can be a real pain in the\n"
-"ass.\n"
-msgstr ""
-"携带盾牌的敌人真是让人头疼得\n"
-"要命。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0590_000_0
-#. timeline 1532..2424
-#: codec/1/178/0xb25a0/1
-msgid ""
-"To hear Amanda tell it, trying to fight those\n"
-"bastards\n"
-msgstr ""
-"听阿曼达说，想跟那些\n"
-"混蛋交手\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0590_000_0
-#. timeline 2424..3371
-#: codec/1/178/0xb25a0/2
-msgid ""
-"while they sit behind their shields taking pistol\n"
-"shots at you\n"
-msgstr ""
-"他们却躲在盾牌后面朝你\n"
-"开枪\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0590_000_0
-#. timeline 3385..4109
-#: codec/1/178/0xb25a0/3
-msgid ""
-"is enough to make you want to rip your hair out.\n"
-msgstr ""
-"能把你气得抓狂。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0590_000_0
-#. timeline 4165..4778
-#: codec/1/178/0xb25a0/4
-msgid ""
-"Get around and flank them if you can.\n"
-msgstr ""
-"能绕就绕到侧面包抄。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0590_000_0
-#. timeline 4820..5976
-#: codec/1/178/0xb25a0/5
-msgid ""
-"You might want to try blinding them with smoke or\n"
-"stun grenades first.\n"
-msgstr ""
-"你可先用烟雾弹或\n"
-"眩晕手雷让他们失明。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0590_000_0
-#. timeline 6046..7509
-#: codec/1/178/0xb25a0/6
-msgid ""
-"Also, armor-piercing rounds should make it a little\n"
-"easier to punch through their shields.\n"
-msgstr ""
-"另外，穿甲弹应该能让你更容易\n"
-"击穿他们的盾牌。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0590_000_0
-#. timeline 7551..8066
-#: codec/1/178/0xb25a0/7
-msgid ""
-"Use 'em if you've got 'em.\n"
-msgstr ""
-"有就用。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0640_000_0
-#. timeline 459..1769
-#: codec/1/178/0xb28e0/0
-msgid ""
-"We know there are variations in the kinds of gear\n"
-"patrolmen and commandos wear,\n"
-msgstr ""
-"我们知道巡逻兵和突击队员穿戴的装备\n"
-"种类存在差异，\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0640_000_0
-#. timeline 1769..2284
-#: codec/1/178/0xb28e0/1
-msgid ""
-"especially the body armor.\n"
-msgstr ""
-"尤其是护甲。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0640_000_0
-#. timeline 2326..3510
-#: codec/1/178/0xb28e0/2
-msgid ""
-"Our scouts report that an enemy's defense and\n"
-"firing accuracy\n"
-msgstr ""
-"侦察兵报告，敌人的防御和\n"
-"射击精准度\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0640_000_0
-#. timeline 3510..4472
-#: codec/1/178/0xb28e0/3
-msgid ""
-"are directly proportional to how heavy their gear is.\n"
-msgstr ""
-"与装备重量成正比。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_kaz0640_000_0
-#. timeline 4750..5628
-#: codec/1/178/0xb28e0/4
-msgid ""
-"Those must be the guys with the highest combat\n"
-"skills.\n"
-msgstr ""
-"那些人肯定就是战斗\n"
-"技能最高的家伙。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_mis_kaz0640_000_0
-#. timeline 5656..6659
-#: codec/1/178/0xb28e0/5
-msgid ""
-"They can fight in heavier gear without their\n"
-"performance suffering.\n"
-msgstr ""
-"他们能穿着更重的装备作战，而\n"
-"表现不会下降。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0640_000_0
-#. timeline 6673..7857
-#: codec/1/178/0xb28e0/6
-msgid ""
-"Supposedly it's pretty easy to tell the difference in\n"
-"gear just by looking.\n"
-msgstr ""
-"据说光靠看就能很容易分辨出\n"
-"装备的差异。\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0640_000_0
-#. timeline 7927..8233
-#: codec/1/178/0xb28e0/7
-msgid ""
-"So remember:\n"
-msgstr ""
-"记住：\n"
-
-#. speaker 0x0e463a34 voice v_bri_mis_kaz0640_000_0
-#. timeline 8233..9334
-#: codec/1/178/0xb28e0/8
-msgid ""
-"use extra caution when dealing with enemies\n"
-"wearing heavy gear.\n"
-msgstr ""
-"对付穿着重型装备的敌人时\n"
-"要格外小心。\n"
-
-#: codec/1/178/0xb2c50/0
-msgid ""
-"Enemies will try to fight you from different\n"
-"distances\n"
-msgstr ""
-"敌人会尝试从不同的\n"
-"距离与你交战\n"
-
-#: codec/1/178/0xb2c50/1
-msgid ""
-"based on the weapon they've got equipped.\n"
-msgstr ""
-"在不同距离与你交战。\n"
-
-#: codec/1/178/0xb2c50/2
-msgid ""
-"When you meet an enemy, get a good look at what\n"
-"they're carrying\n"
-msgstr ""
-"遇到敌人时，仔细看清他们\n"
-"拿着什么\n"
-
-#: codec/1/178/0xb2c50/3
-msgid ""
-"- it can make or break your chances in battle.\n"
-msgstr ""
-"——这能决定战斗成败。\n"
-
-#: codec/1/178/0xb2e10/0
-msgid ""
-"Enemies carrying handguns and shotguns will try\n"
-"and get in close.\n"
-msgstr ""
-"携带手枪和霰弹枪的敌人会试图\n"
-"靠近你。\n"
-
-#: codec/1/178/0xb2e10/1
-msgid ""
-"That makes them dangerous, but at the same time\n"
-"easier to hit.\n"
-msgstr ""
-"这让他们很危险，但同时也\n"
-"更容易被击中。\n"
-
-#: codec/1/178/0xb2e10/2
-msgid ""
-"Keep you wits about you and you can turn a threat\n"
-"into an opportunity.\n"
-msgstr ""
-"保持头脑清醒，你就能把威胁\n"
-"变成机会。\n"
-
-#: codec/1/179/0xb3140/0
-msgid ""
-"Don't expect enemies carrying sniper rifles\n"
-msgstr ""
-"别指望拿狙击枪的敌人\n"
-
-#: codec/1/179/0xb3140/1
-msgid ""
-"or rocket launchers to get up close and personal.\n"
-msgstr ""
-"或者用火箭筒近身招呼。\n"
-
-#: codec/1/179/0xb3140/2
-msgid ""
-"They'll be constantly moving from place to place\n"
-msgstr ""
-"他们会不停转移位置\n"
-
-#: codec/1/179/0xb3140/3
-msgid ""
-"looking for an opening to snipe at you. Tricky\n"
-"bastards.\n"
-msgstr ""
-"找机会狙击你。狡猾的\n"
-"家伙。\n"
-
-#: codec/1/179/0xb3140/4
-msgid ""
-"Eye for an eye, tooth for a tooth, - go with the\n"
-"sniper rifle.\n"
-msgstr ""
-"以眼还眼，以牙还牙，- 用\n"
-"狙击步枪上。\n"
-
-#: codec/1/179/0xb3140/5
-msgid ""
-"Make sure you stay out of their line of sight,\n"
-msgstr ""
-"务必别进入他们视线，\n"
-
-#: codec/1/179/0xb3140/6
-msgid ""
-"and when they expose themselves, take 'em down!\n"
-msgstr ""
-"等他们露头，就干掉！\n"
-
-#: codec/1/179/0xb33f0/0
-#: codec/1/179/0xb3490/0
-#: codec/1/179/0xb3530/0
-#: codec/1/179/0xb35d0/0
-#: codec/1/179/0xb3670/0
-msgid ""
-"(dummy. not used)\n"
-msgstr ""
-"（占位）\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0010_000_0
-#. timeline 473..1226
-#: codec/1/179/0xb3710/0
-msgid ""
-"Costa Rica means \"rich coast\" in Spanish.\n"
-msgstr ""
-"哥斯达黎加在西班牙语里意为\"富饶海岸\"。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_paz0010_000_0
-#. timeline 1267..2089
-#: codec/1/179/0xb3710/1
-msgid ""
-"Is it true that Columbus was the one who came up\n"
-"with the name?\n"
-msgstr ""
-"真是哥伦布起的\n"
-"名字吗？\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0010_000_0
-#. timeline 2173..3092
-#: codec/1/179/0xb3710/2
-msgid ""
-"Your guess is as good as mine. But it is true\n"
-msgstr ""
-"我也说不准。但确实\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0010_000_0
-#. timeline 3092..4388
-#: codec/1/179/0xb3710/3
-msgid ""
-"that Columbus landed his ships near Limón back in\n"
-"the Age of Exploration.\n"
-msgstr ""
-"当年哥伦布在大航海时代\n"
-"把他的船停靠在利蒙附近。\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0010_000_0
-#. timeline 4458..5154
-#: codec/1/179/0xb3710/4
-msgid ""
-"He wrote in his diary that when he landed,\n"
-msgstr ""
-"他在日记里写道，登陆时\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0010_000_0
-#. timeline 5224..6352
-#: codec/1/179/0xb3710/5
-msgid ""
-"the indígena showered him with gifts of gold.\n"
-"Hence the name.\n"
-msgstr ""
-"原住民献给他大量黄金作礼。\n"
-"因此得名。\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0010_000_0
-#. timeline 6394..6938
-#: codec/1/179/0xb3710/6
-msgid ""
-"It sounds a little strange to me.\n"
-msgstr ""
-"我觉得有点奇怪。\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0010_000_0
-#. timeline 7007..7955
-#: codec/1/179/0xb3710/7
-msgid ""
-"There is no way they could find that much gold in\n"
-"Costa Rica.\n"
-msgstr ""
-"他们不可能在\n"
-"哥斯达黎加找到那么多黄金。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_paz0010_000_0
-#. timeline 7983..9153
-#: codec/1/179/0xb3710/8
-msgid ""
-"Columbus originally set sail in search of the\n"
-"legendary land of gold.\n"
-msgstr ""
-"哥伦布最初出海是为了寻找\n"
-"传说中的黄金之地。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_paz0010_000_0
-#. timeline 9320..9961
-#: codec/1/179/0xb3710/9
-msgid ""
-"Maybe he was just nuts about the stuff.\n"
-msgstr ""
-"也许他就是痴迷那玩意儿。\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0010_000_0
-#. timeline 9975..10644
-#: codec/1/179/0xb3710/10
-msgid ""
-"Costa Rica is rich enough without it.\n"
-msgstr ""
-"没黄金也够富饶。\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0010_000_0
-#. timeline 10727..11800
-#: codec/1/179/0xb3710/11
-msgid ""
-"Look at the forests and the animals, and the\n"
-"peace-loving people...\n"
-msgstr ""
-"看看森林、动物，还有\n"
-"热爱和平的人民……\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0010_000_0
-#. timeline 11814..12329
-#: codec/1/179/0xb3710/12
-msgid ""
-"That is what I want to protect.\n"
-msgstr ""
-"那才是我要保护的。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_paz0010_000_0
-#. timeline 12357..12914
-#: codec/1/179/0xb3710/13
-msgid ""
-"...I know how you feel.\n"
-msgstr ""
-"……我懂你。\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0020_000_0
-#. timeline 473..1825
-#: codec/1/179/0xb3be0/0
-msgid ""
-"Democracy took root in Costa Rica before\n"
-"anywhere else in Central America.\n"
-msgstr ""
-"民主在哥斯达黎加扎根，\n"
-"比中美洲任何地方都早。\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0020_000_0
-#. timeline 1894..3162
-#: codec/1/179/0xb3be0/1
-msgid ""
-"Sure, we had coups and dictators and all, but\n"
-"never a total meltdown.\n"
-msgstr ""
-"我们也有过政变和独裁，但\n"
-"从未彻底崩溃。\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0020_000_0
-#. timeline 3287..4026
-#: codec/1/179/0xb3be0/2
-msgid ""
-"That is, until 26 years ago...\n"
-msgstr ""
-"直到26年前……\n"
-
-#. speaker 0x0e28dce6 voice v_bri_paz0020_000_0
-#. timeline 4082..5726
-#: codec/1/179/0xb3be0/3
-msgid ""
-"The civil war. Yeah, I understand you lost your\n"
-"grandparents.\n"
-msgstr ""
-"内战。是啊，我明白你失去了你的\n"
-"祖父母。\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0020_000_0
-#. timeline 5753..6868
-#: codec/1/179/0xb3be0/4
-msgid ""
-"It started with a dispute over alleged fraud in the\n"
-"presidential election.\n"
-msgstr ""
-"起因是对总统选举中涉嫌舞弊的\n"
-"争议。\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0020_000_0
-#. timeline 6993..8108
-#: codec/1/179/0xb3be0/5
-msgid ""
-"What I don't understand is why friend turned\n"
-"against friend\n"
-msgstr ""
-"我不明白的是，为什么朋友会\n"
-"反目成仇\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0020_000_0
-#. timeline 8192..8735
-#: codec/1/179/0xb3be0/6
-msgid ""
-"when they could have talked it out instead.\n"
-msgstr ""
-"明明本可以谈开的。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_paz0020_000_0
-#. timeline 8832..9613
-#: codec/1/179/0xb3be0/7
-msgid ""
-"Yeah, that... would have been nice.\n"
-msgstr ""
-"是啊，那样……就好了。\n"
-
-#: codec/1/179/0xb3be0/8
-msgid ""
-"Even today, some buildings still have bullet holes\n"
-"from the civil war.\n"
-msgstr ""
-"即使在今天，一些建筑上仍留有内战时期的\n"
-"弹孔。\n"
-
-#: codec/1/179/0xb3be0/9
-msgid ""
-"A quarter century later, and it is a tragedy we\n"
-"ticos cannot forget... Must not forget.\n"
-msgstr ""
-"二十五年过去，这是我们哥斯达黎加人\n"
-"不能忘……绝不该忘的悲剧。\n"
-
-#: codec/1/179/0xb3be0/10
-msgid ""
-"It was the year after the civil war that the army\n"
-"was constitutionally abolished.\n"
-msgstr ""
-"内战结束后的那一年，军队\n"
-"被依宪法废除。\n"
-
-#: codec/1/180/0xb4050/0
-msgid ""
-"A new president was elected this year - President\n"
-"Oduber.\n"
-msgstr ""
-"今年选出了新总统——\n"
-"奥杜贝尔总统。\n"
-
-#: codec/1/180/0xb4050/1
-msgid ""
-"He seems to be distancing himself from the United\n"
-"States.\n"
-msgstr ""
-"他似乎正在与美国\n"
-"保持距离。\n"
-
-#: codec/1/180/0xb4050/2
-msgid ""
-"He's limited the privileges granted to American\n"
-"banks, lifted the sanctions on Cuba...\n"
-msgstr ""
-"他限制了给予美国银行的\n"
-"特权，解除了对古巴的制裁……\n"
-
-#: codec/1/180/0xb4050/3
-msgid ""
-"Our last president was so pro-U.S., people\n"
-"suspected he was in bed with the CIA.\n"
-msgstr ""
-"我们的上一任总统极其亲美，人们\n"
-"怀疑他与中情局有染。\n"
-
-#: codec/1/180/0xb4050/4
-msgid ""
-"You think the CIA's doing this because it feels\n"
-"threatened by the president's shift in policy...?\n"
-msgstr ""
-"你认为中情局这么做是因为它感到\n"
-"受到总统政策转变的威胁……？\n"
-
-#: codec/1/180/0xb4050/5
-msgid ""
-"It is possible. But would they really bring in such a\n"
-"huge army just because of that?\n"
-msgstr ""
-"有可能。但他们会仅仅因为这一点就出动\n"
-"如此庞大的军队吗？\n"
-
-#: codec/1/180/0xb4050/6
-msgid ""
-"Part of our job is finding out.\n"
-msgstr ""
-"查明真相也是我们的工作之一。\n"
-
-#: codec/1/180/0xb4050/7
-msgid ""
-"Exactly. Thanks, Snake. Peace.\n"
-msgstr ""
-"没错。谢了，SNAKE。和平。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_paz0050_000_0
-#. timeline 487..1755
-#: codec/1/180/0xb43c0/0
-msgid ""
-"So are you a student at the University for Peace,\n"
-"Paz?\n"
-msgstr ""
-"那么，你是和平大学的学生吗，\n"
-"帕兹？\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0050_000_0
-#. timeline 1797..2410
-#: codec/1/180/0xb43c0/1
-msgid ""
-"No, I am still in high school.\n"
-msgstr ""
-"不，我还在上高中。\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0050_000_0
-#. timeline 2479..3761
-#: codec/1/180/0xb43c0/2
-msgid ""
-"But Professor Gálvez lets me visit his office and\n"
-"study with him every now and then.\n"
-msgstr ""
-"但加尔维斯教授允许我时不时去他的办公室\n"
-"和他一起学习。\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0050_000_0
-#. timeline 3817..5419
-#: codec/1/180/0xb43c0/3
-msgid ""
-"International law, security, conflict resolution,\n"
-"human rights...\n"
-msgstr ""
-"国际法、安全、冲突解决、\n"
-"人权……\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0050_000_0
-#. timeline 5489..6729
-#: codec/1/180/0xb43c0/4
-msgid ""
-"We study all these subjects and then use them to\n"
-"build the foundations of peace.\n"
-msgstr ""
-"我们学习所有这些科目，然后用它们来\n"
-"构建和平的基础。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_paz0050_000_0
-#. timeline 6798..8373
-#: codec/1/180/0xb43c0/5
-msgid ""
-"Yeah, I get it... I'd just never heard the UN had a\n"
-"University for Peace before.\n"
-msgstr ""
-"是啊，我明白……我只是从没听说联合国有一所\n"
-"和平大学。\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0050_000_0
-#. timeline 8387..10685
-#: codec/1/180/0xb43c0/6
-msgid ""
-"Oh, that. Well, to be precise, it is still being set up.\n"
-"They have started conducting research, but\n"
-msgstr ""
-"哦，那个。准确说，它还在筹建中。\n"
-"他们已开始研究，但\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0050_000_0
-#. timeline 10741..11563
-#: codec/1/180/0xb43c0/7
-msgid ""
-"the UN has not passed the necessary resolution\n"
-"yet.\n"
-msgstr ""
-"联合国尚未通过必要的\n"
-"决议。\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0050_000_0
-#. timeline 11633..12260
-#: codec/1/180/0xb43c0/8
-msgid ""
-"Professor Gálvez couldn't wait that long...\n"
-msgstr ""
-"加尔维斯教授等不了那么久……\n"
-
-#. speaker 0x0e28dce6 voice v_bri_paz0050_000_0
-#. timeline 12274..12928
-#: codec/1/180/0xb43c0/9
-msgid ""
-"Oh, uh, right.\n"
-msgstr ""
-"哦，对。\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0050_000_0
-#. timeline 12942..13514
-#: codec/1/180/0xb43c0/10
-msgid ""
-"Costa Rica abolished its army,\n"
-msgstr ""
-"哥斯达黎加废除了军队，\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0050_000_0
-#. timeline 13555..14586
-#: codec/1/180/0xb43c0/11
-msgid ""
-"and has also hosted the Central American Court of\n"
-"Justice.\n"
-msgstr ""
-"还曾承办过中美洲\n"
-"法院。\n"
-
-#. speaker 0x0e55d959 voice v_bri_paz0050_000_0
-#. timeline 14614..15993
-#: codec/1/180/0xb43c0/12
-msgid ""
-"It is the perfect place to build a university like\n"
-"ours, don't you think?\n"
-msgstr ""
-"在这里建我们这样的大学再合适不过，\n"
-"你不觉得吗？\n"
-
-#: codec/1/180/0xb48c0/0
-msgid ""
-"Professor Gálvez was a KGB spy...?\n"
-msgstr ""
-"加尔维斯教授是克格勃间谍……？\n"
-
-#: codec/1/180/0xb48c0/1
-msgid ""
-"I thought he helped me out of genuine concern for\n"
-"Costa Rica's future...\n"
-msgstr ""
-"我还以为他是真心为哥斯达黎加的未来\n"
-"才帮我的……\n"
-
-#: codec/1/180/0xb48c0/2
-msgid ""
-"You didn't know?\n"
-msgstr ""
-"你不知道？\n"
-
-#: codec/1/180/0xb48c0/3
-msgid ""
-"How could I?! Believe me, Snake.\n"
-msgstr ""
-"我怎么会知道？！相信我，SNAKE。\n"
-
-#: codec/1/180/0xb48c0/4
-msgid ""
-"He introduced himself as a peace researcher at\n"
-"the university.\n"
-msgstr ""
-"他自我介绍说是大学里的\n"
-"和平研究员。\n"
-
-#: codec/1/180/0xb48c0/5
-msgid ""
-"He had an office and credentials and everything...\n"
-msgstr ""
-"有办公室、证件，一应俱全……\n"
-
-#: codec/1/180/0xb48c0/6
-msgid ""
-"They're masters at creating cover personas. They\n"
-"think of everything\n"
-msgstr ""
-"他们是伪造身份的高手。他们\n"
-"考虑到了一切\n"
-
-#: codec/1/180/0xb48c0/7
-msgid ""
-"- ID papers, jobs, sometimes even families.\n"
-msgstr ""
-"ID、工作，有时连家人都有。\n"
-
-#: codec/1/180/0xb48c0/8
-msgid ""
-"Don't feel bad you didn't see through it.\n"
-msgstr ""
-"没看穿也别自责。\n"
-
-#: codec/1/180/0xb48c0/9
-msgid ""
-"But you did?\n"
-msgstr ""
-"那你看穿了？\n"
-
-#: codec/1/180/0xb48c0/10
-msgid ""
-"From the first time we met.\n"
-msgstr ""
-"初见就看穿了。\n"
-
-#: codec/1/180/0xb48c0/11
-msgid ""
-"I wish you'd told me...\n"
-msgstr ""
-"真希望你告诉过我……\n"
-
-#: codec/1/180/0xb48c0/12
-msgid ""
-"Sorry. I didn't know if it'd be right.\n"
-msgstr ""
-"抱歉。我不确定该不该说。\n"
-
-#: codec/1/180/0xb48c0/13
-msgid ""
-"You might have gotten mixed up in things you\n"
-"shouldn't.\n"
-msgstr ""
-"你可能卷入了你\n"
-"不该卷入的事情。\n"
-
-#: codec/1/180/0xb48c0/14
-msgid ""
-"That is impressive, though. Sizing him up him at a\n"
-"single glance.\n"
-msgstr ""
-"不过那真厉害。一眼就\n"
-"看穿了他。\n"
-
-#: codec/1/180/0xb48c0/15
-msgid ""
-"He reeked.\n"
-msgstr ""
-"他一身味儿。\n"

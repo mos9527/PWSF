@@ -12,19 +12,35 @@ sub_1400A3230                0x1400A3230  记录头解析（本模块格式的�
 sub_1400A4770                0x1400A4770  字节码操作数解码（低 4 位 = 长度/长度模式）
 sub_1400A35C0                0x1400A35C0  字节码解释器（op 0x30/0x60/0x70）
 
-解密
-----
+解密：密钥流按**记录**连续（模型 R）
+------------------------------------
 key = name_hash("0076531d.DAT") = name_hash("0076531d")
-文件在磁盘上按 **4096 字节扇区分别加密**：每个扇区都用
-``buffer_xor_decrypt(sector, 4096, key)``（内部 mt_seed(key) + mt_advance(20)）。
-实证：_probe_bri8.py 的 A/B 测试，逐扇区 1519 个 512B 窗口可 UTF-8 解码，
-4 扇区连续只有 579 个；file+0x1700 处在逐扇区解出记录头魔数 ``6f 45 62 4e``。
+密钥流本身与 ``buffer_xor_decrypt`` 一致（mt_seed(key) + mt_advance(20)，每 4
+字节 ``mt_next() ^ 0xB9D3018F``，见 ``0x14010F4C0``：只 seed 一次、连续覆盖
+整个长度）。游戏**按记录**取用它：
 
-> 疑点（未验证）：briefing_dat_load 里是
-> ``buffer_xor_decrypt(buf, dword_14117C094 << 12, key)``，
-> 而 ``dword_14117C094 = (HIBYTE(req)+1) << 2 >= 4``（见 0x14080426D 起的汇编）。
-> 与「逐扇区」的事实不符，逐扇区解密应发生在 op=7 的 I/O 工作线程里
-> （sub_14045DF30(req, 7, ...)），该函数尚未定位。**不作为结论使用。**
+```
+记录 r 占 [r.off, 下一条记录.off)（最后一条到 EOF）
+base = r.off & ~0xFFF              # 记录首扇区的扇区首
+字节 x 用 keystream[x - base] 解密
+```
+
+即 ``briefing_dat_load`` @ ``0x1400A5570`` 里那一次
+``buffer_xor_decrypt(buf, dword_14117C094 << 12, key)``——
+``briefing_dat_request_pages`` @ ``0x140804220`` 从 ``req`` 的扇区号开始读
+``4*页数`` 个扇区到一块连续缓冲，然后整块解一次（§11.2）。
+
+> **2026-09-25 推翻「逐扇区（4096）各自 seed」**（``_probe_bri59.py``，
+> `ANALYSIS/03_codec.md` §11）。旧模型只在**记录首扇区内**碰巧正确
+> （``x - base == x & 0xFFF``，占 69.7% 的字节），代价是：585 条
+> relaxed-entry 伪记录、565 条记录的伪影行、`n_text` 被截断、语音 ID 与
+> ``0x6d`` 大量丢失。按 R 重解后记录 2,634 -> 2,716、伪影 0、relaxed-entry 0，
+> 重新加密与磁盘原文件逐字节相同。
+
+自举：记录边界要靠解密后的记录头才能扫出来，所以先用旧的逐扇区模型扫出
+记录起点（记录头都在首扇区内，旧模型解得对），按 R 重解，再扫一遍直到记录
+起点列表不动（实测第 2 轮即不动点）。:func:`decrypt_sectors` **不是磁盘格式**，
+只是这一步用。
 
 语言归属（已解决）
 ------------------
@@ -184,7 +200,8 @@ RUBY_RE = None  # 惰性编译，见 ruby()
 
 __all__ = [
     "SECTOR", "REC_MAGIC", "LANG_BLOCKS", "LANGS", "Record", "Briefing",
-    "load", "parse", "decrypt_sectors", "iter_records",
+    "load", "parse", "decrypt_sectors", "decrypt_by_record",
+    "crypt_by_record", "record_offsets", "iter_records",
     "block_of", "judge_lang",
 ]
 
@@ -346,14 +363,72 @@ def _keystream(nbytes: int, key: int) -> bytes:
                          for _ in range(nbytes // 4)])
 
 
+def _xor(a: bytes, b: bytes) -> bytes:
+    """``a ^ b[:len(a)]``（``len(b) >= len(a)``）。"""
+    n = len(a)
+    return (int.from_bytes(a, "little") ^ int.from_bytes(b[:n], "little")
+            ).to_bytes(n, "little")
+
+
 def decrypt_sectors(raw: bytes, key: int, sector: int = SECTOR) -> bytearray:
-    """逐扇区 MT 解密。最后一个不完整的扇区按实际长度处理。"""
+    """逐扇区 MT 解密。**不是磁盘格式**，只是模型 R 的自举第一步
+    （记录头都在各自记录的首扇区内，这一步解得对，见模块 docstring）。
+    最后一个不完整的扇区按实际长度处理。"""
     ks = _keystream(sector, key)
     out = bytearray(raw)
     for off in range(0, len(raw), sector):
         blk = raw[off:off + sector]
-        out[off:off + len(blk)] = bytes(a ^ b for a, b in zip(blk, ks))
+        out[off:off + len(blk)] = _xor(blk, ks)
     return out
+
+
+def crypt_by_record(raw: bytes, key: int, offs) -> bytearray:
+    """模型 R 的加/解密（XOR 是对合的，一个函数两个方向）。
+
+    `offs` 是记录起点列表（递增）。字节 x 属于起点为 o 的记录时，用
+    ``keystream[x - (o & ~0xFFF)]``；第一条记录之前的字节按 keystream 从头
+    处理。返回与 ``raw`` 等长的新缓冲区。
+    """
+    n = len(raw)
+    out = bytearray(n)
+    head = offs[0] if offs else n
+    # 最长的一条记录决定密钥流要生成多长
+    span = head
+    for i, o in enumerate(offs):
+        e = offs[i + 1] if i + 1 < len(offs) else n
+        span = max(span, e - (o & ~(SECTOR - 1)))
+    ks = _keystream((span // SECTOR + 1) * SECTOR, key)
+    out[:head] = _xor(raw[:head], ks)
+    for i, o in enumerate(offs):
+        base = o & ~(SECTOR - 1)
+        e = offs[i + 1] if i + 1 < len(offs) else n
+        out[o:e] = _xor(raw[o:e], ks[o - base:e - base])
+    return out
+
+
+def record_offsets(data) -> list:
+    """已解密缓冲区里的记录起点列表（递增）。"""
+    return [r.off for r in iter_records(data)]
+
+
+def decrypt_by_record(raw: bytes, key: int, max_iter: int = 8) -> bytes:
+    """按模型 R 解密整份文件（磁盘格式，见模块 docstring）。
+
+    记录边界依赖解密结果，故自举：旧逐扇区模型扫起点 -> 按 R 重解 -> 再扫，
+    直到起点列表不动（实测第 2 轮即不动点，`_probe_bri59.py` [B]）。
+    """
+    cur = bytes(decrypt_sectors(raw, key))
+    if not raw:
+        return cur
+    offs = record_offsets(cur)
+    for _ in range(max_iter):
+        fix = crypt_by_record(raw, key, offs)
+        new = record_offsets(bytes(fix))
+        if new == offs:
+            return bytes(fix)
+        offs = new
+    raise RuntimeError(
+        f"briefing: 按记录解密未收敛（{max_iter} 轮，最后 {len(offs)} 条记录）")
 
 
 @dataclass
@@ -617,14 +692,17 @@ def parse_record(buf, a1: int) -> Record | None:
     #   * 「入口非法」的头里有大量真记录（旧白名单口径下全文件 621 个，
     #     574 个首行 100% 可读：Paz 日记、kaz0650 的 fr/it/es 缺本、
     #     DATE 电台预览……）；
-    #   * 这些记录的脚本区首 dword 是**会话级常量**（同一通话的 it/en 副本
-    #     逐字节相同，如 0x8a68fbf0），应是「脚本按引用共享」的第二种记录
-    #     格式，入口指针自然无效——但文本提取与池写回不依赖脚本区；
-    #   * 它们的表尾部若干项指进池内文本之后的二进制块（重叠垃圾），行数
-    #     语义未定，故行数保持 cnt 不变（写回表项数不变，游戏端安全），
-    #     垃圾行由 po_export 按替换率过滤、不进语料。
-    # 门槛改为：首行替换字符占比 >= 0.2 视为魔数碰撞假阳性剔除
-    # （_probe_bri55.py [G]：候选 621 个里 574 个首行全净，纯垃圾头首行即乱码）。
+    #   * ~~这些记录的脚本区首 dword 是「会话级常量」、存在「脚本按引用
+    #     共享」的第二种记录格式~~ **2026-09-25 推翻（§11.4）**：585 条里
+    #     579 条的脚本区首 dword 落在记录首扇区之后，是用错密钥段解出来的
+    #     垃圾（明文相同 + 扇区内位置相同 + 段号相同，错解出的垃圾自然也
+    #     相同）。按记录解密后 relaxed-entry 命中 **0** 条，入口全部合法。
+    #   * ~~表尾部若干项指进池内文本之后的二进制块~~ 同上：那是文本池自己
+    #     被解成了乱码，NUL 位置随机，长度是虚构的（2~15 KB）。
+    #
+    # 门槛保留作**防御**（R 下命中 0 条）：首行替换字符占比 >= 0.2 视为
+    # 魔数碰撞假阳性剔除（_probe_bri55.py [G]：候选 621 个里 574 个首行
+    # 全净，纯垃圾头首行即乱码）。
     entry = v11 + _u32(buf, v11) + 8
     entry_ok = v11 + 4 <= entry < len(buf)
     op = buf[entry] if entry_ok else None
@@ -688,9 +766,9 @@ def parse(data: bytes, name: str = "0076531d.DAT", path: Path | None = None) -> 
 def load(path: str | Path) -> Briefing:
     p = Path(path)
     raw = p.read_bytes()
-    data = bytes(decrypt_sectors(raw, name_hash(p.stem)))
-    return Briefing(path=p, key=name_hash(p.stem), data=data,
-                    records=iter_records(data))
+    key = name_hash(p.stem)
+    data = decrypt_by_record(raw, key)
+    return Briefing(path=p, key=key, data=data, records=iter_records(data))
 
 
 if __name__ == "__main__":

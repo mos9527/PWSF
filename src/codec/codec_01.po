@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PWSF codec 1/15\n"
+"Project-Id-Version: PWSF codec 1/18\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -220,6 +220,42 @@ msgid ""
 "Appreciate it, Boss.\n"
 msgstr ""
 "多谢，BOSS。\n"
+
+#: codec/1/148/0x94fd0/0
+msgid ""
+"By the way, Kaz, who do you think's our queen bee?\n"
+msgstr ""
+
+#: codec/1/148/0x94fd0/1
+msgid ""
+"Good question. I was thinking maybe Paz.\n"
+msgstr ""
+
+#: codec/1/148/0x94fd0/2
+msgid ""
+"Hmm. I was thinking Strangelove...\n"
+msgstr ""
+
+#: codec/1/148/0x94fd0/3
+msgid ""
+"I can see that. Or maybe Cecile.\n"
+msgstr ""
+
+#: codec/1/148/0x94fd0/4
+msgid ""
+"On second thought, I might go with Amanda.\n"
+msgstr ""
+
+#: codec/1/148/0x94fd0/5
+msgid ""
+"How about this, Snake. We'll have an army of\n"
+"queen bees.\n"
+msgstr ""
+
+#: codec/1/148/0x94fd0/6
+msgid ""
+"Sure, why not.\n"
+msgstr ""
 
 #: codec/1/149/0x95220/0
 msgid ""
@@ -514,12 +550,16 @@ msgid ""
 msgstr ""
 "那时整个世界是一块陆地。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0060_000_0
+#. timeline 9362..10253
 #: codec/1/149/0x95c80/9
 msgid ""
 "One world. No gaps, no rifts.\n"
 msgstr ""
 "一个世界。没有隔阂，没有裂痕。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0060_000_0
+#. timeline 10267..11117
 #: codec/1/149/0x95c80/10
 msgid ""
 "Our strength will take us back there.\n"
@@ -856,12 +896,16 @@ msgstr ""
 "如果我们要介入那类\n"
 "局势，\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0080_000_0
+#. timeline 6701..7328
 #: codec/1/150/0x96b70/5
 msgid ""
 "we need the threat of a Metal Gear.\n"
 msgstr ""
 "我们需要合金装备威慑。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0080_000_0
+#. timeline 7328..8303
 #: codec/1/150/0x96b70/6
 msgid ""
 "...Unless we want to end up like Che Guevara did in\n"
@@ -870,6 +914,8 @@ msgstr ""
 "除非想落得像切·格瓦拉在\n"
 "玻利维亚的下场。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0080_000_0
+#. timeline 8456..9905
 #: codec/1/150/0x96b70/7
 msgid ""
 "Well said. Our army without borders doesn't have a\n"
@@ -878,12 +924,16 @@ msgstr ""
 "说得好。我们这支无国界的军队没有\n"
 "可称为家园的土地。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0080_000_0
+#. timeline 10044..10853
 #: codec/1/150/0x96b70/8
 msgid ""
 "We're nomads. Wanderers.\n"
 msgstr ""
 "我们是游牧者。流浪者。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0080_000_0
+#. timeline 10866..11800
 #: codec/1/150/0x96b70/9
 msgid ""
 "What we need now is a sheepdog to guard our\n"
@@ -892,12 +942,16 @@ msgstr ""
 "现在需要一只牧羊犬守护我们的\n"
 "羊群。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0080_000_0
+#. timeline 11800..11967
 #. speaker 0x0e28dce6 voice v_bri_kaz0020_000_0
 #. timeline 2187..2382
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0010_000_0
 #. timeline 2131..2368
 #. speaker 0x0e28dce6 voice v_bri_mis_amd0040_000_0
 #. timeline 6520..6645
+#. speaker 0x0ea8e31c voice v_bri_mis_huy0010_000_0
+#. timeline 4806..5015
 #: codec/1/150/0x96b70/10
 #: codec/1/159/0x9f870/1
 #: codec/1/161/0xa11f0/2
@@ -911,6 +965,8 @@ msgid ""
 msgstr ""
 "没错。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0080_000_0
+#. timeline 11967..12692
 #: codec/1/150/0x96b70/11
 msgid ""
 "Maybe it's not the way The Boss would have gone\n"
@@ -919,6 +975,8 @@ msgstr ""
 "也许这不是The Boss会采取的\n"
 "方式……\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0080_000_0
+#. timeline 12692..14154
 #: codec/1/150/0x96b70/12
 msgid ""
 "But there are places in this world that need us -\n"
@@ -927,18 +985,24 @@ msgstr ""
 "但世上有些地方需要我们——\n"
 "有些士兵需要MSF。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0080_000_0
+#. timeline 14154..15102
 #: codec/1/150/0x96b70/13
 msgid ""
 "And as long as we're needed, we'll keep on moving.\n"
 msgstr ""
 "只要有人需要，我们就会继续前行。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0080_000_0
+#. timeline 15185..15812
 #: codec/1/150/0x96b70/14
 msgid ""
 "Ours is a journey that never ends.\n"
 msgstr ""
 "我们的旅程永不终结。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0080_000_0
+#. timeline 15840..16453
 #: codec/1/150/0x96b70/15
 msgid ""
 "We're the real Peace Walkers.\n"
@@ -1223,12 +1287,16 @@ msgid ""
 msgstr ""
 "巨大而膨胀的空虚……就像外太空。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 487..1017
 #: codec/1/151/0x97df0/0
 msgid ""
 "Costa Rica isn't alone.\n"
 msgstr ""
 "并非孤例。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 1058..2243
 #: codec/1/151/0x97df0/1
 msgid ""
 "All of Latin America is getting swept up in the\n"
@@ -1237,6 +1305,8 @@ msgstr ""
 "整个拉美都被卷进了\n"
 "超级大国的冷战。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 2256..3190
 #: codec/1/151/0x97df0/2
 msgid ""
 "The whole ideological split between East and\n"
@@ -1245,6 +1315,8 @@ msgstr ""
 "东西方之间的\n"
 "意识形态对立……\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 3246..4555
 #: codec/1/151/0x97df0/3
 msgid ""
 "In the end, it's just a greedy scramble for wealth\n"
@@ -1253,6 +1325,8 @@ msgstr ""
 "说到底，不过是统治阶级\n"
 "对财富的贪婪争夺。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 4583..5865
 #: codec/1/151/0x97df0/4
 msgid ""
 "The Western bourgeois stand to lose everything if\n"
@@ -1261,6 +1335,8 @@ msgstr ""
 "西方国家一旦赤化，\n"
 "资产阶级就会失去一切。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 5921..7370
 #: codec/1/151/0x97df0/5
 msgid ""
 "After all, the communists want to abolish private\n"
@@ -1268,6 +1344,108 @@ msgid ""
 msgstr ""
 "毕竟共产主义者要\n"
 "彻底废除私有财产。\n"
+
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 7425..8846
+#: codec/1/151/0x97df0/6
+msgid ""
+"So the capitalist rulers desperately tried to halt\n"
+"the global spread of communism.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 8888..9613
+#: codec/1/151/0x97df0/7
+msgid ""
+"Hence the phenomenon of red-baiting.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 9613..11020
+#: codec/1/151/0x97df0/8
+msgid ""
+"And the communists, for their part, didn't exactly\n"
+"stay true to their principles.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 11048..11828
+#: codec/1/151/0x97df0/9
+msgid ""
+"They tried to escape class-based society,\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 11842..13207
+#: codec/1/151/0x97df0/10
+msgid ""
+"but between Stalin's autocracy and the rise of the\n"
+"nomenklatura,\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 13207..13778
+#: codec/1/151/0x97df0/11
+msgid ""
+"they ended up creating one anyway.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 13862..14865
+#: codec/1/151/0x97df0/12
+msgid ""
+"Once people have power, they stop caring about\n"
+"equality.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 14865..16105
+#: codec/1/151/0x97df0/13
+msgid ""
+"That's where communism - where society in\n"
+"general - reaches its limits.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 16272..16969
+#: codec/1/151/0x97df0/14
+msgid ""
+"The rulers only care about their own gain.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 17094..18167
+#: codec/1/151/0x97df0/15
+msgid ""
+"The opposing side becomes a risk factor that\n"
+"threatens that profit.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 18167..19504
+#: codec/1/151/0x97df0/16
+msgid ""
+"And thus the ongoing struggle between capitalism\n"
+"and communism was born.\n"
+msgstr ""
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0110_000_1
+#. timeline 19518..20396
+#: codec/1/151/0x97df0/17
+msgid ""
+"And now nuclear deterrence is part of the picture.\n"
+msgstr ""
+
+#. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
+#. timeline 20396..20772
+#. speaker 0x0e463a34 voice v_bri_mis_kaz0530_000_0
+#. timeline 14405..14767
+#: codec/1/151/0x97df0/18
+#: codec/1/176/0xb0af0/12
+msgid ""
+"Exactly.\n"
+msgstr ""
+"对。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0120_000_1
 #. timeline 501..1239
@@ -1535,6 +1713,8 @@ msgid ""
 msgstr ""
 "可我们又无法在和平的世界里生存。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0130_000_0
+#. timeline 14085..14475
 #: codec/1/152/0x98b30/13
 msgid ""
 "You've got a point...\n"
@@ -1819,6 +1999,8 @@ msgid ""
 msgstr ""
 "可以说它是第四项原则。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0150_000_0
+#. timeline 487..1978
 #: codec/1/153/0x99b80/0
 msgid ""
 "So Costa Rica abolished its army back in, what,\n"
@@ -1827,6 +2009,8 @@ msgstr ""
 "哥斯达黎加废除军队，\n"
 "是在1949年？\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0150_000_0
+#. timeline 2187..3120
 #: codec/1/153/0x99b80/1
 msgid ""
 "Pretty gutsy move for a Central American nation\n"
@@ -1835,12 +2019,16 @@ msgstr ""
 "对当时的中美洲国家来说，\n"
 "这步棋相当大胆。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0150_000_0
+#. timeline 3134..3789
 #: codec/1/153/0x99b80/2
 msgid ""
 "Yeah, well, they'd just come out of a civil war.\n"
 msgstr ""
 "嗯，毕竟他们刚打完内战。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0150_000_0
+#. timeline 3873..5140
 #: codec/1/153/0x99b80/3
 msgid ""
 "I'm sure they were driven by a desire to avoid\n"
@@ -1849,12 +2037,16 @@ msgstr ""
 "我想他们是为了避免\n"
 "帕兹说的那种悲剧重演。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0150_000_0
+#. timeline 5168..5795
 #: codec/1/153/0x99b80/4
 msgid ""
 "But I think they had a more compelling reason.\n"
 msgstr ""
 "但我觉得还有更现实的原因。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0150_000_0
+#. timeline 5809..7105
 #: codec/1/153/0x99b80/5
 msgid ""
 "Army coups d'état are a way of life in so many\n"
@@ -1863,24 +2055,32 @@ msgstr ""
 "在很多拉美国家，\n"
 "军事政变是家常便饭。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0150_000_0
+#. timeline 7230..7690
 #: codec/1/153/0x99b80/6
 msgid ""
 "Imagine seeing that up close...\n"
 msgstr ""
 "亲眼目睹这一切……\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0150_000_0
+#. timeline 7690..8735
 #: codec/1/153/0x99b80/7
 msgid ""
 "No army, no coups... Makes sense.\n"
 msgstr ""
 "没有军队就没有政变。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0150_000_0
+#. timeline 8749..9306
 #: codec/1/153/0x99b80/8
 msgid ""
 "Plus their economy was in ruins,\n"
 msgstr ""
 "而且当时经济已经崩溃，\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0150_000_0
+#. timeline 9334..10435
 #: codec/1/153/0x99b80/9
 msgid ""
 "so they honestly didn't have any money to spend\n"
@@ -1889,6 +2089,8 @@ msgstr ""
 "本来也拿不出钱\n"
 "来养一支军队。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0150_000_0
+#. timeline 10448..11716
 #: codec/1/153/0x99b80/10
 msgid ""
 "Yeah, but weren't they on less-than-friendly terms\n"
@@ -1897,6 +2099,8 @@ msgstr ""
 "可他们和尼加拉瓜的关系\n"
 "不是一直很僵吗？\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0150_000_0
+#. timeline 11730..13263
 #: codec/1/153/0x99b80/11
 msgid ""
 "Yeah, and in fact Nicaragua did end up invading.\n"
@@ -1905,6 +2109,8 @@ msgstr ""
 "没错，尼加拉瓜最后真的入侵了。\n"
 "但国民警卫队奋起反击，\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0150_000_0
+#. timeline 13263..13973
 #: codec/1/153/0x99b80/12
 msgid ""
 "and the OAS (Organization of American States)\n"
@@ -1913,6 +2119,8 @@ msgstr ""
 "美洲国家组织出面调停，\n"
 "双方就此停火。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0150_000_0
+#. timeline 14015..15589
 #: codec/1/153/0x99b80/13
 msgid ""
 "The U.S. and the rest of OAS had their back, and\n"
@@ -1921,6 +2129,8 @@ msgstr ""
 "美国和美洲国家组织为它撑腰，\n"
 "它也充分利用了这一点。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0150_000_0
+#. timeline 15659..16885
 #: codec/1/153/0x99b80/14
 msgid ""
 "For a quarter century, they've survived in the\n"
@@ -1929,12 +2139,16 @@ msgstr ""
 "二十五年间，他们在中美洲\n"
 "这个火药桶里活了下来。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0150_000_0
+#. timeline 17010..17749
 #: codec/1/153/0x99b80/15
 msgid ""
 "That must've taken some serious diplomacy.\n"
 msgstr ""
 "这离不开高明的外交手腕。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0150_000_0
+#. timeline 17846..18780
 #: codec/1/153/0x99b80/16
 msgid ""
 "Even if the Civil Guard is pretty decked out for a\n"
@@ -1942,6 +2156,13 @@ msgid ""
 msgstr ""
 "虽说只是一支警察部队，\n"
 "装备却相当精良。\n"
+
+#. speaker 0x0e28dce6 voice v_bri_kaz0150_000_0
+#. timeline 19003..19671
+#: codec/1/153/0x99b80/17
+msgid ""
+"Must be tough to be a country without an army.\n"
+msgstr ""
 
 #. speaker 0x0e463a34 voice v_bri_kaz0160_000_0
 #. timeline 487..1128
@@ -2178,6 +2399,8 @@ msgstr ""
 "没人知道他们是谁、\n"
 "在干什么。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0180_000_0
+#. timeline 473..1630
 #: codec/1/154/0x9ab70/0
 msgid ""
 "Can you believe the CIA and the KGB were actually\n"
@@ -2186,6 +2409,8 @@ msgstr ""
 "中情局和克格勃竟真的\n"
 "暗中勾结？\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0180_000_0
+#. timeline 1630..2507
 #: codec/1/154/0x9ab70/1
 msgid ""
 "Never thought I'd see that at the station chief\n"
@@ -2194,6 +2419,8 @@ msgstr ""
 "没想过会在站长\n"
 "这层级见到这种事……\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0180_000_0
+#. timeline 2591..3608
 #: codec/1/154/0x9ab70/2
 msgid ""
 "But I've heard stories of operatives in the field\n"
@@ -2202,12 +2429,16 @@ msgstr ""
 "但我听说过一些外勤特工\n"
 "彼此关系友好的传闻。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0180_000_0
+#. timeline 3622..3900
 #: codec/1/154/0x9ab70/3
 msgid ""
 "Seriously?\n"
 msgstr ""
 "真的？\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0180_000_0
+#. timeline 3914..5001
 #: codec/1/154/0x9ab70/4
 msgid ""
 "Most espionage takes place in political hotspots, as\n"
@@ -2216,6 +2447,8 @@ msgstr ""
 "如你所料，多数间谍活动都在\n"
 "政治热点地区。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0180_000_0
+#. timeline 5015..6394
 #: codec/1/154/0x9ab70/5
 msgid ""
 "But there aren't that many of those kinds of\n"
@@ -2224,6 +2457,8 @@ msgstr ""
 "但这类地方并没有\n"
 "那么多。尤其是在一个小国里。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0180_000_0
+#. timeline 6436..7746
 #: codec/1/154/0x9ab70/6
 msgid ""
 "Hang around long enough, and you're bound to run\n"
@@ -2232,6 +2467,8 @@ msgstr ""
 "待得够久，你总会撞见\n"
 "同行间谍，不管你愿不愿意。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0180_000_0
+#. timeline 7774..8930
 #: codec/1/154/0x9ab70/7
 msgid ""
 "You start saying hello, and soon enough you're\n"
@@ -2240,18 +2477,24 @@ msgstr ""
 "你开始打招呼，很快你们就\n"
 "一起吃饭了……\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0180_000_0
+#. timeline 8930..9431
 #: codec/1/154/0x9ab70/8
 msgid ""
 "Strange bedfellows, huh?\n"
 msgstr ""
 "真是同床异梦。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0180_000_0
+#. timeline 9445..10017
 #: codec/1/154/0x9ab70/9
 msgid ""
 "I dunno about that.\n"
 msgstr ""
 "不好说。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0180_000_0
+#. timeline 10044..11438
 #: codec/1/154/0x9ab70/10
 msgid ""
 "At any rate, this kind of fiasco is what happens\n"
@@ -2260,12 +2503,16 @@ msgstr ""
 "无论如何，这种惨败就是\n"
 "间谍之间过于熟络的后果。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0180_000_0
+#. timeline 11466..11856
 #: codec/1/154/0x9ab70/11
 msgid ""
 "Hard to believe,\n"
 msgstr ""
 "难以置信，\n"
 
+#. speaker 0x0e28dce6 voice v_bri_kaz0180_000_0
+#. timeline 11870..13360
 #: codec/1/154/0x9ab70/12
 msgid ""
 "but some people will betray anyone and anything if\n"
@@ -2274,6 +2521,8 @@ msgstr ""
 "但有人只要符合利益，\n"
 "就背叛任何人、任何事。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0180_000_0
+#. timeline 13388..14475
 #: codec/1/154/0x9ab70/13
 msgid ""
 "The strength of HUMINT is in its appeal to human\n"
@@ -2282,6 +2531,8 @@ msgstr ""
 "人力情报强在能触动人类\n"
 "情感，\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0180_000_0
+#. timeline 14544..15701
 #: codec/1/154/0x9ab70/14
 msgid ""
 "but its weakness is in its susceptibility to those\n"
@@ -2290,6 +2541,8 @@ msgstr ""
 "但弱在易受这些\n"
 "同样情感影响。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0180_000_0
+#. timeline 15715..16857
 #: codec/1/154/0x9ab70/15
 msgid ""
 "That's why the tide in the intelligence world is\n"
@@ -2298,6 +2551,8 @@ msgstr ""
 "这就是为什么情报界的大势正在\n"
 "转向信号情报。\n"
 
+#. speaker 0x0e463a34 voice v_bri_kaz0180_000_0
+#. timeline 16871..18334
 #: codec/1/154/0x9ab70/16
 msgid ""
 "A network of cold, digital data, where feelings are\n"
@@ -2623,11 +2878,17 @@ msgstr ""
 "你需要考虑招募人员并\n"
 "发展壮大这次行动。\n"
 
+#. speaker 0x0e28dce6 voice v_bri_mis_kaz0180_000_0
+#. timeline 13277..13514
 #. speaker 0x0e28dce6 voice v_bri_mis_kaz0580_000_0
 #. timeline 13527..13848
+#. speaker 0x0e28dce6 voice v_bri_chc0060_000_0
+#. timeline 4945..5099
 #: codec/1/155/0x9b990/21
 #: codec/1/165/0xa5290/7
+#: codec/1/171/0xabf10/14
 #: codec/1/178/0xb2060/14
+#: codec/1/207/0xcff70/4
 #: codec/2/902/0x3861c0/40
 #: codec/2/905/0x389770/22
 msgid ""
@@ -3132,183 +3393,3 @@ msgid ""
 msgstr ""
 "切曾作为经济代表团成员\n"
 "访问过日本。\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
-#. timeline 2368..3037
-#: codec/1/157/0x9d5c0/2
-msgid ""
-"While he was there, he visited Hiroshima.\n"
-msgstr ""
-"期间他去了广岛。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_kaz0240_000_0
-#. timeline 3037..3301
-#: codec/1/157/0x9d5c0/3
-msgid ""
-"Hiroshima...\n"
-msgstr ""
-"广岛……\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
-#. timeline 3329..4137
-#: codec/1/157/0x9d5c0/4
-msgid ""
-"Since he was there to discuss economic issues,\n"
-msgstr ""
-"他去那儿是谈经济问题，\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
-#. timeline 4207..5057
-#: codec/1/157/0x9d5c0/5
-msgid ""
-"Hiroshima wasn't part of the original itinerary.\n"
-msgstr ""
-"广岛本不在原定行程里。\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
-#. timeline 5126..6631
-#: codec/1/157/0x9d5c0/6
-msgid ""
-"Some said the Ministry of Foreign Affairs didn't\n"
-"want to let him go. But he went anyway.\n"
-msgstr ""
-"有人说外交部不想放他走。\n"
-"但他还是去了。\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
-#. timeline 6687..7578
-#: codec/1/157/0x9d5c0/7
-msgid ""
-"He snuck out of his hotel and took an overnight\n"
-"train.\n"
-msgstr ""
-"他偷偷溜出酒店，乘坐了一夜\n"
-"火车。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_kaz0240_000_0
-#. timeline 7829..8930
-#: codec/1/157/0x9d5c0/8
-msgid ""
-"Traveling guerrilla-style - sounds like Che, all right.\n"
-msgstr ""
-"游击式出行——确实是切。\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
-#. timeline 8958..10309
-#: codec/1/157/0x9d5c0/9
-msgid ""
-"He visited the Peace Memorial Museum and the\n"
-"Atomic Bomb Survivors Hospital.\n"
-msgstr ""
-"他参观了和平纪念博物馆和\n"
-"原子弹幸存者医院。\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
-#. timeline 10421..10992
-#: codec/1/157/0x9d5c0/10
-msgid ""
-"Apparently it gave him quite a shock.\n"
-msgstr ""
-"据说他深受震撼。\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
-#. timeline 11020..12204
-#: codec/1/157/0x9d5c0/11
-msgid ""
-"As a doctor, it must have been painful for him to\n"
-"see how the victims suffered.\n"
-msgstr ""
-"作为一名医生，看到受害者遭受的痛苦，\n"
-"他一定很难受。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_kaz0240_000_0
-#. timeline 12232..12733
-#: codec/1/157/0x9d5c0/12
-msgid ""
-"Nukes destroy everything...\n"
-msgstr ""
-"核弹摧毁一切……\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
-#. timeline 12747..13123
-#: codec/1/157/0x9d5c0/13
-msgid ""
-"He was quoted as saying,\n"
-msgstr ""
-"他原话是，\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
-#. timeline 13263..14475
-#: codec/1/157/0x9d5c0/14
-msgid ""
-"\"They put you through this, and still you do\n"
-"whatever America says?\"\n"
-msgstr ""
-"“他们让你经历这些，你还\n"
-"对美国言听计从？”\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
-#. timeline 14531..15743
-#: codec/1/157/0x9d5c0/15
-msgid ""
-"...Those words really hit me hard. Especially when I\n"
-"think of my mom.\n"
-msgstr ""
-"……那些话真刺痛了我。尤其当我\n"
-"想到妈妈。\n"
-
-#. speaker 0x0e463a34 voice v_bri_kaz0240_000_0
-#. timeline 15770..17261
-#: codec/1/157/0x9d5c0/16
-msgid ""
-"He said something else, too: \"Let us all love\n"
-"Hiroshima, and its people.\"\n"
-msgstr ""
-"他还说：“让我们都爱\n"
-"广岛和它的人民。”\n"
-
-#. speaker 0x0e28dce6 voice v_bri_kaz0240_000_0
-#. timeline 17303..18752
-#: codec/1/157/0x9d5c0/17
-msgid ""
-"I can believe it. Che never managed to numb\n"
-"himself to other people's pain.\n"
-msgstr ""
-"我相信。切始终没能让自己对他人的痛苦\n"
-"变得麻木。\n"
-
-#. speaker 0x0e28dce6 voice v_bri_kaz0240_000_0
-#. timeline 18975..20089
-#: codec/1/157/0x9d5c0/18
-msgid ""
-"That's why people loved him. And why he died.\n"
-msgstr ""
-"所以人们爱他。所以他死了。\n"
-
-#: codec/1/157/0x9dc70/0
-msgid ""
-"That bandanna you're always wearing - that thing's\n"
-"a real antique.\n"
-msgstr ""
-"你一直戴的那条头巾，那玩意儿\n"
-"可是真古董。\n"
-
-#: codec/1/157/0x9dc70/1
-msgid ""
-"Ever think about getting a new one?\n"
-msgstr ""
-"没想过换条新的？\n"
-
-#: codec/1/157/0x9dc70/2
-msgid ""
-"This one's fine.\n"
-msgstr ""
-"这条挺好。\n"
-
-#: codec/1/157/0x9dc70/3
-msgid ""
-"Come on, we can't have our Boss wearing a\n"
-"raggedy old thing like that...\n"
-msgstr ""
-"拜托，咱老大可不能戴\n"
-"那么破旧的东西……\n"
