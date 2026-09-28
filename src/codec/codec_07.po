@@ -642,29 +642,38 @@ msgid ""
 "Snake, be careful when going through areas you've\n"
 "passed through before.\n"
 msgstr ""
+"斯内克，再走过一次的地方\n"
+"要小心。\n"
 
 #: codec/1/204/0xccfb0/1
 msgid ""
 "The enemy could be waiting to ambush you.\n"
 msgstr ""
+"敌人可能埋伏着等你。\n"
 
 #: codec/1/204/0xccfb0/2
 msgid ""
 "And do you know how to identify the soldier with\n"
 "the ID card?\n"
 msgstr ""
+"你知道怎么认出\n"
+"带ID卡的那个士兵吗？\n"
 
 #: codec/1/204/0xccfb0/3
 msgid ""
 "Yeah, Cécile told me. He's in a forest with some\n"
 "quetzals, wearing an orange jacket.\n"
 msgstr ""
+"嗯，塞西尔说了。他在有格查尔鸟的林子里，\n"
+"穿着橙色外套。\n"
 
 #: codec/1/204/0xccfb0/4
 msgid ""
 "He'll be from the lab. Probably out on patrol. Do a\n"
 "body check to see if he's got the card.\n"
 msgstr ""
+"他应该是研究所的人，\n"
+"多半在巡逻。做身体检查看有没有卡。\n"
 
 #. speaker 0x0e3bb338 voice v_bri_mis_amd0120_000_0
 #. timeline 445..1504
@@ -1348,6 +1357,8 @@ msgid ""
 "Be sure to select equipment that focuses on\n"
 "defensive power rather than camouflage.\n"
 msgstr ""
+"装备要选偏重防御力的，\n"
+"而不是迷彩。\n"
 
 #. speaker 0x0e3bb338 voice v_bri_mis_amd0240_000_0
 #. timeline 4165..5322
@@ -1356,6 +1367,8 @@ msgid ""
 "Who knows how long this all will last, so do not\n"
 "forget the rations.\n"
 msgstr ""
+"不知会撑多久，\n"
+"别忘了带口粮。\n"
 
 #. speaker 0x0e3bb338 voice v_bri_mis_amd0240_000_0
 #. timeline 5349..6812
@@ -1364,6 +1377,8 @@ msgid ""
 "But as we're on the defense, we have the\n"
 "advantage. There's no reason to panic.\n"
 msgstr ""
+"不过我们是防守方，占着优势。\n"
+"没有慌张的理由。\n"
 
 #. speaker 0x0e3bb338 voice v_bri_mis_amd0240_000_0
 #. timeline 6840..7885
@@ -1372,6 +1387,8 @@ msgid ""
 "The enemy will be on the move, so they cannot\n"
 "stay hidden forever.\n"
 msgstr ""
+"敌人处于移动中，\n"
+"不可能一直藏着。\n"
 
 #. speaker 0x0e3bb338 voice v_bri_mis_amd0240_000_0
 #. timeline 7913..9000
@@ -1380,6 +1397,8 @@ msgid ""
 "A sniper rifle would be a safe means of slowing\n"
 "their advance -\n"
 msgstr ""
+"用狙击步枪拖慢他们的推进\n"
+"是很稳妥的办法——\n"
 
 #. speaker 0x0e3bb338 voice v_bri_mis_amd0240_000_0
 #. timeline 9013..9752
@@ -1387,6 +1406,7 @@ msgstr ""
 msgid ""
 "depending on the sniping position, that is.\n"
 msgstr ""
+"当然，得看狙击位置。\n"
 
 #. speaker 0x0e3bb338 voice v_bri_mis_amd0240_000_0
 #. timeline 9780..10950
@@ -1395,6 +1415,8 @@ msgid ""
 "We could also plant mines and C4 along projected\n"
 "movement routes.\n"
 msgstr ""
+"也可以在他们可能的\n"
+"行进路线上埋地雷和C4。\n"
 
 #. speaker 0x0e3bb338 voice v_bri_mis_amd0240_000_0
 #. timeline 10978..12413
@@ -1403,6 +1425,8 @@ msgid ""
 "I do not really like fighting dirty, but protecting our\n"
 "compas is more important.\n"
 msgstr ""
+"我并不喜欢这种脏手段，\n"
+"但保护同伴更重要。\n"
 
 #: codec/1/207/0xcf360/0
 msgid ""
@@ -1654,6 +1678,7 @@ msgstr ""
 msgid ""
 "There's a river in the mountains north of the village.\n"
 msgstr ""
+"村子北边的山里有一条河。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0060_000_0
 #. timeline 1309..2661
@@ -1662,6 +1687,8 @@ msgid ""
 "You'll see a water pipe running across that's got a\n"
 "walkway you can use as a bridge.\n"
 msgstr ""
+"你会看到一根横跨的水管，\n"
+"上面有步道可以当桥走。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0060_000_0
 #. timeline 2814..3664
@@ -1670,6 +1697,8 @@ msgid ""
 "I guess they built it to carry water from the\n"
 "hydroelectric plant.\n"
 msgstr ""
+"大概是水电站\n"
+"输水用的。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0060_000_0
 #. timeline 3733..4931
@@ -1678,6 +1707,8 @@ msgid ""
 "To get there, though, you gotta get past the\n"
 "barricade north of the prison.\n"
 msgstr ""
+"不过要去那里，得先过\n"
+"监狱北边的路障。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0060_000_0
 #. timeline 5113..5907
@@ -1685,6 +1716,7 @@ msgstr ""
 msgid ""
 "El basilisco supposedly lives in the gorge up there,\n"
 msgstr ""
+"听说上面那道峡谷里住着巴西利斯科，\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0060_000_0
 #. timeline 6004..6924
@@ -1693,6 +1725,8 @@ msgid ""
 "so be careful you don't get distracted and fall in\n"
 "the river.\n"
 msgstr ""
+"所以小心别分神\n"
+"掉进河里。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_chc0060_000_0
 #. timeline 6938..7258
@@ -1700,6 +1734,7 @@ msgstr ""
 msgid ""
 "The basilisco...?\n"
 msgstr ""
+"巴西利斯科……？\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0060_000_0
 #. timeline 7272..8637
@@ -1707,6 +1742,7 @@ msgstr ""
 msgid ""
 "Not the big monster I saw. I mean the real basilisco.\n"
 msgstr ""
+"不是我见过的那只大怪物。我是说真正的巴西利斯科。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_chc0060_000_0
 #. timeline 9041..9933
@@ -1714,6 +1750,7 @@ msgstr ""
 msgid ""
 "The real one? The legendary king of snakes?\n"
 msgstr ""
+"真的？传说中的蛇王？\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0060_000_0
 #. timeline 9947..10950
@@ -1722,6 +1759,8 @@ msgid ""
 "More like a lizard, I guess. It walks on top of the\n"
 "river.\n"
 msgstr ""
+"我觉得更像蜥蜴。\n"
+"它在水面上走。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_chc0060_000_0
 #. timeline 11215..11661
@@ -1729,6 +1768,7 @@ msgstr ""
 msgid ""
 "A lizard that walks on water?\n"
 msgstr ""
+"能在水上走的蜥蜴？\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0060_000_0
 #. timeline 11674..13305
@@ -1737,6 +1777,8 @@ msgid ""
 "Man, you should see it! It's not that big, though,\n"
 "only about one vara (30 in) long.\n"
 msgstr ""
+"老兄，你真该见识一下！\n"
+"不过不算大，大约一巴拉（30英寸）长。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_chc0060_000_0
 #. timeline 13332..13778
@@ -1744,6 +1786,7 @@ msgstr ""
 msgid ""
 "Pretty good size for a lizard.\n"
 msgstr ""
+"对蜥蜴来说算不小了。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0060_000_0
 #. timeline 13792..14670
@@ -1751,6 +1794,7 @@ msgstr ""
 msgid ""
 "Yeah, but not nearly as big as a dinosaur!\n"
 msgstr ""
+"嗯，可比恐龙差远了！\n"
 
 #. speaker 0x0e28dce6 voice v_bri_chc0060_010_0
 #. timeline 445..1184
@@ -2492,6 +2536,7 @@ msgstr ""
 msgid ""
 "We'll see... It might not be such a bad life.\n"
 msgstr ""
+"走着瞧……那样的生活也许不坏。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0070_040_0
 #. timeline 445..2048
@@ -2846,6 +2891,8 @@ msgid ""
 "Yeah, but aren't the Rockies kind of far away from\n"
 "here?\n"
 msgstr ""
+"嗯，可落基山离这儿\n"
+"是不是太远了？\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0080_010_0
 #. timeline 11479..13082
@@ -2854,6 +2901,8 @@ msgid ""
 "Not that far. According to Darwin, humans came all\n"
 "the way over here from Africa.\n"
 msgstr ""
+"没那么远。按达尔文的说法，\n"
+"人类是从非洲一路过来的。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0080_010_0
 #. timeline 13151..14586
@@ -2862,6 +2911,8 @@ msgid ""
 "Plus there've been sightings in Venezuela of an\n"
 "ape-man called Mono Grande.\n"
 msgstr ""
+"再说，委内瑞拉有人目击过\n"
+"叫“大猴”的猿人。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0080_010_0
 #. timeline 14628..15520
@@ -2869,6 +2920,7 @@ msgstr ""
 msgid ""
 "Costa Rica has tons of plant and animal species,\n"
 msgstr ""
+"哥斯达黎加的动植物种类极多，\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0080_010_0
 #. timeline 15562..16495
@@ -2877,6 +2929,8 @@ msgid ""
 "so I'd expect there to be at least one kind of\n"
 "apeman.\n"
 msgstr ""
+"所以我觉得至少\n"
+"该有一种猿人。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_chc0080_010_0
 #. timeline 16495..16857
@@ -2884,6 +2938,7 @@ msgstr ""
 msgid ""
 "\"At least\"...?\n"
 msgstr ""
+"“至少”……？\n"
 
 #. speaker 0x0e28dce6 voice v_bri_chc0080_020_0
 #. timeline 459..1393
@@ -3169,6 +3224,8 @@ msgid ""
 "Pterosaurs survive today in the African countries\n"
 "of Cameroon and Congo.\n"
 msgstr ""
+"如今在非洲的喀麦隆和刚果，\n"
+"还存活翼龙。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0090_010_0
 #. timeline 1880..3106
@@ -3177,6 +3234,8 @@ msgid ""
 "Each tribe calls them by a different name, like\n"
 "Kongamato or Olitiau.\n"
 msgstr ""
+"各部落叫法不同，\n"
+"比如孔加马托或奥利蒂奥。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_chc0090_010_0
 #. timeline 3120..3998
@@ -3185,6 +3244,8 @@ msgid ""
 "There sure are a lot of dinosaurs running around\n"
 "the Congo.\n"
 msgstr ""
+"刚果那边\n"
+"恐龙真多。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0090_010_0
 #. timeline 4012..4987
@@ -3193,6 +3254,8 @@ msgid ""
 "Well, a lot of the land hasn't been settled by\n"
 "humans yet.\n"
 msgstr ""
+"那里很多土地\n"
+"还没被人类开发。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0090_010_0
 #. timeline 5029..6199
@@ -3201,6 +3264,8 @@ msgid ""
 "They've survived all this time - just undiscovered\n"
 "by man.\n"
 msgstr ""
+"它们一直活到现在——\n"
+"只是没被人发现。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0090_010_0
 #. timeline 6255..6952
@@ -3208,6 +3273,7 @@ msgstr ""
 msgid ""
 "But they're finding fossils in America, too.\n"
 msgstr ""
+"不过美洲也出土了化石。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0090_010_0
 #. timeline 6979..8400
@@ -3216,6 +3282,8 @@ msgid ""
 "This one they found three years ago in Texas had\n"
 "a wingspan of more than 12 meters!\n"
 msgstr ""
+"三年前在得州发现的那只，\n"
+"翼展超过12米！\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0090_010_0
 #. timeline 8484..9696
@@ -3224,6 +3292,8 @@ msgid ""
 "If I saw a gigantic pterosaur like that, I'd probably\n"
 "call it a god, too.\n"
 msgstr ""
+"我要是看见那么大的翼龙，\n"
+"大概也会把它当神。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0090_010_0
 #. timeline 9752..10769
@@ -3231,6 +3301,7 @@ msgstr ""
 msgid ""
 "Yup, I'm sure that's what the quetzalcoatl really is.\n"
 msgstr ""
+"没错，羽蛇神本尊肯定就是它。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0100_000_0
 #. timeline 445..1922

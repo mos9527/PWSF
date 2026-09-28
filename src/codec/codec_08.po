@@ -192,6 +192,8 @@ msgid ""
 "So when I first saw the colibri, I thought it was a\n"
 "UFO.\n"
 msgstr ""
+"所以我第一次看到蜂鸟时，\n"
+"还以为是UFO。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_chc0100_020_0
 #. timeline 3956..4541
@@ -199,6 +201,7 @@ msgstr ""
 msgid ""
 "Ah, the Fulton recovery.\n"
 msgstr ""
+"啊，是富尔顿回收。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0100_020_0
 #. timeline 4555..5294
@@ -206,6 +209,7 @@ msgstr ""
 msgid ""
 "I know those guys are working with the aliens.\n"
 msgstr ""
+"我知道那些人在跟外星人合作。\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0100_020_0
 #. timeline 5308..5809
@@ -213,6 +217,7 @@ msgstr ""
 msgid ""
 "Even if they wouldn't let me see them...\n"
 msgstr ""
+"虽然他们不肯让我见……\n"
 
 #. speaker 0x0e28dce6 voice v_bri_chc0100_020_0
 #. timeline 6004..7161
@@ -221,6 +226,8 @@ msgid ""
 "Better not get caught again, or they'll be\n"
 "experimenting on you!\n"
 msgstr ""
+"最好别再被抓，\n"
+"不然就要被拿去实验了！\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0100_020_0
 #. timeline 7648..8192
@@ -228,6 +235,7 @@ msgstr ""
 msgid ""
 "I'd take that over torture...\n"
 msgstr ""
+"总比被拷打强……\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0100_020_0
 #. timeline 8247..8693
@@ -235,6 +243,7 @@ msgstr ""
 msgid ""
 "What do you think they look like?\n"
 msgstr ""
+"你觉得他们长什么样？\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0100_020_0
 #. timeline 8749..9780
@@ -243,6 +252,8 @@ msgid ""
 "Completely bald, maybe, with gray skin and big\n"
 "black eyes?\n"
 msgstr ""
+"也许全秃，灰色皮肤，\n"
+"一双又大又黑的眼睛？\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0100_020_0
 #. timeline 9808..10588
@@ -251,6 +262,8 @@ msgid ""
 "Or maybe they're four vara (11 ft) tall and wear\n"
 "skirts?\n"
 msgstr ""
+"又或者有四巴拉（11英尺）高，\n"
+"还穿着裙子？\n"
 
 #. speaker 0x0e28dce6 voice v_bri_chc0100_020_0
 #. timeline 10602..12496
@@ -259,6 +272,8 @@ msgid ""
 "I kind of doubt it... I'll give you one thing, though,\n"
 "I've never seen anything move like that.\n"
 msgstr ""
+"我有点怀疑……不过有一点你说对了，\n"
+"我从没见过那样移动的东西。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_chc0100_020_0
 #. timeline 12873..13597
@@ -266,6 +281,7 @@ msgstr ""
 msgid ""
 "Maybe the CIA really did make contact...\n"
 msgstr ""
+"也许中情局真的接触过……\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0100_020_0
 #. timeline 13625..14280
@@ -273,6 +289,7 @@ msgstr ""
 msgid ""
 "You see?! It's true!\n"
 msgstr ""
+"你看吧！是真的！\n"
 
 #. speaker 0x0e559953 voice v_bri_chc0100_030_0
 #. timeline 459..1532
@@ -570,55 +587,69 @@ msgstr ""
 msgid ""
 "a flying monster out at sea.\n"
 msgstr ""
+"海上出现的飞行怪物。\n"
 
 #: codec/1/213/0xd5dd0/8
 msgid ""
 "Some even say they landed on this monster island,\n"
 "though we still don't know exactly where it is.\n"
 msgstr ""
+"甚至有人说他们降落在这座怪物岛上，\n"
+"只是我们还不清楚它在哪。\n"
 
 #: codec/1/213/0xd5dd0/9
 msgid ""
 "That's the reason I've always wanted to come to\n"
 "Costa Rica.\n"
 msgstr ""
+"这就是我一直\n"
+"想来哥斯达黎加的原因。\n"
 
 #: codec/1/213/0xd5dd0/10
 msgid ""
 "Ha, I see.\n"
 msgstr ""
+"哈，这样啊。\n"
 
 #: codec/1/213/0xd5dd0/11
 msgid ""
 "I heard another story... about a talking cat that\n"
 "lives somewhere in Costa Rica.\n"
 msgstr ""
+"我还听过另一个故事……\n"
+"关于哥斯达黎加某处一只会说话的猫。\n"
 
 #: codec/1/213/0xd5dd0/12
 msgid ""
 "They say it'll take you to this place.\n"
 msgstr ""
+"据说它会带你去那个地方。\n"
 
 #: codec/1/213/0xd5dd0/13
 msgid ""
 "Interesting stuff.\n"
 msgstr ""
+"有意思。\n"
 
 #: codec/1/213/0xd5dd0/14
 msgid ""
 "Wanna know more about the island?\n"
 msgstr ""
+"想多知道些那座岛的事吗？\n"
 
 #: codec/1/213/0xd5dd0/15
 msgid ""
 "Maybe later. If I'm headed that way you can fill me\n"
 "in.\n"
 msgstr ""
+"以后再说。真要往那边去，\n"
+"你再给我讲。\n"
 
 #: codec/1/213/0xd5dd0/16
 msgid ""
 "OK. Just lemme know!\n"
 msgstr ""
+"好。到时候告诉我！\n"
 
 #: codec/1/214/0xd63b0/0
 msgid ""
@@ -879,12 +910,16 @@ msgid ""
 "Breathe fire? An animal like that can't possibly be\n"
 "real!\n"
 msgstr ""
+"喷火？这种动物\n"
+"不可能是真的！\n"
 
 #: codec/1/214/0xd6dc0/9
 msgid ""
 "We're talking about a monster, Snake. Forget what\n"
 "you think you know!\n"
 msgstr ""
+"斯内克，那可是怪物。\n"
+"把你所谓的常识忘掉！\n"
 
 #: codec/1/215/0xd71b0/0
 msgid ""
@@ -1934,29 +1969,37 @@ msgstr ""
 msgid ""
 "Don't treat me like a kid. I'm a man now.\n"
 msgstr ""
+"别把我当小孩。我现在是个男人了。\n"
 
 #: codec/1/217/0xd9f30/3
 msgid ""
 "OK, then, what are you good at?\n"
 msgstr ""
+"那好，你擅长什么？\n"
 
 #: codec/1/217/0xd9f30/4
 msgid ""
 "Let me think... uhh... Everything! Put me on any\n"
 "team. I can pull my own weight.\n"
 msgstr ""
+"让我想想……呃……什么都会！\n"
+"把我分到哪队都行，我不会拖后腿。\n"
 
 #: codec/1/217/0xd9f30/5
 msgid ""
 "Ha... Well, you are young. You'll probably be a fast\n"
 "learner. I'll think of something.\n"
 msgstr ""
+"哈……你还年轻，\n"
+"学东西应该快。我再想想。\n"
 
 #: codec/1/217/0xd9f30/6
 msgid ""
 "Anything you need, Boss! You'll see - I can fight as\n"
 "good as anybody.\n"
 msgstr ""
+"BOSS，什么差事都交给我！\n"
+"你等着看——我打起仗来不输任何人。\n"
 
 #: codec/1/218/0xda210/0
 msgid ""
@@ -2689,11 +2732,14 @@ msgid ""
 "Shame. And I was about to let an AI take my place\n"
 "in our conversation.\n"
 msgstr ""
+"真遗憾。我本来还想让AI\n"
+"替我跟你聊下去。\n"
 
 #: codec/1/219/0xdbb50/21
 msgid ""
 "Don't even think about it.\n"
 msgstr ""
+"想都别想。\n"
 
 #: codec/1/220/0xdc290/0
 msgid ""
@@ -2996,58 +3042,75 @@ msgid ""
 "What do you mean by that... modeling your AI after\n"
 "the female brain?\n"
 msgstr ""
+"这话什么意思……\n"
+"照女性大脑造你的AI？\n"
 
 #: codec/1/220/0xdcfb0/1
 msgid ""
 "Snake, what is the human mind capable of that a\n"
 "computer is not?\n"
 msgstr ""
+"斯内克，人脑有什么\n"
+"是电脑做不到的？\n"
 
 #: codec/1/220/0xdcfb0/2
 msgid ""
 "Being... lazy?\n"
 msgstr ""
+"会……偷懒？\n"
 
 #: codec/1/220/0xdcfb0/3
 msgid ""
 "Interesting response. And not incorrect...\n"
 "But the answer I was looking for was empathy.\n"
 msgstr ""
+"有意思的回答。也不算错……\n"
+"但我想听的答案是共情。\n"
 
 #: codec/1/220/0xdcfb0/4
 msgid ""
 "Empathy?\n"
 msgstr ""
+"共情？\n"
 
 #: codec/1/220/0xdcfb0/5
 msgid ""
 "The ability to feel for others, to be more precise.\n"
 msgstr ""
+"准确地说，是为他人着想的能力。\n"
 
 #: codec/1/220/0xdcfb0/6
 msgid ""
 "Love for a child, pity for the weak, grief for the\n"
 "dead.\n"
 msgstr ""
+"对孩子的爱、对弱者的怜悯、\n"
+"对逝者的哀悼。\n"
 
 #: codec/1/220/0xdcfb0/7
 msgid ""
 "All of these are particularly well developed in the\n"
 "female brain.\n"
 msgstr ""
+"这些在女性大脑中\n"
+"格外发达。\n"
 
 #: codec/1/220/0xdcfb0/8
 msgid ""
 "That's stretching it a little.\n"
 msgstr ""
+"这说得有点过了吧。\n"
 
 #: codec/1/220/0xdcfb0/9
 msgid ""
 "On the contrary, it's perfectly reasonable.\n"
 msgstr ""
+"恰恰相反，这完全合理。\n"
 
 #: codec/1/220/0xdcfb0/10
 msgid ""
 "The male brain, on the other hand, may be well\n"
 "suited for systematic thinking,\n"
 msgstr ""
+"而男性大脑\n"
+"也许更擅长系统性思维，\n"
