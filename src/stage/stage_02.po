@@ -38,6 +38,7 @@ msgstr "关于 SBM059"
 #: stage/180/lang_mission_info_en.olang/0x215635/0xfb1b26
 msgid "  Mission Location: U.S. Missile Base"
 msgstr ""
+"  任务地点：美军导弹基地"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -164,6 +165,7 @@ msgstr "[16] 追忆"
 #: stage/180/lang_mission_info_en.olang/0x215635/0x15015a
 msgid "Snake and his crew must neutralize Metal Gear ZEKE."
 msgstr ""
+"SNAKE一行必须制伏合金装备·ZEKE。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -191,6 +193,7 @@ msgstr "摧毁敌方的蝶蛹武器。"
 #: stage/180/lang_mission_info_en.olang/0x215635/0x15aca6
 msgid "Proceed immediately to the Control Tower and stop Peace Walker from launching its nukes."
 msgstr ""
+"立即前往管制塔，阻止和平行者发射核弹。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -200,6 +203,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0x15b11e
 msgid "  Mission Location: Mother Base"
 msgstr ""
+"  任务地点：母基地"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -221,6 +225,7 @@ msgstr "[17] 最终试验场"
 #: stage/180/lang_mission_info_en.olang/0x215635/0x16015a
 msgid "Mother Base. A few hours after Metal Gear ZEKE falls silent."
 msgstr ""
+"母基地。合金装备·ZEKE沉寂数小时后。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -254,6 +259,7 @@ msgstr "[18] 茧的强袭"
 #: stage/180/lang_mission_info_en.olang/0x215635/0x17015a
 msgid "Snake encounters a mysterious \"visitor\" on the coast of Costa Rica."
 msgstr ""
+"SNAKE在哥斯达黎加海岸遇到神秘的“访客”。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -299,6 +305,7 @@ msgstr "[19] 和平行者的机库"
 #: stage/180/lang_mission_info_en.olang/0x215635/0x18015a
 msgid "Snake accepts an invitation from Trenya and heads to Isla del Monstruo."
 msgstr ""
+"SNAKE接受Trenya的邀请，前往怪物岛。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -515,6 +522,7 @@ msgstr "[112] AI兵器战：蛹 Ⅱ型"
 #: stage/180/lang_mission_info_en.olang/0x215635/0x1d1b1f
 msgid "Grab as many cardboard boxes as you can from enemy-patrolled Central Heredia and bring them to the goal."
 msgstr ""
+"从有敌兵巡逻的埃雷迪亚中部尽可能多地夺取纸箱，送到终点。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -548,6 +556,7 @@ msgstr "[114] AI兵器战：蝶蛹 Ⅱ型"
 #: stage/180/lang_mission_info_en.olang/0x215635/0x1e1b1f
 msgid "Defeat all enemy mercenaries on the suspension bridge in the El Cenegal area of Eastern Limón with a single bullet."
 msgstr ""
+"在利蒙东部埃尔塞内加尔地区的吊桥上，用一发子弹击败所有敌方雇佣兵。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -614,6 +623,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0x201b1f
 msgid "Defeat all enemy soldiers at the Catarata de la Muerte in the Cloud Forest in Central Heredia with a single bullet."
 msgstr ""
+"在埃雷迪亚中部云雾林的死亡瀑布，用一发子弹击败所有敌兵。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -632,6 +642,7 @@ msgstr "关于SBM066"
 #: stage/180/lang_mission_info_en.olang/0x215635/0x221b1f
 msgid "Take a photo of the Spirit roaming the Ruinas de Xochiquetzal in the Cloud Forest in Central Heredia."
 msgstr ""
+"拍摄在埃雷迪亚中部云雾林索奇克察尔遗迹游荡的幽灵。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -650,6 +661,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0x241b1f
 msgid "Take a photo of the Spirit roaming the Cloud Forest in Central Heredia."
 msgstr ""
+"拍摄在埃雷迪亚中部云雾林游荡的幽灵。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1079,6 +1091,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0x3f1b1f
 msgid "Pooyan Mission: Los Cantos"
 msgstr ""
+"波亚任务：洛斯坎托斯"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1112,6 +1125,7 @@ msgstr "[119] AI兵器战：和平行者 改"
 #: stage/180/lang_mission_info_en.olang/0x215635/0x401b1f
 msgid "Pooyan Mission: Mining Pit"
 msgstr ""
+"波亚任务：采掘坑"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1121,6 +1135,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0x411b1f
 msgid "Pooyan Mission: Isla del Monstruo"
 msgstr ""
+"波亚任务：怪物岛"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3164,6 +3179,7 @@ msgstr "关于 SBM101"
 #: stage/180/lang_mission_info_en.olang/0x215635/0x9e1b26
 msgid "  Mission Location: Bananal Fruta de Oro"
 msgstr ""
+"  任务地点：黄金果香蕉园"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3315,6 +3331,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0x611b1f
 msgid "Defeat the enemy mercenaries at Fuerte la Ladera in Volcán Irazú, take their gear, and make your way to the goal."
 msgstr ""
+"击败伊拉苏火山拉德拉堡的敌军雇佣兵，夺取其装备，前往终点。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3342,6 +3359,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0x621b1f
 msgid "Defeat the enemy mercenaries at the Miners' Residence, take their gear, and make your way to the goal."
 msgstr ""
+"击败矿工住宅区的敌军雇佣兵，夺取其装备，前往终点。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3369,6 +3387,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0x631b1f
 msgid "Defeat the enemy mercenaries at the Supply Facility at Puerto del Alba, take their gear, and make your way to the goal."
 msgstr ""
+"击败黎明港补给设施的敌军雇佣兵，夺取其装备，前往终点。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3450,6 +3469,7 @@ msgstr "和平行者之战2"
 #: stage/180/lang_mission_info_en.olang/0x215635/0x75ac9e
 msgid "The truck carrying the nuclear warheads was last seen heading toward Volcán Irazú. The bridge North of the prison facility is the only way to get there, and a barricade blocks your path. Destroy it with C4. "
 msgstr ""
+"载有核弹头的卡车最后被目击正驶向伊拉苏火山。收容设施北面的桥是通往那里的唯一道路，但路障挡住了去路。用C4炸毁它。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3477,6 +3497,7 @@ msgstr "敌军的茧武器挡住了进入基地的道路。干掉它。"
 #: stage/180/lang_mission_info_en.olang/0x215635/0x75aca5
 msgid "Escape from the Torture Chamber."
 msgstr ""
+"逃离拷问室。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3543,6 +3564,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0x7b1b1f
 msgid "COVER THE PRISONER AS HE MAKES HIS ESCAPE FROM THE MINE BASE."
 msgstr ""
+"掩护囚犯从矿井基地逃跑。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3660,6 +3682,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0x7f1b22
 msgid "Pooyan Mission: U.S. Missile Base - Rooftop"
 msgstr ""
+"波亚任务：美军导弹基地-屋顶"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3840,6 +3863,7 @@ msgstr "扎多尔诺夫搜索任务"
 #: stage/180/lang_mission_info_en.olang/0x215635/0x95ac9d
 msgid "Infiltrate the supply facility at Puerto del Alba, the coastal port where Paz was imprisoned, and obtain intel on the bases of the armed group occupying Costa Rica."
 msgstr ""
+"潜入黎明港补给设施——帕兹曾被囚禁的沿海港口，获取占领哥斯达黎加的武装组织基地情报。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3927,6 +3951,7 @@ msgstr "关于M0410"
 #: stage/180/lang_mission_info_en.olang/0x215635/0xdab11d
 msgid "  Mission Location: Isla del Monstruo"
 msgstr ""
+"  任务地点：怪物岛"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -4077,6 +4102,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xc31b26
 msgid "  Mission Location: El Cadalso"
 msgstr ""
+"  任务地点：绞刑台"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -4398,6 +4424,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xb40159
 msgid "November 4, 1974, Barranquilla Coast, Colombia"
 msgstr ""
+"1974年11月4日，哥伦比亚巴兰基亚海岸"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -4407,6 +4434,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xb50159
 msgid "Snake hears his name called during training at MSF's \"Soldiers Without Borders\" headquarters in Colombia."
 msgstr ""
+"SNAKE在哥伦比亚MSF“无国界士兵”总部训练时听到有人叫他的名字。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -4452,6 +4480,7 @@ msgstr "扎多尔诺夫又从母基地逃走了。找到他并把他带回来。
 #: stage/180/lang_mission_info_en.olang/0x215635/0xb60159
 msgid "Galvez introduces himself as a \"professor\" from Costa Rica and presents his request to Snake."
 msgstr ""
+"加尔维斯自称是来自哥斯达黎加的“教授”，向SNAKE提出请求。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -4461,6 +4490,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xb70159
 msgid "Snake infiltrates the inner coastal facility where Paz was imprisoned to investigate the U.S. mercenary base."
 msgstr ""
+"SNAKE潜入帕兹曾被关押的沿岸内部设施，调查美军雇佣兵基地。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -4470,6 +4500,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xb80159
 msgid "In order to gather information about the local area, Snake heads to a boathouse to make contact with the FSLN Comandante."
 msgstr ""
+"为收集当地情报，SNAKE前往船屋与FSLN指挥官接触。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -4479,6 +4510,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xb90159
 msgid "Snake makes it to the Banana Plantation in pursuit of Amanda."
 msgstr ""
+"SNAKE追至香蕉园寻找阿曼达。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -4488,6 +4520,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xba0159
 msgid "After battling with the armored vehicle, Snake notices Amanda's presence up ahead."
 msgstr ""
+"与装甲车交战后，SNAKE发现阿曼达就在前方。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -4497,6 +4530,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xbb0159
 msgid "Snake finds Amanda's little brother, Chico, in the Irazú Prison Facility."
 msgstr ""
+"SNAKE在伊拉苏收容设施找到阿曼达的弟弟奇科。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT

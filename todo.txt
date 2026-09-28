@@ -90,7 +90,15 @@ python -m pwsf.install --restore        # 出问题就还原
 
 ## 顺手要做的
 
-- 删掉 `_tmp_batch.py`（临时脚本，未提交）
-- 更新 `AGENTS.md` 的「剩余欠账」那行（现在写的是 stage 1,319 / slot 680 / gtt 149 /
-  olang 31，实际真文本只剩 stage ≈405）
-- `src/README.md` 顶部条目数若再变，同步一下
+- [x] 删掉 `_tmp_batch.py`（临时脚本，未提交）
+- [x] 更新 `AGENTS.md` 的「剩余欠账」那行
+- [x] `src/README.md` 顶部条目数（没变，24,931）
+
+## 收尾结果（2026-09-28 冲刺跑完）
+
+- stage 真文本 321 条全部译完并写入（`po_lint` OK，`po_import --install` 已装进
+  游戏，复验「除声明要改的槽位外与原文逐字节相同」）
+- 顺手补了 gtt 最后 2 条（`Perfect.` / `Careful...`）
+- **全部语料的真文本到此译完**：`translated: 23292 / 24931`
+- 剩下 1,639 条未译全是标识符 / 型号 / 占位符 / 音素 / 职员表人名，保持英文：
+  stage 928 / slot 679 / olang 31 / gtt 1 / codec 0

@@ -99,6 +99,7 @@ msgstr "算了，你赶不上了。任务结束。"
 #: stage/168/lang_gameover_en.olang/0x48d0eb/0x000000
 msgid "Snake... Peace Walker launched the nuke."
 msgstr ""
+"SNAKE…和平行者发射了核弹。"
 
 #. STAGEDAT entry 156, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 168, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1309,6 +1310,7 @@ msgstr "操作设置"
 #: stage/180/lang_pausemenu_en.olang/0xc01bdf/0xa3ae18
 msgid "Quit this mission, and return to"
 msgstr ""
+"放弃此任务，返回任务选择菜单。"
 
 #. STAGEDAT entry 156, lang_pausemenu_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 168, lang_pausemenu_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1318,6 +1320,7 @@ msgstr ""
 #: stage/180/lang_pausemenu_en.olang/0xc01be0/0xa3ae18
 msgid "Restart this mission."
 msgstr ""
+"重新开始此任务。"
 
 #. STAGEDAT entry 156, lang_stagetelop_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 168, lang_stagetelop_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1771,6 +1774,7 @@ msgstr "已下载制服"
 #: stage/174/lang_charaedit_en.olang/0x7c7faa/0x955f7d
 msgid "Unable to acquire data."
 msgstr ""
+"无法获取数据。"
 
 #. STAGEDAT entry 174, lang_charaedit_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_charaedit_en.olang/0x7c7faa/0x9c651e
@@ -1911,6 +1915,7 @@ msgstr "虎鲸"
 #: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfddd20
 msgid "Awarded for scoring $1 or more headshots in a row in VS"
 msgstr ""
+"在VS中连续爆头$1次或以上获得奖励（英雄值增加$2）。"
 
 #. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0x00b621
@@ -1918,6 +1923,7 @@ msgstr ""
 #: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0x00b821
 msgid "Awarded for capturing over $1 bases (Heroism increases"
 msgstr ""
+"占领超过$1座基地的奖励（英雄度增加$2）。"
 
 #. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0x00b921
@@ -1925,36 +1931,43 @@ msgstr ""
 #: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0x00bb21
 msgid "Awarded for getting the target to the goal (count to 0) over"
 msgstr ""
+"将目标带到终点（计数归零）超过$1次（英雄度增加$2）。"
 
 #. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfcfc20
 msgid "Awarded for sharing weapons/items and having allies use them"
 msgstr ""
+"分享武器/道具并由同伴使用超过$1次（英雄度增加$2）。"
 
 #. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfcfd20
 msgid "Awarded for being in a cardboard box with someone else for"
 msgstr ""
+"与其他人一起待在纸箱中至少$1小时，并在该时间内移动超过$3米后获得（英雄值增加$2）。"
 
 #. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfd1420
 msgid "Awarded for trading staff over $1 times (Heroism"
 msgstr ""
+"交换队员超过$1次（英雄度增加$2）。"
 
 #. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfd1520
 msgid "Awarded for generously giving over $1 weapons/items to"
 msgstr ""
+"慷慨赠予其他玩家武器/道具超过$1件（英雄度增加$2）。"
 
 #. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfd1d20
 msgid "Awarded for tagging over $1 enemies in Enemy Search"
 msgstr ""
+"在敌人搜索中标记敌人超过$1人（英雄度增加$2）。"
 
 #. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfd3420
 msgid "Awarded for enduring over $1 hours in a cardboard box"
 msgstr ""
+"在纸箱中忍耐超过$1小时（英雄度增加$2）。"
 
 #. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfd3520
@@ -1965,6 +1978,7 @@ msgstr "拍摄照片超过$1张（英雄度增加$2）。"
 #: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfd3720
 msgid "Awarded for sending over $1 CO-OPS messages (Heroism"
 msgstr ""
+"发送合作任务讯息超过$1条（英雄度增加$2）。"
 
 #. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfdda20
@@ -1972,6 +1986,7 @@ msgstr ""
 #: stage/174/lang_gettitle_insignia_list_en.olang/0x8caeae/0xfddc20
 msgid "Awarded for getting $1 or more kills in a row in VS (Heroism"
 msgstr ""
+"在对战中连续击杀$1人或以上（英雄度增加$2）。"
 
 #. STAGEDAT entry 174, lang_gettitle_insignia_list_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_gettitle_insignia_list_en.olang/0xb906b5/0x00b421

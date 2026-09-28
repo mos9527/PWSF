@@ -59,6 +59,11 @@ MANIFEST.tsv       分块索引（条目数 / 覆盖槽位数 / 原文字符数�
 `0x800` 对齐的条目整体重排偏移，译文写进 `*_en.olang` 成员，其余条目原样拷贝，
 已接进 `po_import` 与 `install`。所以翻了**会**进游戏；和其他语料一样，只改英文
 那份。代价是每次重写约 487 MB，不想等就 `--skip stage`。
+
+> 2026-09-28：`stage/` 的真文本**已全部译完**。剩下 928 条空 `msgstr` 全是
+> 部件标识符（`Ctl-Pupa-001Fe`）、武器型号（`12G.(RBR)`、`UT(N425D)`）、
+> VOCALOID 音素（`i:`、`@r`）、占位符（`$1`、`？？？`）与职员表人名，
+> 与日文版一致保持英文，不用翻。
 格式与来龙去脉见
 [`research/ANALYSIS/09_stagedat_payload.md`](../research/ANALYSIS/09_stagedat_payload.md)
 §11。

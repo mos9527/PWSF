@@ -857,6 +857,7 @@ msgstr "恋爱欲测力"
 #: stage/180/lang_demotelop_en.olang/0xb1dc02/0x29e0fc
 msgid "SUNG BY: PAZ"
 msgstr ""
+"演唱：帕兹"
 
 #. STAGEDAT entry 1, lang_demotelop_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 7, lang_demotelop_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -945,6 +946,7 @@ msgstr "获取 VOCALOID 数据失败。"
 #: stage/168/lang_http_error_en.olang/0x029324/0x09e8fa
 msgid "The server is currently busy."
 msgstr ""
+"服务器当前繁忙。"
 
 #. STAGEDAT entry 1, lang_http_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_http_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1124,6 +1126,7 @@ msgstr "无法登录 PlayStation<I=REG>Network。"
 #: stage/168/lang_http_error_en.olang/0x029324/0x4b78c8
 msgid "Converted data already exists."
 msgstr ""
+"转换数据已存在。"
 
 #. STAGEDAT entry 1, lang_http_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_http_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1370,6 +1373,7 @@ msgstr "连接服务器失败。"
 #: stage/168/lang_http_error_en.olang/0x029324/0x9b13a9
 msgid "The network's certificate was not issued by a trusted"
 msgstr ""
+"该网络证书并非由受信任的认证机构颁发。"
 
 #. STAGEDAT entry 1, lang_http_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_http_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1412,6 +1416,7 @@ msgstr "密码错误。"
 #: stage/168/lang_http_error_en.olang/0x029324/0xb091db
 msgid "The data contains prohibited words or phrases."
 msgstr ""
+"数据中含有违禁词句。"
 
 #. STAGEDAT entry 1, lang_http_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_http_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1553,6 +1558,7 @@ msgstr "已断开网络连接。"
 #: stage/168/lang_http_error_en.olang/0x029324/0xef39f4
 msgid "The system has been locked after three incorrect passcode"
 msgstr ""
+"连续三次输入错误密码后，系统已锁定。"
 
 #. STAGEDAT entry 1, lang_http_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_http_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1623,6 +1629,7 @@ msgstr "<I=CAN>：取消"
 #: stage/168/lang_online_error_en.olang/0x77999c/0x072a66
 msgid "The host has kicked you."
 msgstr ""
+"你已被主机踢出。"
 
 #. STAGEDAT entry 1, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1640,6 +1647,7 @@ msgstr ""
 #: stage/168/lang_online_error_en.olang/0x77999c/0x0f848d
 msgid "Maximum number of players reached."
 msgstr ""
+"玩家人数已达上限。"
 
 #. STAGEDAT entry 1, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1674,6 +1682,7 @@ msgstr "正在结束任务。"
 #: stage/168/lang_online_error_en.olang/0x77999c/0x162c8d
 msgid "Soldier data has been corrupted."
 msgstr ""
+"士兵数据损坏。"
 
 #. STAGEDAT entry 1, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1691,6 +1700,7 @@ msgstr ""
 #: stage/168/lang_online_error_en.olang/0x77999c/0x29e03a
 msgid "You have been kicked for idling more than 10 minutes."
 msgstr ""
+"因闲置超过10分钟，你已被踢出。"
 
 #. STAGEDAT entry 1, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1759,6 +1769,7 @@ msgstr "创建游戏"
 #: stage/168/lang_online_error_en.olang/0x77999c/0x39ec29
 msgid "Join the selected host's game?"
 msgstr ""
+"加入所选主机的游戏？"
 
 #. STAGEDAT entry 1, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1810,6 +1821,7 @@ msgstr "主机正在重启游戏。"
 #: stage/168/lang_online_error_en.olang/0x77999c/0x3fdf05
 msgid "A communications error has occurred."
 msgstr ""
+"发生通信错误。"
 
 #. STAGEDAT entry 1, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1908,6 +1920,7 @@ msgstr "连接主机失败。"
 #: stage/168/lang_online_error_en.olang/0x77999c/0x5daf44
 msgid "Disconnected from the server."
 msgstr ""
+"已断开服务器。"
 
 #. STAGEDAT entry 1, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1966,6 +1979,7 @@ msgstr "离开游戏。"
 #: stage/168/lang_online_error_en.olang/0x77999c/0x6d6c49
 msgid "Password is not long enough."
 msgstr ""
+"密码长度不足。"
 
 #. STAGEDAT entry 1, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1983,6 +1997,7 @@ msgstr ""
 #: stage/168/lang_online_error_en.olang/0x77999c/0x6e09db
 msgid "Password is incorrect."
 msgstr ""
+"密码不正确。"
 
 #. STAGEDAT entry 1, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2007,6 +2022,7 @@ msgstr ""
 #: stage/168/lang_online_error_en.olang/0x77999c/0xaa14a4
 msgid "Game rules and map have not been set."
 msgstr ""
+"游戏规则与地图尚未设置。"
 
 #. STAGEDAT entry 1, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2184,6 +2200,7 @@ msgstr "正在搜索主机..."
 #: stage/168/lang_online_error_en.olang/0x77999c/0x99f3a6
 msgid "You have been kicked for killing at least 3 team members."
 msgstr ""
+"因击杀至少3名队友，你已被踢出。"
 
 #. STAGEDAT entry 1, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2201,6 +2218,7 @@ msgstr ""
 #: stage/168/lang_online_error_en.olang/0x77999c/0xa1a5e6
 msgid "Select a host to join."
 msgstr ""
+"选择要加入的主机。"
 
 #. STAGEDAT entry 1, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2286,6 +2304,7 @@ msgstr "正在结束游戏。"
 #: stage/168/lang_online_error_en.olang/0x77999c/0xc546a4
 msgid "The disc for METAL GEAR SOLID PEACE WALKER is not inserted properly."
 msgstr ""
+"METAL GEAR SOLID PEACE WALKER光盘未正确插入。"
 
 #. STAGEDAT entry 1, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2320,6 +2339,7 @@ msgstr "无错误"
 #: stage/168/lang_online_error_en.olang/0x77999c/0xc932e3
 msgid "Host name is not long enough."
 msgstr ""
+"主机名太短。"
 
 #. STAGEDAT entry 1, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2354,6 +2374,7 @@ msgstr "重启任务。"
 #: stage/168/lang_online_error_en.olang/0x77999c/0xcd3891
 msgid "Wireless connection has been lost. "
 msgstr ""
+"无线连接已断开。"
 
 #. STAGEDAT entry 1, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 11, lang_online_error_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3389,6 +3410,7 @@ msgstr "跳过过场，继续推进。"
 #: stage/27/lang_spooky_common_en.olang/0x6ccb00/0xabe100
 msgid "Information restrictions now in place. "
 msgstr ""
+"信息受限。"
 
 #. STAGEDAT entry 11, lang_spooky_common_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 27, lang_spooky_common_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3452,16 +3474,19 @@ msgstr "攻击"
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x000000
 msgid "Snake? You still here?"
 msgstr ""
+"斯内克？你还在吗？"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x000001
 msgid "C'mon, let's go back."
 msgstr ""
+"走吧，我们回去。"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x000002
 msgid "I'm not going back."
 msgstr ""
+"我不回去。"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x000003
@@ -3472,51 +3497,61 @@ msgstr "嗯？"
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x000004
 msgid "I'm done."
 msgstr ""
+"我受够了。"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x000005
 msgid "Snake, you don't mean..."
 msgstr ""
+"斯内克，你该不会是……"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x000006
 msgid "I'm done looking for the truth."
 msgstr ""
+"我再也不想追寻真相了。"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x000007
 msgid "What are you saying, Snake?"
 msgstr ""
+"你在说什么啊，斯内克？"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x000008
 msgid "I was wrong."
 msgstr ""
+"是我错了。"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x000009
 msgid "C'mon, Boss. Everybody's waiting for you."
 msgstr ""
+"别这样，BOSS。大家都在等你。"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x00000a
 msgid "...She betrayed me, Kaz."
 msgstr ""
+"……她背叛了我，卡兹。"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x00000b
 msgid "She what?"
 msgstr ""
+"她什么？"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x00000c
 msgid "In the end, she put down her gun."
 msgstr ""
+"最后，她放下了枪。"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x00000d
 msgid "And when she did... she rejected her entire life"
 msgstr ""
+"而就在那一刻……她否定了自己的整个人生"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x00000e
@@ -3527,21 +3562,25 @@ msgstr "什么意思？"
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x00000f
 msgid "In giving up her life, she abandoned everything"
 msgstr ""
+"她舍弃了生命，也舍弃了一切"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x000010
 msgid "And you consider that betrayal?"
 msgstr ""
+"你认为那就是背叛？"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x000011
 msgid "I won't make the same choice as her."
 msgstr ""
+"我不会做出和她一样的选择。"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x000012
 msgid "My future's going to be different."
 msgstr ""
+"我的未来会不一样。"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x000013
@@ -3552,86 +3591,103 @@ msgstr ""
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x000014
 msgid "Yeah, that's right. "
 msgstr ""
+"没错，就是这样。"
 
 #. STAGEDAT entry 11, lang_v_theater010_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater010_en.olang/0x754409/0x000015
 msgid "From now on, call me Big Boss."
 msgstr ""
+"从今往后，叫我BIG BOSS。"
 
 #. STAGEDAT entry 11, lang_v_theater020_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater020_en.olang/0x754429/0x000000
 msgid "We will forsake our countries. "
 msgstr ""
+"我们将背弃各自的祖国。"
 
 #. STAGEDAT entry 11, lang_v_theater020_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater020_en.olang/0x754429/0x000001
 msgid "We will leave our motherlands behind us"
 msgstr ""
+"我们将把故土抛在身后"
 
 #. STAGEDAT entry 11, lang_v_theater020_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater020_en.olang/0x754429/0x000002
 msgid "We have no nation, no philosophy, no ideology. "
 msgstr ""
+"我们没有国家，没有哲学，没有意识形态。"
 
 #. STAGEDAT entry 11, lang_v_theater020_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater020_en.olang/0x754429/0x000003
 msgid "We go where we're needed, "
 msgstr ""
+"我们奔赴需要我们的地方，"
 
 #. STAGEDAT entry 11, lang_v_theater020_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater020_en.olang/0x754429/0x000004
 msgid "fighting not for country, not for government,"
 msgstr ""
+"不为国家而战，不为政府而战，"
 
 #. STAGEDAT entry 11, lang_v_theater020_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater020_en.olang/0x754429/0x000005
 msgid "We need no reason to fight."
 msgstr ""
+"我们不需要战斗的理由。"
 
 #. STAGEDAT entry 11, lang_v_theater020_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater020_en.olang/0x754429/0x000006
 msgid "We will be the deterrent for those"
 msgstr ""
+"我们将成为那些人的威慑"
 
 #. STAGEDAT entry 11, lang_v_theater020_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater020_en.olang/0x754429/0x000007
 msgid "We are soldiers without borders,"
 msgstr ""
+"我们是无国界的士兵，"
 
 #. STAGEDAT entry 11, lang_v_theater020_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater020_en.olang/0x754429/0x000008
 msgid "We will sometimes have to sell "
 msgstr ""
+"有时我们不得不出卖"
 
 #. STAGEDAT entry 11, lang_v_theater020_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater020_en.olang/0x754429/0x000009
 msgid "If the times demand it, we'll be revolutionaries,"
 msgstr ""
+"若时代需要，我们就成为革命者，"
 
 #. STAGEDAT entry 11, lang_v_theater020_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater020_en.olang/0x754429/0x00000a
 msgid "And yes, we may all be headed straight to hell."
 msgstr ""
+"没错，我们或许都在直奔地狱。"
 
 #. STAGEDAT entry 11, lang_v_theater020_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater020_en.olang/0x754429/0x00000b
 msgid "But what better place for us than this?"
 msgstr ""
+"但还有什么地方更适合我们？"
 
 #. STAGEDAT entry 11, lang_v_theater020_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater020_en.olang/0x754429/0x00000c
 msgid "It's our only home."
 msgstr ""
+"那是我们唯一的归宿。"
 
 #. STAGEDAT entry 11, lang_v_theater020_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater020_en.olang/0x754429/0x00000d
 msgid "Our heaven and our hell."
 msgstr ""
+"我们的天堂，也是我们的地狱。"
 
 #. STAGEDAT entry 11, lang_v_theater020_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/11/lang_v_theater020_en.olang/0x754429/0x00000e
 msgid "This is Outer Heaven. "
 msgstr ""
+"这就是世外天堂。"
 
 #. STAGEDAT entry 15, lang_emergencytelop_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_emergencytelop_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -5038,6 +5094,7 @@ msgstr "关于 SBM055"
 #: stage/180/lang_mission_info_en.olang/0x215635/0xe11b26
 msgid "  Mission Location: Crater Base"
 msgstr ""
+"  任务地点：火山口基地"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -5059,6 +5116,7 @@ msgstr "关于 SBM056"
 #: stage/180/lang_mission_info_en.olang/0x215635/0xe21b26
 msgid "  Mission Location: AI Laboratory"
 msgstr ""
+"  任务地点：AI实验室"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -5080,6 +5138,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xe31b26
 msgid "  Mission Location: Mining Pit"
 msgstr ""
+"  任务地点：采掘坑"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT

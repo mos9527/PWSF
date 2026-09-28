@@ -1192,6 +1192,7 @@ msgstr "装甲车辆"
 #: stage/174/lang_myouter_develop_en.olang/0xcc177c/0x5c7a78
 msgid "OK: <I=DEC>  CANCEL: <I=CAN>"
 msgstr ""
+"确定: <I=DEC>  取消: <I=CAN>"
 
 #. STAGEDAT entry 23, lang_myouter_develop_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_develop_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1485,6 +1486,7 @@ msgstr "按<I=DEC>键查看需满足的条件。"
 #: stage/174/lang_myouter_develop_en.olang/0x82e3c9/0x6fd5fa
 msgid "In this case, it looks like the R&D Team's level is not high enough."
 msgstr ""
+"此时研发班等级似乎不够。"
 
 #. STAGEDAT entry 23, lang_myouter_develop_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_develop_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1696,6 +1698,7 @@ msgstr "物品开发树"
 #: stage/174/lang_myouter_develop_en.olang/0xcc177c/0x80fb28
 msgid "Development has stalled because one"
 msgstr ""
+"因未满足一项或多项条件，开发已停滞。"
 
 #. STAGEDAT entry 23, lang_myouter_develop_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_develop_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1730,6 +1733,7 @@ msgstr "开发状态"
 #: stage/174/lang_myouter_develop_en.olang/0xcc177c/0xb726f3
 msgid "Development has stalled"
 msgstr ""
+"开发已停滞。"
 
 #. STAGEDAT entry 23, lang_myouter_develop_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_develop_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1789,6 +1793,7 @@ msgstr "弹药数量"
 #: stage/174/lang_myouter_develop_en.olang/0xcc177c/0x1a6cae
 msgid "Preparation for development is complete."
 msgstr ""
+"开发准备已完成。"
 
 #. STAGEDAT entry 23, lang_myouter_develop_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_develop_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2209,6 +2214,7 @@ msgstr "防御"
 #: stage/174/lang_myouter_staff_en.olang/0x5d8989/0x93b70e
 msgid "Are you sure you want to automatically assign staff"
 msgstr ""
+"确定要将待命室的士兵自动分配到各班吗？"
 
 #. STAGEDAT entry 23, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2251,6 +2257,7 @@ msgstr "军人"
 #: stage/174/lang_myouter_staff_en.olang/0x5d8989/0xb3e2fc
 msgid "Mother Base consists of a number of teams, such as"
 msgstr ""
+"母基地由多个班组成，如战斗班、研发班和医疗班。"
 
 #. STAGEDAT entry 23, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2258,6 +2265,7 @@ msgstr ""
 #: stage/174/lang_myouter_staff_en.olang/0x5d8989/0xb3e31c
 msgid "New weapons and items can be developed once you"
 msgstr ""
+"将士兵分配到各班并提升班级等级后，即可开发新武器和道具。"
 
 #. STAGEDAT entry 23, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2279,6 +2287,7 @@ msgstr "待命室里的士兵可以分配到各班。"
 #: stage/174/lang_myouter_staff_en.olang/0x5d8989/0xb3e37c
 msgid "Enabling AUTO ASSIGN automatically assigns soldiers"
 msgstr ""
+"开启自动分配后，待命室里的士兵会自动分配到最适合其能力的班。"
 
 #. STAGEDAT entry 23, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2286,6 +2295,7 @@ msgstr ""
 #: stage/174/lang_myouter_staff_en.olang/0x5d8989/0xb3e39c
 msgid "New weapons and items can now be developed"
 msgstr ""
+"由于人员分配，研发团队等级提升，现在可以开发新的武器和道具了。"
 
 #. STAGEDAT entry 23, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2300,6 +2310,7 @@ msgstr "士兵也可以逐个分配。"
 #: stage/174/lang_myouter_staff_en.olang/0x5d8989/0xb3e3dc
 msgid "Help Mother Base develop by gathering only the best"
 msgstr ""
+"只招募最优秀的士兵并合理分配，帮助母基地发展壮大。"
 
 #. STAGEDAT entry 23, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2314,6 +2325,7 @@ msgstr "按 □ 键选择要分配的士兵。"
 #: stage/174/lang_myouter_staff_en.olang/0x5d8989/0xb3e6fc
 msgid "Press the OK Button to specify the team to which"
 msgstr ""
+"按确定按钮指定要分配士兵的小队。"
 
 #. STAGEDAT entry 23, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2328,6 +2340,7 @@ msgstr "#医疗班"
 #: stage/174/lang_myouter_staff_en.olang/0x5d8989/0xb462fc
 msgid "The Mess Hall Team manages food for all of"
 msgstr ""
+"食堂班负责管理整个母基地的食物供应。"
 
 #. STAGEDAT entry 23, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2335,6 +2348,7 @@ msgstr ""
 #: stage/174/lang_myouter_staff_en.olang/0x5d8989/0xb4631c
 msgid "The higher the level of the Mess Hall Team,"
 msgstr ""
+"食堂班等级越高，可开发的恢复道具等级越高。"
 
 #. STAGEDAT entry 23, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2350,6 +2364,7 @@ msgstr "食物供应率显示有多少比例的士兵能吃上热饭。"
 #, c-format
 msgid "A FOOD supply rate of 100% or more indicates that there"
 msgstr ""
+"食物供给率达到100%以上，表示食物足以供应所有员工，此时他们的士气会上升。"
 
 #. STAGEDAT entry 23, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2357,6 +2372,7 @@ msgstr ""
 #: stage/174/lang_myouter_staff_en.olang/0x5d8989/0xb4637c
 msgid "Staff with high morale will be able to perform beyond their"
 msgstr ""
+"士气高的士兵能发挥出超越自身能力的水准。"
 
 #. STAGEDAT entry 23, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2365,6 +2381,7 @@ msgstr ""
 #, c-format
 msgid "Conversely, when the FOOD supply rate is under 100%,"
 msgstr ""
+"反之，食物供应率低于100%时，士兵士气会逐渐下降。"
 
 #. STAGEDAT entry 23, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2372,6 +2389,7 @@ msgstr ""
 #: stage/174/lang_myouter_staff_en.olang/0x5d8989/0xb463bc
 msgid "Staff with low morale will be unable to perform to their"
 msgstr ""
+"士气低的士兵无法发挥出自身应有的能力。"
 
 #. STAGEDAT entry 23, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2472,6 +2490,7 @@ msgstr "确定要解雇所选人员吗？"
 #: stage/174/lang_myouter_staff_en.olang/0x5d8989/0xddd72f
 msgid "CAUTION:"
 msgstr ""
+"注意："
 
 #. STAGEDAT entry 23, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2500,6 +2519,7 @@ msgstr "人员已超上限，无法分配任务。"
 #: stage/174/lang_myouter_staff_en.olang/0x5d8989/0xebe9dd
 msgid "There are one or more teams over the roster limit."
 msgstr ""
+"有一个或多个小队超出编制上限。"
 
 #. STAGEDAT entry 23, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_staff_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3059,6 +3079,7 @@ msgstr "士兵已加入。"
 #: stage/174/lang_myouter_top_en.olang/0x183317/0x24cfbd
 msgid "$3 parts were produced from"
 msgstr ""
+"从$2 [$1]生产了$3个零件。"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3088,6 +3109,7 @@ msgstr "目前有大量队员在[待命室]闲置。将他们编入各小队，�
 #: stage/174/lang_myouter_top_en.olang/0x183317/0x32e5dd
 msgid "Mechs are now available for viewing."
 msgstr ""
+"现在可以查看机甲了。"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3270,6 +3292,7 @@ msgstr "已获得合金装备零件材料。"
 #: stage/174/lang_myouter_top_en.olang/0x183317/0x751f3e
 msgid "Welcome to MSF's Mother Base!"
 msgstr ""
+"欢迎来到MSF母基地！"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3277,6 +3300,7 @@ msgstr ""
 #: stage/174/lang_myouter_top_en.olang/0x183317/0x776005
 msgid "Metal Gear AI is now available for reference."
 msgstr ""
+"合金装备AI现已可供参考。"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3341,6 +3365,7 @@ msgstr "已获武器。"
 #: stage/174/lang_myouter_top_en.olang/0x183317/0x9fd2da
 msgid "VOCALOID has been installed on Metal Gear."
 msgstr ""
+"VOCALOID已安装到合金装备。"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3442,6 +3467,7 @@ msgstr "[PTSD]"
 #: stage/174/lang_myouter_top_en.olang/0x183317/0xc1ee4c
 msgid "The soldier was in $1 status upon arrival,"
 msgstr ""
+"该士兵抵达时处于$1状态，已转至$2。"
 
 #. STAGEDAT entry 23, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_myouter_top_en.olang -- written back by pwsf.stage_build into 009645fa.PDT

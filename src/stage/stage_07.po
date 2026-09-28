@@ -36,6 +36,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_keyboard_en.olang/0xd9605f/0x467fab
 msgid "PHONEME INPUT"
 msgstr ""
+"音素输入"
 
 #. STAGEDAT entry 23, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -50,6 +51,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_keyboard_en.olang/0xd9605f/0x9633c0
 msgid "View HELP instructions for VOCALOID lyric and dialogue editing."
 msgstr ""
+"查看VOCALOID歌词与台词编辑的HELP说明。"
 
 #. STAGEDAT entry 23, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -64,6 +66,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_keyboard_en.olang/0xd9605f/0x9d9a9f
 msgid "Edit with standard alphabet input."
 msgstr ""
+"用标准字母输入进行编辑。"
 
 #. STAGEDAT entry 23, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -71,6 +74,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_keyboard_en.olang/0xd9605f/0xb596d2
 msgid "BACK SPACE:"
 msgstr ""
+"退格："
 
 #. STAGEDAT entry 23, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -78,6 +82,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_keyboard_en.olang/0xd9605f/0xbf2803
 msgid "STANDARD INPUT"
 msgstr ""
+"标准输入"
 
 #. STAGEDAT entry 23, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -85,6 +90,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_keyboard_en.olang/0xd9605f/0xc2391a
 msgid "The following two methods are available to input lyrics "
 msgstr ""
+"输入歌词可使用以下两种方式"
 
 #. STAGEDAT entry 23, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -92,6 +98,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_keyboard_en.olang/0xd9605f/0xd5f2f5
 msgid "Do you want to cancel text entry?"
 msgstr ""
+"要取消文本输入吗？"
 
 #. STAGEDAT entry 23, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -99,6 +106,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_keyboard_en.olang/0xd9605f/0xd7d7ca
 msgid "SPACE:"
 msgstr ""
+"空格："
 
 #. STAGEDAT entry 23, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_vocaloid_keyboard_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -106,6 +114,7 @@ msgstr ""
 #: stage/88/lang_vocaloid_keyboard_en.olang/0xd9605f/0xf72416
 msgid "ENTER:"
 msgstr ""
+"回车："
 
 #. STAGEDAT entry 23, lang_weapon_text_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_weapon_text_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1740,6 +1749,7 @@ msgstr "美味又营养的水果。哥斯达黎加产。"
 #: stage/174/lang_weapon_text_en.olang/0x594864/0x000027
 msgid "Large-bore combat pistol."
 msgstr ""
+"大口径战斗手枪。"
 
 #. STAGEDAT entry 23, lang_weapon_text_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_weapon_text_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1928,6 +1938,7 @@ msgstr "紧凑轻便的冲锋枪。后坐力小、自动瞄准范围广，但单
 #: stage/174/lang_weapon_text_en.olang/0x594864/0x000233
 msgid "Compact & lightweight submachine gun."
 msgstr ""
+"紧凑轻便的冲锋枪。"
 
 #. STAGEDAT entry 23, lang_weapon_text_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_weapon_text_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2167,6 +2178,7 @@ msgstr "火枪。当此枪命中目标时，偶尔会发生怪事。"
 #: stage/174/lang_weapon_text_en.olang/0x594864/0x000082
 msgid "Compact & lightweight assault rifle."
 msgstr ""
+"紧凑轻便的突击步枪。"
 
 #. STAGEDAT entry 23, lang_weapon_text_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_weapon_text_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2288,6 +2300,7 @@ msgstr "特殊枪械，可交叉多道电磁波将能量集中于一点。需合
 #: stage/174/lang_weapon_text_en.olang/0x594864/0x000239
 msgid "Large-bore general purpose machine gun"
 msgstr ""
+"大口径通用机枪"
 
 #. STAGEDAT entry 23, lang_weapon_text_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_weapon_text_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2472,6 +2485,7 @@ msgstr "轨道枪远程充电系统。锁定合作任务队友的轨道枪后为
 #: stage/174/lang_weapon_text_en.olang/0x594864/0x0000cb
 msgid "Large-bore automatic sniper rifle. "
 msgstr ""
+"大口径自动狙击步枪。"
 
 #. STAGEDAT entry 23, lang_weapon_text_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_weapon_text_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2619,6 +2633,7 @@ msgstr "所有玩家进入合作后，一起设置立柱和弹力带，然后由
 #: stage/174/lang_weapon_text_en.olang/0x594864/0x000244
 msgid "Rocket-propelled grenade launcher."
 msgstr ""
+"火箭推进榴弹发射器。"
 
 #. STAGEDAT entry 23, lang_weapon_text_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_weapon_text_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2898,21 +2913,25 @@ msgstr "设置式支援攻击请求标记。设置后按<I=HHA>发动攻击。�
 #: stage/27/lang_demoskiptelop_en.olang/0x4f2958/0xf1b046
 msgid "Cutscene has been skipped. "
 msgstr ""
+"已跳过过场动画。"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294c2f/0x29e0fc
 msgid "A HIDEO KOJIMA GAME"
 msgstr ""
+"HIDEO KOJIMA作品"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294c30/0x29e0fc
 msgid "KONAMI DIGITAL ENTERTAINMENT Presents"
 msgstr ""
+"KONAMI DIGITAL ENTERTAINMENT出品"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294c31/0x29e0fc
 msgid "Cast/Staff "
 msgstr ""
+"演员/职员"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294c32/0x29e0fc
@@ -2987,6 +3006,7 @@ msgstr ""
 #: stage/27/lang_demotelop2_en.olang/0x294c55/0x29e0fc
 msgid "Developed by KOJIMA PRODUCTIONS"
 msgstr ""
+"KOJIMA PRODUCTIONS开发"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294c6f/0x29e0fc
@@ -2997,6 +3017,7 @@ msgstr ""
 #: stage/27/lang_demotelop2_en.olang/0x294c70/0x29e0fc
 msgid "Original Story/Planning/Game Design"
 msgstr ""
+"原作/企划/游戏设计"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294c71/0x29e0fc
@@ -3008,6 +3029,7 @@ msgstr ""
 #: stage/27/lang_demotelop2_en.olang/0x294c72/0x29e0fc
 msgid "Written by"
 msgstr ""
+"剧本"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294c74/0x29e0fc
@@ -3018,6 +3040,7 @@ msgstr ""
 #: stage/27/lang_demotelop2_en.olang/0x294c75/0x29e0fc
 msgid "Character & Mechanical Design"
 msgstr ""
+"角色与机械设计"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294c76/0x29e0fc
@@ -3068,6 +3091,7 @@ msgstr ""
 #: stage/27/lang_demotelop2_en.olang/0x294c95/0x29e0fc
 msgid "Real-time Demo Artist"
 msgstr ""
+"实时演示美术"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294c96/0x29e0fc
@@ -3088,6 +3112,7 @@ msgstr ""
 #: stage/27/lang_demotelop2_en.olang/0x294caf/0x29e0fc
 msgid "3D Artist"
 msgstr ""
+"3D美术"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294cb0/0x29e0fc
@@ -3098,6 +3123,7 @@ msgstr ""
 #: stage/27/lang_demotelop2_en.olang/0x294cb1/0x29e0fc
 msgid "Level Designers"
 msgstr ""
+"关卡设计"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294cb2/0x29e0fc
@@ -3118,6 +3144,7 @@ msgstr ""
 #: stage/27/lang_demotelop2_en.olang/0x294cb5/0x29e0fc
 msgid "Sound Designers"
 msgstr ""
+"音效设计"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294cb6/0x29e0fc
@@ -3143,6 +3170,7 @@ msgstr ""
 #: stage/27/lang_demotelop2_en.olang/0x294cd0/0x29e0fc
 msgid "Sound Director"
 msgstr ""
+"音效总监"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294cd1/0x29e0fc
@@ -3153,6 +3181,7 @@ msgstr ""
 #: stage/27/lang_demotelop2_en.olang/0x294cd2/0x29e0fc
 msgid "Technical Producer"
 msgstr ""
+"技术监制"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294cd3/0x29e0fc
@@ -3163,6 +3192,7 @@ msgstr ""
 #: stage/27/lang_demotelop2_en.olang/0x294cd4/0x29e0fc
 msgid "Creative Producer"
 msgstr ""
+"创意监制"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294cd5/0x29e0fc
@@ -3173,6 +3203,7 @@ msgstr ""
 #: stage/27/lang_demotelop2_en.olang/0x294cd6/0x29e0fc
 msgid "Promotion Director"
 msgstr ""
+"宣传总监"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294cd7/0x29e0fc
@@ -3228,6 +3259,7 @@ msgstr ""
 #: stage/27/lang_demotelop2_en.olang/0x294d13/0x29e0fc
 msgid "Sony Stereo Cassette Player"
 msgstr ""
+"Sony立体声盒式磁带播放器"
 
 #. STAGEDAT entry 27, lang_demotelop2_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/27/lang_demotelop2_en.olang/0x294d14/0x29e0fc
@@ -3259,6 +3291,7 @@ msgstr "你在撒谎，SNAKE！SNA-A-AKE！"
 #: stage/168/lang_gameover_en.olang/0x084041/0x000000
 msgid "What happened, Snake?!"
 msgstr ""
+"怎么了，SNAKE？！"
 
 #. STAGEDAT entry 156, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 168, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3266,6 +3299,7 @@ msgstr ""
 #: stage/168/lang_gameover_en.olang/0x084045/0x000000
 msgid "Snake! Come in, Snake!"
 msgstr ""
+"SNAKE！回答，SNAKE！"
 
 #. STAGEDAT entry 156, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 168, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3273,6 +3307,7 @@ msgstr ""
 #: stage/168/lang_gameover_en.olang/0x084049/0x000000
 msgid "Are you all right?! Snake?!"
 msgstr ""
+"你没事吧？！SNAKE？！"
 
 #. STAGEDAT entry 156, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 168, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3287,6 +3322,7 @@ msgstr "怎么了，BOSS？"
 #: stage/168/lang_gameover_en.olang/0x084051/0x000000
 msgid "What's going on, Snake?! Report!"
 msgstr ""
+"怎么回事，SNAKE？！报告！"
 
 #. STAGEDAT entry 156, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 168, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3301,6 +3337,7 @@ msgstr "怎么回事，SNAKE？！报告！你那边情况如何？！Snaaaaaaak
 #: stage/168/lang_gameover_en.olang/0x084055/0x000000
 msgid "Stop kidding around, Snake!"
 msgstr ""
+"别开玩笑了，SNAKE！"
 
 #. STAGEDAT entry 156, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 168, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3338,6 +3375,7 @@ msgstr "怎么了？为什么不回答？！请求情况报告！"
 #: stage/168/lang_gameover_en.olang/0x0840c1/0x000000
 msgid "It's over, Snake. Your buddy fell in."
 msgstr ""
+"结束了，SNAKE。你的同伴掉下去了。"
 
 #. STAGEDAT entry 156, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 168, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3345,6 +3383,7 @@ msgstr ""
 #: stage/168/lang_gameover_en.olang/0x0840c5/0x000000
 msgid "Abort the mission, Snake!"
 msgstr ""
+"中止任务，SNAKE！"
 
 #. STAGEDAT entry 156, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 168, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3359,6 +3398,7 @@ msgstr "你怎么能让他死了？！"
 #: stage/168/lang_gameover_en.olang/0x0840c9/0x000000
 msgid "Hold it, Snake. Your man's been incapacitated."
 msgstr ""
+"住手，SNAKE。你的人已失去战斗力。"
 
 #. STAGEDAT entry 156, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 168, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3373,6 +3413,7 @@ msgstr "真糟糕……"
 #: stage/168/lang_gameover_en.olang/0x0840cd/0x000000
 msgid "I'm getting no response"
 msgstr ""
+"你的搭档没有回应，SNAKE。"
 
 #. STAGEDAT entry 156, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 168, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3380,6 +3421,7 @@ msgstr ""
 #: stage/168/lang_gameover_en.olang/0x0840cd/0x000001
 msgid "I'm calling off the mission."
 msgstr ""
+"我取消任务。"
 
 #. STAGEDAT entry 156, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 168, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -3485,6 +3527,7 @@ msgstr "我们这次败得可真彻底。"
 #: stage/168/lang_gameover_en.olang/0x483fdd/0x000000
 msgid "Abort mission - they stole an item."
 msgstr ""
+"中止任务——他们偷走了一件物品。"
 
 #. STAGEDAT entry 156, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 168, lang_gameover_en.olang -- written back by pwsf.stage_build into 009645fa.PDT

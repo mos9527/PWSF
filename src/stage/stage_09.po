@@ -839,61 +839,73 @@ msgstr "已获\"机动性\"零件：$1"
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x235e66
 msgid "You have been awarded a new insignia."
 msgstr ""
+"获得新徽章。"
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x24629c
 msgid "Obtained design specs for the following weapon/item:"
 msgstr ""
+"获得以下武器/道具的开发规格："
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x285030
 msgid "You obtained Paz's Diary Part 1."
 msgstr ""
+"获得帕兹的日记 第1部分。"
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x285031
 msgid "You obtained Paz's Diary Part 2."
 msgstr ""
+"获得帕兹的日记 第2部分。"
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x285032
 msgid "You obtained Paz's Diary Part 3."
 msgstr ""
+"获得帕兹的日记 第3部分。"
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x285033
 msgid "You obtained Paz's Diary Part 4."
 msgstr ""
+"获得帕兹的日记 第4部分。"
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x285034
 msgid "You obtained Paz's Diary Part 5."
 msgstr ""
+"获得帕兹的日记 第5部分。"
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x285035
 msgid "You obtained Paz's Diary Part 6."
 msgstr ""
+"获得帕兹的日记 第6部分。"
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x285036
 msgid "You obtained Paz's Diary Part 7."
 msgstr ""
+"获得帕兹的日记 第7部分。"
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x285037
 msgid "You obtained Paz's Diary Part 8."
 msgstr ""
+"获得帕兹的日记 第8部分。"
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x285038
 msgid "You obtained Paz's Diary Part 9."
 msgstr ""
+"获得帕兹的日记 第9部分。"
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x28504f
 msgid "You obtained Paz's Diary Part 10."
 msgstr ""
+"获得帕兹的日记 第10部分。"
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x2c004d
@@ -918,6 +930,7 @@ msgstr ""
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x2c008c
 msgid "New camouflage developed:"
 msgstr ""
+"开发出新迷彩："
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x2c008d
@@ -942,6 +955,7 @@ msgstr ""
 #: stage/174/lang_mission_result_en.olang/0x03c205/0xb13e1f
 msgid "New uniform developed:"
 msgstr ""
+"新制服开发完成："
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x306594
@@ -972,6 +986,7 @@ msgstr "获得了一份窃听录音。"
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x48302c
 msgid "You have been awarded a new codename."
 msgstr ""
+"你获得了新的代号。"
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x485449
@@ -1002,21 +1017,25 @@ msgstr "已获得“CONTROL”存储板：$1"
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x4fbb90
 msgid "The following stage can now be selected in VERSUS OPS:"
 msgstr ""
+"对战任务中现已可选以下关卡："
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x512b52
 msgid "You obtained Strangelove's Cassette Tape #1."
 msgstr ""
+"你获得了斯特兰奇洛夫的录音带#1。"
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x512b53
 msgid "You obtained Strangelove's Cassette Tape #2."
 msgstr ""
+"你获得了斯特兰奇洛夫的录音带#2。"
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x512b54
 msgid "You obtained Strangelove's Cassette Tape #3."
 msgstr ""
+"你获得了斯特兰奇洛夫的录音带#3。"
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x573913
@@ -1309,6 +1328,7 @@ msgstr "茧头部零件：$1 %"
 #: stage/174/lang_mission_result_en.olang/0x03c205/0xec8837
 msgid "The following words can now be infused with heroic spirit:"
 msgstr ""
+"以下台词现可注入英雄之魂："
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0x92f5f0
@@ -1336,6 +1356,7 @@ msgstr "已获得存储板：$1"
 #: stage/174/lang_mission_result_en.olang/0x03c205/0xb309ec
 msgid "You received new CO-OPS Comm. messages."
 msgstr ""
+"收到新合作任务通讯。"
 
 #. STAGEDAT entry 174, lang_mission_result_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_mission_result_en.olang/0x03c205/0xb57c73
@@ -2129,6 +2150,7 @@ msgstr "通关评价"
 #: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x002d8b
 msgid "Metal Gear ZEKE is not complete."
 msgstr ""
+"合金装备·ZEKE尚未完成。"
 
 #. STAGEDAT entry 174, lang_myouter_develop_metal_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/174/lang_myouter_develop_metal_en.olang/0x1a3e77/0x00f276

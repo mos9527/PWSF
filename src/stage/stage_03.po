@@ -17,6 +17,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xbc0159
 msgid "Utilizing the information provided by Chico, Snake makes his way to the railroad transport route."
 msgstr ""
+"利用奇科提供的情报，SNAKE前往铁路运输路线。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -35,6 +36,7 @@ msgstr "关于 SBM031"
 #: stage/180/lang_mission_info_en.olang/0x215635/0xbd0159
 msgid "Snake pursues the nuclear warheads transported from the coast and infiltrates the Crater Base."
 msgstr ""
+"SNAKE追踪从海岸运出的核弹头，潜入火山口基地。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -62,6 +64,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xbf1b1e
 msgid "Defend the items in the Miners' Residence from the attacking enemy mercenaries and eliminate the attackers.  The mission is a failure once 2 items have been retrieved by the enemy."
 msgstr ""
+"守住矿工住处的物资，击退来袭的敌方雇佣兵并将其消灭。敌方夺走2件物资即任务失败。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -134,6 +137,7 @@ msgstr "关于SBM039"
 #: stage/180/lang_mission_info_en.olang/0x215635/0xe01b26
 msgid "  Mission Location: Catarata de la Muerte"
 msgstr ""
+"  任务地点：死亡瀑布"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -191,6 +195,7 @@ msgstr "[124] <<狩猎任务：轰龙／黄昏>>"
 #: stage/180/lang_mission_info_en.olang/0x215635/0xd40159
 msgid "Snake destroys the unmanned Pupa weapon and makes contact with a certain \"Doctor.\""
 msgstr ""
+"SNAKE摧毁无人兵器蛹，并与某位“博士”取得联系。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -200,6 +205,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xd50159
 msgid "Snake follows the directions from Huey and delves deep into the Cloud Forest in search of the AI Research Lab."
 msgstr ""
+"SNAKE依照休伊的指引深入云雾林，寻找AI研究所。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -218,6 +224,7 @@ msgstr "追踪并找到桑地诺派首领阿曼达，获取敌方基地及核材
 #: stage/180/lang_mission_info_en.olang/0x215635/0xd5aca1
 msgid "Head North to Dr. Strangelove's lab, disguised as a Mayan Ruin."
 msgstr ""
+"北上前往伪装成玛雅遗迹的斯特兰奇洛夫博士研究所。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -236,6 +243,7 @@ msgstr "m0230/追踪和平行者"
 #: stage/180/lang_mission_info_en.olang/0x215635/0xd60159
 msgid "Snake is on his way to the Lab through the Cloud Forest when... "
 msgstr ""
+"SNAKE正穿过云雾林前往研究所，此时……"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -365,6 +373,7 @@ msgstr "[10] 核弹头的去向"
 #: stage/180/lang_mission_info_en.olang/0x215635/0xd70159
 msgid "Snake penetrates deep into the Cloud Forest. What lies ahead where the hummingbirds beckon...?"
 msgstr ""
+"SNAKE深入云雾林。蜂鸟指引的前方究竟有什么……？"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -374,6 +383,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xd80159
 msgid "On a mission to destroy the nearly complete AI, Snake has obtained an ID card and enters Dr. Strangelove's Lab."
 msgstr ""
+"为摧毁即将完成的AI，SNAKE取得ID卡，进入斯特兰奇洛夫博士的研究所。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -383,6 +393,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xd90159
 msgid "Snake loses his consciousness inside the Mammal Pod."
 msgstr ""
+"SNAKE在哺乳舱内失去意识。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -392,6 +403,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xda0159
 msgid "In order to put a stop to the Peace Walker Project, Snake proceeds to the enemy's Mine Base to prevent the assembly of the Mammal Pod and Peace Walker."
 msgstr ""
+"为阻止和平行者计划，SNAKE前往敌方矿井基地，阻止哺乳舱与和平行者的组装。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -401,6 +413,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xdb0159
 msgid "An unmanned weapon appears in the Mining Pit preventing entrance into the base."
 msgstr ""
+"采掘坑出现无人兵器，阻止进入基地。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -410,6 +423,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xdb1b1e
 msgid "Blow up the designated target inside the enemy base.  The target can only be destroyed with C4."
 msgstr ""
+"炸毁敌方基地内的指定目标。目标只能用C4摧毁。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -419,6 +433,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xdc0159
 msgid "Snake reaches the lowest level of the Underground Base and heads for the Hangar."
 msgstr ""
+"SNAKE抵达地下基地最底层，前往机库。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -428,6 +443,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xdc1b1e
 msgid "Blow up the designated target in the supply facility at Puerto del Alba. The target can only be destroyed with C4."
 msgstr ""
+"炸毁黎明港补给设施内的指定目标。目标只能用C4摧毁。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -443,6 +459,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xf50159
 msgid "Dr. Strangelove demands the truth from Snake."
 msgstr ""
+"斯特兰奇洛夫博士向SNAKE逼问真相。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -470,6 +487,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xdf1b1e
 msgid "Blow up the designated target at the Bananal Fruta de Oro Banana Plantation. The target can only be destroyed with C4."
 msgstr ""
+"炸毁黄金果香蕉园内的指定目标。目标只能用C4摧毁。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -497,6 +515,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xe21b1e
 msgid "Blow up all the cargo trucks (targets) at the Cafetal Aroma Encantado Coffee Plantation. The trucks can only be destroyed with C4."
 msgstr ""
+"炸毁Cafetal Aroma Encantado咖啡种植园内所有货运卡车（目标）。卡车只能用C4摧毁。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -542,6 +561,7 @@ msgstr "制伏来袭的敌方装甲车，并与阿曼达取得联系。"
 #: stage/180/lang_mission_info_en.olang/0x215635/0xf5aca1
 msgid "Locate the soldier carrying the ID card and steal it."
 msgstr ""
+"找到携带ID卡的士兵并偷取。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -560,6 +580,7 @@ msgstr "必须在和平行者发射核弹前阻止它。潜入科西博尔卡湖
 #: stage/180/lang_mission_info_en.olang/0x215635/0xf5b11d
 msgid "  Mission Location: Crater Base, Volcán Irazú"
 msgstr ""
+"  任务地点：伊拉苏火山火山口基地"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -569,6 +590,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xf60159
 msgid "Snake escapes from his prison cell and rushes back to Peace Walker's hangar."
 msgstr ""
+"SNAKE逃出牢房，赶回和平行者的机库。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -578,6 +600,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xf70159
 msgid "Peace Walker has awoken once again and is on the move..."
 msgstr ""
+"和平行者再次苏醒并开始行动……"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -587,6 +610,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xf80159
 msgid "Chasing after Peace Walker, Snake crosses Costa Rica's northern border into Nicaragua."
 msgstr ""
+"追踪和平行者，SNAKE越过哥斯达黎加北部边境进入尼加拉瓜。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -596,6 +620,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xf90159
 msgid "Snake infiltrates the U.S. Missile base and reaches the Communications Tower."
 msgstr ""
+"SNAKE潜入美军导弹基地，抵达通信塔。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -605,6 +630,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xfa0159
 msgid "Snake reaches the top level of the Control Tower as the Peace Walker Project enters its final phase."
 msgstr ""
+"和平行者计划进入最终阶段，SNAKE登上管制塔顶层。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -614,6 +640,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xfb0159
 msgid "Snake prevents Peace Walker's nuclear launch, however..."
 msgstr ""
+"SNAKE阻止了和平行者的核发射，然而……"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -632,6 +659,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xfc0159
 msgid "Upon entering the Mammal Pod, Snake tries to stop the transmission."
 msgstr ""
+"进入哺乳舱后，SNAKE试图阻止传输。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -659,6 +687,7 @@ msgstr "关于SBM251"
 #: stage/180/lang_mission_info_en.olang/0x215635/0xfd0159
 msgid "Peace Walker falls silent as all-out nuclear war continues to draw near."
 msgstr ""
+"全面核战争日益逼近，和平行者陷入沉默。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -668,6 +697,7 @@ msgstr ""
 #: stage/180/lang_mission_info_en.olang/0x215635/0xfd1b1e
 msgid "Neutralize all enemy mercenaries at the Bananal Fruta de Oro Banana Plantation. Non-lethal methods such as knocking enemies unconscious or putting them to sleep are acceptable. "
 msgstr ""
+"制伏黄金果香蕉园的所有敌方雇佣兵。可采取击晕或催眠等非致命手段。"
 
 #. STAGEDAT entry 15, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 174, lang_mission_info_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -722,6 +752,7 @@ msgstr "关于SBM254"
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0x02b875
 msgid "Data install has been canceled."
 msgstr ""
+"数据安装已取消。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -731,6 +762,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0x19f243
 msgid "Voice Data"
 msgstr ""
+"语音数据"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -758,6 +790,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0x216756
 msgid "The Memory<I=BL>Stick<I=TM> is not inserted correctly."
 msgstr ""
+"未正确插入存储<I=BL>卡<I=TM>。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -767,6 +800,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0x229ded
 msgid "Could not install data."
 msgstr ""
+"无法安装数据。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -776,6 +810,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0x237a21
 msgid "Downloaded Data"
 msgstr ""
+"已下载数据"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -785,6 +820,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0x34c85c
 msgid "Select a package to install."
 msgstr ""
+"选择要安装的包。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -794,6 +830,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0x398bca
 msgid "Creating installation and download folders on the Memory<I=BL>Stick<I=TM>.  "
 msgstr ""
+"正在存储<I=BL>卡<I=TM>上创建安装与下载文件夹。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -803,6 +840,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0x3f7d5d
 msgid "This data is used during gameplay."
 msgstr ""
+"该数据在游戏过程中使用。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -815,6 +853,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0x54c2ec
 msgid "Selecting [DATA INSTALL] to install game data to the Memory<I=BL>Stick<I=TM> will add sound to in-game radio calls and minimize the amount of time for loading."
 msgstr ""
+"选择[DATA INSTALL]将游戏数据安装到存储<I=BL>卡<I=TM>，可为游戏内的无线电通话加入语音，并缩短读取时间。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -824,6 +863,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0x59ddb4
 msgid "System data installation complete."
 msgstr ""
+"系统数据安装完成。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -843,6 +883,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0xfea1ea
 msgid "There is not enough free space on the Memory<I=BL>Stick<I=TM>."
 msgstr ""
+"存储<I=BL>卡<I=TM>上没有足够的可用空间。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -852,6 +893,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0x67357e
 msgid "Song Data"
 msgstr ""
+"乐曲数据"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -862,6 +904,7 @@ msgstr ""
 #, c-format
 msgid "Installing... (Progress: $1%)"
 msgstr ""
+"正在安装……（进度：$1%）"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -871,6 +914,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0x6e7290
 msgid "This will install essential game data to the Memory<I=BL>Stick<I=TM>."
 msgstr ""
+"这会将游戏必需的数据安装到存储<I=BL>卡<I=TM>。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -895,6 +939,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0x761af1
 msgid "Failed to install data."
 msgstr ""
+"数据安装失败。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -904,6 +949,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0x789681
 msgid "Data installation will take between $1 and $2 minutes."
 msgstr ""
+"数据安装大约需要$1到$2分钟。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -931,6 +977,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0x971bf9
 msgid "Installed data already exists."
 msgstr ""
+"已存在已安装的数据。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -940,6 +987,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0x99a81c
 msgid "This will install METAL GEAR SOLID PEACE WALKER system data to the Memory<I=BL>Stick<I=TM>. Do not remove the Memory<I=BL>Stick<I=TM>, turn off the system, or enter sleep mode during the installation process."
 msgstr ""
+"这会将METAL GEAR SOLID PEACE WALKER的系统数据安装到存储<I=BL>卡<I=TM>。安装过程中请勿拔出存储<I=BL>卡<I=TM>、关闭主机或进入休眠模式。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -958,6 +1006,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0xa99dc2
 msgid "Checking the Memory<I=BL>Stick<I=TM>..."
 msgstr ""
+"正在检查存储<I=BL>卡<I=TM>……"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -976,6 +1025,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0xb3e3c8
 msgid "Data installation canceled."
 msgstr ""
+"数据安装已取消。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -985,6 +1035,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0xc1d659
 msgid "Image Data"
 msgstr ""
+"图像数据"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1028,6 +1079,7 @@ msgstr "取消：<I=CAN>"
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0xff31cc
 msgid "Data installation complete."
 msgstr ""
+"数据安装完成。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1046,6 +1098,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0xe916fb
 msgid "Small package (space needed: $1MB)"
 msgstr ""
+"精简包（所需空间：$1MB）"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1055,6 +1108,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0xe91811
 msgid "Music Score Data"
 msgstr ""
+"乐谱数据"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1064,6 +1118,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0xe9bb59
 msgid "System data installation was canceled."
 msgstr ""
+"系统数据安装已取消。"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1073,6 +1128,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0xe9eac8
 msgid "Installed Data"
 msgstr ""
+"已安装数据"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1082,6 +1138,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0xea16fb
 msgid "Medium package (space needed: $1MB)"
 msgstr ""
+"标准包（所需空间：$1MB）"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1091,6 +1148,7 @@ msgstr ""
 #: stage/180/lang_datainstall_en.olang/0xe5a51d/0xeb16fb
 msgid "Full package (space needed: $1MB)"
 msgstr ""
+"完整包（所需空间：$1MB）"
 
 #. STAGEDAT entry 23, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_datainstall_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1119,6 +1177,7 @@ msgstr ""
 #, c-format
 msgid "Checking installed data... (Progress: $1%)"
 msgstr ""
+"正在检查已安装数据……（进度：$1%）"
 
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1253,6 +1312,7 @@ msgstr "按确认键开始下载。"
 #: stage/88/lang_extra_en.olang/0xdb8c41/0x289f13
 msgid "Any already created Metal Gear ZEKE songs will be overwritten."
 msgstr ""
+"已创建的合金装备·ZEKE歌曲将被覆盖。"
 
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1294,6 +1354,7 @@ msgstr "已删除。"
 #: stage/88/lang_extra_en.olang/0xdb8c41/0x2f2adb
 msgid "Are you sure you want to delete the selected content data?"
 msgstr ""
+"确定要删除所选内容数据吗？"
 
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1329,6 +1390,7 @@ msgstr "下载中..."
 #: stage/88/lang_extra_en.olang/0xdb8c41/0x32ead1
 msgid "Upload Metal Gear ZEKE voice data created with the"
 msgstr ""
+"将用VOCALOID编辑器制作的合金装备·ZEKE语音数据上传至语音转换服务器。"
 
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1401,6 +1463,7 @@ msgstr "上一页"
 #: stage/88/lang_extra_en.olang/0xdb8c41/0x419a17
 msgid "Data upload complete."
 msgstr ""
+"数据上传完成。"
 
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1478,6 +1541,7 @@ msgstr "迷彩数据"
 #: stage/88/lang_extra_en.olang/0xdb8c41/0x53e589
 msgid "Upload WALKMAN song data created with the VOCALOID"
 msgstr ""
+"将用VOCALOID编辑器制作的随身听歌曲数据上传至语音转换服务器。"
 
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1492,6 +1556,7 @@ msgstr "选择想要的追加内容。"
 #: stage/88/lang_extra_en.olang/0xdb8c41/0x5508e7
 msgid "Select a save file to save passcode-acquired content."
 msgstr ""
+"选择用于保存密码内容的存档。"
 
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1506,6 +1571,7 @@ msgstr "EXTRAS菜单可让您访问在线内容并管理Memory<I=BL>Stick<I=TM>�
 #: stage/88/lang_extra_en.olang/0xdb8c41/0x5d5a58
 msgid "Upload Metal Gear ZEKE song data created with the"
 msgstr ""
+"把VOCALOID编辑器制作的合金装备·ZEKE歌曲数据上传至语音转换服务器。"
 
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1583,6 +1649,7 @@ msgstr "WALKMAN数据（编辑）"
 #: stage/88/lang_extra_en.olang/0xdb8c41/0x7a7d55
 msgid "The game in this data file has not progressed far enough to add"
 msgstr ""
+"此数据文件的游戏进度不足，无法添加新队员。"
 
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1695,6 +1762,7 @@ msgstr "返回标题菜单"
 #: stage/88/lang_extra_en.olang/0xdb8c41/0x913254
 msgid "There is no system data for additional content."
 msgstr ""
+"没有追加内容的系统数据。"
 
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1737,6 +1805,7 @@ msgstr "确定要下载此标签页中选定的追加内容吗？"
 #: stage/88/lang_extra_en.olang/0xdb8c41/0x96c057
 msgid "Cannot use passcode. The maximum number of staff has already"
 msgstr ""
+"无法使用密码。此数据文件中的人员数量已达上限。"
 
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1882,6 +1951,7 @@ msgstr "下载追加内容。"
 #: stage/88/lang_extra_en.olang/0xdb8c41/0xc11ff5
 msgid "Recruited volunteer [$2]"
 msgstr ""
+"招募到志愿者[$2]。"
 
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1958,6 +2028,7 @@ msgstr "确定要删除此标签页中选中的数据吗？"
 #: stage/88/lang_extra_en.olang/0xdb8c41/0xe55b98
 msgid "Content data deletion in progress."
 msgstr ""
+"正在删除内容数据。"
 
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1965,6 +2036,7 @@ msgstr ""
 #: stage/88/lang_extra_en.olang/0xdb8c41/0xe6e5f1
 msgid "Upload system voice data created with the VOCALOID Editor"
 msgstr ""
+"将VOCALOID Editor制作的系统语音数据上传至语音转换服务器。"
 
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -1986,6 +2058,7 @@ msgstr "返回EXTRAS菜单"
 #: stage/88/lang_extra_en.olang/0xdb8c41/0xeeffb4
 msgid "The limit for this category of additional content has"
 msgstr ""
+"此类追加内容已达上限。"
 
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
@@ -2007,6 +2080,7 @@ msgstr "系统语音（VOCALOID编辑）"
 #: stage/88/lang_extra_en.olang/0xdb8c41/0xfcfea3
 msgid "Downloading this content will overwrite"
 msgstr ""
+"下载此内容将覆盖现有数据。"
 
 #. STAGEDAT entry 23, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #. STAGEDAT entry 88, lang_extra_en.olang -- written back by pwsf.stage_build into 009645fa.PDT

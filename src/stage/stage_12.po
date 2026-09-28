@@ -708,28 +708,34 @@ msgstr "麻醉枪(标)"
 #: stage/180/lang_title_nameentry_en.olang/0xda3cb1/0x390b2c
 msgid "Input your player name."
 msgstr ""
+"请输入你的玩家名。"
 
 #. STAGEDAT entry 180, lang_title_nameentry_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/180/lang_title_nameentry_en.olang/0xda3cb1/0x3a0b2c
 msgid "Is this name OK?"
 msgstr ""
+"这个名字可以吗？"
 
 #. STAGEDAT entry 180, lang_titlemenu_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/180/lang_titlemenu_en.olang/0xfb5d7b/0x7bdc4a
 msgid "A Memory<I=BL>Stick<I=TM> with at least 30MB of free space is required to play this game."
 msgstr ""
+"游玩本游戏需要存储<I=BL>卡<I=TM>上至少有30MB可用空间。"
 
 #. STAGEDAT entry 180, lang_titlemenu_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/180/lang_titlemenu_en.olang/0xfb5d7b/0x8ec58a
 msgid "Select your language."
 msgstr ""
+"选择你的语言。"
 
 #. STAGEDAT entry 180, lang_titlemenu_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/180/lang_titlemenu_en.olang/0xfb5d7b/0x92af89
 msgid "This game saves data automatically at certain points. Do not remove the Memory<I=BL>Stick<I=TM> or turn off the power when the access indicator is flashing."
 msgstr ""
+"本游戏会在特定时机自动保存数据。当读写指示灯闪烁时，请勿拔出存储<I=BL>卡<I=TM>或关闭电源。"
 
 #. STAGEDAT entry 180, lang_titlemenu_en.olang -- written back by pwsf.stage_build into 009645fa.PDT
 #: stage/180/lang_titlemenu_en.olang/0xfb5d7b/0xebba48
 msgid "This game uses one save file continuously. Removing the Memory<I=BL>Stick<I=TM> during the game or deleting this file may render it impossible to continue your game."
 msgstr ""
+"本游戏持续使用同一个存档文件。游戏过程中拔出存储<I=BL>卡<I=TM>或删除该文件，可能导致无法继续游戏。"
