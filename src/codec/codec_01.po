@@ -225,37 +225,45 @@ msgstr ""
 msgid ""
 "By the way, Kaz, who do you think's our queen bee?\n"
 msgstr ""
+"对了，卡兹，你觉得谁是蜂后？\n"
 
 #: codec/1/148/0x94fd0/1
 msgid ""
 "Good question. I was thinking maybe Paz.\n"
 msgstr ""
+"问得好。我觉得可能是帕兹。\n"
 
 #: codec/1/148/0x94fd0/2
 msgid ""
 "Hmm. I was thinking Strangelove...\n"
 msgstr ""
+"嗯。我想的是斯特兰奇洛夫……\n"
 
 #: codec/1/148/0x94fd0/3
 msgid ""
 "I can see that. Or maybe Cecile.\n"
 msgstr ""
+"有道理。也可能是塞西尔。\n"
 
 #: codec/1/148/0x94fd0/4
 msgid ""
 "On second thought, I might go with Amanda.\n"
 msgstr ""
+"再想想，我可能会选阿曼达。\n"
 
 #: codec/1/148/0x94fd0/5
 msgid ""
 "How about this, Snake. We'll have an army of\n"
 "queen bees.\n"
 msgstr ""
+"不如这样，斯内克——\n"
+"组一支蜂后大军。\n"
 
 #: codec/1/148/0x94fd0/6
 msgid ""
 "Sure, why not.\n"
 msgstr ""
+"有何不可。\n"
 
 #: codec/1/149/0x95220/0
 msgid ""
@@ -1352,6 +1360,8 @@ msgid ""
 "So the capitalist rulers desperately tried to halt\n"
 "the global spread of communism.\n"
 msgstr ""
+"于是资本家统治者拼命\n"
+"阻止共产主义向全球扩散。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
 #. timeline 8888..9613
@@ -1359,6 +1369,7 @@ msgstr ""
 msgid ""
 "Hence the phenomenon of red-baiting.\n"
 msgstr ""
+"这就是所谓的赤色攻讦。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
 #. timeline 9613..11020
@@ -1367,6 +1378,8 @@ msgid ""
 "And the communists, for their part, didn't exactly\n"
 "stay true to their principles.\n"
 msgstr ""
+"而共产主义者这边，也未必\n"
+"坚守了自己的原则。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
 #. timeline 11048..11828
@@ -1374,6 +1387,7 @@ msgstr ""
 msgid ""
 "They tried to escape class-based society,\n"
 msgstr ""
+"他们试图逃离阶级社会，\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
 #. timeline 11842..13207
@@ -1382,6 +1396,8 @@ msgid ""
 "but between Stalin's autocracy and the rise of the\n"
 "nomenklatura,\n"
 msgstr ""
+"但在斯大林的独裁与\n"
+"官僚阶层的崛起之间，\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
 #. timeline 13207..13778
@@ -1389,6 +1405,7 @@ msgstr ""
 msgid ""
 "they ended up creating one anyway.\n"
 msgstr ""
+"结果还是造出了一个。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
 #. timeline 13862..14865
@@ -1397,6 +1414,8 @@ msgid ""
 "Once people have power, they stop caring about\n"
 "equality.\n"
 msgstr ""
+"人一旦掌权，就不再\n"
+"关心平等了。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
 #. timeline 14865..16105
@@ -1405,6 +1424,8 @@ msgid ""
 "That's where communism - where society in\n"
 "general - reaches its limits.\n"
 msgstr ""
+"共产主义——不，是任何\n"
+"社会——都会在此走到极限。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
 #. timeline 16272..16969
@@ -1412,6 +1433,7 @@ msgstr ""
 msgid ""
 "The rulers only care about their own gain.\n"
 msgstr ""
+"统治者只在乎自己的利益。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
 #. timeline 17094..18167
@@ -1420,6 +1442,8 @@ msgid ""
 "The opposing side becomes a risk factor that\n"
 "threatens that profit.\n"
 msgstr ""
+"对立的一方则成了威胁\n"
+"这份利益的风险因素。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
 #. timeline 18167..19504
@@ -1428,6 +1452,8 @@ msgid ""
 "And thus the ongoing struggle between capitalism\n"
 "and communism was born.\n"
 msgstr ""
+"资本主义与共产主义的\n"
+"长期争斗由此而生。\n"
 
 #. speaker 0x0e28dce6 voice v_bri_kaz0110_000_1
 #. timeline 19518..20396
@@ -1435,6 +1461,7 @@ msgstr ""
 msgid ""
 "And now nuclear deterrence is part of the picture.\n"
 msgstr ""
+"而现在，核威慑也卷了进来。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0110_000_1
 #. timeline 20396..20772
@@ -2163,6 +2190,7 @@ msgstr ""
 msgid ""
 "Must be tough to be a country without an army.\n"
 msgstr ""
+"没有军队的国家，日子不好过吧。\n"
 
 #. speaker 0x0e463a34 voice v_bri_kaz0160_000_0
 #. timeline 487..1128
